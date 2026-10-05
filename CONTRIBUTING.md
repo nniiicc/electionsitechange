@@ -8,6 +8,7 @@
 | `tests/` | End-to-end tests of the daily run (see below) |
 | `tools/` | One-off scripts: reachability check (`check_urls.py`), attribution fetcher (`fetch_pages.py`), coverage check (`cov.py`) |
 | `docs/` | Spec and design documents |
+| `data/` | Dated results of one-off checks that changed the site list, such as `attribution_<day>.csv` with its `-summary.json` |
 | `sites/`, `logs/` | Snapshot data, written only by the daily run |
 
 ## Snapshot layout

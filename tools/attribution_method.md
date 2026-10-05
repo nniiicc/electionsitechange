@@ -24,6 +24,13 @@ monitoring) and `monitor/site_flags.csv` (kept and flagged).
    gambling sites, 5 are another person's or organisation's site, 1 is a PAC tool and 1 an unrelated music site.
    The `manual` column records each decision.
 
+## Verdicts
+
+`current`, `earlier_cycle`, `wrong_entity`, `parked_or_empty` and `unclear` come from the model (the enum in
+`attribution_prompt.json`). `other_race` (the candidate's own site for a different race) and `personal_site` were
+added only by manual review. Only `wrong_entity` removes a site; the others are kept and listed in
+`monitor/site_flags.csv`. Totals are in `data/attribution_2026-10-05-summary.json`.
+
 ## Pilot (195 URLs, `attribution_pilot_input.csv`)
 
 - Washington controls, known correct (40): no wrong_entity verdicts. 34 current, 2 parked (5xx error pages),

@@ -1,0 +1,25 @@
+{
+ "date": "2026-10-05",
+ "snapshot": "711a7afb",
+ "sites": 8538,
+ "verdicts": {
+  "current": 8005,
+  "not_checked": 282,
+  "earlier_cycle": 92,
+  "parked_or_empty": 75,
+  "unclear": 65,
+  "wrong_entity": 14,
+  "other_race": 4,
+  "personal_site": 1
+ },
+ "removed": 14,
+ "flagged": 237,
+ "method": {
+  "rule": 6711,
+  "fast": 1241,
+  "fast+confirm": 304,
+  "none": 282
+ },
+ "manual_overrides": 16,
+ "monitored_after": 8524
+}

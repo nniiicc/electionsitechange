@@ -4,10 +4,10 @@ repo, rev, out = sys.argv[1], sys.argv[2], sys.argv[3]
 tar = tarfile.open(fileobj=io.BytesIO(subprocess.run(["git", "-C", repo, "archive", rev, "sites", "monitor/monitor_urls.csv"],
                                                     check=True, capture_output=True).stdout))
 files = {}
-for m in tar.getmembers():
-    p = m.name.split("/")
-    if m.isfile() and (m.name == "monitor/monitor_urls.csv" or (len(p) == 3 and p[2] in ("meta.json", "text.md"))):
-        files[m.name] = tar.extractfile(m).read().decode("utf-8", "replace")
+for member in tar.getmembers():
+    p = member.name.split("/")
+    if member.isfile() and (member.name == "monitor/monitor_urls.csv" or (len(p) == 3 and p[2] in ("meta.json", "text.md"))):
+        files[member.name] = tar.extractfile(member).read().decode("utf-8", "replace")
 urls = list(csv.DictReader(io.StringIO(files["monitor/monitor_urls.csv"])))
 with open(out, "w", newline="") as f:
     w = csv.writer(f)

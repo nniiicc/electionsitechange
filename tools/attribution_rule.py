@@ -10,7 +10,8 @@ def surnames(names):
     return out
 
 
-def rule(r):
+def screen_current_or_none(r):
+    """'current' when the rule alone settles it, else None (the site goes to the model)."""
     head = " ".join(str(r[c]) for c in ("snap_title", "snap_description", "snap_paid_for_by", "snap_final_url") if pd.notna(r[c])).lower()
     yrs = [int(y) for y in str(r["snap_years"]).split(";") if y.isdigit()]
     named = any(s and len(s) > 2 and s in head for s in surnames(r["names"]))
