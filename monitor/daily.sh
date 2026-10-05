@@ -20,9 +20,12 @@ discard_partial() { git -C "$REPO" reset -q --hard HEAD && git -C "$REPO" clean 
     discard_partial
     if "$PY" "$REPO/monitor/snapshot.py" "$REPO/monitor/monitor_urls.csv" "$REPO" \
             --workers 8 --raw-dir "$HOME/monitor/raw" --summary "$HOME/monitor/last_summary.json"; then
-        if git -C "$REPO" push -q origin main; then
+        # Take any commits made on GitHub first (e.g. a README edited in the browser);
+        # otherwise every later push would be rejected.
+        if git -C "$REPO" pull -q --rebase origin main && git -C "$REPO" push -q origin main; then
             echo "pushed $(git -C "$REPO" rev-parse --short HEAD)"
         else
+            git -C "$REPO" rebase --abort 2>/dev/null || true
             echo "PUSH FAILED - will be retried by the next run"
         fi
     else
