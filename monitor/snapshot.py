@@ -25,7 +25,7 @@ usage: python snapshot.py URLS.csv REPO_DIR [--workers 24] [--max-depth 3] [--ma
                           [--raw-dir DIR] [--summary FILE] [--day YYYY-MM-DD] [--limit N]
 """
 import argparse, collections, concurrent.futures as cf, csv, dataclasses, datetime as dt, gzip, hashlib
-import json, os, re, shutil, subprocess, sys, threading, time
+import faulthandler, json, os, re, shutil, subprocess, sys, threading, time
 from html.parser import HTMLParser
 from urllib.parse import urljoin, urlparse, urlunparse, parse_qsl, urlencode
 from urllib import robotparser
@@ -48,6 +48,9 @@ BACKOFF = {"http_429", "http_503"}                    # the site asked us to slo
 HARMLESS = {"robots_disallowed", "not_html", "offsite_redirect"} | GONE   # can't hide any links
 HOME = "/"                                            # PageRec.page of a site's homepage
 REQUEST_BUDGET = 2                                    # max requests per site = REQUEST_BUDGET * max_pages
+# trafilatura/lxml crashed the process ("double free or corruption") with 24 threads parsing at
+# once on the first full run; parsing is CPU-bound under the GIL anyway, so do it one page at a time.
+_parse_lock = threading.Lock()
 
 # ---------------------------------------------------------------- normalisation
 NOISE_LINE = re.compile(
@@ -237,7 +240,8 @@ def fetch_page(rec, run, page_dir, hosts):
     if ctype and "html" not in ctype.lower():
         rec.error = "not_html"; return []
     enc = r.encoding if r.encoding and r.encoding.lower() != "iso-8859-1" else "utf-8"
-    text, links, meta, hrefs = normalise(raw.decode(enc, errors="replace"), r.url)
+    with _parse_lock:
+        text, links, meta, hrefs = normalise(raw.decode(enc, errors="replace"), r.url)
     rec.text_chars, rec.low_text = len(text), len(text) < 200
     rec.first_seen = not os.path.exists(os.path.join(page_dir, "text.md"))
     os.makedirs(page_dir, exist_ok=True)
@@ -349,6 +353,7 @@ def summarise(day, n_sites, sites, wall_s):
 
 
 def main():
+    faulthandler.enable()            # a native crash prints every thread's Python stack to the run log
     ap = argparse.ArgumentParser()
     ap.add_argument("urls"); ap.add_argument("repo")
     ap.add_argument("--limit", type=int); ap.add_argument("--workers", type=int, default=24)
