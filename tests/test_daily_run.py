@@ -7,6 +7,7 @@ repository and the run log. Nothing here contacts a real website.
 run:  ~/monitor/.venv/bin/python tests/test_daily_run.py
 """
 import csv, functools, http.server, os, subprocess, sys, tempfile, threading, time, unittest
+from pathlib import Path
 
 SNAPSHOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "monitor", "snapshot.py")
 DAY1, DAY2 = "2026-10-06", "2026-10-07"
@@ -77,7 +78,7 @@ class DailyRunOverTwoDays(unittest.TestCase):
         for sid, (day1, _) in SITES.items():
             docroots[sid] = os.path.join(t, "www", sid)
             os.makedirs(docroots[sid])
-            open(os.path.join(docroots[sid], "index.html"), "w").write(day1)
+            Path(docroots[sid], "index.html").write_text(day1)
             cls.servers[sid] = serve(docroots[sid])
         urls = os.path.join(t, "urls.csv")
         with open(urls, "w", newline="") as f:
@@ -92,12 +93,12 @@ class DailyRunOverTwoDays(unittest.TestCase):
 
         t0 = time.monotonic()
         run(DAY1)
-        cls.day1_text = {sid: open(os.path.join(cls.repo, "sites", sid, "text.md")).read() for sid in SITES}
+        cls.day1_text = {sid: Path(cls.repo, "sites", sid, "text.md").read_text() for sid in SITES}
         for sid, (_, day2) in SITES.items():           # switch every site to its day-2 version
             if day2 is None:
                 cls.servers[sid].shutdown(); cls.servers[sid].server_close()
             else:
-                open(os.path.join(docroots[sid], "index.html"), "w").write(day2)
+                Path(docroots[sid], "index.html").write_text(day2)
         run(DAY2)
         cls.elapsed = time.monotonic() - t0
         with open(os.path.join(cls.repo, "logs", f"{DAY2}.csv")) as f:
@@ -125,7 +126,7 @@ class DailyRunOverTwoDays(unittest.TestCase):
 
     def test_unreachable_site_keeps_last_good_snapshot(self):
         self.assertEqual(git(self.repo, "diff", "--stat", "HEAD~1", "HEAD", "--", "sites/down"), "")
-        self.assertEqual(open(os.path.join(self.repo, "sites", "down", "text.md")).read(),
+        self.assertEqual(Path(self.repo, "sites", "down", "text.md").read_text(),
                          self.day1_text["down"])
         self.assertIn(OTHER[0], self.day1_text["down"])          # the kept snapshot is real content
         self.assertNotEqual(self.log2["down"]["error"], "")      # and the failure is logged
