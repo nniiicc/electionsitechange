@@ -294,6 +294,8 @@ def crawl_site(row, run):
             seen.add(page_key(rec.final_url))
         elif rec.error in ("http_404", "http_410") and os.path.isdir(page_dir):
             shutil.rmtree(page_dir); rec.removed = True   # a known page that is now gone
+        if rec.error in ("http_429", "http_503"):        # the site asked us to slow down: leave it for today
+            complete = False; break
         if rec.error and rec.error not in HARMLESS:
             complete = False
         if depth >= run.max_depth: continue
