@@ -20,8 +20,8 @@ monitoring) and `monitor/site_flags.csv` (kept and flagged).
    Sonnet-class reasoning model; that verdict is the one used.
 5. **Manual review of every wrong_entity (30):** each was checked by hand. 16 were overturned, mostly nicknames
    the models missed (Todd = James Todd Rutherford; Glenn "Chip" Curry; Alicia "Liish" Kozlowski), plus a
-   vendor template and own sites for another race. 14 were confirmed and removed: 7 are domains now serving
-   gambling sites, 5 are another person's or organisation's site, 1 is a PAC tool and 1 an unrelated music site.
+   vendor template and own sites for another race. 14 were confirmed and removed: 6 are domains now serving
+   gambling sites, 6 are another person's or organisation's site, 1 is a PAC tool and 1 an unrelated music site.
    The `manual` column records each decision.
 
 ## Verdicts
