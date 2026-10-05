@@ -7,10 +7,13 @@
 # - The snapshot commits locally first; if the push to GitHub fails, the next
 #   successful push carries every unpushed day.
 set -uo pipefail
-REPO="$HOME/monitor/snapshots"
-LOG="$HOME/monitor/runs.log"
-PY="$HOME/monitor/.venv/bin/python"
-exec 9>"$HOME/monitor/.daily.lock"
+# MONITOR_HOME and MONITOR_PY are only set by the tests (tests/test_daily_sh.py);
+# cron uses the defaults.
+MON="${MONITOR_HOME:-$HOME/monitor}"
+REPO="$MON/snapshots"
+LOG="$MON/runs.log"
+PY="${MONITOR_PY:-$MON/.venv/bin/python}"
+exec 9>"$MON/.daily.lock"
 if ! flock -n 9; then
     echo "$(date -u +%FT%TZ) previous run still active; skipped" >>"$LOG"; exit 0
 fi
@@ -22,7 +25,7 @@ discard_partial() { git -C "$REPO" reset -q --hard HEAD && git -C "$REPO" clean 
     # pull it so each run uses the latest committed code.
     git -C "$REPO" pull -q --rebase origin main || echo "pull failed; running with local code"
     if "$PY" "$REPO/monitor/snapshot.py" "$REPO/monitor/monitor_urls.csv" "$REPO" \
-            --workers 8 --raw-dir "$HOME/monitor/raw" --summary "$HOME/monitor/last_summary.json"; then
+            --workers 8 --raw-dir "$MON/raw" --summary "$MON/last_summary.json"; then
         # Take any commits made on GitHub first (e.g. a README edited in the browser);
         # otherwise every later push would be rejected.
         if git -C "$REPO" pull -q --rebase origin main && git -C "$REPO" push -q origin main; then
