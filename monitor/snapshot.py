@@ -202,7 +202,8 @@ def main():
         w = csv.DictWriter(f, fieldnames=list(out[0].keys())); w.writeheader(); w.writerows(out)
     n_changed = sum(r["changed"] for r in out)
     summ = {"day": day, "sites": len(out), "wall_s": round(time.time() - t0),
-            "ok": sum(1 for r in out if not r["error"]),
+            "reached": sum(1 for r in out if r["status"]),   # answered with any HTTP status, incl. 403
+            "ok": sum(1 for r in out if not r["error"]),      # fetched and snapshotted
             "changed": n_changed, "first_seen": sum(r["first_seen"] for r in out),
             "low_text": sum(r["low_text"] for r in out), "errors": {}}
     for r in out:
