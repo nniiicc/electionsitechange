@@ -10,6 +10,23 @@
 | `docs/` | Spec and design documents |
 | `sites/`, `logs/` | Snapshot data, written only by the daily run |
 
+## Snapshot layout
+
+Each day's run crawls every site from its homepage: links on the candidate's own site only, up to
+3 clicks deep and 50 pages, nearest pages first; robots.txt obeyed; at least 1 s between requests to a
+site; a site answering 429/503 is left alone for the rest of the day.
+
+| Path | What |
+|---|---|
+| `sites/<site_id>/{text.md,links.json,meta.json}` | The homepage |
+| `sites/<site_id>/pages/<slug>/{text.md,links.json,meta.json}` | Every other page; `<slug>` is the page path plus a short hash |
+| `logs/<day>.csv` | One row per page fetched (or found gone) that day |
+| `logs/<day>-summary.json` | That day's totals |
+
+A file changes only when the page's content does, so `git log`/`git diff` on these paths are the change
+history. A page that has disappeared shows up as deleted files; compare with `--no-renames`, or Git may
+pair a deleted page with a new one that has an identical file and report a rename.
+
 ## Where code changes happen
 
 - Code is developed in a separate clone on the VM, `~/monitor/dev`, never in the daily run's clone (`~/monitor/snapshots`). The daily run discards uncommitted files in its own clone before it starts.
