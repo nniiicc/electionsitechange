@@ -6,7 +6,7 @@ repository and the run log. Nothing here contacts a real website.
 
 run:  ~/monitor/.venv/bin/python tests/test_daily_run.py
 """
-import csv, functools, http.server, os, subprocess, sys, tempfile, threading, time, unittest
+import csv, functools, http.server, json, os, subprocess, sys, tempfile, threading, time, unittest
 from pathlib import Path
 
 SNAPSHOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "monitor", "snapshot.py")
@@ -49,10 +49,19 @@ class Quiet(http.server.SimpleHTTPRequestHandler):
     def log_message(self, *a): pass
 
 
-def serve(directory):
-    srv = http.server.ThreadingHTTPServer(("127.0.0.1", 0), functools.partial(Quiet, directory=directory))
+class Forbidden(Quiet):
+    """A site that answers every request with HTTP 403, as bot-blocking sites do."""
+    def do_GET(self): self.send_error(403)
+
+
+def serve(handler):
+    srv = http.server.ThreadingHTTPServer(("127.0.0.1", 0), handler)
     threading.Thread(target=srv.serve_forever, daemon=True).start()
     return srv
+
+
+def serve_dir(directory):
+    return serve(functools.partial(Quiet, directory=directory))
 
 
 def git(repo, *args):
@@ -79,7 +88,8 @@ class DailyRunOverTwoDays(unittest.TestCase):
             docroots[sid] = os.path.join(t, "www", sid)
             os.makedirs(docroots[sid])
             Path(docroots[sid], "index.html").write_text(day1)
-            cls.servers[sid] = serve(docroots[sid])
+            cls.servers[sid] = serve_dir(docroots[sid])
+        cls.servers["blocked"] = serve(Forbidden)        # reached, but refuses: HTTP 403 both days
         urls = os.path.join(t, "urls.csv")
         with open(urls, "w", newline="") as f:
             w = csv.writer(f); w.writerow(["site_id", "url"])
@@ -103,6 +113,7 @@ class DailyRunOverTwoDays(unittest.TestCase):
         cls.elapsed = time.monotonic() - t0
         with open(os.path.join(cls.repo, "logs", f"{DAY2}.csv")) as f:
             cls.log2 = {r["site_id"]: r for r in csv.DictReader(f)}
+        cls.summary2 = json.loads(Path(cls.repo, "logs", f"{DAY2}-summary.json").read_text())
 
     @classmethod
     def tearDownClass(cls):
@@ -130,6 +141,13 @@ class DailyRunOverTwoDays(unittest.TestCase):
                          self.day1_text["down"])
         self.assertIn(OTHER[0], self.day1_text["down"])          # the kept snapshot is real content
         self.assertNotEqual(self.log2["down"]["error"], "")      # and the failure is logged
+
+    def test_summary_counts_sites_reached_separately_from_fetched_ok(self):
+        # day 2: edited, unchanged, noisy answered 200; blocked answered 403; down never answered
+        self.assertEqual(self.summary2["sites"], 5)
+        self.assertEqual(self.summary2["reached"], 4)
+        self.assertEqual(self.summary2["ok"], 3)
+        self.assertEqual(self.summary2["errors"].get("http_403"), 1)
 
     def test_runs_in_under_two_minutes(self):
         self.assertLess(self.elapsed, 120)
