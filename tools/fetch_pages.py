@@ -30,8 +30,7 @@ TIMEOUT = 15
 THREADS = 16
 MAX_BYTES = 600_000          # stop reading a page after this; extracts only need the top
 BODY_CHARS = 1500
-UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
-      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+UA = "CampaignSiteMonitor/0.1 (nonpartisan research archive of 2026 candidate websites)"
 
 FIELDS = ["row_id", "url", "status_code", "final_url", "error", "content_type",
           "title", "meta_description", "og_site_name", "headings", "disclaimer",
