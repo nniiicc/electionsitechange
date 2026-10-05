@@ -1,19 +1,31 @@
 #!/usr/bin/env python3
-"""Daily snapshot of 2026 candidate campaign homepages.
+"""Daily snapshot of 2026 candidate campaign websites (issues #1, #4).
 
-For each URL in the input CSV (columns: site_id, url, ...):
-  fetch -> normalise -> write sites/<site_id>/{text.md, links.json, meta.json}
-in a Git repository, then commit once. Git only records files whose normalised
-content changed, so the repository history *is* the change log.
+For each site in the input CSV (columns: site_id, url, ...), crawl from the homepage,
+following links on the candidate's own site up to --max-depth clicks (default 3) and at
+most --max-pages pages (default 50), nearest pages first. Each page is normalised and
+written to the Git repository:
 
-Volatile values (fetch time, response time, raw byte size) go to the daily log
-logs/<date>.csv, never into the per-site files, so they cannot create false changes.
-A failed fetch never overwrites the last good snapshot.
+  sites/<site_id>/{text.md, links.json, meta.json}                  the homepage
+  sites/<site_id>/pages/<page-slug>/{text.md, links.json, meta.json}  every other page
 
-usage: python snapshot.py URLS.csv REPO_DIR [--limit N] [--workers 8] [--raw-dir DIR]
+then everything is committed once. Files are rewritten only when their normalised content
+changes, so the repository history *is* the change log. Pages that are new today appear
+as added files; pages that are gone appear as deleted files (see remove_gone_pages).
+
+"Own site" = the start URL's host (www. ignored) plus the host it redirects to; when the
+start URL has a path (e.g. sites.google.com/view/jane), only links under that path.
+Links to other sites are recorded in links.json but never fetched. robots.txt is obeyed
+and requests to one host are at least HOST_GAP_S apart.
+
+Volatile values (fetch time, response time, byte size) go to the per-page run log
+logs/<date>.csv, never into snapshot files. A failed fetch never overwrites a good snapshot.
+
+usage: python snapshot.py URLS.csv REPO_DIR [--workers 24] [--max-depth 3] [--max-pages 50]
+                          [--raw-dir DIR] [--summary FILE] [--day YYYY-MM-DD] [--limit N]
 """
-import argparse, concurrent.futures as cf, csv, datetime as dt, gzip, hashlib, json, os, re
-import subprocess, sys, threading, time
+import argparse, collections, concurrent.futures as cf, csv, dataclasses, datetime as dt, gzip, hashlib
+import json, os, re, shutil, subprocess, sys, threading, time
 from html.parser import HTMLParser
 from urllib.parse import urljoin, urlparse, urlunparse, parse_qsl, urlencode
 from urllib import robotparser
@@ -25,6 +37,12 @@ UA = "CampaignSiteMonitor/0.1 (nonpartisan research archive of 2026 candidate we
 TIMEOUT = 20
 MAX_BYTES = 5_000_000
 HOST_GAP_S = 1.0          # minimum spacing between requests to the same host
+# links never worth fetching as pages (PDFs are handled separately, issue #7)
+SKIP_EXT = re.compile(r"\.(jpe?g|png|gif|svg|webp|ico|bmp|tiff?|css|js|mjs|json|xml|rss|woff2?|ttf|otf|eot|"
+                      r"mp[34]|m4[av]|mov|avi|webm|wav|ogg|zip|gz|rar|7z|dmg|exe|pdf|docx?|xlsx?|pptx?|ics|vcf|txt)$", re.I)
+SKIP_PATH = re.compile(r"/(wp-admin|wp-login\.php|xmlrpc\.php|wp-json|feed|cart|checkout|my-account)(/|$)", re.I)
+# page errors that don't hide any links, so a crawl with only these is still complete
+HARMLESS = {"robots_disallowed", "not_html", "offsite_redirect", "http_404", "http_410"}
 
 # ---------------------------------------------------------------- normalisation
 NOISE_LINE = re.compile(
@@ -76,6 +94,8 @@ def normalise(html, final_url):
     try: p.feed(html)
     except Exception: pass
     links = sorted({l for l in (norm_link(final_url, h) for h in p.links) if l})
+    hrefs = [urljoin(final_url, h).split("#")[0] for h in p.links
+             if not h.startswith(("javascript:", "mailto:", "tel:", "#", "data:"))]
     body = " ".join(lines)
     # The "Paid for by" disclaimer lives in the footer, which main-content extraction
     # removes, so search the whole visible page text for it.
@@ -86,26 +106,12 @@ def normalise(html, final_url):
             "description": " ".join(p.desc.split()),
             "paid_for_by": " ".join(m.group(1).split()) if m else None,
             "years_mentioned": sorted(set(YEAR.findall(body)))}
-    return "\n".join(lines) + ("\n" if lines else ""), links, meta
+    return "\n".join(lines) + ("\n" if lines else ""), links, meta, hrefs
 
 
 # ---------------------------------------------------------------- politeness
 _robots, _robots_lock = {}, threading.Lock()
 _last_hit, _hit_lock = {}, threading.Lock()
-
-def robots_ok(sess, url):
-    u = urlparse(url); key = f"{u.scheme}://{u.netloc}"
-    with _robots_lock:
-        rp = _robots.get(key)
-    if rp is None:
-        rp = robotparser.RobotFileParser()
-        try:
-            r = sess.get(key + "/robots.txt", timeout=10)
-            rp.parse(r.text.splitlines() if r.status_code == 200 else [])
-        except Exception:
-            rp.parse([])
-        with _robots_lock: _robots[key] = rp
-    return rp.can_fetch(UA, url)
 
 def wait_turn(url):
     host = urlparse(url).netloc.lower()
@@ -116,6 +122,21 @@ def wait_turn(url):
                 _last_hit[host] = now; return
         time.sleep(HOST_GAP_S - (now - last))
 
+def robots_ok(sess, url):
+    u = urlparse(url); key = f"{u.scheme}://{u.netloc}"
+    with _robots_lock:
+        rp = _robots.get(key)
+    if rp is None:
+        rp = robotparser.RobotFileParser()
+        try:
+            wait_turn(key)                       # robots.txt is a request to the site too
+            r = sess.get(key + "/robots.txt", timeout=10)
+            rp.parse(r.text.splitlines() if r.status_code == 200 else [])
+        except Exception:
+            rp.parse([])
+        with _robots_lock: _robots[key] = rp
+    return rp.can_fetch(UA, url)
+
 
 # ---------------------------------------------------------------- one site
 _local = threading.local()
@@ -125,6 +146,56 @@ def session():
         _local.s = s
     return _local.s
 
+
+@dataclasses.dataclass
+class Run:
+    """settings shared by every site in one daily run"""
+    repo: str
+    raw_dir: str | None
+    day: str
+    max_depth: int = 3
+    max_pages: int = 50
+
+
+@dataclasses.dataclass
+class PageRec:
+    """one row of the run log: one page fetched (or found gone) today"""
+    site_id: str
+    page: str              # "/" for the homepage, otherwise the page's slug under pages/
+    url: str
+    depth: int
+    status: int | str = ""
+    final_url: str = ""
+    bytes: int = 0
+    text_chars: int = 0
+    changed: bool = False
+    first_seen: bool = False
+    removed: bool = False
+    low_text: bool = False
+    error: str = ""
+    elapsed_s: float = 0.0
+
+LOG_FIELDS = [f.name for f in dataclasses.fields(PageRec)]
+
+
+@dataclasses.dataclass
+class SiteResult:
+    pages: list            # PageRecs, homepage first
+    capped: bool = False   # stopped at max_pages with in-scope pages still unvisited
+
+
+def host_of(url):
+    return urlparse(url).netloc.lower().removeprefix("www.")
+
+def page_key(url):
+    """identity of a page within its site: path + query, ignoring scheme, www., fragment, tracking"""
+    n = urlparse(norm_link(url, url) or url)
+    return n.path + ("?" + n.query if n.query else "")
+
+def page_slug(key):
+    s = re.sub(r"[^A-Za-z0-9._-]+", "_", key.strip("/")).strip("_")[:80] or "index"
+    return f"{s}-{hashlib.sha1(key.encode()).hexdigest()[:6]}"
+
 def write_if_changed(path, data):
     old = open(path, "rb").read() if os.path.exists(path) else None
     if old != data:
@@ -132,54 +203,144 @@ def write_if_changed(path, data):
         return True
     return False
 
-def do_site(row, repo, raw_dir, day):
-    sid, url = row["site_id"], row["url"]
-    rec = {"site_id": sid, "url": url, "status": "", "final_url": "", "bytes": 0,
-           "text_chars": 0, "changed": False, "first_seen": False, "low_text": False,
-           "error": "", "elapsed_s": 0.0}
-    t0 = time.monotonic()
+def error_name(e):
+    if isinstance(e, requests.exceptions.SSLError): return "ssl_error"
+    if isinstance(e, requests.exceptions.ConnectionError):
+        return "dns_or_connect" if "resolve" in str(e).lower() or "Name or service" in str(e) else "connect_error"
+    if isinstance(e, requests.exceptions.Timeout): return "timeout"
+    return f"{type(e).__name__}: {str(e)[:120]}"
+
+
+def fetch_page(rec, run, page_dir, hosts):
+    """Fetch one page and save its snapshot into page_dir. Fills in rec.
+    Returns the page's absolute outgoing link targets, or [] when nothing was saved."""
     s = session()
-    try:
-        if not robots_ok(s, url):
-            rec["error"] = "robots_disallowed"; return rec
-        wait_turn(url)
-        r = s.get(url, timeout=TIMEOUT, allow_redirects=True, stream=True)
-        raw = r.raw.read(MAX_BYTES, decode_content=True); r.close()
-        rec.update(status=r.status_code, final_url=r.url, bytes=len(raw))
-        if r.status_code >= 400:
-            rec["error"] = f"http_{r.status_code}"; return rec
-        enc = r.encoding if r.encoding and r.encoding.lower() != "iso-8859-1" else "utf-8"
-        html = raw.decode(enc, errors="replace")
-        text, links, meta = normalise(html, r.url)
-        rec["text_chars"] = len(text); rec["low_text"] = len(text) < 200
-        d = os.path.join(repo, "sites", sid)
-        rec["first_seen"] = not os.path.exists(d)
-        os.makedirs(d, exist_ok=True)
-        ch = write_if_changed(os.path.join(d, "text.md"), text.encode())
-        ch |= write_if_changed(os.path.join(d, "links.json"), (json.dumps(links, indent=0) + "\n").encode())
-        ch |= write_if_changed(os.path.join(d, "meta.json"), (json.dumps(meta, indent=1, sort_keys=True) + "\n").encode())
-        rec["changed"] = ch
-        if ch and raw_dir:                      # keep raw HTML only when content changed
-            os.makedirs(os.path.join(raw_dir, day), exist_ok=True)
-            with gzip.open(os.path.join(raw_dir, day, sid + ".html.gz"), "wb") as f: f.write(raw)
-    except requests.exceptions.SSLError: rec["error"] = "ssl_error"
-    except requests.exceptions.ConnectionError as e:
-        rec["error"] = "dns_or_connect" if "resolve" in str(e).lower() or "Name or service" in str(e) else "connect_error"
-    except requests.exceptions.Timeout: rec["error"] = "timeout"
-    except Exception as e: rec["error"] = f"{type(e).__name__}: {str(e)[:120]}"
-    finally:
-        rec["elapsed_s"] = round(time.monotonic() - t0, 2)
-    return rec
+    if not robots_ok(s, rec.url):
+        rec.error = "robots_disallowed"; return []
+    wait_turn(rec.url)
+    r = s.get(rec.url, timeout=TIMEOUT, allow_redirects=True, stream=True)
+    raw = r.raw.read(MAX_BYTES, decode_content=True); r.close()
+    rec.status, rec.final_url, rec.bytes = r.status_code, r.url, len(raw)
+    if r.status_code >= 400:
+        rec.error = f"http_{r.status_code}"; return []
+    if hosts and host_of(r.url) not in hosts:
+        rec.error = "offsite_redirect"; return []
+    ctype = r.headers.get("Content-Type", "")
+    if ctype and "html" not in ctype.lower():
+        rec.error = "not_html"; return []
+    enc = r.encoding if r.encoding and r.encoding.lower() != "iso-8859-1" else "utf-8"
+    text, links, meta, hrefs = normalise(raw.decode(enc, errors="replace"), r.url)
+    rec.text_chars, rec.low_text = len(text), len(text) < 200
+    rec.first_seen = not os.path.exists(os.path.join(page_dir, "text.md"))
+    os.makedirs(page_dir, exist_ok=True)
+    ch = write_if_changed(os.path.join(page_dir, "text.md"), text.encode())
+    ch |= write_if_changed(os.path.join(page_dir, "links.json"), (json.dumps(links, indent=0) + "\n").encode())
+    ch |= write_if_changed(os.path.join(page_dir, "meta.json"), (json.dumps(meta, indent=1, sort_keys=True) + "\n").encode())
+    rec.changed = ch
+    if ch and run.raw_dir:                       # keep raw HTML only when content changed
+        d = os.path.join(run.raw_dir, run.day, rec.site_id); os.makedirs(d, exist_ok=True)
+        with gzip.open(os.path.join(d, ("_home" if rec.page == "/" else rec.page) + ".html.gz"), "wb") as f:
+            f.write(raw)
+    return hrefs
+
+
+def in_scope(url, hosts, prefix):
+    u = urlparse(url)
+    if u.scheme not in ("http", "https") or host_of(url) not in hosts: return False
+    if SKIP_EXT.search(u.path) or SKIP_PATH.search(u.path): return False
+    p = u.path.rstrip("/")
+    return not prefix or p == prefix or p.startswith(prefix + "/")
+
+
+def remove_gone_pages(site_dir, discovered, recs, site_id):
+    """A known page is gone when today's crawl was complete (homepage fetched, nothing that could
+    hide links failed, page cap not hit) and the page was not linked within reach any more."""
+    pages = os.path.join(site_dir, "pages")
+    if not os.path.isdir(pages): return
+    for slug in sorted(set(os.listdir(pages)) - discovered):
+        try: url = json.load(open(os.path.join(pages, slug, "meta.json")))["final_url"]
+        except Exception: url = ""
+        shutil.rmtree(os.path.join(pages, slug))
+        recs.append(PageRec(site_id, slug, url, -1, removed=True))
+
+
+def crawl_site(row, run):
+    """Breadth-first crawl of one site, nearest pages first."""
+    sid, start = row["site_id"], row["url"]
+    site_dir = os.path.join(run.repo, "sites", sid)
+    hosts = {host_of(start)}
+    prefix = urlparse(start).path.rstrip("/")          # "" = whole host
+    queue = collections.deque([(start, 0, "/")])
+    seen, discovered, recs = {page_key(start)}, set(), []
+    fetched, complete, capped = 0, True, False
+    while queue:
+        if fetched >= run.max_pages:
+            capped = True; break
+        url, depth, slug = queue.popleft()
+        rec = PageRec(sid, slug, url, depth)
+        page_dir = site_dir if slug == "/" else os.path.join(site_dir, "pages", slug)
+        t0 = time.monotonic()
+        try:
+            hrefs = fetch_page(rec, run, page_dir, None if slug == "/" else hosts)
+        except Exception as e:
+            rec.error, hrefs = error_name(e), []
+        rec.elapsed_s = round(time.monotonic() - t0, 2)
+        recs.append(rec)
+        if rec.error != "robots_disallowed": fetched += 1
+        if slug == "/":
+            if rec.error: return SiteResult(recs)         # homepage failed: keep everything as it was
+            if host_of(rec.final_url) != host_of(start):  # redirected to another domain: crawl that one
+                hosts.add(host_of(rec.final_url)); prefix = ""
+            seen.add(page_key(rec.final_url))
+        elif rec.error in ("http_404", "http_410") and os.path.isdir(page_dir):
+            shutil.rmtree(page_dir); rec.removed = True   # a known page that is now gone
+        if rec.error and rec.error not in HARMLESS:
+            complete = False
+        if depth >= run.max_depth: continue
+        for h in sorted(set(hrefs)):
+            if not in_scope(h, hosts, prefix): continue
+            k = page_key(h)
+            if k in seen: continue
+            seen.add(k); s = page_slug(k); discovered.add(s)
+            queue.append((h, depth + 1, s))
+    if complete and not capped:
+        remove_gone_pages(site_dir, discovered, recs, sid)
+    return SiteResult(recs, capped)
 
 
 def git(repo, *args):
     return subprocess.run(["git", "-C", repo, *args], check=True, capture_output=True, text=True).stdout
 
 
+def summarise(day, n_sites, sites, wall_s):
+    home = [s.pages[0] for s in sites]
+    pages = [r for s in sites for r in s.pages]
+    inner = [r for r in pages if r.page != "/"]
+    summ = {"day": day, "sites": n_sites, "wall_s": wall_s,
+            "reached": sum(1 for r in home if r.status),     # answered with any HTTP status, incl. 403
+            "ok": sum(1 for r in home if not r.error),       # homepage fetched and snapshotted
+            "changed": sum(1 for s in sites if any(r.changed or r.removed for r in s.pages)),  # sites
+            "first_seen": sum(1 for r in home if r.first_seen),
+            "low_text": sum(1 for r in pages if r.low_text),
+            "sites_capped": sum(1 for s in sites if s.capped),
+            "pages_fetched": sum(1 for r in pages if r.status != ""),
+            "pages_ok": sum(1 for r in pages if not r.error and not r.removed),
+            "pages_changed": sum(1 for r in pages if r.changed),
+            "pages_added": sum(1 for r in inner if r.first_seen),
+            "pages_removed": sum(1 for r in pages if r.removed),
+            "errors": {}, "page_errors": {}}
+    for r in pages:
+        if r.error:
+            bucket = summ["errors"] if r.page == "/" else summ["page_errors"]
+            k = r.error.split(":")[0]; bucket[k] = bucket.get(k, 0) + 1
+    return summ
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("urls"); ap.add_argument("repo")
-    ap.add_argument("--limit", type=int); ap.add_argument("--workers", type=int, default=8)
+    ap.add_argument("--limit", type=int); ap.add_argument("--workers", type=int, default=24)
+    ap.add_argument("--max-depth", type=int, default=3); ap.add_argument("--max-pages", type=int, default=50)
     ap.add_argument("--raw-dir"); ap.add_argument("--summary", default="summary.json")
     ap.add_argument("--day", help="run date YYYY-MM-DD (default: today, UTC); used by tests")
     a = ap.parse_args()
@@ -189,31 +350,28 @@ def main():
     if not os.path.isdir(os.path.join(a.repo, ".git")):
         git(a.repo, "init", "-q"); git(a.repo, "config", "user.name", "campaign-monitor")
         git(a.repo, "config", "user.email", "monitor@localhost")
-    day = a.day or dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
-    t0 = time.time(); out = []
+    run = Run(a.repo, a.raw_dir, a.day or dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d"),
+              a.max_depth, a.max_pages)
+    t0 = time.time(); sites = []
     with cf.ThreadPoolExecutor(a.workers) as ex:
-        futs = [ex.submit(do_site, r, a.repo, a.raw_dir, day) for r in rows]
+        futs = [ex.submit(crawl_site, r, run) for r in rows]
         for i, f in enumerate(cf.as_completed(futs), 1):
-            out.append(f.result())
-            if i % 250 == 0: print(f"  {i}/{len(rows)}  {time.time()-t0:.0f}s", flush=True)
-    out.sort(key=lambda r: r["site_id"])
-    logp = os.path.join(a.repo, "logs", f"{day}.csv")
-    with open(logp, "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=list(out[0].keys())); w.writeheader(); w.writerows(out)
-    n_changed = sum(r["changed"] for r in out)
-    summ = {"day": day, "sites": len(out), "wall_s": round(time.time() - t0),
-            "reached": sum(1 for r in out if r["status"]),   # answered with any HTTP status, incl. 403
-            "ok": sum(1 for r in out if not r["error"]),      # fetched and snapshotted
-            "changed": n_changed, "first_seen": sum(r["first_seen"] for r in out),
-            "low_text": sum(r["low_text"] for r in out), "errors": {}}
-    for r in out:
-        if r["error"]: k = r["error"].split(":")[0]; summ["errors"][k] = summ["errors"].get(k, 0) + 1
+            sites.append(f.result())
+            if i % 250 == 0:
+                print(f"  {i}/{len(rows)} sites  {sum(len(s.pages) for s in sites)} pages  {time.time()-t0:.0f}s", flush=True)
+    sites.sort(key=lambda s: s.pages[0].site_id)
+    with open(os.path.join(a.repo, "logs", f"{run.day}.csv"), "w", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=LOG_FIELDS); w.writeheader()
+        for s in sites:
+            w.writerows(dataclasses.asdict(r) for r in s.pages)
+    summ = summarise(run.day, len(rows), sites, round(time.time() - t0))
     # the summary is committed with the snapshot, so each day's health is in the history
-    with open(os.path.join(a.repo, "logs", f"{day}-summary.json"), "w") as f:
+    with open(os.path.join(a.repo, "logs", f"{run.day}-summary.json"), "w") as f:
         json.dump(summ, f, indent=1, sort_keys=True); f.write("\n")
     git(a.repo, "add", "-A")
     git(a.repo, "commit", "-q", "--allow-empty", "-m",
-        f"snapshot {day}: {len(out)} sites, {n_changed} changed")
+        f"snapshot {run.day}: {len(rows)} sites, {summ['pages_ok']} pages, "
+        f"{summ['pages_changed']} changed, {summ['pages_added']} added, {summ['pages_removed']} removed")
     summ["commit"] = git(a.repo, "rev-parse", "--short", "HEAD").strip()
     json.dump(summ, open(a.summary, "w"), indent=1)
     print(json.dumps(summ, indent=1))

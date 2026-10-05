@@ -25,7 +25,7 @@ discard_partial() { git -C "$REPO" reset -q --hard HEAD && git -C "$REPO" clean 
     # pull it so each run uses the latest committed code.
     git -C "$REPO" pull -q --rebase origin main || echo "pull failed; running with local code"
     if "$PY" "$REPO/monitor/snapshot.py" "$REPO/monitor/monitor_urls.csv" "$REPO" \
-            --workers 8 --raw-dir "$MON/raw" --summary "$MON/last_summary.json"; then
+            --workers 24 --raw-dir "$MON/raw" --summary "$MON/last_summary.json"; then
         # Take any commits made on GitHub first (e.g. a README edited in the browser);
         # otherwise every later push would be rejected.
         if git -C "$REPO" pull -q --rebase origin main && git -C "$REPO" push -q origin main; then
