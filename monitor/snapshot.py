@@ -181,6 +181,7 @@ def main():
     ap.add_argument("urls"); ap.add_argument("repo")
     ap.add_argument("--limit", type=int); ap.add_argument("--workers", type=int, default=8)
     ap.add_argument("--raw-dir"); ap.add_argument("--summary", default="summary.json")
+    ap.add_argument("--day", help="run date YYYY-MM-DD (default: today, UTC); used by tests")
     a = ap.parse_args()
     rows = list(csv.DictReader(open(a.urls)))
     if a.limit: rows = rows[:a.limit]
@@ -188,7 +189,7 @@ def main():
     if not os.path.isdir(os.path.join(a.repo, ".git")):
         git(a.repo, "init", "-q"); git(a.repo, "config", "user.name", "campaign-monitor")
         git(a.repo, "config", "user.email", "monitor@localhost")
-    day = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
+    day = a.day or dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
     t0 = time.time(); out = []
     with cf.ThreadPoolExecutor(a.workers) as ex:
         futs = [ex.submit(do_site, r, a.repo, a.raw_dir, day) for r in rows]
