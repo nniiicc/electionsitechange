@@ -42,7 +42,12 @@ SKIP_EXT = re.compile(r"\.(jpe?g|png|gif|svg|webp|ico|bmp|tiff?|css|js|mjs|json|
                       r"mp[34]|m4[av]|mov|avi|webm|wav|ogg|zip|gz|rar|7z|dmg|exe|pdf|docx?|xlsx?|pptx?|ics|vcf|txt)$", re.I)
 SKIP_PATH = re.compile(r"/(wp-admin|wp-login\.php|xmlrpc\.php|wp-json|feed|cart|checkout|my-account)(/|$)", re.I)
 # page errors that don't hide any links, so a crawl with only these is still complete
-HARMLESS = {"robots_disallowed", "not_html", "offsite_redirect", "http_404", "http_410"}
+# page outcomes (PageRec.error), grouped by what the crawler does about them
+GONE = {"http_404", "http_410"}                       # the page no longer exists
+BACKOFF = {"http_429", "http_503"}                    # the site asked us to slow down: leave it for today
+HARMLESS = {"robots_disallowed", "not_html", "offsite_redirect"} | GONE   # can't hide any links
+HOME = "/"                                            # PageRec.page of a site's homepage
+REQUEST_BUDGET = 2                                    # max requests per site = REQUEST_BUDGET * max_pages
 
 # ---------------------------------------------------------------- normalisation
 NOISE_LINE = re.compile(
@@ -114,7 +119,7 @@ _robots, _robots_lock = {}, threading.Lock()
 _last_hit, _hit_lock = {}, threading.Lock()
 
 def wait_turn(url):
-    host = urlparse(url).netloc.lower()
+    host = host_of(url)              # www.x.org and x.org are one site: one queue
     while True:
         with _hit_lock:
             now = time.monotonic(); last = _last_hit.get(host, 0)
@@ -161,7 +166,7 @@ class Run:
 class PageRec:
     """one row of the run log: one page fetched (or found gone) today"""
     site_id: str
-    page: str              # "/" for the homepage, otherwise the page's slug under pages/
+    page: str              # HOME for the homepage, otherwise the page's slug under pages/
     url: str
     depth: int
     status: int | str = ""
@@ -174,6 +179,9 @@ class PageRec:
     low_text: bool = False
     error: str = ""
     elapsed_s: float = 0.0
+
+    @property
+    def is_home(self): return self.page == HOME
 
 LOG_FIELDS = [f.name for f in dataclasses.fields(PageRec)]
 
@@ -239,7 +247,7 @@ def fetch_page(rec, run, page_dir, hosts):
     rec.changed = ch
     if ch and run.raw_dir:                       # keep raw HTML only when content changed
         d = os.path.join(run.raw_dir, run.day, rec.site_id); os.makedirs(d, exist_ok=True)
-        with gzip.open(os.path.join(d, ("_home" if rec.page == "/" else rec.page) + ".html.gz"), "wb") as f:
+        with gzip.open(os.path.join(d, ("_home" if rec.is_home else rec.page) + ".html.gz"), "wb") as f:
             f.write(raw)
     return hrefs
 
@@ -270,31 +278,33 @@ def crawl_site(row, run):
     site_dir = os.path.join(run.repo, "sites", sid)
     hosts = {host_of(start)}
     prefix = urlparse(start).path.rstrip("/")          # "" = whole host
-    queue = collections.deque([(start, 0, "/")])
+    queue = collections.deque([(start, 0, HOME)])
     seen, discovered, recs = {page_key(start)}, set(), []
-    fetched, complete, capped = 0, True, False
+    captured, requests_made, complete, capped = 0, 0, True, False
     while queue:
-        if fetched >= run.max_pages:
+        # the cap counts pages actually captured; a separate budget bounds requests on sites full of dead links
+        if captured >= run.max_pages or requests_made >= REQUEST_BUDGET * run.max_pages:
             capped = True; break
         url, depth, slug = queue.popleft()
         rec = PageRec(sid, slug, url, depth)
-        page_dir = site_dir if slug == "/" else os.path.join(site_dir, "pages", slug)
+        page_dir = site_dir if rec.is_home else os.path.join(site_dir, "pages", slug)
         t0 = time.monotonic()
         try:
-            hrefs = fetch_page(rec, run, page_dir, None if slug == "/" else hosts)
+            hrefs = fetch_page(rec, run, page_dir, None if rec.is_home else hosts)
         except Exception as e:
             rec.error, hrefs = error_name(e), []
         rec.elapsed_s = round(time.monotonic() - t0, 2)
         recs.append(rec)
-        if rec.error != "robots_disallowed": fetched += 1
-        if slug == "/":
+        if rec.error != "robots_disallowed": requests_made += 1
+        if not rec.error: captured += 1
+        if rec.is_home:
             if rec.error: return SiteResult(recs)         # homepage failed: keep everything as it was
             if host_of(rec.final_url) != host_of(start):  # redirected to another domain: crawl that one
                 hosts.add(host_of(rec.final_url)); prefix = ""
             seen.add(page_key(rec.final_url))
-        elif rec.error in ("http_404", "http_410") and os.path.isdir(page_dir):
+        elif rec.error in GONE and os.path.isdir(page_dir):
             shutil.rmtree(page_dir); rec.removed = True   # a known page that is now gone
-        if rec.error in ("http_429", "http_503"):        # the site asked us to slow down: leave it for today
+        if rec.error in BACKOFF:
             complete = False; break
         if rec.error and rec.error not in HARMLESS:
             complete = False
@@ -317,7 +327,7 @@ def git(repo, *args):
 def summarise(day, n_sites, sites, wall_s):
     home = [s.pages[0] for s in sites]
     pages = [r for s in sites for r in s.pages]
-    inner = [r for r in pages if r.page != "/"]
+    inner = [r for r in pages if not r.is_home]
     summ = {"day": day, "sites": n_sites, "wall_s": wall_s,
             "reached": sum(1 for r in home if r.status),     # answered with any HTTP status, incl. 403
             "ok": sum(1 for r in home if not r.error),       # homepage fetched and snapshotted
@@ -333,7 +343,7 @@ def summarise(day, n_sites, sites, wall_s):
             "errors": {}, "page_errors": {}}
     for r in pages:
         if r.error:
-            bucket = summ["errors"] if r.page == "/" else summ["page_errors"]
+            bucket = summ["errors"] if r.is_home else summ["page_errors"]
             k = r.error.split(":")[0]; bucket[k] = bucket.get(k, 0) + 1
     return summ
 
