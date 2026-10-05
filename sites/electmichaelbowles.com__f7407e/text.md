@@ -18,6 +18,7 @@ Your support will go a long way in helping me shift our House and State back tow
 Please donate to help bring integrity, honesty, and accountability down to Juneau.
 Early voting begins October 19, 2026.
 Vote November 3, 2026!
+Rank Bowles first!
 The Army brought Michael to Alaska (JBER) in 2007 while serving as a combat medic.
 Soon after he met his wife, Amanda, a lifelong Alaskan.
 Amanda said, “If you marry me, you’re staying in Alaska” to which Michael gladly agreed.
@@ -33,9 +34,7 @@ Early voting is October 19th through November 2nd.
 Place your early vote at the Mat-Su Borough Building at 350 E Dahlia Ave in downtown Palmer, Monday through Friday 8am to 5pm.
 Election Day is November 3rd!
 Polling places will be open 7am through 8pm.
-Rank Michael Bowles, the true conservative first.
-Rank my Republican opponent second.
-Please do not rank the non-partisan candidate.
+Rank Bowles First!
 Endorsements
 Stay Up to Date.
 Sign up with your email and phone number to receive news and updates about Michael’s campaign.

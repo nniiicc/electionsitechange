@@ -1,10 +1,13 @@
-Saira
+Deadline Alert: October 5 Is the Last Day to Register to Vote in Georgia
+Georgia’s voter registration deadline is October 5.
+Rep.
+Saira Draper urges Georgians to verify their status and register before the cutoff.
+Democrat for Georgia State Senate District 44
 Draper
 A voting rights lawyer who led the fight for democracy in 2020, Saira is running for State Senate to deliver on the promise of Building a Better Georgia.
 Vote Early
 Early voting: Oct 13 – Oct 30
 Find your voting location, hours, and absentee ballot drop off options
-The Issues
 Where Saira stands — and what she's working to change.
 - Voting & Democracy Saira is on the front lines of the fight for democracy in 2026.
 In this legislative session, she's confronted the runaway State Election Board, spoken out against the FBI raid of the Fulton County Election office, and defeated every piece of bad election legislation offered in the General Assembly by Republicans.
@@ -45,7 +48,6 @@ She demands transparency and community engagement in development decisions to pr
 The South River Forest Championed the protection of metro Atlanta’s green spaces, raising alarms about the cumulative impacts of industrial development on tree canopy and water quality.
 Okefenokee Protection Supported bipartisan legislation to safeguard the Okefenokee Swamp from mining.
 When legislative paths stalled, she partnered with conservation groups and federal agencies to find alternative long-term protections for this global ecosystem.
-A Voting Rights Lawyer
 Ready to Lead
 The daughter of immigrants, Saira was raised in Georgia, attended public schools, and earned her degree from Georgia Tech and her law degree from Georgetown.
 As a civil rights attorney at the SPLC, she represented a national class of immigrant children separated from their families.
@@ -53,23 +55,47 @@ In 2020, she led voting rights efforts for the Biden, Warnock, and Ossoff campai
 Saira continued that fight in the State House, working to tear down barriers to the ballot box and ensure every Georgian's voice was heard and protected.
 I have spent my career as a lawyer fighting to secure people's fundamental rights.
 This is the work I am passionate about—ensuring every person gets a fair shake, equality before the law, and a vigorous defense of our civil and human rights.
-Get Involved
-Make your voting plan
-Find your voting location, hours, and absentee ballot drop off options
-Stay Connected
+— Saira Draper
+Take Action
 Campaign updates and action alerts in your inbox.
-Get a Yard Sign
 Show your support.
 We'll deliver a sign right to your door.
-Volunteer
 Knock doors.
 Make calls.
 Show up for District 44.
 Want to work with the campaign — an internship, a role, or just to share your resume?
 Work with Saira
-Latest News
-Speaker Burns promised transparency before redistricting.
-We’re waiting.
+Articles
+October 5, 2026
+Draper Paper
+In The News
+ajc.com ↗
 The AJC reports that promised statewide public hearings on Georgia redistricting remain unscheduled, raising transparency concerns ahead of future map redrawing.
-Draper Paper: Are you Ready to Knock Doors?
-And other things you can do to help acheive big wins in November
+September 18, 2026
+Moms' Seal of Approval on Child Care›
+Planned ParenthoodPlanned Parenthood Action Fund›
+GALEO Impact Fund›
+Rep.
+Yasmin NealDistrict 79Chair, Clayton County Delegation›
+UFCW Local 1996›
+Hector GuiterrezCouncilmember, Ward 3City of Forest Park›
+Teamsters Local 528›
+Reverend Timothy McDonald, IIIPastor, First Iconium Baptist Church›
+Latino Victory Fund›
+Sherry BostonDistrict AttorneyDekalb County›
+Rep.
+El-Mahdi HollyDistrict 116›
+Rep.
+Omari CrawfordDistrict 89›
+The Reverend Doctor William E.
+Flippin, Sr.The Greater Piney Grove Baptist Church›
+Jason Carter›
+Rep.
+Mary Margaret OliverDistrict 84›
+Sen.
+Elena ParentDistrict 44›
+Moms Demand ActionGun Sense Candidate›
+Georgia Association of Educators›
+Georgia Equality›
+New Politics›
+Georgia AFL-CIO›

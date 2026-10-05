@@ -67,3 +67,17 @@ We can turn the page: From talking points to real solutions and opportunities Fr
 - Be responsive to the needs of you, your family, and our communities
 - Remain accessible and provide constituent services that reflect your concerns and priorities
 - Stand with you and fight for the issues that matter most to our community
+I’m running for office because I’m deeply invested in this community and its future, and I believe the people who live here deserve leadership that is present, accountable, and focused on real results.
+I want voters to know exactly where I stand on the issues that matter most and the specific, actionable steps I will take in office to move our community forward.
+Everyone’s voices matters, and our community deserves a State Representative who will serve every corner of the district.
+Our present and future demand nothing less.
+Will you donate $25, $50, or any amount you can today so we can prepare for the November election?
+We rely on donors like you.
+Contact
+By submitting this form and signing up for texts, you consent to receive voter contact text messages from the Committee to Elect Clay Middleton.
+Msg & data rates may apply.
+Message frequency varies.
+Donations will not be solicited.
+Opt-out by replying STOP.
+Reply HELP for help.
+Privacy Policy.

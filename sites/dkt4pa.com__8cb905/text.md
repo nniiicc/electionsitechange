@@ -1,7 +1,6 @@
 Pennsylvania State House of Representatives
 DEIRDRE KAMBER TODD
 Working for the People,Not the Parties
-IN THE NEWS:
 ENDORSEMENTS:
 FAQ
 Answers to common questions about my campaign and how to get involved.

@@ -21,12 +21,11 @@ Donate Today.
 Our campaign is powered by support from people like you
 Top Priorities
 Improve Healthcare
-Empower Rural Infrastructure
-Protect Communities and the Constitution
 We can lower healthcare costs and improve access by prioritizing people over corporate profits.
 Janet wants to improve our healthcare by supporting seniors to age in place, expanding school-based health centers, encouraging providers to work in underserved rural communities, following science rather than social media influencers, and guaranteeing universal healthcare for all New Yorkers via the New York Health Act.
 Safe, sufficient and affordable infrastructure is key to economic development and quality of life.
 Janet supports increasing housing stocks of all types; lowering energy costs through better regulating NYSEG and AI data centers and thoughtfully increasing renewable energy infrastructure; and changing the way Albany distributes funding to be more equitable for small rural communities like ours.
+Empower Rural Infrastructure
 None of us are free until all of us are free.
 Janet supports women’s right to choose, LGBTQ+ folks’ right to live freely and without fear, citizens’ right to vote without political interference, and every person’s right to due process, a fair and speedy trial, and freedom from unreasonable search and seizure.
 Human and constitutional rights are for everyone, citizens and immigrants.

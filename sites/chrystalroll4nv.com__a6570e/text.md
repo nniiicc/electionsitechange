@@ -1,18 +1,19 @@
 Ready to roll for Nevada.
-Chrystal Roll Knows Northern Nevada
-Hi neighbors, my name is Chrystal Roll, and I am running for Senate District 16!
-I love Northern Nevada, and I chose to settle here 20 years ago with my family.
-As a social worker, I have spent time sitting at kitchen tables, school offices, hospital bedsides, courtrooms, and across from the therapy couch, advocating and LISTENING TO YOU.
-You know who isn’t listening?
-Our state government.
-While big business gets tax abatements and infrastructure, we get stuck with the bill.
-It’s time to remind Nevadans where its statehood started and start telling, rather than asking for what our area needs.
-Our roots run deep with resilience and innovation.
-No decisions should be made about our community unless we are at the table.
-Nevadans have trusted me with their stories of pain, triumph, and self-discovery.
-It has been an honor to give them the self-confidence to realize they have the ability to make great change in their lives and communities.
-I can bring that talent to our state Legislature.
-Make a Donation to our Campaign today.
+Northern nevada deserves a strong voice.
+I’m Chrystal Roll, and I’m running for State Senate District 16.
+Twenty years ago, my family and I chose Northern Nevada as our home.
+As a social worker, I’ve spent my career listening to people, standing up for their needs, and helping them create change in their lives and communities.
+Now, I’m ready to bring that same fight to Carson City.
+Too often, decisions are made about Northern Nevada without Northern Nevadans at the table.
+While big businesses receive tax breaks and public investment, our communities are left footing the bill.
+That needs to change.
+Northern Nevada has always been built on resilience, independence, and innovation.
+It’s time we had a voice in Carson City that reflects those values and someone who fights for what our communities need.
+I know Northern Nevada.
+I listen to Northern Nevada.
+And I’m ready to fight for Northern Nevada.
+This campaign is people-powered.
+Give Today!
 Contact Me
 Interested in getting involved with the campaign?
 Give us your contact information and we will be in touch soon!

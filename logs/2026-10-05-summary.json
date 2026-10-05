@@ -1,0 +1,23 @@
+{
+ "changed": 260,
+ "day": "2026-10-05",
+ "errors": {
+  "ValueError": 2,
+  "connect_error": 5,
+  "dns_or_connect": 4,
+  "http_403": 159,
+  "http_404": 4,
+  "http_451": 1,
+  "http_500": 9,
+  "http_503": 1,
+  "http_526": 1,
+  "robots_disallowed": 44,
+  "ssl_error": 58,
+  "timeout": 1
+ },
+ "first_seen": 187,
+ "low_text": 774,
+ "ok": 8249,
+ "sites": 8538,
+ "wall_s": 1504
+}

@@ -14,7 +14,7 @@ The independent in this race says he will caucus with neither party, which analy
 Compare all four candidates
 Montana Matters
 Alani's weekly podcast: straight talk on the issues facing Montana, co-hosted with Stella Duran.
-New episodes every week; listen to the latest one right here.
+Listen to the latest one right here.
 Got a question or a guest idea?
 Email podcast@alanibankheadforsenate.com
 Find your team

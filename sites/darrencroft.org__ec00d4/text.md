@@ -43,12 +43,6 @@ Tap/click a quote to see the full statement
 Amber Shill
 President, Canyons School Board
 Darren is a man of integrity who supports the education of our youth and possesses the skills, talents and abilities to advance good government.
-Kelvyn Cullimore
-Cottonwood Heights Mayor, 2005-2017
-I have known Darren for decades and find him to be an incredibly humble and diligent leader.
-He is rooted in the belief that public service is a privilege.
-As a principled conservative he would represent our district well in the legislature.
-Join me in supporting his candidacy for District 41.
 Mike Shelton
 Cottonwood Heights City Council, 2012-2019
 …Darren is one of the most hardworking and disciplined individuals I have ever met.
@@ -57,6 +51,11 @@ He possesses the sharp intelligence necessary to navigate our state’s most com
 Darren Croft is both.
 I trust his judgment… I know nobody will work harder for our families.
 Darren Croft is exactly what we need in state government right now.
+Gregory & JoAnn Schwitzer
+Cottonwood Heights Residents
+We are thrilled to fully endorse Darren Croft in his campaign for the Utah Legislature.
+We have known him for many years and have been impressed with his dedication, integrity and ability to communicate and understand issues of importance to the community and the State….
+Utah would be well served by having him as one of our legislators.
 CAMPAIGN NEWS
 Campaign Events
 Upcoming events including those dedicated to meeting Darren, and those with multiple candidates.

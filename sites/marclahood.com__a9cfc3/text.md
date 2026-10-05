@@ -10,12 +10,12 @@ That work continues as we fight for policies that strengthen families and defend
 View Comments
 Like reaction
 Love reaction
-Reactions: 8
+Reactions: 11
 Shares:
 1
 Comments:
-3
-3 CommentsComment on Facebook
+4
+4 CommentsComment on Facebook
 Nothing is more important than giving our kids a safe place to grow up and our families the chance to flourish.
 That's what my work in the Texas House is centered on: standing with Texas parents and keeping our kids safe at home, at school and online.
 We've made real progress, and I'm proud to keep fighting for Texas families. #txlege
@@ -25,7 +25,7 @@ Like reaction
 Love reaction
 Reactions: 6
 Shares:
-0
+1
 Comments:
 1
 1 CommentsComment on Facebook
@@ -34,7 +34,7 @@ We should continue opening pathways for veterans to turn their military skills i
 Google revealed to FOX Business an initiative addressing the workforce shortage in skilled trades by training veterans for roles like electrician and pipefitter.
 View Comments
 Like reaction
-Reactions: 3
+Reactions: 4
 Shares:
 0
 Comments:
@@ -73,7 +73,7 @@ Like reaction
 Love reaction
 Reactions: 38
 Shares:
-1
+2
 Comments:
 2
 Marc LaHood was born and raised in San Antonio, Texas.

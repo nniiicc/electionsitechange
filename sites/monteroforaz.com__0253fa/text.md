@@ -10,8 +10,8 @@ After seeing firsthand what happens when Arizona fails to invest in students and
 - Water and a Livable Arizona
 - Accessible, Affordable Healthcare
 Learn more
-Arizona Attorney General
-Mayor of Tempe
 U.S.
 House of Representatives, CD-4
+Arizona Attorney General
+Mayor of Tempe
 View more

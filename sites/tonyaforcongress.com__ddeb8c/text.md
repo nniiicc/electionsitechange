@@ -1,10 +1,10 @@
 HUDSON FOR HOOSIERS
 “I believe leaders should answer questions, hold town halls, and be accessible to the people.” Tonya Hudson
 Authentic, Consistent, Driven
-UPCOMING EVENTS: September 30, 4:00pm (EST) Tonya will be the guest on the Fountainhead Podcast with Chris Baker.
-October 3, 9:30-11:00am – Candidate Forum hosted by the League of Women Voters (Monroe, Bloomington) via Zoom.
-October 3, 2:30-5:00pm – Meet the Candidate hosted by Hudson for Hoosiers at the Dog Haus Biergarten in New Albany.
+UPCOMING EVENTS: October 3, 9:30-11:00am – District 9 Candidate Forum/debate hosted by the League of Women Voters (Monroe, Bloomington) via Zoom.
+October 3, 2:30-5:00pm – Meet the Candidate hosted by Hudson for Hoosiers & Floyd Co Libertarians at the Dog Haus Biergarten in New Albany.
 Visit Hudson for Hoosiers Facebook page for statements on current issues.
+October 7, 7:00pm – Secretary of State Debate hosted by the Indiana Debate Commission (WFYI Public Television) – watch the Libertarian candidate, Lauri Shillings, go head to head with her opponents.
 It’s time to – ROLL IT BACK!
 Let’s take back our Rights, Liberties and Freedoms that have been stripped away.
 A balanced budget is required!

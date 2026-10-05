@@ -5,9 +5,7 @@ And I’ll continue to give Brooklyn communities a voice in the decisions that a
 VOTE in the Democratic Primary: June 23
 Election Day: June 23.
 Polls close at 9 PM!
--103Days
--21Hours
--41Minutes
--51Seconds
+-104Days
+-27Seconds
 If you are in line by 9 PM, you can vote!
 Find your poll site at https://vote.nyc.

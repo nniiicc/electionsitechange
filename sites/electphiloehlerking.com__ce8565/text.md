@@ -15,5 +15,4 @@ From classrooms that prioritize teaching what to think over how to think, to the
 My commitment to protecting the freedoms of every Missourian and fostering economic growth will guide every policy decision if re-elected to the Missouri Legislature.
 Together, we can ensure a brighter future for all our children.
 I AM HUMBLED TO BE ENDORSED FROM THE FOLLOWING GROUPS:
-JOIN THE CONVERSATION:
 bottom of page

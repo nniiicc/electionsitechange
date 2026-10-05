@@ -11,7 +11,7 @@ Let's Fix Washington
 Full Name
 Email
 *
-LinkedIn
+Phone
 This field is for validation purposes and should be left unchanged.
 Δ
 About Drew

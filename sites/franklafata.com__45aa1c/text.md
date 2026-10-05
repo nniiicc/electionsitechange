@@ -5,6 +5,17 @@ He believes politicians have lost touch with the people they serve—and he's re
 His campaign is built on the simple idea that government should work for everyday folks, not special interests.
 Whether it's protecting jobs, supporting families, or standing up for rural communities, Frank is ready to roll up his sleeves and get to work.
 He’s not a career politician—he’s one of us.
+| Frank Lafata's Position | Pat Outman's Position |
+|---|---|
+| Does not accept donations from large corporations, utilities, or health insurers. | Campaign has received thousands of dollars from corporate owners, utilities, and health insurers. |
+| Supported the repeal of Right to Work. | Voted against repeal of Right to Work and co-sponsored legislation to restore it for public sector employees. |
+| Supports the Second Amendment and responsible gun ownership. | Opposed the Red Flag legislation package. |
+| Supports incentives for affordable, clean, and renewable energy. | Sponsored legislation to eliminate Michigan clean and renewable energy standards. |
+| Supports traditional public education. | Sponsored legislation imposing additional requirements on schools and teachers, including impacts on special-needs education. |
+| Supports measures to reduce childcare costs for working parents. | Opposed legislation establishing and funding the Tri-Share Childcare Program. |
+| Supports increased government transparency, expanded FOIA access, and restrictions on legislators voting on matters that directly benefit them. | Opposed ethics legislation restricting legislators from voting on bills that could benefit themselves, family members, or businesses. |
+| Supports voting rights, state control of elections, and existing election safeguards. | Participated in requests for investigations related to election fraud allegations associated with the film "2000 Mules." |
+| Advocates local control principles. | Criticized for supporting local control on wind and solar projects while supporting state-level authority over sand and gravel mine permitting. |
 What Is Frank Lafata Running for?
 Frank is running for the 91st House District, which stretches from west of Cedar Springs to Vestaburg in the east.
 It reaches down to Otisco Township in the south and up to Lakeview and the northern border of Montcalm County.

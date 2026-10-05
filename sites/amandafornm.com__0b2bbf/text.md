@@ -11,15 +11,14 @@ Endorsements
 Backed with the support of the community.
 Amanda is endorsed by elected officials and community members throughout New Mexico.
 View all
-Flora Lucero
-Former Bernalillo County Democratic Party Chair
-Martin Heinrich
-U.S.
-Senator
-Dr.
-Ammu Devasthali
-Tara Jaramillo
-Former Representative
+Manuel Sanchez
+Doña Ana County Commissioner
+Russell Hernandez
+Mesilla Mayor
+Michelle Lujan Grisham
+Governor, New Mexico
+Gloria Gameros
+Doña Ana County Commissioner
 Get the latest
 News & Updates
 - Videos

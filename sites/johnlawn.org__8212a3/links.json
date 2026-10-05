@@ -1,8 +1,8 @@
 [
 "https://accounts.google.com/TOS?loc=US&hl=en-US",
 "https://accounts.google.com/TOS?loc=US&hl=en-US&privacy=true",
-"https://accounts.google.com/lifecycle/flows/signup?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&dsh=S-267647905%3A1791226362021670&flowEntry=SignUp&flowName=GlifWebSignIn&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&osid=1&service=wise",
-"https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&dsh=S-267647905%3A1791226362021670&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&osid=1&service=wise",
+"https://accounts.google.com/lifecycle/flows/signup?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&dsh=S-2027931508%3A1791234558954275&flowEntry=SignUp&flowName=GlifWebSignIn&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&osid=1&service=wise",
+"https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&dsh=S-2027931508%3A1791234558954275&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https%3A%2F%2Fsites.google.com%2Fview%2Fjohnlawn&osid=1&service=wise",
 "https://support.google.com/accounts?hl=en-US&p=account_iph",
 "https://support.google.com/accounts?p=signin_privatebrowsing&hl=en-US"
 ]

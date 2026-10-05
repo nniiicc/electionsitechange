@@ -1,3 +1,5 @@
+REMINDER: Please join me THIS EVENING (October 5th) for our next Meet & Greet at Kenton Ruritan Club!
+Congratulations to the Hartly Volunteer Fire Company on 100 years!
 In all the years I have been serving the 11th District, I’ve never had anyone give me a door knocking emotional support bear.
 Also, congratulations to the Hartly Volunteer Fire Company on 100 years!
 Thank you for hosting an open house and for everything you do for the community
@@ -26,7 +28,3 @@ The project is expected to take approximately seven […]
 REMINDER: Happening TOMORROW (September 12th) in Middletown!
 SAVE THE DATE: A FREE Recycling & Paper Shredding Event will take place on Saturday, September 12th at St.
 Anne’s Episcopal School in Middletown!
-Congratulations to D & J Custom Cutting
-Congratulations to D & J Custom Cutting in Hartly on receiving $44,000 in state grant funding!
-The funding was awarded by the Delaware Division of Small Business through the Delaware Grocery Initiative and First State Food System Program.
-The grant funding will be used to expand cold storage capacity, improve processing efficiency, and support food […]

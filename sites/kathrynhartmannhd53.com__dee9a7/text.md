@@ -61,18 +61,19 @@ All are welcome.
 From the Texas Democratic Convention in Corpus Christi to block walks in Bandera and Kerr counties, Kathryn is meeting voters across all 16 counties.
 Upcoming events
 Oct
-3
-Saturday
-“Let’s Hear It!” candidate forum on TCEQ, water and protecting the Hill Country. 5–7pm at the Longhorn at Way Back Texas, Bandera.
-Hosted by Texas Young Democrats.
-RSVP on Mobilize
 8
 Thursday
-Kathryn debates the incumbent, 8:30–10pm.
-Hosted by Citizens for Change 325, Brady, TX.
+Kathryn debates the incumbent, 6:30–8pm at the McCulloch County Library, Brady.
+Hosted by Citizens for Change 325.
+Can’t make it?
+Listen live on KNEL radio.
 Event details
 10
-We need a change! 9–11am at the Bandera County Courthouse, 500 Main Street, Bandera.
+Saturday
+We need a change!
+Rally 9–11am at the Bandera County Courthouse, 500 Main Street, Bandera, then join Kathryn for a block walk around Bandera, 11am–1pm.
+Hosted by Indivisible Bandera.
+RSVP on Mobilize
 11
 Sunday
 With Joe Paz Herrera (SD 24). 4–6pm at River Star Arts & Event Park, 4000 Riverside Dr, Kerrville.

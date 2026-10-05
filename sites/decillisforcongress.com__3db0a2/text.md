@@ -20,13 +20,13 @@ Education is an equalizer and the more children that get the rigorous, well roun
 LATEST NEWS
 inside City Hall: Democrat Mike DeCillis talks election bid for Congressional District 11
 Latest Endorsements and distinctions
-NYS Nurses Association
-NYSUT
-Peter Abbate
 Debi Rose
-Robert Perkins
 Andrew Gounardes
 NYS Public Employees Federation
 Moms Demand Action
+NYSUT
+NYS Nurses Association
+Peter Abbate
+Erik Bottcher
 Volunteer And Take Action
 Check out ways to get involved!

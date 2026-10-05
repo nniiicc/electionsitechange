@@ -76,6 +76,11 @@ Watch Jessica in the Community
 Community Connections: My Commitment To Problem Solving
 IN THE
 COMMUNITY
+A Socialite in the Modern Sense: Jessica Haire
+September 29, 2026 | The Maryland Wire
+Some people collect titles.
+Jessica Haire collects professions — and masters every one of them.
+Read More »
 Jessica Haire: A Maryland Trailblazer Who Refuses to Stay in One Lane
 March 27, 2026 | Montgomery County Republican Club (Direct Line News)
 A profile of Jessica Haire by contributor Lisa Smithfield, highlighting her career spanning civil engineering, federal contracting law, and public service.

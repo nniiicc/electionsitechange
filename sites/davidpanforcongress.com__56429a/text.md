@@ -1,6 +1,5 @@
 CA 46TH CONGRESSIONAL DISTRICT
 Anaheim | Fullerton | Orange | Placentia | Santa Ana | Stanton
-Oct 19 Fundraiser: Click here
 Supporting Orange County Families and Communities
 Addressing the biggest issues facing our nation with clarity and a sense of responsibility for the future.
 Ensuring public safety

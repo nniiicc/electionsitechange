@@ -18,7 +18,7 @@ Last
 Email
 *
 Zip Code
-Phone
+Email
 This field is for validation purposes and should be left unchanged.
 Donate Today!
 $50
