@@ -53,31 +53,81 @@ REQUEST_BUDGET = 2                                    # max requests per site = 
 _parse_lock = threading.Lock()
 
 # ---------------------------------------------------------------- normalisation
+# Snapshot format 2 (issue #5): text.md is the page's FULL visible text, including content in
+# tabs, accordions and other collapsed sections; main.md is the extracted main content, kept as a
+# reading view only. Changes are detected on text.md.
+FORMAT = 2
+SKIP_TAGS = {"script", "style", "noscript", "svg", "template", "head", "iframe", "object", "canvas", "select"}
+BLOCK_TAGS = {"p", "div", "section", "article", "main", "header", "footer", "nav", "aside", "li", "ul", "ol",
+              "h1", "h2", "h3", "h4", "h5", "h6", "table", "tr", "td", "th", "blockquote", "figure",
+              "figcaption", "details", "summary", "form", "label", "button", "dd", "dt", "dl", "br", "hr", "pre"}
+UNITS = r"(days?|hours?|hrs?|minutes?|mins?|seconds?|secs?)"
 NOISE_LINE = re.compile(
-    r"^(\d+\s*(days?|hours?|hrs?|minutes?|mins?|seconds?|secs?)\b.*|"      # countdowns
-    r".*\b(raised|of \$[\d,]+ goal|donors? so far)\b.*\$[\d,]+.*|"           # progress bars
-    r"(©|copyright)\s*\d{4}.*|"                                              # footer year
-    r"(accept|reject) (all )?cookies.*|this (web)?site uses cookies.*)$", re.I)
+    rf"^\d+\s*{UNITS}\b.*|"                                                   # countdowns: "12 days until ..."
+    rf"^{UNITS}$|"                                                            # countdown unit labels
+    rf"^(\s*\d+\s*{UNITS}?\s*[:,|]?)+$|"                                       # widgets: "12Days05Hours", "12 : 05"
+    rf"^.{{0,40}}\b\d+\s+{UNITS}\s+(until|to go|left|away|remaining)\b.{{0,40}}$|"
+    r"^\d[\d,]*\s+(donors?|contributors?|supporters?)( so far| and counting)?[.!]?$|"   # live donor counters
+    r"^(accept|accept all|reject|reject all|decline|cookie settings|manage cookies)$", re.I)
+COUNTER_CHARS = re.compile(r"^[\d\s:.,%$+]+$")       # digits and counter punctuation only (no - or /: phones, dates)
+MAX_COUNTER_DIGITS = 6                               # longer digit runs are phone numbers, dates, IDs: keep them
+MAX_PROGRESS_LEN = 80                                # a progress-bar label is short; prose about money is longer
+MAX_BANNER_LEN = 300                                 # a cookie banner is a sentence or two
+PROGRESS = re.compile(r"\$[\d,.]+[kKmM]?\b.*\b(raised|goal|to go)\b|\b(raised|goal)\b.*\$[\d,.]+|"
+                      r"\d+(\.\d+)?\s*%\s*(funded|of (our |the )?goal)", re.I)
+COOKIE = re.compile(r"\bcookies?\b", re.I)
+BANNER = re.compile(r"\b(website|site|experience|browsing|consent|accept|privacy policy|cookie policy)\b", re.I)
+
+def is_noise(s):
+    if NOISE_LINE.match(s): return True
+    if COUNTER_CHARS.match(s) and sum(ch.isdigit() for ch in s) <= MAX_COUNTER_DIGITS: return True
+    if len(s) <= MAX_PROGRESS_LEN and PROGRESS.search(s): return True                    # donation progress
+    if len(s) <= MAX_BANNER_LEN and COOKIE.search(s) and BANNER.search(s): return True   # cookie banners
+    return False
+COPYRIGHT = re.compile(r"(©|\(c\)|copyright)(\s*(©|\(c\)))?\s*\d{4}(\s*[-–]\s*\d{4})?", re.I)
 SENT_SPLIT = re.compile(r"(?<=[.!?])\s+(?=[A-Z\"'“(])")
-TRACK_PARAMS = re.compile(r"^(utm_|fbclid|gclid|mc_|_ga|ref$|refcode|source$)", re.I)
+TRACK_PARAMS = re.compile(r"^(utm_|fbclid|gclid|wbraid|gbraid|msclkid|dclid|igshid|ttclid|twclid|li_fat_id|"
+                          r"mc_|_ga|_gl|_hs|hsCta|mkt_tok|srsltid|gad_|s_kwcid|ref$|refcode|source$)", re.I)
 DISCLAIMER = re.compile(r"(paid for by[^.\n]{3,140})", re.I)
 YEAR = re.compile(r"\b(20[12]\d)\b")
 
 
-class Meta(HTMLParser):
+class Page(HTMLParser):
+    """One pass over the HTML: title, description, <a href> targets and visible text blocks."""
     def __init__(self):
         super().__init__(convert_charrefs=True)
-        self.title, self.desc, self.links, self._in_title = "", "", [], False
+        self.title, self.desc, self.links, self.blocks = "", "", [], [[]]
+        self._skip, self._in_title = 0, False
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
         if tag == "title": self._in_title = True
         elif tag == "meta" and (a.get("name") or a.get("property") or "").lower() in ("description", "og:description"):
             self.desc = self.desc or (a.get("content") or "").strip()
         elif tag == "a" and a.get("href"): self.links.append(a["href"].strip())
+        if tag in SKIP_TAGS: self._skip += 1
+        if tag in BLOCK_TAGS: self.blocks.append([])
+    def handle_startendtag(self, tag, attrs):
+        self.handle_starttag(tag, attrs)
+        if tag in SKIP_TAGS: self._skip -= 1
     def handle_endtag(self, tag):
         if tag == "title": self._in_title = False
+        if tag in SKIP_TAGS and self._skip: self._skip -= 1
+        if tag in BLOCK_TAGS: self.blocks.append([])
     def handle_data(self, d):
         if self._in_title: self.title += d
+        elif not self._skip: self.blocks[-1].append(d)
+
+
+def sentences(paragraphs):
+    """one sentence per line; noise lines dropped; copyright years neutralised"""
+    out = []
+    for para in paragraphs:
+        para = COPYRIGHT.sub("© YEAR", " ".join(para.split()))
+        if not para: continue
+        for s in SENT_SPLIT.split(para):
+            s = s.strip()
+            if s and not is_noise(s): out.append(s)
+    return out
 
 
 def norm_link(base, href):
@@ -88,33 +138,37 @@ def norm_link(base, href):
     return urlunparse((u.scheme, u.netloc.lower().removeprefix("www."), u.path.rstrip("/") or "/", "", q, ""))
 
 
+@dataclasses.dataclass
+class PageData:
+    """normalised page. text, main, links and meta are the snapshot files, so nothing volatile
+    (fetch time, response time, size) goes into them; hrefs are the raw link targets for the crawler."""
+    text: str
+    main: str
+    links: list
+    meta: dict
+    hrefs: list
+
+
 def normalise(html, final_url):
-    text = trafilatura.extract(html, output_format="txt", include_comments=False,
-                               include_tables=True, favor_recall=True) or ""
-    lines = []
-    for para in text.splitlines():
-        para = " ".join(para.split())
-        if not para: continue
-        for s in SENT_SPLIT.split(para):
-            s = s.strip()
-            if s and not NOISE_LINE.match(s): lines.append(s)
-    p = Meta()
-    try: p.feed(html)
+    p = Page()
+    try: p.feed(html); p.close()
     except Exception: pass
+    full = sentences("".join(b) for b in p.blocks)
+    main = sentences((trafilatura.extract(html, output_format="txt", include_comments=False,
+                                          include_tables=True, favor_recall=True) or "").splitlines())
     links = sorted({l for l in (norm_link(final_url, h) for h in p.links) if l})
     hrefs = [urljoin(final_url, h).split("#")[0] for h in p.links
              if not h.startswith(("javascript:", "mailto:", "tel:", "#", "data:"))]
-    body = " ".join(lines)
-    # The "Paid for by" disclaimer lives in the footer, which main-content extraction
-    # removes, so search the whole visible page text for it.
-    visible = re.sub(r"(?is)<(script|style|noscript)[^>]*>.*?</\1>|<[^>]+>", " ", html)
-    m = DISCLAIMER.search(" ".join(visible.split()))
-    meta = {"final_url": final_url,
+    body = " ".join(full)
+    m = DISCLAIMER.search(body)
+    meta = {"format": FORMAT,
+            "final_url": final_url,
             "title": " ".join(p.title.split()),
             "description": " ".join(p.desc.split()),
             "paid_for_by": " ".join(m.group(1).split()) if m else None,
             "years_mentioned": sorted(set(YEAR.findall(body)))}
-    return "\n".join(lines) + ("\n" if lines else ""), links, meta, hrefs
+    as_file = lambda ls: "\n".join(ls) + ("\n" if ls else "")
+    return PageData(as_file(full), as_file(main), links, meta, hrefs)
 
 
 # ---------------------------------------------------------------- politeness
@@ -241,19 +295,20 @@ def fetch_page(rec, run, page_dir, hosts):
         rec.error = "not_html"; return []
     enc = r.encoding if r.encoding and r.encoding.lower() != "iso-8859-1" else "utf-8"
     with _parse_lock:
-        text, links, meta, hrefs = normalise(raw.decode(enc, errors="replace"), r.url)
-    rec.text_chars, rec.low_text = len(text), len(text) < 200
+        pg = normalise(raw.decode(enc, errors="replace"), r.url)
+    rec.text_chars, rec.low_text = len(pg.text), len(pg.text) < 200
     rec.first_seen = not os.path.exists(os.path.join(page_dir, "text.md"))
     os.makedirs(page_dir, exist_ok=True)
-    ch = write_if_changed(os.path.join(page_dir, "text.md"), text.encode())
-    ch |= write_if_changed(os.path.join(page_dir, "links.json"), (json.dumps(links, indent=0) + "\n").encode())
-    ch |= write_if_changed(os.path.join(page_dir, "meta.json"), (json.dumps(meta, indent=1, sort_keys=True) + "\n").encode())
+    ch = write_if_changed(os.path.join(page_dir, "text.md"), pg.text.encode())
+    write_if_changed(os.path.join(page_dir, "main.md"), pg.main.encode())   # reading view; not used for change detection
+    ch |= write_if_changed(os.path.join(page_dir, "links.json"), (json.dumps(pg.links, indent=0) + "\n").encode())
+    ch |= write_if_changed(os.path.join(page_dir, "meta.json"), (json.dumps(pg.meta, indent=1, sort_keys=True) + "\n").encode())
     rec.changed = ch
     if ch and run.raw_dir:                       # keep raw HTML only when content changed
         d = os.path.join(run.raw_dir, run.day, rec.site_id); os.makedirs(d, exist_ok=True)
         with gzip.open(os.path.join(d, ("_home" if rec.is_home else rec.page) + ".html.gz"), "wb") as f:
             f.write(raw)
-    return hrefs
+    return pg.hrefs
 
 
 def in_scope(url, hosts, prefix):
