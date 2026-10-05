@@ -33,6 +33,30 @@ def page(title, paras, links=()):
             f"{body}</main><footer>Paid for by Friends of {title}.</footer></body></html>")
 
 
+def noisy_page(days, raised, year, utm):
+    """the same page on two days, differing only in noise: countdown widget, donation progress,
+    copyright year, cookie banner wording and a tracking parameter on a link"""
+    return (f'<html><head><title>Sam Roe</title></head><body><div id="cookie">This site uses cookies. '
+            f'<button>Accept all</button></div><nav><a href="/issues?utm_campaign={utm}&amp;id=1">Issues</a></nav>'
+            f'<main>{"".join(f"<p>{x}</p>" for x in OTHER)}'
+            f'<div class="countdown"><span>{days}</span><span>Days</span><span>0{days % 7}</span><span>Hours</span></div>'
+            f'<p>{days} days until Election Day</p><div class="thermo">${raised:,} raised of $50,000 goal</div></main>'
+            f'<footer>Copyright © {year} Friends of Sam Roe. Paid for by Friends of Sam Roe.</footer></body></html>')
+
+
+ACCORDION = ["Pat will cap insulin at $35 a month.", "Pat backs a public option in every county."]
+ACCORDION2 = "Pat will cap insulin at $25 a month for every patient."
+
+
+def collapsed_page(health):
+    """content that a browser hides until clicked: a display:none tab and a <details> accordion"""
+    return ('<html><head><title>Pat Moe</title></head><body><main><h1>Pat Moe</h1>'
+            f'<p>{OTHER[0]}</p><div class="tab-pane" style="display:none" aria-hidden="true">'
+            '<p>Pat grew up on a dairy farm outside town.</p></div>'
+            f'<details><summary>Health care</summary>{"".join(f"<p>{x}</p>" for x in health)}</details>'
+            '</main><footer>Paid for by Pat Moe for Congress.</footer></body></html>')
+
+
 def filler(topic):
     return [f"This page explains the candidate's plan on {topic} in detail for voters.",
             f"Read more about why {topic} matters to families across the district."]
@@ -69,8 +93,10 @@ def build_sites(offsite):
         "edited":    ({"index.html": page("Jane Doe for Congress", ISSUES)},
                       {"index.html": page("Jane Doe for Congress", [ISSUES[0], REWORDED, ISSUES[2]])}),
         "unchanged": (home(OTHER), home(OTHER)),
-        "noisy":     (home(OTHER + ["12 days until Election Day", "$12,000 raised of $50,000 goal"]),
-                      home(OTHER + ["11 days until Election Day", "$14,500 raised of $50,000 goal"])),
+        "noisy":     ({"index.html": noisy_page(12, 12000, 2025, "fall")},
+                      {"index.html": noisy_page(11, 14500, 2026, "gotv")}),
+        "collapsed": ({"index.html": collapsed_page(ACCORDION)},
+                      {"index.html": collapsed_page([ACCORDION2, ACCORDION[1]])}),
         "down":      (home(OTHER), None),
         "campaign":  (camp1, camp2),
         "big":       (big, big),
@@ -161,7 +187,7 @@ class DailyRunOverTwoDays(unittest.TestCase):
         t0 = time.monotonic()
         run(DAY1)
         cls.day1_text = {sid: Path(cls.repo, "sites", sid, "text.md").read_text()
-                         for sid in ("edited", "unchanged", "noisy", "down")}
+                         for sid in ("edited", "unchanged", "noisy", "down", "collapsed")}
         for sid, (_, day2) in cls.sites.items():         # switch every site to its day-2 version
             if day2 is None:
                 cls.servers[sid].shutdown(); cls.servers[sid].server_close()
@@ -210,11 +236,47 @@ class DailyRunOverTwoDays(unittest.TestCase):
         self.assertNotEqual(self.log2["down"]["error"], "")      # and the failure is logged
 
     def test_summary_counts_sites_reached_separately_from_fetched_ok(self):
-        # day 2: broken, limited, edited, unchanged, noisy, campaign, big answered 200; blocked 403; down never answered
-        self.assertEqual(self.summary2["sites"], 9)
-        self.assertEqual(self.summary2["reached"], 8)
-        self.assertEqual(self.summary2["ok"], 7)
+        # day 2: 8 sites answered 200 (all but blocked and down); blocked answered 403; down never answered
+        self.assertEqual(self.summary2["sites"], 10)
+        self.assertEqual(self.summary2["reached"], 9)
+        self.assertEqual(self.summary2["ok"], 8)
         self.assertEqual(self.summary2["errors"].get("http_403"), 1)
+
+    # ---- full visible text and noise rules (#5)
+    def test_text_in_hidden_tabs_and_accordions_is_captured(self):
+        text = self.day1_text["collapsed"]
+        self.assertIn("Pat grew up on a dairy farm outside town.", text)
+        self.assertIn(ACCORDION[0], text)
+
+    def test_edit_inside_collapsed_section_is_recorded(self):
+        self.assertEqual(diff_lines(self.repo, "sites/collapsed/text.md"), ([ACCORDION[0]], [ACCORDION2]))
+        self.assertEqual(self.log2["collapsed"]["changed"], "True")
+
+    def test_text_is_stored_one_sentence_per_line(self):
+        lines = Path(self.repo, "sites", "edited", "text.md").read_text().splitlines()
+        for s in (ISSUES[0], REWORDED, ISSUES[2]):
+            self.assertIn(s, lines)
+
+    def test_each_page_stores_full_text_main_text_links_and_metadata(self):
+        d = Path(self.repo, "sites", "noisy")
+        self.assertEqual({f.name for f in d.iterdir()}, {"text.md", "main.md", "links.json", "meta.json"})
+        self.assertIn(OTHER[0], (d / "main.md").read_text())
+        meta = json.loads((d / "meta.json").read_text())
+        self.assertEqual(set(meta), {"format", "final_url", "title", "description", "paid_for_by", "years_mentioned"})
+        self.assertEqual(meta["paid_for_by"], "Paid for by Friends of Sam Roe")
+        self.assertIn("Paid for by Friends of Sam Roe.", (d / "text.md").read_text())   # footer is in the full text
+
+    def test_tracking_parameters_are_removed_from_links(self):
+        links = json.loads(Path(self.repo, "sites", "noisy", "links.json").read_text())
+        self.assertTrue(any(l.endswith("/issues?id=1") for l in links), links)
+        self.assertFalse(any("utm_" in l for l in links))
+
+    def test_no_volatile_values_in_snapshot_files(self):
+        for f in Path(self.repo, "sites").rglob("*"):
+            if f.is_file():
+                body = f.read_text()
+                for v in (DAY1, DAY2, "elapsed", "fetched_at", "bytes"):
+                    self.assertNotIn(v, body, f)
 
     # ---- full-site crawl (#4)
     def test_crawl_follows_internal_links_up_to_three_clicks(self):
