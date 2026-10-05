@@ -18,10 +18,17 @@ site; a site answering 429/503 is left alone for the rest of the day.
 
 | Path | What |
 |---|---|
-| `sites/<site_id>/{text.md,links.json,meta.json}` | The homepage |
-| `sites/<site_id>/pages/<slug>/{text.md,links.json,meta.json}` | Every other page; `<slug>` is the page path plus a short hash |
+| `sites/<site_id>/{text.md,main.md,links.json,meta.json}` | The homepage |
+| `sites/<site_id>/pages/<slug>/{…same four files…}` | Every other page; `<slug>` is the page path plus a short hash |
 | `logs/<day>.csv` | One row per page fetched (or found gone) that day |
 | `logs/<day>-summary.json` | That day's totals |
+
+Per page: `text.md` is the full visible text, one sentence per line, including tabs and accordions, with known noise
+(countdowns, donation progress, cookie banners, copyright years) removed. **Changes are detected on this file.**
+`main.md` is the extracted main content, a reading view only. `links.json` is outbound links with tracking
+parameters removed. `meta.json` holds `format` (currently 2), final URL, title, description, "Paid for by" text and years
+mentioned. Nothing volatile (fetch time, size) is written to these files; that goes to `logs/`. The switch to format 2
+makes one run record a change on nearly every page; tools reading history should treat that commit as a format change.
 
 A file changes only when the page's content does, so `git log`/`git diff` on these paths are the change
 history. A page that has disappeared shows up as deleted files; compare with `--no-renames`, or Git may
