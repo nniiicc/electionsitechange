@@ -1,0 +1,66 @@
+My name is Dar'shun Kendrick, and I am running for Re-Election to support YOU and the over 60,000 residents of House District 95.
+For over 16 years, I have fought tirelessly to represent all those who deserve to have their voices heard, and the fight is not over yet.
+If you'd like to have YOUR voice heard, I'd love to speak with you.
+If you are a constituent of mine, I would like to hear from you.
+Book time with me below.
+We're Hiring for the 2027 Session!
+We are hiring for the 2027 Session!
+All positions are paid.
+To learn more about the positions and how to apply, please click on the button for the specific role.
+For any questions please reach out to Kristen Rafuse (Chief of Staff) at chief@kendrickforgeorgia.com
+My Endorsements
+My 2025-2026 Legislative Agenda
+I AM
+HIRING
+The office of State Representative Dar’shun Kendrick is looking for a 2026 Legislative Aide!
+Drafting weekly email blasts to constituents
+Helping organize events in the District and under the gold dome.
+Assisting Rep.
+Kendrick with legislation, including:
+- Drafting memos
+- Preparing for committee hearings and debates
+Supporting constiuent services and requests
+Working with other team members to implement Rep.
+Kendrick’s 2026 vision
+Being IN OFFICE at the Capitol 15 hours/week
+Interested?
+Email your Resume & a Letter of Interest to Chief of Staff Kristen Rafuse by OCTOBER 22ND.
+Platform
+- Violence Prevention Programs: Invest in youth mentorship, after-school programs, and community violence interruption initiatives to address root causes before crime occurs.
+- Emergency Response Expansion: Ensure communities have access to timely emergency response by strengthening partnerships with firefighters, EMTs, and mental health crisis teams.
+- Technology & Transparency: Use modern technology to improve efficiency and accountability, while protecting civil liberties.
+HB 478
+- Community-Centered Policing: Support initiatives that build trust between law enforcement and residents, including expanded training in de-escalation, bias awareness, and mental health crisis response.
+HB 16, HB 17, HB 21
+- Small Business Growth: Provide access to capital, tax incentives, and training for small business owners, especially women- and minority-owned enterprises.
+HR 6, HB 8, HB 1257, HB 1138
+- Workforce Development: Expand job training and apprenticeship programs to prepare workers for high-demand industries like technology, green energy, and healthcare.
+HB 7, HB 14, HB 512, HB 1195
+- Fair Wages & Benefits: Support policies that encourage living wages, paid family leave, and retirement security.
+- Lower the cost of insurance: Advocate for policies that support lowering insurance barriers to access to insurance as well as premiums for families HB 345, HB 477
+- Smart Sentencing Reform: Advocate for fair sentencing that distinguishes between violent and non-violent offenses, reducing mass incarceration.
+HB 496
+- Rehabilitation & Reentry: Expand access to education, vocational training, and mental health services in correctional facilities to prepare individuals for successful reentry.
+HB 497
+- Juvenile Justice: Prioritize rehabilitation over punishment for young people, with a focus on mentorship and alternatives to detention.
+HB 258, HB 88, HB 1110, HB 1137
+- Accountability & Equity: Ensure equal treatment under the law regardless of race, income, or background through transparency, oversight, and data-driven policy.
+HB 171
+- Protect Renters & Homeowners: Strengthen protections against unfair evictions, predatory lending, and housing discrimination.
+HB 715, HB 419, HB 903
+- Support for the Unhoused: Expand wraparound services—such as job training, addiction treatment, and mental health care—for individuals experiencing homelessness.
+- Pathways to Homeownership: Provide down payment assistance, financial literacy training, and support for first-time homebuyers to build generational wealth
+My Bills For 2025-2026 Legislative Session
+- MARTA I-20 East Extension: - HR 10
+- Require timely responses from property-management firm brokers: - HB 1258
+- Tax free month in August on groceries, gas and school supplies: - HB 1018
+- Housing | rentals owned by corporate investors assessed at 100% of value (vs. 40%): - HR 1047, HB 1017
+- Property Rights | Giving standing to anyone located within a subdivision to request that a squatter be removed from premises - HR 1046, HB 1016
+- Constitutional amendment allowing Georgia to have more than 1 business investment fund - HR 6
+- Rural tech workforce tax credit allowing a $4,000 income tax credit for graduates of a workforce readiness program - HB 7
+- Angel investor tax credit that allows a 30% income tax credit for investments in qualified high tech jobs BUT this bill REMOVES the requirement of being a qualified investor - HB 8
+- Insurance companies are prohibited from raising rates when there is significant legislation limited consumer pay outs and damages.
+Tort reform is being proposed by the governor under the excuse that insurance rates are skyrocketing.
+So if we are going to limit pay outs to hard working Georgians that have been injured, we can limit profits for insurance companies that are making record breaking profits - HB 345
+- Artificial intelligence bill that would require images generated for commercial use by artificial intelligence have a prominent disclaimer to the public that the image has been generated by artificial intelligence - HB 478
+- Creates a House study committee to review Georgia's investment funds here in the state and provide a report before the beginning of the 2026 legislative session - HR 557 (PASSED on 4/4/25)

@@ -1,0 +1,13 @@
+A lifelong resident of the 49th district, husband, and father of two, State Senator Drew Echols knows that nothing is more important than the environment in which we raise our children.
+The Echols family has a long history in Hall County.
+Now, Drew is ready to give back to our community to continue to make Hall County the best place to live, work, and raise a family.
+Growing up on Jaemor Farms, a family farm that he still co-owns with his father today, Drew learned the value of hard work and how to take a small orchard to a diversified multi-crop farm with over one million visitors annually.
+ABOUT DREW
+Senator Drew Echols is the conservative Republican leader we need in Atlanta and understands the needs of our community.
+As our State Senator, Drew has:
+- Stood up against the radical left
+- Improved transportation in Hall County
+- Defended our law enforcement
+- Gave parents a voice in their children’s education
+- Led the fight to secure our border and abolish sanctuary cities in Georgia
+- Protected the 2nd Amendment

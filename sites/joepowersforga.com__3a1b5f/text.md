@@ -1,0 +1,25 @@
+Empowering the People
+of District 155
+Joe is a dedicated candidate who genuinely cares about our community's future.
+His vision and policies resonate with the needs of District 155, and I am excited to support his campaign for the Georgia State House."
+- Gary, Registered Republican
+Dublin, GA
+I am genuinely dedicated to our community's future.
+I listen, lead and am ready to serve all the people of District 155 in the Georgia State House.My bi-partisan approach and support reflects my openess to shape and implement REAL solutions to our problems, like schools, tax structures, healthcare access, job creation, and housing availability.I'm running to represent YOU — not special interests, partisan players or my own bank account.
+I'm running to bring real solutions for communities across our district.
+And I have the patience, resilience, and guts to do it.
+I will stand with all of Laurens and Johnson counties at my side to make our District 155 the best it can be.
+The Issues
+> Stronger Education Systems
+> Putting Care Back in Healthcare
+> Data Centers Built Right with Community Benefits
+> Jobs, Growth & Opportunities
+> Utility Cost Down & Affordable Homes
+> Transparency & Accountability
+Join Joe!
+And help make our District 155 better!
+Join Our Campaign
+Want to know who currently represents you?
+Click the Georgia image.
+GET READY TO VOTE...FOR GOOD THINGS!
+November 3 - Election DayOctober 13-30 - Early VotingEarly voting & Election Daylocations may be different!

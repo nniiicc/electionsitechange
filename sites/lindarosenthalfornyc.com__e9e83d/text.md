@@ -1,0 +1,1 @@
+Whether it’s passing the Reproductive Health Act to protect a woman’s right to choose, making college affordable for immigrant children through the New York Dream Act, or passing the Climate Leadership and Community Protection Act to tackle global warming head on, Linda Rosenthal continues to push New York forward and make the state the progressive leader it should be.

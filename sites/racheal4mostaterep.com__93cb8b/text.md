@@ -1,0 +1,2 @@
+Get plugged in and stay Connected!
+FRIDAY UPDATES Watch the full episode 28 at Four States Homepage for ON THE RECORD Leaders in Education & Childcare · VOTE INDEPENDENT 2026 · Responsible Taxation · Accessible, Quality Healthcare · Sustainable Economic Growth · Leaders in Education & Childcare · VOTE INDEPENDENT 2026 · Responsible Taxation · Accessible, Quality Healthcare · Sustainable Economic Growth ·

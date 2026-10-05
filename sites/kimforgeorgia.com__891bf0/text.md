@@ -1,0 +1,5 @@
+Kim Jackson serves as Senator for Georgia State Senate District 41, representing portions of Dekalb County.
+Kim works every day to build a safer, fairer, and more prosperous Georgia, and bring the diverse voices of her district to the Capitol: immigrants, refugees, the unhoused, and people living on the margins.
+In her years in office, Kim has defended our voting rights against relentless attacks; authored life-saving legislation for stalking victims; secured unprecedented funds for Black farmers, preK programs, and those experiencing traumatic brain injuries; served as co-chair of the Mental Health Caucus and chair of the DeKalb County Delegation; and currently serves as Whip for the Senate Democratic Caucus.
+Most recently, Kim passed legislation to create an Address Confidentiality Program for survivors of domestic violence, stalking violence, and human trafficking.
+She, her wife, and two boys live on an urban farm in Stone Mountain with a menagerie of goats, ducks, honeybees, rabbits, and chickens.

@@ -1,0 +1,46 @@
+Vote With Hart!
+I’m Heather Hart, and I am running to serve Tega Cay and Fort Mill in the South Carolina State House because I believe that a government of the people should work for the people.
+Election Day is Tuesday, November 3rd, 2026!
+“I think a lot of folks who have been lifelong Republicans feel left behind by the current party, especially the Freedom Caucus that has tried to take a firm hold in our state and county.
+Thanks for being above the fray and being a voice for our community.”
+Fort Mill Resident
+Meet Heather Hart
+Hello, District 66!
+My family and I moved to the area six years ago to be near family and give our children the opportunity to learn and grow at the crown-jewel of school districts here in South Carolina.
+We feel so fortunate to have raised our family in this wonderful community and, earlier this year, I decided it was time to give back in a big way by running for State House.
+Over the years, I’ve watched Tega Cay and Fort Mill explode in population — and political division — and have grown increasingly concerned about our lack of serious, unifying leadership in Columbia.
+I decided to run because it is important to have a representative in Columbia who can bring people together, build bipartisan support, and protect our fast-growing community’s interests.
+Among my top priorities (outlined below) are:
+- Protecting Public Education
+- Strengthening Public Safety
+- Fixing Our Roads & Infrastructure
+- Improving the Cost & Quality of Living in South Carolina
+It is also very important to me to model unity, respect, accessibility, and a commitment to representing everyone — regardless of their politics.
+It’s time we bring some common sense and decency back to our politics — so, let’s start right here in District 66!
+Heather Hart
+My Priorities for Tega Cay & Fort Mill
+I am committed to addressing South Carolina’s unproductive, poorly prioritized political agenda.
+Based on what I hear most from residents in Tega Cay and Fort Mill, below is where I plan to start.
+What are your family’s top priorities?
+Please let me know by sending me an email at heather@hartforsc.com
+Protect Our Public Schools
+Use FMSD’s example of leadership as the #1 district in state to improve and protect public education here and statewide
+I will work to:
+Protect Our Classrooms and stop the Freedom Caucus from using our classrooms as a testing ground for their culture wars
+Keep Public Funds in Public Schools and stop expansion of the fraudulent private school voucher scheme
+Celebrate Our Teachers by increasing educator respect, pay, benefits, and tax incentives
+Champion Positive Parent-Teacher Relationships and stop the Freedom Caucus from pitting parents against educators under false pretenses
+Strengthen Public Safety
+Make District 66 SC’s Safest Place to Live with a 360 Approach to Public Safety
+I will work to:
+Support Local Law Enforcement & First Responders by ensuring they have what they need to recruit, retain, and resource their agencies effectively
+Move Silfab Solar Out of Fort Mill and rebuild community trust through a formal, transparent investigation
+Address Environmental Toxins that threaten our air, water, and the health of District 66 residents young and old
+Protect Our Natural Resources from closed door deals that enrich out-of-state corporations and put residents and communities at risk
+Fix Our Roads and Traffic
+Ensure Our Growing Area is Resourced Appropriately to Maintain Our Charm
+I will work to:
+Fix Our Crumbling Roads by fighting for the state to address this issue head on with new thinking, funding, and incentives for fast, high quality repairs
+Proactively Address Traffic by partnering with SCDOT, the county and local councils before problems arise
+Ensure Responsible Spending by the state that prioritizes District 66 infrastructure and growth
+Incentivize Faster Construction by better allocating the budget to allow for larger, faster crews, and happier, safer residents and local businesses

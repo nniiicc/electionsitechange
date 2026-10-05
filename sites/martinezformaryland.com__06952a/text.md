@@ -1,0 +1,43 @@
+MAP OF DISTRICT 22
+Meet Majority Whip Ashanti Martinez
+"I was raised in New Carrollton, attended school at St.
+Mary's Landover Hills, and graduated from Parkdale High School.
+I know the challenges and triumphs our community has faced."
+Throughout my career as a Nonprofit Lobbyist, Legislative Staffer, and Community Advocate, I’ve brought people together to deliver results.
+As House Majority Whip, I represent all members of our community, fight economic and housing inequality, support green policies, protect our neighborhoods from Trump and ICE while delivering results for our district.
+I bring that style of leadership to Annapolis - and I will always have your back!
+INVESTING IN DISTRICT 22
+As your Delegate, I secured more than $18 million in state capital funding to support healthcare, transportation, parks, schools, economic development, public safety, and community infrastructure throughout District 22.
+$18,001,000
+Total State Investment Secured
+| Community | Project | Impact | State Investment |
+|---|---|---|---|
+| Lanham / Healthcare | | | |
+| Lanham | Luminis Health Doctors Community Medical Center Improvements | Strengthens healthcare infrastructure and expands access to care for families across Prince George’s County. | $10,500,000 |
+| Lanham | Additional Luminis Health Doctors Community Medical Center Funding | Supports continued investment in patient care, hospital capacity, and critical medical services. | $626,000 |
+| Lanham | Doctors Hospital Blood Mobile | Expands access to lifesaving blood collection services throughout the community. | $200,000 |
+| Lanham | Lanham Boys & Girls Club Sports Park Renovation | Modernizes recreational facilities for youth, families, and community programming. | $350,000 |
+| New Carrollton | | | |
+| New Carrollton | Prince George’s County Boys & Girls Clubs New Carrollton Clubhouse | Expands youth programming, recreation, mentorship, and safe community space. | $1,000,000 |
+| New Carrollton | Harland Street Pool Property | Supports the preservation and improvement of a key community recreational asset. | $250,000 |
+| Greenbelt | | | |
+| Greenbelt | Braden Field | Enhances athletic and recreational opportunities for residents and families. | $1,000,000 |
+| Greenbelt | Buddy Attick Park Path & Performance Project | Improves park access, walkability, community gathering space, and outdoor programming. | $300,000 |
+| Greenbelt | Greenbelt Museum Visitor & Education Center | Supports historic preservation, education, and cultural programming. | $300,000 |
+| Greenbelt | Greenbelt Community Center Elevator Replacement | Improves accessibility for seniors, residents with disabilities, families, and visitors. | $200,000 |
+| Riverdale Park | | | |
+| Riverdale Park | Town of Riverdale Park Hiker/Biker Trail | Expands safe pedestrian and bicycle connectivity. | $500,000 |
+| Riverdale Park | Riverdale Purple Line Neighborhood Connectivity Project | Improves neighborhood access to transit and supports safer connections around the Purple Line. | $325,000 |
+| Riverdale Park | 47th Avenue Stormwater Mitigation | Addresses flooding, improves drainage, and strengthens environmental resilience. | $300,000 |
+| Hyattsville | | | |
+| Hyattsville | Commercial District Revitalization | Supports local businesses, neighborhood investment, and economic development. | $300,000 |
+| Hyattsville | Economic Mobility & Workforce Development Project | Creates pathways to jobs, training, and economic opportunity. | $100,000 |
+| University Park | | | |
+| University Park | Town Hall Project | Supports improvements to municipal facilities and public services. | $200,000 |
+| University Park | University Park Elementary School Playground | Creates safer and more accessible recreational opportunities for students. | $150,000 |
+| Edmonston | | | |
+| Edmonston | Sidewalk Improvements | Improves pedestrian safety, walkability, and neighborhood connectivity. | $400,000 |
+| Districtwide / Route 1 / Unincorporated Communities | | | |
+| District 22 | Route 1 Public Art Wall | Supports placemaking, beautification, public art, and community identity. | $500,000 |
+| Unincorporated District 22 | Prince George’s County DPW&T Sign and Road Improvements | Improves roadway safety, signage, and transportation infrastructure in unincorporated communities. | $500,000 |
+| Total State Investment Secured | | | $18,001,000 |

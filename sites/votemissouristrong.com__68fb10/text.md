@@ -1,0 +1,16 @@
+“Missouri Strong leadership means learning from hardship and using that experience to help others.”
+- DR.
+JEFF BROWN
+DR.
+JEFF BROWN:
+CONSERVATIVE FIGHTER
+FOR A STRONG MISSOURI
+CONSERVATIVE FIGHTER:
+Dr.
+Jeff Brown will fight for conservative values in Jefferson City — protecting life, standing with law enforcement, defending the Second Amendment, and demanding responsible government that respects taxpayers and puts Missouri families first.
+DEEP LOCAL ROOTS:
+Born and raised in Lebanon, Jeff Brown grew up working in his family’s small business, Quality Drycleaners — one of the community’s longest-operating businesses — learning firsthand the values of hard work, responsibility, and service.
+Jeff is a proud graduate of Lebanon High School.
+PROVEN COMMUNITY LEADER:
+Dr.
+Jeff Brown is a Lebanon small business owner, nationally recognized psychologist, mental health champion, and published author who has spent his career helping individuals, families, and communities grow stronger and overcome challenges.

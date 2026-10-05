@@ -1,0 +1,82 @@
+2.7 BILLION DELIVERED FOR PA-12
+- $398.6M to Bring 1,000 New Green, Good Paying Jobs to the Mon Valley
+- $150M to Provide More Reliable, Convenient, and Faster Bus Transit
+- $143M Infrastructure Grant for Passenger Rail between Pittsburgh and Harrisburg
+- $142M Infrastructure Grant to Make Major Safety and Traffic Mitigation Improvements to the I-376 Parkway and Martin Luther King Jr.
+East Busway
+- $52.4M to Replace Lead Service Lines Ensuring Access to Safe, Clean Water
+- $50M to Revitalize Affordable Housing at Bedford Dwellings
+- $34.6M to help Pittsburgh Lead the Way in Space Exploration
+- Additional $32.1M to Pittsburgh Water and Sewer Authority to Continue Aggressive Removal of Lead Pipes
+- $28M to Make Regional Transit Accessible for Individuals with Disabilities
+- $20M to Reduce Automobile Fatalities
+- $19.7M to Deliver the Largest-Ever Investment to Lower Energy Bills
+- $11.2M Infrastructure Investment for Airports to Improve Safety, Transition to Clean Energy & Create Thousands of Good Paying Jobs.
+- $10M to Help Small Manufacturers Build the Green Technologies They Need
+- $4.9M to Fuel Scientific Discovery and Train an Expert Workforce
+- $3M to deliver Committee-Passed Appropriations to House 622 People through the Allegheny County’s 500 in 500 Housing Initiative
+- $1.8M to Monitor & Combat Harmful Levels of Air Pollution to Protect Our Communities
+- $1.4M to Reconnect Pittsburgh’s North Side Neighborhood
+- $1.2M to Expand Diaper Distribution Networks for Over 2,000 Children in Allegheny and Westmoreland County
+- $1M to Rehabilitate the Historic Carnegie Library of Homestead
+- $1M for the Blight Elimination and Employment Initiative in the Borough of North Braddock, Removing 700 Abandoned Properties and Creating Local Jobs
+- $500,000 to restore Illegally Frozen EPA Grants to fund Community-Led Pollution Cleanup in Western PA
+- $450,000 in Federal Funding for The Trade Institute of Pittsburgh’s New Transitional Jobs Program (TIPX), Expanding Pathways to Good Jobs in PA-12
+- $330,000 to Combat Hunger and Strengthen Local & Regional Food Systems
+- $371,000 to Build Composting Systems in Underserved Neighborhoods
+- $190,000 to Protect Our Communities and Children from Toxic Lead Exposure
+LEGISLATING FOR THE PEOPLE
+- Passed Through Committee $14.2M in Community Project Funding By Committee to Help With Food Assistance, Educate on Antisemitism, Build Affordable Housing, Rebuild Infrastructure, and So Much More
+- Introduced and Passed a Motion to Subpoena the Department of Justice to Release the Full, Unredacted Jeffrey Epstein Files
+- Introduced the Abolish Super PACs Act to End Unlimited Corporate Spending and Restore Power to the People
+- Visited Moshannon Valley Detention Center to Conduct Oversight of Alleged ICE Abuses and Protect Immigrant Neighbors
+- Introduced The Hazard Pay for Health Care Workers Act to Raise Hazard Pay & Strengthen Protections for Health Care Workers
+- Founded the First-Ever Congressional People’s Environmental Justice Caucus
+- Voted to Subpoena Elon Musk for Corruption and Misuse of Data as Head of the Department of Government Efficiency
+- Introduced Access to School Supplies Act and Distributed School Supplies with The Education Partnership
+- Coordinated Roundtables to Combat Food Insecurity with Local Food Banks
+- Introduced the People’s Response Act to Replace Punishment with Care by Investing in Community Safety and Mental-Health First Responders
+- Co-led the Drain the Swamp Act to Reinstate Lobbying Bans and End Political Corruption in Washington
+- Passed an Amendment to Protect Children’s Health by Increasing Funding for Testing and Remediation of Lead Contamination at Schools and Child Care Facilities
+- Partnered with Gov.
+Josh Shapiro on No-Cost Breakfast for Students, Increasing Teacher Pay, Improving Access to STEM Education and Developing our Workforce
+- Advocated for Medicare and Medicaid with Seniors in Homewood, Lawrenceville, East Liberty, Plum, Jeannette, and McKeesport
+- Hosted Health and Human Services Secretary Becera for a Community Roundtable on Lowering Health Care Costs for Seniors
+- Organized a Small Business Roundtable to Discuss Financing Resources for Small Businesses Manufacturing Here in PA
+- Introduced and Passed Through Committee the Bipartisan Abandoned Well Remediation Act – Which Passed Through the Science, Space and Technology Committee With a Bipartisan Vote
+- Co-Led introducing the OLIGARCH Act to Stop Billionaires from Cheating the System on the Backs of Hardworking Families
+- Met with Federal Workers During the Government Shutdown to Raise Awareness and Fight for Their Livelihoods and Services They Provide in PA-12
+Summer Lee on the Issues
+Environmental Justice
+On any given day, our region suffers from some of the poorest air quality in the nation.
+Environmental Justice
+In Congress I will fight for a Green New Deal to transition to a 100% clean and renewable energy economy.
+Learn More
+Economic Justice & Union Jobs
+Right now, our economy works for the wealthy few and corporations at the expense of the working poor.
+Economic Justice & Union Jobs
+It’s time we center working people in our economic policies.
+Learn More
+Justice Reform
+Mass incarceration is the antithesis of building stronger families and communities.
+Justice Reform
+It’s time for a shift from investing in ineffective, punitive systems to investing in our future.
+Learn More
+Summer Lee on the Issues
+Environmental Justice
+On any given day, our region suffers from some of the poorest air quality in the nation.
+Environmental Justice
+In Congress I will fight for a Green New Deal to transition to a 100% clean and renewable energy economy.
+Learn More
+Economic Justice & Union Jobs
+Right now, our economy works for the wealthy few and corporations at the expense of the working poor.
+Economic Justice & Union Jobs
+It’s time we center working people in our economic policies.
+Learn More
+Justice Reform
+Mass incarceration is the antithesis of building stronger families and communities.
+Justice Reform
+It’s time for a shift from investing in ineffective, punitive systems to investing in our future.
+Learn More
+Take Action
+Join our people-powered campaign to send Summer to Congress.

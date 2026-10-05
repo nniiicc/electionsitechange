@@ -1,0 +1,32 @@
+Terry Burke Dotson running for State Representative
+FILED ON: 6/2/2022
+HOUSE . . . . . . . . . . . . . . .
+No.4954
+House bill No. 4930, as changed by the committee on Bills in the Third Reading, and as
+amended and passed to be engrossed, by the House.
+June 29, 2022.
+“Gender-affirming health care services”, all supplies, care and services of a
+medical, behavioral health, mental health, surgical, psychiatric, therapeutic, diagnostic,
+preventative, rehabilitative or supportive nature relating to the treatment of gender
+dysphoria.
+“Legally-protected health care activity”, (i) the exercise and enjoyment, or
+attempted exercise and enjoyment, by any person of rights to reproductive health care
+services or gender- affirming health care services secured by the constitution or laws
+of the commonwealth;
+(1)(a) Upon recommendation of an application assistant, an adult person, a parent
+or guardian acting on behalf of a minor, or a guardian acting on behalf of an
+incapacitated person may apply to the secretary to have an address designated by the
+secretary serve as the person’s address or the address of the minor or incapacitated
+person; or
+(b) Individuals engaged in the provision, facilitation or promotion of legally-protected
+health care activity may apply to the secretary to have an address designated by the
+secretary serve as the health care professional’s address; provided, that in such
+cases, no recommendation of an application assistant shall be required.
+Terry Burke DOTSON Opposes Sex Changes WITHOUT Parental Consent
+Gender-affirming “MINORS” have Legally-protected “RIGHTS” to ALL supplies,
+care and services related to the treatment of gender dysphoria or
+dissatisfaction…including those…
+”WITHOUT PARENTAL CONSENT”
+“MINORS” can even be given a “DIFFERENT ADDRESS” designated by the
+secretary.
+I believe in “PARENTS’ RIGHTS”…not Commonwealth’s control.

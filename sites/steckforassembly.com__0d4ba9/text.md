@@ -1,0 +1,21 @@
+Progressive Leadership.
+Upstate Values.
+We need better government in New York State: responsive, intelligent, and effective.
+For too long, powerful entrenched interests have thwarted progressive change in New York.
+In 2012, the 110th Assembly District (Colonie, Niskayuna, Guilderland and Schenectady) elected a legislator with years of experience who has a record of independence advocating for voters at the community level.
+Re-elect Phil Steck, for Assembly on either the Democratic, Independence, or Working Families lines.
+When working people rise, we ALL rise.
+After nearly three decades of grassroots involvement in the Town of Colonie, having served in the County Legislature from 2000 to 2012, and now in the Assembly since 2012, Phil Steck has gained an understanding of issues that must be addressed at the State level such as:
+- Supporting the Climate and Community Investment Act and the Green Buildings Act
+- Promoting responsible economic development
+- Raising $14-16 billion per year for infrastructure through a minuscule (.0025) sales tax on securities, which includes $2 billion per year for green energy
+- Replacing a Medicaid system that is plagued by fraud and high administrative costs with a more efficient system that provides better care at less cost
+- Phil is a steadfast supporter of the New York Health Act, also known as Medicare for All or Single-Payer Health insurance
+- Preserving public and private pensions, health benefits for our State retirees, and the availability of necessary services for senior citizens
+- Protecting the reproductive rights of women and guaranteeing equal pay for equal work
+- Funding schools and supporting educators
+- Increased aid to local schools by more than a 20% in the 2022-2023 state budget
+- Fighting corruption in State government
+- Phil drafted a bill to prevent politicians who have left office due to wrongdoing or have been convicted of a crime from continuing to tap campaign funds
+- Protecting net neutrality through municipal broadband
+- Advocating for gun control, making sure that all guns in this State are "well-regulated"

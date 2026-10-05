@@ -1,0 +1,3 @@
+Geoff Luxenberg announces his campaign for reelection to serve as State Representative for Connecticut’s 12th District.
+Proudly representing Manchester, Geoff has delivered meaningful results for families, from strengthening tenant protections and securing historic middle-class tax cuts to investing in local schools, community infrastructure, and fighting to close the gender pay gap so that equal work earns equal pay.
+With a proven record of leadership, Geoff will continue standing up for affordable housing, quality education, economic opportunity, and fairness for all residents of Manchester and beyond.

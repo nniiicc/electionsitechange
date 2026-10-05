@@ -1,0 +1,79 @@
+Assembly Member Khaleel M.
+Anderson
+Assembly Member Khaleel M.
+Anderson proudly represents Assembly District 31 in Queens.
+He is the youngest Black Assembly Member in New York State and a dedicated community organizer and activist standing in solidarity with working-class families.
+His office has worked to resolve hundreds of constituent concerns, trained over a hundred of community members with mental health first aid, and led a wide-scale COVID-19 vaccination effort to ensure that Assembly District 31 had access to vaccines in the height of the pandemic.
+As your Assembly Member, Khaleel is committed to fighting against the systemic injustices that have held our community back for decades.
+IN THE NEWS
+Archive
+-
+October 2020
+- Oct 8, 2020 Khaleel Anderson makes history Oct 8, 2020
+-
+July 2020
+- Jul 22, 2020 Three More Assembly Incumbents Lose to Primary Challengers, Bringing Total to at Least Six Jul 22, 2020
+- Jul 16, 2020 Young progressive declares victory in southeast Queens Assembly race Jul 16, 2020
+- Jul 16, 2020 Khaleel Anderson comes out on top.
+Young progressive leads AD 31 after absentee count Jul 16, 2020
+- Jul 14, 2020 Anderson wins primary for vacant Southeast Queens Assembly seat Jul 14, 2020
+-
+April 2020
+- Apr 8, 2020 OPINION: COVID-19 crisis highlights need to close private jails and prisons Apr 8, 2020
+-
+March 2020
+- Mar 30, 2020 Working Families Party backs Khaleel Anderson in vacant Assembly District 31 Mar 30, 2020
+-
+January 2020
+- Jan 30, 2020 Fundraising heats up ahead of likely Assembly special election Jan 30, 2020
+-
+November 2019
+- Nov 19, 2019 Rockaway activist promises to give a voice to young people in his run for Titus’ Assembly seat Nov 19, 2019
+- Nov 19, 2019 You could say organizing is in my DNA.
+Nov 19, 2019
+-
+March 2019
+- Mar 7, 2019 Bright Eyed Activist Seeks Assembly Seat Mar 7, 2019
+-
+February 2019
+- Feb 21, 2019 Khaleel Anderson Announces Run for State Assembly Feb 21, 2019
+IN THE DEMOCRATIC CITY PRIMARIES, ASSEMBLY MEMBER ANDERSON HAS ENDORSED THE FOLLOWING CANDIDATES:
+2021 General Election Endorsements:
+THANK YOU ASSEMBLY DISTRICT 31
+NEWS :
+Far Rockaway organizer Khaleel Anderson has won an open seat in Southeast Queens’ Assembly District 31, becoming the youngest Black state lawmaker in New York history.
+Anderson, 24, received about 89 percent of the in-person vote with 99 percent of the ballots tallied in District 31, according to New York City Board of Elections results.
+The district includes a portion of Southeast Queens near JFK Airport, South Ozone Park and the Eastern portion of the Rockaway Peninsula.
+The Republican candidate, Joseph Cullina, received about 11 percent of the vote.
+Anderson said he was “honored” to become the youngest Black candidate elected to state office and the third youngest person ever elected to the state Assembly.
+Future President Theodore Roosevelt won a Manhattan assembly district at 23 in 1881.
+Assemblymember Richard Gottfried was also 23 when he won his Manhattan seat in 1970.
+CAMPAIGN PRIORITIES
+We need to continue to fight to improve our schools, to protect our environment, prioritize young people and to take care of our elderly… read more below:
+FORWARD THINKING.
+UNITED TEAM.
+We will work for a state that educates our children, cares for our elders, and provides a safe, healthy and properous community for all of us.
+ENDORSEMENTS
+COVID-19 Relief Effort
+The Pandemic is killing us.
+The first covid-19 diagnosis?
+In Far Rockaway.
+And you know why?
+We don’t have equal health care.
+We don’t get quality care.
+And many of us-even now-get no care.
+They say stay home.
+But most of us can’t.
+Many of us have essential jobs that can’t be done at home.
+And we have to work to pay the landlord and to buy food.
+Every one of us can honor the memories of the many we have lost by supporting the Mutual Aid Network of Southeast Queens and The Rockaways.
+Twice weekly our teams of volunteers deliver grocery and ppe supplies to our seniors and the vulnerable in our community.
+And we know we can do more.
+We’re fighting, raising our voices as loud as we can, to tell the powerful the truth they must hear.
+Southeast Queens and The Rockaways demand more covid-10 testing sites.
+We demand critical income support for everyone who’s been told to stay home and not go to work, especially those who might even think they are unemployment insurance ineligible.
+Hazard pay for each of our essential worker neighbors is what we deserve.
+It’s not the best time to ask for contributions We know that.
+But we also know the oppression that made sure the first Covid-19 diagnosis would be here in our neighborhoods must end!
+And that only we, united, loud-maybe hurting-but strong, can stop the pain.
+Please contact us for more info on how to volunteer or contribute.

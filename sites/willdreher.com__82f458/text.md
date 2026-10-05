@@ -1,0 +1,27 @@
+We need a legislator willing to fight for solutions to these issues.
+I have the experience to do so:
+- I currently sue AI companies, and was the first candidate in the State prioritizing AI regulation earlier this year
+- I’m a former federal prosecutor who prosecuted sex traffickers on Aurora, and have a plan to tackle sex trafficking
+- I’m a former public school teacher, with an ironclad commitment to K-12 funding and improving outcomes
+- I’ve been an environmental and clean energy lawyer with the expertise to accelerate climate solutions
+- I’ve prosecuted Jan. 6 rioters and investigated officers for civil rights violations; that expertise will help in Olympia
+Endorsed by The Stranger
+"[H]is career trajectory shows he puts his money where his mouth is. . . .
+Candidates all the way down to county dogcatcher promise the SECB they’ll punish Trump’s goons, but Dreher has the rare distinction of having prosecuted 25 January 6th insurrectionists. . . .
+These days he’s at a Seattle law firm suing Apple for AI copyright infringement, which is more than most other candidates who have read the polling on AI and data centers and are running on opposing tech can muster . . . .
+He’s a fed, but we think he should be our fed.
+Let’s unleash this blue-blooded Yankee on the billionaire tech lobby that writes our laws in Olympia.
+Vote Dreher."
+Endorsed by Seattle City Attorney Erika Evans
+“I have known Will for years--he and I worked as a team to investigate and prosecute hate crimes and law enforcement officers who engage in misconduct.
+I know his work and his character.
+He will be a tremendous partner in Olympia, not only to keep our kids and communities safe, but to ensure that the next generation has open doors to opportunity.
+Join me in getting him to our State House!”
+Endorsed by Former Mayor Harrell's Chief Public Safety Officer Natalie Walton-Anderson
+“I have worked with Will for years.
+His beginnings as a public school teacher and his experience as a Supreme Court clerk have contributed to the talented attorney and dedicated public servant he is today.
+Will has helped protect our community from violence, drug trafficking, and hate crimes.
+We need more legislators in Olympia with his common-sense and earnestly balanced approach to public safety.”
+Endorsed by Seattle City Councilmember Dionne Foster
+"Will understands the urgency of tackling our housing affordability crisis and will stand up to special interests in Olympia and put working families first.
+At a time when rapid technological change is reshaping our economy and threatening jobs, Will will help ensure Washington leads on innovation while protecting kids and workers and expanding opportunity."

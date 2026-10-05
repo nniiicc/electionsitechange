@@ -1,0 +1,26 @@
+Dedicated to a Windsor County where everyone can thrive
+Joe believes in a community safety approach
+- Address the root causes of crime by investing in proactive solutions
+- Expand addiction treatment and recovery resources for Windsor County
+- Grow afterschool programs and teen centers to invest in youth belonging
+- Expand first responder teams to include mental health counselors and social workers to help deescalate problems before they require a law enforcement intervention
+- County wide effort to combat loneliness and isolation
+Joe supports a robust public education system
+- Community schools models that expand dental, primary and mental health care access
+- Helping Career and Technology Centers produce the next generation of skilled professionals
+- Strengthen early childhood care, preschool and Head Start in Windsor County
+- Grow the education workforce by building career pathways with a livable wage
+- Fight for educational equity where all children feel safe, valued and belong at school
+Joe works to expand housing and address affordability
+- Find creative changes to current regulations for working class families, first time homebuyers, historically excluded and unhoused community members
+- Expand public transportation to connect the county together
+- Support flood resilience and mitigation work, as well as the long term recovery in the county
+Joe Major is the Hartford town treasurer and a proven community leader who builds teams across political parties on the most pressing issues facing Windsor county.
+He currently is the Executive Director of the Upper Valley Aquatic Center and serves as the president of the White River Rotary.
+Joe sits on the boards of the Upper Valley Haven, Northern Stage Theater, Headrest, Junction Arts and Media, and the Governor's Committee of the Employment of People with Disabilities.
+He is also a board member of Vermont's League of Cities and Towns.
+A proud graduate of Howard University and a former officer in the US Army, Major comes from a family of service, instilling in him a strong sense of duty and dedication to community.
+Join us on social media for all the latest updates!
+Connect with Joe
+We are here to listen to your ideas, concerns, and hopes for our community.
+Reach out and let's make a difference together!

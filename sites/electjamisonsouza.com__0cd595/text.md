@@ -1,0 +1,9 @@
+MEET JAMISON SOUZA
+Jamison Souza is a lifelong Somerset resident and current member of the Somerset Board of Selectmen, where he has worked to connect everyday residents with responsive, accountable local government.
+He is running to represent the 5th Bristol District in the Massachusetts House of Representatives, which includes the communities of Dighton, Somerset, Swansea, and Taunton.
+Before serving as a Selectman, he spent eight years on the Somerset Planning Board and four years on the Somerset School Committee, giving him a ground-level understanding of how decisions at Town Hall and on Beacon Hill affect classrooms, neighborhoods, and taxpayers.
+Professionally, Jamison leads The Souza Group and is a Partner at Keller Williams South Watuppa, where he helped grow the office from about 20 agents to nearly 200 and built a top 10% regional team that has closed thousands of transactions for families, seniors, and small businesses.
+As Treasurer of the South Shore Realtors Association and the 2024 “Most Outstanding Realtor,” he oversees finances, sets policy, and coaches agents across the country—experience he’ll bring to Beacon Hill to write practical housing policy, cut red tape, and keep the real estate market working for regular people, not just big developers.
+Jamison’s real estate leadership shows he knows how to manage big budgets, complex deals, and high‑stakes decisions—the same skills he’ll use to fight for housing, small businesses, and working families as State Representative.
+At home, Jamison is a husband and father; he and his wife Jennifer are raising their two daughters in Somerset, the same community that shaped his own upbringing.
+His record of public service, business leadership, and community involvement drives his commitment to a strong, affordable, and opportunity‑rich South Coast for the next generation.

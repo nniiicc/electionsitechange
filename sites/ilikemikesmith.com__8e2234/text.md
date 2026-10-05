@@ -1,0 +1,42 @@
+State Representative MIKE SMITH
+Serving District 22: Pike Creek, Hockessin & Newark
+“Mike is an independent and effective leader who is always there to help our community.” – Nick, Hockessin
+It is an honor to serve as your State Representative, working with families and communities across Pike Creek Valley, Hockessin, and Newark.
+Since electing me as your State Representative in 2018, I have listened to the voices of our community and worked in a bipartisan manner on many initiatives including,
+- Worked with legislators from both sides of the aisle to secure funding to continue the operation of the Polly Drummond Hill Road Yard Waste Site
+- Co-sponsored legislation to support mental health counselors in elementary and middle schools.
+- Sponsored legislation to help law enforcement recruit and retain the next generation of officers to protect our community.
+- Co-sponsored legislation to fully restore the $500 senior property tax credit
+- Authored a bill to protect our pensioners and help our workforce shortage.
+- Secured funding for road, drainage and park improvements throughout 22nd District
+In addition, I have been appointed to examine key challenges faced by our neighbors across the district and the state.
+Through collaboration with community leaders, I work on the following task forces to present solutions designed to create a better future for Delawareans.
+- Public Education Compensation Committee
+- Redding Consortium for Educational Equity
+- Non-Acute Patient Medical Guardianship Task Force
+- Pharmacy Reimbursement Task Force
+- Domestic Violence Coordinating Council
+As your State Representative, I am proud to bring your voice to House Committees that focus on strategic direction for the following focus areas:
+- Economic Development/Banking/Insurance & Commerce
+- Education
+- Health and Human Development
+- Labor
+- Veteran Affairs
+- Revenue & Finance
+I love being an advocate for you – and I could not have been more honored to recently receive the following awards for service dedicated to children, education, small business and civility in public service.
+- Children’s Champion Award from the Delaware PTA
+- Free Enterprise Award from the NCC Chamber of Commerce
+- 2022 Small Business Guardian Award from the Delaware State Chamber of Commerce
+- Civility in Public Service Award from the University of Delaware Biden Institute
+My wife, Christy, and I, along with our two oldest boys – Braedon and Nathan – believe in public service.
+It’s a safe bet that Troy (almost two) will too, he loves people and most of his life has been spent as “Mayor Troy” at events with me.
+Inspired by my late grandmother, Nan, community service has become one of the building blocks of our family.
+From raising me at a young age to becoming her caregiver later in life, she taught me about kindness, respect, and understanding for everyone, the importance of giving back, and the benefit of going the extra mile to improve circumstances for others.
+The values that she instilled in me are one of the many reasons why I am committed to our community, driven to improve our education, healthcare, economic development, and the state budget.
+If you have ideas, concerns, or questions, please do not hesitate to contact me.
+I look forward to continuing conversations with you to discuss how I can best serve our friends, neighbors, business owners, and residents of the 22nd District.
+Together, let’s continue to make a difference for our community.
+Vote to re-elect me, Mike Smith as your State Representative on Tuesday, November 5th!
+Thank you,
+Mike Smith
+Delaware State Representative, District 22

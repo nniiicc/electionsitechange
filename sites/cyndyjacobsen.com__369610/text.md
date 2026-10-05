@@ -1,0 +1,23 @@
+ABOUT Cyndy
+Cyndy Jacobsen currently serves as the 25th district’s State Legislator after serving on the Puyallup City Council, teaching math at the Pierce College Puyallup Campus and working as an accountant.
+Her roots run deep in the community.
+Cyndy and her husband, Doug, have lived in the 25th district for more than three decades.
+When she realized that a change was desperately needed in her city’s leadership, she knocked on all of her neighbors’ doors and asked for their votes.
+Her community elected her to the Puyallup City Council, where she fought to bring a new vision of keeping taxes low, holding government accountable, cleaning up Clark’s Creek, and dramatically increasing our investment in first responders to make our community safer.
+Now as your State Representative, she believes in collaboration and that many of our local issues are best addressed at the state and regional level: homelessness and the dual problems of mental health and addiction; equitable traffic funding south of Seattle; and job creation here in our own district.
+She is principled, balanced, and experienced.
+Cyndy is proud to announce that she will be running to be your State Representative again in 2026!
+So, when she comes through your neighborhood, stop and speak with her about what is on your mind.
+Or reach out to her via email and start a conversation.
+Cyndy wants to hear from you!
+Cyndy's VALUES
+More than anything, Cyndy Jacobsen values family.
+Her family.
+Your family.
+That's why she taught math to people who were often re-entering the work force after a setback.
+It's why she served on the City Council and is now your State Representative.
+And it's why she's running to be our State Representative again:
+- To sensibly address the crisis of homelessness, addiction and mental health that plagues our community.
+- To get commuters out of traffic and into new local jobs by removing barriers to economic development.
+- And to represent the citizens of the 25th by standing firm against new taxes and bringing balance to the current one party rule.
+- To help keep our streets, neighborhoods, and families safe by funding police departments and passing measures to encourage police officer recruitment and incentivize retention.

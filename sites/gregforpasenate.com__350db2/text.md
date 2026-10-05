@@ -1,0 +1,3 @@
+Greg Bankos is running for Pennsylvania State Senate to bring practical leadership, lower costs, and results-driven solutions to Harrisburg.
+Greg believes that smaller government is better government and that providing necessary services should not be loaded with fraud, deception and favoritism.
+He rejects the Bucks County Political King using tax-payer funds to spread political activism while putting special interests above Common Interests.

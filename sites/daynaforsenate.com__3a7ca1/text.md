@@ -1,0 +1,2 @@
+Re-elect Dayna in november 2026 I’m GET INVOLVED “ “We made history in 2019 by flipping a senate seat after 40 years of one-party rule, but our work is not finished.
+In my third and final term in the Michigan Senate, I pledge to continue to try to make my constituents’ lives better so that we can all have whichever form of the American Dream that we desire.” ★★★★★ Senator Dayna Polehanki Meet Dayna Learn more

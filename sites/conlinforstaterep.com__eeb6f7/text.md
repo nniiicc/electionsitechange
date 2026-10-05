@@ -1,0 +1,26 @@
+"I am proud that the promises I made on the doors have been the promises I have delivered on in office."
+Dear Neighbor,
+My name is Jennifer Conlin, and I am your State Representative in Michigan’s House District 48.
+As a wife, mother, daughter, caregiver, and lifelong resident of Washtenaw County, I recognize the needs of our community and am committed to finding solutions.
+Before my time in the House, I had the opportunity to meet people from all over the world and share their stories through my career as a journalist.
+For more than twelve years, I have been covering Michigan, writing about small businesses, tourism, healthcare, arts and culture, and the economy—uniquely preparing me to navigate complex issues and amplify voices from all perspectives.
+My family has long lived in Washtenaw County, with relatives who have served in city, county, and state government.
+It is an honor to carry on their legacy and give back to a community that has always been and always will be very important to me.
+Now, I don't just want to chronicle issues in Michigan; I want to resolve them in Lansing.
+As your State Representative, I have worked tirelessly to approve legislation that directly benefits our community.
+This includes efforts in areas such as the criminal justice system, children's services, gun safety, environmental protection, highways, healthcare, and more.
+Together, I am determined that we can continue to find solutions to pressing issues and protect the rights of Michiganders.
+Let’s continue to make our district and state a more equitable, thriving place to live!
+Our District
+The 48th District
+The 48th District includes the following townships:
+Ann Arbor
+Dexter
+Genoa
+Hamburg
+Lyndon
+Northfield
+Putnam
+Waterloo
+Webster
+Additionally the 48th includes the northernmost precincts of the City of Ann Arbor and the Village of Pinckney.

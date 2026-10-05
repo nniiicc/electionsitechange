@@ -1,0 +1,14 @@
+top of page
+Legislative Priorities for the 141st
+★ ★ ★
+ENERGY & UTILITIES
+Relief for Household Electric Bills
+As Ranking Member of the Energy Committee, I'm fighting to remove hidden charges and mandate transparency to lower costs for families across Darien and Norwalk.
+HEALTHCARE & AFFORDABILITY
+A Pharmacist’s Perspective
+Leveraging my clinical background to champion drug-pricing transparency and patient protections, ensuring healthcare remains accessible and affordable for all constituents.
+ACCOUNTABLE GOVERNANCE
+Protecting the Taxpayer
+Ensuring common-sense fiscal policy through legislative control of spending, protecting local control of schools, and prioritizing people before party politics.
+Hear from Tracy
+bottom of page

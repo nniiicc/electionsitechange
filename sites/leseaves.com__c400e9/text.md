@@ -1,0 +1,12 @@
+top of page
+WHITE COUNTY VALUES
+to the State Capitol!
+Successfully taking
+Les Eaves is a
+CONSERVATIVE COMMON SENSE
+Voice
+★ A Husband, Father, and Grandfather
+★ An experienced Legislator serving as Chairman of House Revenue and Taxation, a member of the Joint Budget, and the Insurance and Commerce committees
+★ Vice President of Delta Manufacturing
+★ Involved in many community organizations, including a former board member of Searcy Lionbackers and youth soccer coach
+bottom of page

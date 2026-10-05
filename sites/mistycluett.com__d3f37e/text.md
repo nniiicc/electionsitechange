@@ -1,0 +1,1 @@
+Meet Misty Get Involved Priorities I'm running because I believe Kauaʻi deserves honest leadership, practical solutions, and representatives who listen first, respond thoughtfully, and put our community before politics.

@@ -1,0 +1,20 @@
+Doug Gilliam
+Combat Veteran | Leader | Selfless Service
+Welcome to my page!
+I’m Doug Gilliam, proud to represent the people of House District 42 — including communities across Union and Laurens counties.
+Born and raised in Union, I’m a lifelong South Carolinian and retired U.S.
+Army Command Sergeant Major with more than three decades of military leadership and service to our nation.
+My work in Columbia is rooted in the values that shaped my life: faith, family, and service.
+I’m committed to defending our freedoms, supporting law enforcement, and putting the people of District 42 first.
+Thank you for visiting, and I appreciate your support as we continue working for a stronger South Carolina.
+- Doug
+District 42
+Welcome to South Carolina House District 42 — a district rooted in the Upstate and made up of the people and communities of Union County and parts of Laurens County.
+Known for its proud rural heritage, strong work ethic, and deep community ties, District 42 is home to small towns, family farms, local businesses, and generations of families who look out for one another.
+I’m honored to serve this district and remain focused on supporting local jobs, improving infrastructure, strengthening public safety, and ensuring every family has the opportunity to thrive.
+Visit the South Carolina Legislature's website below to find your district!
+Quick Facts
+- Approximately 39,406 residents in district
+- Made up of historic towns, rural farmland, and growing local business centers
+- District 42 is supported by strong manufacturing, agriculture, healthcare, and small businesses that drive local jobs and economic opportunity
+- District 42 reflects the very best of small-town South Carolina

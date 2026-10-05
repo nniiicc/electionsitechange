@@ -1,0 +1,29 @@
+| | | |
+| | |
+| I am running for reelection as your State Representative because It is important for people to be heard and have a voice in the Georgia legislature by one who sincerely believes in the principles and ideals that built this state and nation; hard work, education of their children, moral and social order, individual liberty and responsibility, law and order, the ability to thrive without government interference, and limited taxation. < Read More |
+| |
+| TAX CUTS The Republican caucus passed legislation in 2026 that provides for the reduction of the state personal income tax, repeal of multiple tax credits and exemption from taxation from some overtime and tips. more info |
+THE "GEORGIA EARLY LITERACY ACT of 2026
+Introduces
+measures to enhance early literacy instruction, particularly
+for students in kindergarten through third grade.
+Key
+provisions include funding
+for school-based and regional literacy coaches to support
+teachers and students, with defined qualifications and
+duties. see
+more
+I
+INSURANCE REFORM
+| Significantly increased fines that can be levied against insurance companies for surprise billing, failure to cover mental health treatment, and other violations. |
+| Shortened the time insurance companies have to seek refunds for premium tax payment errors to three years. |
+| The Excess Auto Insurance Profits Act, requires insurance companies that profit above five percent of their expected profit for three consecutive years to file a rate decrease. |
+| The Insurance Affordability & Claims Integrity Act, increases nearly 40 insurance fines in Georgia’s insurance code, strengthens the authority of the Office of the Insurance Commissioner to levy fines against bad actors, enforces Georgia’s uninsured motorist laws, cracks down on insurance fraud, and tightens up Georgia law about claims processing following storms and other damage. |
+FY2027 BUDGET
+see information on budget here
+Read a recent White Paper on Balcony Solar
+here.
+| Georgia Law requires political committees to report the name, mailing address, occupation and name of employer for each individual whose contributions aggregate in excess of $100 in a calendar year.
+Contributions to Friends of Don Parsons are not deductible for tax purposes.
+State law allows individuals, corporations and political action committees to contribute a maximum of $3300 for the primary election, $1800 for a runoff election and $3000 for the General Election | You You can make a contribution to the Friends of Don Parsons - my campaign for reelection to the Georgia House of Representatives - at this secure link. |
+| Paid for by Friends of Don Parsons - 3167 Sycamore Ln Marietta GA 30066 770-977-4426 |

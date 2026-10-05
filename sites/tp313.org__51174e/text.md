@@ -1,0 +1,15 @@
+- 01 Defend the Constitution Support and defend the Constitution of the United States, protect every constitutional right, and ensure that federal agencies remain accountable to the law and the people.
+- 02 Restore Government Accountability Fight government waste, fraud, abuse, and corruption through aggressive oversight, increased transparency, and meaningful reforms that place taxpayers first.
+- 03 Secure Our Communities Promote public safety by supporting law enforcement, protecting victims of crime, reducing violent crime, and ensuring that every neighborhood is safe for families and businesses.
+- 04 Secure Our Borders Support strong border security, enforce existing immigration laws, combat human trafficking and fentanyl trafficking, and ensure that legal immigration remains orderly, fair, and secure.
+- 05 Strengthen Michigan’s Economy Reduce unnecessary regulations, encourage small business growth, expand manufacturing, create high-paying jobs, promote energy independence, and lower the cost of living.
+- 06 Protect Taxpayers Advocate for responsible federal spending, reduce the national debt, eliminate unnecessary government programs, and ensure taxpayer dollars are spent efficiently and transparently.
+- 07 Defend Election Integrity Support fair, transparent, and secure elections by enforcing existing election laws, ensuring accurate voter rolls, and strengthening public confidence in the electoral process.
+- 08 Support Our Veterans Honor the sacrifices of America’s veterans by improving access to quality healthcare, mental health services, housing, employment opportunities, and timely benefits.
+- 09 Stand With Law Enforcement Ensure that police officers have the training, equipment, legal protections, and community partnerships necessary to protect the public while maintaining the highest professional standards.
+- 10 Support First Responders Provide firefighters, EMS personnel, and emergency responders with the resources and support they need to protect Michigan communities every day.
+- 11 Protect Parents’ Rights Recognize that parents are the primary decision-makers in the upbringing and education of their children while promoting educational excellence, accountability, and transparency.
+- 12 Defend the Second Amendment Protect the constitutional right of law-abiding citizens to keep and bear arms while enforcing existing laws against violent criminals.
+- 13 Protect Free Speech Defend every American’s right to speak freely, worship freely, assemble peacefully, and petition the government without fear of censorship or political retaliation.
+- 14 Support American Energy Promote domestic energy production, modern infrastructure, and policies that lower energy costs while strengthening national security and economic independence.
+- 15 Put Michigan First Improve roads, infrastructure, public safety, economic opportunity, and quality of life throughout the 13th District while ensuring federal policies benefit the people who live and work here.

@@ -1,0 +1,40 @@
+"I want to ensure that government is accountable to the people and that we are prioritizing Missouri's citizens."
+- Bill Owen
+Bill's Commitments
+Bill's Service
+Bill's Background
+- Protect the Sanctity of Live
+- Defend 2nd Amendment Rights
+- Hold government accountable
+- Improve Missouri's business environment
+- Expand funding to assist people with disabilities
+Bill's Service
+- Recipient of the 2019 North Springfield Betterment Association Community Contributor of the Year Award
+- Member of the North Springfield Betterment Association
+- Member of the Missouri Judicial Performance Review Committee
+- Past Chair of the Springfield Chamber Governmental Relations Committee
+- Past Member of the Urban Neighborhood Alliance
+- Past President of the Drury University Alumni Association
+Bill's Background
+- 38 years in banking
+- Senior Vice President of Bank of Bolivar in Springfield
+- Proud husband, father, and grandfather
+- Vice Chair of the Greene County Republican Central Committee
+How You Can Help
+To contribute, volunteer, or help place a sign, contact us:
+Citizens for Owen
+5115 N.
+Farm Road 185
+Springfield, MO 65803
+Bowen34782@aol.com
+(417) 689-3046
+Or complete the form below:
+Citizens for Owen
+5115 N.
+Farm Road 185
+Springfield, MO 65803
+Bowen34782@aol.com
+(417) 689-3046
+Or complete the form below:
+Fill out my online form.
+Paid for by Citizens for Owen, Greg Stephenson, Treasurer.

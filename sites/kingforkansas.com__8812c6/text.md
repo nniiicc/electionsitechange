@@ -1,0 +1,7 @@
+- Commerce, Labor, and Economic Development
+- Financial Institutions and Pensions
+- Social Services Budget
+- 2025 Special Committee on Commerce
+- 2026 Special Committee on Application and Eligibility for Public Assistance Programs
+- Joint Committee on Fiduciary Financial Institutions Oversight
+- Joint Committee on Pensions, Investments, and Benefits

@@ -1,0 +1,43 @@
+Dave McCrea
+Not Afraid of Hard Work
+Running to represent Caswell, Connor, Cyr Plantation, Easton, Fort Fairfield, Hamlin, Limestone, New Sweden, Stockholm, Westmanland, and Woodland, in District 3
+About Dave
+I’m a lifelong resident of Fort Fairfield, and this community has shaped who I am.
+I grew up picking potatoes as a kid and helping in my family’s hardware store, and went on to spend 48 years as a teacher in our local schools (I still sub 3-4 days a week at the Middle High School).
+I’ve always believed in showing up, working hard, and staying connected to the people around me.
+That commitment to service led me to serve 15 years on the Fort Fairfield Town Council, including nine as Chairperson, and later three terms in the Maine House of Representatives.
+I focused on getting results, not playing politics, and I’m proud that 20 of my bills became Maine law, solving real problems for the people I represented.
+I’m running to continue that work.
+Our district faces real challenges, from the cost of living, to childcare, and support for rural communities.
+I believe experience and a willingness to work together matter.
+I’ll keep showing up, listening, and doing the job for the people of this district.
+What Matters Most
+Common-Sense Leadership & Results
+I believe in working across the aisle and focusing on solutions, not politics.
+That’s how I was able to pass 20 bills into law, and it’s the approach I’ll continue to take, getting things done for the people I represent.
+Supporting Rural Healthcare
+I’m committed to making sure our nursing homes—especially in rural areas—can survive and continue serving our communities.
+These facilities are essential for families, and we can’t afford to lose them.
+Affordable Childcare
+I’ve heard clearly that the lack of affordable, quality childcare is holding families back and hurting our workforce.
+I will work to improve funding and access so families can live and work here.
+Lowering Energy Costs
+The cost of electricity is a real burden in rural Maine.
+I’m committed to finding ways to bring relief to families and small businesses who are feeling that pressure every month.
+Strengthening Rural Economy
+Our district has real potential—from agriculture to development at Loring Air Force Base.
+I want to support smart economic growth that creates jobs and strengthens our local economy.
+Past Legislative Accomplishments
+Achieved smoother school contract negotiations for mid-contract bargaining when there is an agreed change (LD449-130th)
+Amended teacher evaluation by making sure the use of student achievement as an evaluative factor is not required (LD92-129th)
+Returned a teacher probationary period from 3 to 2 years to help get more teachers in the schools (LD345- 129th)
+Promoted Maine to do the Potato Certification test in our labs rather than the old "Florida Seed Test" (LD1699- 129th)
+Increased from 45% to 55% of project costs, low interest loans from the Potato Marketing Improvement Fund, a revolving storage construction program.
+These loans support construction projects ranging from $50,000 to $150,000 (LD 124-128th)
+Provided High Speed Internet Infrastructure for Family Farms, Businesses and Residences (LD 173- 129th)
+Expanded the authority of Criminal Justice Academy Board of Trustees of disciplinary action should be an applicant or officer of the law violate the standard set by the Board up to and including removal from office (LD1477 & LD 505- 130th)
+Required all police units in Maine to have a written policy on "no-knock" search warrants (LD1043 & LD 1524- 130th)
+Made it a Class B crime if an officer is accepts/requests sexual favors from anyone while in their custody or being detained (LD1375- 129th)
+Exempted Area Agencies on Aging from sales tax thereby providing approximately $60,000 annually that can be used to deliver "Meals on Wheels" to those in need (LD85-130th)
+Permitted Unorganized Territories such as Cyr Plantation to develop ordinances regarding the accumulation of junk in their yards (LD584- 129th)
+Allowed Tiny Homes to be placed or constructed on individual lots just like traditional homes (LD1530-130th)

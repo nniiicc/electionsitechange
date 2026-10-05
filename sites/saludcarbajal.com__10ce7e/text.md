@@ -1,0 +1,2 @@
+The Central Coast is my home and the place that has given my family and me the opportunity to succeed.
+I have a proven track record of bringing Republicans and Democrats together to solve problems and get results: preserving open spaces, creating jobs by rebuilding roads and highways, expanding access to high-speed internet and clean energy, fighting wildfires and drought, and improving health care.

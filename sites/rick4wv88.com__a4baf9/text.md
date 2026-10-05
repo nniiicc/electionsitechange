@@ -1,0 +1,31 @@
+Rick Hillenbrand
+for WV House of Delegates District 88
+"Truth, Justice and the American Way"… West Virginia Style
+In today's rapidly changing world, political complacency comes at a steep price.
+Just turn on the news—from international conflicts to domestic challenges, we're witnessing the consequences of failed leadership firsthand.
+The modern reality is clear: local decisions influence global events, and world events directly impact our communities here in West Virginia.
+Are you satisfied with what's happening across our nation and world?
+There are forces at work that threaten our way of life, and I'm committed to keeping them from reaching our doorsteps.
+A Record of Results
+As your full-time Delegate, I've worked tirelessly to not just protect our West Virginian values, but to strengthen them.
+My record speaks for itself—I've successfully championed legislation that became law, delivering real results for our district.
+View my legislative accomplishments here.
+Guided by Unwavering Principles
+My life has been shaped by discipline and principle:
+As a submarine-qualified, retired US Navy Engineering Duty Officer, I understand that following the rules isn't just important—it can be a matter of life and death
+As a lifelong Scout and Scout leader, I live by the Scout Oath and Law daily: TRUSTWORTHY, LOYAL, HELPFUL, and more
+My faith guides me to honor the 10 Commandments in both personal and public service
+These experiences forged my deep commitment to civic responsibility, motivating this engineer and program manager to emerge from retirement to serve our community.
+An Oath That Still Stands
+- Chairman of the Election Integrity Caucus
+- Assigned Vice Chairman of the Environment, Infrastructure, & Technology Subcommittee under the Energy & Public Works Committee
+- Key support for "In God We Trust" displays in schools.
+- Recognized in 2025 as a "Friend of Forestry" by the West Virginia Forestry Association
+- Recognized in 2025 with the Congressional Patriot Award
+- Ensure mobile responsiveness and add social media link
+When I joined the Navy, I swore to defend the Constitution—a promise I carry to Charleston.
+My submarine service taught me to remain steady under extreme pressure, sleeping just feet away from weapons with devastating power.
+I can assure you: when lobbyists and special interests try to pressure me to compromise our conservative principles, they'll find I have the resolve to stand firm.
+I was Re-elected in 2024 to Continue Fighting for West Virginian Values – From Elk Garden to Burlington, Rio, Augusta, Springfield, Fort Ashby, Short Gap, and Piedmont and everywhere in between I have been working full-time to represent the people of District 88 both here at home and in Charleston.
+Click Here to see exactly what encompasses District 88
+Rick Hillenbrand for WV House of Delegates District 88

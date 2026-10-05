@@ -1,0 +1,2 @@
+Assemblywoman Blanca Rubio has been serving the residents of the San Gabriel Valley since her election to the California Legislature in 2016.
+As the representative of the 48th State Assembly District, she has championed critical issues facing our most vulnerable communities, provided essential services to our constituents, and introduced legislation that improves the quality of life for thousands of people across California.

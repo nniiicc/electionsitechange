@@ -1,0 +1,79 @@
+Home
+About
+About Me
+Endorsements
+Leadership
+Session Recap
+Scholarships
+State Resource Archive
+Voter Information
+Media
+Delegate News
+Virtual Town Halls
+Articles
+Interviews
+Campaign Videos
+Campaign Update
+Get Involved
+Subscribe
+Attend
+Volunteer
+Contribute
+Contact
+Contribute
+Home
+About
+About Me
+Endorsements
+Leadership
+Session Recap
+Scholarships
+State Resource Archive
+Voter Information
+Media
+Delegate News
+Virtual Town Halls
+Articles
+Interviews
+Campaign Videos
+Campaign Update
+Get Involved
+Subscribe
+Attend
+Volunteer
+Contribute
+Contact
+Contribute
+Welcome
+Thank you for visiting Heather Bagnall - maryland state Delegate for District 33C and Chair of the Health Committee in the Maryland House of Delegates
+we appreciate you being here!
+On this site you can learn more
+about Me
+, find my maryland General Assembly
+Session Recaps
+, Catch up on my
+virtual Town hall
+meetings, Check out My
+upcoming events
+, read
+articles
+, View
+Media Interviews
+&
+campaign videos
+,
+contact us
+with any questions,
+Make a Contribution
+, or even
+join the team
+!
+You can also find
+Voter Information
+, apply for a
+scholarship
+,
+subscribe
+to updates, or Follow any of the links for much more.
+We cannot #ChangeTheNarrative unless we #GetInTheRoom
+Thanks for taking the first step in joining us on the journey!

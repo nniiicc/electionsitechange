@@ -1,0 +1,2 @@
+"Jamie Pedersen is the most progressive and effective Senate Majority leader we have ever had.
+On issue after issue — the historic passage of the millionaires tax, expansion of collective bargaining rights, investments in affordable housing, critical protections for immigrants and transgender people — his leadership has delivered real progressive policy change for working people and the most vulnerable."

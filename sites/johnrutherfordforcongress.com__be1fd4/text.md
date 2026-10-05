@@ -1,0 +1,25 @@
+The Results-Driven Conservative Leader Faithfully Serving Northeast Florida
+John Rutherford is a true public servant who has protected and defended our community for years.
+As Jacksonville’s former Sheriff and now a member of Congress, John brings the experience and leadership necessary to continue fighting for us in Washington.
+He is a proven conservative who knows our community, understands our issues, and delivers results.
+Read More
+A Message From John
+“Now more than ever, Washington needs leaders who know our community and stand firm for our shared values.
+With your support, I will continue delivering results and fighting to keep our country and community strong.”
+2025 Congressional Accomplishments
+2000+ Constituents Served & Helped Navigate the Federal Bureacracy
+300+ Veterans & Servicemembers Assisted
+153,000+ Responses to Constituent Mail & Phone Calls
+1460+ Capitol & White House Constituent Tours Scheduled
+227+ 7 Bills Introduced and 220+ Bills Cosponsored
+Keep Up With The Campaign
+Feb 10, 2026
+Grateful for President Trump’s strong endorsement and continued support.
+We’ve stood shoulder to shoulder for years fighting for law and order, border security, and the America First values that keep our country strong.
+I appreciate President Trump’s confidence, leadership, and unwavering commitment to this fight. 🇺🇸
+View post
+Feb 10, 2026
+Grateful for President @realDonaldTrump’s strong endorsement and continued support.
+We’ve worked side by side for years fighting for law and order, border security, and America First values.
+I appreciate his leadership and confidence. 🇺🇸
+View post

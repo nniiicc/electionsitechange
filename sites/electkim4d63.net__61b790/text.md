@@ -1,0 +1,9 @@
+District 63
+| | We endorse Kim Schofield for D63...
+Georgia’s WIN List is a political action committee dedicated to recruiting, training, supporting, and electing Democratic women for statewide and legislative office who will be effective advocates for the issues most important to women and families, including the preservation of our reproductive rights. |
+| | |
+Let’s get it done together!
+Join us as we continue moving forward for better access to resources that improve our quality of life and make District 63 a thriving community for all. #keepingitmoving #ElectKim4D63
+| | Visit Rep Kim's District 63 Website Visit District 63's hub for my latest activities, bills I am working on, legislation watch, free resources, community events, ways to get actively involved and more!
+CLICK HERE TO VIEW WEBSITE |
+Proudly powered by Weebly

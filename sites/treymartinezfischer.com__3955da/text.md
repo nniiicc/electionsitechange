@@ -1,0 +1,3 @@
+Currently serving as the Chairman of the House Democratic Caucus, Representative Trey Martinez Fischer, was born just off South Flores, the fourth of five children; Trey’s mom was a nurse at Santa Rosa…
+Representative Martinez Fischer has been a leader on progressive issues in the Texas House of Representatives for the past 15 years.
+He has a successful track record of taking the lead on important causes and fighting for the greater good of each and every Texan across the state.

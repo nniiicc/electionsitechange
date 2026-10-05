@@ -1,0 +1,88 @@
+“Our community embraces progressive values rooted in caring for our most underserved residents.
+As state representative, I’ll stand up for Kansas City while working with anyone who is serious about delivering results for our neighborhoods and pushing back against the extreme MAGA agenda in Jefferson City.”
+Kevin is running to stand up for the Missourians too often ignored — working families and underserved communities.
+He’s pushing back against the extreme MAGA agenda and fighting for opportunity, justice, and equality for all, not just the powerful few.
+RESPECT THE WILL OF THE VOTERS
+AN ECONOMY FOR ALL
+WOMEN AND LGBTQ+ RIGHTS
+AFFORDABLE HOUSING AND HEALTH CARE
+COMMONSENSE GUN LAWS
+PROTECT PUBLIC EDUCATION
+We’re proud to have the support of community leaders, organizations, and neighbors—but the endorsement that matters most is yours.
+This campaign is powered by everyday people, and together, we’re building a better future for Missouri.
+Current & former elected officials
+- Rep.
+Pattie Mansur – House District 25
+- Rep.
+Melissa Douglas – House District 27
+- Rep.
+Aaron Crossley – House District 29
+- Rep.
+Ian Mackey – House District 99
+- Hon.
+Mike Talboy – Former Missouri Democratic Minority Leader
+- Hon.
+Crystal Williams – Former Jackson County Legislator
+- Hon.
+Scott Burnett – Former Jackson County Legislator
+- Commissioner Scott Wagner – Former Kansas City Mayor Pro Tem and Executive Director, Bridging the Gap
+- Councilman Wes Rogers – Kansas City Councilman & Former Missouri State Representative
+- Hon.
+Randy Dunn – Former Missouri State Representative & Executive Director of the Missouri Democratic Party
+- Hon.
+Scott Sifton – Former Missouri State Senator
+- Hon.
+Matthew Oates – Former KCPS School Board Member & Community Advocate
+- John “Coach” Comstock – Jackson County Democratic Central Committee Ward 5 Committeeman
+- Randy Hite – Jackson County Democratic Central Committee Ward 4 Committeeman
+- Ryan Meyer – Jackson County Democratic Central Committee Ward 11 Committeeman
+- Hon.
+Henry Beck – Former Maine State Treasurer
+Labor Organizations
+- Missouri AFL-CIO
+- Greater Kansas City AFL-CIO
+- Greater Kansas City Building & Construction Trades Council
+- American Federation of Teachers Local 691
+- International Brotherhood of Electrical Workers Local 124
+- United Auto Workers Local 249
+- International Union of Operating Engineers Local 101
+- Pipe Fitters Local 533
+- Mid-America Carpenters Regional Council
+- International Brotherhood of Electrical Workers Local 53
+- Operative Plasterers’ & Cement Masons’ Local Union 518
+- Bricklayers & Allied Craftworkers Local 15
+- International Alliance of Theatrical Stage Employees Local 31
+- Plumbers & Gasfitters Local 8
+- Iron Workers Local 10
+- Communications Workers of America Local 6360
+- International Association of Fire Fighters Local 42
+- International Association of Fire Fighters Local 3808
+- Teamsters Local 955
+- Missouri State Council of Fire Fighters
+- Brotherhood of Locomotive Engineers and Trainmen
+- Sheet Metal, Air, Rail and Transportation Workers – Transportation Division
+Progressive Organizations
+- Moms Demand Action Gun Sense Candidate
+- LGBTQ+ Victory Fund
+- PROMO PAC
+- Abortion Access Missouri
+- Better Schools for Missouri (Missouri School Administrators)
+- Missouri Young Democrats
+- La Raza Political Club
+community leaders
+- Rachel Sweet – “Yes on 3” Campaign Manager and Nationally-Recognized Abortion Rights Advocate
+- Bryan Meyer – Co-Founder & CEO, Veterans Community Project
+- Joel Barrett – Kansas City LGBTQ+ Leader & Author
+- Andrew Hartzler – President, Missouri Young Democrats
+- Ben & Shelli Carman-Brown – Co-Founders, Midtown Democratic Club of Kansas City
+- Jared Campbell – Downtown Neighborhood Leader
+- Josh Boehm – Downtown Neighborhood Leader and Secretary, KC Regional Transit Alliance
+- Tristin Amezcua-Hogan – Kansas City Labor and Transit Leader
+- John Coler – Downtown Neighborhood Leader
+- David Johnson – Former Board Member, Crossroads Community Association and Immediate Past Chair, KC Regional Transit Alliance
+- Robb Traylor – President, Longfellow Community Association
+- Grant Mayfield – Midtown Neighborhood Leader
+You’ll rarely see Kevin without a cup of coffee in hand.
+So, why not grab a mug with him?
+Whether you’re a resident or a small business owner in District 24, this is a chance to have a real conversation about the issues that matter most to you.
+Vote Tuesday, November 3rd, 2026

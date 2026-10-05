@@ -1,0 +1,41 @@
+Educator.
+Advocate.
+Community leader.
+For decades, Connie Casha has dedicated her life to helping Tennessee's children and families thrive.
+Now, she's running for Tennessee House District 49 to continue that work because she knows Tennessee families deserve better - strong public schools, affordable healthcare, accessible child care, and an economy that works for everyone.
+Continuing to serve through leadership, education, and advocacy.
+After 15 years with the Tennessee Department of Education, Connie continued serving families as Director of Early Learning Programs at MTSU while advocating through countless community and statewide organizations.
+Her work has earned her honors including the Lifetime Achievement Award from Tennessee Commission on Children and Youth.
+Strong Schools = Strong Communities
+Quality Affordable Child Care = Working and Thriving Families
+Health Care for All = Healthy Families
+Economic Security = A Better Quality of Life
+- Long-time resident of Smyrna
+- Wife to Joey, mother to Victor, Christina, and Vinny, and grandmother to 10
+- Early Childhood Educator in both special education and general education
+- Advocate for early childhood education and families
+- Avid reader, gardener, and jigsaw puzzler
+- Lifetime Achievement Award — Tennessee Commission on Children and Youth
+- Linda Gilbert Advocate of the Year Award — United Way
+- Outstanding Member — Tennessee Association for Children's Early Education
+- Member, Advisory Board for Tennesseans for Quality Early Education
+- Member, Advisory Board for the Association of Infant Mental Health in Tennessee
+- Member, Advisory Board for Tennessee Young Children's Wellness Council
+- Member, Tennessee Association for Children's Early Education, and representative of this association for the Southern Early Childhood Association
+- Member, state team of early educators providing education and understanding of young children's social and emotional development to early educators and families
+- Advocacy work for Save the Children's Action Network
+- Advisory Board Member, United Way Bold Goals for 2030
+- Member, Community Pre-K Advisory Committee for Murfreesboro City Schools
+- Advisory Board Vice Chair, Prevention Coalition for Success
+- Member, Rutherford Association for Children's Early Education
+- Rutherford County Democratic Women
+- Rutherford County Democratic Party
+- Child Advocacy Center of Rutherford and Cannon County
+- Advisory Board Member, Children's Kindness Network
+- July 7 Voter Registration Deadline
+- July 17 – Aug 1 Early Voting Period
+- July 27 Absentee Request Deadline
+General Election
+- October 5 Voter Registration Deadline
+- October 14 – 29 Early Voting Period
+- October 24 Absentee Request Deadline

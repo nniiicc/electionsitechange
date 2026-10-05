@@ -1,0 +1,17 @@
+top of page
+JUDGE CRAIG COLLINS
+FOR COURT OF APPEALS
+EXPERIENCE
+JUDGE COLLINS'
+Education & Legal Background:
+• B.A., University of Pittsburgh, 1994
+• J.D., Villanova University School of Law, 1997
+• Assistant District Attorney, 1997-2006
+• Owner, Law Office of Craig Collins, 2007-2016
+• District Court Judge, 2016-2024
+• Currently a Superior Court Judge
+Professional Background:
+• Prosecuted thousands of criminal cases on behalf of the State of North Carolina
+• Represented thousands of clients
+• Presided over countless trials in criminal, traffic, juvenile, and civil courts.
+bottom of page

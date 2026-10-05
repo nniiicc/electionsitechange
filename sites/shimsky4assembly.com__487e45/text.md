@@ -1,0 +1,17 @@
+Vote Tuesday, Nov. 3
+Early Voting: Oct. 24-Nov. 1
+Building Bridges
+Real Commitment.
+Real Results.
+Keeping Our Communities Healthy, Welcoming & Thriving
+The wellbeing of our communities and the success of our downtowns are linked to a range of policy priorities including sound public health, quality child care, protections for our workforce, and fair access to opportunity for every resident.
+MaryJane knows that we need to listen to our communities, follow the facts, evidence, and science — as well as our progressive values — and work collaboratively to achieve real solutions for the challenges facing New Yorkers.
+Rebuilding & Modernizing
+New York’s Aging Infrastructure
+We have a responsibility to maintain and rebuild our roadways, water systems, public transportation, and broadband for the next generation — with sustainability and equity built in as fundamental to our success.
+MaryJane’s extensive record of advancing infrastructure investments at the local, County, and State levels has positioned her to work effectively on our behalf.
+In Albany, she continues to fight for increased resources to the Mid-Hudson Region and statewide.
+Fighting Climate Change & Addressing Its Impacts
+As extreme weather events from Hurricane Sandy to Tropical Storm Ida made all too clear, it’s essential that we protect ourselves against the worsening storms to come.
+MaryJane is a leader for climate resilience through her work on stormwater management and utility preparedness.
+Her strong support for environmental initiatives, from alternative energy to food scrap recycling, comes with the understanding that we can save money while reducing our carbon output and cutting waste.

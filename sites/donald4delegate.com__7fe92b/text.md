@@ -1,0 +1,23 @@
+top of page
+Jerry Donald
+for District 4
+Delegate
+HOME
+VOTING RECORD
+TIMELINE
+TAX VOTE RECORD
+MEET JERRY
+ABOUT JERRY
+PLATFORM
+ENDORSEMENTS
+ARTICLES
+GET INVOLVED
+EVENTS
+VOLUNTEER
+CONTACT
+REQUEST A YARD SIGN
+More
+Use tab to navigate through the menu items.
+DONATE
+SEE THE RECORD
+bottom of page

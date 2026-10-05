@@ -1,0 +1,19 @@
+Fighting for Utah Families
+Blake Moore is fighting every day for Utah families to lower costs, solve immigration policy, strengthen our military, and protect the Utah way of life.
+“From border security to American energy, fiscal discipline to defending Utah's conservative values, I'm advancing the policies that put our nation back on the right track and strengthen the great State of Utah.
+Expect More.
+Elect Moore.
+While fighting for conservative priorities in Washington, I never lose sight of the people I serve at home.
+My team was awarded the 2025 Best in Constituent Service Award by the Congressional Management Foundation, a national recognition of our commitment to helping every Utahn who contacts our office.”
+Fighting For
+Utah’s Priorities
+Blake Moore has secured major policy and funding victories that support Utah’s long-term success.
+He has strengthened Hill Air Force Base, expanded the charitable tax deduction, protected the Great Salt Lake, improved cybercrime tracking, increased access to public lands, supported small businesses, and secured millions for local water, roads, trails, and education.
+Results for Utah at a Glance
+Strengthened
+Hill Air Force Base
+and created new jobs
+Protected the
+Great Salt Lake and Utah’s outdoor heritage
+Expanded tax relief for families, charities, and small businesses
+Secured funding for local water, roads, trails, and education

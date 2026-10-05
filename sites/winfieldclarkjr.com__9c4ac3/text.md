@@ -1,0 +1,84 @@
+WINFIELD CLARK FOR DELEGATE DISTRICT 28
+UNLOCKING THE POTENTIAL OF CHARLES COUNTY
+From Bedroom community to thriving hub.
+Empower people, transform systems, thrive
+Keep talent and income IN the county
+Support local businesses
+Attract new industry
+Expand transit (Metro,regional access)
+Improve roads and development planning
+Enable business growth through connectivity and service excellence
+Make government work better—not bigger
+Improve access to services
+Eliminate waste and inefficiency
+EMPOWER
+The talent, knowledge, and power of our people is our greatest resource.Winfield believes strong communities begin with empowered people.
+His work has focused on equipping individuals, families, and leaders with the clarity and support they need to grow and succeed.
+TRANSFORM
+For more than 20 years, Winfield has helped transform
+For more than 20 years, Winfield has helped transform organizations and systems by bringing structure where there is drift and solutions where there are challenges.
+He believes thoughtful leadership can turn potential into real progress.
+THRIVE
+Winfield is committed to helping Charles County thrive — creating an environment where families can flourish, businesses can grow, and communities can build a strong future together.
+MAKE CHARLES COUNTY A PLACE TO:
+WORK | PLAY | GROW
+Charles County has long been called a bedroom community — a place where people live but travel elsewhere for work, opportunity, and commerce.
+I believe it’s time to change that.
+My vision is to help transform Charles County into a self-sustaining hub for Southern Maryland — a place where
+My vision is to help transform Charles County into a self-sustaining hub for Southern Maryland — a place where people come not only to live, but to work, build businesses, educate their children, and enjoy life.
+We shouldn’t be building housing developments that send our residents elsewhere each morning.
+We should be building a county where opportunity lives here.
+A county that is:
+• A place people come to work
+• A place families choose to raise their children
+• A place entrepreneurs start and grow successful businesses
+• A place people come to shop, gather, and play
+Charles County has the location, the talent, and the potential to become the economic and community hub of Southern Maryland.
+With the right leadership, we can unlock that potential.
+LEADERSHIP & PROFESSIONAL EXPERIENCE
+- Healthcare Executive - Corporate Governance
+- Business Transformation Consultant
+- Change Management Expert
+- Pastor
+- Entrepreneuer
+- Non - Profit CEO
+COMMUNITY & CIVIC IMPACT
+- Board President and CEO of a faith-based food security non-profit
+- Governed programs rescuing and distributing 5-6 million lbs of food to hungry f
+- Board President and CEO of a faith-based food security non-profit
+- Governed programs rescuing and distributing 5-6 million lbs of food to hungry families in the DMV
+- Partnered with grocery store chains, like minded nonprofits, and churches to expand and deepen community impact.
+EDUCATION & DEVELOPMENT
+- Experience training, coaching, and mentoring leaders
+- Helping individuals and organizations gain clarity, structure, and skills to succeed
+- Deep understanding of local community needs and opportunities
+CORE COMPETENCIES
+- Empowering people and developing leaders
+- Strengthening systems and improving organizational efficiency
+- Strategic planning and problem solving
+- Community and nonprofit development
+- Faith-driven leadership and ethical decision making
+I am a Christian husband, a father of six, and a proud Charles County native since 1986.
+I grew up in Charles County.
+I graduated from McDonough High School, received my B.S. in Electrical Engineering from Hampton University and my MBA from the University of Iowa.
+I now live in Waldorf with my family.
+This community shaped me, and it is the community I am committed to serving.
+For more than 20 years, my life’s work has been about transforming people and strengthening systems through faith, focus, and action.
+I have served as a pastor, nonprofit leader, consultant, and educator — helping individuals and organizations operate with greater clarity, alignment, and purpose.
+As President and CEO of Celestial Manna, a faith based food security non profit, I helped oversee the distribution of nearly six million pounds of food each year to families across the DMV.
+As a consultant, I have coached executive leaders in large health systems and Fortune 500 companies, helping organizations improve engagement, streamline operations, and strengthen their results — contributing to over $30 million in organizational savings and operational improvements over the last two decades.
+Today, I serve as a pastor at New Life Marbury(Formerly Marbury Church of GOD), New Life Church in La Plata, and as a virtual pastor at Significant Revelations Church in Douglasville, Georgia.
+I am also a business owner, business coach, and nonprofit advisor committed to strengthening leaders and organizations that serve others.
+I am a proud member of the NRA and a certified HQL instructor for the state of MD.
+Throughout my work — whether in ministry, business, education, or nonprofit leadership — my approach remains the same:
+- Bring clarity where there is confusion.
+- Build structure where there is drift.
+- Strengthen people so they can thrive in their calling.
+I believe communities flourish when people understand the purpose behind what they are doing, see a clear path forward, and feel empowered to contribute their gifts.
+Charles County is full of potential — in its people, its businesses, and its future.
+I believe leadership should focus on unlocking that potential, creating environments where families can thrive, businesses can grow, and communities can remain strong.
+My commitment is simple:
+To serve with integrity, lead with clarity, and work every day to help our county reach its fullest potential.
+Your support and contributions will enable us to meet our goals and fund our mission.
+We use cookies to analyze website traffic and optimize your website experience.
+By accepting our use of cookies, your data will be aggregated with all other user data.

@@ -1,0 +1,15 @@
+We're building our campaign together.
+MAKE A CONTRIBUTION
+“We have a real opportunity for wise and compassionate representation by electing Natasha Hill.
+Natasha grew up right here in Spokane and has proven her character and resolve as a seasoned attorney, a County Redistricting Commissioner, editor of The Black Lens newspaper and a mom.
+Natasha is the right person to represent us in the 3rd LD and I look forward to serving with her in the House. .
+- STATE REPRESENTATIVE TIMM ORMSBY
+Our legislators have had a strong track record of fighting for working families and I’m excited to keep that tradition going.
+We need a legislator to push forward protections for women and fight for ALL working families of Eastern Washington regardless of race, gender, sexuality, citizenship or socioeconomic background.
+Representative Riccelli has been an incredible leader for our district, and I look forward to continuing his work while sharing new views and a different perspective to get results for families with my lived experience who've been left behind.
+Growing up in the Hillyard neighborhood of Spokane, which is one of the poorest zip codes in the state, I experienced firsthand the ways that smart investments into social services, education, and labor can positively impact communities and what residents experience when those investments aren’t made.
+I grew up here, I studied here, I earned my education, and I brought my experience back home to make a difference for the community that raised me.
+I’m excited to bring that lived experience and my legal experience to represent Spokane in the Washington State Legislature.
+I live with my family on South Hill in Spokane and work as the Principal Attorney at Natasha L.
+Hill, P.S., Editor of The Black Lens News, as an event venue owner, and serve on various nonprofit boards.
+I was proud to be the first Black woman to run to represent the 5th Congressional District in 2022 and I'm determined to be the next State Representative in the 3rd Legislative District.

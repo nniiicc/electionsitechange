@@ -1,0 +1,37 @@
+Kate Sanchez
+For California State Assembly District 71
+Kate Sanchez
+Proudly Representing CA's
+71st Assembly District
+Kate Sanchez is honored to serve as your State Assembly Member.
+Kate represents the cities and unincorporated areas of Temecula, Temecula Wine Country, Murrieta, French Valley, Wildomar, Mission Viejo, Rancho Santa Margarita, Trabuco Canyon, Coto de Caza, Ladera Ranch, and Rancho Mission Viejo.
+Kate serves as vice chair of Revenue and Taxation and Health, and is a member of the committees on Judiciary, and Rules, as well as the Joint Committee on Rules.
+Working to Reduce
+the High Cost of Living in CA
+Families are struggling to survive in California.
+Californians are leaving the state because they can't afford to buy a home and start a family.
+Seniors can't afford to retire in California with dignity.
+Businesses are fleeing California.
+As a mother and former businesswoman, Kate understands the struggles so many Californians face.
+That is why Kate has never voted for a tax increase and has authored and sponsored numerous pieces of legislation to reduce California's high cost of living.
+These include:
+AB 14 - Personal Income Tax: credit: childcare costs.
+AB 46 - Personal income taxes: exclusion: Military Services Retirement and Surviving Spouse Benefit Payment Act.
+AB 53 - Motor Vehicle Fuel Tax Law: suspension of tax.
+AB 306 - Office of Small Business Advocate: one-stop capital shop online platform.
+AB 1724 - Reduce sales tax rate by 1%.
+Working to Keep Our Communities Safe
+California has some of the highest crime rates and anti-public safety policies in America.
+Criminals seem to have more rights than law-abiding citizens.
+Kate fiercely advocates for public safety and keeping dangerous criminals behind bars.
+That is why Kate has authored and sponsored numerous pieces of legislation to increase public safety and to keep our communities safe.
+These include:
+AB 75 - Shoplifting: increased penalties for prior crimes.
+AB 88 - Passed into law to provide crime victims with better access to the judicial system and ensure they will be permitted to speak if they wish to be heard during a hearing.
+AB 257 - This bill would prohibit a person from sitting, lying, sleeping, or storing, using, maintaining, or placing personal property in any street, sidewalk, or other public property within 500 feet of a school, daycare center, park, or library.
+AB 1651 - This bill was passed into law to reduce the likelihood of lethal allergic reactions on school campuses.
+By ensuring that the location and use of on-campus epinephrine auto-injectors (EAIs) are known and accessible to school staff, the bill will help all students be safe at school.
+AB 1653 - This bill passed into law provides schools with more tools and guidelines to protect student-athletes from heat illness better.
+Connect With Kate
+Sign up today for free and be the first
+to get notified of new updates

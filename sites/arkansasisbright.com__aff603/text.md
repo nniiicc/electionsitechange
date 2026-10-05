@@ -1,0 +1,6 @@
+- Competing for investment, developing our workforce, and building infrastructure for growth.
+- Putting patients first, strengthening rural healthcare, and focusing on prevention.
+- Supporting teachers while preparing students for AI, skilled trades, and tomorrow's workforce.
+- Supporting law enforcement and holding violent criminals accountable.
+- Protecting the constitutional rights of law-abiding Arkansans.
+- Welcoming those who follow the law while enforcing the laws already on the books.

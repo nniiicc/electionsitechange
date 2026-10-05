@@ -1,0 +1,4 @@
+| | Donna Bailey is serving her second term in the State Senate.
+She is currently the Senate Chair of the Health Coverage, Insurance and Financial Services Committee and has a secondary appointment on the Judiciary Committee.
+In addition, Donna is also the Senate Chair of 3 different commissions: Criminal Records Review Committee Task Force to Evaluate the Impact of Facility Fees on Patients Commission Regarding Foreign Trained Physicians living in Maine She previously served as a member of the budget-writing Appropriations Committee and the Government Oversight Committee.
+As a two-term member of the Maine House of Representatives, Donna represented part of the City of Saco and was appointed to serve as chair of the Judiciary Committee and a member of the Maine Child Welfare Advisory Panel. |

@@ -1,0 +1,28 @@
+2024 Endorsements (2026 Endorsements Coming Soon!)
+THE DISTRICT
+The new 104th Assembly District includes the Cities of Newburgh, Beacon and Poughkeepsie, and the Towns of Newburgh, Marlborough, Lloyd and Plattekill.
+JONATHAN’S EXPERIENCE
+- Current New York State Assemblymember
+- Former Newburgh City Council Member
+- Former Assistant New York State Attorney General
+- Former Assistant Counsel to the Speaker of the New York State Assembly
+- Former New York State Workers’ Compensation Judge
+- Former Orange County Democratic Committee Chair — 22 years
+THE ISSUES
+- Fighting Central Hudson rate increases
+- Wrote and passed a bill (now law) ending automatic utility rate increases
+- Wrote and passed a bill (now law) requiring full transparency in rate increase requests
+- Wrote and passed legislation (now law) curbing late billing
+- Securing reproductive rights in New York State – no matter what the U.S.
+Supreme Court does by codifying Roe v.
+Wade with the Reproductive Health Act and other reforms
+- Fighting health insurance/health care monopolies
+- Strengthening and supporting common sense gun safety laws including the Red Flag bill and banning untraceable 3-D printed guns
+- Making it easier to register and vote by championing early voting and other election reforms
+- Wrote and passed a law ending conflicts at the Boards of Elections including requiring board employees to take an unpaid leave of absence if they run for office
+- Increased funding for schools and pre-K
+- Increased funding for child care to families
+- Wrote and passed legislation to bring transparency to job listing and regulate Ghost (fake) jobs
+- Expanding opportunities to attend college or obtain work force development training after high school
+- Fighting against corruption and conflicts in Industrial Development Agencies (IDAs)
+- Supporting the Climate Leadership and Community Protection Act

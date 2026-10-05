@@ -1,0 +1,18 @@
+State Senator Lauren Nelson, District 18
+THANK YOU, District 18, for entrusting me to be your confident, conservative lone voice in the State Senate.
+I’ve worked tirelessly and voted consistently to ensure your state government stays focused on the people it serves.
+Over the past two years, your voice has been heard, respected, and represented—and that will not change.
+I’m asking for your vote on June 2nd and for another two years in Pierre.
+Important Issues to Me
+Standing Strong for Life and Family (Video)
+HB 1274, HB 1313, HB 1184
+Respecting Every Tax Dollar (Video Coming Soon)
+SB 245, SB 240, HB 1051
+Providing Educational Opportunities (Video Next Week)
+HB 1017, SB 84, SB 79
+Ensuring Safe Communities (Video)
+SB 107, SB 136, SB 90
+Protecting Property Rights (Video)
+HB 1052, SB 88, SB 135, SB 91
+Guarding the 2nd Amendment (Video)
+SB 100, SB 2, HB 1218

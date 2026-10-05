@@ -1,0 +1,22 @@
+Jonathan Cooper
+State Representative for Bennington-1
+Pownal - Readsboro - Searsburg - Stamford - Woodford
+CAMPAIGN COVERAGE:
+UPCOMING EVENTS
+August 8, 2 PM: Get Out The Vote Phone Banking
+August 7, 4 PM: Get Out The Vote Phone Banking
+July 23, 6 PM: Pownal Select Board Meeting, Pownal
+June 28, 2 PM: Candidate Meet and Greet, Solomon Wright Public Library,
+June 27, 11 AM: Readsboro Independence Day parade, Main Street, Readsboro
+June 17, 6:30 PM: Readsboro
+Select Board Meeting, Readsboro
+Meet
+Jonathan
+Jonathan has lived in southwestern Vermont since 2016 with his wife, Kate, and their house full of children, dogs, cats, and one leopard gecko.
+He brings more than a decade of community and economic development experience to State Representative role in Montpelier, where works on three major issues in the District:
+- tax relief for district residents
+- public resources for rural towns
+- economic opportunities for businesses
+Throughout his first term in office, Jonathan has connected with families across the district who support his decision to focus on working Vermonters and relationship-based representation.
+A bright future for the towns of the First District means ensuring a bright future for the children growing up here today, and also the children that will grow up here in the years to come.
+In addition to his work managing the Community & Economic Development program at the BCRC, Jonathan is the proud Board Chair of Sunrise Family Resource Center.

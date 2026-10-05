@@ -1,0 +1,44 @@
+Upcoming Community Office Hours:
+To receive email news from Hadley with upcoming office hours, click here.
+Monday, September 14th, 3:30 - 4:30 PM - Harwich Community Center
+Wednesday, September 23rd, 9:30 AM - 10:30 AM - Virtual
+Join: https://bit.ly/4gJieCc
+Dial in by phone: +1 617-865-5269,,365456354#
+Thursday, October 1st, 11 AM - 12:00 PM - Snow Library, Orleans
+About Hadley
+Hadley Luddy is proud to be State Representative for the 4th Barnstable District and to have joined the Massachusetts General Court in 2025.
+She has been a full-time resident of Orleans since 1996, where she has lived, worked and raised her family.
+Hadley earned her B.A. from the University of Massachusetts at Boston and Master’s in Administration, Planning and Social Policy from the Harvard University Graduate School of Education.
+With a career rooted in nonprofit, public and community service, Hadley’s leadership roles have varied in scope and mission, from CEO of the Homeless Prevention Council where she has served since 2016, to past roles including with Community Connections Inc. and Big Brothers Big Sisters of Cape Cod and the Islands.
+Hadley has also consulted and volunteered with numerous non-profits to support organizational strategy, fundraising, and board development, and with the State’s Department of Children & Families where she recruited foster and adoptive homes for children in state custody.
+Hadley’s advocacy goes back to her childhood in Amherst.
+“My Mom and Dad instilled a sense of community understanding, self-awareness and expectation that my siblings and I would learn from history and help others.
+While I resisted this challenge at times as a kid, it’s been instrumental in my career that has been centered on helping others and my community.” At Umass Boston, she started working with the school's College Prep/Upward Bound program.
+This experience was a real game changer for Hadley, where she worked with kids from urban and underfunded communities who came to the university to learn from college students and prepare for their future.
+"It was an eye opening understanding of my privilege and inspired me to take action.”
+Hadley pitched an idea for a program to help the same students, to the UMass Boston Chancellor’s Office and other leaders at the University to secure funding to start a pilot program called "Project Reach Back".
+The program was developed from inspirational words in Mayor Tom Menino’s commencement address to her 1994 graduating class, where he called on Umass Boston graduates to “reach back” and help others.
+Through university funding Hadley led this program for several years, pairing theatre and art college students to the youth participants in the college prep program.
+“I know this district and I know the State House.
+I am certain that Hadley Luddy is the right person to serve us in the 4th Barnstable district and I am certain that she will be an effective leader in Boston.
+Simply put, she has what it takes.
+Please join me in supporting Hadley.”
+-Sarah Peake, Former State Representative for the 4th Barnstable District
+Make a donation
+Contributions can also be mailed to:
+Friends of Hadley Luddy
+P.O.
+Box 15
+Boston, MA 02137
+My Instagram
+@hadleyluddy
+Endorsements
+- Massachusetts Teachers Association
+- Environmental League of Massachusetts
+- Massachusetts AFL-CIO
+- Planned Parenthood League of Massachusetts
+- Moms Demand Action Gun Sense Candidate* *distinction, not endorsement
+- 1199 SEIU United Healthcare Workers East
+- Reproductive Equity Now
+- Boston Carmen's Union Local 589
+- Massachusetts Women's Political Caucus

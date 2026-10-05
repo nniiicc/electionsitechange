@@ -1,0 +1,68 @@
+Diana Luna for House District 71
+Meet Diana
+I am in a native Abilenian.
+I was born at Hendrick hospital.
+I was one of the first students at Ortiz Elementary and I graduated from Cooper high School.( Go Coogs!) When we were able to buy a home, I wanted to buy a house in AISD because I am proud of my public school heritage in this community.
+I've worked in non-profit for the last almost 20 years .
+I've operated, supervised and audited non profit programs, many of which rely on government funding.
+I know first hand how good and bad policy effects real people.
+I have been a local organizer with the Liberal Mom's of Abilene group , Taylor County Democratic party and honestly anywhere I feel I can help.
+I love building community in a time when the world seems to want us to hate our neighbors.
+I truly believe that community with one another is how we safeguard ourselves against extremism and hate.
+My Hope for this campaign is that I can give a voice to everyday people who may feel like politics doesn't work for them or that the political process doesn't care about them.
+It's wage earners and hourly workers that the pandemic showed us are essential and yet their wages have stayed stagnant while inflation continues to rise.
+It is women, the disabled, and the elderly whom the policies in Austin have effected the most.
+It wasn't an easy decision to make to throw my hat into the ring and in fact, If you ask around you'll be told that I actually declined several times.
+But in the spirit of another trouble making women ,I'm going to fight for the things I care about, and hope that I do it in a way that inspires others to follow me.
+(RBG)
+Issues
+- Shelter is one of the core needs at the base of Maslow’s Hierarchy of needs.
+It not only protects us from the elements and potential predators, it offers us a place to share with our families.
+The average Texan is spending more than 30 % of their income on housing, making them "cost-burdened", or as some like to refer to it “house poor”.
+It is time to treat the housing crisis with the urgency it demands, helping not only Texans who own homes, but those who rent as well.
+This would involve 4 main areas of focus: * Rental Relief and Stability: Approximately 4 million Texas households, almost 40%, rent their homes.
+According to a study by Princeton University, evictions in 2024 spiked past pre-pandemic levels in many major cities, and Abilene is no different.
+I would work with the State Legislature to strengthen the current Texas "Renter's Bill of Rights ", that would include statewide legal protections against exorbitant and predatory rent increases.
+It would provide legal resources for families who are facing eviction or landlord abuses.
+And it would explore providing targeted rent relief for long-term residents facing displacement due to increased commercial redevelopment that prices long-time residents out of the homes they’re lived in for years under the guise of “urban renewal” or “neighborhood revitalization”. * Invest in Affordable Housing: According to the housing policy group Up For Growth, an estimated 306,000 homes are needed to meet housing demand in Texas.
+As of 2023, Texas had over 1.1 million vacant homes, so it isn’t necessarily a shortage of houses to address our rising homeless and home insecure citizens, it is a lack of investment by our leadership to make these homes livable, available, and affordable to those in need.
+Dramatically increasing state investment into affordable housing trusts and incentivizing counties and companies to rehab these existing structures and to build new units specifically for working-class and middle-income Texans (like teachers, nurses, and first responders) would both help alleviate the issue of housing insecurity in our state, but study released by the Texas State Comptroller’s Office shows that a lack of affordable housing is directly leading to an estimated loss of $1.6T to the national GDP each year.
+This underinvestment hits lower- and middle-income families hardest, shutting first-time buyers out of the market.
+Rising costs beyond mortgages — such as homeowners insurance, up 6.9 percent in 2021 and 11.8 percent in 2022 — deepen the struggle.
+We can’t meet demand with the current lack of funding and lack of legislative support holding us back.
+We support expanding investment into refurbishing existing vacant homes and reforming exclusionary zoning laws that block the construction of diverse, affordable housing options. * Path to Homeownership: Create a First-Time Texas Buyer's Fund to provide down payment and closing cost assistance, especially for families who have been historically locked out of the housing market.
+And fight back against legislation that allows banks to potentially make 50-year mortgages the standard, which would stand to only benefit banks, lenders, and home builders while increasing the already heavy financial burden on homeowners forced to pay far more in interest before they even begin paying on principal, which would be yet another deterrent to home ownership for Texans.
+- Wages have been stagnant while the cost of living—especially housing and groceries—has skyrocketed.
+The minimum wage in Texas remains at the 2009 level of $7.25/hr.
+According to the Department of Health and Human Services’ own 2025 Poverty Guidelines , this falls below what they consider a “poverty wage” for a single adult with 0 children in Texas.
+According to this same guideline, a “living wage” for an adult with 0 children is $21.82.
+For a family with 2 working adults and 2 children that goes up to $24.63/hr.
+If our current administration can identify what a living wage is, why are we not ensuring that all working Texans are earning, at a minimum, those wages?
+The notion of “unskilled labor” and “menial jobs” are simply terms meant to justify why those who in power don’t have to share in the fruits of those labors ad jobs.
+We will ensure that Texas workers earn a wage they can actually live on, which in turn would further stimulate the economy and increase sales tax revenue, which would provide more funding for the State to use on other initiatives to help the poor and working class. * Protect Workers' Rights: Reverse policies that weaken Texas workers' ability to organize and bargain for fair wages, benefits, and working conditions.
+Companies that fight against their worker unionizing are fighting against their workers to protect their own interests.
+Unions are why we now have things like workplace safety regulations, child labor laws, regulations against worker exploitation, and the minimum wage to begin with.
+Any employer who threatens their workers for simply wanting better pay, better conditions, or better benefits, while relying on those same workers’ efforts to sustain their business, is essentially telling them that they aren’t as important as they really are, and we disagree. * End Corporate Exploitation: Hold large corporations and big box stores accountable for price gouging and using inflated prices to boost record profits.
+We will strengthen consumer protection laws to bring down the cost of essential goods like groceries.
+- When Texas consumers struggle, the Texas economy struggles.
+This includes the cost of utilities.
+It is unacceptable to ask Texas families to shoulder rising utility bills—the cost of which is driven up by energy-hogging corporate entities, such as data centers —while simultaneously giving those same companies lucrative tax write-offs.
+We should stop incentivizing these out of state corporations to come here under the guise of job creation, while not mentioning how it will negatively affect utility costs for local citizens, as well as the expected environmental pollution issues resulting from their on-site natural gas plant with no identifiable accountability measures in place.
+And according to Stargate’s own press release, all of this for only 357 new permanent jobs produced. * Make Corporations Pay Their Fair Share: Repeal or reform corporate tax giveaways, especially those given to high-energy-consumption industries like data centers, and redirect those funds to lower utility costs for residential customers.
+Replacing Chapter 313, which was a major tax giveaway to corporations, with the Jobs, Energy, Technology, and innovation Act was a good first step, because it provided far more restrictions as well as oversight on who and how these incentives could be used, but there is still more work to be done . * Utility Ratepayer Protection: Implement an "Affordable Utilities Cap" to prevent sudden, devastating spikes in residential electricity and water bills.
+A major part of that would be to fix our insufficient power grid.
+Invest state funds into modernizing the Texas power grid, prioritizing resiliency, and holding energy providers accountable to residential customers, not just corporate profit margins.
+Fund robust weatherization programs for low-income homes to permanently reduce utility consumption and save money as well as reduce the overall stress on the grid itself, which benefits all users.
+- Four core pillars: Direct Funding Increases, Targeted Support Allotments, Workforce Investment, and Revenue Restructuring.
+Pillar 1: Direct Funding and Finance Reform The primary legislative action would be to structurally increase the state's financial contribution to public education, decreasing reliance on local property taxes. * Boost the Basic Allotment (BA): Enact a substantial and immediate increase to the Basic Allotment (the core per-student funding amount) to account for recent inflation and rising operational costs. * Indexing for Inflation: Establish a mechanism to automatically adjust the BA annually based on the Consumer Price Index or a similar measure of economic growth to prevent future purchasing power erosion. * Prevent Voucher Programs: Legislate a permanent block on any new or existing school voucher or "Education Savings Account" (ESA) program, ensuring all public funds are dedicated exclusively to the public school system.
+Pillar 2: Targeted Allotments for Student Needs The policy would restructure and significantly increase funding for specific student populations to ensure equitable resource distribution. * Special Education Funding: Overhaul the special education finance system to adopt a higher-weighted, needs-based model that funds services based on the intensity of a student's required support, rather than the current system's historical inadequacy. * Compensatory Education: Increase the funding weight for educationally disadvantaged students (e.g., low-income, limited English proficiency) to better fund intensive academic support, tutoring, and behavioral health services. * Early Childhood Education: Expand the state allotment to fund and mandate full-day Pre-K for all three- and four-year-olds, prioritizing early literacy and numeracy to close achievement gaps.
+Pillar 3: Workforce and Compensation Investment A significant portion of the new funding would be dedicated to addressing the teacher shortage and improving staff compensation and retention. * Mandatory Statewide Salary Increase: Implement a state-funded, mandatory, and significant salary increase for all public school teachers, bringing Texas teacher pay competitive with the national average. * Support Staff Compensation: Provide state funding to increase salaries for other essential staff, including bus drivers, nurses, and instructional aides. * Teacher Pipeline: Create a dedicated state allotment to fund teacher residency programs and high-quality mentorship initiatives focused on recruiting and retaining educators in high-need subjects and rural areas.
+Pillar 4: New Revenue Generation To sustain this increased investment, the legislature would likely pursue new revenue sources to diversify state funding beyond the existing sales and severance taxes. * Corporate Franchise Tax Reform: Review and reform the state's corporate franchise tax by closing loopholes and/or adjusting the rate to ensure large corporations contribute more substantially to the state's general revenue fund. * Dedicated Severance Tax: Dedicate a greater percentage of state oil and gas severance tax revenue directly to the Permanent School Fund or the state's Foundation School Program
+- Texas is state of opportunity, but for too many, the dream is slipping away. 40% of Texans rent, but are facing rapidly increasing housing costs, and millions more are struggling just to make ends meet.
+When rents increase, grocery prices soar, and wages stagnate, the status quo becomes unsustainable for the average Texan.
+I, and many other Texans, reject the failed Republican strategy of giving massive tax breaks to the rich while footing the average Texan with the bill.
+They think that convincing working families that property tax cuts are the answer, but fail to mention that these are temporary, partial property tax reductions that are quickly negated by rising costs in every other area of life.
+Our platform prioritizes the majority of Texans—the workers, the renters, the homeowners, the families—, those suffering right now due to our current public policies, by tackling the true drivers of the affordability crisis head-on. ⚖️ Conclusion: Who Does Our Government Serve?
+The Republican approach—a temporary property tax break masking soaring costs everywhere else—is a shell game that benefits the rich and leaves working families behind.
+My progressive platform is different: We believe in a Texas where you don't need two jobs to afford a one-bedroom apartment.
+We will rebuild our economy from the middle-out and the bottom-up, investing in our people, not just corporate profits.

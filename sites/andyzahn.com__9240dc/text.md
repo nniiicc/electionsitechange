@@ -1,0 +1,3 @@
+Investing in Rural Washington
+It’s no secret that Washington State is locked in a perpetual cycle of economic instability and government budget crisis.
+One side says we are spending too much, another says we need higher taxes, but most people commenting on the situation aren’t looking beyond the next few years; in practically all discussions the fundamental, underlying economic…

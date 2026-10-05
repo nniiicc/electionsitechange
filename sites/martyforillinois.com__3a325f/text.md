@@ -1,0 +1,35 @@
+A Proven Record of Cutting Spending & Lowering Taxes
+Martin McLaughlin
+State Representative
+For Information on Your Property Taxes!
+CLICK
+HERE
+SMALL BUSINESSMAN & FINANCIAL EXPERT
+An outsider from the private sector, he was elected Village President of Barrington Hills in 2013 and re-elected in 2017, and elected as Republican State Representative for the 52nd District in 2020 and 2022.
+While in office, he slashed spending, lowered budgets, and cut taxes seven times, reducing the property tax levy by 25 percent.
+As State Representative, he sponsored and passed legislation which was signed into law reducing construction and engineering costs for every county in the state.
+Now, he is running to hold Springfield politicians accountable for:
+- Improving public safety
+- Lowering property taxes
+- Preserving parental rights
+- Maintaining local control for our schools
+WE NEED TO RETURN TO REASONABLE
+So businesses can remain in Illinois, we need to attract new businesses, and we need to grow more high-paying jobs for residents of the 52nd District.
+So families can raise their children in Illinois, and those children are able to start careers and find success so that they put down roots in our state.
+So Illinois seniors can retire and thrive while remaining in their home state – close to family and life-long friends.
+Rep.
+Martin McLaughlin In the News
+‘Wrong project, wrong place’: Critics push back on rezoning plan for potential Hoffman …
+Daily Herald
+New Bears bill introduced for Arlington Heights | Illinois | thecentersquare.com
+The Center Square
+New Bears bill introduced for Arlington Heights – AOL.com
+AOL.com
+State Republicans renew push to reengage Bears | Rockford Register Star | PressReader
+PressReader
+How Illinois Just Got A Major Reprieve With Chicago Bears Stadium Setback In Hammond
+Ground News
+A Century Before Bears’ Stadium Talks, Hammond, Indiana, Had a Pro Football Team
+Ground News
+Republicans hope to reengage Bears with new proposals – The Breeze Courier
+The Breeze Courier

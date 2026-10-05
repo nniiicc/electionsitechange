@@ -1,0 +1,14 @@
+Jessica Bradley Rushing for 6th Plymouth
+Jessica Bradley Rushing is running to represent the towns of the 6th Plymouth District —Duxbury, Halifax (precinct 2), Hanson (precincts 2 & 3), Marshfield (precincts 2A & 4) & Pembroke (all precincts except 3A) — in the Massachusetts State Legislature.
+Jessica worked as the Chief of Staff at AfghanEvac, a nonprofit dedicated to keeping the promise the United States made to its Afghan allies.
+She previously served as Deputy Director for Communications and Engagement in the U.S.
+State Department’s Office of the Coordinator for Afghan Relocation Efforts (CARE) and worked on veterans and immigration issues in the office of Congressman Bill Keating (MA-09).
+Prior to that, Jessica was the Director of Communication at the Officer Down Memorial Page (ODMP).
+Jessica served on the Pembroke Select Board from 2019 to 2022, including as Chair in her final year, and previously chaired the Pembroke Democratic Town Committee.
+A 2019 graduate of Emerge Massachusetts, she serves as Secretary on their Board of Directors.
+Jessica is also a member of the Truman National Security Project Defense Council and served on Everytown’s Veterans Advisory Council.
+An Army veteran and mother of four, Jessica holds a BS in Communication from Boston University and an MA in Public Leadership from the University of San Francisco.
+She was recently named an American Service Fellow at Harvard University's Kennedy School of Government, where she will pursue a Masters in Public Administration.
+I grew up in Pembroke, dedicated my life to public service, and moved back to raise my kids in the place I call home.
+Our district deserves a proven leader who serves every residentand works effectively on Beacon Hill to bring resources and representation back to our towns.
+Jessica Bradley Rushing

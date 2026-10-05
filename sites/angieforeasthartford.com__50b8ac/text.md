@@ -1,0 +1,90 @@
+MEET ANGIE
+I’m a longtime public educator, East Hartford Town Councilor, organizer, and activist, running for State Representative because many of the issues that matter most - healthcare, housing, fair taxes, and strong public schools - are decided at the state level.
+For 25 years, I’ve taught social studies at the same school, bringing learning to life through global perspectives, hands-on experiences, and student travel opportunities.
+I’m proud to help students build curiosity, empathy, and a deeper understanding of the world.
+On the Town Council, I chair the Tax Policy and Real Estate Committees and serve on the Economic Development Commission.
+I’ve focused on growing our tax base responsibly, revitalizing neglected properties, and advocating for fair wages, strong benefits, and safe working conditions for town employees.
+I’m running to support a public healthcare option, fair education funding, tax reform that asks the wealthy to pay their share, and real investments in East Hartford.
+I’ll stand up for workers, tenants, seniors, and families - and work every day to build a stronger, more equitable Connecticut.
+MY PRIORITIES
+WALKS THE WALK
+“Angie is a fierce advocate for equity for all CT residents!”
+-Brittney Cavaliere, East Hartford Resident
+WALKS THE WALK
+“Angie will be an excellent representative for East Hartford in the House of Representatives.
+She will fight for our residents on key issues including housing, healthcare and education.”
+-Trish McCooey, East Hartford Resident
+WALKS THE WALK
+“I have known Angie to be a staunch believer in fairness and equity ever since we met a decade ago in New Hampshire knocking for Bernie.”
+-Josh Elliot, CT State Representative 88th District
+WALKS THE WALK
+“Angie was the high school teacher that helped open my eyes to so much of the world, and as a member of our legislature I know that she’ll be a strong voice for policies that improve the lives of people across our state.”
+-Kevin Alvarez, Former Student
+WALKS THE WALK
+“Angie has walked the walk consistently for working people throughout her entire public service career.
+She has been unflinching in her values and in fighting for healthcare and public education, and she takes her role seriously in a way that most politicians simply do not.”
+-Renato Calle, Governance Director, Working Families Party
+CARES ABOUT EVERYONE
+“I support Angie because she cares about all East Hartford residents and not just the people at the town hall meetings.
+She acknowledges me and my special needs grandson when she sees us, around town.”
+-Nanette Fabian, East Hartford Resident
+A LEADER WITH VISION
+“Angie is as a leader who understands what East Hartford needs and has the vision to make it happen.”
+-Dan Thompson, East Hartford Selectman
+TIRELESS ADVOCATE
+“Angie is a tireless advocate for the Town of East Hartford and its residents.
+I would be proud to have her representing my town.”
+-Josh Quintana, East Hartford Board of Education member
+A CHAMPION FOR WORKING FAMILIES
+“I support Angie because I know she will work tirelessly in order to improve the lives of working class families.”
+-Adam Gagnon, Advertising Operations Coordinator
+DEDICATED TO PEOPLE & PROGRESS
+“I have known Angie since I was in high school.
+She inspired me to be my authentic self, ask questions, and grow.
+To have her as a representative would mean having someone dedicated to people, progress, and cultivating joy!”
+-Lauren Midgette, Assistant Clinical Professor, UConn Neag School of Education
+LEADERSHIP THROUGH THE GOOD, BAD, & UGLY
+“Angie can handle the good, the bad, and the ugly, always putting people first and never backing down from tough situations.”
+-Hilde Mayranen, East Hartford Resident
+STANDING UP FOR WHAT'S RIGHT
+“Angie is passionate in everything she does.
+She researches and she investigates.
+She knows her stuff.
+As a teacher, she has made it a point to get her students involved in the Democratic process.
+She is pro-union, pro getting better health care for all.
+She speaks her mind.
+She is always taking notes.
+She spends the time needed and is not afraid to speak up when she sees injustice.
+I am very proud to call her my friend.”
+-Eileen Driscoll, Retired East Hartford Resident
+PROGRESSIVE EDUCATOR
+“As a fellow AFT member, I’m proud to support a fellow progressive who stands up for workers, public education, and our shared values.”
+-Ally Sexton, AFT 4200, A&R
+A CHAMPION FOR THE 10TH DISTRICT
+“I’ve known Angie as a tireless advocate for the town of East Hartford and for critical issues that we face at the local, state, and national levels as well as her extensive experience as a social studies teacher in the public school system.
+I also appreciate her openness to people and her grassroots approach to coalition building and campaigning.
+She would add a tremendous amount of positive value to the CT legislature as the new Representative of the 10th District.”
+-George Demetrion, English and Humanities Tutor at Capital Community College
+PRO-WORKER, PRO-WORKING CLASS
+“We need Angie to join the pro-worker, pro-working class, progressive caucus in the state House! ✊”
+-Nick Gauthier, CT State Representative 38th District
+RELENTLESS ACTIVIST
+“Angie is relentless in her activism and care for people, more specifically working families.
+I feel she will do the best job for the people in my area!”
+-Heather Merrick, Machinist Local 700
+PASSIONATE & PRAGMATIC
+“I support Angie because she is both passionate and pragmatic; she knows the solutions are simple, and that the real work lies in dismantling the deliberate barriers standing in the way.”
+-Evie Cartagena, Program Director
+ANGIE LISTENS, PUTS PEOPLE FIRST
+“Angie Parkinson is a dedicated leader who truly listens and puts people first.
+She brings compassion, integrity, and a deep commitment to serving the East Hartford community.
+As a fellow educator, she will have my support 100 percent!”
+-Hassan Robinson, Elementary School Principal
+OUTSPOKEN REPRESENTATIVE
+“Dr.
+Martin Luther King, Jr. said 'Our lives begin to end the day we become silent about things that matter.' Angie will never be silent about things that matter to those she represents. ”
+-Don Currey, East Hartford Resident
+WORKS HARD TO GET THINGS DONE
+“Angie will be there for you and me.
+She will work hard to get things done to make a better state such as education and healthcare needs for all.”
+-Patricia Sirois, Chair of Beautification Commission

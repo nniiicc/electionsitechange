@@ -1,0 +1,2 @@
+Susan Tyler Witten is a lifelong Louisville resident, business professional, and a commonsense leader who has delivered results for Eastern Jefferson County by lowering taxes, strengthening public safety, improving education, and addressing Kentucky's housing challenges.
+She'll continue fighting to keep Kentucky affordable, protect our communities, and ensure families have a strong voice in Frankfort.

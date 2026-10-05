@@ -1,0 +1,23 @@
+top of page
+FROM THE
+NEWS
+MARCH 15, 2025
+Kenosha News
+Bill inspired by Kenosha County Sheriff's police dog who survived shooting passes state Assembly
+UPCOMING
+EVENTS
+BOOTS & BREWS WITH AMANDA FUNDRAISER
+SAT.
+AUG. 2ND, 3-6 PM
+HANSEN PARK BEER GARDEN
+8690 198TH AVE
+BRISTOL, WI 53104
+REPUBLICAN PARTY OF KENOSHA COUNTY
+Member Meeting
+AMANDA GIVES
+STATE BUDGET UPDATE
+3934 45th St
+Kenosha, WI 53144
+JULY 21st @ 6PM
+AMANDA IN ACTION
+bottom of page

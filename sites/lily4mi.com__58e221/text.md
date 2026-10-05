@@ -1,0 +1,38 @@
+Support & Donate
+Together, we can create a people-powered movement for human dignity, fairness, and opportunity.
+Vote by November 3rd, 2026
+Support & Donate
+My Top 5 Priorities
+These are the pillars of a Michigan where every person — especially those in underserved and overlooked communities — has the opportunity not just to survive, but to thrive.
+Volunteer & Keep Up To Date
+Signup to volunteer to join me in delivering real solutions for a stronger Michigan
+Organizations Supporting Lily
+Planned Parenthood Advocates of Michigan
+RANK MI Vote
+Kent County Democrats
+Teamsters local 406
+Planned Parenthood Advocates of Michigan
+RANK MI Vote
+IATSE
+Progressive Caucus
+MI List
+Michigan League of Conservation Voters
+ABOUT
+Lily
+Cheng-Schulting
+Hello, friends — I’m Lily Cheng-Schulting, and I’m running to represent Michigan’s 80th House District, which includes Kentwood, East Grand Rapids, Cascade Township, and parts of Eastown and Grand Rapids Township.
+BACKGROUND
+- Founder & President, Disability A-Team of West Michigan(501c3)
+- Former Elected Democratic Nominee for State Representative in HD72(Kentwood, Gaines Township, NE Allegan County)
+- Mom and primary caregiver of two young adults ( one of whom is autistic)
+- Co-chair, Kentwood Dems Club
+- Former Vice Chair, Progressive Caucus of the MDP (Michigan Democratic Party)
+- Founder, Speak Up GR
+- Former Co-chair, Kent County Progressive Caucus
+- Former member of Michigan Department of Education’s Special Education Advisory Committee
+EDUCATION
+- Juris Doctor(J.D.), Syracuse University College of Law
+- B.A UC Berkely (University of California at Berkely)
+Why Lily 4 Michigan?
+My platform centers on five priorities that reflect what families across Kentwood, East Grand Rapids, Cascade Township, and beyond are asking for every day: economic fairness, healthcare for all, educational equity, social justice, and environmental protection.
+These are the pillars of a Michigan where every person — especially those in underserved and overlooked communities — has the opportunity not just to survive, but to thrive.

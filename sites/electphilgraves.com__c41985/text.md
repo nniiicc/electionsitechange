@@ -1,0 +1,2 @@
+If given the honor of representing the good citizens of Utah House District 20, I promise to fight to strengthen public education, to bring about meaningful campaign finance reform to get dark money out of state politics, and to protect our environment from polluters.
+As a native Utahn and long time resident of Bountiful, it is time for the Utah State House to start representing the interests of working class families, and not those of corporations.

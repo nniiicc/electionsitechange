@@ -1,0 +1,17 @@
+Elect Kevin Marsh
+Idaho State Representative, serving Blaine, Jerome, and Lincoln Counties
+“I am committed to protect what makes Idaho strong.”
+I’m Kevin Marsh – farmer, historian, and longtime Idahoan running for the Idaho House of Representatives in District 26, serving Blaine, Lincoln, and Jerome Counties.
+My wife Erika and I run Daisy’s Farm near Bellevue, growing produce for local markets and irrigating with the same water I spent decades studying as one of Idaho’s leading historians.
+Before that, I fought wildfires and worked as a ranger for the Forest Service.
+I know this land, and I know what’s at stake for the people who depend on it.
+District 26 deserves a representative rooted here – someone who will protect our water, our public lands, our schools, our affordable lifestyle, and our communities.
+That’s why I’m running as the Democratic candidate for House Seat B.
+As your State Representative in District 26, I will promote:
+- Our homes and jobs—protecting our quality of life at an affordable cost
+- Our public lands—our jobs, lifestyle, & water that flow from them
+- Our working farms and small businesses—the backbone of our communities
+- Our schools and teachers—our future and current leaders
+- Our rural health care networks—care should be within reach
+- Our diverse, hard-working communities—diversity provides strength
+- Our respect for democracy and civility—the Idaho Way

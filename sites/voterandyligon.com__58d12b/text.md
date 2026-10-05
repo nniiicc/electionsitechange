@@ -1,0 +1,20 @@
+top of page
+SIGN UP FOR MY WEEKLY NEWSLETTER
+ENDORSED BY DONALD TRUMP!
+EDUCATION &
+CHILDREN
+CONSERVATIVE
+LEADERSHIP
+LOCAL
+JOBS
+NATURAL RESOURCES
+100%
+PRO-LIFE
+RECENT NEWS
+Headlines from District 43 and the State House
+CONTACT RANDY
+Over the phone or online
+1585 Carpenter Road
+Chester, S.C. 29706
+Contact
+bottom of page

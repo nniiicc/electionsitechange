@@ -1,0 +1,5 @@
+A tireless fighter for our community
+Matt is working to grow our economy and see that our children share in the prosperity that has made Montgomery County, and the commonwealth as a whole, a great place to live, by:
+- Making public education funding more equitable in Pennsylvania to provide our children with a quality education, while holding the line on property taxes to ensure that our residents—especially our seniors—are not overburdened.
+- Investing in our workforce by attracting and retaining the best employers through a competitive tax structure and targeted investments in high demand, high pay fields.
+- Partnering with representatives from both parties to move the state from massive budget deficits to historic surpluses and billions in the rainy day fund, and making government more accountable and transparent to taxpayers at the same time.

@@ -1,0 +1,34 @@
+Homegrown Leadership
+You Can Trust
+Senator Sarah Anthony is fighting every day to improve the quality of life for Mid-Michigan families.
+A proven effective lawmaker, skilled negotiator, and community-oriented leader; help Sarah continue serving in the Capitol as our Senator.
+ABOUT
+Meet Sarah
+Sarah’s working for a better future for our communities.
+As an advocate, organizer, and policy expert, Sarah has dedicated her life to ensuring our community has strong schools, healthy families, safe communities, and an economy that works for everyone.
+Sarah is a history-maker and a change-maker.
+As the first Black woman to ever serve as state representative and senator in Mid-Michigan's history, Sarah made history and has already accomplished so much in the halls of power.
+PRIORITIES
+Sarah Is Fighting For Mid-Michigan Families.
+Make healthcare accessible and affordable
+- Lower the cost of prescription drugs
+- Prioritize counseling and mental healthcare services
+- Work with health insurance companies to ensure quality care at affordable rates
+- Fight for access to reproductive health care
+Support Economic Development in Mid-Michigan
+- Support good paying jobs, union wages and earned paid sick leave
+- Create incentives for businesses to keep their doors open
+- Attract, grow, develop, and retain talent
+Safeguard Public Education and be a voice for students
+- Prioritize school safety
+- Respect teachers, parents, and education professionals
+- Address college affordability and student loan debt
+- Encourage skilled trades and community college options
+- Provide quality childcare options
+Justice for All
+- Create a fair and equitable criminal justice system
+- Everyone has a right to clean air and clean water
+- Address our region’s housing crisis
+- Create an economy that works for everyone
+Sarah is running to represent District 21
+Due to redistricting, please view the below map to see if you reside in the new district

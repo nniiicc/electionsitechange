@@ -1,0 +1,4 @@
+To enlighten and educate my fellow citizens to the dangers of not holding our Executive, Legislative, and Judicial branches of government accountable to our Constitution, which is the rule of law.
+Oaths of Office are required of each public servant and act as a contract of their employment / civic obligation / and duty as guardians of our Constitution.
+I, George McDermott, after 80 years have lived and worked through adversity and tragedy challenging my faith and belief that I was part of a larger picture within the universe, as having been privileged enough to be born an American citizen endowed with Life, Liberty, and Inalienable Rights.
+Rights granted by Founding Fathers enumerated in our Constitution and the binding documents our Declaration of Independence and Bill of Rights which is our RULE OF LAW.

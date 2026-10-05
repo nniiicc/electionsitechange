@@ -1,0 +1,23 @@
+Erin for Nebraska
+I’m running to represent you in the Nebraska Legislature because let’s be honest, right now— experience matters.
+Key Issues In Our Community
+An Economy that Works for Everyone
+Good jobs and fair wages, affordable childcare, food security, strong public education.
+Safe, Affordable Housing in Our Community
+Keeping Nebraskans in their homes, expanding our affordable housing options, providing critical assistance to our neighbors in need of housing stability.
+A State that Protects Our Rights
+Access to the reproductive healthcare we need, protecting our LGBTQ+ community, and respecting the will of the voters.
+Support Erin Feichtinger for District 8
+Donate now to help send your voice—and your values—to the Nebraska State Legislature.
+Every contribution helps move us forward.
+Meet Erin
+Born and raised in Omaha, Erin attended Marian High School before leaving for Chicago to get a Bachelor’s Degree in Special Education and Ph.D in History from Loyola University Chicago.
+After returning to Omaha, Erin and her family settled in District 8.
+She went on to build the successful Advocacy and Policy program at Together, an Omaha non-profit dedicated to homelessness and hunger.
+Erin developed both local and legislative policies to support and expand access to the things we all need—food on the table, a safe place to call home, and the security that comes from good jobs with fair wages.
+In 2022, Erin became Policy Director for the Women’s Fund of Omaha and added to her previous legislative efforts an agenda to advance gender equity through protecting reproductive healthcare, increasing protections for those experiencing domestic violence, strengthening economic security policies like paid sick leave and increasing the minimum wage in support of working families, and ensuring our LGBTQ+ neighbors are seen and safe.
+She knows Nebraska can build an economy that works for everyone because she has helped advance legislation to do just that—where parents can afford childcare and put food on the table because they have good jobs with fair wages, where kids learn from well-resourced teachers in a strong public school system, and where economic development reaches everyone in our community.
+She has worked for eight years on affordable housing issues and knows that together, we can make meaningful investments in safe, affordable housing and make sure all Nebraskans can afford and stay in their homes—whether renter or homeowner.
+And now, more than ever, when our rights are under attack, we need a State Senator who has the knowledge and experience to stop the growing number of legislative bills that strip away our rights to reproductive healthcare and target our neighbors who are part of already marginalized identities.
+For years, Erin has helped bring Nebraskans into the legislative process because a strong Second House means a stronger, fairer, and more just state for all.
+When she’s not at the Capitol advocating for policies that support all Nebraskans, you can find her in the Benson neighborhood with her family and an enormous dog, playing music or doing increasingly elaborate crafting projects with her daughter.

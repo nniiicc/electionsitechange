@@ -1,0 +1,109 @@
+A life of serving
+the Texas Panhandle
+Faith.
+Family.
+Texas Panhandle Values.
+Meet Holly Jeffreys
+Holly Jeffreys grew up in Amarillo and comes from a family of first responders and law enforcement: her brother is a DEA agent fighting drug cartels, and Holly is a nurse practitioner who volunteers as an EMT.
+She opened rural clinics in communities that needed care: Panhandle, Boys Ranch, Bushland, and Claude, so families don't have to drive hours for healthcare.
+President Trump's SBA named Holly the Texas Panhandle Small Businessperson of the Year.
+Holly served for nine years as President of the Bushland ISD School Board, protecting kids long before it was trendy.
+Under her leadership, Bushland earned an A+ for keeping inappropriate materials out of libraries and DEI and critical race theory out of classrooms.
+Today Holly leads the College of Nursing and Health Sciences at West Texas A&M University, training much of the area's healthcare workforce.
+Governor Greg Abbott appointed Holly to his Healthcare Workforce Task Force, and Lt.
+Governor Dan Patrick selected her for his Health Care Advisory Board — because she gets results for the Panhandle.
+Holly is a pastor's daughter who has attended Arden Road Baptist Church since she was five years old, leading youth choir and sponsoring Christian mission trips.
+She'll protect religious liberty and keep government from trampling on our faith and religious freedoms.
+Holly is a hardworking, proven conservative who won't go to Austin chasing headlines.
+She'll roll up her sleeves and solve problems for HD 86.
+Keep Panhandle Water in the Panhandle
+Holly will fight to keep Panhandle water in the Panhandle — for our farmers, our ranchers, and our families — and away from Wall Street and hedge funds looking to drain the Panhandle dry.
+Parents, Not Government, Should Decide How to Raise and Educate Their Children
+Holly believes parents — not Austin bureaucrats — should decide how to raise and educate their children.
+Eliminate School Property Taxes and Make Austin Fully Fund Our Schools
+Holly will fight to eliminate school property taxes and immediately lower the property tax freeze age from 65 to 55, saving Panhandle homeowners thousands and ending the appraisal game for families 55 and older.
+Stand with President Trump and Governor Abbott to Secure the Border
+Holly sees the border crisis every day — the strain on rural clinics and hospitals and drugs flowing into our communities.
+She will support President Trump and Governor Abbott’s mission to secure the border and put Texas citizens first.
+Fight for Law Enforcement and First Responders
+Holly comes from a family of first responders and is endorsed by multiple Panhandle sheriffs, the Amarillo Police Officers Association, and CLEAT.
+As State Representative, she’ll give them the resources they need to keep our families safe.
+Protect Agriculture and Rural Industries
+Holly will stand with our farmers and ranchers against regulations that threaten the industries that built the Panhandle.
+Make Healthcare Affordable and Accessible
+Holly built healthcare clinics from the ground up so Panhandle families don’t have to drive hours for care.
+She’ll fight to lower costs and expand access in rural Texas.
+Protect Life from Conception to Natural Death
+Fight One-Size-Fits-All Mandates That Ignore Rural Texas
+Holly will push back on unfunded mandates from Washington and Austin that are written for big cities and ignore rural communities like ours.
+Holly's plan for House District 86
+Real Conservative Texas Pandhandle Values
+Rural Clinics & Community Care
+Holly built clinics in Panhandle, Boys Ranch, Bushland, and Claude, bringing dependable care to communities that had gone without it for years.
+She also created a coffee shop in Bushland to meet local needs.
+Holly's Record of Service
+A lifetime of building solutions.
+University Leadership
+As dean of WTAMU’s College of Nursing and Health Sciences, she guides more than 50 faculty members and helps prepare the region’s healthcare workforce with hands-on training across rural communities.
+Panhandle Roots, Statewide Relationships
+Governor Abbott and Lieutenant Governor Patrick both selected Holly to serve on Task Forces and Advisory Boards to help deal with healthcare costs and workforce challenges, and President Trump's SBA named Holly Panhandle Small Businessperson of the Year.
+Statewide & Government Roles
+- Governor Abbott's Task Force on Healthcare Workforce Shortages
+- Lieutenant Governor’s Health Care Advisory Board
+- Years of invited testimony before the Texas House and Senate on Health, Education, and Rural Issues
+Community & Foundation Leadership
+- High Plains Republican Women | Past and Current President
+- Arden Road Baptist Church | Active Member, 40+ Years
+- Lion's Club, Canyon
+- Volunteer EMS | Rural and Underserved Areas
+- Harrington Foundation Board of Directors | President and Grant Committee Chair
+- Amarillo Women’s Circle | Member
+- Cal Farley’s Boys Ranch | Volunteer
+Community Leadership
+Healthcare & Professional Leadership
+- Texas Association of Rural Health Clinics Board Member
+- NWTH ACO Governing Board
+- BSA Health System Governing Board
+- National Organization of Nurse Practitioner Faculty | Member
+- Texas Nurse Practitioner Association — Legislative Ambassador Lead, Policy Council Chair, Region 1 Rep, Government Action Committee Member
+- Panhandle Nurse Practitioner Association | Vice President
+- Texas Panhandle Health Services Coalition
+Education and School Leadership
+- Bushland ISD School Board, Past President
+- Dean, College of Nursing and Health Sciences, WTAMU
+- College of Nursing and Health Sciences Advisory Chair, WTAMU
+- Texas Association of Deans & Directors of Professional Nursing Programs | President
+- Higher Education Nursing Faculty Shortage Task Force | Chair
+- National Organization of Nurse Practitioner Faculty | Member
+Small Business & Economic Development
+- Small Business Entrepreneur
+- NFIB Member
+- Named Texas Panhandle Small Businessperson of the Year by President Trump's Small Business Administration
+Meet
+the Jeffreys
+Rooted in faith, grounded in family
+Holly and her husband, Kelly, met at Arden Road Baptist church after he moved to the Texas Panhandle to attend WT.
+They have been married for 33 years and raised four children who now have families of their own.
+Their family still attends the church where Holly’s father pastored for nearly four decades.
+Their life reflects the steady influence of faith, family, and Texas Panhandle values.
+Representative
+John Smithee
+Conservative Organizations
+Law Enforcement
+Amarillo Police Officers' Association
+Shane Stevenson, Dallam County Sheriff
+Chanze Fowler, Hartley County Sheriff
+Shannon Tanck, Oldham County Sheriff
+Brian Thomas, Potter County Heriff
+Joel Richardson, Randall County Sheriff Ret.
+Martin Hood, Former Texas Ranger, RTZ Tactics
+James Stroud, Dalhart Mayor
+Floyd French, Dallam County Commissioner
+Elected Officials
+CLEAT
+Texas Hospital Association PAC
+Texas Realtors PAC
+Four Price
+Former Representative
+Representative John Smithee served House District 86 for 20 terms.
+He knows Holly Jeffreys from two decades of working together on health and education issues in the Panhandle — and he endorsed her because he trusts her to fight for this district.

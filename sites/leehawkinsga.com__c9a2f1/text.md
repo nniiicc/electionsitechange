@@ -1,0 +1,50 @@
+Legislation
+HB 888
+Surprise Billing and Consumer Protection Act takes patients out of the middle of billing disputes between providers and insurers.
+It disallows surprise billing in emergency situations and when a patient receives scheduled services at an in-network facility.
+The legislation further requires patients to give consent before out-of-network services, but only after they are provided with an estimate of the cost of such services.
+The Act covers an array of health care services and providers, including hospital or ambulatory care facilities.
+SB432
+Legislation that address location of antennas for wireless communications facilities and provides for uniformity in the location of facilities to ensure the expansion of broadband throughout the state of Georgia
+HB 768
+The ABLE Act allows disabled persons to save up to $250,000 without losing disability aid.
+The prior limit was $2,000.
+Now, people with disabilities may be able to afford to buy vehicles and homes to live independently
+HB 558
+Repeal of the Estate Tax: This is the elimination of the Georgia Estate Tax
+HB 769
+The Coverdale Murphy Act establishes certified levels of stroke treatment facilities.
+This provides guidance for the transportation of the patient to the most appropriate hospital for emergency treatment.
+Reducing the critical time between the onset of a stroke and treatment is vital is the survival rate
+HB 943
+Limits Oral Cancer medicines, which have the same wholesale cost of the IV meds to co-pays of $300.
+Reduction of some meds from $2000 to $300
+HB 209
+The Federal Veterans Administration was taking years to provide documentation certifying a veteran as disabled, thereby preventing disabled veterans from qualifying for the Veterans Homestead Exemption.
+Allows for a three-year recovery reimbursement of the Homestead Exemption for disabled veterans.
+This bill was named after a Hall County veteran, The Russell Tego USMC Act
+SB133
+Healthshare Volunteers and Medicine Act Sol immunity protection for healthcare professionals in safety net clinics to allow retired professionals to treat patients in clinics like our Good News Clinic
+HB 943
+Establishes a pilot program within the Division of Family and Children Services (DFCS) to provide autism spectrum disorder (ASD) screenings, clinical evaluations, training, and resources for children in the foster care system
+HB 888
+The law shields insured patients from unexpected "balance billing" when they receive emergency care from out-of-network providers or non-emergency care at in-network facilities without prior consent
+HB 853
+The Coverdale Murphy Act for certified stroke centers in advanced treatment
+HB 1276
+Requires the Georgia Department of Community Health (DCH) to regularly publish comprehensive statistical and financial reports on state-administered health plans directly on its website to increase public transparency.
+HB 1304
+The Georgia Caregivers Act provides for a family caregiver to have access to the patient requires hospitals to give patients the option to designate a lay caregiver and participate in discharge planning and training before returning home.
+HB 197
+Directs insurance companies to contact health care providers in a convenient and concise manner to discuss prior approvals and treatment denials.
+This will decrease the amount of time the patient must wait for treatment and ensure prompt access to healthcare
+HB 888
+The law shields insured patients from unexpected "balance billing" when they receive emergency care from out-of-network providers or non-emergency care at in-network facilities without prior consent
+HB 419
+Places opioid antagonists, also known as Narcan dispensers in the University Systems of Georgia.
+Narcan can reverse the overdose of opioids and fentanyl and save lives.
+HB 1276
+Requires the Georgia Department of Community Health (DCH) to regularly publish comprehensive statistical and financial reports on state-administered health plans directly on its website to increase public transparency.
+“Our responsibility as legislators is to work for the best interests of the people we represent and to serve honorably”
+— Rep.
+Lee Hawkins

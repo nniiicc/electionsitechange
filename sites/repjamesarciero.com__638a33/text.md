@@ -1,0 +1,7 @@
+Proudly serving Chelmsford, Littleton and Westford
+I am honored to represent the Second Middlesex District in the Massachusetts State Legislature.
+Since 2009, I have and will continue to:
+- Fight to ensure that all our education, transportation and public safety needs are funded;
+- Protect access to reproductive healthcare and increased access to mental health services;
+- Ensure our Veterans and their families receive the services and benefits they deserve; and
+- Champion strong economic development policies to grow and create more public/private partnerships for investments in critical capital infrastructure improvements.

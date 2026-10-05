@@ -1,0 +1,24 @@
+Vision for Vermont
+Restoring Rutland County's Economy
+Rutland County's last era of real prosperity was nearly 80 years ago.
+Dave Weeks believes it's time to change that — rebuilding a regional economy that delivers a strong Quality of Life while preserving the unique lifestyle and natural beauty that make Vermont special.
+Why Our Economy Fell Behind — and How We Bring It Back
+When America moved from rail to road transportation in the 1920s, the Rutland region lost its economic lifeline.
+Revitalization won't happen by accident — it will take a concerted political, planning, and economic effort in Montpelier.
+Senator Weeks is leading that effort through two primary initiatives:
+21st Century Roads for the Rutland Region
+Modern commerce moves on modern highways — and Rutland County has been left behind.
+Dave is fighting for:
+- Upgraded highway access into Rutland County from the east, west, and north
+- Connections to the regional network beyond our borders: I-87 in New York, I-89 and I-91 in Vermont, and completion of Route 7
+- Faster, safer movement of goods, services, commuters, and tourists — the foundation every local business needs to grow
+Dave has already put this vision into legislation, drafting S.287, his bill to study self-funding limited-access highways that would connect Rutland County to New York markets while improving road safety.
+Putting Vermont on the Map — Tourism That Pays
+Tourism is one of Vermont's greatest economic engines, yet we undersell ourselves.
+Dave is championing enhanced Vermont branding to draw more visitors — and their spending — to Rutland County's mountains, lakes, trails, and downtowns.
+His legislation supporting Vermont Highway Welcome Sites is part of that commitment.
+Meet Dave Weeks
+Senator Dave Weeks represents Rutland County in the Vermont Senate — a Marine veteran, Navy Captain, Fortune 500 aerospace executive, and Vermonter who brings real-world experience to the Statehouse.
+Raised in Wallingford and living today in Proctor with his wife Dr.
+Leeanne Wootten, Dave has spent his life in service: 31 years in the military, decades of volunteering in our community, and now his second term fighting for Rutland County families in Montpelier — on the economy, our schools, and accountable government.
+"My focus is to rejuvenate the economic condition in Rutland County while respecting the unique environmental and cultural soul of Vermont."

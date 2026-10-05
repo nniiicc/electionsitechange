@@ -1,0 +1,41 @@
+Home
+Meet Michanna
+Events
+Endorsements
+Issues
+Volunteer
+Contribute
+Make a Donation
+Our campaign is powered by your donations.
+$10
+$25
+$50
+$100
+$250
+$500
+$1000
+Other
+Sign Up for Updates
+First name
+Last name
+Email
+Zip/Postal
+Message
+Thanks for signing up!
+Home
+News
+Photos
+Make Endorsement
+Contact
+Privacy Policy
+Committee to Elect Michanna Tate
+Powered by CampaignPartner.com - Political
+Campaign Websites
+Home
+Meet Michanna
+Endorsements
+Issues
+Events
+Contribute
+Volunteer
+Close Menu

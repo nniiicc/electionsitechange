@@ -1,0 +1,1 @@
+As your State Representative, I am committed to fighting to ensure that every one of our children has equal access to a quality, world-class education, to bringing good paying jobs to our communities, to reducing crime in our neighborhoods, and standing up for fairness for all of us.

@@ -1,0 +1,27 @@
+Meet Justin
+I am Justin Lafferty; I proudly serve as your conservative Republican State Representative for the 89th District and I have a passion to protect the freedoms our country provides each of us.
+Preserving the liberty and freedom that our men and women in uniform have always fought to defend is at the core of why I’ve been led to serve.
+It’s been my pleasure to work with you, the residents of District 89, for the past four General Assemblies, and I look forward to continuing that service with your support and your vote.
+For over 40 years, I have had the privilege of calling Knoxville home and want to ensure it continues to thrive.
+Upon graduating Farragut High School, I began my college journey at Pellissippi State, then earned a Bachelor’s Degree in Political Science and a minor in Business Administration from the University of Tennessee.
+Go Vols!
+Twenty-four years ago, I was blessed to marry my wife, Jana.
+Together, we’ve built our family - we have one daughter, who is studying to become a nurse.
+We have built our family here in the 89th district because we love the sense of community and conservative values in this area.
+As a husband, a father and small business owner, making sure East Tennessee thrives with the values we hold dear is important to us.
+We enjoy many wonderful things in East TN such as a low cost of living, no income tax, strong conservative values, but there we must remain vigilant.
+Addressing the many issues face our state such as explosive growth, infrastructure needs, rising cost of healthcare, improving education, and protecting our values against those who want to destroy them is more important than ever.
+As your State Representative, I promise to be your voice in Nashville on issues that are important to our district, region and state.
+I humbly ask for your vote and pledge to focus my talents and leadership to serve the 89th district of the great state of Tennessee.
+Thank you for your time and consideration.
+Justin Lafferty,
+Candidate for State Representative, District 89
+Contact Phone: 865-300-9534 | Email: voteforlafferty@gmail.com
+Justin Lafferty on the Web
+Justin Lafferty
+Phone: 865-300-9534
+Email: VoteForLafferty@gmail.com
+Conservative for State Representative
+District 89
+Donate to Lafferty for House
+Purpose: Elect Justin Lafferty for State Representative District 89

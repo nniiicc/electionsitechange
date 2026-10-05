@@ -1,0 +1,35 @@
+Mary Dye
+REPUBLICAN
+WA REPRESENTATIVE
+Piping Progress & Feeding Families - for the Next 250 Years.
+On this 250th celebration of our nation’s Independence, I am pleased to share two recent endorsements that mean so much to me.
+Read about recent endorsements and my Independence Day Message!
+Honoring the Sacrifice
+“Our great warriors, our families, who signed the covenant to serve the God who gave us a government of Us, the documents drafted that we serve God, and He alone and our relationship to Him holds the bonds of our civil society tightly together.”
+READ ALL FROM 2026 MEMORIAL DAY MESSAGE (click here)
+MARY DYE ANNOUNCES 2026 REELECTION CAMPAIGN
+“More than ever, I am inspired and dedicated to serve the people of Southeastern Washington.
+My favorite part of public service is getting out in our many counties, communities and neighborhoods, listening and learning about the issues that affect our friends and neighbors.”
+READ ALL HERE
+Dedication of the Lift at Pataha Flour Mill
+POMEROY - March 11, 2026 // Rep.
+Mary Dye shares, “We are honored to celebrate together this place and the commitment we share to make our community a place of living history, and a continuity that sustains our sense of identity and belonging, a place that echoes with fond memories and historic struggles as our families, undaunted, broke open the abundance of this beautiful place and created a community bound together in the profound responsibility of stewarding the legacy this land ties us to.”
+Photo Credit: Naomi Scoggin
+THE BENEFITS OF HINDSIGHT: Lessons Learned from Klickitat County
+“The full cost of adding renewable energy to the grid is being borne by society through taxation and reckless monetary policy.”
+Read the Report Here!
+My thoughts …
+As shared with the Washington State Farm Bureau in 2024
+“It is the generational memory of farmers exploring the mysteries the soil reveals, the whispers of the seasons, with curiosity and humility combined with the innovation applied from nearly two centuries of ag research, each farmer applying the knowledge uniquely to his own piece of dirt, that is the secret sauce of American Abundance and Prosperity.”
+NEW(s)
+I am so honored to have been recently recognized by the The Washington Invasive Species Council and the Washington Farm Bureau.
+Read more here.
+My life’s honor has been to Represent the People and Places of Southeastern Washington with Passion.
+My pledge of service to you …
+- Always tell the Truth
+- Do the Homework
+- Fight for your Family like you are My Own
+Thank You for your Continued Confidence!
+Constituent Service
+Nothing brings me more joy than listening and learning directly from you, the good people of Southeastern Washington.
+While the many miles in our district may separate us, we are joined by a love of the land, a strong work ethic and an undying belief in each other.

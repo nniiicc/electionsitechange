@@ -1,0 +1,38 @@
+Dear Friends,
+On Wednesday, January 1, 2025, I was honored to be sworn into my sixth term as State Representative for the 11th Worcester District.
+My first five terms exceeded my expectations in every way, and I wake up each day energized and thankful for the opportunity to represent the communities of Shrewsbury and Westborough in such an important capacity.
+I absolutely love being your State Representative!
+| “I will seek to work with any and all across the political spectrum who prioritize action over inaction, results over rhetoric and reform over increased revenue.
+As I look across this historic chamber, I see the history that has been made through compromise and consequence, and I see the opportunity to chart a new course that promises a bright future for my children, and my children’s children.
+I feel the deep weight of responsibility to be a respectful, articulate and forceful voice in this chamber.
+I am grateful for the opportunity bestowed upon me and I am ready to get to work.” (Excerpt From Swearing-in Speech, April 8, 2015) | |
+I am honored to serve on the following committees:
+- Joint Committee on Health Care Financing (Ranking Minority Member)
+- Joint Committee on Public Health (Ranking Minority House Member)
+- Joint Committee on State Administration & Regulatory Oversight (Ranking Minority House Member)
+- House Committee on Ethics (Ranking Minority Member)
+- House Committee on Steering, Policy, and Scheduling
+Rep.
+Kane at the Transportation Committee Hearing on the Governor’s MBTA Legislation
+My major committee assignments have provided me with substantive opportunities to affect major issues facing the Commonwealth.
+I am proud to have filed legislation that has become law, including bills to:
+- Create a Women’s Rights History Trail in the Commonwealth
+- Increase Access to Cancer Clinical Trials
+- Create a Rare Disease Advisory Council
+- Update Parentage Laws
+- Improve the Efficiency and Effectiveness of Local and Regional Public Health
+- Increase Public Safety and Public Health Protections with Legalization of Marijuana
+- Local Legislation to
+- Change Terminology from “Board of Selectmen” to “Select Board”
+- Allow for the Westborough BORO Program
+- Convey Parcels from the Former state owned Glavin Center to the Town of Shrewsbury for Building the new Beal School
+Being a part of community events, supporting local charities, attending retirement parties, Eagle Scout ceremonies and local meetings, and acknowledging the significant events in people’s lives is one of the most rewarding aspects of my position.
+I have also enjoyed hosting visitors at the State House, such as Al-Hamra Academy who I gave my first State House tour to.
+I welcome every occasion to connect directly with those that I represent.
+On March 31, 2025, I celebrated my 10th Election Anniversary at Cold Harbor Brewing with my family, friends and supporters.
+This wonderful video showcases some of my work over the last decade!
+I hold office hours in Shrewsbury and Westborough as well as hosting a show on local cable “Conversations with Hannah.”
+I am deeply honored to be serving as State Representative for Shrewsbury and Westborough.
+Please do not hesitate to contact my office if I can help with any issue or if you wish to let me know your position on upcoming legislation.
+My Legislative Aide, Kerry Shea, and I can be reached at 617-722-2810 or via email at [email protected] and [email protected].
+My best,

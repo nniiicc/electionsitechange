@@ -1,0 +1,117 @@
+I was first elected to the State House of Representatives in 2008, rising to the position of Caucus Chair.
+Soon after the start of the 2017 session, our 7th District Senator resigned and I was appointed to serve as the new Senator.
+I then handily won my election in 2017.
+I currently serve as the Ranking Minority Member of the Local Government Committee.
+I continue to be a leader in fighting against unnecessary and burdensome agency rules and regulations that undermine individual rights and our economic prosperity.
+I have a special connection with the people of my district.
+Not only have I served the people of the 7th District for the past 23 years, it is where I and my husband Mitch chose to raise our family.
+Before being elected to office, I ran district offices for former Congressman George Nethercutt, Congresswoman Cathy McMorris-Rodgers and Representative Joel Kretz.
+Prior to that, I was a paralegal for 10 years.
+My focus has been, and will continue to be, to fight for our conservative values, our liberties, our way of life and to stand against government when it stands in the way of our prosperity and the prosperity of our children!
+People matter, our families matter, our small businesses and communities matter.
+There is no greater priority to me than promoting local jobs, getting folks back to work and protecting the foundation of the 7th District - from managing our natural resources and wildlife to local healthcare, from student centered education to access to water.
+I've built relationships, educated legislators and challenged the status quo in order to be a more effective leader for the 7th District.
+As your Senator, I will continue to use my experience to fight for you.
+I would be honored to have your support and I ask for your vote!
+Received Legislator of the year for the years 2015, 2016, 2017, 2018, 2020, 2021 & 2022
+2018 Legislator of the Year
+"In Recognition of Your Leadership To Strengthen Washington's Family Farms"
+2013 Legislator of the Year
+District V - 2019 Legislator of the Year
+2015 & 2016 Legislator of the Year
+"In appreciation for your dedication and contribution to preserving the heritage of hunting in the State of Washington."
+Public Works Board - 2022
+"Infrastructure Champion" Award
+CATTLE PAC - 2022
+"Are very pleased to endorse your reelection "
+Washington Hospitality Association - 2022
+"The Association is thankful for your dedication, leadership, and assistance with our industries survival and recovery from the COVID-19 pandemic."
+Washington State Farm Bureau PAC - 2022
+"Thanks again for your willingness to serve the citizens of our great state."
+Jada Bascom Foundation - 2019
+Rekindle Life Award
+Washington Association of Sewer and Water Districts - 2019
+"Outstanding Legislator" Award
+Washington Farm Bureau - 2019
+"Friend of Farm Bureau" Award
+"Certificate of Commendation" Award
+Human Life PAC - 2018
+Northwest Credit Union Association - 2018
+"We represent over 90 Credit Unions in Washington State and proudly endorse the re-election of Senator Shelly Short."
+Physical Therapy Association of Washington - 2018
+"Joseph Black Friend of Physical Therapy" Award
+"I am honored to announce that you have received PTWA's endorsement for your 2018 legislative campaign.
+This endorsement is based on your healthcare leadership in the Legislature and your continued support for the physical therapy profession and the patients we serve."
+Washington Farm Bureau - 2018
+Washington Food Industry Association - 2018
+"The WFIA is proud to endorse you and financially support your 2018 re-election campaign.
+Through your voting record and other legislative actions, you have shown your concern and support of the independent grocery industry, its local owners and their employees.
+Growing locally owned businesses is the backbone to Washington State's economy and we look forward to working with you on the important issues facing our state and members."
+Washington State Chiropractic Association - 2018
+William S.
+Day Senate Award - "Senator Shelly Short, who is hereby recognized for her outstanding public service in the Washington State Senate during the 2018 legislative session."
+Washington State School Retirees' Association - 2018
+Hunters Heritage Council - 2017
+"The Hunters Heritage Council has created the 'Hunters Heritage Council Hall of Fame' and those inducted are those who have done more than anyone else for the hunting community.
+This will not be an award given every year, put only when there are individuals deserving of HHC's highest award.
+Our sole inductee for 2017 is Shelly Short."
+Washingtonians for Wildlife Conservation - 2016
+"Honorary Lifetime Membership" Award
+Citizens Alliance for Property Rights - 2013
+Pend Oreille & Spokane County Chapters
+"CAPR Legitimate Environmental Science Award"
+Ferry County Republican Party
+Jim Schumacher
+Rachel Siracuse
+Rob & Patty Slagle
+Okanogan County Republican Party
+Julie Buchert
+Steve Huston
+Sheilah Kennedy
+Casey & Nicole Kuchenbuch
+Ralph & Kerry Malone
+Robert Pellegrini
+Ann Rogers
+Pend Oreille County Repubican Party
+Karen Skoog - County Commissioner
+Alice Moran
+Bob & Doreen Moran
+Spokane County Republican Party
+Steve Peterson - Mayor of Liberty Lake
+Tianna Able
+Tim Benn
+Rob Chase
+John Christina
+Erica Hallock
+Ross Kelley
+David Kerns
+Nichole Kerns
+Max Kuney
+Bob & Barb Materne
+Ron & Sandi Ogle
+Laura Padden
+Jim Potts
+Stevens County Republican Party
+Wes McCart - County Commissioner
+Lorrie Sampson - County Coroner
+Leslie Valz - County Treasurer
+James Paladin - SCRCC Vetting Chair
+Ron & Chris Buchanan
+Michael & Cheryl Fenno
+Paul & Lori Larsen
+Priscilla Osborne
+Grant & Linda Peterson
+Patti Playfair
+Eric Ross
+Jay Shepherd
+Mary Dye - State Rep.
+Mark Pidgeon - President, Hunters Heritage Council
+Dave Taylor - Former State Rep.
+Molly Taylor
+Kari VanderHouwen
+In order to continue to fight for you, I need your help.
+Please consider donating to my campaign.
+You can donate on-line by simply clicking the button below.
+Or you can mail a check to "Shelly For State", PO Box 37, Addy WA 99101.
+Thank you!
+PO Box 37, Addy WA 99101

@@ -1,0 +1,34 @@
+A champion for
+working families and
+a clean-energy future
+Proud to serve the people of Chester County in PA
+Legislative District 155
+Danielle Friel Otten answers to voters, not special interests.
+In Harrisburg and at home, Danielle is working to empower our communities.
+Standing up to lobbyists and restoring citizens’ rightful voice in government
+Championing the health, education, and prosperity of her constituents
+Holding pipeline operators accountable to our community
+Danielle Friel Otten is a
+representative for the people
+Ethics & Good Government
+Danielle believes that citizens — not dollars, lobbyists, or corporations — should be the voice of government.
+Environment
+Danielle stands against greedy oil companies that want to line their pockets by polluting our communities
+Education
+Danielle is committed to giving the students of Chester County and Pennsylvania a better future.
+Join these organizations in supporting Danielle for PA 155
+Chester County Democratic Committee
+Clean Water Action
+Represent PA
+Change PA
+Conservation Voters
+Del-Chesco United for Pipeline Safety
+Food & Water Watch
+SEIU
+Working Families Party
+Warren Democrats by Senator Warren
+PSEA
+EMILY’s List
+Planned Parenthood
+Pennsylvania Stands Up
+Chester County Stands Up

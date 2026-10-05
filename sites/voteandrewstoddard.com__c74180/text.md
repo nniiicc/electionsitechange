@@ -1,0 +1,68 @@
+COMMON SENSE
+UNCOMMON APPROACH
+Meet Andrew Stoddard
+Since being elected in 2018, Andrew Stoddard has focused on representing our district effectively and making a real difference for all of us.
+At the Capitol, he has stood up for our Utah values of compassion, fairness, accountability, and common sense.
+He has worked across party lines to consistently deliver practical results for our community — because when you care about solving problems, you’ll work with anyone to get it done.
+Andrew is running for re-election to continue that important work.
+PRIMARY ELECTION DAY IS JUNE 23
+MAIL YOUR BALLOT BY JUNE 18TH
+DROP IT OFF BY 8 PM ON JUNE 23
+VOTE IN PERSON EARLY OR ON ELECTION DAY
+During his time in the House, Andrew has passed 32 bills, focused on:
+- PUBLIC SAFETY: Raised minimum sentences for DUI homicides and implemented crucial public safety reforms
+- AIR QUALITY: Enacted historic air quality and emissions laws to hold big polluters accountable
+- GUN SAFETY: Advocated for and implemented improved gun safety measures to protect our communities
+- DOMESTIC VIOLENCE: Enhanced protections and support for domestic violence victims
+RANKED AS THE “MOST EFFECTIVE DEMOCRATIC REPRESENTATIVE” IN UTAH
+— SOURCE: CENTER FOR EFFECTIVE LAWMAKING
+ENDORSED BY:
+- Stewardship Utah
+- Better Boundaries Accountability PAC
+- Equality Utah PAC
+- Utah Education Association PAC
+- Sierra Club
+- Utah AFL-CIO
+- AFSCME Local 1004
+- AFT Utah
+- IBEW Local 57
+- Western States Carpenters
+- Professional Firefighters of Utah
+- Teamsters Local 222
+- IUPAT District Council 5 Description goes here
+- Utah Democratic Healthcare Caucus
+- Utah Stonewall Democrats
+- SLCo Democratic Hispanic Caucus
+- Young Democrats of Salt Lake County
+- SLCo Democratic Environmental Caucus
+- Utah Democratic Labor Caucus
+- Dustin Gettel Midvale Mayor
+- Bryant Brown Midvale City Council
+- Denece Mikolash Midvale City Council
+- Heidi Robinson Midvale City Council
+- Brett Hales Murray Mayor
+- Adam Hock Murray City Council
+- Jackson Lewis Canyons School Board
+- Rep.
+Angela Romero House Minority Leader, House District 25
+- Rep.
+Jen Dailey-Provost House District 22
+- Rep.
+Sahara Hayes House District 32
+- Rep.
+Doug Owens House District 33
+- Rep.
+Verona Mauga House District 31
+- Rep.
+Jake Fitisemanu House District 30
+- Rep.
+Sandra Hollins House District 21
+- Rep.
+Carol Spackman Moss House District 34
+- Rep.
+Ashlee Matthews House District 37
+- Rep.
+Grant Miller House District 22
+JOIN OUR CAMPAIGN
+Let’s build a better community together!
+IN THE NEWS

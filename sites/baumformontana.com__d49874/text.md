@@ -1,0 +1,16 @@
+Baum
+House District 45
+Standing Together
+In 2024, I retired from the Billings Police Department after proudly serving the City of Billings as a law-enforcement officer for 21 years, with the last 15 years assigned to the Investigations Division as a detective.
+A lot has changed during that time, except my deep commitment to serving the public.
+As a detective, I have investigated all types of violent crimes but my primary focus was investigating crimes against children.
+I have seen firsthand the devastating impacts of funding cuts to the Department of Public Health and Human Services (DPHHS).
+It was the continual, drastic cuts to DPHHS’s budget that drove me to run for the State Legislature as a Representative in 2022 and thanks to your continued support, sent me to Helena again in 2024.
+Revised Laws relating to evading a police officer
+Provide funding for Regional Rail Authorities
+Tell me what is important to you
+- Send a letter to PO Box 81112, Billings, MT 59108
+- baumformontana@gmail.com
+- 406-208-0345
+- @ baumformontana
+- @repdenisebaum

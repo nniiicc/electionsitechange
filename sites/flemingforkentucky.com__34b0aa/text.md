@@ -1,0 +1,183 @@
+It’s been an honor to serve you as the State Representative of the 48th District and I am excited to announce I have filed to run for this seat again in November 2026.
+We have made significant progress over the past two years
+With your support, I will strive to make our community and Commonwealth a better place to live work and play.
+Endorsements
+Kentucky State Fraternal Order of Police
+Greater Louisville Association of Realtors
+Kentucky Chamber of Commerce
+Kentucky Professional Firefighters
+Getting Results for a Better Tommorow!
+✔ Putting more money in your pocket by cutting taxes and lowering healthcare cost,
+✔ Investing over $1 billion in Jefferson and Oldham Counties,
+✔ providing record setting funding for schools,
+✔ passing several workforce partnership initiatives including attracting and retaining healthcare providers,
+✔ reforming Medicaid to make is more accessible to low income families while exposing fraud and abuse,
+✔ providing for mental health funding and stronger policies, and
+✔ improving transportation infrastructure with over $700 million in Jefferson and Oldham
+Serving His Neighbors in the Time of Need
+Standing Up for Kentucky
+Growth fuels affordability living
+Driving Taxes down
+Ken has put more money in your pocket by reducing personal state income tax from 6% to 3.5%, saving families $1250 annually (based on $50,000 income) and eliminating the extra gas tax saving yearly about $175.
+Investing $1 Billion in Jefferson and Oldham
+Combined with 2024 investment of $1.2 Billion, we are getting more of our return of dollars from Frankfort in transportation infrastructure needs and human services
+Building a stronger workforce
+Investing in business incentives to allow for higher job participation, childcare support, and reduced government regulations.
+Better healthcare, lower costs
+Advocating for Women’s Health
+Support better wrap around services and increase accessibility for women’s health.
+Ken has sponsored improved maternal health for expectant/new mothers and child-care assistance and child day care availability
+Champion Mental Wellness
+Enhance funding and strengthen policies to expand mental health services for students in school and the workforce
+Lower Prescription Drug Cost
+Support lowering prescription drugs
+Improve Healthcare for low income families
+Increase accessibility of dental care, reduce those on waiting list to received medicaid coverage, reduce regulatory contraints, and cut out fraud and abuse in order to save taxpayers dollars
+Education
+Increase Teacher Salaries
+Increase K-12 funding and teacher pay
+Empower Parents
+Give parents a stronger voice on how their children are educated.
+Mental Health for Students
+Expand mental health support for students
+Fix JCPS Board
+Hold Board members more accountability for finances and student outcomes so students can reach their highest potential
+Fighting Crime
+Lower Crime
+Fully fund police and enforce stronger policies to deter crime
+Safer Schools
+Ken sponsored bills to improve children’s’ safety at school.
+Support Justice Programs
+Support comprehensive juvenile justice programs
+A Record of Getting Results
+Ken has a proven track record of delivering results.
+Here are just some of the ways he’s bettered the lives of everyday Kentuckians:
+Reduced Personal Income Tax by 40%
+Led tax modernization efforts, resulting in a 40% personal income tax rate drop
+Helping the education of our chidren with HB 1, SB 1 and HB 562
+Reshaping JCPS, enhance greater accessibility for our children’s education, and supporting alternative high school diploma for students with disabilities
+Investing $1 billion
+Helped provide nearly $1 billion investment for Jefferson and Oldham Counties’ human services and transportation needs
+Strengthens Healthcare with HB 2, HB 169, and SB 77
+Sponsored Medicaid Reform by increasing accessibility and cutting our fraud, ensuring insurance coverage for eating disorders, and establishing clinical trials for Ibogan in treating opioid use disorder
+Fighting Crime through Keegan's Law, HB 299, and Logan's Law
+Sponsored Keegan’s Law that strengthens boating under the influence, increase penalties on intentional ownership to convert handguns into machine guns, and Logan’s Law to prevent early release of violent offenders
+Protecting our kids with HB 227, HB 246, and HB 320
+Supported restrictions on social media access, training of animal control officers to recognize the tie between animal abuse and child abuse, and stronger human trafficking enforcement
+Increased School Funding
+Backed record-level increases in SEEK funding for local school districts
+Backed Key Infrastructure Projects
+Spearheaded key infrastructure projects, including interchange improvements, sound wall initiatives and turn lanes with $700 million
+Lowered Prescription Drug Costs
+Supported legislation to lower prescription drug costs
+Ken's Accomplishments
+Kentucky House Committee Assignments
+- Appropriations and Revenue
+- Medicaid Oversight and Advisory Board (co-chair)
+- Budget Review on Health & Family Services
+- Primary and Secondary Education
+- Public Pension Oversight Board
+- Local Government
+- Aerospace/Aviation Caucus (Chair)
+Ken received numerous awards including the Public Policy Advocate Award from the National Association of Women Business Owners, the Smoke Free Louisville Award, the Celebrate Freedom Award in 2010, International Fire Chiefs Association – Kentucky Chapter, Kentucky League of Cities, and Kentucky Hospital Association Champion, Children Allaince, Kentucky CPAs, Kentucky Chamber of Commerce, Greater Louisville Inc., and Kentucky for Better Transportation.
+Legislative Recognition
+Children Alliance Champion
+Kentucky Ohio Recreational Authority
+KY Chamber of Commerce Signature Industries Champion
+International Fire Chiefs Association – KY Chapter
+Vote for Ken Fleming, Vote for the Affordability
+Over the past several years, a $50,000 wage earner is now seeing a permanent savings of $1,250 per year as a result of Ken’s leadership and vision on tax modernization initiative in 2018.
+Now you can save, invest, or spend your money as you see fit during these inflationary times.
+In addition, Ken was one of the key representatives to cut out the extra gas tax for the greater Louisville area saving about $200 per year at the pump.
+As a small business owner, Ken understood that restructuring the business tax structure such as taxes on LLETs and pass-through entities allows businesses to reinvest in hiring employees or buying equipment.
+Kentucky’s financial structure and outlook are strong by shifting the commonwealth’s tax structure from an income base to a consumption tax base while not increasing the sales tax and putting limits on the administration’s spending.
+The results from changing our tax structure and controlling spending have provided an investment starting in July 2024 of nearly $2.2 billion for Jefferson and Oldham Counties that is targeted for human services and transportation needs.
+Workforce is vital to our economy and through his leadership, Ken sponsored many workforce initiatives that especailly helps eastern Kentucky residents where the unemployment is over 8%.
+In looking forward, Ken will push to put more money in your pocket, strengthen workforce initiatives, and support businesses through policies so that they can attract and retain employees to help build a better community.
+- Continue to phase out state personal income tax for families
+- Help reduce re-employment constraints by strengthening better childcare workplace environments, including expectant mothers and parents of newborns, and eldercare policies for families to return to work
+- Support business-friendly policies to increase workforce participation and reduce regulations to allow greater business growth and expansion
+- Fight state and federal overreach and inflationary spending
+Kentucky CPA Tax Policy Champion
+Announcement of $1 billion investment in human services and transportation for Jefferson and Oldham Counties
+Greater Louisville Inc Statesman
+Vote for Ken Fleming, Vote for Fighting Crime
+Ken has taken a tough stand on protecting our children and continuing to crack down on crime.
+- Supported stronger human trafficking laws (HB320);
+- Sponsored to restrict social media access from addictive features robbing our children’s attention on harmful information;
+- With direct evidence of abusing animals tied to child abuse, sponsored HB 246 to train animal control officers to spot for signs;
+- Lead the charge of getting insurance companies to cover eating disorders as a mental health condition (HB 169);
+- Sponsored stronger boating under the influence laws by getting blood test and better routing of 911 calls;
+- Cracked down with implementing privacy restrictions on capturing data while watching TV (HB792); and
+- Suppported the classification of intentional ownership to convert handguns to machine guns as a Class C felony (HB 299).
+Ken is an experienced leader who knows the community and will build upon the 2024 Safer Kentucky Act by working with LMPD and Oldham County police.
+Ken will continue to help stop the wave of crime threatening our families, property, and schools.
+He will continue to prioritize your safety through:
+- Fighting crime by working in a collaborative, cooperative way with local government, fully funding police, enforcing stronger policies and supporting programs to deter crimes
+- Continuing to strengthen school safety in the classroom and on the bus
+- Strengthening juvenile justice programs
+- Funding stronger wrap around treatment programs for addicts to get them off the streets
+Vote for Ken Fleming, Vote for Education
+Every child should have access to the best education in a safe environment.
+Ken is keenly aware of the challenges JCPS and OCPS face and these are a few of the policies he supported to mitigate these challenges:
+- HB 1 – sponsored state to opt-in into a federal program to allow federal tax deduction by contributing to scholarship accounts for public and private students
+- SB 1 & SB 4 – supported reshaping JCPS Board to be held more financially and academically accountable
+- HB 500 – increased to record levels in SEEK (including full day kindergarten), fully funded transportation costs, fully funded accrually and statutory requirements for teachers retirements contribution and healthcare cost.
+- SB 101 – supported more emphasis in supporting teachers pay and protecting them from violence
+- HB 562 – supported the expansion of students with disabilities to receive an alternative high school diploma
+As we move forward, a pillar of a successful community and state is to have a strong education system that puts our children on a solid foundation.
+We need to continue our focus in the classrooms to attract more teacher talent, protect our children so they have the opportunity to learn, and ease financial restraints for schools to flourish.
+In addition we need to continue reshaping the JCPS Board to ensure financial competency.
+- Provide parents the choice for the best educational opportunities for their children
+- Continue to increase K-12 SEEK funding and support teachers with higher pay and by relieving constraints that burden them with paying for resources out of their pocket
+- Assist students who need mental health support
+- Provide a safer learning environment
+- Support education workforce programs by training more people to become teachers
+Council for Post Education Champion
+Kentucky Students Rights Coalition Advocate
+Vote for Ken Fleming, Vote for Healthcare
+Louisville Healthcare CEO Council Champion
+Kentucky Hospital Association Champion
+From cracking down on sexual harassment in the workplace, addressing Medicaid reform, increasing funding for violence against women to helping reduce healthcare costs, Ken’s healthcare experience in the healthcare field has fueled his commitment to provide affordability and accessible healthcare.
+As co-chair of the Medicaid Oversight and Advisory Board, Ken was charged with addressing the run away Medicaid budget (doubling in five years to over $20 billion), cutting out fraud and abuse and increasing healthcare to our most vulnerable citizens.
+As a result , HB 2 Medicaid Reform was passed.
+- Restructured the program by strengthening eligibility requirements to ensure those that need Medicaid services qualify for it.
+- Identified and exposed nearly $1 billion in fraud and abuse
+- Secured $5 million to support those rolling off the expansion portion of Medicaid get assistance with training and finding a job
+- Established a new model for delivering dental services with better reimbursements and improving workforce
+- Created a collaboration between UL and UK to have one statewide transparent comprehension dashboard to track and measure healthcare outcomes
+- Enhances better protections for provider in recouping cost form managed care organizations
+He recognized the shortage of healthcare providers and passed was HB 200 which is now a national model being considered by the US Congress.
+Ken’s vision lead to an increase in enrollment of 32% from low income students and 31% representing first-generation students.
+Over the years as a State Representative, Ken has leveraged his background to provide more support for mental health services to children, law enforcement, women (before and after pregnancy) and addicts.
+Finally, after several years of trying to drive medication costs down, we passed bills that will help lower these costs by allowing patient pharmacy choice, ensure patient pharmacy access, and guarantee fair pharmacy reimbursements.
+In looking at the future, Ken will continue to look for opportunities to further reduce the cost of drug prescriptions, increase healthcare accessibility of low income families, cutting out Medicaid fraud, strengthen mental health programs, improve transport ambulatory care, and to enhance the doctor-patient relationship.
+Vote for Ken Fleming, Vote for Transportation
+With extensive transportation experience, Ken helped spearhead over $700 million in transportation funding for Jefferson and Oldham Counties.
+This includes continuing to fight for sound walls on I-71 and I-265 (Gene Snyder Expressway), starting the process of designing turn lanes from City of Hills and Dales to Woodstone neighborhood on Brownsboro Road (US 42) and finishing the construction of Watterson Expressway and Brownsboro Road interchange.
+Future US42 interchange with I-264:
+District 48, which includes areas of northeast Jefferson and southwest Oldham County, has grown and with this growth comes more traffic.
+I have allocated tens of millions of dollars and will continue to leverage my business background in mapping to help with transportation projects.
+- Ensure the completion of the construction of US 42/Watterson Expressway interchange
+- Start the design of installing turn lanes between the City of Hills and Dales and Woodstone neighborhood
+- Continue to fight for sound walls along I-71 and Gene Snyder Expressway between US 42 and I-71
+- Reduce congestion by securing funding for widening I-71
+Kentuckians for Better Transportation Mover Award
+I-264/Brownsboro Road Interchange Town Hall Meeting
+Proposed sound wall along I71 near Lime Kiln Lane
+Proposed sound wall along I71 at Barbour Manor/Springdale Rd
+House District 48 Map
+3 Ways to Vote in the General Election
+In-Person Voting on Election Day November 3 in Jefferson County
+In-Person Voting on Election Day Tuesday, November 3, 2026
+Mail-in Absentee Ballot Drop Box Locations and early voting in Jefferson County for the General Election
+Visit the Jefferson County Clerk Election Center to securely drop off your mail-in absentee ballot 8:30 a.m. – 4:30 p.m.
+Monday through Friday from October 23rd through the 30th.
+Early voting Oct. 29th-Oct. 31st
+In-Person Voting on Election Day November 3 in Oldham County
+In-Person Voting on Election Day Tuesday, November 3, 2026
+MARK YOUR CALENDAR AND DON’T FORGET TO SHOW YOUR SUPPORT.
+- LAST DAY TO REGISTER TO VOTE IS OCTOBER 5, 2026
+- JEFFERSON COUNTY – In-person, No-excuse, Absentee Early Voting before Election Day, October 29th – October 31st, 2026
+- OLDHAM COUNTY – In-person, No-excuse, Absentee Early Voting before Election Day, October 29th- October 31st, 2026
+- Election Day is Tuesday, November 3, 2026

@@ -1,0 +1,23 @@
+WORKING FOR YOU
+My Inspiration
+I ran for Congress in 2013 because I saw the issues facing women, children, and families and knew that we could build a stronger, more just country where everyone has a fair shot at success.
+The people of my district are my inspiration, and the opportunity to build on the progress we have made together is why I’m running for re-election.
+I’m proud of what Team Clark has achieved and how we have delivered at home and for people across the country.
+But I know how much urgent work remains: delivering an affordable America, ensuring voting rights for all Americans, addressing the climate crisis, ensuring access to healthcare, and fighting for a fair economy for women, kids, and communities of color.
+Every day I’m working for you and for a better future for everyone.
+Katherine CLARK WORKS FOR YOU
+LOWERING THE COST OF LIVING
+Katherine is leading the fight to cancel Trump’s cuts to Medicaid and the Affordable Care Act, to end the Iran war that has raised gas prices, and to lift Trump’s tariffs that have made everything more expensive.
+DELIVERING ACCOUNTABILITY
+When Democrats take control of Congress, Katherine will lead Democrats in cracking down on ICE, stopping Trump’s unauthorized wars, and holding Trump accountable for using the presidency to make himself billions of dollars while raising costs for you.
+Elected Democratic Whip
+Katherine was elected Democratic Whip by her colleagues, making her the leading progressive advocate in Democratic leadership and the highest-ever ranking woman from Massachusetts.
+WHAT WE’RE WORKING FOR
+Katherine is a passionate and proven leader who ensures that the issues families talk about around their kitchen tables are on the table in Washington.
+Donate Today
+If you've saved your payment information with ActBlue Express, your donation will go through immediately:
+$5
+$20
+$50
+Other
+Clicking on a donation amount will redirect you to ActBlue where you can complete your contribution.

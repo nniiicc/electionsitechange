@@ -1,0 +1,29 @@
+Brandon Markosek for PA
+25th House District
+Election Day
+Day(s)
+:
+Hour(s)
+:
+Minute(s)
+:
+Second(s)
+Economic Development
+I will fight for jobs and economic development in our district and region so that everyone has an equal opportunity for a better life.
+Senior Care
+Seniors in our community deserve the best we can give them.
+I will work to protect access to affordable health care and access to transportation.
+Education
+In Harrisburg, I will fight for increased funding for our public schools and work to find solutions to make college more affordable.
+Public Safety
+Opioid addiction is a major issue in Pennsylvania.
+I will fight to create a bi-partisan solution for this deadly problem.
+Protecting Fundamental Rights
+I will protect the right to vote in free and fair elections, guarantee health care and reproductive rights, and expand workers’ rights.
+Veteran Services
+I will maintain funding for our state veterans homes and our Pennsylvania National Guard
+Transportation/Infrastructure
+I will secure funding for transportation projects, maintenance, and infrastructure.
+I have been aggressive in providing the responsive representation that our district deserves.
+I have fought for our senior citizens by securing their health care, work to rebuild our economy, develop workable solutions to combat the opioid epidemic, and fought for increased funding for all levels of education.
+My constituents know that their representative is fighting for their needs and interests.

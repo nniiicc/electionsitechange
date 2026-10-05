@@ -1,0 +1,39 @@
+ENDORSEMENTS
+BILLS SPONSORED
+DONATE
+“I am honored to be your state representative in Williamson County’s 61st District and I need your support for my re-election campaign.
+My primary obligation is to represent your concerns and abide by our federal and state constitutions.
+I am a pro-life, pro-Second Amendment conservative, who strongly believes in limited government and protecting our families.
+I am proud of the Tennessee state grant program that protects our children with funding for an SRO in every school, and will continue to advocate for protecting our daughters from competing against biological males in sports and sharing locker rooms with boys.
+I was also proud to draft and sponsor legislation to ensure that our tax dollars may not be used to provide entitlement benefits to illegal aliens.
+Many of our legislative accomplishments have been rooted in our state exercising its 10th Amendment rights against an overreaching federal government that taxes and spends excessively.
+We will keep Tennessee prosperous and debt-free and I will continue to be a clear voice for Williamson County and all of its citizens.
+Thank you.”
+—Gino Bulso, Candidate for Tennessee’s 61st District
+Proven Leadership from a Constitutional Conservative
+“Kathy and I chose Williamson County as the place to raise our family over 25 years ago because we immediately fell in love with the people, the culture and the history.
+Over time we’ve seen our values attacked by the radical left, and I’m honored to answer the call to represent my neighbors in our state legislature,” – State Representative, Gino Bulso
+• Celebrating life with his wife Kathy of 38 years and proud father of five children
+• Graduate of Emory Law School and Cornell College
+• Managing Partner of Bulso, PLC in Brentwood
+• Pro-life and Pro-Second Amendment
+• Featured annually in esteemed publication “The Best Lawyers in America”
+• Counsel to Williamson County GOP, 2019-2020
+• Chairman of Advisory Committee on Rules of Practice and Procedure for Supreme Court of Tennessee, 2021
+• Gino and Kathy are parishioners of St.
+Edward Church, where their eldest son, Father Andrew Bulso, is pastor
+Stay updated with our latest news and events!
+Fill out the form below to opt in for text messages from our campaign.
+Standard message and data rates may apply.
+You can opt out at any time by replying STOP.
+CONTACT
+*By providing your mobile phone number, you are consenting to receive text messages, including automated texts, to that number with campaign notifications from Bulso for State Representative.
+Donations will not be solicited.
+Reply HELP for help, Reply STOP to opt out.
+Message frequency will vary and data rates may apply.
+Terms and Conditions & Privacy Policy.
+For general inquiries, please fill out the form below.
+Please send all physical correspondence to:
+155 Franklin Road, Suite 400
+Brentwood, TN 37027
+615-913-5200
