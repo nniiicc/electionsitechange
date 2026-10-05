@@ -18,6 +18,9 @@ discard_partial() { git -C "$REPO" reset -q --hard HEAD && git -C "$REPO" clean 
 {
     echo "=== $(date -u +%FT%TZ) start"
     discard_partial
+    # Code is developed in a separate clone (~/monitor/dev) and pushed to GitHub;
+    # pull it so each run uses the latest committed code.
+    git -C "$REPO" pull -q --rebase origin main || echo "pull failed; running with local code"
     if "$PY" "$REPO/monitor/snapshot.py" "$REPO/monitor/monitor_urls.csv" "$REPO" \
             --workers 8 --raw-dir "$HOME/monitor/raw" --summary "$HOME/monitor/last_summary.json"; then
         # Take any commits made on GitHub first (e.g. a README edited in the browser);
