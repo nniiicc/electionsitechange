@@ -58,7 +58,10 @@ def build_sites(offsite):
     camp2["endorsements.html"] = page("Endorsements", filler("endorsements"))           # new page
     big = {"index.html": page("Big Site", OTHER, [f"/p{i}.html" for i in range(1, 9)])}
     big.update({f"p{i}.html": page(f"Page {i}", filler(f"topic {i}")) for i in range(1, 9)})
+    limited = {"index.html": page("Lou Hoe for State House", OTHER, ["/a.html", "/b.html"]),
+               "a.html": page("A", filler("a")), "b.html": page("B", filler("b"))}
     return {
+        "limited":   (limited, limited),   # /a.html answers 429 Too Many Requests (see TooMany)
         "edited":    ({"index.html": page("Jane Doe for Congress", ISSUES)},
                       {"index.html": page("Jane Doe for Congress", [ISSUES[0], REWORDED, ISSUES[2]])}),
         "unchanged": (home(OTHER), home(OTHER)),
@@ -82,6 +85,15 @@ class Forbidden(Quiet):
     """A site that answers every request with HTTP 403, as bot-blocking sites do."""
     def do_GET(self):
         self.server.requests.append((time.monotonic(), self.path)); self.send_error(403)
+
+
+class TooMany(Quiet):
+    """Answers /a.html with HTTP 429, as a small server asking us to slow down."""
+    def do_GET(self):
+        if self.path == "/a.html":
+            self.server.requests.append((time.monotonic(), self.path)); self.send_error(429)
+        else:
+            super().do_GET()
 
 
 def serve(handler):
@@ -127,7 +139,8 @@ class DailyRunOverTwoDays(unittest.TestCase):
             docroots[sid] = os.path.join(t, "www", sid)
             os.makedirs(docroots[sid])
             write_files(docroots[sid], day1)
-            cls.servers[sid] = serve_dir(docroots[sid])
+            cls.servers[sid] = (serve(functools.partial(TooMany, directory=docroots[sid])) if sid == "limited"
+                                else serve_dir(docroots[sid]))
         cls.servers["blocked"] = serve(Forbidden)        # reached, but refuses: HTTP 403 both days
         urls = os.path.join(t, "urls.csv")
         with open(urls, "w", newline="") as f:
@@ -193,10 +206,10 @@ class DailyRunOverTwoDays(unittest.TestCase):
         self.assertNotEqual(self.log2["down"]["error"], "")      # and the failure is logged
 
     def test_summary_counts_sites_reached_separately_from_fetched_ok(self):
-        # day 2: edited, unchanged, noisy, campaign, big answered 200; blocked answered 403; down never answered
-        self.assertEqual(self.summary2["sites"], 7)
-        self.assertEqual(self.summary2["reached"], 6)
-        self.assertEqual(self.summary2["ok"], 5)
+        # day 2: limited, edited, unchanged, noisy, campaign, big answered 200; blocked 403; down never answered
+        self.assertEqual(self.summary2["sites"], 8)
+        self.assertEqual(self.summary2["reached"], 7)
+        self.assertEqual(self.summary2["ok"], 6)
         self.assertEqual(self.summary2["errors"].get("http_403"), 1)
 
     # ---- full-site crawl (#4)
@@ -232,6 +245,11 @@ class DailyRunOverTwoDays(unittest.TestCase):
         self.assertEqual(rows["about.html"]["removed"], "True")
         self.assertEqual(rows["endorsements.html"]["first_seen"], "True")
         self.assertEqual(self.summary2["pages_removed"], 1)
+
+    def test_site_answering_429_is_left_alone_for_the_rest_of_the_day(self):
+        req = self.requested("limited")
+        self.assertEqual(req.count("/a.html"), 2)        # once per day, then the crawl of that site stops
+        self.assertNotIn("/b.html", req)
 
     def test_runs_in_under_two_minutes(self):
         self.assertLess(self.elapsed, 120)
