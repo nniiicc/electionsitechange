@@ -60,7 +60,11 @@ def build_sites(offsite):
     big.update({f"p{i}.html": page(f"Page {i}", filler(f"topic {i}")) for i in range(1, 9)})
     limited = {"index.html": page("Lou Hoe for State House", OTHER, ["/a.html", "/b.html"]),
                "a.html": page("A", filler("a")), "b.html": page("B", filler("b"))}
+    broken = {"index.html": page("Max Poe for State Senate", OTHER,
+                                 [f"/a-missing{i}.html" for i in range(1, 4)] + [f"/p{i}.html" for i in range(1, 9)])}
+    broken.update({f"p{i}.html": page(f"Page {i}", filler(f"topic {i}")) for i in range(1, 9)})
     return {
+        "broken":    (broken, broken),  # 3 dead links first: they must not use up the page cap
         "limited":   (limited, limited),   # /a.html answers 429 Too Many Requests (see TooMany)
         "edited":    ({"index.html": page("Jane Doe for Congress", ISSUES)},
                       {"index.html": page("Jane Doe for Congress", [ISSUES[0], REWORDED, ISSUES[2]])}),
@@ -76,22 +80,22 @@ def build_sites(offsite):
 class Quiet(http.server.SimpleHTTPRequestHandler):
     """Serves files from a directory and records (time, path) of every request it gets."""
     def log_message(self, *a): pass
+    def record(self): self.server.requests.append((time.monotonic(), self.path))
     def send_head(self):
-        self.server.requests.append((time.monotonic(), self.path))
-        return super().send_head()
+        self.record(); return super().send_head()
 
 
 class Forbidden(Quiet):
     """A site that answers every request with HTTP 403, as bot-blocking sites do."""
     def do_GET(self):
-        self.server.requests.append((time.monotonic(), self.path)); self.send_error(403)
+        self.record(); self.send_error(403)
 
 
 class TooMany(Quiet):
     """Answers /a.html with HTTP 429, as a small server asking us to slow down."""
     def do_GET(self):
         if self.path == "/a.html":
-            self.server.requests.append((time.monotonic(), self.path)); self.send_error(429)
+            self.record(); self.send_error(429)
         else:
             super().do_GET()
 
@@ -206,10 +210,10 @@ class DailyRunOverTwoDays(unittest.TestCase):
         self.assertNotEqual(self.log2["down"]["error"], "")      # and the failure is logged
 
     def test_summary_counts_sites_reached_separately_from_fetched_ok(self):
-        # day 2: limited, edited, unchanged, noisy, campaign, big answered 200; blocked 403; down never answered
-        self.assertEqual(self.summary2["sites"], 8)
-        self.assertEqual(self.summary2["reached"], 7)
-        self.assertEqual(self.summary2["ok"], 6)
+        # day 2: broken, limited, edited, unchanged, noisy, campaign, big answered 200; blocked 403; down never answered
+        self.assertEqual(self.summary2["sites"], 9)
+        self.assertEqual(self.summary2["reached"], 8)
+        self.assertEqual(self.summary2["ok"], 7)
         self.assertEqual(self.summary2["errors"].get("http_403"), 1)
 
     # ---- full-site crawl (#4)
@@ -234,7 +238,10 @@ class DailyRunOverTwoDays(unittest.TestCase):
 
     def test_page_cap_limits_pages_per_site_nearest_first(self):
         self.assertEqual(self.pages("big"), {f"p{i}.html" for i in range(1, MAX_PAGES)})   # homepage + 5
-        self.assertEqual(self.summary2["sites_capped"], 1)
+        self.assertEqual(self.summary2["sites_capped"], 2)                                 # big and broken
+
+    def test_page_cap_counts_pages_captured_not_dead_links(self):
+        self.assertEqual(self.pages("broken"), {f"p{i}.html" for i in range(1, MAX_PAGES)})
 
     def test_removed_and_added_pages_are_recorded(self):
         # --no-renames: two pages with identical files (e.g. empty links.json) must not look like a rename
