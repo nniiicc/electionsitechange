@@ -39,7 +39,7 @@ class DailyShAgainstLocalGitHub(unittest.TestCase):
         git(t, "init", "-q", "--bare", "-b", "main", str(cls.origin))
         git(t, "init", "-q", "-b", "main", str(author))
         (author / "monitor").mkdir()
-        for f in ("snapshot.py", "daily.sh"):
+        for f in ("snapshot.py", "detect.py", "daily.sh"):
             shutil.copy(CODE / f, author / "monitor" / f)
         (author / "monitor" / "monitor_urls.csv").write_text(
             f"site_id,url\nroe,http://127.0.0.1:{cls.srv.server_address[1]}/\n")

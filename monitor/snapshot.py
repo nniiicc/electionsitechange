@@ -3,14 +3,15 @@
 
 For each site in the input CSV (columns: site_id, url, ...), crawl from the homepage,
 following links on the candidate's own site up to --max-depth clicks (default 3) and at
-most --max-pages pages (default 50), nearest pages first. Each page is normalised and
+most --max-pages pages (default 50), nearest pages first. Each page is parsed by detect.py
+(issue #5: EDGI web-monitoring-diff text and links, an image-and-embed list, and noise rules) and
 written to the Git repository:
 
-  sites/<site_id>/{text.md, links.json, meta.json}                  the homepage
-  sites/<site_id>/pages/<page-slug>/{text.md, links.json, meta.json}  every other page
+  sites/<site_id>/{text.md, links.json, media.json, meta.json}                  the homepage
+  sites/<site_id>/pages/<page-slug>/{text.md, links.json, media.json, meta.json}  every other page
 
-then everything is committed once. Files are rewritten only when their normalised content
-changes, so the repository history *is* the change log. Pages that are new today appear
+then everything is committed once. Files are rewritten only when detect.py reports a change
+(meta.json holds the fingerprint it compares), so the repository history *is* the change log. Pages that are new today appear
 as added files; pages that are gone appear as deleted files (see remove_gone_pages).
 
 "Own site" = the start URL's host (www. ignored) plus the host it redirects to; when the
@@ -26,12 +27,13 @@ usage: python snapshot.py URLS.csv REPO_DIR [--workers 24] [--max-depth 3] [--ma
 """
 import argparse, collections, concurrent.futures as cf, csv, dataclasses, datetime as dt, gzip, hashlib
 import faulthandler, json, os, re, shutil, subprocess, sys, threading, time
-from html.parser import HTMLParser
 from urllib.parse import urljoin, urlparse, urlunparse, parse_qsl, urlencode
 from urllib import robotparser
 
 import requests
-import trafilatura
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import detect  # noqa: E402
 
 UA = "CampaignSiteMonitor/0.1 (nonpartisan research archive of 2026 candidate websites)"
 TIMEOUT = 20
@@ -45,92 +47,16 @@ SKIP_PATH = re.compile(r"/(wp-admin|wp-login\.php|xmlrpc\.php|wp-json|feed|cart|
 # page outcomes (PageRec.error), grouped by what the crawler does about them
 GONE = {"http_404", "http_410"}                       # the page no longer exists
 BACKOFF = {"http_429", "http_503"}                    # the site asked us to slow down: leave it for today
-HARMLESS = {"robots_disallowed", "not_html", "offsite_redirect"} | GONE   # can't hide any links
+HARMLESS = {"robots_disallowed", "not_html", "empty_page", "offsite_redirect"} | GONE   # can't hide any links
 HOME = "/"                                            # PageRec.page of a site's homepage
 REQUEST_BUDGET = 2                                    # max requests per site = REQUEST_BUDGET * max_pages
-# trafilatura/lxml crashed the process ("double free or corruption") with 24 threads parsing at
-# once on the first full run; parsing is CPU-bound under the GIL anyway, so do it one page at a time.
-_parse_lock = threading.Lock()
-
-# ---------------------------------------------------------------- normalisation
-# Snapshot format 2 (issue #5): text.md is the page's FULL visible text, including content in
-# tabs, accordions and other collapsed sections; main.md is the extracted main content, kept as a
-# reading view only. Changes are detected on text.md.
-FORMAT = 2
-SKIP_TAGS = {"script", "style", "noscript", "svg", "template", "head", "iframe", "object", "canvas", "select"}
-BLOCK_TAGS = {"p", "div", "section", "article", "main", "header", "footer", "nav", "aside", "li", "ul", "ol",
-              "h1", "h2", "h3", "h4", "h5", "h6", "table", "tr", "td", "th", "blockquote", "figure",
-              "figcaption", "details", "summary", "form", "label", "button", "dd", "dt", "dl", "br", "hr", "pre"}
-UNITS = r"(days?|hours?|hrs?|minutes?|mins?|seconds?|secs?)"
-NOISE_LINE = re.compile(
-    rf"^\d+\s*{UNITS}\b.*|"                                                   # countdowns: "12 days until ..."
-    rf"^{UNITS}$|"                                                            # countdown unit labels
-    rf"^(\s*\d+\s*{UNITS}?\s*[:,|]?)+$|"                                       # widgets: "12Days05Hours", "12 : 05"
-    rf"^.{{0,40}}\b\d+\s+{UNITS}\s+(until|to go|left|away|remaining)\b.{{0,40}}$|"
-    r"^\d[\d,]*\s+(donors?|contributors?|supporters?)( so far| and counting)?[.!]?$|"   # live donor counters
-    r"^(accept|accept all|reject|reject all|decline|cookie settings|manage cookies)$", re.I)
-COUNTER_CHARS = re.compile(r"^[\d\s:.,%$+]+$")       # digits and counter punctuation only (no - or /: phones, dates)
-MAX_COUNTER_DIGITS = 6                               # longer digit runs are phone numbers, dates, IDs: keep them
-MAX_PROGRESS_LEN = 80                                # a progress-bar label is short; prose about money is longer
-MAX_BANNER_LEN = 300                                 # a cookie banner is a sentence or two
-PROGRESS = re.compile(r"\$[\d,.]+[kKmM]?\b.*\b(raised|goal|to go)\b|\b(raised|goal)\b.*\$[\d,.]+|"
-                      r"\d+(\.\d+)?\s*%\s*(funded|of (our |the )?goal)", re.I)
-COOKIE = re.compile(r"\bcookies?\b", re.I)
-BANNER = re.compile(r"\b(website|site|experience|browsing|consent|accept|privacy policy|cookie policy)\b", re.I)
-
-def is_noise(s):
-    if NOISE_LINE.match(s): return True
-    if COUNTER_CHARS.match(s) and sum(ch.isdigit() for ch in s) <= MAX_COUNTER_DIGITS: return True
-    if len(s) <= MAX_PROGRESS_LEN and PROGRESS.search(s): return True                    # donation progress
-    if len(s) <= MAX_BANNER_LEN and COOKIE.search(s) and BANNER.search(s): return True   # cookie banners
-    return False
-COPYRIGHT = re.compile(r"(©|\(c\)|copyright)(\s*(©|\(c\)))?\s*\d{4}(\s*[-–]\s*\d{4})?", re.I)
-SENT_SPLIT = re.compile(r"(?<=[.!?])\s+(?=[A-Z\"'“(])")
 TRACK_PARAMS = re.compile(r"^(utm_|fbclid|gclid|wbraid|gbraid|msclkid|dclid|igshid|ttclid|twclid|li_fat_id|"
                           r"mc_|_ga|_gl|_hs|hsCta|mkt_tok|srsltid|gad_|s_kwcid|ref$|refcode|source$)", re.I)
-DISCLAIMER = re.compile(r"(paid for by[^.\n]{3,140})", re.I)
-YEAR = re.compile(r"\b(20[12]\d)\b")
-
-
-class Page(HTMLParser):
-    """One pass over the HTML: title, description, <a href> targets and visible text blocks."""
-    def __init__(self):
-        super().__init__(convert_charrefs=True)
-        self.title, self.desc, self.links, self.blocks = "", "", [], [[]]
-        self._skip, self._in_title = 0, False
-    def handle_starttag(self, tag, attrs):
-        a = dict(attrs)
-        if tag == "title": self._in_title = True
-        elif tag == "meta" and (a.get("name") or a.get("property") or "").lower() in ("description", "og:description"):
-            self.desc = self.desc or (a.get("content") or "").strip()
-        elif tag == "a" and a.get("href"): self.links.append(a["href"].strip())
-        if tag in SKIP_TAGS: self._skip += 1
-        if tag in BLOCK_TAGS: self.blocks.append([])
-    def handle_startendtag(self, tag, attrs):
-        self.handle_starttag(tag, attrs)
-        if tag in SKIP_TAGS: self._skip -= 1
-    def handle_endtag(self, tag):
-        if tag == "title": self._in_title = False
-        if tag in SKIP_TAGS and self._skip: self._skip -= 1
-        if tag in BLOCK_TAGS: self.blocks.append([])
-    def handle_data(self, d):
-        if self._in_title: self.title += d
-        elif not self._skip: self.blocks[-1].append(d)
-
-
-def sentences(paragraphs):
-    """one sentence per line; noise lines dropped; copyright years neutralised"""
-    out = []
-    for para in paragraphs:
-        para = COPYRIGHT.sub("© YEAR", " ".join(para.split()))
-        if not para: continue
-        for s in SENT_SPLIT.split(para):
-            s = s.strip()
-            if s and not is_noise(s): out.append(s)
-    return out
+PARSE_TIMEOUT_S = 60      # a page that takes longer to parse is logged as parse_timeout and skipped
 
 
 def norm_link(base, href):
+    """page identity for the crawler (see page_key); snapshot links come from detect.py"""
     if href.startswith(("javascript:", "mailto:", "tel:", "#", "data:")): return None
     u = urlparse(urljoin(base, href))
     if u.scheme not in ("http", "https"): return None
@@ -138,37 +64,55 @@ def norm_link(base, href):
     return urlunparse((u.scheme, u.netloc.lower().removeprefix("www."), u.path.rstrip("/") or "/", "", q, ""))
 
 
-@dataclasses.dataclass
-class PageData:
-    """normalised page. text, main, links and meta are the snapshot files, so nothing volatile
-    (fetch time, response time, size) goes into them; hrefs are the raw link targets for the crawler."""
-    text: str
-    main: str
-    links: list
-    meta: dict
-    hrefs: list
+# ---------------------------------------------------------------- parsing (issue #5)
+# Pages are parsed by detect.page in worker processes. lxml and html5-parser crashed the process
+# ("double free or corruption") when many threads parsed at once, and a process can be killed when a
+# page hangs the parser, which a thread cannot.
+class ParsePool:
+    def __init__(self, workers):
+        self.workers, self.lock = workers, threading.Lock()
+        self.ex = cf.ProcessPoolExecutor(workers) if workers else None
+
+    def parse(self, html, url):
+        if self.ex is None:
+            return detect.page(html, url)
+        for attempt in (1, 2):
+            with self.lock:
+                ex = self.ex
+            try:
+                try:
+                    fut = ex.submit(detect.page, html, url)
+                except RuntimeError:                     # submitted to a pool another thread just shut down
+                    raise cf.process.BrokenProcessPool()
+                return fut.result(timeout=PARSE_TIMEOUT_S)  # an exception raised by detect.page itself propagates
+            except cf.TimeoutError:
+                self._restart(ex)
+                raise ParseFailed("parse_timeout")
+            except cf.process.BrokenProcessPool:
+                # the pool was broken or replaced, often because ANOTHER page timed out and its workers were
+                # killed; this page is innocent, so it gets one more try on the new pool
+                self._restart(ex)
+                if attempt == 2:
+                    raise ParseFailed("parse_crash")
+
+    def _restart(self, broken):
+        with self.lock:
+            if self.ex is not broken:
+                return                                   # another thread already replaced it
+            # ProcessPoolExecutor cannot cancel a running task, so the stuck worker is killed. _processes is
+            # private; if a future Python drops it, shutdown still happens but a stuck worker may linger.
+            for proc in list((getattr(broken, "_processes", None) or {}).values()):
+                proc.kill()
+            broken.shutdown(wait=False, cancel_futures=True)
+            self.ex = cf.ProcessPoolExecutor(self.workers)
+
+    def close(self):
+        if self.ex is not None:
+            self.ex.shutdown()
 
 
-def normalise(html, final_url):
-    p = Page()
-    try: p.feed(html); p.close()
-    except Exception: pass
-    full = sentences("".join(b) for b in p.blocks)
-    main = sentences((trafilatura.extract(html, output_format="txt", include_comments=False,
-                                          include_tables=True, favor_recall=True) or "").splitlines())
-    links = sorted({l for l in (norm_link(final_url, h) for h in p.links) if l})
-    hrefs = [urljoin(final_url, h).split("#")[0] for h in p.links
-             if not h.startswith(("javascript:", "mailto:", "tel:", "#", "data:"))]
-    body = " ".join(full)
-    m = DISCLAIMER.search(body)
-    meta = {"format": FORMAT,
-            "final_url": final_url,
-            "title": " ".join(p.title.split()),
-            "description": " ".join(p.desc.split()),
-            "paid_for_by": " ".join(m.group(1).split()) if m else None,
-            "years_mentioned": sorted(set(YEAR.findall(body)))}
-    as_file = lambda ls: "\n".join(ls) + ("\n" if ls else "")
-    return PageData(as_file(full), as_file(main), links, meta, hrefs)
+class ParseFailed(Exception):
+    pass
 
 
 # ---------------------------------------------------------------- politeness
@@ -217,6 +161,7 @@ class Run:
     day: str
     max_depth: int = 3
     max_pages: int = 50
+    parser: ParsePool | None = None
 
 
 @dataclasses.dataclass
@@ -232,6 +177,7 @@ class PageRec:
     text_chars: int = 0
     changed: bool = False
     first_seen: bool = False
+    reformatted: bool = False   # rewritten in a new snapshot format; not counted as a change
     removed: bool = False
     low_text: bool = False
     error: str = ""
@@ -276,6 +222,9 @@ def error_name(e):
     return f"{type(e).__name__}: {str(e)[:120]}"
 
 
+OLD_FILES = ("main.md",)       # snapshot files of earlier formats, removed on rewrite
+
+
 def fetch_page(rec, run, page_dir, hosts):
     """Fetch one page and save its snapshot into page_dir. Fills in rec.
     Returns the page's absolute outgoing link targets, or [] when nothing was saved."""
@@ -294,21 +243,39 @@ def fetch_page(rec, run, page_dir, hosts):
     if ctype and "html" not in ctype.lower():
         rec.error = "not_html"; return []
     enc = r.encoding if r.encoding and r.encoding.lower() != "iso-8859-1" else "utf-8"
-    with _parse_lock:
-        pg = normalise(raw.decode(enc, errors="replace"), r.url)
-    rec.text_chars, rec.low_text = len(pg.text), len(pg.text) < 200
-    rec.first_seen = not os.path.exists(os.path.join(page_dir, "text.md"))
-    os.makedirs(page_dir, exist_ok=True)
-    ch = write_if_changed(os.path.join(page_dir, "text.md"), pg.text.encode())
-    write_if_changed(os.path.join(page_dir, "main.md"), pg.main.encode())   # reading view; not used for change detection
-    ch |= write_if_changed(os.path.join(page_dir, "links.json"), (json.dumps(pg.links, indent=0) + "\n").encode())
-    ch |= write_if_changed(os.path.join(page_dir, "meta.json"), (json.dumps(pg.meta, indent=1, sort_keys=True) + "\n").encode())
-    rec.changed = ch
-    if ch and run.raw_dir:                       # keep raw HTML only when content changed
-        d = os.path.join(run.raw_dir, run.day, rec.site_id); os.makedirs(d, exist_ok=True)
-        with gzip.open(os.path.join(d, ("_home" if rec.is_home else rec.page) + ".html.gz"), "wb") as f:
-            f.write(raw)
-    return pg.hrefs
+    try:
+        pg = run.parser.parse(raw.decode(enc, errors="replace"), r.url)
+    except detect.UndiffableContentError:
+        rec.error = "not_html"; return []
+    except detect.EmptyDocument:
+        rec.error = "empty_page"; return []
+    except ParseFailed as e:
+        rec.error = str(e); return []
+    rec.text_chars, rec.low_text = len(pg["text"]), len(pg["text"]) < 200
+    meta_path = os.path.join(page_dir, "meta.json")
+    rec.first_seen = not os.path.exists(meta_path)
+    try:
+        prev = json.load(open(meta_path)) if not rec.first_seen else None
+    except (OSError, ValueError):
+        prev = {}
+    ch = detect.changed(prev, pg["meta"])        # True / False; None = new page or older format
+    rec.changed = ch is True
+    rec.reformatted = ch is None and not rec.first_seen
+    if ch is not False:
+        # the snapshot is rewritten only when the detector reports a change, so noise never reaches Git
+        os.makedirs(page_dir, exist_ok=True)
+        write_if_changed(os.path.join(page_dir, "text.md"), ("\n".join(pg["lines"]) + "\n").encode())
+        write_if_changed(os.path.join(page_dir, "links.json"), (json.dumps(pg["links"], indent=0, ensure_ascii=False) + "\n").encode())
+        write_if_changed(os.path.join(page_dir, "media.json"), (json.dumps(pg["media"], indent=0, ensure_ascii=False) + "\n").encode())
+        write_if_changed(meta_path, (json.dumps(pg["meta"], indent=1, sort_keys=True, ensure_ascii=False) + "\n").encode())
+        for old in OLD_FILES:
+            if os.path.exists(os.path.join(page_dir, old)):
+                os.remove(os.path.join(page_dir, old))
+        if run.raw_dir:                          # raw HTML is kept for every recorded version
+            d = os.path.join(run.raw_dir, run.day, rec.site_id); os.makedirs(d, exist_ok=True)
+            with gzip.open(os.path.join(d, ("_home" if rec.is_home else rec.page) + ".html.gz"), "wb") as f:
+                f.write(raw)
+    return pg["hrefs"]
 
 
 def in_scope(url, hosts, prefix):
@@ -397,6 +364,7 @@ def summarise(day, n_sites, sites, wall_s):
             "pages_fetched": sum(1 for r in pages if r.status != ""),
             "pages_ok": sum(1 for r in pages if not r.error and not r.removed),
             "pages_changed": sum(1 for r in pages if r.changed),
+            "pages_reformatted": sum(1 for r in pages if r.reformatted),
             "pages_added": sum(1 for r in inner if r.first_seen),
             "pages_removed": sum(1 for r in pages if r.removed),
             "errors": {}, "page_errors": {}}
@@ -415,6 +383,8 @@ def main():
     ap.add_argument("--max-depth", type=int, default=3); ap.add_argument("--max-pages", type=int, default=50)
     ap.add_argument("--raw-dir"); ap.add_argument("--summary", default="summary.json")
     ap.add_argument("--day", help="run date YYYY-MM-DD (default: today, UTC); used by tests")
+    ap.add_argument("--parse-workers", type=int, default=max(1, (os.cpu_count() or 2)),
+                    help="processes that parse pages (0 = parse in the fetching thread)")
     a = ap.parse_args()
     rows = list(csv.DictReader(open(a.urls)))
     if a.limit: rows = rows[:a.limit]
@@ -423,7 +393,7 @@ def main():
         git(a.repo, "init", "-q"); git(a.repo, "config", "user.name", "campaign-monitor")
         git(a.repo, "config", "user.email", "monitor@localhost")
     run = Run(a.repo, a.raw_dir, a.day or dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d"),
-              a.max_depth, a.max_pages)
+              a.max_depth, a.max_pages, ParsePool(a.parse_workers))
     t0 = time.time(); sites = []
     with cf.ThreadPoolExecutor(a.workers) as ex:
         futs = [ex.submit(crawl_site, r, run) for r in rows]
@@ -431,6 +401,7 @@ def main():
             sites.append(f.result())
             if i % 250 == 0:
                 print(f"  {i}/{len(rows)} sites  {sum(len(s.pages) for s in sites)} pages  {time.time()-t0:.0f}s", flush=True)
+    run.parser.close()
     sites.sort(key=lambda s: s.pages[0].site_id)
     with open(os.path.join(a.repo, "logs", f"{run.day}.csv"), "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=LOG_FIELDS); w.writeheader()
@@ -443,7 +414,8 @@ def main():
     git(a.repo, "add", "-A")
     git(a.repo, "commit", "-q", "--allow-empty", "-m",
         f"snapshot {run.day}: {len(rows)} sites, {summ['pages_ok']} pages, "
-        f"{summ['pages_changed']} changed, {summ['pages_added']} added, {summ['pages_removed']} removed")
+        f"{summ['pages_changed']} changed, {summ['pages_added']} added, {summ['pages_removed']} removed"
+        + (f", {summ['pages_reformatted']} rewritten in snapshot format {detect.FORMAT}" if summ["pages_reformatted"] else ""))
     summ["commit"] = git(a.repo, "rev-parse", "--short", "HEAD").strip()
     json.dump(summ, open(a.summary, "w"), indent=1)
     print(json.dumps(summ, indent=1))

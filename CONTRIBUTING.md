@@ -4,9 +4,9 @@
 
 | Path | What |
 |---|---|
-| `monitor/` | Code the daily run uses: `snapshot.py`, `daily.sh`, `monitor_urls.csv`, plus `install_cron.sh` to schedule it |
-| `tests/` | End-to-end tests of the daily run (see below) |
-| `tools/` | One-off scripts: reachability check (`check_urls.py`), attribution fetcher (`fetch_pages.py`), coverage check (`cov.py`) |
+| `monitor/` | Code the daily run uses: `snapshot.py` (crawl and write), `detect.py` (parse a page and decide whether it changed), `daily.sh`, `monitor_urls.csv`, plus `install_cron.sh` to schedule it |
+| `tests/` | Tests of the daily run and the page parser (see below); `tests/corpus/` holds the labelled parser corpus |
+| `tools/` | One-off scripts: reachability check (`check_urls.py`), attribution fetcher (`fetch_pages.py`), coverage check (`cov.py`), the parser evaluation (`parser_eval/`), day-over-day parser check on saved raw HTML (`real_pairs_check.py`) |
 | `docs/` | Spec and design documents |
 | `data/` | Dated results of one-off checks that changed the site list, such as `attribution_<day>.csv` with its `-summary.json` |
 | `sites/`, `logs/` | Snapshot data, written only by the daily run |
@@ -19,17 +19,28 @@ site; a site answering 429/503 is left alone for the rest of the day.
 
 | Path | What |
 |---|---|
-| `sites/<site_id>/{text.md,main.md,links.json,meta.json}` | The homepage |
+| `sites/<site_id>/{text.md,links.json,media.json,meta.json}` | The homepage |
 | `sites/<site_id>/pages/<slug>/{…same four files…}` | Every other page; `<slug>` is the page path plus a short hash |
 | `logs/<day>.csv` | One row per page fetched (or found gone) that day |
 | `logs/<day>-summary.json` | That day's totals |
 
-Per page: `text.md` is the full visible text, one sentence per line, including tabs and accordions, with known noise
-(countdowns, donation progress, cookie banners, copyright years) removed. **Changes are detected on this file.**
-`main.md` is the extracted main content, a reading view only. `links.json` is outbound links with tracking
-parameters removed. `meta.json` holds `format` (currently 2), final URL, title, description, "Paid for by" text and years
-mentioned. Nothing volatile (fetch time, size) is written to these files; that goes to `logs/`. The switch to format 2
-makes one run record a change on nearly every page; tools reading history should treat that commit as a format change.
+Pages are parsed by `monitor/detect.py`, the method chosen by the parser evaluation
+(`docs/parser_evaluation_2026-10-06.md`): EDGI web-monitoring-diff's visible text and links, an image-and-embed
+list, and noise rules applied first.
+
+- `text.md`: the page's visible text as EDGI extracts it, including tabs and accordions, one sentence per line.
+- `links.json`: outbound links as `{text, href}`, absolute, with tracking parameters removed and re-encoded email links decoded.
+- `media.json`: images (normalised so another size of the same image is equal), alt texts and video/iframe embeds.
+- `meta.json`: `format` (currently 3), final URL, title, description, "Paid for by" text, years mentioned, and
+  `fingerprint`, a hash of the text, links, media, title and description.
+  **A page has changed when its fingerprint changes**; only then are its files rewritten.
+
+Noise rules (all in `detect.py`, each with a test in `tests/test_detect.py`): cookie-consent banners and form
+anti-spam honeypot fields are removed; inside a countdown or fundraising widget, the widget's own numbers (a bare
+number or clock, a number followed by a time unit or a count word such as "donors", fundraising amounts) become `#`,
+while other numbers in the same block are kept; "N days ago" dates and copyright years become `#`; tracking parameters and dates in link queries are dropped. Nothing
+else is removed. Nothing volatile (fetch time, size) is written to these files; that goes to `logs/`. The first run of
+each new format rewrites every page once; that run's summary counts them as `pages_reformatted`, not as changes.
 
 A file changes only when the page's content does, so `git log`/`git diff` on these paths are the change
 history. A page that has disappeared shows up as deleted files; compare with `--no-renames`, or Git may
@@ -47,6 +58,11 @@ pair a deleted page with a new one that has an identical file and report a renam
   - `tests/test_daily_run.py` runs the real `monitor/snapshot.py` over two simulated days against local fake sites.
   - `tests/test_daily_sh.py` runs the real `monitor/daily.sh` in a throwaway folder whose "GitHub" is a local
     bare repository: commit and push, a commit made on GitHub, discarding half-written files, and the lock.
+  - `tests/test_detect.py` checks each noise rule, and that the matching campaign content is still detected.
+- **Any change to `monitor/detect.py` must also pass the parser acceptance test** (about 25 minutes on the VM, so it is skipped by default):
+  `RUN_CORPUS_TEST=1 ~/monitor/.venv/bin/python -m unittest discover -s tests -p test_parser_corpus.py -v`
+  It runs the 2,008 labelled pairs from the parser evaluation plus 388 pairs of kinds found on real sites (every
+  edit found, no noise flagged), and a second noise set of 1,552 pairs. After changing the pair generator, regenerate the labels with `python tests/corpus/make_pairs.py`.
 
 ## Schedule
 

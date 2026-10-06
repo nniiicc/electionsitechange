@@ -1,4 +1,4 @@
-"""End-to-end test of the daily run (issues #2, #4).
+"""End-to-end test of the daily run (issues #2, #4, #5).
 
 Serves small fake campaign sites from local web servers, runs the real
 monitor/snapshot.py over two simulated days, and checks what ended up in the
@@ -57,6 +57,10 @@ def collapsed_page(health):
             '</main><footer>Paid for by Pat Moe for Congress.</footer></body></html>')
 
 
+def photo_page(src, alt):
+    return page("Ann Loe", OTHER).replace("<main>", f'<main><img src="{src}" alt="{alt}">')
+
+
 def filler(topic):
     return [f"This page explains the candidate's plan on {topic} in detail for voters.",
             f"Read more about why {topic} matters to families across the district."]
@@ -98,6 +102,10 @@ def build_sites(offsite):
         "collapsed": ({"index.html": collapsed_page(ACCORDION)},
                       {"index.html": collapsed_page([ACCORDION2, ACCORDION[1]])}),
         "down":      (home(OTHER), None),
+        "photo":     ({"index.html": photo_page("/img/ann-fair.jpg?v=1", "Ann at the county fair")},
+                      {"index.html": photo_page("/img/ann-rally.jpg?v=9", "Ann at the county fair")}),
+        "resized":   ({"index.html": photo_page("/img/ann-300x200.jpg?v=1", "Ann")},       # same image, new size
+                      {"index.html": photo_page("/img/ann-600x400.jpg?v=2", "Ann")}),
         "campaign":  (camp1, camp2),
         "big":       (big, big),
     }
@@ -236,10 +244,10 @@ class DailyRunOverTwoDays(unittest.TestCase):
         self.assertNotEqual(self.log2["down"]["error"], "")      # and the failure is logged
 
     def test_summary_counts_sites_reached_separately_from_fetched_ok(self):
-        # day 2: 8 sites answered 200 (all but blocked and down); blocked answered 403; down never answered
-        self.assertEqual(self.summary2["sites"], 10)
-        self.assertEqual(self.summary2["reached"], 9)
-        self.assertEqual(self.summary2["ok"], 8)
+        # day 2: 10 sites answered 200 (all but blocked and down); blocked answered 403; down never answered
+        self.assertEqual(self.summary2["sites"], 12)
+        self.assertEqual(self.summary2["reached"], 11)
+        self.assertEqual(self.summary2["ok"], 10)
         self.assertEqual(self.summary2["errors"].get("http_403"), 1)
 
     # ---- full visible text and noise rules (#5)
@@ -249,27 +257,45 @@ class DailyRunOverTwoDays(unittest.TestCase):
         self.assertIn(ACCORDION[0], text)
 
     def test_edit_inside_collapsed_section_is_recorded(self):
-        self.assertEqual(diff_lines(self.repo, "sites/collapsed/text.md"), ([ACCORDION[0]], [ACCORDION2]))
+        # text lines are sentences of the page text, so a line may start with a heading before the sentence
+        rem, add = diff_lines(self.repo, "sites/collapsed/text.md")
+        self.assertEqual(len(rem), 1); self.assertEqual(len(add), 1)
+        self.assertTrue(rem[0].endswith(ACCORDION[0]), rem); self.assertTrue(add[0].endswith(ACCORDION2), add)
         self.assertEqual(self.log2["collapsed"]["changed"], "True")
 
     def test_text_is_stored_one_sentence_per_line(self):
         lines = Path(self.repo, "sites", "edited", "text.md").read_text().splitlines()
         for s in (ISSUES[0], REWORDED, ISSUES[2]):
-            self.assertIn(s, lines)
+            holders = [l for l in lines if s in l]
+            self.assertEqual(len(holders), 1, (s, lines))
+            self.assertTrue(holders[0].endswith(s), holders)      # nothing after the sentence on its line
 
-    def test_each_page_stores_full_text_main_text_links_and_metadata(self):
+    def test_each_page_stores_text_links_media_and_metadata(self):
         d = Path(self.repo, "sites", "noisy")
-        self.assertEqual({f.name for f in d.iterdir()}, {"text.md", "main.md", "links.json", "meta.json"})
-        self.assertIn(OTHER[0], (d / "main.md").read_text())
+        self.assertEqual({f.name for f in d.iterdir()}, {"text.md", "links.json", "media.json", "meta.json"})
         meta = json.loads((d / "meta.json").read_text())
-        self.assertEqual(set(meta), {"format", "final_url", "title", "description", "paid_for_by", "years_mentioned"})
+        self.assertEqual(set(meta), {"format", "final_url", "title", "description", "paid_for_by", "years_mentioned", "fingerprint"})
+        self.assertEqual(meta["title"], "Sam Roe")
         self.assertEqual(meta["paid_for_by"], "Paid for by Friends of Sam Roe")
-        self.assertIn("Paid for by Friends of Sam Roe.", (d / "text.md").read_text())   # footer is in the full text
+        text = (d / "text.md").read_text()
+        self.assertIn("Paid for by Friends of Sam Roe.", text)   # footer is in the text
+        self.assertIn(OTHER[1], text)
+        self.assertNotIn("cookies", text)                        # the cookie banner is removed
+
+    def test_image_swap_is_recorded_in_media_list(self):
+        rem, add = diff_lines(self.repo, "sites/photo/media.json")
+        self.assertEqual(rem, ['"alt:/img/ann-fair.jpg|Ann at the county fair",', '"img:/img/ann-fair.jpg"'])
+        self.assertEqual(add, ['"alt:/img/ann-rally.jpg|Ann at the county fair",', '"img:/img/ann-rally.jpg"'])
+        self.assertEqual(self.log2["photo"]["changed"], "True")
+
+    def test_same_image_at_another_size_is_not_a_change(self):
+        self.assertEqual(git(self.repo, "diff", "--stat", "HEAD~1", "HEAD", "--", "sites/resized"), "")
+        self.assertEqual(self.log2["resized"]["changed"], "False")
 
     def test_tracking_parameters_are_removed_from_links(self):
         links = json.loads(Path(self.repo, "sites", "noisy", "links.json").read_text())
-        self.assertTrue(any(l.endswith("/issues?id=1") for l in links), links)
-        self.assertFalse(any("utm_" in l for l in links))
+        self.assertTrue(any(l["href"].endswith("/issues?id=1") for l in links), links)
+        self.assertFalse(any("utm_" in l["href"] for l in links))
 
     def test_no_volatile_values_in_snapshot_files(self):
         for f in Path(self.repo, "sites").rglob("*"):
@@ -290,7 +316,7 @@ class DailyRunOverTwoDays(unittest.TestCase):
 
     def test_offsite_links_are_recorded_but_not_fetched(self):
         links = json.loads(Path(self.repo, "sites", "campaign", "links.json").read_text())
-        self.assertTrue(any(l.startswith(self.offsite_url) for l in links), links)
+        self.assertTrue(any(l["href"].startswith(self.offsite_url) for l in links), links)
         self.assertEqual(self.offsite.requests, [])
 
     def test_requests_to_one_site_are_at_least_one_second_apart(self):
