@@ -2,10 +2,10 @@
 
 **Corpus:** 97 real pages from the 5 Oct crawl. 82 are raw HTML: Squarespace 21, Wix 20, WordPress 20, custom-built 20, NationBuilder 1 (only one turned up in the sample). 15 are JavaScript-built homepages rendered once in Chromium. They cover all ten office tiers and include aaron4az.com.
 
-**Pairs:** 2,105 in total. Each copies one page and applies **one** labelled change; both sides are serialised the same way.
+**Pairs:** 2,008 in total. Each copies one page and applies **one** labelled change; both sides are serialised the same way.
 
 - **1,040 edit pairs** in 14 types. An edit counts only if it is **detected and located**: the reported difference contains the edit's token, or the removed text.
-- **968 noise pairs** in 9 types; these must not be flagged.
+- **871 noise pairs** in 9 types; these must not be flagged.
 - **97 identity controls,** where the two copies are the same.
 
 Some edit types apply only where the page has the element: video on 8 pages, a list item on 38. Real collapsible content was on just 3 pages. So each page also got an injected collapsed block in one of four common markups (details, display:none accordion, hidden tab panel, aria-hidden FAQ), with only its hidden text changed.
