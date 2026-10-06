@@ -107,11 +107,21 @@ Raw edit counts are also misleading. Most edits to a campaign page are noise (co
 - Any page whose full visible text is under 200 characters is re-fetched with headless Chromium, and the snapshot records that it was rendered.
 
 ### Module: Normaliser and store
-- Turns each page into: full visible text (the basis for comparison), main text (reading view), normalised outbound links (tracking parameters stripped) and metadata (final URL, title, description, "Paid for by" text, years mentioned, rendered flag).
-- Text is stored one sentence per line, with known noise lines removed: countdowns, donation progress, copyright years, cookie banners.
+- **The raw HTML of every fetched page is the record.** It is kept gzip-compressed on the VM, outside Git, one file per page per day.
+- How text, links, images and embeds are extracted from that HTML, and how noise is ignored, is **decided by the parser evaluation below**. No parser is adopted until it passes. The parsers used up to 6 Oct (`trafilatura` main-text extraction, then a hand-written full-text normaliser with noise rules) are not adopted: on aaron4az.com the stored text missed 35 of the 42 lines visible on the page.
 - Git repository: one directory per site, one sub-directory per page. A file is rewritten only when its content changes, and each day ends in one commit, so commits record only real changes. Volatile values (fetch time, size, timing) go in the daily run log, never in snapshot files.
-- Raw HTML of changed pages is kept gzip-compressed on the VM, outside Git.
 - The repository is pushed to `github.com/nniiicc/electionsitechange` after each run, using a deploy key that can only write to that repository.
+
+### Parser evaluation: text parsing and change measurement (agreed with the user, 6 Oct)
+Chooses the parser and change detection, using fake sites built from real pages, so every answer is known in advance and the test runs in hours.
+
+1. **Corpus:** about 100 real pages taken from the 5 Oct crawl's saved raw HTML. The sample spans the main site builders (Squarespace, Wix, WordPress, NationBuilder, custom-built), every office tier, homepages and inner pages, and includes aaron4az.com. A separate set of JavaScript-built sites is rendered once in Chromium, because their raw HTML has no content.
+2. **Known edits,** applied by script to copies of each page, each labelled:
+   - *Must be detected:* sentence reworded, added or removed; heading changed; text inside a collapsed accordion or tab changed; list item changed; image swapped or its alt text changed; link target changed; menu page added or removed; embedded video changed; "Paid for by" text changed.
+   - *Noise, must be ignored:* security tokens and build IDs rotated; script and style contents changed; attributes reordered and whitespace changed; countdown and donation-total numbers changed; relative dates ("3 days ago") and copyright year changed; cookie-banner wording changed; image size and cache-busting parameters changed.
+3. **Methods compared on the same pairs:** EDGI `web-monitoring-diff` (text and link diffs); changedetection.io's HTML-to-text conversion; the current `snapshot.py` parser as the baseline. Each is scored with and without an image-and-embed list, which is the one piece we write ourselves if EDGI's diffs don't report image changes.
+4. **Scoring, by edit type:** detected or missed; whether the reported difference points at the edited text; noise-only pairs wrongly flagged. A method passes only if it detects every edit type and flags zero noise-only pairs. Every miss is listed with its page.
+5. **Outcome:** the passing method becomes the parser in `snapshot.py` and the Change detector's method (#5, #9). The corpus and labels go into the automated tests, so every later code change is checked against them. Day-to-day noise on live sites is monitored after launch and does not gate this decision.
 
 ### Module: Archiver (Wayback Machine)
 - We submit URLs; Internet Archive's own crawler fetches the pages.
@@ -127,7 +137,7 @@ Raw edit counts are also misleading. Most edits to a campaign page are noise (co
   - a link diff (outbound links added and removed);
   - a metadata diff (title, "Paid for by", years);
   - the before and after Wayback links.
-- Uses EDGI's open-source `web-monitoring-diff` library for the text and link diffs, or an equivalent if packaging is a problem. EDGI's tools reliably show *what* changed; deciding whether a change matters is the next module's job.
+- Uses the method chosen by the parser evaluation. EDGI's open-source `web-monitoring-diff` library is the default candidate (installation needs `pkg-config`, `libxml2-dev` and lxml built from source). EDGI's tools reliably show *what* changed; deciding whether a change matters is the next module's job.
 
 ### Module: Categoriser (the labelling cascade)
 
@@ -206,10 +216,11 @@ Raw edit counts are also misleading. Most edits to a campaign page are noise (co
   - a JavaScript-only page;
   - a PDF link (text stored and diffed), including one scanned PDF with no text layer;
   - a donation-platform link swap.
+- **Parser and change detection** are tested against the parser-evaluation corpus: every labelled edit must be detected and every noise-only pair must be ignored.
 - The Archiver is tested at the same boundary against a stub Wayback endpoint: first-capture outlink submission, changed-page submission order, skipping recent captures, carrying the queue over, and recording capture URLs.
 - The Categoriser is tested against the hand-labelled set of real week-one changes. Pass condition: at least 95% precision on substantive after step 2.
 - The website is tested by building it from a fixture set of approved and unapproved changes. Pass conditions: unapproved substantive changes never appear; candidate, race and change pages render for every fixture candidate; downloads match the approved records.
-- Prior art: a 20-site smoke run and the 8,538-site homepage baseline on the VM (5 Oct), and offline parsing checks of the normaliser. There is no automated test suite yet.
+- Prior art: a 20-site smoke run, the 8,538-site homepage baseline (5 Oct) and the first full crawl (93,707 pages fetched, 5–6 Oct) on the VM. The automated tests are in `tests/`.
 
 ## Out of Scope
 
