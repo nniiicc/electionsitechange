@@ -1,0 +1,98 @@
+page_id,source,builder,kind,site_id,office_tier,state,raw_path,visible_chars
+r000,raw,squarespace,home,keithellison.org__a73f57,Attorney General,Minnesota,/home/nicholas_m_weber/monitor/raw/2026-10-05/keithellison.org__a73f57.html.gz,1747
+r001,raw,squarespace,home,votevickusa.com__ab8736,Governor,Illinois,/home/nicholas_m_weber/monitor/raw/2026-10-05/votevickusa.com__ab8736.html.gz,3693
+r002,raw,squarespace,home,dobsonforalabama.com__36ade7,Secretary of State,Alabama,/home/nicholas_m_weber/monitor/raw/2026-10-05/dobsonforalabama.com__36ade7.html.gz,804
+r003,raw,squarespace,home,coryfortexas.com__71fc2c,State Appellate Court,Texas,/home/nicholas_m_weber/monitor/raw/2026-10-05/coryfortexas.com__71fc2c.html.gz,2829
+r004,raw,squarespace,home,huntercantrell.com__909939,State House,Minnesota,/home/nicholas_m_weber/monitor/raw/2026-10-05/huntercantrell.com__909939.html.gz,996
+r005,raw,squarespace,home,lizforsdsenate.com__581e81,State Senate,South Dakota,/home/nicholas_m_weber/monitor/raw/2026-10-05/lizforsdsenate.com__581e81.html.gz,1385
+r006,raw,squarespace,home,miracleforgeorgia.com__157cb7,State Supreme Court,Georgia,/home/nicholas_m_weber/monitor/raw/2026-10-05/miracleforgeorgia.com__157cb7.html.gz,2402
+r007,raw,squarespace,home,nealforcongress.com__179f20,US House,Massachusetts,/home/nicholas_m_weber/monitor/raw/2026-10-05/nealforcongress.com__179f20.html.gz,1614
+r008,raw,squarespace,home,hallieshoffner.com__38b5bf,US Senate,Arkansas,/home/nicholas_m_weber/monitor/raw/2026-10-05/hallieshoffner.com__38b5bf.html.gz,2410
+r009,raw,squarespace,home,eliformichigan.com__e6488f,Attorney General,Michigan,/home/nicholas_m_weber/monitor/raw/2026-10-05/eliformichigan.com__e6488f.html.gz,1707
+r010,raw,squarespace,inner,keithfaber.org__cb4708,Attorney General,Ohio,/home/nicholas_m_weber/monitor/raw/2026-10-05/keithfaber.org__cb4708/media-kit_itemId_5w180mb22n9ksvawsk8wv45448oi9d-8a9cfc.html.gz,620
+r011,raw,squarespace,inner,jktforak.com__b8180d,Governor,Alaska,/home/nicholas_m_weber/monitor/raw/2026-10-05/jktforak.com__b8180d/endorsements_itemId_3xkr7ft8c6pokydc8v2k1w6zxu0ruf-de3c56.html.gz,5549
+r012,raw,squarespace,inner,vikkigoodwin.com__a58781,Lieutenant Governor,Texas,/home/nicholas_m_weber/monitor/raw/2026-10-05/vikkigoodwin.com__a58781/events_0718bigspring-cdygn-4603b0.html.gz,2232
+r013,raw,squarespace,inner,lauriforliberty.com__9f870c,Secretary of State,Indiana,/home/nicholas_m_weber/monitor/raw/2026-10-05/lauriforliberty.com__9f870c/events_meet-lauri-at-the-hancock-county-fair-b048fb.html.gz,678
+r014,raw,squarespace,inner,hollytforjudge.com__53472f,State Appellate Court,Texas,/home/nicholas_m_weber/monitor/raw/2026-10-05/hollytforjudge.com__53472f/tours_red-river-roadshow-b22083.html.gz,1738
+r015,raw,squarespace,inner,ryderfornewyork.com__72bd8b,State House,New York,/home/nicholas_m_weber/monitor/raw/2026-10-05/ryderfornewyork.com__72bd8b/events-0efb4c.html.gz,15238
+r016,raw,squarespace,inner,abelforgeorgia.com__0e76ca,State Senate,Georgia,/home/nicholas_m_weber/monitor/raw/2026-10-05/abelforgeorgia.com__0e76ca/about-69bbc6.html.gz,2132
+r017,raw,squarespace,inner,amyeddyforjustice.com__e78dc9,State Supreme Court,Montana,/home/nicholas_m_weber/monitor/raw/2026-10-05/amyeddyforjustice.com__e78dc9/news-b164a2.html.gz,724
+r018,raw,squarespace,inner,bakerforcongress.com__73c587,US House,Michigan,/home/nicholas_m_weber/monitor/raw/2026-10-05/bakerforcongress.com__73c587/get-involved-272ea2.html.gz,890
+r019,raw,squarespace,inner,hallieshoffner.com__38b5bf,US Senate,Arkansas,/home/nicholas_m_weber/monitor/raw/2026-10-05/hallieshoffner.com__38b5bf/contact-eda4eb.html.gz,1508
+r020,raw,wix,home,lori4idaho.com__eef363,Attorney General,Idaho,/home/nicholas_m_weber/monitor/raw/2026-10-05/lori4idaho.com__eef363.html.gz,5571
+r021,raw,wix,home,garycorderyforgovernor.com__c50e6d,Governor,Hawaii,/home/nicholas_m_weber/monitor/raw/2026-10-05/garycorderyforgovernor.com__c50e6d.html.gz,2106
+r022,raw,wix,home,loughlin4ri.com__2815d9,Lieutenant Governor,Rhode Island,/home/nicholas_m_weber/monitor/raw/2026-10-05/loughlin4ri.com__2815d9.html.gz,1226
+r023,raw,wix,home,mcgraneforidaho.com__7be6a4,Secretary of State,Idaho,/home/nicholas_m_weber/monitor/raw/2026-10-05/mcgraneforidaho.com__7be6a4.html.gz,1024
+r024,raw,wix,home,judgebalido.com__2ab892,State Appellate Court,Texas,/home/nicholas_m_weber/monitor/raw/2026-10-05/judgebalido.com__2ab892.html.gz,1899
+r025,raw,wix,home,gillmanforhouse.com__837e72,State House,Minnesota,/home/nicholas_m_weber/monitor/raw/2026-10-05/gillmanforhouse.com__837e72.html.gz,1784
+r026,raw,wix,home,huntforalaska.com__108bc2,State Senate,Alaska,/home/nicholas_m_weber/monitor/raw/2026-10-05/huntforalaska.com__108bc2.html.gz,6769
+r027,raw,wix,home,mendheimforalabama.com__4d9d22,State Supreme Court,Alabama,/home/nicholas_m_weber/monitor/raw/2026-10-05/mendheimforalabama.com__4d9d22.html.gz,1646
+r028,raw,wix,home,stevewoll.com__4f504d,US House,Virginia,/home/nicholas_m_weber/monitor/raw/2026-10-05/stevewoll.com__4f504d.html.gz,6746
+r029,raw,wix,home,julianastratton.com__8d1196,US Senate,Illinois,/home/nicholas_m_weber/monitor/raw/2026-10-05/julianastratton.com__8d1196.html.gz,2059
+r030,raw,wix,inner,lori4idaho.com__eef363,Attorney General,Idaho,/home/nicholas_m_weber/monitor/raw/2026-10-05/lori4idaho.com__eef363/blog-7051ac.html.gz,584
+r031,raw,wix,inner,coachforgovernor.com__0b7fee,Governor,Alabama,/home/nicholas_m_weber/monitor/raw/2026-10-05/coachforgovernor.com__0b7fee/post_committee-unanimously-rules-that-alabama-s-senior-u-s-senator-is-an-alabama-0cebdd.html.gz,3091
+r032,raw,wix,inner,leslierutledge.com__013afb,Lieutenant Governor,Arkansas,/home/nicholas_m_weber/monitor/raw/2026-10-05/leslierutledge.com__013afb/post_rutledge-campaign-nearly-three-quarters-of-a-million-dollars-cash-on-hand-51ae7f.html.gz,1721
+r033,raw,wix,inner,petersenfornebraska.com__85f2b7,Secretary of State,Nebraska,/home/nicholas_m_weber/monitor/raw/2026-10-05/petersenfornebraska.com__85f2b7/press_tags_voter-list-maintenance-e8de9a.html.gz,1286
+r034,raw,wix,inner,judgechristine.org__911e64,State Appellate Court,North Carolina,/home/nicholas_m_weber/monitor/raw/2026-10-05/judgechristine.org__911e64/community-f43f56.html.gz,3418
+r035,raw,wix,inner,votejasonmorgan.com__d83175,State House,Michigan,/home/nicholas_m_weber/monitor/raw/2026-10-05/votejasonmorgan.com__d83175/news_tags_voting-4950ee.html.gz,672
+r036,raw,wix,inner,leahtemple.com__5282c8,State Senate,Minnesota,/home/nicholas_m_weber/monitor/raw/2026-10-05/leahtemple.com__5282c8/accessibility-statement-3249eb.html.gz,3560
+r037,raw,wix,inner,alecpavlik.com__aef18d,US House,Florida,/home/nicholas_m_weber/monitor/raw/2026-10-05/alecpavlik.com__aef18d/portfolio-75d821.html.gz,603
+r038,raw,wix,inner,sununusenator.com__3b8137,US Senate,New Hampshire,/home/nicholas_m_weber/monitor/raw/2026-10-05/sununusenator.com__3b8137/endorsements-d10bdb.html.gz,2431
+r039,raw,wix,inner,katherineforag.com__72c5b2,Attorney General,Alabama,/home/nicholas_m_weber/monitor/raw/2026-10-05/katherineforag.com__72c5b2/blog_categories_endorsements-a647e6.html.gz,733
+r040,raw,wordpress,home,timgriffinforag.com__ed6b15,Attorney General,Arkansas,/home/nicholas_m_weber/monitor/raw/2026-10-05/timgriffinforag.com__ed6b15.html.gz,1365
+r041,raw,wordpress,home,ginafortexas.com__4613c8,Governor,Texas,/home/nicholas_m_weber/monitor/raw/2026-10-05/ginafortexas.com__4613c8.html.gz,4227
+r042,raw,wordpress,home,electbarnhill.net__45069a,Secretary of State,Nevada,/home/nicholas_m_weber/monitor/raw/2026-10-05/electbarnhill.net__45069a.html.gz,4972
+r043,raw,wordpress,home,justicescottbrister.com__4b5f7e,State Appellate Court,Texas,/home/nicholas_m_weber/monitor/raw/2026-10-05/justicescottbrister.com__4b5f7e.html.gz,9925
+r044,raw,wordpress,home,nataliemihalek.com__121827,State House,Pennsylvania,/home/nicholas_m_weber/monitor/raw/2026-10-05/nataliemihalek.com__121827.html.gz,956
+r045,raw,wordpress,home,heathersomers.com__5c3294,State Senate,Connecticut,/home/nicholas_m_weber/monitor/raw/2026-10-05/heathersomers.com__5c3294.html.gz,542
+r046,raw,wordpress,home,wilsonforjustice.com__91d5ac,State Supreme Court,Montana,/home/nicholas_m_weber/monitor/raw/2026-10-05/wilsonforjustice.com__91d5ac.html.gz,3774
+r047,raw,wordpress,home,richardhudson.org__6b5ebf,US House,North Carolina,/home/nicholas_m_weber/monitor/raw/2026-10-05/richardhudson.org__6b5ebf.html.gz,1485
+r048,raw,wordpress,home,susancollins.com__4392c6,US Senate,Maine,/home/nicholas_m_weber/monitor/raw/2026-10-05/susancollins.com__4392c6.html.gz,3956
+r049,raw,wordpress,home,jamesforny.com__bdd9ca,Attorney General,New York,/home/nicholas_m_weber/monitor/raw/2026-10-05/jamesforny.com__bdd9ca.html.gz,2649
+r050,raw,wordpress,inner,birdforiowa.com__f6a500,Attorney General,Iowa,/home/nicholas_m_weber/monitor/raw/2026-10-05/birdforiowa.com__f6a500/privacy-policy-39ce28.html.gz,21964
+r051,raw,wordpress,inner,helenafoulkes.com__07e5c4,Governor,Rhode Island,/home/nicholas_m_weber/monitor/raw/2026-10-05/helenafoulkes.com__07e5c4/privacy-policy-39ce28.html.gz,38755
+r052,raw,wordpress,inner,votetwshannon.com__3cde20,Lieutenant Governor,Oklahoma,/home/nicholas_m_weber/monitor/raw/2026-10-05/votetwshannon.com__3cde20/terms-and-conditions-eb8dfa.html.gz,5162
+r053,raw,wordpress,inner,pakko4ar.com__1e5e23,Secretary of State,Arkansas,/home/nicholas_m_weber/monitor/raw/2026-10-05/pakko4ar.com__1e5e23/blog_2026_08_22_a-victory-in-court-for-arkansas-voters-872b76.html.gz,3007
+r054,raw,wordpress,inner,voteclarissasilva.com__5bc58f,State Appellate Court,Texas,/home/nicholas_m_weber/monitor/raw/2026-10-05/voteclarissasilva.com__5bc58f/2026_05_16_the-role-of-the-thirteenth-court-of-appeals-79ca01.html.gz,2171
+r055,raw,wordpress,inner,whartonfortexas.com__825a18,State House,Texas,/home/nicholas_m_weber/monitor/raw/2026-10-05/whartonfortexas.com__825a18/endorsements2026-9e1fb9.html.gz,633
+r056,raw,wordpress,inner,kristyjanigoformn.com__816eb8,State Senate,Minnesota,/home/nicholas_m_weber/monitor/raw/2026-10-05/kristyjanigoformn.com__816eb8/news-b164a2.html.gz,3523
+r057,raw,wordpress,inner,johnsonforjustice.org__5d8b04,State Supreme Court,North Dakota,/home/nicholas_m_weber/monitor/raw/2026-10-05/johnsonforjustice.org__5d8b04/career-d26db1.html.gz,7014
+r058,raw,wordpress,inner,nancywallace.us__5e1f4b,US House,Maryland,/home/nicholas_m_weber/monitor/raw/2026-10-05/nancywallace.us__5e1f4b/federal-tax-reform-e872d0.html.gz,3185
+r059,raw,wordpress,inner,marypeltola.com__17f11c,US Senate,Alaska,/home/nicholas_m_weber/monitor/raw/2026-10-05/marypeltola.com__17f11c/100-days-from-general-election-momentum-on-mary-peltolas-side-4acc36.html.gz,4321
+r060,raw,nationbuilder,home,dayhochmanvigil.com__e10bbf,State House,New Mexico,/home/nicholas_m_weber/monitor/raw/2026-10-05/dayhochmanvigil.com__e10bbf.html.gz,5185
+r061,raw,other,home,adrianafornevada.com__b8ea19,Attorney General,Nevada,/home/nicholas_m_weber/monitor/raw/2026-10-05/adrianafornevada.com__b8ea19.html.gz,2652
+r062,raw,other,home,cyndimunson.com__f7aa68,Governor,Oklahoma,/home/nicholas_m_weber/monitor/raw/2026-10-05/cyndimunson.com__f7aa68.html.gz,1804
+r063,raw,other,home,stavrosfornv.com__56e23d,Lieutenant Governor,Nevada,/home/nicholas_m_weber/monitor/raw/2026-10-05/stavrosfornv.com__56e23d.html.gz,1512
+r064,raw,other,home,harrisforsos.com__3bf053,Secretary of State,Illinois,/home/nicholas_m_weber/monitor/raw/2026-10-05/harrisforsos.com__3bf053.html.gz,1618
+r065,raw,other,home,veliameza.com__8e4d70,State Appellate Court,Texas,/home/nicholas_m_weber/monitor/raw/2026-10-05/veliameza.com__8e4d70.html.gz,2392
+r066,raw,other,home,electmonica.com__ae25a5,State House,Tennessee,/home/nicholas_m_weber/monitor/raw/2026-10-05/electmonica.com__ae25a5.html.gz,5613
+r067,raw,other,home,slussforsenate.org__1ecd5c,State Senate,Alabama,/home/nicholas_m_weber/monitor/raw/2026-10-05/slussforsenate.org__1ecd5c.html.gz,4429
+r068,raw,other,home,judgehawk.com__15b5d2,State Supreme Court,Washington,/home/nicholas_m_weber/monitor/raw/2026-10-05/judgehawk.com__15b5d2.html.gz,11208
+r069,raw,other,home,congressmangregorymeeks.com__291212,US House,New York,/home/nicholas_m_weber/monitor/raw/2026-10-05/congressmangregorymeeks.com__291212.html.gz,1146
+r070,raw,other,home,wessforsenate.com__770865,US Senate,Alabama,/home/nicholas_m_weber/monitor/raw/2026-10-05/wessforsenate.com__770865.html.gz,6793
+r071,raw,other,inner,ronformnag.com__e895cd,Attorney General,Minnesota,/home/nicholas_m_weber/monitor/raw/2026-10-05/ronformnag.com__e895cd/accomplishments.html-bf598d.html.gz,3255
+r072,raw,other,inner,nedlamont.com__bfd79e,Governor,Connecticut,/home/nicholas_m_weber/monitor/raw/2026-10-05/nedlamont.com__bfd79e/news_connecticuts-u-s-senate-delegation-endorses-governor-ned-lamont-for-re-elec-a41f85.html.gz,2984
+r073,raw,other,inner,kmm2026.org__17eb63,Lieutenant Governor,Texas,/home/nicholas_m_weber/monitor/raw/2026-10-05/kmm2026.org__17eb63/campaign2026_help-the-campaign-c79700.html.gz,3526
+r074,raw,other,inner,kellygrappe.com__c4bb0f,Secretary of State,Arkansas,/home/nicholas_m_weber/monitor/raw/2026-10-05/kellygrappe.com__c4bb0f/campaign-photos_baxter-county-8df516.html.gz,3054
+r075,raw,other,inner,smithfortexas.org__08a9ca,State Appellate Court,Texas,/home/nicholas_m_weber/monitor/raw/2026-10-05/smithfortexas.org__08a9ca/about.html-8d27d8.html.gz,2656
+r076,raw,other,inner,lisa61.com__34b67f,State House,Utah,/home/nicholas_m_weber/monitor/raw/2026-10-05/lisa61.com__34b67f/donate-20d4e6.html.gz,1854
+r077,raw,other,inner,votebrown.com__bdbca3,State Senate,Georgia,/home/nicholas_m_weber/monitor/raw/2026-10-05/votebrown.com__bdbca3/issues_nutrition-5fe250.html.gz,2635
+r078,raw,other,inner,tufte.us__283220,State Supreme Court,North Dakota,/home/nicholas_m_weber/monitor/raw/2026-10-05/tufte.us__283220/record-2c32be.html.gz,4656
+r079,raw,other,inner,kohforcongress.com__1f740e,US House,Massachusetts,/home/nicholas_m_weber/monitor/raw/2026-10-05/kohforcongress.com__1f740e/news_dan-koh-endorsed-by-the-international-brotherhood-of-electrical-workers-loc-3f0931.html.gz,9851
+r080,raw,other,inner,marisasimonetti.com__b7f766,US Senate,Minnesota,/home/nicholas_m_weber/monitor/raw/2026-10-05/marisasimonetti.com__b7f766/blog-7051ac.html.gz,2596
+r081,raw,squarespace,home,aaron4az.com__6eb11f,State Senate,Arizona,/home/nicholas_m_weber/monitor/raw/2026-10-05/aaron4az.com__6eb11f.html.gz,1775
+j000,rendered,other,home,markpody.com__76b1e8,State Senate,Tennessee,/home/nicholas_m_weber/monitor/raw/2026-10-05/markpody.com__76b1e8.html.gz,3026
+j001,rendered,other,home,ben4idaho.com__bf5aa4,State Senate,Idaho,/home/nicholas_m_weber/monitor/raw/2026-10-05/ben4idaho.com__bf5aa4.html.gz,1061
+j002,rendered,other,home,caylinyoung.com__57e02f,State House,Maryland,/home/nicholas_m_weber/monitor/raw/2026-10-05/caylinyoung.com__57e02f.html.gz,15630
+j003,rendered,other,home,schmigforminnesota.com__594a86,State House,Minnesota,/home/nicholas_m_weber/monitor/raw/2026-10-05/schmigforminnesota.com__594a86.html.gz,3406
+j004,rendered,other,home,ariasforcongress.us__537819,US House,Florida,/home/nicholas_m_weber/monitor/raw/2026-10-05/ariasforcongress.us__537819.html.gz,4687
+j005,rendered,other,home,votemonicastonier.com__dd0de2,State House,Washington,/home/nicholas_m_weber/monitor/raw/2026-10-05/votemonicastonier.com__dd0de2.html.gz,6456
+j006,rendered,other,home,johnlawn.org__8212a3,State House,Massachusetts,/home/nicholas_m_weber/monitor/raw/2026-10-05/johnlawn.org__8212a3.html.gz,877
+j007,rendered,other,home,hallforhd19.com__a64fea,State House,Texas,/home/nicholas_m_weber/monitor/raw/2026-10-05/hallforhd19.com__a64fea.html.gz,1810
+j008,rendered,other,home,benbraver.com__957a26,State House,Florida,/home/nicholas_m_weber/monitor/raw/2026-10-05/benbraver.com__957a26.html.gz,5797
+j009,rendered,other,home,jeniferjonesnm.com__ebc1c1,State House,New Mexico,/home/nicholas_m_weber/monitor/raw/2026-10-05/jeniferjonesnm.com__ebc1c1.html.gz,11307
+j010,rendered,other,home,elvisforga.com__e67462,State House,Georgia,/home/nicholas_m_weber/monitor/raw/2026-10-05/elvisforga.com__e67462.html.gz,3478
+j011,rendered,other,home,jessforgeorgia.com__7e1202,State Senate,Georgia,/home/nicholas_m_weber/monitor/raw/2026-10-05/jessforgeorgia.com__7e1202.html.gz,3699
+j012,rendered,other,home,freeman4congress.com__85ffb1,US House,District of Columbia,/home/nicholas_m_weber/monitor/raw/2026-10-05/freeman4congress.com__85ffb1.html.gz,4149
+j013,rendered,other,home,electmichellebennett.com__fa2359,State House,Washington,/home/nicholas_m_weber/monitor/raw/2026-10-05/electmichellebennett.com__fa2359.html.gz,2184
+j014,rendered,wordpress,home,eppardforgeorgia.org__21e0d9,State House,Georgia,/home/nicholas_m_weber/monitor/raw/2026-10-05/eppardforgeorgia.org__21e0d9.html.gz,1529

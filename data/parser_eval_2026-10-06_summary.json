@@ -1,0 +1,90 @@
+{
+ "EDGI text + links": {
+  "edit_pairs": 1040,
+  "located": 885,
+  "detected": 885,
+  "edit_types_all_located": 11,
+  "edit_types": 14,
+  "noise_pairs": 968,
+  "noise_flagged": 526,
+  "errors": 0,
+  "passes": false
+ },
+ "EDGI render diff": {
+  "edit_pairs": 1040,
+  "located": 95,
+  "detected": 95,
+  "edit_types_all_located": 1,
+  "edit_types": 14,
+  "noise_pairs": 968,
+  "noise_flagged": 153,
+  "errors": 1521,
+  "passes": false
+ },
+ "changedetection.io text": {
+  "edit_pairs": 1040,
+  "located": 733,
+  "detected": 734,
+  "edit_types_all_located": 8,
+  "edit_types": 14,
+  "noise_pairs": 968,
+  "noise_flagged": 485,
+  "errors": 0,
+  "passes": false
+ },
+ "snapshot.py (current)": {
+  "edit_pairs": 1040,
+  "located": 840,
+  "detected": 842,
+  "edit_types_all_located": 9,
+  "edit_types": 14,
+  "noise_pairs": 968,
+  "noise_flagged": 144,
+  "errors": 0,
+  "passes": false
+ },
+ "EDGI text + links + media list": {
+  "edit_pairs": 1040,
+  "located": 1040,
+  "detected": 1040,
+  "edit_types_all_located": 14,
+  "edit_types": 14,
+  "noise_pairs": 968,
+  "noise_flagged": 526,
+  "errors": 0,
+  "passes": false
+ },
+ "EDGI render diff + media list": {
+  "edit_pairs": 1040,
+  "located": 198,
+  "detected": 198,
+  "edit_types_all_located": 3,
+  "edit_types": 14,
+  "noise_pairs": 968,
+  "noise_flagged": 153,
+  "errors": 1521,
+  "passes": false
+ },
+ "changedetection.io text + media list": {
+  "edit_pairs": 1040,
+  "located": 931,
+  "detected": 932,
+  "edit_types_all_located": 11,
+  "edit_types": 14,
+  "noise_pairs": 968,
+  "noise_flagged": 485,
+  "errors": 0,
+  "passes": false
+ },
+ "snapshot.py (current) + media list": {
+  "edit_pairs": 1040,
+  "located": 1038,
+  "detected": 1040,
+  "edit_types_all_located": 12,
+  "edit_types": 14,
+  "noise_pairs": 968,
+  "noise_flagged": 144,
+  "errors": 0,
+  "passes": false
+ }
+}

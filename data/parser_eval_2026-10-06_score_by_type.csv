@@ -1,0 +1,193 @@
+method,kind,type,n,detected,located,flagged,errors
+EDGI text + links,edit,collapsed_text_injected,97,97,97,0,0
+EDGI text + links,edit,heading_changed,93,93,93,0,0
+EDGI text + links,edit,hidden_text_changed,3,3,3,0,0
+EDGI text + links,edit,image_alt_changed,95,43,43,0,0
+EDGI text + links,edit,image_swapped,95,0,0,0,0
+EDGI text + links,edit,link_target_changed,85,85,85,0,0
+EDGI text + links,edit,list_item_changed,38,38,38,0,0
+EDGI text + links,edit,menu_page_added,92,92,92,0,0
+EDGI text + links,edit,menu_page_removed,92,92,92,0,0
+EDGI text + links,edit,paid_for_by_changed,80,80,80,0,0
+EDGI text + links,edit,sentence_added,87,87,87,0,0
+EDGI text + links,edit,sentence_removed,88,88,88,0,0
+EDGI text + links,edit,sentence_reworded,87,87,87,0,0
+EDGI text + links,edit,video_changed,8,0,0,0,0
+EDGI text + links,identity,identity,97,0,0,0,0
+EDGI text + links,noise,attr_whitespace,97,0,0,41,0
+EDGI text + links,noise,cookie_banner,97,0,0,97,0
+EDGI text + links,noise,copyright_year,97,0,0,97,0
+EDGI text + links,noise,countdown,97,0,0,97,0
+EDGI text + links,noise,donation,97,0,0,97,0
+EDGI text + links,noise,image_params,95,0,0,0,0
+EDGI text + links,noise,relative_date,97,0,0,97,0
+EDGI text + links,noise,script_style,97,0,0,0,0
+EDGI text + links,noise,tokens_build_ids,97,0,0,0,0
+EDGI render diff,edit,collapsed_text_injected,97,0,0,0,97
+EDGI render diff,edit,heading_changed,93,0,0,0,93
+EDGI render diff,edit,hidden_text_changed,3,0,0,0,3
+EDGI render diff,edit,image_alt_changed,95,0,0,0,0
+EDGI render diff,edit,image_swapped,95,95,95,0,0
+EDGI render diff,edit,link_target_changed,85,0,0,0,85
+EDGI render diff,edit,list_item_changed,38,0,0,0,38
+EDGI render diff,edit,menu_page_added,92,0,0,0,92
+EDGI render diff,edit,menu_page_removed,92,0,0,0,92
+EDGI render diff,edit,paid_for_by_changed,80,0,0,0,80
+EDGI render diff,edit,sentence_added,87,0,0,0,87
+EDGI render diff,edit,sentence_removed,88,0,0,0,88
+EDGI render diff,edit,sentence_reworded,87,0,0,0,87
+EDGI render diff,edit,video_changed,8,0,0,0,0
+EDGI render diff,identity,identity,97,0,0,0,0
+EDGI render diff,noise,attr_whitespace,97,0,0,77,0
+EDGI render diff,noise,cookie_banner,97,0,0,0,97
+EDGI render diff,noise,copyright_year,97,0,0,0,97
+EDGI render diff,noise,countdown,97,0,0,0,97
+EDGI render diff,noise,donation,97,0,0,0,97
+EDGI render diff,noise,image_params,95,0,0,76,0
+EDGI render diff,noise,relative_date,97,0,0,0,97
+EDGI render diff,noise,script_style,97,0,0,0,97
+EDGI render diff,noise,tokens_build_ids,97,0,0,0,97
+changedetection.io text,edit,collapsed_text_injected,97,74,74,0,0
+changedetection.io text,edit,heading_changed,93,93,93,0,0
+changedetection.io text,edit,hidden_text_changed,3,3,3,0,0
+changedetection.io text,edit,image_alt_changed,95,0,0,0,0
+changedetection.io text,edit,image_swapped,95,0,0,0,0
+changedetection.io text,edit,link_target_changed,85,0,0,0,0
+changedetection.io text,edit,list_item_changed,38,38,38,0,0
+changedetection.io text,edit,menu_page_added,92,92,92,0,0
+changedetection.io text,edit,menu_page_removed,92,92,92,0,0
+changedetection.io text,edit,paid_for_by_changed,80,80,80,0,0
+changedetection.io text,edit,sentence_added,87,87,87,0,0
+changedetection.io text,edit,sentence_removed,88,88,87,0,0
+changedetection.io text,edit,sentence_reworded,87,87,87,0,0
+changedetection.io text,edit,video_changed,8,0,0,0,0
+changedetection.io text,identity,identity,97,0,0,0,0
+changedetection.io text,noise,attr_whitespace,97,0,0,0,0
+changedetection.io text,noise,cookie_banner,97,0,0,97,0
+changedetection.io text,noise,copyright_year,97,0,0,97,0
+changedetection.io text,noise,countdown,97,0,0,97,0
+changedetection.io text,noise,donation,97,0,0,97,0
+changedetection.io text,noise,image_params,95,0,0,0,0
+changedetection.io text,noise,relative_date,97,0,0,97,0
+changedetection.io text,noise,script_style,97,0,0,0,0
+changedetection.io text,noise,tokens_build_ids,97,0,0,0,0
+snapshot.py (current),edit,collapsed_text_injected,97,97,97,0,0
+snapshot.py (current),edit,heading_changed,93,93,93,0,0
+snapshot.py (current),edit,hidden_text_changed,3,3,3,0,0
+snapshot.py (current),edit,image_alt_changed,95,0,0,0,0
+snapshot.py (current),edit,image_swapped,95,0,0,0,0
+snapshot.py (current),edit,link_target_changed,85,85,85,0,0
+snapshot.py (current),edit,list_item_changed,38,38,38,0,0
+snapshot.py (current),edit,menu_page_added,92,92,92,0,0
+snapshot.py (current),edit,menu_page_removed,92,92,92,0,0
+snapshot.py (current),edit,paid_for_by_changed,80,80,80,0,0
+snapshot.py (current),edit,sentence_added,87,87,87,0,0
+snapshot.py (current),edit,sentence_removed,88,88,87,0,0
+snapshot.py (current),edit,sentence_reworded,87,87,86,0,0
+snapshot.py (current),edit,video_changed,8,0,0,0,0
+snapshot.py (current),identity,identity,97,0,0,0,0
+snapshot.py (current),noise,attr_whitespace,97,0,0,0,0
+snapshot.py (current),noise,cookie_banner,97,0,0,49,0
+snapshot.py (current),noise,copyright_year,97,0,0,0,0
+snapshot.py (current),noise,countdown,97,0,0,33,0
+snapshot.py (current),noise,donation,97,0,0,0,0
+snapshot.py (current),noise,image_params,95,0,0,0,0
+snapshot.py (current),noise,relative_date,97,0,0,62,0
+snapshot.py (current),noise,script_style,97,0,0,0,0
+snapshot.py (current),noise,tokens_build_ids,97,0,0,0,0
+EDGI text + links + media list,edit,collapsed_text_injected,97,97,97,0,0
+EDGI text + links + media list,edit,heading_changed,93,93,93,0,0
+EDGI text + links + media list,edit,hidden_text_changed,3,3,3,0,0
+EDGI text + links + media list,edit,image_alt_changed,95,95,95,0,0
+EDGI text + links + media list,edit,image_swapped,95,95,95,0,0
+EDGI text + links + media list,edit,link_target_changed,85,85,85,0,0
+EDGI text + links + media list,edit,list_item_changed,38,38,38,0,0
+EDGI text + links + media list,edit,menu_page_added,92,92,92,0,0
+EDGI text + links + media list,edit,menu_page_removed,92,92,92,0,0
+EDGI text + links + media list,edit,paid_for_by_changed,80,80,80,0,0
+EDGI text + links + media list,edit,sentence_added,87,87,87,0,0
+EDGI text + links + media list,edit,sentence_removed,88,88,88,0,0
+EDGI text + links + media list,edit,sentence_reworded,87,87,87,0,0
+EDGI text + links + media list,edit,video_changed,8,8,8,0,0
+EDGI text + links + media list,identity,identity,97,0,0,0,0
+EDGI text + links + media list,noise,attr_whitespace,97,0,0,41,0
+EDGI text + links + media list,noise,cookie_banner,97,0,0,97,0
+EDGI text + links + media list,noise,copyright_year,97,0,0,97,0
+EDGI text + links + media list,noise,countdown,97,0,0,97,0
+EDGI text + links + media list,noise,donation,97,0,0,97,0
+EDGI text + links + media list,noise,image_params,95,0,0,0,0
+EDGI text + links + media list,noise,relative_date,97,0,0,97,0
+EDGI text + links + media list,noise,script_style,97,0,0,0,0
+EDGI text + links + media list,noise,tokens_build_ids,97,0,0,0,0
+EDGI render diff + media list,edit,collapsed_text_injected,97,0,0,0,97
+EDGI render diff + media list,edit,heading_changed,93,0,0,0,93
+EDGI render diff + media list,edit,hidden_text_changed,3,0,0,0,3
+EDGI render diff + media list,edit,image_alt_changed,95,95,95,0,0
+EDGI render diff + media list,edit,image_swapped,95,95,95,0,0
+EDGI render diff + media list,edit,link_target_changed,85,0,0,0,85
+EDGI render diff + media list,edit,list_item_changed,38,0,0,0,38
+EDGI render diff + media list,edit,menu_page_added,92,0,0,0,92
+EDGI render diff + media list,edit,menu_page_removed,92,0,0,0,92
+EDGI render diff + media list,edit,paid_for_by_changed,80,0,0,0,80
+EDGI render diff + media list,edit,sentence_added,87,0,0,0,87
+EDGI render diff + media list,edit,sentence_removed,88,0,0,0,88
+EDGI render diff + media list,edit,sentence_reworded,87,0,0,0,87
+EDGI render diff + media list,edit,video_changed,8,8,8,0,0
+EDGI render diff + media list,identity,identity,97,0,0,0,0
+EDGI render diff + media list,noise,attr_whitespace,97,0,0,77,0
+EDGI render diff + media list,noise,cookie_banner,97,0,0,0,97
+EDGI render diff + media list,noise,copyright_year,97,0,0,0,97
+EDGI render diff + media list,noise,countdown,97,0,0,0,97
+EDGI render diff + media list,noise,donation,97,0,0,0,97
+EDGI render diff + media list,noise,image_params,95,0,0,76,0
+EDGI render diff + media list,noise,relative_date,97,0,0,0,97
+EDGI render diff + media list,noise,script_style,97,0,0,0,97
+EDGI render diff + media list,noise,tokens_build_ids,97,0,0,0,97
+changedetection.io text + media list,edit,collapsed_text_injected,97,74,74,0,0
+changedetection.io text + media list,edit,heading_changed,93,93,93,0,0
+changedetection.io text + media list,edit,hidden_text_changed,3,3,3,0,0
+changedetection.io text + media list,edit,image_alt_changed,95,95,95,0,0
+changedetection.io text + media list,edit,image_swapped,95,95,95,0,0
+changedetection.io text + media list,edit,link_target_changed,85,0,0,0,0
+changedetection.io text + media list,edit,list_item_changed,38,38,38,0,0
+changedetection.io text + media list,edit,menu_page_added,92,92,92,0,0
+changedetection.io text + media list,edit,menu_page_removed,92,92,92,0,0
+changedetection.io text + media list,edit,paid_for_by_changed,80,80,80,0,0
+changedetection.io text + media list,edit,sentence_added,87,87,87,0,0
+changedetection.io text + media list,edit,sentence_removed,88,88,87,0,0
+changedetection.io text + media list,edit,sentence_reworded,87,87,87,0,0
+changedetection.io text + media list,edit,video_changed,8,8,8,0,0
+changedetection.io text + media list,identity,identity,97,0,0,0,0
+changedetection.io text + media list,noise,attr_whitespace,97,0,0,0,0
+changedetection.io text + media list,noise,cookie_banner,97,0,0,97,0
+changedetection.io text + media list,noise,copyright_year,97,0,0,97,0
+changedetection.io text + media list,noise,countdown,97,0,0,97,0
+changedetection.io text + media list,noise,donation,97,0,0,97,0
+changedetection.io text + media list,noise,image_params,95,0,0,0,0
+changedetection.io text + media list,noise,relative_date,97,0,0,97,0
+changedetection.io text + media list,noise,script_style,97,0,0,0,0
+changedetection.io text + media list,noise,tokens_build_ids,97,0,0,0,0
+snapshot.py (current) + media list,edit,collapsed_text_injected,97,97,97,0,0
+snapshot.py (current) + media list,edit,heading_changed,93,93,93,0,0
+snapshot.py (current) + media list,edit,hidden_text_changed,3,3,3,0,0
+snapshot.py (current) + media list,edit,image_alt_changed,95,95,95,0,0
+snapshot.py (current) + media list,edit,image_swapped,95,95,95,0,0
+snapshot.py (current) + media list,edit,link_target_changed,85,85,85,0,0
+snapshot.py (current) + media list,edit,list_item_changed,38,38,38,0,0
+snapshot.py (current) + media list,edit,menu_page_added,92,92,92,0,0
+snapshot.py (current) + media list,edit,menu_page_removed,92,92,92,0,0
+snapshot.py (current) + media list,edit,paid_for_by_changed,80,80,80,0,0
+snapshot.py (current) + media list,edit,sentence_added,87,87,87,0,0
+snapshot.py (current) + media list,edit,sentence_removed,88,88,87,0,0
+snapshot.py (current) + media list,edit,sentence_reworded,87,87,86,0,0
+snapshot.py (current) + media list,edit,video_changed,8,8,8,0,0
+snapshot.py (current) + media list,identity,identity,97,0,0,0,0
+snapshot.py (current) + media list,noise,attr_whitespace,97,0,0,0,0
+snapshot.py (current) + media list,noise,cookie_banner,97,0,0,49,0
+snapshot.py (current) + media list,noise,copyright_year,97,0,0,0,0
+snapshot.py (current) + media list,noise,countdown,97,0,0,33,0
+snapshot.py (current) + media list,noise,donation,97,0,0,0,0
+snapshot.py (current) + media list,noise,image_params,95,0,0,0,0
+snapshot.py (current) + media list,noise,relative_date,97,0,0,62,0
+snapshot.py (current) + media list,noise,script_style,97,0,0,0,0
+snapshot.py (current) + media list,noise,tokens_build_ids,97,0,0,0,0
