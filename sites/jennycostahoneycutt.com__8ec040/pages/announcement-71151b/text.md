@@ -1,0 +1,20 @@
+Monday, November 17, 2025
+Jenny Costa Honeycutt Announces Campaign for Congress in South Carolina’s First Congressional District
+Announcement Video Highlights Her Lifetime in the Lowcountry, Conservative Values, and Commitment to Serious Leadership
+CHARLESTON, SC – Jenny Costa Honeycutt – a lifelong Lowcountry resident, attorney, small business owner, youth sports coach, and conservative Republican leader – today announced her candidacy for Congress in South Carolina’s First Congressional District.
+Honeycutt launched her campaign with an announcement video, entitled “Running to Serve the Lowcountry,” that underscores her lifetime in the Lowcountry, her record of public service, and her commitment to delivering serious, steady conservative leadership in Washington.
+“I am running for Congress to serve the people of the Lowcountry and protect the place I have always called home and love deeply,” Honeycutt said.
+“Too many politicians are chasing headlines and clickbait instead of focusing on the issues that can make real differences for their constituents’ families.
+The Lowcountry deserves serious, solid conservative leadership in Congress – and that’s what I will provide.”
+The announcement video, released this morning across social media and on JennyCostaHoneycutt.com, showcases Honeycutt’s Lowcountry upbringing – surfing on James Island, fishing near the Morris Island Lighthouse, hunting the Dill Tract with her father, and spending weekends on Lake Moultrie with her great grandparents in Bonneau – as well as her career as an attorney and small business owner advocating for job creators.
+The video also highlights her proven conservative record in local elected office – balancing budgets, supporting law enforcement, and defending the Constitution – and her commitment to advancing the America First Agenda in Congress.
+Honeycutt has earned recognition as “Legal Elite of the Lowcountry,” a “Super Lawyer,” and an AV Preeminent rating from Martindale-Hubbell.
+Licensed to practice in South Carolina’s state and federal courts and the U.S.
+Supreme Court, she is also certified as a circuit court mediator.
+Her legal career has been defined by fierce advocacy, principled decision-making, and real-world problem solving – qualities Honeycutt says are desperately needed in Washington.
+“We need leaders focused on serving their constituents, support small businesses, strengthening our economy, securing the border, protecting our families, and defending the Constitution,” Honeycutt said.
+“I would be truly humbled and honored to provide the Lowcountry with such principled, conservative, servant leadership.”
+A Member of the Charleston County Council, Jenny and her husband, Trey, live on James Island, where they have raised their three children.
+The family attends James Island Christian Church and remains actively involved in community service, including Jenny’s work with the Junior League of Charleston supporting vulnerable families.
+# # #
+Honeycutt's announcement video can be viewed and downloaded https://www.youtube.com/watch?v=HQxLtazfLYk

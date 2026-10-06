@@ -1,0 +1,37 @@
+A Longstanding Commitment to Public Safety and Law Enforcement
+Supporting law enforcement, first responders, crime victims, and those responsible for keeping our communities safe has been a consistent part of Anil’s public service long before he was elected to the State Assembly.
+A Commitment That Started Locally
+Anil’s connection to public safety began with eight years of service as a volunteer firefighter with the East Fishkill Fire District.
+That experience gave him firsthand insight into the demands placed on first responders and the importance of strong coordination between police, fire, emergency medical services, and local government.
+When Anil was later elected to the East Fishkill Town Board, he worked closely with the East Fishkill Police Department and local public safety officials.
+He publicly supported the men and women of law enforcement and helped promote initiatives such as “Hudson Valley Goes Blue,” recognizing the many roles police officers play in their communities, from responding to emergencies and mental health crises to administering Narcan and assisting families in times of crisis.
+That relationship continued as Anil sought state office.
+In 2022, he received the endorsement of the Police Conference of New York.
+Fighting for Safer Communities
+Since taking office in the State Assembly in 2023, public safety has remained a major focus of Anil’s legislative work.
+Early in his first term, he called for changes to New York’s bail laws and the restoration of greater judicial discretion.
+He has continued to support changes to criminal justice policies that he believes have made the jobs of police officers, prosecutors, correction officers, and judges more difficult, while advocating for policies that give law enforcement the tools needed to protect the public.
+Anil has introduced legislation creating an aggravated reckless endangerment offense that could qualify for bail consideration and has supported measures addressing human trafficking, repeat domestic violence offenders, and other serious crimes affecting families and communities.
+Protecting Victims and Children
+For Anil, public safety is also about preventing tragedy and protecting victims before further harm occurs.
+Following the murder of Wappinger resident Melanie Chianese, Anil worked alongside Assemblyman Brian Cunningham and Senators Michelle Hinchey and Rob Rolison on Melanie’s Law.
+The bipartisan legislation closed a gap in New York’s order-of-protection laws by expanding protections available to family and household members of domestic violence victims regardless of age.
+After allegations of abuse involving an individual working with children in the local community, Anil introduced legislation calling for stronger background checks for adults working or volunteering in private youth programs.
+He later worked with Assemblywoman Didi Barrett and Senator Michelle Hinchey on broader bipartisan legislation covering youth-serving organizations such as martial arts academies, dance studios, tutoring programs, music programs, sports facilities, and other programs entrusted with children.
+He has also supported additional measures aimed at repeat domestic violence offenders and strengthening protections for victims and families.
+Standing with Correction Officers
+With Green Haven and Fishkill correctional facilities located within the communities he represents, Anil’s public safety work has increasingly included the men and women serving inside New York’s correctional system.
+Anil serves on the Assembly Standing Committee on Correction and has maintained close relationships with correction officers and their representatives.
+He has advocated for changes to policies affecting staffing and safety inside state prisons, including reforms to the HALT Act and disciplinary procedures.
+He has also supported legislation creating an optional 20-year retirement plan for state correction officers and has consistently raised concerns about policies that place correction officers in dangerous situations without adequate staffing, resources, or protections.
+Anil’s legislative record has also included support for allowing retired New York State Police officers to serve in local departments without losing retirement benefits, as well as legislation allowing an experienced retired officer to serve as chief of the Town of Fishkill Police Department without a reduction in retirement benefits.
+Honoring Those Who Serve
+Anil has consistently worked to recognize the service and sacrifice of law enforcement officers and their families.
+His first bill to pass the State Assembly honored New York State Police Zone Sergeant James G.
+Sweeney, a former NYPD officer and State Trooper who responded to Ground Zero following the September 11 attacks and later died from a 9/11-related illness.
+Anil has also emphasized the importance of cooperation among local police departments, sheriffs, State Police, federal law enforcement, prosecutors, investigators, and intelligence agencies.
+Following the disruption of an alleged ISIS-inspired plot targeting the New York State Capitol in 2026, he formally thanked the law enforcement professionals involved and called for continued communication and intelligence sharing between agencies.
+A Continuous Record of Support
+From eight years as a volunteer firefighter, to five years in local government, to his work today in the State Assembly, public safety has remained a continuous part of Anil’s public service.
+He believes police officers, correction officers, firefighters, emergency medical personnel, investigators, prosecutors, and other public safety professionals must have the staffing, training, resources, information, legal tools, and support necessary to do their jobs safely and effectively.
+At the same time, he believes government has a responsibility to strengthen protections for victims, children, families, and communities before tragedy occurs.

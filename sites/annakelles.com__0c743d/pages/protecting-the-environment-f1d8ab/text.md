@@ -1,0 +1,18 @@
+Protecting Our Environment and Building a More Resilient Future
+Make our energy more affordable by transitioning to renewables and making polluters pay
+New York’s clean energy transition is already underway, but too often the costs are showing up in higher electric bills for households and small businesses.
+A durable transition requires a reliable revenue mechanism that places responsibility on the largest polluters, funding emissions reductions, grid upgrades, and efficiency investments without shifting costs onto everyday New Yorkers.
+An economy-wide cap-and-invest program is one such mechanism, and moving forward with clear draft regulations is necessary to launch this program in a way that delivers emissions reductions, clean energy jobs, and electric bill relief for New Yorkers.
+Create a circular economy by promoting deconstruction and reuse of building materials rather than demolition and landfilling
+New York State is set to run out of landfill space within the next 16-25 years.
+Current building practices generate enormous amounts of waste and accelerate the loss of landfill capacity by discarding materials that still have economic value.
+Shifting toward deconstruction and reuse reduces waste, lowers disposal costs, supports local reuse and materials markets, and creates skilled jobs tied to recovery and repair rather than extraction.
+Pause data center expansion and require transparency and cost accountability to protect energy affordability and environmental goals
+The rapid expansion of data centers is driving up electricity rates, straining the grid, increasing fossil fuel use, and undermining New York’s clean energy goals.
+I am advancing a coordinated approach that pauses new development while requiring transparency and cost accountability, so data centers do not shift energy, infrastructure, water, and environmental costs onto ratepayers and communities before clear standards are in place.
+Protect local ecosystems by encouraging native plants and supporting sustainable agriculture
+Native plant systems and sustainable agricultural practices protect biodiversity, improve soil and water health, and strengthen long-term farm viability.
+Supporting these practices preserves working landscapes while increasing ecological resilience.
+Support robust resilience through investment in renewable energy infrastructure and a modernized grid
+Extreme weather and prolonged outages are revealing the vulnerability of New York’s aging energy system.
+Advancing renewable generation, energy storage, high-voltage transmission, and grid modernization, as laid out in the state’s Climate Action Scoping Plan, is essential to improving reliability during emergencies and is the most cost-effective path to meeting our climate goals.

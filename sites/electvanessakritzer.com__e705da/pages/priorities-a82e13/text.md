@@ -1,0 +1,81 @@
+PRIORITIES
+As a Redmond City Councilmember, nonprofit leader, and parent, Vanessa Kritzer has focused her career on building communities that are affordable, sustainable, and inclusive.
+Her priorities for the State Legislature reflect the issues she has already been working on locally and across Washington.
+She will prioritize education, climate action, affordability, and protecting our rights at this critical time.
+Read more below about the issues Vanessa will champion and why she’s ready to hit the ground running for the district as the 45th’s new State Representative.
+Strong Schools and Opportunities for Every Child
+As a mom, Vanessa knows how important strong public schools and early learning are for families.
+She believes every child deserves access to high-quality education and is committed to supporting our kids and their families from cradle to career.
+On the Redmond City Council, Vanessa has worked to:
+- Ensure families have access to the services and support children need to succeed
+- Invested in youth mental health resources and community programs
+- Facilitated partnerships with local organizations that help students and families thrive
+In the Legislature, Vanessa will work to fully fund public education, support youth mental health, restore cut funding for childcare, parent education, and early learning, bolster public higher education, and strengthen support for educators.
+Protecting Our Environment and Tackling Climate Change
+Washington’s natural landscapes and waterways are central to our economy and quality of life, and Vanessa has spent her career working on climate and conservation at every level of government.
+She believes that we have a moral imperative to act on climate change and protect our planet for current and future generations.
+As Executive Director of the Washington Association of Land Trusts, Vanessa works with conservation organizations across the state to protect forests, conserve farmland, restore salmon habitat and other vital shorelines, support Land Back projects to return land to Tribal Nations, expand access to parks and trails, and get thousands of kids out to learn in nature.
+She has also supported strategic work to make our communities more resilient to the impacts of flooding, wildfire, and more extreme weather.
+Vanessa seeks to bring a unique perspective to the state legislature that leverages her experience working with our state natural resource agencies, seeing how policies make an impact on the ground in our communities, and leading advocacy for funding to protect our environment and advance climate action.
+On the Redmond City Council, Vanessa has worked to:
+- Pass a comprehensive 30 year Environmental Sustainability Action Plan
+- Advance a strategy to achieve net-zero carbon emissions in city operations
+- Lead regional collaboration for salmon habitat restoration and watershed protection
+- Establish the Energy Smart Eastside and Solarize Eastside programs that bring cities across the 45th LD and greater Eastside together to help assist residents in transitioning to cleaner home energy and heating
+In the Legislature, Vanessa will work to protect Washington’s natural resources while accelerating practical solutions to address climate change.
+She brings both the urgency—and the expertise—to help Washington meet this moment.
+Building Affordable and Livable Communities
+As a working parent raising two children on the Eastside, Vanessa knows that the rising cost of living—from childcare to housing—is a real challenge for many in our community.
+On the Redmond City Council, she has worked to:
+- Expand affordable housing investments, requirements, and incentives
+- Funded new parks and recreation facilities that meet emerging community needs
+- Provide rental assistance to keep people house during the pandemic and beyond
+- Pass policies to make it easier to build more childcare facilities
+- Support human service organizations providing housing, food, legal, mental health, and culturally-responsive support to our diverse community
+- Engaged residents in creating a generational comprehensive plan for growth management and setting a collective vision to guide us through 2050
+Vanessa knows these challenges can’t be solved city by city.
+In the Legislature, she will work to scale solutions statewide—ensuring that seniors, families, and working people can afford to live in our district.
+She will also work to address property tax challenges for seniors on fixed incomes and food security for all.
+Her local action has already included:
+- Standing up for reproductive rights after Roe v.
+Wade was overturned
+- Protecting data privacy and civil liberties with local policies
+- Securing funding to support immigrants, refugees, and asylum seekers
+- Passing policies to support our LGBTQIA+ community members and affirm their rights
+In the Legislature, Vanessa will take every action necessary to protect our residents from federal threats to our democracy, reproductive rights and access to healthcare, and civil liberties, while safeguarding voting rights and democratic institutions.
+She will be a strong, visible advocate for us in Olympia.
+Defending Our Rights and Our Democracy
+At a time when our fundamental rights are under attack across the country, Washington must lead.
+Vanessa believes the state must use every tool available to protect people’s rights, safety, and dignity.
+She brings experience working on federal international human rights and immigration policy and has been an outspoken leader on City Council in defending our communities.
+Transportation and Safe Mobility
+With continued growth across the Eastside, Vanessa believes communities need safe, reliable, and multimodal transportation options.
+As Chair of the Eastside Transportation Partnership and a member of King County’s Regional Transit Committee, she has helped coordinate regional transportation solutions.
+On the City Council, Vanessa helped lead efforts to:
+- Commit Redmond to Vision Zero, reducing traffic-related fatalities and injuries
+- Expand safer bike and pedestrian infrastructure
+- Launch app-based flexible transit options to help solve first-last mile challenges including advocating for MetroFlex service and establishing the new RedLink shuttle
+- Establish a dedicated team to manage pavement, roadway health, and ADA accessibility
+- Improve transit access and regional transportation coordination
+In the Legislature, she will support investments that make it easier for people to walk, bike, take transit, and commute safely.
+She will also ensure that state investments in transportation focus on maintaining the core roadways and infrastructure projects that will help solve transportation challenges and reduce traffic across the district.
+Healthy, Safe, and Inclusive Communities
+Vanessa is passionate about ensuring everyone in our communities can feel safe, supported, and have access to the resources they need to thrive —and that starts with listening to and partnering with communities.
+Her work has focused on:
+- Scaling up behavioral health crisis response programs
+- Investing in public safety staff and resources to maintain fast response times for emergencies and address chronic issues through caseworker support
+- Establishing Redmond’s first Diversity, Equity, and Inclusion staff
+- Funding community-based organizations providing culturally responsive services and language translation support
+In the Legislature, she will continue to lead with a community-grounded approach to identify the resources most needed to promote a safe and inclusive district by investing in public safety, crisis response, and human services.
+She will work to ensure that the perspectives of those most impacted are centered in the policies and programs designed to meet their needs.
+Vanessa is also committed to taking action to end gun violence to keep our kids and communities safe.
+She will support Community Violence Intervention programs and ensure students have access to the mental health and counseling resources they need to thrive.
+Supporting Local Businesses and Strong Communities
+A former Microsoft employee with a MBA, Vanessa understands what is needed for a thriving Washington economy.
+She believes strong partnerships between government, businesses, and community organizations are key to building vibrant neighborhoods.
+As a city councilmember, she has:
+- Passed Redmond’s first Economic Stategic Plan and Tourism Strategic Plan
+- Supported small businesses during the pandemic
+- Served on the OneRedmond board, working with business leaders to promote sustainable economic development
+- Helped advance tourism, expanded local events, and established a community-based events innovation fund
+In the Legislature, Vanessa will work to support policies that help small businesses grow and succeed — including improving access to capital, supporting workforce development, reducing unnecessary barriers for entrepreneurs, and investing in thriving local business districts.

@@ -1,0 +1,15 @@
+Embedded Files
+THE POLITICIAN’S CREED
+An Oath to Restore Accountability and Trust in Public Office
+On November 17th, 2025 Dr.
+Tiffanie Tate participated in the swearing in ceremony for The Politician’s Creed.
+“The Politician’s Creed is a public oath — a commitment by a candidate or elected official to uphold the essential relationship that must exist between a politician and their constituents in order to sustain a functioning democratic republic.
+Drawn directly from the spirit of America’s Founding Documents, TPC fills a dangerous void:
+Not one of the 50 United States requires its legislators to swear an oath to act in the best interests of the people they represent.
+This absence has been exploited — giving rise to a political class too often loyal to party, donors, or ideology over the public good.
+TPC is a line in the sand.
+It is a declaration of allegiance to the people, not the party.
+It holds that public office is not a platform for self-interest, but a responsibility to protect, empower, and remain accountable to those you serve.
+If you’re a politician or candidate who believes in this duty — and will abide by the articles below — we invite you to visit The Oath of Office to learn how to join a growing movement of endorsed TPC candidates.” – The Politicians Creed
+Page updated
+Report abuse

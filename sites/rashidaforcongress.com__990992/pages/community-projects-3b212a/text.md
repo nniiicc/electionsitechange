@@ -1,0 +1,67 @@
+Securing funding for community projects in Rashida’s district
+In Congress, Rashida Tlaib has secured $68 million in federal funding for community projects across her congressional district.
+These federally funded projects include:
+Home Repair Programs for Seniors and Flood Victims: $7,150,000
+- $3,150,000 – Aging in Place Critical Home Repair Program (Southfield)
+- $2,000,000 – Enterprise Community Partners Energy Efficiency and Home Improvement Program (Detroit)
+- $1,000,000 – Cody Rouge Action Alliance Home Repair Program (Detroit)
+- $1,000,000 – After The Storm Flood Recovery Project (Metro Detroit)
+Affordable & Supportive Housing for Seniors, New Moms, and Youth Experiencing Homelessness: $5,516,279
+- $2,500,000 – Grandmont Rosedale Development Corporation Mixed-Use Affordable Senior Housing (Detroit)
+- $1,166,279 – Alternatives for Girls Dr.
+Maya Angelou Village Supportive Housing (Detroit)
+- $850,000 – Hope Apartments Supportive Youth Housing (Southfield)
+- $1,000,000 – Ruth Ellis Center Supportive Youth Housing (Highland Park)
+Health Care – Free Health Clinics and Public Health Programs: $2,777,200
+- $1,500,000 – American Indian Health & Family Services New Facility & Campus for Health and Well-being (Detroit)
+- $500,000 – Covenant Community Care for Facilities and Equipment (Detroit)
+- $281,200 – Health Unit on Davidson Avenue for the HUDA Clinic Improvement Project (Detroit)
+- $496,000 – Multi-Service Facility for Health and Human Services Project (Highland Park)
+Public Safety – Fire Stations, Trucks and Ambulances: $3,500,000
+- $2,000,000 – New Fire Station and Engine Replacement (Westland)
+- $1,000,000 – Fire Engine and Ambulance Replacement (Inkster)
+- $500,000 – Fire Station Renovation (Dearborn Heights)
+Schools, Libraries, Workforce, and Business Development: $9,076,402
+- $3,500,000 – Expansion of Service-Learning for Community Schools (Wayne, Westland)
+- $1,200,000 – Community Career Center and Green Schoolyards Project (Dearborn Heights, Dearborn)
+- $1,000,000 – ProsperUS Micro Lending Program (Inkster)
+- $850,000 – Southeast Michigan Community Alliance Work-Based Learning Program (Wayne, Westland)
+- $600,000 – Pathway to Employment Project (Detroit)
+- $500,000 – Leaders Advancing Healthy Communities Workforce Education Resource and Development Center (Dearborn)
+- $220,402 – Warrendale Multi-Cultural Neighborhood Revitalization Project (Detroit)
+- $206,000 – Library for Computer and Electronics Infrastructure Replacement and Mobile Book Services Project (Dearborn Heights)
+- $1,000,000 – Small Business Assistance & Workforce Development Project (Romulus)
+Lead Service Lines and Public Infrastructure: $20,044,170
+- $4,000,000 – Multi-City Lead Service Line Replacement Project (Wayne County)
+- $3,000,000 – Lead Service Line Replacement (Detroit)
+- $2,000,000 – Lead Service Line Replacement (Redford)
+- $2,000,000 – Deployment of High-Speed Broadband and Construction of Community Spaces by Urban Neighborhood Initiatives (Detroit)
+- $1,675,000 – Wayne County Ecorse Creek Flood Mitigation (Dearborn Heights)
+- $1,386,216 – Joe Louis Greenway West Chicago Connector (Detroit)
+- $1,092,000 – Water System Rehabilitation Project (Garden City)
+- $959,752 – Water Main Replacement Project (Lathrup Village)
+- $959,752 – Water Main and Lead Service Line Replacement (Beverly Hills)
+- $880,000 – Eldorado Water Main Replacement Project (Lathrup Village)
+- $741,450 – Rehabilitation and Upgrade of Pump Station 182 to Alleviate Flooding (Detroit)
+- $250,000 – Pedestrian and Bike Path (Franklin)
+- $250,000 – Mt.
+Vernon Street Project (Southfield)
+- $250,000 – Beverly Green Park Project (Beverly Hills)
+- $600,000 – Southfield Road Pedestrian Improvement Project (Ecorse)
+Senior, Recreation, and Community Centers: $19,857,225
+- $2,500,000 – Senior Wellness Center (Inkster)
+- $2,100,000 – Community Center Rehabilitation Project (Garden City)
+- $2,000,000 – Wellness Center (Redford)
+- $1,787,725 – Eastside Community Network Stoudamire Wellness HUB (Detroit)
+- $1,250,000 – Senior Wellness Center (Livonia)
+- $1,000,000 – Cooley High School Redevelopment Project (Detroit)
+- $850,000 – Boys and Girls Club of Southeastern Michigan Dauch Club Renovations (Detroit)
+- $850,000 – Beech Woods Parks and Wellness Trail (Southfield)
+- $850,000 – Bike/Walk Stark Road Project (Livonia)
+- $500,000 – Industrial Green Beltway (Dearborn)
+- $500,000 – Harvest River Square Community Project (Inkster)
+- $250,000 – Annex at Nankin Community Space (Westland)
+- $2,000,000 – Boys and Girls Club of Southeastern Michigan Renovations to Fauver-Martin Club (Highland Park)
+- $2,000,000 – Kessey Fieldhouse and Rouge River Boat Launch Capital Improvements (Melvindale)
+- $869,500 – Beechwood Center Renovation (River Rouge)
+- $550,000 – Goudy Park Rehabilitation (Wayne)

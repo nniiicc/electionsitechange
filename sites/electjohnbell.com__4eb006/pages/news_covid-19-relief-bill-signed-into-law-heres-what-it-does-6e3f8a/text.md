@@ -1,0 +1,68 @@
+COVID-19 Relief Package Signed Into Law.
+Here's What It Does
+After unanimous passage in the NC General Assembly, the Governor signed into law the $1.5 billion COVID-19 relief package that includes critical new resources for NC small businesses, health care providers, rural communities and K-12 schools.
+COVID-19 Policy
+The COVID-19 Recovery Act (SB 704) provides tax relief, streamlines unemployment access, increases health care flexibility and makes policy reforms in education and government operations to assist North Carolinians through the pandemic and economic shutdown.
+Key Policy Provisions
+• Extends driver's license and tag expiration deadlines
+• Allows marriage certificates, other notary services and oaths to be issued remotely.
+• Waives interest payments on state income and business taxes
+• Waives end-of-year K-12 testing requirements and school performance grades
+• Waives interest on outstanding UNC System student debt and tuition
+• Provides school calendar flexibility
+• Streamlines emergency unemployment benefits
+• Waives teacher and school administrator licensing requirements
+COVID-19 Funding
+The Pandemic Response Act (HB 1043) provides nearly $1.6 billion in funding for North Carolina's medical providers, education communities, and broadband connectivity.
+This is a significant investment that lays the groundwork for moving the state forward and responding to the economic and human impacts of this pandemic.
+The commitment goes above and beyond previous requests and includes funding for testing, tracing, immediate recovery needs, and increasing access to broadband and electronic devices to access remote learning opportunities.
+The bill also addresses both immediate needs, like purchasing personal protective equipment and expanding digital infrastructure needs, and long-term research and development to fight the virus.
+It supports testing for uninsured patients, rural and under-served communities, and behavioral health services.
+Funding Includes:
+Small Business
+• $125 million for small business loans
+K-12 Education
+• $75 million for school nutrition
+• $70 million for summer learning programs
+• $11 million to improve K-12 internet connectivity
+• $30 million to K-12 schools for computers and other electronic devices
+• $10 million for mental health and other student health services
+• $5 million for computers and other devices for school personnel
+• $4.5 million for cybersecurity at schools
+• $3 million for non-digital instruction for students with limited internet access
+• $1 million to improve internet access by installing WiFi routers in school buses
+Higher Education
+• $25 million for community colleges
+• $44 million for UNC System schools
+• $20 million for private colleges
+COVID-19 Supplies and Support
+• $50 million to enhance Personal Protective Equipment (PPE)
+• $25 million to expand testing and contact tracing
+• $25 million for financial support for assisted living facilities
+• $20 million for enhanced public health capacity
+• $20 million for behavioral health
+Rural Broadband
+• $9 million to help expand rural broadband
+Social Services
+• $19 million for foster and child care
+• $6 million for food banks
+• $5 million for community health centers
+• $5 million for free and charitable clinics
+• $1.5 million for prescriptions for uninsured
+COVID-19 Research
+• $29 million to UNC School of Public Health/NC Collaboratory
+• $20 million to Wake Forest University to expand the antibody study
+• $15 million to Duke University Human Vaccine Institute
+• $15 million to ECU Brody School of Medicine
+• $6 million to Campbell University School of Osteopathic Medicine
+Hospitals
+• $65 million to rural hospitals
+• $15 million for North Carolina teaching hospitals
+• $15 million for a general hospital relief fund
+State and Local Government
+• $300 million for local government coronavirus relief reserve
+• $50 million for rural and underserved communities
+• $100 million for counties
+• $85 million for state government operations
+• $300 million for transportation operations
+• $5 million for tourism industry support

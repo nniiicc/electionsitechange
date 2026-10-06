@@ -1,0 +1,12 @@
+Home
+Volunteer
+David Schupbach's Platform
+About David
+Contact
+Donate
+Find out what Wisconsin assembly district you are in HERE
+Register to vote HERE
+Contact
+Email: schupbach2026@gmail.com
+Connect with David on social media:
+Paid for by David Schupbach For State Assembly 2026

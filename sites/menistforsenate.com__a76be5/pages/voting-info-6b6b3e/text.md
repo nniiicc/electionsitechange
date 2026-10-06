@@ -1,0 +1,49 @@
+Election Day is June 23
+*
+Early Voting June 13 - June 21
+*
+Election Day is June 23 * Early Voting June 13 - June 21 *
+Dutchess Early voting
+Monday, June 15: Noon - 8 PM
+Tuesday, June 16: 9 AM - 5 PM
+Wednesday, June 17: Noon - 8 PM
+Thursday, June 18: 9 AM - 5 PM
+Friday, June 19: 9 AM - 5 PM
+Saturday, June 20: 9 AM - 5 PM
+Sunday, June 21: 9 AM - 5 PM
+Boardman Road Library: 141 Boardman Rd., Poughkeepsie
+Mid-Hudson Library Auditorium: 105 Market St., Poughkeepsie
+Board of Elections Training Center: 4280 Albany Post Road, Hyde Park
+Wappinger Town Hall: 20 Middlebush Road, Wappingers Falls
+Pavilion at Broookmeade: 34 Brookmeade Drive, Rhinebeck
+Cornell Cooperative Extension: 2715 Route 44, Millbook
+Fishkill Town Hall: 807 Route 52, Fishkill
+FOR MORE INFORMATION, VISIT DUTCHESS COUNTY BOARD OF ELECTIONS
+Orange Early voting
+MONDAY, JUNE 15:12 noon to 8pm
+TUESDAY, JUNE 16: Noon to 8pm
+WEDNESDAY, JUNE 17: 8am to 4pm
+THURSDAY, JUNE 18: 7am to 3pm
+FRIDAY, JUNE 19: 9am to 5pm
+SATURDAY, JUNE 20: 9am to 5pm
+SUNDAY, JUNE 21: 9am to 5pm
+Middletown Senior Center: 62 - 80 W Main St., Middletown
+Newburgh Activity Center: 401 Washington St, Newburgh
+Howard Wheat Engine Co.: 34 Owen St, Port Jervis
+Caroline Building: 23 Hatfield Lane, Goshen
+Village of Montgomery Senior Center - 36 Bridge St., Montgomery
+Monroe Town Hall: 1465 Orange Tpke., Monroe
+New Windsor Community Center: 555 Union Ave, New Windsor
+Warwick Senior Center: 132 Kings Hwy, Warwick
+FOR MORE INFORMATION, VISIT ORANGE COUNTY BOARD OF ELECTIONS
+Putnam Early voting
+Monday, June 15: 9 AM to 5 PM
+Tuesday, June 16: Noon to 8 PM
+Wednesday, June 17: 9 AM to 5 PM
+Thursday, June 18: Noon to 8 PM
+Friday, June 19: 9 AM to 5 PM
+Saturday, June 20: 9 AM to 5 PM
+Sunday, June 21: 9 AM to 5 PM
+Putnam County Board of Elections: 25 Old Route 6, Carmel NY 10512
+American Legion: 10 Cedar Street, Cold Spring NY 10516
+FOR MORE INFORMATION, VISIT PUTNAM COUNTY BOARD OF ELECTIONS

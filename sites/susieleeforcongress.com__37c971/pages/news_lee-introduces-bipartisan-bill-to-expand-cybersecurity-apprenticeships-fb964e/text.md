@@ -1,0 +1,19 @@
+Congresswoman Susie Lee and Congressman Brian Fitzpatrick introduced the bipartisan, bicameral Cyber Ready Workforce Act that would direct the U.S.
+Department of Labor to award grants to increase access to registered apprenticeship programs in cybersecurity.
+Companion legislation was introduced in the Senate by Senator Jacky Rosen and Senator Marsha Blackburn.
+“Whether you know it or not, cybersecurity is impacts all of us, from our small businesses, to utility grids, to our national security.
+But we don’t have enough talent to fill these jobs — Nevada alone is facing a shortage of nearly 4,000 cybersecurity professionals,” said Congresswoman Susie Lee.
+“That’s why I’m reintroducing bipartisan, bicameral legislation to address this shortage by creating cybersecurity apprenticeships to recruit and train a new generation of our cybersecurity workforce.
+This bill will help ensure that we don’t fall behind when it comes to cybersecurity, while putting Nevada at the forefront of the high-demand, high-impact, and high-paying jobs of the future.”
+“The continued shortage of cybersecurity professionals has exposed our nation to severe vulnerabilities, threatening our economy and national security.
+Now, more than ever, a strong cybersecurity workforce is necessary to protect our interests at home and abroad,” said Congressman Brian Fitzpatrick.
+“Our bipartisan, bicameral initiative will provide the next generation of cybersecurity experts the opportunity to gain in-demand skills for high-paying jobs here in Pennsylvania and across the nation without the burden of student loan debt, while fortifying our critical infrastructure and safeguarding our data systems.”
+“As cyberattacks become more common and complex, we need to ensure we have the workers with the training and skills necessary to protect our cyber infrastructure and Americans’ personal data,” said Senator Jacky Rosen.
+“This bipartisan legislation will help fill gaps in our cybersecurity workforce and will open the door to more good-paying, cutting edge jobs for Nevadans, regardless of whether or not they have a college degree.
+I’ll keep working across party lines to ensure our workers have the skills needed to fill the jobs of the future.”
+“With a growing number of cybersecurity job openings nationwide, America’s severe talent shortage poses a serious threat to our national security and economic growth,” said Senator Marsha Blackburn.
+“The bipartisan Cyber Ready Workforce Act would establish a grant program to expand registered apprenticeships, train Tennessee workers for these high-paying jobs, and build a stronger cybersecurity workforce through targeted support for our businesses, colleges, and nonprofits.”
+The cybersecurity field has a severe shortage in talent, with more than 500,000 current job openings in the U.S. and nearly 4,000 openings in Nevada alone.
+The Cyber Ready Workforce Act would help address this problem by establishing a new program within the Department of Labor to award competitive grants to businesses, industry and community-based organizations, workforce development boards, educational institutions, joint labor-management partnerships, and nonprofits to develop registered apprenticeship programs in cybersecurity.
+The cybersecurity registered apprenticeship program would include industry-recognized certification in cybersecurity, encourage stackable and portable credentials, and increase access to jobs in cybersecurity.
+In addition to developing curriculum and technical instruction, grant funding could be used to provide support services to apprentices, including career counseling, mentorship, and assistance with transportation, housing, and child care costs.

@@ -1,0 +1,48 @@
+NEWS & MEDIA
+- 03/09/2026
+Trustee Dave Weber selected to run for 12th Assembly seat as Keith Brown steps aside
+- 02/22/2024
+Shining a Light on Northport Village’s Sustainable Transformation: Trustee Dave Weber’s Visionary LED Street Lighting Project
+Northport Village took a bold step towards a brighter, greener future with its recent LED street lighting transformation.
+Spearheaded by Trustee Dave Weber, in collaboration with the New York Power Authority (NYPA), this visionary project showcased Northport's commitment to sustainability and innovation.
+- 02/09/2024
+Editorial: A real transformation requires respect, innovation and action
+The Northport Journal endorses Dave Weber for Mayor and Meghan Dolan for Trustee.
+Above all others, we feel these two candidates will be the most productive, hardworking, innovative and trustworthy leaders.
+We’re basing these endorsements not on campaign slogans, lawn signs or promises, but on actions these candidates have already taken within the Village.
+- 08/18/2023
+Seymour’s Boatyard added to New York’s Historic Business Preservation Registry
+“Seymour’s Boatyard and the Weber family have had a tremendous positive impact on the Northport community for many years,” said Brown.
+“It’s clear this family-owned business, which has looked out over Northport Harbor for a century, is a timeless treasure that has served Northport boaters well since its establishment.
+Congratulations to Seymour’s and the entire Weber family on this distinction!”
+- 06/21/2023
+Seymour’s Boatyard hosts Rock the Boat fundraiser, followed by free community concert
+“We want to really encourage people to purchase tickets to the event because all proceeds will go to Paws of War,” Dave Weber, boatyard owner and general manager, told the Journal.
+“Seymour’s has historically held fundraisers for first responders and veterans; this year we will have the Paws of War representatives at the event and we really want to give back so they can fulfill their mission in helping both ends of the leash.”
+- 06/14/2023
+Northport Village hires engineering firm for master plan, after trustees criticize process
+“I believe that the hiring of services or getting proposals for the master plan was a flawed system,” Weber said before the board voted on the resolution.
+The trustee expressed concerns about whether each of three businesses hand-selected to submit proposals for the job were all asked the same questions by the committee to allow for fair judgment.
+“The trustees still have not received the scope of work for any of these projects,” Weber added, suggesting that as a governmental body, it isn’t fair to give some businesses an unfair advantage and the Village should have put out for a Request For Proposal (RFP) so that each firm was working off the same information.
+“My issue is not with the firm, my issue is with the process,” Weber said.
+- 05/25/2023
+Success!
+First-ever Sunset Gala shines light on community, compassion and action
+On Friday, May 19, the Northport Journal held its inaugural Sunset Gala.
+The three-hour event celebrated people who make a positive impact on our Northport-East Northport community, “the doers and the changers, the visionaries and the voices who have stepped forward to make a difference.” And what a night it was.
+- 11/03/2022
+Northport Village Board votes 3-2 to reject proposed law change banning business sidewalk signs
+Trustee Dave Weber said sidewalk signs are no more unsafe than tree roots coming through the concrete and high curbs.
+He stated that the Village should look at enforcement as a starting point instead of jumping to a total ban.
+“If we don’t start with enforcement, we are really failing ourselves because we have the safety provisions already built into this code,” he said.
+- 09/24/2022
+Trustee’s attempt to restore outdoor music at Copenhagen Bakery rejected at Village board meeting
+At the Northport Village board of trustees meeting this past Tuesday, September 20, Trustee Dave Weber initiated a walk-on resolution that would, if approved, allow Copenhagen Bakery to continue outdoor music for the next six Saturdays, from 10am-2:30pm.
+The bakery was given a Village code violation last month, after a resident’s complaints prompted Village officials to stop the outdoor performances.
+- 03/04/2022
+Northport Village unveils new playground equipment at Scudder Beach, Harbor Park and Soper Park
+- 10/21/2021
+Village Trustee makes public statement at board meeting, calls for outside forensic audit
+“This is my platform and this is why the residents of Northport elected me to be in this seat,” said Trustee Dave Weber before reading a letter addressed to Mayor Damon McMullen aloud to the room, during the time usually allotted to his routine commissioner’s report.
+Both the mayor and Village Attorney Stu Besen stopped Weber from reading the letter – which relayed events that occurred during an executive session on September 21 – in its entirety, stating that any details related to that private meeting could not be disclosed to the public.
+- 07/29/2021

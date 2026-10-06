@@ -1,0 +1,6 @@
+Illinois State Senator Bill Cunningham and Representative Marcus Evans have introduced a bill aimed at reducing energy bills in the state and setting a 15GW energy storage deployment target.
+House Bill 3758 (HB3758) has been read into the record for the first time and referred to the assignments committee, early in the process of becoming a law in Illinois.
+The bill will have to be assigned to a substantive committee where it will be voted on, read into the record for a second time, read into the record for a third time, and voted on to be sent to the second house.
+In the second house it will go through a similar voting process before being sent to governor JB Pritzker, who can veto, veto with amendments or sign the bill into law.
+It’s worth noting that the bill could be stalled at several points in the process for further amendments and refusal to agree with the amendments made.
+Full article: https://www.energy-storage.news/illinois-legislators-introduce-bill-to-deploy-15gw-of-energy-storage/

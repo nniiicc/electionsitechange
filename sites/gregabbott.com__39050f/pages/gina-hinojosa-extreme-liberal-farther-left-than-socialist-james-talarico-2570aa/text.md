@@ -1,0 +1,21 @@
+GINA HINOJOSA: EXTREME LIBERAL – FARTHER LEFT THAN SOCIALIST JAMES TALARICO
+AUSTIN — Each session Gina Hinojosa has been in the Texas Legislature, she has been named among the top eight most progressive Democrats – even more liberal than James Talarico.
+In fact, one of those years, Hinojosa was rated the number one most liberal member.
+The radical recognition is calculated based on voting record – the one thing from which Hinojosa repeatedly hides.
+“’Unapologetic progressive’ Gina Hinojosa runs even farther to the left than James Talarico.
+Gina is lying, but her votes don’t.
+She can’t hide from the disturbing record she upheld during her 10 years in the Texas House: hiking taxes, slashing paychecks, defunding law enforcement, and supporting punishments for parents who allegedly ‘misgender’ their child.”
+– Catherine Frazier, Texans for Greg Abbott Communications Director
+Every year, Gina Hinojosa anchored the far-left socialist wing of the Democratic House caucus, according to annual rankings by Mark P.
+Jones, political science fellow at Rice University’s James A.
+Baker III Institute for Public Policy.
+Even radical socialist Democrat James Talarico did not rank as far left during his time in the Texas House of Representatives:
+85th Legislature (2017-2018) – Gina Hinojosa, #3 Most Liberal
+86th Legislature (2019-2020) – Gina Hinojosa, #1 Most Liberal (James Talarico, #25 Most Liberal)
+87th Legislature (2021-2022) – Gina Hinojosa, #4 Most Liberal (James Talarico, #28 Most Liberal)
+88th Legislature (2023-2024) – Gina Hinojosa, #6 Most Liberal (James Talarico, #16 Most Liberal)
+89th Legislature (2025-2026) – Gina Hinojosa, #8 Most Liberal (James Talarico, #29 Most Liberal)
+At the 2018 Texas Democratic Convention, Hinojosa said, “I’ve never been more proud to be a member of a party of a bunch of bleeding-heart liberals.” (Ken Herman, Austin American-Statesman, 6/24/18)
+In 2023, Hinojosa said that there was “no one more partisan” than her: “…[L]et me back up and say, there is no one more partisan than myself.
+I am chair of the House Democratic campaign committee, and I don’t shy away from my partisanship.”(Teaching Texas Podcast, 10/6/23, 17:20)
+On radical socialist Democrat James Talarico, Hinojosa said, “We are in lockstep … we are friends, and allies, and we are working very closely.”

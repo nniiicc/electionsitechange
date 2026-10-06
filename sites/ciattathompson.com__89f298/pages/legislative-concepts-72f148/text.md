@@ -1,0 +1,110 @@
+Oregon Integrated Homelessness,
+Behavioral Health & Recovery Act
+- Residential mental-health treatment
+- Substance-use disorder treatment
+- Withdrawal management and stabilization
+- Secure and intensive treatment when legally appropriate
+- Step-down and transitional recovery facilities
+- Supportive recovery housing
+- The Act would establish a coordinated continuum: Outreach → Stabilization → Treatment → Recovery → Transitional Housing → Permanent Housing Housing remains essential, but housing alone cannot treat untreated psychosis, severe addiction, or other behavioral-health conditions.
+Oregon needs both housing and treatment, matched to the needs of the individualiption text goes here
+- Oregonians should be able to see where their money goes and whether programs work.
+The Act would create a statewide homelessness and behavioral-health spending database showing:
+- State and local funding
+- Organizations receiving public dollars
+- Programs and services funded
+- Administrative and program expenditures
+- People served
+- Treatment and housing outcomes
+- Available and occupied treatment capacity
+Agencies and publicly funded providers would submit standardized quarterly performance reports.
+- Future funding decisions would incorporate measurable outcomes rather than relying primarily on dollars spent or people contacted.
+Performance measures could include:
+- Treatment completion
+- Stable housing placement
+- Housing retention
+- Reduced returns to homelessness
+- Reduced emergency-room utilization
+- Reduced repeated criminal-justice involvement
+- Treatment-bed utilization
+Programs consistently failing to meet established standards would be required to submit corrective-action plans before receiving continued or expanded funding.
+- Behavioral-health and harm-reduction programs should be located where people can access medical and treatment services while protecting children and surrounding neighborhoods.
+The Act would establish: A complete ban around K–12 schools for needle distribution programs, along with siting standards encouraging higher-intensity behavioral-health and harm-reduction services near hospitals, medical centers, treatment providers, and appropriate transportation.
+Oregon Public Safety &
+Community Response Modernization Act
+- Oregon cannot build a treatment-first system without enough places for people to receive treatment.
+Establish a statewide strategy to expand behavioral-health capacity based on documented regional need, including:
+- Residential mental-health treatment
+- Substance-use disorder treatment
+- Withdrawal management and stabilization
+- Secure and intensive treatment when legally appropriate
+- Step-down and transitional recovery facilities
+- Supportive recovery housing
+Leverage public-private partnerships, federal funding, hospitals, health systems, nonprofit providers, and qualified private providers to expand capacity rather than relying exclusively on state-operated facilities.
+- Create a coordinated continuum so people do not simply move between the street, emergency rooms, jail, shelters, and temporary programs.
+Stabilization → Treatment → Recovery → Housing → Independence Require stronger coordination among behavioral-health providers, hospitals, housing providers, counties, coordinated care organizations, recovery organizations, and other publicly funded programs.
+The objective is continuity: a person leaving one level of care should have a clear next destination whenever continued services are needed.
+- The Act would support a range of housing options, including:
+- Emergency and transitional housing
+- Recovery housing
+- Permanent supportive housing
+- Workforce and affordable housing pathways
+- Permanent independent housing
+Housing and treatment should work together rather than operate as disconnected systems.
+- Create a public statewide homelessness and behavioral-health spending database so Oregonians can see where public dollars go and what those investments produce.
+Track:
+- State and local funding
+- Organizations receiving public dollars
+- Programs and services funded
+- Administrative and program expenditures
+- People served
+- Treatment and housing outcomes
+- Treatment capacity and utilization
+Require standardized reporting so lawmakers and the public can compare programs and outcomes across Oregon.
+- Public funding should be connected to measurable performance.
+Potential measures include:
+- Treatment access and completion
+- Housing placement and retention
+- Returns to homelessness
+- Repeat emergency-system involvement
+- Treatment-bed availability and utilization
+- Successful transitions between levels of care
+Programs repeatedly failing established performance standards should move through graduated accountability: Technical Assistance → Corrective-Action Plan → Enhanced Oversight → Funding Review Major investments should also be subject to periodic independent performance and financial review.
+- Behavioral-health and harm-reduction services should be accessible while recognizing their effects on surrounding communities.
+Establish:
+- Siting standards encouraging higher-intensity behavioral-health and harm-reduction services near hospitals, medical centers, treatment providers, and appropriate transportation
+- Appropriate local input and transparency in siting decisions
+OREGON PUBLIC DEFENSE CAPACITY & ACCOUNTABILITY ACT
+- Establish a phased investment of approximately $150 million, subject to updated fiscal and workforce analysis, to rebuild Oregon's public-defense capacity.
+Funding could support:
+- Additional public-defense attorneys
+- Investigators
+- Paralegals
+- Administrative and support personnel
+- Training
+- Technology
+- Regional offices and capacity
+- Recruitment and retention initiatives
+The objective is not simply to increase spending.
+It is to increase the number of cases Oregon's public-defense system can responsibly handle.
+- Public defenders should not be required to accept workloads that prevent them from providing constitutionally adequate representation.
+Establish and enforce workload standards based on professional capacity rather than simply raw case counts.
+Workload standards should recognize the actual demands of representation, including case complexity, investigation, client communication, court appearances, motions, discovery, negotiation, and trial preparation.
+- Oregon's public-defense shortage does not affect every community equally.
+Provide targeted recruitment and retention assistance for communities where attorneys are particularly difficult to recruit or retain.
+Allow investments in regional capacity where shared infrastructure can improve access to representation across multiple communities.
+- Oregon cannot solve a long-term attorney shortage without developing the next generation of public defenders.
+Partner with Oregon law schools and other institutions to create stronger pathways into public-defense careers.
+Potential investments may support internships, training, recruitment, professional development, and other initiatives designed to bring new attorneys into public defense and keep experienced attorneys in the profession.
+- Require standardized performance reporting so lawmakers and the public can determine whether additional investment is solving the problem.
+Track:
+- Attorney capacity
+- Caseloads
+- Number of unrepresented defendants
+- Wait time for counsel
+- Regional shortages
+- Case processing
+Performance measures should focus on whether Oregon is actually increasing access to constitutionally adequate representation—not simply whether allocated money was spent.
+- Require regular reporting to the Legislature on public-defense capacity, workforce conditions, expenditures, and results.
+Major expenditures should receive independent review to determine whether investments are producing measurable increases in representation capacity.
+Future funding decisions should be informed by demonstrated workforce and representation outcomes.

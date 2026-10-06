@@ -1,0 +1,165 @@
+A vision for a better Tennessee.
+-
+Real Support for Working Families
+Paid family leave.
+Affordable child care.
+A real living wage.
+Because families deserve more than survival—they deserve stability and dignity.
+-
+Strong Public Schools
+Fully funded classrooms.
+Respected teachers.
+Honest education—not censorship and political interference.
+-
+Health Care Access
+A government that expands Medicaid, especially in rural Tennessee, and respect a woman's decisions regarding her own health.
+-
+Common-Sense Laws
+Background checks.
+Red flag laws.
+Gun locks.
+Because no parent should fear sending their child to school.
+-
+A Future Worth Fighting For
+Clean air, safe water, and climate-smart policies that protect our land—and our children.
+- Housing Relief: Use $10 Million of TANF funding to waive security deposits and ensure affordable housing for 100,000+ Tennessee families.
+- Childcare for All: Use $50 Million of TANF funding to clear the waitlist for every family, ensuring no parent has to choose between a paycheck and their child.
+- End Medical Debt: Use $10 Million of TANF funding to buy up and erase predatory debt for more than 100,000 Tennesseans.
+- Protect Reproductive Freedom: Sign an Executive Order to ensure doctors can practice women’s healthcare without the fear of prosecution or prison.
+- Stop ICE Cooperation: Stop the cooperation between the Tennessee Highway Patrol and ICE to protect our immigrant neighbors from state-sponsored harassment.
+- Restore Expert Leadership: Appoint a Commissioner of Education with classroom experience and a Commissioner of Health grounded in science.
+- Put People Over Profit: Formally notify CoreCivic that Tennessee will not renew private prison contracts, and notify Ballad Health of our intent to end the state-sanctioned monopoly in East Tennessee.
+- Keep TVA Public: Sign an Executive Order affirming that the Tennessee Valley Authority must remain a public utility that serves the people, not a privatized entity for profit.
+- Data Center Moratorium: Sign an Executive Order to advocate for a statewide data center moratorium, and work to stop state incentives for the construction of data centers.
+- Declare a Maternal Health Crisis: Mobilize immediate state resources and funding by declaring a maternal health crisis to expand access to high-quality prenatal and postpartum care.
+Not Partisanship That Divides
+An Economy That Works for Working Families
+Public Education That Works for All
+Health Care as a Right, Not a Luxury
+Support for Families, Parents, and Caregivers
+Government That Works for the People
+Environmental Stewardship for Future Generations
+Gun Safety to Protect Our Kids and Our Communities
+Protecting Reproductive Freedom and Standing Up For Marginalized Communities
+Supporting Those Who Have Served Our Country
+A Future Farmers Can Count On
+Tennesseans work hard.
+It’s time our government worked just as hard for them.
+Jerri Green will:
+- End the grocery tax, and put the tax back on corporations
+- Expand paid family and medical leave
+- Support labor rights and collective bargaining
+- Provide state grants for local energy storage to keep household electric bills from spiking in extreme weather.
+- Increase funding for affordable housing
+- Promote workforce development and vocational training
+- Invest in small businesses, especially in underserved areas
+- Make quality childcare more accessible and affordable
+- Prioritize passenger rail across the state to connect major metropolitan hubs
+- Implement pre-apprenticeship curriculum in schools
+We fund what we value—and it’s time Tennessee starts valuing public schools again.
+- Fully fund K-12 public education—not siphon dollars into unaccountable voucher schemes
+- Raise teacher pay and restore respect to the profession
+- Expand access to school counselors, nurses, and support staff
+- Protect honest, inclusive education—not censorship and political theater
+- Invest in universal pre-K, special education, and rural schools
+- Launch Public Service Year Program for high school graduates
+- Waive GED testing fees and take testing to all corners of the state
+- Start a dedicated childcare and early education fund, to include investments in afterschool and summer care programming for households making less than $75K a year
+- Ensure every public high school provides mental health screenings any parent can opt their child into
+- Set up a Special Education Equity Fund to ensure no students fall through the cracks as the Trump Administration cuts critical services for students with disabilities and special needs
+- Set up a “Teach Every Student” fellowship to encourage more teachers to go into special education
+- Use all possible medicaid dollars within schools to make sure students have the supports they need
+No one should go bankrupt or die because they live in the wrong ZIP code.
+- Expand Medicaid to cover more working families and keep rural hospitals open
+- Protect and improve TennCare
+- Defend reproductive freedom and the right to choose
+- Support maternal health equity—especially for Black women
+- Invest in mental health services and addiction recovery
+- Legalize marijuana medicinally and recreationally to increase treatment options for people with chronic illnesses and decrease reliance on opioids
+- Lower prescription drug costs for Tennessee families
+- Put an end to hidden middleman markups on medications
+- Ensure patients, not corporations, benefit from drug price savings
+- Bring transparency and accountability to prescription drug pricing
+Families are the foundation of our state.
+They deserve policies that reflect that.
+- Make child care affordable and accessible
+- Expand home visiting programs and early childhood development support
+- Provide paid leave to parents and caregivers
+- Support elder care programs for aging family members
+- Lift families out of poverty—not punish them with cruel cuts to SNAP or housing aid
+- Create a stipend program to offer free diapers to low-income parents
+- End the tax on diapers and menstrual products
+- Use TANF funds to eliminate millions in medical debt for low-income families
+The debt we owe our service members doesn’t end when the uniform comes off.
+- Renovate vacant state-owned housing into veteran-priority units
+- Coordinate with local nonprofits to increase focus on veteran homelessness prevention
+- Strengthen mental health outreach and peer-counselor networks for veterans
+- Incentivize companies to hire veterans via tax credits or apprenticeship subsidies
+- Streamline the transfer of military credentials or training into state-recognized civilian licensure
+- Foster veteran-owned business development, including by eliminating small business start-up fees for veterans
+- Reduce property taxes based on percentage of service-connected disability
+Our dinner tables depend on their hard work.
+Their livelihoods deserve our unwavering support.
+- Advocate for fair trade policies that protect Tennessee’s crops and livestock from unfair foreign competition
+- Provide targeted relief for small and midsized family farms — not corporate agribusiness
+- Ensure state-level emergency protections for farmers hit hardest by drought and market swings
+- Invest in rural infrastructure, including roads, broadband, and water systems so that farmers can grow, sell, and compete
+Transparency.
+Integrity.
+No-nonsense leadership.
+That’s how Jerri operates.
+- Launch an online “Report Card” where Tennesseans can track state contracts and grants in plain language, and see where the money goes, what it’s supposed to deliver, and whether it actually does.
+- Appoint qualified, ethical leaders—not political cronies
+- Not use special-called sessions to push political agendas
+- Fight for protections, resources, and policies that lift up marginalized communities, including Black, Immigrant, and LGBTQ+ communities, women, People of Color, and people with disabilities.
+We don’t inherit the earth from our ancestors—we borrow it from our children.
+- Protect Tennessee’s rivers, forests, farmland, and public lands from pollution and overdevelopment
+- Enforce clean air and water standards, especially in marginalized communities
+- Invest in renewable energy and green jobs
+- Prepare communities for climate resilience and disaster recovery—and won’t tie disaster relief funding to voucher schemes or other political efforts that impede efficient and life-saving response
+We can honor the Second Amendment and still pass laws that keep our children safe.
+- Require universal background checks on all gun sales
+- Implement red flag laws to prevent gun violence before it happens
+- Close domestic violence loopholes
+- Provide free gun locks and safe storage education statewide
+- Re-implement training and testing for responsible gun ownership, especially for conceal carry permits
+We will stand in the gap and fight for marginalized communities’ right to exist and thrive.
+- Repeal Tennessee’s near-total abortion ban
+- Restore access to reproductive health care, including contraception and emergency care
+- Protect IVF and miscarriage management from state interference
+- Require every public college in the state to provide for women’s health and reproductive needs
+- Fight against and veto all anti-LGBTQ+ legislation
+- Provide grant funding to non-profits serving LGBTQ+ populations to provide affordable housing, healthcare, mental health services, and more
+- Ensure there are LGBTQ+ affirming counselors in every high school
+- Expand free HIV testing by mail program statewide
+- Sign an executive order DAY ONE to end local and state law enforcement cooperation with ICE
+- End the National Guard deployment in Memphis and reject further deployments throughout the state
+- Sign an executive order to ban ICE from entering state buildings, and prevent any Governor’s administration appointees or employees from sharing personal identifying information or immigration status with federal immigration agents
+- Allocate state funds for legal representation for immigrants facing deportation and to provide know your rights information to immigrant and refugee communities
+- Issue guidance through the Department of Labor to all businesses and workers on their rights regarding ICE access to workplaces
+AI should should serve our communities—not the other way around.
+- Implement AI literacy in classrooms to teach kids to spot deepfakes and protect their mental health
+- Fine large corporations that replace 25 or more workers with AI to pay for local job retraining
+- Protect your electric bill by making sure families don’t pay for the massive power needs of AI centers
+- Save our drinking water by requiring tech companies to cool their servers with recycled water
+- Ban landlords from using AI software to coordinate and hike your rent
+- Guarantee your right to an appeal to a human if an AI denies you a job, an apartment, or medical care
+- Take back tax breaks from any company that replaces promised Tennessee jobs with robots
+- Keep AI out of our courts by banning its use in bail, sentencing, or parole decisions
+- Stop AI companies from running polluting, unpermitted power plants in our neighborhoods
+- Make AI companies put digital watermarks in their metadata to track down deceptive or illegal content
+Main Street shouldn’t have to compete with Wall Street for a seat at the table.
+- Hold regular meetings with municipal leaders to understand local priorities.
+- Advocate for local governments to retain the ability to make responsible fiscal and policy decisions based on community needs.
+- Reject state-imposed caps on local property taxes that could limit a city’s ability to maintain services and infrastructure.
+- Restoring the historic practice of sharing the final 1% of the sales tax with cities and towns.
+- Ensuring municipalities receive their fair share of state revenue.
+- Providing communities with additional resources to maintain infrastructure, fund public safety, and reduce pressure to increase property taxes.
+- CLOSE CORPORATE LOOPHOLES Tennessee families pay more taxes than wealthy corporations.
+A quarter of Tennessee’s billion-dollar corporations pay $0 in state corporate tax, missing out on an estimated $43–$57B annually.
+That revenue could eliminate the state’s $800M grocery tax many times over.
+- DEFUND THE VOUCHER SCAM Tennessee is robbing public schools of $1.1 billion over five years to fund private vouchers that largely go to wealthy families.
+That money could be used to raise teacher pay, wipe out half the school repair backlog, and increase classroom resources.
+- END HOARDING OF TANF FUNDS Tennessee is hoarding hundreds of millions in TANF funds meant to fight poverty.
+Deploying just 25% of it would wipe out medical debt for 100K Tennesseans, clear the childcare waitlist, and assist with housing security deposits.
+- LEGALIZE MARIJUANA Senator Heidi Campbell and Representative Aftyn Behn’s Pot for Potholes Act would inject $270 million annually into Tennessee’s massive infrastructure backlog while providing a lucrative new cash crop for tariff-squeezed local farmers.

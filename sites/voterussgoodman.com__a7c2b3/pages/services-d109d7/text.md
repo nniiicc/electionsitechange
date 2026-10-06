@@ -1,0 +1,22 @@
+Community Involvement
+Current Positions
+- Board of Deacons-First Baptist Church Homerville
+- Board of Directors-Clinch County Development Authority
+- Board of Directors-Georgia Blueberry Commission
+- Board of Directors-Georgia Berry Exchange
+- Board of Directors-MBG Blueberry Farmers CO-OP
+- Chairman- Governmental Affairs Committee MBG CO-OP
+- Member- Governmental Affairs Committee Georgia Fruit and Vegetable Growers Association
+- Member-Complete Count Census Committee-Clinch County
+Past Positions
+- Board of Directors-Georgia Fruits and Vegetable Growers Association
+- Board of Directors-Georgia Development Authority
+- President-Clinch County Farm Bureau Young Farmers
+- President-Clinch County Farm Bureau
+- Member-Clinch County Board of Elections
+- County Chairperson-Sonny Perdue for Governor
+- County Chairperson-Saxby Chambliss for Senate
+- County Chairperson-Buddy Carter for Congress
+- County Chairperson-Gary Black for Commissioner of Agriculture
+- County Chairperson-Brian Kemp for Secretary of State
+- South Georgia Chairperson-Brian Kemp for Governor

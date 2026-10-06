@@ -1,0 +1,21 @@
+Bucks County, PA— The educators and school employees who know Pennsylvania’s First District classrooms best are backing Brian Fitzpatrick for re-election.
+PSEA-PACE, through the National Education Association (NEA) Fund for Children and Public Education, has endorsed Fitzpatrick for another term in Congress—delivering a powerful vote of confidence from the organization representing nearly 95 percent of the public-school local associations across Bucks and Montgomery Counties.
+Within Pennsylvania’s First District, PSEA represents 11,489 public-school employees, retirees, and aspiring educators.
+Statewide, the association represents nearly 177,000 members, while the NEA is the nation’s largest labor union, representing approximately three million educators and public-school employees.
+In announcing the endorsement, PSEA President Aaron Chapin pointed directly to the relationship Fitzpatrick has built with educators and school employees throughout the district:
+“PSEA represents nearly 95% of the public school local associations in the 1st Congressional District.
+We appreciate your willingness to engage directly with our members, listen to their perspectives, and work across party lines to advance policies that support students, educators, and public schools.
+Your bipartisan approach to addressing education and labor issues has helped to ensure that the voices of public school employees are heard and considered in Congress.”
+The endorsement adds the voices of thousands of local educators and school employees to the broad coalition supporting Fitzpatrick’s campaign and his bipartisan, community-first approach to public service.
+“I am deeply honored to earn the trust of the educators and school employees who serve our children and hold our communities together,” said Fitzpatrick.
+“They see the challenges facing students before those challenges ever reach Washington.
+They know what is working, what is failing, and what our schools need to give every child a real opportunity to succeed.
+“My priority has always been to bring their voices directly into the halls of Congress, and then fight alongside them to turn their experience into action: stronger schools, safer classrooms, better support for students, and real workplace rights and protections for the people who make our public schools work.
+“This endorsement carries both extraordinary meaning and responsibility.
+I will continue to always stand with our educators, work alongside them, and fight for the resources they need, the respect they have earned, and the fundamental American promise that every child, in every community, must have every tool and opportunity they need to succeed.
+I am grateful for their confidence, and look forward to continuing our work together.”
+BACKGROUND
+Congressman Brian Fitzpatrick, a former FBI Agent and prosecutor, is seeking reelection in Pennsylvania’s First Congressional District against Bob Harvie, a former public-school teacher.
+In that context, the decision by the organizations representing nearly 95 percent of PA-1’s public-school local associations to endorse Fitzpatrick carries particular significance.
+It is not merely a recognition of his record; it is the considered judgment of the educators and school employees who understand the district’s classrooms, students, and needs firsthand—and who have worked directly with Fitzpatrick to ensure their voices are heard in Congress.
+##

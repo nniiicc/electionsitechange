@@ -1,0 +1,41 @@
+Representative LaNatra Supports Legislation Expanding Access to Primary Care
+BOSTON – Tuesday, August 4, 2026 – Representative Kathy LaNatra today announced that she supported legislation that revitalizes and invests strongly into the Commonwealth’s primary care system.
+Among its many provisions, House bill 5618 expands access to primary care, shifts the health care system toward prevention, invests in the health care workforce, supports hospitals and community health centers, improves affordability by lowering prescription drug costs, and increasing accountability across the health care system.
+An Act strengthening primary care and advancing health care affordability establishes historic primary care investment targets, creates advanced primary care payment models that reward prevention and coordinated care, expands access to innovative models of care, creates an expedited determination of need process to expand equitable care access, and strengthens oversight to ensure primary care investments actually improve access, lower costs, and support a sustainable, patient-centered health care system.
+“When primary care leads the way on patient wellness, the entire system benefits,” said State Representative Kathy LaNatra (D – Kingston).
+“This legislation will help move more of our health dollar toward high-value primary care that delivers better outcomes for patients at a lower cost.
+It invests in the care that keeps people healthy and prevents disease, it strengthens our primary care workforce to make sure every resident of the Commonwealth can access a primary care provider, and it ensures that pharmaceuticals remain accessible and affordable.
+I am also proud that biomarker access was included in this legislation, as a result of amazing grassroots advocacy by patients across the State who will benefit greatly from this change.
+Thank you to Speaker Mariano, Chairman Lawn, and Representative Kilcoyne for their leadership on these important changes.”
+Recognizing that access to care depends on having enough health care professionals, the bill invests $25 million to the Health Care Workforce Transformation Fund, providing direct funding for scholarships, student loan repayment, primary care career pathways, and workforce recruitment and retention.
+Prioritizing equity and promoting culturally-responsive care, the legislation provides competitive grants that encourage innovative care models through partnerships between colleges, vocational schools, hospitals, behavioral health providers, community health centers, and nonprofit organizations to strengthen the primary care workforce.
+Expanding the allowable uses of the Commonwealth Federal Matching and Debt Reduction Fund to help the commonwealth respond to an estimated $3.5 billion loss of federal funding, this bill strengthens the Health Safety Net and helps to stabilize hospitals our most vulnerable.
+Further, the legislation improves reimbursement for federally qualified community health centers by requiring commercial insurers to pay no less than MassHealth rates for the same services, reducing longstanding underpayment and strengthening access to health care in underserved communities.
+Transforming Primary Care through Increased Investment
+The bill establishes statewide primary care investment targets that gradually increase spending to 9% by 2030, 12% by 2033 and 15% by 2036.
+It also:
+- Creates an advanced primary care payment model and standards within DOI to support preventive care, continuity of care, and improved patient outcomes;
+- Strengthens oversight by the Health Policy Commission to ensure increased investment improves access without increasing overall health care costs or insurance premiums;
+- Requires carriers to adopt and offer a primary care payment model to primary care providers and practices; and
+- Links progress on the statewide primary care target to the existing cost growth benchmark and authorizes the Health Policy Commission (HPC) to mandate certain health care entities to file and implement a primary care commitment to improve efficiency, increase primary care investment, and control health care costs.
+Expanding Access to Community-Based Health Care
+The legislation expands access to health care by strengthening community-based providers and allowing more patients to receive care where they live.
+The bill:
+- Requires health insurers to cover mobile integrated health services, allowing patients to receive care in their homes and communities for chronic disease management, preventive care, and post-hospital follow-up;
+- Creates an expedited determination of need process for hospitals serving the commonwealth’s most vulnerable residents to expand access to primary care, behavioral health, and maternal health services in communities with unmet health care needs, allowing qualifying projects to receive priority review and decisions within 60 days; and
+- Improves reimbursement for federally qualified community health centers by requiring commercial insurers to pay no less than MassHealth rates for the same services, reducing longstanding underpayment and strengthening access in underserved communities.
+Lowering Prescription Drug Costs
+The bill also directly helps patients at the pharmacy counter, ensuring that the patient gets the full benefit of prescription drug rebates negotiated for them on their behalf at the point of sale.
+The bill also strengthens the oversight of PBMs:
+- Reduces out-of-pocket prescription drug costs by requiring most manufacturer rebates to be applied at the pharmacy counter;
+- Ensures patient payments count toward deductibles and out-of-pocket maximums, including payments made on a patient's behalf, consistent with federal law;
+- Strengthens oversight of PBMs by expanding regulation to affiliated entities within vertically integrated organizations; and
+- Improves accountability by requiring annual compliance reporting to DOI and authorizing enforcement for violations.
+Ensuring Responsible Use of Artificial Intelligence (AI)
+The bill establishes safeguards for AI in health insurance utilization review to ensure technology supports, not replaces, clinical decision-making.
+Specifically, the bill:
+- Establishes statutory definitions for AI and automated utilization review tools to reduce the administrative burden on providers;
+- Requires carriers and utilization review organizations to disclose their use of automated utilization review tools to both providers and the public, and to identify when such a tool was used in connection with an adverse determination; and
+- Authorizes DOI to promulgate regulations, oversee compliance, and enforce protections.
+The bill passed the House of Representatives 158-0 and goes back to the Senate for further consideration.
+###

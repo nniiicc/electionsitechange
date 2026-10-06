@@ -1,0 +1,51 @@
+BOBBY CHARLES DEMANDS IMMEDIATE PUBLIC RELEASE OF ISLAND INSTITUTE GRANT RECORDS, CONTRACTS, AND COMMUNICATIONS
+Republican nominee for Governor formally requests receipts, invoices, contracts involving Jason Mann, climate-documentary records, and conflict-of-interest disclosures
+AUGUSTA, Maine — Republican gubernatorial nominee Bobby Charles today formally requested the immediate public release of all records related to the Island Institute, a taxpayer-linked grant, climate documentaries, and any employment, consulting, or compensation arrangements involving Jason Mann.
+In a letter dated September 30, 2026, and addressed to Democratic nominee Hannah Pingree, Charles called on Pingree and all relevant parties to make the full record public so Maine people can review how the grant was awarded, administered, spent, and monitored.
+“Transparency is not optional when public trust is at stake,” Charles wrote.
+“Maine people have a right to know the facts, and they deserve clear answers without delay.”
+Charles, a former federal investigator, said Mainers deserve a complete accounting of any role played by Pingree, her office, affiliated organizations, consultants, vendors, or outside individuals connected to the grant, the Island Institute, or related climate-documentary work.
+Specifically, Charles is requesting the public release of:
+• all grant applications, proposals, and supporting materials;
+• all receipts, invoices, and expenditure records;
+• all contracts, agreements, memoranda of understanding, and other records involving Jason Mann;
+• all records, communications, and agreements related to climate documentaries;
+• all records concerning employment, engagement, consulting, or compensation arrangements tied to these matters;
+• all emails, letters, text messages, and other communications related to the grant or the Island Institute;
+• all reports, evaluations, and compliance documents; and
+• any conflict-of-interest disclosures or ethics-related materials connected to the grant, Jason Mann, climate documentaries, or the Island Institute.
+Charles urged Pingree and all relevant parties to release the records in full without delay so the public can review them for themselves.
+“The people of Maine deserve full transparency regarding how this grant was awarded, administered, spent, and monitored,” Charles said.
+“If there is nothing to hide, the records should be made public immediately.”
+The full text of the letter follows.
+TEXT OF LETTER
+September 30, 2026
+The Honorable Hannah Pingree
+Dear Ms.
+Pingree:
+I am formally requesting that all information, receipts, invoices, grant documents, contracts, communications, and any other records related to the Island Institute, the grant in question, Jason Mann, and any climate documentaries or related employment or engagement arrangements be made public immediately.
+The people of Maine deserve full transparency regarding how this grant was awarded, administered, spent, and monitored, including any role played by you, your office, affiliated organizations, consultants, vendors, or outside individuals connected to these matters.
+Specifically, I am requesting the public release of:
+• all grant applications, proposals, and supporting materials;
+• all receipts, invoices, and expenditure records;
+• all contracts, agreements, memoranda of understanding, and other records involving Jason Mann;
+• all records, communications, and agreements related to climate documentaries;
+• all records concerning employment, engagement, consulting, or compensation arrangements tied to these matters;
+• all emails, letters, text messages, and other communications related to the grant or the Island Institute;
+• all reports, evaluations, and compliance documents; and
+• any conflict-of-interest disclosures or ethics-related materials connected to the grant, Jason Mann, climate documentaries, or the Island Institute.
+Transparency is not optional when public trust is at stake.
+Maine people have a right to know the facts, and they deserve clear answers without delay.
+I urge you and all relevant parties to release these records in full so the public can review them for themselves.
+Sincerely,
+Bobby Charles
+Former Federal Investigator
+Candidate for Governor
+Representative of the People of Maine
+About Bobby Charles
+Bobby Charles is the Republican nominee for Governor of Maine.
+A Maine resident and attorney from Leeds who was raised in Wayne, he served in the Reagan, George H.W.
+Bush, and George W.
+Bush administrations, including as Assistant Secretary of State.
+He is running to cut crime, cut taxes, and end the nonsense in Augusta.
+Learn more at www.BobbyForMaine.com.

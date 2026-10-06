@@ -1,0 +1,87 @@
+Lynne’s Accomplishments
+Lynne is a lifelong Nebraskan with a record of service and results.
+Awards:
+- Nebraska Fraternal Order of Police - Legislator of the Year Award
+- American Physical Therapy Association/Nebraska Chapter - Legislative Leader Award
+- ARC of Nebraska - Harold Sieck Public Official of the Year
+- Fremont Public Schools - Friend of Education Award
+- Holland Children’s Movement - Honor Roll Award
+- Midland University - Alumni Achievement Award
+- Nebraska Council of School Administrators - Friend of Education Award
+- Nebraska Dental Association - Senator of the Year
+Accomplishments:
+Elected as Chair of the Education Committee by a bi-partisan group of her colleagues.
+(LB890, 2022)
+Introduced bi-partisan legislation to provide real, long-term property tax relief.
+(LB278, 2023)
+Passed a bill to make government more efficient by requiring state agencies to work together on issues like affordable and accessible housing for all Nebraskans.
+(LB444, 2017)
+Passed legislation to support first responders and their family who were injured in the line of duty.
+(LB686, 2023)
+Passed a bill to provide a retirement system so firefighters in first class cities can retire in dignity.
+(LB202, 2023); LB286, 2023)
+As a state senator, Lynne passed legislation to make healthcare more accessible.
+(LB905, 2022)
+Supported women and children by expanding resources for mental health screenings pregnant and postpartum women.
+(LB1016, 2022)
+Passed legislation to expedite the construction of the highway expressway system to boost economic development and reduce cost to the taxpayers.
+(LB998, 2018); (LB286, 2023)
+Passed a bill to increase access to mental health services.
+(LB516, 2023)
+Passed legislation to keep students safe by increasing school security.
+(LB520, 2023)
+Passed Legislation to enhance our education system to make computer science and coding classes available to all students at no cost to local taxpayers.
+(LB1102, 2020)
+Passed legislation to reimburse volunteer emergency medical care providers for fees for training.
+(LB1113, 2018)
+Introduced legislation to expand broadband to increase economic development, educational, agricultural, and healthcare opportunities in rural Nebraska.
+(LB515, 2023)
+Introduced legislation to increase resources for rural communities to expand economic development, pursue grants, and assist in workforce retention.
+Lynne Walz Supported Bills:
+LB552, 2017 – Worked to build access to mental/behavioral health services for youth.
+LB771, 2018 – Provided meals at no cost to low-income kids at school to make sure they had the food they needed to be successful
+LB800, 2018 – Worked to better integrate individuals with I/DD in our communities
+LB998, 2018 – Would have provided services to students and their parents with mental and behavioral health needs – GOVERNOR VETO
+LB251, 2019 – Provided meals at no cost to low-income kids at school to make sure they had the food they needed to be successful.
+LB571, 2019 – Created clear procedures for individuals living in or working for assisted living facilities with a grievance – PASSED
+LB572, 2019 – Provided additional oversight of assisted-living facilities to ensure our loved ones remain in safe housing.
+LB728, 2019 – Worked to make sure that all kids have access to food at school.
+LB729, 2019 – Supported farmers to transition to cover crops and improve soil health and productivity.
+LB100 (original), 2021 – Prohibited the state (Medicaid) from implementing harmful billing practices on small businesses that provide physical therapy, speech language pathology, occupational therapy, etc. – PASSED
+LB538, 2021 – Provided resources to schools to add before and after school programs so kids have a safe place to wait for their parents to get off of work.
+LB539, 2021 – Ensured that trains traveling through our communities were a safe length to prevent crashes and blocked crossings.
+LB541, 2021 – Provided a different level of support for foster parents who take in kids with complicated mental health and behavioral issues.
+LB542, 2021 – Worked to expedite the state’s expressway system that has taken decades to build.
+LB890, 2022 – Adjusted the school funding formula to provide more state dollars into school districts, to lower property taxes
+LB895, 2022 – Worked to provide transparency in prior authorization for small businesses across Nebraska in relation to the state’s Medicaid system
+LB905, 2022 – Gave direction that pregnant women and postpartum women are given depression screenings and provided referrals, if necessary – PASSED
+LB234, 2023 – Partnered with railroad companies to address blocked railroad crossings to help communities maintain access to key roads.
+LB278, 2023 – Ensured state agencies worked with each other (to pursue grants so disabled and elderly individuals can remain independent and in their homes OR to ensure that affordable housing is also accessible for elderly and disabled individuals) – PASSED
+LB286, 2023 – Provided protections to physicians who need additional support for mental wellness or fatigue without fear of losing their jobs. – PASSED
+LB358, 2023 – Worked to close the gap for low-income Nebraskans having access to dental care and keeping them out of the emergency rooms (OR Worked to help low-income Nebraskans feel confident walking into a job interview and make a better life for their families) – PASSED
+LB430, 2023 – Prohibited health insurance companies from implementing harmful billing practices on small businesses that provide physical therapy, speech language pathology, occupational therapy, etc.
+LB515, 2023 – Provided rural communities the opportunity to expand economic development, pursue grants, and assist in workforce retention.
+LB516, 2023 – Protected children in the classroom by providing infrastructure grants to all schools. – PASSED
+LB518, 2023 – Provide state funding to schools to target students experiencing specific risk factors like not meeting academic grade level, experiencing homelessness, has dyslexia, etc. with the intent to relieve property tax dollars going to the increased needs of students.
+LB519, 2023 – Waived recertification fees for teachers to help lower the financial burden of being a teacher – this portion did NOT pass
+LB520, 2023 – Worked thoughtfully with schools to eliminate barriers to computer science education – PASSED
+LB522, 2023 – Would provide more state dollars to schools based on the complicated and increased needs of students.
+LB523, 2023 – Would pull down additional federal funds to schools to help alleviate property taxes.
+LB202, 2024 – Continued to support healthcare access in rural Nebraska – PASSED
+LB1006, 2024 – Would have placed 20% of a school districts income taxes paid back into their school funding formula – currently it is at 2.23%
+LB1010, 2024 – Worked to provide sustainable, ongoing funding to the Education Future Fund
+LB1011, 2024 – Would have increased the state support for school district operated early childhood education
+LB1012, 2024 – Authorized school districts to use an existing fund toward school safety infrastructure projects
+LB1013, 2024 – Provided targeted funding to school districts to increase family engagement in schools
+LB1052, 2024 – Would have provided reimbursement to teachers in all schools for the school supplies they purchase
+LB1054, 2024 – Would have provided a similar threat notification to childcare centers as schools currently receive
+LB1055, 2024 – Would have supported school districts to update literacy instruction to improve reading comprehension and would have supported adults to get their GED’s and support adult learning to support better jobs
+LB1056, 2024 – Would have reviewed what state support in school construction projects would look like – As of 2023, Nebraska was only one of 5 states that provided no state dollars for school construction costs (so you want to talk about property taxes going up… all construction costs fall to local tax payers)
+LB1086, 2024 – Would have eliminated the Department of Health and Human Services and created three separate departments – would have supported transparency and accountability in the largest state agency
+LB1212, 2024 – Would have ensured that rail lines were following best safety practices to protect employees and communities they pass through
+LB1284, 2024 – Provided schools funding to train them in teaching computer science (rather than rely on local tax payers to foot the requirements of a state law) – PASSED
+LB1285, 2024 – Would have created a task force to support individuals with disabilities to find employment while balancing their benefits AND supporting employers find qualified employees
+LB1337, 2024 – Would have created a matching fund system with the state for school construction projects (went hand in hand with LB1056 from 2024)
+LB1338, 2024 – Created a scholarship program for 7th and 8th graders with the promise that if they graduate high school, they will have seed scholarship dollars to attend college in Nebraska
+LB1347, 2024 – Provided resources to schools to add before and after school programs so kids have a safe place to wait for their parents to get off of work
+LB1377, 2024 – Provided school districts more flexibility for training requirements to provide more local control, was introduced on behalf of Pillen

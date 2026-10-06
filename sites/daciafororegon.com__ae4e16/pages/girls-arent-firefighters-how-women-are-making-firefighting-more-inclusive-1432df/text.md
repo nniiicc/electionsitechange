@@ -1,0 +1,3 @@
+Oregon state Rep.
+Dacia Grayber, a Democrat who represents portions of Multnomah and Washington counties, was 10 years old when she turned to her volunteer firefighter dad and told him she wanted to follow in his footsteps.
+A captain standing nearby scoffed…

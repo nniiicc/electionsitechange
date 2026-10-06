@@ -1,0 +1,99 @@
+State Senate District 30
+Voters Information
+View the District 30 map, view polling locations, and find links to election related information from the Secretary of State.
+District 30 Map
+District 30 Polling Locations
+Find your polling place on the list below, or use the map for directions.
+St.
+Barnabas Church
+Senate District:
+30
+Precinct:
+3512
+3257 Post Rd, Warwick, RI 02886, USA
+Tri City Elks
+Senate District:
+30
+Precinct:
+3513
+1915 W Shore Rd, Warwick, RI 02889, USA
+Warwick Neck Elementary School
+Senate District:
+30
+Precinct:
+3514
+150 Lennox Ave, Warwick, RI 02889, USA
+Oakland Beach School
+Senate District:
+30
+Precinct:
+3515
+383 Oakland Beach Ave, Warwick, RI 02889, USA
+Park Elementary School
+Senate District:
+30
+Precinct:
+3516
+40 Asylum Rd, Warwick, RI 02886, USA
+Warwick Veterans Middle School (B)
+Senate District:
+30
+Precinct:
+3517
+2401 W Shore Rd, Warwick, RI 02889, USA
+Robertson Elementary.
+School- Door 6c
+Senate District:
+30
+Precinct:
+3518
+70 Nausauket Rd, Warwick, RI 02886, USA
+Cedar Hill Elementary School
+Senate District:
+30
+Precinct:
+3519
+35 Red Chimney Dr, Warwick, RI 02886, USA
+Scott Elementary School
+Senate District:
+30
+Precinct:
+3520
+833 Centerville Rd, Warwick, RI 02886, USA
+Cornerstone Church
+Senate District:
+30
+Precinct:
+3521
+550 Cowesett Rd, Warwick, RI 02886, USA
+Saint Gregory's Church Room 14
+Senate District:
+30
+Precinct:
+3522
+360 Cowesett Rd, Warwick, RI 02886, USA
+Potowomut Golf Club
+Senate District:
+30
+Precinct:
+3523
+439 Ives Rd, East Greenwich, RI 02818, USA
+District 30 Polling Locations
+| Polling Place | Address | Precinct | State Senate | Ward |
+|---|---|---|---|---|
+| Potowomut Golf Club | 439 Ives Rd, East Greenwich, RI 02818, USA | 3523 | 30 | 9 |
+| Saint Gregory's Church Rm. 14 | 360 Cowesett Rd, Warwick, RI 02886, USA | 3522 | 30 | 9 |
+| Cornerstone Church | 550 Cowesett Rd, Warwick, RI 02886, USA | 3521 | 30 | 9 |
+| Scott Elementary School | 833 Centerville Rd, Warwick, RI 02886, USA | 3520 | 30 | 8 |
+| Cedar Hill Elementary School | 35 Red Chimney Dr, Warwick, RI 02886, USA | 3519 | 30 | 7 |
+| Robertson Elementary School | 70 Nausauket Rd, Warwick, RI 02886, USA | 3518 | 30 | 7 |
+| Warwick Veterans Middle School | 2401 W Shore Rd, Warwick, RI 02889, USA | 3517 | 30 | 6 |
+| Park Elementary School | 40 Asylum Rd, Warwick, RI 02886, USA | 3516 | 30 | 6 |
+| Oakland Beach School | 383 Oakland Beach Ave, Warwick, RI 02889, USA | 3515 | 30 | 6 |
+| Warwick Neck Elementary School | 150 Lennox Ave, Warwick, RI 02889, USA | 3514 | 30 | 5 |
+| Tri City Elks | 1915 W Shore Rd, Warwick, RI 02889, USA | 3513 | 30 | 5 |
+| St.
+Barnabas Church | 3257 Post Rd, Warwick, RI 02886, USA | 3512 | 30 | 7 |
+Click the link above to be redirected to the Secretary of State Voter Information Center, where you can View/Update Your Voter Record, Register to Vote, Find Your Elected Officials and more.
+Click the link above to be redirected to the Secretary of State Vote from Home page, where you can find information about voting by mail.
+Click the link above to be redirected to the Secretary of State Previous Election Results page to learn about election results, upcoming elections, training and other information.

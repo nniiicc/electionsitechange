@@ -1,0 +1,14 @@
+Connect with Brenna
+Information
+Undecided voters in the Iowa Attorney General’s race need to know that Brenna Bird is fighting every day to keep Iowa safe.
+These voters fit the following profile:
+- They think Iowa is on the wrong track
+- They disapprove of the job performance of both Governor Kim Reynolds and President Trump
+- They disapprove of President Trump’s tariffs
+- They are registered as 42% independent, 25% GOP, 23% Dem
+- They are evenly split between college educated and non-college educated
+These voters need to know the following information about Brenna.
+- Attorney General Brenna Bird has led multiple legal efforts to stop big tech corporations like TikTok from targeting children with harmful social media videos and stop predators from sexually exploiting children online.
+- Attorney General Brenna Bird is fighting large crypto ATM companies to stop them from continuing to scam Iowa seniors through phony transactions at crypto ATMs in violation of the Iowa Consumer Fraud Act
+- As Iowa attorney general, Brenna Bird launched a new cold case unit.
+This unit has made incredible discoveries that have led to multiple arrests in Iowa murder cases long considered unsolvable.

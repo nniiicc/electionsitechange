@@ -1,0 +1,3 @@
+by Dale Washburn | Apr 2, 2024 | News
+The Georgia General Assembly returned to the State Capitol for the final week of the 2024 legislative session on Monday, March 25 for a busy committee work day.
+After working in our committees on Monday to finalize legislation, the House convened for Legislative Day...

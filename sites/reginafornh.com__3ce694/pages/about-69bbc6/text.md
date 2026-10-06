@@ -1,0 +1,34 @@
+About Regina
+Regina Birdsell has dedicated much of her life to public service — first in uniform, then in her community, and today as Majority Leader of the New Hampshire State Senate.
+Regina comes from a military family and followed the tradition of public service set by her father, a retired U.S.
+Army Lieutenant Colonel.
+After graduating from Thomas Dale High School in Chester, Virginia, Regina joined the United States Coast Guard, serving at duty stations in Portsmouth, Virginia; Petaluma, California; and Boston, Massachusetts.
+After completing 10 years of military service, Regina began her civilian career at Raytheon Company in Lexington, Massachusetts.
+Starting as an Administrative Assistant, she eventually moved into employee benefits and human resources.
+While working full time, Regina returned to school, earning an Associate Degree in Business from Northern Essex Community College before transferring to Merrimack College, where she earned her Bachelor’s Degree in Business Management in 1993.
+Regina later transferred to Raytheon’s Semiconductor Division in Andover, Massachusetts, where she was promoted to Human Resources Generalist.
+She subsequently entered the contract recruiting field, recruiting talented employees for high-tech companies including Applied Materials, NEXX Systems, and Teradyne.
+Regina’s political career began as a volunteer for Senator John McCain’s 2008 presidential campaign.
+She quickly became active in the New Hampshire Republican Party, working to elect Republican candidates throughout Rockingham County and across New Hampshire.
+She is a graduate of the 2009 Vesta Roy Leadership Series and received the Rockingham County Republican Committee’s Norris Cotton Award in 2010.
+In 2012, her fellow Republicans elected her Chair of the Rockingham County Republican Committee.
+Regina made the transition from grassroots activist to elected official in 2010, when voters elected her to the New Hampshire House of Representatives.
+She represented Hampstead and Kingston and served on the House Election Law Committee from 2011 through 2014.
+In 2014, Regina was elected to the New Hampshire State Senate, where she has represented District 19 — Derry, Hampstead, and Windham — since 2015.
+After years of taking on increasing leadership responsibilities in the Senate Republican Caucus, Regina was selected to serve as Senate Majority Leader for the 2025–2026 legislative session.
+As Majority Leader, Regina has helped lead a Republican Senate majority focused on maintaining New Hampshire’s tradition of responsible government while addressing the issues that have the greatest impact on Granite State families.
+Working with Senate President Sharon Carson and her Republican colleagues, Regina has helped advance a legislative agenda centered on fiscal responsibility, public safety, education, housing, health care and mental health services, support for veterans, and protecting New Hampshire taxpayers.
+One of the most consequential responsibilities of the past two years was crafting a balanced state budget in a challenging fiscal environment.
+Regina and the Senate Republican Caucus worked to restore and protect funding for critical services while maintaining a commitment to fiscal discipline and avoiding broad-based tax increases.
+Regina currently serves on the influential Senate Finance Committee and the Senate Health and Human Services Committee, where she continues to play a direct role in shaping the state budget and policies affecting health care, mental health, children, families, and New Hampshire’s most vulnerable residents.
+Her military service continues to shape Regina’s priorities in public office.
+She remains particularly committed to New Hampshire’s veterans, active-duty military members, first responders, and their families.
+She has participated in Soldiers’ Angels and the Pease Greeters, welcoming home service members returning from overseas and seeing off those preparing to deploy.
+She has also served on the board of Homeland Heroes.
+Outside of public service, Regina has been active in the Independent Human Resource Consultants Association, where she served as Director of Marketing and as President.
+A longtime animal lover, she was also involved with Poodle Rescue of New England and served as a foster home for abandoned poodles.
+Regina resides in Hampstead with her husband, Mark Skelly.
+They have two adult children and are proud grandparents.
+When she is not at the State House or working in her district, Regina enjoys spending time with her family and her standard poodles.
+From her decade of service in the United States Coast Guard to her work in the New Hampshire Legislature, Regina has built her career around a simple commitment: serving her community, protecting New Hampshire’s quality of life, and making sure the voices of Derry, Hampstead, and Windham are heard in Concord.
+View my New Hampshire Legislative Biography Here

@@ -1,0 +1,60 @@
+Cherokee County
+2026 CHEROKEE COUNTY ELECTIONS
+The candidates advancing to the 2026 Cherokee County general election after the May/June primaries, organized by race.
+Use the maps to identify your districts, then check the candidate lists below.
+Source: Cherokee Tribune & Georgia Secretary of State.
+State House
+GEORGIA HOUSE DISTRICTS
+Cherokee County is covered by several Georgia House districts.
+House members serve two-year terms and represent roughly 60,000 residents each.
+House District 11
+- (R)Rick Jasperse(I)
+- (D)Ryan Fountain
+House District 14
+- (R)Michell Scoggins(I)
+- (D)Bella Bautista
+House District 20
+- (R)Charlice Byrd(I)
+- (D)Jason Tanner
+House District 21
+- (R)Brad Thomas(I)
+- (D)Anthony Aragues
+House District 22
+- (R)Jordan Ridley(I)
+- (D)James Shade
+House District 23
+- (R)Bill Fincher(I)
+- (D)Rob Epstein
+House District 44
+- (R)Don Parsons(I)
+- (D)Danielle Bell
+House District 46
+- (R)John Carson(I)
+- (D)Dumont Walker
+House District 47
+- (R)Jack Miller
+- (D)Lindsay DeFranco
+GA Senate
+GEORGIA SENATE DISTRICTS
+Georgia Senate districts are larger than House districts.
+Each senator represents roughly 190,000 residents and serves a two-year term.
+Senate District 21
+- (R)Jason Dickerson(I)
+- (D)Kori Simmons
+Senate District 32
+- (R)Kay Kirkpatrick(I)
+- (D)Michael Hettig
+Senate District 56
+- (R)John Albers(I)
+- (D)Patrick Thompson
+US Congress
+US CONGRESSIONAL DISTRICTS
+Cherokee County falls within US Congressional districts that cover large portions of north Georgia.
+Members serve two-year terms in the US House of Representatives.
+US Congress District 7
+- (R)Rich McCormick(I)
+- (D)Tony Kozycki
+US Congress District 11
+- (R)John Cowan
+- (D)Chris Harden
+Resources

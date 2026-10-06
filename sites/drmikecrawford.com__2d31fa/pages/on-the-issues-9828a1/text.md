@@ -1,0 +1,25 @@
+Education Excellence
+Advocate for fully-funded public schools.
+• Improve support for diverse learners.
+• Ensure a full cadre of support staff, including counselors, psychologists, social workers, and nurses.
+• Promote low to no-cost post-secondary options, leveraging community colleges' early college programs and state universities.
+• Advocate for a nutritious breakfast and lunch for all students at no-cost to families.
+• Champion skilled trades training programs for diverse career paths.
+Economic Development
+• Focus on job creation within our district.
+• Support local businesses to stimulate economic growth.
+• Attract investments to foster prosperity and sustainable development.
+Healthcare Access
+• Improve the availability of quality healthcare services for all, including mental health.
+• Fight to reduce prescription drug costs.
+• Protect our safety net programs, address disparities in healthy food, and healthcare access.
+• Ensure universal access to comprehensive healthcare for all community members.
+Supporting Workers and their Families
+• Be a vocal advocate for workers' rights to organize and bargain for fair wages, working conditions, and job security.
+• Advocate for a livable minimum wage that keeps pace with inflation.
+• Bring fairness to public pension systems for a secure retirement.
+Public Safety
+• Fight for common-sense gun laws to keep them out of the hands of criminals, and protect our families.
+• Collaborate with law enforcement agencies and community organizations.
+• Ensure the safety, well-being, and equal protection of all residents by supporting community-driven strategies.
+• Foster a sense of security and trust within the community.

@@ -1,0 +1,19 @@
+Easton Retzke Joins Dr.
+Amy Acton and Democratic Leaders at Erie County Community Event
+May 22, 2026
+HURON, Ohio — Ohio House District 89 candidate Easton Retzke joined a coalition of statewide and local Democratic leaders Thursday evening for a community event in Huron focused on the future of Ohio, bringing together candidates, advocates, organizers, and residents from across Erie County and the surrounding region.
+The event featured remarks and discussions from gubernatorial candidate Amy Acton, Ohio Attorney General candidate John Kulewicz, Auditor candidate Annette Blackwell, Erie County Commissioner candidate Mindy Kayl, and Judge Myron Duhart.
+The gathering served as an opportunity for voters to meet candidates directly, hear about their priorities for Ohio, and engage in conversations about the challenges facing working families and local communities.
+Retzke, 21, addressed attendees during the evening and spoke about the importance of building an economy that works for everyday people, increasing transparency in government, and ensuring northern Ohio communities receive the attention and investment they deserve.
+“It was an honor to stand alongside such an incredible group of leaders and advocates committed to moving Ohio forward,” said Retzke.
+“People across our communities are frustrated because they feel ignored by politicians who are disconnected from the realities working families face every day.
+Whether it is rising housing costs, underfunded schools, aging infrastructure, or the lack of economic opportunities for young people, residents want leaders who are willing to listen and fight for real solutions.”
+Throughout the event, candidates discussed the importance of protecting public education, strengthening local infrastructure, expanding economic opportunity, and restoring trust in public institutions.
+Attendees also shared concerns about affordability, healthcare access, wages, and the future of Ohio’s communities as many families continue facing financial strain.
+Retzke emphasized that grassroots organizing and direct community engagement will continue to be central to his campaign for Ohio House District 89.
+Over recent months, the campaign has continued expanding outreach efforts throughout the district while building support among residents, local activists, labor supporters, and first-time voters.
+“This campaign has always been about showing up, listening to people, and making sure working families have a voice in Columbus,” Retzke said.
+“There is a growing movement across Ohio of people who are ready for a new generation of leadership focused on the issues that actually impact daily life.
+Thursday night’s event in Huron showed the energy and optimism that exists when communities come together around a shared vision for the future.”
+Residents remained after the formal program to speak directly with candidates, discuss local issues, and connect with organizers ahead of the 2026 election cycle.
+Organizers described the event as part of a broader effort to strengthen engagement with voters throughout northern Ohio and encourage greater participation in local and statewide elections.

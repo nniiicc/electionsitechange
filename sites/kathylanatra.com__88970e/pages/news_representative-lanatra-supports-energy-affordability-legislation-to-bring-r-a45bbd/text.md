@@ -1,0 +1,39 @@
+Representative LaNatra supports Energy Affordability Legislation to Bring Relief to Ratepayers
+BOSTON – Thursday, February 26, 2026 – The Massachusetts House of Representatives passed energy affordability legislation that would result in over $9 billion in savings for utility ratepayers over the next 10 years.
+The bill makes a one-time funding reduction to the Mass Save program, diverts environmental compliance payments from electricity suppliers back to residents, and positions Massachusetts to further diversify and modernize its energy grid.
+“Throughout this bitterly cold winter, I’ve heard from so many families across our district who are feeling the real pressure of rising energy costs.
+No one should be left wondering how they’re going to cover yet another increase in their utility bill,” said State Representative Kathy LaNatra (D – Kingston).
+“This legislation puts ratepayers first.
+It returns money to families, lowers costs by reexamining and improving programs that need greater accountability, and makes smart, long-term investments to diversify our energy supply with more affordable and efficient options.
+I’m grateful to Speaker Mariano for prioritizing our constituents and to Chairman Michlewitz, Chairman Cusack, and their teams for their hard work advancing this important legislation.”
+In an effort to lower energy prices in the near term, despite volatile gas and electricity prices, the House bill:
+- Reduces the Mass Save budget by $1 billion for immediate ratepayer savings, prioritizing cuts to the plan’s marketing, advertising and administrative budgets.
+Mass Save is primarily funded by utility ratepayers through a mandatory charge on their gas and electric bills.
+- The bill also tasks the Office of the Inspector General with a review of Mass Save to ensure that the program and its administrators are efficiently and effectively using ratepayer dollars.
+The report is due by July 1, 2027.
+- Returns 70 percent of Alternative Compliance Payments (ACP), which are fees paid by energy suppliers for not meeting renewable energy standards, to customers until July 1, 2029.
+- After July 1, 2029, the Department of Energy Resources (DOER), in consultation with MassCEC, mandates that 70 percent of ACP payments be returned to ratepayers in any year where money in the funds exceeds the predicted level by 2 percent and energy costs are a substantial burden to residents of the Commonwealth.
+- Reduces net metering credit amounts, which are a significant surcharge on electric bills
+- Requires distribution companies and gas companies to provide discounted rates for low-income customers and eligible moderate-income customers
+- Requires that any standard residential default service rates cannot be changed more frequently than once every six months
+- Establishes an electric rates task force to advise and make recommendations on the current and future cost of electricity in the Commonwealth with a report due by September 30, 2027
+The House bill also brings more energy onto the grid and protects the workforce during the transition to clean energy.
+The bill:
+- Expands the Commonwealth’s energy procurement authority by authorizing DOER to competitively solicit environmental attributes or energy services and negotiate and enter into long term contracts
+- Requires DOER to establish a state-led offshore wind pre-development and project acceleration program to enable the Commonwealth to partner with offshore wind developers to further the Commonwealth’s goals.
+The bill also extends from June 30, 2027 to June 30, 2029 the deadline for cost-effective long-term contracts for offshore wind energy generation.
+- Allows DOER to develop a statewide energy storage incentive program to encourage the continued development of energy storage resources connected to the electric distribution system.
+- Allows for smart solar permitting to get more projects online faster
+- Removes barriers for nuclear energy by repealing chapter 503 of the acts of 1982, which established requirements for voter approval and legislative certification of any new nuclear power plant or any facility for the disposal or storage of low level radioactive waste in the Commonwealth.
+- Allows for high voltage transmission lines on state highways
+- Requires labor peace agreements for geothermal energy projects to help support and create jobs, adds prevailing wage requirements for work on thermal energy networks, and requires transition plans for gas workers during the transition to clean energy.
+The House bill also addresses predatory practices by certain suppliers, which impact consumers while certain utilities benefit through business practices that result in higher utility costs.
+The bill:
+- Creates a real-time, online, retail residential customer bill assessment dashboard with: explanations of customer bill components; and an analysis of the benefits of certain programs, procurements and investments.
+- Adjusts the reporting requirements for electric and gas companies, transmission companies, distribution companies, suppliers and aggregators and suppliers of natural gas to require quarterly reporting.
+- Protects consumers by restricting predatory marketing practices by competitive electric suppliers by eliminating automatic renewals and variable rate contracts, by requiring more transparency for consumers, and by establishing new licensing requirements for door-to-door and telemarketing firms.
+- Allows municipalities to opt out of competitive electric supply
+- Requires utility audits and approvals for asset condition projects that are projected to cost more than $25 million
+- Requires gas companies to implement default budget billing for residential customers
+The bill passed the House of Representatives 128-27 and now goes to the Senate for consideration.
+###

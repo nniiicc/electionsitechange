@@ -1,0 +1,25 @@
+Meet Pat
+- Texas State Senator
+- Texas House of Representatives – 6 years
+- Mayor Pro Tem & City Council – 3 years
+- Military Veteran
+- Successful Business Owner
+- Defended Texas Historical Monuments
+- Pat’s first Senate Bill protected our history
+- Banned Sanctuary Cities in Texas
+- Co-sponsored SB 4, the toughest ban in the entire country!
+- Pro Life Champion
+- Co-authored HB 2 to protect life and defeat pro-abortion Wendy Davis
+- FIERCE TAXPAYER ADVOCATE
+- Sponsored Prop 4 permanently banning a Texas state income tax
+- Co-authored SB 2 significantly limiting future property taxes
+Pat Fallon, during his 8 year tenure in the Texas Legislature, has built a strong conservative record and a reputation for being a fierce and passionate advocate for Texas taxpayers.
+He’s taken the lead on issues that matter to law-abiding patriots.
+Pat’s been an unwavering champion to secure the border, enforce the ban on sanctuary cities, protect our historical monuments, support Pro-Life initiatives, safeguard the 2nd and 10th Amendments and provide property tax relief to all Texans.
+The son of public school teachers, as a young man Pat earned a scholarship to the University of Notre Dame, where was both a cadet in Air Force Reserve Officer Training Corps and a member of the 1988 National Championship Varsity Football team, under Hall of Fame Coach Lou Holtz.
+Pat served as a United States Air Force Officer and was stationed at Sheppard AFB in Wichita Falls.
+After being honorably discharged he embarked on a 25+ year successful entrepreneurial journey and now owns several companies that employ nearly 100 Americans.
+Pat served in the Texas House of Representatives for 6 years and on Frisco City Council for 3 years (when the city was in CD 4) and was Mayor Pro Tem of the city from 2011-12.
+In May of 2012 he was elected to the Texas House of Representatives, garnering 71% of the vote.
+In 2018 Pat ran for the Texas Senate and in so doing, unseated an entrenched 17-year incumbent who spent $1.5 million on his re-election bid.
+Pat won by 40%, which is the widest margin of victory against a sitting Senate incumbent in Texas History.

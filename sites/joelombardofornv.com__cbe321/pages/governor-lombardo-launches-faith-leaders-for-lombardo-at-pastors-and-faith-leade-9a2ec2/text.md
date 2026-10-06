@@ -1,0 +1,15 @@
+Governor Lombardo Launches "Faith Leaders for Lombardo" at Pastors and Faith Leaders Luncheon
+FOR IMMEDIATE RELEASE
+September 22, 2026
+Contact: press@joelombardofornv.com
+LAS VEGAS, NV - Governor Joe Lombardo launched Faith Leaders for Lombardo, a statewide coalition of pastors and faith leaders standing behind Governor Lombardo, at the Pastors and Faith Leaders Luncheon hosted by the International Church of Las Vegas (ICLV) last week.
+The luncheon brought together faith, business and community leaders from across Nevada to connect, build relationships, and discuss shared values and ways to make a positive impact in their communities.
+Attendees included pastors and ministry leaders, members of the Christian Business Network, the Ignite Women's Christian Group, and candidates for office.
+"Churches are the backbone of so many Nevada communities.
+They serve those in need, mentor our young people, and stand with neighbors in their hardest moments, and that makes them an essential part of our state.
+As sheriff, I was proud of my work to protect our churches and the people who worship in them.
+Now, as your governor, I'm proud to do it again, and to make sure the faith community always has a partner in Carson City"
+- Governor Joe Lombardo
+About Faith Leaders for Lombardo:
+The coalition is chaired by Robin Joyce, Executive Director of Olive Crest Nevada, and will serve as a way for members of Nevada's faith community to connect and stay engaged in their shared effort to re-elect Governor Lombardo.
+Faith leaders and members of the faith community interested in joining the coalition can sign up HERE.

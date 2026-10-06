@@ -1,0 +1,75 @@
+Meet DeAndrea
+In November 2020, at age 30, Senator DeAndrea Salvador made history as the youngest woman ever elected by voters to serve in the North Carolina State Senate, and currently, she is the youngest state Senator serving in the North Carolina General Assembly.
+Learn more about Senator Salvador below.
+Senator DeAndrea Newman Salvador is a fifth-generation Charlottean, and very early in her career, she became dedicated to serving her community.
+Her impassioned focus on energy efficiency, affordability, sustainability, clean air, and climate predates her time in office, and she has been acknowledged nationally as a 2018 TED Fellow, as well as the founder of a Charlotte-based organization that focused on leveraging smart technologies and tools to alleviate energy burdens.
+Senator Salvador proudly represents senate District 39 of Mecklenburg County, an area in which she has deep community ties and multi-generational heritage.
+As an elected official, Senator Salvador continues to elevate her voice in the energy sector, and since taking the oath of office in January of 2021, she has fought for, supported, introduced, and in a rare feat for a freshman senator serving in the minority party, successfully delivered upon key legislation that is reflective of the ‘all-important’ pillars that District 39 constituents, families, businesses, and community partners have communicated as being necessary to build, sustain, and elevate our quality of life and the values we share.
+Senator DeAndrea Newman Salvador is a fifth-generation Charlottean, and very early in her career, she became dedicated to serving her community.
+Her impassioned focus on energy efficiency, affordability, sustainability, clean air, and climate predates her time in office, and she has been acknowledged nationally as a 2018 TED Fellow, as well as the founder of a Charlotte-based organization that focused on leveraging smart technologies and tools to alleviate energy burdens.
+Senator Salvador proudly represents Senate District 39 of Mecklenburg County, an area in which she has deep community ties and multi-generational heritage.
+As an elected official, Senator Salvador continues to elevate her voice in the energy sector, and since taking the oath of office in January of 2021, she has fought for, supported, introduced, and in a rare feat for a freshman senator serving in the minority party, successfully delivered upon key legislation that is reflective of the ‘all-important’ pillars that District 39 constituents, families, businesses, and community partners have communicated as being necessary to build, sustain, and elevate our quality of life and the values we share.
+Professionally, Senator Salvador works in the data privacy industry-leading content, and customer education strategy, optimization, and creation for a technology-centered data privacy firm and is a Certified Information Privacy Professional, amongst other professional credentials.
+Most importantly, Senator Salvador is a devoted mother, and she and her husband Kirk are raising two (very active) boys in the Steele Creek area of Charlotte.
+As a lifelong resident of District 39, Senator Salvador’s decision to serve is grounded in the deep ties to her community and constituency — past, present, and future.
+She feels obliged to give back to the community that so graciously poured into her and serves with the relentless tenacity to bring home meaningful results that will ensure her sons and future generations will thrive in District 39.
+Scroll below for an abridged accounting of additional recognition and accomplishments to date.
+Senator Salvador remains devoted to building a brighter future for North Carolina and fighting for the ‘all-important’ quality of life pillars that matter most to her district.
+Community Presence | Awards | Accolades
+- Charlotte Business Journal 40 under 40 (2022)
+- Grist 50 (2022)
+- Honoree, Black North Carolinians in STEM, NC African American Heritage Commission | NCAAHC, a division of the N.C.
+Department of Natural and Cultural Resources (2022)
+- NC League of Conservation Voters Rising Star Award (2022)
+- Certified Information Privacy Professional, as recognized by the International Association of Privacy Professionals | IAPP (2022)
+- Freshman Chair, NC Senate Democratic Caucus (2021 – Current)
+- Clean Aire Carolina — Board Member (2018 — Current)
+- Ventureprise — Advisory Board Member
+- AACSB Influential Leader (2019)
+- Elsevier Advisory Board (2019)
+- Mecklenburg County Air Quality Commission (2019 – 2016 start)
+- TED Fellow (2018)
+- UNCC Young Alumna of the Year (2018)
+- North Carolina Sustainable Energy Association — Equity Diversity and Inclusion Award (2018)
+- SouthPark Magazine Woman to Watch (2018)
+- Charlotte Mecklenburg Black Chamber of Commerce 30 under 30 (2017)
+- U.S.
+Green Building Council, LEED Green Associate (2017)
+- Duke University, Certificate in Nonprofit Management (2015)
+Also formerly served on:
+- American Association of Blacks in Energy — Board Member
+- National Energy Affordability Coalition — Advisory Council Member
+- City of Charlotte’s Sustainable Energy Action Plan — Consulted and Contributed
+- Youth Empowered Solutions — Board Member
+- Entrepreneur’s Organization Accelerator — Member
+- Regional Internet of Things Accelerator — Member
+- EPICENTER Energy Incubator and Accelerator — Member
+Community Presence | Awards | Accolades
+- Charlotte Business Journal 40 under 40 (2022)
+- Grist 50 (2022)
+- Honoree, Black North Carolinians in STEM, NC African American Heritage Commission | NCAAHC, a division of the N.C.
+Department of Natural and Cultural Resources (2022)
+- NC League of Conservation Voters Rising Star Award (2022)
+- Certified Information Privacy Professional, as recognized by the International Association of Privacy Professionals | IAPP (2022)
+- Freshman Chair, NC Senate Democratic Caucus (2021 – Current)
+- Clean Aire Carolina — Board Member (2018 — Current)
+- Ventureprise — Advisory Board Member
+- AACSB Influential Leader (2019)
+- Elsevier Advisory Board (2019)
+- Mecklenburg County Air Quality Commission (2019 – 2016 start)
+- TED Fellow (2018)
+- UNCC Young Alumna of the Year (2018)
+- North Carolina Sustainable Energy Association — Equity Diversity and Inclusion Award (2018)
+- SouthPark Magazine Woman to Watch (2018)
+- Charlotte Mecklenburg Black Chamber of Commerce 30 under 30 (2017)
+- U.S.
+Green Building Council, LEED Green Associate (2017)
+- Duke University, Certificate in Nonprofit Management (2015)
+Also formerly served on:
+- American Association of Blacks in Energy — Board Member
+- National Energy Affordability Coalition — Advisory Council Member
+- City of Charlotte’s Sustainable Energy Action Plan — Consulted and Contributed
+- Youth Empowered Solutions — Board Member
+- Entrepreneur’s Organization Accelerator — Member
+- Regional Internet of Things Accelerator — Member
+- EPICENTER Energy Incubator and Accelerator — Member

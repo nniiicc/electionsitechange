@@ -1,0 +1,79 @@
+Effective Date: March 1, 2026
+We respect your privacy and are committed to protecting your personal information.
+This Privacy Policy explains how we collect, use, and safeguard the information you provide when signing up for text messages, newsletter updates, or volunteer communications from the Art Hodges for Senate campaign.
+Information We Collect
+When you sign up through our website, fill out a contact form, or communicate with our campaign, we may collect:
+Your name
+Your phone number (for text messages)
+Your email address (for newsletters or volunteer communications)
+Your zip code or address (if provided voluntarily)
+Any other information you choose to share with us
+How We Use Your Information
+We use the information you provide to:
+Send you campaign-related updates, news, volunteer opportunities, and announcements via text message or email
+Respond to your inquiries or support requests
+Coordinate campaign events and volunteer activities
+Comply with applicable legal and regulatory requirements
+Your Consent
+By submitting your phone number or email address, you consent to receive recurring communications from the Art Hodges for Senate campaign, including updates, alerts, and volunteer outreach.
+Message frequency may vary.
+Message and data rates may apply.
+Consent is not a condition of purchase or donation.
+We comply with the Telephone Consumer Protection Act (TCPA) and CTIA messaging guidelines.
+You may opt out at any time.
+How We Protect Your Information
+We take reasonable administrative, technical, and physical measures to protect your personal information from unauthorized access, disclosure, alteration, or misuse.
+However, no system can be 100% secure, and you provide your information at your own risk.
+Sharing Your Information
+We do not sell or rent your personal information to third parties.
+We may share your information with trusted third-party service providers who help us operate our website, send communications, manage events, or comply with legal obligations.
+These providers are required to keep your information confidential and use it only on our behalf.
+Data Retention
+We retain personal information only as long as necessary to fulfill campaign-related purposes or as required by applicable law.
+You may request that we delete your information by contacting us at the email below.
+Your Choices
+You can opt out of receiving campaign messages at any time:
+Text messages: Reply “STOP” to unsubscribe or “HELP” for more information
+Emails: Click the “unsubscribe” link at the bottom of any campaign email
+You may also contact us directly to update or remove your information from our records.
+Children’s Online Privacy Protection Act (COPPA) Compliance
+We are in compliance with the requirements of the Children’s Online Privacy Protection Act (COPPA).
+We do not knowingly collect or maintain personal information from individuals under 13 years of age.
+Our site and services are directed to individuals 18 years of age or older, and you must be at least 18 to sign up or participate in our campaign activities.
+Changes to This Policy
+We may update this Privacy Policy periodically.
+If we make material changes, we will post them on this page with a revised effective date.
+Continued use of our services after any updates constitutes your acceptance of the revised policy.
+Contact Us
+If you have questions or concerns about your privacy or this policy, please contact us at:
+info@arthodgesforsenate.com
+Mobile Terms of Service
+Last updated: August 20, 2026
+The Campaign for Art Hodges mobile message service (the “Service”) is operated by ART HODGES FOR SENATE 2026 (“Campaign for Art Hodges”, “we”, or “us”).
+Your use of the Service constitutes your agreement to these terms and conditions (“Mobile Terms”).
+We may modify or cancel the Service or any of its features without notice.
+To the extent permitted by applicable law, we may also modify these Mobile Terms at any time and your continued use of the Service following the effective date of any such changes shall constitute your acceptance of such changes.
+By consenting to Campaign for Art Hodges’ SMS/text messaging service, you agree to receive recurring SMS/text messages from and on behalf of Campaign for Art Hodges through your wireless provider to the mobile number you provided, even if your mobile number is registered on any state or federal Do Not Call list.
+Text messages may be sent using an automatic telephone dialing system or other technology.
+Promotional messages may include promotions, specials, and other marketing offers (e.g., cart reminders).
+You understand that you do not have to sign up for this program in order to make any purchases, and your consent is not a condition of any purchase with Campaign for Che Ahn.
+Your participation in this program is completely voluntary.
+We do not charge for the Service, but you are responsible for all charges and fees associated with text messaging imposed by your wireless provider.
+Message frequency varies.
+Message and data rates may apply.
+Check your mobile plan and contact your wireless provider for details.
+You are solely responsible for all charges related to SMS/text messages, including charges from your wireless provider.
+You may opt-out of the Service at any time.
+Text the single keyword command STOP to +18889965563 or click the unsubscribe link (where available) in any text message to cancel.
+You’ll receive a one-time opt-out confirmation text message.
+No further messages will be sent to your mobile device, unless initiated by you.
+If you have subscribed to other Campaign for Art Hodges mobile message programs and wish to cancel, except where applicable law requires otherwise, you will need to opt out separately from those programs by following the instructions provided in their respective mobile terms.
+For Service support or assistance, text HELP to +18889965563 or email info@arthodgesforsenate.com.
+We may change any short code or telephone number we use to operate the Service at any time and will notify you of these changes.
+You acknowledge that any messages, including any STOP or HELP requests, you send to a short code or telephone number we have changed may not be received and we will not be responsible for honoring requests made in such messages.
+The wireless carriers supported by the Service are not liable for delayed or undelivered messages.
+You agree to provide us with a valid mobile number.
+If you get a new mobile number, you will need to sign up for the program with your new number.
+To the extent permitted by applicable law, you agree that we will not be liable for failed, delayed, or misdirected delivery of any information sent through the Service, any errors in such information, and/or any action you may or may not take in reliance on the information or Service.
+We respect your right to privacy.
+To see how we collect and use your personal information, please see our Privacy Notice.

@@ -1,0 +1,8 @@
+Erica Mosca is a proud first-generation college graduate who is a former teacher, former Non-profit Founder & Executive Director and small business owner who is the first Filipina to serve in the NV State Legislature.
+Growing up in a low-income household, Mosca experienced first-hand the resilience, tenacity and promise of individuals growing up in marginalized communities and how lack of access and systems perpetuated inequitable opportunities.
+As her parents always reminded her the definition of success was helping others, Mosca joined Teach For America in 2008 in East Las Vegas after graduating Summa Cum Laude from Boston University.
+She would go on to work on policy for the Clark County School District Superintendent, earn a MEd from UNLV's College of Education and an EdM from Harvard's Graduate School of Education before using her personal savings to start a non-profit for her former students to also become first-generation college graduates and diverse leaders from the community, for the community.
+After 10 years, Mosca would leave her nonprofit, which stills continues today, in order to run for Assembly in District 14 and represent the students and families she worked alongside in East Las Vegas.
+During her freshman session Mosca passed 5 out of 6 bills into law, Chaired the AANHPI Legislative Caucus and organized regular community members to visit Carson City weekly.
+During her second session she served as the Assistant Majority Leader, Chair of Legislative Operations & Elections Committee and Chair of the Health & Human Services budget subcommittee on Ways & Means.
+She is a proud military spouse, parent to two newly adopted brothers ages 5 & 7 and is proud to be a values-driven leader who never forgets where she comes from.

@@ -1,0 +1,2 @@
+| | Congressional Issues 2010 SOCIETY The Myth of "Separation of Church and State" | | Kevin Craig opposes the modern myth of "separation of church and state." The real meaning of the modern phrase is "the separation of God and State." It no longer refers to "churches," or as Madison often called them, "ecclesiastical bodies." Any government that will not acknowledge itself to be under God is a government that believes it is God.
+False Religions | |

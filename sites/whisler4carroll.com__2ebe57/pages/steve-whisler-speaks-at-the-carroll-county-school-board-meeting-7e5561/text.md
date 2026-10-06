@@ -1,0 +1,1 @@
+Steve Whisler Speaks at the Carroll County School Board Meeting January 11, 2024 Listen as Steve Whisler speaks about parents' rights in regard to when or if their children will be introduced to sexually explicit content.

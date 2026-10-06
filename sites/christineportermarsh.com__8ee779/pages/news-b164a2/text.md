@@ -1,0 +1,58 @@
+IN THE NEWS
+National News
+NBC News: Lester Holt: Phoenix Is ‘The Head Of The Snake’ As DEA Cracks Down On Counterfeit Pills (November 5, 2021)
+PBS NewsHour: Fentanyl is making its way into various drugs sold in the U.S.
+Here's how it gets there (September 15, 2021)
+C-SPAN: Arizona Teacher Christine Marsh Testifies to Congress (July 11, 2018)
+New York Times: Arizona Lawmakers Cut Education Budgets.
+Then Teachers Got Angry.
+(Sept 5, 2018)
+United Federation of Teachers: From the classroom to the campaign trail (Sept 6, 2018)
+NPR: 3 Ways Education Is Influencing Arizona's Midterms (Aug 27, 2018)
+Vox: 9 states where Democrats can win back legislative control from Republicans in 2018 (Nov 6, 2018)
+Democratic Legislative Campaign Committee: State Democrats Announce the 17 seats Needed to Flip 8 Chambers This Fall (July 13, 2018)
+Washington Post: From the classroom to the campaign trail: Emboldened teachers run for office (June 2, 2018)
+Chalkboard Champions: High school English teacher Christine Marsh runs for Arizona State Senate (May 24, 2018)
+KCRW: Teachers are battling back (May 14, 2018)
+Buzzfeed News: Teachers Went On Strike.
+They're Now Running For Office (May 9, 2018)
+BBC: US teachers are angry- and they’re running for office (April 23, 2018)
+the Intercept: Teachers Threaten To Shake Up Red-State Politics (April 17, 2018)
+Mother Jones: Democrats Think They’re Poised For Huge Victories in These 10 States (April 17, 2018)
+ABC News: Frustrated teachers turn activism into candidacies for local office (April 8, 2018)
+The 1A: Podcast: Teachers Rise Up For Raises (April 3, 2018)
+Local News
+News 12: New legislation signed in Arizona to prevent fentanyl overdoses (May 19, 2021)
+AZ Central: Arizona senator who recently lost her son to a fentanyl overdose wants legislative action (February 18, 2021)
+Fox 10 Phoenix: Educators running for office in the post #RedforED era (Aug 20, 2018)
+Cronkite News: Invest in Ed files petitions to get on November ballot (Jul 5, 2018)
+Scottsdale Independent: Cactus Shadows High School teacher, students win 2018 Ninth Circuit Civics Contest (Jun 6, 2018)
+AZ Capitol Times: Teacher of the year to challenge Brophy McGee (May 24, 2017)
+Cronkite News: AZ Teacher of the Year decries state of education budget (Feb 28, 2017)
+AZ Central: Arizona Teacher of the Year Christine Marsh uses White House visit to urge school support (May 5, 2016)
+Arizona Educational Foundation: 2016 Arizona Teacher of the Year Christine Marsh (Nov 19, 2015)
+Christine in the Legislature
+PBS Newshour: Fentanyl is making its way into various drugs sold in the U.S.
+Here's how it gets there (September 15, 2021)
+KTAR: Fentanyl test strip bill from Arizona lawmaker who lost son becomes law (May 19, 2021)
+AZ Family: Gov.
+Ducey signs bill to help prevent fentanyl overdoses (May 19, 2021)
+12 New: New legislation signed in Arizona to prevent fentanyl overdoses (May 19, 2021)
+Associated Press: Bill legalizing drug-testing strips heads to Ducey’s desk (May 13, 2021)
+Fox 10 Phoenix: Arizona Senate panel OK’s legalizing drug testing strips (February 18, 2021)
+KTAR: Son’s death moves Arizona senator to back legalizing fentanyl testing strips (February 26, 2021)
+AZ Family: Arizona Senate bill could help stop fentanyl overdoses (February 18, 2021)
+ABC 15: Arizona Senator Christine Marsh proposes life-saving bill after losing son to fentanyl overdose (March 1, 2021)
+In Christine's Words: Op-Eds
+AZ Central: Arizona Legislature can't wait to fix the universal school voucher mess it created (August 7, 2021)
+AZ Central: Republicans require majority support to even hear a Democrat bill.
+That's insane (March 29, 2023)
+AZ Central: Income disparity must be part of school funding debate (Dec 30, 2015)
+AZ Central: Why I stay: Teachers get to watch as 'miracles' unfold (July 2, 2015)
+AZ Central: Our Turn: Expanding vouchers is dangerous for Arizona (Jan 3, 2017)
+2016 Teacher of the Year
+Are Helping Out (October 31, 2018)
+C-SPAN: Arizona Teacher Christine Marsh Testifies to Congress (July 11, 2018)
+Phoenix Magazine: 2016 Movers & Shakers – Christine Marsh (September 22, 2016)
+12 News: Chaparral HS teacher named 2016 Arizona Teacher of the Year (November 19, 2015)
+Arizona Educational Foundation: 2016 Arizona Teacher of the Year Christine Marsh (November 19, 2015)

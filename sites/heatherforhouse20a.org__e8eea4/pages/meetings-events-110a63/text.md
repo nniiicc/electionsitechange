@@ -1,0 +1,54 @@
+Upcoming Events
+Representing you means knowing you.
+Join me at one of these upcoming events so we can engage in real conversations about what matters to you.
+Through honest, respectful conversations we can understand each other and find common sense sustainable ways to move forward.
+All are welcome.
+October
+October is going to be busy as I continue to work to meet you!
+I hope you are able to make it to one of the CANDIDATE FORUMS, or any of the MEETING VOTERS events, and our GOTV rallies with SD20 candidate Jason Lohmann.
+Thurs, Oct 1st, Welch Township Meeting 7p
+Welch Township Hall, 26419 County 7 Blvd
+Sun, Oct 4th, Community Unity Event, 1-4pm
+Hok Si La Park, Lake City
+Mon, Oct 5th, Candidate Forum 6pm
+Organizer: Lake City Chamber of Commerce and Woman’s Club of Lake City
+City Council Chambers, 205 W Center Street, Lake City
+Tues, Oct 6th, Meeting Voters, 11:30 am-12:45 pm
+MN State College Southeast, Commons Area, 308 Pioneer Road, Red Wing
+Tues, Oct 6th, Meeting Voters from Lake, Mt Pleasant, Pepin, Glasgow, & West Albany Townships, 6:30 - 7:30 pm
+Lake Township Hall, 30271 690th Street, Lake City
+Wed, Oct 7th, Meeting Voters from Florence, Wacouta, and Hay Creek Townships, 6:30-7:30 pm
+Florence Township Hall, 33915 Hwy 61 Blvd
+Thurs, Oct 8th, Meeting Voters, 11:30 am-12:45 pm
+MN State College Southeast, Commons Area, 308 Pioneer Road, Red Wing
+Tues, Oct 13th, Meeting Voters from Belle Creek, Leon, & Goodhue Townships, 6:30-7:30pm
+Belle Creek Townhall, 36500 County 7 Blvd, Goodhue
+Wed, Oct 14th, Candidate Forum, 6:30 pm
+Organizer: People's Energy Cooperative
+Conference Center, 1775 Lake Shady Avenue South, Oronoco
+Thurs, Oct 15th, Candidate Forum, 5:30 pm
+Organizer: Red Wing League of Women Voters
+Twin Bluff Middle School, 2120 Twin Bluff Rd, Red Wing
+Sat, Oct 17th, No Kings Rallies!
+Red Wing, Lake City (12-1:30), and Wabasha
+Tues, Oct 20th, Meeting Voters, 11:30 am-12:45 pm
+MN State College Southeast, Commons Area, 308 Pioneer Road, Red Wing
+Wed, Oct 21st, Meeting Voters from Vasa, Featherstone, Cannon Falls, Douglas, and Welch Townships, 6:30-7:30pm
+Vasa Community Center (tentative)
+Thurs, Oct 22nd, Meeting Voters, 11:30 am-12:45 pm
+MN State College Southeast, Commons Area, 308 Pioneer Road, Red Wing
+GET OUT the VOTE RALLIES with SD20 Candidate JASON LOHMANN
+Sat, Oct 24th, 10am-12:30pm, Red Wing, location tbd
+Sat, Oct 24th, 2-4:30pm, Lake City, Hok Si La Park
+Sun, Oct 25th, 1-3:30pm, Wabasha, location tbd
+VIRTUAL VISITS -
+Join me these Monday evenings 7:30-8:30pm, online, as we talk about the issues that matter to you!
+I’ll host both Facebook live events and Google meet events. **
+Sept 28th - Topic: Affordability - Google Meet - https://meet.google.com/ksn-xdmc-rao
+Oct 12th - Topic: tbd - Facebook Live (Link posted on FB page) https://www.facebook.com/Heather.for.House20A/
+Oct 19th - Topic: tbd - Google Meet - https://meet.google.com/ksn-xdmc-rao
+Oct 25th - Topic: Voter Questions -As you get ready to vote, what’s on your mind, what do you need to know before you vote?
+Facebook Live (Link posted on FB page) https://www.facebook.com/Heather.for.House20A/
+**Note - I want us to have honest conversations while also respecting your right to privacy so please note, the Facebook live events are public, will be recorded, and some parts of the conversation may be shared more widely on my social media.
+If that is not the forum you are comfortable with, then please join me for the Google Meet events.
+All events, unless indicated otherwise, are coordinated and hosted by the Heather for House 20A campaign.

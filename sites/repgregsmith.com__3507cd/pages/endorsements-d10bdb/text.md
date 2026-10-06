@@ -1,0 +1,106 @@
+Greg Smith Has Earned The Trust And Support Of:
+Business & Associations
+- AG-PAC
+- Alliance4Kids
+- American Council of Life Insurers
+- Ash Grove Cement
+- Associated General Contractors Committee for Action
+- AT&T
+- Bank of Eastern Oregon
+- BNSF Railway Company
+- Boardman Foods
+- Cascade Natural Gas
+- Charter Communications
+- Chevron Policy Government and Public Affairs
+- Clean Energy For Oregon PAC
+- Comcast Financial Agency Corporation
+- Credit Union Legislative Action Fund
+- Dairy PAC
+- Defend Small Business PAC
+- Equitable Housing PAC
+- Genetech USA
+- Helping Oregon Racing & Supporting Equines
+- Idaho Power
+- International Paper PAC
+- Motor Vehicle Software Corporation
+- National Rifle Association (NRA)
+- Natural Gas PAC
+- Nike Inc and Affiliates
+- Northwest Grocery Association
+- Oregon Association of Independent Accountants
+- Oregon Automobile Dealers Association
+- Oregon Bankers PAC
+- Oregon Beverage PAC
+- Oregon Business & Industry Candidate PAC
+- Oregon Cattle PAC
+- Oregon Concrete & Aggregate Producers Association (OCAPA) PAC
+- Oregon Consumer League
+- Oregon Council of National Electrical Contractors Association (NECA) PAC
+- Oregon Farm Bureau PAC
+- Oregon Food PAC
+- Oregon Forest Industries Council PAC
+- Oregon Fuel Association
+- Oregon Gun Owners (OGO)
+- OrLoggers
+- Oregon Nurseries PAC
+- Oregon Realtors PAC
+- Oregon Refuse and Recycling Association PAC
+- Oregon Restaurant PAC
+- Oregon Rural Electric Cooperative Association
+- Oregon Soft Drink PAC
+- Oregon State Council for Retired Citizens
+- Oregon Telecommunications Association PAC
+- Oregon Truck PAC
+- Oregon Winegrowers PAC
+- Oregonians For Affordable Housing
+- Oregonians For Food & Shelter PAC
+- PacifiCorp
+- People for Oregon Libraries PAC
+- Pfizer, Inc
+- Pine Gate Renewables, LLC
+- Stand For Children Oregon PAC
+- State Farm Federal PAC
+- Strategies 360 Inc
+- Sustainable Agriculture and Energy PAC
+- The Williams Companies, Inc
+- Tillamook County Creamery Association
+- TransCanada USA Services, Inc
+- Veterinarians Organized to Elect PAC
+- Waste Management
+- Willamette Valley Vineyards
+Health Care
+- Coalition For A Healthy Oregon (COHO)
+- Dentists of Oregon PAC
+- Doctors for Healthy Communities
+- Douglas County Physicians PAC
+- Foresight Ophthalmology PAC
+- Northwest Urgent Care Coalition
+- Oregon Ambulatory Surgery Center Association
+- Oregon Health Care Association PAC
+- Oregon Hospital PAC
+- Oregon Optometric Public Affairs Council
+- Oregon Pharmacists Fund
+- Oregon Right to Life
+Tribal Governments & Workers
+- CenturyLink Employees’ PAC
+- Confederated Tribes of Grand Ronde
+- Corrections PAC
+- International Union of Painters and Allied Trades District Council 5
+- Ironworkers District Council of the PNW
+- Operating Engineers Local 701
+- Oregon & Southern Idaho District Council of Laborers (LiUNA!)
+- Oregon AFL-CIO
+- Oregon AFSCME Council
+- Oregon Chiefs of Police Association
+- Oregon Education Association – People for Improvement of Education
+- Oregon Laborers PAC
+- Oregon Nurses Association
+- Oregon PERS Retirees PAC
+- Oregon School Employees Association – Voice of Involved Classified Employees
+- Oregon State Fire Fighters Council
+- Oregon State Police Officers Association
+- Oregon State Sheriffs’ Association
+- Oregonians to Maintain Community Standards
+- Portland General Electric Employee Candidate Assistance Fund
+- SMART Local 16
+- Trooper PAC

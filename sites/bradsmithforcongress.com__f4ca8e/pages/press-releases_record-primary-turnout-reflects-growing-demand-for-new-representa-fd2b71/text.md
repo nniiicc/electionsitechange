@@ -1,0 +1,23 @@
+Record Primary Turnout Reflects Growing Demand for New Representation in Wisconsin's 6th District
+MEQUON, Wis. — As the Brad Smith for Congress campaign continues reviewing returns from Wisconsin’s August 11 primary, one signal stands out: turnout points to extraordinary enthusiasm for new representation in Wisconsin’s 6th Congressional District, and the campaign believes that enthusiasm extends well beyond traditional Democratic voters.
+Preliminary, unofficial figures show more than 70,000 voters cast ballots in the Democratic primary, an increase of roughly 30% percent over the previous record for a contested Democratic primary in the 6th District.
+That record was set during the 2018 gubernatorial primary, when 55,478 voters participated.
+Official 2026 totals are still being certified.
+The level of participation is particularly significant in a district that has been represented by Republicans for more than five decades and where Democrats have often struggled to generate the turnout necessary to compete districtwide.
+For the Smith campaign, the numbers reinforce what volunteers and organizers have been seeing across the district for months: voters are engaged, paying attention, and looking for an alternative to the status quo in Washington.
+"The turnout we’re seeing shows incredible enthusiasm for new representation in the 6th District, and it’s coming from more than just Democrats," Smith said.
+"We’re taking a close look at everything this primary can teach us and applying those lessons as we build toward November.
+There is a real opportunity here to bring together Democrats, independents, and Republicans who believe working people deserve someone in Congress who will actually represent them."
+The campaign entered the primary having built a districtwide grassroots organization focused on direct voter contact, state and local official relationships, and a message centered on Wisconsin's working- and middle-class families.
+That organization will now transition to the general election with an expanded focus on voters across the political spectrum.
+Smith has consistently argued that the most important political divide facing the country is not simply Republican versus Democrat, but between working people and a political system increasingly influenced by wealthy donors and special interests.
+His campaign has focused on rebuilding the middle class, protecting Wisconsin jobs and family farms, lowering healthcare costs, strengthening public education and workforce training, and protecting Wisconsin’s natural resources.
+The campaign believes those issues provide an opportunity to reach voters who may not traditionally vote Democratic but share many of the same concerns about affordability, economic security, government accountability, the community and environmental impacts of data center development, and whether Washington is working for ordinary families.
+Smith also again thanked Amanda Bell and her supporters for their role in generating interest and participation in the Democratic primary.
+"Amanda ran a strong campaign, and the people who supported her are an important part of what comes next," Smith said.
+"Nearly 70,000 people participated in this primary because they care deeply about the future of this district.
+Now our job is to bring people together and give them a reason to believe we can accomplish something historic in November."
+The Smith campaign will continue analyzing precinct-level turnout, voter participation, geographic trends, and other data from the primary as official results are finalized.
+Those findings will help guide organizing, voter outreach, communications, and resource allocation heading into the general election.
+The campaign says its goal is not simply to consolidate Democratic voters, but to build a broader coalition capable of competing throughout the 6th District.
+Smith will face Republican incumbent Glenn Grothman in the November 3 general election.

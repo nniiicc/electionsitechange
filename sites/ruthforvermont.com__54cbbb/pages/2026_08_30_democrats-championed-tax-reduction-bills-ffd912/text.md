@@ -1,0 +1,23 @@
+Note: This op-ed appeared in the August 27, 2026 edition of the Addison Independent, under their title: Taking credit for other’s work; Dems led Vermont’s tax reductions; Scott signed the bill.
+Last week, the Vermont Tax Department released the results of 2025 Act 71, the 2025 Tax Relief Package that lowered taxes for more than 62,000 Vermonters, providing nearly $10 million in income tax credits and exclusions for young families, seniors, low-income filers, veterans, and military retirees.
+Act 71 expands the child tax credit and earned income tax credit, increases the exemption on Social Security benefits, creates an exemption for some military retirement benefits, and creates a credit for low-income veterans.
+While the Governor is eager to take credit and claim that he and Republican legislators were responsible for this tax relief package, in fact, I was the lead sponsor of Act 71, initiating legislation to provide tax relief to Vermonters.
+The full tax relief package included in Act 71 was debated and crafted by the Democratic majority in the Legislature, particularly House Ways & Means and the Senate Finance Committee, where I serve.
+The Governor’s claim that such tax relief is due to the presence of more Republican legislators is inaccurate at best, and clearly an instance of Phil Scott “playing politics,” despite his continued insistence that he never does so.
+Act 71 was a Democratic bill passed by a Democratic legislature.
+The tax relief in Act 71 also builds on the 2022 Tax Relief Package, 2022 Act 138, which has provided Vermonters nearly $40 million in annual tax relief over the past four years.
+The even larger tax relief package in Act 138 was also crafted by a Democratic majority in the Legislature, especially House Ways & Means and the Senate Finance Committee, where I served.
+Most significantly, Act 138 created the Vermont Child Tax Credit, a policy championed by Democrats that provides money to parents of young children, a demographic that is often most in need of financial assistance.
+Both the 2022 and 2025 Tax Relief Packages were spearheaded, crafted, and passed by the Democratic majorities in the Legislature.
+Democrats have long been champions for fair and effective tax policies that provide targeted help to low-, moderate-, and middle-income Vermonters who may be struggling to raise a family and care for loved ones, balance work & school, or age in their homes.
+This year, the Democratic majority in the Legislature also focused tax relief on Vermonters who need it most.
+We reauthorized the down-payment assistance tax credit program to help moderate-income Vermonters purchase a home.
+We expanded the Vermont Research & Development Tax Credit for small businesses to invest in improving their products, making it the most generous such program in the nation.
+At my urging, we expanded the renter credit so Vermonters who do not own their homes will benefit from financial assistance during this tight rental market.
+We expanded the property tax credit program so more low-income Vermonters will be exempt from property taxes.
+This $9.3 million in targeted tax relief is on top of the $100 million in overall property tax relief the Democratic majority provided this year to buy-down the education property tax rate.
+The Democratic majority in the Vermont Legislature has passed beneficial tax relief policies, while also meeting our obligations to fund a responsible, balanced state budget that provides Vermonters with essential services, during a time when Republican policies at the federal level are increasing costs for Vermonters across the board.
+While there is definitely more work to be done, as data from the Vermont Tax Department highlights, the 2025 Tax Relief Package, spearheaded by me and other Democrats, is already helping Vermonters make ends meet during these turbulent times.
+I look forward to returning to Montpelier in 2027 with a Democratic majority so we can continue to help Vermonters get essential services while increasing affordability—and we will see if Governor Scott is back to take credit for our work.
+Discover more from Ruth for Vermont
+Subscribe to get the latest posts sent to your email.

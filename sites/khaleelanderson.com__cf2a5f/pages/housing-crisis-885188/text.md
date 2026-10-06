@@ -1,0 +1,3 @@
+Addressing The Housing Crisis
+As an advocate and activist on behalf of Assembly District 31 residents that are both homeowners and renters, I am dedicated to continuing to fight for housing justice that will ensure that Assembly District 31 residents and all New Yorkers are guaranteed housing and a dignified quality of life.
+I believe that we should give housing vouchers to all New Yorkers so that everyone has a place to live and am committed to continuing to introduce and co-sponsor legislation and promote community initiatives that will ensure tenant protections and eliminate roadblocks to Black and brown homeownership.

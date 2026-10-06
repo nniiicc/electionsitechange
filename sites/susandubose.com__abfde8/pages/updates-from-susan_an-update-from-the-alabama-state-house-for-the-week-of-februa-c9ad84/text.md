@@ -1,0 +1,148 @@
+An Update from the Alabama State House for the Week of February 23, 2026 - February 27, 2026
+CREATING A SECOND AMENDMENT TAX-FREE HOLIDAY
+• The last weekend in August would become a tax-free Second Amendment holiday
+weekend if legislation passed by the House on Tuesday and sponsored by State Rep.
+Chris Sells (R - Greenville) becomes law.
+• Under the provisions of House Bill 360, cartridge cases, bullets, primer, gunpowder
+shotguns, rifles, pistols, revolvers, silencers, holsters, belts, hearing protection and cas-
+es would be eligible to be tax exempt on that weekend.
+• Archery equipment would also be exempt.
+• Cities and counties would be empowered to suspend local sales taxes on the same items
+during that weekend, as well.
+• Mississippi, South Carolina, Louisiana and Florida are among the states that already
+offer tax‑free weekends for gun and ammunition purchases.
+• The bill now goes to the Senate for consideration.
+PROTECTING CHURCHES FROM UNLAWFUL PROTESTS
+• The Alabama House approved legislation by State Rep.
+Greg Barnes (R - Jasper) on
+Tuesday that creates the new crime of disrupting a church service by unlawful protest,
+riot or disorderly conduct.
+• “Some will argue that protesting is a First Amendment right, but so is the right to
+worship, and one person’s right should not infringe upon another’s,” Barnes said.
+“A quote attributed to Justice Oliver Wendell Holmes sums it up best — your right
+to swing your fist ends where my nose begins.”• Under the provisions of Barnes’ legislation, a person would be guilty of the new crime
+if they knowingly go into a church with the intention of disrupting a church service with
+unlawful protest, riot or disorderly conduct, and a violation would be punishable by a
+minimum sentence of one year and one day behind bars and a maximum of 10 years.
+A
+fine of up to $15,000 may be assessed by the court, as well.
+• Barnes said the law would not apply, for example, to spontaneous disagreements
+among church members, but only to pre-planned and orchestrated disruptions and
+demonstrations.
+• He noted that the legislation is preventative in nature and is intended to shield Alabami-
+ans from the same type of chaos and unruly anti-law enforcement protests that invaded
+and disrupted a worship service in Minnesota in January.
+• “Alabama has not yet experienced disruptions like Minnesota, and this legislation
+will help ensure that our God-fearing, church-going constituents are never sub-
+jected to those kinds of threats and dangerous situations,” Barnes said.
+“It’
+s a pre-
+ventative measure — just like you don’t invest in a sprinkler system after your
+business burns down, you invest in a sprinkler system to prevent your business
+from burning down.”
+• The first-term lawmaker stressed the importance of protecting worshipers during church
+services and allowing them to practice their faith and communion with God without dis-
+turbance.
+• “Protestors do not have the right to burst into someone’s house and demonstrate,
+so this legislation simply extends that same protection to houses of worship,”
+Barnes said.
+• The bill now proceeds to the State Senate for consideration.
+ALLOWING CHAPLAINS IN PUBLIC SCHOOLS
+• The Alabama House approved a bill by State Rep.
+Mark Gidley (R - Hokes Bluff) on
+Tuesday that allows public and charters schools to have volunteer chaplains to provide
+supports services and counseling to teachers.
+• All volunteers would be required to undergo a thorough background check, and
+anyone convicted of a sexual offense would be immediately disqualified.
+• Gidley noted that chaplains work in the U.S.
+Congress, hospitals, the military, law en-
+forcement agencies, fire departments, hospices, and countless other professions and
+workplaces.• Chaplains would complete a chaplaincy program and focus their work on teach-
+ers, not students.
+• The bill now goes to the Senate for consideration.
+RECOGNIZING THE “GULF OF AMERICA”
+• The Alabama House awarded approval on Tuesday to legislation sponsored by State
+Rep.
+David Standridge (R - Hayden) that officially recognizes the newly-named “Gulf
+of America.”
+• Almost immediately after taking office for his second term, President Donald
+Trump issued and signed an executive order officially renaming the Gulf of Mex-
+ico as the Gulf of America.
+• As a Gulf coast state, Standridge said it is important for Alabama to embrace and
+follow the executive order much like Google Maps recently did when it updated
+its software to include the Gulf of America.
+• Standridge’s bill requires all state and local entities in Alabama to recognize the name
+on newly created maps, documents, educational materials websites, official communi-
+cations and other resources by the beginning of the new fiscal year on October 1.
+• The bill also requires state and local entities to update the name on existing re-
+sources if it is deemed “practicable.”
+• The measure now proceeds to the Senate for consideration.
+ALABAMA POST ELECTION AUDIT ACT
+• The Senate Finance and Taxation General Fund Committee awarded a favorable report
+on Wednesday to the Alabama Post Election Audit Act, which is being sponsored in the
+chamber this year by State Rep.
+Joe Lovvorn (R - Auburn)
+• Noting that the legislation closely mirrors the House version that passed a Senate
+committee last year but failed to secure final passage, Lovvorn said, “It doesn't go
+way too far, but it does something — gives people some peace of mind.”
+• House Bill 95 requires a post-election audit using a “clean machine” in one precinct in
+each county to ensure ballots in county or statewide races were tabulated accurately and
+reflect the true intent of the voters who cast ballots in that election.• Audits would be conducted no earlier than 31 days after an election, or after the
+deadline for filing an election contest has passed, and must be completed within
+• The auditing process would be open to poll watchers and members of the media,
+and the results - indicating whether the audits were clear or indicated deficiencies
+- would be publicly reported.
+• Alabama is the last state in the nation that does not have a bill mandating and governing
+post-election audits.
+• Former State Rep.
+Debbie Wood, who sponsored the bill in previous sessions, originally
+drafted the legislation after it was discovered during a routine test that sample ballots
+can be read and counted just like legitimate ballots if fed into tabulator machines cur-
+rently in use across the state.
+• When first introducing the measure several sessions ago, Wood noted that she
+won her House seat by just six votes, which highlights the need for accurate and
+tamper-free tabulations.
+• The bill now goes to the full Senate for consideration for final passage.
+REQUIRING CDL DRIVERS TO BE ENGLISH PROFICIENT
+• The House Transportation, Utilities, and Infrastructure Committee approved on
+Wednesday a Senate bill being carried by State Rep.
+Steve Clouse (R - Ozark) that re-
+quires trucker drivers with a commercial drivers license to be proficient in the English
+language.
+• Clouse told the committee that the legislation simply brings Alabama into accordance
+with already established federal requirements.
+• Major traffic accidents and fatalities have been prompted by drivers from other
+countries being unable to read road signs and other warnings written in English,
+according to Clouse.
+• Under the provisions of the bill, a driver who is not proficient in English and receives a
+traffic citation would face a $1,000 fine for the operator and $2,000 for the driver.
+Those fines are doubled on subsequent violations.
+• In addition to the language proficiency requirement, SB242 allows for the impoundment
+of vehicles being operated by violators, and it creates the Class D felony crimes of pre-
+senting a false foreign commercial license and operating a commercial motor vehicle
+without proper documentation.• The bill now goes to the full House for consideration.
+SCHOLARSHIPS FOR LAW ENFORCEMENT OFFICER DEPENDENTS
+• The Alabama House on Thursday approved a bill by State Rep.
+Allen Treadaway (R -
+Morris), who is a retired Birmingham deputy police chief, that would provide scholar-
+ships for the dependents of long-serving law enforcement officers on the city, county,
+and state levels.
+• The bill is was originally part of the “Back The Blue” public safety package en-
+acted last year and designed, in part, to encourage the retention of law enforce-
+ment officers, but this measure was the victim of a legislative logjam in the Sen-
+ate..
+• It establishes the Alabama Law Enforcement Officers Family Scholarship Fund to
+pay tuition and expenses for children and spouses of LEOs employed for at least
+seven years by a single law enforcement agency in the state or at least 12 continu-
+ous years full-time.
+• The scholarships may be used for undergraduate courses offered by a public or
+private technical school, college, or university in the state.
+• The bill now goes to the Senate for consideration.
+EXTENDING THE PERIOD FOR DNA WARRANTS
+• The Alabama House approved a bill by House Rules Chair Joe Lovvorn (R - Auburn)
+on Thursday that extends the time that law enforcement can collect DNA evidence.
+• House Bill 454 increases the period that law enforcement can execute a search
+warrant for a DNA reference sample from 10 days to 60 days before it is void.
+• Lovvorn said he was sponsoring the bill on behalf of law enforcement agencies
+who expressed the need for additional time in order to conduct investigations.
+• The bill now moves to the Senate for consideration.

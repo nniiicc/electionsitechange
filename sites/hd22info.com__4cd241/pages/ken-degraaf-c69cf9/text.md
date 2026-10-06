@@ -1,0 +1,4 @@
+"We hold these truths to be self-evident, that all men are created equal, that they are endowed by their creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness. ...that to secure these rights, governments are instituted among men, deriving their just powers from the consent of the governed."
+Our Founding Fathers knew what they were doing; they understood the concept of "inalienable rights," "natural law," and "individual sovereignty," and they understood that the latter could only be maintained with a limited and accountable government.
+As your advocate, my objective is to return the power over your life and make government accountable to you.
+We need quality, not quantity legislation, and that legislation needs to roll back the power of government and restore the liberty that has been quietly and continuously stolen from us.

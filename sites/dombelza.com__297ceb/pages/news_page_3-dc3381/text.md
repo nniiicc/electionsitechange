@@ -1,0 +1,3 @@
+California State Sheriffs’ Association Endorses Belza for State Assembly
+Marysville, Calif. – Today, Republican Dom Belza announced the endorsement of the California State Sheriffs’ Association in his campaign for the 3rd Assembly District.
+The California State Sheriffs’ Association (CSSA) is a…

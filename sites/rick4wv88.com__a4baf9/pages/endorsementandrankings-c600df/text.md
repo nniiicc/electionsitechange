@@ -1,0 +1,51 @@
+Endorsements and Rankings
+CPAC Foundation
+https://www.cpac.org/bio/wv-rick-hillenbrand
+- Official 2026 endorsements & support (as of 10/01/2026):
+- AFL-CIO
+- Building & Construction Trades
+- Communications Workers of America
+- Former DOE Acting Under Secretary of Infrastructure the Honorable Steven Winberg
+- Home Buiders Association of West Virginia
+- International Union of Operating Engineers
+- National Rifle Association - Letter Grade: A
+- Stand for Health Freedom
+- United Mine Workers of America
+- West Virginia Appalachian Laborers' District Council (affiliated with LiUNA!)
+- West Virginia Association for Justice (LAWPAC)
+- West Virginia Automobile Dealer Association
+- West Virginia Beer Wholesalers Association
+- West Virginia Business & Industry Council
+- West Virginia Coal Association
+- West Virginia Farm Bureau
+- West Virginia For Life
+- West Virginia Manufacturers Association
+- West Virginia Sheriff's Association
+- WV Business & Industry Council
+- Official 2024 endorsements & support (as of 10/30/24):
+- Big I (Independent Insurance Agents) | West Virginia
+- Citizens for WV Election Integrity
+- Contractors Association of West Virginia
+- Communications Workers of America, District 2-13
+- Community Bankers PAC
+- CRNA (Certified Registered Nurse Anesthetist) PAC of West Virginia
+- Gas and Oil (GO) PAC
+- Health Freedom PAC West Virginia
+- International Union of Operating Engineers
+- NRA Political Victory Fund, with an A grade
+- Plumbers & Pipefitters Local Union No. 152
+- Trump Administration Acting Under Secretary of Energy (and prior Ass’t Secretary of Energy for Fossil Energy) Steven Winberg
+- West Virginia Appalachian Laborers' District Council (affiliated with LiUNA!)
+- West Virginia Association for Justice (LAWPAC)
+- West Virginia Automobile Dealers Association
+- West Virginia Bankers Association PAC
+- West Virginia Building and Construction Trades PAC
+- West Virginia Business & Industry Council
+- West Virginia Chamber of Commerce PAC
+- West Virginia Coal Association
+- West Virginia Farm PAC
+- West Virginia Home Builders Association
+- West Virginians for Life PAC
+- West Virginia Nurses PAC
+- West Virginia Optometric Physicians PAC
+- West Virginian Sheriffs’ Association

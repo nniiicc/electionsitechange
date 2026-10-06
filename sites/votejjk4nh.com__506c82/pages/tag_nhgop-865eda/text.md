@@ -1,0 +1,6 @@
+Tag: NHGOP
+- High Property Taxes Aren’t a Local Spending Problem by : Recently, the state released an article in the NH Journal talking about the specific reasons about why taxes are so high and how the state is providing all it can.
+The article can be found here: https://nhjournal.com/birdsell-osborne-whats-driving-high-property-taxes-in-the-granite-state/ The state’s response relies heavily on education funding increases — state adequacy aid, statewide education property tax relief,…
+- NHGOP Openly Admits to Lying to People It’s not often a party shows their cards and admit they use their voters as ‘tools’, push inadequate candidates they don’t like, and flat out lie to their constituents.
+Even less does it happen when they’re talking to a new organization.
+Yet, Jason Osborne, the House Majority Leader of the NH House of Representatives, came…

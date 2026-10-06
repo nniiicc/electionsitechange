@@ -1,0 +1,23 @@
+Issues
+Equality and Justice for All
+As a life-long advocate for civil rights, I have fought for protection from discrimination for LGBTQ community since my arrival in the legislature in 1999.
+My signature legislation, the Pennsylvania Fairness Act, would ensure that no Pennsylvanian could legally be denied housing, fired from their job, or kicked out of a restaurant or business because of their sexual orientation or gender identity or gender expression.
+I also fight for immediate, concrete changes in policing, like banning chokeholds and rewriting Pennsylvania’s deadly use of force statute.
+But those reforms are not enough.
+We also need systemic changes, like bolstering our mental health supports so that appropriate, trained mental health professionals are answering calls for help.
+Just as Pennsylvania’s state and local governments must recognize and address the dangers facing Black and brown people and others due to our broken policing and justice systems, I feel strongly that we must also root out the inequities that put Black lives and others at risk in our healthcare system.
+After the Covid-19 crisis hit, I used my position as Democratic Chairman of the Health Committee to partner with the Legislative Black Caucus and the Welcoming PA Caucus to convene a policy hearing on the health disparities that put people of color at an increased risk for contracting Covid-19, being subsequently hospitalized and dying.
+Health disparities are nothing new for marginalized communities — every time a health threat hits this country or this state, it is those communities that will be hit first, and hit hardest.
+Your zip code should not determine your life expectancy, and neither should your ethnicity, your country of origin, your sexual orientation or your gender identity.
+After the 2018 attack on the Tree of Life building by a anti-semitic gunman, in a speech before a joint session of the General Assembly, I called on my colleagues to come together to pass a hate crimes package to expand protections to cover all vulnerable groups, increase penalties and improve hate crime reporting procedures.
+In 2019, my bill to improve reporting for sexual assaults on college campuses was passed as part of the budget process.
+This law requires institutes of higher learning to offer online, anonymous reporting options for students.
+Let’s make a difference!
+Donate to our campaign.
+About
+Since 1999, Rep.
+Dan Frankel has served Pennsylvania’s 23rd district, which includes the neighborhoods of Squirrel Hill, Oakland, Point Breeze, Regent Square, Greenfield, and Shadyside.
+Explore
+Contact
+© Copyright 2022 – Rep.
+Dan Frankel

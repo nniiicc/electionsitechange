@@ -1,0 +1,19 @@
+ABOUT CHRISELLE
+Chriselle Martínez is a small business owner, higher education and community development leader, and working mom running to serve our community in New Mexico.
+Raised in a hardworking blue-collar family, Chriselle built her career helping families and communities expand opportunity through education, economic development, and community partnerships.
+Chriselle holds a PhD in Counselor Education from the University of New Mexico and spent more than a decade in higher education and community development, working with credit unions and local partners to strengthen economic opportunity.
+Today, she runs her own coaching and consulting business supporting leaders and organizations committed to building stronger communities.
+A mother of two and active community member, Chriselle believes public service should be grounded in listening, collaboration, and practical solutions that improve everyday life for families and small businesses across New Mexico.
+Work Experience
+- Founder & Principal, R2RC Coaching and Consulting LLC, 2025–current
+- Vice President of Partnerships and Development, Credit Union Association of New Mexico, 2024–2025
+- Higher Education and Community Development Professional, various leadership roles supporting education, financial access, and community partnerships, 2010–2023
+Community Involvement
+- Director of Community Relations, MANA de Albuquerque, 2025–current
+Awards & Recognition
+- Nominated Fulcrum Fellow, Center for Community Investment, 2020 Cohort
+- Nominated Emerge NM, 2023 Cohort
+Education
+- PhD, Counselor Education, University of New Mexico (2021)
+- Master’s Degree, Counselor Education, University of New Mexico (2008)
+- Bachelor’s Degree, Family Studies and Spanish, University of New Mexico (2005)

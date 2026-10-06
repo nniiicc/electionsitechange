@@ -1,0 +1,13 @@
+by Toby Heaney | Feb 19, 2024 | Blog
+Dear Marion County Community, As we approach the upcoming elections, the heartbeat of our democratic process lies in the dedicated individuals who serve as poll workers.
+These unsung heroes ensure the smooth functioning of our voting precincts and contribute...
+by Toby Heaney | Feb 12, 2024 | Blog
+Dear Supporters and Friends, As we embark on this journey towards positive change and community representation, your support is invaluable.
+I am running for the House of Delegates in West Virginia, District 76, driven by a commitment to service and a vision for a...
+by Toby Heaney | Feb 5, 2024 | Blog
+In a world where valor and sacrifice should be revered, some unscrupulous entities prey on those who have served our nation – our veterans.
+The battleground may be different, but the fight for justice and protection continues on home soil.
+Today, we delve into a...
+by Toby Heaney | Jan 1, 2024 | Blog
+West Virginia, with its rolling hills and tight-knit communities, is home to individuals whose stories resonate with resilience and strength.
+Toby Heaney, a combat veteran, veteran activist, and economist on the cusp of completing his Ph.D. at West Virginia University...

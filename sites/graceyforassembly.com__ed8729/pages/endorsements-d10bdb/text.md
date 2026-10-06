@@ -1,0 +1,104 @@
+Endorsements
+“Gracey has always been a fighter.
+I’ve worked alongside her on the City Council and I know that she isn’t shy about standing up for what she believes, and that’s why she is so well respected across Orange County.
+Gracey is exactly the type of representative we need in Sacramento.
+She will be a great leader and she has my full support.”
+Senator Tony Strickland
+"Gracey Van Der Mark is a proven fighter who will stand up against the extremists in the legislative super-majority who are running California into the ground."
+Ambassador Richard Grenell
+"Gracey Van Der Mark is the right choice for State Assembly.
+She has consistently supported accountability for those who break the law, while also ensuring law enforcement has the resources needed to do our job.
+Gracey will be a strong voice for the common-sense policies needed to keep our community safe.
+Please vote for Gracey Van Der Mark for State Assembly."
+Orange County Sheriff Don Barnes
+Huntington Beach Police Officers' Association
+Leisure World Republican Club
+Senator Shannon Grove
+Assembly Republican Leader Heath Flora
+Immediate Past Assembly Republican Leader James Gallagher
+Assemblymember Heather Hadwick
+Assemblymember Juan Alanis
+Assemblymember Leticia Castillo
+Assemblymember Phillip Chen
+Assemblymember Laurie Davies
+Assemblymember Carl DeMaio
+Assemblymember Stan Ellis
+Assemblymember Jeff Gonzalez
+Assemblymember Josh Hoover
+Assemblymember Natasha Johnson
+Assemblymember Tom Lackey
+Assemblymember Joe Patterson
+Assemblymember Alexandra Macedo
+Assemblymember Kate Sanchez
+Assemblymember Tri Ta
+Assemblymember David Tangipa
+Assemblymember Greg Wallis
+Janet Nguyen, Orange County Supervisor
+Don Wagner, Orange County Supervisor
+Scott Baugh, Former Orange County Republican Party Chairman
+Andrew Hamilton, CPA, Auditor/Controller, County of Orange
+Mari Barke, Orange County Board of Education
+Ken Williams, Orange County Board of Education
+Lisa Sparks, Orange County Board of Education
+Jorge Valdes, Orange County Board of Education
+Tim Shaw, Orange County Board of Education
+Aliso Viejo
+Councilmember Mike Munzing
+Costa Mesa
+Councilmember Jeff Pettis
+Councilmember Mike Buley
+Dana Point
+Mayor Pro Tem John Gabbard
+Councilmember Mike Frost
+Fountain Valley
+Mayor Ted Bui
+Councilmember Jim Cuneen
+Councilmember Patrick Harper
+Huntington Beach
+Mayor Pat Burns
+Mayor Pro Tem Casey McKeon
+Councilmember Andrew Gruel
+Councilmember Butch Twining
+Councilmember Don Kennedy
+City Attorney Michael Vigliotta
+City Clerk Lisa Lane Barnes
+Treasurer Jason Schmidt
+Laguna Hills
+Mayor Joshua Sweeney
+Lake Forest
+Mayor Pro Tem Robert Pequeño
+Councilmember Doug Cirbo
+Councilmember Scott Voigts
+Newport Beach
+Mayor Joe Stapleton
+Mayor Pro Tem Lauren Kleiman
+Councilmember Michelle Barto
+Councilmember Erik Weigand
+Councilmember Robyn Grant
+Councilmember Noah Blom
+Councilmember Sara Weber
+San Clemente
+Mayor Steve Knoblock
+Councilmember Victor Cabral
+Seal Beach
+Mayor Lisa Landau
+Councilmember Ben Wong
+Councilmember Patty Senecal
+Councilmember Nathan Steele
+Stanton
+Mayor David Shawver
+Councilmember John Warren
+Councilmember Victor Barrios
+Villa Park
+Councilmember Crystal Miles
+Westminster
+Councilmember Mark Nguyen
+By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Gracey Van Der Mark For Assembly 2026 at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Opt-in data and consent will not be shared with any third parties.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy
+Paid for by Gracey Van Der Mark for Assembly 2026 FPPC ID # 1481181

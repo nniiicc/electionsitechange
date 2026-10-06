@@ -1,0 +1,24 @@
+In the District
+As your State Representative, Nancy enjoys connecting with the community and hearing from residents of District 13.
+Supporting Constituents
+I enjoy helping constituents, from helping a local child care business owner who pointed out costly state forms and mailings, and lactation consultants providing services to new moms, to pushing for safety improvements on Delta Highway.
+I spend time talking with and listening to the concerns of people here at home.
+Some of those meetings have been the spark that spurred legislation that I passed.
+Here are a few examples: a constituent whose family heirloom necklace was stolen in a home burglary led to a bill covering theft and pawn shops, Looking Glass, Pearl Buck Center, and CASA experiences led to a series of bills to streamline criminal background checks; 4J School Board member observations led to a bill about education services, and manufactured home park residents subjected to unfair business practices led to bills protecting their rights as tenants of rented space who own their own home.
+Listening to the Community
+I engage with constituents at occasional informal conversations at neighborhood coffee shops and town hall meetings, and take the time to meet with local businesses and groups around the community.
+To stay updated on community events, sign up for my newsletter here.
+A sample of groups I’ve met with:
+- Youth organizations such as the Northwest Youth Corps, Oregon Student Association, and OSPIRG (Oregon Student Public Interest Research Group)
+- Local manufacturers, from wood products, biotech, and game software to chocolates, granola, and craft distilleries
+- Kiwanis, Rotary, Lions Sight and Hearing Foundation, Women's Professional Network
+- School classrooms, school gardens, and school health centers
+- Ambulatory surgery centers; residential care and treatment facilities for youth and adults
+- Volunteer leaders and key advocates for AARP, CASA, Ophelia's Place, WomenSpace, Relief Nursery, Kids' First Center, and many more.
+The Neighborhoods
+Cal Young
+Goodpasture
+Harlow
+Northeast Neighbors
+River Road
+Santa Clara

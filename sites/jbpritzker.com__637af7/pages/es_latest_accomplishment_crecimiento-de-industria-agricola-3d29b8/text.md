@@ -1,0 +1,20 @@
+Crecimiento de Industria Agrícola
+La agricultura es el corazón de la economía de Illinois, con 70,000 granjas que cubren 27 millones de acres.
+Desde el primer día, JB se ha comprometido a impulsar el sector y a ayudar a las familias rurales a prosperar.
+Comercio Internacional
+Obtuvo más de $4 mil millones en compromisos de compradores extranjeros de maíz y soja de Illinois
+Educación Agricola
+Ampliación del financiamiento para programas de agricultura vocacional para formar a los agricultores del mañana
+Nuevos Agricultores
+Hizo que las cuotas de membresía de FFA fueran gratuitas para todos los estudiantes y aumentó la inversión en los programas 4H de Illinois
+Alivio Fiscal
+Apoyó la exención del impuesto sobre las ventas de equipos agrícolas y se aseguró que permaneciera en el código tributario de Illinois
+Salud Mental para Áreas Rurales
+Se expandió la Iniciativa de Recursos para Familias Agrícolas para abordar las necesidades de salud mental de las comunidades agrícolas en los 102 condados
+Comparte con tu red
+Únete a #TeamJB
+Regístrese para unirse al equipo hoy mismo y recibir actualizaciones de la campaña, informarse sobre las oportunidades de voluntariado y mucho más.
+Al enviar su número de teléfono móvil, acepta recibir mensajes de texto periódicos de esta organización.
+Se pueden aplicar tarifas de mensajes y datos.
+Envíe HELP por mensaje de texto para obtener más información.
+Envíe STOP por mensaje de texto para dejar de recibir mensajes.

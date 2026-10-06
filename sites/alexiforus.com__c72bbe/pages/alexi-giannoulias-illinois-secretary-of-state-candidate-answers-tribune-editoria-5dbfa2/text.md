@@ -1,0 +1,39 @@
+To inform voters and to help the Chicago Tribune Editorial Board make endorsements, the board posed a series of questions to the candidates running for Illinois Secretary of State.
+See how other the other candidate answered here.
+- Candidate name: Alexi Giannoulias
+- Running for: Illinois Secretary of State
+- Residence: Not answered
+- Current occupation: Founder & CEO, Annoula Ventures
+- Previous political experience (elective and appointed positions): Illinois State Treasurer (2007-2011) Chairman of the Illinois Community College System (2011-2015) Chicago Public Library Board of Directors (2018-2021)
+- Education: Boston University, BA; Tulane University, JD
+- Spouse’s occupation: Not answered
+- Sources of outside income: “This information has been filed on my statement of economic interest,” the candidate wrote.
+Questions with candidate’s answers
+What changes would you make to improve traffic safety, particularly from the standpoint of teen drivers, driving while intoxicated and distracted driving?
+Illinois is a leader when it comes to some specific traffic safety initiatives, which include laws against texting while driving and stringent requirements for teen drivers.
+However, we can do more to encourage safe driving to prevent future accidents and deaths from occurring, especially when it comes to distracted driving, sleep-deprived driving and driving under the influence.
+For example, penalties for drivers charged with DUI-related offenses in Illinois, especially for repeat offenders, are not as strong as leading states.
+Strengthening existing laws when it comes to DUI prevention and other unsafe driving practices will discourage poor driving behavior and make our roads safer for everyone.
+Are there any specific inefficiencies within the office that need addressing or services that need improvement, and if yes, what would your improvements be?
+The Secretary of State’s offices act as retail operations, providing service to customers – just like stores and restaurants – and need to improve the customer experience.
+I want to repeal the Time Tax, or the amount of time people spending waiting in line, filling out forms or on the phone, just to obtain government services.
+My Skip the Line program, using sophisticated technology, will enable people to schedule appointments in advance and head to the front of the line when they arrive at a facility to avoid long waits.
+What would you do to modernize the office and make it more consumer-friendly?
+In addition to my Skip the Line plan, I plan to provide the option of obtaining services digitally through an app and allowing customers to upload documents ahead of their appointments.
+This will reduce the need to make in-person visits to obtain services and decrease their time at each facility if they do.
+The app will also notify drivers to receive about license renewals, vehicle registration, appointments to avoid fees and get questions answered quickly.
+I also plan to push for legislation allowing for a digital driver’s license/ID program so Illinoisans can carry their identification on their phones and make more services available remotely.
+As the state’s librarian, I will introduce a License to Read program that will help make reading materials and other learning resources available online to improve access regardless of where you live, which will help narrow the digital divide and increase equity.
+Give us the best example of when you displayed independence from your party or staked out an unpopular position.
+When I campaigned for State Treasurer, I ran against the incumbent preferred by then-House Speaker Mike Madigan.
+That candidate had the support of the Democratic Party of Illinois and the entire Madigan campaign apparatus.
+I challenged the status quo and Illinois voters believed in our message and defeated against Madigan’s hand-picked candidate.
+As Treasurer, I proposed consolidating the states three boards overseeing investments of its pension system along with imposing a series of new ethics mandates for them.
+My plan was not embraced by either party, but I continued to push for it because it would have saved up to $82 million annually and made a significant dent in decreasing the state’s pension liability, which is the worst in the nation.
+Shortly after taking office, my administration sought to auction off two politically connected hotels that were draining taxpayer dollars.
+The hotels had been a burden on taxpayers for far too long and putting an end to this decades-long debacle that funneled state money into the pockets of a few politically connected insiders has been a priority for my administration.
+Through the sale, the state was able to recover millions of dollars and finally wipe its hands clean of these symbols of political corruption.
+Why should voters nominate you and not your opponent(s)?
+As the only candidate in this race who has held a constitutional office in Illinois, I have experience managing a statewide agency with hundreds of employees.
+In addition, my campaign has the most robust vision for improving the Secretary of State’s office, including specific policy initiatives that call for: Modernization through establishing the “Skip the Line” program, launching a Secretary of State app and implementing digital driver’s licenses; Protecting voting rights and making it easier to register and vote by changing the state’s Automatic Voter Registration (AVR) system to a back-end system – meaning that registrants wouldn’t have to take additional steps to register at a facility – and pre-registration for 16- and 17-year-olds so young people are automatically registered to vote as soon as they turn 18; and strengthening our ethics with more disclosure and restrictions that prohibit elected officials from serving as lobbyists, giving the Inspector General more authority and extending the time before former lawmakers are allowed to lobby.
+The Secretary of State’s office is the statewide agency which Illinoisans interact with the most and we need to elect someone with a demonstrated commitment to public service and the experience and vision necessary to improve upon Secretary Jesse White’s legacy.

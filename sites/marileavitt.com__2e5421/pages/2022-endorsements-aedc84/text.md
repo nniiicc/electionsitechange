@@ -1,0 +1,263 @@
+2022 Endorsements
+I’m honored to have received the endorsements of the following individuals:
+- Senator Patty Murray
+- Derek Kilmer, Congressman, Congressional 6th District
+- Adam Smith, Congressman, Congressional 9th District
+- Marilyn Strickland, Congresswoman, Congressional 10th District
+- Lieutenant Governor and former Congressman 10th District, Denny Heck
+- Public Lands Commissioner Hilary Franz
+- Superintendent of Public Instruction Chris Reykdal
+- Former Superintendent of Public Instruction Judith Billings
+- Auditor and former Pierce County Executive Pat McCarthy
+- Deputy Auditor Keri Rooney
+- Deputy Auditor Rick Talbert
+- Secretary of State Steve Hobbs
+- Treasurer Mike Pellicciotti
+- Attorney General Bob Ferguson
+- Office of Insurance Commissioner Mike Kreidler
+- Former Senate Majority Leader and Senator Mark Gaspard, 25th LD
+- Former Speaker Brian Ebersole and State Rep., 29th LD
+- Speaker Laurie Jinkins, 27th LD
+- Representative Jake Fey, 27th LD
+- Senator Yasmin Trudeau, 27th LD
+- Former Senator Jeannie Darnielle, 27thLD
+- Former Representative and Washington State Superior Court Judge Art Wang, 27th LD
+- Former Representative Art Wang, 27th LD
+- Representative Dan Bronoske, 28th LD
+- Senator T’wina Nobles, 28th LD
+- Former State Senator Shirley Winsley, 28th LD
+- Representative Steve Kirby, 29th LD
+- Representative Melanie Morgan, 29th LD
+- Senator Steve Conway, 29th LD
+- Representative Jamila Taylor, 30th LD
+- Representative Jesse Johnson, 30th LD
+- Senator Claire Wilson, 30th LD
+- Derek Young, Chair, Pierce County Council
+- Marty Campbell, Pierce County Council
+- Jani Hitchen, Pierce County Council
+- Ryan Mello, Pierce County Council
+- Connie Ladenburg, Former Pierce County Council
+- Rick Talbert, Former Pierce County Council
+- Ron Frederick, Mayor, DuPont
+- Chris Barnes, Former DuPont City Council
+- Maame Beesaw, DuPont City Council
+- Beth Elliott, DuPont City Council
+- Susan Walton, DuPont City Council
+- Chris Barnes, former DuPont City Council
+- Brett Wittner, Mayor, Fircrest City Council
+- Former Mayor Hunter George, Fircrest City Council
+- Joe Barrentine, Fircrest City Council
+- Shannon Reynolds, Fircrest City Council
+- Nikki Bufford, Fircrest City Council
+- David Viafore, Fircrest City Council
+- Mary Moss, Deputy Mayor, Lakewood City Council
+- Linda Farmer, Lakewood City Council
+- Helen McGovern, Former Mayor and Lakewood City Council
+- Elizabeth Grasher, Steilacoom Town Council
+- Roger Neal, Steilacoom Town Council
+- Victoria Woodards, Mayor, Tacoma
+- Catherine Ushka, Deputy Mayor Tacoma City Council
+- Keith Blocker, Tacoma City Council
+- Joseph Bushnell, Tacoma City Council
+- John Hines, Tacoma City Council
+- Sarah Rumbaugh, Tacoma City Council
+- Kristina Walker, Tacoma City Council
+- Conor McCarthy, Tacoma City Council
+- Bill Baarsma, former Mayor, Tacoma
+- Lillian Hunter, former Tacoma City Council
+- Chris Beale, former Tacoma City Council
+- Steve Worthington, Mayor, University Place City Council
+- Edward Wood, University Place City Council
+- Javier Figueroa, University Place City Council
+- Dennis Townsend, former Bethel School District
+- Marty Schaefer, former President, Clover Park School District
+- Jennifer McDonald, President, Steilacoom/DuPont School District Board Chair
+- Elizabeth Bonbright, Tacoma School District Board
+- Lisa Keating, Tacoma School District Board
+- Enrique Leon, Tacoma School District Board
+- Ethelda Burke, University Place School District Board
+- MaryLu Dickinson, University Place School District Board
+- T’wina Nobles, University Place School District Board
+- Marisa Peloquin, University Place School District Board
+- Michael Ehart, former University Place School District Board
+- Kristin Ang, Tacoma Port Commissioner
+- Deanna Keller, Tacoma Port Commissioner
+- John McCarthy, Tacoma Port Commissioner
+- Clare Petrich, former Tacoma Port Commissioner
+- Gary Barton, Lakewood Water District Commissioner
+We are also honored to have received endorsements and support from the following organizations:
+- Jamestown S’Klallam Tribe
+- West Pierce Fire Fighters, Local 1488
+- Washington Multi-Family Housing Association
+- Tacoma Fire Fighters, Local 31
+- Puyallup Tribe of Indians
+- Trucking Action Committee
+- Northwest Credit Union Association
+- Pierce County Democrats
+- 28th Legislative District Democrats
+- Indivisible Tacoma
+- National Women’s Political Caucus of Washington
+- International Longshore and Warehouse Union, Local 23
+- Pacific Northwest Ironworkers District Council
+- Washington Forest Protection Association
+- Nisqually Indian Tribe
+- Puget Sound Pilots
+- Pierce County Professional Fire Fighters, Local 726
+- Kent Fire Fighters, Local 1747
+- Port Gamble S’Klallam Tribe
+- International Brotherhood of Electrical Workers, Local 48
+- Squaxin Island Tribe
+- Washington State Optometrists
+- East Pierce Fire Fighters, Local 3520
+- Washington State Legislative Board of the Sheet Metal, Air, Rail and Transportation Union
+- Bellingham/Whatcom County Fire Fighters, Local 106
+- Service Employees International Union, Local 1199
+- Service Employees International Union, Local 775
+- Kalispel Tribe of Indians
+- Washington Federation of State Employees, AFSCME Council 8
+- Muckleshoot Indian Tribe
+- Washington Organization of Vocational Educators
+- Teamsters Joint Council 28
+- Friends of Community and Technical Colleges
+- Washington State Medical Association
+- Washington State Association for Justice
+- Washington Association of Realtors
+- Pierce County Labor Council
+- Washington Physical Therapy Association
+- Washington AutoDealers Association
+- Washington Academy of Physicians and Surgeons
+- FUSE Washington
+- Sierra Club
+- Service Employees International Union Local 925
+- Alliance for Gun Responsibility
+- Washington State Labor Council
+- Planned Parenthood of Washington
+- Washington Education Association
+- Washington State Federation of State Employees 28
+- International Association of Machinists & Aerospace Workers District Lodge 751
+- Washington Conservation Voters
+- Retired Public Employees Council of Washington
+- International Brotherhood of Electrical Workers Local 77
+- Washington Conservation Voters
+- Washington Fire Chiefs
+- Mercer Island Fire Fighters, Local 1762
+- Pro-Choice Washington
+- Hospitals for a Healthy Future
+- International Union of Painters & Allied Trades Council District 5
+- Washington State Nurses Association
+- The Suquamish Tribe
+- Washington State Chiropractors Association
+- Jackson Legacy Fund
+- WA Technology Industry Association
+- Rental Housing Association
+- Physicians EYE
+- Pacific Northwest Regional Council of Carpenters
+- South Puget Sound Carpenters Local Union No. 129
+- Washington State Podiatric Medical Association
+- Spokane Firefighters Union, Local 29
+- Children’s Campaign Fund
+- Boeing Fire Fighters, Local I-66
+- Gig Harbor Professional Firefighters, Local 3390
+- Washington Mental Health Counselors Association
+- Kirkland Fire Fighters, Local 2819
+- International Brotherhood of Electrical Workers, Local 483
+- Washington Fraternal Order of Police
+- Pullman Fire Fighters, Local 1892
+- Washington State Patrol Troopers Association
+- Lacey Professional Fire Fighters, Local 2903
+- International Brotherhood of Electrical Workers, Local 76
+- Sheet Metal Workers Local Union 66
+- The News Tribune Editorial Board
+- Thurston-Lewis-Mason Counties Labor Council
+- Washington State National Organization for Women
+- Washington State Dental Association
+- Washington State Building and Construction Trades Council
+- Service Employees International Union Local 1948
+- United Food & Commercial Workers Local 3000
+- Moms Demand Action Gun Sense Candidate of Distinction
+- Service Employees International Union Local 6
+- Humane Voters of Washington
+- Professional Firefighters of Kitsap County, Local 2819
+- American Federation of Teachers Washington
+- United Association Local 32 Plumbers, Pipefitters, Refrigeration, and HVAC
+- Washington State Association of Plumbers and Pipefitters
+- Washington Housing Alliance Action Fund
+- International Brotherhood of Electrical Workers, Local 191
+- Washington State Charter Schools Association
+- Washington Health Care Association
+- International Union of Operating Engineers, Local 612
+- Washington Insurers Political Action Committee
+- ARNPs United of Washington State
+- Laborers International Union of North America Local 252
+- The International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, Forgers and Helpers Local 502
+- Seattle Fire Fighters Union Local 27
+- Grandmothers Against Gun Violence
+- Laborers International Union of North American Local 238
+- Confederated Tribes of Umatilla Indian Reservation
+- Independent Colleges of Washington
+- Washington State Dental Hygienists’ Association Political Action Committee
+- Professional and Technical Employees, Local 17
+- National Association of Social Workers, Washington Chapter
+- Office and Professional Employees International Union, Local 8
+- Washington State School Retirees Association
+- Young Democrats of Washington
+- National Federation of Independent Businesses Washington
+- International Brotherhood of Electrical Workers, Local 112
+- Washington Council Of Police and Sheriffs
+- Stand for Children Washington
+- Washington Food Industry Association
+- Washington Council of Fire Fighters
+- Tacoma-Pierce County Black Collective
+- Association of Washington School Principals
+- Communications Workers of America
+- Washington Equality PAC
+- International Labor and Warehouse Union Washington District Council
+- United Food and Commercial Workers Local 367
+- Quinault Indian Nation
+- Snoqualmie Tribe
+- Washington Retail Association
+- Retired Firefighters of Washington
+We are grateful for the endorsements of community leaders:
+- Herb Simon
+- Julie Andrzejewski
+- John Alessio
+- Bev Isenson
+- Linda Isenson
+- Phyllis Izant
+- Angie and John Santiago
+- Melanie Stone
+- Patti Dailey
+- Frank Boykin
+- Debi Srail
+- Rita Harris
+- Nicole Jovich
+- Starlene Enfeld
+- Cornelius and Sharon Winesburry
+- Dr.
+Tana Hasart
+- Mike Yestramski
+- Starlene Enfeld
+- Dr.
+Warren Brown
+- Debbie Gessel
+- Ted Smith
+- Darrell Cochran
+- Teri Rideout
+- Tim Farrell
+- Lynda Foster
+- Linda Farmer
+- Nathe Lawver
+- Jeff Wolcott
+- Nancy A.
+Hogan
+- Gary Gilchrest
+- Daniel Grey
+- Reverend Eric Warn
+- Jo Anne Gaspard
+- Beth Eliott
+- JB Handy Norris
+- Faaluaina Pritchard
+- Kathy Comfort
+- Jim Bags
+- Heather Yuckert
+- Frank Erickson

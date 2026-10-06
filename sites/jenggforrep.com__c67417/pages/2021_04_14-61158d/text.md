@@ -1,0 +1,2 @@
+The Illinois lower house passed a bill on Wednesday requiring public schools to teach Asian-American history, setting the stage for possible adoption of milestone legislation amid rising incidents of violence against people of Asian descent.
+The bill, which would mandate the teaching of a unit of Asian-American history in public elementary and high schools starting in the 2022-2023 school year, passed the Democratic-controlled House

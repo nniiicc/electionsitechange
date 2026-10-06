@@ -1,0 +1,2 @@
+September 12, 2026 | 10:00 a.m.
+Williamson County Dems Weekend of Action Sept. 12-13 Sign up here! ← Back To Events Other Events Fundraising October 10, 2026 Joint Fundraising Event with David Hardy 4pm See event info Voter Outreach October 3, 2026 Joint Canvassing with David Hardy for Senate and Jerri Green 10:30am See event info Voter Outreach September 26, 2026 Joint Canvassing with Jerri Green 10:30 am See event info

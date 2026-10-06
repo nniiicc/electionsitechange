@@ -1,0 +1,5 @@
+- QUEENS LEDGER New Mom, Veteran Organizer: Kattan Seeks Queens Assembly Seat
+- JACOBIN Samantha Kattan Wants to Join New York’s Socialists in Albany
+- POLITICO “Samantha Kattan has always stood with hardworking union members and worked to ensure our city fights to protect them — not billionaire tech corporations like Airbnb,” HTC President Rich Maroko said in a statement.
+- QNS.COM DSA-backed Samantha Kattan officially launches campaign to succeed AM Valdez in District 37
+- CITY & STATE DSA member Samantha Kattan hopes to succeed Claire Valdez in the Assembly

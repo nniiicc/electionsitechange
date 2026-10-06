@@ -1,0 +1,39 @@
+Jane Garibay is the state representative for the 60th House District, which is comprised of Windsor and Windsor Locks.
+She is currently the House Chair of the Aging Committee and a member of the Appropriations and Commerce committees.
+Garibay is a lifelong resident of Windsor with a few years in Mexico and Vermont.
+She served as the Executive Director of the Windsor Chamber of Commerce from 1999 to 2018 and as Executive Director of First Town Downtown in Windsor (2018-2021).
+Garibay also worked for the Town of Windsor in the Recreation Department, taught English as a second language in Mexico, and taught Spanish at Saint Gabriel School in Windsor.
+Jane has been an active volunteer for most of her life, including volunteering at a hospital in Mexico for orphaned children with severe medical needs.
+Jane has Received Many Regional and Local Awards Throughout her Career:
+2025 Nutmeg Senior Rides Appreciation Award
+2025 Advantage Capital Small Business Champion
+2023-2025 AARP Long-Term Care Champion
+2023 CT Association of Adult Day Services Adult Services Champion
+2023 CT Association of Healthcare at Home Legislator of the Year
+2022 LeadingAge Connecticut Legislator of the Year
+2022 Connecticut Main Street Jack Shannahan Prize for Public Service
+2019 Windsor Chamber of Commerce Citizen of the Year Award
+2014 New England Association of Chamber of Commerce Executives Chamber Executive of the Year Award
+2013 Town of Windsor Human Relations Commission's Bridge Builders Award
+2009 Elks Distinguished Citizenship Award
+2007 Windsor/Windsor Locks Rotary Vocational Service Award
+2001 Connecticut Town Clerks Association Award
+Current and Past Board Positions Include:
+President and Founder of the Windsor Education Foundation, 2007 – 2014, 2019 to 2021
+Member, Windsor Ambulance Board of Directors, 2019 – present
+Member, Nutmeg Senior Rides Advisory Council, 2018 – present
+Past Member, Windsor Economic Development Commission
+Member, Windsor Lions Club
+Founder & Chairperson, Project Santa, 2013 –Present
+Co-chair, Windsor School to Business Partnership, 2012 – 2018
+Board Member and President, New England Association of Chamber Executives, 2011 – 2018
+Family-Community Partnership 2016 –2018
+Board Member and President of the Windsor Food and Fuel Bank 2013 – 2015
+President of Windsor Community Television, 2006 – 2010
+Founding Member, Ascend Mentoring, 2009 – 2012
+Graduate and Certified Facilitator for Parent See/CT School for School Change
+Elected Municipal Offices Held:
+President, Windsor Board of Education, 2000 – 2005
+Jane lives in Windsor with her husband Bernardo, their niece Jennie, a dachshund named Bandit, and a cat named Dougie.
+They have three children: Cate, Jose, and Andrew, and one grandson, Faolan.
+She is passionate about senior issues, her family, and animals.

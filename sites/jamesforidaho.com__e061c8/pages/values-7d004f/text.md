@@ -1,0 +1,31 @@
+Values & Platform
+Investment in Public Education
+- Find solutions to address Idaho’s teacher shortage
+- Overhaul and modernize the school funding formula
+- Make higher education more affordable and better equipped to produce graduates who are competitive in the marketplace
+Property Taxes
+- Solve the systemic problem leading to relentless property tax increases
+- Ensure property taxpayers are heard during the assessment and appeals processes
+- Make certain local governments are properly funded so they can support their communities
+Voting
+- Expand voter access to the polls
+- Protect the ballot initiative process
+- Ensure voting security
+Healthcare Access
+- Protect Medicaid Expansion, as approved by a super majority of Idaho voters in 2018
+- Help find solutions to reverse the continual increase in health care costs
+Employers, Workers & Unions
+- Protect PERSI
+- Focus on legislation that supports Idaho’s small businesses
+- Protect workers from discrimination
+- Fight for Idaho’s union members and their rights
+Public Lands
+- Protect access to Idaho’s public lands for hiking, fishing and hunting
+- Keep Idaho’s rivers, lakes and water resources clean and useable
+Bodily Autonomy
+- Fight for all Idahoans’ right to make highly sensitive, personal decisions about their reproductive health without government interference
+- Fix Idaho’s abortion laws so that they are based in compassion and science, and that they take into account maternal health and welfare
+- Protect birth control and other related, essential forms of reproductive healthcare that women rely on throughout the state
+Veterans
+- Help veterans access their benefits
+- Ensure Idaho’s veterans programs and systems are working for the veterans they serve

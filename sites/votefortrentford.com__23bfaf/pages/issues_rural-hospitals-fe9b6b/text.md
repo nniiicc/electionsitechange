@@ -1,0 +1,14 @@
+Keep Rural Hospitals Open
+27 Alabama hospitals are at risk of closing.
+We need real solutions, not empty promises.
+When rural hospitals close, people die.
+Distance shouldn't determine your access to care.
+We need practical solutions to keep healthcare accessible in rural Alabama.
+27
+Alabama hospitals at risk of closing
+- Rural hospital tax credits to support struggling facilities
+- Telehealth expansion to reach patients in remote areas
+- Healthcare workforce recruitment to bring doctors and nurses to rural communities
+- Better access to healthcare in rural areas through expanded telehealth and supporting our local medical professionals
+"Distance shouldn't determine your access to care.
+We need real solutions, not empty promises."

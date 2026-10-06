@@ -1,0 +1,24 @@
+Aaron Ford Skips White House Roundtable on Fighting Fraud
+FOR IMMEDIATE RELEASE
+June 3, 2026
+Contact: press@joelombardofornv.com
+LAS VEGAS, NV — Aaron Ford, who frequently claims he is “fighting fraud” and says he is willing to work with anyone to protect Nevadans, failed to show up to a White House roundtable focused on combating fraud and protecting taxpayers.
+Nevadans have watched Aaron Ford spend 420 days out of state during his time in office, traveling across the globe on special interest-funded trips.
+But when presented with an actual opportunity to travel to Washington, D.C. to engage in bipartisan discussions to address fraud and protect taxpayers, Ford was nowhere to be found.
+In fact, this may be the first out-of-state trip Aaron Ford has ever declined, despite repeatedly claiming the issue at hand is critically important - likely because it didn't include sitting on a beach or a wine tour.
+Aaron Ford has previously stated:
+"One of the things I'm most proud of as Nevada's Attorney General is my office's strong, consistent record of bipartisan collaboration and cooperation.
+People over party, always." (X)
+"As Nevada Attorney General, I've worked with Republican and Democratic AGs on opioid settlements, human trafficking, consumer fraud, and more." (X)
+"Bipartisanship isn’t just a talking point in Nevada.
+It’s how we get things done.
+Period.
+I’ve spent my career reaching across the aisle — not for the sake of politics, but because it’s what’s right for the Nevada family." (X)
+If Aaron Ford truly believes fraud prevention is a priority and that he will "work with anyone," why would he skip a White House roundtable specifically dedicated to that issue in a bipartisan manner?
+Questions the media should ask Aaron Ford:
+- Why did you skip a bipartisan White House roundtable focused on combating fraud and protecting taxpayers when you have previously touted your record of "working with anyone"?
+- Do you only believe in bipartisan cooperation when a Democrat administration is in charge, or are you actually willing to work with anyone to deliver results for Nevadans?
+- For someone who frequently travels out of state, why was this the trip you chose not to take - especially when it directly involved protecting Nevada taxpayers from fraud?
+“For someone who has spent more than 420 days out of state while in office, it’s remarkable that the trip Aaron Ford decided to skip was the one focused on bipartisan solutions to fight fraud and protect Nevada taxpayers.
+Aaron Ford constantly talks about ‘working with anyone’ and putting politics aside to protect Nevadans, but when presented with an actual bipartisan opportunity to address fraud, he didn’t show up.
+Governor Lombardo believes protecting Nevadans comes before politics, and that means showing up, working across the aisle, and delivering results.” - Halee Dobbins, Spokeswoman for Joe Lombardo for Governor

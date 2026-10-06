@@ -1,0 +1,28 @@
+ACCOMPLISHMENTS and PRIORITIES
+Mitch Rosenwald - A Champion in Tallahassee for House District 98
+2026 Bills Passed
+*HB 933 [Children’s Initiatives] - Signed by the Governor
+- The Florida Children’s Initiatives is a statewide initiative modeled after the nationally recognized Harlem Children’s Zone in New York, created to address the disparities faced by children in disadvantaged communities.
+- Currently, there are five active children’s initiatives located in the counties of Duval, Orange, Hillsborough and Miami-Dade.
+- This bill establishes two new Children’s Initiatives programs; Bay County Children’s Initiative in Bay County and the Pompano RYZE program in Broward County.
+- This bill gives undeserved children a better chance to succeed, while having no fiscal impact on the state budget.
+*HB 1031 [Customer Service Callback Queues] - Signed by the Governor
+- The bill improves upon the framework of the Florida Customer Service Standards Act to more effectively facilitate resolution of customer questions or requests by telephone.
+- The bill implements a pilot program to require use of a callback queue system within Florida Commerce in processing calls from claimants about reemployment assistance.
+- The agency received 19.2 million telephone calls in 2025 regarding constituent economic self-sufficiency assistance.
+- By December 31, 2027, both agencies must submit a report to the Legislature describing the effectiveness of the program, providing a recommendation as to whether the pilot program should be continued.
+*HB 1481 [Housing for Veterans] - Signed by the Governor
+- Veterans who have served our country deserve more than our gratitude - they deserve a safe and stable place to call home.
+- The United States Department of Housing and Urban Development - Veterans Affairs Supportive Housing (HUD-VASH) voucher program reduces Veteran Homelessness.
+But the program needs landlords.
+- Under this pilot program within Broward, Escambia, Hillsborough, and Santa Rosa Counties, a landlord willing to provide a home to a Veteran qualifies for funding from a Vacancy Relief Trust Fund- proportional rent for a period of up to 45 days after the date the dwelling unit becomes available or until the actual date that the veteran moves into the dwelling unit, and from the Risk Mitigation Trust Fund- designed to cover property loss at the dwelling unit caused by the Veteran which extends up to $2,000 beyond the amount of the security deposit money.
+2026 Appropriations
+- Fort Lauderdale Las Olas Business District Safety Improvements and ADA Upgrades Phase Total Requested: $1,000,000
+- Lauderdale Lakes Canal 3 Stormwater Conveyance and Water Quality Improvement Project.
+Total Requested: $900,000
+- Pompano Beach North Riverside Drive Multimodal Safety and Resilience Corridor a.
+Total Requested: $895,000
+- Pompano Beach Senior Center Expansion for Wellness and Community - Phase 1a.
+Total Requested: $1,000,000
+- Deerfield Beach Oveta McKiethen Park Air Pavillion a.
+Total Requested: $450,000

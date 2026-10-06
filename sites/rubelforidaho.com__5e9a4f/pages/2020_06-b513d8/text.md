@@ -1,0 +1,3 @@
+Jun 22, 2020
+Idaho – On Monday, California announced that it is prohibiting taxpayer-funded travel to Idaho on account of Idaho’s recently passed anti-transgender laws.
+House Minority Leader Representative Ilana Rubel/(D-Boise) expressed her extreme disappointment in the Idaho...

@@ -1,0 +1,32 @@
+Safety for our communities
+I am fighting for a safer Illinois: safe from masked federal agents; safe from antisemitism, anti-Black racism, and religious or anti-immigrant bigotries; safe to access reproductive healthcare and safe from gun violence in our schools; safe for LGBTQIA+ friends and loved ones; safe for victims and for individuals moving through the legal system; safe because of investments made to address root causes of crime.
+Safety is the necessary condition for a caring, thriving society.
+Protecting Our Constitutional Rights & Democracy
+In this unprecedented moment, Illinois must protect our people from a rogue federal government and its aggressive, discriminatory, careless, and cruel enforcement activities.
+Through passing our own laws clarifying state sovereignty and protecting public spaces and buildings and through critical lawsuits challenging a federal government more than willing to overstep, Illinois must do all we can to fend off this lawless administration, including:
+- Pass and strengthen state laws explicitly protecting public spaces (schools, hospitals, community centers) from federal immigration enforcement and limiting state and local cooperation with ICE without judicial warrants
+- Support critical lawsuits challenging federal government overreach and establish a state legal defense fund for immigrants and families facing federal enforcement action
+- Fight for transparency and accountability for federal agents operating in Illinois through oversight, investigation, and potential state-level tort liability
+Gun Violence Prevention
+- Support the RIFL (Responsibility in Firearm Legislation) Act to shift liability for gun violence medical costs from public providers and victims toward companies that profit from the gun industry (learn more here!)
+- Defend and strengthen Illinois universal background checks on all gun sales
+- Expand and improve implementation of Illinois's Firearms Restraining Order (red flag law) to allow more people to petition for temporary firearm removal from those in crisis, including educators, employers, and mental health professionals
+- Support and strengthen Illinois' assault weapons ban and large-capacity magazine restrictions (10 rounds for rifles, 15 for handguns)
+- Support and tighten the Safe Gun Storage Act, which would require secure firearm storage in homes with children and strengthens lost and stolen firearm reporting
+- Expand Illinois State Police authority to enforce firearm removal from people with revoked FOID cards who have not surrendered their weapons
+- Advocate for community violence intervention programs
+- Treat gun violence as a public health crisis, not just a criminal justice issue
+Protecting LGBTQIA+ Loved Ones
+- Stand against federal rhetoric and policies that marginalize LGBTQ+ people and continue Illinois' leadership on LGBTQ+ rights
+- Defend Illinois's legal protection and defense of gender-affirming care, which protects both out-of-state visitors seeking care and Illinois doctors providing care.
+Maintain Illinois's prohibition on conversion therapy for minors
+- Enforce protections against discrimination based on gender identity in employment, housing, public accommodations, education, and financial credit
+- Improve data privacy protections to prevent use of geolocation and medical data to track people seeking reproductive and gender-affirming care
+Fighting for a Sustainable & Equitable Elimination of Crime
+- Fund and expand evidence-based community violence interruption programs that treat gun violence as a public health problem
+- Invest in youth employment and programming, particularly in disinvested neighborhoods
+- Suppor trauma-informed mental health services and substance abuse treatment accessible to all
+- Strengthen reentry programs that support successful reintegration and remove barriers to employment and housing for people with criminal records
+- Support community-based policing with swift, certain consequences for crime that prioritize rehabilitation and restoration
+- Address root causes of crime through targeted investment in poverty reduction, economic opportunity, mental health services, and substance abuse treatment
+- Prioritize rehabilitation and restoration over punishment in the criminal justice system

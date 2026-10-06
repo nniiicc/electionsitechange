@@ -1,0 +1,24 @@
+Policy
+- Put country before party and serve the people of AZ-09 over partisan interests.
+- Protect free and fair elections, constitutional checks and balances, and ethical government.
+- Work across party lines to produce practical results for Arizona families.
+- Strong transition support to civilian careers
+- Accessible healthcare and mental health services
+- Stability for military families
+- Local clean energy jobs
+- Responsible resource management
+- Long-term water protection for Arizona neighborhoods
+- Fixed-income protections
+- Affordable healthcare and housing
+- Inflation relief
+- Eliminate the Social Security tax cap
+- Modernize the legal process to reduce chaos and expedite the legal immigration process
+- Strengthen border security and enforce the law responsibly
+- Protect families, workers, and communities with solutions that are humane and practical
+- Public service as a duty, not a career
+- Support for term limits to restore accountability
+- Dani’s pledge is to (3) two-year House terms and two (2) six-year Senate terms and no longer limit.
+- Full transparency in campaign finance
+- Limits on the influence of big money
+- Public financing options like Arizona’s Clean Elections model
+- Repeal Citizens United

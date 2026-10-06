@@ -1,0 +1,35 @@
+UNIVERSAL EDUCATION
+Universal Education
+- Current Federal Budgets cover the full cost of tuition nationally, and therefor will be utilized in that respect
+- All educational institutions must be publicly funded, and funding may not be based on residential property values
+- Public education shall be equally funded across communities regardless of economic conditions of the community
+- Any private institutions that remain must adhere to all Federal and State guidelines and educational requirements
+- Private Universities shall honor Public Education costs for eligible students
+- Universal Education will include Trade Schools, Vocational Schools, and Pre School programs
+- Education facilities may not price gouge required textbooks, supplies, or cost/credit
+- The Department of Education will set the cost per credit
+- The Department of Education will set the standard for accreditation
+- No Education program, private or otherwise, may operate without Federal Accreditation requirements being met.
+- Transferring of credits between universities shall be honored in full at no cost
+- All Credit Hours shall be weighted the same, no longer allowing for a distinction between Semester or Quarterly Hours
+- Any institutions that utilize one or the other shall convert all earned credit 1:1 to Semester Hours.
+Curriculum and enforcement of Curriculum
+- Boards of Education below the level of state shall be abolished, and those duties and responsibilities shall be carried about by the Superintendent instead
+- Curriculum determinations shall be carried out by education professionals and adhere to national and state standards respectively
+- Any government instruction, body, department, board, or similar authority that attempts to ban books based on prejudice, political, or nonacademic reasons shall have those decision and policy makers removed from their respective positions and charged under the 14th Amendment
+- The same holds true for white washing history, not teaching the horrors of slavery, the negative impact of US Imperialism, the genocide of 1st nations, or the various historical crimes committed against minority groups by the federal government, respective to the age groups being taught.
+- Antebellum and similar pro-confederate curriculum shall be disallowed and violations thereof will be considered acts of Treason against the United States of America
+- Implementation of MOOC education, online education in general, and alternative education options for students who learn differently than traditional classroom settings shall be established, and made available to students.
+- Special needs, or disabilities education considerations shall receive the proper funding and personnel support to ensure all students receive a quality education
+- There shall be efforts to modernize the way the United States approaches education and take from the successful education programs of our international partners specifically: Germany and Finland
+- The way Finland funds its education programs should be tested in districts across the several states
+- Elimination of home work, and increased rest between lessons shall be universally applied across grades K – 12
+- Study, and outside classroom activities at secondary education levels of study and beyond shall be drastically reduced within the confines of the course of study.
+- It is understood that some fields of study demand outside hours of research, or continuous research, however, study, rest, and life balance shall be observed
+Germany’s education system allows for a 4 directional approach to education and should be tested in districts across the several states
+- These districts will have graduation criteria for:
+- Shortened graduation times for earlier entry into the work force
+- Graduation terms for Vocational and Trade School centric students
+- Graduation terms for University and College centric students
+- Graduation terms for standard entry into the work force
+- All systems shall allow for transfer between so long as students are able to meet the criteria, or are willing to extend their education to meet those criteria

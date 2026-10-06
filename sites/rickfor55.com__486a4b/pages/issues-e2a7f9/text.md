@@ -1,0 +1,30 @@
+ISSUES
+RICK ON THE ISSUES
+Here are the issues I'm hearing from you on problems we've got to solve,
+things that will make a difference for GJ families,
+and a few of my own thoughts on the kind of leadership
+I'd like to see in Colorado.
+business
+Colorado's small businesses are the backbone of our economy, yet they continue to face rising costs and an ever-growing list of regulations.
+Employers continue to encounter numerous new labor, employment, consumer protection, and compliance mandates that have increased costs and administrative burdens across the state.
+Businesses are spending more time navigating regulations and less time creating jobs, serving customers, and growing their operations.
+It's time to put Colorado's job creators first.
+We need a business climate that encourages investment, supports small businesses, and keeps employers from moving jobs and opportunities to other states.
+Our local businesses deserve a seat at the table and a government that understands the challenges they face every day.
+EDUCATIOn & Higher Education
+Colorado’s education system continues to face long-term structural challenges in both K-12 funding and higher education support.
+While SB26-023, the 2026 School Finance Act, makes adjustments to per-pupil funding and updates elements of the state funding formula, it does not resolve the underlying disparities that persist between regions of the state.
+Western Colorado districts, like District 51, continue to operate under funding levels that trail statewide averages, contributing to ongoing challenges in teacher recruitment, retention, and classroom resources.
+Even with annual adjustments to base funding and formula changes intended to stabilize enrollment calculations, local districts are still left navigating tight budgets and limited flexibility.
+At the same time, higher education institutions are being asked to meet growing workforce demands in healthcare, energy, skilled trades, and public service while facing rising operational costs and constrained funding growth.
+Community colleges and regional universities remain critical to workforce development, yet they often lack the sustained investment needed to keep pace with employer demand.
+We need a more transparent and locally responsive approach to education funding that ensures Western Colorado communities receive a fair share of state investment.
+Future reforms should prioritize direct classroom support, workforce alignment, and accountability in how dollars are allocated across both K-12 and higher education systems.
+A strong education system is essential to Colorado’s long-term economic stability, and it must work for every region of the state, not just the Front Range.
+PUBLIC SAFETY
+Colorado continues to face public safety challenges that remain a concern for many local families and businesses.
+In Grand Junction, 2025 data shows a slight increase in violent crime alongside a notably higher rate of fraud-related offenses compared to the state average.
+These shifts have contributed to ongoing public concern about safety and enforcement capacity.
+These trends place added pressure on local law enforcement agencies that are already managing staffing shortages, increasing workloads, and growing demands for service.
+Ensuring officers have the resources, training, and support they need is critical to maintaining effective community policing and timely response.
+We need a renewed focus on public safety that supports law enforcement, strengthens recruitment and retention, and ensures criminal justice policies are balanced, data-driven, and centered on protecting Colorado communities.

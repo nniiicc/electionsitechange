@@ -1,0 +1,140 @@
+Effective Date: March 19th, 2026
+PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY.
+BY ACCESSING OR USING THIS SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.
+IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS SITE.
+These Terms of Service (“Terms”) apply to your access to and use of the websites, mobile applications and other online offerings (collectively, the “Sites”) provided by the Campaign.
+By accessing or by using our Site, you agree to these Terms, and any terms incorporated by reference.
+If you do not agree to these Terms, do not use our Site.
+We may make changes to these Terms from time to time.
+If we make changes, we will provide you with notice of such changes, such as by sending an e-mail, providing a notice through our Site, or by updating the Effective Date.
+Unless we say otherwise in our notice, the amended Terms will be effective immediately, and your continued use of our Site after we provide such notice will confirm your acceptance of the changes.
+If you do not agree to the amended Terms, you must stop using our Site.
+If you have any questions about these Terms or our Site, please contact us at Campaign Support (as defined above).
+1.
+PRIVACY
+For information about how we collect, use, share and otherwise process information about you, please see our Privacy Policy.
+2.
+CONSENT TO USE OF DATA AND MOBILE COMMUNICATION; SMS PROGRAM TERMS
+Russ Andrews for HD 57 provides alerts and updates to subscribers on Russ Andrews’ campaign, including volunteer opportunities, donation asks and civic engagement alerts.
+If you subscribe to any text programs that the Campaign makes available, the following terms apply:
+By subscribing to Campaign updates or alerts, you consent to receive periodic updates or alerts by automatic text message.
+Text STOP to stop.
+For Help, text HELP or contact us at russ@russforhd57.com or at +1 (970) 279-1627.
+Message and data rates may apply.
+Neither the Campaign nor the participating carriers guarantee that messages will be delivered.
+The Campaign may discontinue the program at any time without notice.
+We will not sell, share, or rent mobile opt-in information to third parties unless required by law.
+By providing your mobile telephone number to Russ for HD 57, you consent to receive recurring automated and non-automated campaign text messages, including campaign updates, volunteer opportunities, event notifications, voter outreach communications, fundraising requests, election reminders, and other information related to the campaign.
+Message frequency may vary.
+Message and data rates may apply.
+To stop receiving text messages, reply STOP to any message.
+You may receive a final confirmation message confirming your opt-out request.
+For assistance, reply HELP to any message or contact the campaign at russ@russforhd57.com or at +1 (970) 279-1627
+.
+Your consent to receive text messages is not required as a condition of making a contribution, volunteering, or otherwise participating in campaign activities.
+Russ for HD 57 does not sell, rent, or share mobile opt-in information, text messaging consent, or related personal information with third parties or affiliates for marketing or promotional purposes.
+Information may be shared only with vendors and service providers acting on behalf of the campaign, as required by law, or as necessary to comply with campaign finance and election laws.
+Carriers are not liable for delayed or undelivered messages.
+By participating in the SMS program, you acknowledge that you have read and agree to these Terms and Conditions and the campaign’s Privacy Policy.
+3.
+USER CONTENT
+Our Site may allow you and other users to create, post, store and share content, including messages, comments, stories, text, photos, graphics, videos, music, and other materials (collectively, “User Content”).
+Except for the license you grant below, you retain all rights in and to your User Content, as between you and the Campaign.
+If you submit any User Content to the Campaign, including through the Site, you grant the Campaign and its employees, contractors, service providers, and consultants, a nonexclusive, royalty-free, worldwide, fully paid, and sublicensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, publicly perform and display such User Content, and any name, username or likeness provided in connection therewith, in all media formats and channels now known or later developed without compensation to you, in connection with the Site and the Campaign.
+You may not create, post, store or share any User Content that violates these Terms or for which you do not have all the rights necessary to grant us the license described above.
+You represent and warrant that your User Content, and our use of such content as permitted by these Terms, will not violate any rights of or cause injury to any person or entity.
+Although we have no obligation to screen, edit or monitor User Content, we may delete or remove User Content at any time and for any reason with or without notice.
+4.
+PROHIBITED CONDUCT AND CONTENT
+You will not violate any applicable law, contract, intellectual property right or other third-party right or commit a tort in connection with any User Content you post to the Site, and you are solely responsible for your conduct while using our Site.
+You will not:
+· Engage in any harassing, threatening, intimidating, predatory or stalking conduct;
+· Impersonate or post on behalf or any person or entity or otherwise misrepresent your affiliation with a person or entity;
+· Sell, resell or commercially use our Site;
+· Copy, reproduce, distribute, publicly perform or publicly display all or portions of our Site, except as expressly permitted by us or our licensors;
+· Modify our Site, remove any proprietary rights notices or markings, or otherwise make any derivative works based upon our Site;
+· Use our Site other than for their intended purpose and in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying our Site or that could damage, disable, overburden or impair the functioning of our Site in any manner;
+· Reverse engineer any aspect of our Site or do anything that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Site;
+· Use any data mining, robots or similar data gathering or extraction methods designed to scrape or extract data from our Site;
+· Develop or use any applications that interact with our Site without our prior written consent;
+· Send, distribute or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes;
+· Bypass or ignore instructions contained in our robots.txt file; or
+· Use our Site for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
+You may also post or otherwise share only User Content that is non-confidential and that you have all necessary rights to disclose.
+You may not create, post, store or share any User Content that:
+· Is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory or fraudulent;
+· Would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party or otherwise create liability or violate any local, state, national or international law;
+· May infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party;
+· Contains or depicts any statements, remarks or claims that do not reflect your honest views and experiences;
+· Impersonates, or misrepresents your affiliation with, any person or entity;
+· Contains any unsolicited promotions, advertising or solicitations;
+· Contains any private or personal information of a third party without such third party’s consent; or
+· Contains any viruses, corrupted data or other harmful, disruptive or destructive files or content.
+Enforcement of this Section 4 is solely at the Campaign’s discretion, and failure to enforce this section in some instances does not constitute a waiver of our right to enforce it in other instances.
+In addition, this Section 4 does not create any private right of action on the part of any third party or any reasonable expectation that the Site will not contain any content that is prohibited by such rules.
+5.
+OWNERSHIP; LIMITED LICENSE
+The Site, including the text, graphics, images, photographs, videos, illustrations and other content contained therein, are owned by the Campaign or our licensors and are protected under both United States and foreign laws.
+Except as explicitly stated in these Terms, all rights in and to the Site are reserved by us or our licensors.
+Subject to your compliance with these Terms, you are hereby granted a limited, nonexclusive, nontransferable, non-sublicensable, revocable license to access and use our Site for your own personal, noncommercial use.
+Any use of the Site other than as specifically authorized herein, without our prior written permission, is strictly prohibited, will terminate the license granted herein and violate our intellectual property rights.
+6.
+TRADEMARKS
+Our logos, our slogans, and the look and feel of the Site are trademarks of the Campaign and may not be copied, imitated or used, in whole or in part, without our prior written permission.
+All other trademarks, registered trademarks, product names or logos mentioned on the Site are the property of their respective owners.
+Reference to any products, services, processes or other information by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation by us.
+7.
+FEEDBACK
+You may voluntarily post, submit or otherwise communicate to us any questions, comments, suggestions, ideas, original or creative materials or other information about the Campaign or our Site.
+You understand that we may use such Feedback for any purpose, commercial or otherwise, without acknowledgment or compensation to you, including, without limitation, to develop, copy, publish, or improve the Feedback in the Campaign’s sole discretion.
+You understand that the Campaign may treat Feedback as non-confidential.
+8.
+REPEAT INFRINGER POLICY; COPYRIGHT COMPLAINTS
+In accordance with the Digital Millennium Copyright Act and other applicable law, we have adopted a policy of terminating, in appropriate circumstances, the accounts of users who repeatedly infringe the intellectual property rights of others.
+If you believe that anything on our Site infringes any copyright that you own or control, you may notify the Campaign via Campaign Support.
+Please note that if you knowingly misrepresent that any activity or material on our Site is infringing, you may be liable to the Campaign for certain costs and damages.
+9.
+THIRD-PARTY CONTENT, PRODUCTS, AND SITES
+We may provide information about third-party organizations, events, products, services, or activities, or we may allow third parties to make their content and information available on or through the Site (collectively, “Third-Party Content”).
+We provide Third-Party Content as a service to those interested in such content.
+Your dealings or correspondence with third parties and your use of or interaction with any Third-Party Content are solely between you and the third party.
+The Campaign does not control or endorse, and makes no representations or warranties regarding, any Third-Party Content, and your access to and use of such Third-Party Content is at your own risk.
+10.
+INDEMNIFICATION
+To the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless the Campaign, its employees, contractors, service providers, consultants, successor organizations, and each of their respective officers, directors, agents, partners and employees (individually and collectively, the “Indemnified Parties”) from and against any losses, liabilities, claims, demands, damages, expenses or costs (“Claims”) arising out of or related to (a) your User Content or Feedback; (b) your violation of these Terms; (c) your violation, misappropriation or infringement of any rights of another (including intellectual property rights or privacy rights); or (d) your misconduct in connection with the Site.
+You agree to promptly notify Indemnified Parties of any third-party Claims, cooperate with Indemnified Parties in defending such Claims and pay all fees, costs and expenses associated with defending such Claims (including, but not limited to, attorneys’ fees).
+You also agree that the Indemnified Parties will have control of the defense or settlement, at the Indemnified Party’s sole option, of any third-party Claims.
+11.
+DISCLAIMERS
+Your use of our Site is at your sole risk.
+Except as otherwise provided in a writing by us, our Site and any content therein are provided “as is” and “as available” without warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement.
+In addition, the Campaign does not represent or warrant that our Site are accurate, complete, reliable, current or error-free.
+While the Campaign attempts to make your use of our Site safe, we cannot and do not represent or warrant that our Site or servers are free of viruses or other harmful components.
+You assume the entire risk as to the quality and performance of the Site.
+12.
+LIMITATION OF LIABILITY
+To the fullest extent permitted by applicable law, the Campaign and its contractors, service providers, consultants, successor organizations, and joint committee members, and each of their respective officers, directors, agents, and employees, will not be liable to you under any theory of liability (whether based in contract, tort, negligence, strict liability, warranty, or otherwise) for any indirect, consequential, exemplary, incidental, punitive or special damages or lost profits, even if such parties have been advised of the possibility of such damages.
+The total liability of the Campaign and its employees, contractors, service providers, consultants, successor organizations, and each of their respective officers, directors, agents, and employees, for any claim arising out of or relating to these Terms or our Sites, regardless of the form of the action, is limited to the amount of compensation you pay, if any, to use or access the Sites.
+Certain state laws may not allow limitations on implied warranties or the exclusion of certain damages.
+Therefore, some or all of the above disclaimers, exclusions, or limitations may not apply to you, and you may have additional rights.
+13.
+GOVERNING LAW AND VENUE
+Any dispute arising from these Terms and your use of the Site will be governed by and construed and enforced in accordance with the laws of the state where the Campaign Headquarters (as defined above) is located, except to the extent preempted by U.S. federal law, without regard to conflict of law rules or principles that would cause the application of the laws of any other jurisdiction.
+Any dispute between the parties will be resolved in the state or federal courts in the county in which the Campaign Headquarters is located.
+14.
+MODIFYING AND TERMINATING OUR SITE
+We reserve the right to modify our Site or to suspend or stop providing all or portions of our Site at any time.
+You also have the right to stop using our Site at any time.
+We are not responsible for any loss or harm related to your inability to access or use our Site.
+All of the terms of these Terms (excluding our license grants to you) will survive any termination or suspension.
+15.
+SEVERABILITY
+If any provision or part of a provision of these Terms is unlawful, void or unenforceable, that provision or part of the provision is deemed severable from these Terms and does not affect the validity and enforceability of any remaining provisions.
+16.
+MISCELLANEOUS
+The failure of the Campaign to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision.
+The section titles in these Terms are for convenience only and have no legal or contractual effect.
+Except as otherwise provided herein, these Terms are intended solely for the benefit of the parties and are not intended to confer third-party beneficiary rights upon any other person or entity.
+You agree that communications and transactions between us may be conducted electronically.
+Paid for by Russ for HD 57.
+Registered Agent Marge Klein.

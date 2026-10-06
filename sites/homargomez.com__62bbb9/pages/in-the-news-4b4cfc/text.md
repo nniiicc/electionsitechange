@@ -1,0 +1,6 @@
+In The News
+Easthampton Council President Homar Gómez launches bid for state representative
+EASTHAMPTON — Seven years after entering the political spotlight as a member of the Easthampton City Council, Homar Gómez on Thursday officially launched a bid for state representative for the 2nd Hampshire District…
+Homar Gómez works to inspire hope as an Easthampton civic leader representative
+His story: Homar Gómez is a member of the Easthampton City Council, representing the city’s second district.
+During his tenure, he has served as council president, chair of the Public Safety Committee, and on the city’s Finance Committee…

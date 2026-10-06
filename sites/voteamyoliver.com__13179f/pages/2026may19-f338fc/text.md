@@ -1,0 +1,22 @@
+FOR IMMEDIATE RELEASE - May 19, 2026
+Amy Huffman Oliver for IN State Representative District 62
+Press Contact: Jenni Bohn, Communications Director
+Jenni@voteamyoliver.com, PHONE 812-391-0528
+Democratic Legislative Campaign Committee Names Amy Huffman Oliver as a Top Target Race to Break the GOP Supermajority in the Indiana House
+For the first time in history, Indiana State House District 62 is on the national map with Democratic candidate Amy Huffman Oliver.
+The Democratic Legislative Campaign Committee (DLCC) has named the Indiana District 62 race as one of 11 with the power to end two decades of unchecked Republican control of the Indiana House.
+District 62 includes all of Brown County and parts of Monroe and Jackson Counties.
+Breaking the GOP supermajority in the Indiana House is a top priority for the DLCC, and Oliver’s race is crucial to gaining ground.
+The DLCC is the official Democratic Party committee charged with identifying the best opportunities to build Democratic power in state legislatures, and its Target Race program highlights candidates in the most competitive and consequential races nationwide.
+DLCC President Heather Williams issued the following statement:
+“Democrats need to flip just four seats to break the GOP supermajority in the Indiana House.
+Every single race counts for building Democratic power and fighting against GOP extremism.
+Hoosiers deserve leaders who will fight to make life more affordable for working families, which is why the DLCC is proud to uplift Amy Huffman Oliver in this must-win race.
+Amy has already hit the ground running, and the DLCC will be there every step of the way to get her and Indiana Democrats across the finish line.”
+Oliver responded to the news by saying, “I appreciate the support and vote of confidence from the DLCC - it makes me want to work even harder to earn the trust of my neighbors in District 62.”
+To explore the DLCC Target Race page, go to https://www.dlcc.org/state/in/
+To find out more about Oliver and her campaign, go to voteamyoliver.com.
+To donate to Oliver’s campaign, go to https://secure.actblue.com/donate/nlcc.
+###
+Political donations are not tax-deductible.
+Paid for and authorized by Friends of Amy Huffman Oliver, Jim Oliver, Treasurer.

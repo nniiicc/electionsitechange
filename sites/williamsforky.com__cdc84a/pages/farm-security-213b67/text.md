@@ -1,0 +1,33 @@
+AMERICAN FOOD
+SECURITY PLAN
+A dependable food supply requires productive farmland, healthy livestock, and reliable ways to process and deliver what farmers produce.
+This plan strengthens domestic agriculture through responsible cattle herd expansion, soil and water conservation, greater access to veterinary care, and investment in local processing and transportation.
+By addressing the practical needs of production from pasture and field to the marketplace, it helps farms withstand disruptions, reach more buyers, and preserve the agricultural resources that future generations will depend on.
+- Promotes diversified crop and livestock production on the same farm to strengthen income stability, support responsible land use, and reduce dependence on a single commodity.
+- Provides grants and affordable financing for farms adding complementary crops, livestock, orchards, beekeeping, or other agricultural enterprises, including equipment and initial transition costs.
+- Funds practical training and individualized farm planning through extension offices to help producers coordinate planting, grazing, soil management, and shared resources across multiple agricultural activities.
+- Expands access to whole-farm revenue insurance and transition assistance, with simplified applications that account for income from multiple crops and livestock enterprises.
+- Builds reliable local, domestic, and international crop markets by connecting farmers with buyers, securing advance purchasing commitments, and strengthening community participation in agriculture.
+- Supports local purchasing partnerships among farmers, schools, hospitals, grocers, and residents, including crop subscriptions and advance buying agreements that give communities a direct stake in local agriculture.
+- Funds farmer-owned marketing cooperatives that combine crop volumes, identify regional and national demand, and negotiate advance sales contracts so farmers can plan production around available buyers.
+- Provides shared export services for small and midsize farms, including overseas buyer matching, certification and customs assistance, and affordable insurance against buyer nonpayment.
+- Strengthens domestic beef production by restoring productive pasture, supporting family ranches, and expanding herds responsibly to improve food security and reduce import dependence.
+- Establishes proposed targets of 14 million acres of suitable pasture and 3 million additional cattle annually, subject to USDA feasibility review and regional grazing capacity.
+- Provides grants and affordable financing for breeding stock, pasture restoration, fencing, and livestock water systems, prioritizing small and family operations.
+- Directs USDA to coordinate expansion with domestic feed availability, processing capacity, and market demand, with public reporting on herd growth and feed use.
+- Empowers community meat processors to expand local food supplies and direct sales while maintaining clear food safety standards and affordable access to regulatory assistance.
+- Amends federal law to let states authorize intrastate sales from qualifying custom processors to consumers, restaurants, and retailers under sanitation, labeling, traceability, and recall requirements.
+- Funds the reopening, expansion, and modernization of small community meat facilities, including mobile processing units where practical.
+- Expands state inspection capacity and technical assistance so small processors can meet food safety requirements and access local markets without unmanageable compliance costs.
+- Connects farms with reliable transportation and distribution networks by improving rural freight infrastructure and helping smaller producers reach more buyers at competitive costs.
+- Creates dedicated funding for rural roads and bridges essential to agricultural access, prioritizing deteriorating crossings and routes where weight restrictions disrupt farm deliveries.
+- Improves agricultural connections to rail terminals, inland ports, and river freight facilities while supporting regional loading and distribution centers.
+- Supports producer cooperatives that coordinate hauling, share refrigerated transportation, and negotiate freight contracts to help small farms reach processors, institutional buyers, and retail markets.
+- Protects long-term agricultural productivity by rewarding voluntary practices that conserve water, restore soil health, and reduce erosion while keeping farms in production.
+- Expands voluntary conservation payments for cover crops, rotational grazing, erosion control, and stream buffers that protect productive farmland and nearby waterways.
+- Provides upfront assistance for soil restoration, water conservation, and drought preparedness projects, prioritizing small and family farms.
+- Simplifies applications and funds local technical assistance, soil testing, and ongoing monitoring to help farmers choose effective practices and document results.
+- Ensures livestock health and agricultural resilience by expanding access to rural veterinarians, supporting mobile services, and improving disease detection and emergency response.
+- Expands federal veterinary loan repayment for veterinarians who commit to serving livestock producers in designated rural shortage areas.
+- Provides grants for mobile veterinary units, essential equipment, and rural practice startup costs to bring routine and emergency care closer to farms.
+- Strengthens veterinary diagnostic laboratories, disease monitoring, and coordinated outbreak response to protect livestock, agricultural livelihoods, and the food supply.

@@ -17,5 +17,5 @@ FIGHTING FRAUD.
 Closing the loopholes that leave programs exposed, and showing Minnesotans where their tax money goes.
 LEADERSHIP YOU CAN TRUST.
 Present, responsive, and working for you, not for lobbyists.
-49 ORGANIZATIONS BEHIND JEN
+50 ORGANIZATIONS BEHIND JEN
 Labor, farm, environmental, health care and community groups across Minnesota are behind this campaign, including the Minnesota Farm Bureau, the Minnesota Professional Fire Fighters, Education Minnesota, the Minnesota AFL-CIO, Conservation Minnesota and the Committee to Protect Health Care.

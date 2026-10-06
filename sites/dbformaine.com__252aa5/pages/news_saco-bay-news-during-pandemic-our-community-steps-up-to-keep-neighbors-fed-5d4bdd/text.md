@@ -1,0 +1,3 @@
+| Last March, as many of us in Maine were looking forward to gearing up for a break in the weather and preparing to enjoy our eventual wonderful summer, the coronavirus pandemic hit us like the wave of a tsunami.
+Overnight, schools across Maine closed, businesses across the state closed, and many were left frightened and uncertain as to how to proceed and how these closures would impact our communities.
+State government shifted much of its operations to remote work and the Legislature abruptly adjourned, as all of us in the Legislative Branch agreed that it was the safest thing to do as we tried to navigate these uncertainties. | Blog Latest News Archives Categories |

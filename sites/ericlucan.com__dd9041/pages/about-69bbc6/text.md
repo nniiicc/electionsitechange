@@ -1,0 +1,40 @@
+Meet Eric
+leading with heart.
+Governing with Experience.
+A champion for families.
+Supervisor Eric Lucan is a lifelong public servant with a strong business background.
+Until his election to Supervisor, he served as the Chief Marketing Officer for Mike's Bikes, a North Bay-grown business.
+Born and raised in Marin, Eric and his wife, Kiley, are proud parents to a young growing family.
+Eric’s commitment to community has deep roots and began early in life, supporting local youth.
+He began his local government engagement as a Novato Parks and Recreation Commissioner.
+From there he served three terms on the Novato City Council before being overwhelmingly elected to the Marin County Board of Supervisors in 2022 to represent District 5.
+As County Supervisor, Eric Lucan has championed lasting solutions to homelessness, helping reduce the population of Marin’s largest encampment through permanent housing efforts.
+In partnership with Homeward Bound, Eric supported the successful placement of unhoused veterans into 24 dedicated units, effectively ending veteran homelessness in the county.
+He has also successfully worked to secure housing for foster youth and expand critical housing initiatives for our older adults.
+As a current Marin First 5 Commissioner, Eric has focused on building a solid foundation for local families.
+He also serves as Board Chair of the Transportation Authority of Marin, where he has helped to guide major investments in transportation and Marin's infrastructure future, including the long-awaited Marin-Sonoma Narrows Highway 101 improvement, set to open in the summer of 2025.
+Public Service:
+2022 - Current: Marin County Supervisor
+2026 - President, Marin County Board of Supervisors
+2011 - 2022: Novato City Council Member
+2007 - 2011: Novato Parks & Recreation Commissioner
+Professional Experience:
+2014 - 2022:
+Mike’s Bikes Chief Marketing Officer (Novato)
+2010 - 2014: Kimpton Hotels & Restaurants
+Marketing Director (San Francisco)
+2004 - 2022: Marketing Professional
+2005: Georgia State University MBA
+Organizations:
+Chair, Marin Transit
+Board of Directors, Sonoma-Marin Area Rail Transit (SMART) (former Chair)
+Boardmember, Transportation Authority of Marin,
+Current Commissioner (former Chair)
+Commissioner, Marin County First 5 Commission
+Boardmember, LAFCO
+Marin County Council of Mayors and Councilmembers (former President)
+Novato Parks & Recreation Commissioner (former)
+MarinKids Member (former Treasurer)
+Novato Police Department Volunteer Chaplain (former)
+Novato Youth Soccer Coach (former)
+2012 Top 40 Under 40, North Bay Business Journal

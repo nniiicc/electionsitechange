@@ -1,0 +1,16 @@
+FOR IMMEDIATE RELEASE: May 26, 2026
+Media Contact: Haley Townes
+(909) 697-5799
+California School Employees Association Endorses Esmeralda Soria for State Senate District 14
+Nation’s largest classified school employee union backs Soria, signaling broad labor support across the Central Valley ahead of the SD-14 primary
+FRESNO, CA – Assemblymember Esmeralda Soria has earned the endorsement of the California School Employees Association (CSEA) in her campaign for State Senate District 14.
+CSEA represents more than 240,000 classified school employees across California, including paraeducators, custodians, bus drivers, food service workers, and office staff who keep schools running every day.
+“Classified school employees are the backbone of our schools and our communities,” said Assemblymember Soria.
+“They are the first faces our children see in the morning and the last to make sure they get home safely.
+I am committed to always showing up for them in Sacramento just as they show up for our students every single day.”
+CSEA’s endorsement joins a growing list of labor organizations, elected officials, and community leaders who have rallied behind Soria’s campaign, reflecting the broad coalition she is building across Fresno, Merced, and Madera Counties.
+“As we continue to build support across Senate District 14, I’m focused on earning the trust of every voter in this district,” Soria added.
+“There is important work ahead, and I will keep fighting for the working families, educators, and communities that make the Central Valley strong.”
+Soria’s campaign has built a powerful, diverse coalition of over 100 elected officials and leading organizations across California, all united by a shared belief that the Central Valley deserves a proven, fearless advocate in the State Senate.
+For more information and a full list of endorsements, visit www.soriaforcalifornia.com
+###

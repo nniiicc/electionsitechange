@@ -1,0 +1,15 @@
+top of page
+VT HOUSE • CHITTENDEN 24
+Home
+About
+Blog
+Merch
+Events
+Donate
+All Posts
+Campaign Updates
+Search
+AI, Innovation, and Vermont Small Business
+A conversation at Black Flannel explored how AI and emerging technologies can help Vermont small businesses improve productivity, use data more effectively, and compete in a changing economy.
+Stephanie Mack
+bottom of page

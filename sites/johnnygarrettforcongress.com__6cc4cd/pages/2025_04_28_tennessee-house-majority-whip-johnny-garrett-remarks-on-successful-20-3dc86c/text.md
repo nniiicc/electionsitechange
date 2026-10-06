@@ -1,0 +1,3 @@
+Tennessee House Majority Whip Johnny Garrett (R-Goodlettsville) reflected on the recently-adjourned 2025 legislative session of the Tennessee General Assembly during a conversation Friday with The Tennessee Star’s CEO and Editor-in-Chief Michael Patrick Leahy where he applauded state lawmakers for their “successful” work, specifically when it came to passing a “good conservative budget.”
+On Tuesday evening, Tennessee state legislators moved to adjourn this year’s legislative session, marking the official end of the 2025 session of the 114th Tennessee General Assembly which saw over 600 bills passed and become law.
+Read the full article here.

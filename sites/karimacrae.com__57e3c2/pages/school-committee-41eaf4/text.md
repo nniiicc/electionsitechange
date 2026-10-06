@@ -1,0 +1,22 @@
+Bourne - Falmouth - Kingston - Mashpee - Pembroke - Plymouth - Plympton - Sandwich
+Affordability
+- I will advocate for fiscal accountability in the state budget
+- I oppose any additional tax increases on families and small businesses
+- I will defend the rights of small business owners
+Support the Audit of the Legislator
+- I will support the state auditor in completing a full audit
+- 72% of voters support the audit
+Public Safety
+- I support full cooperation between local, state, and federal law enforcement agencies
+- I oppose safe injection sites and will advocate for additional rehabilitation resources to serve the substance abuse community
+- I oppose Massachusetts becoming a sanctuary state
+Education
+- I will advocate for parental rights in education
+- I will support curriculum transparency in the classroom while keeping Critical Race Theory ideologies out of our classrooms
+- Will advocate for additional funds to provide our schools the resources needed to close the "educational gap" created during the pandemic
+Protect Your Rights
+- I am guided by our state Constitution and the U.S.
+Constitution
+- I will fight for and defend individual rights and freedoms
+- I oppose restrictive government mandates
+- I support the 2nd Amendment as written

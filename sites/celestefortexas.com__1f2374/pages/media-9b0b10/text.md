@@ -1,0 +1,1 @@
+Media & Press Releases (Click on image to open file) 09/10/2025-PRESS RELEASE-Click Image to download files 11/12/25-PRESS RELEASE-Republican Candidate Announces Filing in Austin Click Image to download files Project Four

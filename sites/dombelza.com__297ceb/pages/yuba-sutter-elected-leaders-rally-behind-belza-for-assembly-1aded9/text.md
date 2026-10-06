@@ -1,0 +1,32 @@
+Endorsed by a Majority of Sutter County, Yuba County, Marysville & Yuba City Officials
+Marysville, Calif. – Just days after launching his campaign for State Assembly, North State Agriculture Businessman Dom Belza today announced an impressive list of endorsements from elected leaders in Yuba and Sutter Counties.
+“I am incredibly honored that the elected leadership in Yuba-Sutter has come out so strongly to unify behind our campaign,” said Belza.
+“The North State is hungry for leadership that will continue to build on the legacy being left by Assemblyman Gallagher when he terms out in two years.
+I am thankful for the trust that these leaders have placed in me to carry on the torch and fight for our way of life in Sacramento.”
+The announced list of endorsements includes:
+YUBA COUNTY
+Wendell Anderson, Sheriff
+Clint Curry, District Attorney
+Gary Bradford, Supervisor
+Renick House, Supervisor*
+Jon Messick, Supervisor
+SUTTER COUNTY
+Dan Flores, Supervisor
+Jeff Stephens, Supervisor*
+Mike Ziegenmeyer, Supervisor
+CITY OF YUBA CITY
+Dave Shaw, Mayor
+Marc Boomgaarden, Vice Mayor
+Shon Harris, Councilmember*
+Mike Pasquale, Councilmember
+Toni Cole, Councilmember
+CITY OF MARYSVILLE
+Chris Branscum, Mayor
+Bruce Buttacavoli, Vice Mayor
+Brad Hudson, Councilmember
+*Incoming or Outgoing Elected Leader
+The 3rd Assembly District encompasses all or portions of six counties: Butte, Sutter, Yuba, Tehama, Glenn, and Placer.
+Dom Belza is an agricultural business owner, from a legacy farming family, and up until recently served as a local City Councilman.
+For the past 19 years, he has worked as a local realtor and businessman, investing in and selling agricultural and commercial properties.
+Dom Belza has been married to his wife, Julia, for 11 years, and together they have four children: three daughters—Rylee (9), Raegan (7), and Ruby (5)—and one son, Johnny (2).
+###

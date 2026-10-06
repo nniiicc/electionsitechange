@@ -1,0 +1,42 @@
+★ Expand AHCCCS & Fund Rural Clinics
+Unlike Senator Gowan and Representative Diaz, I actually have a plan to help struggling rural Arizonans afford healthcare:
+Beyond expanding AHCCCS and properly funding rural clinics, I plan to introduce legislation to create Arizona SHIELD (Stable Healthcare Inclusive for Everyone to Live Dependably).
+Arizona SHIELD will act as a safety net for the people who need healthcare the most.
+Low-income residents who can’t afford essential healthcare services and—through no fault of their own—do not qualify for AHCCCS will be eligible for full coverage for medical bills they are unable to pay.
+This accomplishes the following:
+1) Keeps Arizonans healthy regardless of whether or not they can afford medical services, and
+2) Supports hospitals and clinics who treat primarily low-income patients.
+When the corrupt Republican lawmakers in the State Legislature fail us, we can rely on Arizona SHIELD to protect Arizonans.
+★ Invest in & Protect Our Public Schools
+Senator Gowan and Representative Diaz both have a history of voting to cut K-12 funding and expand ESA vouchers—a program fraught with waste, fraud, and abuse.
+Even though almost 90% of K-12 students in Arizona attend public institutions, they continue to fail the vast majority of their constituents who rely on them by bleeding our schools dry.
+Unlike Gowan or Diaz, I will fight to expand public school funding and eliminate ESA vouchers for the vast majority of Arizonans.
+Every parent has the right to give their child whatever education they wish, but that does not mean public schools must suffer.
+ESAs should ONLY be reserved for extreme circumstances that greatly affect a child’s education ability.
+While every parent has the right to pull their child out of public schools, for any reason, the state should not be made responsible for funding that child’s education.
+★ Defend Border Communities & Migrants from Persecution
+Republican xenophobia has created a state of terror for our most vulnerable migrant communities.
+These tax-paying, hard-working families are responsible for keeping our country running.
+Instead of inciting chaos in our streets and neighborhoods like MAGA wants, I will stand alongside our immigrant communities and put an end to this tyranny brought about by the Trump administration.
+★ Protect the Right to Abortion & Medical Privacy
+Since the repeal of Roe v.
+Wade in 2022, many Arizona Republicans have felt emboldened to strip away the rights of women to choose what to do with their own bodies.
+Instead of encouraging excessive government overreach, I believe that we should leave medical decisions to an individual and their practitioner.
+★ Conserve Arizona Water
+How Our Current State Legislators Have Addressed Water Concerns:
+- David Gowan, who has served in the Arizona State House and Senate—and is now running for Arizona State House again in order to avoid term limits—continues to support bills to allow billionaires to have water rights that supersede those of our own communities.
+This affects smaller rural towns like Sierra Vista the most.
+- Gail Griffin supports giving farmers’ right to pump their own water to developers.
+- Diaz has supported multiple bills to shut down the Department of Water Resources— the critical state department that handles water resources—and give water resourcing authority to one director per each Active Management Area.
+Effectively giving one person the sole authority to determine who get’s water resourcing funding grants in Active Management Areas.
+This is just a small taste of how disconnected these longtime career politicians are from actual rural Arizonans.
+They serve their corporate backers, lobbyists, and investors; they do not serve the people who elected them.
+Other Core Values:
+★ Minimum wage increased to a livable wage through a staggered approach.
+★ I fully condemn the genocide perpetrated by Israel against Palestine and Gaza.
+★ Restrict the destruction of indigenous holy and religious sites.
+★ I fully condemn all: islamophobia, antisemitism, xenophobia, homophobia, transphobia, bigotry of religious freedom, bigotry of Native Americans and Indigenous People of the US, and bigotry against the LGBTQIA+2S Community.
+★ Stop using Arizonan prisons as for-profit organizations.
+★ Arizonan felons who have done their time should be able to vote.
+★ Treatment and help for drug use, criminalization; drug trafficking issues of extremely harmful drugs, e.g. fentanyl, should continue to be addressed.
+★ Get big money out of politics; install contribution and expenditure caps for state elections.

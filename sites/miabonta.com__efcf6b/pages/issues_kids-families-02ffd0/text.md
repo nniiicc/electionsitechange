@@ -1,0 +1,19 @@
+Mia Bonta believes in
+Children & Families
+Mia founded the California Legislative Children's Caucus — a bipartisan, bicameral coalition of over 40 lawmakers — because she believes every budget decision, every vote, and every policy should start with one question: is this good for our kids?
+Quality child care shouldn't be a luxury.
+A good education shouldn't depend on your zip code.
+And no child in California should grow up in poverty.
+Mia is fighting on all three fronts — securing funding for Universal PreK, pushing landmark legislation to end child poverty, and building the early childhood systems that give every kid a healthy, supported start.
+The Children's Caucus works across party lines on six pillars: early childcare, physical and mental health, education equity, youth justice and shared safety, housing security, and economic security for families.
+Recent Legislation
+- AB 1996 — No More Child Poverty Act: Landmark legislation to end child poverty in California
+- AB 1969 — It Takes a Village Act of 2026: Community-based family support
+- AB 2092 — Early Childhood Integrated Data System: Building the data infrastructure to track and improve outcomes for California's youngest children
+- AB 350 — Respecting Fluoride for Kids Act: Protecting children's dental health
+- AB 2630: Expanded equal opportunity to submit oral health assessments for TK/Kinder students
+- AB 2403: Strengthened community college student equity plans to improve outcomes for underserved students
+Recent Wins in Sacramento
+- $35M — UPK Block Grant Expansion: Universal Preschool Planning Grants extended and increased for 3- and 4-year-olds statewide
+- $5M — CalBRIDGE: Supporting early education programs and the child care workforce
+- UPK Mixed Delivery Grants: Extended through June 2028 to expand access across all care settings

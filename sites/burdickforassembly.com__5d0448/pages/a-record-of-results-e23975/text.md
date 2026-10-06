@@ -1,0 +1,42 @@
+A RECORD OF RESULTS
+FUNDING FOR OUR SCHOOLS
+Chris has helped secure historic levels of funding for public education, ensuring that every school district across the nine municipalities in the Assembly District receives significant state support—helping maintain excellence in our schools while keeping property taxes down.
+This year, Chris led the charge to secure much-needed capital funding for SUNY schools, as well as funding for students with disabilities throughout NYS colleges and universities.
+He worked alongside his colleagues to help ensure that Foundation Aid continues to be fully funded and that Universal Pre-K will be made available for all four-year-olds by 2028.
+FIGHTING UTILITY RATE INCREASES
+Chris has been fighting utility rate increases on many fronts, including sponsoring and cosponsoring legislation targeted at improving the rate-setting process, and serving as a party (“intervenor”) on both the recent ConEd rate case and the current NYSEG rate case.
+He and his staff have spent countless hours writing testimony, submitting questions of the company, attending confidential settlement meetings, and taking part in litigation.
+Chris is fighting to make the rate-setting process more transparent and equitable, shining a spotlight on the entire system.
+MIDDLE-CLASS TAX CUTS
+Since taking office, Chris strongly advocated and joined colleagues for an acceleration of New York's middle-class tax cuts, resulting in the lowest middle-class tax rates in 70 years for those making a combined income of between $29,700 and $323,200.
+PROTECTING OUR
+ENVIROMENT
+Chris has a 100% rating from the New York League of Conservation Voters based on his strong record of fighting Climate Change and protecting our fragile environment.
+He has sponsored and cosponsored legislation to protect our environment, and works alongside advocates to further environmental causes.
+He has also worked alongside the mayors and supervisors in the district on flood mitigation, wastewater treatment projects, and septic issues to help protect our communities.
+ADVOCATING FOR PEOPLE WITH DISABILITIES
+As Chair of the Subcommittee on Employment Opportunities for People with Disabilities, Chris has prioritized eliminating barriers to employment.
+He also works closely with state agencies to cut red tape for those getting services.
+He has sponsored legislation that has been enacted into law, including making it easier for people with disabilities and veterans to get part-time jobs with the state, making sure government websites are updated for accessibility, and creating a program to encourage the public and private sector to hire more people with disabilities.
+SUPPORTING OUR VETERANS
+As a member of the Veterans’ Affairs Committee, Chris supported changes to the property tax exemption for 100% disabled veterans in this year’s budget, which will result in more veterans being able to take advantage of this exemption.
+He has also secured funding for veterans legal services, and each year he works with local elementary schools on Valentine’s for Vets, delivering Valentine’s Day cards decorated by the school children to local Veterans to show appreciation.
+SECURING FUNDS
+FOR THE DISTRICT
+Chris has secured millions in funding for district municipalities and nonprofits.
+Chris takes pride in working in a nonpartisan manner with every municipality’s elected leaders and community-based organizations to help them secure vital grant funding and needed state authorizations and approvals.
+This funding has been used for:
+- Services for seniors, immigrants, communities of color, the LGBTQIA+ community, and those who are food secure
+- Building upgrades and equipment for local volunteer fire departments, EMS, and veterans facilities
+- ADA upgrades
+- Libraries, open space preservation, and the Arts
+In the FY 2027 Budget, Chris advocated for and successfully delivered:
+- $200 million for SUNY maintenance capital and $100 million for SUNY research
+facilities, as well as $100 million for SUNY to self-finance projects
+- $75 million for Public Housing Authorities outside of New York City
+- $4 million for Students with Disabilities for Postsecondary Success (SWDPS)
+- Funding for many of the nonprofits making a difference in our district
+PRIORITIZING
+CONSTITUENT SERVICES
+Chris and his staff have built a reputation of being exceptionally responsive and compassionate when it comes to constituent services, and have helped resolve thousands of cases concerning a wide range of issues, from delayed unemployment benefits to potholes to DMV difficulties.
+He has bilingual staff to meet the needs of the communities he serves.

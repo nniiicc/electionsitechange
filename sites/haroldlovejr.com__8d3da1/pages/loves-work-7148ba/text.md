@@ -1,0 +1,14 @@
+Love’s Work
+Computer Science for All
+High school students need to learn computer science and be equipped with the computational thinking skills they need to be creators in the digital economy, not just consumers, and to be active citizens in our technology-driven world.
+This law allows high school students to take computer science courses as an elective for graduation.
+TN HBCU Initiative
+The Tennessee Historically Black Colleges and Universities (HBCU) Initiative was created to leverage the resources of all state departments to increase the enrollment, retention and graduation rates of the public and private HBCUs in TN.
+Historically Black Colleges and Universities (HBCUs) have made historic and ongoing contributions to the general welfare and prosperity of our country.
+America's HBCUs, for over one hundred fifty years, have produced leaders in business, government, academia, and the military and have provided generations of men and women with hope and educational opportunity but have not always benefited from equitable funding.
+Reducing Adverse Childhood Experiences
+A child's reaction to trauma can interfere with brain development, learning, and behavior, all of which have a potential impact on a child's academic success as well as the overall school environment.
+This law requires schools to develop trauma informed discipline policies to help school administrators, teachers, and staff can help reduce its negative impact, support critical learning, and create a more positive school environment.
+Reducing Maternal Mortality
+Maternal deaths are a serious public health concern and have a tremendous family and societal impact; Maternal deaths are significantly underestimated and inadequately documented, preventing efforts to identify and reduce or eliminate the causes of death.
+This law establishes a board to review maternal deaths and to develop strategies for the prevention of maternal deaths in Tennessee.

@@ -1,0 +1,40 @@
+The House of Representatives and the Senate adopted the conference committee report on S.16, legislation that relates to EMERGENCY REFILLS OF PRESCRIPTIONS BY PHARMACISTS, and the bill was enrolled for ratification.
+Current law provides authority for pharmacists to dispense an emergency prescription refill of up to a ten-day supply of a medication once within a twelve-month period.
+The bill increases the maximum amount of a medication that may be dispensed for an emergency prescription refill to a fourteen-day supply.
+If the qualifying medication is packaged in a way that it is not possible to dispense a fourteen-day supply, the pharmacist may dispense up to a thirty-day supply.
+The House returned S.635 to the Senate with amendments.
+The legislation authorizes the Department of Motor Vehicles to issue “DRIVERS FOR A CURE” SPECIAL LICENSE PLATES to support medical research that combats cancer.
+Proceeds from the plates must be distributed evenly between the Medical University of South Carolina Hollings Cancer Center and the Duke Cancer Institute.
+The legislation also authorizes the issuance of AIR MEDAL SPECIAL LICENSE PLATES to those who have been awarded the medal in the course of their military service.
+The House amended, approved, and sent the Senate H.4663, legislation AUTHORIZING PHARMACISTS TO ADMINISTER FLU VACCINES TO CHILDREN YOUNGER THAN TWELVE YEARS OLD in accordance with a protocol issued by the Board of Medical Examiners upon recommendation of the Joint Pharmacist Administered Vaccines Committee.
+The legislation builds upon current provisions that authorize pharmacists to administer the influenza vaccine, without a physician’s order, to those who are at least twelve years old.
+The House amended, approved, and sent the Senate H.4776, a bill addressing RESTRICTIONS ON REPRESENTING PARTIES BEFORE THE PUBLIC SERVICE COMMISSION IMPOSED UPON FORMER COMMISSIONERS AND PSC EMPLOYEES.
+The legislation prohibits representing a party in a Public Service Commission proceeding for a period of four years, in the case of a former commissioner, and a period of one year, in the case of a former PSC employee.
+The House amended, approved, and sent the Senate H.4724, a joint resolution establishing a temporary COMMITTEE TO STUDY CERTAIN ISSUES AFFECTING VETERANS that is charged with examining the prevalence and root causes of veteran homelessness in South Carolina.
+The committee’s study must address such issues as: the approximate number of homeless veterans in the state; how many of South Carolina’s veterans have been diagnosed with post-traumatic stress disorder (PTSD); the availability of services for the state’s most economically disadvantaged veterans; and, reasons why traditional Veterans Affairs Services are not alleviating homelessness, particularly with regard to job placement services.
+The committee is composed of: three members of the Senate, appointed by the President of the Senate; three members of the House of Representatives, appointed by the Speaker of the House; and, the Secretary of the South Carolina Department of Veterans’ Affairs or his designee.
+The legislation requires the committee to submit its report to both houses of the General Assembly and to the Governor by the end of 2021 and provides for the committee to dissolve after this deadline.
+The House approved and sent the Senate H.4694, a bill EASING SCHOOL BUS TRAVEL RESTRICTIONS.
+The legislation revises the blanket prohibition that makes it unlawful for a school bus to pass another school bus by establishing an exception which provides that a school bus may pass another school bus on a multilane highway.
+The legislation also eliminates a provision that sets maximum speed limits for school buses.
+The House amended, approved, and sent the Senate H.4454, a bill that revises the criminal offense that applies to drivers ENDANGERING EMERGENCY SERVICES PERSONNEL at accident scenes so that tow truck operators responding to emergency incidents are included among the emergency services personnel.
+2
+The House amended, approved, and sent the Senate H.4938, a bill addressing EXEMPTIONS FROM ELECTRONIC PRESCRIPTION REQUIREMENTS FOR CONTROLLED SUBSTANCES included in Schedules II, III, IV, and V.
+The legislation adds to the electronic prescription requirements exemptions list: a practitioner who writes a prescription for a controlled substance included in Schedules II through V that does not exceed a five-day supply for the patient; and, a practitioner who issues an oral authorization in the case of an emergency situation.
+The legislation revises an existing exemption that addresses hospital discharges so that it also applies to state mental health facilities.
+Another existing exemption is revised so that it also applies to controlled substances administered in a home infusion pharmacy.
+The House amended, approved, and sent the Senate H.4669, a bill that narrows the exemption from ELECTRONICALLY FILING DEATH CERTIFICATES by removing from the exemption physicians who certify fewer that twelve deaths per year and funeral homes that perform fewer than twelve funerals per year.
+By subjecting these individuals to requirements for the electronic filing of death certificates, only those who act, without compensation, as a funeral director on behalf of a deceased family member or friend remain covered by the exemption from electronic filing.
+The House amended, approved, and sent the Senate H.4937, a bill revising provisions for CHARITABLE RAFFLES.
+The legislation makes revisions to provisions authorizing raffles conducted by nonprofit organizations that include: allowing charitable raffles to continue by eliminating the upcoming sunset date when these provisions are set to expire; increasing prize amounts; consolidating reporting requirements; authorizing a nonprofit organization to compensate members for services rendered in a fundraising event that may include raffle costs related to entertainment, such as the costs of a disc jockey, band, auctioneers, support staff, waiters, bartenders, and wait staff utilized to conduct the fundraising event; and removing a prohibition so that raffle funds may be used for the provision of athletic facilities and equipment.
+The House amended, approved, and sent the Senate H.4963, a bill relating to ALCOHOL SAMPLES.
+The legislation establishes a protocol that allows a producer or wholesaler to furnish samples of wines, cordials, and distilled spirits to a retailer.
+The House amended, approved, and sent the Senate H.4710, a bill to strengthen provisions enacted last year as updates to the Youth Access to Tobacco Prevention Act and public school tobacco-free campus policies that take VAPING into account.
+The legislation also applies Clean Indoor Air Act restrictions to vaping.
+The House approved and sent the Senate H.4800, a bill REAUTHORIZING THE JOINT CITIZENS AND LEGISLATIVE COMMITTEE ON CHILDREN through 2030.
+The House approved and sent the Senate H.4078, a bill that revises requirements for the ELECTRONIC SUBMISSION OF REPORTS to the General Assembly so that these requirements also apply to reports that are required to be sent to a legislative standing committee or other committee created by the General Assembly.
+The legislation implements a recommendation arising from the House Legislative Oversight Committee’s study of the South Carolina Commission on Indigent Defense.
+The House gave Special Order status to H.5201, the General Appropriation Bill, and H.5202, the joint resolution making appropriations from the Capital Reserve Fund, so that consideration of the FISCAL YEAR 2020-2021 STATE GOVERNMENT BUDGET is set to begin on Monday, March 9.
+If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
+Box 292434, Columbia, SC 29229.
+Thank you for the opportunity to serve you in the House of Representatives.

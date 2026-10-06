@@ -1,0 +1,28 @@
+[January 24, 2022] | The 156th Georgia General Assembly convened under the Gold Dome on Monday, January 10, 2022, with 40 legislative days to accomplish the people's business.
+We met mostly with all of us seated on the House floor like in normal days.
+A few folks are in the balcony who chose to be.
+We are still not allowing Pages or visitors to the House floor unfortunately due to covid.
+Lots of bills are being prepared for us to review this year and the most important thing we do the Budget, is on all our minds.
+Gov.
+Kemp delivered his fourth State of the State address and reflected on the challenges and successes over the last year, and unveiled several of his legislative and budget priorities, including education, health care and public safety:
+?
+His recommendations include fully funding the state?s school funding formula and restore educational cuts made due to the pandemic.
+He recommended a $2,000 pay-raise for K-12 teachers, assistant teachers and pre-K teachers ahead of the 2022-2023 school year, which would build upon the $3,000 teacher pay raise provided in 2019; plans to provide one-time pay supplements to other critical school personnel.
+? $193 million in the Patients First Act to increase access to health care insurance coverage for Georgia?s most vulnerable populations; includes $139 million to fast track children?s health care.
+? $27.8 million, a 10% provider increase for foster children
+? $1.6 million to gang prosecution programs and sex trafficking; upgrades to GBI crime lab equipment and provide additional staff in the crime lab and medical examiner?s office
+? $600 million for Department of Corrections infrastructure and construction of new facilities.
+?
+Expansion of nursing programs for the University System of Georgia and Technical College System of Georgia, add 136 primary medicine residency slots for the Georgia Board of Health Care Workers, as well as increase funding to Mercer University to mitigate rural doctor shortages.
+?
+Extend Medicaid coverage for new mothers from a six months postpartum coverage to a full year to ensure optimal postpartum care.
+? $5,000 raises for state law enforcement and all full time state employees; includes $150 million to the Employees Retirement System for cost of living adjustment.
+?
+Plans for Technical College System of Georgia to add law enforcement and criminal justice degrees to the state?s high-demand career initiatives; Seeks to provide free tuition to 1,000 students seeking these degrees; supports legislative efforts to graduate an additional 75 state troopers this coming year.
+? $1.6 billion in tax refunds, changing the filing status on a single filer to $250 and married filing to $500
+The only real bill that needs to pass this session is the budget.
+However, other issues that the public may see this year are ?constitutional carry,? to expand 2-A Second Amendment Rights; a referendum on the ballot to allow Georgians to choose whether or not to allow all forms of gaming in Georgia; banning critical race theory in the public education system, to name a few.
+As our House committee meetings get underway, we will continue to offer in-person and virtual attendance options for legislators and members of the public.
+You can watch live streams of all official House committee and subcommittee meetings on the House website from the safety of your home: https://www.legis.ga.gov/schedule/house.
+During this legislative session, I welcome you to reach out to me with your thoughts and opinions on issues or policies as we move throughout the session as well as any constituent requests I may be of assistance with.
+You can reach my Capitol office at 404-656-7153 or you may email me directly at rick.jasperse@house.ga.gov Thank you for allowing me to serve as your state representative for House District 11.

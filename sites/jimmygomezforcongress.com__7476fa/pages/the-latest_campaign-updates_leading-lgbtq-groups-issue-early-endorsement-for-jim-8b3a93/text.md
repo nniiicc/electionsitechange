@@ -1,0 +1,12 @@
+Congressman Jimmy Gomez’ re-election campaign picked up the support of two prominent LGBTQ+ groups, Equality California and the Stonewall Democrats of Los Angeles.
+Los Angeles, March 24, 2022 – Congressman Jimmy Gomez continues to burnish his progressive credentials, releasing endorsements this week from some of the largest LGBTQ+ groups in California and the nation.
+Stonewall Democrats, the first “Stonewall Democratic Club” in the country originally chartered in 1975, overwhelmingly endorsed Congressman Gomez for re-election saying:
+“The Stonewall Democrats are proud to stand with Congressman Gomez again this year” said Alex Mohajer, President of the Stonewall Democrats.
+“He is not only a member of the LGBTQ+ Equality Caucus in DC, but he is a true friend and ally here at home.
+We know that we can count on him to be a leader in the effort to the repeal discriminatory laws, eliminate hate-motivated violence, and improve health and wellbeing for all regardless of sexual orientation or gender identity and expression.”
+Additionally, Equality California, the nation’s largest statewide LGBTQ+ civil rights organization counting over 900,000 members, spoke to the Congressman’s lengthy history of LGBTQ+ allyship and support.
+“Congressman Gomez has always been a strong ally and pro-equality champion for LGBTQ+ Californians,” said Equality California Executive Director Tony Hoang.
+“From advancing civil rights legislation in the State Assembly to his work in Congress fighting for the Equality Act, expanding mental health support services for LGBTQ+ people and helping to eliminate barriers to healthcare for the trans community; we know that we can always rely on Jimmy Gomez to proudly fight for full, lived LGBTQ+ equality in Congress.”
+In the endorsement process, Congressman Gomez spoke to his personal connection with LGBTQ+ community, pointing to his experience from when his brother came out and the lessons he learned on the importance and power of real allyship.
+Adding the powerful LGBTQ+ organizations to his growing list of politically potent allies proves that Congressman Gomez has not forgotten those lessons as he continues to build his re-election campaign and prepare for a new term.
+###

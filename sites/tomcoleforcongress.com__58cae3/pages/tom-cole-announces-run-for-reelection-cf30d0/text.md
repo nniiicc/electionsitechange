@@ -1,0 +1,21 @@
+Moore, OK – Tom Cole issued the following statement to formally announce that he will seek reelection to represent the Fourth District of Oklahoma in the U.S.
+House of Representatives.
+“During the last couple of years, America has faced some incredible challenges.
+Between the impact of the ongoing pandemic, the rise of adversaries such as China and Russia and the worsening burden of runaway inflation on Americans when they purchase anything, the concerns and crises have been numerous.
+“Today’s challenges require strong and unwavering leadership that harnesses the incredible spirit of Americans.
+In representing the people of the Fourth District, I have proudly fought to protect and advance commonsense conservative values while also ensuring that we are investing in the future and are ready to face challenges, both foreign and domestic, and both man-made and natural.”
+“In stark contrast, the Biden Administration and Democrats in the House and Senate have promoted and radically pursued misguided policies that are severely out of touch with the priorities of the American people and Oklahomans.
+Instead of proposing and enacting policies to restore our way of life and rebuild our economy, Democrats have made a bad situation much worse by irresponsibly spending trillions and seeking to create or expand social programs, which has fueled the ongoing spike in inflation since President Biden entered office.
+“Beyond their expensive policies that would alter American society for worse, Democrats’ partisan agenda includes policies that are actively harming Oklahoma’s energy industry and being felt by all Oklahomans with high prices at the gas pump.
+Moreover, they have sought to federally take over our elections systems to benefit only their political party and not secure our elections.
+“Meanwhile, the world has become a much more dangerous place.
+Following President Biden’s botched withdrawal of U.S. troops in Afghanistan and the shameful fallout with our allies and partners in the region, bad actors and adversaries have increasingly become emboldened.
+We see this playing out right now in Putin’s unprovoked aggression against Ukraine and fears of China taking a similar tact.
+“These are not the policies Americans need or want and I will continue to fight every day for solutions that will actually get our nation back on track and repair our standing on the world stage.
+“Although Democrats currently control Congress and the White House, I am proud of the significant victories Republicans have won in reversing policies.
+I was proud to successfully push back against the Biden Administration on Critical Race Theory in our schools, help secure another pay raise for our military men and women, continued to increase missions at Fort Sill and Tinker AFB, protect and increase funding to secure our border, and provide critical needs to Ukraine in its fight with Vladimir Putin.
+“I am proud of my record, but there is still important work to be done.
+I am running for reelection to effectively hold the line against the Biden Administration’s policies, to usher in solutions that rebuild our economy, to help small businesses thrive, to further support and strengthen our military’s readiness and capabilities in an ever more dangerous world and help deliver a better America for future generations.
+“It is a great honor to represent the people of Oklahoma’s Fourth Congressional District.
+I look forward to being of service, earning every vote over the coming months, and continue to fight for our conservative ideals and principles.”
+###

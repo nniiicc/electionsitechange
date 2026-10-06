@@ -1,0 +1,61 @@
+A Government that Works for Everyone
+Chris on the Issues
+“The rising cost of living has been detrimental to our working class and we need to do everything we can to give them a hand up.
+Our community members deserve experienced and accessible leadership that will be able to deliver for them in Albany.
+That is what I have always done, and what will continue to do.”
+Education
+Being an educator in both the private and public school systems for 40 years, Chris knows first hand the importance of education.
+It is his fundamental belief that Education is the Great Equalizer, and we must do all we can to fully support it.
+As Your Assemblymember, Chris has:
+- Authored and passed legislation setting maximum temperatures in classrooms, keeping our children and teachers safe.
+- Fully funded Foundation Aid, bringing in historic funding and hundreds of millions of dollars in new funding for our schools
+- Expanded Universal Pre-K programs, opening more free seats for our working class families
+- Expanded NYS' free lunch program in schools, making sure no child ever goes hungry in a classroom
+Veterans
+All veterans deserve our highest respect and a quality of life they were willing to fight for us.
+Chris supports many veteran activities in the Hudson Valley, including his work as a former Commander of the Sons of the American Legion, and takes this same passion to Albany to fight for more funds for all veteran programs.
+As Your Assemblymember Chris has:
+- Expanded treatment option for veterans suffering from PTSD, depression, and other mental health issues
+- Passed legislation to create a 100% property tax exemption for 100% disabled veterans
+- Delivered hundreds of thousands of dollars for the Dwyer Peer to Peer program, which seeks to connect veterans across the state with useful resources
+- Successfully named a portion of Route 32 from Cornwall to New Windsor as "Catholic Veterans Memorial Highway" in honor of those who served
+- Fought for all service members and their families as a member of the important NYS Assembly Veterans Committee
+First Responders and Public Safety
+When there is an emergency, our men and women in uniform are the first to respond regardless of the danger.
+It is only right that we support them to the fullest extent we can, making sure they are both honored in their service, supported by the legislation that is passed, and given the financial resources to protect us day in and out.
+As Your Assemblymember, Chris has:
+- Secured over $1.8 Million for our local EMS, Police, and Fire Departments
+- Brought real and overdue changes to bail reform, putting more power in the hands of law enforcement and keeping dangerous criminals off our streets.
+- Authored and passed legislation to support our local volunteer EMS and Fire departments.
+Environment
+Conservation, the environment, and climate change are issues which must continue to be addressed in Albany.
+You can have environmentally sensitive laws and a flourishing economy.
+The need for a common sense approach to these issues is needed and Chris' active participation and experience, especially with electric vehicles, is critical to making sure it is addressed right.
+As your Assemblymember, Chris has:
+- Saved the Hudson River from nuclear waste disposal
+- Authored and passed multiple pieces of legislation making EVs safer and more accessible for consumers
+- Authored and passed legislation protecting the Atlantic Sturgeon and shortnose sturgeon
+Protecting the Working Class
+Our economy is built off the backs of hardworking everyday Americans.
+It is only right that they have a representative that works to ensure that everyday costs are kept as low as possible, that jobs are kept growing, and that our economy stays strong for all.
+As Your Assemblymember, Chris has:
+- Prevented increases to the MTA Payroll Tax that unduly costs Hudson Valley taxpayers, and has introduced legislation that would completely eliminate it
+- Brought increases to minimum wage workers
+- Introduced and passed legislation that prevents outsourcing during a hiring freeze
+- Supported strong unions and workers rights, which bring better jobs, employment protections and benefits, and higher wages for all
+Healthcare
+Health and Mental Health accessibility is a Human Right.
+The state must do everything in its power to support both of these areas.
+The state can no longer cut resources and money needed to adequately support Health and Mental Health programs.
+As Your Assemblymember, Chris has:
+- Brought historic funding and support to healthcare workers through the Health Care Worker Bonus Program and 5.2% COLA
+- Authored and passed legislation to help provide property tax exemptions for those with disabilities
+- Brought in funding to the district to support the construction of residential group-homes
+- Fought for more funding and services as a Member of the NYS Assembly Mental Health Committee
+Seniors
+Our seniors should be able to continue living in this district without being subjected to higher taxes, costs of living exceeding their capabilities and forced to make decisions between such important life activities such as purchasing food or their prescriptions.
+We can only accomplish this by having New York State pay for its fair share of programs and having the cost of living viable for our seniors.
+As Your Assemblymember Chris has:
+- Introduced legislation to establish a "Senior Housing Task Force" to analyze and create real solutions for the growing housing issue
+- Supported and co-sponsored legislation that will assist with long-term care options, keeping critical medications affordable, and keeping seniors in their homes.
+- Protected and Advocated for our seniors as a member of on the influential NYS Assembly's Aging Committee

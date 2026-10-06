@@ -1,0 +1,44 @@
+Interviews
+HoosLeft
+Kirsten and Scott talk about her background in child welfare and how it informed her understanding of how the state punished poverty, the fallout of SB 1’s property tax overhaul, healthcare deserts, and more.
+April 21, 2026
+Breaking the Meta Podcast
+Kirsten and Mike discuss how SB 1 harmed communities, the EMS crisis in Indiana, Medicaid fraud, accountability in elected office, and why rural Hoosiers are dropping party loyalties.
+April 10, 2026
+Turn Left w/ Dana Black
+Kirsten, Dana, and Sharon Wright discuss healthcare access, rural Indiana, marginalized communities, funding public schools, and mental healthcare.
+March 26, 2026
+The Recovered Republican
+Kirsten and Brianna discuss how families deserve systems that support stability, how working families face gaps in services, how families face crises, and how witnessing policy failures firsthand has impacted her beliefs.
+April 4, 2026
+HoosLeft
+Kirsten, Scott, and David Henry discuss SOTU, Iran, ICE, and the Indiana General Assembly.
+March 1, 2026
+Hold Em’ Accountable
+Kirsten and Derrick discuss rising costs, limited access to healthcare, underfunded schools, and policy decisions disconnected from everyday life.
+March 27, 2026
+Featured In
+JeJune Magazine
+April 30, 2026
+Kirsten was featured as a candidate and as a social worker working to restore trust and humanity in government.
+IU School of Social Work: From Passion to Profession
+March 30, 2026
+Kirsten discusses how DCS work revealed systemic issues affecting families, why social workers need to be involved in policy change, and how everyday people can engage in advocacy and community power.
+Media Coverage
+Indy Pride draws thousands to downtown Indianapolis parade, festival
+WFYI - June 13, 2026 Read it Here
+Indiana Wars: Revenge of the Trump
+The Kokomo Lantern - May 06, 2026 Read it Here
+Q&A: Meet the Ind.
+Senate 21 Democratic candidates
+Current Publishing - April 24, 2026 Read it Here
+NIPSCO Lockout Hits Kokomo
+The Kokomo Lantern - April 14, 2026 Read it Here
+No Kings 3.0 Fills Downtown
+The Kokomo Lantern - March 31, 2026 Read it Here
+Dems Fill 2026 Ballot
+The Kokomo Lantern - March 04, 2026 Read it Here
+Rochester Native Kirsten Root (Simons) Announces Run for IN State Senate
+Rochester Sentinel - January 28, 2026 Read it Here
+Kirsten Root announces campaign for Indiana State Senate District 21; launches community input survey
+The Hamilton County Reporter - January 23, 2026 Read it Here

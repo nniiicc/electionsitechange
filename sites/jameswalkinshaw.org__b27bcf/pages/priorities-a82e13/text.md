@@ -1,0 +1,308 @@
+Priorities
+Making Life More Affordable
+James knows that families in Virginia are working hard and still falling behind.
+Housing is increasingly unaffordable.
+Grocery bills are up.
+Utility bills are up.
+Child care costs more than college tuition in many parts of Northern Virginia.
+And Donald Trump’s reckless tariffs are making everything worse, raising costs for local small businesses and the families who shop at them.
+His reckless war with Iran has led to higher gas prices, putting a new burden on families and raising the cost of nearly everything we buy.
+James has already fought back.
+He opposed the Trump tariffs and is working to restore Congress’s authority over trade policy — because we shouldn’t be taxing American families to fund Trump’s trade war.
+He cosponsored the Energy Bills Relief Act to help families facing skyrocketing utility costs, and he’s pushing to cap prescription drug out-of-pocket costs for people with private insurance, just as Medicare now does for seniors.
+James is also fighting to end the war in Iran — not just because it’s illegal and wrong, but because the billions of dollars being spent on that war could be coming home to lower costs for Virginia families instead.
+In Congress, James will keep fighting to:
+- Roll back Trump’s unaffordable tariffs and restore congressional oversight of trade policy
+- Restore the Affordable Care Act tax credits that Republicans allowed to expire, which would lower the cost of health insurance for 22 million Americans
+- Lower prescription drug costs by empowering Medicare to negotiate prices and extending the $35 insulin cap and out-of-pocket caps to all insured Americans
+- Cut utility bills by requiring data centers and large industrial users to pay their fair share of electricity costs — not pass those costs on to families
+- Expand access to affordable child care and universal pre-K so parents can work and kids can thrive
+- Restore and expand the Child Tax Credit to reduce child poverty and give working families real relief
+- Create paid family and medical leave so no one has to choose between a paycheck and caring for a newborn or a sick parent
+- Restore the Affordable Connectivity Program to lower internet bills for working families
+- Protect SNAP and nutrition programs from Republican cuts that take food off the table for the families who need it most
+- Lower housing costs by expanding federal housing tax credits and vouchers, building more homes, and helping first-time homebuyers
+Protecting Health Care
+James believes health care is a right, not a privilege reserved for the wealthy or well-connected.
+As Chief of Staff to Congressman Gerry Connolly, he helped pass the Affordable Care Act — and then helped beat back Trump’s efforts to repeal it.
+Now Republicans are at it again, enacting Medicaid cuts that will strip coverage from millions of Americans to pay for tax breaks for the ultra-rich.
+James supports universal health care and has spent his career fighting for it.
+The path there runs through expanding what works: adding a public option to the ACA marketplaces so every family has access to affordable, government-backed coverage alongside private plans, and lowering the Medicare eligibility age so more Americans can access the coverage they’ve earned earlier in life.
+In Congress, James is fighting to reverse Republican health care cuts, lower prescription drug prices, and make sure every Virginian can access the care they need.
+He’s pushing to reinstate the enhanced ACA premium tax credits that kept coverage affordable for hundreds of thousands of Virginians, and he’s fighting to reverse the Medicaid cuts Republicans rammed through in the so-called Big Beautiful Bill.
+In Congress, James will keep fighting to:
+- Deliver universal health care by adding a public option to the ACA exchange and lowering the Medicare eligibility age
+- Protect and strengthen the Affordable Care Act and reinstate the premium tax credits that kept coverage affordable
+- Reverse Republican Medicaid cuts and remove the unnecessary red tape that prevents people from getting care
+- Lower prescription drug costs by expanding Medicare’s negotiating power and extending savings to people with private insurance
+- Cap insulin costs and out-of-pocket prescription drug expenses for all Americans
+- End surprise medical billing and stop aggressive medical debt collection practices that destroy families’ financial stability
+- Protect and expand access to mental health care, maternal health services, and reproductive health care
+- Oppose any cuts to NIH and life-saving medical research and block Republican efforts to defund Planned Parenthood
+- Streamline prior authorization so insurance companies can’t delay or deny doctor-prescribed care
+- Oppose cuts to Medicare and fight to preserve the program’s guaranteed benefits for generations to come
+Protecting Social Security & Medicare
+Social Security and Medicare are not government handouts — they are promises made to working Americans who spent their careers paying into these programs and earning the security they provide.
+Donald Trump and Republicans in Congress are now breaking those promises.
+They are cutting Medicaid, threatening Medicare’s fiscal foundation, and leaving the door open to gutting Social Security — all to finance tax breaks for the ultra-wealthy and corporations that already pay too little.
+Fairfax is home to hundreds of thousands of seniors, federal retirees, and working families who depend on Social Security, Medicaid, and Medicare.
+DOGE’s assault on the Social Security Administration — firing staff, closing offices, and creating chaos in the system — is already making it harder for Virginians to access the benefits they’ve earned.
+James is fighting to reverse those cuts and hold the people responsible accountable.
+In Congress, James will fight to:
+- Oppose cuts to Social Security benefits or efforts to privatize the system
+- Strengthen Social Security’s long-term solvency by requiring the wealthiest Americans to pay their fair share into the system — not by cutting benefits for the middle class
+- Restore full funding and staffing to the Social Security Administration so Virginians can access their benefits without delay or bureaucratic obstruction
+- Protect Medicare’s guaranteed benefits and oppose any Republican plan to turn Medicare into a voucher program or raise the eligibility age
+- Preserve Medicare’s fiscal foundation by cracking down on fraud and abuse — without cutting benefits or reducing access for the people who depend on it
+- Expand Medicare’s negotiating power to lower prescription drug costs for seniors and extend those savings to all Americans
+- Add dental, vision, and hearing coverage to Medicare
+- Fight for a senior care cost reduction program that helps low-income seniors afford assisted living and in-home care — so aging with dignity isn’t only for the wealthy
+Defending Democracy
+James believes our democracy is under direct assault.
+The Trump administration is ignoring court orders, disappearing people to foreign prisons without due process, and using the levers of government to punish political opponents and reward loyalists.
+This is not normal — and James is not treating it as normal.
+As Chair of the Fairfax County Board’s Legislative Committee, James led efforts to expand early voting, protect voting rights, and push back against voter suppression in Richmond.
+He stood with local election officials and poll workers who were threatened and harassed for doing their jobs.
+Now in Congress, he serves on the Oversight Committee where he’s leading the fight to expose the Trump administration’s efforts to cover up the Epstein files and protect the rich and powerful people who enabled the trafficking and exploitation of women and girls.
+Walkinshaw also voted against the SAVE Act, which would make it harder for Americans to vote.
+In Congress, James will keep fighting to:
+- Defend the rule of law and hold the Trump administration accountable for ignoring judicial orders and undermining democratic institutions
+- Pass the John R.
+Lewis Voting Rights Advancement Act
+- Protect election workers from intimidation and harassment
+- Pass the Protecting our Democracy Act – a sweeping package of reforms to strengthen democratic institutions, eliminate corruption, protect the merit system, and deter foreign interference in elections
+- Ban partisan gerrymandering nationwide
+- Expose the truth about the Epstein files and the powerful people who enabled abuse and trafficking of young women and girls
+- Defend the independence of the judiciary and the separation of powers
+Immigration
+James believes immigrants are a vital part of our community and our economy — and that America is strongest when we live up to our values as a nation of opportunity and refuge.
+Fairfax is home to thousands of immigrant families who enrich our communities, strengthen our economy, and deepen our culture.
+James has been on the front lines of this fight.
+On the Fairfax County Board of Supervisors, he helped pass the Fairfax Trust Policy so that immigrant residents, including victims of crime, can access county services without fear of deportation.
+When Trump adviser Stephen Miller threatened to prosecute local officials like James for refusing to cooperate with mass deportation, James didn’t back down.
+James is the only Democrat in Congress to serve on both the Oversight Committee and the Homeland Security Committee.
+He has made unannounced oversight visits to ICE facilities and traveled to Minnesota and Texas in the aftermath of deadly ICE encounters to hear directly from affected families and communities.
+He has refused to vote for a single dollar of additional ICE funding until serious, enforceable reforms are delivered.
+He believes that ICE must be replaced by an agency that will respect the law and can earn the trust of the American people.
+In Congress, James will keep fighting to:
+- Hold the line against additional ICE and CBP funding until real reforms are in place — including required body cameras, unmasking, visible agency identification, judicial warrants before home entry, and an end to paramilitary-style enforcement
+- Protect sensitive locations — schools, churches, hospitals — from immigration enforcement
+- End racial profiling and strengthen use-of-force standards for federal immigration officers
+- Pass immigration reform that creates a path to citizenship for undocumented immigrants who follow the law and that modernizes our broken legal immigration system
+- Protect Dreamers with permanent legal status through the American Dream and Promise Act
+- Reunite families separated by the immigration system and restore Temporary Protected Status to the one million immigrants who had it cruelly ripped away by Donald Trump
+- Reduce visa backlogs, strengthen worker protections, protect people with legitimate asylum claims, and make the legal immigration system more humane and efficient
+- Defend birthright citizenship and oppose discriminatory travel bans that separate families and target people based on their national origin or religion
+- Defend the Fairfax Trust Policy model and oppose federal attempts to coerce local governments into becoming deportation enforcers
+Protecting Federal Workers
+No community in America has been hit harder by DOGE’s reckless federal job cuts than Northern Virginia.
+Tens of thousands of our neighbors — dedicated public servants who keep our government running, protect our national security, and serve veterans, seniors, and families across the country — have been fired, furloughed, or forced out by an ideological assault on the federal workforce.
+One of James’s first acts in Congress was to help block Trump from firing thousands more federal workers.
+He introduced the Limit on Sweeping Executive Reorganization Act to block any president from unilaterally dismantling or hollowing our federal agencies without congressional approval.
+He co-founded the Congressional Federal Workforce Caucus to make sure federal employees have a sustained, organized voice on Capitol Hill — because their fight is our fight.
+Small businesses in Fairfax that depend on federal workers as customers are hurting too.
+This is an economic attack on our entire region.
+In Congress, James will keep fighting to:
+- Stop illegal and politically motivated firings of federal workers and fight to restore jobs to those wrongfully terminated
+- Protect federal workers’ due process rights, collective bargaining rights, and whistleblower protections
+- Restore full funding for federal agencies gutted by DOGE — including the VA, Social Security Administration, USAID, and agencies that protect our food, air, and water
+- Support small businesses in Northern Virginia that have been hurt by DOGE’s economic assault on our region
+- Give federal workers the pay raises they deserve so that federal worker pay doesn’t fall further behind the private sector
+- Hold DOGE accountable and expose the waste, fraud, and abuse in its own operations
+Data Centers, Energy & Utility Costs
+Data centers are part of our modern economy, but as they expand across Northern Virginia and beyond, families and small businesses are watching their electricity bills climb and dealing with the quality-of-life impacts created by their intense concentration in our region.
+On the Fairfax County Board of Supervisors, James resisted pressure to reduce taxes for data centers, pushed to keep them in industrial areas, and to strengthen environmental and noise protections.
+He’s bringing that same approach to Congress.
+In Congress, James will keep fighting to:
+- Change how electric grid costs are allocated so that families and small businesses don’t unfairly subsidize data center and industrial energy demands
+- Require the Federal Energy Regulatory Commission to protect residential ratepayers from cost increases driven by large energy loads
+- Develop a national data center strategy at the Department of Energy that spreads the benefits and costs of data center development equitably across communities
+- Keep data centers in industrial areas by supporting local governments’ authority to zone and regulate large industrial developments
+- Invest in a 21st-century energy grid that can meet growing demand while keeping costs predictable for every household
+- Defend clean energy investments that create jobs, drive innovation, and lower energy bills
+- Fund energy assistance programs like LIHEAP so working families can afford to heat and cool their homes
+A Stronger Economy for Northern Virginia
+James believes in an economy that works for everyone, not just those at the top.
+Northern Virginia is one of the most dynamic economic regions in the country — home to world-class businesses, an extraordinary federal workforce, cutting-edge tech and defense industries, and a diverse, highly educated community.
+But Trump’s tariffs, his war on the federal workforce, and his chaotic economic policymaking are threatening that foundation.
+As Chief of Staff to Congressman Connolly, James helped secure millions in federal investment for Fairfax County and protected the region’s federal workforce.
+On the Board of Supervisors, he supported small businesses during COVID-19, led regional transportation planning, and fought to attract high-quality jobs.
+In Congress, he’s already secured millions in funding for safer roads, public safety innovation, and public health research.
+In Congress, James will keep fighting to:
+- Stand up for small businesses by opposing Trump’s tariffs and pushing for trade policies that give American industries certainty and open global markets for U.S. products
+- Invest in domestic manufacturing and supply chains to reduce price volatility and create good-paying jobs in Virginia and across the nation
+- Raise the minimum wage and ensure workers have a real seat at the table
+- Support responsible innovation in AI, quantum computing, and emerging technologies like blockchain — with modern regulatory frameworks that prevent abuse and protect consumers’ privacy and data
+- Secure federal investments in transportation, rail, and broadband infrastructure that keep Northern Virginia competitive and connected
+- Expand the Low-Income Housing Tax Credit and support zoning reform to build more housing and ease the burden on working families
+- Protect and grow the region’s federal contracting and defense economy while fighting DOGE’s reckless cuts
+Expanding Access to Affordable Housing
+The high cost of housing is one of the biggest challenges facing families in Fairfax County and across the country.
+Rents keep climbing, first-time homebuyers are getting priced out, and the shortage of affordable homes is forcing families to make impossible choices between housing, health care, and putting food on the table.
+On the Board of Supervisors, James championed efforts to increase the housing supply — including converting an underutilized County-owned parking lot into hundreds of new affordable housing units with a child care facility for working families.
+He supported dedicating local funds to affordable housing and voted to streamline zoning and permitting to get more housing built faster.
+In Congress, he helped pass the 21st Century ROAD to Housing Act that tackles the housing affordability crisis by cutting red tape, increasing housing supply, and making it easier to build and own a home.
+In Congress, James will fight to:
+- Strengthen and expand the Low-Income Housing Tax Credit to accelerate construction of affordable housing across the country
+- End Trump’s tariffs and reverse his deficit-busting Big Beautiful Bill, which has raised borrowing costs and put homeownership further out of reach
+- Convert vacant commercial properties and underutilized federal land into housing — applying locally the same model James championed in Fairfax
+- Cut federal red tape and increase flexibility for state and local governments to build and rehabilitate housing faster
+- Invest in innovative construction technologies — including modular and 3D-printed construction — to bring down building costs
+- Support accessory dwelling units (ADUs) and other innovative housing models that expand options for families
+- Incentivize transit-oriented development that puts housing near jobs, schools, and public transportation
+- Increase funding for the federal Housing Trust Fund and protect rental assistance programs from Republican cuts
+Protecting Our Environment
+James ran for the Board of Supervisors with a commitment to addressing the climate crisis and expanding clean energy in Fairfax County.
+As Chair of the Board’s Environmental Committee, he led the transition of County buildings to solar energy, converted the vehicle fleet to electric, spearheaded Fairfax’s five-cent plastic bag fee — which has raised millions while dramatically cutting plastic pollution — and launched the County’s Zero Waste initiative.
+The Trump administration is dismantling clean energy investments, canceling projects, and throwing away tens of thousands of American jobs in the process — all while rolling back the environmental protections that keep our air clean, our water safe, and the Chesapeake Bay healthy.
+James is fighting back.
+In Congress, James will fight to:
+- Defend clean energy investments that create jobs, expand domestic manufacturing, and drive innovation
+- Protect the environmental regulations that keep our air clean, our water safe, and our communities healthy
+- Accelerate restoration of the Chesapeake Bay and protect Virginia’s waterways
+- Support bold federal investment in clean energy infrastructure, efficiency, and electrification
+- Reform permitting to make it faster and cheaper to build clean energy generation and transmission, while respecting community input
+- Oppose the Trump administration’s rollback of climate protections and efforts to hand our environment over to polluters
+- Protect Virginia’s farms, forests, and open spaces through robust funding for the Land and Water Conservation Fund, which has invested in parks and public lands across every corner of our Commonwealth
+- Support voluntary conservation easement programs that allow farmers and landowners in Virginia to preserve their land while keeping it in productive agricultural use
+- Oppose the sale or transfer of public lands to private interests — Virginia’s national forests, Shenandoah National Park, and public waterways belong to all of us
+- Invest in conservation programs that protect working agricultural and forest land from development pressure, preserving the natural beauty that defines so much of Virginia
+Investing in Education
+James is a proud graduate of Virginia public schools.
+He knows that strong public education is the foundation of a thriving community — and he has spent his career fighting to protect it.
+On the Board of Supervisors, he secured over $587 million in new funding for Fairfax County Public Schools, supported teacher pay raises, and pushed for the renovation and modernization of school buildings.
+Fairfax schools consistently rank among the best in Virginia because of those investments and our world-class educators.
+Now those gains are under threat.
+Donald Trump is dismantling the U.S.
+Department of Education, House Republicans advanced legislation that would slash Title I and special education funding, and they are trying to defund public schools.
+Nearly one million infants, toddlers, and preschoolers with disabilities rely on early intervention through the Individuals with Disabilities Education Act.
+Twenty-six million pre-K through 12th grade students depend on Title I.
+James is fighting to protect every one of them.
+In Congress, James will fight to:
+- Protect the Department of Education and oppose Republican efforts to dismantle public education
+- Fully fund IDEA and Title I so every child — including children with disabilities — gets the support they need
+- Expand access to universal pre-K so every child starts school ready to learn
+- Increase support for military-connected students through the federal Impact Aid program
+- Invest in teacher recruitment, retention, and pay so Fairfax and Northern Virginia can keep attracting world-class educators
+- Protect public school funding from being diverted to private school voucher schemes
+Foreign Policy & Trump’s War in Iran
+James believes American foreign policy must be grounded in diplomacy, international law, and the best interests of the American people — not the impulsive decisions of one man.
+Donald Trump started a war against Iran without the consent of Congress, in violation of the Constitution and the War Powers Act.
+The consequences have been dire: more than a dozen brave U.S. service members killed, thousands of innocent civilians dead, and billions of American taxpayer dollars spent on a conflict with no clear objective and no exit strategy.
+James is fighting to end that war — and to bring those resources home to lower costs for working families, invest in our infrastructure, and rebuild what Trump and DOGE have broken.
+In Congress, James is fighting to:
+- End Trump’s unconstitutional war in Iran and restore Congress’s authority over decisions of war and peace
+- Demand a clear accounting of the costs of this conflict and accountability for the decisions that have cost U.S. service members their lives in this war of choice
+- Redirect resources from reckless foreign military adventurism back to American families and communities
+- Restore America’s alliances and standing in the world through diplomacy, not provocation
+- Support a foreign policy that prioritizes human rights, international law, and the long-term security of the American people
+- Work toward a two-state solution that secures peace, prosperity, and freedom for Palestinians and Israelis
+- Support the Ukrainian people in their fight against Vladimir Putin’s aggression
+- Restore our commitment to USAID and foreign assistance that saves lives while strengthening our strategic position across the globe
+Defending Reproductive Freedom
+James believes that access to comprehensive reproductive health care — including contraception, abortion, prenatal care, and cancer screenings — is a fundamental right.
+As Chairman of the Fairfax County Board’s Legislative Committee, he led the successful effort to include protection of reproductive freedom in Fairfax County’s legislative platform and supported County efforts to expand access in the wake of the Dobbs decision.
+Republican leaders in Washington are pushing for a national abortion ban and systematically rolling back access to reproductive care.
+In Virginia, James is proudly supporting the constitutional amendment to guarantee every individual the right to make their own reproductive health decisions.
+James will never stop fighting to protect every Virginian’s reproductive freedom.
+In Congress, James is fighting to:
+- Pass the Women’s Health Protection Act to codify Roe v.
+Wade and protect the right to abortion nationwide
+- Oppose any federal abortion ban or restrictions on access to reproductive health care
+- Restore Medicaid funding for reproductive health organizations
+- Protect and expand access to contraception, prenatal care, and maternal health services
+- Defend Planned Parenthood and oppose cuts to organizations that provide reproductive health care
+- Pass the Family Building FEHB Fairness Act to expand IVF services for federal workers
+Advancing Equality for All
+James believes every person deserves to be treated with dignity and respect, regardless of race, gender, sexual orientation, or gender identity.
+He helped Fairfax County earn a perfect 100 out of 100 on the Human Rights Campaign’s Municipal Equality Index.
+And as the Trump administration wages a deliberate campaign against LGBTQ+ Americans, James is fighting back.
+In Congress, James is fighting to:
+- Pass the Equality Act to expand federal nondiscrimination protections for LGBTQ+ Americans
+- Add sexual orientation and gender identity to the Fair Housing Act
+- Oppose the Trump administration’s attacks on transgender Americans and defend their right to serve in the military and live freely
+- Strengthen enforcement of Title IX and anti-harassment protections in schools and universities
+- Combat racism in housing, education, health care, and the justice system
+Public Safety & Reducing Gun Violence
+Fairfax County is the safest large jurisdiction in the United States — and that’s no accident.
+It’s the result of sustained investment in community-oriented policing, behavioral health co-responders, body cameras, and building trust between law enforcement and the communities they serve.
+James has been part of making that happen.
+On the Board of Supervisors, James led the passage of a landmark ordinance banning guns in County buildings, libraries, rec centers, and parks — and when the NRA sued to overturn it, he didn’t back down.
+He championed Fairfax’s implementation of Virginia’s red flag law and led public education efforts to make sure residents know how to use it.
+Fairfax County leads Virginia in securing firearms from dangerous individuals because of those efforts.
+As the parent of a child who has already experienced a preschool lockdown, James knows we must do more.
+In Congress, James is fighting to:
+- Ban assault weapons and high-capacity magazines
+- Close the Charleston loophole and require background checks on all gun sales
+- Oppose federal concealed carry mandates that override Virginia’s gun safety protections
+- Expand funding for community-oriented policing, co-responder programs, and behavioral health crisis response
+- Defend due process in the justice system while ensuring law enforcement resources are focused on violent crime
+- Protect local governments’ authority to enact gun safety measures that reflect their communities’ needs
+Preventing Domestic Violence & Protecting Survivors
+James has made preventing domestic violence and sexual assault — and protecting survivors — a top priority throughout his career.
+Before being elected to the Board of Supervisors, he helped create Fairfax County’s “Make the Call” campaign to ensure survivors could access the County’s 24-hour domestic and sexual violence hotline.
+He chaired Fairfax’s Council to End Domestic Violence for three years and led efforts to expand Fairfax County’s Lethality Assessment Program, an innovative, data-driven approach that immediately connects victims at the highest risk of being killed by their abuser with life-saving services.
+James has also prioritized implementing and promoting Fairfax County’s red flag law, helping keep firearms out of the hands of abusers and individuals who pose a danger to themselves or others.
+Because of those efforts, Fairfax County leads Virginia in securing firearms from dangerous individuals.
+At least 26 women have accused Donald Trump of sexual misconduct — and a jury found him liable for sexual abuse — so it is more critical than ever that Congress act to protect survivors.
+In Congress, James will keep fighting to:
+- Reauthorize and strengthen the Violence Against Women Act (VAWA) with improved services, stronger protections, and expanded support for underserved communities
+- Protect the rights of noncitizen survivors to seek immigration relief without fear of deportation
+- Expand funding for domestic violence hotlines, shelters, and survivor services
+- Promote the Lethality Assessment Program model nationally to connect high-risk survivors with life-saving services
+- Push for the transparency and accountability courageously demanded by the survivors of Jeffrey Epstein’s crimes
+Transportation & Infrastructure
+James has been a regional leader on transportation throughout his career.
+As Chair of the National Capital Region Transportation Planning Board — the region’s federally designated metropolitan planning organization — he led the development of a long-range plan to reduce congestion, expand access, and cut carbon emissions across the D.C. metro area.
+As Chair of the VRE Operations Board, he oversaw the expansion of commuter rail service and the launch of VRE’s first-ever Saturday service.
+In Congress, James has already secured funding for safer roads and sidewalks in our community.
+He knows that a 21st-century economy demands a 21st-century transportation system — and that Northern Virginia’s continued growth depends on getting this right.
+In Congress, James will keep fighting to:
+- Secure robust federal investment in public transit, rail, and road infrastructure for Virginia
+- Protect and expand Metro funding and fight for the dedicated federal funding stream Metro needs to operate reliably
+- Support transit-oriented development that puts housing near jobs, schools, and rail
+- Expand VRE service and push for modernization of our commuter rail network
+- Invest in broadband infrastructure so every home and business in the district has access to affordable, high-speed internet
+- Fight any Trump administration efforts to claw back infrastructure funding already committed to Virginia
+- Support the expansion of Manassas Regional Airport as a critical general aviation and economic development asset for our region
+Standing with Veterans & Military Families
+James has been a tireless advocate for veterans and military families in Fairfax County.
+When an oversight in state law denied tax relief to spouses of service members who died in the line of duty, James worked to pass new legislation and drafted the local ordinance to fix it.
+He created Fairfax County’s first-ever Veterans and Military Families Commission to ensure veteran and military family voices are heard at every level of local government.
+The Trump administration and DOGE are now gutting the VA, cutting benefits, and firing the staff who serve our veterans every day.
+It is a betrayal of the people who served our country, and James is fighting it at every turn.
+Walkinshaw is the sponsor of the Veterans Fraud Reimbursement Act, which would guarantee veterans are fully reimbursed if their VA benefits are stolen by a bad actor.
+He has also introduced the Veteran Technology Employment Success Act to strengthen the VA’s VET TEC program, which helps veterans and transitioning service members gain skills for high-demand technology careers.
+In Congress, James will keep fighting to:
+- Stop DOGE’s cuts to the VA and restore full funding and staffing for veterans’ health care and benefits
+- Expand mental health care and suicide prevention programs for veterans and service members
+- Strengthen survivor benefits and support for military families
+- Fight for robust Impact Aid funding to support schools serving military-connected students
+- Ensure veterans who were wrongfully fired from federal jobs are restored and made whole
+- Hold the VA accountable for the quality and timeliness of care and benefits our veterans have earned
+Restoring Trust in the Federal Government
+This is the most corrupt administration in American history.
+Trump and his family have made billions from meme coins and shady foreign business dealings.
+A Russian oligarch paid for Donald Trump Jr’s wedding party and $3.2 billion in government contracts have gone to Trump-family-connected businesses.
+Corey Lewandowski reportedly demanded bribes in exchange for DHS contracts.
+And Trump’s DOJ tried to take $1.776 billion in taxpayer dollars and give it to insurrectionists.
+In Congress, James will keep fighting to:
+- Use every tool at his disposal to demand answers and accountability for the self-dealing in Trump’s White House
+- Ban Congress and executive branch officials, including the president, from trading stocks
+- Rein in the presidential pardon power and end the pay-to-play pardon system that Donald Trump has created
+- Strengthen ethics and transparency rules to restore public trust in government, including a ban on congressional stock trading
+- Impose ethics reform on the Supreme Court, applying the same rules on gifts and conflicts of interest that apply to other judges, and implement term limits for Supreme Court Justices
+Supporting Virginia Farmers & Rural Communities
+Virginia’s agricultural heritage is one of our greatest assets.
+Virginia farmers feed our families, steward our land, and sustain the natural beauty that makes Virginia so distinctive.
+But family farmers are under pressure from every direction: Trump’s chaotic tariff policies have disrupted export markets and driven up input costs, consolidation in the meat and grocery industries has squeezed what farmers earn while driving up what consumers pay, and access to land, capital, and technical assistance remains out of reach for too many beginning and small-scale producers.
+James is committed to fighting for farmers and rural communities with the same energy he brings to every other fight.
+In Congress, James will keep fighting to:
+- Roll back Trump’s tariffs that are destroying export markets for Virginia farmers and driving up the cost of equipment, fertilizer, and supplies they depend on
+- Invest in small and midsize agricultural producers through technical assistance, expanded access to USDA programs, and support for meat and poultry processing to drive competition, increase farmers’ share of the market, and lower prices for consumers
+- Create a federal land-link program that helps retiring farmers pass their land and knowledge to beginning farmers — keeping farmland in production and giving the next generation of Virginia growers a real shot
+- Expand voluntary conservation programs that help farmers protect soil and water quality, improve resilience to drought and flooding, and keep rural areas free of unnecessary development
+- Protect and restore SNAP and nutrition programs that were cut by Republicans — because hunger relief programs support both the families who need them and the farmers who supply them
+- Expand rural broadband so that farms, small businesses, and families across rural Virginia have the connectivity they need to compete in the 21st-century economy
+- Fight for flexibility in USDA lending and subsidy programs so small and midsize farmers can access the capital they need without the bureaucratic barriers designed for large industrial operations
+- Support agritourism, direct-to-consumer markets, and local food systems that help Virginia’s small farms diversify their income and connect with the communities around them

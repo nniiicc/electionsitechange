@@ -1,0 +1,13 @@
+Whipple slams Horsford’s opposition to H.R. 7008 / Stop Insider Trading Act, highlighting 87% out-of-state funding and loyalty to Washington, D.C. special interests.
+Las Vegas, NV – Republican Congressional nominee Cody K Whipple issued a blistering statement today condemning Congressman Steven Horsford for his vote against H.R. 7008, the Stop Insider Trading Act, a crucial reform aimed at banning members of Congress and their spouses from buying, selling, and trading individual stocks while in office.
+The Stop Insider Trading Act was designed to end the pervasive conflict of interest in Washington by requiring members of Congress to place their holdings into blind trusts or divest from individual stocks altogether.
+For years, politicians on both sides of the aisle, most notoriously former Speaker Nancy Pelosi and other long-time Washington insiders, have faced intense public scrutiny for making high-stakes stock trades in companies directly impacted by closed-door committee briefings and legislation.
+Despite widespread bipartisan support among voters for cleaning up congressional corruption, Steven Horsford chose to vote against the measure, defending the status quo that allows politicians to enrich themselves off non-public information.
+“Nevadans are getting crushed by high housing costs, sky-high gas prices, and runaway inflation, yet Steven Horsford just voted to make sure he and his friends in Washington can keep trading stocks with insider information,” said Cody K Whipple.
+“When members of Congress are allowed to buy and sell stocks in the very industries they regulate, the American public loses.
+It creates a rigged system where politicians prioritize their personal stock portfolios over the working families they were elected to represent.”
+Whipple pointed to Horsford’s voting record as proof that he has become a classic career politician who prioritizes the D.C. establishment and corporate Political Action Committees (PACs) over Nevada families.
+According to a report by The Nevada Independent, 87% of Steven Horsford’s campaign contributions come from outside Nevada, driven overwhelmingly by Washington special interests, corporate lobbyists, and mega-PACs.
+“Steven Horsford doesn’t work for Nevada-he works for Washington,” Whipple continued.
+“When 87 percent of your campaign money comes from outside our state, it’s no surprise whose interests you defend when you cast a vote.
+Nevada deserves a leader who will vote to end congressional corruption, support term limits, and put Nevada families first.”

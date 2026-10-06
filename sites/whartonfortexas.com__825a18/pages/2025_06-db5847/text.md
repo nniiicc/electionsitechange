@@ -1,0 +1,3 @@
+HUNTSVILLE, TX – State Representative Trey Wharton (R-Huntsville) is proud to announce the opening of the new House District 12 Legislative District Office in Huntsville.
+A ribbon cutting ceremony will be held on Tuesday, July 1 at 5:15 PM at 2503 Lake Road, Suite A-100.
+“It has been an honor to serve the residents…

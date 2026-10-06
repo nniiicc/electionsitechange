@@ -1,0 +1,93 @@
+Organizations:
+- California Democratic Party (CADEM)
+- California Young Democrats (CYD)
+- California Teachers Association (CTA)
+- California School Employees Association (CSEA)
+- Planned Parenthood of Orange and San Bernardino County
+- San Bernardino County Young Democrats (SBCYD)
+- High Desert Progressive Democrats (HDPD)
+- High Desert Young Democrats (HDYD)
+- Southern California Armenian Democrats (SCAD)
+- Communication Workers of America (CWA)
+- Big Bear Valley Democratic Club
+- Democrats of the Morongo Basin
+- San Bernardino County Professional Firefighters, Local 935
+- IBEW Local 40
+- United Food and Commercial Workers (UFCW), Local 1167
+- Equality California
+- Service Employees International Union (SEIU), California
+- Union of Educators & Classified Professionals (CFT)
+- Victor Valley Democratic Club
+- Mountain Bears Democratic Club
+- Inland Empire United
+- United Auto Workers (UAW) Region 6 Western States
+Endorsements*
+I am beyond honored for all the support from elected officials and organizations thus far.
+If you are interested in endorsing, please find the form below!
+*Titles for identification purposes only
+Federal Elected Officials:
+- Norma Torres, Member of Congress, District 35
+- George Whitesides, Member of Congress, District 35
+State Elected Officials:
+- Eleni Kounalakis, Lieutenant Governor of California
+- Fiona Ma, California State Treasurer
+- Tony Thurmond, California State Superintendent
+- Josh Lowenthal, Speaker Pro Tem of California Assembly, District 69
+- Rick Chavez Zbur, Democratic Caucus Chair
+- Juan Carrillo, Assemblymember District 39
+- James Ramos, Assemblymember District 45
+- Robert Garcia, Assemblymember District 50
+- Tom Umberg, California State Senator District 34
+- John Harabedian, Assemblymember District 41
+- Nick Schultz, California Assemblymember District 44
+- Corey Jackson, California Assemblymember District 60
+- Al Muratsuchi, Assemblymember District 66
+- Blanca Pacheco, Assemblymember District 64
+Local Elected Officials:
+- Helen Tran, San Bernardino Mayor
+- Erica A.
+Stewart, San Luis Obispo Mayor
+- Perri Melnick, Big Bear Lake City Council Member and Fmr.
+Mayor
+- Lisa Middleton, Former Palm Springs Mayor
+- Dick Murphy, Former San Diego Mayor
+- Gabe Quinto, President of League of California Cities and El Cerrito Council Member
+- Leslie Irving, Victorville Council Member
+- Dr.
+Treasure Ortiz, San Bernardino City Council Member
+- Chris Ochoa, Hesperia City Council Member
+- Daniel Ramos, Adelanto Mayor Pro Tem
+- Marcus Hernandez, Snowline Joint Unified School District Trustee
+- Miguel Soto, Adelanto Elementary School District Board of Trustees
+- Marikay Lindstrom, Vice President Big Bear Airport
+- Darrell Gardner, Director, Big Bear Airport
+- Ellen Clarke, Secretary of Bear Valley Community Health District
+- Paul Zamoyta, Bear Valley Unified School Board President
+- Jack Roberts, Bear Valley Unified School Board Member
+- Bryan Conley, Mt.
+San Jacinto Winter Park Authority Member
+- Karen Comstock, Chino Council Member and Fmr.
+Police Chief for Chino Police Department
+- Ida Obeso Martinez, El Centro Mayor Pro Tem
+- Ulises Cabrera, Moreno Valley Mayor
+- Scott Bauer, Eureka City Councilmember
+- Teresa Acosta, Carlsbad City Councilmember
+- Chris Carrillo, Vice Chairman, East Valley Water District Governing Board
+- Gabriel Reyes, Adelanto Mayor
+- Cedric White, Lancaster City Council Member
+- Dr.
+Ayanna Davis, Compton Unified School District Trustee
+- Clarissa Cervantes, Riverside City Council Member
+County Elected Officials:
+- Joe Baca Jr., San Bernardino County Supervisor District 5
+- Lindsey Horvath, Los Angeles County Supervisor District 3
+Community Leaders:
+- Diana Love, California Democratic Party Secretary
+- Ron Peavy, Former Superintendent for Rim School District
+- Denise Latanzi
+- Caitlin Jones, Non-profit Organizer
+- Tessa Lynn Hodges, Candidate for CA 23
+- Anthony Noriega, Community Advocate & U.S.
+Army Veteran
+- Ricardo Ortega, Youth Advocate & Inaugural Los Angeles County Youth Commissioner
+- Dara Smith, Los Angeles County Assistant Assessor, President of the Democratic Club of the Inland Valley

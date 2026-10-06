@@ -1,0 +1,9 @@
+Congresswoman Dina Titus Wins Primary Election
+6/14/2022
+Las Vegas, NV – Congresswoman Dina Titus released the following statement after earning the Democratic nomination for Nevada’s First Congressional District:
+“I am humbled that the Democratic voters of the First Congressional District overwhelmingly chose to nominate me so that I can keep fighting and delivering for Southern Nevada in Congress.
+National Republicans know that their path to controlling the House runs through District One, and this result sends a clear message that the people of Southern Nevada will not be divided,” said Congresswoman Titus.
+“This is the most crucial election of our lifetimes.
+From voting rights and reproductive freedom to economic recovery and workers’ rights, there is too much at stake to sit on the sidelines.”
+“When our state was on the ropes, I came out swinging and secured $6.7 billion in American Rescue Plan funding to get Nevada’s economy back on track during the pandemic.
+As corporate profit margins skyrocket while costs increase for everyday Southern Nevadans, I am committed to fighting for those who need it the most—not for those who have the most.”

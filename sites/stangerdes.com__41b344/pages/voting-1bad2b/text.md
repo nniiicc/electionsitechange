@@ -1,0 +1,1 @@
+Early Voting March 3rd 7 AM - 7 PM You can vote anywhere in your home county. *Voting hours vary by County *Caldwell County voters must vote in their precinct **(Click here for Caldwell County Precinct information) Bastrop County Election Website Burleson County Elections Website Caldwell County Elections Website Lee County Elections Website Milam County Elections Website

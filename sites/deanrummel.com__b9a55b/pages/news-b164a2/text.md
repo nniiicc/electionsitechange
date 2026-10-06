@@ -1,0 +1,3 @@
+NEWS
+Senator Dean Rummel and Kylan Klauzer Announces Joint Candidacy for District 37
+NEWS Senator Dean Rummel and Kylan Klauzer Announces Joint Candidacy for District 37Jan 28, 2026 Dickinson, N.D. — Republicans Senator Dean Rummel and Kylan Klauzer today announced their joint candidacy for the North Dakota Legislature to represent the constituents of…

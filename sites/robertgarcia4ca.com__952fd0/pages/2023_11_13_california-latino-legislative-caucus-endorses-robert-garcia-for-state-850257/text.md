@@ -1,0 +1,12 @@
+In district with nearly 50% of Latino registered voters, Garcia will champion Inland Empire Communities
+Rancho Cucamonga, CA – Today, Etiwanda School Boardmember Robert Garcia’s campaign for California State Assembly has earned the coveted endorsement of the California Latino Legislative Caucus.
+The Latino Caucus was established 50 years ago to identify, promote and advocate on behalf of the professional, educational, social, political and cultural interests of the Latino community.
+In releasing the endorsement, the body of the California Latino Legislative Caucus stated, “The California Latino Legislative Caucus is proud to endorse Robert Garcia for Assembly District 50.
+Robert Garcia has an impressive background in education and service that will truly represent the interests of all families.
+In the State Assembly, he will be a champion for the community and ensure that key issues in the region are addressed, such as housing, clean air, and education.”
+Garcia has also received the endorsement of the California State Assembly Majority Leader Emeritus Eloise Gómez Reyes.
+“I’m honored to be endorsed by the California Latino Legislative Caucus,” Garcia stated.
+“As a teacher, school administrator, and Etiwanda School Boardmember, I have been on the frontlines serving our communities and their families and will bring that experience to the State Assembly.
+I look forward to partnering with the caucus and its members to address inequities and building a greater California for all.”
+The California Latino Legislative Caucus joins a growing and impressive coalition of supporters such as CSEA, UA Local 398, Majority Leader Emeritus Eloise Gomez Reyes, San Bernardino County Supervisor Joe Baca Jr., more-in district local elected officials than other declared Democratic candidates, and party delegates.
+Proudly endorsed by current Assemblymember Eloise Gomez Reyes, Robert Garcia is also backed by the California Teachers Association (CTA), California Federation of Teachers (CFT), California School Employees Association (CSEA), the California Latino Legislative Caucus, the California Legislative Progressive Caucus, and scores of local leaders across the district, including County Supervisor Joe Baca, Colton Mayor Frank Navarro, Fontana City Councilmember Jesse Sandoval, and dozens more.

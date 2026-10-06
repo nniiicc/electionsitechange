@@ -1,0 +1,2 @@
+Please help Friends of Joy SanBuenaventura create a better future for Puna by helping Re-elect Joy San Buenaventura All financial contributions as well as donations of goods/services are immensely appreciated!
+For financial contributions by check, please make the donation out to: Friends of Joy SanBuenaventura PO Box 1675 Keaʻau, HI 96749 Donate online with apple pay, credit card or Paypal using the secure ActBlue link: https://secure.actblue.com/donate/joy4puna mahalo nui loa for your support

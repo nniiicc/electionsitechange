@@ -1,0 +1,3 @@
+RI State Senator Victoria Gu, Westerly Town Councilmember Joy Cordio, and State Representatives Tina Spears and Brian Kennedy came together for a town hall event to discuss shoreline access.
+It took place Wednesday, January 25th, 6pm – 7:30pm, at the Westerly Town Hall.
+The first 45 minutes included updates on state and town issues and open Q&A, and then we discussed shoreline access issues and heard from special guests Topher Hamblett (Director of Advocacy at Save the Bay), Mike Woods (New England Chair of Backcountry Hunters & Anglers), and Leah Feldman (Coastal Policy Analyst at the Coastal Resources Management Council).

@@ -1,0 +1,9 @@
+- Putting a yard sign in my yard
+- Dropping off door hangers in my neighborhood
+- Putting yard signs in supporter's yards
+- Registering voters
+- Hosting a neighborhood 1-hour "Cookies & Questions with the Representative"
+- Talking to my neighbors
+- Contributing money to the campaign
+- Hosting a fundraiser event
+- Sign me up for your newsletter

@@ -1,0 +1,102 @@
+Skip to content
+Skip to content
+Home
+About Pat Dixon
+Policy Statements
+Exonerate Robert Roberson
+Free Market Sustainability
+Approval Voting
+School Choice
+Parent & Teacher Empowerment
+Non-Partisan Redistricting
+Texas Muslims
+AI
+Property Tax
+The Abbott Report
+The Border
+Election Integrity
+Texas Transportation
+Missed Opportunity?
+Hyperbole anyone?
+COVID
+How to Return Taxes
+Guns
+Texas Stance on Science Questionnaire
+Flock Cameras
+AI Data Centers
+The War on Hemp
+The Abbott Ad
+765 kV Transmission
+iVoterGuide Questionnaire
+League of Women Voters General Election Voters Guide
+Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey
+New Braunfels Herald-Zeitung article 8/29/26
+Minority Winner
+Israel
+Abbott’s Tax Plan
+About Greg Abbott
+Biblical Principles
+Texas Cannabis Policy Questionnaire
+Business
+DPAS-INC
+Sports and Outdoors
+CDT 2015
+Bio
+My Journey
+Axyl
+Mail Stops
+About Me
+My Mom
+About PSP
+YouTube Channel
+Photos
+Arts
+Music
+Amazon author page
+Government
+Keep the Party Libertarian
+Texas Senate District 14
+Lago Vista city council
+TX20
+Policy Statements
+Media and Video
+Search for:
+Search
+Home
+Pat Dixon For Governor Statements
+Pat Dixon For Governor Statements
+Texas Cannabis Policy Questionnaire
+Abortion
+Biblical Principles
+About Greg Abbott
+Abbott’s Tax Plan
+Israel
+Minority Winner
+New Braunfels Herald-Zeitung article 8/29/26
+iVoterGuide Questionnaire
+Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey
+League of Women Voters General Election Voters Guide
+765 kV Transmission
+The Abbott Ad
+The War on Hemp
+AI Data Centers
+Flock Cameras
+Texas Stance on Science Questionnaire
+Guns
+How to Return Taxes
+COVID
+Hyperbole anyone?
+Missed Opportunity?
+Texas Transportation
+Election Integrity
+The Border
+The Abbott Report
+Property Tax
+AI
+Free Market Sustainability
+Approval Voting
+Parent & Teacher Empowerment
+School Choice
+Non-Partisan Redistricting
+Texas Muslims
+Exonerate Robert Roberson

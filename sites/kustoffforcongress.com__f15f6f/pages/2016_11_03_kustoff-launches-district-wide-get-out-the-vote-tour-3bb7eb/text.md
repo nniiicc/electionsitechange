@@ -1,0 +1,54 @@
+Kustoff Launches District Wide Get Out The Vote Tour
+November 3, 2016
+Tour will stop in Alamo, Brownsville, Camden, Dyersburg, Germantown, Huntingdon, Jackson, Martin, Milan, Munford, Paris, Ripley, Somerville, Tiptonville, and Union City
+GERMANTOWN, TN – The 8th Congressional District Republican nominee, David Kustoff, announced today he will be once again traveling across all 15 counties for a Get Out The Vote Tour, beginning Friday, November 4th.
+The tour will conclude with an event with Congressman Fincher in Germantown on Saturday, November 5th.
+“I’m looking forward to visiting all 15 counties in the 8th Congressional District this week,” Kustoff said.
+“As I continue to travel this district, it’s important to me that I listen to folks, discuss the concerns they have, answer their questions, and talk with them about the conservative values we share.
+My goal is to make sure we keep West Tennessee safe, secure, and prosperous.
+“I also look forward to reminding them to vote a straight Republican ticket on November 8th.
+We must make sure we keep control of the Senate and House, as well as put an end to the radical Obama-Clinton agenda.”
+The tour begins Friday, November 4th in Tipton County and ends November 5th in Shelby County.
+The following are the details of his district-wide tour:
+District Wide Bus Tour – Day 1
+November 4, 2016
+Friday
+7:30AM – 8:30AM MUNFORD, TN: South Tipton Chamber of Commerce First Coffee Friday
+LOCATION: 57 South Tipton Street, Munford, TN
+9:30AM – 10:30AM RIPLEY, TN: Emilee’s Restaurant
+LOCATION: 815 U.S. 51, Ripley, TN
+11:15AM – 12:15PM DYERSBURG, TN: Dave’s On The Square
+LOCATION: 107 West Market Street, Dyersburg, TN
+1:00PM – 1:30PM TIPTONVILLE, TN: Lake County Courthouse
+LOCATION: 116 South Court Street, Tiptonville, TN
+2:30PM – 3:15PM UNION CITY, TN: Obion County GOP HQ
+LOCATION: 104 East Church Street, Union City, TN
+3:45PM – 4:30PM MARTIN, TN: Weakley County GOP HQ
+LOCATION: 217 Lindell Street, Martin,TN
+5:30PM – 6:15PM PARIS, TN: Henry County GOP HQ
+LOCATION: 200 South Market Street, Paris, TN
+District Wide Bus – Day 2
+November 5, 2016
+Saturday
+7:30AM – 8:30AM JACKSON, TN: Brooks Shaw’s Old Country Store
+LOCATION: 56 Casey Jones Lane, Jackson, TN
+9:30AM – 10:30AM HUNTINGDON, TN: Carroll County GOP HQ
+LOCATION: 19860 East Main Street, Huntingdon, TN
+11:00AM – 11:15AM CAMDEN, TN: Casey’s General Store Gas Stop
+LOCATION: 144 US Hwy 641 North, Camden, TN
+12:30PM – 1:30PM MILAN, TN: Hig’s Restaurant
+LOCATION: 109 Oakwood Drive, Milan, TN
+2:30PM – 3:15PM BELLS, TN: Rebecca’s
+LOCATION: 96 South Bells Street, Alamo, TN
+4:00PM – 4:45PM BROWNSVILLE, TN: West Tennessee Delta Heritage Center
+LOCATION: 121 Sunny Hill Cove, Brownsville, TN
+5:30PM – 6:15PM EADS, TN: Fayette County GOP HQ
+LOCATION: 2735 U.S. 64, Eads, TN
+7:00PM – 8:00PM GERMANTOWN, TN: Shelby County GOP Chairman’s Event
+LOCATION: Devonshire Gardens Clubhouse, 3257 Devonshire Way, Germantown, TN
+David Kustoff’s roots run deep in West Tennessee.
+He was born and raised in Shelby County and is a graduate of the University of Memphis.
+Appointed U.S.
+Attorney for the Western District of Tennessee by President Bush in 2006, Kustoff set his sights on cleaning up government and public corruption and fighting violent crime and drugs.
+He oversaw the majority of the Tennessee Waltz trials that sent Senator John Ford and 12 other defendants to federal prison.
+David and his wife of 14 years, Roberta, have two children Maggie and Jake.

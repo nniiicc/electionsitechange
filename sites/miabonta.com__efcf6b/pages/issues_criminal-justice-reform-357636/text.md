@@ -1,0 +1,21 @@
+Mia Bonta believes in
+Community Safety & Shared Safety
+Oakland is getting safer — and Mia is fighting to keep it that way by investing in what actually works: prevention, healing, and real accountability.
+Mia believes public safety is a public health issue.
+That means addressing root causes before harm happens, supporting crime survivors, and breaking cycles of incarceration — not just responding after the fact.
+True safety means everyone in our community is safe, including the most vulnerable.
+Mia has fought for healthcare and dignified conditions for incarcerated women, fair pay for incarcerated firefighters, robust reentry programs, and funding for legal services to survivors of domestic violence and human trafficking.
+She supports community oversight, restorative justice, and the investments in prevention and healing that keep neighborhoods strong.
+Recent Legislation
+- The Survivors Act (AB 938/910): Expands legal protections and vacatur relief for survivors of human trafficking, intimate partner violence, and sexual violence — removing barriers to housing and employment
+- End Endless Youth Probation (AB 1376): Limits harmful probation sentences that disrupted young people's education and development, with personalized plans and clear off-ramps from the juvenile justice system
+- Youth Expulsion Reform (AB 1230): Strengthens support for expelled students to successfully return to school
+- Human Trafficking Survivors Act (AB 2020): Requires law enforcement to establish clear policies for interactions with trafficking survivors
+- Family Visitation (AB 2434): Supports in-person visitation — a proven tool to reduce recidivism — and requires transparency when visits are denied
+Recent Wins in Sacramento
+- $20M — RIGHT Grant: Community-based organizations providing programs inside California prisons
+- $10M — Legal Services One California: Legal aid for survivors of domestic violence, sexual assault, elder abuse, and human trafficking
+- $44.9 million secured in 2025-26 alone, with hundreds of millions more committed through 2030 — Parole Reentry Contracts: Day reporting centers, reentry housing, and specialized treatment programs
+- $10M — Incarcerated Firefighter Pay: Fair wages for those risking their lives on California's front lines
+- $8.4M — Impact Justice: Supporting California Justice Leaders, the Menopause Project, and the Homecoming Project
+- $2.8M — Women's Prison Healthcare: 12.6 new healthcare positions at two California women's prisons

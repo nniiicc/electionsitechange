@@ -1,0 +1,1 @@
+“A Template For Higher Ed” by anchorhost | Jan 25, 2022 | Education, Issues | 0 comments General Counsel for the South Dakota Board of Regents, Nathan Lukkes outlines a template for higher education and policymakers.

@@ -1,0 +1,21 @@
+press release
+Jul 7, 2026
+GOVERNOR LAMONT ENDORSED BY 32BJ SEIU
+Cites Fight for Fair Wages, Union Protections, and Standing Up for Connecticut’s Property Service Workers
+HARTFORD, CT – Governor Ned Lamont today announced he received the endorsement of 32BJ SEIU, the nation’s largest property service workers union, which represents nearly 5,000 janitors, security officers, and building service workers across Connecticut who clean and protect offices, schools, courts, transportation centers, and other essential sites statewide.
+“32BJ members show up every single day to keep Connecticut’s buildings, schools, and transit centers clean, safe, and running, and I am proud and honored to have their support,” said Governor Ned Lamont.
+“I’ve made it a priority to make sure they’re recognized for that dedication by fighting for fair wages, defending their right to organize, and building an economy where working families can actually afford to live in the state they serve.
+I will keep standing with 32BJ and every union worker fighting for dignity on the job.”
+Governor Lamont has built a record of standing up for Connecticut’s property service workforce, one of the most diverse in the state, spanning workers who represent dozens of countries of origin and languages.
+That record includes support for stronger wage protections, defending collective bargaining rights, and backing paid family and medical leave, ensuring low-wage workers are not forced to choose between a paycheck and caring for their families.
+“The 5,000 32BJ members in Connecticut are ecstatic to endorse Governor Lamont for re-election,” said Rochelle Palache, Connecticut State Director and a Vice President of 32BJ SEIU.
+“The Governor has been with us through the years-long fight to organize and win a first contract for Connecticut’s rest stop food service workers, stands with our immigrant communities through the federal administration’s assault on our rights, and recently signed a state-wide Worker Retention Bill into law to raise standards for service workers across the state.
+Governor Lamont has consistently stood with our members during contract negotiations, most recently supporting our security and rest stop members as we won groundbreaking new contracts for both sectors.
+We are ready to get out the vote and win another term for Governor Lamont so we can continue fighting and winning together for Connecticut’s working families.”
+32BJ’s endorsement adds to a growing list of endorsements, including U.S.
+Sens.
+Richard Blumenthal and Chris Murphy, and U.S.
+Reps.
+John Larson, Joe Courtney, Rosa DeLauro, Jim Himes and Jahana Hayes, Comptroller Sean Scanlon, Treasurer Erick Russell, Attorney General William Tong, 93 State Lawmakers, 86 Democratic Town Committee Chairs, more than 50 municipal leaders across the state, 44 Democratic State Central Committee members, the Connecticut AFL-CIO, the Teamsters Union, IUOE Local 478, Unite Here Local 217, Unite Here Local 34, the Connecticut District Laborers’ Council, the Uniformed Professional Firefighters Association, the Amalgamated Transit Union of Connecticut, the Connecticut Carpenters Union, and the Association of Commuter Rail Employees.
+The campaign will continue to roll out additional endorsements in the coming days.
+###

@@ -1,0 +1,3 @@
+South Dakota looking to eliminating state tax on food
+South Dakota looking at eliminating the state’s 4.5% tax on food.
+As a member of the SD House Taxation Committee, we recently passed HB 1075 on to the House Committee on Appropriations with a “Do Pass” recommendation that would eliminate the state’s 4.5% tax…

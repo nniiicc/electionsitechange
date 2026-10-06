@@ -1,0 +1,28 @@
+↓
+Skip to main content
+Mary Nesgoda for Minnesota House 22B
+About
+Issues
+Events
+News
+Volunteer
+Donate
+About
+Issues
+Events
+News
+Volunteer
+Donate
+Mary Nesgoda for Minnesota House 22B
+/
+News
+/
+News
+Stay up to date with the latest from the campaign.
+Mary Nesgoda and South Central Candidates Prioritize Farmers in 2026 Race
+16 April 2026
+Mary Nesgoda Endorsed as DFL Candidate for House District 22B
+22 March 2026
+Mary Nesgoda Announces DFL Campaign for Minnesota House 22B
+1 March 2026
+↑

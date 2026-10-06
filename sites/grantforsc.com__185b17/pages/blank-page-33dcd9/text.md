@@ -1,0 +1,16 @@
+Meet Hamilton
+Hamilton Grant is a husband, father, businessman, and dedicated public servant who has spent his life working to uplift the Columbia community he proudly calls home.
+A graduate of South Carolina State University and Alabama A&M University, Hamilton combines a strong educational foundation with years of hands-on leadership experience across business, government, and civic life.
+In November 2024, Hamilton was elected to represent District 79 in the South Carolina House of Representatives, where he advocates for more than 42,000 constituents and helps shape policy for over 5 million South Carolinians.
+His work is driven by a deep commitment to quality education, economic growth, and building strong, strategic partnerships that benefit families across the state.
+Hamilton’s service to the community started long before he entered public office.
+He’s led and contributed to countless local efforts, including serving as President of the Columbia Urban League Young Professionals, mentoring youth through Project Ready, and holding leadership roles with the Talented Tenth, the Famously Hot New Year Advisory Board, the Hate Won’t Win Movement, and more.
+He’s also a proud graduate of both the Columbia Chamber’s Leadership Columbia program and the James E.
+Clyburn Political Fellowship.
+In 2018, Hamilton was elected to the Board of Trustees for South Carolina State University—his alma mater—becoming the youngest trustee in the school’s history and one of the youngest ever elected to a college board in the state.
+His leadership has earned him numerous recognitions, including Columbia Business Monthly’s Best and Brightest Under 35, Columbia Metropolitan Magazine’s Top Ten Young Professionals, and multiple “Under 40” honors.
+Hamilton is a member of Kappa Kappa Psi National Honorary Band Fraternity and Omega Psi Phi Fraternity, Inc.
+Above all, he is a proud family man.
+He shares his journey with his wife, Alana R.
+Grant, and their three children—Hamilton II, Harrison, and Hilton—who remain his greatest inspiration and motivation to serve.
+One of Hamilton’s guiding beliefs comes from a favorite quote: “The only disability in life is having a bad attitude.” It's this mindset that continues to shape his approach to leadership, community, and public service.

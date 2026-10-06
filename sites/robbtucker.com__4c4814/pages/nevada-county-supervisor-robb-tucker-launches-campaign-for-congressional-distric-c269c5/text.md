@@ -1,0 +1,20 @@
+CAMPAIGN NEWS PRESS RELEASE
+Nevada County Supervisor Robb Tucker Launches Campaign for Congressional District 3
+February 17, 2026
+Nevada County, CA — Nevada County Supervisor Robb Tucker has launched his campaign for California’s newly redrawn 3rd Congressional District, representing all of Nevada County and portions of Sacramento, Placer, and El Dorado Counties in the U.S.
+House of Representatives.
+In announcing his campaign, Tucker stated, “As a Nevada County Supervisor, I have stood up for conservative solutions to protect public safety, support small businesses, create jobs, and protect our quality of life.
+Now, I am running for Congress to take that conservative, solutions-oriented leadership to Washington, D.C.” Tucker continued, “We must ensure that Republicans maintain control of the House of Representatives.
+Our communities need a conservative leader who will support the second amendment, oppose illegal immigration, fight for fiscal sanity, and provide a clear alternative to the failed policies of Gavin Newsom.”
+Tucker is launching his campaign having already consolidated Republican support in the district.
+Last week, Tucker secured endorsements from all four county Republican parties in CD3: the Nevada County Republican Party, El Dorado County Republican Party, Placer County Republican Party, and Sacramento County Republican Party.
+Tucker also has the endorsement of several high profile elected officials from across the district, including Congressman Kevin Kiley and Placer County Supervisors Shanti Landon and Bonnie Gore.
+The grandson and son of retired USAF pilots who flew in WWII, Korea and Vietnam, Tucker was born and raised in South Nevada County and attended local schools growing up.
+Tucker holds a bachelor’s degree in Business Administration from Pepperdine University and a master’s degree from Wheaton College Graduate School.
+He lives on acreage in South Nevada County with his wife Kristy and has three teenage children, Samara, Sela, and Ethan.
+He is very involved in local schools and church and has coached youth and prep sports for decades.
+He also possesses a Commercial Pilot License with a multi-engine, instrument rating, carrying on the family tradition of aviation.
+Tucker served as President/CEO of a closely held family business, which owned Forest Springs Mobilehome Community, until selling the business in 2020.
+In 2024, he was overwhelmingly elected to serve on the Nevada County Board of Supervisors.
+Congressional District 3 includes all of Nevada County; the Placer County communities of Granite Bay, Loomis, Penryn, Auburn, and Tahoe City; the El Dorado County communities of South Lake Tahoe and Pollock Pines; and the Sacramento County communities of Rancho Cordova, Folsom, Arden-Arcade, Carmichael, and parts of the City of Sacramento. 55% of Congressional District 3 was previously represented by Congressman Kevin Kiley, 34% by Congressman Ami Bera, and 11% by Congresswoman Doris Matsui.
+For more information about Tucker and his campaign, please visit www.RobbTucker.com

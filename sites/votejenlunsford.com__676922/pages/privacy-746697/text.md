@@ -1,0 +1,98 @@
+Privacy Policy
+Last updated:
+This Privacy Policy explains how information about you is collected, used and disclosed by Friends of Jen Lunsford (referred to in this Privacy Policy as “we,” “us,” or “our”).
+This Privacy Policy applies to information we collect when you use our website located at https://votejenlunsford.com and any other Friends of Jen Lunsford websites and online services that link to this Privacy Policy (collectively, the “Site”).
+We may change this Privacy Policy from time to time.
+If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, if we make material changes to this Privacy Policy, we may provide you with additional notice (such as adding a statement to our homepage or sending you an email notification) in advance of the effective date of the applicable changes.
+We encourage you to review the Privacy Policy whenever you access the Site to stay informed about our information practices and the ways you can help protect your privacy.
+How We Collect Information From You
+Information You Directly Provide to Us
+We collect information you provide directly to us.
+For example, we collect information when you fill out a form, make a donation, send us an email, sign up to receive updates, request information, sign up as a volunteer, communicate with us via third party social media sites, or otherwise communicate with us.
+The types of information we collect may include your name, address, phone number, email address, mobile number, credit card information, and other contact or identifying information you choose to provide.
+In addition, the New York State Board of Elections may require us to collect certain personal information from donors.
+Information We Collect Automatically When You Use the Site
+When you access or use our Site, we automatically collect information about you, including:
+- Log Information: We log information about your use of the Site, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Site.
+- Device Information: We collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+- Information Collected by Cookies and Other Tracking Technologies: We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.
+Cookies are small data files stored on your hard drive or in device memory that help us to improve our Site and your experience, see which areas and features of our Site are popular and count visits.
+We may also collect information using web beacons (also known as “tracking pixels”).
+Web beacons are electronic images that may be used in our Site or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.
+For more information about cookies, and how to disable them, please see “Your Choices” below.
+Information We Collect From Other Sources
+We may also obtain information from other sources and combine that with information we collect through our Site.
+For example, we may collect information about you from third parties, including but not limited to mailing list providers and publicly available sources.
+We may also use this information for list matching purposes.
+How We Use the Information We Collect Through the Site
+We may use the information we collect about you through the Site for various purposes, including to:
+- Provide, maintain and improve our Site;
+- Provide and deliver the information you request, process donations and send you related information, including confirmations and receipts;
+- Send you technical notices, updates, security alerts and support and administrative messages;
+- Respond to your emails, comments, questions and requests and provide customer service, request feedback, and otherwise contact you about your use of the Site;
+- Send you newsletters and otherwise provide you with news and information you request or that we think will be of interest to you, such as sending you information to keep you informed about various campaigns, candidates, issues, events, resources, promotions, contests, products and services;
+- Process and deliver contest entries and rewards;
+- Link or combine with information we get from others to help understand your needs and provide you with better service; and
+- Carry out any other purpose for which the information was collected.
+How We Share the Information We Collect Through the Site
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+Friends of Jen Lunsford maintains strict privacy policies, ensuring that personal information of our users and members is not sold, rented, released, or traded to others without prior consent or legal obligation.
+Promotion of the Campaign’s Political Objectives and Compliance with Legal Requirements
+We may share your information with:
+- Candidates, organizations, campaigns, groups or causes that we believe have similar political viewpoints, principles or objectives or share similar goals and with organizations that facilitate communications and information sharing among these groups;
+- Other participants in a joint fundraising committee;
+- To report required information to the New York State Board of Elections.
+Response to Subpoenas or Court Orders or to Protect Rights and to Comply with Our Policies
+To the extent permitted by law, we will disclose your information to government authorities or third parties if:
+- Required to do so by law, or in response to a subpoena or court order;
+- We believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect the property or other rights of us or other users, third parties or the public at large;
+- We believe that you have abused the Site by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws.
+You should be aware that, following disclosure to any third party, your information may be accessible by others to the extent permitted or required by applicable law.
+With Your Consent
+We may share your information with third parties with your consent or at your direction, including if we notify you through our Site that the information you provide will be shared in a particular manner and you provide the applicable information.
+Aggregate Information
+We may also share aggregated or anonymized information that does not directly identify you.
+While this information will not identify you personally, in some instances the applicable recipients of this aggregate information may be able to combine this aggregate information with other data they have about you, or that they receive from third parties, in a manner that allows them to identify you personally.
+Information Collected by Third Parties through Third Party Links and Content
+The Site may include links to other websites and other content from third party businesses.
+These third party businesses may use cookies, web beacons or other similar technology to collect information about you.
+We do not have access to or control over these third parties or the cookies, web beacons or other technology that these third parties may use.
+We are not responsible for the privacy practices of these third parties or the content on any third party website.
+You are encouraged to review the privacy policies of the different websites you visit and of the links you may choose to click while on our Site.
+Information You Provide When You Make a Donation through the Site
+We use a third party service provider ActBlue to process the payment of donations through the Site, and any data collection and processing activity in connection with information you submit when you make a donation through the Site is described in and subject to ActBlue’s Privacy Policy located at: https://secure.actblue.com/privacy
+Social Sharing Features
+The Site may offer social sharing features and other integrated tools (such as the Facebook “Like” button).
+The use of these features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.
+For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+Advertising and Analytics Services Provided by Third Parties
+We may allow third parties to serve advertisements on our behalf across the Internet and to provide analytics services.
+These entities may use cookies, web beacons and other technologies to collect information about your use of the Site and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information.
+This information may be used by Friends of Jen Lunsford and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Site and other websites and better understand your online activity.
+Your Choices
+Cookies.
+Most web browsers are set to accept cookies by default.
+If you prefer, you can usually set your browser to remove or reject cookies through its settings menu.
+Please note that removing or rejecting cookies could affect the availability and functionality of the Site.
+Email.
+You may opt out of receiving campaign emails from us at any time by following the unsubscribe instructions in any email we send, or by contacting us at [email protected].
+Please note that we may continue to send you administrative messages relating to a donation or request you have made, and you cannot opt out of those messages.
+Text messages.
+If you have given us your mobile number and consented to receive text messages, you may opt out at any time by replying STOP to any message we send.
+Reply HELP for help, or contact us at [email protected].
+Security
+Friends of Jen Lunsford takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+Special Notice for Users Located Outside of the United States of America
+At this time, the Site is only intended to be available to residents of the United States of America and it is not intended to be directed to anyone residing outside of the United States of America.
+If this current limitation changes, we expect that the Privacy Policy available to non-U.S. residents will reflect the laws and regulations of the territories where the Site is intentionally made available.
+Children Under Age 13
+The Site is not intended for children under age 13.
+Text Messaging
+Message and data rates may apply.
+Message frequency varies.
+Reply STOP to opt out.
+For support, contact: [email protected]
+Text Messaging Opt-In Data: We will not share or sell your text messaging opt-in data, consent, or related personal information with any third parties, unless required by law.
+The above excludes text messaging originator opt-in data and consent, which information will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); and (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at [email protected], call 585-310-2115, or write to us at Friends of Jen Lunsford, PO Box 25665, Rochester, New York, 14625.

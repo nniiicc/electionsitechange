@@ -1,0 +1,13 @@
+Moms for Eileen
+The Moms for Eileen coalition brings together mothers from communities across Colorado's 4th District who share a commitment to building a stronger future for their families and communities.
+Drawing on their experiences raising families, balancing work and home, and advocating for their children, coalition members help ensure the voices of parents are heard throughout the campaign.
+Once you sign up, a member of our team will reach out to welcome you to the coalition and connect you with fellow Moms through our coalition Slack channels.
+You'll have opportunities to participate in regular meetings, attend events and roundtables across the district, share your perspective on issues affecting Moms and their families, and help build support for Eileen throughout Colorado's 4th District.
+HOW BOEBERT HURTS MOMs
+- Boebert voted to give a massive tax break to billionaires while gutting Medicaid, kicking more than a hundred thousand Coloradans off their health insurance, and forcing hundreds of thousands of Coloradans to pay double for their monthly premiums.
+- Boebert has repeatedly voted for the illegal tariffs that have cost the average Colorado family nearly $2,000 a year and counting.
+- Boebert voted three times to continue the Iran War that has sent gas prices skyrocketing to over $4 a gallon
+- Boebert voted to roll back Medicare's ability to negotiate lower drug prices, forcing taxpayers and seniors to pay more than $8 billion in higher costs to the drug industry.
+- Boebert has repeatedly voted to block critical programs to make child care more affordable and accessible
+- Boebert voted to ban states from taking action to regulate AI to protect children from abuse or ban corporate landlords or grocery stores from using it to price gouge
+- Boebert opposed the majority of her own party and voted against banning the sale of “suicide kits” that could be purchased online by children

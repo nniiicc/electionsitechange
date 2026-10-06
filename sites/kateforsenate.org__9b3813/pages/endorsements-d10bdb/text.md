@@ -1,0 +1,60 @@
+Endorsements
+WE’re with Kate for Senate
+- Maura Healey Governor
+- Kim Driscoll Lieutenant Governor
+- Jason Lewis State Senator
+- Paul Donato State Representative
+- Rich Haggerty State Representative
+- Steve Ultrino State Representative
+- Mike Day State Representative
+- Jen Grigoraitis Melrose Mayor
+- Vote Mama
+- Boston Carmen's Union Local 589
+- mass retirees
+- Iron Workers Union Local 7
+- ELM Action Fund
+- Reproductive Equity Now
+- Moms demand action Gun Sense Candidate Distinction
+- Massachusetts Women's Political Caucus PAC
+- LIUNA!
+Laborers' Local 22
+- Massachusetts Nurses association
+- Massachusetts Organization of State Engineers & Scientists
+- CARPENTERS LOCAL 339
+- CARPENTERS LOCAL 328
+- Melrose Firefighters Local 1617
+- 1199SEIU United Healthcare Workers East
+- Brad Freeman Melrose City Council President & Ward 4 Councilor
+- Elizabeth Kowal Melrose City Councilor-At-Large
+- Ryan Williams Melrose City Councilor-At-Large
+- Maya Jamaleddine Melrose City Councilor-At-Large
+- Manjula Karamcheti Melrose City Councilor, Ward 1
+- John Obremski Melrose City Councilor, Ward 2
+- Christopher Park Melrose City Councilor, Ward 3
+- Kimberly Vandiver Melrose City Councilor, Ward 5
+- Devin Romanul Melrose City Councilor, Ward 7
+- Jonathan Chines Wakefield Town Council Chair
+- Stacey Constas Wakefield Town Council Vice-Chair
+- John Crisley Wakefield Town Councilor
+- Jeanne Craigie Stoneham Town Moderator
+- Karen Herrick Reading Select Board
+- Anthea Brady Winchester Select Board Chair
+- Michael Bettencourt Winchester Select Board
+- William McGonigle Winchester Select Board
+- Seamus Kelley Melrose School Committee Chair
+- Matt Hartman Melrose School Committee
+- Melissa Holleran Melrose School Committee
+- Sheri Leo Melrose School Committee
+- Jennifer Razi-Thomas Melrose School Committee
+- Kevin Piskadlo Wakefield School Committee Chair
+- Melissa Quinn Wakefield School Committee Vice-Chair
+- Kevin Fontanella Wakefield School Committee
+- Pete Davis Wakefield School Committee
+- Stephen Ingalls Wakefield School Committee
+- thomas boettcher Wakefield Municipal Gas & Light Board of Commissioners
+- Michael Drummey Malden School Committee, Ward 1
+- Keith Bernard Malden School Committee, Ward 7
+- Megan Samborski Stoneham School Committee
+- Timothy Matthews Winchester School Committee Chair
+- Stefanie Mnayarji Winchester School Committee Vice-Chair
+- John Bellaire Winchester School Committee

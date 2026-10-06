@@ -1,0 +1,10 @@
+Human Rights
+In 2017, Ed led a bipartisan, multi-racial effort to protect the freedom of assembly and protest in Georgia, receiving an award from Asian Americans Advancing Justice in Atlanta.
+From 2014-2016, Ed led a bipartisan effort to restrict public access to the criminal histories of Georgians who have been accused of crimes but found not guilty in a court of law.
+Previously, the mere accusation of a crime by one party could ruin the life of the accused, even when later found not guilty in a court of law. test
+In spite of cynical attacks, Ed has been a voice of reason in the debate on the free exercise of religion by people of all faiths, sponsoring a consensus bill that would provide the same basic protections at the state level that exist under federal law.
+Ed has been recognized for his leadership in protecting citizens’ 2nd Amendment right to self defense and as a policy expert on nationally televised CSPAN forums.
+In 2019, Ed passed the Living Infants Fairness & Equality Act “LIFE Act”, which ensures that every human life is recognized under Georgia law by requiring fathers provide child support to pregnant mothers, providing full income tax deductions to expecting parents, allowing pregnant mothers to ride in HOV lanes, and prohibiting abortion when a child’s heartbeat is detectable.
+In addition to being endorsed by the Georgia Life Alliance, Ed initially authored and helped pass Senate Bill 166 an bill that removes crushing regulations to allow churches and non-profits to provide free homes to pregnant mothers.
+Ed’s leadership helped pass life-saving informed consent legislation, restrictions on late term abortion in House Bill 954, and House Bill 1114 the Assisted Suicide Prevention Act.
+Ed’s work in the Judiciary Noncivil Committee helped secure unanimous bipartisan passage of Senate Bill 77, the Unborn Victims of Violence Act, in which Georgia became one of 30 states to prosecute violent crimes against a pregnant woman as crimes against two distinct persons.

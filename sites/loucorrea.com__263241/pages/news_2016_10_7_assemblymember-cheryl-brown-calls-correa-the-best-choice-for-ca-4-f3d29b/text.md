@@ -1,0 +1,117 @@
+Assemblymember Brown Becomes Most
+Recent California Legislator to Enthusiastically
+Endorse Lou Correa in the Race to Represent CA-46
+Santa Ana, Ca – After garnering support from numerous labor groups, local leaders, and grassroots activists, today, Lou Correa earned the endorsement of California Assemblywoman Cheryl Brown in his campaign for Congress.
+Assemblymember Cheryl Brown released the following statement:
+"I am proud to endorse former State Senator Lou Correa for Congress.
+As an Orange County native, Lou has spent his entire life serving the hardworking men and women of CA-46.
+He understands the needs of community members and is dedicated to improving the lives of those he represents.
+Lou is the best choice for Congress.
+I look forward to seeing what he will accomplish in Washington D.C."
+In response to news of the endorsement, former State Senator Lou Correa remarked:
+“It is an honor to have the support of Assemblymember Cheryl Brown.
+Thanks to the hard work of our State Legislators, California is moving in the right direction and leads the nation in enacting progressive legislation that lifts up working families and underrepresented communities.
+I plan to continue to advance the same kind of forward-thinking policies in Congress.
+Specifically, I will advocate for comprehensive immigration reform, affordable health care, access to a world-class education, and good paying jobs for hardworking men and women.”
+In additional to today’s endorsement, Correa has garnered widespread support from a long list of labor, environmental, public safety, and business organizations as well as numerous elected officials and community leaders, including:
+Organizations:
+· California Democratic Party (CDP)
+· LA/OC Building & Construction Trades Council
+· California Labor Federation
+· United Association Local Union 250: Steamfitters & Refrigeration
+· California School Employees Association (CSEA)
+· California State Association of Letter Carriers (CSALC)
+· The California Statewide Law Enforcement Association (CSLEA)
+· United Farm Workers of America (UFW)
+· California Police Chiefs' Association
+· Peace Officers Research Association of California (PORAC)
+· National Latino Peace Officers Association
+· California Small Business Association
+· Building Our Leadership Diversity (BOLD) PAC
+· International Union of Painters and Allied Trades District Council 36
+· International Union of Operating Engineers Local 501
+· Santa Ana School Police Officers' Association
+· Santa Ana Police Officers' Association
+· Anaheim Police Officer's Association Political Action Committee
+· Orange County Deputy District Attorneys
+· Orange County Employees Association (OCEA)
+· Garden Grove Firefighters Association
+· Garden Grove Police Officers Association
+· Californians for Humane Immigrant Rights Leadership Action Fund (CHIRLA Action Fund)
+· Orange County Business Council
+· Association of Orange County Deputy Sheriffs
+· Communication Workers of America
+· Laborers Local 652
+· Orange County Young Democrats
+Elected Leaders:
+· House Democratic Leader & Congresswoman Nancy Pelosi
+· House Democratic Whip & Congressman Steny Hoyer
+· House Democratic Caucus Chair & Congressman Xavier Becerra
+· Congressional Progressive Caucus Co-Chair and Congressman Raúl M.
+Grijalva
+· Congressional Hispanic Caucus Chair and Congresswoman Linda Sánchez
+· Former State Assembly Speaker & Congresswoman Karen Bass
+· Congresswoman Loretta Sanchez
+· Congresswoman Judy Chu
+· Congressman Juan Vargas
+· Congressman Alan Lowenthal
+· Congressman Pete Aguilar
+· Congressman Ted Lieu
+· Congressman Tony Cardenas
+· Congresswoman Norma Torres
+· Congressman Raul Ruiz, MD.
+· Congressman Ruben Gallego
+· Congressman Luis Gutierrez
+· Congressman Ruben Hinojosa
+· CongressmanFilemon Vela
+· California’s State Treasurer John Chiang
+· California’s Superintendent of Public Instruction Tom Torlakson
+· California State Senate President Pro-Tem Kevin de León
+· California Board of Equalization Chair Jerome Horton
+· California Lt.
+Governor Cruz Bustamante (Ret.)
+· California Latino Legislative Caucus Chair and State Assemblyman Luis Alejo
+· California Legislative Black Caucus Chair & State Assemblyman Reggie Jones-Sawyer
+· California State Senator and former Air Force General Richard Roth
+· California State Senator & LGBT trailblazer Mark Leno
+· California State Senator & Labor Committee Chair Tony Mendoza
+· California State Assemblywoman & former San Diego Central Labor Council Leader Lorena Gonzalez
+· California State Senator Lois Wolk
+· California State Senator Jerry Hill
+· California State Assemblywoman Cheryl Brown
+· California State Assemblywoman Susan Talamantes–Eggman
+· California State Assemblyman Henry Perea
+· California State Assemblywoman Sharon Quirk Silva (Ret.)
+· California Supreme Court Justice, Hon., Cruz Reynoso (Ret.)
+· California State Assemblywoman Cristina Garcia
+· California State Assemblyman Jose Medina
+· Orange County Sheriff Sandra Hutchins
+· Santa Ana City Council Member Michele Martinez
+· Santa Ana Unified School District Board President John Palacio
+· Santa Ana Unified School District Clerk Valerie Amezcua
+· Santa Ana Unified School District Board Member José Alfredo Hernández, J.D.
+· Santa Ana City Councilwoman Angie Amezcua
+· Buena Park City Councilman Art Brown
+· Anaheim Union High School District Board President Annemarie Randle-Trejo
+· Anaheim Union High School District Board Member Al Jabbar
+· Anaheim City School District Board of Education President Bob Gardner
+· Anaheim City School District Board of Education Member Ryan Ruelas
+· Anaheim Police Chief John Welter (Ret.)*
+· City of Garden Grove City Council Member Kris Beard
+· Huntington Beach Unified School District Board Member Bonnie Castrey
+· Los Angeles City Councilman, past State Senator Gil Cedillo
+· Artesia City Council Member Ali Sajjad Taj
+· Coast Community College Trustee Jim Moreno
+· Former Mayor of Huntington Beach Linda Moulton-Patterson
+· Coast Community College Trustee, former Congressman, and former Mayor of Santa Ana Jerry Patterson
+· Chairman of the California Democratic Party John Burton
+· California Democratic Party Regional Director Florice Orea Hoffman
+· California Democratic Party LGBT Caucus Southern California Chair & California Democratic Party Executive Board Member Denise Penn
+Community Leaders:
+· South County Labor Chair Ray Cordova*
+· Orange County-based LGBT activist Gregory Willenborg*
+· Pastor of the largest African American church in Orange County, the Rev.
+Mark E.
+Whitlock, Jr.*
+· Orange County Civil Rights Leader Sylvia Mendez
+*Titles for Identification Purposes Only.

@@ -1,0 +1,42 @@
+Get to know
+KATHERINE ROBERTSON
+This race isn’t about politics.
+It’s about defending our country, our faith, and our freedom.
+I’ve been blessed to fight for Alabama my entire career, and now I’m ready to take that fight to the next level — for President Trump, for Alabama, and most importantly, for you.
+Together, we’ll keep Alabama strong, free, and unshakably conservative.
+ABOUT KATHERINE ROBERTSON
+Katherine Robertson is a proud Alabamian, wife, mother, and lifelong conservative who has spent her career fighting for our values — faith, family, freedom, and the rule of law.
+An eighth-generation daughter of Dallas County, Katherine learned faith, hard work, and love of country on her family’s farm.
+She’s the daughter of Joy and Kincey Green and a graduate of Auburn University and the University of Alabama School of Law.
+Katherine began her public service in Washington as clerk and counsel to Senator Jeff Sessions on the U.S.
+Senate Judiciary Committee — standing up for the Constitution and America First principles.
+She later served as Vice President of the Alabama Policy Institute, shaping conservative policies rooted in free enterprise, limited government, and strong families.
+For nearly a decade, Katherine has been Chief Counsel to Attorney General Steve Marshall, helping lead Alabama’s toughest fights — against Joe Biden’s federal overreach, against the radical Left’s attacks on women’s sports, free speech, and the sanctity of life, and for the rights and freedoms of every Alabamian.
+She believes the Attorney General’s job is simple: defend Alabama, uphold the law, and put the people — not the politicians — first.
+She knows that Alabama’s values are handed down from one generation to the next and believes that each generation has the weighty responsibility of preserving them.
+That’s why she’s running.
+Katherine and her husband, Ryan, live in Birmingham with their two children.
+They are active in their church and thankful every day to call Alabama home.
+Katherine has stood shoulder-to-shoulder with Alabama conservatives to:
+- Push back on Joe Biden’s unconstitutional mandates
+- Defend religious liberty and free speech
+- Protect women’s privacy and fairness in sports
+- Stand up for life and protect our children
+- Keep Alabama free, strong, and faithful
+WHY I'M RUNNING:
+I’m running for Attorney General because Alabama needs a fighter — not a follower — who will always stand up for our people, our freedoms, and our way of life.
+For years, I’ve been on the front lines pushing back against the Biden Administration’s radical agenda, defending Alabama’s sovereignty, and fighting for life, liberty, and law and order.
+I know what it takes to win these battles — and I’m ready to keep fighting for you.
+President Trump has shown what true leadership looks like: putting America First, standing up to the global elites, and fighting for working families.
+Now it’s time for Alabama to do our part.
+We need an Attorney General who will back President Trump’s agenda, not back down from the Left’s attacks.
+As a wife and mother, I want safe neighborhoods, strong schools, and a state where our kids can grow up proud of their country and their faith.
+As your Attorney General, I’ll make sure Alabama remains a fortress for conservative values.
+As Attorney General, I will:
+- Support President Trump’s America First vision from Montgomery
+- Defend Alabama’s Constitution and sovereignty from Washington’s overreach
+- Protect the God-given rights of our citizens
+- Stop the Left’s war on women, faith, and family
+- Stand up for free speech and religious freedom
+- Enforce the law with strength, fairness, and zero tolerance for crime
+- Protect our children from exploitation, indoctrination, and radical agendas

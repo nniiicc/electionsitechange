@@ -1,0 +1,28 @@
+I supported SCR1021, a resolution which declares our intent to work with Taiwan.
+The full text of the resolution is below:
+Whereas, the trade in goods between the United States and the Republic of China (Taiwan) totaled an estimated $114 billion in 2021, with $36.9 billion in exports and $77.1 billion in imports, ranking Taiwan as the eighth largest trading partner of the United States.
+Overall, Taiwan supports an estimate of more than 375,288 jobs in the United States; and
+Whereas, on December 19, 2019, 161 Members of Congress signed a letter to the then United States Trade Representative, while 50 United States Senators signed a separate letter to him on October 1, 2020, both encouraging the United States government to work toward initiating negotiations on a bilateral trade agreement with Taiwan; and
+Whereas, on June 1, 2022, the Minister without Portfolio of the Republic of China and United States Deputy Trade Representative announced the launch of the U.S. – Taiwan Initiative on 21st-Century Trade, which will facilitate the development of a roadmap for negotiations on economic and trade agreements with high-standard commitments; and
+Whereas, Taiwan was Arizona’s eighth largest export market in 2021, reaching $621 million in total United States exports to Taiwan originating from Arizona.
+In total, more than 7,895 jobs in Arizona are supported by Taiwanese-affiliated companies and the exports of goods and services to Taiwan; and
+Whereas, Taiwan Semiconductor Manufacturing Company has begun construction of its $12 billion 5-nanometer fab in Phoenix, with chip production slated to start by 2024.
+This new factory will create 1,900 full-time jobs in Arizona over a five-year period; and
+Whereas, Taiwan’s Bureau of Foreign Trade, the Ministry of Economic Affairs and the Arizona Commerce Authority signed the Memorandum of Understanding on Trade and Economic Cooperation on October 5, 2021, aiming to foster further economic engagement and to establish or expand operations and supply chains cooperation between Taiwan and Arizona; and
+Whereas, on July 12, 2013, the President of the United States signed into law H.R. 1151, an act supporting Taiwan’s participation as an observer in the International Civil Aviation Organization (ICAO); and
+Whereas, on March 18, 2016, the President of the United States signed into law S. 2426, an act directing the Secretary of State to develop a strategy to obtain observer status for Taiwan in the International Criminal Police Organization (INTERPOL); and
+Whereas, on March 26, 2020, the President of the United States signed into law S. 1678, an act stating that it should be the policy of the United States to advocate, as appropriate, for Taiwan’s membership in all international organizations in which statehood is not a requirement and in which the United States is also a participant, and for Taiwan to be granted observer status in other appropriate international organizations; and
+Whereas, the United States Secretary of State issued a statement on October 26, 2021, encouraging all United Nations (UN) Member States to join us in supporting Taiwan’s robust, meaningful participation throughout the UN system and in the international community; and
+Whereas, the Arizona Legislature passed resolutions in support of Taiwan’s participation in international organizations, including INTERPOL and UN specialized agencies such as the World Health Organization (WHO), the ICAO and the United Nations Framework Convention on Climate Change (UNFCCC) in 2012, 2014, 2016, 2017, 2018, 2019, 2020, 2021 and 2022; and
+Whereas, the Taiwan Travel Act, signed into law by the President of the United States on March 16, 2018, allows officials at all levels of the federal government to travel to Taiwan to meet their Taiwanese counterparts and allows high-level Taiwanese officials to enter the United States under conditions that demonstrate appropriate respect to such officials.
+Therefore
+Be it resolved by the Senate of the State of Arizona, the House of Representatives concurring:
+1.
+That the Members of the Legislature support the negotiation of a United States – Taiwan bilateral trade agreement and Taiwan’s meaningful participation in international organizations, including ICAO, INTERPOL, WHO and UNFCCC.
+2.
+That the Members of the Legislature acknowledge the achievements made by Arizona and Taiwan in the fields of economy, trade, technology, education and culture since establishing their sister-state relations on July 28, 1980, and encourage the continued bilateral cooperation and exchanges between the two sides in the future.
+3.
+That the Members of the Legislature support a future official visit to Taiwan by the Governor of Arizona at her discretion.
+UNANIMOUSLY ADOPTED BY THE HOUSE APRIL 25, 2023.
+UNANIMOUSLY ADOPTED BY THE SENATE MARCH 6, 2023.
+FILED IN THE OFFICE OF THE SECRETARY OF STATE MAY 3, 2023.

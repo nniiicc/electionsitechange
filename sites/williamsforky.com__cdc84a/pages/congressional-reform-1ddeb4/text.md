@@ -1,0 +1,52 @@
+Too many people run for office today because it offers prestige, power, and a path to personal profit.
+But I believe we can change that.
+We can build systems that reward honesty over access, engagement over entitlement, and service over self-interest.
+These reforms are about raising the bar—not just for those in office, but for who we encourage to run.
+Let’s create a system that makes it easier for humble public servants to succeed—and harder for career opportunists to hide.
+CONGRESSIONAL ACCOUNTABILITY
+& INTEGRITY PLAN
+- Four Terms for US House and US Senate Members
+“Freshman, Sophomore, Junior, Senior — Out”
+- The average years of US House Service is 8.6 Years
+- The average years of US Senate Service is 11.2 Years
+- 44 Years is the longest Tenure in both the House and Senate
+- We can offer advisory roles to outgoing Congressional Officers towards their incoming Congressional replacements for one year.
+- Enact a Lifetime Ban on Paid Lobbying after Leaving Office
+“Stop the Sale of Public Trust”
+- Bars members from engaging in lobbying activities in a paid or compensated capacity.
+-Around 40 - 60% of exiting lawmakers each year work directly in private sector jobs with federal influence, with some earning over $1 Million a year - Key Industries that benefit from congressional lobbyists are Defense Contractors, Energy Suppliers, Finance, and Pharmaceutical Industries.
+- Establish an expansion to Ethics Prohibitions that lead to financial gain
+”We must limit profiteering from Congressional Service”
+- All Articles, Books, Media Appearances, Guest Speaking, Social Media
+- Restrictions not already in place, will be established during their tenure in office and for 5 years post-term.
+- Family members can be made equally subject to these rules
+- Exemptions can be made before Ethics Committee
+- We must ensure post-service transparency with federal contractors - Establish mandatory ethics review for former Congressional Officers when they take on roles as Non-managing partners, minority stakeholders, and advisory board positions.
+- Trigger Points are in connection to Federal Contracts, Lobbying Activities, and Annual Revenue benefits over 1 Million Dollars.
+- These Reviews are viable during their tenure in office and for 10 years post-term
+- Blockade Stock Trading and Speculation for Congressional Officers
+“It is time that we put a stop to insider trading”
+- Congress Members and their immediate family are prohibited from trading individual stocks and engage in dedicated market speculation for their tenure in office and for 4 years post-term
+- Existing Stock Holdings must be held without trading or reallocating
+- Any transaction must receive approval from Ethics Committee
+- Establish dedicated Town Hall Meetings and Roundtable Forums
+- At least one Town Hall every two-month period, for a minimum of 3 Hours, choosing locations and times to maximize attendance
+- Events are Constituent Only, In-District Media Allowed, and must be Livestreamed with at least 30 Minutes given to Livestream audience questions.
+- Enhance Disclosure of Gifts, Events, Travel, and Prestige or Influence
+“We must end lobbying kickbacks and special interest deals”
+- Items, services, or advantages provided directly or indirectly to Members and their Immediate or extended families are subject
+- Any Event or Travel access must be fully self-funded or publicly approved through Ethics and Oversight
+- Unique awards, honors, or exclusive financial opportunities offered to Members, their families, or associates are under increased scrutiny
+- Establish a 10 year ban Federal Contractor employment to former Congressional Members and their family.
+”Federal Contracts shouldn’t be conditional on kickbacks our Representatives”
+- Prohibited from working, consulting, or holding stakes in companies who lobbied Congress or acquired federal contracts during the lawmaker’s tenure.
+- Closes post-Congress deals turning influence into private sector pay
+- Ensures public contracts are based on merit, not political connections
+- 10 Year Oversight for High-Paying Jobs for Congressional Members and Family.
+“Holding Congressional Officers and their Families accountable to fair hiring processes”
+- $500,000+ Annual Salary + Benefits triggers the inspection
+- Mandatory Disclosures to engage Conflict of Interest + Public Reporting
+- Current Congressional Officers with family members with lobbying ties
+- 7% of Representatives
+- 19% of Senators
+- Failure to disclose to the public when your immediate family is reaping benefits from your connections should come with penalties

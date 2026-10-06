@@ -1,0 +1,2 @@
+Democratic gubernatorial candidate Helena Foulkes and independent candidate Ken Block squared off Friday, Oct. 2, at a gubernatorial candidate forum focused on issues affecting older Rhode Islanders, people with disabilities, family caregivers, and those receiving behavioral health services.
+The forum, held at Rhodes on the Pawtuxet in Cranston, was sponsored by the Senior Agenda Coalition of Rhode Island, AccessPoint Rhode Island and the Mental Health Association of Rhode Island.

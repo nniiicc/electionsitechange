@@ -1,0 +1,225 @@
+Endorsements
+Jill LaMalfa
+Congressman Ken Calvert
+Congressman Vince Fong
+Congressman Darrell Issa
+Congressman Kevin Kiley
+Congresswoman Young Kim
+Congressman Tom McClintock
+Congressman Jay Obernolte
+Congressman David Valadao
+Congressman Wally Herger (ret.)
+Congressman Doug Ose (ret.)
+Senator Megan Dahle & Senator Brian Dahle (ret.)
+Senator Jim Nielsen (ret.)
+Senate Republican Leader Brian Jones
+Senator Rosilicie Ochoa Bogh
+Senator Steven Choi
+Senator Shannon Grove
+Senator Roger Niello
+Senator Kelly Seyarto
+Senator Tony Strickland
+Senator Suzette Valladares
+Assembly Republican Leader Heath Flora
+Assemblymember Heather Hadwick
+Assemblymember Juan Alanis
+Assemblymember Leticia Castillo
+Assemblymember Phillip Chen
+Assemblymemnber Diane Dixon
+Assemblymember Laurie Davies
+Assemblymember Carl DeMaio
+Assemblymember Stan Ellis
+Assemblymember Jeff Gonzalez
+Assemblymember Josh Hoover
+Assemblymember Natasha Johnson
+Assemblymember Tom Lackey
+Assemblymember Joe Patterson
+Assemblymember Alexandra Macedo
+Assemblymember Kate Sanchez
+Assemblymember Tri Ta
+Assemblymember David Tangipa
+Assemblymember Greg Wallis
+Regional
+Ted Gaines, Board of Equalization
+Tamika Hamilton, Candidate in CA-3 (2020)
+Butte County
+Sheriff Kory Honea
+District Attorney Mike Ramsey
+Supervisor Bill Connelly
+Supervisor Peter Durfee
+Supervisor Tod Kimmelshue
+Supervisor Doug Teeter
+Supervisor Steve Lambert (ret.)
+Chico City Council
+Mayor Kasey Reynolds
+Vice Mayor Dale Bennett
+Councilman Mike O’Brien
+Councilman Tom van Overbeek
+Mayor Sean Morgan (ret.)
+Vice Mayor Reanette Fillmer (ret.)
+Clearlake City Council
+Russ Cremer
+Oroville City Council
+Mayor Dave Pittman
+Vice Mayor Eric Smith
+Councilman Chuck Reynolds
+Councilman Shawn Webber
+Councilman Jamie Johansson (ret.)
+Paradise Town Council
+Mayor Steve Crowder
+Vice Mayor Steve “Woody” Culleton
+Councilman Greg Bolin
+Councilman Ron Lassonde
+Councilwoman Heidi Lange
+Councilwoman Rose Tryon (ret.)
+Biggs City Council
+Mayor Bo Sheppard
+Gridley City Council
+Mayor Mike Farr
+Vice Mayor Bruce Johnson
+Colusa County
+Sheriff Frank Joseph Garofalo
+District Attorney Matthew R.
+Beauchamp
+Supervisor Kent Boes
+Supervisor Janice Bell
+Supervisor Jose Merced Corona
+Supervisor Randy Wilson
+Supervisor Denise Carter (ret.)
+Supervisor Tom Indrieri (ret.)
+Supervisor John Loudon (ret.)
+Colusa City Council
+Councilman Ryan Codorniz
+Willows City Council
+Evan Hutson
+Glenn County
+Sheriff Justin Gibbs
+District Attorney Dwayne Stewart
+Supervisor Tony Arendt
+Supervisor Grant Carmon
+Supervisor Monica Rossman
+Supervisor Jake Withrow
+Supervisor Jim Yoder
+Lassen County
+Sheriff John McGarva
+District Attorney Susan Melyssah Rios
+Supervisor Aaron Albaugh
+Supervisor Gary Bridges
+Supervisor Mike Scanlan
+Supervisor Jason Ingram
+Supervisor Tom McGowan
+Mendocino County
+Sheriff Matthew Kendall
+Supervisor Madeline Cline
+Supervisor Bernie Norvell
+Modoc County
+Sheriff William “Tex” Dowdy
+District Attorney Nina Salarno
+Supervisor Geri Byrne
+Supervisor Casey Cockrell
+Supervisor Ned Coe
+Supervisor Kathie Rhoads
+Supervisor Shane Starr
+Shasta County
+Sheriff Michael Johnson
+District Attorney Stephanie Bridgett
+Supervisor Kevin Crye
+Supervisor Corkey Harmon
+Supervisor Allen Long
+Supervisor Chris Kelstrom
+Supervisor Les Baugh (ret.)
+Supervisor Patrick Jones (ret.)
+Sheriff Tom Bosenko (ret.)
+Anderson City Council
+Vice Mayor Bonnie Simmons
+Councilmember Mike Gallagher
+Councilmember Susie Baugh
+Councilmember Melissa Hunt (ret.)
+Redding City Council
+Mayor Mike Littau
+Vice Mayor Dr.
+Paul Dhanuka
+Mayor Pro Tempore Erin Resner
+Councilwoman Tenessa Audette
+Shasta Lake City Council
+Vice Mayor Greg Watkins
+Shasta County Board of Education
+President Michael Orlicky
+Trustee Authur Gorman
+Sierra County
+Sheriff Michael Fisher
+Supervisor Paul Roen
+Supervisor Sharon Dryden
+Siskiyou County
+Sheriff Jeremiah LaRue
+District Attorney Kirk Andrus
+Supervisor Jess Harris
+Supervisor Ray Haupt
+Supervisor Michael Kobseff
+Supervisor Nancy Ogren
+Sutter County
+Sheriff Brandon Barnes
+District Attorney Jennifer Dupre
+Auditor-Controller Nate Black
+Assessor Kathy Scriven
+Treasurer-Tax Collector Nic Valencia
+Superintendent of Schools Tom Reusser
+Supervisor Karm Bains
+Supervisor Jeff Boone
+Supervisor Dan Flores
+Supervisor Jeff Stephens
+Supervisor Mike Ziegenmeyer
+Supervisor Stan Cleveland (ret.)
+Supervisor Barbara LeVake (ret.)
+Supervisor Jim Whiteaker (ret.)
+Supervisor Larry Munger (ret.)
+Yuba City City Council
+Mayor Marc Boomgaarden
+Councilwoman Toni Cole
+Councilman Dave Shaw
+Councilman Wade Kirchner
+Live Oak City Council
+Mayor Jeramy Chapdelaine
+Vice Mayor Aaron Pamma
+Councilwoman Ashley Hernandez
+Councilman Bob Woten
+Tehama County
+Sheriff Dave Kain
+District Attorney Matt Rogers
+Supervisor Matt Hansen
+Supervisor Greg Jones
+Supervisor Tom Walker
+Supervisor Steve Chamblin (ret.)
+Yuba County
+Sheriff Wendell Anderson
+District Attorney Clint Curry
+Treasurer-Tax Collector Jolié Turk
+Assessor Stephen Duckels
+Superintendent of Schools Ron Gregor
+Supervisor Gary Bradford
+Supervisor Renick House
+Supervisor Jon Messick
+Supervisor Andy Vasquez
+Supervisor Mike Leahy (ret.)
+Yuba College Board of Trustees
+John Cassidy
+Bill Cornelius
+Jose Garcia
+Richard Teagarden
+Marysville City Council
+Mayor Chris Branscum
+Vice Mayor Bruce Buttacavoli
+Councilman Dom Belza (ret.)
+Wheatland City Council
+Mayor Vice Mayor Lisa McIntosh
+Councilmember Brian Abe
+Councilmember John Abe
+CAMPAIGN UPDATES
+By submitting this form and signing up for texts, you consent to receive text messages (e.g. campaign information, donation requests, event reminders) from Gallagher for Congress 2026 at the number provided, including messages sent by autodialer.
+Consent is not a condition of purchase.
+Msg & data rates may apply.
+Msg frequency varies.
+Opt-in data and consent will not be shared with any third parties.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy

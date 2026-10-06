@@ -1,0 +1,20 @@
+- July 23, 2026
+Philadelphia, MS — Democratic nominee for Congress Michael A.
+Chiaradio participated in the Meet & Greet the Candidates event hosted by the Neshoba County Democratic Party last weekend, joining local residents for a day centered on civic engagement and voter participation.
+Before the event, participants took part in the Neshoba County African-American Heritage Driving Tour, led by District 5 Supervisor Obbie Riley.
+The tour highlights sites connected to the Civil Rights Movement, including those associated with James Chaney, Andrew Goodman, and Michael Schwerner, whose sacrifice helped change the course of American history.
+Following the tour, Chiaradio joined Scott Colom, who is running one of the strongest campaigns Mississippi has seen in decades, to meet with residents and discuss the issues facing Mississippi families.
+The event provided an opportunity for community members to ask questions and hear directly from candidates seeking to represent them.
+Chiaradio thanked the Neshoba County Democratic Party for organizing another successful event and recognized the continued leadership of local volunteers who have worked to strengthen civic participation throughout the county.
+He also expressed his appreciation to Supervisor Riley for leading the tour and helping preserve and share an important part of Mississippi’s history.
+Reflecting on the day, Chiaradio said that understanding the past helps shape better leadership for the future.
+He noted that the courage displayed by those who fought to expand opportunity and protect democratic participation continues to inspire people across Mississippi to stay engaged in their communities and help build a stronger future together.
+As the campaign continues to build momentum across Mississippi’s Third Congressional District, Chiaradio remains committed to meeting voters where they are, working alongside local leaders, and building the grassroots coalition needed to compete and win in November.
+Supporters interested in helping the campaign continue expanding its outreach across the district can contribute at: https://secure.actblue.com/donate/michael-a-chiaradio
+- 1-800-700-600
+- info@thecentersolutionsparty.com
+- 60 East 65th Street, New York City, NY 10065
+Paid for by Michael A.
+Chiaradio for Congress 2026, Inc.
+Contributions are not tax deductible.
+Contributions are not tax deductible.

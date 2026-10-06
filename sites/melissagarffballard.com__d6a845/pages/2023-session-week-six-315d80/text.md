@@ -1,0 +1,112 @@
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| Checking In At The Legislature: 2023 Legislative Session Week Six |
+| |
+| We’ve made it to our final week of the General Session and have already passed 388 bills that will have a meaningful impact for all Utahns.
+One of the fiscal requests I sponsored was funded for $4mil of designated federal ARPA funds.
+This funding is for Long Haul Covid patients and their care.
+The funding was awarded to the UofU Covid Clinic for its collaborative efforts with researchers and doctors across Utah and throughout the country.
+The funding will assist patients from any part of Utah to have access to specialists and connect their primary care doctors to know how and when to send patients to COVID specialists at no additional cost to the patient.
+This fiscal request came about from concerns from multiple constituents and friends who continue to have long haul COVID issues, including myself.
+As I was working on this funding request with the Dir of the UofU COVID clinic, Dr.
+Jeanette Brown, she shared that she was the Dr overseeing my Dad’s care in the COVID ICU in 2020, just before he passed away.
+We shed a few tears together.
+The only patient at the U that passed away from COVID before my Dad was a 5 yr old boy.
+I’m glad designated COVID ARPA funds from the federal government can be used specifically in Utah for education, research, and for patients needing specialists as a result of COVID. https://ksltv.com/525617/covid-long-haulers-push-lawmakers-to-approve-funding-for-treatment-research/ One more week to go!
+Melissa |
+| |
+| Picture with Dr.
+Jeanette Brown UofU COVID Clinic, the Olsen family who have all been affected by long haul COVID problems- Holly, Wyatt, Steve, Jenna, Jake, and Megan testified in committee |
+| |
+| |
+| |
+| Upcoming Events The final 2023 Legislative Town Hall is posted here Last day of the 2023 session Friday March 3 |
+| |
+| Helpful Links You can follow along at le.utah.gov.
+You can read here to find the budget estimates.
+See preliminary approved budget items here https://le.utah.gov/interim/2023/pdf/00002193.pdf Listen here to this week’s podcast about tax cuts.
+List of bills passed this week |
+| |
+| |
+| IN THIS ISSUE Sales Tax on Food HCR10 Concurrent Resolution Regarding the Pledge of Allegiance HB190 adding school psychologists and social workers to the “Grow Your Own” Program HB534 Telemedicine Amendments Largest Tax Cut in State History Visitors to the Capitol |
+| |
+| |
+| Sales Tax on Food Utahns have made it clear that removing the sales tax on food is a top priority.
+This week, the House passed H.B. 101 Food Sales Tax Amendments, which removes the state portion of sales tax on food contingent upon removing the constitutional earmark for income tax revenue, as laid out in S.J.R. 10 Currently, the Utah Constitution mandates that all revenue from income tax be used only for certain items.
+While Utah’s economy is robust, eliminating the sales tax on food would not be possible without first addressing these budget constraints.
+If passed by the full Legislature, voters will have the opportunity to approve these changes on the 2024 ballot.
+Read more here. |
+| |
+| |
+| HCR10 Concurrent Resolution Regarding the Pledge of Allegiance in Schools This Concurrent Resolution reinforces the existing law for all schools to recite The Pledge of Allegiance EVERY DAY.
+It is to be student-led as assigned by the teacher, with respect for those who choose to recite the pledge and those who choose not to.
+Students choosing to opt out are to have a parent-signed waiver.
+In the words of our Bountiful neighbor, Tad Callister, "The Pledge of Allegiance is a vocal covenant or promise we make to honor and support the inspired principles on which this country was founded.
+Such pledge reinforces a student's devotion to American and reminds him or her that we are a nation under God, not without God.
+This pledge instills a love for America and all its stands for in the heart of every pledgee, and acts as a counter to the anti-American sentiment propagated by so many.
+It has the inherent capacity to create an emotional bond with our country that cements our allegiance to its transcendent ideals of life, liberty, and the pursuit of happiness, which ideals serve as the foundation for the greatest nation the world has ever known." - Tad Callister, author of America's Choice: One Nation Under God or Without God Click here to watch the presentation of HCR10 in committee |
+| |
+| Picture with State Trooper Caden Hellyer, student Conrad Baker, and intern Kylie Tingey |
+| |
+| |
+| |
+| HB190 Local Education Agency Personnel Amendments I am the bill sponsor for HB190 Local Education Agency Personnel Amendments.
+This bill expands the Grow Your Own Educator Pipeline Program to include school psychologists and social workers.
+This program already includes paraprofessionals, teachers, school counselor assistants, and school counselor interns. |
+| |
+| At the Capitol with school psychologists |
+| |
+| |
+| |
+| HB534 Telemedicine Amendments I also am the sponsor for HB534 Telemedicine Amendments.
+HB534 requires a health insurer to reimburse your doctor for their telemedicine services at 90% or more of the rate that is paid for the equivalent in-person service, if the network provider also provides the health care service in-person. |
+| |
+| Picture of representatives from major health insurance companies in Utah, and representatives of Utah Medical Association and doctors.
+Including our NSL neighbor Chet Loftis, PEHP |
+| |
+| |
+| |
+| Largest Tax Cut in State History We know that the best way to ensure Utahns can continue to call Utah home is to allow them to keep more of their hard-earned money in their pockets.
+Over the past two years, the Utah legislature has reduced taxes by nearly $300 million.
+To continue Utah’s commitment to reducing taxes and cultivating a family and business-friendly environment, the Utah House passed H.B. 54 Tax Revisions, an additional $400 million in tax relief. |
+| |
+| |
+| |
+| Visitors to Capitol Hill February 24th has now been proclaimed Pamela Atkinson Day!
+PRESS CONFERENCE with Lt.
+Gov Henderson, Gail Miller, President M Russell Ballard, Honoree Pamela Atkinson, Governor Cox, President Stuart Adams, and Speaker Brad Wilson |
+| |
+| |
+| Davis School District Teachers on Capitol Hill |
+| |
+| |
+| Elizabeth Smart and the SMART Defense Foundation is now offering college credit on various college campuses across Utah |
+| |
+| |
+| Sitting with Pres M Russell Ballard on the House Floor.
+He’s 94 years young! |
+| |
+| |
+| |
+| |
+| Learn More About Melissa |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| |
+| PAID FOR BY THE COMMITTEE TO ELECT MELISSA GARFF BALLARD |
+| |
+| This email was sent to *\|EMAIL\|* why did I get this? unsubscribe from this list update subscription preferences *\|LIST:ADDRESSLINE\|* |

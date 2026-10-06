@@ -1,0 +1,16 @@
+Mar 17, 2021
+Let’s hope we’re heading into the final stretch.
+We now have three House members who tested positive for COVID just this week, so it would seem wise to wrap things up before it gets worse.
+Foster care I wanted to start with some good news.
+Our bill to...
+Jan 14, 2021
+Article: Idaho State Journal Excerpt: “House Minority Leader Ilana Rubel, D-Boise, noted that the motion was pared down at the last minute to make it as narrow as possible, allowing remote voting only for “a member of the House who has a physical impairment that...
+Aug 26, 2020
+Idaho State Capitol – On Wednesday, the Idaho House passed House Bill 6, which would provide immunity from civil liability related to damages or injury from coronavirus, including for grossly negligent conduct.
+The legislation now awaits a hearing in the Senate...
+Jul 28, 2020
+In the closing weeks of the 2020 legislative session, it was apparent we were heading into a crisis of unprecedented proportions that would impact not only Idahoans’ health but also our economy, jobs, education system and every other facet of our lives.
+Businesses had...
+Jul 20, 2020
+On Monday, the Idaho Democratic leadership held a press conference to propose a slate of Democratic solutions that would address the impacts of the coronavirus pandemic and set the state on the path to a better future.
+Senate Democratic Leader Michelle...

@@ -1,0 +1,69 @@
+Endorsements
+State-Wide
+Jared Polis, Governor
+Dave Young, Colorado Treasurer
+Phil Weiser, Attorney General
+State Legislature
+David Ortiz, Former State Representative - HD 38
+Monica Duran, House Majority Leader/State Representative - HD 23
+Chris Kolker, State Senator - SD 16
+Jeff Bridges, State Senator - SD 26
+Mike Weissman, State Representative - HD 36
+Joe Rice, Former State Representative - HD 38
+Meg Froelich, State Representative - HD 3
+Eliza Hamrick, State Representative - HD 61
+Javier Mabrey, State Representative - HD 1
+Chris deGruy Kennedy, Former State Representative - HD 30
+Brianna Titone, State Representative - HD 27
+Lindsey Daugherty, State Senator - SD1 9
+James Coleman, State Senator/President - SD 33
+Andrew Boesenecker, State Representative - HD 54
+Karen McCormick, State Representative - HD 11
+Shannon Bird, Former State Representative - HD 29
+Cathy Kipp, State Representative - HD 53
+Meghan Lukens, State Representative - HD 26
+Steven Woodrow, State Representative - HD2
+Junie Joseph - State Representative 10
+Alex Valdez - State Representative - HD5
+Naquetta Ricks - State Representative - HD40
+Judy Amabile - State Senator - SD 18
+Linda Newell - Former State Senator - SD26
+Federal
+Michael Bennet, U.S.
+Senator
+John Hickenlooper, U.S.
+Senator
+Brittany Pettersen, U.S.
+Congresswoman - CO 7
+Jason Crow, U.S.
+Congressman - CO 6
+Joe Neguse, U.S> Congressman - CO 2
+Local
+Kyle Schlachter, Mayor of Littleton
+Andrea Peters, Mayor Pro Tem - Littleton
+Pam Grove, City Council Member - Littleton
+Merrill Stillwell, City Council Member - Littleton
+Joel Zink, City Council Member - Littleton
+Amanda Henderson, City Council Member - Littleton
+Robert Reichardt, City Council Member - Littleton
+Christine Sweetland, Mayor - Centennial
+Cindy Sandhu, City Council Member - Centennial
+Amy Tharp, City Council Member - Centennial
+Ashish Vaidya, City Council Member - Centennial
+Ryan Dwiggins, City Council Member - Centennial
+Carrie Warren-Gully, Arapahoe County Commissioner
+Jessica Campbell, Arapahoe County Commissioner
+Leslie Summey, Arapahoe County Commissioner
+PK Kaiser, Arapahoe County Assessor
+Joan Anderssen, Littleton Public School Board Member
+Steve Barr, Former City Council Member - Littleton
+Kelly Milliman, Former City Council Member - Littleton
+Susan Thornton, Community Leader/Former Littleton Mayor
+Patricia Cronenberger, Former Littleton Mayor
+Debbie Brinkman, Former Littleton Mayor
+Candace Moon, Former City Council Member - Centennial
+Marlo Alston, Former City Council Member - Centennial
+Patrick Driscoll, Former City Council Member - Littleton
+Ruth Graham, Business Leader
+Pat Dunahay, Business Leader
+Kal Murib, Business Leader

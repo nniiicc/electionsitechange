@@ -1,0 +1,11 @@
+Here in Greene County, Missouri, we are facing a growing crisis of homelessness and unsheltered individuals—currently estimated at over 2,700 people.
+This situation has placed tremendous strain on both our community and the local organizations working tirelessly to provide shelter and support.However, many of these not-for-profit and benevolent organizations face significant barriers when trying to expand their facilities.
+Under the International Fire Code, once a facility reaches sixteen or more beds, it must install a sprinkler system.
+For new construction, that cost ranges from $6,000 to $12,000; for retrofitting older buildings, it can soar to $20,000–$40,000.
+This mandate, while well-intentioned for safety, becomes a major financial obstacle preventing nonprofits from adding desperately needed beds.Meanwhile, homeless individuals also face challenges that go beyond shelter—particularly the loss or theft of vital identification documents such as IDs, Social Security cards, and birth certificates.
+Without these, people cannot access employment, benefits, or even entry into certain shelters or programs.
+For those from out of state, replacing documentation can be even more burdensome.
+Although multiple programs exist to assist the homeless, accessibility remains an issue due to lack of information, resources, or logistical support.The solution doesn’t lie in more government spending or complex tax credit systems—it lies in community partnership.
+By forming an alliance among Greene County’s corporations, nonprofits, faith-based groups, and concerned citizens, we can create a self-sustaining, community-driven model for transformation.I propose a Transitional Campus for the Homeless—a year-round open shelter coupled with wraparound services including addiction recovery, mental health support, vocational training, and a mail center for job and housing correspondence.
+This campus would operate as a community cooperative, empowering both residents and volunteers to maintain and improve it together.This isn’t just a plan to reduce homelessness—it’s a vision to restore dignity, opportunity, and hope.
+If we believe that every person deserves the chance to rebuild and recreate their life, then this is where we begin—right here in Greene County.

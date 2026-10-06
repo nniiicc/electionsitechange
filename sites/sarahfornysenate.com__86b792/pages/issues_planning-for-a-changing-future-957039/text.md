@@ -1,0 +1,9 @@
+PLANNING FOR A CHANGING FUTURE
+We’re already feeling the impacts of climate change here in upstate New York: more intense storms and more catastrophic flooding, higher energy costs, growing strain on our infrastructure, and the alarming proliferation of ticks and tick-borne diseases.
+At the same time, more people are being drawn to communities like ours in search of climate havens that will be receiving residents of other states migrating to more temperate communities.
+I support major investments in clean, affordable energy so we can lower utility bills while reducing our reliance on fossil fuels.
+We should be leading on things like expanding community solar so people can save without installing panels, weatherizing older homes so families aren’t paying to heat and cool the outdoors, upgrading our grid so it’s reliable during extreme weather, and building housing near jobs and infrastructure so growth doesn’t push people out.
+We can also get ahead of growth by strengthening and improving safety on our roads, implementing traffic calming measures, clean water systems, and public infrastructure, and making sure our small towns and cities aren’t overwhelmed or priced out.
+If we do this right, we can create good-paying jobs, keep costs down, and make sure the next generation can actually afford to stay here and thrive here, safely and collaboratively.
+When we think about climate challenges, we tend to focus on things like weather, but ticks and tick-borne illness are among the most impactful symptoms of climate change we’re facing here in the Northeast, threatening our ability to enjoy our precious time in the outdoors and profoundly impairing the health of those affected.
+When the federal government is gutting health and science research, New York should be picking up the slack when it comes to funding research on tick mitigation and the prevention and treatment of tick-borne illness, perhaps in collaboration with other affected states.

@@ -1,0 +1,43 @@
+Skip to main content
+Elected Officials
+- Mike LevinCongressman, CA-49
+- Tom UmbergState Senator 34th District
+- Catherine BlakespearState Senator 38th District
+- John HarabedianAssemblyman, AD-41
+- Robert GarciaAssemblyman, AD-50
+- Corey JacksonAssemblymember, AD-60
+- Sharon Quirk-SilvaAssemblywoman, AD-67
+- Chris WardAssemblyman, AD-78
+- John TaylorSan Juan Capistrano City Councilmember
+- Troy BourneSan Juan Capistrano City Councilmember
+- Andrew LaraPico Rivera City Councilmember
+- Laura FreeseSanta Margarita Water District Board Member
+- Michael VillarDana Point City Councilmember D5
+- Mark EnmeierSan Clemente City Councilmember
+- Esther SanchezMayor of Oceanside
+- Dan O'DonnellVista City Councilmember
+- Rachel WhiteOceanside Housing Commissioner
+- Eric JoyceOceanside Deputy Mayor
+- Martha AlvaradoVista Unified School Board Trustee
+- Teresa AcostaCarlsbad Councilmember
+Community Leaders
+- Kyle FrohlanderSan Diego County Democratic Party Chair Emeritus
+- Chris DuncanSan Clemente City Councilmember (ret.)
+- Fran SdaoDemocratic Party of Orange County Chair Emeritus
+- Josh NewmanCalifornia State Senator (ret.)
+- Ada BricenoDemocratic Party of Orange County Chair Emeritus
+Organizations
+- California Democratic Party
+- California Faculty Association (CFA)
+- California Federation of Teachers (CFT)
+- California Latino Legislative Caucus
+- California School Employees Association (CSEA)
+- California Teachers Association (CTA)
+- Coalition PAC
+- Community Action Fund of Planned Parenthood of Orange and San Bernardino Counties
+- Equality California
+- HONOR PAC
+- International Association of Painters and Allied Trades, District Council 36
+- San Diego Democrats for Equality
+- Service Employees International Union (SEIU) California
+- Triton Democrats

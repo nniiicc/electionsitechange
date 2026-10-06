@@ -1,0 +1,3 @@
+Health care should not depend on where you work, how much money you make, or whether you can afford a high deductible.
+Every American should have access to quality medical care without facing financial ruin because they became sick, suffered an injury, or needed lifesaving medication.
+We, as a country, can make universal health care...

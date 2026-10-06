@@ -1,0 +1,1 @@
+Sarah Anthony: For Michigan, jobs and justice hinge on climate action Jul 14, 2022 1 min read https://michiganadvance.com/2021/08/24/sarah-anthony-for-michigan-jobs-and-justice-hinge-on-climate-action/

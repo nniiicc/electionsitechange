@@ -31,4 +31,4 @@ Environment
 I am committed to being an advocate for our land, water, and air, and ensuring that Colorado is a safe and healthy place to live.
 I will support policies that hold corporations accountable for the pollution they cause and commit to look for creative solutions to push our state towards green energy, while ensuring that costs remain steady for working families.
 Get involved in HD19!
-Colorado House District 19 is located in Boulder and Weld counties and includes Dacono, Erie, Firestone, Frederick, east Longmont, north Lafayette, and surrounding areas.
+Colorado House District 19 is located in Boulder and Weld counties and includes Dacono, Erie, Firestone, Frederick, east Longmont, and surrounding areas.

@@ -1,0 +1,13 @@
+Our Environmental Justice Agenda
+Our environment thrives when we have a long-term plan for the future, instead of just thinking of today.
+Future generations deserve to live in a world even better than ours, so we have to be good stewards to bring about a sustainable tomorrow.
+Let’s Dare to Act for:
+- Green jobs training for those who wish to transition
+- Reinvestment of subsidies for fossil fuel companies into renewable energy companies
+- Federal loan assistance for power plants to ensure they are structurally sound
+- Ensuring all people have access to clean air, water, and green space
+- Investment in public transportation and active transportation methods
+- Reduction of pollution and health hazards in low-income and communities of color
+- Preventing fracking and offshore drilling
+- Federal investment in farms that focus on organic farming
+- A Green New Deal

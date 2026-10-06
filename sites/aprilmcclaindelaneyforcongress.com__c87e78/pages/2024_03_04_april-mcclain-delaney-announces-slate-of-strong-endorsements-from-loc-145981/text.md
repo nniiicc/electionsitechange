@@ -1,0 +1,46 @@
+For Immediate Release:
+March 4, 2024
+Contact:
+Susan Kenedy, (301) 639-9644
+April McClain Delaney Announces Slate of Strong Endorsements From Local Leaders
+Former Frederick Mayor Ron Young, Two Members of the Frederick County Council, and Two Former State Party Chairs among her supporters
+April McClain Delaney, candidate for Maryland’s Sixth Congressional District in Congress, has released a slate of endorsements from local leaders and advocates who strongly support her candidacy to represent the district in Congress.
+This support further solidifies her as the Democratic frontrunner to compete in the competitive November election, and highlights her commitment and vision for the region’s future.
+The slate includes:
+– Ron Young – Former Frederick Mayor and Maryland State Senator
+– Kathleen Matthews, Former Chair, Maryland Democratic Party
+– Terry Lierman – Former Chair, Maryland Democratic Party
+– Jerry Donald – Frederick County Council Member
+– Renee Knapp – Frederick County Council Member
+– Peter Perini – Hagerstown City Council Member
+– Myrna Whitworth – Former Chair, Frederick County Dems
+– Dipak Thakker – Montgomery County Community Leader
+– Stephen Slater – Frederick Community Leader
+– John Funderburk – Frederick Community Leader
+– Paul Fulcher – Frederick Community Leader
+“I’m incredibly grateful to have the support of these strong local community leaders,” April McClain Delaney said.
+“This campaign is focused on common sense, common ground.
+With a strong team including leaders from across the Sixth District, we’ll be able to restore Roe, improve our infrastructure, and create more opportunities for working families to thrive. ”
+“April McClain Delaney earned my endorsement because of her experience and knowledge of the inner workings of Congress, her work ethic, and passion for our district,” said Former Frederick and Maryland State Senator Ron Young.
+“I think she is better prepared than any other candidate to represent our interests.”
+Former Maryland Democratic Party Chair Kathleen Matthews said, “ The Sixth District of Maryland will be fortunate to have an exceptional woman leader like April McClain Delaney, who has been serving her country and Maryland community her entire adult life as a lawyer, non-profit leader, senior leader in the Biden administration, and a mom of four girls who understands the challenges families are facing today.”
+Terry Lierman who also chaired the Maryland Democratic Party remarked:
+“Experience and lifelong dedication to public service count.
+So does dependability in supporting Maryland’s democratic principles and priorities.
+April McClain Delaney is clearly the best among a group of fine candidates.”
+Members of the Frederick County Council who have thrown their support behind McClain Delaney include County Council Member Jerry Donald who said, “April’s experience and drive will give the 6th District the representation it needs in Congress.” Council Member Renee Knapp added, “April’s extensive knowledge of federal policy across many areas combined with her dedication to helping small businesses, farmers, working families, and children in Western Maryland make her the best choice to be our next congresswoman, and I’m proud to support her.”
+Peter Perini, Hagerstown City Councilmember “As a Western Marylander, I understand the Republican opposition.
+We must nominate a Democrat candidate who can win in November in this very competitive race for the 6th Congressional seat, and I believe that April McClain Delaney is that candidate.”
+Former Frederick County Democratic Party Chair Myrna Whitworth is also a supporter.
+“Drawing on her experience as a mother, attorney, private and public sector leader and a federal official, April will serve Western Maryland, especially its children and their needs, with compassion and commitment.
+She also will fill a void too long present: she will bring a woman’s perspective to the Maryland delegation.” Longtime Frederick Community Leader Stephen Slater said, April McClain Delaney’s long record of working to advance legislation on Capitol Hill will make her an effective member of Congress for Frederick and Western Maryland.
+Her work at Biden’s Commerce Department means gives her a depth of knowledge of the federal government.
+I strongly support April.”
+A member of the Frederick business community has also endorsed April McClain Delaney.
+John Funderburk stated “April’s strong work ethic, dedication to service, and keen understanding of the issues facing both the agricultural community and the broader constituency make her an exceptional candidate.” Community leader Paul Fulcher added, “Experience is something that can’t be supplemented, and Congress is not a place for on-the-job training.
+If we want a champion from Day 1 with the acumen, skillset to fight for our district – April McClain Delaney is unequivocally the right choice.”
+Building on her life experiences, April believes in addressing politics pragmatically.
+Not with politics front and center, but with a focus on effectuating policies that make life better for people.
+She believes leaders need to embrace common sense and common ground by reaching across the aisle.
+That headway must be made on clean energy, the high cost of living, immigration, crime, and other issues where we can find a way forward with people willing to put progress ahead of politics.
+###

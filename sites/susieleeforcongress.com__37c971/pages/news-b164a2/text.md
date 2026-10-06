@@ -1,0 +1,64 @@
+Susie Lee for Congress
+In the News
+- Sep 17, 2026 · Susie Lee for Congress Lee Introduces Bipartisan Legislation to Help Human Trafficking Survivors Read More
+- Sep 5, 2026 · Susie Lee for Congress ICYMI: Rep.
+Lee Highlights New Law to Expand Health Care Access for Non-English Speakers Read More
+- Sep 4, 2026 · Susie Lee for Congress Lee Introduces Legislation to Lower the Cost of Car Insurance Read More
+- Sep 3, 2026 · Susie Lee for Congress Lee Introduces Bipartisan Legislation to Make Higher Education More Affordable Read More
+- Aug 31, 2026 · Susie Lee for Congress Lee, Democratic Members of Congress Host Field Hearing in Las Vegas on Affordability and Cost of Living Crisis Read More
+- Aug 31, 2026 · Susie Lee for Congress Lee, Democratic Members of Congress Host Field Hearing in Las Vegas on Affordability and Cost of Living Crisis Read More
+- Aug 27, 2026 · Susie Lee for Congress Lee, Horsford Introduce Bill to Ensure Yucca Mountain is Never Used as Nuclear Waste Repository Read More
+- Aug 15, 2026 · Susie Lee for Congress Congresswoman Lee Hosts 4th Annual Southern Nevada Water Summit, Highlight Colorado River Crisis Read More
+- Aug 5, 2026 · Susie Lee for Congress Lee Stands with Hardworking Nevadans Against Trump’s Corruption in Washington that is Making Life More Expensive Read More
+- Jul 31, 2026 · Susie Lee for Congress Representative Lee Highlights $850,000 in Funding She Secured for Opportunity Village Read More
+- Jul 16, 2026 · Susie Lee for Congress ICYMI: Now Law: Rep.
+Lee Helped Pass Most Significant Housing Reform in Decades Read More
+- Jul 15, 2026 · Susie Lee for Congress Lee Raises Nearly $1 Million in Q2, Announces $3.7 Million Cash on Hand Read More
+- Jul 12, 2026 · Susie Lee for Congress Representatives Lee, Horsford, Highlight Legislation to Lower Energy Bills, Build Clean Energy Economy Read More
+- Jun 26, 2026 · Susie Lee for Congress PASSED: Bipartisan Legislation to Lower Housing Costs Lee Helped Pass Heads to President’s Desk Read More
+- Jun 24, 2026 · Susie Lee for Congress Lee Announces Endorsements from Reproductive Health, Women’s Rights Organizations on 4th Anniversary of Dobbs Decision Read More
+- Jun 22, 2026 · Susie Lee for Congress Representative Lee Highlights Nearly $18 Million in Public Safety Funding She Secured for Nevada Read More
+- Jun 18, 2026 · Susie Lee for Congress Congresswoman Lee Announces Over $7M in Federal Funding for Rural Housing in Laughlin Read More
+- Jun 9, 2026 · Susie Lee for Congress Lee Statement on Winning Democratic Primary for Nevada’s Third Congressional District Read More
+- Jun 6, 2026 · Susie Lee for Congress Lee, Rosen Introduce Legislation to Help NV Veterans Exposed to Radiation and Toxins Read More
+- Jun 5, 2026 · Susie Lee for Congress Congresswoman Lee Co-Leads, Passes Landmark Bipartisan Permitting Reform Package to Unleash Geothermal in Nevada and Nationwide Read More
+- Jun 4, 2026 · Susie Lee for Congress Rep.
+Lee, Cleveland Clinic Announce $780,000 Investment to Expand Access to Dementia Care During Brain Health Awareness Month Read More
+- May 27, 2026 · Susie Lee for Congress Lee Announces U.S.
+Chamber of Commerce Endorsement, Meets with Local Businesses on State of Las Vegas Economy Read More
+- May 24, 2026 · Susie Lee for Congress Lee, Cortez Masto Successfully Release $52 Million in Funding for Hoover Dam Read More
+- May 24, 2026 · Susie Lee for Congress Lee, Cortez Masto Successfully Release $52 Million in Funding for Hoover Dam Read More
+- May 23, 2026 · Susie Lee for Congress Lee, Scott Introduce Legislation to Help Remotely Piloted Aircraft Crew Access Mental Health Services Read More
+- May 21, 2026 · Susie Lee for Congress ICYMI: Congresswoman Lee Grills Trump Interior Secretary on Attempt to Kill Solar in Nevada Read More
+- May 18, 2026 · Susie Lee for Congress Congresswoman Lee Introduces Legislation Providing Critical Support to Nevada Students Read More
+- May 15, 2026 · Susie Lee for Congress Lee Implores Hegseth to Help NV Veterans Exposed to Radiation and Toxins Read More
+- May 15, 2026 · Susie Lee for Congress PASSED HOUSE: Lee’s Legislation to Combat Organized Retail Crime Read More
+- May 11, 2026 · Susie Lee for Congress Representative Lee, Culinary Union Host “Trump Slump” Roundtable Highlighting Tourism Decline, Increased Cost of Living, No Tax on Tips Read More
+- Apr 30, 2026 · Susie Lee for Congress Lee, Begich Introduce Bill to Lower Energy Costs by Improving Next-Generation Geothermal Energy Development in Nevada and Nationwide Read More
+- Apr 20, 2026 · Susie Lee for Congress Congresswoman Lee Announces $466,000 in Federal Funding to Lower Housing Costs Read More
+- Apr 16, 2026 · Susie Lee for Congress Lee Leads Battleground Members in Demanding Swift Investigations into Misconduct by Members of Congress Read More
+- Apr 3, 2026 · Susie Lee for Congress Lee Introduces Bipartisan Bill to Expand Cybersecurity Apprenticeships Read More
+- Apr 3, 2026 · Susie Lee for Congress Lee, Horsford Celebrate Federal Investment to Support Nevada State Police Training Read More
+- Mar 26, 2026 · Susie Lee for Congress Congresswoman Lee, Experts Discuss Nevadans’ Rising Auto Insurance Premiums, How to Lower Costs Read More
+- Mar 22, 2026 · Susie Lee for Congress Lee Works to Fund TSA, FEMA, Coast Guard While ICE Negotiations Continue Read More
+- Mar 21, 2026 · Susie Lee for Congress Congresswoman Lee Introduces Legislation to Lower Energy Bills, Build Clean Energy Economy Read More
+- Mar 20, 2026 · Susie Lee for Congress ICYMI: “This isn’t typical shoplifting”: Congresswoman Lee Highlights Legislation to Combat Organized Retail Crime Read More
+- Mar 16, 2026 · Susie Lee for Congress Lee, Solar Leaders, and Advocates Discuss Her Bipartisan Legislation to Cut Solar Permitting Red Tape Read More
+- Mar 12, 2026 · Susie Lee for Congress Congresswoman Lee, Local Law Enforcement, Retail Partners Discuss Legislation to Combat Organized Retail Crime Read More
+- Mar 6, 2026 · Susie Lee for Congress PASSED UNANIMOUSLY: Congresswoman Lee’s Bipartisan Bill to Strengthen the Domestic Supply of Critical Minerals Passes House Read More
+- Mar 2, 2026 · Susie Lee for Congress ICYMI: “A Big Win for Southern Nevada’s Infrastructure”: Congresswoman Lee Celebrates Help Hoover Dam Act Being Signed into Law Read More
+- Feb 28, 2026 · Susie Lee for Congress Congresswoman Lee Helps Secure Nearly $9 Million in Federal Funding to Upgrade Buses in Southern Nevada Read More
+- Feb 26, 2026 · Susie Lee for Congress Lee Announces Single Mom Facing Skyrocketing Health Care Costs as Guest for State of the Union Read More
+- Feb 23, 2026 · Susie Lee for Congress Congresswoman Lee, Senator Cortez Masto, Colorado River Commission Celebrate Help Hoover Dam Act Being Signed Into Law Read More
+- Feb 20, 2026 · Susie Lee for Congress Congresswoman Lee Releases Report Showing How Trump and Republicans in Washington Are Driving Up Costs for Families in Nevada Read More
+- Feb 13, 2026 · Susie Lee for Congress Lee Helps Pass Bipartisan Legislation to Lower Housing Costs Read More
+- Feb 12, 2026 · Susie Lee for Congress ICYMI: Congresswoman Lee, Problem Solvers Caucus Release Bipartisan Affordability Agenda Read More
+- Jan 29, 2026 · Susie Lee for Congress Lee Celebrates New UNLV Functional MRI Scanner She Secured Millions For, Boosting Brain Health Research Read More
+- Jan 25, 2026 · Susie Lee for Congress Congresswoman Lee Statement on Voting Against Funding Lawless ICE Activities Read More
+- Jan 25, 2026 · Susie Lee for Congress Congresswomen Lee, McDonald Rivet Lead Battleground Colleagues to Call for Transparent Investigation into Minnesota ICE Shooting Read More
+- Jan 25, 2026 · Susie Lee for Congress Congresswoman Lee Secures Over $6.6 Million for Nevada in Federal Funding Bills Read More
+- Jan 18, 2026 · Susie Lee for Congress Congresswoman Lee, Nevada Delegation Urge Department of Homeland Security to Revise Proposed Travel Rule Read More
+- Jan 12, 2026 · Susie Lee for Congress PASSED HOUSE: Congresswoman Lee and Senator Cortez Masto’s Help Hoover Dam Act Read More
+- Jan 12, 2026 · Susie Lee for Congress Congresswoman Lee Secures Over $4.4 Million for Nevada in Federal Funding Bill Read More
+- Jan 11, 2026 · Susie Lee for Congress Congresswoman Lee Leads Bipartisan Permitting Reform Legislation to Cut Red Tape for Residential Solar, Other Home Energy Systems Read More
+- Jan 8, 2026 · Susie Lee for Congress Lee’s Bipartisan Legislation Aims to Expand Access to Affordable Child Care for Nevada Families Read More

@@ -1,0 +1,2 @@
+Coffee Hour at Daycap Coffee October 6, 2026 | 8:00-9:30 Join me at coffee hour to ask questions, talk politics, or share your policy ideas.
+Daycap Coffee 930 E Maple Rd, Birmingham ← Back To Events Other Events Coffee hour Oct 14 2026 Coffee Hour at Sabbath Coffee Roasters Royal Oak 8:00-9:30am See Event Info Coffee hour Oct 12 2026 Coffee Hour at Lucky Detroit Birmingham 8:00-9:30am See Event Info Coffee hour Oct 10 2026 Coffee Hour at Coffee & Bark 8:30-10:00 See Event Info

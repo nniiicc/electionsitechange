@@ -1,0 +1,18 @@
+Press Release
+Posted:
+Vacaville, CA – Rep.
+Mike Thompson (CA-04) presented a $250,000 check to the City of Vacaville for the Harmony Village Affordable Housing Project to build ten affordable, single-family, semi-detached duet homes in the city.
+“Proud to have secured $250,000 for the City of Vacaville to build affordable housing,” said Thompson.
+“Affordability and homeownership are on everyone’s mind right now, and this project will give hard-working, low-income families an opportunity to purchase a home they would not otherwise have been able to, providing them with stability and an opportunity to build their savings.”
+“We are grateful for Congressman Thompson’s continued partnership and leadership in expanding housing opportunities in our community,” said Savita Chaudhary, Vacaville’s City Manager.
+“This $250,000 investment in Harmony Village helps turn the dream of homeownership into a real opportunity for local families.
+Through our partnership with Habitat for Humanity, we are creating permanently affordable homes that strengthen neighborhoods, promote stability, and expand access to safe, high-quality housing for those who need it most.
+This is the power of meaningful collaboration—thank you for championing housing affordability and investing in our community’s future.”
+“We are extremely grateful to Congressman Thompson and the City of Vacaville for this funding for Harmony Village!” said Andrew Killeen, CEO of Solano-Napa Habitat for Humanity.
+“It represents a critical component of the capital stack that is helping to turn all of our plans for this 10-home development into a reality – a reality that will provide 10 local, low-income families with an opportunity to buy the houses that they will help us build in partnership.”
+The funding will go to the City of Vacaville to build ten single-family semi-detached homes.
+This neighborhood, once constructed, will be easily accessible through public transportation, conveniently located near retail stores, and surrounded by reliable infrastructure and city resources.
+The funding for this project is part of the $14,351,487 secured this year by Thompson for community projects in our district.
+Each year, Members of Congress may direct federal funding to a limited number of community projects through the appropriations process.
+Under this program, each House member may submit a limited number of requests on behalf of their district for competitive review by the House Appropriations Committee.
+Projects selected for funding must meet strict transparency and accountability requirements before being included in federal appropriations legislation.

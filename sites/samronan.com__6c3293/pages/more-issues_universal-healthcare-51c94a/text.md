@@ -1,0 +1,13 @@
+UNIVERSAL HEALTHCARE
+Universal Healthcare
+Current National Health Expenditures exceed $4.1 Trillion, however, federal spending on Medicare and Medicaid are only $1.5 Trillion.
+Cutting out the privatization aspect of our health care, with the addition to standardized cost of care, our NHE shall be no more than the combined costs of Medicare and Medicaid, a National Savings of $2.6 Trillion
+All Medical Insurance Providers shall have 12 months to transition into other, remaining, insurance products
+The Department of Health shall determine the cost of care across the nation, regardless of rural, metro, or other considerations
+- Specifically, this means that the Federal Funding for health care, that already is collected through taxes, shall be more efficiently spent to cover the full cost of care to all persons who utilize the American Health Care System
+- Functionally, the cost of care to an individual for any medical activity, that isn’t elective cosmetic surgery, shall be $0
+Medical practices, institutions, hospitals, pharmaceutical developers, suppliers, and distributors shall all become federalized
+Abortion shall be medically available to doctors, and patients, any laws prohibiting, punishing, or otherwise limiting access to any form of abortion are nullified
+- Religious exemptions shall not be tolerated; however, an individual may refuse an abortion due to their religious beliefs, but a doctor, or medical professional shall not deny one for their own personal beliefs
+All medical personnel shalladd to their oath: “I shall not allow my own personal beliefs, faith, or values interfere with the medical duties I am tasked to undertake on behalf of the patients in my care”.
+- Failure to abide by this affirmation of individual religious freedom of both doctor or patient will be in violation of the 1th Amendment and pursued criminally with extreme prejudice.

@@ -1,0 +1,3 @@
+Echols Releases 3rd Round of Legislative Endorsements
+Oklahoma City, OK – The Jon Echols for Attorney General campaign announced its most recent round of legislative endorsements today.
+This is the 3rd round of endorsements released by the Echols campaign and highlights the strong support Echols is receiving from…

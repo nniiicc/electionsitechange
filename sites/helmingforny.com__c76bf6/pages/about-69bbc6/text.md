@@ -1,0 +1,47 @@
+ABOUT PAM
+Bringing Common Sense to Albany
+Fighting for American Jobs
+Taking on Corruption
+Pam Helming is the New York State Senator for the 54th District representing Ontario, Wayne, Livingston counties and the towns of Chili, Wheatland, Riga, Rush and Mendon in Monroe County.
+MORE ABOUT PAM
+As of January 2023, the 54th Senate District will include Livingston, Ontario, and Wayne Counties and the Monroe County towns of Chili, Mendon, Riga, Rush and Wheatland.
+Prior to elected office, Pam worked over three decades in the private sector, including commercial property management, land use planning and environmental permitting.
+She also worked with individuals with developmental disabilities and managed several group homes, which is where she developed her passion for advocating for those who deserve to be heard.
+Pam began her public service as a Canandaigua Town Board member and was then elected as Canandaigua Town Supervisor.
+As Supervisor, she was successful in making local government more efficient, transparent, and accountable to taxpayers.
+She cut the property tax rate, curtailed unnecessary expenses, oversaw critical infrastructure improvements, preserved vital farmland, and worked to attract new business investment and jobs.
+Pam was elected to the New York State Senate in 2016 and began her first term in office on January 1, 2017.
+She is the first woman elected to the 54th Senate District, home to the birthplace of the women’s rights movement.
+Throughout her career, Senator Helming has been a vocal advocate for law enforcement and first responders, veterans, seniors, farmers, small business owners, children and families, and taxpayers.
+In a district surrounded by the beautiful Finger Lakes, she has been a longtime champion for the protection of local lakes and watersheds, clean drinking water, and the area’s abundant natural resources.
+One of Senator Helming’s most significant legislative accomplishments was passage of the Finger Lakes Community Preservation Act to prohibit incinerators and protect the region’s vast water and land resources and essential tourism economy.
+Senator Helming has advanced measures providing tax relief to middle class families, increasing tax credits for small businesses, growing opportunities for local farmers, expanding health care opportunities including mental and behavioral health services in our rural communities, boosting volunteer firefighter recruitment and support for rural EMS, and protecting our Veterans and seniors.
+She has also led the fight against policies that make New York less affordable and less safe.
+As the daughter of a steelworker and elementary school employee, Senator Helming is a strong advocate for manufacturing and American-made products, the skilled trades, and a quality education for all children.
+Pam is especially proud to support U.S. service members and their families.
+Her father was a Korean War veteran and her son-in-law a West Point graduate and Green Beret.
+In 2021, Senator Helming helped achieve Sampson Veterans Memorial Cemetery’s designation as New York’s first state veteran’s cemetery.
+Pam is dedicated to mentoring young people, hosting a number of student interns both in the district and at the State Capital and sharing with them the many opportunities that exist within Senator Helming serves on the Cornell AgriTech Advisory Council, is a New York State representative on the National Conference of Insurance Legislators, a member of the Great Lakes-St.
+Lawrence Legislative Caucus Task Force on Nutrient Management, and a member and active volunteer with the Canandaigua Lake Watershed Association.
+Senator Helming says it is the greatest honor of her life to serve as a New York State Senator and advocate for her constituents.
+Pam and her husband, Gary have been residents of Canandaigua for more than 30 years.
+They raised two children, Catherine and Evan, and are now the proud grandparents of four grandchildren.
+Senator Helming has been recognized by numerous organizations for her leadership and advocacy, including:
+Farm Family Advocate of the Year, NY FarmNet
+Circle of Friends Award, New York State Farm Bureau
+Advocate’s Spirit Award, Breast Cancer Coalition of Rochester
+Camp Superhero, Cornell Cooperative Extension of Ontario County for support of 4-H Camp Bristol Hills
+Pioneer Award for Outstanding Support of Libraries, Pioneer Library System
+Outstanding Citizen Award, Wayne County Action Program
+Appreciation Award, New York Association of Conservation Districts
+Special Recognition Award, Marine Corps League Memorial Day Detachment 468 for support of Sampson Veterans Memorial Cemetery
+“A” rating, SCOPE and New York State Rifle and Pistol Association
+Senator Helming serves on these Senate Committees:
+Insurance, Ranking Member
+Agriculture
+Cultural Affairs, Tourism, Parks and Recreation
+Finance
+Housing, Construction and Community Development
+Racing, Gaming and Wage
+Rules
+Legislative Commission on Rural Resources

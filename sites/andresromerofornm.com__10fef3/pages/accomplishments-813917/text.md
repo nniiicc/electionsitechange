@@ -1,0 +1,22 @@
+Key Legislation
+- Passed and signed HB97 which eliminated redundant tests for high school students freeing up vital classroom instruction time
+- House sponsor SB121 which banned the harmful practice of conversion therapy in New Mexico
+- Sponsor HB248 to facilitate the expanded use of solar energy for households
+- Passed and signed HB 5, the largest single investment in education in New Mexico history
+- Passed and signed HB127, providing needs-based scholarships for New Mexico college students
+- House floor sponsor for SB99 which provides Vietnam veterans with their high school diplomas
+- Passed and signed HB 102 to provide scholarships for educators seeking National Board certification
+Infrastructure in District 10
+- Worked with the New Mexico Cultural Affairs Department to bolster tourism along the Camino Real
+- Worked with Bernalillo County and the Albuquerque- Bernalillo Water Utility Authority to eliminate odor from the water treatment facility
+- Worked with Bernalillo County and the Albuquerque- Bernalillo Water Utility Authority to extend water lines into the community of Los Padilla
+- Drainage project in the community of Mountain View
+- Worked with the City of Albuquerque on Kirtland neighborhood park renovations
+- Capital improvements to Loma Linda Community Center
+- Working with the City of Albuquerque on improvements to Jack Candelaria Community Center in the community of San Jose
+- Assisted with the reopening and expansion of the South Valley pool
+In Our Community
+- Reintroduced the annual “South Valley Day in the House of Representatives” which brings together students from the area high schools to teach them about state government
+- 2019 New Mexico Democratic Party “Rising Star” recipient
+- Coordinated with the University of New Mexico on implementing veteran hiring preferences
+- Provided assistance to the Gutierrez-Hubbell House in Pajarito

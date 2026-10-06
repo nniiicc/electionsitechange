@@ -1,0 +1,64 @@
+The Issue
+It’s no secret that the long history of speculating in eastern Kentucky’s natural resources has left a few people richer, a lot of people poorer and sicker, and the land and communities vulnerable to natural disasters – especially floods.
+Eastern Kentucky is a beautiful place to live.
+It’s time to confront our legacy problems and give local communities the resources and means to heal themselves and craft their own better future:
+Addiction: Past methods of addressing drug addiction have not worked.
+As was pointed out in a 2023 report, the ‘war on drugs’ actually made drugs more dangerous and sent too many people to jail.
+Newer public health solutions, such as better access to treatment and recovery services and programs that address the needs of affected communities, show promise, but have been severely cut back by the Trump administration.
+We need to reinstate these programs.
+I believe we also need to fund ‘community networks’ of professionals, agencies, and organizations who can identify specific needs and bring coordinated efforts to heal addiction within communities.
+Crime and Violence: Any approach to the addiction crisis must also tackle drug-related and general crime in our communities.
+As illustrated by fentanyl in 2023, reducing trafficking will require federal, state, and local coordination to security ports of entry and dismantle distribution networks within the U.S.
+Approaches such as Campaign Zero also advocate for legislation to provide funding, support, and training for local law enforcement – citizen partnerships, including mental health personnel, that would be able respond most effectively to situations.
+These approaches also free up law enforcement to respond to crime where needed to keep our communities safe.
+I believe adopting legislation to support Campaign Zero would help lower crime in our communities.
+Resilient Communities: In eastern Kentucky and across the nation, cuts to FEMA have hurt communities.
+We need to strengthen FEMA and expand federal insurance programs to include natural disasters beyond flooding.
+Beyond these, we need new legislation to help communities be able to – literally - weather coming storms; in short, we need a Resilient Community Corps (RCC) initiative.
+Modeled on programs like the Works Progress Administration and Civilian Conservation Corps, which brought us out of the Great Depression, the RCC would provide government funding for communities to identify and prioritize needs, then organize local groups, including non-profits, individuals, small businesses, and local government, who would implement training, jobs, and logistics toward solutions.
+For example, eastern Kentucky needs ‘higher ground’ housing, but progress is hindered by a legacy of corporate land ownership and failure to get funds and resources to where they are most needed.
+RCC County level coalitions could forge a pathway to higher ground housing through an updated land ownership survey to identify suitable house sites; innovative partnerships to return land to local control; and construction of sustainable housing.
+To secure federal funding, each coalition would be required to have a Community Benefits Agreement (CBA), which is a negotiated legal agreement to gain benefits to the community, such as commitments from contractors and developers to pay union wages, hire directly from the local community, create community-labor training partnerships, offer paid on-the-job training opportunities, and make contributions to trust funds for everything from affordable housing to child care.
+Other RCC coalitions could be formed to address disaster response, clean energy prodction, and other community needs.
+The RCC initiative thus provides a means for communities to solve their own problems, build trust and security in the community, and give eastern Kentuckians the ability to stay in their communities and have the future they deserve.
+A Livable Environment: Like many, my family’s land tells the story of past farming, logging, and mining in eastern Kentucky.
+During the 2022 flood, the old deep mines above our house filled up with water and blew out, scouring out the holler, backing up the creek, and completely blocking the culvert and road under about five feet of coal, water, rocks, small trees, and dirt.
+There was a slide along the old strip mine road across from our house.
+It’s no secret that logging, mining, and clearing has left our land vulnerable.
+It’s time to heal our land and water.
+We need to continue funding the Abandoned Mine Land Program and revise the Surface Mining Control and Reclamation Act (SMCRA) to include specific enforceable reclamation timeframes so that reclamation does not continue to lag and reclaimed land can be used faster for housing, recreation, or other purposes.
+We also need to strengthen incentives, including RCC funding and tax breaks, for conserving and restoring lands, including wetlands, stream buffers, and upland forests.
+It's also time we funded education, such as new Appalachian Environmental Studies, that would spur jobs and small businesses here at home to help heal our land.
+Background Info
+- WEKU article by Curtis Tate on declining coal production in KY in 2024
+- Appalachian Citizens Law Center 2025 report on delayed and slow strip mine reclamation in Kentucky
+- Book: Who Owns Appalachia Landownership and its Impact
+- Center for American Progress 2023 report on tackling the opioid addiction crisis
+- Drug Policy Alliance tracker for federal cuts to overdose prevention and addiction treatment
+- WEKU article by Shepherd Snyder on revitalizing community spaces to reverse decline
+- Center for American Progress plan to lower housing costs for all
+- Toward Just Transitions Visions for Regenerative Communities in Appalachia edited by Shaunna Scott and Kathryn Engle
+Pending and Passed Legislation
+- H.R.469, FEMA Act of 2025 fixes and strengthens FEMA
+- H.R.2483, SUPPORT for Patients and Communities Reauthorization Act of 2025 reauthorizes and revises Department of Health and Human Services (HHS) programs that address substance use disorders, overdoses, and mental health
+- H.R.894, Keeping Drugs Out of Schools Act of 2025 authorizes grants for eligible entities to implement school-community partnerships for preventing and reducing substance use and misuse among youth
+- H.R.6060, SAFE Taps Act, EPA grants to units of local governments, drinking water systems, and federally recognized Indian Tribes for the replacement of lead, galvanized steel, and iron service lines and lead drinking water mains
+- S.351, STEWARD Act of 2025, improves recycling accessibility
+- S. 2110, REUSE Act of 2025, requires an EPA report on reusable / refillable systems
+We Deserve Action
+Actions Needed Immediately
+- Fully fund FEMA, EPA, USDA, and watchdog groups
+- Revitalize American Climate Corps
+- Revitalize the Infrastructure and Jobs Act
+- Revitalize the Inflation Reduction Act
+- Strengthen the federal Abandoned Mine Lands Program
+- Strengthen the Surface Mining Control and Reclamation Act to facilitate timely reclamation
+- Strengthen addiction treatment, rehabilitation, and post-recovery support programs
+Longer-Term Actions
+- Require projects that receive federal funds or approval to have a Community Development Plan and Agreement
+- Require data and tech centers to be environmentally neutral
+- Expand federal flood insurance to 'catastrophe' insurance
+- Expand tax relief and incentives for land conservation
+- Facilitate local land control and ownership
+- Support Campaign Zero reforms
+- Develop a Resilient Community Corps Initiative

@@ -1,0 +1,28 @@
+SEIU Endorsement of Fitzpatrick Sends Clear Message in PA-01
+August 3rd, 2026
+Bucks County, PA— The Service Employees International Union (SEIU) Pennsylvania State Council has formally endorsed Brian Fitzpatrick for re-election, delivering one of the clearest statements yet in the race for Pennsylvania’s First Congressional District.
+The SEIU Pennsylvania State Council brings together unions representing tens of thousands of workers across Pennsylvania, including SEIU Healthcare Pennsylvania, 32BJ […]
+Read More
+AFL-CIO MAKES BRIAN FITZPATRICK ITS ONLY REPUBLICAN FEDERAL ENDORSEMENT IN AMERICA
+July 23rd, 2026
+Historic endorsement adds national force to a growing coalition of more than 40 unions supporting Fitzpatrick Bucks County, PA— Today, in a historic national vote of confidence, the AFL-CIO endorsed Brian Fitzpatrick for re-election, making him the only Republican candidate for federal office anywhere in America to earn the federation’s endorsement.
+The landmark endorsement affirms […]
+Read More
+Labor Stands United Behind Fitzpatrick
+July 20th, 2026
+Overwhelming Recommendations from Bucks and Montgomery County Central Labor Councils Join Endorsements & Support from Over 40 Unions Representing Working People Across Nearly Every Sector Bucks County, PA — In a sweeping demonstration of support from organized labor, Congressman Brian Fitzpatrick has earned the overwhelming recommendation of both the Bucks County Central Labor Council and […]
+Read More
+PA-1 Educators Choose Brian Fitzpatrick: NEA & PSEA Endorse His Reelection
+July 20th, 2026
+Organization representing nearly 95 percent of PA-1’s public-school local associations cites Fitzpatrick’s direct engagement, bipartisan leadership, and commitment to students and school employees Bucks County, PA— The educators and school employees who know Pennsylvania’s First District classrooms best are backing Brian Fitzpatrick for re-election.
+PSEA-PACE, through the National Education Association (NEA) Fund for Children and […]
+Read More
+Fitzpatrick Secures Historic Endorsement From NRDC & LCV Action Funds
+July 16th, 2026
+First-ever NRDC Action Fund endorsement of a Republican candidate, alongside LCV Action Fund support, recognizes Fitzpatrick’s bipartisan leadership on clean water, PFAS accountability, and American-made clean energy Bucks County, PA — In a historic first, the NRDC Action Fund—affiliated with the Natural Resources Defense Council—has formally endorsed a Republican candidate for Congress: Brian Fitzpatrick.
+The […]
+Read More
+Fitzpatrick Statement on Harvie’s Opposition to Open Primaries and Independent Voting Rights
+April 28th, 2026
+Bucks County, PA—Today, Brian Fitzpatrick released the following statement after Bob Harvie publicly opposed open primaries and voting rights for Independent voters at yesterday’s League of Women Voters of Bucks County Democratic primary forum: “For the past twelve months, I have refused to respond to the bombardment of negativity and hyper-partisan hatred coming from the […]
+Read More

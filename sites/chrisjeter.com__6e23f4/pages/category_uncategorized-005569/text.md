@@ -1,0 +1,20 @@
+by chrisjeter | Nov 4, 2020 | Uncategorized
+By Elena Stidhamelena@thetimes24-7.comAs of press time Tuesday night, results were unofficial and will be updated today on the Times’ website (www.thetimes24-7.com and in Thursday’s Noblesville Times.There are 260,130 registered voters in Hamilton County and as of...
+by chrisjeter | Nov 4, 2020 | Uncategorized
+Republican Indiana House Speaker Todd Huston retained his District 37 seat representing the Fishers area on Tuesday night, beating Democratic rival Aimee Rivera Cole.
+Huston had 58% of the vote compared with Cole’s 42%.
+“(It was) honestly a tough...
+by chrisjeter | Sep 30, 2020 | Uncategorized
+HANCOCK COUNTY — Walmart announced Thursday that it has finalized plans to establish its largest e-commerce fulfillment center in the United States near Mt.
+Comfort.
+The company, which has been reported to be behind considerations for the project for months, plans to...
+by chrisjeter | Sep 30, 2020 | Uncategorized
+(The Center Square) – Up to 1,000 new jobs are expected to come to Central Indiana after Walmart announced plans to establish its largest fulfillment center in the United States in Hancock County.
+The 2.2 million square feet facility should employ 1,000 people by the...
+by chrisjeter | Aug 31, 2020 | Uncategorized
+INDIANAPOLIS — Fishers resident Chris Jeter took the oath of office Wednesday to serve out the remainder of the term of former state House Speaker Brian Bosma, who recently retired from the legislature after 34 years.
+Jeter is also the Republican nominee for the seat...
+by chrisjeter | Aug 21, 2020 | Uncategorized
+Fishers attorney Chris Jeter is the newest member of the Indiana House of Representatives.
+Jeter was voted in by a private Republican caucus to fill out the last few months of former House Speaker Brian Bosma’s term.
+Bosma formally stepped down at the end of...

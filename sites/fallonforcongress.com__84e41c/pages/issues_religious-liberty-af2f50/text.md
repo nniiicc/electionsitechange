@@ -1,0 +1,13 @@
+Toggle navigation
+Home
+Meet Pat
+Issues
+Endorsements
+News
+Volunteer
+Contact
+Fake News
+Donate
+Donate
+Religious Liberty: Merry Christmas, Texas!
+Watch More Videos

@@ -1,0 +1,142 @@
+Wow.
+What a ride.
+The 2026 legislative session of the Maryland General Assembly has come to a close, and this session was the busiest I can recall – something that’s always a thrill even if it can be exhausting, because it means I’m working hard for my constituents and my state like my colleagues are, which is exactly why I ran for office in the first place.
+This session I continued my work as Chair of the Baltimore County Delegation Community Affairs Subcommittee, Vice Chair of the Maryland Legislative Transit Caucus, member of the Women Legislators of Maryland and Maryland Legislative Latino Caucus, associate member of the Maryland Legislative LGBTQ+ Caucus, and Maryland delegate to the Chesapeake Bay Commission.
+Labor Subcommittee
+However, there were many changes this session as well with Speaker Emerita Adrienne Jones stepping down and Speaker Joseline Peña-Melnyk taking over the position.
+She had big shoes to fill but I believe she has shown she more than deserves the role and has served the people of Maryland the General Assembly spectacularly with natural leadership.
+Part of her goals upon becoming Speaker was to create a new committee, changing the Health and Government Operations Committee into just the Health Committee and creating the Government, Labor, and Elections Committee (or GLE).
+I was honored to accept an appointment to this new committee, and as much as I will always miss my colleagues in the Environment and Transportation Committee, I find my work in GLE to be incredibly rewarding.
+I was made a member of its Alcoholic Beverages Subcommittee and – most exciting and fulfilling – the Chair of its Labor Subcommittee.
+Chairing this subcommittee gave me an opportunity to continue my personal mission of standing up for worker rights and protections, including fair wages, workplace safety, and the right to join a union and collectively bargain.
+We passed some consequential legislation through my subcommittee this session.
+Labor Law – Child Labor Penalties, Private Sector Employee Labor Relations, and State Employee Labor Standards (SB0831) provides civil penalties for violating child labor laws and protects Maryland’s union and collective bargaining rights if the National Labor Relations Act is repealed or rendered null and void.
+The Maryland Worker Freedom Act (SB0417) prohibits employers from retaliating against workers who refuse to attend meetings where the employer communicates their opinion on religious or political matters.
+The Maryland Workforce Apprenticeship Utilization Act (HB0864/SB0964) requires a minimum percentage of work on public works projects to be performed by qualified apprentices or journeyworkers, thus helping to build the next generation of skilled workers.
+There were also several bills that my subcommittee worked on that passed the House but failed to pass the Senate, including Fraud Prevention, Prevailing Wage, and Living Wage – Prohibitions, Penalties, and Enforcement (HB0299), which I defended on the House Floor.
+This bill would have provided stronger enforcement for Maryland’s Workplace Fraud Law, following the recommendations of the Joint Enforcement Task Force on Workplace Fraud.
+Unfortunately, the Senate Finance Committee significantly weakened the bill, then the Senate failed to pass it anyway.
+Affordability, Accountability, and Opportunity
+Moving from my committee work to the General Assembly as a whole, the guiding principles of this session’s legislative priorities in the House were threefold: Affordability, Accountability, and Opportunity.
+Being able to actually afford to live – and not just scrape by – in our state is a prerequisite for anything and everything else.
+While Maryland has always had a comparatively high cost of living and is facing an affordability crisis across many sectors that needs addressing, our economy and our people have been suffering especially as of late from the effects of inflation and a federal administration that has been raising the price of every day necessities through tariffs and conflicts abroad.
+The nation has been hurt by this, but Maryland has been hit particularly hard by the unrestrained cuts to government services and mass layoffs in the federal workforce given the high percentage of our state’s population who work – or used to work – for the federal government.
+Accountability is key to earning and keeping your trust by holding ourselves and your state government to the standards of the people we all serve: you.
+Finally, opportunity means ensuring that Maryland is a state where people can not only live, as mentioned before, but is a place where people can truly thrive, economically and socially – because true living isn’t just surviving.
+There were several important ways we addressed affordability this session.
+Energy was a priority issue for the General Assembly this session as Marylanders face skyrocketing utility bills.
+The reasons for the soaring utility bills and other energy-related issues are multiple and complex, and The Utility RELIEF (Reducing Energy Load Inflation for Everyday Families) Act (HB1532) is a package of legislation building on last year’s Next Generation Energy Act that aims to address these issues – both in the short- and long- term – by protecting ratepayers from these costs, ensuring energy reliability in the face of increased demand, and promoting clean energy.
+Among others, some ways the RELIEF Act achieves this are by reforming unfair rate-setting policies that currently favor utilities, like ensuring costs are set based on historic prices not speculative projected forecasting and limiting excessive compensation for utility executives – unrelated to energy generation – from being passed to consumers; increasing supply by making it simpler to start projects that generate clean energy through things like competitive public auctions; and making sure that large consumers of energy – like data centers, which you can read more about below where I speak on my related bill – pay for the infrastructure necessary for them to function, preventing ratepayers from needing to foot the bill for it, as well as provide their own clean energy resources, cooperate with stricter and more transparent oversight, and contribute to the communities they are built in.
+This and more will help lower Marylanders’ utility bills.
+The practice known as “dynamic pricing,” where a business displays different prices depending on the characteristics or shopping habits of individual consumers, was also a focus of the General Assembly this session, and one that our constituents can routinely see impacting their lives.
+Several bills restricting the practice were introduced by legislators, including one by the Speaker on behalf of the Governor.
+The final bill that the General Assembly passed was the Protection From Predatory Pricing Act (HB0895).
+I am glad to see the General Assembly recognize the inherent inequity of this practice and begin moving to protect consumers before it becomes a more widespread issue.
+Ensuring a strong child care system for Marylanders was another main goal for the General Assembly this session.
+We heard our constituents’ concerns regarding not only the high cost of child care, but also job shortages making accessing any available child care increasingly difficult.
+As such, we focused on a bill package that would strengthen the Child Care Scholarship program by expanding access for families with the greatest need while ensuring long-term program sustainability and ending the enrollment freeze.
+Child Care Scholarship Program – Freeze in Enrollment – Exceptions and Waitlist (HB849) establishes clear guidelines for how families can enroll in the program while the current waitlist is in place.
+It codifies the current list of types of families who can bypass the waitlist while adding children experiencing homelessness as an additional category.
+This bill also creates a prioritization structure for which families can get off the waitlist first, with those in the greatest financial need being placed first.
+There is also the bill Child Care Scholarship Program – Application Process and Copays – Alterations (HB1321), which establishes a “partial scholarship” system for the program.
+For families with an income at or below the Federal Poverty Level (FPL), there would be no child care payments required as they would have a “full” scholarship.
+Payments would then increase gradually as household income increases, with total payments capped at 7% of a household’s annual income, with payments lowered for additional children.
+This legislation would ensure that child care scholarships can remain both affordable but also sustainable by adopting this new payment structure.
+Both of these bills passed the legislature.
+Additionally, there was Maryland Child Care Credential Program – Extension of Funding (HB561), introduced to fully fund the Child Care Credentialing Program and fully passing as well.
+The program provides financial support for child care workers to complete training and obtain their credentials, strengthening the child care workforce and improving the quality of care.
+I’m very proud that my bill Property Tax Credit – Retail Service Station Conversions (HB161) and its Senate crossfile SB0058 sponsored by Senator Benjamin Brooks both passed the legislature this session and will be headed to the Governor’s desk!
+This bill is a boon to local business owners in this tough economy (and the neighborhoods those businesses operate in) by allowing county and local jurisdictions to set up a property tax credit for gas station owners wanting to convert their properties into other uses – especially in an economy that in which demand for fossil fuels is decreasing and its costs are increasing – but may currently be deterred by the potentially high costs of environmental remediation associated with cleaning up after underground gas tanks.
+This necessity often leads to old gas stations essentially being abandoned, leading to blight and decreased property values in communities.
+A tax credit will be both an assistance and an incentive for these gas station owners to convert these old stations into other types of properties that would be both more beneficial for the community and for themselves (which cannot include discount stores, self-storage facilities, and liquor and tobacco stores).
+Health Care
+This session I was able to continue to fight for universal healthcare in Maryland with Public Health – Universal Health Care Program – Study and Commission (HB1316), my legislation that would have established a study to determine the effectiveness and financial efficiency of implementing a universal health care program in our state.
+This bill charges our community partner, District 44’s own Hilltop Institute, with conducting the study and working with a new advisory commission that analyzes their findings and works with them to submit a written report to the Governor and appropriate legislative committees by June 1, 2029.
+The commission would comprise of public officials and healthcare stakeholders from the provider and payer sides, with the hope of creating an all-encompassing report to work on our current system’s problems.
+Maryland’s current patchwork system of private and public plans fails Marylanders, producing worse outcomes with increasing numbers of residents facing medical debt and nation-leading wait times.
+This report, based on research by the Hilltop Institute, would have been used to help give potential alternatives and help give Marylanders the healthcare they need without potentially facing bankruptcy.
+While HB1316 was unfortunately unable to move out of committee, there is another bill that seeks to evolve Maryland healthcare: Commission on Re-Imagining Health Care in Maryland (HB1367), which establishes a commission comprised of local and state representatives, Maryland Health Care administrators, hospital executives, doctors, and patient advocates.
+It would look at a variety of health care solutions, including looking at how other healthcare programs in other states.
+There is language within the bill for the commission to look at new models of care and how they balance a patient-centered approach with cost and efficiency.
+While universal healthcare is not specifically mentioned, I hope the commission will include that within the models they study.
+Similar to HB1316, this commission would be contingent on the Maryland Health Care Commission securing private funding for staffing and research.
+This bill has passed the legislature and will be sent to the Governor’s desk.
+Another aspect of health care we targeted in the General Assembly this session was promoting accountability and transparency throughout our health and child protection systems.
+We were able to pass a package of bills that promoted patient safety and trust, enhanced oversight, and balanced safety with fairness.
+From this package, I would like to highlight two specific bills that will help my constituents and promote transparency and accountability in the health care process.
+Public Health – Office of Health Care Quality Information and Maryland Health Centralization Commission (HB1372) – which fully passed the legislature – requires health care facility inspection information to be made available to the public on Maryland’s Quality Reporting website, providing clear and accessible information and allowing for the public to make informed decisions on the quality of health care facilities.
+It also provides stronger oversight for facility licensing boards by establishing a new Maryland Department of Health Centralization Commission to oversee the collaboration between the Department of Health and the health occupations licensing boards, centralizing the two and allowing them to operate more efficiently.
+Another bill that passed this session, Emergency Room Services and Post-Acute Care – Coverage and Facility Studies (HB1563), requires insurers to report more data on why they denied claims (with particular emphasis on denied claims for hospital stays and post-acute care), authorizes the Maryland Insurance Commissioner to review any insurance carrier that has an extensive history of denied claims for emergency department services, and studies ways to improve patient experience (looking specifically at bed availability and the patient discharge process).
+Data Centers
+Given the state’s openness to the development of artificial intelligence and the now paused Woodlawn Data Center proposal, I know that concerns around the increasing number of data centers were near the top of your minds going into this session.
+I hear your concerns that data centers not only impact their environment with their noise and emissions, but also contribute to skyrocketing energy costs via their dependence on local energy grids.
+In response, I proposed the Data Center Planning and Transparency Act (HB1411), which promoted transparency around both the entities behind data centers and the processes at the state and local levels that lead to their approval and construction.
+It would have established a protocol of disclosure reports that the administrators behind data centers must complete before applying for permits or submitting plans for their construction.
+In these reports, companies would have been required to provide an explanation for their location decision and details on how their operations will impact the power grid.
+The disclosure report would offer the public the chance to influence plans before they are set.
+It also stipulates that there be a zoning plan submitted at the county level, consistent with the sustainable growth principles of the jurisdiction, with specific restrictions for plans being set in underserved or overburdened areas.
+The bill also stipulated that when looking for state assistance like grants or tax breaks, any application or permit submitted to the state must be in compliance with the disclosure report requirements.
+This legislation did not set out to ban data centers or prevent the state from investing in AI and other important emerging technologies, but sought to increase transparency and promote community trust in the process.
+While this bill did not pass through committee, some of the transparency principles were incorporated into the RELIEF act, and I am more committed than ever to working for transparency around data centers.
+Other Bills
+One of the bills I introduced this session came to me from a constituent who experienced a terrible tragedy.
+During the interim Myles Thornton met with me to share the story of how his daughter, Dimeka Thornton, was tragically killed in my district when a car fleeing a police pursuit drove the wrong way onto I-695 and crashed into her.
+Police pursuits are incredibly dangerous and unfortunately, Ms.
+Thornton is not the only Marylander to have died in one recently.
+The agency policies regarding police pursuit vary from jurisdiction to jurisdiction, but I think Maryland should have consistent standards with a high bar for when to engage in this high risk activity for everyone involved: engaging in a chase to catch a suspect should be limited to circumstances where an immediate, certain, and unavoidable threat to life exists should they not be apprehended.
+A life is too high of a cost for unnecessary pursuits.
+That is why I introduced the Dimeka Thornton Act (HB1359), which called for such standards to be set.
+While this bill unfortunately did not pass this session, I was pleased to learn that the Maryland Police Training and Standards Commission responsible for making these model policies has already done some work on this issue, and I will continue to engage with them to protect the safety of bystanders and law enforcement..
+I’m deeply grateful for Mr.
+Thornton’s trust in me to work on this bill in honor of his daughter, and I commend his dedication and strength in advocating on this issue.
+The National Center for Institutions and Alternatives (NCIA) is a vocational training and workforce development organization located in my district that supports individuals seeking stable employment in high-demand industries, including construction, logistics, warehousing, automotive trades, and public safety.
+This is a key example of the need to bolster opportunities for Marylanders.
+During the interim this group approached me and District 44’s Senator Charles Sydnor about a common barrier to employment faced by many of their participants.
+In Maryland, regardless of your age, new drivers must have a provisional license for 18 months.
+Because of unintended consequences with business insurance associated with provisional licenses, this requirement prevents otherwise qualified people from finding opportunities to support themselves.
+We know there are many factors that might lead to someone delaying getting a driver’s license until later in life.
+My bill Motor Vehicles – Driver’s Licenses – Eligibility (HB1338) and its Senate crossfile SB0856 sponsored by Senator Sydnor would simply have removed the provisional period for drivers above the age of 18 obtaining their license while leaving all other existing requirements in place.
+While these bills did not move this session, I look forward to continuing to work with NCIA, the MVA and my colleagues in the General Assembly to find ways to support these goals.
+I, like most if not all of my colleagues, have been hearing from many constituents who are struggling to afford housing.
+In looking for a way to respond to these concerns and support those constituents, I learned that, while the state does have programs which are meant to provide relief to especially vulnerable renters and homeowners, the income limits and credit amounts are not tied to inflation and have not been raised in nearly a decade.
+As a result, the number of people using the renter’s tax credit for example has been cut nearly in half since 2005.
+My bill Property Tax Credits – Renters’ Tax Credit, Homeowners’ Tax Credit, and Homestead Tax Credit – Altering Eligibility and Amount (HB1427) proposed to increase both the income limits and credit amounts to better align with the cost of living in 2026 and to offset the cost by implementing a $300,000 income cap to the currently uncapped Homestead Tax Credit.
+Every Maryland resident deserves the dignity and safety of stable and affordable housing.
+While Maryland is in a tough budgetary spot and this bill wasn’t able to pass this session, it did start a conversation and provide useful information that we can use to help guide future actions.
+ICE
+A major concern for many of my constituents that I must address and that extends beyond just a single bill has been the inhumane and unnecessary actions of federal Immigrations and Customs Enforcement under the current federal administration.
+Over the past year, many of my constituents have watched in horror as ICE has terrorized and harassed communities based on politics or skin color, torn entire families apart, and made their true motivations of racism, xenophobia, and partisan targeting abundantly clear.
+The unconstitutional and frankly immoral actions being undertaken by ICE do not serve a legitimate law enforcement purpose and Maryland should take no part in supporting, facilitating, or participating in them.
+I also recognize that any action requires a multifaceted approach in order to best protect our communities from this harm.
+Maryland legislators and community members need to be both creative and bold in finding ways to stand up to the administration’s attacks, and this has been a primary goal for legislators this session.
+Public Safety – Immigration Enforcement Agreements – Prohibition (HB0444), which bans state and local law enforcement in Maryland from cooperating with ICE in what are known as 287(g) agreements, was already signed into law by the Governor earlier this session.
+Additionally, both the House and Senate have passed Correctional Services – Private Detention Facilities – Zoning Requirement (HB1017) which would prevent any private detention facilities from being built in the state without being subject to strict zoning regulations with multiple opportunities for community input.
+This would include sites like the proposed DHS warehouse in Washington County, which Attorney General Anthony Brown sued to halt in February.
+The Maryland Values Act of 2026 (SB0810), which expands the list of “sensitive locations” that ICE is banned from to include courthouses, requires the reporting of ICE activities in schools, and bars school employees from sharing information about their students and their families with ICE, also passed the legislature, as did the Data Privacy Act (HB0711), which prohibits data controllers like online platforms from knowingly selling their consumers’ data to those who wish to use it for immigration enforcement, and the No Kings Act (HB0351), which allows individuals or the Attorney General to bring a court action against federal law enforcement officers, including ICE, who violate rights under the U.S.
+Constitution or laws.
+State Budget
+In addition to funding for key issues I’ve already touched on, like lowering utility rates and improving childcare services, the $70.8 billion state budget we passed this year addressed several other important topics despite the precarious economic state we are currently facing.
+While I can’t go over everything line by line in this letter or I would be using an awful lot of paper, I can feature a few more highlights here.
+Of some particular personal importance to me, we put funding into safety improvements for cyclists and pedestrians – an issue I know my constituents care about – as well as expanding Baltimore bus service and modernizing the MTA’s Light Rail system.
+Transportation-wise, the budget also makes accelerating the building of a new Key Bridge a priority, which will improve regional mobility and alleviate some of the increased traffic congestion in the Baltimore area.
+We invested in our state’s future by allotting $2.5 billion in higher education and fully funding the Blueprint for Maryland’s Future.
+Finally, financial assistance was given special priority: $1.7 billion was put into the Supplemental Nutrition Assistance Program (SNAP), which provides aid to 687,000 food insecure Marylanders and the importance of which was proven firsthand when the federal government withheld crucial state funding for it this year; $384 million was given to low-income rental assistance generally with another $42 million specifically to help renters in rural communities whom are often forgotten; $20 million dollars provides assisted living subsidies and congregate living support for 4,000 seniors; $14 billion was allotted for low-income participants in Medicaid and the Maryland Children’s Health Program; and $9.45 million was allocated for flood disaster recovery efforts in Western Maryland when the federal government refused to step in and help.
+I think it is important to address the cuts to the Developmental Disabilities Administration.
+I hear Marylanders’ valid concerns, anger, and disappointment.
+I have always believed that services across the spectrum of healthcare should be accessible and affordable to all, so seeing these cuts hurts.
+Equally frustrating is knowing that the federal funding that the DDA and the 19,000 people who rely on it is contingent on the program’s cost neutrality.
+It is an unfair reality, and I hope there is an understanding that we, as a legislative body, do not want to take care away from those who need it.
+However, I know that nobody is seeking platitudes right now, so I will only say that I will continue to support the program in any way I can.
+I also want to acknowledge the tireless efforts of advocates that not only made a difference in reversing some cuts but made a deep impression on me and my colleagues, and I’m grateful to know so many Marylanders care about their fellow community members’ well-being.
+On a happier note, one of my favorite parts of writing my End of Session Letter is reporting on the funding we were able to secure for projects in my district in the form of Legislative Bond Initiatives, or LBIs.
+The District 44 team were able to allot a total of $60,000 in the budget to Dewey Loman Post No. 109 of the American Legion for the replacing the flooring in their Meeting Hall, $500,000 to the Catonsville Emergency Assistance Food Pantry for building a new food pantry facility and renovating existing spaces, $200,000 to the National Center on Institutions and Alternatives for infrastructural and programming upgrades to their Youth in Transition School Therapeutic Campus, $180,000 to the Security Woodlawn Business Association for renovations to their headquarters that will provide new resources for local businesses, and $200,000 for Woodlawn High School to replace their almost two decade old scoreboard and public address system.
+We are all so proud to be able to garner funding for projects that will benefit our constituents and communities so directly even with such a tight budget this year.
+Unfortunately, because of the tight budget constraints, we weren’t able to fund all the projects requested, but we will continue to push for these in future years.
+And so, finally, I want to thank you.
+Thank you for following my work this session.
+Thank you for being so engaged with the legislative process – your input is invaluable to our work here in Annapolis and guides everything I do here as your representative, along with the rest of my colleagues.
+I am proud of the work we accomplished this session and invigorated to further that work through the interim and into next year’s legislative session.
+I am glad to have you along for the journey.
+All my very best,
+Delegate Sheila Ruth
+District 44B, Baltimore County

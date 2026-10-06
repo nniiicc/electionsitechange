@@ -1,0 +1,31 @@
+Corey Foreman
+We deserve better Health Care Infrastructure Jobs Schools
+Corey Foreman for Georgia Senate, District 1
+Endorsements & Support
+Endorsements & Support
+Corey Foreman is proud to have earned the support of organizations, community leaders, veterans, workers, retirees, and advocates committed to building a stronger future for Coastal Georgia.
+🏛️ Organizational Endorsements
+- Georgia AFL-CIO
+- VoteVets
+- R.U.F.F.
+(Retirees Unite For the Future)
+- Georgia Equality
+- Center for Freethought Equality PAC
+- Fair Fight
+- Greater Than
+- The Oath of Office
+⭐ Candidate Distinctions
+- Moms Demand Action Gun Sense Candidate
+- Mental Health Now Candidate
+- U.S.
+Term Limits Pledge Signer
+- Moms' Seal of Aproval on Child Care
+👥 Community Leaders
+- Sheriff William Bowman
+- Wade Herring
+- Additional endorsements coming soon
+🗳️ Recommendations & Voter Guides
+- Savannah Tribune Voter Guide
+- Michelle Solomon Voter Guide
+Building a Broad Coalition
+This campaign is bringing together veterans, workers, retirees, educators, healthcare professionals, small business owners, and community leaders who believe Coastal Georgia deserves better.

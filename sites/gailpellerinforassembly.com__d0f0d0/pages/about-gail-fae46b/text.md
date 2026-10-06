@@ -1,0 +1,22 @@
+MEET
+Gail Pellerin
+Assemblymember Gail Pellerin was elected to represent the 28th Assembly District in the California State Assembly in November of 2022.
+In the State Assembly, Gail serves as Chair of the Assembly Elections Committee, as Chair of the Select Committee on California’s Mental Health Crisis, and as Vice-Chair of the California Legislative Women’s Caucus.
+She is a member of the Committees on Appropriations, Business and Professions, Education, Natural Resources and Privacy and Consumer Protection.
+Prior to serving in the State Assembly, Gail served as the chief elections official in Santa Cruz County from 1993 until her retirement in December 2020.
+As County Clerk, Gail managed all elections conducted in the county and served as the Commissioner of Civil Marriage.
+Gail served as President of the California
+Association of Clerks and Election Officials from 2010 to 2012 and served as co-chair of the Secretary of State’s Voting Accessibility Advisory Committee.
+She is a graduate of the California Professional Election Administrator Credential program and has taught credential courses on Voters with Specific Needs and Budgets.
+Gail received the Hammer of Justice Award from the Santa Cruz County Chapter of the ACLU in 2009 as well as proclamations from the Santa Cruz County Board of Supervisors and City of Santa Cruz honoring her service to the community.
+In 2010, she received the Kudos Award from the Santa Cruz County Commission on Disabilities, and in 2020, Gail received the Lifetime (Legacy) Achievement Award from the Santa Cruz County Chamber of Commerce.
+In 2021, Assemblymember Mark Stone honored Gail as a Woman of the Year by the California Legislative Women’s Caucus, recognizing women who are making an extraordinary difference in their communities.
+In 2022, Gail was honored for her work as a 2022 Democracy Hero by California Common Cause who has been fighting for voting rights, redistricting reform, government transparency, and to ensure that democracy includes everyone for over 50 years.
+Gail served on the board of the Women in California Politics Foundation and Museum, and NAMI (National Alliance on Mental Illness) Santa Cruz County, and is involved with Girls Inc. and Women’s Educational Success at Cabrillo College.
+She participated in the process of creating the Cabrillo College Local Government Fellows program, to encourage first generation students to pursue an education that can lead to a career in local government and to provide scholarships and paid internships and mentorships.
+She has also been active with Emily’s List, Breaking the Glass Ballot and WILDR (Women in Leadership for Diverse Representation), organizations dedicated to increasing the number of elected and appointed women in local, regional and state offices.
+Gail was involved with the California Democratic Party’s Voter Protection Committee and Civitas Public Affairs to advocate for the Election Infrastructure Initiative to provide for long-term, sustainable federal funding for local elections offices.
+Gail has been an outspoken advocate for suicide prevention awareness and mental health resources after her husband, Tom, died by suicide on November 19, 2018.
+Gail has a BS in Journalism from Cal Poly, San Luis Obispo.
+Prior, Gail had worked for the State Legislature, as a campaign assistant to political campaigns, newspaper reporter and photographer, and community college instructor.
+In her spare time, Gail enjoys going to the beach with her labradoodle Darwin and spending time with her two adult children Jacob and Emily.

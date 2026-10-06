@@ -1,0 +1,3 @@
+Events RSVPs are required for phonebanks, but optional for all other events.
+Your RSVP helps us plan accordingly!
+Filtering by: “Community Event” Aug 21 Community Event Mounds View Day in the Park Parade Friday, August 21, 2026 5:00 PM 8:30 PM Google Calendar ICS RSVP Here View Event → Aug 8 Community Event New Brighton Stockyard Days Parade Saturday, August 8, 2026 9:00 AM 12:00 PM Google Calendar ICS RSVP Here View Event → Aug 4 Community Event National Night to Unite Tuesday, August 4, 2026 5:30 PM 8:30 PM Google Calendar ICS View Event → Jul 25 Community Event Slice of Shoreview Parade Saturday, July 25, 2026 9:00 AM 12:00 PM Google Calendar ICS RSVP Here View Event →

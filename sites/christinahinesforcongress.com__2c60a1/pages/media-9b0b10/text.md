@@ -1,0 +1,54 @@
+Media
+Updated July 14
+The campaign has communicated aggressively in the initial weeks of voting season, but it is critical that voters hear from allies in the final three weeks of the primary election.
+Starting immediately through August 4, All likely Democratic primary voters (those who voted in 2 or more of the past 4 Primary Elections in 2024, 2022, 2020, 2018 with DNC support score 48+) – especially voters on the permanent absentee list, voters who vote early in person, all women, voters over 55, and voters in Eastpointe, Clinton Township, Macomb Township, Mount Clemens, Harrison Township, Saint Clair Shores, Fraser, and Roseville – need to read, see, and see on the go:
+- Christina is a working mom of three from Macomb County who understands what Michigan families are going through and will bring a new generation of leadership to Washington.
+- As a prosecutor, Christina took on human traffickers, rapists, and child predators to protect families and make us safer.
+- Christina will stand up to Trump’s attacks on our democracy, root out corruption, and lower costs on gas, groceries, and healthcare.
+- Christina has broad community support, including endorsements from former MI-10 Nominee Carl Marlinga, dozens of state and local elected officials, labor, and key organizations like End Citizens United and GIFFORDS PAC for gun safety.
+All likely Democratic primary voters need to know about Christina, but if resources are limited the voters who need to hear this message most are women, especially college-educated women, non-college-educated men, older voters, and voters in Clinton Township, Mount Clemens, Roseville, and St.
+Clair Shores.
+Additionally, sustained communication is important with non-college women, voters with a party score above 85, Black voters, and voters in Warren, Center Line, and Eastpointe.
+Priority Zips include:
+48091
+48015
+48092
+48089
+48021
+48080
+48066
+48088
+48093
+48092
+48043
+48035
+48309
+48307
+Updated June 2
+All likely Democratic primary voters (those who voted in 2 or more of the past 4 Primary Elections in 2024, 2022, 2020, 2018 with DNC support score 48+) – especially voters on the permanent absentee list, voters who vote early in person, all women, voters over 55, and voters in Eastpointe, Clinton Township, Macomb Township, Mount Clemens, Harrison Township, Saint Clair Shores, Fraser, and Roseville – need to read, see, and see on the go:
+- Christina is a working mom of three from Macomb County who understands what Michigan families are going through and will bring a new generation of leadership to Washington.
+- As a prosecutor, Christina took on human traffickers, rapists, and child predators to protect families and make us safer.
+- Christina will stand up to Trump’s attacks on our democracy, root out corruption, and lower costs on gas, groceries, and healthcare.
+- Christina has broad community support, including endorsements from former MI-10 Nominee Carl Marlinga, dozens of state and local elected officials, labor, and key organizations like End Citizens United and GIFFORDS PAC for gun safety.
+All likely Democratic primary voters need to know about Christina, but if resources are limited the voters who need to hear this message most are women, especially college-educated women, non-college-educated men, older voters, and voters in Clinton Township, Mount Clemens, Roseville, and St.
+Clair Shores.
+Additionally, sustained communication is important with non-college women, voters with a party score above 85, Black voters, and voters in Warren, Center Line, and Eastpointe.
+Priority Zips include:
+48091
+48015
+48092
+48089
+48021
+48080
+48066
+48088
+48093
+48092
+48043
+48035
+48309
+48307
+GET IN TOUCH
+Press Inquiries: press@christinahinesforcongress.com
+General Inquiries: info@christinahinesforcongress.com
+Paid for by Christina for Congress

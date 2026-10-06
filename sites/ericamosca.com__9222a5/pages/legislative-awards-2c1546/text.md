@@ -1,0 +1,27 @@
+LEGISLATIVE AWARDS & WORK
+I'm proud to represent Assembly District 14 and East Las Vegas-- above pictures include the #AD14 Youth Committee participating in these honors.
+For our hard work on behalf of our community, I am proud I have earned the following awards and honors since serving my first term in 2023:
+- Women's Democratic Club of Clark County: Legislative Recognition, August 2023
+- Nevada E-Sports Education League: Educator Award, July 2023
+- Emerge Nevada: Exemplary Public Service Award, June 2023
+I'm proud that I was also competitively chosen to take part in the following activities in order to strengthen and further my legislative impact for us:
+- Council of State Governments (CSG) West: Western Legislative Academy, December 2023
+- National Conference of State Legislators (NCSL) Emerging Leaders Program, November 2023 (though was unable to attend)
+- 50CAN Action Fund: Believe in Better Education Leadership Institute, year-long fellowship with other legislators and elected officials across the country, July - October 2023
+I am proud and appreciative I have been able to use my capacity and work ethic to contribute by serving in the following roles:
+- Nevada Asian American Native Hawaiian & Pacific Islander (AANHPI) Legislative Caucus: Chair, February 2023 - Current
+- Nevada Non-Profit Legislative Caucus: Vice Chair, April 2023 - Current
+- NV Assembly Democratic Caucus Executive Board, October 2023 - Current
+- Conference Committee Co-Whip: 82nd Legislative Session
+Finally, I am proud to currently serve on the following:
+National Committees
+- National Asian Pacific American Caucus of State Legislators Education Committee Co-Chair
+- National Conference of State Legislatures Task Force on Higher Education
+State Boards, Committees & Commissions
+- Legislative Operations & Elections, Interim Vice Chair
+- Interim Finance Committee
+- Committee on Higher Education Funding
+- Commission on Innovation & Excellence in Education
+- Outdoor Education Advisory Working Group
+- NV Children’s Commission
+- NV Youth Legislature Board

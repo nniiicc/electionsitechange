@@ -1,0 +1,7 @@
+Joyce Xie is a State Committee Member, former District 20 Community Education Council member, devoted mother of three, and longtime Brooklyn community advocate.
+She is running to ensure every resident has a voice and the opportunity to thrive.
+Her platform focuses on cleaner and safer communities, immigrant rights, quality education for all, and strong support for seniors and small business owners to keep neighborhoods affordable, safe, and thriving.
+Xie has an established history of local civic engagement and grassroots leadership in Brooklyn:
+- State Committee Member: She actively serves as a State Committee Member, District Leader, representing her local community within the Brooklyn Democratic Party infrastructure.
+- Education Advocate: She is a former member of the Community Education Council (CEC) for School District 20, where she worked to shape local education policy and advocate for Brooklyn students and families.
+Joyce Xie 是州委員會成員、前第20學區社區教育委員會委員、三個孩子的母親，以及長期服務布魯克林社區的倡導者。她參選是為了確保每一位居民都能擁有發聲的機會，並共享社區繁榮發展的成果。她的政綱重點包括打造更清潔、更安全的社區，維護移民權益，推動全民優質教育，以及支持長者與小商業發展，讓社區保持可負擔、安全與繁榮。

@@ -1,0 +1,3 @@
+I need your support…
+I am running for re-election to ensure that Teton County has a strong, proven voice representing District 17.
+During my tenure as your Senator, I have worked across the aisle in Cheyenne and with others throughout Wyoming to fight for the issues that matter to Teton County.

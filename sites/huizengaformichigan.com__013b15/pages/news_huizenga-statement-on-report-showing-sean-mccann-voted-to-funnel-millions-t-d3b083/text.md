@@ -1,0 +1,3 @@
+HOLLAND, MI – Bill Huizenga’s campaign released the following statement in response to a new report revealing ‘Tax Man’ Sean McCann voted for green energy mandates that funneled millions to companies he’s personally invested in, driving up his portfolio value by as much as 45 percent:
+“Sean McCann voted to funnel millions of dollars to companies he’s personally invested in, letting his own portfolio surge while Michigan families got stuck with skyrocketing energy bills,” said Congressman Bill Huizenga.
+“From giving himself a 22% pay raise on the city commission to using his office to bolster his personal investment accounts, McCann has shown that all he cares about is himself.”

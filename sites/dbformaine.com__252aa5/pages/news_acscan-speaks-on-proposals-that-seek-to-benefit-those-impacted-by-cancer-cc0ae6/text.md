@@ -1,0 +1,2 @@
+| WABI Channel 5 covered testimony from the American Cancer Society Cancer Action Network (ACS CAN) in support of proposals before the Maine Legislature aimed at helping cancer patients — including Senator Bailey's LD 2129 (An Act to Protect Maine People from the Harmful Impacts of Medical Debt).
+Advocates highlighted how crushing medical debt burdens cancer survivors and their families long after treatment ends, and called on the Legislature to pass protections preventing collectors from seizing wages and homes over medical bills. | Blog Latest News Archives Categories |

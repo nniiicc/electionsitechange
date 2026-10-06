@@ -1,0 +1,9 @@
+MEET RICK
+SUPPORT RICK
+ISSUES
+NEED HELP
+NEWS
+LINKS
+ASK RICK
+Georgia District 11
+Blue Shaded Area

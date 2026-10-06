@@ -1,0 +1,82 @@
+Endorsements
+Elected & Civic Leaders
+U.S.
+Congressman
+Mike Levin
+“I’m proud to endorse JJ Galvez for Assembly.
+His commitment to our community and focus on lowering costs for families make him the right choice to fight for us in Sacramento.
+He’s the exact type of leadership we need in the State Assembly and I’m proud to stand with his campaign!”
+U.S.
+Congressman
+DAve Min
+"As the son of immigrants, I understand the journey JJ has taken as an immigrant himself.
+He knows the American Dream is built on access to opportunity, and his focus on lowering costs for families in his district is exactly what's needed in Sacramento.
+I'm proud to endorse JJ Galvez for State Assembly."
+SMRPD Board Member
+Mike Veerkamp
+“As a life long Republican, I’m proud to support Democrat JJ Galvez for State Assembly.
+I’ve seen firsthand his commitment to working across differences to solve problems.
+As Treasurer of our parks board, he’s helped us navigate steep funding cuts with creativity and fiscal responsibility.
+JJ builds bridges and gets results — exactly the kind of Assemblyman I want representing our community in Sacramento.”
+Dr.
+Corey Jackson
+California Assemblymember
+Barbara Schulmann
+Saddleback Valley USD Trustee
+Nancy Young
+Murrieta Valley USD Trustee
+Cottie Petrie-Norris
+California Assemblymember
+Suzie Swartz
+Saddleback Valley USD Trustee
+Sergio Farias
+San Juan Capistrano Councilmember
+Catherine Blakespear
+California State Senator
+Ted Wright
+Silverado-Modjeska Rec & Parks President
+Stephanie Oddo
+Laguna Niguel Councilmember
+Joe Kalmick
+Seal Beach Councilmember
+Krista Castellanos
+Capistrano Unified School District Trustee
+Tim Sheridan
+Mayor Pro Tem, Lake Elsinore
+Fiona Ma
+California State Treasurer
+Cynthia Vazquez
+Mission Viejo Councilmember
+Ryan Dack
+South OC Community College District Trustee
+Allyson Muñiz Damikolas
+Tustin USD Trustee
+Tasha Boerner
+Californis State Assemblymember
+Zak Schwank
+Temecula Councilmember
+Organizations
+WAVE
+Women for American Values and Ethics
+California Teachers Association
+Inland Empire Building Trades Council
+California Young Democrats
+UNITE HERE Local 11
+Hospitality Wokers
+International Union of Painters and Allied Trades
+Sprinkler Fitters U.A.
+Local 709
+California Latino Legislative Caucus
+Teamsters Joint Council 42
+Housing Action Coalition
+California Labor Federation
+California Federation of Teachers
+Equality California
+California Democratic Party
+Iranian American Democrats of California
+International Brotherhood of Electrical Workers
+Inland Empire United
+UA Local 250
+Steam-Refrigeration-Air Conditioning-Pipefitters
+Iron Workers of California & Vicinity
+International Union of Operating Engineers Local 12

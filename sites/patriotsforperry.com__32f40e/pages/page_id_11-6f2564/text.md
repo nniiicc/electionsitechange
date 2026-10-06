@@ -1,0 +1,64 @@
+Congressman for the 10th Congressional Dist.
+Scott Perry brings a unique background of hard work, military discipline, small business, and community involvement to the U.S.
+House of Representatives.
+He earned the privilege of representing Pennsylvania’s 10th District (Dauphin, part Cumberland, part York Counties), and presently serves on the U.S.
+House Committees on Transportation & Infrastructure, Foreign Affairs, Oversight & Accountability, and the House Permanent Select Committee on Intelligence.
+He’s also a member and former Chairman of the House Freedom Caucus.
+Perry served three terms in Harrisburg as a Pennsylvania State Representative, where he established a record for protecting Constitutional and Taxpayer rights.
+Perry knows the importance of hard work and dedication.
+He’s the grandson of Colombian immigrants, and the son of a single mom who fled abuse and worked several jobs to survive and support her children – with whom she first landed in Harrisburg on Berryhill Street.
+Scott was raised on public assistance in his youth, in a spartan home with no electricity or plumbing, bathed in a steel tub on the porch, pumped water from a well, and cut firewood with his older brother to keep the family warm in winter.
+At age 13, Perry started his first job – picking fruit at a local farm in Mechanicsburg.
+Since then, he’s worked as a mechanic, dock worker, draftsman and a licensed insurance agent.
+He’s a 1980 graduate of Northern High School and the Cumberland-Perry Vo-Tech School.
+He put himself through college while working full-time, and graduated from the Pennsylvania State University in 1991, where he earned a Bachelor of Science degree in Business Administration Management.
+In 1993, Perry and his mom started their own mechanical contracting firm (initially in their garage).
+The Dillsburg-based business provided contract construction / maintenance services to municipal and investor-owned utilities from North Carolina to New York, and specialized in large meter calibration.
+Perry enlisted in the Army in 1980, attending basic training at Fort Dix, NJ, and Advanced Individual Training at Fort Belvoir, VA as a technical drafting specialist.
+After graduating as president of his Officer Candidate School class, he was commissioned a Second Lieutenant in Field Artillery.
+He branch-transferred to Army Aviation, where he eventually earned qualifications in almost every airframe in the Army’s rotary wing inventory (Huey, Cayuse, Kiowa, Cobra, Chinook, Apache, and Blackhawk), became a rated Instructor Pilot, and earned the Master Army Aviator Badge.
+He’s commanded at the company, battalion and brigade levels; most notably, then-Lieutenant Colonel Perry commanded the 2-104th Aviation Battalion, which deployed to Operation Iraqi Freedom, during which he flew 44 combat missions and earned the Bronze Star Medal.
+Shortly after returning home, he was selected to attend the prestigious U.S.
+Army War College, from which he earned a Master’s Degree in Strategic Studies.
+Perry ultimately earned promotion to the rank of Brigadier General, and upon retirement, honorably completed nearly 40 years of military service to our Nation.
+Perry’s service to our his communities has included chairman of the Carroll Township Planning Commission and member of the township Source Water Protection Committee.
+He was chairman of the Dillsburg Area Wellhead Protection Advisory Committee and served on the Dillsburg Revitalization Committee.
+He remains active in the Jaycees and previously served as regional director.
+He’s a member of Dillsburg American Legion Post #26, Dillsburg VFW Post #6771, and is a Lions Club International Member.
+Scott and his wife, Christy, are the proud parents of two daughters.
+Awards & Recognition
+- ACT for America, 2015, 2016 National Security Patriot Award
+- American Conservative Union, 2013, 2015, 2017 Award for Conservative Excellence
+- American Farm Bureau Federation, 2018, 2020 Friend of Farm Bureau Award
+- American Motorcyclist Association, 113th Congress, Champion Award
+- American Public Works, Central PA Chapter, 2013 Elected Officials Award
+- Associated Builders and Contractors , 2014, 2016, 2018 Spirit of the Enterprise
+- Associated Builders and Contractors, Champion of the Merit Shop
+- Coalition for a Prosperous America, 2015 Certificate of Special Recognition for an American Trade Hero
+- Freedom Works, 2015, 2019 Freedom Fighter Award
+- The American Conservative Union Foundation, Award for Conservative Excellence
+- Friend of Farm Bureau, Outstanding Service during 113th Congress
+- Independent Electrical Contractors, Rising Star Award
+- International Food Service Distributors Association, 2014, 2015, 2018,
+- NAHB, 2016 Defender of Housing
+- National Retail Federation, 2014 Hero of Main Street for Continued support of the retail industry
+- National Retail Federation, 2018 Hero of Main Street
+- American Farm Bureau Federation’s (AFBF) “Friend of the Farm Bureau Award
+- Thomas Jefferson Award
+- National Tax-Limitation Committee, 114th Congress Tax-Fighter Award
+- National Write your Congressman, 2008 Constituent Service Award
+- NFIB, 114th Congress, 114th Congress Guardian of Small Business
+- PA National Guard Association, Outstanding Support for the PA National Guard
+- Republican Party of Pennsylvania, 2010 Leadership Award
+- US Business and Industry Council, 2015 Defender of the American Economy Award
+- US Chamber of Commerce, 113th Congress(1st and 2nd Session) 114th, 115th(1st Session)
+- Union League of Philadelphia, 2016 Assistant Division Commander, 28th ID PA
+- American Veterans Center Recognition, 2017 Service in Iraq and Afghanistan
+- Home Runs for Horton’s Kids, 2018 Honorary Host Committee
+- Family Research Council, 2018, True Blue Award
+- The 60 Plus Association, 2018 Guardian of Seniors’ Rights Award
+- York 912 Group, 2017 Statesman of the Year
+- Citizens Against Government Waste, 2017 Taxpayer Super Hero
+- Recognized as a 2020 Medicare Advantage Supporter
+- Recognized as Energy Champion by American Energy Alliance 2020
+- National Taxpayers Union, 2020 Taxpayers Friend Award

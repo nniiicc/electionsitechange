@@ -1,0 +1,1 @@
+Delegate Heather Bagnall May 25, 2022 Meet The Candidate Delegate Heather Bagnall May 25, 2022 Meet The Candidates: State Delegate, District 33 Published - May 25, 2022 Author - Heather Bagnall Publication - Severna Park Voice Whole Article - https://www.severnaparkvoice.com/stories/meet-the-candidates-state-delegate-district-33,38755?

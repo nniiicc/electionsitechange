@@ -1,0 +1,3 @@
+July 23, 2026 Maryland Matters By Bryan P.
+Sears Voting advocates say proposed system is not yet certified for 2030; elections officials disagree, say a new system is badly needed The Board of Public Works approved a multimillion-dollar contract Wednesday …
+Continue Reading

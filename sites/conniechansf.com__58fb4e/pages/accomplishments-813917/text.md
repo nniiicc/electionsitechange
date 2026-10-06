@@ -1,0 +1,68 @@
+A Record That Puts People First
+Delivering Results.
+Fighting for San Francisco.
+Connie Chan has always been a voice for the people, NOT the powerful
+Labor and Working Families:
+- Expanded San Francisco’s Family Friendly Workplace Ordinance to guarantee workers who have to care for their family members, children or elder parents, the right to flexible work schedules to provide necessary care.
+- Passed legislation protecting and expanding workers’ rights:
+- Legislation to prevent city money from going to contractors who violate labor laws and commit wage theft.
+- Legislation supporting delivery workers by regulating parcel delivery for large companies like Amazon in San Francisco facilities, and monitoring AI operations.
+- Supporting state legislation to protect safety on the roads by requiring human operators.
+- Increased minimum compensation for workers, including in-home service workers, and she fought for and restored essential city workers’ jobs and city funding for critical workforce programs like City Build.
+- Passed legislation to ban “forever chemicals” (PFAs) in firefighter clothing
+- Supported living wage jobs for the lowest paid workers by negotiating and passing a City Budget that provided livable wages for in-home support service and healthcare workers and guaranteed cost of living adjustments for city service workers
+Housing
+- Sponsored the Affordable Housing Production Act to spur truly affordable housing development without compromising strong labor protections and building housing that workers can actually afford.
+- Advocated for affordable housing projects, including a 98 unit 100% affordable housing development completed in the Richmond.
+- Advocated for greater funding for affordable housing
+- Passed legislation to create 76 units of housing while preserving history at the former Alexandria Theatre site.
+- Pushed for skilled and trained labor in all public works and affordable housing projects.
+- Passed legislation to strengthen the Union at Home program, expanding tenant protections against predatory landlords.
+- Co-sponsored the Tenant Opportunity to Cure; Eviction Protections
+- Restored funding to support residents of single-room occupancy buildings
+- Provided protections for shelter access to unhoused families
+Small Businesses
+- Advanced a First Year Free program to support recovery from the pandemic and incentivise growth of small businesses by eliminating the first year of registration and licensing fees, with over 12,000 businesses participating.
+As Chair of the Budget Committee, ensured First Year Free could continue by securing $2.5 million for the program.
+- Expanded protections for legacy businesses against developer buy outs.
+- Supported the reopening of quintessential Lands End restaurant, the Seal Rock Inn, by clearing up bureaucratic red tape and hurdles.
+- Supported merchants on Geary Boulevard during transit and sewage construction improvements, while advancing public transit efficiencies.
+- Started the inaugural summer night market, “Heart of the Richmond”, to boost the Richmond’s local economy and highlight small business.
+- Expanded San Francisco’s Legacy Business program by creating the Neighborhood Anchor Business Registry to support long-standing small businesses
+Budget
+- Passed a balanced budget, closing $300-$400 million budget deficits 3 years in a row
+- Worked with Mayor Lurie to create a $400 million dollar reserve fund to guard against federal cuts to Medicaid and housing subsidies.
+- Restored critical funding citywide for legal services for the elderly and vulnerable, victim service programs, rental assistance and tenant counseling services, transitional aged youth services and programs, food access programs, LGBTQ+ funding and programs, and immigrant worker programs.
+Immigration
+- Championed a budget supplemental to provide an additional $3.5 million in aid for immigration protections, including services, legal representation, and education, bringing total funding for the program to $14 million.
+Education
+- Championed $15 million for free summer camps for K-8 public school students
+- Secured funding for before and after school care, food security and youth leadership
+Community Safety
+- Successfully pushed for deployment of retired Police Ambassadors to Clement Street and expanded the Ambassadors to Central Geary
+- Fighting for increased resources and staffing for the Richmond District Police Station
+- Working to expand deployment of Street Crisis Response teams
+- Supported overtime for the Police Department while saving taxpayers money by redirecting funds away from a nonprofit later shut down due to allegations of misuse of public funds
+- Pushing for comprehensive safety plans that fill vacant first responder positions
+- Supported legislation to increase foot and bike patrols in our neighborhoods
+- Approved funding for Automated License Plate Readers
+- Increased transparency for police overtime spending by requiring quarterly reports to improve transparency and make sure our public safety dollars are going where they are needed most
+Transportation
+- Co-sponsored an ordinance to speed up safety improvement projects by prioritizing completion of Vision Zero infrastructure improvements on high injury corridors
+- Called for the full restoration of Muni service to pre-pandemic levels
+- Supported pilot program for free Muni for All, the continuation of free Muni for Youth and, as Budget Chair, funding to continue the program
+- Funded a District 1 Multimodal Transportation Study to identify immediate- and long-term solutions to improve transit safety and connectivity for pedestrians, cyclists, and transit riders, and incentivize drivers to take alternative transportation
+- Advocated for and secured an additional $1.6 million in state funding for the Fulton Street Safety Project, which includes several traffic calming and pedestrian safety improvements including bus bulbouts
+- Advocated and secured funding for a pedestrian rapid flashing beacon at Geary and 38th Avenue
+Climate
+- Authored and passed an ordinance banning oil extraction from land that San Francisco owns
+- As Chair of the Local Agency Formation Commission (LAFCo), a body that has oversight authority on the implementation of CleanPowerSF, helped negotiate an agreement for independent studies on green bank financing, natural gas decommissioning, battery storage, electric vehicle charging, and emerging clean energy technologies to support CleanPowerSF and meet the City’s climate goals
+- Co-sponsored legislation to establish the San Francisco Reinvestment Working Group to submit business and governance plans for a non-depository Municipal Finance Corporation and for a Public Bank
+- As Chair of the Board of Supervisors Budget Committee in 2023, supported funding efforts to create a Climate Equity Hub and increased general fund support for the Department of Environment
+AAPI Community
+- Created the API Equity Fund to provide $30 million in funding for building acquisition and capital improvements to stabilize AAPI service providers and nonprofits and provide long-term and affordable community services
+- Landmarked Lincoln Park City Cemetery as San Francisco's first archaeological historical landmark, in honor of Chinese immigrants and other immigrant contributions to the City
+- Held city departments accountable to improve City services including language access, senior resources, and victim services for AAPI communities
+LGBTQ
+- As Budget Chair, Supervisor Chan ensured additional funding for the Ryan White Act to bolster federal funding for medical and support services for people living with HIV/AIDS.
+- As Budget Chair, restored millions in funding to support LGBTQ health services; arts and cultural activations; transgender youth services, employment support, and rental subsidies; behavioral health support; housing subsidies and legal services for people living with HIV; 24/7 drop in service center for transgender women; primary and mental health care for transgender and gender nonconforming and intersex people; and violence prevention and immigration legal services for limited English proficient LGBTQ people

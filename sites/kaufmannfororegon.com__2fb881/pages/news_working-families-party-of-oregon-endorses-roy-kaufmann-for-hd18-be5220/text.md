@@ -1,0 +1,13 @@
+PRESS RELEASE
+Working Families Party of Oregon Endorses Roy Kaufmann for HD18
+Silverton, Ore. -- Oregon's Working Families Party has voted to endorse and cross-nominate Roy Kaufmann for House District 18.
+"I'm grateful to earn WFP's endorsement," said Kaufmann, a registered Independent.
+"Oregon's Working Families Party has proven itself to be a team of fighters, going to the mat to get the health care, education, housing, and public safety that Oregon's working families deserve.
+I'm proud to have their energetic support!"
+One of WFP's planks of the platform is the creation of a state bank, an issue Roy strongly supports and will fight to make a reality.
+"It's time for Oregon to take a page from the good folks of North Dakota and establish a state bank, to support Oregon's small businesses and family farms and keep more of Oregon’s wealth in Oregon, rather than going to New York or Abu Dhabi to pay for a billionaire's yacht maintenance, Kaufmann added.
+The Oregon Working Families Party, a minor political party, uses fusion voting, which allows the Party to cross-nominate candidates from major parties if they support WFP values and issues.
+“Roy has shown up with real heart, solidarity, and a deep commitment to working families," said Annie Naranjo-Rivera, Oregon Director of the Working Families Party.
+"He understands that politics should be about helping people afford the basics and improving people’s lives, and that real change comes from building power with communities, not just speaking for them.
+Working Families is here to back Roy Kaufmann as our nominee in House District 18.”
+###

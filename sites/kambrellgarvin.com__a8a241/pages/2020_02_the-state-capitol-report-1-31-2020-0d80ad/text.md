@@ -1,0 +1,26 @@
+The House of Representatives amended, approved, and sent the Senate H.4760, a bill revising the STUDENT ASSESSMENTS that are administered in the state’s public schools as a means of: ensuring that standardized testing is not unnecessarily burdensome; improving notification about upcoming assessments; and, affording parents, guardians, and teachers with timely access to test results so that this information might be better used to improve student achievement.
+The legislation eliminates the summative assessments in social studies and United States History that are not required under the federal Every Student Succeeds Act accountability provisions.
+In addition to streamlining summative testing, which is conducted at the end of a school year to determine what a student has learned in a course of study, the legislation also places limits and conditions on formative testing, which is conducted during the course of a school year to determine what progress a student is making towards mastering particular subjects.
+With certain exceptions, the legislation provides for students to be administered no more than one state or locally procured formative assessment, and for that one standardized test to be given no more than three times during an academic year.
+A protocol is established that requires schools to provide notification to parents and guardians about upcoming formative assessments and their purpose at least one week before testing.
+No more than one week after the administration of a formative assessment, schools are required to provide teachers, parents, and guardians with test results.
+In addition to test scores, the material that parents and guardians receive must include information on how the formative assessment aligns with state standards and summative assessments, and suggestions for how to support the child’s learning at home.
+The House approved and sent the Senate H.4753, a bill providing for TEACHER INCENTIVES.
+The legislation establishes a “Teacher Bill of Rights” to enumerate those things that all certified public school teachers in South Carolina should be able to expect.
+These include: working in an environment conducive to learning; the inclusion of their discretion with regard to disciplinary and instructional decisions; freedom from frivolous lawsuits; unencumbered daily planning time; a competitive salary; no unnecessary paperwork; and, support from school administration to meet performance standards and professional expectations.
+These provisions do not create or imply a private cause of action for a violation.
+The legislation provides that each classroom teacher and full time librarian is entitled to at least a thirty minute daily planning period free from the instruction and supervision of students.
+Each school district may set flexible or rotating schedules for the implementation of this duty free planning period.
+Implementation may not, however, result in a lengthened school day.
+The legislation offers a tax incentive for attracting teachers to areas where they are most needed in the form of an income tax credit that covers all of the property taxes paid for five years on a residence for a K-12 public school teacher who lives and teaches in a Tier IV economically challenged county.
+The House appointed a conference committee to address its differences with the Senate on S.455, the “ARMED SERVICE MEMBERS AND SPOUSES PROFESSIONAL AND OCCUPATIONAL LICENSING ACT”.
+The House returned S.996 to the Senate with amendments.
+This joint resolution authorizes an EXTENSION OF SOUTH CAROLINA PUBLIC SERVICE COMMISSION CANDIDATE SCREENING to provide an opportunity to find additional qualified candidates to present to the General Assembly for election to the commission that oversees public utilities.
+The House approved and sent the Senate H.4936, a bill that eliminates the prohibition on possessing GAME FISH DEVICES while possessing or using nongame devices.
+The change allows someone to have an authorized game fish device, such as a rod and reel, while using authorized nongame devices, such as set hooks, trotlines, eel pots, jug fishing devices, and traps.
+2
+The House approved and sent the Senate H.4945, a bill that revises coastal zone management provisions governing construction seaward of the baseline to allow for certain EROSION CONTROL STRUCTURES to have their damage assessment based on a single distinct continuous seawall or bulkhead rather than on a lot by lot basis.
+If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
+Box 292434, Columbia, SC 29229.
+Thank you for the opportunity to serve you in the House of Representatives.
+KHG/jhm

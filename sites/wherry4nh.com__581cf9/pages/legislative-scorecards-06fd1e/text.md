@@ -1,0 +1,20 @@
+Skip to content
+Wherry for New Hampshire
+Home
+Legislative Scorecards
+Campaign Finance
+Information
+Appearances
+Legislative Scorecards
+2026 Scores and Ratings
+Loading Comments...
+Write a Comment...
+Email (Required)
+Name (Required)
+Website
+Wherry for New Hampshire
+Copy shortlink
+Manage subscriptions
+Sign up
+Log in
+Report this content

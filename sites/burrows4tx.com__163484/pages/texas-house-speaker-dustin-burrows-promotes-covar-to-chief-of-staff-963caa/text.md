@@ -1,0 +1,9 @@
+AUSTIN, Texas — Speaker of the Texas House Dustin Burrows today announced the promotion of Zak Covar to Chief of Staff, effective immediately, following the departure of current Chief of Staff Robert “Bob” Duncan, who will be returning to the Texas Tech University System.
+Covar previously served as the Speaker’s Deputy Chief of Staff.
+“Since becoming Speaker at the start of the 89th Legislative Session, I have been fortunate to benefit from the leadership and expertise of both Bob Duncan and Zak Covar in guiding my office and the House toward historic legislative victories,” said Speaker Burrows.
+“I am proud of what we accomplished together for Texans this session, and I have every confidence that Zak will continue to serve the Texas House with distinction and skill as he steps into the role of Chief of Staff.
+I am also deeply grateful to Bob, whose wealth of legislative experience, storied work ethic, and steady approach, proved invaluable throughout my first session as Speaker.
+As he returns to the Texas Tech University System to continue his service to our West Texas community, I extend to him and his family my gratitude and best wishes for this next chapter.”
+Zak Covar will serve as Chief of Staff to Speaker Burrows, having previously served as Deputy Chief of Staff beginning in January 2025.
+Prior to joining the Speaker’s Office, Covar served as President and CEO of the Texas Aggregates & Concrete Association and has a thorough background in environmental policy and government relations, including roles as Executive Director and Commissioner of the Texas Commission on Environmental Quality—a position he was appointed to by former Governor Rick Perry and reappointed by Governor Greg Abbott in 2015.
+He has also previously served as a policy advisor in the Office of the Governor and Chief of Staff in the Texas House.

@@ -1,0 +1,81 @@
+Awards & Endorsements
+Van Drew Awards & Recognitions
+“Congressional Champion of the Year” – New Jersey Hospital Association
+“Congressional Champion for Military & Veterans Award” – Cooper University Health Care
+“Friend of the Coast Award” – American Shore & Beach Preservation Association
+“Book of Golden Deeds Award” – Ocean City Exchange Club
+“Legislator of the Year” – Veterans of Foreign Wars of the United States
+“Outstanding State Legislator of the Year” – Veterans of Foreign Wars, Department of New Jersey
+“Spirit of Enterprise Award” – United States Chamber of Commerce
+“Jefferson-Hamilton Bipartisanship Award” – United States Chamber of Commerce
+“Guardian of Small Business” – National Federation of Independent Business (NFIB)
+“Eagle of Freedom Award” – US Humanitarian Aid Response Team Cares (US HART CARES)
+“Painter of the Year” – The New Jersey Industrial Painters Association & the Garden State Council
+“Protecting Our Coast Award” – Protect Our Coast NJ
+“Legislator of the Year” – Academy of General Dentistry
+“Rock Star Award” – National Stone, Sand, & Gravel Association
+“Hero of Main Street” – National Retail Federation
+“Outstanding Legislator of the Year Award” – American Association of Oral and Maxillofacial Surgeons (AAOMS)
+“Champion for Self-Care” – Consumer Healthcare Products Association (CHPA)
+“Excellence in Leadership Award” – Organization for Competitive Markets & Competitive Markets Action
+“Lyme Champion” Award – Center for Lyme Action
+“Legislative Leader Award” – Humane Society of the United States & the Humane Society Legislative Fund
+“Legislator of the Year” – New Jersey State Chamber of Commerce
+“Equal Justice Award” – Crime Victims Rights Week
+“Library Champion Award” – New Jersey Library Association
+“Military Support Award” – New Jersey State Bar Association – Military Law & Veterans’ Affairs Section
+“New Jersey Legislator of the Year” – American Veterans (AMVETS)
+“The Surgery Chairman’s Award” – Shore Medical Center
+“Honorary Doctorate of Public Service” – Stockton University
+“Man of the Year Award” – Sons & Daughters of Italy in America – Grande Lodge #1838 (The Wildwoods)
+###
+Conservative Awards & Acknowledgements
+1st Ever “Associate Member of the Year” – New Jersey Federation of Republican Women
+“Ronald Reagan Leadership Award” – Atlantic County Republican Committee
+“Chairman’s Seashell Award” – Atlantic County Republican Committee
+“Lincoln Award Honoree” – Atlantic County Federation of Republican Women
+“Gerard A.
+Desiderio, Sr.
+Republican of the Year Award” – CapeGOP Women’s Federation & the Desiderio Family
+“Lincoln Day Honoree” – Salem County Republican Committee
+“American Patriot Award” – The Union League of Cape May County
+“Award for Conservative Achievement” – Conservative Political Action Committee (CPAC)
+“Friend of Family Award” – Faith & Freedom Coalition
+“Defender of Limited Government Award” – Institute for Legislative Analysis at the Conservative Partnership Institute
+Bangladesh American Republican Club of New Jersey
+“Defender of Biblical Business” – Christian Employers Alliance
+###
+General Recognitions
+New Jersey Dogs of Honor
+National Chaplains Association
+Pakistani Community of Atlantic City
+“Levoy Theatre Centre”
+“Appreciation Award” – United States Coast Guard Auxiliary Absecon Island Flotilla
+Marine Detachment – USS New Jersey – BB62
+American Legion Post #184 (Wildwood)
+Certificate of Life Membership – Ocean View Volunteer Fire Company
+Cape May County Firemen’s Association
+The Leukemia & Lymphoma Society – Fighting Blood Related Cancers
+International Dyslexia Association (New Jersey Branch)
+The New Jersey Speech – Language – Hearing Association
+United States Police K-9 Association (Region 15)
+Brigantine Elks Lodge Veterans Service Committee
+###
+Endorsements (Past and Present)
+(2026)
+(2026)
+(2026)
+(2022)
+(2024)
+(2024)
+(2024)
+(2024)
+(2024)
+(2024)
+(2024)
+(2024)
+(2024)
+###
+Political Endorsements
+* Awards & Endorsements are not listed in any particular order *
+###

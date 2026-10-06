@@ -1,0 +1,12 @@
+The Four Freedoms
+In1943, while America was embroiled in the Second World War, President Roosevelt’s State of the Union Address that year referred to four freedoms that he identified as essential – Freedom of Speech, Freedom of Worship, Freedom from Want, and Freedom from Fear.
+At the time of Roosevelt’s speech, the forces waging war across the globe were a real threat to these freedoms.
+The American battle to protect them was the defining struggle for a generation.
+New England artist Norman Rockwell produced four paintings inspired by Roosevelt’s Four Freedoms, and being familiar with the tradition of Town Meetings, invoked the image of an ordinary individual standing up and expressing himself to represent Freedom of Speech.
+Eighty years later towns in New Hampshire still engage in this uniquely direct form of self-governance.
+We live in a time when the four freedoms are once again in peril.
+The controlling party in our State Legislature is comprised of members who prioritize serving the wealthy and corporate interests at the expense of working people.
+Meanwhile, the Free-State contingent of the party is hard at work dismantling government with the stated goal of destroying it altogether.
+Without strong institutions that serve all the people the Four Freedoms are vulnerable to the hostilities of special interests and the malice of the few who have seized power.
+Fortunately, the power of the ballot remains as a defense against this current tyranny.
+It is up to the voters to use it to elect Democrats and defend our Freedoms.

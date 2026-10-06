@@ -1,0 +1,19 @@
+Meet Bobby
+Issues
+News
+Creator Hub
+Store
+Donate
+Meet Bobby
+Issues
+News
+Creator Hub
+Store
+Donate
+In the News
+Latin Grammy star quits music to run for Congress as Texas Democrat
+Tejano Icon Bobby Pulido is Officially Running for Congress: South Texas is 'in my DNA'
+Latino Victory Fund backs 4 new House Democratic candidates
+Tejano star Bobby Pulido launches bid to flip South TX congressional seat blue again
+This Tejano Music Star Could Upend Gerrymandering in South Texas
+Tejano star Bobby Pulido launches South Texas congressional run

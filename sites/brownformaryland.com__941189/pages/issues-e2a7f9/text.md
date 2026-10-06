@@ -1,0 +1,49 @@
+I have worked for nearly 20 years as an advocate and policy expert on a range of issues, including disability rights, mental health parity, educational civil rights, technology justice, competitive and integrated employment, and the criminal legal system.
+I have served as chairperson of a state developmental disabilities council, advisor to numerous local and state government entities, and attorney representing students with disabilities.
+Every day, I’m advocating for the people who are the hardest hit by bad policies and who have the most to lose when our leaders get it wrong.
+People in our district are dealing with absurdly high gas prices, lack of transportation, inadequate social services, overcrowded schools, and job insecurity.
+Here are some of my plans to advocate for our communities:
+- Advocate for more school and social services funding, including
+- guaranteeing fair pay for all teachers, support staff, mental health professionals, and other direct support workers
+- implementing universal pre-K and after school care so children from all families have the best possible tools to succeed, regardless of income
+- hiring mental health professionals, including those with lived experience, in all schools
+- allocating funding for COVID precautions, including free personal protective equipment (including high-quality masks) for all people on school property, access to PCR and rapid tests on a regular basis, high-quality HEPA filtration, and infrastructure for flexible, hybrid learning modalities that protect all workers, students, and families
+- Advocate to protect workers and create jobs, including
+- raising the minimum wage to $25 to reflect the real cost of living
+- expanding collective bargaining rights for all workers
+- expanding paid sick days and paid family and medical leave protections for all workers
+- funding apprenticeship and vocational training programs with guaranteed job placement for all workers, including youth, people with disabilities, and people returning from prison
+- free tuition at state-run four-year colleges and universities, to build upon our state’s success in offering free tuition for low- and middle-income students at community colleges
+- tax incentives for employers who hire people with intellectual and developmental disabilities and mental illnesses for real jobs – jobs that teach transferable skills, pay fairly, and have real responsibilities, not make-work
+- Fight against mass incarceration – which disproportionately impacts communities of color, disabled people, and the LGBTQ community – by investing in communities and addressing root causes of harm, including
+- increasing funding for social services and mental health resources in the community, including peer support, peer crisis response, and peer respite services
+- implementing housing first policies to respond to homelessness, including chronic homelessness
+- decriminalizing alcohol and drug use, and instituting harm reduction policies and practices, including access to safe injection and non-coercive addiction recovery programs
+- reducing and ultimately ending funding for diversion programs like drug courts that still serve as revolving doors for jail and prison without providing any feasible alternative to incarceration
+- funding social services for people in and leaving prison, especially people with disabilities such as autistic people, deaf people, and people with traumatic brain injuries
+- reducing reliance on institutional treatment in psychiatric wards (which often function as an extension of mass incarceration) by expanding and appropriately funding trauma-informed, culturally responsive, community-based mental health resources, including peer support services and peer-led crisis intervention teams and respite programs
+- Advocate for gun regulations that promote public safety without scapegoating people with mental illnesses or disproportionately impacting Black and Brown people – who are already overpoliced and surveilled, including
+- focusing on root causes of and documented risk factors for gun violence – like hateful extremism and domestic violence
+- preserving strong safe storage requirements and liability for neglectful or reckless disregard of those safe storage requirements (for instance if a child accesses a firearm and is injured)
+- ensuring that otherwise qualified people shall receive their firearms possession and carry licenses, with requirements that mirror the knowledge and skills-based tests required for driver’s licenses and vehicle registration, including liability for penalties, suspension, and revocation
+- creating voluntary temporary firearms surrender programs for people experiencing crisis
+- enabling the judicial power to order confiscation of a person’s firearms based on conduct, such as domestic violence complaints or hate crimes – but not based on mere suspicion, profiling, or mental health status
+- opposing use of background checks that rely on adult or juvenile criminal history (which results in amplifying disproportionate impacts of mass incarceration on communities of color and other marginalized communities) or include information about mental illnesses or disabilities, such as Social Security beneficiary information or mental health treatment records
+- Protect our environment and the Chesapeake Bay, including by
+- investing in renewable energy
+- supporting local farms
+- incentivizing farmers and agricultural businesses to adopt sustainable farming practices that reduce fertilizer runoff
+- ensuring fisheries are protected and the most up-to-date, scientifically backed fishing practices are implemented and used to help the ecosystem and sustain Maryland’s fishing industry
+- creating jobs in renewable energy and sustainable resources practices
+- Advocate for real access to health care, including
+- defending all people’s reproductive rights – rights against forced sterilization, rights to decide whether and how to get pregnant and have children, and rights to access safe, legal, and affordable abortion care and birth control
+- advocating for expanded Medicare and Medicaid for all, which includes access to long-term supports and services and home- and community-based services funding for people with disabilities and elderly people
+- ensuring that queer, trans, and LGBTQIA people can receive health care without discrimination by insurance companies or medical providers, including access to gender-affirming care
+- allocating state funds to create an ombudsman program to help public health insurance program participants understand their benefits and receive guidance navigating them
+- Collaborate with local leaders and community advocates to design policies that protect all people’s dignity and civil rights and that work for our communities, build opportunity, and improve everyday quality of life, including by
+- honoring Maryland’s treaty obligations with the Piscataway Conoy Tribe, the Piscataway Indian Nation, and the Accohannock Tribe
+- expanding broadband infrastructure to ensure everyone has access to reliable, high-speed internet
+- supporting and advocating for passage of the Transgender Respect, Agency, and Dignity Act, which would prohibit discrimination against incarcerated people who are transgender, nonbinary, or intersex, and require jails and prisons to develop written nondiscrimination policies
+- building accessible, safe, and sustainable public transit options that benefit everyone, in collaboration with directly impacted communities
+- supporting and advocating for passage of the gender-inclusive single occupancy bathrooms bill, which would require places of public accommodation to post signage showing that any single-occupancy bathroom is available for people of all genders
+- supporting and advocating for passage of the birth certificate modernization bill, which would allow people to correct their birth certificates by self-selecting their own gender markers without requiring costly doctors’ letters, and would permit use of the “x” gender marker

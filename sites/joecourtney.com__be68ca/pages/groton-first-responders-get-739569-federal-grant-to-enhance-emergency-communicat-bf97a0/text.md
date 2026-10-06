@@ -1,0 +1,14 @@
+Congressman Joe Courtney announced the Federal Emergency Management Agency has awarded over $730,000 for first responders in the City of Groton.
+The funding will be used to allow local first responders to coordinate directly with state agencies, enhancing efficiency and safety.
+Groton ― U.S.
+Rep.
+Joe Courtney (D-Second District) announced Friday that the Federal Emergency Management Agency has awarded a $739,569 grant to the City of Groton that will allow first responders throughout town to integrate with the statewide emergency communications system.
+The system allows local first responders to communicate directly with state agencies as well as fire and police departments in surrounding towns, enhancing efficiency and safety.
+The federal grant will fund the purchase of upgraded communications equipment for the City of Groton, the Center Groton Fire District, the Groton Long Point Fire Association, the Mystic Fire District, the Noank Fire District, the Old Mystic Fire Department, the Poquonnock Bridge Fire District, the Mystic River Ambulance Association and the Groton Ambulance Association.
+The grant, which comes from FEMA’s Assistance to Firefighters Grants program is the largest AFG award in eastern Connecticut since 2001.
+In announcing the grant, Courtney called it “a huge step forward because it’s going to let our firefighters in Groton sync-up with the enhanced statewide emergency communications system.”
+“That sort of upgrade is going to make their jobs easier, it’s going to make their work faster and more efficient, and that’s going to result in safer communities for all of us—it’s a smart, targeted investment.
+I want to congratulate our local fire districts, and especially (Groton City Fire) Chief (Robert) Tompkins and Deputy Chief Ted Sargent of the City of Groton Fire Department, for their diligent work in earning this highly competitive federal funding,” Courtney said in the announcement.
+“The importance of communications cannot be understated,” said Chief Jeffrey Post of the Center Groton Fire Department.
+“During emergencies, accurate and timely information needs to be relayed, and this new radio system will enhance the coverage and efficiency of the speed and accuracy of that information.
+Special thanks to Deputy Chief Ted Sargent for his diligence on this project.”

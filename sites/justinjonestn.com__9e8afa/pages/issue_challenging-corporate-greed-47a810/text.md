@@ -1,0 +1,9 @@
+Challenging Corporate Greed
+Justin has been a relentless fighter against a system that rewards corporate greed, especially as Tennessee Republicans passed the largest corporate tax cut in state history, giving over $1.3 billion away to mega corporations, most of whom are located out of the state.
+This comes as Tennessee has one of the most regressive tax structures in the country, relying mostly on sales taxes that disproportionately tax the poor, and do nothing to stop corporate greed that is driving inflation.
+While wages have remained largely stagnant despite soaring corporate profits, Tennessee Republicans have passed laws preempting local governments from increasing the minimum wage, and preventing fair pay for fair work.
+Instead, Republicans continue to empower corporations by attacking unions and giving away millions of taxpayer dollars for corporate subsidies.
+These policies do nothing to help lift Tennessee families out of poverty or help working people invest in retirement.
+Despite the Republican supermajority cheerleading for corporate CEOs and the ultra-wealthy, Justin has introduced bills taking on: Wall Street and their manipulation of the housing market with the “End Hedge Fund Control of Tennessee Homes Act,”, utility monopolies and their ability to shut off heating during extreme weather events, and abhorrent disparities between CEO and worker pay with the “CEO Pay Disparity Act.” Justin has also challenged Wall Street speculation and tax avoidance through the “Tennessee Tax on Wall Street.”
+Furthermore, Justin spoke up against the immoral budget that made little investment in vital social services, instead giving billions of dollars away in corporate hand-outs.
+Justin also challenged laws that reduced regulations around corporate pollution, and loosened safety regulations for builders looking to save money at the expense of people’s lives.

@@ -1,0 +1,37 @@
+The Future of America’s International Maritime Dominance Begins in Texas
+Polar icebreaker vessels built by Texans on the Texas Gulf Coast will be deployed to defend American sovereignty in the fastest-growing strategic theater on earth: the Arctic circle.
+“A Texan shipbuilder is truly a force to be reckoned with.” That was Inocea Group’s...
+DA Garza Gives Easy Pleas to Career Criminals
+Miranda Lopez had a heart for family, the poor, and the homeless.
+At H-E-B, where she worked, she noticed when elderly shoppers couldn’t afford their groceries, and she stepped in to pay their bills with her own money.
+She was reprimanded, but it did not stop...
+Governor Abbott: Texas Jobs for Texans First
+Governor Greg Abbott has made clear in no uncertain terms that the economy of Texas should work for the benefit of Texas workers first, not H-1B workers with temporary residence in the state.
+Texas’ growing economy is powering the future through unrivaled innovation...
+From California to Texas — Companies Stop Dreamin’ and Start Livin’
+Since 2020, more than 100 companies have relocated to Texas.
+A whopping 40 percent of them are fleeing California.
+And of the ten Fortune 500 companies that have moved to Texas in the last six years, eight of them are from our rival in the West.
+These California...
+Texas is America’s Energy Capital
+The first U.S. oil refinery in almost 50 years is opening in Brownsville, Texas, proving that Texas will continue to power the world.
+Thanks to the new plant, $125 billion of U.S. light shale oil will be purchased and processed, $175 billion worth of oil will be...
+Governor Abbott: Power to the Texas Taxpayer
+Governor Greg Abbott wants to empower taxpayers.
+Working alongside Americans for Prosperity Texas (AFP-TX), state leaders, and a coalition of local elected officials, Governor Abbott is making it his mission to overhaul the property tax system, promote overdue...
+Anita’s Story – Activist DA Pursues Exoneration for Convicted Murderer
+Kristina Byington’s cousin, Anita, was brutally murdered in Austin, Texas on the night of August 11, 1991.
+One of the convicted murderers who allegedly beat her to death, Allen Andre Causey, quickly confessed to the crime and was sentenced to 50 years in prison.
+The...
+Jaydan Martinez is the Son of Texas – and he is forging a future for Texas’ foster youth
+“I am not an orphan.
+I am not a ward.
+I am not a statistic.
+I am a Son of the State.
+I am someone who belongs and deserves a good future and a fighting chance – just as the great leaders who founded Texas.” For 19-year-old Jaydan Martinez, the State of Texas is much...
+It’s Primary Election Day: Know Your Candidates, Head to the Polls – and Keep Texas Red!
+Today is the primary election in Texas – arriving just one day after Texas Independence Day – and the best way to show your Texas pride is to head to your closest polling location to cast your vote before polls close at 7PM.
+Commonsense candidates matter to all of us....
+“Let’s Roll”: Governor Abbott’s Get Out the Vote Tour Caps Off Week One
+Governor Greg Abbott rolled across Texas last week, launching his statewide "Let's Roll" Get Out the Vote Tour ahead of the March 2026 Republican primary.
+From the woods of East Texas to the Houston suburbs, the Governor brought his message directly to Texans, and the...

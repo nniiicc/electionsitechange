@@ -1,0 +1,19 @@
+A month after state regulators ordered Commonwealth Edison to pay $38 million in refunds due to the scandal tied to ex-House Speaker Michael Madigan, the Illinois attorney general wants consumers to get a little more.
+Illinois Attorney General Kwame Raoul on Tuesday said ComEd used “accounting tricks” that cost consumers millions of dollars when the company separately paid a $200 million fine tied to the federal court case in the scandal, and now the attorney general is seeking bigger refunds.
+Raoul took the positions as he asked the Illinois Commerce Commission to reconsider an August order that called for ComEd to pay $38 million in refunds to consumers — an amount that would mean about $5 more for the typical electricity user.
+Raoul, working with Mayor Lori Lightfoot and the consumer watchdog group Citizens Utility Board, said the ComEd accounting technique allowed the company to already collect an extra $7 million from customers and potentially millions more annually.
+“ComEd should not be allowed to profit from its wrongdoing by using accounting tricks to collect more money,” Raoul said in a statement.
+“The ICC should not allow ComEd to shift the impact of its … fine to customers by charging them millions of dollars every year.”
+ComEd disagreed with the analysis, citing how the ICC had agreed with the $38 million refund.
+A ComEd spokesman said the company had met its obligations.
+In July 2020, ComEd acknowledged it hired Madigan cronies into little-work jobs, gave internships to a bevy of college kids from his 13th Ward empire and installed a person Madigan recommended on its board of directors — all in hopes that the speaker of the House would look favorably on the utility’s legislative agenda.
+Madigan, a Chicago Democrat, was indicted in March on 22 counts of bribery-related and racketeering counts and has pleaded not guilty.
+ComEd entered into a deferred prosecution agreement with federal prosecutors and promised to pay a record $200 million fine.
+The company agreed to cooperate in the ongoing investigation and, if satisfied, prosecutors would drop a bribery charge.
+To pay ComEd’s $200 million fine, Raoul said, the utility received a contribution from its parent company, Exelon Corp., causing an equity infusion that gives ComEd a permanent boost.
+Abe Scarr, who heads Illinois PIRG, a public interest research group, said the additional money for consumers would not amount to a major windfall for individuals, but the “principle is important.”
+“ComEd used clever accounting to boost its profits off of paying its federal criminal penalty,” Scarr said.
+The move also increased ComEd’s overall profit rate, Scarr said.
+Though similar arguments were used in previous ICC hearings, regulators rejected them.
+Lightfoot said in a statement the push for a rehearing is an “important step to ensure that Chicago customers are protected after these events that damaged the public trust.”
+Paul Elsberg, a top ComEd spokesman, said the contributions Exelon made to fund ComEd’s payment of the criminal fine “were not paid for by customers and had no impact on their rates.”

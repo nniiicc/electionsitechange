@@ -1,0 +1,136 @@
+press release
+May 14, 2026
+Governor Lamont announces endorsements from 93 state lawmakers
+Support highlights collaboration between Governor Lamont and lawmakers on addressing affordability, education investments, and turning Connecticut around
+Hartford, Conn. – Ned Lamont today announced another round of endorsements from state lawmakers, with 93 State Senators and State Representatives who are backing his reelection.
+This wave of support follows a successful legislative session where Governor Lamont and Democrats collaborated on passing a bold agenda to make Connecticut more affordable for middle class families and small businesses, while making historic investments in education and local communities.
+“Connecticut is a state on the move and by working hand-in-hand with the General Assembly, we’ve delivered the largest income tax cut in our history, transformed our fiscal health, and made record investments in our schools,” said Governor Ned Lamont.
+“Together with the legislature, we have not only made record investments in our schools and our middle class, but we’ve stood up against the instability in Washington.
+When federal cuts threatened our progress, we acted decisively to protect our families and preserve the services they rely on.
+We are lifting up our towns and cities and proving that responsible, compassionate governing works and together we are building a Connecticut that welcomes and works for everyone.”
+“Governor Lamont has signed into law some of the most significant expansions of workers’ rights and economic security in Connecticut’s history,” said Senate President Martin Looney.
+“During his eight years, Connecticut transformed the minimum wage, implemented a paid family and medical leave program that has already helped tens of thousands of workers, and strengthened workplace protections that reflect the dignity every working person deserves.
+These were not inevitable outcomes — they required a governor willing to stand with working families and sign legislation that made a real and lasting difference in people’s lives.
+While the General Assembly and the Governor’s office have not always agreed on every priority, I have consistently found Governor Lamont to be a partner who takes the obligations of his office seriously and who understands that the measure of a state’s progress is felt most clearly by its working people.
+Connecticut’s workers are better protected and more economically secure today than they were eight years ago, and I am proud to support his reelection.”
+“In Connecticut, we’ve traded political gridlock for real results,” said Speaker Matt Ritter.
+“Working alongside Governor Lamont, we’ve prioritized the issues that matter most to middle-class families: lowering costs, strengthening our schools, and protecting our most vulnerable.
+While other places struggle with instability, we are showing the country how a unified government can actually get things done.
+We have the momentum, the vision, and the record of success to keep moving Connecticut forward.
+I’m proud to back the Governor as we continue this work together.”
+“Governor Lamont and the Democratic legislature get things done, and the results are right in front of you,” said Senate Majority Leader Bob Duff.
+“New housing is going up, roads are getting fixed, and schools are being built.
+While the Trump regime in Washington is tearing things down, Connecticut is building.
+I’m proud to stand with Governor Lamont and make sure that work continues with him and Democrats at the State Capitol.”
+“Governor Lamont understands that addressing affordability requires sustained focus and a willingness to keep pushing for progress,” says House Majority Leader Jason Rojas.
+“Over the last several years, we’ve made meaningful strides on issues like housing, where we worked to advance landmark legislation that helps our towns grow thoughtfully while beginning to address our state’s housing shortage.
+While there is still more work to do, I appreciate the Governor’s steady leadership and his commitment to continuing to move Connecticut forward.”
+As Governor, Ned Lamont has focused on making Connecticut a leader in opportunity, affordability, and progress.
+By pairing fiscal discipline with a deep commitment to working families, he has built a state that is welcoming and full of potential.
+Governor Lamont has a proven track record of delivering results.
+In partnership with the General Assembly, he has enacted a transformative agenda that includes signing Paid Family and Medical Leave, raising the minimum wage, and making historic investments in childcare and education, all while cutting taxes and reducing state debt.
+This year, that momentum continued with an additional $170 million for education and a $300 million childcare endowment.
+He also took decisive action to protect residents from federal overreach, passed first-in-the-nation AI regulations, and stood firm in defending constitutional rights.
+Legislators backing him include:
+State Senators:
+- Senate President Pro Tempore Martin Looney
+- Senate Majority Leader Bob Duff
+- SD 1 — John Fonfara
+- SD 4 — MD Rahman
+- SD 5 — Derek Slap
+- SD 6 — Rick Lopes
+- SD 8 — Paul Honig
+- SD 9 — Matt Lesser
+- SD 12 — Christine Cohen
+- SD 13 — Jan Hochadel
+- SD 14 — James Maroney
+- SD 15 — Joan Hartley
+- SD 17 — Jorge Cabrera
+- SD 19 — Cathy Osten
+- SD 20 — Martha Marx
+- SD 22 — Sujata Gadkar-Wilcox
+- SD 23 — Herron Gaston
+- SD 24 — Julie Kushner
+- SD 26 — Ceci Maher
+- SD 27 — Pat Billie Miller
+- SD 29 — Mae Flexer
+- SD 33 — Norm Needleman
+State Representatives:
+- Speaker Matt Ritter
+- House Majority Leader Jason Rojas
+- HD 4 — Julio Concepción
+- HD 5 — Maryam Khan
+- HD 6 — Jimmy Sanchez
+- HD 10 — Henry Genga
+- HD 15 — Bobby Gibson
+- HD 16 — Melissa Osborne
+- HD 19 — Tammy Exum
+- HD 21 — Mike Demicco
+- HD 24 — Manny Sanchez
+- HD 25 — Iris Sanchez
+- HD-26 — David DeFronzo
+- HD 27 — Gary Turco
+- HD 28 — Amy Morrin Bello
+- HD 29 — Kerry Wood
+- HD-31 — Jill Barry
+- HD 39 — Anthony Nolan
+- HD 40 — Dan Gaiewski
+- HD 41 — Aundre Bumgardner
+- HD 42 — Savet Constantine
+- HD 46 — Derell Wilson
+- HD 49 — Susan Johnson
+- HD 50 — Pat Boyd
+- HD 54 — Greg Haddad
+- HD 57 — Jaime Foster
+- HD 58 — John Santanella
+- HD 60 — Jane Garibay
+- HD 64 — Maria Horn
+- HD 72 — Larry Butler
+- HD 73 — Ron Napoli Jr.
+- HD 74 — Mike DiGiovancarlo
+- HD 75 — Gerry Reyes
+- HD-79 — Mary Fortier
+- HD 82 — Michael Quinn
+- HD 83 — Jack Fazzino
+- HD 84 — Hilda Santiago
+- HD 85 — Mary Mushinsky
+- HD 93 — Toni Walker
+- HD 100 -– Kai Belton
+- HD 101 — John-Michael Parker
+- HD 102 — Robin Comey
+- HD 104 — Kara Rochelle
+- HD 109 — Farley Santos
+- HD 110 — Bob Godfrey
+- HD 115 — William Heffernan
+- HD 116 — Trenee McGee
+- HD 117 — MJ Shannon
+- HD 118 — Frank Smith
+- HD 120 — Kaitlyn Shake
+- HD 121 — Joe Gresko
+- HD 126 — Fred Gee Jr
+- HD 127 — Marcus Brown
+- HD 128 — Chris Rosario
+- HD 130 — Antonio Felipe
+- HD 132 — Jenn Leeper
+- HD 133 — Cristin McCarthy Vahey
+- HD 134 — Sarah Keitt
+- HD 136 — Jonathan Steinberg
+- HD 137 — Kadeem Roberts
+- HD 138 — Kenneth Gucker
+- HD 139 — Larry Pemberton
+- HD 142 — Lucy Dathan
+- HD 143 — Dominique Johnson
+- HD 144 — Hubert Delany
+- HD 145 — Corey Paris
+- HD 146 — Eilish Collins Main
+- HD 147 — Matt Blumenthal
+- HD 148 — Jonathan Jacobson
+- HD 150 — Stephen Meskers
+- HD 151 — Hector Arzeno
+These legislators join a growing list of endorsements, including U.S.
+Sens.
+Richard Blumenthal and Chris Murphy, and U.S.
+Reps.
+John Larson, Joe Courtney, Rosa DeLauro, Jim Himes and Jahana Hayes, Comptroller Sean Scanlon, Treasurer Erick Russell, Attorney General William Tong, 86 Democratic Town Committee Chairs, more than 50 municipal leaders across the state, 44 Democratic State Central Committee members, the Teamsters Union, Unite Here Local 217, the Connecticut District Laborers’ Council, and the Connecticut Carpenters Union.
+The campaign will continue to roll out additional endorsements in the coming days.
+###

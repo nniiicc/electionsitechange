@@ -1,0 +1,51 @@
+Home
+About
+POLICY VISION
+NEWSROOM
+GET INVOLVED
+More
+Home
+About
+POLICY VISION
+NEWSROOM
+GET INVOLVED
+Donate
+Home
+About
+POLICY VISION
+NEWSROOM
+GET INVOLVED
+Donate
+Press Releases
+2026.05.29 Press Release - Response to Jam on Walnut Cancellation
+(pdf)
+Download
+2026.04.26 Press Release - Response to Attack at Correspondents' Dinner
+(pdf)
+Download
+2023.09.08 Press Release - James Hayes Response to Summer Lee Re-Election Announcement
+(pdf)
+Download
+2023.05.26 Press Release - James Hayes Response to HALT Fentanyl Act
+(pdf)
+Download
+Press Release - James Hayes Candidacy Announcement
+(pdf)
+Download
+In the news
+(10/25/2024) TribLive | Lee, Hayes have different priorities for Pennsylvania's 12th District
+(09/27/2024) WPXI | Republican James Hayes announces campaign for spot in the House
+(04/28/2023) Pittsburgh Jewish Chronicle | Republican vying for Rep.
+Lee’s seat blasts her ‘no’ vote on Israel resolution
+(04/19/2023) Politics PA | PA-12: Hayes Announces Candidacy For Congress
+(04/17/2023) KDKA | Republican opponent to Congresswoman Summer Lee will announce this week
+Thoughts from the campaign
+Copyright © 2026 James Hayes for Congress - All Rights Reserved.
+Powered by
+Home
+About
+VIDEO: WHY I'M RUNNING
+POLICY VISION
+NEWSROOM
+GET INVOLVED
+DONATE

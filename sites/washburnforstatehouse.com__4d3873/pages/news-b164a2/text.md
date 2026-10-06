@@ -1,0 +1,33 @@
+NEWS
+Keep up with news from Georgia's 144th House District
+Week 12 Legislative Session Recap 2026
+The House reconvened at the State Capitol on Tuesday, March 31, 2026, for the final week of the legislative session.
+We met on Tuesday and Thursday to complete our work, with committees also wrapping up remaining legislation.
+Late nights on the House floor marked the...
+Week 11 Legislative Session Recap 2026
+My fellow House members and I reconvened at the Gold Dome on Monday, March 23, marking Legislative Day 36 of the 2026 legislative session.
+It proved to be a full and productive stretch, featuring three legislative days alongside two committee workdays as we continued...
+Week 10 Legislative Session Recap 2026
+The Georgia House of Representatives reconvened on Monday, March 16, for Legislative Day 32 and the start of the 10th week of the 2026 legislative session.
+Following Monday’s legislative day, House committees met for a productive committee workday on Tuesday to review...
+Week 9 Legislative Session Recap 2026
+On Monday, March 9, 2026, the House returned to the Gold Dome following a long legislative day on Friday that stretched into the early hours of Saturday morning.
+By the end of the week, the Georgia General Assembly reached Legislative Day 31, meaning that only nine...
+Week 8 Legislative Session Recap 2026
+My colleagues and I returned to the Georgia State Capitol on Monday, March 2, for the busiest stretch of the 2026 legislative session so far, leading up to Legislative Day 28, Crossover Day, the key deadline for bills and resolutions to pass out of their originating...
+Week 7 Legislative Session Recap 2026
+On Monday, February 23, 2026, my House colleagues and I returned to the State Capitol for the seventh week of the legislative session.
+We began with our first committee workday, spending long hours reviewing and advancing legislation for placement on a Rules Calendar...
+Week 6 Legislative Session Recap 2026
+The Georgia House of Representatives reconvened on Tuesday, February 17, 2026, to begin the sixth week of the legislative session following the President’s Day holiday.
+This week marked an important milestone in our work under the Gold Dome.
+By the end of the week, we...
+Week 5 Legislative Session Recap 2026
+On Monday, February 9, we returned to the State Capitol to kick off the fifth week of the legislative session.
+We passed and adopted a total of 23 bills and resolutions.
+As the legislative session continues, our days on the House floor will get busier and longer as we...
+Week 4 Legislative Session Recap 2026
+The Georgia House of Representatives returned to the Gold Dome on Monday, February 2, 2026, for Legislative Day 10 as the General Assembly entered a busy fourth week of legislative activity.
+Now more than a quarter of the way through the session, momentum continues to...
+Week 3 Legislative Session Recap 2026
+Following “budget week,” the Georgia House of Representatives began the third week of the 2026 legislative session on Monday, January 26, with a pro forma session due to Governor Brian Kemp’s State of Emergency declaration after Winter Storm Fern swept across much of...

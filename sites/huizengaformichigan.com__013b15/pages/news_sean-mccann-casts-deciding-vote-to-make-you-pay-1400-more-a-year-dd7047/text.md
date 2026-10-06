@@ -1,0 +1,8 @@
+HOLLAND, MI. – This week, Senator Sean McCann cast the deciding vote to kill tax relief that would have put $1,400 back in families’ pockets.
+As Southwest Michigan families continue struggling under soaring prices for gas, groceries and housing, Sean McCann cast the tie breaking vote to keep your bills sky high by voting against:
+- $900 a year in property tax relief, by stopping elimination of the SET tax
+- $500 a year in utility rate cuts, by voting against returning $1 billion from electric companies that have hiked your rates
+- $2,250 in closing costs savings, by blocking repeal of the real estate transfer tax and making it harder for families to buy their first home
+- Protection from tax hikes, by voting to keep “pop up” tax that punishes new homeowners
+“Every time families open a utility bill or a young couple finds it impossible to buy their first home, they have Sean McCann’s deciding vote to thank for it,” said Huizenga campaign spokesman Calvin Moore.
+“Sean McCann had the opportunity to put $1,400 a year back in the pocket of hard-working Michigan families and instead choose to keep taxes, utility bills and the cost of homeownership sky high.”

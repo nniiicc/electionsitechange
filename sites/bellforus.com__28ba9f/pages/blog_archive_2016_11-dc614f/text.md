@@ -1,0 +1,6 @@
+Dear Obamas
+Dear President Barack Obama and First Lady Michelle Obama, We write you this letter to express our deepest gratitude.
+We are so thankful...
+Alfred Dixon the Councilman
+November 14, 2016, Alfred Dixon of Jonesboro, Georgia was sworn in as the youngest council member of the city of Joneboro.
+This is a...

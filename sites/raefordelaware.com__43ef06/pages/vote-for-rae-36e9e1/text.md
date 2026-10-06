@@ -1,0 +1,36 @@
+How to Vote for Rae
+- Absentee Ballot (If you can’t make it to a polling location)
+- Early Voting (If you want to avoid the rush on Primary Election Day)
+- Election Day Voting
+When to Vote
+Early Voting
+- October 22 - October 24, 7 am – 7 pm
+- No Early Voting October 25
+- October 26 - October 27, 7 am – 7 pm
+- October 28 - November 1, 11 am – 7 pm
+Election Day Voting
+Tuesday November 3, 2026
+7 AM - 8PM
+Where to Vote
+Early Voting
+Early voting locations closest to the 6th district:
+- Wilmington PAL, 3707 N Market St, Wilmington, DE 19802
+- Claymont Community Center, 3301 Green St, Claymont, DE 19703
+For other locations, visit here.
+Election Day Voting
+Click here to find your Polling Location
+New Castle County District 6
+All Polling Locations
+- Mt.
+Pleasant High School - 5201 Washington St Ext, Wilmington, De 19809
+- Lombardy Elementary School - 412 Foulk Rd, Wilmington, De 19803
+- New Life Christian Center - 400 Hillcrest Ave, Wilmington, De 19809
+- Mt Pleasant Elementary School - 500 Duncan Rd, Wilmington, De 19809
+- Mary Campbell Center - 4641 Weldin Rd, Wilmington, De 19803
+- Brandywine Hundred Fire Co #11 - 1006 Brandywine Blvd, Wilmington, De 19809
+- Carrcroft Elementary School - 503 Crest Rd, Wilmington, De 19803
+- Brandywine High School - 1400 Foulk Rd, Wilmington, De 19803
+- Lutheran Church Of The Good Shepherd - 1530 Foulk Rd, Wilmington, De 19803
+- Emmanuel Presbyterian Church - 1006 Wilson Rd, Wilmington, De 19803
+- Department Of Labor - 4425 N Market St, Wilmington, De 19802
+- The Park View - 1800 N Broom St, Wilmington, De 19802

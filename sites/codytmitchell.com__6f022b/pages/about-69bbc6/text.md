@@ -1,0 +1,27 @@
+Meet Cody
+Service.
+Leadership.
+South Carolina Roots.
+Cody T.
+Mitchell is a lifelong South Carolinian, attorney, military officer, businessman, and husband who proudly represents House District 65, serving portions of Chesterfield, Darlington, Kershaw, and Lancaster counties.
+Raised in Bethune, Cody learned early the importance of faith, family, hard work, and service to others.
+After graduating from North Central High School, he attended Presbyterian College and later earned his law degree from the University of South Carolina School of Law in 2011.
+While at USC Law, Cody distinguished himself as a member of the Moot Court and Order of Barristers, served as Captain of the ABA National Moot Court team, and served as Vice President of the Student Bar Association.
+A Career of Service
+Cody built his legal career in civil practice while also serving communities across the region as a municipal court judgefor the towns of Bethune, Jefferson, and McBee and the cities of Bishopville and Hartsville.
+His commitment to service also extends to the military.
+Cody served as a Major and military prosecutor in the South Carolina Army National Guard, earning numerous military honors, including the Army Commendation Medal, Army Achievement Medal, Military Outstanding Volunteer Service Medal, and Army Parachutist Badge.
+Cody's professional accomplishments have also earned recognition from both of his alma maters.
+He was named the 2016 Presbyterian College Outstanding Young Alumnus and received the 2017 University of South Carolina School of Law Compleat Lawyer Award.
+Serving District 65
+Today, Cody brings his legal, military, and community experience to the South Carolina House of Representatives.
+He serves on the House Judiciary Committee and House Rules Committee, where he works on legislation involving South Carolina's laws, courts, constitutional issues, and the operation of the House.
+In Columbia, Cody remains focused on lowering taxes, improving roads and infrastructure, creating economic opportunity, protecting constitutional rights, supporting law enforcement, and ensuring rural South Carolina has a strong voice in state government.
+Community & Family
+Cody's commitment to service extends well beyond the State House.
+He serves as a board member and volunteer legal counsel for Darlington County Habitat for Humanity and South Carolina Lions Vision Services, as well as a board member for Sandhills Medical Foundation.
+He also serves on the staff of the American Legion's annual Palmetto Boys State and as Judge Advocate for the American Legion Department of South Carolina.
+Cody has previously served as President of the Bethune Lions Club and remains active in several civic and community organizations throughout the region.
+Cody and his wife, Amanda, are proud to call South Carolina home.
+He is a member of Harmony Baptist Church and remains deeply connected to the communities he represents.
+Whether serving his country, practicing law, volunteering in his community, or representing District 65 at the State House, Cody approaches each role with the same belief: public service is about showing up, listening, and putting the people you serve first.

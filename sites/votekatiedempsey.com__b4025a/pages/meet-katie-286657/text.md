@@ -1,0 +1,25 @@
+BIOGRAPHY
+Katie Dempsey was elected in November 2006 to represent Georgia House District 13, which includes the city of Rome and additional precincts in Floyd County.
+Over the last eight years, Katie has taken on a number of leadership roles, including currently serving as Chairman of the Appropriations Human Resources Sub-Committee, as well as Co-Chairman of the House & Senate Joint Study Committee on Violence Against Healthcare Workers.
+Katie also serves on the Rules Committee, the Economic Development & Tourism Committee; the Energy, Utilities & Telecommunications Committee; the Health and Human Services Committee and the Higher Education Committee.
+In 2011, Katie served as Chief Deputy Whip of the House.
+In addition to her House leadership positions, Katie serves by appointment of the Speaker of the House on the Coosa North Georgia Water Planning Council, the Department of Behavioral Health & Developmental Disabilities Coordinating Council, and the Recreational Authorities Overview Committee.
+Further, Katie serves by appointment of the Governor as a member of the First Lady’s Children’s Cabinet, as well as on the Governor’s Office for Children and Families Advisory Board.
+Previously, Katie co-chaired the House & Senate Joint Study Committee on Mental Health Access, served on the Special House & Senate Joint Committee on Immigration Reform, the House Study Committee for Pain Management, and the House Study Committee on Hospital Tax & Indigent Care.
+She is a graduate of the Georgia Legislative Leadership Institute, the Emerging Political Leaders Program at Darden School of Business, and the Coverdell Leadership Institute.
+Katie also works with regional and national leadership organizations, serving on the Southern Legislative Conference’s Economic Development Committee and the Transportation & Cultural Affairs Committee.
+In addition, she serves on the National Conference of State Legislators’ Education Committee, and was selected by the NCSL to be an Early Learning Fellow.
+Prior to her service in the State House, Katie served on the Rome City Commission in a number of capacities, including Chairman of the Community Development Committee.
+From her position on the City Commission, Katie gained statewide notoriety for her leadership on municipal issues.
+She served as statewide co-chair of the Joint Workgroup on Economic Development for the Georgia Municipal Association, the Association of County Commissioners of Georgia, and the Georgia Economic Developers Association, and was an active member in the National League of Cities.
+She was also appointed to the Governor’s Task Force on Local Transportation, helping improve roadways in Rome and around the state.
+Katie’s elected service is only part of the way she has served her community.
+Katie serves on the boards of numerous organizations, including the Exchange Club Family Resource Center Advisory Board, the Rome Symphony Orchestra, the Rome Floyd County Commission on Children & Youth, as a trustee of the Floyd Medical Center, an active member in the Greater Rome Chamber of Commerce, sustaining member of the Rome Junior Service League, and an alumna of Leadership Rome.
+She is an active member of First United Methodist Church of Rome and a member of the Northwest Georgia Emmaus Community.
+In 1990, Katie was named Child Advocate of the Year by the Rome Floyd County Commission on Children & Youth.
+In 1995, Katie was named a recipient of the Heart of the Community Award.
+In 2003, the Exchange Club Family Resource Center named its community volunteer award after her and made her the first recipient of the Katie Dempsey Star Volunteer Award.
+Katie married Rome native Lynn Dempsey in 1974, and the couple has lived there ever since.
+Following her graduation from the University of Georgia with a degree in Early Childhood Education, Katie owned two successful small businesses in Rome.
+The Dempseys have two children: daughter Corie, and her husband Andrew Swan of Macon, and son Gaines and his wife Amy Dempsey of Rome.
+Katie and Lynn are the proud grandparents of Taylor and Patterson Swan, and Cade, Callie, and Eloise Dempsey.

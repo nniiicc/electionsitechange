@@ -1,0 +1,49 @@
+Toggle navigation
+Skip to content
+Take Our Survey
+News
+Get Involved
+Voting Resources
+About Mike
+Issues
+Donate
+Events
+Contact
+« All Events
+This event has passed.
+Galesburg Office Opening
+August 4, 2022 @ 5:00 pm
+-
+7:00 pm
+Free
+«
+East Moline 4th of July Parade
+Add to calendar
+Google Calendar
+iCalendar
+Outlook 365
+Outlook Live
+Details
+Date:
+August 4, 2022
+Time:
+5:00 pm - 7:00 pm
+Cost:
+Free
+Organizer
+Jake Handley
+Phone
+217.412.7162
+Email
+jake@ilsenatedems.org
+Venue
+261 N Broad St, Galesburg, IL 61401
+261 N Broad St
+Galesburg
+,
+61401
+United States
++ Google Map
+Phone
+309.553.1429
+View Venue Website

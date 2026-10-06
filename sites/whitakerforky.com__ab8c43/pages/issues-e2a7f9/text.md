@@ -1,0 +1,9 @@
+- Protect our Constitutional Rights
+- Fight Back Against Outrageous Utility Costs
+- Stop the Out-of-Control Biden Liberal Agenda from Taking Root in Kentucky
+- Build Up Eastern Kentucky’s Infrastructure, from Roads & Bridges to High-Speed Internet
+- Fight for Lower Taxes on Hardworking Kentuckians
+- Strengthen Parents’ Rights in Education while Supporting Our Dedicated Teachers
+- Stand with Police and First Responders
+- Bring Well-Paying Jobs HERE
+- Make Sure Frankfort Knows the Mountains Matter!

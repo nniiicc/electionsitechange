@@ -1,0 +1,71 @@
+LEGISLATIVE ACHIEVEMENTS
+Public Education
+- Ended the Great Recession-era Budget Stabilization Factor to restore crucial funding for Colorado’s public schools
+- Fought to direct state revenue surpluses to directly invest in local public schools
+- Secured reliable funding to keep healthy school meals free for every public school student
+- Spearheaded major funding to expand child care capacity, raise teacher pay, and build local preschools
+- Increased state special education funding to lower class sizes and deliver individualized student support
+- Established free, confidential mental health screenings and counseling sessions for public school students statewide
+- Created pathways for students to earn college credit for job experience, apprenticeships, and hands-on training
+- Made SAT and ACT test scores optional for public college admissions to expand higher education access
+- Required public school districts to set clear guidelines for student cellphone use during the school day
+- Strengthened school immunization standards based on established medical science
+- Passed legislation providing free menstrual products in K-12 public schools
+- Protected public libraries from book bans based on political ideology or an author’s background
+Environmental Responsibility
+- Codified binding state goals to achieve net-zero carbon emissions by 2050
+- Expanded state tax credits for Coloradans buying electric vehicles, heat pumps, and home geothermal systems
+- Banned toxic PFAS "forever chemicals" in major everyday consumer products
+- Created a dedicated fee on oil and gas production to fund local public transit and state park conservation
+- Phased out single-use plastic bags and banned Styrofoam food containers to reduce landfill waste
+- Tightened safety rules on natural gas lines to detect leaks early and protect neighborhoods
+- Funded state wildlife crossings to reduce highway collisions and keep drivers and animals safe
+- Invested $25 million to expand and protect Colorado’s state parks
+Health Care
+- Created the "Colorado Option" to require insurance companies to offer lower-cost plans with reduced premiums
+- Established a statewide reinsurance program that slashed individual health insurance premiums by an average of 20%
+- Capped out-of-pocket costs for insulin and EpiPens to protect Coloradans from price-gouging on life-saving medications
+- Enforced insurance parity so mental health and addiction care are covered just like physical health care
+- Expanded community-based mental health services to keep individuals with severe mental illness supported and out of the justice system
+- Commissioned a study through the University of Colorado to explore single-payer health coverage options
+Wildfire Preparedness
+- Established a state property insurer of last resort for homeowners losing coverage due to wildfire risks
+- Required home insurance companies to lower rates for homeowners and communities that perform wildfire mitigation
+- Created a $10 million state grant program to fund local wildfire prevention projects
+- Funded state tree nursery expansions to reforest wildfire burn scars and protect mountain watersheds
+- Provided high-risk mountain communities with technical and financial tools to protect homes and infrastructure
+- Funded thorough state investigations into wildland fire causes to improve future prevention efforts
+Affordability
+- Established the Family Affordability Tax Credit, giving low- and middle-income families up to $3,200 per child
+- Expanded the Earned Income Tax Credit by up to $200 million annually for working families making under $65,000
+- Made the Senior Homestead Exemption portable so older Coloradans can downsize without losing tax relief
+- Created an income tax refund of up to $800 for qualifying seniors
+- Delivered targeted tax credits up to $2,400 for child care providers, home nurses, and elder-care workers
+- Cracked down on corporate price gouging on essential goods during state emergencies and natural disasters
+Labor
+- Championed the successful launch of Colorado’s Paid Family and Medical Leave (FAMLI) program
+- Guaranteed earned paid sick leave for all Colorado workers to care for themselves or a sick family member
+- Expanded collective bargaining and organizing rights for tens of thousands of public and county employees statewide
+- Enforced wage transparency in job postings to help close gender and racial pay gaps
+- Fought to eliminate double-election hurdles to make union organizing and collective bargaining fairer for workers
+- Voted for historic legislation granting farmworkers overtime pay, rest breaks, safe working conditions, and organizing rights
+Transportation
+Housing
+- Supported directing hundreds of millions in state funding toward building affordable housing and expanding homeownership access
+- Protected responsible tenants by requiring landlords to have legitimate cause for lease non-renewals and evictions
+- Passed key renter protections, including capping landlord income requirements and banning hidden junk fees
+- Legalized accessory dwelling units ("granny flats") statewide with grants and low-interest loans to boost housing supply
+- Repealed arbitrary local growth limits that restricted new home construction
+Immigration
+- Restricted local agencies and schools from sharing private immigration data and set strict access rules for federal agents in public facilities
+- Authorized health and safety inspections of civil detention centers and updated state law enforcement training
+- Funded community grants that help newly arrived immigrant families secure jobs, enroll kids in school, and integrate smoothly
+- Kept semi-trucks out of the left lane on steep sections of I-70 and expanded chain-law zones to reduce mountain traffic
+- Banned drivers from holding mobile phones while operating a vehicle to reduce distracted driving crashes
+- Funded free statewide bus and train fares during peak summer months to boost ridership and cut air pollution
+- Secured funding mechanisms to move Front Range passenger rail closer to reality
+- Directed state infrastructure grants to build walkable, affordable housing directly around major bus and rail hubs
+Protecting Democracy
+- Passed the Colorado Voting Rights Act to prevent voter suppression and protect ballot access for all eligible voters
+- Enacted election security laws to protect voting equipment from tampering and shield election workers from harassment
+- Protected vote-by-mail ballot delivery, created election emergency safeguards, and simplified voter registration

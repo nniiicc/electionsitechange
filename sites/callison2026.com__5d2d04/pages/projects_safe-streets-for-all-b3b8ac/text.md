@@ -1,0 +1,1 @@
+The Safe Streets and Roads for All grant program is a competitive funding opportunity that local governments can use for planning, demonstration or implementation projects aimed at improving roadway safety and reducing traffic-related fatalities and serious injuries.

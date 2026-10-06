@@ -1,0 +1,48 @@
+West Virginia Veterans For Capito
+“Our veterans and their families have sacrificed so much for our state, our country, and the freedoms we hold dearly.
+I’m honored to receive the support of highly respected veterans from across West Virginia as we launch our Veterans Coalition today and build momentum for our campaign.”
+– U.S.
+Senator Shelley Moore Capito
+Chairs
+- Major General (ret) James Hoyer
+- Major General (ret) Bill Crane
+Coalition Members
+- Brigadier General (ret) Mike Cadle
+- Brigadier General (ret) Paige Hunter
+- Colonel (ret) Johnny Ryan
+- Colonel (ret) Wally Hatfield
+- Former Staff Sergeant Paul Coffy
+- Captain (ret) Kevin Craig
+- Captain (ret) Frank Vitale
+- Commander, United States Navy (ret) Chris Fussell
+- Staff Sergeant (ret) Jared Frederick
+- Former Staff Sergeant, USMC, Jeff Johnson
+- Sergeant First Class (ret) Jared Lemons
+- Major (ret) Brian Gazaway
+- Master Sergeant (ret) Craig Hartzell
+- Command Sergeant Major (ret) Jim Allen
+- Senior Airman (ret) Terry Vance
+- Master Sergeant (ret) Rob Snare
+- Lieutenant (ret) Matt Hartsog
+- Sergeant First Class (ret) Renee Hoffman
+- Staff Sergeant (ret) Andrew Hartsog
+- Former Captain Sam Cava
+- Master Chief Petty Officer (ret) Kevin Jones
+- Former Staff Sergeant Mallory Lind
+- Staff Sergeant (ret) Amy Higgs
+- Gunnery Sergeant (ret) Orville Williamson
+- Aviation Electrician’s Mate Petty Officer 3rd Class (ret) Mark Stricklen
+- Command Sergeant Major (ret) Cindy Todrovich
+- Major (ret) Lillian Warner
+- Former Major Cullen Lind
+- Colonel (ret) Don Lockard
+- Sergeant (ret) Bryant Bowmad
+- Colonel (ret) Wayne Smith
+- Captain (ret) James Estep
+- Major (ret) Rober Luchetti Jr.
+- Former Petty Officer Third Class Natalie Oliverio
+- Former Special Agent, Army Counterintelligence James Dissen
+- Staff Sergeant (ret) Chris Hamrick
+- Senior Airman (ret) Gary Workman
+- Former Specialist Mary Conley
+- Colonel (ret) Yira Muse

@@ -1,0 +1,19 @@
+Public Education
+Building the Schools—and Futures—Our Keiki Deserve
+Our keiki are Hawaiʻi’s future, yet too many still learn in overheated classrooms, aging facilities, and environments where creativity, curiosity, and cultural learning are displaced by hours of standardized testing.
+Teachers who nurture our children’s brilliance are often forced to take on second or third jobs because their salaries do not match Hawaiʻi’s cost of living.
+And across our entire education system—from preschool through higher education—too many students struggle to meet their basic needs.
+As a former public school teacher, Vice Chair of the House Education Committee, and Chair of Higher Education, I have worked to deliver the schools our keiki deserve by expanding rich, culturally grounded curricula; reducing the overreliance on standardized testing; and securing resources for special education, vocational training, and Native Hawaiian cultural programs.
+I have fought to modernize facilities, improve school safety, and strengthen the mental health supports that help keiki learn and thrive.
+But a Hawaiʻi our keiki deserve also means ensuring that every young person — not just those inside traditional classrooms — is safe, supported, and cared for.
+That’s why I have been a strong advocate for reforming Child Welfare Services to improve transparency, accountability, and outcomes for children who are at the highest risk of harm.
+I believe our state has a moral responsibility to protect keiki who have been separated from their families, and to ensure that every placement, service, and decision reflects compassion, stability, cultural connection, and long-term well-being.
+Similarly, my work on juvenile justice reform is grounded in the understanding that our young people deserve healing, opportunity, and dignity — not systems that punish trauma with more trauma.
+I have pushed for approaches rooted in restorative justice, community-based alternatives, educational continuity, and culturally grounded supports that recognize the potential in every child.
+Young people should have pathways to rejoin their communities, continue their education, and build healthy, hopeful futures.
+A Hawaiʻi our keiki deserve must also include strong and accessible higher education.
+I am committed to expanding the Hawaiʻi Promise Program to the four-year UH campuses and making community college fully free, so no young person is denied opportunity because of cost.
+I have pushed for addressing college students’ basic needs — food security, housing, childcare, and mental health — and for stronger campus safety measures, clear reporting structures, and trauma-informed supports.
+From early learning through higher education, from foster care to juvenile justice, I believe in investing in the full lives and futures of Hawaiʻi’s young people.
+That means supporting excellent educators with professional pay, modernizing school facilities, expanding place-based and climate literacy education, and ensuring that every system that touches a child’s life is grounded in aloha, equity, and accountability.
+A strong, fully funded, and compassionate cradle-to-career system is the foundation of a Hawaiʻi our keiki deserve — one where every child and every young adult has the chance to learn, grow, and thrive in the islands they call home.

@@ -1,0 +1,18 @@
+Op-Ed: One year after I changed parties, the Democrats continue to hit new lows.
+One year ago, I sat next to President Trump in the Oval Office and announced that I would be walking away from the Democrat Party and becoming a Republican.
+It was a truly historic decision in that it marked the first time a member of Congress had left the majority party and joined the minority party, yet alone during a Presidential impeachment, but I knew it was the right thing to do.
+It was one of the best decisions I ever made and I haven’t looked back since.
+It had become clear to me that Speaker Pelosi (who I voted against) and an increasingly Radical and Socialist Democrat Party led by AOC and her “Squad” valued the politics of revenge and defeating President Trump more than doing what was right for the American people.
+You see even in 2019 they were still hellbent on undoing the 2016 election and after a sham impeachment that was tearing our country further apart I had enough.
+Sadly, one year later the Democrat Party has become even more Radical and Unhinged.
+In Washington, Speaker Pelosi held up an infrastructure bill and another desperately needed Coronavirus relief package for months simply to avoid giving President Trump anything that could be perceived as a victory prior to the Presidential election.
+In South Jersey, we watched in disbelief as a Kennedy, who ran as an heir to the mantle of JFK, openly embraced efforts to Defund the Police and eliminate the employer provided health insurance that was once a cornerstone of collective bargaining and the American labor movement.
+And just this week, a Radical North Jersey Democrat Leader called on Speaker Pelosi to undo my re-election, even after I received more votes than anyone in the history of our South Jersey district, and expel me from Congress for “insurrection or rebellion” against the United States simply because I had the courage to support President Trump in the fight for election integrity.
+It should come as no surprise that Democrats from Paterson to Trenton are having a total meltdown or that the New Jersey Democratic State Committee just launched a massive new fundraising campaign targeting me in the hopes of rehashing the last election so they can avoid taking responsibility for the irreparable damage Governor Murphy has done to our once great state.
+A few days ago, Governor Murphy literally accused young people of “killing their parents and grandparents” if they don’t listen to his decrees and even the unapologetically Democrat Star Ledger had to admit Murphy’s abject failure in managing the Coronavirus Pandemic saying, “if it were a country, the Garden State would have the highest COVID-19 per capita death toll in the world.”
+Thousands of our friends and neighbors died as a result of the Governor’s decision to pack COVID-19 positive patients into nursing homes while his shutdowns have shuttered one-third of our state’s businesses for good leaving millions struggling to make ends meet and parts of our state shattering the record unemployment rates not seen since the depths of the Great Depression.
+You see even though the Murphy Administration literally has the blood of parents and grandparents on their hands, they are still more concerned about the politics of framing and shaming YOU.
+You deserve better and so do the nine million people who call New Jersey home.
+Congressman Jeff Van Drew represents New Jersey’s 2nd Congressional District in Congress.
+He was re-elected by a 52%-46% margin over Amy Kennedy after withstanding an unprecedented $12 Million assault in a district where Democrats outnumber Republicans by more than 18,000 voters.
+Van Drew is also the first and only Republican ever to defeat a Kennedy at the Federal level.

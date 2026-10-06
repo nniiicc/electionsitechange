@@ -1,0 +1,3 @@
+Water is one of America’s most valuable natural resources, yet agriculture accounts for roughly 80% of the nation’s consumptive water use in many regions.
+As climate change, population growth, and recurring droughts place increasing pressure on water supplies, farmers are searching for innovative ways to produce more food while using fewer resources.
+One of the...

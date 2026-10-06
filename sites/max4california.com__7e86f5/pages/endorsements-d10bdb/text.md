@@ -1,0 +1,26 @@
+Endorsements for Max
+- California Republican Party
+- Carl DeMaio, Chairman of Reform California
+- American Independent Party of California
+- Moms for Liberty
+- Santa Clara County Republican Party (SVGOP)
+- Alameda County Republican Party (ACRP)
+- Sonja Shaw, School Board President, Chino Valley Unified School District
+- William Lam, Milpitas Councilmember
+- Nicole Gribstad, Trustee Board Member of San Jose Unified School District
+- Silicon Valley Association of Conservative Republicans (SVACR)
+- David Johnson, Chairman of SVGOP
+- California Republican Assembly - Silicon Valley
+- Marc Cooper, School Board Trustee of Franklin McKinley School District
+- Ha Trieu, President of United Vietnamese American Community of Northern California
+- Shahrdad Khabir - President of Payam Javan Media (Iranian media company)
+- Brad Imamura, Director of Marina Coast Water District
+- Leslie Jones, President of Tri-Valley Republicans
+- David Lam, Vice Chairman of Alameda County Republican Party
+- Peter Kuo, Former Vice Chairman of CAGOP
+- Gwan Alisantosa, Former Board President of Milpitas Unified School District
+- Deborah Santos Drummond, Former Chair of Milpitas Historical Preservation Board
+- Aziz Choudry, Former President Bay Area Bangladesh Association
+- Anna Cheng Kramer, Former Chairwoman of San Mateo County Republican Party
+- Shane Patrick Connelly, Former Chairman of SVGOP
+- Anita Chen, Ex-Officio Central Committee SVGOP of 17th Congressional District

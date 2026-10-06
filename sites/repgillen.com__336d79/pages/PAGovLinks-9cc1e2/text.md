@@ -1,0 +1,123 @@
+PA Government Links
+Commonwealth of Pennsylvania Web Site
+CHILDREN | FAMILY
+Adoption Exchange
+Adoption Services
+Car Safety Seat Information
+Child Support Guidelines
+Children's Health Insurance Program (CHIP)
+Children with Special Needs
+Foster Care
+Keep Kids Safe Child Line and Abuse Registry
+Keystone Classroom
+Pennsylvania Libraries
+Real Alternatives
+Safe Haven program
+CONSUMER RESOURCES
+Do Not Call List
+Identity Theft/Scam Prevention
+File a Consumer Complaint
+PA Power Switch - Compare Electric and Natural Gas Prices
+PA's Unclaimed Property Database
+Public Utility Commission
+DRIVING IN PENNSYLVANIA
+Drivers License Services
+EZ Pass
+Person With Disability Parking Placard Application
+Motorcycle Safety Program
+PennDOT Forms
+Public Transportation
+Regional PennDOT Information
+511PA
+REAL ID
+Report Potholes Hotline - 1-800-FIX-ROAD
+Vehicle Emissions Testing
+EDUCATION
+College Financial Aid
+PA 529 College Tuition Account Program
+SchoolWatch
+FARMING | FOOD
+PA Department of Agriculture
+PA Milk Marketing Board
+PA Dairy Investment Program
+Fairs in Pennsylvania
+Dog Licensing Information
+HEALTH CARE
+Birth Certificate
+Children's Health Insurance Program (CHIP)
+HealthyWoman Program
+Home Health Care
+Immunization Programs
+Long-Term Care Ombudsman
+Medicare Covered Testing
+Nursing Homes/Long Term Care
+Organ Donation Awareness
+PA Department of Health
+Patient Safety Authority
+PA MEDI
+Quit Smoking Now program
+Women, Infants and Children (WIC)
+JOBS | CAREER SERVICES
+Career Link / JobGateway
+PA Civil Service Job Bank
+PA Career Guide
+MILITARY | VETERANS
+State Veterans' Benefits
+Pennsylvania Military Family Relief Assistance Program (MFRAP)
+Pennsylvania Air National Guard
+Pennsylvania Army National Guard
+Pennsylvania National Guard Associations
+VA Regional Offices in PA
+PENNSYLVANIANS WITH DISABILITIES
+Services for Persons with Disabilities
+Attendant Care/Act 150
+Bureau of Blindness and Visual Services
+Human Services Provider Directory
+Disability Services Employment Resources
+Office of Vocational Rehabilitation
+Office of the Deaf and Hard of Hearing
+SAFETY
+Amber Alert
+ChildLine to Report Suspected Abuse or Neglect
+Clearances and Criminal Record Checks
+Megan’s Law site
+PA Attorney General
+PA Office of Homeland Security
+PA State Police
+SENIOR CITIZENS
+Medicare Plans Patient Resource Center
+Area Agencies on Aging
+Community-Based Long-Term Care
+PACE/PACENET information/forms
+Medicare Information - US Government
+Employment Services for Older Pennsylvanians
+Protective Services
+Senior Law Center
+Services for Senior Citizens
+SOCIAL SERVICES
+Career Link
+Children's Health Insurance Program (CHIP)
+Child Support
+Forms and Publications
+Low Income Heating & Energy Assistance Program (LIHEAP)
+Medical Assistance
+Mental Health & Substance Abuse
+Office of Developmental Programs
+Unemployment Compensation Services
+TOURISM | RECREATION | SPORTSMEN ISSUES
+Visit PA
+PA Historical & Museum Commission
+State Parks
+Explore PA History
+Visit the Pennsylvania Capitol
+PA Fish & Boat Commission
+PA Game Commission
+Hunting and Fishing Licenses
+VOTER SERVICES
+Absentee and Mail-In Ballot Application
+Voter Registration Application
+PA Voter Information
+Identification Card
+Sign Up to Receive Legislative Email Updates
+Keep up-to-date on the latest legislative and community news.
+Your email address will be used strictly for legislative purposes.

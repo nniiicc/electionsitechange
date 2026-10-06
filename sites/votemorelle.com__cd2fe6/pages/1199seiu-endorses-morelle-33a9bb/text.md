@@ -1,0 +1,14 @@
+1199SEIU UNITED HEALTHCARE EAST ENDORSES
+JOE MORELLE FOR CONGRESS
+June 12, 2018 | Press Release
+Rochester, NY – Today, Joe Morelle secured a major endorsement from 1199SEIU United Healthcare East. 1199SEIU represents approximately 250,000 nurses and health care workers in New York and more than 400,000 members nationally.
+Locally, the union also represents employees of the University of Rochester Medical Center and six nursing homes.
+“Joe Morelle has been a champion for working families for his entire career,” said Bruce Popper, Upstate New York Vice President, 1199SEIU.
+“His experience, passion, and strong record of delivering results for Rochester are sorely needed in Washington, and we look forward to working hard to send him there.”
+“I am so grateful to have the support of the dedicated healthcare workers of 1199SEIU who are essential to the well-being of our community,” said Morelle.
+“In Washington, I will continue to stand up for our shared values and fight day in and day out for quality, affordable healthcare and good-paying jobs for every person who calls our nation home.
+Recently, Morelle has stood alongside 1199SEIU in their contract dispute with Jordan Health.
+In addition to joining 1199SEIU on the picket line, Morelle joined with other community leaders to publicly urge Anthony Jordan Health Center to accept the Federal Mediator’s proposal.
+Morelle, who currently serves as a state Assemblymember representing the towns of Brighton, Irondequoit and parts of the city of Rochester, has spent a lifetime in public service working to advance the best interests of his community.
+In the Assembly, Morelle has successfully fought for the passage of legislation to improve access to healthcare for all people, raise the minimum wage in New York State, establish paid family leave to ease the burden on our working families, and increase workforce development training to ensure individuals have the skills and training they need to be successful.
+Morelle has received over 20 endorsements, including every major trade and service union in New York State.

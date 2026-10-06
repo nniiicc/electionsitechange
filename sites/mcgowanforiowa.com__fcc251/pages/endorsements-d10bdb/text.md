@@ -1,0 +1,384 @@
+|
+ENDORSEMENTS
+As a weekly staple of our “McGowan for Iowa” campaign, each Monday, we feature a new endorsement of Chris from one of our key supporters.
+We are grateful to each and every single one of these advocates.
+Monday, September 28, 2026
+“Chris McGowan will be an exceptional addition to what is shaping up to be an outstanding class of incoming House Republicans.
+His background as a military veteran, attorney, economic development professional, and long-time business leader in the tri-state area of Iowa, Nebraska, and South Dakota will serve him well in Washington.
+I am looking forward to welcoming Chris to Congress and working with him on the issues that matter most to Americans.”
+- Representative Brandon Gill, Texas-26
+Monday, September 21, 2026
+"Chris McGowan is a natural leader who understands the value of hard work and service.
+I know he is the fighter we need in Washington to stand up for our rural communities, protect our constitutional freedoms, and deliver genuine conservative results in Congress.
+I am excited to endorse Chris and look forward to working with him as our next U.S.
+Congressman!"
+- Henry Stone, Iowa House of Representative Majority Whip
+Monday, September 14, 2026
+“At last week’s Republican Mid-term Convention in Dallas I stated, ‘As Deputy Chairman of the National Republican Congressional Committee (NRCC), I am responsible for working with President Trump, Speaker Johnson, and Chairman Hudson to recruit the best and brightest candidates to run for Congress.
+Our Republican candidates for Congress honor our American flag, salute our American flag, and defend our American flag…We recruited United States Air Force veterans… like Chris McGowan from the ever-important, great State of Iowa, the son of a Vietnam War veteran and the father of five service members.’
+Not only was I proud to highlight Chris and his family’s commitment to service in our Armed Forces from the podium in Texas, I am equally proud to endorse Chris’ bid for Congress to represent Iowa-04 in the U.S.
+House of Representatives.”
+- NRCC Deputy Chairman, Brian Jack, Georgia-03
+Monday, September 7, 2026
+Just as “McGowan for Iowa” did on Memorial Day, we, once again, take a break from politics to focus on the importance of the observation of Labor Day.
+Today, we recognize the historic accomplishments and achievements of American workers.
+On Labor Day, we pause to celebrate the work ethic, productivity, and immeasurable contributions of the workforce that built our exceptional nation.
+“We salute working people because they have built our land with skill, energy, and resourcefulness, transforming raw materials into a shining edifice of freedom and prosperity.”
+- President Ronald Reagan, Labor Day Proclamation, 1988
+Monday, August 31, 2026
+“I’ve known Chris McGowan for a long time, and I know him to be a strong conservative who understands what makes Iowa successful.
+He knows that our farmers and small businesses are the backbone of our economy, and he’ll fight for lower taxes, fewer regulations, new markets and the pro-growth policies that create jobs and strengthen our rural communities.
+Chris will be a strong voice for agriculture, business, and Iowa values in Congress and I’m proud to endorse him.”
+- Mike Naig, Iowa Secretary of Agriculture
+Monday, August 24, 2026
+“As Republican State Representative for Iowa House District 10 and Speaker Pro Tempore, I proudly endorse Chris McGowan for the U.S.
+House in Iowa’s 4th Congressional District.
+Chris is a fourth-generation Iowan from Sioux City, a veteran of the Iowa Air National Guard, and President of the Siouxland Chamber of Commerce.
+He has a proven record of growing jobs, supporting agriculture and small business, and strengthening our communities.
+As a father of six, five of whom are currently serving in the Armed Forces, he understands the importance of a strong national defense and 'peace through strength.' Chris prioritizes fiscal responsibility, secure borders, free and fair trade that protects Iowa farmers, and year-round E15 to support our corn producers.
+He will be a strong, principled voice for Iowa’s values in Congress.
+I urge voters in the 4th District to elect Chris McGowan on November 3, 2026.”
+- John H.
+Wills, Speaker Pro Tempore, Iowa House of Representatives, District 10
+Monday, August 17, 2026
+“Chris McGowan’s work ethic and accomplishments as an economic development professional will make him an incredible addition to Iowa’s congressional delegation.
+I have worked with Chris on several critical matters, including our ongoing efforts to address essential infrastructure for the 185th Air Refueling Wing of the Iowa Air National Guard, as well as wastewater issues in Siouxland.
+I look forward to continuing to work with him to deliver results for Iowa.”
+- Ashley Hinson, Member of Congress, Iowa 2
+Monday, August 10, 2026
+“I am proud to endorse Chris McGowan for the United States House of Representatives in Iowa’s 4th Congressional District.
+Now more than ever, Washington D.C. needs a leader of uncompromising integrity who will stand firm for Iowa values, stay grounded in principles of faith, family, and freedom, and never back down when the pressure mounts.
+Chris is a conservative champion, and I know him to have the work ethic, fiscal discipline, and courage to represent Iowa with honor!”
+- Rep.
+Steve Holt, Chairman, Iowa House Judiciary Committee
+Monday, August 3, 2026
+“As Iowa’s National Republican Committeewoman, I have dedicated myself to promoting and protecting Iowa’s first in the nation caucuses, as well as fighting for the conservative social and fiscal policies that make our state and our nation truly exceptional.
+Chris McGowan and I share a commitment to these foundational principles, and, for this reason, he has earned my support and endorsement for Congress in Iowa-4.”
+- Tamara Scott, RNC National Committeewoman for Iowa
+Monday, July 27, 2026
+“As a first-term state legislator, I have learned the importance of learning and leading at the same time.
+As a freshman Member of Congress, Chris McGowan will also recognize the importance of learning and leading simultaneously.
+As a military veteran, licensed attorney, business leader, and economic development professional, Chris has already proven that he knows how to get things done.
+His ability to move the needle in Washington will be invaluable to us in Iowa.”
+- Representative Travis M.
+Sitzmann, Iowa House District 13
+Monday, July 20, 2026
+“Chris McGowan has been a key leader in western Iowa for over 20 years.
+As an economic development professional, he has helped facilitate the creation of thousands of good-paying jobs and recruited billions of dollars in capital investment to his community.
+His diverse education and experience have prepared him well to hit the ground running as a Member of Congress.
+I have no doubt that Chris will make his district and our state a better place.
+He is a leader in the fullest sense of the word.”
+- Jeff Kaufmann, Chairman, Iowa Republican Party 2014 - Present
+Monday, July 13, 2026
+“As a Sioux City native and one who has worked in national politics for many years, I have had countless opportunities to observe the differences in the caliber and character of those who serve us in Washington.
+From this experience, I can confidently say that Chris McGowan will be one of the good ones.
+Chris has the background and education to be effective on day one.
+Furthermore, his work ethic and commitment to his constituents will serve Iowa’s 4th Congressional District very well.
+He has my full support.”
+- Katie Delzell, Founder & CEO, Beacon Consulting
+Monday, July 6, 2026
+“Chris McGowan and I share a commitment to growing our economy through an uncompromising commitment to limited government, lower taxes, and fewer regulations.
+We also have a passion for economic development and pledge to do all we can as members of Congress to promote Iowa in our nation’s capital.”
+-Joe Mitchell, Republican Nominee for Congress in Iowa’s 2nd Congressional District
+Monday, June 29, 2026
+“Chris McGowan is a proven conservative leader who understands what it takes to deliver results.
+As a businessman, veteran, and a committed fighter for President Trump's America First agenda, Chris will go to Washington ready to secure our southern border, rein in spending, and stand up for hardworking Iowa families.
+I am proud to endorse him for Congress.”
+- Congressman Guy Reschenthaler, Pennsylvania-14, Chief Deputy Whip
+Monday, June 22, 2026
+“I first met Chris McGowan in 1984 when he was a 17-year-old high school student participating in the American Legion Boys’ Nation program in Washington, D.C.
+Since then, I have watched him become one of the top economic development professionals in the State of Iowa and a highly regarded business leader.
+Today, Chris is a husband, father, military veteran, attorney, and community advocate who is well-suited to reflect our values and become the voice of Iowa-4 in the United States House of Representatives.
+I hope you will join me in supporting McGowan for Congress.”
+- United States Senator Chuck Grassley
+Monday, June 15, 2026
+“I am proud to ENDORSE Chris McGowan for Congress.
+He is a dedicated husband, father, veteran, and business leader.
+As an America First patriot, he will fight to grow the economy and keep our nation safe.
+I look forward to working with him to always put COMMON SENSE over CRAZY!”
+- Congresswoman Lisa McClain (Michigan-9), House Republican Conference Chair
+Monday, June 8, 2026
+“Chris McGowan is a true example of leadership, service, and devotion to both our state and our country.
+Chris will fight for lower taxes, secure borders, and the fundamental freedoms we value as Iowans.
+I know he will make the 4th Congressional District and our entire state proud as a United States Congressman, and I am honored to endorse his candidacy!”
+- Rep.
+Carter F.
+Nordman, Iowa House District 47, Chair, House Ways and Means Committee
+Monday, June 1, 2026
+"When I first heard that Chris McGowan was running for Congress, I drove from Audubon to Sioux City to meet with him in person.
+I wanted to look him in the eye and ask him the tough questions that have historically been most important to the voters in Iowa-4.
+Suffice it to say that I found Chris’ command of the issues far beyond what I would normally expect from a first-time candidate for public office.
+Furthermore, he was accessible and engaging which came as a pleasant surprise.
+He has earned my support, as well as my vote."
+- Heath Hansen, Audubon County Board of Supervisors
+Monday, May 25, 2026
+This Monday, we take a break from politics to focus on the importance of today's nationwide observation of Memorial Day.
+May we all take time to remember the men and women of our Armed Forces who have made the ultimate sacrifice in defense of freedom.
+May we also reflect on their loved ones who must contend with such a devastating loss.
+“I pray that our Heavenly Father may assuage the anguish of your bereavement, and leave you only the cherished memory of the loved and lost, and the solemn pride that must be yours, to have laid so costly a sacrifice upon the altar of Freedom.”
+- President Abraham Lincoln, 1864
+Monday, May 18, 2026
+“Chris McGowan is a man of deep faith, strong character, and unwavering commitment to Iowa.
+Whether serving in uniform, raising his family, or helping heartland communities grow, Chris has always put service first.
+I’m proud to call him a friend and proud to endorse him for Congress.”
+– United States Senator Joni Ernst (Iowa)
+Monday, May 11, 2026
+Last week, I had the privilege of meeting the Vice President of the United States.
+In our brief meeting, JD Vance was cordial, engaging, and quite personable.
+He also showed a sense of humor as he subsequently joked about the fact that I do not have an opponent in the upcoming Republican primary.
+It is a tremendous honor to add the Vice President --- and our first video endorsement --- to our growing list of supporters for Congress in Iowa-4.
+Monday, May 4, 2026
+"Chris McGowan has been instrumental in countless causes in our community for decades.
+The energy and passion he brings to his economic development efforts, coupled with his military, legal and business background, will undoubtedly serve him well as he advocates for Iowans in Washington."
+– Representative Jacob Bossman, Iowa House District 14
+Monday, April 27, 2026
+"I was Chris McGowan's high school wrestling coach and even then, his leadership potential was obvious to anyone who was paying attention.
+Chris was an exceptional student-athlete, always led by example, and his work ethic was second to none.
+Those of us who knew him best were certain that he would one day run for office, so the only real surprise was how long he waited to do so.
+Chris will be an exceptional Representative for the people of lowa and that's why I will support him every step of the way."
+– Bob Casagrande, Heelan Head Wrestling Coach, 1983-1988
+Monday, April 20, 2026
+“I first worked with Chris McGowan twenty years ago.
+Since that time, Chris has remained a quiet but steadfast ally of the conservative causes I have championed for decades.
+Today, Chris remains a reliable ally, but he has also emerged as a leading advocate for the issues I consider most important to our country, culture, and constitution.”
+– Steve Scheffler, President, Iowa Faith and Freedom Coalition, and Long-time Iowa National Republican Committeeman
+Monday, April 13, 2026
+“Chris McGowan and I have worked together on a series of important projects and priorities to include economic development, health care, and tax reform.
+We even collaborated on the final negotiation and promotion of “The Dual,” a remarkable documentary on the 1986 Iowa versus Iowa State wrestling dual.
+In all my years working with Chris, I have found him to be a principled conservative who also happens to be very capable of civil discourse, and I believe we could use a lot more of that in Washington.”
+– Dustin Miller, Attorney & Lobbyist, Partner with the CWL Group in Des Moines
+Monday, April 6, 2026
+“As a long-time teacher and coach, I have championed greater emphasis on civics education in Iowa since joining the state legislature several years ago.
+Chris McGowan serves on a state-wide board of directors that shares this mission, and he was instrumental in helping us advance legislation that provides a curriculum with increased instruction in civics and citizenship.
+Just as he has done in Iowa, Chris will also support the right causes in our nation’s capital.”
+– State Representative Bob Henderson, Iowa House District 2
+Monday, March 30, 2026
+“Truth be told, I am not surprised that Chris McGowan is a candidate for public office, I am only surprised that it took him so long to finally do so.
+I’ve literally known Chris for decades, and I have seen his work as the Chair of his Board, the General Manager of a regional broadcasting company, and eventually as a friend.
+Few can match his pace and even fewer his productivity, which is why I do not hesitate to endorse his bid for Congress.”
+– Dennis Bullock, Retired Broadcasting GM, Siouxland Chamber Board Chair 2012-‘13
+Monday, March 23, 2026
+“I am proud to put my full endorsement for Iowa’s 4th Congressional District behind Chris McGowan.
+I have known him for years, and we recently collaborated on hosting a successful national economic development conference in Siouxland.
+As a farmer, cattleman, and ag lender, it’s been a long time since I have been this enthusiastic about a first-time candidate for public office, and I am absolutely convinced that he is the very best choice to represent us in Washington.”
+– Mark Leonard, President LEO-LAND, Inc., Holstein, Iowa
+Monday, March 16, 2026
+“In my 14 years as the Superintendent of public schools in Sioux City, I worked closely with Chris McGowan on numerous projects, including the successful establishment of an award-winning Air Force Junior ROTC program for our schools.
+As an economic development professional, he always understood that today’s students represent tomorrow’s workforce, so he is passionate about doing everything he can to support, improve, and promote educational initiatives.”
+– Dr.
+Paul Gausman, Ed.D., Superintendent, Sioux City Community School District, 2008-2022
+Monday, March 9, 2026
+“Chris McGowan is a proven leader.
+Throughout his career, Chris has consistently delivered exceptional results in economic development and community building.
+In visiting with Chris, you quickly realize that he is a no nonsense, get it done individual who believes in “America First” policies, family values, and the principles of freedom upon which this country was founded.
+Chris McGowan is the leader Congressional District 4 needs at this time, and it is my pleasure to emphatically endorse him for the United States House of Representatives.”
+- Kevin Robinson, Mayor of Spencer, Iowa 2018–‘22
+Monday, March 2, 2026
+“Chris McGowan and I share a conservative vision for the proper size and scope of government.
+My objectives have always included eliminating wasteful spending, purging unnecessary bureaucracy, and delivering the fiscal value proposition Iowans should expect from an efficient and effective state government.
+Chris aims to bring this same philosophy to Washington, and I am endorsing his candidacy for the U.S.
+House so that he may do so.”
+- Bobby Kaufmann, Iowa House Majority Leader
+Monday, February 23, 2026
+“As I have traveled through the 4th District, I have come to know and respect Chris McGowan, not only for his ability to lead, but also his dedication to service.
+He is an honorable man, and he has my full endorsement for the people of Iowa.”
+- Representative Matt Windschitl, Iowa House (2007-Present), Iowa House Majority Leader (2019-2025), United States Marine Corps (2001-2009)
+Monday, February 16, 2026
+"Chris McGowan is an America First patriot and veteran who will help us continue to deliver safe streets, secure borders, lower costs, a strong economy, and peace through strength.
+As an Iowa National Guard veteran, lawyer, and business leader, Chris will also help defend our veterans, military families, and farmers.
+I am proud to ENDORSE Chris McGowan for Iowa’s 4th District, and look forward to working with him to defend and grow our House Republican majority and CONTINUE our American comeback!"
+- Speaker Mike Johnson, United States House of Representatives
+Monday, February 9, 2026
+"It is my Great Honor to endorse Chris McGowan, a fantastic Candidate running to be the next Congressman from Iowa’s 4th Congressional District!
+"A Brave Iowa Air National Guard Veteran, successful Attorney, and now, as President of the Siouxland Chamber of Commerce, Chris has a Proven Record of Success — He is a WINNER!
+In Congress, Chris will fight hard to Grow the Economy, Promote our Amazing Farmers and Ranchers, Cut Taxes and Regulations, Advocate for MADE IN THE U.S.A., Champion American Energy DOMINANCE, Keep our Border SECURE, Strengthen our Military/Veterans, Ensure LAW AND ORDER, Safeguard our Elections, and Defend our always under siege Second Amendment.
+"Chris McGowan has my Complete and Total Endorsement to be the next Representative from Iowa’s 4th Congressional District, HE WILL NEVER LET YOU DOWN!"
+- President Donald J.
+Trump
+Monday, February 2, 2026
+“As a business executive with direct interests in banking and finance, property rentals, retail, and agriculture – including ethanol, I understand the importance of fiscal discipline.
+Unfortunately, I have become completely disillusioned with the federal government’s decades of irresponsible spending.
+I have known Chris McGowan for nearly fifty years, and I am absolutely convinced that he will fight for fiscal sanity, while working to bring common sense back to our nation’s capitol.”
+- Shennen Saltzman, MBA, Vice Chairman, Siouxland Ethanol
+Monday, January 26, 2026
+“As college athletes, Chris McGowan and I learned the importance of time management, hard work, and determination.
+As CEO’s these lessons have served us well and helped us navigate some of the most challenging times in U.S. history.
+Whether facing recession, COVID, or some other obstacle, business is difficult enough without excessive taxes and regulations.
+As a long-time economic development professional, Chris knows the value of eliminating barriers to job creation and capital investment.
+For this, and many other reasons, Chris has earned my support in his bid for Congress.”
+- Jerad Higman, Husband, Father, Entrepreneur, CEO of MASABA, Inc.
+Monday, January 19, 2026
+“I’ve known Chris McGowan for years and have full confidence in him.
+As I proudly serve Indiana’s Second District in Congress, I know what strengthens our legislative body: members with real-world experience.
+Chris’ background as a veteran, attorney, and economic development professional will be a tremendous asset to Iowa’s Fourth District and a strong addition to the House.”
+- Congressman Rudy Yakym, 2nd District of Indiana
+Monday, January 12, 2026
+“As a senior in high school, Chris McGowan stepped into my office for the very first time to promote National 4-H Week.
+Since that time, we have worked together on numerous initiatives and economic development projects.
+Additionally, I will always remember that Chris was a steadfast ally when we battled a public relations crisis on behalf of one of Siouxland’s leading employers about a dozen years ago.
+Today, Chris has emerged as an ‘America First’ conservative, and I have every confidence that he will bring the same tenacity to Washington that I personally witnessed in Iowa as he works to advance President Trump’s agenda.”
+– Terry E.
+Branstad, 39th (1983-1999) and 42nd (2011-2017) Governor of Iowa, and President Trump’s Ambassador to China (2017-2020)
+Monday, January 5, 2026
+“I have known and worked with Chris McGowan for over two decades.
+Over the years, we have collaborated on numerous economic development and community projects, as well as strategized on issues that became federal lobbying priorities in Washington, DC.
+More importantly, Chris and I have participated in a men’s prayer group together for over 10 years, and I have personally witnessed the crucial role that faith plays in his life.
+As a former elected official, I understand the need for a moral compass in politics, and I am convinced that Chris’ ethical convictions will serve him well as a Member of Congress.”
+– Dave Ferris, Former Sioux City Mayor & Councilman, Business Owner, and Not-for-profit Leader
+Monday, December 29, 2025
+“As a retired banker and business owner, as well as the former Chair of the Siouxland Chamber of Commerce, I have long been an advocate for workforce and economic development.
+Furthermore, as a current farmer and past director of the Woodbury County Conservation Board, I have spent decades working to protect Iowa's natural resources, while promoting outdoor recreational opportunities.
+With these priorities in mind, I am eager to provide my personal endorsement to “McGowan for Iowa.” Chris has always provided an objective ear for the benefit of Iowa's workforce, businesses, outdoor recreation, agriculture, and natural resources...and, when needed, ACTION.
+Case in point; rallying the business community to support recreation trails, outdoor parks, and quality of life initiatives, while simultaneously expanding value added ag in Iowa.”
+– Greg Grupp, Siouxland farmer, retired banker, business and community leader
+Monday, December 22, 2025
+“Chris McGowan and I grew up in the same neighborhood, and we have known each other for over 50 years.
+He is a leader dedicated to faith, family, and freedom; and has always led from the front with determination and grit.
+Chris’ path is one that other candidates should emulate; serve your nation, raise a family, have a career, and then take those life experiences to Congress.
+He is not a career politician…and that’s refreshing!”
+– Brig.
+Gen.
+(Retired) Michael G.
+Amundson, Former 1-113th CAV Commander, 2/34th Infantry Brigade Combat Team Commander, Chief of Staff of the Iowa Army National Guard
+Monday, December 15, 2025
+“Chris McGowan has spent decades advocating for his community.
+He’s a veteran and a business leader who understands what Iowa’s farmers, job creators, and working families need.
+Chris will be an effective advocate for Iowa’s 4th District, our veterans, and our farmers — and a strong supporter of the America First agenda in Congress.”
+– House Majority Leader Steve Scalise (R-Louisiana), the second-highest ranking Republican in the U.S.
+House of Representatives
+Monday, December 8, 2025
+“I’m proud to endorse Chris McGowan for Congress.
+During my time serving on the Board of Directors of the Siouxland Chamber of Commerce, I had a front-row seat to observe his leadership and character.
+His tenacity, unwavering love for Iowa and America, and deep commitment to family values set him apart.
+Chris is a man whose follow-through is elite and whose word is truly gold.
+I’ve seen firsthand that when he says he’ll get something done, he does it — and he does it with integrity.
+Iowa-4 deserves a strong, principled voice in Washington, and Chris McGowan is exactly that.
+He will serve with the dedication and strength we need.”
+– Travis Morgan, CEO, Sioux City Musketeers
+Monday, December 1, 2025
+“I have known Chris McGowan since I moved to this community over a dozen years ago.
+In getting to know him, I have learned that he has a passion for amateur wrestling and he is a remarkable advocate and ambassador for our athletes and our sport.
+I have also learned that he has a passion for helping people, as well as for growing our community and the State of Iowa.
+He's someone who gets things done and moves the needle.
+He has my full support and endorsement in his bid for Congress."
+– Donaco Watts, Head Wrestling Coach, Briar Cliff University
+Monday, November 24, 2025
+"I’ve known Chris since we were both in our 20s serving in the Iowa Air National Guard together.
+In June of 1995, we were on a NATO training mission called “Exercise Maple Flag” in Canada and I remember a few things about that trip.
+Challenging supersonic fighter training; Scott O’Grady, the downed F-16 pilot in Bosnia was rescued during that deployment; and that faith was the defining foundation for Chris.
+All these years later, I’ve seen him raise a family of his own and I must recognize the caliber and character of the children he and Cathleen have raised to each serve in our Armed Forces - the best measure of a man.
+He is an “America First” conservative who has been fighting for funding for our local Air National Guard unit for years.
+Chris also led the fight to ensure Sioux City’s own Brigadier General Bud Day ultimately received the recognition and rank he so richly deserved.
+I have every confidence that he will take that same faith and fighting spirit to Congress."
+– Iowa State Senator Kevin Alons, District 7
+Tuesday, November 18, 2025
+“Chris McGowan is exactly the kind of battle-tested conservative we need in Congress.
+As a veteran, business leader, and devoted family man, he embodies the values of faith, family, and freedom that define Iowa’s 4th District.
+Chris will be a strong voice for the America First agenda, a reliable partner in the House Republican Conference, and a leader who will deliver real results for Iowa.”
+– Congressman Tom Emmer (R-MN), Majority Whip, U.S.
+House of Representatives
+Monday, November 10, 2025
+“The McGowan family has demonstrated a generational commitment to service in the military that is quite rare today.
+In addition to Chris’ time in the Iowa Air National Guard, his father served in Vietnam, and his five oldest children have all pursued a path to defend freedom in the Armed Forces.
+I have every confidence that he will be a tireless and effective advocate for our veterans, as well as the men and women who are presently serving in uniform, and, for this reason, I am endorsing Chris McGowan to represent Iowa-4 in Congress.”
+– Robert O’Neill, Best Selling Author, Veterans Advocate, and Former Navy SEAL / Team Leader for Operation Neptune’s Spear, the Mission to Kill Osama bin Laden
+Monday, November 3, 2025
+"As a public servant, I have advocated for fiscal responsibility, law enforcement, and transparency for decades.
+After evaluating the candidates in Iowa’s 4th Congressional District, I believe that Chris McGowan is best prepared to go to Washington and champion these and other priorities most important to Iowans.”
+– Don Kass; Chair, Plymouth County Board of Supervisors; Remsen, Iowa
+Monday, October 27, 2025
+“Having worked with Chris McGowan for decades, and serving on State Boards and Commissions since 1982, including Iowa Economic Development and Department of Transportation, I can tell you he has vast experience in economic development, as well as a wealth of knowledge concerning infrastructure.”
+– Charese E.
+Yanney
+Monday, October 20, 2025
+“As a former wrestler, Chris McGowan knows the value of hard work, humility, and determination —qualities he embodies today.
+As a veteran, devoted husband, father of six, and ‘America First’ conservative, he will bring these same values to Washington.
+Chris will fight for our principles, help accomplish the Trump agenda, and keep our nation strong.”
+— Congressman Jim Jordan, Chairman, House Judiciary Committee
+Monday, October 13, 2025
+“Having worked with Chris for over 20 years, I have found him to be hard working, honest, and incredibly committed to making everything he gets involved with better.
+I believe he will be an exceptional advocate for Iowa in the U.S.
+House of Representatives, and he has earned my support.”
+– Skip Perley, Retired CEO, Thompson Solutions Group (formerly Thompson Electric)
+Monday, October 6, 2025
+“Chris has been a reliable and dedicated voice for both amateur and professional sports in our community for as long as I have known him.
+Our organization has benefitted greatly from his energy and focus on the issues that are most important to all of us, and we are eager to support his candidacy.”
+– Lloyd Ney, Managing Partner, Sioux City Musketeers Hockey Club
+Monday, September 29, 2025
+“As the only candidates that are married with kids in Iowa, Chris McGowan and I share the same values on family.
+His dedication to his wife and children shows me he will be loyal to the families of Iowa.
+Chris shares the same passion for growing our manufacturing economy, ag economy, and local main street.
+This allows family farms to prosper and for Iowa families to grow with confidence.”
+– Kyle Larsen, Husband, Father, Farmer, & Former Congressional Candidate in Iowa-4
+Monday, September 22, 2025
+“Chris McGowan and I have worked together for over a decade.
+He pushed me into key leadership roles in our Siouxland community faster than I expected, and together we accomplished more than either of us could have ever anticipated.
+Truth be told, it was only after I engaged Chris that our Native American community was able to erase 50 years of frustration, and we were finally able to successfully repatriate 1,600 acres of tribal land that was illegally seized by the federal government in the 1970s.
+For this, and many other reasons, Chris has earned my trust, my confidence, and my support as he runs for Congress.”
+– Lance Morgan, President & CEO Ho-Chunk, Inc., Past Chair of the Siouxland Chamber of Commerce and The Siouxland Initiative (TSI)
+Monday, September 15, 2025
+“I have known Chris McGowan since we competed against one another at the Tomahawk Relays in Cherokee, Iowa while in high school over 40 years ago.
+I know his wife, his children, and his family, and am proud to call him my friend.
+However, he is much more than a friend, he is also a trusted confidant, a political ally, and a patriotic American.
+For this reason, I am actively engaged with and supporting his campaign.”
+– Chris Hupke, 2016 Trump for President Iowa 4th Congressional District Campaign Director & 2022 Campaign Manager for Governor Kristi Noem of South Dakota
+Monday, September 8, 2025
+“Over the course of my two decades as an officer in the United States Army, I have learned a thing or two about recognizing the leadership qualities necessary to inspire change and make a difference.
+Chris McGowan possesses these qualities, and I have personally seen him utilize them effectively with business executives, military officers, and emergency services coordinators, as well as elected officials and the media.
+His approach is polite, persistent, and persuasive.
+The people in Iowa’s 4th congressional district, as well as our initiative to provide expanded access to ‘pre-hospital’ blood, especially in our nation’s rural areas, will be well served by Chris’ voice in the U.S.
+House of Representatives.”
+– Dr.
+John Holcomb M.D., FACS, Pre-hospital Blood Advocate & Trauma Surgeon in Black Hawk Down Battle in Somalia
+Monday, September 1, 2025
+“Two decades ago, when I was having trouble getting anyone to listen to me about a significant safety matter impacting an entire industrial park, I reached out to Chris for help.
+I asked him to spend an afternoon with me touring the area in my pick-up truck and he quickly grasped the matter and went to work to help us successfully convince the decision makers to abandon their flawed plan.
+Chris McGowan has gained my confidence and earned my vote.”
+– Dan Lee, Owner / Founder Port Neal Welding Company
+Monday, August 25, 2025
+“Over the years, I have worked with Chris on numerous economic development projects in northwest Iowa and watched him negotiate deals resulting in thousands of jobs and billions in capital investment.
+I can say with complete confidence that he is among the most competent and capable professionals in our field.
+We will be fortunate to have him representing us in D.C.”
+– Rick Allely, Veteran Economic Development Professional
+Monday, August 18, 2025
+“A few short months ago, our 75-year-old business faced an unprecedented challenge that could have resulted in a profoundly adverse long-term impact on our business.
+With just over 24 hours to avert a crisis, we contacted Chris who leapt into action and helped us develop the successful strategy that allowed us to continue to meet our valued customers’ needs, just as we have done for many decades.
+Chris McGowan’s ability to get things done will serve the people of Iowa’s 4th Congressional District very well.”
+- Rob Rehal, Pharmacist / Owner, Greenville Pharmacy
+Monday, August 11, 2025
+“Chris always performed well in the classroom, was a dedicated athlete, and became an exceptional student leader.
+Over the years, I have watched him raise a family and make significant contributions to our Siouxland community in both economic development and in recognizing our military veterans.
+I am proud of the person he has become and pleased to support him for Congress.”
+– Brendan Burchard, Teacher/Coach, Bishop Heelan High School, Command Chief Master Sergeant, Iowa ANG (Ret.)
+Monday, August 4, 2025
+“I have known Chris for over three decades, dating back to his time as a young recruit with the Iowa Air National Guard.
+Over the years, he has repeatedly demonstrated his commitment to both our veterans, as well as the current members of our Armed Forces.
+I am absolutely convinced that he will become one of the strongest and most steadfast supporters of our men and women in uniform as a member of the House.”
+– Col.
+Brian Miller, Former Wing Commander, 185th Air Refueling Wing, Iowa ANG (Retired)
+Monday, July 28, 2025
+“I have known Chris McGowan for a great part of my life.
+That ‘great’ is more than time, because that is exactly what he is, a GREAT man in all ways!
+Because of his many accomplishments for the people of northwest Iowa and the entire state, he is the best suited person to represent the 4th Congressional District of the Great State of Iowa.
+Chris is both a fighter and a winner, and I am proud to endorse him.”
+– Dan Gable, Legendary Wrestler and Coach, 1972 Olympic Gold Medalist
+Monday, July 21, 2025
+“We’ve known and respected Chris and his family for decades now.
+Raised in Sioux City, my folks so loved their hometown, connecting with Chris during every visit of family, friends, and the Guard.
+In fact, my dad loved to hunt pheasants with Chris and spoke of his uncommon foresight and patriotism.
+If he were still with us, my dad would be leading the charge with me to endorse his candidacy for Congress.”
+– George Day, Jr., USAF F-16 Fighter Pilot (Ret.), and Son of Medal of Honor Recipient George “Bud” Day
+Monday, July 14, 2025
+“Agriculture has always been one of the most important issues for Iowans and Chris has been fighting for our farmers for as long as I can remember.
+Whether he was actively recruiting value added ag companies to Siouxland or protecting markets for farmers during COVID, Chris McGowan has been a champion for the ag industry.”
+– Dr.
+Ken Roach, DVM, Farmer & Veterinarian
+Monday, July 7, 2025
+“As a retired County Sheriff, there are few issues that I consider more important than public safety and supporting our law enforcement community.
+Chris has stood shoulder-to-shoulder with me on numerous occasions, and I am proud to stand with him today.
+I have every confidence that he will continue to be a strong voice for our law enforcement and first responders.”
+– Dave Drew, Retired Woodbury County Sheriff
+Monday, June 30, 2025
+“As an entrepreneur and the owner of a small, family-owned business, I am primarily concerned with issues related to business, free enterprise, and the preservation of our Second Amendment rights.
+Chris has been rock-solid on these issues since I met him over 20 years ago and he has my unqualified support.”
+– Deb Satern, CEO, Liberty Barrels / SATERN Barrels

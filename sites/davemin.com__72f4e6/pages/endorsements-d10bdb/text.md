@@ -1,0 +1,178 @@
+Working people, local leaders, and advocates are all joining Team Min.
+California Democratic Party
+Planned Parenthood Action Fund
+Orange County Firefighters
+Sierra Club
+California Federation of Teachers
+California AFL-CIO
+Stop Gun Violence PAC
+Organizations
+Issue Advocates
+- California Democratic Party
+- Democratic Party of Orange County
+- Planned Parenthood Action Fund
+- Reproductive Freedom for All
+- Equality California
+- End Citizens United
+- Giffords, Gun Violence Prevention & Advocacy
+- Stop Gun Violence PAC
+- Brady PAC
+- Voting Rights Fund
+- Defend The Vote
+- California High School Democrats
+- California Young Democrats
+- Orange County Young Democrats
+- Iranian American Democrats of California (IADC)
+- Southern California Armenian Democrats
+- Asian American Action Fund
+- Sierra Club
+- League of Conservation Voters
+- California Environmental Voters
+- Center For Biological Divesrity Action Fund
+- NRDC
+Labor
+- California Labor Federation AFL-CIO
+- Orange County Labor Federation
+- Orange County Employees Association
+- International Association of Fire Fighters
+- Orange County Professional Firefighters, IAFF Local 3631
+- California Fraternal Order of Police
+- Association of Orange County Deputy Sheriffs
+- Huntington Beach Police Officers Association
+- California Federation of Teachers
+- California Teachers Association
+- California School Employees Association (CSEA)
+- Service Employees International Union (SEIU)
+- Peace Officers Research Association of California (PORAC)
+- Teamsters Joint Council 42
+- American Federation of State, County and Municipal Employees (AFSCME)
+- United Association of Union Plumbers & Pipefitters UA 250
+- Western States Regional Council of Carpenters
+- Carpenters Legislative Improvement Committee
+- LA/OC Building Trades
+- Laborers' International Union of North America (LiUNA)
+- National Union of Healthcare Workers
+- International Brotherhood of Electrical Workers (IBEW)
+- International Union of Painters & Allied Traders
+- International Union of Operating Engineers
+- Brotherhood of Locomotive Engineers and Trainmen (BLET)
+- American Federation of Government Employees
+- United Food and Commercial Workers International Union (UFCW)
+- National Association of Letter Carriers
+Local Democratic Clubs
+- Democrats of Greater Irvine
+- Irvine Democratic Club
+- Laguna Woods Democratic Club
+- Democratic Women of South Orange County
+- Canyon Democrats
+- UC Irvine Democrats
+- Central OC Democratic Club
+- Aliso Viejo Democratic Club
+- Laguna Beach Democratic Club
+Elected Officials
+California Statewide
+- Eleni Kounalakis, California Lt.
+Governor
+- Rob Bonta, California Attorney General
+- Fiona Ma, California Treasurer
+- Malia Cohen, California Controller
+U.S.
+Congress
+- Alex Padilla, U.S.
+Senator
+- Adam Schiff, U.S.
+Senator
+- Nancy Pelosi, Speaker Emerita
+- Hakeem Jeffries, House Democratic Leader
+- Katherine Clark, House Democratic Whip
+- Pete Aguilar, House Democratic Caucus Chair
+- Ted Lieu, House Democratic Vice Caucus Chair
+- Nanette Barragan, CA-44
+- Ami Bera, CA-06
+- Julia Brownley, CA-26
+- Salud Carbajal, CA-24
+- Judy Chu, CA-28
+- Gil Cisneros, CA-31
+- Lou Correa, CA-46
+- Mark DeSaulnier, CA-10
+- John Garamendi, CA-08
+- Robert Garcia, CA-42
+- Jared Huffman, CA-02
+- Sara Jacobs, CA-51
+- Sydney Kamlager-Dove, CA-37
+- Mike Levin, CA-49
+- Sam Liccardo, CA-16
+- Zoe Lofgren, CA-16
+- Ro Khanna, CA-17
+- Doris Matsui, CA-07
+- Kevin Mullin, CA-15
+- Jimmy Panetta, CA-19
+- Scott Peters, CA-50
+- Raul Ruiz, CA-25
+- Mark Takano, CA-39
+- Mike Thompson, CA-04
+- Norma Torres, CA-35
+- Derek Tran, CA-45
+- Juan Vargas, CA-52
+- Linda Sánchez.
+CA-38
+California State Senate
+- Monique Limon, State Senate President Pro Tempore
+- Ben Allen, State Senator
+- Bob Archuleta, State Senator
+- Josh Becker, State Senator
+- Dave Cortese, State Senator
+- Maria-Elena Durazo, State Senator
+- Eloise Gomez-Reyes, State Senator
+- Lena Gonzalez, State Senator
+- Melissa Hurtado, State Senator
+- John Laird, State Senator
+- Mike McGuire, State Senator
+- Jerry McNerney, State Senator
+- Susan Rubio, State Senator
+- Lola Smallwood-Cuevas, State Senator
+- Henry Stern, State Senator
+- Tom Umberg, State Senator
+California State Assembly
+- Robert Rivas, Assembly Speaker
+- David Alvarez, Assemblymember
+- Cecilia Aguiar-Curry, Assemblymember
+- Rebecca Bauer-Kahan, Assemblymember
+- Tasha Boerner, Assemblymember
+- Lisa Calderon, Assemblymember
+- Mike Fong, Assemblymember
+- Mike Gipson, Assemblymember
+- Gregg Hart, Assemblymember
+- Jacqui Irwin, Assemblymember
+- Josh Lowenthal, Assemblymember
+- Tina McKinnor, Assemblymember
+- Al Muratsuchi, Assemblymember
+- Stephanie Nguyen, Assemblymember
+- Diane Papan, Assemblymember
+- Cottie Petrie-Norris, Assemblymember
+- Avelino Valencia, Assemblymember
+- Sharon Quirk-Silva, Assemblymember
+- Chris Ward, Assemblymember
+- Lori Wilson, Assemblymember
+Local Officials
+- Larry Agran, Irvine Mayor
+- William Go, Irvine City Councilmember
+- Melinda Liu, Irvine City Councilmember
+- Betty Martinez Franco, Irvine City Councilmember
+- Kathleen Treseder, Irvine City Councilmember
+- Hallie Jones, Laguna Beach Councilmember
+- Alex Rounaghi, Laguna Beach Councilmember
+- Bob Whalen, Laguna Beach Councilmember
+- Stephanie Oddo, Laguna Niguel Councilmember
+- Annie McCrary, Laguna Woods Mayor
+- Pearl Lee, Laguna Wood Mayor Pro Tem
+- Shari Horne, Laguna Woods Councilmember
+- Joe Kalmick, Seal Beach Councilmember
+- Lee Fink, Tustin Councilmember
+- Letitia Clark, Former Tustin Councilmember
+- Beckie Gomez, Former Tustin Councilmember
+- Liz Dorn-Parker, Coast Community College District Trustee
+- Ryan Dack, South Orange County Community College District Trustee
+- Jeff Kim, Irvine Unified School District Board Trustee
+- Katie McEwen, Irvine Unified School District Board Trustee
+- Cyril Yu, Irvine Unified School District Board Trustee

@@ -1,0 +1,32 @@
+First-in-the-nation legislation introduced by Illinois Secretary of State Alexi Giannoulias aims to protect the privacy and safety of individuals seeking abortion care by restricting the use of Automatic License Plate Readers (ALPRs).
+Giannoulias joined the sponsors of House Bill 3326, State Rep.
+Ann Williams (11th District – Chicago) and State Sen.
+Sara Feigenholtz (6th District – Chicago), along with Jennifer Welch, President and CEO of Planned Parenthood of Illinois and other supporters today to underscore the importance of this model legislation.
+House Bill 3326, which passed the Illinois General Assembly last month and awaits the governor’s consideration, would prohibit the use of license plate readers from tracking individuals seeking abortion care or assisting them.
+No other state specifically prohibits ALPRs from being used to track or penalize individuals seeking abortion care or from criminalizing a person’s immigration status.
+“No one seeking abortion care in Illinois should be harassed in any fashion, and I’m committed to enabling individuals to pursue and obtain the lawful healthcare they need without government interference,” Giannoulias said.
+“License plate readers are an important tool for law enforcement – especially when apprehending suspects in violent crimes or recovering stolen vehicles in car jackings – but we need to regulate these cameras so they aren’t abused for surveillance, tracking the data of innocent people or criminalizing lawful behavior.
+This legislation sets common-sense standards and protocols to ensure that license plate data is used properly.”
+Operated by private companies, ALPRs are used in every state by most metropolitan police departments to scan license plates and provide the time and location of vehicles in real time.
+ALPR technology allows police to read thousands of license plates per minute from cameras placed on roadways, streetlights and squad cars.
+Illinois, unlike more than 15 other states, currently has no regulations on how vehicle license plate data is shared, which can potentially violate the rights of individuals and could jeopardize their safety.
+“This legislation reaffirms our state’s commitment to protecting access to a person’s reproductive healthcare in the state of Illinois,” Williams said.
+“HB 3326, which is supported by Planned Parenthood, will protect people who are simply seeking healthcare from targeted harassment and criminal prosecution.”
+“HB 3326 ensures that a person’s safety while making reproductive choices remains the right of everyone,” said Feigenholtz.
+“Illinois has the sovereign right to protect a person’s healthcare.
+That’s what this legislation is all about.”
+“People should not have to travel to a state like Illinois to receive essential health care such as abortion or gender-affirming care,” said Jennifer Welch, President and CEO of Planned Parenthood of Illinois.
+“However, in our post-Roe reality, more and more health care refugees are forced to flee their home states and they shouldn’t have the added fear they are being tracked by their license plate.
+We applaud Secretary of State Alexi Giannoulias for initiating this important legislation and Senator Sara Feigenholtz and Representative Ann Williams for sponsoring the bill which further cements Illinois’ status as a haven state in the Midwest.
+We urge Governor JB Pritzker to sign the bill.”
+“We are grateful to Secretary Giannoulias for championing this crucial civil liberties issue that will help ensure that Illinois remains an oasis for safe access to abortions and other reproductive healthcare,” said Sarah Resnick, CEO of Personal PAC.
+“HB3326 ensures that those seeking healthcare in Illinois can trust that their license plate data will be secure and protected, and that Illinois law enforcement agencies and municipalities will never turn their information over to states seeking to persecute them.
+This legislation is a model for the nation, and we are proud to have been part of the coalition that led to its passage.”
+Since the overturning of Roe v.
+Wade last year, concerns have surfaced over the use of license plate readers to track people accessing abortion in states.
+The state of Texas passed a law that offers a $10,000 cash “bounty” to anyone who succeeds in suing someone who has helped someone get an abortion.
+In Illinois, the use of that data is currently unregulated.
+It puts innocent people in jeopardy of being prosecuted in other states for obtaining services that are legal in Illinois.
+Without regulation, it is impossible to know who is sharing this information or how this information is being used.
+The legislation still allows law enforcement to use ALPR technology for investigating forcible felonies, motor vehicle theft and missing person alerts, but it protects a person’s right to choose and prevents attempts to criminalize a person’s immigration status.
+-#-

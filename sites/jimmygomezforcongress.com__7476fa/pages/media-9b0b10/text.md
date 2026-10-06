@@ -1,0 +1,24 @@
+Updated September 27, 2026
+Update
+- Democrats, Minor Party Liberals, and Independents who do not live with a Republican in PDI universe 26G8A need to see, in mailboxes and on digital platforms:
+- Jimmy Gomez’s public record fighting Donald Trump on ICE, immigration, health care and health care affordability, affordability broadly, and protecting democracy.
+- Gomez sued ICE to stop them from covering up conditions in detention centers, and he won.
+Gomez is a proven fighter against Trump Administration unjust policies.
+LA Times story here.
+- Gomez fought against healthcare cuts by pushing for legislation to stop GOP cuts to Medicaid and Affordable Care Act (ACA) enhanced premium tax credits affordable and fought for affordable housing to Southern Californians by authoring legislation that would give first-time homebuyers between $25,000 and $50,000 towards a downpayment and help incentivize developers to build more starter homes.
+- Gomez is one of the few lawmakers endorsed by End Citizens United because he leads the fight AGAINST corruption and FOR banning stock trading by members of Congress.
+- Gomez has support from unions, nurses, firefighters, Planned Parenthood Action Fund, organized labor, and Democratic organizations — along with Gomez’s experience as a union organizer and nurses’ union organizer – should be emphasized.
+- Republicans, Minor Party Conservatives, and Independents living with Republicans in PDI universe 26G8A need to learn in the mailbox about Angela Gonzales-Torres’ positions such as her support for defunding the police, her hostility towards churchgoers and parents, and her general extremism.
+- All voters in PDI universe 26G8A need to learn through mail and digital that Angela Gonzales-Torres has refused to disclose her sources of income and investments for nearly two years, and we can’t afford to have members of Congress who keep this information secret.
+Jimmy Gomez’s record on health care, housing, and working families:
+- As a lawmaker and as a union organizer, Gomez led the successful fights to expand paid family leave, affordable housing, and improve wages, pay, and benefits for working families.
+Angela Gonzales-Torres is a Very Flawed Candidate
+- Gonzales-Torres publicly supported defunding the police on social media in March 2024, even wearing a “defund the police” shirt.
+- Angela Gonzales-Torres has been breaking the law for nearly two years by refusing to disclose her sources of income and investments.
+The House of Representatives Office of the Clerk website shows no record of Gonzales-Torres having filed a personal financial disclosure or requesting an extension of time to file a financial disclosure.
+Gonzales-Torres would have been required to file her financial disclosure or request an extension within 30 days of filing her candidacy and raising $5,000, according to House Ethics instructions.
+Gonzales-Torres filed to run for Congress on April 6, 2025, and her fundraising exceeded $5,000 on August 29, 2025 — her financial disclosure or an extension request would have been due by November 29, 2025.
+As of September 10, 2026, she is still hiding her financial information.
+(source: https://disclosures-clerk.house.gov/FinancialDisclosure)
+- Instead of being respectful to people from all walks of life, Angela Gonzales-Torres insults churchgoers, parents, and parenting:
+https://www.youtube.com/watch?v=L3VOCyYeK4s

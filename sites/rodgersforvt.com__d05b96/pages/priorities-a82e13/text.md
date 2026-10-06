@@ -1,0 +1,35 @@
+JOHN'S PRIORITIES
+John left the Democratic Party because he believed it had lost touch with the needs of working Vermonters.
+While Montpelier continued to grow government and increase spending, the cost of living kept rising for the people expected to pay the bill.
+John believes Vermont deserves practical leadership focused on affordability, accountability, and common sense.
+Making Vermont More Affordable
+John believes Vermont should be a place where working families can afford to live, build a career, and retire.
+Too many Vermonters are being squeezed by rising property taxes, higher energy costs, increasing health insurance premiums, and the growing cost of everyday life.
+John is committed to fighting for lower costs by opposing unnecessary taxes, mandates, and government spending that place additional burdens on Vermont families, seniors, farmers, and small businesses.
+Protecting Rural Vermont
+As a fifth-generation Vermonter who grew up working on his family's dairy farm, John understands that rural communities are the heart of Vermont.
+He will continue standing up for property rights, protecting traditional land uses, and opposing policies that make it harder for farmers, loggers, sportsmen, and landowners to make a living or pass their land on to future generations.
+John believes the people who live and work on the land deserve a strong voice in Montpelier.
+Growing Vermont's Economy
+John has spent his life building businesses, creating jobs, and working in the trades.
+He understands the challenges facing employers because he has lived them.
+He supports reducing unnecessary regulations, encouraging investment, helping small businesses grow, and creating an economic climate that allows hardworking Vermonters to succeed while giving young people more reasons to build their futures here at home.
+Expanding Housing Opportunities
+Vermont needs more housing that working families can afford without sacrificing the character of its communities.
+John supports practical reforms that make it easier to build homes, modernize outdated regulations, and increase housing opportunities while respecting local communities and preserving Vermont's unique character.
+Investing in Career and Technical Education
+John believes every student deserves a pathway to success, whether that includes college, the skilled trades, or entering the workforce directly.
+Having built a career through hard work and the trades himself, John has long been a strong advocate for career and technical education, apprenticeships, and workforce development programs that prepare Vermonters for rewarding careers in construction, manufacturing, healthcare, agriculture, and other essential industries.
+Standing with Farmers, Workers, and Small Businesses
+John knows what it means to earn a living with his hands.
+He has worked as a farmer, mason, contractor, and small business owner, and he understands the challenges facing those who keep Vermont's economy moving.
+He will continue fighting to reduce costs, eliminate unnecessary regulations, and ensure state government is a partner, not an obstacle, for Vermont's farmers, tradespeople, manufacturers, loggers, and entrepreneurs.
+Supporting Safe Communities
+Every Vermonter deserves to feel safe in their home and community.
+John supports providing law enforcement with the resources they need to protect the public while ensuring the justice system holds offenders accountable and stands with victims.
+Strong communities begin with public safety and respect for the rule of law.
+Independent Leadership.
+Practical Results.
+Throughout his public service, John has earned a reputation for putting Vermonters ahead of partisan politics.
+Whether working with Republicans, Democrats, or Independents, John has always focused on finding practical solutions to the challenges facing Vermont.
+As Lieutenant Governor, he has worked alongside Governor Phil Scott to expand the visibility, advocacy, and constituent services provided by the office while remaining focused on one goal: making Vermont more affordable, protecting its rural way of life, and ensuring future generations have every opportunity to succeed.

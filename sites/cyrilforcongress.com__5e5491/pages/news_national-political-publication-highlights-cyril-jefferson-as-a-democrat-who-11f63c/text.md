@@ -1,0 +1,16 @@
+Skip navigation menu
+National Political Publication Highlights Cyril Jefferson as a Democrat Who Can Win in Red America
+North Carolina’s 6th Congressional District, June 19 — A national political publication has identified High Point Mayor and congressional candidate Cyril Jefferson as one of the Democratic candidates best positioned to compete and win in traditionally Republican districts, underscoring the growing momentum behind his campaign in North Carolina's 6th Congressional District.
+In a recent feature titled "The Democrats Who Can Win Red America," The Bulwark's Tim Miller highlighted Jefferson as one of a select group of candidates nationwide who are building winning coalitions in districts long considered out of reach for Democrats.
+The article points to Jefferson's record of delivering results as Mayor of High Point and his willingness to address issues that matter most to working families, including public safety, economic opportunity, and border security.
+"Our campaign is proving that voters are ready for a different kind of leadership," Jefferson added.
+"People want someone who will show up, listen, and fight for their communities—not another career politician.
+We're building a campaign that can compete everywhere in this district because we're talking about the issues that matter to everyday families."
+The national attention comes as political observers increasingly view North Carolina as a key battleground in 2026.
+Bulwark noted that successful statewide Democratic candidates have already demonstrated that voters in the district are willing to support leaders who focus on results over partisanship, and identified Jefferson as a candidate capable of building that same coalition.
+"This race has always been about the people of North Carolina's 6th District, not political insiders in Washington," said Jefferson.
+"Voters are tired of politicians who spend more time talking than delivering results.
+As Mayor, I've focused on making our community safer, creating jobs, and solving problems.
+That's exactly the approach I'll bring to Congress."
+As momentum continues to build, the Jefferson campaign remains focused on meeting voters where they are, expanding its grassroots operation, and delivering a message centered on economic growth, public safety, affordable healthcare, and opportunity for every community across the district.
+PRESS RELEASE

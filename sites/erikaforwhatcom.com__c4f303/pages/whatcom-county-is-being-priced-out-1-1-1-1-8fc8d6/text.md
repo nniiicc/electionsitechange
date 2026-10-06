@@ -1,0 +1,17 @@
+Protecting Our Agricultural Heritage
+Washington’s Farming Industry Is in Crisis
+Washington was once known for its thriving agricultural economy.
+With fertile soil and a favorable climate, farming should remain one of our greatest strengths.
+Instead, farms across the state are struggling.
+The Numbers Tell the Story
+- Washington is losing approximately two farms every week
+- Washington ranks last in net farm revenue and farmer take-home pay
+- Neighboring states continue to outperform Washington:
+- California: $19 billion in net farm returns
+- Idaho: $2.2 billion
+- Oregon: $836 million
+Years of increasing regulations and taxes have pushed many family farms to the brink.
+Why Should This Alarm Everyone?
+As farms close, local food production declines, making our communities more dependent on outside sources for food and increasing long-term costs for consumers.
+Importing food from other places creates more greenhouse gas emissions and we don’t have any control over how it was grown and whether it is safe to eat.
+We need food security locally to ensure our local communities have what they need.

@@ -1,0 +1,5 @@
+Changes to home care eligibility puts disabled New Yorkers in jeopardy of losing vital services, adv
+Sen.
+Andrew Lanza, whose district encompasses the South Shore, called the changes a great disappointment and said the state of New York has never “annually met its obligation and responsibility with respect to the developmentally disabled population.” “This is something that for crying out loud we should all be able to agree on,” Lanza said.
+STATEN ISLAND, N.Y. – Changes made to the eligibility criteria for home health care could force thousands of disabled New Yorkers into institutionalized care or leave them in their homes without proper care services.
+The Personal Care Services and Consumer Directed Personal Assistance Program, available through the state’s Medicare program, allow individuals with disabilities to live at home in their communities while receiving assistance with tasks like getting out of bed, showering, using the restroom, getting dressed, preparing and eating meals and other daily tasks.

@@ -1,0 +1,6 @@
+This was published on the Las Vegas Review Journal on March 29, 2023.
+By Jessica Hill Las Vegas Review-Journal Reno Police Department Detective Janira Varty was injured in 2019 during a car accident when she slid on black ice while on duty.
+Afterward, her entire body...
+Article originally published on https://www.nevadacurrent.com.
+When she first started living there a decade ago, Jeanneil Marzan paid $645 a month to rent a space for her manufactured home at Sierra Royal Mobile Park.
+Overtime, rent slowly increased to the current...

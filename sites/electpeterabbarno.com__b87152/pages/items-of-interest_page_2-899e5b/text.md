@@ -1,0 +1,33 @@
+News
+Rep.
+Abbarno meets with Eagle Scout
+It was such a great pleasure meeting Gunnar!
+His Eagle-required merit badge required him to conduct an interview with his state representative and I...
+Rep.
+Abbarno meets with Vermont Lt.
+Governor Rodgers
+It was great meeting and discussing "back in the day" with Vermont Lieutenant Governor John Rodgers at the The 2026 Cascade Conference.
+I have a lot...
+Washington State Nurses Association PAC Endorsement
+Honored to receive the endorsement of the Washington State Nurses Association PAC.
+Nurses are on the front lines every day caring for patients and...
+Law Enforcement Torch Run for Special Olympics
+For years, state Rep.
+Peter Abbarno has proudly supported Special Olympics athletes and families throughout Lewis County and across Washington...
+Rep.
+Peter Abbarno Tours Centralia College’s Mobile Training Lab at Tenino Middle School
+TENINO, WA — State Rep.
+Peter Abbarno recently visited Centralia College’s Mobile Career and Technical Education (CTE) Training Lab during a stop at...
+Building Legacies Through Scholarships
+By Peter AbbarnoFor the C-C Chamber of Commerce In communities like Centralia and Chehalis, we understand something that can be easy to overlook:...
+Rep.
+Abbarno visits Centralia High School, highlights career-connected learning opportunities
+In the Chronicle: Washington state Rep.
+Peter Abbarno, R-Chehalis, recently spent the day at Centralia High School connecting with students and...
+Abbarno hostes Ridgefield Raptors Fundraiser
+State Representative Peter Abbarno is hosting a "Night Out at the Ballpark" fundraiser at the Ridgefield Raptors Game on June 2nd.
+Only 50 tickets...
+Accountability and opportunity — getting childcare right in Washington
+In the Chronicle Recent childcare reports raise serious concerns about Washington state’s handling of funding, with the state auditor questioning...
+Governor Signs Capital Budget: Major Win for Clean Water in Centralia
+I am very pleased to see Governor Bob Ferguson sign the 2026 Capital Budget SB 6003; delivering meaningful investments across Southwest Washington...

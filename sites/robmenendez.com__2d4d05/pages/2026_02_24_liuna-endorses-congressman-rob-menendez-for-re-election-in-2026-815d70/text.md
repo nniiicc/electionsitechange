@@ -1,0 +1,12 @@
+Press Releases
+LiUNA Endorses Congressman Rob Menendez for Re-Election in 2026
+NEW JERSEY – The Laborers’ International Union of North America (LiUNA) today endorsed Rob Menendez for re-election to Congress in 2026.
+LiUNA represents more than 20,000 unionized workers in New Jersey.
+“When LIUNA has called on our leaders to step up and support working families, improve access to healthcare, address issues of affordability, and promote the creation of good, family-sustaining jobs, Rob Menendez has always been there to answer the call,” said Mike Hellstrom, Vice President and Eastern Regional Manager, LiUNA.
+“We refer to members of Congress as lawmakers, but they need to be much more than that.
+They need to be protectors of our values, advocates for our communities, and connectors of resources that help make life easier, safer, healthier, and more prosperous for all people.
+Rob Menendez delivers all of this and more.”
+“I am proud to have the support of the men and women of LiUNA, who I have always stood with in the fight to create good jobs, expand access to healthcare, and to improve affordability for our working families,” said Congressman Menendez.
+“LiUNA is a critical ally in our efforts to build a better future for our families, and in some of our largest public projects including the Gateway Program.
+I will always stand with LiUNA and all of our partners in organized labor in support of our shared values and our joint mission to help the working families of our district, our state, and our country.”
+LiUNA members will be very active in the 8th District campaign – participating in member-to-member outreach, labor walks, voter registration drives, and get out the vote activities.

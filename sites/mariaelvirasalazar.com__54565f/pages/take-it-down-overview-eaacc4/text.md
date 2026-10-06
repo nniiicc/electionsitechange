@@ -1,0 +1,20 @@
+The TAKE IT DOWN Act is now the law of the land, and it is already helping protect victims from online exploitation.
+This law makes it a federal crime to publish, or threaten to publish, non-consensual intimate images, including AI-generated sexually explicit deepfakes.
+It also requires covered online platforms to remove this harmful content quickly after receiving a valid request from a victim.
+The law is especially important because technology has changed the way predators can target innocent people.
+Today, someone can take an ordinary photo from social media and use artificial intelligence to create a fake explicit image or video.
+These images can then be used to harass, shame, blackmail, or exploit victims.
+Women, young girls, and children are often the most vulnerable targets.
+For victims and families, the damage can be devastating.
+Once an image is posted online, it can spread in minutes and be copied across different platforms.
+The TAKE IT DOWN Act gives victims stronger protections, helps parents defend their children, and makes clear that online exploitation has serious federal consequences.
+Rep.
+María Elvira Salazar helped lead the fight to pass this bill in the House.
+She introduced the House version of the TAKE IT DOWN Act and helped move it forward with overwhelming bipartisan support.
+The bill passed the House and was signed into law by the President.
+The law is already delivering results.
+In April 2026, the Department of Justice announced the first known conviction under the TAKE IT DOWN Act.
+The case involved cyberstalking, threats, real intimate images, and AI-generated sexually explicit digital forgeries.
+This first conviction shows exactly why the law was needed: victims deserve protection, families deserve peace of mind, and predators must be held accountable.
+The TAKE IT DOWN Act is a major victory for women, children, parents, and all victims of online abuse.
+It protects human dignity, strengthens online safety, and ensures that new technology is not used as a weapon against innocent people.

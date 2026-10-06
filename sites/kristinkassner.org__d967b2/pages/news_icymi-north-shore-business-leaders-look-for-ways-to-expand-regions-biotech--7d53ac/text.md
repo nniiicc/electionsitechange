@@ -1,0 +1,18 @@
+ICYMI: North Shore Business Leaders Look For Ways to Expand Biotech
+H-W News
+By Emma Happel | H-W News Intern
+Leaders from across the state gathered in Ipswich this week to brainstorm how to bring the biotech industry north of Boston.
+Hosted by Ipswich-based New England Biolabs, the June 8 summit was organized in collaboration with BioConnects New England (BCNE) and the Office of State Representative Kristin Kassner.
+The summit focused on workforce development, economic growth and the expanding role of the life sciences industry on the North Shore.
+“A key part of preparing for our future is bringing people together to learn from one another to see what’s possible and to understand where our work intersects, because it's where we intersect that we create new ideas,” Hamilton resident Kristin Kassner said at the event.
+In the opening remarks of the summit, Dr.
+Jared Auclair, co-lead of BCNE, addressed the disconnect between the life sciences industry and public awareness of available career pathways: “One third of our economy is driven by life sciences, but most people don’t know how to enter the life sciences, and that’s a problem,” Auclair said.
+The event’s panel discussion explored why the North Shore is poised for growth, how the region can build the workforce and training systems needed to support the industry, and how local communities can prepare for future opportunities.
+Panelists included Vidhartha Deonarain, director of economic development and partnerships at the Massachusetts Life Sciences Center; John Doyle, senior director of the Academy at Gloucester Marine Genomics Institute; Chris Ilsley, president and CEO of InnoVenture Labs; and Salvatore Russello, chief executive officer of New England Biolabs.
+“There’s a lot of skepticism about biotechnology,” Russello said.
+“I think scientists generally have a difficult time talking about what they do day to day.
+So I think trying to find ways to demystify it, especially for young kids, is something we think a lot about here at New England Biolabs.”
+When asked why their companies are located and continue to stay on the North Shore, Ilsley highlighted the region’s potential for innovation.
+“The privilege of innovation and the reward of entrepreneurship should not just be in Boston and Cambridge,” Ilsley said.
+“It should be in the North Shore as well.”
+Kassner also expressed optimism about the region's future, noting that “the North Shore is really well positioned for a lot of growth to land here.”

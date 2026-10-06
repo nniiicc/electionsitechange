@@ -1,0 +1,16 @@
+AAPI Victory Fund Endorses Suhas Subramanyam for Congress
+Major AAPI Organization Solidifies AAPI Support for Subramanyam in VA-10
+Ashburn, VA – Today, Senator Suhas Subramanyam, Obama White House Alumnus and Candidate for Virginia’s 10th Congressional District (VA-10), announced the endorsement of AAPI Victory Fund.
+AAPI Victory Fund is a national Political Action Committee (PAC) dedicated to promoting and supporting Asian American, Native Hawaiian, and Pacific Islander (AANHPI) candidates for elected office at all levels of government.
+The organization's mission is to increase AANHPI representation in government to better reflect the diversity of the country and to enact policies that benefit the AANHPI community.
+AAPI Victory Fund is the latest in several key endorsements for Senator Subramanyam, including, notably, incumbent Congresswoman Jennifer Wexton.
+This endorsement solidifies major AAPI group support around Subramanyam’s candidacy for VA-10; AAPI Victory Fund joins Asian American Action Fund and Indian American Impact Fund in support of his candidacy.
+“Throughout his career in public service, Suhas Subramanyam has taken on tough fights – and he’s won those fights on behalf of people and communities too often left behind,” said Shekar Narasimhan, chairman and founder of the AAPI Victory Fund.
+“It’s because of this track record of results and fierce passion for justice that AAPI Victory Fund is honored to back Senator Subramanyam’s historic run for Congress.
+As a fellow Virginian, it would be a proud day to have the first-ever South Asian elected to represent Virginia in the U.S.
+House of Representatives.”
+###
+“I’m honored to be endorsed by AAPI Victory Fund in this critical race.
+Our campaign is about electing a representative who is from our local community who will make progress for our local community – from protecting democracy to stopping gun violence, we deserve a representative in Congress who will take on tough fights and win,” said Virginia State Senator Suhas Subramanyam.
+“That’s what I’ve done on the Hill, in the Obama White House, and in Richmond.
+AAPI Victory Fund is a welcome ally in our mission and I look forward to our long partnership together to elect more strong AAPI representatives.”

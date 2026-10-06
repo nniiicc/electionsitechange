@@ -1,0 +1,14 @@
+CLAY FULLER ENDORSES MIKE COLLINS FOR U.S.
+SENATE
+Jackson, GA — Today, Georgia’s Conservative Workhorse Mike Collins announced the endorsement of Georgia’s newest Congressman, Clay Fuller (GA-14), the Trump-endorsed combat veteran and tough-as-nails prosecutor who just delivered a commanding victory in one of Georgia’s most watched congressional races.
+Congressman Fuller, a Lieutenant Colonel in the Georgia Air National Guard and the top prosecutor in Northwest Georgia who put murderers, rapists, and drug traffickers behind bars, knows exactly what kind of fighter Georgia needs in the United States Senate.
+“Mike Collins is the only Republican in this race built to win in November and deliver for Georgia on Day One,” said Congressman Fuller.
+“Georgia doesn’t need another DC show horse.
+We need a proven conservative workhorse who President Trump can rely on to deliver the America First agenda.
+That’s Mike Collins.”
+While others talk about getting things done in Washington, Mike Collins has already done it, becoming one of the few Members of Congress to have authored two bills signed into law by two different presidents.
+That’s the kind of proven, results-driven leadership Congressman Fuller is backing, and that Georgians will send to the United States Senate.
+“It is an honor to have Congressman Fuller’s endorsement,” said Collins.
+“Together we are going to make sure Georgia has a congressional delegation that works as hard as Georgia’s families do every single day, and that starts with sending Jon Ossoff packing in November.”
+Congressman Fuller joins a winning coalition of endorsements that includes Former Speaker Newt Gingrich, Senate Conservatives Fund, CPAC, Club for Growth PAC, Turning Point Action, the National Border Patrol Council, and over 800 grassroots Convoy Captains across all 159 Georgia counties.
+With double-digit leads in every public poll, endorsements from more than 200 elected officials, and $2 million in cash on hand, one thing has never been more clear: Mike Collins is the only Republican built to defeat far-left liberal Jon Ossoff this November.

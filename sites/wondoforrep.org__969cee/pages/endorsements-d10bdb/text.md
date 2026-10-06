@@ -1,0 +1,127 @@
+We are proud to be endorsed by the following organizations and individuals:
+Selectboard/City Council Members:
+Tim Hilchey (Deerfield)
+Carolyn Shores Ness (Deerfield - former)
+John Bottomley (Greenfield)
+Katherine Golub (Greenfield)
+Maisie Sibbison-Alves (Greenfield)
+Marianne Bullock (Greenfield)
+Max Webbe (Greenfield)
+Patricia Williams (Greenfield)
+Rachel Gordon (Greenfield)
+Sara Brown (Greenfield)
+Sarah Bolduc (Greenfield)
+Wahab Minhas (Greenfield)
+John Garrett (Greenfield)
+Jed Proujansky (Leverett)
+Katherine DiMatteo (Leyden)
+Marina Goldman (Montague)
+Nate Card (Montague)
+Nathaniel Waring (Sunderland, Chair)
+Education Leaders:
+Horace Taft-Ferguson (Buckland Library Trustee)
+Carey Etchells (Deerfield School Committee, Chair)
+Pat Ryan (Engage:Deerfield)
+Melissa Novak (Frontier Regional School Committee)
+Ann Childs (Greenfield School Committee, Vice Chair)
+Tara Cloutier (Greenfield Education Association President)
+Stacey Sexton (Greenfield School Committee, Chair)
+Tim Shores (Leverett School Committee)
+Melodie Goodwin (Greenfield School Committee)
+Jessica Corwin (Sunderland School Committee)
+Other Elected Officials:
+Rep.
+Susannah Whipps (State Representative, 2nd Franklin)
+Ben Markens (Ashfield Finance Committee)
+Laura Stravino (Ashfield Finance Committee)
+Eve Blakeslee (Charlemont, former Clerk of Courts)
+Emily Gaylord (Deerfield Planning and Cultural Council)
+Denise Mason (Deerfield Planning Board)
+Solomon Goldstein-Rose (Former State Rep)
+Dorinda Bell-Up (Montague Finance Committee Chair)
+Leigh Rae (Montague Finance Committee)
+Francia Wisnewski (Montague Town Meeting)
+Denise Dipaolo (Montague Town Meeting/Dems)
+Maya Winfrey (Shelburne Board of Assessors)
+Douglas Fulton (Sunderland Planning Board)
+Gabrielle “Ellie” Kurth (Sunderland Planning Board)
+Valerie Voorheis (Sunderland Library Trustee and Finance Committee Chair)
+Other Community Leaders:
+Amy Britt
+Amy Johnson
+Analee Wulfkuhle
+Ann Dillemuth
+Ariel Elan
+Bob Armstrong
+Bob Viarengo
+Cassandra Nawrocki
+Claudia Black
+Courtney Kopec
+David Dempsey
+David Greenberg
+Deb Klein
+Deb Vertery
+Eheis Skies
+Erin Maclean
+Evelyn Wulfkuhle
+Ferd Wulkan
+Geael Brown Humpfrey
+George Gajda
+Ginger Robinson
+Glen Woodworth
+Gretchen Wetherby
+Jason Heffner
+Jean Dempsey
+Jen Hale
+Jennifer Atlee
+Jenny Lee
+Jeremiah McQuillan
+Jeremy Ebersole
+John Davis
+John Majercak
+John McNamara
+John Polak
+John Rae
+John Reynolds
+Jonah Keane
+Josh Becker
+Judith Lorei
+Karen Evans
+Kate Broughton
+Kathleen Lynch
+Kathy Chevalier
+Kementari Whitcher
+Kylie Angell
+Laren Droll
+Larry Klein
+Laurie Rhoades
+Lee Easton
+Linda MacGowan
+Lisa Davol
+Lisa Ranghelli
+Liz Jacobson-Carroll
+Lynn Reynolds
+Maggie Mcmanus
+Maryann Gagen
+Matthew Norris
+Maureen Pollock
+Melinda Baughman
+Meredith Benson
+Michele Craig
+Mike McCusker
+Pam Kelly
+Peter Gagarin
+Richard Easton
+Sady Sullivan
+Sally Pick
+Sandra Boston
+Sara Seinberg
+Shawn Durrett
+Sita Lang
+Stephen Viarengo
+Susan Worgaftik
+Susanae Glovacki
+Suzette Snow-Cobb
+Tamara Kaplan
+Tom Bledsoe
+Wendy Sibbison

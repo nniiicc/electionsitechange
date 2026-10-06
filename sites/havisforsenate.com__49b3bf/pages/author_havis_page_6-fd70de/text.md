@@ -1,0 +1,17 @@
+Testimony on HB 1461 – OPPOSE – Maryland Law Enforcement Trust Act On March 8, 2018, I submitted testimony against bill HB1461 in the Maryland General Assembly, a bill which would create conditions to protect and promote the presence of illegal immigration in Maryland.
+I believe this action is unwise and dangerous as a threat… Continue reading No to Illegal Immigration
+Author: Lee Havis
+Lee supports parent choice in education
+On Saturday, January 27, 2018, I attended and briefly spoke at a townhall discussing the value of “parent choice” to improve education.
+It was sponsored by an alliance of parent choice advocates in Prince George’s County, led by Delvin Champagne.
+In my comments, I emphasized the need to support parent choice by de-centralizing the system… Continue reading Lee supports parent choice in education
+Lee Opposes Non-citizen Voting in College Park
+In Fall, 2017, the city of College Park made national news by passing a motion to approve non-citizen voting in the city’s municipal elections.
+In doing this, they angered many citizens by rejecting the option of referring this controversial issue to a voter referendum.
+Fortunately, the motion to allow non-citizen voting was later held invalid… Continue reading Lee Opposes Non-citizen Voting in College Park
+Lee fights for free market solutions in Washington, DC
+In July 2017, I participated with a coalition of “liberty” organizations, known as “teaparty patriots coalition” to urge the US congress to support the president’s agenda of free market solutions in American economy.
+I was especially representing the local Maryland liberty group, Free State Patriots, which I organized in 2015 to evaluate and support candidates… Continue reading Lee fights for free market solutions in Washington, DC
+Non-citizen Voting is a Bad Idea
+In Maryland, non-citizen voting has recently been proposed by some local political leaders, such as in the City of College Park.
+While the noble-sounding argument for this idea is to welcome foreign residents more fully into the life of the local community, its actual effect is to risk a serious threat to the well-being and… Continue reading Non-citizen Voting is a Bad Idea

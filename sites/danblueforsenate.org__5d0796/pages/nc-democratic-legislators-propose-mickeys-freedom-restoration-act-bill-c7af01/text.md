@@ -1,0 +1,6 @@
+Source: Tampabay.com
+As Florida Gov.
+Ron DeSantis continues to keep the heat on Walt Disney World in his protracted feud with one of the state’s largest employers, rivals from both sides of the political spectrum are taking advantage of the moment to court Disney or call DeSantis out.
+Democratic legislators in North Carolina proposed a bill called the “Mickey’s Freedom Restoration Act” that would fund “a study commission to develop a plan to attract family amusement parks to the state.”
+“Florida doesn’t seem a good fit for the happiest place on earth these days,” North Carolina Senate Democratic Leader Dan Blue tweeted Wednesday.
+“In NC, y’all still means all.”

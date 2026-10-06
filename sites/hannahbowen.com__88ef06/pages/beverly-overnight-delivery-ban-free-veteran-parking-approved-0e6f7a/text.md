@@ -1,0 +1,3 @@
+New Beverly ordinances banning overnight deliveries to most businesses, providing free downtown parking to veterans and a contract extension for Police Chief John LeLacheur’s contract through 2027 were approved at Monday night’s Beverly City Council meeting.
+The approvals wrapped discussions and debates that spanned several recent meetings, while the public hearing on a proposal to expand the availability of accessory dwelling units — or so-called in-law apartments — was closed as the City Council awaits a recommendation from the Planning Committee.
+Read more coverage in both the Beverly Patch and Salem News (overnight deliveries article and Police Chief reappointment article)

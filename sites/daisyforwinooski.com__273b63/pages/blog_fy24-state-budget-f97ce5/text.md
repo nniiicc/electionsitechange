@@ -1,0 +1,86 @@
+FY24 State Budget
+At the end of the session, House members came together to pass a strong budget, co-created with our Senate partners, that addresses key priorities Vermonters told us they care about.
+These shared priorities include a strong and solvent childcare system, more housing across the spectrum, support for a robust workforce, and thoughtful, strategic action on climate and conservation.
+Using a combination of one-time and ongoing base funding, we presented a budget with innovative pathways to support Vermonters when and where they need it.
+This budget is responsive to needs today and anticipates and addresses future challenges we face with regard to our social determinants of health, workforce, economy, infrastructure and climate change.
+It is intentionally crafted to include investments that will impact all Vermonters across 14 counties, in rural villages and our small cities.
+This is a balanced budget that represents our priorities and the needs of Vermonters.
+The base budget that the legislature built, debated and passed is about 3 percent higher than the budget proposed by Governor Scott in January, with much of the funding flowing toward improvements in our mental health, older Vermonter and disability services, food security, adult day programs and other critical service providers.
+Childcare
+H.494 sets aside funds to expand access to childcare, making it more affordable and accessible for more Vermonters, while raising pay for our valued early care and learning professionals.
+While it’s important to pay highly skilled professionals adequately for the important work they do, this measure also aims to grow the profession in Vermont so parents who want to work can find the high-quality care that they need to enter the workforce or expand their work hours.
+The budget invests $76 million to support H.217, the childcare and early education bill, which seeks to provide quality, affordable childcare to Vermonters across the state.
+These funds will help set the stage for the expansion of our Childcare Financial Assistance Program (CCFAP), making early care and education more affordable for many more families.
+This expansion will also put more money in the hands of childcare providers to help them increase wages in order to retain and grow their workforce.
+Clean Water
+The legislature continues to support clean water for Vermont and Vermonters.
+This includes investing in water, sewer and stormwater infrastructure; reducing pollution that enters our waterways and leads to harmful algal blooms; and programs that improve water quality while boosting resilience to climate change impacts, such as flooding.
+In the coming years, the Legislature will need to evaluate our progress towards meeting our clean water goals, including the restoration of the Lake Champlain, Connecticut River and Lake Memphremagog basins.
+Much of this funding comes from the Legislature’s established Clean Water Fund.
+Revenues to support the fund come from a portion of the rooms and meals tax, from unclaimed beverage container deposits, and the capital fund.
+This year’s Transportation bill includes policies and investments to help us reduce greenhouse gas emissions by helping Vermonters transition to more fuel-efficient vehicles, and supports public transportation and infrastructure that facilitates walking, biking, and public transit options in communities throughout the state.
+Looking ahead, $355 million in additional federal dollars are anticipated for water investments through the Infrastructure Investment and Jobs Act (IIJA).
+Climate Investments
+$9.8M as state match for the IIJA Drinking Water and Clean Water State Revolving Funds
+$8M to assess, plan and clean up contaminated “brownfield” sites
+$6.1M to address septic, water and energy needs of older Vermont housing stock
+$321K to fund three Environmental Justice positions
+$130K to restore a position in the Vermont Lakes and Ponds Program (landowner stewardship education via the state Lakewise program) and an additional $130K position to support the state aquatic invasive species program
+$500,000 to stabilize the state aquatic invasive species prevention grants program
+$1M to support Outdoor Recreation Grant Match for small communities
+$200K to develop recommendations for changes to Act 250
+$500K to the Department of Forests, Parks and Recreation for emerald ash borer mitigation and low income heating assistance (the removed infected ash trees will provide free firewood to households with low income)
+$1M to the Department of Environmental Conservation to provide technical assistance in PFAS groundwater contamination remediation
+$500k for the creation of the Electrify Your Fleet program
+Continued funding for e-bikes ($50k on top of $100k in the FY23 Budget Adjustment Act)
+$18M for bike/ped and transportation alternatives; $27.9M for environmental policy & sustainability; $8.7M for public transit and $43M for rail
+$850k of bridge funding for Green Mountain Transit (GMT) to continue Zero Fare through December of 2023.
+This gives them funds and time to modernize their fare collection systems.
+Housing
+From March 2020 through May 2022, Vermont invested $908 million — mostly federal stimulus funding — into expanding our affordable housing supply and providing housing assistance.
+These investments cover constructing, acquiring and rehabbing affordable housing units through VHCB; bringing rental units online through VHIP; supporting recovery housing; providing emergency rental assistance to tenants and landlords through the VERAP program; supporting first-generation and missing-middle homebuyers; and providing non-congregate housing and services to homeless Vermonters.
+For the upcoming fiscal year, H.494 makes strong investments in building affordable housing, housing for those currently in the hotel/motel program (including supportive services for those who need them), and funding for the rehabilitation of apartments and creation of accessory dwelling units through the popular VHIP program.
+Taken together, our budget allocates $211 million for housing and supportive services in both base and one-time funding (compared to the Administration’s proposed housing budget of ~$55 million).
+It also provides for action-oriented reports, due back to the legislature in time for action during the 2024 session, on vital initiatives including the implementation cost of a rental registry for long- and short-term rentals, the state’s “crisis standards” for emergency housing and shelter, and how to meaningfully reduce homelessness statewide, including increasing access to shelter and supports.
+Housing Investments
+$49M to the Vermont Housing and Conservation Board to increase the supply of permanently affordable housing.
+This total reflects $27.5M in the mid-year FY23 budget adjustment act plus $21.5M in base to VHCB from the property transfer tax.
+Up to 40% of the $21.5M base appropriation ($8.6M) can be used for conservation purposes.
+$10M to VHIP to rehabilitate apartments that are offline or in violation of building codes, or to build or renovate accessory dwelling units (plus $5M in FY23 BAA)
+$60.1M to support emergency shelters, temporary housing and supportive services
+$3M for family supportive housing
+$8.2M to fund recovery housing and housing for youth exiting foster care or those leaving prison
+$1.2M to the VT Land Access and Opportunity Board, created in FY23 to create opportunities and improve access to woodlands, farmland, and land and home ownership for Vermonters from historically marginalized or disadvantaged communities
+$30.4M to stabilize and expand capacity in long-term care facilities
+$4M for manufactured housing repairs - this is existing money that has been reallocated for broader uses involving manufactured housing
+$500K for State Parks staff housing
+Plus: $12.5 million in one-time funds to help our community partners, working with the state, to transition people in the GA emergency housing program to more permanent housing or other temporary shelter.
+Workforce
+H.494 invests in building and retaining a vibrant workforce across many sectors vital to Vermont’s economy including health care, education and the trades.
+Plus, additional healthcare, mental health and substance misuse disorder recovery and treatment supports are embedded across our entire budget.
+This budget includes more than $74.2 million in workforce development initiatives, including student loan forgiveness for teachers, health care professionals and other essential job fields; certifications and training in the trades and critical occupations; investments in adult education and literacy; and climate workforce supports such as a coaching program for climate business entrepreneurs and grants for small- and mid-sized agricultural producers.
+Workforce Investments - Highlights
+$4M to the Community College of Vermont to reduce tuition for certificates, degrees and courses that have a direct nexus to Vermont business and industry needs
+$1M for refugee resettlement assistance, ensuring that new Vermonters are provided with opportunities to find work that best suits them
+$1M for work-based learning and training through the Department of Labor
+$2.5M toward the new and underrepresented K-12 Educators forgivable loan programs
+$1M to support Reach Up supports to enable work
+$2.3M for Vermont Serve, Learn & Earn basic education
+$3.8M to Vermont State Colleges for scholarships for critical occupations
+$1M for VT Psychiatric Mental Health Nurse forgivable loan program at Vermont State Colleges
+$1M for EMS training
+$3.3M for the Agency of Agriculture producer grants to support economic development
+$6.9M to support organic dairy farms
+Increasing Provider Payment Rates
+One of the single most impactful investments we can make is in our care givers.
+This budget raises Medicaid provider reimbursement rates for key healthcare and human services providers.
+Their rates have been underfunded for years, making it hard for providers to make ends meet and hard for us as patients to find the care we need when we need it.
+Increasing rates will help Vermont attract and retain the workforce we require and deserve, as well as meet the demand for services of our population.
+Totaling $99.7 million, these long-overdue rate increases will support dentists, primary and specialty care providers, adult day services, home health, nursing homes and residential care, substance use and mental health, and ambulance services.
+Substance Misuse and Mental Health Investments
+$20 million to expand mental health and DULCE (maternal and family) services through the Blueprint for Health Hub and Spoke which serves all Vermonters regardless their ability to pay.
+The budget also expands our mobile crisis program statewide to respond to immediate mental health and substance use crises, saving lives while reducing the pressures on hospital emergency departments.
+Additionally, it commits $1.85m to a regional recovery center.
+The Budget also funds key social equity initiatives: a comprehensive effort to address language barriers to accessing state information and resources and fund the continued work of Vermont’s Truth and Reconciliation Commission and Land Access and Opportunity Board.
+This is just an overview.
+If you would like to dig deeper into any of the above, let me know (contact info is at the bottom of this page).

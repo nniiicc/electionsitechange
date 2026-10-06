@@ -1,0 +1,52 @@
+I’ve had tremendous success with legislation this session.
+Five bills I drafted and filed are now law and many others are close to the finish line.
+Bills Now Law
+H.2359 An Act to prohibit carrying firearms in sensitive places
+Filed with Representative Linsky (Natick), this bill prohibits the possession of firearms in schools, polling places, and government buildings.
+Included in the omnibus H.4135 An Act modernizing firearm laws and signed into law on July 25, 2024.
+H.4723 An Act authorizing the town of Brookline to convey a parcel of land to the Pierce School Building Committee to install subsurface geothermal wells
+This bill allows the Town of Brookline to drill geothermal wells under Pierce Park in order to heat and cool the to-be-built Pierce School with fossil-fuel-free technology.
+Signed into law August 9, 2024.
+H.2973 An Act relative to commuter transit benefits
+Filed with Representative Owens (Watertown) and Senator Keenan (Quincy), this bill expands the current commuter transit tax deduction to include Massachusetts Bay Transit Authority (MBTA) and Regional Transit Authority (RTA) transit, bus, commuter rail, and commuter boat fares; BlueBikes memberships; and personal bicycle expenditures.
+Included in the omnibus H.4104, An Act to improve the Commonwealth’s competitiveness, affordability, and equity and signed into law October 4, 2023.
+H.2937 An Act relative to tax deeds and protecting equity for homeowners facing foreclosure
+Filed with Representative Roy (Franklin), this bill cures an inequity under prior law that allowed a municipality to foreclose on a property and collect the entire value of the property (above and beyond the debt that is owed) when a property owner had any unpaid municipal tax or fee, of any dollar amount.
+This bill requires that process for collectors to receive tax or fee liabilities and requires tax collectors seeking foreclosure to appear before land court for authorization is fair and clearly communicated to the homeowner.
+It also requires the municipality or third-party acting on its behalf to return the difference between the value of the seized asset and the debt for rather than keeping the surplus for itself.
+Signed into law July 29, 2024.
+H.3852 An Act supporting electrical load aggregation programs in the Commonwealth
+This bill requires the Department of Public Utilities to process municipal electric aggregation programs more quickly, and clarifies which changes to the aggregation programs require detailed review.
+These changes will allow municipal aggregation programs like Brookline Green Electricity to meet evolving town interests on a timely basis.
+Enacted via D.P.U.
+Order 23-67-A.
+Bills Still In Play
+Over the course of the session, the legislature’s committee review process winnows down the 6,000 bills filed; most bills have already been sent to study and are no longer eligible to become law.
+However, nine of my bills have survived the committee process.
+I’m working hard to pass them in the House of Representatives.
+H.608/S.321 An Act to ensure charter school transparency and public accountability
+Filed with Representative Ultrino (Malden) and Senator Moran (Plymouth), this bill requires charter schools to operate in a manner more similar to public schools.
+The bill increases parental and student involvement in decision making, requires documents and budgets to be made public, regulates discipline, improves data collection, protects whistleblowers, and more.
+H.922/S.2177 An Act advancing water access equity through utility reporting requirement
+Filed with Senator Rausch (Needham), this bill requires municipalities to report information regarding water utility access, shutoffs, and related non-payments and liens to the Massachusetts Executive Office of Energy and Environmental Affairs.
+H.1181/S.2208 An Act relative to petit treason
+Filed with Senator DiDomenico (Everett), this bill eliminates “petit treason” from Massachusetts General Laws, where it appears as a crime to be prosecuted and punished as murder.
+A legacy of English colonial rule, a petit treason occurs in Massachusetts: where a servant killed their master or mistress; where a wife killed her husband; and where a clergyman killed his superior.
+Mark and Phillis, two enslaved people who murdered their enslaver in 1775 in Charlestown, were the only people to ever be tried and convicted of petit treason in Massachusetts.
+Petit treason remains on the books as a racist and misogynistic result of our colonial past and has no place in our laws today.
+This bill has been combined with several others as S.2561.
+H.1929/S.1193 An Act expanding access to commuter transit benefits offered by employers
+Filed with Representative Owens (Watertown) and Senator Keenan (Quincy), this bill requires Massachusetts employers with 50 or more employees to offer an optional commuter transit benefit program through which employees could use pre-tax salary dollars to cover commuter costs including transit passes, commuter highway vehicles, and bicycle costs.
+H.2415 An Act establishing a special commission to ensure the safety and sustainability of non-profit public events
+Filed with Senator Timilty (Milton), this bill establishes a commission to investigate, study and evaluate the costs and benefits related to creating a fund to support the needs of public safety and sustainability and waste mitigation for nonprofit events in Massachusetts.
+H.2681/S.1632 An Act relative to certain employees of the MBTA advisory board
+Filed with Senator Crighton (Lynn), this bill adds the employees of the Massachusetts Bay Transportation Authority (MBTA) Advisory Board to the Group Insurance Commission and State Retirement Board System, correcting previous legislation that excluded these employees.
+H.2682 An Act relative to timely retirement payment
+This bill ensures that recent State retirees begin receiving their retirement payments as soon as they are eligible.
+The bill requires the Massachusetts Retirement Board to pay 90% of a retirees estimated full monthly retirement payment in circumstances where the retirement board is unable to calculate the full monthly payment in time for the first full payment date.
+H.3127 An Act relative to chapter 30B procurement parity
+A single procurement threshold for all municipal purchasing will streamline the procurement process, as many cities and towns employ a single procurement officer for both school and general municipal needs.
+H.3471 An Act relative to the enhancement of child safety
+Ice cream trucks are required to have and use yellow flashing lights when selling frozen treats, similar to tow trucks when performing a tow.
+This bill provides an enforcement mechanism, allowing law enforcement officers to assess a $50 fine to any ice cream truck operator not using yellow flashing lights when selling desserts.
+It also includes inspection of these safety lights as part of the annual vehicle safety inspection process.[youtube https://www.youtube.com/watch?v=vP7bmnf1bMQ&w=560&h=315]

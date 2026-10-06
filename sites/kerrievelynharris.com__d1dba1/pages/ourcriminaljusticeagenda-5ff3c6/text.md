@@ -1,0 +1,18 @@
+Our Criminal Justice Agenda
+Currently, too many individuals, families, and communities suffer due to mass incarceration.
+Especially those who end up behind bars.
+They’ll go in with the prospect of being sentenced under a mandatory minimum, then they’ll leave with the prospects of unemployment and low-wage work, despite having served their time in prison, which then costs us in terms of state assistance and loss of tax revenue.
+This is no way to treat our own.
+When our public safety and criminal justice system rely on smart, restorative practices rather than promoting high rates of imprisonment, then we improve safety for all.
+Let’s Dare to Act for:
+- A restorative justice system, instead of a punitive-based system
+- Repealing the death penalty
+- Ending our cash bail system
+- Taxing and regulating marijuana
+- Ending the criminalization of private debt
+- De-escalation training and demilitarizing the police
+- Stopping mandatory minimums and excessive sentences
+- A culture of community policing
+- Strengthening re-entry programs
+- Community oversight of police
+- Dismantling the for-profit criminal justice system (and include retraining opportunities for personnel)

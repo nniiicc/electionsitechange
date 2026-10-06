@@ -1,0 +1,96 @@
+Patty's agenda
+What We're Fighting For
+Lower Costs.
+Higher Wages.
+Hardworking families are getting squeezed between high rents and high prices for food, medicine, utilities, and other necessities.
+Big companies are reporting record profits, but Patty Garcia is advocating for reduced costs, workers' rights, and making the rich pay their due share.
+Patty's top priorities
+- Raising the federal minimum wage
+- Passing the PRO Act
+- Expanding the Child Tax Credit
+- Reducing the cost of medicines and prescriptions
+- Building more affordable homes
+- Protecting Social Security and Medicare
+- Punishing big businesses that raise prices on essential goods
+Defend Immigrant Families.
+Immigration enforcement is being used to terrorize working-class immigrant communities instead of creating real reform.
+She has spoken out against abusive enforcement tactics and believes families deserve dignity, due process, and the ability to live without fear.
+Patty supports
+- A pathway to citizenship
+- Protections for Dreamers and mixed-status families
+- Expanded legal services for immigrants
+- Stronger oversight and accountability for federal immigration agencies
+- Fundamentally restructuring immigration enforcement agencies, including abolishing ICE
+100% Pro-Union Investment
+Patty is backed by the labor movement because of her commitment to the workers.
+Infrastructure projects must provide well-paid union employment opportunities as well as tangible benefits to working-class families, rather than simply benefiting corporations.
+Patty has successfully brought about federal funding that has made possible various road, transportation, flood control, and water projects within our district.
+A strong advocate for
+- Prevailing wage protections
+- Project labor agreements
+- Substantial investment in public transport
+- Replacing pipes that contain lead
+- Apprenticeship opportunities
+Healthcare Is a Right
+Nobody should be made to declare bankruptcy after becoming ill.
+Patty backs Medicare for All to ensure healthcare as a human right, provide access to more healthcare coverage, reduce prescription drug prices, and end medical bills that have become a burden on middle-class families.
+Patty also supports
+- Reproductive healthcare rights
+- Increasing mental health care
+- Improving community health clinics
+- Letting Medicare bargain for better prescription prices from pharmaceutical companies
+Fully Fund Public Schools
+Public education should be funded, protected, and accountable to students, parents, and educators — not privatized for profit.
+As someone with a Ph.D. in Education Policy, she understands the importance of investing in strong neighborhood schools that serve every child.
+Patty supports
+- Increasing federal funding for public schools
+- Expanding early childhood education
+- Protecting special education and bilingual education programs
+- Raising teacher pay
+- Making college more affordable through expanded Pell Grants and student debt relief
+Keeping Billionaires Out
+Our democracy should not be owned by billionaires, corporations, and interest groups who seek to gain power through bribery.
+Patty is in favor of
+- Reversing Citizens United
+- Ending stock-trading by congressional representatives
+- Toughening campaign contribution reporting
+- Safeguarding voting rights
+- Increasing early and mail-in voting opportunities
+- Combating the influence of dark money in politics
+Peace, Not Endless War
+Patty is an advocate for ending all wars, occupation, and U.S. policies that promote violence abroad when working families continue to suffer at home.
+Patty supports foreign policy based on diplomacy rather than warfare, international cooperation rather than domination, and respect for human rights, not corporate or military profits.
+Patty favors
+- More congressional control over the use of military force
+- Increased humanitarian relief
+- Protection of civilians
+- Renewed emphasis on diplomacy and peace-making
+- Re-channeling of funds into domestic areas such as health care, education, and infrastructure
+End the Genocide in Gaza
+Patty believes that what the Israeli government has been doing to Palestinians in Gaza through mass murder and starvation is genocide.
+Patty rejects the influence of AIPAC and billionaire-funded super PACs that use money and intimidation to silence criticism of Israeli government policy and manipulate American elections.
+Her position
+- An immediate and permanent ceasefire
+- Cessation of all United States military assistance and arms shipments to Israel in its attack on Gaza
+- Humanitarian assistance must be restored
+- The government of Benjamin Netanyahu must be held accountable for violations of international law and human rights abuses
+Climate Action Now
+Patty firmly believes that climate change is very much a real and looming danger to our planet that has started to affect communities at the grassroots level through flooding, increased temperatures, pollution, and higher costs of living.
+Patty advocates for the strong push towards the adoption of sustainable energy and advanced infrastructure with good-paying union jobs.
+Patty is in favor of
+- The expansion of clean energy
+- Updating of the current public transportation systems
+- Fixing the issue of lead pipes
+- Spending on flood mitigation efforts
+- Taking down those responsible for the pollution of the environment
+- Moving towards a clean energy economy
+Retiring with Dignity
+Seniors should have respect, stability, and security having worked hard all their lives.
+Patty opposes any plans to reduce funds allocated to Medicare and Social Security and is against privatization of programs which are utilized daily by millions of American seniors.
+Seniors should never have to make a choice among their medications, paying rent, buying food, or paying utility bills.
+Patty supports
+- Increasing coverage of Medicare
+- Reducing drug costs
+- Protecting pensions
+- Increasing home healthcare budgets
+- Improving Social Security benefits to help seniors cope with the rising expenses

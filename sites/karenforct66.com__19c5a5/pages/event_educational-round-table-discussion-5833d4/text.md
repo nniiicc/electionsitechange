@@ -1,0 +1,43 @@
+Skip to primary navigation
+Skip to main content
+Skip to footer
+Karen Reddington-Hughes
+State Representative CT66
+About
+Where I Stand
+News & Updates
+Our District
+Bethlehem
+Litchfield
+Morris
+Warren
+Woodbury
+Calendar
+Gallery
+Get Involved
+« All Events
+This event has passed.
+Educational Round-table Discussion
+March 6 @ 1:00 pm
+-
+2:00 pm
+«
+Bethlehem RTC
+Woodbury-Southbury Rod & Gun Game Dinner
+»
+Add to calendar
+Google Calendar
+iCalendar
+Outlook 365
+Outlook Live
+Details
+Date:
+March 6
+Time:
+1:00 pm - 2:00 pm
+Venue
+EDAvance Early Childhood Learning Center
+Torrington
+,
+Organizer
+EDAdvance

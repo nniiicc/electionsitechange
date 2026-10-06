@@ -1,0 +1,51 @@
+Health.
+Education.
+Opportunity.
+Ethics and good government
+Every one of us pays the price for corrupt or inept elected officials.
+Since 2010, there have been 6 credit downgrades in Pennsylvania, costing taxpayers more than $100,000,000 each year.
+Danielle is committed to promoting good governance by:
+Fixing Republican gerrymandering so that citizens’ votes actually count
+Fixing a tax system that punishes working families and gives hand-outs to the wealthy and to corporations
+Making it easy for citizens to vote
+Not accepting contributions from corporate PACs
+Protecting the environment
+The state constitution grants every Pennsylvanian the right to clean air and water.
+Time and again, Representative Otten has used her organizational and policy skills to make it harder for Big Oil and other polluters to wreak havoc in our neighborhoods and communities.
+Education
+Danielle is committed to giving the students of Chester County and Pennsylvania a better future by:
+Fully and equitably funding our public schools
+Closing corporate tax shelters and loopholes to increase revenue for public schools while reducing the tax burden on senior citizens and working families
+Holding charter schools to the same standards of transparency and accountability as public schools
+Expanding pre-K, full-day kindergarten, and STEM and arts programs
+Reducing or eliminating standardized testing
+Mandating recess and lunch time for students and teachers
+Ensuring that plans for online or blended instruction create equity and access for every student as we adapt educational models to prevent the spread of COVID-19
+Healthcare
+Danielle will fight to make sure health care is a right for all Pennsylvanians.
+She will:
+Work toward real solutions to the opioid crisis by making addiction and mental health services affordable and accessible
+Work to bring down costs for premiums, co-pays, and prescription drugs
+Fight to stop the denial of health insurance coverage because of pre-existing conditions
+Stand up for nurses by supporting safe staffing limits
+Simplify our healthcare so doctors and nurses can focus on patients instead of insurance company red tape
+Common sense and common ground gun safety
+Danielle has been recognized as a Mom’s Demand Action and CeaseFire PA Gun Sense Candidate.
+She has a 100% rating with CeaseFire PA.
+She supports organizations like Gun Sense Chester County, which brings gun owners and non-gun owners together to discuss common ground solutions to gun safety in our communities.
+Danielle is a strong advocate for:
+Investment in solving the overall violence problem in our communities
+A background check with every gun purchase
+A minimum age for gun purchases and child access prevention policies
+Banning bump stocks and limiting the size of magazines
+Requiring a permit for concealed carry
+Danielle does not support arming teachers or school staff outside of law enforcement professionals.
+Empowering women
+Now, as much as ever before, we need to stand up for women in Pennsylvania.
+Danielle will:
+Support implementing a paid family leave program
+Protect women and provide accountability for workplace harassment
+Stand up for access to women’s health care, including birth control
+Protect a woman’s right to choose
+Want to know more?
+Danielle responds to voters’ questions about these issues and more on the FAQs page.

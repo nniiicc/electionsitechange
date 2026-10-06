@@ -1,0 +1,2 @@
+| As the holiday season is upon us, I wanted to update you on what I've been up to since officially becoming your State Representative-elect for the 15th Middlesex District.
+Read on to find information about my meetings with future colleagues, my time in Amherst for New Legislator Bootcamp, my new Legislative Aide, and more! | Archives Categories All Announcement Donate Endorse/Endorsement Event News Press Support |

@@ -1,0 +1,20 @@
+FOR IMMEDIATE RELEASE
+January 8, 2026
+Contact: press@jjr.vote, 786-683-8781
+Orlando, Fl.- Former United States Senator Bill Nelson announced his endorsement of José Javier Rodríguez for Florida Attorney General, citing Rodríguez’s record of public service, commitment to accountability, and dedication to protecting Florida families.
+Nelson’s endorsement underscores confidence in Rodríguez’s experience, judgment, and leadership at a critical moment for Florida families.
+For decades, Senator Nelson has served Florida with integrity and independence, earning the trust of families across the state through steady, principled leadership on behalf of working families, veterans, and consumers.
+“I’m honored to earn Senator Nelson’s support,” said José Javier Rodríguez, Democratic candidate for Florida Attorney General.
+“Senator Nelson set the gold standard for public service in Florida.
+He has spent his career serving Florida with integrity and independence, always putting the public interest first.
+Whether as a legislator, a U.S. senator, or a national leader on consumer and environmental protection, his voice carries real weight because Floridians know he tells the truth and fights for them.
+Bill Nelson has been a steady moral compass - respected across parties for his honesty, seriousness, and unwavering belief that government should work for regular people, not the powerful.”
+“I am proud to endorse José Javier Rodríguez for Attorney General because he embodies the very spirit of public service our state deserves,” said Bill Nelson, former United States Senator.
+“Throughout his career, he has stood up for fairness, accountability, and the rule of law, always listening to the people he represents and working tirelessly to protect their rights and safety.
+“I believe a public office is a public trust.
+In these challenging times, we need leaders who see public office not as a platform for themselves but as a sacred trust to serve hardworking families with integrity, courage, and a deep commitment to the common good.
+I’m confident that José Javier Rodríguez will carry that commitment into the Attorney General’s office and fight every day to keep our communities safe and ensure government works for the people.”
+José Javier Rodríguez is a workers’ rights attorney, a former state senator, and a former Assistant Secretary of Labor who has spent his career fighting for working families, protecting consumers, and holding powerful interests accountable.
+He is running for Attorney General to serve as the People’s Lawyer and restore independence and accountability to the office.
+Rodríguez’s campaign continues to build momentum around a clear message: fighting crime, corruption, and rising costs, and restoring accountability in Tallahassee.
+###

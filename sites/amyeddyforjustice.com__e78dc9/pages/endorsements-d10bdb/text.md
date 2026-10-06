@@ -1,0 +1,49 @@
+Endorsements
+KATHERINE BIDEGARAY
+MONTANA SUPREME COURT JUSTICE
+INGRID GUSTAFSON
+MONTANA SUPREME COURT JUSTICE
+PATRICIA COTTER
+RETIRED MONTANA SUPREME COURT JUSTICE
+WILLIAM LEAPHART
+RETIRED MONTANA SUPREME COURT JUSTICE
+JIM NELSON
+RETIRED MONTANA SUPREME COURT JUSTICE
+DIRK SANDEFUR
+RETIRED MONTANA SUPREME COURT JUSTICE
+RETIRED MONTANA SUPREME COURT JUSTICE
+JIM REGNIER
+MIKE WHEAT
+RETIRED MONTANA SUPREME COURT JUSTICE
+ORGANIZATIONS
+JUDICIAL ENDORSEMENTS
+- Judge Elizabeth Best (Cascade)
+- Judge Holly Brown (Ret., Gallatin)
+- Judge John Brown (Gallatin)
+- Judge Katherine Curtis (Ret., Flathead)
+- Judge David Cybulski (Ret., Daniels, Roosevelt and Sheridan)
+- Judge Jeffrey Dahood (Deer Lodge, Granite and Powell)
+- Judge Colette Davies (Yellowstone)
+- Judge Dusty Deschamp (Ret., Mineral and Missoula)
+- Judge Bart Erickson (Ret., Flathead County and U.S.
+Magistrate)
+- Judge Don Harris (Yellowstone)
+- Judge Joe Hegel (Ret., Carter, Custer, Fallon, Garfield, Powder River, Rosebud and Treasure, and Water Court)
+- Judge Kurt Krueger (Ret., Silver Bow)
+- Judge Julie Macek-Sandefur (Ret., Cascade)
+- Judge Jason Marks (Mineral and Missoula)
+- Judge Ed McLean (Ret., Mineral and Missoula)
+- Judge Mike Moses (Ret., Yellowstone)
+- Judge Nick Murnion (Ret., Carter, Custer, Fallon, Garfield, Powder River, Rosebud and Treasure)
+- Judge Peter Ohman (Gallatin)
+- Judge Jon Oldenburg (Ret., Fergus, Judith Basin and Petroleum)
+- Judge David Ortley (Ret., Flathead)
+- Judge Olivia Rieger (Dawson, Wibaux and Prairie)
+- Judge Mike Salvagni (Ret., Gallatin)
+- Judge David Sandler (Ret., Workers’ Compensation Court
+- Judge Kathy Seeley (Broadwater and Lewis & Clark)
+- Judge Jeffrey Sherlock (Ret., Broadwater and Lewis & Clark)
+- Judge Greg Todd (Ret., Yellowstone)
+- Judge Karen Townsend (Ret., Mineral and Missoula)
+- Judge Jim Wheelis (Ret., Lincoln, Mineral and Missoula)
+- Judge Bob Whelan (Silver Bow)

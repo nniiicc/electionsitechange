@@ -1,0 +1,3 @@
+Video
+- Our first ad “The Race” is running!
+I’m running as an independent Democrat — ready to keep housing decisions local, hold the line on taxes, and fight the special interests and corruption…

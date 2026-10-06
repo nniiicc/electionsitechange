@@ -1,0 +1,24 @@
+Mejorando la Seguridad Pública
+JB sabe que la principal responsabilidad de cualquier funcionario electo es proteger a sus electores.
+Por eso, ha contratado más policías, proporcionado mejor tecnología y equipo al personal de emergencia y fortalecido las leyes de seguridad con armas de fuego para proteger a las familias de Illinois.
+Gracias a esta labor, los delitos violentos han disminuido y el equipo de emergencia y el público en general están mejor cuidados
+Seguridad de las Armas de Fuego
+Prohibió armas de asalto, armas fantasmas, modificador de armas y cargadores de alta capacidad
+Reducir la Violencia
+Se duplicó la financiación para la prevención y la intervención en casos de violencia, al tiempo que se impulsaron las inversiones en salud mental y tratamiento del consumo de sustancias
+Encarcelamiento de Criminales Violentos
+Se facultó a los jueces para mantener a los criminales violentos fuera de las calles impidiéndoles comprar su salida de la cárcel
+Contratación de Policías
+Se agregaron cientos de oficiales a la Policía Estatal de Illinois, incluida la clase de cadetes más grande en la historia del estado
+Laboratorios Criminalísticos
+Construyó un laboratorio forense de última generación para ayudar a resolver crímenes, eliminó la larga acumulación de los kits de violación y financió un laboratorio criminalístico adicional y una nueva sede en el norte de Illinois
+Implementó la licencia para comerciantes de armas para eliminar las compras de armamento a escondidas y reducir el tráfico ilegal de armas
+- Cobertura ampliada para servicios de salud mental, prevención del suicidio y tratamiento del abuso de sustancias
+- Se eliminó la acumulación de años de evidencia de kits de violación para brindar justicia a las víctimas más rápidamente
+Comparte con tu red
+Únete a #TeamJB
+Regístrese para unirse al equipo hoy mismo y recibir actualizaciones de la campaña, informarse sobre las oportunidades de voluntariado y mucho más.
+Al enviar su número de teléfono móvil, acepta recibir mensajes de texto periódicos de esta organización.
+Se pueden aplicar tarifas de mensajes y datos.
+Envíe HELP por mensaje de texto para obtener más información.
+Envíe STOP por mensaje de texto para dejar de recibir mensajes.

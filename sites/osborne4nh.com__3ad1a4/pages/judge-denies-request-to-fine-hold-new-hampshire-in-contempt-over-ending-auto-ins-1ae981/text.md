@@ -1,0 +1,25 @@
+A federal judge denied a request to fine New Hampshire and hold it in contempt over the end of mandatory auto inspections, the New Hampshire Union Leader reported.
+The ruling came as the state continued its appeal of an earlier order while issuing a request for proposals to line up a vendor.
+The judge concluded the state’s steps amounted to substantial compliance, the outlet noted.
+The ruling was the latest turn in a closely watched legal fight over the end of mandatory inspections in the state.
+As the New Hampshire Union Leader reported, the company had asked the court to find the state in contempt and impose financial penalties, arguing officials had not done enough to comply with the earlier order to resume the program.
+As the New Hampshire Union Leader reported, the judge found that the state’s issuance of an RFP showed it was making diligent efforts to comply with the court’s preliminary injunction.
+On Wednesday, McCafferty denied the contempt request, saying the state issuing an RFP constitutes “diligent efforts amounting to substantial compliance with this court’s preliminary injunction.”
+the New Hampshire Union Leader
+The court also addressed the practical status of the inspection program, the New Hampshire Union Leader noted, acknowledging that no vendor was yet in place while crediting the state’s efforts to resume it.
+McCafferty found while there currently isn’t a vendor in place to operate the vehicle inspection and maintenance program, “the Commissioners have taken and are taking reasonable, appropriate measures to resume” the program.
+the New Hampshire Union Leader
+The ruling directly rejected the company’s characterization of the state’s efforts as inadequate, according to the reporting.
+“The court disagrees with Gordon-Darby,” McCafferty’s ruling states.
+the New Hampshire Union Leader
+The the New Hampshire Union Leader account also recapped the Executive Council vote that preceded the dispute and set the stage for the contract’s termination.
+Earlier this year, the Executive Council voted, 3-2, to reject granting a 60-day contract extension to Gordon-Darby while Gov.
+Kelly Ayotte’s administration seeks the approval from the U.S.
+Environmental Protection Agency to end its inspections program.
+the New Hampshire Union Leader
+As the New Hampshire Union Leader reported, the dispute stems from a preliminary injunction the judge issued earlier in the year, which concluded the state had violated the federal Clean Air Act by ending inspections without first obtaining federal approval.
+The outlet noted that the state developed and issued the request for proposals while continuing its appeal, and that the RFP came after the court declined to suspend its ruling during the appeals process.
+The full story at the New Hampshire Union Leader details the judge’s reasoning, the status of the appeal, and the steps the state has taken as the legal fight over inspections continues.
+For state officials, the decision validated the approach they had taken while pressing forward with their appeal.
+The ruling, as the New Hampshire Union Leader reported, found that the steps the state had already taken were enough to avoid penalties, even as the larger question of whether inspections must resume remained before a higher court.
+Read the full story at the New Hampshire Union Leader.

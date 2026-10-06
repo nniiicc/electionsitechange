@@ -1,0 +1,8 @@
+Serving the Community
+karenspalding73
+Jun 15, 2022
+Updated: Sep 6, 2022
+Have you seen this sign surrounded by city trash bags?
+Instead of just putting up advertisement, Karen and friends are letting the public know they are cleaning up several areas in the MO State House Representative, District #19.
+Karen is quoted saying, "It is not about me it is about working together to address issues and overcome challenges."
+Let her know how she can help at Spalding4Missouri@gmail.com or contacting her through this website.

@@ -1,0 +1,12 @@
+STATEMENT ON SECURING $2 MILLION REIMBURSEMENT TO EAGLE PASSFOR STATE TAKEOVER OF SHELBY PARK
+Austin, TX - Eagle Pass was the center of one of the most unprecedented humanitarian crises we have seen in our lifetime.
+I was proud to Joint Author Operation Lonestar to ensure our communities had the resources they needed and for the state to stand up when the federal government did not.
+However, one overstep, I believe, was the overnight takeover of Shelby Park in lieu of Eagle Pass' Solar Eclipse Music Festival, leaving the City and our taxpayers on the hook for the $2 million festival after it was forced to change locations.
+Just as the State of Texas deserves a full reimbursement from the federal government for Operation Lone Star and our efforts to secure the border, Eagle Pass deserves a full reimbursement from the state for this takeover.
+In this belief, I successfully secured a $2 million reimbursement in the House budget to Eagle Pass for Shelby Park with the support of a bipartisan coalition in the Texas House.
+Representative Morales said, "I support border security.
+That's why I was a strong advocate for Operation Lone Star, called on the federal government to act, and led my colleagues, including then-Speaker Phelan, to Eagle Pass to see first-hand the extent of this humanitarian crisis.
+The takeover of Shelby Park, in large part, was political; working as a stage for high-profile politicians from across the state and country to give campaign speeches and take photo-ops, without actually working toward passing comprehensive immigration reform and imperative border security measures.
+This takeover cost our community their centerpiece for recreation, leisure, and events - and ended up costing the City of Eagle Pass $ 2 million dollars in funds for an anticipated solar-eclipse music festival that was set to attract thousands from across the globe.
+I am proud of the work done, and for the support of my colleagues, to secure a $ 2 million reimbursement to the City of Eagle Pass and for our taxpayers in the Texas House budget.
+Now, it's time for the Senate to concur and for Governor Abbott to sign; just as the federal government should reimburse our state for the cost of Operation Lone Star."

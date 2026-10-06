@@ -1,0 +1,15 @@
+FOR IMMEDIATE RELEASE
+Jan, 24, 2024
+CONTACT: Bob@CarterMT.us
+Longtime Target Range and Orchard Homes Community Advocate Bob Carter Announces His Bid for Re-election to Montana House District 96
+Missoula, MT – Bob Carter, a dedicated advocate and a fixture in the Target Range and Orchard Homes communities, proudly announces his candidacy for re-election in Montana House District 96.
+With deep roots as a third-generation Montanan and a 17-year resident of the Target Range area, Bob Carter brings a wealth of experience and commitment to his bid for re-election.
+Carter’s extensive track record includes four terms as a Target Range School Board member, more than a decade of active participation in the Target Range Homeowners Association, with service on the Target Range Sewer & Water District board.
+He has also been president at the Orchard Homes Country Life Club and has contributed his time and leadership as a volunteer and board member for other various non-profit and educational institutions.
+Having grown up working on farms and ranches in central Montana, Carter earned a bachelor’s degree in Computer Science with minors in both Math and Media Arts, focusing on finance and accounting from the University of Montana.
+A lifelong learner, community activist, and volunteer, Carter, along with his wife Laurie, are successful small business owners and holds a state license as foster care parents.
+As a family deeply engaged in outdoor activities, cycling, and ardent supporters of public lands and public education, the Carters bring a genuine commitment to the values of House District 96.
+The district encompasses the Target Range School district, Fort Missoula, O’Brien Creek, Big Flat, Council Grove, Kona Ranch, parts of Mullen Road, Deep Creek, Southgate Mall, extending past Playfair Park to Bancroft Street.
+Bob Carter’s candidacy represents a continuation of his unwavering dedication to the well-being and progress the people in House District 96, the city of Missoula and the state of Montana.
+With a proven record of community service and a genuine connection to the district’s diverse communities, Carter is poised to continue his impactful contributions as their representative in the Montana House.
+(Full disclosure: This was edited with the help of ChatGPT)

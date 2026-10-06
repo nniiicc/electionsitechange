@@ -1,0 +1,43 @@
+Stay Up To Date
+The Ready Report
+July 30, 2025
+Ready Report: A Win for Fiscal Responsibility, Carroll 4H Fair & More…
+I hope you and your family are staying cool during this hot period and having a great summer season.
+A lot to update you with below: Senate & House Republicans Call out Governor Moore for…
+July 30, 2025
+A bold, conservative force for Carroll County – Carroll County Times
+As the incumbent legislators representing Maryland’s 5th Legislative District with strong, consistent, conservative records, we three — Sen.
+Justin Ready and Dels.
+April Rose and Chris Tomlinson — are pleased to announce that we have…
+July 21, 2025
+Ready Report: New Email Address, MPRP on FOX 45 & Local News
+Just over one year ago, the near murder of President Donald J.
+Trump was a defining moment in the 2024 Election and in the future of our country.
+No matter who you voted for, the…
+July 10, 2025
+Ready Report: Independence Day, In the News & Campaign Announcement
+I hope you and your family had a wonderful Independence Day Weekend.
+Below is an update on what has been happening in Annapolis and Carroll County.
+Ready in the Press I have continued to be…
+June 27, 2025
+Ready Report: Campaign Announcement, Lots of State News & July 4th Traffic Info
+It was a HOT week weather-wise, I hope your family have been staying cool.
+We’ve had a lot of news breaking this week and I’ve been asked to comment on a lot of it in…
+June 25, 2025
+With Strong, Conservative Record, District 5 Legislators File for Re-Election
+June 25, 2025 For Immediate Release: Contact: Justin Ready (443-974-2079) April Rose (410-259-9824) Chris Tomlinson (443-789-1486) With Strong, Conservative Record, District 5 Legislators File for Re-Election Senator Justin Ready, Delegate April Rose & Delegate Chris…
+June 9, 2025
+Ready Report: MD’s Cost of Living, Thank You Haven Shoemaker & Event Thursday…
+Over the weekend, I took some time to reflect on and remember the ultimate sacrifice that so many Americans made on D-Day – which we commemorated on Friday.
+Let us never forget the courage it…
+June 2, 2025
+Ready Report: Breaking Down Maryland’s Fiscal Crisis, Memorial Day Remarks & Local Activities
+I hope you and your family are doing well as get to the end of Spring.
+Below is an update including some continuing coverage on the aftermath of Maryland losing its AAA bond rating, as…
+May 27, 2025
+ALERT: Sign Petition to Restore County Authority Over Solar Developments on Ag Land
+Maryland farmers and citizens are taking a stand against SB 931, the so-called “Renewable Energy Certainty Act.” This bill was rushed through the legislature, putting solar developers ahead of local communities and stripping counties of their zoning authority over…
+May 27, 2025
+We Need a Return to Sanity in Maryland’s Budget
+The 2025 Maryland General Assembly Session officially came to a close at midnight on April 7th.
+It’s an honor to serve in the State Senate and represent a large part of Carroll County as well…

@@ -1,0 +1,1 @@
+Assembly District 5 encompasses portions of Placer and El Dorado Counties, and includes the cities of Auburn, Cold Springs, Coloma, Diamond Springs, El Dorado Hills, Granite Bay, Georgetown, Lincoln, Loomis, Meadow Vista, Newcastle, North Auburn, Penryn, Placerville, Rocklin, Roseville

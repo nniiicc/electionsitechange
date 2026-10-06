@@ -1,0 +1,3 @@
+Privacy Policy
+Text messaging originator opt-in data and consent information will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Any information shared via electronic communication (text, phone, email, etc..) may be used by Lewis For Kansas, vendors, consultants and/or other service providers for election purposes only, for this and future election cycles.

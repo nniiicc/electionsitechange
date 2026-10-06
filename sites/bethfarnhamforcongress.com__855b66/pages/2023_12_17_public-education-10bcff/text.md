@@ -1,0 +1,7 @@
+Public education is a foundation of our country’s greatness.
+Guaranteeing access to formal education for generations of Americans has contributed to advancements in medicine, technology, business, law, economics, literature, arts, and a myriad of other ways throughout the centuries.
+Public education can never discriminate against its students on the basis of race, color, religion, language, sex (including gender identity, sexual orientation, and pregnancy), national origin, or disability.
+Quality public instruction promotes student achievement and preparation for global competitiveness by exposing them to the truest and newest information available.
+Primary sources of history, field trips to original works of art and architecture, texts from multiple perspectives and literary styles, scientific experimentation, proven mathematical formulae, comprehensive and LGBTQ+ inclusive sexuality instruction, musical performances, mixed media creations, and so many more practica, delivered by licensed professional educators provide students with life-changing knowledge, opportunities, and standards to meet those goals of achievement.
+To continue to turn out competitive American graduates, Congress must ensure that federal tax dollars even out state or local iniquities of poorly resourced regions, and that no tax dollars fund private or parochial schools through vouchers or any other mechanism.
+Resources:

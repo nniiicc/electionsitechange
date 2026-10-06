@@ -1,0 +1,101 @@
+top of page
+Home
+Meet Troy
+Issues
+District 33
+Donate
+*Yard Sign*
+Contact/Volunteer
+Gallery
+More
+Use tab to navigate through the menu items.
+Issue of The Week
+March/April/May/June/July/August/Sepetember
+Anchor 1
+September 4
+-
+I Stand with Working People
+September 11
+-
+We Are a State of Laws
+September 17
+-
+Put First Responders First
+September 25
+-
+Missouri Seniors Should be Safe
+August 7 - 2026 -
+Tired of Politics Doesn't Mean Tuned Out
+August 13 - 2026
+-
+We’re the “Show Me State” for a Reason
+August 22 - 2026
+-
+A MO Higher Education Shocker
+August 28 - 2026
+-
+They Are Wrecking Education on Purpose
+July 2 - 2026
+-
+Happy 250th, USA
+July 9 - 2026
+-
+Role Out the Welcome Mat
+July 16 - 2026
+-
+Government Can Help or Hurt Our Economy
+July 24 - 2026
+-
+Measure Twice Govern Once.
+July 30 - 2026
+-
+If Your Vote Doesn’t Matter, Why Do They Keep Trying to Take It Away?
+June 19 - 2026
+-
+August
+Ballot
+Amendment
+5 - Vote NO
+June 12 - 2026
+-
+August Ballot
+Amendment 4- Vote NO
+June 5 - 2026
+-
+August Ballot
+Amendment 1- Vote Yes
+June 26 - 2026
+-
+How to Prepare for Voting
+May - 1 - 2026
+-
+Gerrymandering Serves No One
+May - 7 - 2026
+-
+Unchecked Supermajority Power
+May - 22 - 2026
+-
+Bad Assumptions Create Bad Outcomes
+May - 14- 2026
+-
+Stop Election Chaos!
+April
+- 2 - 2026
+-
+Why School Boards Matter to Everyone
+April
+- 10 - 2026
+-
+Off-Year elections, The Power of Showing Up
+April
+- 16 - 2026
+-
+Losing Local Journalism
+April - 23 - 2026
+-
+The Power of Community
+March - 26 - 2026
+-
+T
+he “Everything Tax Bill”
+bottom of page

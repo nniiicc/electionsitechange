@@ -1,0 +1,1 @@
+The 44th Assembly District consists of portions of Los Angeles County, including the whole City of Burbank, and portions of the City of Glendale and San Fernando Valley neighborhoods in the City of Los Angeles, including Sherman Oaks, Studio City, Valley Village, North Hollywood, Toluca Lake, La Crescenta, and Sunland-Tujunga.

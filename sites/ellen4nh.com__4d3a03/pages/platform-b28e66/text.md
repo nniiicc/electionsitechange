@@ -1,0 +1,26 @@
+PEOPLE
+People have needs, and those needs are not just human rights…it benefits all of society when everyone’s needs are met:
+- A livable wage of at least $15/ hour (it should be closer to $30 on the Seacoast)
+- Increased worker protections and labor union rights
+- Systematically increasing the affordability and accessibility of all housing (not simply creating low-quality developments for the poor)
+- Guaranteed universal healthcare as a human right, Including vision, dental, and hearing (because eyes, ears, and teeth are also parts of the human body!)
+- Support and expansion of equally accessible high-quality public education, including free higher education tuition
+- Human rights, freedom, dignity, and respect for everyone.
+YES EVERYONE!
+- Comprehensive criminal justice reform
+PLANET
+Self-explanatory…without the planet we have nothing:
+- Aggressively combating climate change through all available avenues including comprehensive renewable energy infrastructure and energy efficiency standards, robust public transit, carbon sequestration through protection and expansion of healthy forests and soils as well as technology, etc.
+- Conserving our wild areas, ecosystems, and natural resources
+- Making producers pay to properly recycle/compost the waste they produce for consumers and banning toxic chemicals in waste with emphasis on watershed protection
+- Fighting for animal welfare and humane policies in all venues
+PRINCIPLES
+This is the fairness and goodness of the system itself…a government that works the way it is supposed to and actually represents the people (not moneyed interests), because without that, we will see no meaningful change on any issue:
+- Free and fair elections including early and mail in voting
+- Election Day Holiday
+- Getting big money out of politics
+- Regulating lobbying
+- Ending gerrymandering
+- Reforming the Electoral College
+- Adding ballot initiatives, referendums, and recall elections to give the People more power
+- Ranked Choice Voting!

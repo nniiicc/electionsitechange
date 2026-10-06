@@ -1,0 +1,3 @@
+The 34th state Senate district, which includes a large portion of central Orange County and a sliver of Los Angeles County, pits incumbent Democratic Sen.
+Tom Umberg against Republican Rhonda Shader, the mayor of Placentia.
+Umberg won a slim victory in 2018 over a well-known local Republican, but redistricting has given Democrats a 26-point advantage…

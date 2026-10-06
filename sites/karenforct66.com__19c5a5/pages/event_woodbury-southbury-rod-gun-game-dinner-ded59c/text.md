@@ -1,0 +1,41 @@
+Skip to primary navigation
+Skip to main content
+Skip to footer
+Karen Reddington-Hughes
+State Representative CT66
+About
+Where I Stand
+News & Updates
+Our District
+Bethlehem
+Litchfield
+Morris
+Warren
+Woodbury
+Calendar
+Gallery
+Get Involved
+« All Events
+This event has passed.
+Woodbury-Southbury Rod & Gun Game Dinner
+March 7 @ 6:00 pm
+-
+9:00 pm
+«
+Educational Round-table Discussion
+Woodbury Board of Selectman Mtg
+»
+Add to calendar
+Google Calendar
+iCalendar
+Outlook 365
+Outlook Live
+Details
+Date:
+March 7
+Time:
+6:00 pm - 9:00 pm
+Venue
+Grand Oak Villa
+Watertown
+,

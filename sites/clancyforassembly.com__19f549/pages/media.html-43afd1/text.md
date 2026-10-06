@@ -1,0 +1,39 @@
+Home
+Contact
+Priorities
+About
+Map
+Endorsements
+Media
+Donate
+Merchandise
+Media
+Read about Ryan Clancy's lifetime of activism prior to his first election:
+US Fines Human Shields
+Human Shield Returns Home, His Work Undone
+Ed Helms Interviews Ryan About "Vacationing" in Iraq
+Scott Walker Gets Schooled by Former Teacher Turned Small-Business Owner
+Encouraging Diversity at Bounce Milwaukee
+Bounce Milwaukee's Mock Chicken Leg Pizza Raises Funds For Public School Advocacy
+Activists Arrested Protesting In Favor of Clean DREAM Act
+Activists Arrested for Civil Disobedience for Clean DREAM Act
+Ryan Clancy interview on the State Reppin' podcast with Rep.
+Jonathan Brostoff and Rep.
+David Bowen
+Ryan Clancy, candidate for Milwaukee County Supervisor, calls for divestment from Southwest Key
+Rival restaurant lobby says it wants to put employees first
+Milwaukee Demonstrations Against US Military Strikes in Iran
+Ryan Clancy Raises Thousands of Dollars for Children's Hospital of Wisconsin
+Donate to Ryan Clancy for Assembly
+Volunteer or connect with us
+Photo credit: Jamie Robarge
+Photo credit: Jamie Robarge
+Home
+Contact
+Priorities
+About
+Map
+Endorsements
+Media
+Donate
+Merchandise

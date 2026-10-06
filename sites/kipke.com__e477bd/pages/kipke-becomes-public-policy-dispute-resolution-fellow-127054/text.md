@@ -1,0 +1,3 @@
+Nic Kipke participated in the 2016 Public Policy Conflict Resolution Fellows Program with other leaders from the legislative, judicial, and executive branches of State and local government, as well as leaders of faith-based, business, education, and the non-profit sectors.
+The Maryland Public Policy Conflict Resolution Fellows Program is an innovative initiative sponsored by the Maryland Judiciary, the University of Maryland, Baltimore, and the University of Maryland Francis King Carey School of Law that brings together a diverse group of influential Maryland leaders to expand their negotiation, conflict resolution, and consensus building skills.
+The Program aims to achieve more effective and sustainable solutions to Maryland’s critical public policy issues.

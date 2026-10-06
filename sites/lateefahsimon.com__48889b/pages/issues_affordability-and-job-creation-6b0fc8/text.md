@@ -1,0 +1,9 @@
+Affordability and Job Creation
+For nearly 30 years, Lateefah has been a steadfast advocate for economic justice by building and running organizations and initiatives focused on providing opportunities for working-class and middle-class communities to prosper.
+As someone who has helped create hundreds of jobs and is supported by labor unions across the district, Lateefah understands job creation's social and economic impact as a key to creating safer communities.
+She is committed to building an economy that works for everyone by cutting costs and protecting consumers, including supporting Vice President Kamala Harris’ pledge to tackle food inflation and lower grocery prices by banning corporate price-gouging.
+Her unwavering commitment will continue in Congress, ensuring every American can access good-paying jobs.
+She supports a living wage, aid to small businesses, and investment in infrastructure projects that create jobs and stimulate local economies.
+Lateefah will push for economic policies that ensure the wealthiest Americans and corporations pay their fair share to reduce income inequality so families have an opportunity no matter their neighborhood.
+As a nationally recognized community organizer, Lateefah has lived a life on the front lines and understands the power of collective action, bargaining, and protecting the right of workers to unionize.
+That is why, once in Congress, Lateefah will continue to fight for the rights of workers by enacting comprehensive labor law reforms to ensure collective bargaining and workplace democracy for all workers, establish a 12-week paid federal Family and Medical Leave program, and strengthen laws to prevent big corporations from engaging in wage theft, misconduct, illegal employment of children, workplace violations, and retaliation based on workers’ immigration status.

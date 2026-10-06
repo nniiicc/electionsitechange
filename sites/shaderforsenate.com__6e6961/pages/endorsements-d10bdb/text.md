@@ -1,0 +1,223 @@
+Rhonda’s Endorsements
+Elected Officials
+- Senate Minority Leader Brian Jones
+- Senate Minority Leader-Elect Roger Niello
+- Senator Steven Choi
+- Senator Shannon Grove
+- Senator Rosalicie Ochoa-Bogh
+- Senator Kelly Seyarto
+- Senator Tony Strickland
+- Senator Suzette Valladares
+- Senator Dick Ackerman (ret.)
+- Senator John Moorlach (ret.)
+- Assemblymember Phillip Chen
+- Assemblymember Laurie Davies
+- Assemblymember Carl DeMaio
+- Assemblymember Tri Ta
+- Assemblymember Diane Dixon
+- Assemblymember Kate Sanchez
+- Scott Baugh, Former Assembly Republican Leader
+- Janet Nguyen, Orange County Board of Supervisors and former State Senator
+- Don Wagner, Orange County Board of Supervisors
+- Shari Freidenrich Orange County Treasurer
+- Claude Parrish, Orange County Assessor
+- Mari Barke, Orange County Board of Education
+- Lisa Sparks, Orange County Board of Education
+- Jorge Valdes, Orange County Board of Education
+- Ken Williams Jr., Orange County Board of Education
+- Tim Shaw, former Orange County Board of Education
+- Don Barnes, Orange County Sheriff
+- David Harrington, Former Mayor of Aliso Viejo
+- Natalie Meeks, Anaheim Mayor Pro Tem
+- Jose Diaz, Anaheim City Councilmember
+- Gloria Ma’ae, Former Anaheim City Councilmember
+- Lucille Kring, former Anaheim City Councilmember
+- Bonnie Peat, Cypress City Councilmember
+- Nick Dunlap, Fullerton City Councilmember
+- Greg Sebourn, former Fullerton Mayor
+- Stephanie Klopfenstein, Garden Grove Mayor
+- James Mai, Irvine Vice Mayor
+- Robyn Grant, Newport Beach Councilmember
+- Kevin Kirwin, Placentia Mayor
+- Ward Smith, Placentia City Councilmember
+- Laura Ferguson, former San Clemente Councilmember
+- Crystal Miles, Villa Park City Councilmember
+- Janice Lim, Yorba Linda Mayor
+- Tara Campbell, Yorba Linda City Councilmember
+- Shivinder Singh, Yorba Linda City Councilmember
+- Cathy Warner, Whittier City Council
+- Anna Bryson, former Capistrano Unified School Board President
+- Brenda Lebsack, Santa Ana Unified School District Board Member
+Organizations
+- OC Register/ LA Daily News Editorial Boards
+- Howard Jarvis Taxpayers Association PAC
+- Reform California
+- California Republican Party
+- California College Republicans
+- Log Cabin Republicans of California
+- California Republican Assembly
+- California Women's Leadership Association (CWLA)
+- California Young Republicans Federated
+- Orange County Republican Party
+- Los Angeles Republican Party
+- The Lincoln Club of Orange County
+- New Majority Orange County
+- Orange County Young Republicans
+- Huntington Beach Republican Women
+- Pat Nixon Republican Women Federated
+Businesses
+- National Federation of Independent Businesses (NFIB)
+- Integra Properties
+- Kraemer Land Company, Inc.
+- Lindholm Management
+- Metalized Ceramics and Braze Solutions
+- MKT Innovations
+- One-Fifth Financial
+- Republic Homes
+- Romero Contracting
+- The HR Executive Suite
+- Tiller Constructors
+- Tlaquepague Restaurant Bakery & Grill Corp.
+Individuals
+- Ali Navid
+- Amanda Morales
+- Angie Cohen
+- Anita Boyd
+- Anthony Johnson
+- Arlene Aungst
+- Barbara Leonhardt
+- Barry Holmes
+- Ben Mayberry
+- Bobby Olea
+- Brett Albrecht
+- Brian Morales
+- Carlos Sanchez
+- Carol Peterson
+- Chantal Shader
+- Charles Zhang
+- Chris Ferraro, Jr.
+- Christina Coulson
+- Connie Sim
+- Cynthia Senften-von Coelln
+- Cynthia Thacker
+- Dan Hughes, Former Fullerton Police Chief
+- Danielle Holley
+- Dara Maleki
+- Darryl Jones
+- Daryl Mayfield
+- Dave Ajaykumar
+- David Knittle
+- David Marko
+- Ajaykumar Dave
+- David Pan
+- David Zech
+- Debi Callahan
+- Debye Payne
+- Delia Sheree Guerrero Duran
+- Denise Giambalvo
+- Don Best
+- Donna Butler
+- Doug Davert
+- Dylan Martin
+- Ed Cote
+- Edwin T.
+Abieanga
+- Eva Chi Zhou
+- Frank Shader
+- Fred Whitaker
+- Geraro Flores
+- Greg Abdouch
+- Gretchen Cox
+- Homayar Gandhi
+- Humberto Macias
+- Janet Taylor
+- Jason Schmitt
+- Jeffrey Katz
+- Jennifer Hahn
+- Jessica Rutan
+- Jihao Li
+- Jim Athans
+- Jim Yelvington
+- John Dade
+- John Reed
+- Josephine Reittcopp
+- Judy Flowers
+- Julia Tavis
+- Julianna Hulick
+- Julie Brandt
+- June Shang
+- Karen Christensen
+- Karen Sewell
+- Katherine Freeman
+- Glenn & Kathryn Baldwin
+- Kathy Trosko
+- Katie Mayberry
+- Ken Buckingham
+- Kevin Larson
+- Krista Shader
+- Kristin Manna
+- Leticia Flores
+- Letty Gali
+- Lila Lee Peschong
+- Linda Kellstrom
+- Linda Cone
+- Lorraine Sandoval
+- Luis R.
+Zaragoza
+- Lupita Espinoza-Lara
+- Margaret Novak
+- Mari Barke
+- Mark Chitjian
+- Mark Anthony Iles
+- Mark Rizk
+- Matthew Parks
+- Mauricio Bas
+- Maureen Blackmun - President at Garden Grove Neighborhood Association
+- Michael Aguilar
+- Michael Harrah
+- Michael Petersen
+- Nathan Hittle
+- Noel Parrish
+- Noel Stone
+- Pat Alvarez - American Legion Auxiliary, District 29 President
+- Patricia Cote
+- Patrick & Jolynn Mahoney
+- Peter & Julia Tavis
+- Randall Avila - Executive Director of Orange County Republican Party
+- Raul Randall
+- Raymond Delacruz
+- Dr.
+Richard M.
+Ramirez
+- Rigoberto Munoz
+- Robert Michaels
+- Robert Huber
+- Ryley Niemi
+- Sandra Hood
+- Sara Gong
+- Scott Carpenter
+- Scott Nelson
+- Steve Sarkis
+- Susan & Mark Hirzel
+- Susan Higley
+- Susan Silvestri
+- Suzy Betz
+- S.Y.
+Clevenger
+- Sylvia Nye
+- Thomas Hummer
+- Tim Gorsulowsky
+- Timothy Rush
+- Timothy Shaw
+- Tina Buckingham
+- Tina Javid
+- Tobie Flores
+- Victoria Michaels
+- Virginia Ball
+- Virginia Dixon
+- Ward Smith
+- Wayn Qu
+- Wayne Lindholm
+- Williamson M.
+Evers
+- Zac Newcomer

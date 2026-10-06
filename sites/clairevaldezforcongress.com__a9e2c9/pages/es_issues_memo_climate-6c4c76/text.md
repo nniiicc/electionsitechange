@@ -1,0 +1,122 @@
+- Asuntos
+- Climate
+Un Planeta Habitable para Todos
+Introducción
+El cambio climático ya está aquí, en todo el país y aquí mismo, en el distrito NY-7.
+Nuestras facturas de energía se disparan, nuestras costas se inundan, nuestros hijos respiran contaminación y humo de incendios forestales y nuestros pisos alcanzan temperaturas peligrosamente altas en verano.
+Y la situación no hará más que empeorar.
+Los votantes de ambos partidos prefieren mayoritariamente las políticas que contribuyan a la protección del clima, pero los intereses privados, como las empresas de combustibles fósiles, las grandes tecnológicas y las empresas de servicios públicos, así como los políticos que aceptan su financiación, les han fallado una y otra vez.
+Hemos llegado a esta situación debido a un sistema capitalista y extractivo que antepone los beneficios a corto plazo a la salud y al bienestar de la clase trabajadora.
+Las empresas de combustibles fósiles y las compañías eléctricas privadas se llenan los bolsillos en lugar de proporcionar energía renovable y más barata a las familias trabajadoras.
+Los oligarcas tecnológicos construyen centros de datos para impulsar el precio de sus acciones, mientras que demasiadas personas simplemente luchan por pagar la factura de la luz.
+La misma economía que está agravando la desigualdad y provocando una crisis de acceso a los servicios también está destruyendo el planeta.
+La solución debe abordar ambos problemas a la vez.
+Nuestra Visión
+Los estadounidenses se merecen una economía asequible, centrada en los trabajadores y respetuosa con el clima.
+Con la puesta en marcha de un “Nuevo Acuerdo Verde” que cree millones de puestos de trabajo, podemos lograr que la energía sea más limpia y asequible para todos, al tiempo que construimos una infraestructura resistente al cambio climático que proteja nuestros hogares y barrios.Claire promoverá políticas que aprovechen todo el poder del Gobierno federal para impulsar una transición justa hacia una economía del futuro ecológica y dirigida por los trabajadores.
+Luchará por frenar la influencia de los intereses privados que han frenado el avance de estas propuestas, que gozan de un amplio apoyo popular.
+Además, apoyará activamente las iniciativas para reducir la exposición a la contaminación y a sustancias químicas tóxicas aquí mismo, en el distrito, que han tenido efectos duraderos en la salud de demasiados vecinos, especialmente en el norte de Brooklyn.
+Todos estos objetivos refuerzan nuestra lucha por una economía más justa y asequible: la visión de Claire reduciría los costos y crearía millones de puestos de trabajo de alta calidad y sindicalizados para ayudar a construir el futuro que necesitamos.
+Como miembro del Congreso, Claire se comprometerá a:
+- Pedir que se congelen las tarifas eléctricas, responsabilizar a las empresas e invertir en una transición rápida hacia un sistema energético asequible, limpio y fiable;
+- Impulsar una regulación estricta de la inteligencia artificial (IA), para que su rápida expansión no provoque un aumento de las facturas de energía, no dañe el medio ambiente ni provoque el despido de millones de trabajadores;
+- Luchar por construir infraestructuras resilientes que protejan a las comunidades de las inundaciones, el calor extremo y otros efectos del cambio climático;
+- Trabajar para actualizar la normativa laboral con el fin de incluir medidas de protección contra el calor, y apoyar las iniciativas locales de limpieza en aquellos lugares donde la exposición a sustancias tóxicas ha perjudicado a los residentes durante años
+Reducir las facturas de servicios públicos y realizar una transición rápida hacia la energía limpia
+Los motivos para realizar la transición hacia las energías renovables nunca han sido tan sólidos; décadas de investigación, innovación tecnológica e inversiones en la cadena de suministro han hecho que la energía eólica (de viento) y la solar sean más asequibles que las alternativas basadas en combustibles fósiles.
+Además, la ecologización de nuestro sistema energético nos permitirá gozar de una mejor salud y estar mejor preparados para hacer frente a las perturbaciones del mercado petrolero, al tiempo que frenará el avance del cambio climático.
+Lograr una red eléctrica que funcione íntegramente con energía limpia requerirá todo el apoyo del Gobierno federal.
+Con ese fin, Claire trabajará para:
+- Congelar las tarifas eléctricas y ofrecer un alivio inmediato.
+El aumento descontrolado de las facturas de servicios públicos constituye una crisis actual.
+Claire luchará para aprobar una congelación federal de las facturas de electricidad residenciales, lo que proporcionará a las familias trabajadoras una protección inmediata frente a las subidas de tarifas, al tiempo que invertimos en un sistema energético limpio y asequible para el futuro.
+Para garantizar que las empresas de servicios públicos no utilicen la congelación de tarifas como excusa para frenar la inversión, esta se combinará con incentivos federales condicionados al cumplimiento, por parte de dichas empresas, de los objetivos de expansión de la energía limpia.
+Los grandes clientes comerciales e industriales, incluidos los centros de datos, seguirán sujetos a las tarifas de mercado, lo que preservará la señal de precios para quienes tienen capacidad para reducir la demanda energética, al tiempo que se protege a los hogares que dependen de la electricidad para cubrir sus necesidades básicas.
+- Establecer una autoridad federal de energía pública.
+Las empresas de servicios públicos privadas y las compañías eléctricas independientes tienen incentivos para generar beneficios para sus accionistas, no para suministrar energía asequible, limpia y fiable a las familias trabajadoras.
+Nuestro sistema energético privado es una de las razones fundamentales por las que la transición a las energías renovables ha sido lenta y costosa.
+Claire luchará por establecer una autoridad federal de energía pública con el mandato y la capacidad financiera para hacer lo que los intereses privados no hacen: planificar y construir nuevas fuentes de energía limpia, apoyar a los estados y las ciudades en la adquisición y la creación de empresas de servicios públicos de propiedad pública, y financiar la infraestructura y las cadenas de suministro necesarias para descarbonizar nuestro sistema energético.
+- Crear una norma nacional de energía limpia (CES).
+Además de realizar inversiones a largo plazo en nuestro sistema energético, Claire trabajará para aprobar una CES nacional de aplicación federal que exija que las empresas de servicios públicos se alimenten al 100 % de energía limpia.
+La CES garantizará altos estándares de seguridad para los trabajadores, el público y el medio ambiente, y se complementará con incentivos federales que permitan a las empresas de servicios públicos y a la industria cumplir con el ambicioso calendario que exige nuestro clima.
+Las normas de energía limpia han sido muy efectivas para crear empleo para los trabajadores estadounidenses, especialmente cuando se combinan con inversiones en nuestro sistema energético.
+Hacer que los centros de datos paguen lo que les toca
+El sector de la inteligencia artificial (IA), en rápido crecimiento, tiene una demanda insaciable de energía, y las empresas tecnológicas de gran escala están construyendo a toda velocidad nuevos centros de datos por todas partes.
+Estos centros consumen enormes cantidades de electricidad y agua, afectan a las comunidades locales y aumentan el consumo de combustibles fósiles; para 2030, una cuarta parte de la nueva demanda energética procederá de estos centros.
+También están afectando al bolsillo de los ciudadanos: las facturas de electricidad aumentarán en una media del 8% en todo el país para 2030 y hasta un 200% o más en algunas zonas debido a los centros de datos y a la minería de criptomonedas.
+Teniendo en cuenta la limitada disponibilidad de energía de las fuentes existentes, las empresas tecnológicas están adquiriendo o construyendo cada vez más sistemas de generación de energía “fuera de la red”, la mayoría de ellos basados en el gas natural, a través de filiales que invierten en el sector energético y venden electricidad.
+Esta práctica corre el riesgo de privatizar cada vez más lo que debería ser de interés público y podría consolidar una dependencia de fuentes de carbón y gas natural que deben eliminarse progresivamente, lo que dificultaría la transición justa hacia las energías renovables que necesitamos con tanta urgencia.
+Claire luchará para frenar esta expansión descontrolada y replantear la informática alimentada con energías renovables que sirva a aplicaciones de interés público —como la investigación— y que rinda cuentas a los trabajadores.
+En concreto, ella luchará para:
+- Hay que detener la expansión de los centros de datos sin medidas de protección.
+Claire luchará por imponer una moratoria a la expansión de los centros de datos de IA.
+Claire copatrocinará el proyecto de ley presentado por el senador Sanders y la diputada Ocasio-Cortez, que establecería una moratoria sobre la construcción de nuevos centros de datos, supeditada a la aplicación de varias medidas de protección, entre ellas la protección de los trabajadores frente a la pérdida de puestos de trabajo, los efectos sobre los precios de la energía y el impacto climático.
+Como miembro de la Asamblea, ella ha copatrocinado una moratoria similar aquí en el estado.
+- Asegúrate de no pagar el consumo energético de los centros de datos.
+Cuando una empresa tecnológica construye un nuevo centro de datos, puede generar miles de millones de euros en costes de mejora de nuestra red eléctrica.
+Con el sistema actual, parte de esos costes puede trasladarse a tu factura de la luz.
+Y lo que es peor, las empresas tecnológicas que construyen centros de datos a través de filiales pueden renegociar o rescindir por completo sus compromisos energéticos, dejando que las familias trabajadoras asuman los costos.
+La respuesta de Trump ha sido pedir a estas empresas que se comprometan voluntariamente a no subir tus facturas, una promesa sin ningún peso.
+Claire trabajará para aprobar una ley federal que obligue a los centros de datos a pagar la totalidad de los costes de la infraestructura de red que requieran, y que esos pagos se fijen antes de que se dé el primer paso.
+- Obligar a las empresas tecnológicas a invertir en la red eléctrica pública y no solo en sus propios intereses.
+En la actualidad, las empresas tecnológicas tienen dos opciones a la hora de invertir en energía: conectarse a la red y dejar que la sociedad pague las renovaciones que requieren sus centros de datos, o construir sus propias centrales de gas privadas y evitar por completo cualquier compromiso.
+Claire impulsará una vía alternativa, luchando para garantizar que las empresas tecnológicas inviertan en la red eléctrica mediante un fondo federal destinado a su desarrollo, de titularidad pública.
+Y trabajará para cerrar las lagunas legales que permiten a las empresas tecnológicas construir centrales eléctricas privadas de gas.
+La energía pública no solo garantizará que la sociedad se beneficie de la inversión privada, sino que también hará que nuestra transición energética sea más rápida y eficiente al permitir la coordinación federal y la construcción de nuevas infraestructuras energéticas.
+Construir resiliencia climática
+Dos de los años más calientes registrados en Nueva York han ocurrido en los últimos cinco años.
+Una gran parte de nuestro distrito corre un riesgo muy elevado de sufrir olas de calor y las muertes relacionadas con el calor en verano están aumentando, sobre todo por la falta de aire acondicionado.
+La subida del nivel del mar aumentará el riesgo de inundaciones costeras en las zonas cercanas a Newtown Creek y su confluencia con el East River, siendo Greenpoint, Long Island City y East Williamsburg las más vulnerables.
+El cambio climático ya está aquí.
+Tenemos que adaptarnos a estos cambios mediante infraestructuras más resilientes.
+Claire trabajará para:
+- Establecer un Cuerpo Federal para el Clima y la Vivienda dedicado a la rehabilitación de edificios.
+La rehabilitación puede hacer que un edificio sea más resiliente y eficiente desde el punto de vista energético, mejorando el aislamiento, modernizando los sistemas de refrigeración y calefacción y reduciendo las emisiones.
+Sin embargo, la financiación y la coordinación suelen superar las posibilidades de los propietarios individuales y requieren una mano de obra numerosa y especializada.
+La idea de un Climate Corps no es nueva: inspirada en el Cuerpo Civil de Conservación de la época del New Deal, la iniciativa cobró impulso bajo la administración Biden, pero nunca recibió financiación del Congreso y fue cerrada en 2025 por la administración Trump.
+Claire luchará por recuperar una versión de este programa centrada en la rehabilitación de edificios, con financiación específica para la vivienda pública (incluso NYCHA) y para contratar y formar a una nueva plantilla que pueda obtener un salario digno y prestaciones, gestionada en colaboración con los sindicatos.
+- Ampliar el acceso a centros de aire acondicionado y de aire limpio.
+Cuando hace un calor peligroso o cuando el humo de los incendios cubre el cielo —como ocurrió durante un día en Nueva York en 2023, cuando la calidad del aire fue peor que la de cualquier otra ciudad del mundo—, la gente necesita espacios con temperaturas frescas y aire limpio.
+Claire apoyará la legislación destinada a aumentar las oportunidades de financiación para crear centros de refrigeración y establecer centros de resiliencia en los espacios comunitarios ya existentes en todo el país.
+Aquí, en Nueva York, luchará por conseguir financiación federal para que los edificios de las escuelas públicas pasen a utilizar energías limpias, con sistemas de refrigeración y filtración de aire modernizados, y para sustituir los patios de asfalto, propensos a las inundaciones y al calor, por espacios verdes para los estudiantes y los miembros de la comunidad, convirtiendo así las escuelas en un modelo de centros locales de resiliencia climática.
+- Proteger contra el aumento del nivel del mar.
+A medida que suben los niveles del mar, el distrito NY-7 se vuelve cada vez más vulnerable a las inundaciones, especialmente en las zonas situadas a lo largo de la ribera del East River y del Newtown Creek.
+Estas áreas cuentan con escasa protección natural frente a las olas de tormenta, lo que deja a los residentes y a las infraestructuras esenciales expuestos a las inundaciones.
+Claire luchará para conseguir financiación federal para impulsar soluciones de infraestructura natural, como costas vivas, biofiltros y la restauración de humedales, que pueden ayudar a proteger nuestras comunidades de las inundaciones al tiempo que mejoran la salud del medio ambiente.
+También invertirá y ampliará la capacidad del Cuerpo de Ingenieros del Ejército para desarrollar infraestructura de resiliencia climática natural y apoyará la lucha para que el Cuerpo mantenga su sede en Nueva York.
+- Hacer públicos los datos sobre los riesgos climáticos.
+Para planificar infraestructuras resilientes, tanto en Nueva York como en todo el país, necesitamos saber cuándo y dónde es probable que se produzcan los efectos del cambio climático.
+A medida que la administración Trump recorta la financiación destinada a la ciencia climática federal y cierra centros de investigación climática, un sector en auge formado por empresas privadas —entre las que se incluye una importante firma con sede aquí, en Nueva York— está desarrollando modelos de riesgo climático y vendiendo los datos a gobiernos, compañías de seguros y consumidores.
+Pero no se puede confiar en que el sector privado proporcione esta información de manera equitativa y fiable.
+Claire revertirá esta tendencia, destinando la inversión federal a modelos climáticos públicos, exigiendo transparencia a las empresas privadas y utilizando fondos federales para adquirir datos privados y conceder licencias para su uso público, garantizando así que los datos climáticos fiables sean un bien público, no un lujo.
+Proteger a los trabajadores y a las comunidades de los daños medioambientales
+La concentración de riesgos medioambientales en Brooklyn y Queens —entre los que se incluyen tres de los cuatro terrenos contaminados de la ciudad incluidos en el programa Superfund, así como los gases tóxicos procedentes del Greenpoint Energy Center y de la central eléctrica de Ravenswood— ha generado un grave problema de salud pública en nuestro distrito.
+Décadas de actividad industrial han dejado tras de sí compuestos químicos tóxicos asociados al cáncer, daños en los órganos, problemas de desarrollo, asma y síntomas neurológicos, y la exposición a estos se produce directamente en los hogares, las escuelas y las viviendas públicas.
+A caballo entre Brooklyn y Queens, Newtown Creek, una de las vías fluviales más contaminadas del país, lleva más de un siglo contaminada por vertidos de petróleo, metales pesados, aguas residuales y desperdicios industriales, lo que contribuye a la degradación medioambiental y a los riesgos de exposición indirecta en las comunidades circundantes, y este es solo un ejemplo en nuestro propio patio trasero.
+Los riesgos medioambientales, junto con los efectos negativos del cambio climático, afectan de manera desproporcionada a las poblaciones vulnerables, entre las que se incluyen los residentes con bajos salarios, los inquilinos y las comunidades de minorías étnicas, que a menudo viven en zonas de alta exposición y carecen de acceso a pruebas ambientales y a medidas de mitigación.
+Claire trabajará para eliminar y paliar rápidamente estos daños y garantizar el cumplimiento de las promesas hechas a los residentes.
+En el Congreso, trabajará para:
+- Garantizar medidas de mitigación para las viviendas y los edificios públicos afectados por la nube tóxica de Meeker Avenue.
+Claire impulsará un programa financiado con fondos federales para garantizar que todas las viviendas, escuelas y instalaciones públicas afectadas por la intrusión de vapores procedentes de la nube tóxica de Meeker Avenue reciban pruebas exhaustivas y sistemas de mitigación sin coste alguno.
+Esto incluye la supervisión a largo plazo, el mantenimiento de los sistemas instalados y una labor de divulgación proactiva, de modo que los inquilinos y los residentes indocumentados no queden excluidos de las ayudas.
+- Hay que exigir a la EPA que asuma su responsabilidad en la descontaminación de Newtown Creek y de la empresa química Wolff-Alport.
+Tras más de un siglo de contaminación, por fin se han puesto en marcha las labores de descontaminación del programa Superfund de la EPA en Newtown Creek y en Ridgewood.
+Pero los plazos se han retrasado y el desmantelamiento de la capacidad de ejecución de la EPA por parte de la administración Trump amenaza con provocar aún más retrasos.
+Claire luchará para defender la financiación federal del Superfund, hacer que los contaminadores rindan cuentas por su parte de los costes de limpieza y reconstruir la EPA, para que pueda cumplir sus compromisos mediante la colaboración y la supervisión.
+También se asegurará de que el plan de limpieza tenga en cuenta el aumento del nivel del mar, para que las inundaciones no devuelvan la contaminación enterrada a los barrios de los alrededores.
+- Retirar todas las centrales eléctricas que queman combustibles fósiles para 2035.
+Es esencial contar con un plan claro para eliminar gradualmente todas las centrales de combustibles fósiles a fin de cumplir nuestros objetivos climáticos y proteger la salud pública.
+Instalaciones como la central eléctrica de Ravenswood y el Greenpoint Energy Center se encuentran justo al lado de complejos de la NYCHA, lo que provoca problemas de salud duraderos entre los residentes.
+Debemos actuar con rapidez para cerrarlas mientras realizamos la transición a fuentes de energía renovable.
+Pero también debemos asegurarnos de que los trabajadores que actualmente dependen de la industria de los combustibles fósiles no se queden atrás.
+Como parte de su compromiso con una garantía federal de empleo, Claire luchará para asegurar que los trabajadores del sector de los combustibles fósiles desplazados tengan acceso al empleo en la construcción de una economía moderna y verde.
+- Completar el parque Bushwick Inlet.
+Durante años, los residentes se han sentido decepcionados por la lentitud de los avances en la rehabilitación y la finalización del parque de Bushwick Inlet.
+Claire utilizará el poder de su cargo para sentar a la mesa a las empresas contaminadoras responsables de la contaminación de la zona —National Grid, Chevron y Exxon—, conseguir la financiación restante y garantizar que el proyecto del parque se lleve a cabo en su totalidad.
+- Mitigar los efectos de Green Asphalt y exigirles responsabilidades.
+La emisión de residuos por parte de Green Asphalt ha provocado que muchos vecinos a ambos lados de Newtown Creek sufran olores nocivos, además de haberse registrado casos de agravamiento de las dificultades respiratorias.
+Claire seguirá siendo una defensora firme de Blissville y Greenpoint, velando por que Green Asphalt no reanude sus operaciones hasta que la altura de la chimenea se haya duplicado y por que el Departamento de Conservación Ambiental del Estado de Nueva York (NYS DEC) imponga las multas correspondientes y supervise de cerca los análisis de calidad del aire.
+- Establecer normas laborales federales estrictas para proteger a los trabajadores del calor extremo.
+Ciudades de todo el país registran cada vez más días con temperaturas peligrosamente altas, y los trabajadores son especialmente vulnerables.
+La administración Biden propuso una norma integral sobre el calor de la Administración de Seguridad y Salud Ocupacional (OSHA) para 2024, pero la administración Trump paralizó el proceso normativo y luego desmanteló el programa de aplicación de la ley existente de la OSHA, todo ello mientras las temperaturas siguen subiendo y los trabajadores siguen muriendo.
+Para hacer frente a la peligrosa exposición al calor de los trabajadores, Claire luchará por promulgar y hacer cumplir una norma federal de la OSHA sobre el calor, contribuyendo a la aprobación de la Ley Asunción Valdivia de Prevención de Enfermedades por Calor —que incluye descansos obligatorios para beber agua, descansar y refugiarse a la sombra, y protege a los trabajadores de la construcción, la distribución, la agricultura, el almacenamiento y otros sectores de alta exposición.

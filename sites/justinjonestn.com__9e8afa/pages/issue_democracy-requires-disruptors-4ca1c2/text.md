@@ -1,0 +1,17 @@
+Democracy Requires Disruptors
+Democracy in Tennessee is in crisis as the Republican supermajority seeks to silence dissent and cutoff debate.
+Instead of engaging in dialogue and honest conversation, House Republicans would rather abuse their power and throw mothers, clergy, and students out of the gallery, and ignore the cries of people begging for change.
+Democracy requires disruptors, and now more than ever, we need fighters to stop the rise of authoritarianism.
+Justin’s work in defending democracy in Tennessee and ensuring equitable access to the voting booth started long before he entered the legislature.
+Before being elected, Justin helped coordinate a federal lawsuit in 2015, as Chairman of the Nashville Student Organizing Committee, against a Tennessee Republican law which prevented student IDs from being used as proof of identity at the polls, despite allowing IDs from faculty and staff printed from the same machine.
+While this voter ID law explicitly prohibited student identification cards it accepted gun permits as a form of voter suppression.
+He also led numerous protests against Tennessee’s discriminatory pattern of voter suppression, through such policies as rigged voting maps and felony disenfranchisement, resulting in a state where 1 in 5 Black men cannot vote due to prior felony convictions.
+It was these same struggles for democracy that led him to run for office.
+Since being elected, Justin has been unwavering in his defense of democracy, and has been shining a light on the erosion of democratic norms happening in the state capitol.
+To try and stop the abuse of power by the Tennessee Republican supermajority, Justin introduced over a dozen rule changes at the beginning of session.
+These rules would allow members to exercise their right to dissent against harmful policy decisions without arbitrary punishment, challenge prohibitions on the public from bringing signs into committee rooms while permitting guns, and ensure more equitable and robust debate on issues that deserve more than preemptively cut off comments.
+Republicans’ unwillingness and outright hostility to considering many of these changes showed how fragile their hold on power is, and how unwilling they are to be challenged by facts and reason.
+In his fight for accountability, Justin is also in an active lawsuit against Speaker Cameron Sexton over his blatant discrimination, violations of equal protection under law, and unconstitutional abuse of power, a necessary step in reigning in the “drunk with power” Speaker.
+Justin has further fought against laws that erode not only Tennesseans’ voting rights, but their First Amendment rights to nonviolent protests and free expression.
+His commitment to democracy comes as Tennessee dangerously backslides into authoritarian rule under a Republican trifecta, and dual supermajorities in both legislative chambers.
+Now more than ever, securing our democracy and refusing to allow the continued destruction of democratic norms is vital, and we need unapologetic leaders who are willing to take on these authoritarian forces head on.

@@ -1,0 +1,6 @@
+Tristan Toleno: Thrilled to endorse Ian
+For 12 years, I have had the honor of serving as a Vermont state representative, representing Brattleboro’s third district (Windham-9).
+While I have decided that it is time for me to step back from this work, I could not be more thrilled to endorse Ian Goodnow in the primary election on Aug. 13.
+Ian is a remarkable person.
+He is kind and wise and relentlessly curious – all qualities that will allow him to shine in the State House.
+Tristan Toleno (The Commons)

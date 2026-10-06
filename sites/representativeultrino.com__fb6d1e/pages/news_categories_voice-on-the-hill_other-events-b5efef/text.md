@@ -1,0 +1,31 @@
+top of page
+Use tab to navigate through the menu items.
+NEW INSTALLMENT OF YOUR VOICE ON THE HILL FEATURING DAN O'LEARY, CEO OF MYSTIC VALLEY ELDER SERVICES
+Join me for a conversation with Mystic Valley Elder Services C.E.O Dan O’Leary about elder and adult disability services, the challenges...
+Apr 13, 2021
+APIs CAN, Greater Boston Legal Services, & the Asian Caucus are hosting a townhall event 6pm 03/25
+As we mourn the lives of those lost in the terrible mass shooting in Atlanta this Tuesday, it is crucial that we acknowledge that this...
+Mar 20, 2021
+THE NATIONAL GRID’S CUSTOMER ADVOCATE TEAM TO HOST ONE-HOUR WEBINARS IN ENGLISH & SPANISH
+Topics of discussion will include budget plans, discount rates, payment arrangements, fuel assistance grants, energy efficiency, and ways...
+Mar 19, 2021
+JOIN MYSELF AND OTHERS FOR A TOWN HALL WITH THE MASSACHUSETTS TRIAL COURT
+I am inviting you to join myself and the Massachusetts Trial Court, @Senator Jason Lewis, State Representative Paul Donato, Mayor Gary...
+Mar 8, 2021
+Update: Office Hours with Representative Ultrino moved to 7pm on 02/18/2021
+If you have any questions or concerns about what's going on around Malden or on Beacon Hill, or even if you just want to chat, please...
+Feb 7, 2021
+Join Us @7pm on 02/11/2021 for a Conversation with Malden Director of Public Health Chris Webb
+Join us this week for a conversation with Malden Director of Public Health Chris Webb, about COVID-19 & the vaccine rollout
+Feb 7, 2021
+活动预告：您在山上的声音
+和我一起讨论一下住房，食物，暖气和其他形式的援助，以帮助大流行期间苦苦挣扎的人们与来自波士顿社区发展行动的特别嘉宾Aiesha Washington和Nephthalie Dehoux！ 在7:00至8:00 PM之间访问Facebook.com/UltrinoForRep参加！
+Dec 10, 2020
+UPCOMING EVENT: Your Voice on the Hill
+Join me for a conversation about housing, food, heating, and other forms of assistance available to help folks struggling to make ends...
+Dec 3, 2020
+No events at the moment
+Tel: (617) 722-2877
+Email: Steven.Ultrino@MAhouse.gov
+State House, Room 174, Boston, MA 02133
+bottom of page

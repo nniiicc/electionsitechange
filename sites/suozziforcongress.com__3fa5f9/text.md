@@ -23,7 +23,7 @@ It's about working for Long Island and Queens to make life more affordable.”
 -Tom
 Tom Suozzi
 He Sees Things Our Way
-Congressman Tom Suozzi, trained as an attorney and CPA, has served as United States Member of Congress from 2017-2022, Nassau County Executive, Mayor of Glen Cove and was elected to Congress again in 2024.
+Congressman Tom Suozzi, trained as an attorney and CPA, has served as a member of the United States Congress from 2017-2022, Nassau County Executive, Mayor of Glen Cove and was elected to Congress again in 2024.
 He currently serves as the Co-chair of the Problem Solvers Caucus.
 Tom has compiled an impressive record of accomplishments by working with anyone who shares his goal of solving problems and delivering for his constituents.
 His priorities are lowering costs with his five-point “American Affordability Plan,” supporting a common-sense plan to fix our broken immigration system that secures our border, protects our communities, and treats people like human beings.

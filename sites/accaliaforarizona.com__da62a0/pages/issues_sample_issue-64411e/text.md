@@ -1,0 +1,37 @@
+Affordability & Cost of Living
+Housing & Community Stability
+Housing should first and foremost serve as homes for Arizona families — not speculative financial assets for corporations and investors.
+Arizona’s rapid growth, combined with institutional investors purchasing large numbers of single-family homes, has made it increasingly difficult for working families to compete in the housing market.
+In some communities, corporations own entire sections of neighborhoods while local residents struggle to find affordable housing.
+I support:
+- Greater transparency in corporate property ownership
+- Limits on large-scale institutional ownership of single-family homes
+- Anti-speculation measures that discourage corporate hoarding of housing
+- Incentives for owner-occupied homeownership
+- Responsible zoning and housing development reforms
+- Workforce and affordable housing initiatives
+- Smart growth policies that protect infrastructure and long-term water security
+At the same time, I believe growth must be balanced with community stability.
+Arizona cannot continue expanding without investing in the infrastructure, schools, transportation, and water systems communities need to remain livable and sustainable.
+Wages & Economic Opportunity
+The cost of living has risen dramatically while wages have failed to keep pace.
+Hard-working Arizonans should not have to work multiple jobs or sacrifice basic necessities just to survive.
+I support a living wage because anyone working full-time should be able to afford housing, food, healthcare, transportation, and childcare without living in constant financial stress.
+A full-time job should provide stability and dignity — not keep people trapped paycheck to paycheck.
+I also support:
+- Protecting workers’ rights and the right to organize
+- Expanding apprenticeship and skilled trade opportunities
+- Workforce development through community colleges and CTE programs
+- Investments in industries that create stable, long-term jobs
+- Supporting local businesses and local job growth
+Arizona’s economy should work for the people keeping it running — not just large corporations and political insiders.
+Local Solutions & Community Investment
+I believe affordability solutions should focus on strengthening local communities and helping people remain in the places they call home.
+That includes:
+- Supporting community-based housing solutions
+- Encouraging adaptive zoning policies where appropriate
+- Expanding infrastructure investments
+- Prioritizing developments that serve residents rather than short-term speculation
+- Supporting local economic development and small businesses
+Arizona’s affordability crisis will not be solved by one policy alone.
+It requires long-term planning, responsible growth, investment in working families, and leadership focused on building stable, sustainable communities for the future.

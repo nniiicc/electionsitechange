@@ -1,0 +1,1 @@
+Anthony: It’s time for a bipartisan solution to lower property taxes Apr 7 1 min read https://www.detroitnews.com/story/opinion/2026/02/12/anthony-its-time-for-a-bipartisan-solution-to-lower-property-taxes/88628447007/?gnt-cfr=1&gca- cat=p&gca-uir=false&gca-epti=z116326p119850c119850u117726e009200v116326&gca-ft=426&gca-ds=sophi

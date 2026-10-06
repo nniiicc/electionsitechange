@@ -1,0 +1,14 @@
+My Priorities
+Since entering public service in 2018, I have been committed to making Stratham an even better place to live, work, and raise a family.
+I have the experience to work across the aisle to tackle challenges and will continue to work hard for Stratham and its residents.
+Core Beliefs
+My pledge to the residents of Stratham is to listen to their concerns and needs and to represent them accurately in Concord.
+I believe in:
+- Reproductive rights for women, and ensuring everyone has the right to decide if, when, and how to start a family
+- Supporting renewables to ensure affordable energy and to help to lower the cost of living in New Hampshire
+- Gun safety, and the right to live in communities and attend schools free from gun violence
+- Strong public schools, safe and accessible to all, that will help create responsible, prepared community members
+- Our local election officials, and their ability to organize and oversee elections fairly and accurately
+- Ensuring that local officials have the flexibility to make the best decisions for their town
+- Maintaining roads and bridges to attract business and ensure personal safety
+- Working across the aisle to create balanced state budgets

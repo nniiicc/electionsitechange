@@ -1,0 +1,1 @@
+Videos Caught, Dem Punished Police Chief in Palm Beach FL for FB post with Republican Deborah Adeimy #fox Lois Frankel threatens business City Diner owner for support of Adeimy Adeimy Palm Beach - Washington Deborah Adeimy Collage Adeimy Palm Beach Sunshine

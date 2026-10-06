@@ -1,0 +1,34 @@
+ECONOMIC DEVOLPMENT
+A strong local economy does not happen by accident.
+It takes leadership, investment, and a willingness to think beyond the “that’s how we’ve always done it” mentality.
+As Mayor, I have made economic development a central priority—working to revitalize our downtown, support local businesses, attract new investment, expand housing opportunities, strengthen our infrastructure, and position our community for long-term growth.
+I believe government’s role is not to stand on the sidelines, but to be a partner: removing barriers, securing state and federal resources, and creating the conditions for businesses and residents to succeed.
+But there is more work to do.
+As a State Representative, I am committed to bringing that same results-driven approach to economic development across the region—fighting for the infrastructure, workforce, housing, transportation, and investment needed to help our communities compete for new businesses and good-paying jobs.
+Economic development is about more than buildings and businesses.
+It is about creating opportunity, strengthening our neighborhoods, growing our tax base, and building a community where the next generation can live, work, and succeed.
+Working with Our Communities on their Goals:
+I believe economic development is about much more than attracting a new business or filling an empty storefront.
+It is about creating opportunity, strengthening our neighborhoods, investing in our infrastructure, supporting our local businesses, and building communities where people want to live, work, raise a family, and invest.
+As Mayor of Gardner and as a former Town Administrator in Rutland, I have learned an important lesson: there is no one-size-fits-all approach to economic development.
+Every community is different.
+Our economic strengths, challenges, infrastructure, workforce, geography, history, and aspirations are unique.
+But every community deserves the opportunity to pursue its own economic future—and every community's goals are equally important.
+My approach has always been to listen first, identify what is holding a community back, and then bring together the public and private resources necessary to move forward.
+Revitalizing Our Downtowns:
+Our downtowns are the heart of our communities.
+When downtowns succeed, local businesses succeed, property values grow, neighborhoods become stronger, and our communities become destinations rather than places people simply pass through.
+As Mayor, I have worked to make Gardner's downtown a place where businesses want to invest and people want to spend time.
+That means addressing vacant properties, encouraging the rehabilitation and reuse of historic buildings, supporting new businesses, expanding downtown housing, and investing in the infrastructure and public spaces necessary to support continued private investment.
+As a State Representative, I will advocate for state resources and programs that help communities throughout the district revitalize their downtowns in ways that reflect their own character and needs.
+Infrastructure Is Economic Development
+You cannot attract investment without the infrastructure to support it.
+From roads and bridges to water and sewer systems, broadband, transportation, airports, and industrial infrastructure, our public investments lay the foundation for private investment.
+As Mayor, I have made strategic infrastructure investment a key part of Gardner's economic-development strategy.
+We have pursued millions of dollars in state and federal grants to make projects possible while protecting local taxpayers.
+As a State Representative, I will bring that same approach to Beacon Hill: identify the projects our communities need, fight for the resources to fund them, and make sure our region receives its fair share of state investment.
+Agriculture and Our Rural Economy
+At the same time, Economic development cannot be limited to downtowns and industrial parks.
+Our farms, agricultural businesses, forests, outdoor recreation, and rural landscapes are important parts of our regional economy and identity.
+Communities across our region have different economic strengths, and those strengths deserve investment.
+I will advocate for policies that support our farmers and agricultural businesses, protect working lands, promote local food systems, and recognize agriculture and rural economic development as important parts of our region's future.

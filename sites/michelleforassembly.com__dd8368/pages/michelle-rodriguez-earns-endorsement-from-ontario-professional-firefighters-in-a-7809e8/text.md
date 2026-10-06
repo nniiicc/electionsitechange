@@ -1,0 +1,2 @@
+(Ontario, CA) – Today, Michelle Rodriguez proudly announces an endorsement of her campaign for the 53rd Assembly District from the Ontario Professional Firefighters Local 1430.
+A life-long advocate for public safety and first responders, mother of a firefighter, and California POST Commissioner, Michelle Rodriguez is the most qualified candidate to fight for high-quality, responsive, and properly resourced public safety in every community.

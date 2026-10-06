@@ -1,0 +1,38 @@
+PRESS RELEASE
+Antione Fields Announces First Slate of Progressive Endorsements in bid for State House District 21
+GAINESVILLE, FL — Antione Fields, Democratic candidate for Florida House District 21, announced today that his campaign has earned the endorsements of State Attorney Monique Worrell, former Gainesville City Commissioner Adrian Hayes-Santos, Sunrise Movement Gainesville, and Florida Progressives for Democracy in America.
+The endorsements reflect growing progressive momentum behind Fields’ campaign and a broad coalition of leaders, local voices, and grassroots organizations backing his fight for working families across Marion and Alachua counties.
+Fields, who grew up in Ocala, is running in a district that includes parts of Marion and Alachua counties.
+His campaign is focused on lowering costs, expanding opportunity, protecting Florida’s future, and building a state government that answers to working people instead of corporate and lobbyist power.
+“I’m honored to have the support of leaders and organizers who understand what is at stake in this race,” said Fields.
+“This campaign is about whether working people finally get a voice in Tallahassee that is willing to fight for them.
+We are building a coalition rooted in affordability, justice, climate action, and a government that puts people first.”
+State Attorney Monique Worrell endorsed Fields, citing his commitment to service, accountability, opportunity, and working families.
+For Fields, the endorsement also marks a full-circle moment.
+He served as a campaign fellow on Worrell’s historic 2020 campaign after first hearing her speak at a Black Lives Matter rally earlier that year.
+“I am proud to endorse Antione Fields for Florida House District 21,” said Worrell.
+“Antione Fields is a leader who understands the importance of service, accountability, and fighting for opportunities that strengthen our communities.
+Throughout his work and leadership, he has demonstrated a commitment to advocating for working families, investing in young people, and ensuring that every voice is heard.”
+“As State Attorney, I have seen firsthand how critical strong leadership is when it comes to building safer communities, expanding access to opportunity, and restoring trust in our institutions,” Worrell continued.
+“Antione Fields brings the vision, integrity, and determination needed to move District 21 forward.”
+“Monique Worrell’s 2020 campaign was one of the first campaigns that showed me what bold, people-centered leadership could look like in Florida,” said Fields.
+“I heard her speak at a Black Lives Matter rally that year, joined her campaign as a fellow, and saw firsthand how powerful it can be when a campaign is rooted in justice, accountability, and the people most often ignored by our political system.
+To have her support now as I run for the Florida House means a great deal.”
+Former Gainesville City Commissioner Adrian Hayes-Santos also endorsed Fields, pointing to his commitment to progressive values and working families across House District 21.
+“I’m proud to endorse Antione Fields for State Representative because he shares the progressive values our community needs in Tallahassee,” said Hayes-Santos.
+“Antione understands that working families deserve lower housing costs, affordable healthcare, and a protected environment, and I believe he will be a strong voice for them across House District 21.”
+Fields said Hayes-Santos’ support is especially meaningful because of his record fighting for affordability, sustainability, and progressive local government in Gainesville.
+“Adrian has spent years fighting for a more affordable, sustainable, and equitable Gainesville,” said Fields.
+“I’m grateful to have his support as we build a campaign rooted in the needs of working people across Gainesville, Ocala, and every community in House District 21.”
+Sunrise Movement Gainesville, a youth-led climate organization, also endorsed Fields, adding the support of young organizers fighting for climate justice and a livable future.
+“Young people know exactly what’s at stake in this election because we are the ones who will live with the lasting consequences of what our political leaders do next,” said Fields.
+“Our generation has been handed a climate crisis, a housing crisis, a health care crisis, and a political system where corporations and lobbyists have more influence than working people.
+That has to change.”
+Florida Progressives for Democracy in America also announced its support for Fields, further strengthening the coalition of progressive leaders, organizations, and grassroots advocates backing his campaign.
+Fields said his refusal to accept corporate PAC or lobbyist money is central to the campaign’s message.
+“People deserve to know exactly who their representative works for,” said Fields.
+“I’m not taking corporate PAC or lobbyist money because I’m not running to serve the powerful interests that already have too much control in Tallahassee.
+I’m running to serve the people of House District 21.”
+Fields is a former legislative aide and now a Senior Manager at Common Cause.
+The Democratic primary election for Florida House District 21 will be held on August 18, 2026.
+###

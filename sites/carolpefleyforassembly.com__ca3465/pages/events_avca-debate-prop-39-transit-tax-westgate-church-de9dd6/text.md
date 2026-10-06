@@ -1,0 +1,1 @@
+Back to All Events AVCA Debate Prop 39 & Transit Tax Monday, August 10, 2026 7:00 PM 8:30 PM WestGate Church | South Hills Campus 6601 Camden Avenue San Jose, California, 95120 United States (map) Google Calendar ICS

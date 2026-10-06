@@ -1,0 +1,1 @@
+Morgan Anker September 27, 2021 Representative Ricks speaks at Denver's March for Citizenship on September 25, 2021 Morgan Anker September 27, 2021 Representative Naquetta Ricks joined the March for Citizenship on September 25, 2021 to demand a pathway to citizenship for the 11 million undocumented Americans in the country today.

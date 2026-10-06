@@ -1,0 +1,39 @@
+Skip navigation menu
+Phillips Announces First Two in a Series of Town Halls Across the District
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has b
+- PRESS RELEASE Ian Phillips Speaks in Support of Proposed Data Center Resolution
+- letter to the editor Lemondes is all talk, no action, on clean water
+- NEWS ARTICLE Democratic poll finds close Auburn-area NY Assembly race between Lemondes, Phillips
+- PRESS RELEASE New Poll Shows Ian Phillips and John Lemondes in a Virtual Tie for AD 126
+- PRESS RELEASE Phillips Campaign Launches New Ad on Streaming Services
+- PRESS RELEASE On Labor Day, Phillips Receives Overwhelming Support of Organized Labor
+- PRESS RELEASE Phillips to Receive Endorsements of Senators Gonzalez and May following Panel on Data Centers
+- PRESS RELEASE Packed Room for Phillips Town Hall in Lafayette Ahead of Thursday Town Hall in Cato
+- letter to the editor McIlvain: Lemondes has failed to help protect Owasco Lake
+- NEWS ARTICLE How Ian Phillips is Raising Water Quality as Issue in Auburn-Area NY Assembly Race
+- PRESS RELEASE Threat Posed by Harmful Algal Blooms Demands Leaders Who Will Fight for Our Lakes
+- NEWS ARTICLE Phillips says Lemondes 'no-shows' listening events in Auburn-area NY Assembly district
+- PRESS RELEASE Ian Phillips Says of Hochul's Data Center Order Good First Step
+- PRESS RELEASE State Assemblyman John Lemondes a no-show a second time for local library event
+- PRESS RELEASE City of Auburn passes data center resolution with Phillips’ support
+- NEWS ARTICLE Auburn council urges Hochul to sign NY data center moratorium, eyes local ban
+- PRESS RELEASE State Assemblyman John Lemondes a no-show for local library event
+- Letter to the Editor Phillips: To battle utility companies, ban their donations to politicians like Lemondes
+- NEWS ARTICLE Affordability, water among Ian Phillips' top issues in second run for NY Assembly
+- PRESS RELEASE Ian Phillips pitches CNY 'comeback' to voters in Auburn-area NY Assembly race
+- NEWS ARTICLE Phillips challenges Lemondes to debates in Auburn-area NY Assembly race
+- News article Phillips: Lemondes “Out of Touch” on Bimbo Bakeries Closure
+- news article Auburn's Phillips is top fundraiser among NY Assembly challengers
+- NEWS ARTICLE Top Cayuga County Democrats endorse 'fresh voice' Phillips for NY Assembly
+- NEWS ARTICLE Union leader seeks to challenge John Lemondes in election for NY Assembly
+- NEWS ARTICLE Ian Phillips, Auburn school board president, running for NY Assembly
+- NEWS ARTICLE Ian Phillips Announces Campaign for State Assembly
+- PRESS RELEASE State Assemblyman John Lemondes a no-show for local library event.
+- PRESS RELEASE Phillips Announces First Two in a Series of Town Halls Across the District
+- PRESS RELEASE Ian Phillips jumps through folding table in new ad
+- PRESS RELEASE Assemblyman John Lemondes Flip-Flops on Data Centers
+- NEWS ARTICLE Bills fan Ian Phillips jumps through table in TV ad for Auburn-area NY Assembly race
+- NEWS ARTICLE Data centers could define this election.
+Where do Central NY’s candidates stand?
+PRESS RELEASE

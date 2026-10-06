@@ -1,0 +1,18 @@
+FOR IMMEDIATE RELEASE
+September 19, 2016
+Contact: Mike Trujillo
+818-968-6048
+State Senator Isadore Hall Files Motion for a Protective Order
+Tries to delay revealing court testimony while denying his neighbors justice.
+SAN PEDRO, CA – On primary election night in June, State Senator Isadore Hall was served with a subpoena to testify in the case against his current landlord and political donor at the Alameda Court Housing complex.
+In a recent development, Senator Hall asked the court for a protective order to avoid testifying in the case.
+Hall argues he should be immune from discovery and his deposition because he is “a top government official”.
+This raises questions about whether Hall and his landlord are colluding to avoid his testimony.
+The request for a protective order raises new questions about Senator Hall’s honesty around this case.
+Despite claiming to CBS News in June that he always paid his rent, Senator Hall’s landlord alleged that the Senator failed to use his taxpayer-funded salary to pay rent which resulted in an eviction lawsuit against the Senator last November.
+The motion for a protective order also claims that it would be too burdensome for Senator Hall to produce his rent records, even though those same records were reportedly produced to CBS News during his televised interview.
+In opposition to the protective order, Senator Hall’s neighbor swears under oath that the landlord gave Hall special treatment because the landlord claimed Senator Hall was “government” so he could not be touched.
+She said that Senator Hall was allowed to park his cars in places other tenants were towed from and that Senator Hall met frequently with the landlord until the eviction lawsuit was filed.
+The trial is scheduled in October and Hall’s neighbors have waited for their day in court for almost two years.
+On Thursday, September 22, 2016, the court will decide if Hall can avoid testifying or if Hall’s neighbors will have to wait until the Senator’s November election to have their fraud trial heard.
+Find the opposition to the protective order filed by the counsel for the Plaintiffs, Senator Hall’s neighbors, in the Alameda Court Case here and the declaration made by one of the tenants specifically about Senator Hall’s special treatment here.

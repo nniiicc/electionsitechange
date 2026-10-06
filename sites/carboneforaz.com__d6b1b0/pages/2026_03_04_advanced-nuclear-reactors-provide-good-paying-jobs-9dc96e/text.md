@@ -1,0 +1,1 @@
+By choosing to site SMRs in rural areas, local officials can not only generate clean and reliable power for the state, but help revitalize local communities and create hubs for new economic development, providing high-paying jobs and opportunities for the next generation of skilled workers.

@@ -1,0 +1,28 @@
+2026 ENDORSEMENTS
+- Police Benevolent Association
+- Detectives Endowment Association
+- Sergeants Benevolent Association
+- Lieutenants Benevolent Association
+- Captains Endowment Association
+- Uniformed Fire Officers Association
+- Port Authority Police Benevolent Association
+- Corrections Officers Benevolent Association
+- Port Authority Sergeants Benevolent Association
+- Retired Sergeants Association
+- The Uniformed EMTs, Paramedics and Inspectors
+- Transport Workers Union of America
+- Uniformed Sanitationmen's Association
+- NYS Professional Fire Fighters Association
+- National NYC 10-13 Organization
+- Log Cabin Republicans Federal PAC
+- American Maritime Officers
+- Marine Engineers’ Beneficial Association
+- International Organization of Masters, Mates & Pilots
+- Seafarers International Union
+- American Israeli Public Affairs Committee
+- New Era Democrats
+- NFIB Small Business Association
+- American Federation of Government Employees
+- Animal Wellness Action
+- Conservative Party of New York State
+STAND WITH NICOLE

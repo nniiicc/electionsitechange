@@ -1,0 +1,13 @@
+Mark Finchem, an Arizona state rep. who recently ran as the 2022 GOP Nominee for Arizona Secretary of State, endorsed Andy Biggs (R-AZ) for the next U.S.
+Speaker of the House of Representatives in a public statement made on Friday.
+“I endorse Andy Biggs for Speaker of the House [and] I call on the Arizona delegation to vote against McCArthy for his lack of leadership and integrity at this point in history,” Finchem said.
+“He spent millions in primaries that could have helped us in the general.
+He also took laundered FTX money.”
+Finchem, in addition to the Arizona Republican Party’s nominee for Governor, Kari Lake, was the direct opposition of the political action committee (PAC) called Pro-Democracy Republicans, which was founded by Maricopa County Recorder Stephen Richer.
+Richer donated thousands of dollars to the “Pro-Democracy Republicans PAC, whose mission statement is “to support pro-democracy Arizona Republicans” who reject “conspiracy theorists and demagoguery” from candidates who contended that the 2020 U.S. presidential election in Arizona was stolen.
+Continue Reading: https://nationalfile.com/mark-finchem-endorses-andy-biggs-for-house-speaker/
+(Media RIght News) Mark Finchem Endorses Andy Biggs For House Speaker, Slams Kevin McCarthy Over Primary Spending
+“In a tweet last night, Arizona GOP State Rep Mark Finchem endorsed U.S.
+House Rep Andy Biggs to be the next Speaker.
+Finchem also slammed current House Minority Leader Kevin McCarthy for his primary spending and urged all of the Arizona House Reps to rally around Biggs in support. ‘I endorse Andy Biggs for Speaker of the House & I call on the Arizona delegation to vote against McCarthy for his lack of leadership & integrity at this point in history,’ Finchem explained.”
+Read Article: https://mediarightnews.com/mark-finchem-endorses-andy-biggs-for-house-speaker-slams-kevin-mccarthy-over-primary-spending/

@@ -1,0 +1,3 @@
+Donate Thank you for supporting Representative Bruce Williamson as he works to be the voice of Walton County at the State Capitol.
+Donations are not accepted while the Legislature is in session.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...

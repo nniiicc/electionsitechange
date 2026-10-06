@@ -1,0 +1,26 @@
+Housing
+ROOTED
+Delia has been an advocate for housing justice her entire life.
+Her family experienced housing instability when she was a child.
+She grew up volunteering at her church’s homeless shelter and became the Executive Director of a homeless services agency at 21 years old.
+These experiences imprinted on her the importance of housing as a human right.
+Delia believes that everyone deserves a safe, accessible, and affordable place to call home.
+She understands that housing and housing stability are deeply tied to community economic development, safety,and public health.
+This is why she has been a steadfast supporter of developing affordable housing and community-centered development that allows residents to afford to stay in their homes.
+Delia has worked extensively to extend protections to those at risk of losing their homes, especially during the COVID-19 pandemic.
+READY
+Delia has been one of the leading champions of housing justice in Congress, as well as during her time in the Illinois Legislature.
+She is a champion for building more housing - especially affordable housing and housing for families - and developing the social safety net needed to end displacement and homelessness.
+She fights to protect renters and homeowners from big banks and corporate landlords.
+She advocates for strong consumer protections and anti-discrimination laws in housing.
+She champions community benefits agreements so that development projects focus on addressing community needs, sharing profits with the community and not just wealthy developers, and don’t lead to destabilization and displacement.
+RESULTS
+In Congress, Delia has:
+- Co-sponsored the Homeless Children and Youth Act of 2023, which would revise the McKinney-Vento Homeless Assistance Act to address the needs of homeless children, youth, and families, as well as center the assessments and priorities of local communities.
+- Co-sponsored the Build Housing with Care Act of 2023 to establish a grant program to create co-located affordable housing and on-site child care
+- Requested $750,000 for an affordable housing project in Glen Ellyn, and $1.9 million for the construction of senior housing in Elmwood Park
+- Requested $1 million for a community land trust to preserve affordable home ownership, and $2 million for a nonprofit expansion that would support housing services for low-income families
+As IL State Representative, Delia:
+- Wrote and passed the nation’s most comprehensive emergency housing law to keep people housed during the COVID-19 pandemic which led to over $1 billion in rental and mortgage assistance reaching over 110,000 Illinois homes
+- Championed and won over $450 million for the construction and operation of affordable housing in the Illinois capital budget and annual state appropriations
+- Passed legislation to expand and increase funding for the Illinois Homeless Prevention Program, which grants people at risk of losing their homes emergency assistance with rent, mortgage, or utilities

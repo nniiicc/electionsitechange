@@ -1,0 +1,2 @@
+A new bipartisan California law could reduce travel times by up to 20% for commuters throughout Southwest Riverside County.
+Authored by Assemblymember Kate Sanchez, representative of California’s 67th Assembly District, and co-authored by Senator Kelly Seyarto of the 32nd Senate District, AB 2307 requires the Western Riverside Council of Governments and Caltrans to coordinate traffic signal synchronization between local roads and state-controlled signals at highway interchanges.

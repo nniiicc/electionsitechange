@@ -1,0 +1,26 @@
+Affordability
+Families across the 40th District are being squeezed from every direction.
+Utility bills keep rising, grocery costs remain unpredictable, and everyday fees continue making it harder for working people, seniors, and young families to stay financially stable.
+Tiffany believes affordability is not just about wages, it’s about lowering the everyday costs that make life harder for residents trying to survive, grow, and stay rooted in their communities.
+The Cause
+The Effect
+Weak oversight and rising corporate costs are making everyday life increasingly unaffordable for working families.
+Utility companies continue requesting rate increases through systems many residents have little ability to influence, while large corporations continue posting major profits as families struggle to keep up with electric, gas, and water bills.
+At the same time, grocery prices continue rising, driven not only by inflation but also by predatory pricing strategies and weak consumer protections that leave residents paying more for everyday necessities.
+Excessive fees, rising insurance costs, and financial practices that prioritize profit over people are pushing too many families further behind instead of helping communities build long-term stability.
+- Rising utility bills force families to choose between keeping the lights on, buying groceries, or paying for medication.
+- High grocery prices and limited affordable food options increase food insecurity and place additional stress on working families and seniors.
+- Excessive fees, rising insurance costs, and predatory pricing practices make it harder for residents to achieve financial stability.
+- Small businesses struggle with increasing operating costs, leading to higher prices, closures, and fewer neighborhood resources.
+Tiff's Solution
+Utility Accountability
+- Fight for stronger oversight of unjustified utility rate increases and demand greater transparency from energy companies.
+- Support legislation that gives residents a stronger voice before costs are passed onto consumers.
+- Push for expanded energy assistance and weatherization programs that help lower long-term household utility costs.
+Reducing the Burden of Fees and Costs
+- Advocate for fairer policies around excessive fines, fees, and financial penalties that disproportionately impact low-income residents.
+- Support consumer protections that help families avoid predatory financial practices and hidden costs.
+- Invest in policies that help residents build long-term economic stability instead of trapping them in cycles of debt.
+Consumer Protection & Economic Stability
+- Support stronger consumer protections that prevent corporations from using predatory pricing practices to drive up the cost of everyday necessities.
+- Invest in local businesses, workforce development, and community-based economic opportunities that create sustainable growth without pricing residents out of their neighborhoods.

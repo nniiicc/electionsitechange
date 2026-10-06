@@ -1,0 +1,48 @@
+Fellowships
+The Marcy Kaptur for Congress campaign offers fellowship opportunities for students and young professionals who want to gain hands-on organizing experience in one of the most competitive Congressional races in the nation.
+Select a fellowship below to learn more and apply.
+Democracy Summer Fellowship
+This fellowship is part of the Democracy Summer program — a national Democratic fellowship founded by Congressman Jamie Raskin that trains and deploys the next generation of Democratic organizers and leaders to win elections at every level.
+Democracy Summer Fellows with the Kaptur campaign will engage in a pro-democracy, pro-voting rights curriculum alongside an exciting summer of on-the-ground organizing, including voter registration, door knocking, phone banks, rallies and political events in Ohio’s 9th Congressional District.
+Program Details
+The 2026 program runs from Monday, June 22nd to Friday, August 7th and requires a 15–20 hour/week commitment.
+Virtual Curriculum (4+ hours/week)
+- Weekly speaker sessions on Mondays, 12pm–2pm ET
+- Interactive Zoom workshop sessions throughout the week (assigned by campaign/region)
+On-the-Ground Organizing (10–15 hours/week)
+- Work directly with campaign staff on voter outreach, canvassing and events
+- Primarily in-person with some remote responsibilities
+- Schedules vary — coordinated with campaign leadership
+Requirements
+- Must be at least 16 years of age
+- Commit to fully participating in virtual seminars, discussions and workshops
+- Commit to on-the-ground organizing with the campaign
+Stipend
+All Fellows receive a $575 stipend from the campaign to supplement the costs of their organizing efforts.
+How to Apply
+The application requires a resume, cover letter, and several short answer questions.
+The application deadline is Friday, May 8, 2026.
+About the Fellowship
+The Marcy Kaptur for Congress campaign is looking for hardworking, driven high school students to join our team.
+This opportunity is geared towards students who are looking to learn from and be part of one of the most competitive Congressional races in the nation in 2026.
+No prior campaign or political experience is necessary — only a sincere interest and passion in Democratic politics and advocacy work.
+Students on the organizing team will engage in an exciting summer of on-the-ground organizing.
+They’ll work directly with campaign leadership to execute a voter outreach program that includes door-to-door canvassing, volunteer recruitment and training, event staffing, and intentional relationship-building within the district.
+What You’ll Learn
+Fellows can expect mentorship and training from campaign management, along with significant opportunities for professional development, networking, and exposure to experienced campaign operatives.
+Weekly workshops include:
+- A deep dive into political organizing
+- Campaign Finance 101
+- Careers in Politics: Options and Trajectories
+- How to craft a great resume
+- General professional development: interviews, college and staying organized
+Qualifications
+- Enthusiastic about meeting people, building relationships and empowering volunteers
+- Strong organizational skills
+- Flexible, adaptable, collaborative and communicative with a solution-oriented mindset
+- Committed to electing Democratic candidates
+Hours & Commitment
+This fellowship requires a minimum 5 hour/week commitment.
+This is an unpaid opportunity and may be counted towards community service hours.
+How to Apply
+Applications for the Summer term are due by May 24, 2026.

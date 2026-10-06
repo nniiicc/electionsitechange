@@ -1,0 +1,2 @@
+Democratic congressional candidate Beth Macy spoke about healthcare, rising costs, farming concerns, and the growing debate over data centers across Virginia’s 6th Congressional District.
+Read the full article here: https://royalexaminer.com/beth-macy-brings-congressional-campaign-to-warren-county-democratic-gathering/?fbclid=IwY2xjawTPHFpleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeFXHUN8Fi9pVCFPLCvxzKuzkPHHdaw3Tp_gRRhTRGUkYUdk2TL52yK__8Xjg_aem_uKE8fj2OA_GBCGhd9mHmsg

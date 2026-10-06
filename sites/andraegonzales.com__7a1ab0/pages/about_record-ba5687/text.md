@@ -1,0 +1,11 @@
+Since his election to the city council in 2016, Andrae has:
+- Initiated the creation of the Bakersfield Community Land Trust to expand access to homeownership for local first-time homebuyers.
+- Attracted, retained, and supported dozens of new small businesses in Downtown Bakersfield, spurring revitalization on Bakersfield’s city center
+- Raised the city’s reserve funds to historic highs as the Budget Chair and established the city’s first Section 115 pension trust fund to address unfunded liabilities.
+- Established the city’s affordable housing trust fund, producing over 1,000 new units of affordable housing by the end of 2026.
+- Initiated a partnership with the county library system, extending the days and hours of operation of libraries.
+- Led the effort to build the Brundage Lane Navigation Center, Bakersfield’s first low-barrier homeless shelter serving individual women, men, and couples.
+- Established the city’s first neighborhood traffic calming toolkit, empowering residents to make streets safer for children and families.
+- Initiated the city’s climate community work, leading to $100 million in new investment in the historically disadvantaged southeast area.
+- Improved Ward 2 parks, including new facilities at Jefferson, Jastro, Oleander, Quailwood, Beale, and MLK parks.
+- Initiated the 18th and 19th Streets projects in downtown Bakersfield, adding trees, bike lanes, and pedestrian-level lighting.

@@ -14,7 +14,7 @@ $10
 $25
 $50
 STAND WITH DAVE
-Company
+Comments
 This field is for validation purposes and should be left unchanged.
 First Name
 *

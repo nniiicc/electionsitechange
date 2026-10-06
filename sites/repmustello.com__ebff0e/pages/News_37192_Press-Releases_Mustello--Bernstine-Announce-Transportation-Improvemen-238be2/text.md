@@ -1,0 +1,22 @@
+Mustello, Bernstine Announce Transportation Improvements for Butler County
+December 30, 2025
+BUTLER COUNTY – Reps.
+Marci Mustello (R-Butler) and Aaron Bernstine (R-Butler/Lawrence) today announced nearly $2.6 million in state funding has been awarded for transportation infrastructure improvements in Butler County through the Multimodal Transportation Fund.
+The funding will support the rehabilitation of five bridges currently rated in poor condition in Penn and Jefferson townships, helping to improve safety, reliability and mobility for residents, businesses and emergency responders.
+“Safe and reliable infrastructure is essential for our communities,” said Mustello.
+“This funding will allow critical bridge repairs to move forward in Butler County, addressing long-standing needs while improving safety for motorists and supporting local economic activity.”
+“These projects represent smart, targeted investments that will have a real impact for Butler County residents,” said Bernstine.
+“Rehabilitating these bridges will help ensure people can travel safely and efficiently, while also supporting commerce and access to essential services throughout our communities.”
+The funding comes from the Multimodal Transportation Fund under the Commonwealth Financing Authority, which is responsible for administering the state’s economic development programs.
+The fund provides grants to support projects that improve transportation safety, promote economic development, and enhance the quality of life for residents across Pennsylvania.
+Representative Marci Mustello
+11th Legislative District
+Representative Aaron Bernstine
+8th Legislative District
+Pennsylvania House of Representatives
+Media Contact: Rick Leiner
+717.260.6437 (office), 717.497.8478 (cell)
+Rleiner@pahousegop.com
+Sign Up to Receive Legislative Email Updates
+Keep up-to-date on the latest legislative and community news.
+Your email address will be used strictly for legislative purposes.

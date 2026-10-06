@@ -1,0 +1,14 @@
+SMART & EQUAL JUSTICE FOR ALL
+Building Safer, More Resilient Communities
+As our State Representative, Noah is working tirelessly to:
+- Increase funding and support for cost-saving and effective diversion programs and interventions, including veterans’ treatment courts, drug treatment courts, and mental health courts, particularly for juvenile offenders (HBs 4624, 4627, 4628, 4629)
+- Combat the proliferation of dangerous assault-style weapons in Michigan
+- Mandate owners of firearms in Michigan purchase and carry firearm liability insurance policies
+- Sustain necessary funding for first responders who keep our towns safe and healthy (HBs 4605, 4606 and FY 2025 State Budget)
+- Provide funding for mental health responders to attach to local police units and provide vital expertise in responding to incidents potentially involving individuals suffering mental health issues
+- Stand up for survivors of sexual violence by extending the statute of limitations to prosecute cases of criminal sexual conduct (HBs 4482, 4483, 4484, 4485, 4486, 4487)
+- Pursue common-sense accountability and transparency reform measures for law enforcement agencies, including greater emphasis on de-escalation techniques and prohibiting the use of ineffective and dangerous physical maneuvers, such as choke-holds
+- Address the issue of recreational safety on lakes across our community, including with a $100,000 law enforcement grant to Keego Harbor for marine patrol (FY 2024 State Budget)
+- Replace Michigan’s ineffective, unjust, and costly cash bail system and with a proven public safety risk assessment of the level of threat posed by a criminal defendant to public safety and work with judges make that risk assessment the main determinant of whether a defendant should be held in jail pending trial or released
+Sound good to you?
+Join our campaign or make a donation to show your support!

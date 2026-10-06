@@ -1,0 +1,25 @@
+COMMUNITY INVESTMENT AND ECONOMIC DEVELOPMENT
+ROOTED
+Delia spent nearly two decades working in and with community organizations, so she knows that economic development efforts should lead to thriving neighborhoods with robust local economies anchored by small businesses.
+She has been a strong proponent of community benefits agreements to ensure strong wages, equitable access, and community investment without displacement when large corporate developers attempt to profit off our communities.
+She has been a champion for local economies by sponsoring legislation to designate cultural districts where historic communities and their small businesses are promoted, invested in, and preserved.
+Delia also has seen how properly-regulated emerging technologies, including decentralized finance and blockchain technologies have the potential for improving the lives of many while also enabling social and economic growth.
+READY
+Delia is a champion in Congress for the small and developing businesses and local economies of the 3rd Congressional district.
+She fights for relief for the small businesses that have been most impacted by the COVID pandemic.
+Delia also works to ensure that the US is a global leader in new and emerging technology fields to ensure that we remain competitive in the 21st Century economy.
+She advocates for increased investments by the Department of Commerce for community-based economic development that promotes and preserves thriving local economies.
+She fights for transportation investments that enable residents to access good-paying jobs throughout the region and enable people in the District and beyond to patronize local businesses.
+You can count on Delia to prioritize the needs of small businesses and local economies over the interests of large corporations, because she does not take corporate money and is not beholden to their interests.
+RESULTS
+In Congress, Delia has:
+- Is fighting for $13.5 million of federal funds for infrastructure and community projects for IL's 3rd District in the FY24 budget.
+These projects would invest in rail transportation improvements, highway and road repairs, affordable housing, capital projects for community organizations, and more
+- Co-sponsored the Raise the Wage Act of 2023 to raise the federal minimum wage to $17 per hour
+- Co-sponsored the Transparency in Government Contracts Act for the Small Business Administration to share data on Federal contracts awarded to small businesses owned and controlled by socially and economically disadvantaged individuals
+- Co-sponsored the Good Jobs for Good Airports Act to mandate that all sizes of airports provide airport service workers living wages and benefits
+As IL State Representative, Delia:
+- Chief-sponsored legislation to create first-in-the-nation State Designated Cultural Districts to invest in local communities, promote economic development and preserve unique cultural and historical legacies
+- Chief-sponsored legislation to create the Milwaukee Ave Polish Heritage Corridor to honor and preserve the historical contributions of Chicago’s Polish American community
+- Supported community development projects on the Northwest side that prioritize investments into affordable housing
+- Championed and passed legislation to make Universal Basic Income pilot programs in IL possible without interrupting public aid benefits

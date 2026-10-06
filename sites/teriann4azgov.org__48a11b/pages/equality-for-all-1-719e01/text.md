@@ -1,0 +1,38 @@
+Equality, Safety, and Respect for Every Arizonan
+As Governor, I will govern for every Arizonan.
+I believe that every person deserves dignity, respect, equal treatment under the law, and protection from discrimination, harassment, and violence.
+My administration will work to ensure that all people—regardless of their background, beliefs, race, religion, sex, sexual orientation, or gender identity—are treated fairly and have the opportunity to succeed.
+I also believe that public policy should seek practical solutions that protect the rights, safety, and concerns of all groups.
+On issues involving athletics, I support policies that preserve fair competition while respecting the dignity of every participant.
+When the sport is not a co-ed sport, the sport will be only for at birth sexual orientation.
+On issues involving public facilities, I support exploring solutions that maximize privacy, safety, and accessibility for everyone, including the availability of private or additional restroom facilities where feasible.
+I will not support policy that allows for the inclusion of opposite sexes and genders entering same restroom or locker rooms in public available options.
+I believe this protects all children, including our trans-youth.
+My goal is not to divide Arizonans into competing groups, but to find common-sense solutions that allow people to live, work, and thrive together.
+I oppose hatred, harassment, and discrimination directed at any group.
+Every person deserves to feel safe in their community and confident that their government respects their rights.
+Arizona is strongest when we treat one another with respect, even when we disagree.
+As Governor, I will focus on policies that unite our communities, protect individual liberties, promote public safety, and ensure equal treatment for all under the law.
+We do not have to choose between fairness and compassion.
+We can have both.
+My administration will work every day to build an Arizona where every resident is valued, protected, and given the opportunity to succeed.
+Democracy Works Best When the People Decide
+Teri Ann Hourihan for AZ Governor.
+A lawsuit has been filed seeking to remove several Arizona legislative referrals from the November ballot.
+According to the article, advocacy groups argue the measures violate Arizona’s constitutional requirements because they combine multiple issues into single ballot questions and use titles they believe are misleading.
+Republican lawmakers disagree and intend to defend the referrals in court.
+(AZ Mirror￼) My view is that, whenever possible, voters—not courts or special interest groups—should have the opportunity to decide important public policy questions at the ballot box.
+If a measure is legally valid, the people should be trusted to vote for or against it themselves.
+I also believe equality should mean equal treatment for everyone.
+Protecting one group should not come at the expense of another.
+Equal rights should apply equally to all people, including heterosexual individuals, just as they apply to LGBTQ+ indivi
+Faith, Freedom & Religious Liberty
+I am a Christian, and my faith is an important part of who I am and how I strive to live and lead.
+But as Governor of Arizona, my responsibility will be to serve every Arizonan—regardless of their faith, denomination, beliefs, or decision not to practice a religion at all.
+Freedom of religion means more than protecting the beliefs we personally share.
+It means protecting the constitutional right of every person to worship, believe, pray, and express their faith according to their own conscience—or to choose not to participate in religion.
+I will never use the Governor’s Office to force my personal religious beliefs on others.
+I will defend the freedom of Christians to openly practice their faith while equally defending the rights of Jewish, Muslim, Hindu, Buddhist, Indigenous, and other faith communities, as well as those who do not identify with a religion.
+My faith guides me.
+The Constitution guides my responsibility as Governor.
+Freedom belongs to everyone.

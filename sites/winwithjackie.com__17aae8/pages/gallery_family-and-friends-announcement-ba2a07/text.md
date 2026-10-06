@@ -1,0 +1,12 @@
+Family and Friends Announcement
+Thank you to everyone who made it Monday night, especially with less than 12 hours' notice!
+For those who couldn't make it, here's a look into my private announcement with close friends and family.
+No press, no media, and not meant to be a crowd shot.
+It was about putting my people first and making it clear that without them, none of this happens.
+I wanted the people in my life to hear directly from me and to connect with each other, because that is where this campaign begins.
+As much as this is about me, it is just as much about all of YOU.
+I'm doing this to serve the people of my community and to represent them the right way.
+This is not a stepping stone for me because this community is ME.
+If you missed it, I know you were there in spirit and I can't wait to have you join us next time!
+Stayed tuned, good things are coming.
+23 photos

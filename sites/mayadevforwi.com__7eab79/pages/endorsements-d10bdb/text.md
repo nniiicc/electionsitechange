@@ -1,0 +1,78 @@
+Renuka Mayadev is HONORED to HAVE BEEN Supported by leaders across our community:
+Renuka Mayadev with State Senator Kelda Roys
+Renuka Mayadev with State Representative Francesca Hong
+Elected Officials
+- Jim Doyle - Governor
+- Barbara Lawton - Lieutenant Governor
+- Kelda Roys - State Senator
+- Francesca Hong - State Representative
+- MGR Govindarajan - City of Madison Alder
+- Savion Castro - MMSD School Board Member
+- Terese Berceau - Former State Representative, District 77
+- Mo Cheeks - Former City of Madison Alder
+Organizations
+- Planned Parenthood of Wisconsin
+- Working Families Party
+- Wisconsin Conservation Voters
+- AFT-Wisconsin
+- MTI
+- Electing Women Wisconsin
+- AFSCME PEOPLE
+- Wisconsin Education Association Council
+- SEIU
+- Teamsters Joint Council 39
+- Wisconsin Laborers’ District Council
+- Moms Demand Action - Gun Sense Candidate Distinction
+- Sierra Club - John Muir Chapter
+- Young Democrats of Wisconsin
+- North Central States Regional Council of Carpenters
+- Wisconsin Bricklayers and Allied Craftworkers Union
+- National Association of Social Workers, Wisconsin Chapter
+- Adelante
+- Wisconsin Muslim Civic Alliance
+Community Leaders
+- Kristine Andrews - FormerAssociate Vice President, UW System
+- Deb Anken-Dyer - Child Advocate
+- Michelle Arora - Former President, Friends of UW Health
+- George Austin - President,AVA Civic Enterprises
+- Sarah Bass - UW Graduate Student
+- Jane Bernstein - Former Teacher, Madison West High School
+- Jeanne Bissell - Founder, Rockford Family Clinic
+- Paula Bonner - Former President, UW Alumni Association
+- Margaret Corbae - Public Health Professional and Former School Nurse, MMSD Public Schools
+- Samantha Crownover - Arts Leader
+- Meredith Degen - Community Leader
+- Nada Elmikashfi - Board Member, 350 Wisconsin
+- Eve Galanter - Community Leader
+- Katie Gillespie - Maternal and Child Health Expert, UW School of Nursing
+- George Hall - Wisconsin Department of Administration, Retired
+- Nancy Heiden - Community Leader
+- Diana Hess - Former Dean, UW School of Education
+- David Hoffert - Former President, Dudgeon Monroe Neighborhood Association
+- Lydie Hudson - Community Leader
+- Jacob Idlas - Public Defender
+- Awais Khaleel - Arbor Hills Resident
+- Lily Johnson - UW School of Medicine and Public Health, Department of OB-GYN
+- Shabnam Lotfi - Village of Shorewood Hills
+- Jeff Mandell - Co-Founder, Law Forward
+- Ed Marion - Former Judge, Dane County Circuit Court
+- Lucy McCluskey - Former School Nurse, Shorewood Hills Elementary School
+- Ion Meyn - Professor, UW Law School
+- Susan Millar - Volunteer Leader, 350 Wisconsin
+- Lainie Minkoff - Board Member, Jewish Federation of Madison
+- Michael Nattinger - UW Graduate Student
+- Juliet Page - Public School Parent
+- Doug Poland - Co-Founder, Law Forward
+- Rajesh Rajaraman - Tocqueville Society Award Recipient, United Way of Dane County
+- Deepika Rajesh - Community Leader
+- Melissa Scholz - Founder, Scholz Nonprofit Law and Community Volunteer
+- Russ Shafer-Landau - Professor, UW Madison
+- Susan Shafer-Landau - Shafer-Landau Interiors
+- JoAnn Skloot - Community Leader
+- Lindsay Stortz Cashen - Board Member, Breakthrough T1D (formerly JDRF) Western Wisconsin Region
+- Julie Underwood - Former Dean, UW School of Education
+- Martha Vukelich-Austin - Former President, Foundation for Madison’s Public Schools
+- Monica Wagner - Madison Mallards
+- Alexa Wautier - Nakoma Resident
+- Eileen Zeiger - Wisconsin Association for Perinatal Care and the Perinatal Foundation
+*Institutional affiliation for the purpose of identification only

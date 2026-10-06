@@ -1,0 +1,33 @@
+On The Issues
+Economy, Tourism, Outdoor Recreation
+As the Chairman of the Nevada Commission on Tourism, Stavros helped lead a remarkable, post-pandemic rebound in our state’s leading economic industry.
+The tourism boom wasn’t just isolated to Las Vegas.
+Tourists flocked to many of Nevada’s wonderful state parks, along with the Great Basin National Park, taking in some of the majestic beauty our state offers residents and guests.
+And while we have faced some recent economic headwinds affecting our major gaming and resort corridors, economists believe we will finish the year on pace for continued growth while rural tourism and outdoor recreation remain resilient.
+Economic Development
+As a member of the Governor’s Office of Economic Development, Stavros has worked closely with Governor Joe Lombardo and regional economic development boards to continue attracting capital investments, businesses, and significant job growth.
+In fact, during Stavros’ first year in office as Nevada’s Lieutenant Governor, employment increased 6 percent (close to 100,000 new jobs), the highest rate nationally over all other states, including Texas and Florida.
+In addition, Nevada has witnessed real growth in our GDP since Stavros entered office, with consistent gains year-over-year.
+Despite some economic headwinds, Nevada’s economy continues to grow, strengthen, and diversify.
+Public Safety
+A nearly three-decade veteran of law enforcement, retiring from Las Vegas Metro as a Captain before entering elected office, Stavros currently serves as a trusted advisor to Governor Joe Lombardo on matters of Homeland Security and Public Safety, helping ensure the safety of Nevada’s residents and our critical infrastructure.
+Lieutenant Governor Anthony knows that both Nevada residents and tourists deserve safe homes, businesses, neighborhoods, communities, and tourist destinations.
+He remains a strong supporter of Governor Lombardo’s efforts to ensure strong adherence to law and order and that our state and local law enforcement agencies and personnel have the resources they need to carry out their mission.
+At Metro, where he began his career in law enforcement in 1980, Stavros oversaw the Financial and Property Crimes Bureau of the department.
+As a Captain, he spent time in charge of many divisions, including Professional Standards, Personnel, Vice/Narcotics, Northeast Area Command, and the Transportation Safety Bureau.
+The genesis for this effort began when, in 2024, the University of Nevada’s women’s volleyball team was forced to compete against a male athlete on the San Jose State women’s volleyball team.
+When Nevada boycotted the match which led to a forfeit of the contest, it became a national news story.
+The boycott was led by Nevada’s senior Sia Liilii, and three other Mountain West women’s volleyball joined the boycott against men competing in women’s collegiate athletics.
+Lieutenant Governor Anthony stepped up to create his task force, naming 10 leaders in protecting girls and women athletics – which included Sia – with a goal to promote policies that prioritize fairness, protect women’s safe spaces, uphold opportunities for women and preserve the integrity of competition.
+Others on the task face includes chair Marshi Smith, the co-founder of Independent Council on Women’s Sports, as well as Deborah Earl, Vice-President & COO of Power2Parent; Kendall Lewis, Galena High School Athlete; Lydia Dominguez, Clark County School District Trustee; Shannon Nordstrom, Attorney and Former Hearing Commissioner/Alternate Las Vegas Municipal Court Judge; Carrie Buck, Nevada State Senator; Bert Gurr, Nevada State Assemblyman; Clara Andriola, Washoe County Commissioner; Charlene Bybee, Sparks City Councilwoman; and Stephanie Goodman, Nevada System of Higher Education Regent.
+Radical leftists and legislative Democrats who continue to fiercely advocate for men competing against girls in sports immediately attacked Stavros and tried to silence him.
+Their efforts have failed, and Stavros remains passionate about this cause and will continue to fight in every way possible to ensure our female athletes in Nevada are treated with fairness, respect, and appreciation.
+Protecting Women Athletes
+In January of 2025, Stavros created the Lieutenant Governor’s Task Force to Protect Women’s Sports, which has made significant strides in protecting female athletes and providing fairness in sporting competitions at both the high school and collegiate levels.
+In fact, just a few months after creating this task force and advocating for the protection of female athletes, the Nevada Interscholastic Activities Association (NIAA) reversed a 2014 decision that had allowed men to compete against women in youth sports in Nevada.
+This followed a February 2025 policy change by the NCAA that banned biological men from competing in women’s sports.
+Infrastructure
+Having served three terms on the Las Vegas City Council, Stavros led on many efforts to improve our transportation and infrastructure needs of our state’s largest city.
+This not only helped keep our workers and residents moving, but it helps improve and strengthen our economy.
+This experience has served him well as the Vice Chairman of the Nevada Board of Transportation.
+In fact, Nevada’s transportation and infrastructure has been consistently ranked among the best in the United States since the time Stavros was first elected as Lieutenant Governor and joined the Board.

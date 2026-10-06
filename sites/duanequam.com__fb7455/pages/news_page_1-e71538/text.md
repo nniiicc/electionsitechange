@@ -1,0 +1,9 @@
+July 17, 2026 Fraud Committee Report Friends and neighbors, I hope you’re having a great summer.
+With so much recent activity shining a light on fraud, I wanted to make sure you saw the final House Fraud Prevention and Oversight Committee Report:: Please Stay in Touch Please continue to stay…
+Read More
+July 3, 2026 America 250: An Inspiring Milestone Friends and Neighbors, This Fourth of July Weekend is particularly special.
+As I reflect on the 250-year anniversary of our Declaration of Independence, I am reminded of all the sacrifices made by those who came before us that brought us to this…
+Read More
+June 12, 2026 A Thrilling End to the Spring Athletic Season Friends and neighbors, Following up on last week’s highlights, high school athletes from our area continued to perform exceptionally well at the state level, securing multiple individual state championship titles in track and field!
+Softball I would like to…
+Read More

@@ -1,0 +1,11 @@
+WE'RE IN THIS TOGETHER
+Everybody deserves to be treated with dignity and respect and to be able to be their full selves without suffering abuse or being closed out of access or opportunities.
+I will always stand with LGBTQIA+ folks, especially now, when queer communities are increasingly threatened by empowered bigotry.
+Trans kids deserve the same care, protection, and opportunity to thrive that all our kids deserve.
+Everyone who puts their lives and wellbeing on the line to serve our communities deserves support and care.
+If you're not connected to military families, it's easy to miss how little support they're getting compared to what their service and sacrifice deserves.
+And my work supporting victims of the school shooting in which my nephew was injured revealed to me the extent to which our first responders, who are often traumatized by the violence they witness and then re-traumatized by having to go right back into similar situations, lack the support they need to heal.
+These are funding choices made at the state level, and I would choose better support for those who serve.
+Everyone who tries to grow a small business deserves a real shot at becoming a local success story because when our small businesses thrive, our communities thrive.
+We need robust and meaningful community economic development, including incentives for family-owned businesses in our most marginalized communities and substantial support for small farmers.
+Too often the real muscle behind calls for deregulation are massive corporations run by people who’ve never set foot in our communities, who want to pollute and extract and abuse, and I will never support removing those protections from our communities — but I absolutely support taking a hard look at red-tape regulations that needlessly hamper local business without providing significant protections.

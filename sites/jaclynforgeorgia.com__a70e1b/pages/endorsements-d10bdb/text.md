@@ -1,0 +1,44 @@
+Endorsements
+Stand with these Conservative Leaders
+- GA Ag Commissioner Tyler Harper
+- PSC Chairman Jason Shaw
+- GA Senator Russ Goodman
+- GA Senator Sam Watson
+- GA Representative Chas Cannon
+- GA Representative John Corbett
+- GA Representative John LaHood
+- GA Representative Steven Meeks
+- GA Representative Clay Pirkle
+- GA Representative Steven Sainz
+- GA Representative Bill Yearta
+- Tifton Mayor Julie Smith
+- Nashville Mayor Travis Brown
+- Alapaha Mayor Waymond Smith
+- Adel Mayor Buddy Duke
+- Lenox Mayor Henry Baker
+- Berrien County Sheriff Ray Paulk
+- Cook County Sheriff Doug Hanks
+- Tift County Sheriff Gene Scarborough
+- Lowndes County Sheriff Ashley Paulk
+- the late District Attorney Bryce Johnson
+- District Attorney Chase Studstill
+- Tift Co Commission Chair Tony McBrayer
+- Tift Co Commissioner Paul Webb
+- Berrien Co Commissioner Ronnie Gaskins
+- Berrien Co Commissioner Robert Griner
+- Berrien Co Commissioner John Nugent
+- Berrien Co Commissioner Jimmy Parker
+- Berrien Co Commissioner Pixie Harrod
+- Cook Co.
+Commissioner Guy Daughtrey
+- Berrien Co School Board Bryan Horten
+- Cook Co School Board Chad Sumner
+- Berrien Co School Board Michelle Davis
+- Berrien Co School Board Julie Williams
+- Berrien Co School Board Keith Powell
+- Nashville City Council Amy Garner
+- Nashville City Council Rodrick Smith
+- Nashville City Council Shane Willis
+- Nashville City Council Eric Gaither
+- Nashville City Council John Clayton
+- Nashville City Council Derek Joiner

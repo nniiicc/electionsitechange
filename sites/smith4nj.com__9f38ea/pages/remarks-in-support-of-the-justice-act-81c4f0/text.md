@@ -1,0 +1,39 @@
+Smith voted “NO” on ending qualified immunity and “YES” on Passing the JUSTICE Act to ensure greater transparency and accountability in policing in order to build safer communities.
+Remarks by Rep-.
+Chris Smith (R-NJ)
+In the House of Representatives 6/25/2020
+Madame Speaker, the JUSTICE Act is designed to ensure greater transparency and accountability in policing in order to build safer communities.
+I cosponsored the JUSTICE Act because it is a serious, comprehensive and balanced reform initiative—an important step forward.
+I am deeply grateful to Senator Tim Scott and Congressman Pete Stauber for authoring this bicameral legislation.
+The killing of George Floyd while in custody by a Minneapolis police officer demands justice and has resulted in a fresh and necessary look at crime and policing.
+I watched the video of Derek Chauvin kneeling on the neck of Mr.
+Floyd who pleaded “I can’t breathe” with horror and disbelief.
+Chauvin not only betrayed his solemn duty to serve and protect but he betrayed, as well, police officers throughout the nation who serve with great honor and valor, and make enormous sacrifices to protect the innocent and enforce the law.
+Today I—like many Americans—believe that nonviolent dialogue and persuasion are not only the best way, but it is the only way to achieve meaningful change.
+Those who commit violent acts against police and others, as well as those who destroy property and steal, should be prosecuted to the greatest extent of the law.
+The JUSTICE Act that we will vote on today includes new funding of $225 million for improved police training—including best practices for violence de-escalation and alternatives to the use of force—which will likely reduce injury or death to both police officers and criminal suspects.
+The training also includes the most effective approaches to suspects with mental health conditions including individuals with autism.
+The JUSTICE Act also authorizes a $500 million matching grant program to help police departments purchase body-worn cameras and receive the necessary training to ensure optimal use.
+It conditions eligibility for this funding on certain criteria, including usage at all times when an officer arrests or detains anyone.
+The evidence for bodycam use is compelling.
+Studies have shown that the use of body-worn cameras can reduce complaints against officers by up to 90 percent and decrease officers use of force by 60 percent.
+The JUSTICE ACT also provides$500 million for duty-to-intervene training and directs the Attorney General in consultation with state and local governments, and organizations representing rank and file law enforcement officers to develop training curricula on the duty of a law enforcement officer to intervene when another officer engages in excessive use of force.
+Had any one of the three officers on the scene in Minneapolis intervened when George Floyd pleaded that he couldn’t breathe, his life could have been saved.
+Other reforms embedded in the legislation includes maintaining and appropriately sharing disciplinary records for officer hiring, use of force reporting to the FBI, no-knock warrant reporting, incentivizing chokehold bans and increased penalties for false police reports.
+The JUSTICE Act empowers the Community Oriented Policing Services (COPS) grant program to hire recruiters and enroll candidates in law enforcement academies to ensure racial and demographic representation similar to the communities served, and funds an education program for law enforcement on racism produced by the Smithsonian’s National Museum of African American History.
+The bill makes lynching a federal crime.
+The legislation also creates the Commission on the Social Status of Black Men and Boys which will study and issue a wide-ranging report on conditions affecting Black men and boys, including homicide rates, arrest and incarceration rates, poverty, violence, fatherhood, mentorship, drug abuse, death rates, disparate income and wealth levels, school performance in all grade levels and health issues and will make recommendations to address these issues.
+That said, why not vote for the Democrat bill that is before the House today as well?
+I have serious concerns that the language in H.R. 7120—the Democrat proposal—eviscerates qualified immunity in civil lawsuits for our women and men in law enforcement.
+Let’s be clear, current policy provides no immunity whatsoever—nor should it ever—from criminal prosecution as in the case of the officer responsible for the death of George Floyd.
+But qualified immunity—a judicially created legal doctrine—shields government officials, including law enforcement, from personal liability lawsuits so long as their actions do not violate “clearly established statutory or constitutional rights of which a reasonable person would have known.”
+According to the Congressional Research Service, “The Supreme Court has observed that qualified immunity balances two important interests—the need to hold public officials accountable when they exercise power irresponsibly and the need to shield officials from harassment, distraction and liability when they perform their duties reasonably.”
+Section 102 of the Democrat bill ends qualified immunity and states in pertinent part that “It shall not be a defense or immunity in any action brought under this section against a local law enforcement officer…”even if “…the defendant was acting in good faith, or that the defendant believed, reasonably or otherwise, that his or her conduct was lawful at the time when the conduct was committed…”
+If Section 102 became law, it would likely result in a flood of legal actions—an engraved invitation to sue law enforcement officers.
+Moreover, it will deter police from using force where the use of force is necessary to save life or protect property—diminishing the ability of police to provide public safety in dangerous situations.
+Finally, a June 15 letter from the NATIONAL ASSOCIATION OF POLICE ORGANIZATIONS—which represents one thousand professional police associations and units and 241,000 officers throughout the United States—wrote: “Our most significant concerns include amending Section 242 of Title 18 United States Code to lower the standard for mens rea (Title I Subtitle A, Section 101) and the practical elimination of qualified immunity for law enforcement officers (Section 102).
+Combined, these two provisions take away any legal protections for officers while making it easier to prosecute them for mistakes on the job, not just criminal acts.
+With the change to qualified immunity, an officer can go to prison for an unintentional act that unknowingly broke an unknown law.
+We believe in holding officers accountable for their actions, but the consequence of this would be making criminals out of decent cops enforcing the laws in good faith.”
+I include the entire letter for the Record.
+Read online on More Monmouth Musings.

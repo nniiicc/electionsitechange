@@ -1,0 +1,33 @@
+DELIVERING RESULTS.
+BUILDING FOR THE FUTURE.
+I believe public service should be measured by results, accessibility, and a willingness to work with others.
+Since taking office, I have worked to strengthen public education, expand economic opportunity, improve government accountability, and invest in our neighborhoods.
+There is much more to accomplish.
+These are my priorities as I continue serving our community.
+1
+EDUCATION AND WORKFORCE OPPORTUNITY
+Education is one of our most powerful tools for expanding opportunity, strengthening our economy, and making it possible for future generations to build their lives here at home.
+I will continue working to make college and career training more affordable, recruit and retain outstanding educators, improve school facilities, and create stronger pathways from the classroom to meaningful careers.
+As chair of the House Committee on Higher Education, I will champion student success, responsible governance, and better alignment between education and Hawaiʻi’s workforce needs.
+I will also continue supporting the University of Hawaiʻi’s essential role in education, research, innovation, healthcare, and economic diversification while ensuring that students and taxpayers receive a meaningful return on our public investment.
+2
+HOUSING AND AFFORDABILITY
+Hawaiʻi’s high cost of living affects nearly every aspect of daily life.
+Too many local families are struggling with the combined costs of housing, childcare, food, healthcare, utilities, and transportation—and too many young people believe their only path to a secure future lies somewhere else.
+I will support practical solutions that expand affordable rental and homeownership opportunities, make responsible use of appropriate public lands, invest in the infrastructure needed to support new housing, and simplify the fragmented process of finding and applying for affordable housing.
+Addressing affordability also requires reducing other household expenses, creating more family-sustaining careers, and ensuring that our teachers, healthcare workers, first responders, public employees, and young families can afford to live in the communities they serve.
+3
+ETHICS, TRANSPARENCY, AND PUBLIC TRUST
+Public service is a privilege, and elected officials must always remember that they answer to the people.
+Restoring confidence in government requires more than promises—it requires clear rules, meaningful transparency, independent oversight, and consequences when the public’s trust is violated.
+I will continue pursuing stronger legislative ethics, clearer conflict-of-interest protections, greater transparency in government decision-making, and an independent process for investigating allegations of legislative misconduct.
+Legislators should not be responsible for investigating other legislators.
+I will also continue supporting reforms that give the public a clearer understanding of how decisions are made and how taxpayer dollars are spent.
+Hawaiʻi’s people deserve a government that is open, accountable, and worthy of their trust.
+4
+SAFE AND RESILIENT COMMUNITIES
+The quality of life in our neighborhoods depends on government responding effectively to everyday concerns while also preparing for the long-term challenges facing our island.
+I will continue working directly with residents and government agencies to address flooding, improve stream maintenance, remove hazardous invasive trees, strengthen emergency preparedness, and invest in schools, parks, and other community facilities.
+Recent weather events have reinforced the importance of prevention, regular maintenance, clear communication, and better coordination among state and county agencies.
+The best solutions often begin with the people who experience these challenges firsthand.
+By listening to residents and following through with the appropriate agencies, we can protect public safety, preserve our quality of life, and build a more resilient Mānoa, McCully-Mōʻiliʻili and Tantalus.

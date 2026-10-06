@@ -1,0 +1,24 @@
+Home
+About
+Issues
+Legislation
+NEWS
+Press
+Volunteer
+Photos
+Contact
+ENDORSEMENTS
+Press
+CBIA Endorsement
+View All
+Newspaper
+Press Releases
+2018 Press Release
+Press Release 01/17/2018
+READ MORE
+Southington Observer 03/16/18
+Southington Observer 03/16/18
+READ MORE
+Republican American Article
+Waterbury Republican American 01/26/18
+READ MORE

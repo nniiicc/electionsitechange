@@ -1,0 +1,14 @@
+Georgia Hospital Association + Rural Healthcare
+This week, I joined the Georgia Hospital Association for its annual conference to discuss the incredible progress Georgia has made to increase access to quality, affordable healthcare for every Georgian, in addition to the important work that still lies ahead.
+Over the last several years, the General Assembly has made historic investments to attract, train, and retain the best and brightest healthcare professionals to practice here in Georgia.
+Those investments include over $178 million for a new Dental College of Georgia campus and a new Medical College of Georgia campus on the Armstrong Campus of Georgia Southern University, an additional $30 million for Georgia’s first School of Optometry at Georgia Southern University’s Statesboro Campus, and $50 million for a new medical school at the University of Georgia.
+We know that physicians are far more likely to practice in the state where they complete their residency.
+That's why the House has made expanding Graduate Medical Education a top priority.
+Through the Amended Fiscal Year 2026 and Fiscal Year 2027 budgets, the General Assembly invested more than $20 million to create 240 new Graduate Medical Education residency slots across South Georgia, helping strengthen our healthcare workforce where it is needed most.
+The House has also consistently prioritized increasing reimbursement rates for providers serving Medicaid patients, helping ensure physicians and hospitals can continue caring for our most vulnerable citizens while easing the financial strain on providers in rural and underserved communities.
+Georgia's rural hospitals are the backbone of communities across our state, and the House remains committed to strengthening the facilities that provide lifesaving care every day and ensuring families in every corner of Georgia have access to the high-quality healthcare they deserve.
+The Georgia Hospital Association has been an invaluable partner in these efforts, and I appreciate their continued collaboration as we work to address our physician shortage, lower the cost of care, strengthen our healthcare workforce, and expand access to quality healthcare for every Georgian.
+I hope to hear from each of you soon about the policies, priorities, and issues that matter most to you.
+As always, please don't hesitate to reach out at jon.burns@house.ga.gov or (404) 656-5020.
+God bless,
+Speaker Jon Burns

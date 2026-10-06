@@ -1,0 +1,43 @@
+Privacy Policy, Terms of Use, and Texting Disclosures
+Effective Date: 1/22/26
+Who We Are
+David for Utah is a political campaign committee supporting the election of David Chappell to Utah House District 62 in the 67th Utah State Legislature.
+Contact
+Questions about this page or campaign communications:info@davidforutah.com
+Your Choices
+Supporters may:
+- Opt out of campaign texts by replying STOP
+- Request support by replying HELP or emailing info@davidforutah.com
+- Ask to update or remove contact information by emailing info@davidforutah.com
+Terms of Use
+This site and campaign communications are provided for lawful civic engagement.
+Use that interferes with site operation, attempts to gain unauthorized access, or submits false information is not permitted.
+Links may direct to third-party services such as sign-up forms or donation platforms.
+Their practices are governed by their own policies.
+This page may be updated to reflect changes in campaign practices or legal requirements.
+The effective date will be revised when changes are posted.
+Information We Collect
+We collect information that supporters choose to share, such as name, phone number, email address, and participation details from sign-ups, events, canvassing, volunteer activities, and online forms.
+We may also receive supporter information from Democratic Party and allied organizing efforts where the sign-up disclosure states that local Democratic candidates and campaigns may contact the supporter.
+We also collect basic website usage data through standard web tools to understand site performance and improve outreach.
+Texting Disclosures (SMS)
+By providing your mobile number to David for Utah, you agree to receive campaign-related text messages from David for Utah.
+- Message Purpose: campaign updates, events, volunteer coordination, voting dates, and related outreach
+- Frequency: varies based on campaign activity
+- Costs: message and data rates from your carrier may apply
+- Carriers: carriers are not responsible for delayed or undelivered messages
+Opt-out requests apply to the sending number used by the campaign.
+Data Retention and Security
+Information is kept for campaign operations and legal obligations.
+Administrative and technical safeguards are used to reduce risk of misuse.
+How We Use Information
+Information may be used to:
+- Share campaign updates and event notices
+- Coordinate volunteers
+- Provide voting-related dates and reminders
+- Request feedback or support
+- Meet reporting and compliance needs tied to campaign operations
+Sharing of Information
+Supporter information may be shared with vendors that provide campaign services such as texting platforms, email tools, data management, and compliance support, based on agreements that limit use to campaign purposes.
+Information may also be shared when required by election or other laws.
+We do not sell supporter information for unrelated marketing.

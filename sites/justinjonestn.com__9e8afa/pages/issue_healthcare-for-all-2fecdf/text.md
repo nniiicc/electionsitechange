@@ -1,0 +1,12 @@
+Healthcare for All
+Justin has long been committed to expanding healthcare access across Tennessee, and ensuring that people in every county have affordable, accessible healthcare options.
+Justin worked with faith leader coalitions advocating for healthcare as a human right and served on the Board of Directors of the Tennessee Health Care Campaign, pushing policies to expand healthcare for working class and low-income families across the state.
+His pursuit of healthcare justice has taken him across the South, where in 2015 he marched 273 miles from Belhaven, NC to Washington DC, with the Belhaven Republican mayor and a coalition of people fighting to expand healthcare access after yet another rural hospital closure.
+His work connected the rural and racial justice components of Medicaid expansion, showing how multiracial, multigenerational, and multifaith coalitions were vital to building grassroots power in taking on health care corporations that saw rural communities as expendable.
+Since being elected, Justin has continued to fight for Medicaid expansion, and has introduced bills to lower the cost of insulin, and ensure Narcan at bars to stop preventable overdose deaths.
+These bills created important conversations around the cost of prescription drugs for Tennessee patients, and the policy-driven solutions needed to confront the opioid crisis hurting Tennesseans in every county across the state.
+Furthermore, Justin introduced legislation to use federal funds to study gun violence as a public health threat through TennCare.
+This legislation would allow for the expansion of community based gun violence programs and use existing public health strategies to confront the rising threat of gun violence in our communities.
+Justin will continue to push the Republican supermajority to change its draconian healthcare agenda, which has led to Tennessee to be ranked 42nd in healthcare, 47th in public health, and 35th in healthcare quality compared to states across the nation.
+Tennessee has also been plagued by the preventable crisis of more rural hospital closures per capita than any other state and enacted one of the most restrictive anti-abortion laws in the nation with no exceptions for rape or incest.
+These are unacceptable policy choices, and Justin will continue to hold Republican leadership accountable for their decisions to let healthcare corporations, Big Pharma, and partisan extremists set Tennessee health policy.

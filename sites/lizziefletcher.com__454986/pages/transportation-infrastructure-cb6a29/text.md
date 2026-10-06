@@ -1,0 +1,14 @@
+As a place that welcomes newcomers from across the country and around the world, the greater Houston region has grown rapidly in recent years—it is one of the fastest-growing metropolitan areas in the country.
+But our roads and transit system have not grown at the same pace, which makes it harder to transport goods, commute to work, get to school, and attract new businesses.
+Improving the infrastructure to support our growing region is one of my top priorities.
+In Congress, I have actively partnered with local governments, agencies, and businesses to identify and advocate for needed resources and improvements in our district and our region.
+One of the first things I did when I got to Congress was remove existing prohibitions on federal funding for Houston METRO and our mobility infrastructure.
+We need to make sure that Houston receives its fair share of federal transportation dollars, and that was a critical first step.
+I have also worked to support our infrastructure in comprehensive legislation for our federal highway, transit, and safety programs through the INVEST in America Act, securing five amendments important to our region in the final bill that passed the House of Representatives.
+As a member of the authorizing committee, I worked with a bipartisan coalition to ensure investment in Houston’s water infrastructure and to secure authorization for the Port of Houston Expansion Channel Improvement Project, a project of great importance for the economy of our region and of the entire country in the Water Resources Development Act of 2020.
+Once the project was authorized, I continued to advocate for the Port and helped secure $142.5 million to modernize the Barbour’s Cut Channel and ensure PortHouston remains a strategic gateway for trade.
+I voted in support of the Infrastructure Investment and Jobs Act, which President Biden signed into law and which has already provided $42.5 million for George Bush Intercontinental Airport and $15.4 million for William P.
+Hobby Airport for infrastructure development.
+It will also help modernize public transit and can fund local projects like METRONext.
+Working with local leaders, I helped deliver $2,500,000 in federal funding to replace approximately 2,400 linear feet of pre-1939 cast iron potable water distribution lines in West University Place, $782,000 for the City of Bellaire’s waterlines to improve water distribution and wastewater collection in Bellaire, as well as $5,000,000 for Houston METRO to make improvements to the 82 Westheimer bus route, which has the highest ridership in Texas.
+I am actively working to deliver funding for more transportation and infrastructure projects, including intersection improvements throughout our community.

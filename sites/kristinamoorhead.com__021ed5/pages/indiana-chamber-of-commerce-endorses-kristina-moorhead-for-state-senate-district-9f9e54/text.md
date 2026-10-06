@@ -1,0 +1,11 @@
+March 30, 2026
+CARMEL, IN — Kristina Moorhead’s campaign for Indiana State Senate District 29 is proud to announce the endorsement of the Indiana Chamber of Commerce, the largest, broad-based business advocacy group in the state, representing businesses of all types and sizes throughout Indiana.
+“The Indiana Chamber is very pleased to endorse and support the election of Kristina Moorhead in the Democratic primary election for the open Indiana State Senate District 29 seat.
+She’s just the sort of thoughtful, professional, bipartisan leader to represent the voters and district at the Statehouse,” said Jeff Brantley, Senior Vice President of Political Affairs of the Indiana Chamber of Commerce.
+“Kristina Moorhead has formidable experience and knowledge on public policy issues, understands business and complex enterprises, and takes seriously the responsibility of public service.”
+Moorhead expressed deep gratitude for the endorsement, reaffirming her dedication to building a vibrant, resilient economy that works for everyone.
+She emphasized her focus on strengthening Indiana’s workforce through education, empowering local businesses, and fostering innovation across the state.
+“I’m grateful for the Indiana Chamber’s support and proud to stand with Indiana’s innovators and small businesses driving our state’s future.
+Together, we can tackle the challenges that matter most for both businesses and Hoosier families, and build a stronger, more dynamic workforce in the process,” said Moorhead.
+The endorsement reflects growing momentum for Moorhead’s campaign as it continues to build a broad coalition of support across Senate District 29.
+Moorhead is running for Indiana State Senate District 29 to put her proven policy experience to work—cutting costs for families, ending government overreach, and building an Indiana where every child and every Hoosier has the opportunity to thrive.

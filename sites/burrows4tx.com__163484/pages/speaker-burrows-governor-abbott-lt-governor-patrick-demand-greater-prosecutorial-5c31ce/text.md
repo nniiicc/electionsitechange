@@ -1,0 +1,45 @@
+AUSTIN, Texas – Speaker of the Texas House Dustin Burrows, Governor Greg Abbott and Lieutenant Governor Dan Patrick today joined together to bring greater transparency and accountability to rogue local prosecutors who refuse to enforce Texas law.
+Responding to a clear pattern of certain local prosecutors releasing repeat offenders back into the community and putting innocent Texans at risk, state leaders are prioritizing greater oversight and efforts to strengthen public safety and keep criminals off the streets.
+“For far too long, Texans have been left at the mercy of certain local prosecutors’ soft-on-crime policies,” said Speaker Burrows.
+“When murderers are let off the hook, released on bail through catch-and-release policies, or even have their charges dismissed, public safety is compromised.
+This March, I created the House Governmental Oversight Select Committee, which will meet September 30 to hear testimony on this issue and develop reforms that strengthen public safety, hold public officials accountable and ensure political ideology never comes before law and order.
+This will be a top priority for the Texas House next session, and I look forward to working with Governor Abbott and Lieutenant Governor Patrick to crack down on rogue prosecutors and ensure victims and their families receive the justice they deserve.”
+“Texans come first,” said Governor Abbott.
+“Prosecutors must enforce Texas law and keep violent criminals behind bars.
+When murder charges are dropped and repeat offenders walk free, innocent Texans pay the price.
+Texas will hold rogue prosecutors accountable and deliver justice for victims.”
+“Liberal, soft-on-crime prosecutors have endangered Texans for far too long,” said Lieutenant Governor Patrick.
+“The Texas Senate will take strong action against these rogue prosecutors who release violent murderers, rapists, and other violent criminals back onto our streets.
+I look forward to working with Speaker Burrows and Governor Abbott to hold these rogue prosecutors accountable who needlessly endanger Texans.”
+State leaders are calling for greater accountability as concerns grow over reckless prosecutorial decisions in some regions of the state that put the safety of Texans at risk.
+In Travis County alone, District Attorney José Garza’s office has dismissed murder charges, refused to prosecute violent criminals, or the County granted bond in numerous cases involving repeat offenders, including the following:
+Peter Perius:
+• 2022 – Murder (Dismissed in 2024)
+• 2022 – Tampering with or Fabricating Physical Evidence involving a Human Corpse
+(TDCJ Sentence; Confinement to Commence on 12/05/2024 – 10 years TDCJ Huntsville.
+Projected Release Date from TDCJ: 03/13/2027)
+Roy Garcia:
+• 2022 – Murder (Dismissed in 2023)
+• 1993 – Murder – (Bexar County) Sentence; Confinement to Commence on 08/09/1994;
+Sentence – 10 years
+Christian Alba:
+• 2023 – Aggravated Robbery.
+Convicted of a Lesser Charge (Robbery) and Received Probation/Community Service
+• 2026 – Stealing Ammunition (Theft of Property)
+• 2023 – Murder (Dismissed in 2026)
+Quinton Peterson:
+• 2022 – Assault on a Peace Officer (No Charges Filed)
+• 2023 – Assault on a Peace Officer (No Charges Filed)
+• 2024 – Unlawful Carry Weapon (Rejection of Charges)
+• 2024 – Possession of a Controlled Substance (Dismissed – Defendant Prosecuted in Another Case)
+• 2024 – Theft of a Firearm (No Charges Filed)
+• 2024 – Aggravated Assault with a Deadly Weapon (Sentenced to TDCJ – Confinement to Commence on 06/12/2025)
+• 2025 – Evading Arrest (Dismissed)
+• 2026 – Violent Assault on Mother of a Child in Child’s Presence (Warrant Issued for Assault Causes Bodily Injury Family Violence)
+• 2026 – Deadly Conduct by Discharging Firearm (Warrant Issued)
+Thomas Vences:
+• 34 Cases in Travis County
+• 2020 – Burglary of Habitation (Deferred Adjudication)
+• 2024 – Burglary of Habitation (Released on Bond – Pre-Trial Hearing set for 12/03/2026)
+• 2026 – Capital Murder of a Peace Officer (Indictment – Jury Trial set for 01/25/2027)
+###

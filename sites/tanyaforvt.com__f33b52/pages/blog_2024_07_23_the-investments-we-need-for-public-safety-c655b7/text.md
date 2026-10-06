@@ -1,0 +1,14 @@
+The Investments We Need for Public Safety
+I have had the opportunity to connect with dozens of constituents, small business owners, and justice professionals about public safety in our community and what keeps inspiring me to do this work - despite all the divisiveness that paints us as on opposite sides of these issues - is that we agree on far more than we disagree on.
+We agree that we need to do so much better addressing the issues that drive crime in the first place; affordable housing, mental health services, substance use disorder treatment, and accessible educational opportunities just to name a few.
+We also agree that if we want to talk about accountability, we have to clear the backlog in the judicial system.
+No one - not the businesses, not the people who have committed crimes, not the people working in public safety - is better off when cases take years to get in front of a judge.
+I voted to increase funding to the judicial system because we need to fix this, and we can't do it unless we fix the massive understaffing that's leading to this.
+We also agree that, based on 50 years of Department of Justice research, increasing felony penalties does nothing to deter crime, and therefore the retail theft bill will not solve the issue.
+All it does is cost us more to incarcerate someone for a longer time and make it far less likely for them to get a job and housing when they're released from prison, which means they're more likely to reoffend.
+I will not vote for bills that cost our state more money and make crime more likely.
+I will continue to vote for bills that increase our restorative justice system, and make investments in our communities which address the root causes of crime and give people who have committed crimes the highest likelihood of staying out of prison and meeting their needs legally.
+As a senator I don't have any influence over the policing and safety decisions made at the local level but I encourage everyone who is concerned about what's happening in your neighborhoods to work with your city councilors and selectboard members.
+That's where those decisions are made.
+My goal is to work in partnership with local leaders while making sure that the policy the senate sets spends taxpayer money as wisely as possible, while also making sure that the outcomes actually do what we say we want them to.
+We are all working toward the goal of keeping crime from occurring in the first place, and if it does, making sure that those involved have timely accountability and steps forward that restore trust and opportunities for everyone’s future.

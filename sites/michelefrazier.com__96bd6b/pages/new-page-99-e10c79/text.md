@@ -1,0 +1,10 @@
+FOR IMMEDIATE RELEASE
+Frazier Backs Relief for Farmers Hit by Severe Weather, Calls for Broader Action to Support Rural Communities
+ONEONTA, NY — Democratic State Senate candidate Michele Frazier today voiced strong support for legislation put forward by Senator Michelle Hinchey that would provide financial assistance to farmers impacted by severe weather events across New York State, following support from Ulster County lawmakers.
+“Our farming communities are the backbone of Upstate New York, and they deserve leaders who will fight to make sure they can survive and thrive,” said Frazier.
+“I support this effort 100%, and when elected to the State Senate, I will continue advancing every opportunity to help our farmers become stronger, more resilient, and better equipped to face the challenges ahead.”
+Frazier said small farms across the region are facing unprecedented pressure from multiple directions.
+“Extreme weather is devastating crops and livelihoods, but that’s only part of the problem,” Frazier said.
+“Farmers are also being squeezed by rising energy costs, economic instability, and tariffs that have hurt rural communities and made it harder to stay afloat.”
+Frazier, who grew up with her family's garden center in Oneonta, said Albany must take a more aggressive approach to supporting rural economies and protecting family farms.
+###

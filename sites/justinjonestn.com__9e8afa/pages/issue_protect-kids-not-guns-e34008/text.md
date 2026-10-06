@@ -1,0 +1,13 @@
+Protect Kids, Not Guns
+In a state where gun violence is the leading cause of death for children, it is morally reprehensible that our Republican supermajority has proposed laws to make it easier to attain an assault weapon and shielded gun manufacturers from liability.
+By placing the profits and contributions of the firearm lobby over the lives of kids, gun extremists have held our democracy at gunpoint long enough, and now is the time for real, comprehensive gun reform.
+Justin has continued to push common sense solutions in the legislature such as red flag laws, universal background checks, safe storage laws, bans on high capacity magazines, and prohibitions on those convicted of stalking from purchasing or possessing firearms.
+Since the Covenant School Shooting that claimed the lives of three children and three adults, the Republican supermajority has done nothing to solve the crisis of gun violence, as firearms become the leading cause of death for Tennessee children.
+Instead, Republicans have passed laws shielding gun manufacturers from accountability and slashed even the most basic regulations ensuring public safety.
+The Republican supermajority even preempted “red flag laws” and tried to lower the age to purchase assault weapons to 18, morally insane policies that make our communities less safe, and increase the chance of another deadly mass shooting.
+Despite public outcry, Republicans passed their most harmful firearm policy yet, the “Arming Teachers” bill.
+This law would allow for teachers to carry firearms not just on school grounds, but in the classroom, without notifying parents or other staff members.
+This is not just bad policy, it is bringing more guns into schools, and threatening the lives of students across the state.
+Republicans have passed these laws despite an overwhelming majority of Tennesseans supporting meaningful gun reform, and thousands of mothers, clergy, students, and elders showing up to the Capitol to demand common sense gun control.
+Republicans instead have shut down debate, dragged mothers begging for their kids’ lives from committee, allowed guns in committee rooms, stifled debate, and eroded democracy in service to the Tennessee Firearms Association and NRA.
+Justin will continue sponsoring needed gun reform bills, and push debate on legislation that would help build a state that “Protects Kids, Not Guns.”

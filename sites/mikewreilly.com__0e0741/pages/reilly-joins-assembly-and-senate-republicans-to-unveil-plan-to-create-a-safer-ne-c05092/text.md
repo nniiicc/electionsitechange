@@ -1,0 +1,28 @@
+FOR IMMEDIATE RELEASE: January 23, 2023
+ALBANY, NY – Today, Assemblymember Michael Reilly (R,C-Staten Island) joined his Republican colleagues from the State Assembly and State Senate to unveil a legislative package to “Create a Safer New York” that pushes back against the disastrous pro-criminal agenda of Albany Democrats.
+These comprehensive policy solutions aim to support law enforcement, fix the state’s broken criminal justice system, crack down on illegal gun crime, and protect victims and innocent New Yorkers.
+To achieve this, the State Assembly and Senate Republicans are proposing:
+- Support Law Enforcement
+- Creating the SAFER Communities Grant Program to invest in critical investigatory and prosecutorial resources designed to increase case clearance rate for homicide and gun crimes;
+- Repealing HALT to protect our corrections officers; and,
+- Allowing the use of familial DNA to give law enforcement more investigatory tools.
+- Fix the Broken Criminal Justice System
+- Rolling back disastrous bail and discovery laws, and providing for judicial discretion to stop the revolving door in our criminal justice systems;
+- Opposing soft-on-crime policies being advanced by Albany Democrats, including the so-called “Clean Slate” Act, “Elder Parole,” and others; and,
+- Increasing penalties for habitual repeat offenders who commit crimes that harm New Yorkers’ quality of life.
+- Crack Down on Illegal Gun Crime
+- Reducing the use of illegal firearms with increased funding for gun interdiction efforts;
+- Increasing penalties for crimes committed with stolen firearms, and mandatory consecutive sentencing for crimes involving illegal firearms; and;
+- Making any misdemeanor or felony offense involving an illegal firearm bail eligible, and amending the “Raise the Age” law to ensure that 16- and 17-year-olds charged with certain gun or gang-related crimes are prosecuted as adults.
+- Protect Victims and Innocent New Yorkers
+- Restricting the release of identifying information in certain cases, and putting in place policies to protect victims’ rights during the parole process;
+- Increasing the caps on Office of Victim Services reimbursements for crime victims, and investing in victim support programs; and,
+- Authorizing judges to set lifetime orders of protections for certain crimes, such as violent and domestic violence felonies.
+As part of this package, Reilly is introducing legislation intended to mitigate the serial theft of low-dollar items by permitting prosecutors to aggregate charges within an 18-month period, potentially elevating Petit Larceny – a theft of less than $1,000 – to Grand Larceny – a theft exceeding $1,000 and up to as much as $1,000,000.
+In some cases, this would also make the qualifying offense bail eligible.
+This proposal would amend Penal Law 155.30, allowing prosecutors to combine the value of items involved in a theft resulting in a conviction for the crime of Petit Larceny under Penal Law Section 155.25 within the 18 months immediately preceding the charge, and, if that aggregate value is between $1,000 and $3,000, then it should be chargeable as Grand Larceny in the Fourth Degree pursuant to Penal Law Section 155.30.
+A copy of the bill draft can be viewed at bit.ly/3R4tv2L.
+“There’s just no more denying it – New York is in the midst of a crime crisis.
+Governor Hochul and state lawmakers have the power to end it, but until they do that, innocent New Yorkers will continue to fall victim as a result of the revolving door justice system that has been created as a result of the dangerous and disastrous agenda of out-of-touch Albany Democrats,” said Reilly, a former Lieutenant with the New York City Police Department.
+“On January 1st, Albany Democrats made it abundantly clear to us where their priorities would lay this year, and it is not at all on addressing the roaring public outcry to support law enforcement, fix the broken criminal justice system, crack down on illegal gun crime, and protect victims and innocent New Yorkers.
+The policies proposed by my Assembly and Senate Republican colleagues today are common sense and will, quite literally, create a safer New York.”

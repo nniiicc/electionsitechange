@@ -1,0 +1,51 @@
+Kodiak
+- Pat Branson Former City of Kodiak Mayor, Kodiak Island Borough Assembly & City Council Member “Kathy has the experience, judgment, and commitment to community that we need representing Kodiak in Juneau.
+She’ll work with legislators across Alaska to advocate for Kodiak.
+I’m proud to support her.”
+- Dan Ogg Former Alaska State House Representative and Kodiak Island Borough Mayor "Kathy already has the legislative skills and years of experience collaborating with peers and community members to get the job done.
+Kathy is a proven leader.
+She is ably equipped to represent our coastal communities and fight for our needs."
+- Mel LeVan Retired, Kodiak High School Teacher and Principal
+- Djuna Davidson Director of Advancement at the Alutiiq Museum & Kodiak City Council Member
+- Hailey and Clifton Ivanoff Third-Generation Fishermen
+- Iam & Leah Zacher Local Business Owners & Farmers
+- Michelle Penington Retired, Kodiak High School Special Education Department
+- Cliff Davidson Former Alaska State House Representative, Longshoreman, & Businessman “I support Kathy because she knows what it means to invest in the future.
+Her entire career as a dedicated teacher has prepared her to take that leadership to our legislature.
+She possesses absolute integrity and builds my confidence again for successful public policy to benefit all Alaskans.”
+- Charles Davidson Former Kodiak City Councilmember “Kathy is a forward thinking leader who will look out for Alaska.
+She knows the value of quality education and the importance of civic engagement.
+She is committed to being a trusted leader that serves her constituency with respect and integrity.”
+- Ella Katelnikov Speech Language Pathologist
+- Valerie Lukin 3rd grade teacher & President of the Kodiak Borough Education Association
+- Kim Saunders Retired Assistant KIBSD Superintendent
+- Katie Oliver Former Executive Director of the Arts Council
+- Sue Jeffrey Former Kodiak Island Borough Assembly Member & Alaska Board of Fisheries Member
+- Natasha Hayden
+Cordova
+- Kristin Smith Mayor of Cordova "Kathy Simpler is thoughtful, hardworking, and deeply committed to coastal Alaska.
+She leads with integrity, common sense, and a willingness to listen and work with others.
+I know Kathy will work hard every day to advocate for Cordova, and I’m proud to support her.”
+- Sylvia Lange Business Owner & Artist
+- Nancy Bird Community Advocate
+- Danny Carpenter Longtime Commercial Fisherman
+- Liz Senear & Bert Stammerjohan Longtime Commercial Fishermen
+- Wendy Ranney Cordova City Council Member
+- David & Tanya Zastrow
+- Martin Faulkner Retired State Employee (AHFC Lead Maintenance Mechanic)
+Seward
+- Tom Tougas Longtime Business Owner & Tourism Leader
+- Mike Brittain Longtime Business Owner & Professional Marine
+- Casie Warner Small Business Owner & Community Advocate
+- Brandon Anderson Retired Alaska State Trooper
+- Tara Swanson Educator & Community Advocate
+- Jim & Kathy Fredrickson Retired Educators
+- Dave & Dana Paperman Director of Residence Life at AVTEC & Executive Director at Seward Senior Center
+- Lori Draper Seward City Council Member & Former Bank Manager
+- Patty & Bob Linville Retired, Director at Seward Community Library Museum & Commercial Fisherman
+- Shane Hand President of Seward Public Employees Association (SPEA) “In alliance with our brothers and sisters at APEA/AFT, I am proud to endorse Kathy Simpler.
+Her dedication to the public sector and the teaching community is exactly what the people of District 5 and the rest of Alaska needs.
+I know she will always keep the people and families she represents in her heart and commit to support the working families that chose Alaska to be their home.”
+Old Harbor
+- Phyllis Clough Alutiiq Tribe of Old Harbor Board Member - Secretary & Old Harbor Advisory School Board Member - Secretary
+- Glen Clough Old Harbor Vice Mayor & Old Harbor Advisory School Board Member

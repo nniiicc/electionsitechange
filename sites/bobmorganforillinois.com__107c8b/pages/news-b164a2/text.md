@@ -1,0 +1,1 @@
+The Illinois Department of Financial and Professional Regulation (IDFPR) is rolling out a new online licensing system to replace its old paper-based, backlog-prone process — aiming to finally eliminate the […]

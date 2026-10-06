@@ -1,0 +1,44 @@
+MEET VANESSA
+About Vanessa Kritzer
+Vanessa Kritzer is running for State Representative after serving for nearly 7 years on the Redmond City Council, including the past several years as City Council President.
+In her time on the Council, she has worked with leaders across the 45th legislative district to advance local policies that help our communities be more affordable, sustainable, and inclusive.
+Vanessa also serves as the Executive Director of the Washington Association of Land Trusts, which unites more than 35 conservation groups across the state to protect and steward our beautiful lands and waterways.
+She has lead advocacy efforts that have helped to protect thousands of acres of forest, maintain access to locally grown food, restore salmon habitat, increase access to trails and parks for everyone, and make our communities more resilient to climate change.
+Having grown up in the Bridle Trails neighborhood, Vanessa is happy to now be raising her two young kids in Redmond’s Education Hill.
+As a working parent, Vanessa knows how important childcare affordability and access is for families and is running for state legislature to ensure that we invest in early childhood education, our schools, and other resources that help our kids and families thrive.
+Vanessa brings 20 years of experience working in the public, nonprofit, and private sectors for social and environmental progress.
+After graduating from Vassar College with a BA in Political Science and Latin American and Latino/a Studies, Vanessa started her career as a campaign field organizer during Barack Obama’s 2008 election for President.
+During that experience, she saw the power of how our democracy can work when it’s at its best: people coming together to envision a better future and work for change collaboratively.
+In the following years, Vanessa applied those organizing skills through engaging people across the country in advocacy for human and environmental rights in Washington, DC.
+At the nonprofit Latin America Working Group, Vanessa led a coalition of nearly 60 organizations that advocated for peace, humanitarian aid, labor rights, and a just border and immigration policy.
+Then she worked to help pass key clean air standards, stop the Keystone XL pipeline, and organize the largest U.S. march for climate change action in history as Director of Digital Strategy at the League of Conservation Voters.
+Eventually, Vanessa came to realize that she could make an even bigger difference through action at the state and local levels back in her home state of Washington.
+While earning both a Master of Public Administration (MPA) at the University of Washington Evans School of Public Policy and Governance and a Master of Business Administration (MBA) at UW’s Foster School of Business, Vanessa had her first experience in public governance: she was appointed by Governor Inslee to serve as the sole student member of the University of Washington Board of Regents.
+After graduate school she worked at Microsoft, focusing on how governments and public sector organizations around the globe could use technology to better serve their communities.
+At that time, Vanessa served as a Redmond Planning Commissioner to help shape our region’s future and ensure that our cities can evolve in an inclusive, sustainable, and equitable way that preserves the quality of life that makes this such a special place to live.
+Vanessa was elected to the Redmond City Council in 2019.
+During her time on council, she has been a leader on local and regional conservation policy, including serving as the current Chair of the WRIA 8 Salmon Recovery Council, past Chair of the King Conservation District Advisory Committee, and a member of the Lake Sammamish Kokanee Recovery ILA Management Committee.
+These efforts bring cities across LD45 and the entire Puget Sound together to take care of the lands, waterways, and wildlife that matter to us.
+In her council work, she has been proud to pass policies that establish a robust sustainability action plan, a strategy to achieve net zero for carbon emissions in municipal operations, and major investments in habitat restoration for salmon and other wildlife.
+This includes supporting efforts to create an Eastside Climate Challenge to engage residents in local climate action and collaborative efforts with cities across the district to help affordably transition residents to cleaner home energy and heating and get access to cooling in increasingly hotter summers.
+Vanessa also has served on other regional boards engaged in public-private partnerships, sustainable economic development, and effective transportation policies, including as Chair of the Eastside Transportation Partnership and as a member of the OneRedmond board, King County’s Regional Transit Committee, and the Sound Cities Association board.
+She cares deeply about making it easy for people to bike, walk, bus, and use other multi-modal transit safely, and worked to pass a resolution committing the city to Vision Zero and investing in safer bike and pedestrian infrastructure.
+Over the past several years, Vanessa has also worked with OneRedmond and the city to facilitate roundtables with our small businesses to make sure we are passing policies and providing the support they need to survive during the pandemic and amidst the city’s growth.
+She has served for six years as a Supervisor on the Community Facilities District that oversees work to build public infrastructure for our city with private funding from Microsoft.
+This year, she was chosen by her colleagues to Chair the city’s Lodging Tax Advisory Committee that works with businesses and community leaders to choose the most impactful investments into tourism and events that make our region a fun place to live, work and play.
+In addition to being elected by her peers to lead the council as President (and Vice President before that), Vanessa has been chosen twice to chair the Council’s Finance, Administration and Communications Committee and lead biennial budget process.
+She has used these roles to ensure taxpayer dollars go into projects that matter most.
+Vanessa worked to advance an ambitious plan for the Redmond Senior and Community Center project both quickly and with community input at the heart of its design.
+She has prioritized more investment in dog parks, playgrounds, community gardens, pickleball courts and other recreational amenities, and trails, especially in neighborhoods that lack sufficient greenspace.
+As part of her work on the city budget over the past 6 years, Vanessa has also worked to establish Redmond’s first Diversity, Equity, and Inclusion-focused staff, ensuring that the leader of that work has both the authority and the resources to advance this critical work for our city.
+In addition, Vanessa has focused on providing the funding to maintain a high level of public safety services in Redmond as we grow, including increasing support for our firefighters, innovative Mobile Integrated Health program, homeless outreach program, and crisis response services for residents experiencing behavioral health issues.
+Vanessa loves working with our big hearted residents to serve people in need and is a Board Member at Hopelink.
+To ensure that our residents could stay housed during the pandemic, Vanessa supported historic city investments in rental assistance and creation of affordable housing, as well as funding human service organizations in our community that help with food, housing, culturally responsive services, and mental health.
+She also led efforts to increase renters’ rights by establishing Redmond’s first city tenant protections.
+As both a mom and having served as a counselor for Teen Link when she was a teenager growing up on the Eastside, Vanessa has a deep passion for providing adequate resources for youth mental health, and has increased investment in these services while on Council.
+Vanessa has also pushed for the city to lead in advocating for stronger state and federal laws on gun responsibility and is committed to working locally on gun violence prevention.
+Vanessa takes her role as a leader of such a diverse community very seriously.
+As we saw increasing threats to our immigrant communities from the Trump Administration, in 2025, Vanessa led on an effort to collaborate between Redmond and Kirkland to allocate emergency funds to support the work of our community-based organizations serving immigrants, refugees, and asylum seekers.
+She has also taken action to protect our residents’ data privacy and constitutional rights at this challenging time.
+When she’s not change-making, Vanessa loves spending her free time taking her family out to play in parks and hike the trails near her home in Redmond and beyond.
+She also enjoys volunteering, supporting local art, and playing strategic board games.

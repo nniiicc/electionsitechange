@@ -1,0 +1,20 @@
+Heather in the News
+Media Kit
+About Heather Holmes
+Media Contact
+Press Resources
+Heather Holmes is a scientist, mom, and former Byron School Board member running for the Minnesota House in District 24A.
+A longtime Byron resident, Heather has spent nearly two decades working in environmental, agricultural, and medical research, developing the skills to solve real problems with facts and common sense.
+On the school board, she fought back against unfunded mandates and pushed for mental health supports in schools.
+Heather is running for the Minnesota House to make sure rural families and communities have a voice at the Capitol.
+Fast Facts
+District: Minnesota House District 24A (Dodge & Olmsted Counties)
+- Party: Democratic-Farmer-Labor (DFL)
+- Residence: Byron, Minnesota
+- Family: Husband Amos (volunteer firefighter), child Jay, a tortoise named Yoda, and two tree frogs
+- Experience: 20 years in scientific research; 2 years on the Byron School Board
+- Focus Issues: Fully funding public schools, affordable health care and child care, supporting family farmers, protecting clean water, strengthening rural EMS and public safety, and safeguarding democracy
+For interview requests, press inquiries, or scheduling:
+- Downladable Headshots: headshot 1; 2024 filing; family
+- Logo & Branding Guide
+- Fact Sheet

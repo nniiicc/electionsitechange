@@ -1,0 +1,17 @@
+- My Legislation to Protect Migratory Birds Signed into Law: This legislation protects migratory birds in South Florida and across the Americas.
+This legislation is crucial for the protection of iconic species like Egrets, Herons, and Ibis in the Florida Everglades, ensuring their conservation for future generations while boosting the local wildlife recreation sector.
+- House Passed my REEF Act: I championed the REEF Act, now law, which transforms retired Navy ships into artificial reefs, benefiting the environment, creating new recreational opportunities, and boosting local economies.
+- $2 Million for University of Miami SEAHIVE Comb Project: Expands innovative marine technology to protect coastal and estuarine environments through large-scale pilot programs.
+- Introduced the National Climate Adaptation and Resilience Strategy Act: This creates a comprehensive plan for strengthening our resilience against hurricane damage, storm surges, and flooding, while safeguarding Florida’s most vulnerable natural treasures, including the Everglades.
+- $3.3 Million Secured for Coral Reef Restoration on Florida’s East Coast: I secured vital funding for the University of Miami to expand its Reef Restoration Infrastructure Project, aimed at revitalizing coral reefs along our coastline.
+- $2 Million for the Greater Biscayne Bay Harmful Algae Bloom Monitoring Program: I secured $2 million for a critical project to combat red tide by establishing a monitoring system to predict the extent of future toxic algal blooms in Biscayne and Florida Bays, promoting the health of our community, marine life, and local economy.
+- $1.6 Million to Village of Pinecrest for Storm Drainage System: focuses on much-needed infrastructure improvements to reduce flooding and more effectively manage stormwater.
+- $1.6 Million to West Grove Biscayne Bay Water Pump Project: Supports septic-to-sewer conversion to protect groundwater and Biscayne Bay.
+- $1 Million to Town of Cutler Bay for Stormwater Management Improvements: Funds a new stormwater pump station and infrastructure to reduce flooding.
+- $1 Million to Miami-Dade County for Pollution Control Stormwater Infrastructure: Enhances stormwater infrastructure to improve water quality.
+- $1 Million Awarded for Pollution Control to Improve Water Quality in Miami-Dade County: This funding will help build stormwater infrastructure to reduce pollution and enhance water quality in our community.
+- $600,000 for University of Miami Aircraft Center Expansion to Improve Hurricane Impact Assessment and Coral Reef Restoration: The expansion of the Aircraft Center for Earth Studies, supported by this grant, will enable quicker assessments of hurricane damage and further coral reef restoration efforts.
+- $200,000 Delivered to Palmetto Bay for Veterans Park to Honor Our Military Heroes: This funding will enable the creation of a new Veterans Park in Palmetto Bay, dedicated to honoring the brave men and women who have served our country, while also enhancing green spaces within our district.
+- Army Corp of Engineers: I signed a letter urging the Army Corps of Engineers to fund the Comprehensive Everglades Restoration Plan at or above $725 million.
+- Protected Florida’s Coastline and Economy: Secured funding to protect Biscayne Bay, coral reefs, and coastal infrastructure critical to tourism and local jobs.
+Here are some of my key accomplishments:

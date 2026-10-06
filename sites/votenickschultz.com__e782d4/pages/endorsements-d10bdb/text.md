@@ -1,0 +1,37 @@
+Elected Leaders
+United States Senator Adam Schiff
+Congressmember Luz Rivas
+Congressmember Laura Friedman
+Congressmember Brad Sherman
+California Secretary of State Shirley Weber
+California Attorney General Rob Bonta
+Los Angeles County Supervisor Lindsey P.
+Horvath
+Burbank Mayor Tamala Takahashi
+Burbank City Councilmember Konstantine Anthony
+Glendale Mayor Ardy Kassakhian
+Los Angeles City Councilmember Monica Rodriguez
+Glendale Unified School District Board President Ingrid Gunnell
+Organizations
+California Democratic Party
+CA YIMBY
+CalFire Local 2881
+California Legislative Progressive Caucus
+California Professional Firefighters
+California Teachers Association
+Jane Fonda Climate PAC
+Los Angeles County Federation of Labor
+Planned Parenthood Advocacy Project Los Angeles County
+SEIU California
+Sierra Club California
+Working Families Party
+Asian Democrats of Los Angeles County
+Democratic Party of the San Fernando Valley
+Democrats for Neighborhood Action
+Democrats for the Protection of Animals
+East Area Progressive Democrats
+Glendale Democratic Club
+San Fernando Valley Young Democrats
+Stonewall Democratic Club
+Stonewall Young Democrats
+Valley Grassroots for Democracy

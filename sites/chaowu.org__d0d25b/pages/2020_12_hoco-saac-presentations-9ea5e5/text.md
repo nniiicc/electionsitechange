@@ -1,0 +1,2 @@
+HoCo SAAC Presentations 2020-12-03 3 Dec 2020Chao Wu Here are three presentations for the second presentation on December 3 2020.
+County Capital Project Overview County-SAAC-HCPSS-Capital-Budget-Presentation-12_3_20Download HCPSS Capital Budget Overview HCPSS CIP-Overview-12-3-20Download HCC Capital Budget Overview Final-FY22-Spending-Affordability-Presentation-HCCDownload Share this: Share Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like this: Like Loading… Related

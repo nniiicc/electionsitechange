@@ -1,0 +1,1 @@
+Contact Susan Dubose SHARE YOUR CONCERNS ASK SUSAN TO SPEAK Get in Touch 205-612-2433 susandubose2@gmail.com Address: Alabama House of Representatives 11 South Union Street, Suite 428a Montgomery, AL 36230 Get Updates from Susan

@@ -1,0 +1,37 @@
+Education
+Trust me–I believe in academic education.
+I have three engineering degrees, a son who is a medical doctor, and another son who also earned a Bachelor of Science degree.
+BUT, West Virginia, and the United States as a whole, need BOTH academic and practical education opportunities.
+As much as we need brilliant scientists, engineers, and people formally educated in other academic fields, we also need trades-people that are skilled in welding, carpentry, and plumbing, to name just a few skills.
+We all know the joke about the medical doctor who is unable to fix a leaky faucet.
+One of the major disconnects in our educational system is how a student progresses from a local school system’s vocational education program–if it exists–to becoming a fully trained artisan.
+When I worked in our naval shipyards, some of our most highly skilled–and highly compensated–trades people were those welders who were able to do mirror TIG (Tungsten Inert Gas) welding and were nuclear certified.
+Fortunately, both Hampshire and Mineral County School Systems provide vocational education opportunities for their students; but we need more.
+I want to build relationships with the local school systems and industries so that defined paths are available for graduating high school students that want to pursue a career in specific tradecrafts.
+I am privileged to have received the official endorsement of the WV Building and Construction Trades PAC
+| | Including Potomac State College in the definition of community and technical college education program for participation in the “Learn and Earn Program” | Pending | Senate Finance | Committee | 04/04/25 |
+| | Relating to requiring the State Board of Education to design, test, and deploy an internet-based reporting system to be known as the School Choice Portal | Pending | Senate Finance | Committee | 04/08/25 |
+| | Troop- to-Teachers | Pending | House Finance | Committee | 03/19/25 |
+| | Requiring usage of restrooms in public schools be based upon biological sex | Pending | House Judiciary | Committee | 02/18/25 |
+| | Firefighter Pilot Program | Pending | House EDU | Committee | 03/04/25 |
+| | To create an education internet-based reporting portal for Homeschool parents and Boards of Education. | Pending | House EDU | Committee | 02/28/25 |
+| | Relating to “In God We Trust” signs donated in schools | Pending | House EDU | Committee | 02/27/25 |
+| | Relating to removing requirements to submit certain evidence on behalf of home-schooled children | Pending | Senate EDU | Committee | 04/03/25 |
+| | Require all students to be taught how to properly handle, fold, treat, honor, display, and retire the American flag | Pending | House EDU | Committee | 03/05/25 |
+| | Relating to nondiscrimination at institutions of higher education | Pending | House EDU | Committee | 02/18/25 |
+| | Removing bona fide schools, public libraries, and museums from the list of exemptions from criminal liability relating to distribution and display to minor of obscene matter | Pending | House EDU | Committee | 02/14/25 |
+| | Prohibiting those listed on the state sex offender database from public school activities and events | Pending | House EDU | Committee | 02/12/25 |
+| | Removing restrictions of taxpayers to access online curriculum, and allow for taxpayers to inspect additional instructional material adopted by the county board pursuant to including books in the classroom | Pending | House EDU | Committee | 03/20/25 |
+| | Prohibit the use of school resources in election advocacy efforts and prohibit school employees from political activity during their work hours or on behalf of the school administration | Pending | House EDU | Committee | 02/12/25 |
+2025 Bills that I have lead or co-sponsored
+| Bill | Title | Status | Committee | Step | Last Action |
+| | Relating to peer support teams, peer support services, and privileged testimonial communications | Pending | House Judiciary | Committee | 01/31/24 |
+| | Tuition and fee exemptions for service-connected Disabled Veterans and their dependents. | Pending | House Finance | Committee | 02/08/24 |
+| | To provide and change graduation requirements and change duties relating to academic content standards | Pending | | Senate Introduction | 03/09/24 |
+| | Allow teachers to bank personal and sick days. | Pending | House Education | Committee | 01/25/24 |
+| | The purpose of this bill is to remove the restrictions of taxpayers to access online curriculum, and allow for taxpayers to inspect additional instructional material adopted by the county board pursuant to including books in the classroom. | Pending | House Education | Committee | 01/25/24 |
+| | Patriotic Access to Students in Schools Act | Signed | | | Effective Ninety Days from Passage - (June 6, 2024) |
+| | Introduction of a “School Safety Program” | Pending | House Education | Committee | 01/17/24 |
+| | To provide school access for Patriotic Youth Groups | Pending | House Education | Committee | 01/17/24 |
+| | Relating to “In God We Trust” signs donated in schools | Pending | House Education | Committee | 01/17/24 |
+| | To allow retired school employees to work after 140 days in certain circumstances. | Pending | House Pensions and Retirement | Committee | 01/16/24 |

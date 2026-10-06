@@ -1,0 +1,15 @@
+Michigan lawmakers forge ahead on energy issues as frustrations with utilities remain
+Michigan Advance By: Kyle Davidson-June 11, 2026 3:30 pm
+See full article: Michigan lawmakers forge ahead on energy issues as frustrations with utilities remain • Michigan Advance
+In their continued push for a Ratepayer Bill of Rights, Michigan House Democrats joined with environmental and consumer advocates Wednesday to unveil three additional pieces of legislation intended to provide greater scrutiny of Michigan’s energy companies.
+Citing ongoing consumer frustration with poor energy reliability and high rates, Reps.
+Natalie Price (D-Berkley), Erin Byrnes (D-Dearborn) and Betsy Coffia (D-Traverse City) proposed policies to bar Michigan’s regulated utilities from using ratepayer funds to support executive compensation, political lobbying, advertising and political spending, cap the companies’ return on equity at 8.2% and require an independent audit every five years to examine utility performance.
+The bills had not been assigned numbers as of Thursday morning, but were intended to pair with a host of proposed ratepayer protections introduced in the fall to ensure customers receive fair compensation for lengthy power outages.
+DTE and Consumers Energy, the state’s largest energy companies, have drawn significant scrutiny in recent years, due to their annual requests to raise energy rates in the face of ratepayer frustrations with costs and reliability.
+Michael King, the West Michigan regional organizer for the Michigan League of Conservation Voters, said that as a young Michigander on a limited budget, he’s felt the impact as energy bills continue to rise.
+“Hundreds and thousands of families are being left with the choices between whether or not they should pay for food and put food on their family’s table, pay for the medicine in order to make their families healthy, or simply just keep their lights on,” King said, noting that while rising energy rates affect all residents, low-income families and communities of color are disproportionately impacted by rising costs.
+The legislation proposed on Thursday will strengthen oversight of Michigan’s energy companies and ensure consumer dollars are used to strengthen the energy grid and improve reliability, King said.
+Coffia also pointed to the Michiganders for Money Out of Politics ballot petition campaign as a blinking red light from Michigan residents that the current system around utility regulations is in need of repair.
+The campaign recently filed 562,000 signatures with the Michigan Bureau of Elections to place a proposal on the November ballot to bar utility companies and government contractors from contributing to political campaigns.
+DTE and Consumers Energy have opposed efforts to limit their political spending, emphasizing that their donations stem from their voluntary contributions from their employees and shareholder dollars, not ratepayer funds.
+See full article: Michigan lawmakers forge ahead on energy issues as frustrations with utilities remain • Michigan Advance

@@ -1,0 +1,20 @@
+Our Success
+During our first legislative session, the Austin and district staff as well as myself were hard at work for the residents of House District 100.
+We fought hard against hateful and regressive Republican-led bills, worked to pass our own bills behalf of everyday working class families, and brought back valuable resources to the district.
+Funds for the District
+- $151.6 million secured in the 2024-2025 Biennium budget
+- $102 million appropriated to construct the Texas Behavioral Health Center at UT Southwestern
+- $10 million to complete the Southern Gateway Park
+Bills for the District
+- 6 Bills passed out of the Texas House of Representatives
+- 16 Bills Authored during the 88th session
+- 65 Bills Co-Authored; 16 were signed into law
+- 36 Bills Joint Authored; 4 were signed into law
+- 4 Bills Joint Sponsored; 3 were signed into law
+- 8 Bills Co-Sponsored; 6 were signed into law
+Relief for the District
+- Providing $2 million in financial assistance to community and nonprofit organizations to study and provide solutions on housing displacement and gentrification issues
+- $5 million was appropriated to provide services to people reentering society from incarceration.
+- Secured over $20 million to assist local food banks to solve food insecurities
+- Provided $2 million from the TX Dept. of Agriculture to focus on urban food desert grants
+- Appropriated an additional $2 million to the Dept. of State Health Services to reduce and prevent to spread of HIV & STD's

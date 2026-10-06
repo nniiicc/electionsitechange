@@ -12,6 +12,7 @@ Endorsements
 - CongressmanVince Fong
 - AssemblymanStan Ellis
 - Assembly LeaderAli Macedo
+- Endorsed byHoward Jarvis Taxpayers Association PAC
 - Endorsed byKern County Farm Bureau
 - Endorsed byKern Law Enforcement Association
 - Endorsed byNFIB

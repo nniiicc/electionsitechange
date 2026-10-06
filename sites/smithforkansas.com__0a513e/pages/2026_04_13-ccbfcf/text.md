@@ -1,0 +1,1 @@
+Article Smith Responds to Masterson on Property TaxesSmith Responds to Masterson on Property Taxes April 13, 2026 5:00 AM Weskan, KS – State Representative Adam Smith, honored to serve as the House Taxation Committee chairman, issued the following statement[...] Read MoreRead More

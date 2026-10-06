@@ -1,0 +1,398 @@
+Latest Endorsements
+- New Democrat Action Fund
+- New Politics
+- EMILYs List
+- Elect Democratic Women
+- Ironworkers Local 67
+- Teamsters Local 238
+- The Iowa Federation of Labor, AFL-CIO
+- IBEW
+- AFSCME Council 61
+- Plumbers and Steamfitters Local 33
+- SMART
+- North Central States Regional Council of Carpenters
+- The Next 50
+- Vote Mama
+- WelcomePAC
+- Future Forum PAC
+- State Senator Liz Bennet
+- State Senator Matt Blake
+- State Senator Izaah Knox
+- State Senator Art Staed
+- House Minority Leader Brian Meyer
+- State Rep Dan Gosa
+- State Rep Larry McBurney
+- State Rep Megan Srinivas
+- Windsor Heights Mayor Mike Jones
+- Council Bluffs Mayor-Elect Jill Shudak
+- Ankeny City Council Member Jeff Perry
+- Des Moines City Council Member Mike Simonson
+- Susan Voss and Des Moines City Council Member Carl Voss
+- Urbandale City Councilor Bridget Carberry Montgomery
+- Perry City Councilor Joe Shelly
+- Waukee City Councilmember Lori Lyon
+- Windsor Heights City Council Member Fletcher Barry
+- Des Moines School Board Member Jenna Knox
+- Johnston School Board Member Lya Williams
+- Perry School Board Member Eddie Diaz
+- Waukee School Board Member Jaime Secory
+- Waukee School Board Member Wendy Marsh
+- Former Waukee City Councilmember Larry Lyon
+- Former Iowa State Rep Ed Fallon
+Community Supporters
+- Lisa Abrahamson
+- Barbara Aldeman
+- Marcia Alexander
+- Jon Alsip
+- Tara Lynn Amundson
+- Candy Anderson
+- Larry Anderson
+- Patricia Anderson
+- Peg Armstrong
+- Gustafson
+- Colleen Armstrong
+- Kathryn Arnold
+- Emily Arreola
+- Dan Aten
+- Melissa Atwell
+- Julie Backsen
+- Angie Baney
+- Stephanie Barrett
+- Deborah Batey
+- Carol Baty
+- Julie Bautista
+- Barbara Beason
+- Don Beck
+- Caroline Becker
+- Diane Benjamin
+- Gregory Bentley
+- Lynn Betts
+- Jodi Biggs
+- Peter Bissinger
+- Barbara Blando
+- Jan Blazanin
+- Larry Blumberg
+- Debora Blume
+- Margo Blumenthal
+- Denise Book
+- Nathan Boonstra
+- Karna Bosman
+- Nanci Boten
+- Mike Boyd
+- Elizabeth Boyer
+- Kathryn Braddy
+- Elizabeth Brauer
+- Ed Brogean
+- Elizabeth Brown
+- Diane Bruecken
+- Katherine Bryan
+- Manon Bryant
+- Wallace Bubar
+- Delbert Buchman
+- Susan Bunz
+- Susan Burgess
+- Brea Burrack
+- Mary Burrack
+- Deborah Caldwell
+- Lynne Caltrider
+- Eric Carlson
+- Dan Cataldi
+- Alison Cate
+- Jason-Paul Channels
+- Liesl Chaplin
+- Bob Christenson
+- Phyllis Clark
+- Randy Clark
+- JeK Clingan
+- Linda Cohen
+- Peggy Colton
+- Brian Conley
+- Diane Cook
+- Shelley Cook
+- Ruth Cooperrider
+- Jamie Cornish
+- Chris Correy
+- Kenneth Couchman
+- Connie Crawford
+- Fred Crawford
+- Kelly Danilson
+- Kindra J Davis
+- Wesley Day
+- Michael Dayton
+- Lisa Deatrick
+- Amy deBuhr
+- Michelle DeClerck
+- Pamela Deeds
+- Lawrence Deutch
+- Ronalda Dick
+- Judy Diedrichs
+- Joan Dietz
+- John Doherty
+- Jason Dreckman
+- Ann Drummond
+- Dwight DuBois
+- Janice DuBois
+- Beverley DuKy
+- Don Dumdei
+- Gordon Dunn
+- William Ehrlichman
+- Neala Ellingson
+- Ann Ewing
+- Neil Fagan
+- Chris Farber
+- Michael Farley
+- Helene Fein
+- John Felton
+- Jim Fifield
+- Mary Flynn
+- Bob Forte
+- Paula Frank
+- Terri Fredrickson
+- Frederick Gaddy
+- Lucinda Gannon
+- Amanda Gaul
+- Eric Garner
+- Carissa Gehrking
+- Lynne George
+- Deidra Gilbert
+- Sylvia Glaser
+- Rebecca Goerend
+- Paul Govoni
+- Kai GriKin
+- Stephanie Groathouse
+- Mona Gude
+- Steve Gude
+- Lance Gunkel
+- Gregg Gustafson
+- Marlene Gustafson
+- Deborah Guthrie
+- Pat Gutshall
+- Lori Hackett
+- Melissa Hale
+- Cheryl Hamilton
+- Rick Harper
+- Ethan Hartle
+- Dotta Hassman
+- Tim Hauber
+- Carol Hendrick
+- Larry Hensley
+- Ruth Henson
+- Brock Herren
+- Carma Herring
+- Karen Herwig
+- Steve Herwig
+- Lynn Heuss
+- Mike Hiatt
+- Barry Hitt
+- Michael Hockemeyer
+- Bruce HoKmaster
+- Anne HoKmaster
+- Roger Hogle
+- MaryLea Holcomb
+- Tom Holcomb
+- Mark Holmes
+- Teresa Hull
+- Steven Humphrey
+- Amanda James
+- Sally Jennings
+- Sheryl Jensen
+- Brock Johnson
+- Carl Johnson
+- Dewitt Jones
+- Graham Jones
+- Jerry Jones
+- Gurwinder Kapur
+- Sue Kelly
+- Sarah Kendrick
+- Chrissy Kennedy
+- Pam Kenyon
+- Robert Kerr
+- Karen Kilpatrick
+- Stephen King
+- Pamela Klein
+- Susan Klein
+- Diane Kolmer
+- Robert Koppin
+- Lori Kreutzman
+- Erin Kuhl
+- Rebecca Lachenmaier
+- Christopher Lehnertz
+- Jacob Lemons
+- Jon Lemons
+- Tracy Lepeltak
+- Keith Lingwall
+- Dennis Linn
+- Kimberly Lipshutz
+- Dennis Littlejohn
+- Maria Loder
+- Jamie Loggins-Evans
+- Steve Longdo
+- Christi LongstaK
+- Damian Lonsdale
+- Emily Luymes
+- Mary Lynch
+- Jean Mack
+- Mary Jo Madvig
+- Tom Magedanz
+- Stephen Mahr
+- Cyril Mandelbaum
+- Michelle Marshall
+- Peter Martin
+- Nathan Matta
+- Greg Mazunik
+- Mary McCarthy
+- Joan McCloskey
+- Deana Mcgillan
+- James McGinn
+- Ellen McGinnis-Smith
+- Erica McGowan
+- Kelly McIntyre
+- Karlee Koester McKibban
+- Stephen Medanic
+- Marti MeKerd
+- Natalie Merrill
+- Jill Mertes
+- David Meyer
+- Luanne Meyer
+- Jane Mild
+- Barbara Miller-Maclin
+- Betty J Miller
+- Deborah Miller
+- Duane Miller
+- Brigitte Mohler
+- Susan Mrzena
+- MaryAnn Muenzenmay
+- Bruce Myers
+- Steven Neal
+- Paula Nelson
+- Gerard Neugent
+- Emily Newman
+- Ben Nizzi
+- Patricia Norris
+- Melissa Norton
+- Kathleen Nutt
+- Joel Olah
+- Christopher Olkiewicz
+- Diane Olson
+- Julie Olson
+- Mark Olsson
+- Al Papesh
+- Walter Pearson
+- Thomas Penningroth
+- Carl Peters
+- Renae Peters
+- Mary Peterson
+- Ron Peterson
+- Paul Pettinger
+- Anna Phelps
+- Brian Pierce
+- Louis Pingel
+- Susan Pohl
+- Carol Popken
+- Douglas Pote
+- Sandy Raike
+- Emily Rayhons
+- Daniel Ready
+- Gail Reiman
+- Julia Rendon
+- Michael Renner
+- Randy Richardson
+- Shirley Riley
+- JeK Rissman
+- Deborah Ritter
+- Jane Robinette
+- Frances Rockey
+- Lorie Rosebrook
+- Aric Rothfus
+- Ann Rowland
+- Barbara Royal
+- James Sacco
+- Richard Salas
+- Betty Salmon
+- James Sargent
+- Jocelyn Sbiral
+- Colin Scanes
+- Megan Schafer
+- Mary Scheve
+- Laura Schieber
+- Brianne Schildberg
+- Judy Schoel
+- Lindsey Scott
+- Jaey Sedlacek
+- Kaye Seward
+- Clare Smith-Larson
+- Jeanie Smith
+- Abby Smull
+- Tom Smull
+- Ann Snyder
+- Heather Soener
+- Margo Soloman Swanson
+- Sue Sonner
+- Terri Speirs
+- Ellis Standing
+- Winifred Standin
+- Laura Stark
+- Pat Steele
+- Marie Steele
+- Grace SteKensen
+- Emily Steinmetz
+- Justine Stemper
+- Matt Stemper
+- Philip StoKregen
+- Jacqueline Stoken
+- Ellen Stoltz-McGinity
+- Herb Strentz
+- Joan Strentz
+- Vince Sturm
+- Karen Swanson
+- Laurie Swegle
+- Jean Swenson
+- Ginny Swift
+- Sandra Tatge
+- James Taylor
+- Carter Thayer
+- Song Thennes
+- Connie Thienes
+- Douglas Thomas
+- Robert Thorsen
+- William Tilly
+- Tayler Todd
+- Stephanie Trannel
+- Derek Trobaugh
+- Jill Trobaugh
+- Lacey Trygstad
+- Jenny Turner
+- Dan Valentine
+- Lori Valline
+- Sara Van Wyngarden
+- Brad VandeLune
+- Linda Vanderpool
+- Betty VanWoert
+- Ann Ver Heul
+- Gloria Vermie
+- Baljit Singh Virdi
+- Dawn Voelker
+- Carol Vogel
+- Jim Wainwright
+- Kristina Walkup
+- Teresa Wallace
+- Karen Walter
+- Laura Ward
+- Beth Wargo
+- Carol Warmbier
+- Anne Waskom
+- Debra Watson
+- Russ White
+- Jackie White
+- Matthew Whitehouse
+- Jennifer Wigton
+- Michael Wigton
+- Sally Wilke
+- Elizabeth Willem
+- Jean Williams
+- Jonathan Wilson
+- Beth Wimber Dietsch
+- Judy Winkelpleck
+- Joel Wulf
+- Emily Wynn
+- Richard Yach

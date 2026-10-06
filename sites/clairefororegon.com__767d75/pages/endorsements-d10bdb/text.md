@@ -1,0 +1,76 @@
+Claire’s Endorsements
+Endorsed by Greg Walden, Former Oregon GOP U.S.
+Representative
+“If you want a state representative who has steadfast values you can count on, who knows where to go to get the facts, who is willing to apply pressure to get results, and who will hold the line on the issues that matter: that is Claire Lynn.
+I’ve seen Claire’s work ethic firsthand since she first interned for me in Congress years ago.
+She is the trusted Republican with the experience and relationships needed to hit the ground running on day one."
+-Greg Walden, Former Oregon GOP U.S.
+Representative
+Community and State Leaders
+Boomer Wright
+State Representative, HD 9
+Christine Drazan
+2026 Nominee for Governor
+Ed Diehl
+State Representative, No Tax Oregon Chief Petitioner
+Greg Walden
+Former Oregon U.S.
+Representative
+Virgle Osborne
+State Representative, House District 2, Douglas County
+Alek Skarlatos
+State Representative, House District 4, Douglas County
+Darin Harbick
+State Representative, House District 12, Lane County
+John Hanlin
+Douglas County Sheriff
+Ryan Ceniga
+Lane County Commissioner
+Rob Ward
+Florence Mayor
+Nikki Wood
+Lakeside Mayor
+Ed McGuire
+Mayor of Dunes City
+Tom Miller
+Lakeside City Councilor
+Debby Turner
+Reedsport City Councilor
+Robert Carp
+Florence City Councilor
+Jay Bozievich
+Former West Lane County Commissioner
+Will Lathrop
+2024 Republican Nominee for Oregon Attorney General
+Cindy Forsythe
+Former Lane County Judge, Florence
+Joe Henry
+Former Mayor of Florence
+Constituents & Local Business Owners
+Tim Sapp
+Owner of TR Hunter Real Estate, Vietnam Veteran, Florence
+Janet and Buck Pelroy
+Owners of Ecosystems Transfer & Recycling, Veneta
+The Montgomery Family of Montgomery Tree Farm
+Noti
+Josh Bettesworth
+Manager, Englund Marine & Industrial Supply, Coos Bay
+Sean & Jodi O'Mara
+Retired Siuslaw High School Teacher & Softball Coach
+Retired Superintendent at Mapleton School District
+Fred Wahl
+Owner of Fred Wahl Marine Construction, Reedsport
+Mark Mattecheck
+Owner of North Bend Lanes, North Bend
+Bruce Gray
+President & CEO of Grayguns Inc, Reedsport
+Paul & Vicky Harnum and Benny Shapiro
+Owners of SYER Powersports, Lakeside
+Heidi Sause
+Coos Bay
+Mike Bowers
+Owner of Bowers Trucking, Coos Bay
+Christina Bloom
+Owner of Perry's Supply, North Bend
+Jason Smith
+CEO of Southport Lumber, Coos Bay

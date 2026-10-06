@@ -1,0 +1,27 @@
+MEET DREW WILLIAMS
+BORN AND RAISED IN WESTERN KENTUCKY.
+BUILT WITH HARD WORK, SHAPED BY OUR COMMUNITY AND RUNNING TO SERVE THE PEOPLE WHO MADE HIM.
+THE MAN BEHIND THE NAME
+John “Drew” Williams has spent his entire life right here in Western Kentucky, and no matter how many places he has traveled, there’s no place that he’d rather call home.
+From playing Abraham Lincoln in a 4th-grade play to leading his county basketball team to the State Tournament for the first time in 16 years, Drew has always been the kind of guy who shows up and gives everything he’s got.
+He graduated from Murray State University in 2016 with a degree in History and a minor in Biology, and still managed to work for his family business.
+Since the age of 14, he has been building boat docks on Kentucky Lake, Lake Barkley, and even had the pleasure of expanding to the four surrounding states.
+With that being said, he has, in fact, sunk boats full of tools, drilled thousands of holes with dulled-out bits, and installed roofs in 115-degree heat and oncoming snowstorms.
+And guess what, he’d do it all again tomorrow, and he may actually be doing so.
+“I want to use my voice to help people who it'll never benefit me personally to help, because that's what people should do for one another.
+We help because it's the right thing to do, not because it's beneficial to ourselves.”
+-JOHN DREW WILLIAMS
+FAMILY FIRST
+Drew is lucky to share his life with an incredible family that reminds him every day what he’s fighting for.
+They are the ones who keep him grounded.
+ERYN WILLIAMS
+Middle school history teacher
+Master’s degree in Greek and Latin literature
+Reminds Drew that the past matters, but the future is ours to shape.
+ALEX WILLIAMS
+Their young son
+The heart of their world
+The reason Drew believes every child deserves a fair shot and every family deserves to feel supported.
+TAKING KENTUCKY VALUES TO WASHINGTON
+Drew has been lifted up by neighbors, mentored by elders, and inspired by everyday people who cared more about doing what’s right than who gets the credit.
+Now he’s running for Congress to take those values to Washington, not to divide us, but to remind us what’s possible when we stand together.

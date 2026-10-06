@@ -1,0 +1,37 @@
+Get Involved
+Come meet Justin in person — every event is a chance to connect, ask questions, and help take District 44A back!
+Monday, September 14, 2026 · Social Hour 5:00 PM · Program 6:00 PM
+- 📍 YMCA Maplewood Event Center
+2100 White Bear Ave N, Maplewood, MN 55109
+- 🎤 Featured Speaker: Allen Shen
+- ⭐ Special Guest: Justin Middaugh, Candidate for State Representative
+You won't want to miss this!
+Come meet candidates and community leaders fighting to break the status quo and build our future.
+Thursday, July 30, 2026 · 6:00 PM – 8:00 PM
+- 📍 1849 County Road B E
+Maplewood, MN 55109
+- 🍔 Good food & good people!
+- 🪑 Bring a lawn chair — no restrooms available
+- 👨👩👧 Everyone is welcome!
+Saturday, July 25, 2026 · 12:00 PM – 2:00 PM
+- 📍 Minnesota State Capitol
+- 🎉 Family-friendly fun & entertainment
+- 🌭 Delicious food vendors
+- 🤝 Meet candidates running for office
+Celebrate America's 250th Anniversary!
+Connect with fellow Minnesotans and learn about the people seeking to represent you.
+Saturday, July 18, 2026 · 9:00 AM – Noon
+- 🎤 Speaker: Rev.
+Dale Wirthington
+- 💵 Cost: $20
+- 📍 Redeeming Love Church
+2425 White Bear Ave.
+N.
+Learn more about your impact in the political process.
+Meet neighbors who share your hopes and concerns for our state.
+Thursday, July 23, 2026 · 6:00 PM – 8:00 PM
+- 🏠 Hosted by: Steve & Kristie Reyes
+- 📍 7807 21st St N
+Oakdale, MN 55128
+- 🍔 Good food & good people!
+- 🪑 Bring a lawn chair — no restrooms available

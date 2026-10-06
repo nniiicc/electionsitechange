@@ -1,0 +1,28 @@
+Retzke Participates in Ottawa County Farm Bureau Legislative Luncheon, Engages Agricultural Leaders and Elected Officials
+March 30, 2026
+Oak Harbor, Ohio — Retzke participated today in the Ottawa County Farm Bureau Legislative Luncheon, held at Sheldon Miller Farms in Oak Harbor, bringing together farmers, agricultural leaders, and elected officials for a focused discussion on the challenges and opportunities facing Ohio’s agricultural sector and rural economy.
+The event provided a structured opportunity for dialogue between producers and policymakers at a time when agricultural communities are navigating significant economic, environmental, and land use pressures.
+Hosted in a working farm setting, the luncheon provided an opportunity for direct engagement between policymakers and producers in an environment rooted in the day-to-day realities of Ohio agriculture.
+The gathering emphasized practical, ground-level discussion of issues affecting family farms, agribusiness operations, and rural communities across Ottawa County and the broader Western Lake Erie Basin region, where agriculture remains both an economic foundation and a central part of community identity.
+The event was organized in coordination with the Ohio Farm Bureau and local Ottawa County Farm Bureau leadership, continuing its tradition of facilitating dialogue between agricultural stakeholders and public officials.
+Discussions centered on the long-term sustainability of Ohio farming, the economic pressures facing producers, and the policy decisions that directly impact agricultural viability, particularly for family-owned and multi-generational farms operating under increasing financial and regulatory strain.
+Among those in attendance was U.S.
+Representative Marcy Kaptur, who joined local leaders, candidates, and farmers in conversations about regional agricultural priorities, federal policy impacts, and the continued importance of supporting Northwest Ohio’s farming economy.
+Additional elected officials and candidates were also present, contributing to a broad exchange of perspectives on rural development, agricultural policy, and the future of land use in Northwest Ohio.
+Key topics throughout the luncheon included rising input costs for fuel, fertilizer, seed, and equipment, as well as ongoing workforce challenges affecting both planting and harvest cycles.
+Participants also discussed the importance of maintaining competitive infrastructure, including transportation networks that move agricultural goods efficiently from farm to market, which remains essential for keeping Ohio producers competitive in national and global markets.
+Water quality in the Western Lake Erie Basin was another central point of discussion, with attendees addressing the balance between environmental stewardship and farm productivity.
+Conversations highlighted the continued need for practical, incentive-based conservation programs that support nutrient management efforts while preserving the economic stability of working farms and ensuring long-term water and soil health across the region.
+Land use pressures, including the expansion of data center development and other large-scale commercial projects, were also among the topics discussed.
+Participants raised questions about the long-term implications of converting agricultural land for non-agricultural use, as well as the strain such development can place on local water resources, infrastructure capacity, and community planning decisions.
+These discussions reflected broader concerns about preserving productive farmland while balancing economic development priorities.
+Infrastructure development and rural investment were also emphasized, particularly the need for reliable roads, broadband access, and public resources that support both agricultural operations and rural communities more broadly.
+Participants noted that long-term rural prosperity depends on sustained investment in these foundational systems, which directly affect competitiveness, quality of life, and economic opportunity in rural areas.
+Retzke participated in the event with brief introductory remarks to attendees and engaged in extensive one-on-one conversations and small group discussions with farmers, agricultural leaders, and local stakeholders throughout the luncheon.
+These conversations allowed for direct exchange on specific concerns affecting individual operations and broader regional challenges facing agriculture in Northwest Ohio.
+Retzke emphasized the importance of listening directly to farmers and agricultural producers when developing policy at the state level.
+He noted that agricultural communities are not only economic drivers in Northwest Ohio but also essential contributors to food security, environmental stewardship, and regional identity, and that effective policy must be grounded in the lived experience of those working the land every day.
+Retzke also expressed appreciation to Sheldon Miller Farms for hosting the event and to the Ottawa County Farm Bureau for organizing a forum that allowed for meaningful, direct engagement between policymakers and the agricultural community.
+He added that opportunities like this are essential for ensuring rural voices remain central in conversations about land use, economic development, and environmental policy.
+The luncheon concluded with a continued commitment among attendees to maintain open lines of communication and to support policies that strengthen Ohio’s agricultural economy while preserving the long-term viability of family farms.
+Participants expressed a shared interest in continuing these conversations beyond a single event and into ongoing legislative engagement at both the state and local levels.

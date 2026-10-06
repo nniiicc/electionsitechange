@@ -1,0 +1,2 @@
+Delegate Heather Bagnall October 22, 2020 Reform Maryland's Budget Delegate Heather Bagnall October 22, 2020 Heather Bagnall: Reform Maryland’s outdated budget process.
+Vote yes on Question 1. | COMMENTARY Published - October 22, 2020 Author - Heather Bagnall Publication - The Capital Gazette Whole Article - https://www.capitalgazette.com/opinion/columns/ac-ce-column-heather-bagnall-20201022-qnq7p7q2qbg5jl6etoypkme7pe-story.html

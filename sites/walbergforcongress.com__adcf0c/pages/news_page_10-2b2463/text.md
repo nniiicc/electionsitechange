@@ -1,0 +1,16 @@
+Latest
+By MLive-Jackson Citizen Patriot Editorial Board
+JACKSON, MI – For the last four years, U.S.
+Rep.
+Tim Walberg has served Michigan's 7th Congressional District with a steady commitment to modest spending and fiscal responsibility.
+We see no reason that should...
+Jackson, MI- Congressman Tim Walberg is honored to add the Jackson County Chamber of Commerce PAC to his list of endorsements.
+"It is an honor to have the support of an organization focused on supporting, advocating for, and encouraging existing and...
+From the Federal Times:
+Agencies would be able to more easily fire or suspend members of the senior executive service, under legislation passed by the House on a voice vote Sept. 16.
+The Senior Executive Service Accountability Act would double...
+Jackson, MI- Congressman Tim Walberg released his first television ad of the 2014 campaign highlighting his work to improve education and job training opportunities.
+As a member of the House Education and Workforce Committee, Tim was involved in passing...
+From The Washington Post:
+Imagine you are driving down the highway on your way to buy a car.
+You spent months researching years, makes and models, and you finally found somebody who was selling the exact ride you were looking for at a reasonable price...

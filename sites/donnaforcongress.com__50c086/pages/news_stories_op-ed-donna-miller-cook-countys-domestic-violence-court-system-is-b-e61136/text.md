@@ -1,0 +1,3 @@
+OP-ED - Donna Miller: Cook County's domestic violence court system is broken
+Recently, I organized a Cook County Board meeting that revealed the systemic failures and lack of coordination between government agencies that are affecting victims seeking justice and safeguard within the Circuit Court system.
+This is deeply personal, as my sister was one of the brave survivors who shared their stories…

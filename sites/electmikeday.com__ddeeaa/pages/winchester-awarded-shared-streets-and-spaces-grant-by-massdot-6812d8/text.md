@@ -1,0 +1,16 @@
+Winchester Awarded Shared Streets and Spaces Grant by MassDOT
+WINCHESTER—Winchester’s state delegation, Representative Michael S.
+Day, Senator Jason Lewis and Senator Patricia Jehlen, announced that the the Massachusetts Department of Transportation (MassDOT) recently selected Winchester as a recipient of funding under MassDOT’s Shared Streets and Spaces grant program.
+Shared Streets and Spaces is a quick-launch/quick-build grant program administered in response to the detrimental economic and community impacts of the COVID-19 pandemic.
+It provides funding for cities and towns to quickly implement or expand improvements to sidewalks, curbs, streets, on-street parking spaces and off-street parking lots that support public health, safe mobility and increased commerce.
+Through this program, Winchester will receive $125,974.80to provide traffic calming in the town center, reconstruct curb ramps on segments of the Tri-Community Greenway and create a two-way bike lane connecting to Winchester High School.
+“This grant will support and enhance our community’s adjustments to new challenges posed by the pandemic, and will enable town government to implement safety and economic development measures that will benefit us all,” said Representative Michael Day.
+“This is another example of the state listening to the needs of our towns and responding quickly with the assistance requested and I applaud all parties for working cooperatively and making this program work for Winchester.
+This is very good and welcome news.”
+“It is great that Winchester will be able to improve accessibility for pedestrians and cyclists with the Shared Streets grant,” said Senator Pat Jehlen.
+I hope it enables people to safely take socially-distanced walks and visit the shops and restaurants in Town Center that need our support more than ever.”
+“Winchester’s Town Center is a vital hub of the community’s economic, social and civic life, and this important grant funding will allow the town to do even more to ensure safety, accessibility and usability for all residents and local businesses,” said Senator Jason Lewis.
+“This grant will help Winchester to create safe and accessible shared spaces that will benefits pedestrians, students, commuters and local merchants.”
+Successful Shared Streets and Spaces projects must be implemented quickly, flexibly, at low cost, and without major roadway reconstruction.
+Grant recipients are also encouraged to consider how a successful project could eventually be made permanent.
+Now that MassDOT has officially named Winchester as a grant recipient, town and state officials will work together to advance the projects included.

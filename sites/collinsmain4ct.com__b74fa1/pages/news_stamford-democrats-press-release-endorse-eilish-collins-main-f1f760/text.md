@@ -1,0 +1,18 @@
+Press Release: Community Advocate and State Representative Candidate Eilish Collins Main Receives Endorsement From Stamford Democratic City Committee
+FOR IMMEDIATE RELEASE
+May 23, 2024
+Contact: Eilish Collins Main
+203.249.1831
+eilish@collinsmain4ct.com
+STAMFORD, CT — On Wednesday, May 22, Stamford Democratic City Committee (DCC) delegates formally endorsed community advocate Eilish Collins Main as the Democratic nominee for the 146th State House District by a vote of 5-1.
+“As a lifelong Democrat, it’s an honor to have the support of my hometown Democratic Party to serve my neighbors and our community in Hartford.
+With the Citizens’ Election Program threshold reached in just four days and the DCC endorsement now secured, the momentum for our grassroots campaign continues to grow,” said Collins Main.
+“I have been attending events all over the district while speaking with Stamford residents about their concerns.
+It’s clear that they’re ready for new leadership for the 146th State House District that will address what matters to them.
+I look forward to meeting with more voters on the campaign trail and sharing our positive message for the future of this district.”
+About Eilish Collins Main
+With a successful career in marketing and business development in the EdTech sector, Eilish Collins Main brings valuable skills to public service as a communicator and consensus builder.
+She is an active member of the Stamford Democratic Party, and volunteers with Building One Community, the League of Women Voters, the Police Activities League, and the Saint Francis Epispocal Church outreach programs.
+Collins Main also serves as a Personnel Commissioner for the City of Stamford.
+To learn more about her campaign, visit collinsmain4ct.com.
+###

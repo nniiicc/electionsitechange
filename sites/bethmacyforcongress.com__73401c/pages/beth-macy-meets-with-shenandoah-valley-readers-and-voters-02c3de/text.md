@@ -1,0 +1,4 @@
+Journalist turned book writer turned Congressional hopeful Beth Macy participated in two different Shenandoah Valley events on Sunday that attracted two different types of audiences.
+The first event, an author talk and reception hosted by Charlottesville National Organization for Women at the Shenandoah Valley Art Center, was billed as nonpolitical.
+That standing-room-only event featured a supportive crowd of more than 50 people.
+The Waynesboro talk, moderated by another former reporter, Gayle Jessup White, author of “Reclamation: Sally Hemings, Thomas Jefferson, and a Descendant’s Search for Her Family’s Lasting Legacy,” a book that traces White’s roots back to Thomas Jefferson and Sally Hemings, focused on Macy’s most recent book, “Paper Girl: A Memoir of Home and Family in a Fractured America.”

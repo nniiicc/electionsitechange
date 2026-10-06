@@ -1,0 +1,50 @@
+The movement for a distinctively Green politics dates to the 1970s.
+It represents a new alternative to all the old, discredited ideologies that have proven inadequate for addressing the critical issues of our times . . .
+Green Party of New Jersey
+https://GPNJ.org
+Green Party of the United States
+https://GP.org
+Green Party of the UK
+https://greenparty.org.uk/
+Toward an Ecological Civilization (video series)
+https://www.youtube.com/playlist?list=PLGyDELJdHq36Pl6FtVu7V75OIF04SMW-5
+Post-capitalism by design not disaster
+https://www.ecologicalcitizen.net/pdfs/v03sb-02.pdf
+Independent Politics
+https://www.haymarketbooks.org/books/829-independent-politics
+“Four Changes” by Gary Snyder
+https://bioneers.org/four-changes-by-gary-snyder/
+Altair Ecovillage project
+https://AltairEcoVillage.org
+Green Horizon Ecovillages Network
+https://stevenwelzer.medium.com/whats-this-thing-about-five-thousand-years-5dcfcb654a6e
+Green Horizon Magazine
+https://greenhorizon.sites.community/?page_id=27
+Green Politics (book by Steven Welzer)
+https://www.amazon.com/dp/B0F2N8DQBT/ref=tmm_pap_swatch_0
+Bioregionalism
+https://richardheinberg.com/museletter-389-bioregioning-is-our-future
+Communitarianism
+https://stevenwelzer.medium.com/from-marx-to-mumford-8d2eceff730d
+Confronting the zeitgeist
+https://stevenwelzer.medium.com/despair-in-the-air-89113cc074cb
+New Green Horizons webzine
+https://NewGreenHorizons.US
+Toward a New Politics
+https://stevenwelzer.medium.com/toward-a-new-politics-c47f35869dd9
+The Green Party’s version of the Green New Deal
+https://howiehawkins.us/ecosocialist-green-new-deal/
+DSA ecosocialist caucus
+https://caracoldsa.org/
+The Case for an Independent Left Party
+https://howiehawkins.us/the-case-for-an-independent-left-party-download/
+Thoughts re: the deep civilizational crisis we are facing
+https://www.fifthestate.org/archive/345-winter-1995/catching-fish-in-chaotic-waters/
+In regard to the wave of socialist candidate victories
+https://stevenwelzer.medium.com/in-regard-to-the-wave-of-socialist-candidate-victories-1de6fd9f744e
+Rupert Read bridges the eco-worldviews of Caroline Lucas and Samuel Alexander
+https://www.youtube.com/channel/UCm7-jS-VzbR3xEqpBGYDPcQ
+https://en.wikipedia.org/wiki/Rupert_Read
+https://rupertread.net/
+My speech to the NAACP candidates forum
+https://stevenwelzer.medium.com/my-campaign-speech-to-the-naacp-d7f492bdca5f

@@ -1,0 +1,3 @@
+New TN legislation allows emergency care, Life Force transport for injured K9s
+Nearly a dozen K9s took a trip to the Tennessee Riverpark on Monday morning in recognition of the passage of the K9 Emergency Medical Care and Transport Act.
+Sponsored by Hamilton County lawmakers Michele Reneau and Bo Watson, SB2069 allows K9s to receive emergency care, including Life Force transport, if injured in the line of duty.

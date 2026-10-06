@@ -1,0 +1,57 @@
+National Security
+As Chairman of the Oversight Subcommittee on National Security, Stephen Lynch is tackling some of the biggest national security issues our nation has faced.
+With American troops still engaged in active operations in Iraq, Afghanistan, Mali and Somalia, Stephen is keeping a close eye on every aspect, conducting oversight hearings on our military and reconstruction operations, and the continued peace talks.
+His oversight work has brought him to Iraq and Afghanistan 28 times to meet with our troops, military and civil leaders to discuss the situation on the ground and perform oversight duties.
+With a strong sense that the American people have a right to know what the plan and progress is pertaining to the war and the reconstruction of Afghanistan, Stephen has introduced legislation requiring that previously public quarterly reports on our progress be once again declassified so we all know the true facts about what is going on on the ground.
+Stephen Lynch has always put the health and safety of our troops first, and as Chairman of the Oversight Subcommittee on National Security, he has reinforced that commitment.
+Leading an investigation, Stephen is working to support our veterans who, during their deployment after 9/11 to Karshi-Khanabad (K2) Air Base were reportedly exposed to both chemicals and radiological hazards during their deployment.
+He co-authored and introduced the K2 Veterans Toxic Exposure Accountability Act to study the hazards that American service members were exposed to while deployed to K2 and to address the health conditions that may have been caused by these exposures.
+Along with his oversight on Afghanistan and supporting our troops, he is focused on ensuring that our most fundamental right- the right to vote and choose our leaders- is protected.
+As a result, he is spearheading an investigation on election security and preparedness.
+And as part of the investigation, Stephen is also evaluating state and federal preparedness to ensure election security and has introduced legislation to ban the use of deep fake audio, video and photos in U.S. elections.
+Stephen believes that public health and safety are key factors in national security, and has taken swift action to look into our nation’s preparedness in the face of pandemics, such as COVID-19, and biological weapons.
+His efforts include leading investigation to examine the readiness of our health care system to handle such events as well as the potential of both drug resistant diseases and antimicrobial resistance as a national security threat.
+In direct response to the COVID-19 pandemic, Stephen has focused on the need to improve federal response.
+He authored and introduced legislation – the Strategic National Stockpile Enhancement and Transparency Act – that would improve federal response by creating a national biodefense stockpile network with real time inventory to ensure health care professionals and first responders have the personal protective equipment and the critical supplies to treat the public.
+Stephen is focused on ensuring that the almost immediate critical shortages we faced do not happen again.
+As your Congressman, Stephen will continue to ensure Congress is focused on our nation’s security, preparedness and commitment to our troops.
+Congressman Lynch questions U.S. gains in Iran conflict
+Updated: 5:37 PM EDT Apr 10, 2026 Sharman Sacchetti Political Reporter and Co-Host of WCVB’s “On The Record” NEEDHAM, Mass. — Massachusetts Democratic Congressman Stephen Lynch questioned the United States' gains from its involvement in the Iran conflict during an...
+Boston protesters condemn U.S. attack in Iran as Rep.
+Lynch criticizes president’s decision
+By Logan Hall WBZ NEWS Updated on: June 23, 2025 / 7:49 AM EDT / CBS Boston A crowd of approximately 500 demonstrators took to the streets of downtown Boston Sunday to protest recent U.S. military strikes against Iran, while Gov.
+Maura Healey was briefed by...
+US representatives, union workers warn ‘critical’ Boston Ship Repair vanishing without investment, work
+Rep.
+Stephen Lynch and others called for support of the US’s shipbuilding and repair assets By GRACE ZOKOVITCH | gzokovitch@bostonherald.com UPDATED: June 17, 2025 at 7:43 PM EDT U.S. representatives and Boston Ship Repair workers gathered at one...
+Rep.
+Lynch blasts Trump as ‘wannabe gangster’ in immigration hearing
+Rep.
+Stephen Lynch, D-Mass., delivered his remarks at a hearing conducted by the House Oversight Committee.
+June 12, 2025 Watch the full video here: https://abcnews.go.com/Politics/video/rep-lynch-blasts-trump-wannabe-gangster-immigration-hearing-122776768
+OTR: Mass.
+Rep.
+Stephen Lynch on immigration
+Congressman Lynch sat with Ed Harding and Sharman Sacchetti to discuss the issues effecting our district.
+Watch the OTR interview here: https://www.wcvb.com/article/otr-mass-rep-stephen-lynch-on-immigration/60628614
+Massachusetts congressman calls for aid to Ukraine during Boston rally
+WCVB Boston Channel 5 • Updated: 6:30 PM EST Feb 24, 2024 BOSTON — A Massachusetts congressman is calling for the United States to send aid to Ukraine, as two years have passed since Russia invaded its neighbor in Eastern Europe.
+U.S.
+Rep.
+Stephen Lynch was among the...
+Keller@Large: Congressman Lynch discusses Ukraine aid
+BOSTON – Congressional leaders left Washington for the weekend without an agreement that would continue aid to Ukraine, though discussions are expected to continue.
+President Biden and Ukrainian President Volodymyr Zelenskyy met with lawmakers Tuesday,...
+Rep.
+Stephen Lynch on trip to Ukraine, how US should respond to Israel-Hamas war
+WGBH Jeremy Siegel November 03, 2023 A more than $14 billion aid bill that provides military support for Israel, but not Ukraine, is now headed to the U.S.
+Senate.
+The GOP-led House passed the measure yesterday along party lines, despite the objection of Democrats....
+OTR: Is there path to peace in Ukraine?
+Massachusetts congressman weighs in
+WCVB-TV BOSTON-OTR: Is there path to peace in Ukraine?
+Massachusetts congressman weighs in Click here to watch interview.
+Rep.
+Stephen Lynch: Influence of NRA preventing gun control legislation
+WBZ-TV BOSTON – Following the deadly shooting at Robb Elementary School in Uvalde, Texas this week, many around the country are calling for federal lawmakers to pass gun control legislation.
+There have been similar calls for action in the past after tragedies....

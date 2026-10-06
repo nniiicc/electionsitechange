@@ -1,0 +1,18 @@
+Meet Amanda
+22 Mar
+01:00 PM
+Until
+02:30 PM
+1h 30m
+Newport Community Conversations with Amanda Janoo at Sol Cafe
+Come hear Amanda lay out her vision for a Vermont where everyone can afford to stay, thrive, and belong.
+Amanda is kicking off her campaign for Governor of Vermont by meeting with and listening to voters in every county.
+Join us at Sol Cafe in Newport to hear Amanda’s vision for Vermont, and share your own.The event runs from 1:00-2:30
+This is where a new chapter for Vermont begins.
+Be part of it.
+Free and open to the public.
+All are welcome.
+22 Mar
+Scan QR Code
+Age Group
+All

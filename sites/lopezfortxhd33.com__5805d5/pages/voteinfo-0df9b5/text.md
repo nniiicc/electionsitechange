@@ -1,0 +1,1 @@
+Voting Information Early Voting is October 19th - October 31st ★ Register by October 5th to Vote on Election Day (Nov. 3rd) ★ Early Voting is October 19th - October 31st ★ Register by October 5th to Vote on Election Day (Nov. 3rd) ★

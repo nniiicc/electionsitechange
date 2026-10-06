@@ -1,0 +1,17 @@
+| Use this as a reference to send to the DNR regarding the Pattison Sand Permit.
+Download File WOW!
+My opponent Mike Klimesh was thanked in several of today's Sunday papers for passing legislation prohibiting Iowans for suing chemical companies whose products cause cancer.
+How is that standing up for Iowa farmers when they are the ones most likely to suffer the bad effects of these chemicals?
+Shielding multinational chemical companies from accountability sure won't reduce Iowa's skyrocketing cancer incidence rate!
+We deserve better representation in Des Moines.
+“On behalf of the Iowa State Education Association (ISEA) representing public education professionals across the state, we are pleased to recommend Brian Bruening for the Iowa Senate," said ISEA President Joshua Brown.
+"We believe Brian Bruening will do what is best for all of Iowa’s students regardless of the ZIP code in which they live and be a voice for education professionals as important decisions are made that impact our students and our public schools.” The Iowa Farmers Union is committed to supporting family farming, sustainable agriculture, thriving rural communities, and healthy landscapes across Iowa.
+We are dedicated to advocating for a more just and equitable food system that benefits all Iowans.
+As part of our mission, we are proud to endorse the following candidates for the Iowa State Legislature in the 2024 General Election.
+These candidates share our values and will work to promote policies that strengthen Iowa's family farms, protect our environment, and support rural communities.
+Nate Boulton, Senate District 20 Brian Bruening, Senate District 32 Claire Celsi, Senate District 16 Troy Clark, House District 39 Jay Gorsh, House District 91 Daniel Gosa, House District 81 Nannette Griffin, Senate District 50 Joe Hegland, Senate District 34 Tommy Hexter, House District 53 Chad Ingels, House District 68 Chuck Isenhart, House District 72 David Jacoby, House District 86 Tracy Jones, House District 94 Kyle Kruse, House District 56 Elinor Levin, House District 89 Richard Lorence, Senate District 30 Ashley Meredith, House District 84 Mindy Smith Pace, House District 93 Cynthia Paschen, Senate District 28 Kay Pence, House District 70 Rosanne Plante, House District 13 Heather Sievers, House District 40 JD Scholten, House District 1 Art Staed, Senate District 40 Tony Thompson, House District 45 Sarah Trone-Garriott, Senate District 14 Karen Varley, House District 23 Penny Vossler, House District 48 Phil Weise, House District 82 Carolyn Wiezorek, House District 65 We appreciate the interactions we’ve had with all candidates for public office and encourage engaged citizens to learn more about the Iowa Farmers Union and our work by visiting www.iowafarmersunion.org.
+Aaron Lehman Iowa Farmers Union President | Author Brian Bruening Archives July 2026 May 2025 March 2025 October 2024 Categories |
+| 2025-draft-letter-outline-suggestion.pdf | |
+| File Size: | 48 kb |
+| File Type: | |
+Download File

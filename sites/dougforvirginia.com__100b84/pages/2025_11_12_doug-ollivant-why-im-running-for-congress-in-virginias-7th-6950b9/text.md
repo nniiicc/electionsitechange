@@ -1,0 +1,4 @@
+Doug Ollivant: Why I’m Running for Congress in Virginia’s 7th
+November 12, 2025
+Republican candidate Doug Ollivant joins Potomac Local News to discuss his campaign for Virginia’s 7th Congressional District (VA-07) — covering Eastern Prince William, Stafford, Spotsylvania, Fredericksburg, Culpeper, Greene, and a small portion of Albemarle County.
+Ollivant, a retired Army officer and former National Security Council director, shares his outlook on GOP strategy after recent elections, his thoughts on Donald Trump’s influence in Virginia, and his plan to connect with younger voters and shifting suburban demographics.

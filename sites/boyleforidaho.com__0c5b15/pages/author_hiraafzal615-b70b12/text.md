@@ -1,0 +1,3 @@
+House GOP sets up panel to probe government ‘weaponization’
+By Michael Macagnone (originally posted on rollcall.com) Posted January 10, 2023 at 4:54pm House Republicans on Tuesday established a select subcommittee to investigate the “weaponization” of the federal government.
+It will have the power to investigate executive…

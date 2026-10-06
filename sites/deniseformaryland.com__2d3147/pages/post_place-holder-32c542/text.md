@@ -1,0 +1,3 @@
+TREASURER 'ENTHUSIASTICALLY' BACKS BILL IMPOSING LIMITS ON HIS FUNDRAISING
+Maryland Treasurer Dereck Davis (D) told a House committee on Wednesday he “enthusiastically supports” a bill that would block him from raising campaign funds during the General Assembly session.
+Read more...

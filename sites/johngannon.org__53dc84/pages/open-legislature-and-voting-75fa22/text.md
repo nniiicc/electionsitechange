@@ -1,0 +1,9 @@
+John Gannon believes the legislature should be open to all.
+He has given Legislative testimony regarding his belief that voting is a fundamental right and should not be made difficult by public political party registration and cumbersome voting regulations.
+He has testified and advocated many times against the closed primary and political party registration that results in restrictions on how people choose to vote..
+In June of 2016, John challenged the presidential caucus procedure in the Democratic Party.
+This process actually prevented voters from participating in the selection of the Presidential nominee.
+He wrote a guest editorial in the Statesman and explained the issue on Boise State Radio:
+https://www.idahostatesman.com/opinion/readers-opinion/article81481592.html
+This video from Judy explains why caucuses deny the right to vote:
+https://johngannon.org/wp-content/uploads/2013/10/Judyfeltdisenfranchised.wmv

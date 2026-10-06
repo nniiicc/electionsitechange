@@ -1,0 +1,6 @@
+Houston, TX—Today, Congresswoman Lizzie Fletcher (TX-07) released the following statement after winning re-election to Congress representing Texas’ Seventh Congressional District:
+“I am honored and proud to represent Texas’ Seventh Congressional District, and grateful to the voters in the district for once again giving me the privilege of representing them in the 119th United States Congress,” said Congresswoman Lizzie Fletcher.
+“Our campaign is, and always has been, a coalition of people from across our diverse and dynamic district who want to ensure that our community’s core values of inclusion, innovation, and collaboration result in progress, equality, and opportunity for all Americans.“I am so grateful to the many people who have worked to make it possible for me to serve our community in Congress, and to do so again for the next two years,” continued Congresswoman Fletcher.
+“I look forward to partnering with people across our community to continue bringing a little more Houston to Washington, D.C.”
+###
+Now in her third term in Congress, Fletcher was first elected to represent Texas’ Seventh Congressional District in 2018, becoming the first Democrat in more than 50 years and the first woman ever to represent TX-07.

@@ -1,0 +1,11 @@
+ROCK ISLAND, Ill. – Kwame Raoul, Democratic candidate for attorney general, joined community leaders and elected officials in Rock Island today to discuss how they can collaborate to make online experiences safer for children by cracking down on criminals who use the internet to target children.
+Participating in the roundtable were Raoul, Iowa Attorney General Tom Miller, Illinois State Representative Mike Halpin and Rock Island County State’s Attorney John McGehee.
+“As parents, we may think our kids are safe when they’re in our living room, but if they’re using an electronic device, they could also be online in a chat room with a predator,”Raoul said.
+“It is essential for law enforcement, prosecutors and social services to work together to protect our children.
+When it comes to fighting online crime, Downstate Illinois should have the same access to tools and resources as Cook County does.
+Here in the Quad Cities, the state border provides an additional challenge and opportunity, and so as attorney general, I will be honored to work with Attorney General Miller to keep all of our kids safe.”
+Roundtable participants discussed ways to cooperate across state lines, improve services for victims and ensure state laws keep pace with changing technology, so online predators don’t slip through legal loopholes.
+Child predators can use the internet to access and distribute child pornography and to communicate with minors directly, grooming them for a potential in-person meeting and/or sending them sexually explicit content.
+Raoul noted that a large percentage of individuals who traffic in child pornography are also hands-on offenders.
+While serving in the Illinois Senate, Raoul sponsored tougher penalties for the possession and distribution of child pornography, updated the state’s law on cyberstalking and passed legislation requiring people charged with sexual assault of a child to give DNA samples.
+Protecting children from sexual predators will be one of his top priorities as attorney general.

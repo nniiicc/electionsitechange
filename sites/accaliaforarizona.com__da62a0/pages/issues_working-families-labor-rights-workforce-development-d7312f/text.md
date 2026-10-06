@@ -1,0 +1,30 @@
+Working Families, Labor Rights & Workforce Development
+Skilled Trades & Career Pathways
+For years, students have been pushed toward a one-size-fits-all path after graduation while skilled trades and workforce programs were overlooked.
+At the same time, Arizona now faces major shortages in trades, infrastructure, healthcare, agriculture, and technical industries.
+I strongly support:
+- Expanding Career & Technical Education (CTE)
+- Apprenticeship and internship opportunities
+- Dual enrollment and workforce certification programs
+- Stronger partnerships between schools, unions, community colleges, and local industries
+- Increased investment in skilled trades education
+Not every student wants a traditional four-year degree, and that should not be treated as a failure.
+Trades and workforce careers are essential to Arizona’s future and deserve far more respect and investment than they currently receive.
+Supporting Workers
+Some of the most important jobs in society are also some of the most undervalued.
+Teachers, healthcare workers, agricultural workers, retail employees, food service staff, truck drivers, tradespeople, and countless others keep Arizona running every day.
+I support protecting workers’ rights, safe working conditions, fair treatment, and the right to organize.
+Workers should be able to advocate for themselves without fear of retaliation or intimidation.
+I also support reasonable paid parental and family leave protections so people are not forced to choose between caring for a newborn, recovering from a medical emergency, or supporting their family financially.
+Strong families and healthy workers create stronger communities and a more stable workforce overall.
+State policy should reflect the importance of these industries by supporting workforce development, improving retention, reducing burnout, and investing in long-term career stability.
+Small Business & Local Industry
+Arizona’s economy should not revolve entirely around massive corporations and outside investors.
+Small businesses and local industries are what give communities identity and create long-term economic stability.
+I support:
+- Workforce investments tied to local industry needs
+- Expanding opportunities for Arizona-based businesses
+- Reducing unnecessary barriers for responsible small business growth
+- Supporting industries that create long-term, stable employment within Arizona communities
+A strong workforce does not happen by accident.
+It requires long-term investment in education, training, infrastructure, and the people who keep our communities running every day.

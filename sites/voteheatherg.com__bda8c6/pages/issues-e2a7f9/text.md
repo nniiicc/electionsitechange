@@ -1,0 +1,18 @@
+In the 2025 Legislative Session, Assembly Goulding, with the help of a broad coalition of stakeholders, was able to pass five bills into law:
+- AB250: Protected victim survivors of domestic violence from economic abuse
+- AB301: Added transparency to local governments, making local bodies more accountable
+- AB360: Addressed congenital syphilis, giving newborns a chance to thrive and saving taxpayers countless dollars
+- AB386: Reduced redundant testing for students so educators can focus on teaching
+- AB415: Improved the process for removing junk, abandoned vehicles, and improving the quality of life in our neighborhoods
+Looking forward, Assemblymember Goulding’s priorities are:
+Access to Healthcare: Assemblymember Goulding served on the Health and Human Services Committee in the 2025 legislative session.
+She will continue to fight attempts to restrict access to reproductive health care and vaccines.
+Heather is also committed to making healthcare more accessible and affordable by increasing the number of healthcare providers in the state with a particular focus on mental healthcare providers.
+Goulding knows that our state is in a mental health care crisis and is committed to delivering results in the next legislative session.
+Affordable Housing: Heather is committed to making housing more affordable by cracking down on out-of-state and foreign corporate ownership and by increasing our housing stock, especially affordable units.
+Education: Building on previous success in the 2025 legislative session, where Heather spearheaded an effort to reduce redundant testing.
+Goulding is committed to reducing class sizes and advocating for better pay for educators.
+Sustainable Energy: Assemblymember Goulding was one of five Assemblymembers to earn a perfect score from the Nevada Conservation League for her efforts in the last legislative session.
+With a background in energy program evaluation, Heather champions sustainable energy solutions for a healthier planet.
+Election Protections: In the 2025 special legislative session, the Nevada Assembly took the first steps to protect mail-in voting in the Nevada State Constitution.
+Heather is committed to seeing this effort through and resisting efforts to undermine your voting rights.

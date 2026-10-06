@@ -1,0 +1,17 @@
+Priorities and Accomplishments
+As your elected official I have:
+- Worked to fully fund K-12 and higher education, restore faculty tenure and protect shared governance
+- Stood with Governor Evers to fight for public safety and a science-based response to the COVID pandemic
+- Fought for Red Flag laws, 48 hour waiting periods, universal background checks, and closure of the ghost gun loophole
+- Served on the Speaker's Taskforce on Alzheimer's and Dementia and drafted bipartisan bills that were signed into law
+- Drafted legislation to regulate and address PFAS and improve water quality
+- Led the charge to legalize medical marijuana
+As your State Senator,
+my priorities continue to be:
+- Provide the best public education for our children
+- Stop the epidemic of gun violence
+- Ensure affordable access to quality healthcare
+- Fight to restore reproductive freedom
+- Protect our natural resources
+- Defend voting rights and Wisconsin's free and fair elections
+- Enact reforms that allow citizens to choose their representatives - not the other way around

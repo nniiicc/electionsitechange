@@ -1,0 +1,62 @@
+WE're with
+Melissa Hurtado for State Senate
+California Legislators
+- Senate Pro Tem Monique Limón
+- Senate Pro Tem Emeritus Mike McGuire
+- Senator Christopher Cabaldon
+- Senator Jerry McNerney
+- Senator Jesse Arreguín
+- Senator Angelique Ashby
+- Senator Tim Grayson
+- Senator Aisha Wahab
+- Senator Scott Wiener
+- Senator Anna Caballero
+- Senator Susan Rubio
+- Senator Ben Allen
+- Senator Sasha Renée Pérez
+- Senator María Elena Durazo
+- Senator Henry Stern
+- Senator Lola Smallwood-Cuevas
+- Senator Eloise Gómez Reyes
+- Senator Bob Archuleta
+- Senator Sabrina Cervantes
+- Senator Lena González
+- Senator Tom Umberg
+- Senator Steven Bradford
+- Senator Catherine Blakespear
+- Senator Akilah Weber Pierson
+- Senator Josh Newman
+- Senator Sabrina Cervantes
+- Assemblymember Jasmeet Bains
+- Assemblymember Gail Pellerin
+Organizations
+- California Democratic Party
+- Kern County Young Democrats
+- Association of California School Administrators
+- Association of California State Supervisors
+- CALFIRE Local 2881
+- California Association of Highway Patrolmen (CAHP)
+- California Nurses Association
+- California Federation of Labor Unions
+- California Federation of Teachers
+- California Police Chiefs Association
+- California Professional Firefighters
+- California School Employees Association
+- California State Retirees
+- California Teachers Association
+- California YIMBY
+- California Young Democrats
+- Equality California
+- Professional Engineers in California Government (PECG)
+- UDW/AFSCME Local 3930
+- SEIU California
+- Women's Political Committee
+- UNAC/UHCP
+Local Elected Officials
+- Bakersfield Vice Mayor Andrae Gonzales
+- Bakersfield Councilman Emeritus Mark Salvaggio
+- Bakersfield Councilmember Eric Arias
+- Delano Mayor Pro-Tem Mario Nunez Jr.
+- Parlier Mayor Alma Beltran
+“Our communities have often been overlooked, but I’m working hard to change that.”
+-State Senator Melissa Hurtado

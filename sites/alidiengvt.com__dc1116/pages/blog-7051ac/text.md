@@ -1,0 +1,26 @@
+Young Vermonters & New Americans Must Feel Welcome & Valued
+What do Vermonters need to do in the next 3 years to be successful for the next generation?
+I was delighted to be asked to write a commentary about the Vermont proposition number 10: Young Vermonters & New Americans Must Feel Welcome & Valued.
+Please read and then act: https://www.rutlandherald.com/…/article_472f4509-df07… Consider registering for this important Read More …
+Happy Spring
+Dear Neighbors, Happy Spring!
+I hope that you are enjoying these beautiful sunny days.
+Let’s also stay mindful that we are still under a state of emergency, requiring masking and distancing, especially as the variant has been detected in Burlington.
+I hope that many people have received their Covid vaccines or will soon.
+Let’s stay Read More …
+Burlington Citywide Reappraisal Project Update
+Dear Neighbors, As residents of the New North End, we should be very proud of having great properties and neighborhoods.
+Below is information about the City Appraisal Project with important dates and questions to consider.
+The City of Burlington has secured over $1.1 million in funding a citywide Reappraisal Project.
+Appraisals are used to determine Read More …
+Open Burning and Outside Fires
+This memorandum is intended to answer questions regarding open burning and outside fires in the City of Burlington.
+As a reminder, Burlington Code of Ordinances Chapter 13-3 prohibits fires as a means of fire prevention in our community since 1977.
+The primary hazard here is ignition of structures or vegetation by direct fire spread or Read More …
+Call to protestors to pause the protest and organize for long-term systemic change
+This moment has been a long time coming.
+In 2018, several young black men suffered due to the unnecessary use of force by Burlington police officers.
+As elected officials we were not aware of these incidents until eight months after the incidents occurred and inappropriate discipline had already been applied by the former chief of Read More …
+Let’s Work Together
+In these times of deep political discord, anger and confusion along with rising hatred and sometimes silence in response, we can each individually grow, learn from our mistakes, take responsibility for our judgment, and hold each other accountable while also striving to do better for the sake of future generations.
+The killing of George Floyd Read More …

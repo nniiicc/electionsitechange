@@ -1,0 +1,14 @@
+Election Day is Tuesday, November 3, 2026
+Check your voter registration, register to vote, or find out election dates for 2026 at SC Votes.
+South Carolina’s 3rd congressional district includes:
+- Abbeville County
+- Anderson County
+- Edgefield County
+- southern Greenville County
+- Greenwood County
+- Laurens County
+- McCormick County
+- most of Newberry County
+- Oconee County
+- Pickens County
+- Saluda County

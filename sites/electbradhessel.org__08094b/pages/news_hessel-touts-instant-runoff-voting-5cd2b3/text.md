@@ -1,0 +1,22 @@
+FOR IMMEDIATE RELEASE
+RALEIGH (14 Jun 2024) – Brad Hessel, candidate for NC Senate District 18, spoke at the More Voices More Choices rally at the State Capital in downtown Raleigh today and called for legislation to allow counties and municipalities to use instant runoff voting (a/k/a ranked-choice voting) for their elections.
+The rally was organized by We the People, the new political party petitioning for ballot access in order to list Robert Kennedy, Jr. as a 2024 Presidential candidate in North Carolina.
+The speaker lineup included representatives of the Constitution Party, Forward Party, Green Party, Justice for All, and Libertarian Party.
+Most of the speakers focused on the efforts of their party to collect enough signatures to qualify as official in North Carolina, the machinations of the establishment parties to keep them off the ballot, and, failing that, to shut them out of debates.
+But Hessel used his three minutes to outline one of his key proposals: to reform the way elections are conducted in order to make them fairer and more cost-effective and to encourage candidates to conduct less partisan campaigns.
+“We use plurality voting in North Carolina,” stated Hessel.
+“And that works fine in two-candidate races….
+But if you have three or more candidates, it’s possible for a candidate to be elected with less than a majority, which is fundamentally undemocratic.
+And occasionally, the system mandates a runoff, which not only doubles the cost of that election but turnout is notoriously terrible…you can have the winner getting fewer votes in the runoff than the loser got in the original election.
+Not exactly a mandate!
+“Instant runoff voting…addresses both these problems,” he continued. ”You rank the candidates in order of preference, and if no candidate gets a majority, the last place candidate is eliminated and the votes for her or him are redistributed to each voter’s second choice.
+If there’s still no winner, the process is repeated until someone gets a majority.
+Never a need for a runoff, and never a winner with less than a majority!
+“And…the best thing of all is that [instant runoff voting] incentivizes candidates to build consensus rather than being divisive because candidates who work to attract second- and third-choice votes have an advantage over candidates who only speak to their base and antagonize other voters.”
+Hessel went on to explain that he was proposing instant runoff voting for counties and municipalities because he does not believe the NCGA would consider allowing it for their own elections or for statewide elections because the NCGOP—who are in control in both houses—are happy with the status quo.
+“But,” he added, “it’s no skin off their nose if a locality uses it.
+My hope is that once North Carolinians see the advantages of [instant runoff voting] over plurality voting, demand for implementing it statewide will grow, both outside and inside of the general assembly.”
+Instant runoff voting was pioneered in Cary and Hendersonville and for one statewide judicial race a decade or so ago, but voting machine technology back then did not effectively support vote counting.
+Currently, 50 US jurisdictions have RCV in place for all voters in public elections, reaching approximately 13 million voters.
+This includes 2 states, 3 counties, and 45 cities, including Alaska, Maine, Minneapolis, New York City, Oakland, San Francisco, Santa Fe, and St.
+Paul.

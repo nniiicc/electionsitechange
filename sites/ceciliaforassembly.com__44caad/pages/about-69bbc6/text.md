@@ -1,0 +1,58 @@
+Assemblymember Cecilia Aguiar-Curry
+Mayor – Farmer – Businesswoman
+First Woman Mayor of Winters
+Small Business Woman
+Family Farmer
+State Assemblymember
+Assembly Majority Leader
+Chair, California Legislative Women's Caucus
+Member, Committees on:
+- Agriculture
+- Health
+- Transportation
+Select Committees on:
+- Alternative Protein Innovation
+- CalFresh Enrollment and Nutrition
+- Child Care Costs
+- Effective Postsecondary Career Technical Education and Workforce Development Programs
+- Latina Inequities
+- Ports and Goods Movement
+- Reproductive Health
+- Wildfire Prevention
+- Youth Mental Health and Treatment Accessibility
+Throughout her life, Cecilia has fought for small and medium size cities and rural communities.
+As a single mom, small businesswoman, family farmer and former mayor, she understands the challenges families face.
+While our state is full of opportunity, we still face high prices, a lack of affordable housing, access to quality health care, an assault on women’s rights and reproductive freedom, climate crisis and the resulting fires, floods and drought.
+As a leader in the battle to make our voices heard in a legislature dominated by Los Angeles and the Bay Area, Cecilia has made real progress in:
+- Fighting for women’s rights to control their own bodies;
+- Expanding healthcare, including telehealth and rural healthcare;
+- Delivering broadband to millions of Californians;
+- Protecting workers and retirees;
+- Supporting firefighters, preventing wildfires, and compensating fire victims;
+- Fighting for fair treatment and equal opportunity for immigrants;
+- Investing millions to revitalize Clearlake and local economies;
+- Making it easier to pass local measures to increase housing and improve infrastructure.
+Her passion and appreciation for agriculture started when she was a child, working summers and after school on the farm, and as a co-owner of the family farm.
+As a member of the Assembly Ag Committee, Cecilia is fighting for the ag industry and particularly small, family farmers.
+Cecilia was honored as one of Congressman John Garamendi’s 2015 Women of the Year.
+Cecilia has a long history of volunteering for her community.
+She has been Chair of the Yolo Housing Commission, Vice-Chair of the Yolo County Water Association, and served on the Board of Directors of the Sacramento Council of Governments.
+As the first woman Mayor of Winters, Cecilia’s worked to secure computers for every 6th-grader in the city, bridge the digital divide by bringing broadband to rural communities, build a state of the art senior housing development, and establish an ag innovation hub in Yolo County.
+Understanding that jobs are the lifeblood of our communities, Cecilia helped bring a $75 million PG&E training facility to Winters.
+She also worked to establish the Berryessa Snow Mountain National Monument, to protect environmental lands across five counties.
+Cecilia’s hard work on a wide range of issues has earned her broad support and recognition across the district, including these awards:
+- “Women Who Mean Business” from the Sacramento Business Journal
+- One of Congressman Garamendi’s “Women of the Year” for 2015
+- “California Emerging Technology Broadband Champion” for her leadership in promoting improved, affordable broadband access throughout the region
+- Honored by the Yolo County “Women’s History Committee”
+- Winters Chamber of Commerce 2014 “Citizen of the Year”
+- California State Fair “2015 Champion of Technology Award”
+- 2017 Solano Transportation Authority Legislator of the Year
+- California County Boards of Education Outstanding Legislator Award of 2018
+- Champion for Children Award, 2018
+- Women’s Legislators Pacesetter Award, 2019
+- 90/100 Courage Score, 2020
+- Alzheimer’s Association Legislator of the Year for 2020
+- 95% legislative scorecard with California Labor Federation
+In 2012, Cecilia was elected the first woman Mayor of Winters.
+Above all, Cecilia is a proud mother and grandmother.

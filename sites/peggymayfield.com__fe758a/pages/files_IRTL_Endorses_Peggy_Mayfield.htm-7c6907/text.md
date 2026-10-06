@@ -1,0 +1,24 @@
+Press Release������������� ��� � Media Contact: Peggy Mayfield
+For
+Immediate Release�����(317) 831-8683
+April
+10, 2012���������������������
+peggy@peggymayfield.com
+Indiana Right to Life
+Endorses Peggy Mayfield
+Pro-life Organization Endorses Peggy Mayfield for State Representative
+(Martinsville, IN)�Republican County Clerk Peggy Mayfield announced Tuesday the endorsement of Indiana Right to Life for her candidacy in the District 60 State Representative Republican Primary.�
+Indiana Right to Life joins Mayor Phil Deckard, former Morgan County Sheriff Robert Garner, Senator Brent Steele, Representative Tom Saunders, Mooresville Town Clerk Sandy Perry, former Mooresville Town Council President and current Brown Township Mark Harris in endorsing Mayfield�s candidacy.
+�As a woman, a Christian, and a proud mother of four boys, I promise to defend the rights of the unborn if elected to the General Assembly,� said Peggy. �I am honored to have the support of an organization dedicated to preserving the sanctity of life and holding legislators accountable to pro-life issues.��� The most important issues facing Hoosiers right now are job creation and government reform.�
+Indiana Right to Life is a non-partisan, nonprofit advocacy organization dedicated to preserving and protecting unborn children.� They are a statewide affiliate of the National Right to Life Committee.
+Their website is www.irtl.org.
+About
+Peggy Mayfield
+Peggy Mayfield, 48, is in her second term as Morgan County Clerk.� During her tenure, Peggy oversaw an annual budget of over half a million dollars and operated under budget every year, returning over $133,000 to the county�s general fund.� She is also an Executive Board Member of the Association of Clerks of Circuit Courts of Indiana and regularly testifies before the General Assembly on issues related to ballot access.
+Peggy and her husband Dean are raising four boys and are members of St.
+Martin of Tours Catholic Church in Martinsville.� They own Mayfield Insurance in Mooresville, a 91 year old family-owned and operated business.
+Peggy is also a certified rifle and shotgun instructor, enjoys coaching youth clay target programs and serving on the Executive Board of the Boy Scouts of America.
+To learn more about Peggy�s campaign, visit www.peggymayfield.com.
+Paid for by the
+Mayfield Campaign
+-30-

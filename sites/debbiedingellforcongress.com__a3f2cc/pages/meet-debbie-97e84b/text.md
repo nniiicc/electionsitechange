@@ -1,0 +1,27 @@
+Debbie Dingell is a
+tireless fighter
+for Working Families in Michigan
+She knows that we can accomplish more by working together on critical issues like protecting our Great Lakes, lowering the costs of healthcare, improving our infrastructure, and creating jobs by supporting manufacturing and leveling the playing field for our workers.
+A noted leader in improving civility in our public discourse, she strongly believes that we can disagree with one another without being disagreeable.
+With values instilled by her Catholic education, Debbie’s activism started at a young age and took root in her passion for issues important to women and children.
+Prior to being elected to Congress, she successfully fought to have women included in federally-funded health research and advocated for greater awareness of issues directly related to women’s health, including breast cancer and women’s heart health.
+She is a founder and past chair of the National Women’s Health Resource Center and the Children’s Inn at the National Institutes of Health.
+A lifelong advocate for young people, Debbie chaired the Michigan Infant Mortality Task Force that reduced infant mortality rates in our state, in addition to serving as Co-Chair of the Children’s Leadership Council, a business-led advocacy group that promotes investment in early childhood education.
+Her values are also evident in her professional career before coming to Congress.
+As an executive at General Motors, she worked to keep our auto industry strong before continuing her dedication to supporting charitable causes as President of the GM Foundation.
+Demonstrating her commitment to education and students, in 2006 she was elected to the Wayne State Board of Governors where she championed lowering the cost of higher education, and she was Chair of the Board before being elected to Congress.
+In Congress, Debbie is a leader on protecting our Great Lakes, improving access to healthcare, lowering prescription drug costs, fighting for seniors and veterans, reducing gun violence and supporting manufacturing.
+She serves in House Democratic Leadership as Chair of the Democratic Policy and Communications Committee, and she is also a member of the House Committee on Energy and Commerce, as well as the House Committee on Natural Resources.
+Debbie is a strong advocate for supporting our auto industry in the United States by protecting manufacturing, and preserving and creating jobs here at home.
+She has also been an outspoken supporter of strong fuel economy standards that accomplish the twin goals of environmental protection and affordability.
+Debbie has also worked tirelessly to give our workers a level playing field on trade.
+Protecting our environment is a top priority for Debbie.
+As Co-Chair of the Great Lakes Task Force, she successfully advocated for fully funding the Great Lakes Restoration initiative as well as fighting for more resources to combat PFAS chemical contamination in our state.
+A strong believer in conservation and preserving our environment, Debbie is championing the Recovering America’s Wildlife Act in Congress, landmark legislation to provide $3.8 billion to states to do proactive work to prevent animals from becoming endangered.
+The bill is supported by a wide range of environmental and sportsmen groups, including the National Wildlife Federation and the Congressional Sportsmen Foundation.
+Debbie has also created coalitions to make progress on critical local environmental issues, such as successfully advocating for the listing of the Gelman Sciences, Inc. site on the EPA’s Superfund National Priorities List to clean up the dioxane plume in Washtenaw County, and tearing down and cleaning up the old McLouth Steel site Downriver.
+Debbie has experienced all sides of the opioid epidemic and her bipartisan legislation to address the issue has been signed into law.
+She has told her personal story on how she was raised in a household with someone who shouldn’t have had access to a gun and used her passion to fight for legislation to take guns out of the hands of domestic abusers.
+This inspired her to found the Bipartisan Working Group to End Domestic Violence, which has rallied support around the re-authorization of the Violence Against Women Act and the narrowing of the dangerous “boyfriend loophole.” As Co-Chair of the Medicare for All Caucus, Debbie has also been a leader on the fight for Medicare For All, and her advocacy on the issue led to the first Congressional hearings on her bill.
+Her hard work has not gone unnoticed.
+She was recognized as one of the 25 hardest-working Members of Congress, as well as one of the 100 most influential women in Michigan by Crain’s Magazine and one of the 100 most influential women in Washington, DC by the Washingtonian magazine.

@@ -1,0 +1,143 @@
+2026 Endorsements of Rashida
+Rashida believes that change starts in the streets and at the grassroots level.
+She is proud to have worked alongside and gained the support of people-powered movements fighting for social justice.
+- 12th Congressional District Democrats
+- All* In Action Fund
+- American Federation of Governmental Employees (AFGE) Local 704
+- Arab American Political Action Committee
+- Association of Flight Attendants - CWA
+- Care for US
+- CAIR (Council on American-Islamic Relations) Action
+- Common Defense
+- DC 51 Leadership PAC (for statehood)
+- Democratic Socialists of America (DSA)
+- Detroit Action
+- Detroit Federation of Musicians, AFM Local 5
+- Detroit Free Press
+- Elect Democratic Women
+- Emgage PAC
+- End Citizens United
+- Friends of the Earth Action
+- Justice Democrats
+- JVP (Jewish Voice for Peace) Action
+- League of Conservation Voters Action Fund
+- Metro Detroit Democratic Socialists of America - DSA
+- Michigan Working Families Party
+- Michigan United Action
+- MI Poder
+- Mothering Justice Action Fund
+- MoveOn
+- National Association of Social Workers - PACE (Political Action for Candidate Election)
+- National Education Association
+- National Nurses United
+- National Organization for Women PAC
+- A New Policy PAC
+- NIAC (National Iranian American Council) Action
+- Oakland County Democratic Party
+- PAL PAC
+- Planned Parenthood Action Fund
+- Politivist Action PAC
+- Progressive Caucus of the Michigan Democratic Party
+- Progressive Democrats of America
+- Reproductive Freedom for All
+- SEIU Healthcare Michigan
+- Sierra Club (national)
+- Sierra Club Michigan Chapter
+- Sunrise Movement
+- The Arab American Caucus of the Michigan Democratic Party
+- The People’s Coalition PAC
+- Track AIPAC
+- UAW Region 1A
+- UFCW (United Food and Commercial Workers) Local 951
+- UNITE HERE!
+Local 24
+- U.S.
+Campaign for Palestinian Rights Action
+- Vote Mama PAC
+- Wayne County Democratic Black Caucus
+- We the People Action Fund
+- Working Families Party (national)
+- Yemeni American Political Action Committee
+Here’s another way to see the groups that endorsed Rashida in 2026 (see below for their names listed out):
+And here are their names spelled out alphabetically:
+- 12th Congressional District Democrats
+- All* In Action Fund
+- American Federation of Governmental Employees (AFGE) Local 704
+- Arab American Political Action Committee
+- Association of Flight Attendants – CWA
+- Care for US – Committee to Protect Health Care
+- CAIR (Council on American-Islamic Relations) Action
+- Common Defense
+- DC 51 Leadership PAC (for statehood)
+- Democratic Socialists of America (DSA)
+- Detroit Action
+- Detroit Federation of Musicians, AFM Local 5
+- Detroit Free Press
+- Elect Democratic Women
+- Emgage PAC
+- End Citizens United
+- Friends of the Earth Action
+- Justice Democrats
+- JVP (Jewish Voice for Peace) Action
+- League of Conservation Voters Action Fund
+- Metro Detroit Democratic Socialists of America (DSA)
+- Michigan Working Families Party
+- Michigan United Action
+- MI Poder
+- Mothering Justice Action Fund
+- MoveOn
+- National Association of Social Workers – PACE (Political Action for Candidate Election)
+- National Education Association
+- National Nurses United
+- National Organization for Women (NOW) PAC
+- A New Policy PAC
+- NIAC (National Iranian American Council) Action
+- Oakland County Democratic Party
+- PAL PAC
+- Planned Parenthood Action Fund
+- Politivist Action PAC
+- Progressive Caucus of the Michigan Democratic Party
+- Progressive Democrats of America
+- Reproductive Freedom for All
+- SEIU Healthcare Michigan
+- Sierra Club – national
+- Sierra Club Michigan Chapter
+- Sunrise Movement
+- The Arab American Caucus of the Michigan Democratic Party
+- The People’s Coalition PAC
+- Track AIPAC
+- UAW Region 1A
+- United Food and Commercial Workers (UFCW) Local 951
+- UNITEHERE!
+Local 24
+- U.S.
+Campaign for Palestinian Rights Action
+- Vote Mama PAC
+- Wayne County Democratic Black Caucus
+- We the People Action Fund
+- Working Families Party
+- Yemeni American Political Action Committee
+Community testimonies in support of Rashida
+“I support Rashida because she has shown that she actually cares about the needs of her constituents.
+She is not afraid to talk to us directly, listen to our grievances, and take action.
+She continues to work on progressive legislation in Washington, positively impacting the lives of me, my family, and our community.” – Rae, Detroit
+“I am proud to support Rashida in her run for the 12th congressional district.
+Rep.
+Tlaib has always been a fighter for the people and will continue to work on policy that will benefit us.
+From health care to climate change and everything in between, I know we can count on her to be there for us.” – Zahra, Dearborn
+“[During a local strike], Rashida Tlaib was the only elected official who showed up.
+When we were arrested, she stayed with us until we were all released.
+She’s the fighter we need in Congress.
+Also, she totally hugged each one of us and said how proud she was when we stood in the road blocking airport traffic. #BigMomEnergy” – Sara, Southfield
+“When I first met Rashida Tlaib… I knew immediately that here was someone special.
+I am drawn to Rashida because of her unwavering courage… She is Robin Hood, Zorro, and Batwoman—all three without a mask.” – Dennis, Livonia
+“I am thrilled that Rashida is running again and looking forward to working on her re-election campaign.
+I have done wellness check phone calls to her constituents and find they are so grateful that their Congressperson cares about them.
+The service centers throughout the district give her constituents help with cutting red tape and finding resources.
+The fact that she comes home every weekend keeps her in touch with her district, to our advantage.
+Rashida is committed to fighting local problems, like the asphalt plant in Northwest Detroit, as well as nationally for civil rights, the environment, voting rights, taxing billionaires and financial support to bring children out of poverty.
+Rashida Tlaib will have my vote and my work!” – Susan, Detroit
+“I support Rashida because she takes on the real issues affecting our communities and she won’t back down to anyone.” – Janlynn, Detroit
+“I support Rashida Tlaib for Congress because she is among a handful of Representatives standing up to corporate greed and pushing for meaningful legislation that actually benefits working class people.
+She has been consistent in her fights against corporate pollution and exploitation, childhood poverty, and for safe drinking water for all.
+She uses her platform to build a strong community of hard-working people who rally support behind meaningful causes and I’d be proud to have her as my Rep.” – Spencer, Detroit

@@ -1,0 +1,26 @@
+Join the Campaign!
+Canvassing
+Every weekend, we're knocking doors to encourage voters to cast their vote for Ken McCool!
+Is this your first time canvassing?
+All canvassers will meet for a brief training and overview of the script before you go out knocking.
+We also pair all our canvassers up so you'll have a partner the whole time!
+Canvassing is THE MOST impactful thing you can do to help get Ken across the finish line.
+Please sign up and join us!
+Sign up Here:
+Host an Event
+One of Ken's top priorities is holding himself accountable to this district.
+That's why he wants to meet as many people as possible and form those connections even before he gets elected!
+Do you have a group of friends and neighbors that want to meet Ken?
+Let's hold a meet and greet!
+Please fill out the form below and we'll be in touch.
+Get a Yard Sign
+Want to rep the McCool Campaign from your yard?
+We have yard signs!
+We also need help placing signs around the district!
+Want to help us put out signs or get some for you and your neighbors?
+Please fill out the form below and we'll reach out!
+Join Team McCool!
+Want to get involved?
+Please fill out the form and indicate how you'd like to join the team!
+We will reach out to you shortly to get you plugged in.
+Thank you for joining Team McCool!

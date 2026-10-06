@@ -1,0 +1,12 @@
+Press Releases
+Hoboken Mayor Emily Jabbour Endorses Congressman Rob Menendez for Re-Election
+NEW JERSEY – Hoboken Mayor Emily B.
+Jabbour today endorsed Congressman Rob Menendez for re-election in 2026.
+Menendez has worked closely with Jabbour to deliver resources to Hoboken and to protect Hoboken residents from the Trump Administration.
+“Hoboken needs a relentless fighter for our residents in the halls of Congress, and that is exactly what Rob has been since he took office,” said Mayor Jabbour.
+“Rob has brought back millions for our residents, delivering critical funding to help us fight the impacts of climate change.
+He has stood up to the Trump Administration and fought to protect our residents from ICE.
+There is no better choice for Hoboken than Rob and I am incredibly proud to support him for re-election.”
+“It’s been a privilege to work with Emily to deliver results for Hoboken and I am incredibly proud to have earned her endorsement for re-election,” said Congressman Menendez.
+“Since taking office, I have worked to deliver federal funding for projects that improve the lives of our Hoboken neighbors, to make Hoboken more resilient against the threat of climate change, and to fight Trump’s extreme anti-immigrant agenda.
+I am thankful to have a great partner in Emily and look forward to continuing to deliver for Hoboken for another two years.”

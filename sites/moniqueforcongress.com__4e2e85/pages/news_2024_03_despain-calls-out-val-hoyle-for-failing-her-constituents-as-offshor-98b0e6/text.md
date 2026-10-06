@@ -1,0 +1,19 @@
+Program Strongly Opposed by Local Residents, Tribes, Fishermen, Wildlife Conservationists - Hoyle’s Recent Request to BOEM Ignored As Project Moving Ahead Anyway
+Eugene, OR – Oregon Fourth Congressional District Candidate Monique DeSpain called out Congresswoman Val Hoyle’s weak request to the Bureau of Ocean Energy Management (BOEM) to allow more community input, which failed to accomplish any delay or halt to the imminent offshore wind project along the coast near Coos and Curry Counties.
+“Career politician Congresswoman Val Hoyle has blown it once again by failing to demand the pleas of her constituents who strongly oppose the BOEM offshore wind project off of our precious Oregon coast are heard and respected.
+Val made a big deal about requesting 30 more days of public input, but she and our two US Senators are not enough of a big deal in D.C. to make that minor accommodation happen.
+So much for the influence of career politicians,” said Monique DeSpain.
+“Her failure to boldly and unequivocally oppose this project speaks volumes.
+Lacking the sway to even get BOEM to “allow” more phony listening sessions that BOEM and Hoyle weren’t listening to anyway is already bad enough.
+But, given her track record of ignoring the priorities of voters in the 4th District on issue after issue, it stands to reason that she’s actually just fine with this offshore wind debacle and couldn’t care less what the constituents in her district think, want or need.”
+“I am listening to voters all across this district, and they have made it abundantly clear that this Offshore Wind Project poses a danger to fishermen and tribal areas, will harm sea life, is unsafe in severe storms, and stands to lose enormous sums of money for which ratepayers will be left to pay the price, just like similar failed experiments on the east coast.
+I oppose this entire disastrous offshore wind boondoggle from being imposed on the residents and businesses of the coastal communities of the 4th congressional district full stop,” said DeSpain.
+“It’s time to end the billion-dollar boondoggles pushed by radical activists and crony capitalists, imposed by D.C. bureaucrats holding sham listening sessions where career politicians, like Disloyal Val Hoyle, pretend to care while really just giving the powerful special interests in D.C. her loyalty.
+We need new representation who listens and actually hears and then puts the concerns of the people of the 4th District first in D.C.
+As a fighter for transparency and accountability, I will demand an end to the imposition of offshore wind and be a voice for residents, businesses, and stakeholders in my district.
+This is why I am asking voters to join me in holding Disloyal Hoyle accountable by sending her packing and deploying me to Congress in November,” DeSpain added.
+Monique DeSpain is a retired U.S.
+Air Force Colonel, mother of twin boys, and public policy advocate who resides in Eugene, Oregon.
+She is a candidate for the Republican nomination for Oregon’s 4th Congressional District in a bid to unseat incumbent Congresswoman Val Hoyle in 2024 and bring about a safer, more prosperous Oregon.
+Her campaign website is www.MoniqueForCongress.com
+To arrange a candidate interview or obtain additional information about her campaign, please contact the Communications Director, Kevin Hoar, at press@moniqueforcongress.com or call 541-321-6095.

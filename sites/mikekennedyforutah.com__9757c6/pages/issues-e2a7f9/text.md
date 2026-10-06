@@ -1,0 +1,79 @@
+Making Washington Smaller and Utah Stronger
+Mike Kennedy ran for Congress to do the job the right way: follow the Constitution, rein in federal overreach, and stand up for Utah families dealing with higher costs.
+Before Congress, Mike served in Utah’s part-time legislature, where he helped deliver tax relief, balance budgets, and defend individual freedoms.
+That experience carries into how he serves today, focused on doing the work and delivering where it matters.
+Congressman Kennedy has:
+- Passed legislation to strengthen wildfire prevention and protect Utah communities
+- Worked to improve rail safety and protect supply chains that Utah jobs rely on
+- Led efforts to expand energy production and improve permitting so projects can move forward and create jobs
+- Introduced legislation to expand technical education and strengthen workforce pathways
+- Worked to improve healthcare access, especially in rural communities
+- Taken action to protect American research and jobs from foreign adversaries
+- Consistently opposed wasteful spending and federal overreach
+Mike will continue working to lower costs, expand opportunity, and restore a federal government that operates within its proper role.
+Cutting Taxes and Lowering the Cost of Living
+Families across Utah are still feeling the impact of higher prices.
+Before Mike took office, inflation peaked at over 9%.
+Families are still dealing with the effects of that increase today.
+Mike is focused on relief that shows up in paychecks and family budgets.
+Congressman Kennedy has:
+- Supported and helped advance eliminating taxes on tips and overtime so working Utahns keep more of what they earn
+- Supported strengthening the Child Tax Credit and protecting it from inflation
+- Backed a deduction for car loan interest to support working families
+- Worked to expand access to Health Savings Accounts and Flexible Spending Accounts
+- Sponsored the Let’s Get to Work Act to strengthen workforce participation
+Mike has pushed back on spending policies that drive inflation and increase costs because decisions made in Washington affect families here in Utah.
+He will continue working to lower costs and make life more affordable.
+Protecting Taxpayers and Reining in Government
+Washington has a spending problem, and Mike has been clear about that from day one.
+Congressman Kennedy has:
+- Voted against bloated spending bills
+- Opposed policies that expand government without accountability
+- Worked to reduce fraud and abuse in federal programs
+- Pushed for stronger oversight of taxpayer dollars
+- Continued to support term limits for members of Congress and unelected federal bureaucrats
+Mike will continue working to restore discipline, protect taxpayers, and bring government back within its proper limits, with a focus on serving the American people.
+American Energy Independence and Dominance
+Energy policy directly impacts jobs, cost of living, and national security.
+Mike supports an all-of-the-above approach that puts American energy first and protects Utah’s ability to produce.
+Congressman Kennedy has:
+- Worked to expand domestic energy production to support Utah jobs and lower costs
+- Pushed back on federal land decisions that limit access to Utah resources
+- Supported efforts to cut red tape that delays projects and prevents job creation
+Mike will continue working on energy affordability, reliability, and production here at home while strengthening American energy independence and dominance.
+Securing the Border and Enforcing the Law
+Mike supports securing the border, enforcing the law, and protecting our communities.
+Congressman Kennedy has:
+- Supported the Laken Riley Act to strengthen enforcement and protect communities from violent offenders
+- Focused on stopping the flow of fentanyl into Utah communities
+- Supported efforts to strengthen border security and restore enforcement
+- Worked to go after drug cartels and human trafficking networks
+At the same time, Mike believes the system needs to work.
+His father came to this country legally, and he understands the value of legal immigration and doing things the right way.
+Utah has always been a place that welcomes people who come here legally, work hard, and contribute to our country.
+Mike supports fixing our legal immigration system so it is clear, consistent, and fair, while protecting our communities and keeping our nation secure.
+Improving Healthcare Access and Affordability
+As a physician, Mike understands the system from the inside.
+He has worked to improve access to care, especially in rural communities where options are limited.
+Congressman Kennedy has:
+- Supported policies that make it easier to open and sustain rural hospitals
+- Worked to expand telehealth so patients can get care closer to home
+- Supported strengthening Health Savings Accounts to give patients more control
+Mike will continue working to improve access to care while ensuring healthcare decisions are made by patients and doctors, not Washington.
+Defending the Constitution and Standing with Families
+Mike believes the Constitution sets clear limits on federal power, and believes those limits matter.
+Congressman Kennedy has:
+- Defended the right to life, the Second Amendment, and religious liberty
+- Pushed back on federal overreach and efforts to take power away from states and families
+- Supported policies that give parents more transparency and a stronger voice in decisions affecting their children
+As a Utah state senator, Mike sponsored and passed legislation to protect minors from dangerous and irreversible transgender surgeries.
+He took that stand despite intense backlash and did not back down, even when he received threats and his home was vandalized.
+In Congress, he has continued that work by sponsoring the Chloe Cole Act to further protect children with serious, actionable policy.
+Mike will continue defending the Constitution, protecting individual freedom, and standing with families.
+Help put Utah ahead of special interests.
+Mike Kennedy for Utah • 55 N Merchant Street #1324 • American Fork, UT 84003
+Paid for by Mike Kennedy for Utah
+Contributions to Mike Kennedy for Utah are not deductible for Federal income tax purposes.
+Funds received in response to this solicitation are subject to federal contribution limits.
+Contributions from corporations, foreign nationals without green cards, and federal government contractors are prohibited.
+Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation and name of employer for individuals whose contributions exceed $200 in an election cycle.

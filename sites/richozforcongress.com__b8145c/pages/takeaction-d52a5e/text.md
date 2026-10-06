@@ -1,0 +1,1 @@
+“Where there is unity, there is always victory.” — Publilius Syrus “Think GLOBALLY, act LOCALLY!” I am excited to be on this journey of global change WITH ALL OF YOU!” Bartow County Cherokee County Gordon County Pickens County Information regarding data centers.

@@ -1,0 +1,2 @@
+Justin Filip for Congress 8/6/26 Justin Filip for Congress 8/6/26 Endorsement from Kshama Sawant Read More Justin Filip for Congress 3/4/26 Justin Filip for Congress 3/4/26 Who funds you, runs you!
+Read More Justin Filip for Congress 2/27/26 Justin Filip for Congress 2/27/26 The Green Party of the United States Fighting for a Free Palestine Read More Justin Filip for Congress 9/16/25 Justin Filip for Congress 9/16/25 Best of Eugene Weekly Read More

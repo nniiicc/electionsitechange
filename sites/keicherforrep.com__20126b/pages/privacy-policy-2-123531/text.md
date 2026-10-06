@@ -1,0 +1,61 @@
+Privacy Policy
+Introduction
+Welcome to keicherforrep.com (the “Website”), owned and operated by Friends of Jeff Keicher (“we,” “our,” or “us”).
+Your privacy is important to us, and we are committed to protecting your personal information.
+This Privacy Policy outlines how we collect, use, disclose, and safeguard your information when you visit our Website.
+Information We Collect
+Personal Information
+We may collect personal information that you voluntarily provide to us when you:
+- Sign up for newsletters or updates
+- Make a donation
+- Fill out a contact form
+- Participate in surveys or events
+Personal information may include, but is not limited to:
+- Name
+- Email address
+- Postal address
+- Phone number
+- Payment information (for donations)
+Non-Personal Information
+We may also collect non-personal information automatically when you visit our Website, such as:
+- IP address
+- Browser type and version
+- Pages visited
+- Time and date of visit
+- Referring website
+How We Use Your Information
+We use the information we collect for various purposes, including to:
+- Provide, operate, and maintain our Website
+- Improve, personalize, and expand our Website
+- Communicate with you, including responding to your inquiries
+- Process donations and manage our fundraising efforts
+- Send you newsletters, updates, and promotional materials
+- Monitor and analyze usage and trends to improve your experience
+- Detect, prevent, and address technical issues
+Disclosure of Your Information
+We may share your information in the following situations:
+- With service providers and vendors who assist us in operating our Website, processing payments, and conducting our business
+- To comply with legal obligations, such as responding to subpoenas, court orders, or other legal processes
+- To protect and defend our rights and property
+- With your consent or at your direction
+Security of Your Information
+We use administrative, technical, and physical security measures to protect your personal information.
+While we strive to use commercially acceptable means to protect your personal information, no method of transmission over the internet or electronic storage is 100% secure.
+Your Rights and Choices
+You have the following rights regarding your personal information:
+- Access: You can request a copy of the personal information we hold about you.
+- Correction: You can request that we correct any inaccuracies in your personal information.
+- Deletion: You can request that we delete your personal information, subject to certain exceptions.
+- Opt-Out: You can opt-out of receiving promotional communications from us at any time by following the unsubscribe instructions in those communications or by contacting us directly.
+Third-Party Links
+Our Website may contain links to third-party websites.
+We do not control and are not responsible for the content or privacy practices of these websites.
+We encourage you to review the privacy policies of any third-party sites you visit.
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time.
+We will notify you of any changes by posting the new Privacy Policy on this page.
+You are advised to review this Privacy Policy periodically for any changes.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+Friends of Jeff Keicher
+connect@keicherforrep.com

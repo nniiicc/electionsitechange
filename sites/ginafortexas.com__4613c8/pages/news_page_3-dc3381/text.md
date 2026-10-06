@@ -1,0 +1,3 @@
+STATEMENT: Hinojosa on Abbott’s ERCOT CEO’s Salary Doubling While Texans Suffer Skyrocketing Electricity Bills
+Press Release
+Austin, TX – Today, Democratic nominee for Texas Governor Gina Hinojosa released the following statement after the Electric Reliability Council of Texas (ERCOT) board voted to give themselves a 30% raise and double their CEO’s salary: …

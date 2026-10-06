@@ -1,0 +1,3 @@
+Feb 20, 2020
+Article: “Democrats hold press conference about property tax bills not being heard in the Legislature” “We need a cut to property taxes, we need it badly, but we don’t need a cut to vital services,” Rubel said.
+“The time for deflection and...

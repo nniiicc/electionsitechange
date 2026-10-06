@@ -1,0 +1,19 @@
+NY22: Local, Statewide Police Groups Endorse Claudia Tenney
+13 Police Groups in NY22 Join NY Police Conference to Back Tenney
+NY22 –Today, thirteen (13) local police associations and the statewide Police Conference of New York, with over 200 local police associations across the state, endorsed Claudia Tenney for Congress in New York’s 22nd District.
+The Police Conference represents over 25,000 members across New York including 13 local member organizations in the 22ndDistrict as well as seven regional organizations and the Retired Police Officers Association of New York.
+[See Full List by NY22 County Below]
+A staunch supporter of the police, Tenney is overwhelmingly supported by police organizations across the state including local numerous sheriffs, the Sherrill and Camden police associations, the NYPD’s Sergeants Benevolent Association, the New York State Troopers PBA, and the New York State Police Investigators Association.
+Claudia Tenney said: “Law enforcement, who so ably and bravely protect and serve our communities, deserve our support.
+It is a privilege to have theirs.
+The Police Conference of New York represents thousands of police officers and I am deeply grateful for their support.
+I will never vote to defund our police or undermine their noble profession.I will always stand up and fight for our law enforcement to ensure they get the resources, training, and support they need and deserve.
+I appreciate their great sacrifices and thank the Police Conference of New York, our communities’ police leaders and their associations for their support.
+I will always “Back the Blue.”
+The Police Conference of New York and its NY22 affiliates include:
+Broome County: Binghamton PBA, Endicott PBA
+Herkimer County: Frankfort PBA, Herkimer PBA, Dolgeville PBA, Ilion PBA, Little Falls PBA, Mohawk PBA
+Oneida County: Rome PBA, Utica PBA, Vernon PBA
+Chenango County: Norwich PBA
+Madison County: Oneida PBA
+Statewide: Retired Police Officers Association of New York, Police Conference of New York

@@ -1,0 +1,16 @@
+Our Endorsments
+- Democratic Party
+- Connecticut American Federation of Labor and Congress of Industrial Organizations
+- Service Employees International Union
+- CT Building Trades
+- Working Families Party
+- Civil Service Employees Association Service Employees International Union
+- American Federation of State, County and Municipal Employees
+- Moms Demand Action
+- American Federation of TeachersNew List Item
+- The 4Cs SEIU Local
+- Connecticut Citizen Action Group
+- Reproductive Equity Now
+- Young Democrats of Connecticut
+- 32BJ Service Employees International Union
+- 1199NE Service Employees International Union

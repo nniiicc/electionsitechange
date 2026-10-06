@@ -1,0 +1,20 @@
+About Me
+I’m Hannah.
+I’m a renter in First Hill with my partner Kamau and am the proud daughter of a Filipina immigrant.
+My mom and her family came to the U.S. in the late ‘60s from Tuguegarao, a city in the Cagayan Province of Luzón in the Philippines.
+Like so many immigrant families scratching out a living, she shared a two-bedroom house with her four siblings, my Lolo and Lola (grandparents), and two other families of cousins, aunts, and uncles.
+My dad’s family has called Washington home for generations, as farmers and educators in Eastern Washington, making my love for this state one that has lasted a lifetime.
+I grew up regularly visiting my grandparents in Walla Walla and my relatives in Ritzville and Spokane, which drew me to the opportunity to attend college at Whitworth University in Spokane, where I received dual degrees in Political Science and Spanish.
+For the better part of a decade living in Seattle, I’ve dedicated my career to fighting alongside workers to make life better for everyone.
+Most recently, I served as the communications director for Working Washington, a statewide organizing home for building worker power especially in underpaid and underrepresented industries.
+In this role, I helped lead successful campaigns to protect fair pay for gig workers, strengthen labor standards, raise wages, and ensure domestic workers, farm workers, and other workers who have been left out of labor rights receive the same protections all of us enjoy.
+Over four years in the Washington State Legislature as a Legislative Aide for State Representative Larry Springer and Communications Specialist for the Senate Democratic Caucus, I’ve worked alongside legislators to win taxes on the rich, make Washington’s economy fairer, expand healthcare access, make meaningful progress towards climate justice, and ensure everyday people know how to engage and shape state policy.
+Outside of work, I’ve been a member of The Urbanist Elections Committee and the ProChoice Washington PAC board for the past four election cycles, backing candidates for public office who champion policies to make our state more affordable, more connected, and more healthy.
+As a renter, a frequent transit rider, a cyclist, and a professional photographer, my experiences have shaped my connection to and love of the 43rd district’s community of urbanists and artists.
+I am also proud to be a queer, multiracial woman who found my way to the 43rd district in part because of the vibrant and inclusive community that makes so many people like me feel seen and safe.
+My lived and professional experiences have reinforced and strengthened my core values:
+- I believe in taking on the corporations that try to rig the rules at our expense and will never back down from any opportunity to organize with and uplift everyday people.
+- I believe that equitable access and transparency is a non-negotiable part of a state government that truly serves us.
+- I believe the transformative change we want is only possible through broad organizing and community building that includes renters, workers, immigrants, LGBTQ+ people, and everyone in our community.
+The Fighting 43rd has always shown what a fighting spirit looks like—something we need now more than ever if we’re going to position Washington against a federal government giving handouts to billionaires’ corporations while attacking the trans community, immigrants, women and workers.
+We can do better than catering to corporations in our state, and nowhere is that leadership more possible than the 43rd district.

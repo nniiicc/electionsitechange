@@ -1,0 +1,26 @@
+Meet Ricky
+- Married to Cynthia for over 34 years, 2 adult children
+- Executive Vice President, Bank OZK
+- Operator of his family hay and cattle farm
+- Former President of Cabot School Board, Member 2012-2017
+- Former Secretary of Cabot Chamber of Commerce
+- Former Board Member of Lonoke County CASA
+- Founding Board Member of Keep the Faith Foundation
+- Active member of Little Rock Air Force Base Community Council
+- Chair of Senate Transportation and Technology Committee
+- Former Chair of Senate Insurance and Commerce Committee
+- Vice Chair of Arkansas Legislative Council Personnel Committee
+- Co-Chair of the Advanced Communications and Information Technology Subcommittee
+- Former Chair of the Game & Fish and State Police Subcommittee
+- Former Vice-Chair of Senate Agriculture, Forestry, and Economic Development Committee
+- Member of Senate Public Health, Joint Budget, and Legislative Audit Committees
+- Former Senate Majority Whip
+As our State Senator since 2018, Ricky has remained committed to CONSERVATIVE VALUES
+- Has a 100% family values, pro-life, and pro-gun voting record
+- Voted for more parental decision making in education and increased opportunity in workforce training
+- Invested in economic development and infrastructure upgrades across the state
+- Helped pass the largest income tax cut in Arkansas history
+- Continues to support protecting the well-being of our veterans and senior citizens
+- Reorganized state government to make it more efficient and easier to catch fraud, waste, and abuse
+- Improved Veterinary telemedicine and Vet Tech options to help livestock producers
+- Sponsored legislation that allows Military Veterans to use their service towards accreditation and licensing in certain fields of work

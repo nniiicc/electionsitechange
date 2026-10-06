@@ -1,0 +1,29 @@
+From Workforce Shortages to Prescription Drug Costs, Rob Sand Outlines Health Care Priorities Across Iowa
+DES MOINES, IA – Yesterday, following the launch of his “A Healthier Iowa for All” plan, candidate for governor Rob Sand traveled to Dubuque to tour the University of Dubuque’s John and Alice Butler College of Osteopathic Medicine alongside Dubuque Mayor Brad Cavanagh and university leadership.
+During the tour, Rob talked about the significant economic impact the new medical school will have on the region and on Iowa as a whole, as well as the role it plays in addressing the state’s growing health care workforce shortage and supporting long-term economic development.
+The new medical school represents a real opportunity to address Iowa’s growing physician shortage — the state currently ranks 44th in the nation and dead-last for OB-GYNs per capita.
+Rob emphasized that strengthening Iowa’s health care pipeline is essential to improving access to care across the state, particularly in rural communities.
+As governor, Rob would veto any culture war bills that further target providers, make Iowa a less welcoming place to live, and threaten access to surrogacy, contraception, and IVF, as part of his “A Healthier Iowa for All” plan.
+Learn more about Rob’s tour of the University of Dubuque medical school below:
+WATCH:
+KCRG: Touring Iowa’s Next Medical School
+KWWL: Construction Underway at UD New Medical School
+READ:
+Dubuque Telegraph-Herald: UD shows off progress on planned medical school, hosts gubernatorial candidate
+- University of Dubuque officials on Thursday brought together university and community leaders — as well as an Iowa gubernatorial candidate — to show off the under-construction site of their planned medical school.
+- “When you look across the state, you’re going to have a lot of different opportunities,” Sand said.
+“… We’ve seen a lot more of the Legislature telling folks locally what to do.
+I’m not a believer that’s the way to get things done.
+Folks locally are going to know best their own strengths, their own weaknesses.”
+- Sand also underscored the importance of small businesses in creating a vibrant downtown and said he will focus on reforming the state’s framework around small businesses to better support them in opening their doors.
+- “We need to do a better job of listening to health care providers,” he said.
+“They will tell you, ‘We’ve had to take out loans in order to stay in operation because our payments are so slow.
+We’ve had to hire people who work full time just to argue to get paid for the money that we’re owed.’ Those are the things that increase health care costs for everyone in the state.”
+Afterwards, Rob traveled to Waterloo, for a press conference at Greenwood Pharmacy and Compounding Center focused on the need for greater accountability in Iowa’s prescription drug system.
+He was joined by pharmacists and local residents who shared their health care experiences, particularly with Pharmacy Benefit Managers (PBMs), and called for action to lower prescription drug costs for Iowa seniors and families.
+Rob also renewed his call for reversing the privatization of Medicaid, a day-one priority for him as governor after a decade of disaster and denied care.
+Learn more about Rob’s press conference in Waterloo below:
+Cedar Valley Now: Rob Sand Visits Waterloo, Speaks On Rising Drug Cost Concerns
+- Democratic gubernatorial candidate Rob Sand spoke out on prescription drug accountability and the role of pharmacy benefit managers during a stop at a Waterloo pharmacy Thursday.
+He said continually rising costs of prescription drugs and additional hidden costs hit hard for low-income individuals and seniors on fixed incomes.
+- Sand says that’s all part of his plan toward reversing the privatization of Medicaid, and cracking down on Pharmacy Benefit Managers, if elected Governor this fall.

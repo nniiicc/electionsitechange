@@ -1,0 +1,83 @@
+top of page
+SESSION 2026
+HOUSE BILLS SIGNED INTO LAW
+Prime Sponsor HB26-1340 Revegetate or Dry Farm Formerly Irrigated Agricultural Land
+● More than 100,000 acres of irrigated farmland in the Arkansas River Basin have been permanently dried up.
+● Supports restoration and management of formerly irrigated farmland, protecting
+neighboring farms, counties, and rural communities from dust, erosion, and noxious weeds when ag water is permanently transferred.
+● Permanently dried-up farmland in the Arkansas River Basin would be required to be revegetated or converted to dryland farming, unless exempted because the land will be re-irrigated or developed.
+● A neutral third-party expert conducts annual field reviews and reports progress.
+● Assists in adaptation to changing water availability while improving soil health.
+Prime Sponsor HB26-1336 Increase Access to Pharmacy Services
+Third Reading Vote: Pass (54-10; Bottoms, Bradley, Brooks, DeGraaf, Gilchrist, Hamrick, Lieder, Luck, Richardson, Weinberg)
+● Under current Colorado law, pharmacists are already allowed to administer CLIA-waived diagnostic tests to patients of any age.
+However, there was an exception for children under 12 years of age.
+● Lowers the age limit to 5 years and up.
+● Expands access to pharmacy and healthcare services by allowing pharmacists to provide care they are already trained and authorized to deliver within their scope of practice.
+● Improves access to underserved and rural communities
+● Allows Medicaid reimbursement for qualifying pharmacist services
+Prime Sponsor HB26-1328 Medicaid Nonemergency Medical Transportation
+Third Reading Vote: Pass (56-9; Bottoms, Bradley, Brooks, DeGraaf, Keltie, Luck, Slaugh, Weinberg, Woog)
+● NEMT is a Medicaid-covered benefit that provides transportation to medically necessary appointments.
+Improves transportation access for Medicaid patients going to appointments.
+● This bill reclassifies and creates a new oversight structure for nonemergency medical transportation.
+● Focuses on rider and provider input, creating an advisory board to work with NEMT brokers on rules and processes.
+● Let patients schedule one-time or recurring rides and request specific providers when feasible.
+● This bill allows audits of providers to ensure compliance when funds are available.
+● Allows for federal funding support, opening the door for a funding match of up to 90%.
+● Net zero impact on state expenditures.
+Prime Sponsor HB26-1067 Diseased Livestock Indemnity Fund
+● Modernizes the diseased livestock indemnity fund to address emerging animal health threats.
+● Under current law, livestock owners may receive compensation from the Diseased Livestock Indemnity Fund after their herd is required to be sold for slaughter or destroyed because it was exposed to a contagious disease
+● Expands the allowable uses of money in the fund to allow the Commissioner of
+Agriculture to use the fund to prepare and respond to infectious diseases and contaminants that threaten livestock.
+● Renames the fund to the Livestock Health Preparedness, Response, and Diseased Livestock Indemnity Fund.
+Prime Sponsor HB26-1198 Access to Veterinary Care
+● Expands access to veterinary care by allowing DORA to expedite the receipt of a license by endorsement for veterinarians and veterinary technicians
+● Allows unused, unexpired prescription animal drugs to be donated to veterinarians or animal shelters under set safeguards.
+Prime Sponsor HB26-1338 2026 Water Projects Bill
+● Annual DNR water projects bill that authorizes funding from the Colorado Water Conservation Board for statewide water infrastructure and conservation projects
+● Strategically deploys dedicated water funds for monitoring, forecasting, storage, restoration, and state water plan implementation, while strengthening Colorado’s position in interstate river negotiations and supporting municipal and agricultural water reliability.
+● Includes a total of nearly $69M in funding for CWCB Programs and Projects, including:
+$37.7M in Water Plan Grant funding, $2.5M for Water Forecasting, $1.4M for Water Plan Action Items, and $5M for Wildfire Ready Watershed Efforts.
+● Authorizes CWCB to make loans from the Severance Tax Perpetual Base Fund of $151,500,000 to the City of Fort Collins for the Halligan Water Supply Project, and $20,166,670 to the Lower Latham Reservoir Company to increase the storage capacity of the Jurgens reservoir.
+Has zero impact on the General Fund.
+Prime Sponsor HB26-1304 History Colorado to Dispose of Mineral Rights
+● Authorizes History Colorado to sell mineral rights and nonparticipating royalty interests it holds in Weld County and West Virginia.
+● History Colorado is not in a position to extract minerals or facilitate mineral extraction, so they found the best course of action would be to sell the rights.
+● Anticipates $700-$800,000 from the sale with the proceeds being used for one-time strategic investment in capital improvements to retrofit the collections care facility.
+SENATE BILLS SIGNED INTO LAW
+Prime Sponsor SB26-121 Overtime Threshold for Agricultural Employees
+● Raises the overtime threshold for agricultural workers from 48 hours to 56.
+● Allows employees to maximize their hours while giving employers the ability to keep their farm running.
+● Includes exceptions for decision-making managers as well as family members of the employer, and open-range livestock workers.
+● Increases penalties for an agricultural employer who commits wage theft
+● The agriculture industry is unique as it is subject to weather, growing seasons, market conditions, and price fluctuations.
+Prime Sponsor SB26-122 - Fuel Standards & Liability of Petroleum Storage Tank Fund
+● Is a modernization bill that updates Colorado law to: Increase the Petroleum Storage Tank Fund per-occurrence liability cap and provides measured flexibility in implementing ASTM fuel standards.
+● Allows an owner or operator to exceed the 2.5M Cap when approved by the Director of the Division of Oil and Public Safety and the Petroleum Storage Tank Committee for rare, high-cost cleanups.
+● Bill ensures standards are aligned with rising cleanup costs.
+Prime Sponsor SB26-144 Modify Property Tax Lien Sales Treasurer Deeds & Fees
+● Makes changes to the requirements and processes for holding public auctions and issuing treasurer's deeds that were established in House Bill 24-1056.
+● Does so to ensure constitutional compliance with Tyler v.
+Hennepin County (2023)
+● Models the new process on the public trustee foreclosure process while providing clarity on certain statutory definitions.
+● Provides a clear and workable process for counties, restores statutory consistency, and does not expand county authority or increase taxes
+Prime Sponsor SB26-060 Mental Health Training in Concussion Education
+● Bill was inspired by the life of Alyssa Peterson who experienced multiple head injuries from playing sports and lost her life to suicide.
+● Expands concussion education to include the connection between concussions and mental health by requiring youth coaches to complete a biennial mental health education course.
+● Teaches about possible side effects and symptoms as well as requires coaches to notify parents or guardians to advise they see a healthcare provider for a suspected concussion.
+Prime Sponsor SB26-026 Weight for Vehicles with Child Restraint System
+● Child safety bill that fixes a loophole in the motor vehicle laws
+● Replaces the gross vehicle weight of less than 10,000 pounds with a gross vehicle weight rating of less than 16,000 pounds for child restraint regulations.
+Prime Sponsor SB26-088 Funding for Memorials on State Capitol Grounds
+● Honors our veterans by ensuring that our monuments to them are in the best condition possible to inspire the next generation.
+● Transfers management of the Colorado Veterans Monument Preservation Trust Fund to History Colorado.
+● Expands uses of the fund to include maintenance, repair, and enhancement of all Capitol and Lincoln Park memorials.
+● Requires at least five percent of each new memorial’s budget to be allocated to lifetime upkeep.
+Prime Sponsor SB26-157 Determination of Town Abandonment
+● Addressed the problems the town of Hartman faced to expedite the abandonment process by bringing a bill specifically tailored towards the town's situation.
+● Allows application for abandonment without the 5-year waiting period.
+When a town has no board of trustees or town clerk, when a town is unable to hold an election, and when a town owns or operates infrastructure critical for the treatment or delivery of water to residents.
+● Authorizes CDPHE to transfer up to $100,000 from the small communities water and wastewater grant fund to CDPS to cover the cost of operation and maintenance of a town's water system if the water system is likely to fail.
+bottom of page

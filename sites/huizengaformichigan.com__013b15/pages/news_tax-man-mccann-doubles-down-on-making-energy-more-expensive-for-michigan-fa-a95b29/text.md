@@ -1,0 +1,5 @@
+HOLLAND, MI — In an interview with Fox News yesterday, “Tax Man McCann” doubled down on his support for radical energy mandates that will jack up household utility bills on Michigan families by nearly $3,000 a year.
+When pressed on his vote for Michigan’s “Green New Deal” – a plan projected to spike average utility bills by $2,746 annually – McCann defended the crushing price hikes saying, “These policies will safeguard public health and better protect our environment now and for future generations.”
+In other words: no regrets for making families pay through the roof for energy, as long he can keep pocketing that sweet, sweet cash.
+“Tax Man McCann voted to double energy bills, voted to allow energy companies to jack up your rates, and now has the nerve to tell Michigan families that paying nearly $3,000 more a year is doing them a favor,” said Calvin Moore, spokesperson for the Huizenga campaign.
+“Southwest Michigan doesn’t need an out-of-touch career politician like Tax Man McCann who has raises rates, fees and taxes every chance he gets.”

@@ -1,0 +1,1 @@
+❋ Early Vote: May 18-22 | Election day: May 26, 2026 | Pay Rate Starting at $12 per hour SIGN UP TO BE A POLL WORKER TODAY NEXT ELECTION: RUN OFF EARLY VOTE: MAY 18-22, 2006 ELECTION DAY: MAY 26, 20026 Call or Text (956) 339-5979 or email info@celestefortexas.com Register Here Sign Up Here

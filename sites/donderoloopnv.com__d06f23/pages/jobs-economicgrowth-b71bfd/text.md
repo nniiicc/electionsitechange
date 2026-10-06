@@ -1,0 +1,20 @@
+Jobs and Economic Growth
+Marilyn wants to ensure Nevada continues to protect its reputation as an attractive place to do business.
+While tourism has always been an economic driving force in Nevada, Marilyn believes that we need to be resilient and diversify our economy by recruiting more types of businesses, such as clean energy and technology companies.
+That’s why in the State Senate, Marilyn voted to make investments in Nevada’s green energy economy, supplying the state with its largest investment in Electric Vehicle (EV) charging stations and reliable high-voltage transmissions.
+This $100 million investment in EV infrastructure will ensure that all corners of Nevada are accessible to the vehicles of the future.
+The investment in high-voltage transmission will also lead to the creation of thousands of good-paying jobs.
+Ensuring Nevada comes back stronger from the pandemic is among Marilyn’s top priorities.
+She knows that working families and small businesses were hit especially hard.
+That’s why Marilyn fought to ensure small businesses received over $100 million in grants to keep their doors open and why she voted to invest $54 million into overhauling DETR, so out-of-work Nevadans can access the benefits they deserve.
+Marilyn also voted to ensure hospitality workers laid off because of the pandemic have the right to return to their jobs at the same pay and seniority level as before the pandemic and that all Nevadan’s receive paid time off to get their COVID-19 vaccine.
+Marilyn knows that Nevadans find dignity and purpose in their work.
+She also knows that anyone willing to work a 40-hour week shouldn't have to struggle to make ends meet.
+That’s why Marilyn voted to increase the minimum wage to $12 an hour by 2024 and make sure that all Nevadans willing to work hard and play by the rules have an opportunity to succeed.
+Marilyn knows that Nevada’s economy should work for all of us, not just those at the top.
+That’s why she has a track record of fighting for workers.
+Marilyn voted for Nevadans to receive 40 hours of paid time off each year, to ensure contract employees get paid in a timely manner, and to prohibit insurers from reducing or restricting compensation to disabled employees based on income they earn.
+Marilyn knows that there is more work to be done and that is why she wants to continue to serve in the State Senate.
+In addition to bringing new business to Nevada, Marilyn wants to make sure that the businesses already here are able to grow.
+She has always fought for Nevada’s workers, their wages, and rights.
+Marilyn remains committed to growing Nevada’s economy and creating more jobs that support Nevada’s working families.

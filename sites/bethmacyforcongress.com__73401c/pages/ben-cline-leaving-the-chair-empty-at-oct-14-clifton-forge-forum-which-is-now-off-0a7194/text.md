@@ -1,0 +1,3 @@
+Ben Cline, who just last week said his Democratic opponent, Beth Macy, “wanted the headline ‘debate me’ more than she wanted the night itself,” apparently wanted the headline “she didn’t show” more than he wanted the debate itself.
+This is our conclusion today after being informed by the organizer of a debate that was to be co-hosted by Mountain Gateway Community College and the Alleghany Highland Chamber of Commerce is now off, because Cline, the MAGA Republican incumbent congressman in the Sixth District, never responded.
+Read the full article here: https://augustafreepress.com/news/ben-cline-leaving-the-chair-empty-at-oct-14-clifton-forge-forum-which-is-now-off/

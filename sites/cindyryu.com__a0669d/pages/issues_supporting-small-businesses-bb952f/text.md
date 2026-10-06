@@ -1,0 +1,11 @@
+Cindy believes in
+Supporting Small Businesses
+I am the current Chair of the Economic Development, Technology, and Veterans' Affairs Committee and have been a lifelong supporter of Washington's small businesses.
+I understand that thriving small businesses are the backbone of our local economies, creating jobs, strengthening neighborhoods, and keeping our communities vibrant.
+Early in my career, I introduced HB 1916, which was passed unanimously in the House and Senate, to help small businesses compete on a larger scale and export goods nationally and internationally.
+In 2023, I introduced HB 1258, which also passed the House and Senate unanimously.
+This law invests tax dollars collected from restaurants, car rentals and lodging into state tourism.
+In return, this increased advertising helps drive business toward these same establishments, growing jobs and stimulating our local economies.
+I have utilized my leadership positions in the State House to make sure we invest in our communities' small businesses and I've led efforts to break down barriers for women, people of color, and other marginalized communities to start their own businesses.
+In 2026, I voted for the millionaires tax, which will double the Small Business Tax Credit and expand the Working Families Tax Credit.
+In the State Senate, I will make sure our government helps small businesses succeed by providing tax credits, trade opportunities, and community investment without compromising on consumer and worker protections.

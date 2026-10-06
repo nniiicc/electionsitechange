@@ -1,0 +1,10 @@
+Sabato’s Crystal Ball Shifts Governor’s Race in David Jolly’s Direction, Now Rates Race ‘Leans Republican’
+MIAMI, FL (September 22, 2026) – Sabato’s Crystal Ball, a nationally recognized leading race-rating organization, has just shifted Florida’s governor race in David Jolly’s direction and now labels the race “Leans Republican.
+MIAMI, FL (September 22, 2026) – Sabato’s Crystal Ball, a nationally recognized leading race-rating organization, has just shifted Florida’s governor race in David Jolly’s direction and now labels the race “Leans Republican.” The move comes less than a week after Inside Elections also moved the race into lean territory, a sign the race is seen as significantly competitive.
+The outlet noted “close polling, a bad political environment, and possible exhaustion with long periods of Republican leadership” as reasons behind the notable shift.
+In recent weeks, the surge in momentum for David Jolly has become undeniable.
+Cook Political Report has also shifted the race in favor of the ticket, and Decision Desk HQ noted that Jolly was gaining ground each week, had taken the lead in the polling average, and the race was nearing the “toss-up” range.
+“While another national ratings organization has once again shifted this race in David’s direction, he is keeping his head down and focusing on the change agenda that got him here: housing, healthcare, education, and stopping data centers,” said Jolly-Graham campaign Senior Advisor Mark Riddle.
+“Our campaign has built a strong coalition, and that support will only grow as Floridians learn more about why David is the clear choice in this race.”
+Jolly, a fifth-generation Floridian, is running a change campaign focused on lowering costs, stopping data centers, and ending the divisive culture wars that have broken Florida’s politics.
+His opponent, Byron Donalds, is fully aligned with Donald Trump’s disastrous economic decisions and controlled by the special interests that have sent the costs of energy, insurance, utilities, and healthcare soaring.

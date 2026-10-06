@@ -1,0 +1,48 @@
+I serve on the following committees in the WI Assembly:
+Joint Finance Committee
+Speaker’s Task Force on Administrative Rules
+Bills that I authored or co-authored that were signed into law in the 2025-2026 Legislative Session:
+*Extending the statute of limitations on 2nd degree sexual assault
+*A bill to help house homeless veterans in our state
+Here are some of the bills that I authored or co-authored in the 2025-2026 Legislative Session that were either vetoed by the Governor or did not pass both houses:
+*A bill requiring local approval for wind and solar projects.
+*A bill to give businesses a refundable tax credit for expenses that they incurred in helping their employees with childcare costs (passed both houses but vetoed by Governor Evers).
+*A bill to exclude agricultural chemical warehouses from sprinkler systems as agricultural chemicals cannot have water applied to them in case of fire
+*A bill to address extraterritorial jurisdiction that villages and cities have over towns
+Bills that I authored that were signed into law in the 2023-2024 Legislative Session:
+*100-day prescription Seniorcare bill which aids seniors and taxpayers by reducing trips to the pharmacy and cutting dispensing fees.
+*Institutions for Mental Disease bill which will provide over 1200 beds for our severely mentally ill, destigmatizing mental health and prioritizing access to behavioral health care.
+*Mainstreet Housing bill which created a revolving loan fund for the rehabilitation of mainstreet housing.
+Bills that I co-authored that were signed into law in the 2023-2024 Legislative Session:
+*A bill expanding the child and dependent care tax credit.
+*An assignment of already allocated funds for healthy initiatives from a previous legislative session that was never used and directed the use of the money to support WI agriculture and SNAP recipients at the same time through a double dollar program that encourages the healthy consumption of more produce.
+These are some of the bills that I co-sponsored that were signed into law or were passed by the citizenry as Constitutional Amendments in the 2023-2024 Legislative Session:
+*4 workforce housing bills that improved certainty and predictability in the housing development process, created an infrastructure development revolving loan fund, created a commercial-to-housing conversion revolving loan fund, allocated funds to WHEDA to ensure qualified applicants receive their approved loans.
+*Shared Revenue bill that increased funding for our cities, towns, and villages; schools (both public and school choice); correctional officer increases; district attorney and public defender increases; and police, fire, and EMS increases.
+*Agricultural Roads Improvement bill that allocated 150 million dollars to improve agricultural roads.
+*Constitutional Amendment bill that allowed Wisconsinites to vote on whether Zuckerbucks (3rd party funding infused into our election process) should be prohibited.
+Wisconsinites approved the measure in April 2024 which now forbids nonprofits funded by special interest billionaires to infuse money into government-funded election administration.
+Here are some of the bills that I authored or co-authored that were either vetoed by the Governor or did not pass both houses:
+*A bill requiring local approval for wind and solar projects.
+*A bill to address the lack of EMS personnel that Wisconsin has.
+*A Refugee Resettlement Notification bill that would require that local elected officials be notified before refugees are brought to their locale so local governments are not blindsided by suddenly needing to provide housing, food, medical care, and schooling without having budgeted for it.
+*An urban-towns bill that would address the extra-territorial zoning issues that towns face.
+*9 childcare bills targeted to provide workable solutions for the childcare crisis in Wisconsin.
+*Several childhood obesity bills targeted to address the issue.
+*A parental rights bill.
+*Several bills to reduce human trafficking in the state of Wisconsin.
+Here are some of my budget motions that were approved and included in the biennial budget:
+*Increased aid to farmers through dairy and meat processing grants, cover crop aids
+*Expansion of the export of Wisconsin agricultural products
+*Transportation aid increases to villages and cities (my budget motion to increase the general transportation aids to towns was vetoed by the Governor)
+*Aid to the Family Resource Centers of Wisconsin and ADRCs
+*Aid to the Lake District of Altoona for a sediment collector for the Eau Claire River.
+I received awards this session from:
+*The Dairy Business Association for outstanding legislative work
+*The William Steiger Award from the Wisconsin Community Actions Program (WISCAP) in recognition of a Republican legislator for outstanding support of Community Action and low-income families
+*The 3rd Congressional District Republican Caucus Legislator of the Year Award
+*Was chosen to attend the Bowhay Institute for Legislative Leadership Development, as well as the State Legislative Leaders Foundation Emerging Legislative Leaders Training.
+*Appointed to serve on the Midwest Council of State Government’s Energy committee and the American Legislative Exchange Council’s Energy committee.
+*Wisconsin Towns Association 2023-2024 Friend of Towns Award for steadfast dedication to town government, local leadership, and empowering citizens to unlock the potential of democracy.
+*Working for Wisconsin Award from Wisconsin Manufacturers and Commerce
+A full listing of the bills that I have authored, co-authored, and co-sponsored is found here.

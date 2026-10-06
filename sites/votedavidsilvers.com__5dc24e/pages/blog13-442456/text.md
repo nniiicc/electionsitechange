@@ -1,0 +1,25 @@
+Genetic counselors now are licensed professionals in Florida, and lives will be saved ANOTHER VIEWPOINT
+South Florida Sun-Sentinel
+July 26, 2021 Monday
+1 Edition
+This legislative session, I had the honor to sponsor and pass the Genetic Counseling Patient Protection Act, which will improve Floridians’ access to critical health care services as well as access to workforce opportunities in a rapidly growing career field.
+Genetic counselors are highly trained medical professionals who play an important role in our current era of health care as the demand and complexity of genetic testing continues to grow.
+They provide an invaluable service to families who may be impacted by cancer, hereditary genetic challenges, or any growing number of diseases that are influenced by genetic factors.
+They identify risk levels of individuals and their family members for certain disorders or diseases; communicate appropriate next steps, including whether to perform genetic testing; ensure that the correct genetic tests are ordered; investigate information on the genetic variations present; interpret test results and information about the disorder; analyze inheritance patterns to determine risks of recurrence and review available options with the family.
+Genetic counselors also provide supportive counseling to families to cope with diagnoses and make major medical decisions.
+They serve as important patient advocates, ensuring that those under their care are connected to appropriate services.
+They serve as educators and resources for other health care professionals as well as the public.
+Why is this important?
+If a patient is incorrectly told they are at a certain risk level, they may not act to prevent further complications for themselves or their families, or they may go through with a life-changing surgery that may be unnecessary.
+They may not be properly diagnosed and, as a result, go untreated or unsupported.
+They may run into greater barriers to accessing preventive screenings.
+To give an idea of how effective genetic counselors are, studies have shown genetic counselors can save hospital systems, on average, up to $50,000 per month with the appropriate use of genetic testing.
+Despite being widely used, genetic counselors were not recognized as licensed health professionals in the state of Florida, severely restricting access to their services for Florida patients.
+As a result, Florida has one of the lowest genetic counselor-to-patient ratios in the country and, by far, the lowest among the 10 most populous states.
+This is personal to me – several generations of my family have been directly impacted by cancer, breast cancer in particular.
+After consulting with several genetic counselors regarding the lack of access for Floridians, I felt it was imperative to help create this new state licensure.
+Having greater access to licensed genetic counseling will help people get the information they need sooner, so they can address whatever ailment they may be predisposed to, whether it is a BRCA gene mutation that can lead to breast cancer or being a carrier of the Tay-Sachs disease.
+The Genetic Counseling Patient Protection Act establishes state licensure for those providing genetic counseling services, allowing them to be recognized health care providers in Florida.
+This will not only keep and grow our skilled workforce in the state, it will ensure better access to a critical health care service for Florida’s families.
+I am proud to say that the governor signed this into law this past June, and it went into effect July 1, ushering in a new health care field that hopefully will save and improve many lives.
+David Silvers is the state representative for District 87, which includes parts of Palm Beach County.

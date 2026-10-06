@@ -1,0 +1,25 @@
+Kimberly Overman
+for Congress
+Florida District 12
+Endorsement
+Home » News & Events » Endorsements » Endorsements: Florida Democratic Agricultural Caucus (FDAC) Endorses Kimberly Overman
+FLORIDA DEMOCRATIC AGRICULTURAL CAUCUS
+ENDORSES
+KIMBERLY OVERMAN FOR US HOUSE OF REPRESENTATIVES, DISTRICT 12
+Kimberly Overman has earned the endorsement of the Florida Democratic Agricultural Caucus, awarded after a detailed questionnaire on rural communities, food security, farm labor, land preservation, and climate resilience.
+The connection between agriculture and the grocery bill is direct: decisions made in Congress shape what families pay at checkout and whether Florida farms can stay in business.
+Kimberly is running to keep food affordable and healthy, protect agricultural land from sprawl, and address the nutrient pollution driving the algae blooms and red tides that damage both our farms and our coastline.
+###
+Media Contact:
+Overman for Congress – Florida District 12
+813-720-7719
+4610 N Central Avenue
+Tampa, FL 33603
+Vote@kimberlyoverman.com
+Fuel a campaign powered by people, not special interests.
+Your support helps us connect with voters, grow our movement, and deliver real change.
+Chip in today to help Kimberly fight for Florida’s families and future.
+This movement starts
+with you.
+Whether you can knock doors, make calls, or share our message online—there’s a place for you on Team Overman.
+Sign up and help us bring integrity and results back to Congress.

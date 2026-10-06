@@ -1,0 +1,16 @@
+New Mexico House District 43 encompasses all of Los Alamos County and areas in Sandoval, and Santa Fe Counties.
+It hosts one of the largest employers in the state, Los Alamos National Laboratory, an internationally recognized scientific and national security institution whose origins date back to the Manhattan Project.
+The district includes the charming village of Jemez Springs, the historic communities of La Cienega and Pena Blanca.
+The district is large and diverse, presenting a wide range of issues: rural economic development, broadband connectivity and sustainable
+infrastructure, rural health care, and environmental clean-up and safety, and educational adequacy.
+Historic acequias and land grants play a
+prominent role in the district.
+Science looms large over the Pajarito Plateau.
+The magnificent Valle Caldera and its vast national forest areas offer
+unique recreational opportunities for its residents and visitors.
+Chris is honored to represent District 43’s wonderful residents.
+Paid for by Friends for Christine
+PO Box 1565, Los Alamos, NM 87544
+Copyright © 2026 Friends For Christine - All Rights Reserved.
+We use cookies to analyze website traffic and optimize your website experience.
+By accepting our use of cookies, your data will be aggregated with all other user data.

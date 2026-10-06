@@ -1,0 +1,64 @@
+Michael Gates Recognizes California's Law Enforcement Community On National Night Out
+Sacramento, CA - In recognition of National Night Out, Attorney General candidate Michael Gates released the following statement commending the men and women who protect our communities:
+“National Night Out is a reminder that safe communities are built when neighbors, law enforcement, and local leaders work together.
+Tonight, we celebrate the partnerships that help prevent crime, strengthen trust, and keep California families safe.
+Thank you to the law enforcement professionals, first responders, volunteers, and community members who dedicate their time to making our neighborhoods stronger.
+Together, we can build safer communities for every Californian.”
+Leading law enforcement officials and organizations have endorsed Michael as the best candidate to restore public safety to the Golden State:
+Law Enforcement Leaders:
+Chad Bianco - Riverside County Sheriff
+Don Barnes - Orange County Sheriff
+John Zanoni - Fresno County Sheriff
+Donny Yongblood - Kern County Sheriff
+Michael Boudreaux - Tulare County Sheriff
+Brandon Barnes - Sutter County Sheriff
+Michael L.
+Johnson - Shasta County Sheriff
+Larry Stearn - President of the Los Angeles Police Department Valley Bureau Foundation
+Billy Aldridge - Chief of Police, City of Chico
+Lisa Smittcamp - Fresno County District Attorney
+Cynthia Zimmer - Kern County District Attorney
+Matt Rogers - Tehama County District Attorney
+Alex Villanueva - Former Los Angeles County Sheriff
+David S.
+Milton - Retired California Superior Court Judge
+Tony Rackauckas - Former Orange County District Attorney
+Sally Moreno - Madera County District Attorney
+Rob Handy - Retired Chief of Police for Huntington Beach Police Department
+Jon Fleishman - Former Executive Director of the California Republican Party
+Leland DeVore - Former Police Chief of Twin Falls
+John McGinness - Retired Sacramento County Sheriff
+Tom Angel - Retired Division Chief of the Los Angeles Sheriff’s Department
+Robert Binkley - Retired Division Commander of the Los Angeles Sheriff’s Department
+Warren Asmus - Retired Division Chief of the Los Angeles Sheriff’s Department
+Pete Amico - Retired Division Commander of the Los Angeles Sheriff’s Department
+Ralph Ornelas - Retired Division Commander of the Los Angeles Sheriff’s Department
+Mike Smith - Retired Division Captain of the Los Angeles Sheriff’s Department
+Kris Pitcher - Retired Deputy Chief of the Los Angeles Police Department
+John Sherman - Retired Deputy Chief of the Los Angeles Police Department
+Bruce Crosley - Retired Captain of the Los Angeles Police Department
+Lillian Carranza - Retired Commander of the Los Angeles Police Department
+Bob Green - Retired Deputy Chief of the Los Angeles Police Department
+Organizations:
+Huntington Beach Police Officers' Association
+Garden Grove Police Officers' Association
+Westminster Police Officers' Association
+Deputy Sheriffs' Association of San Diego County
+Newport Beach Police Association
+Pomona Police Officers' Association
+Simi Valley Police Officers' Association
+Sacramento County Deputy Sheriffs' Association
+Bakersfield Police Officers' Association
+Police Officers' Association of Lodi
+Sheriff's Employees' Benefit Association of San Bernardino
+Redlands Police Officers' Association
+San Bernardino Police Officers' Association
+Ventura County Deputy Sheriffs' Association
+Laguna Beach Police Employees' Association
+Burbank Police Officers' Association
+ABOUT MICHAEL GATES
+Michael Gates has been married for nearly 30 years, is a father of five, and an experienced attorney who will fight for Californians as our next Attorney General.
+Michael served the City of Huntington Beach as its elected City Attorney from 2014-2025.
+He was appointed as a Deputy Assistant Attorney General in the federal Department of Justice’s Civil Rights Division in 2025.
+Over his career, Michael has practiced across a broad range of legal disciplines, consistently demonstrating a commitment to public safety, the rule of law, and effective government.
+Michael and his wife, Kelly, live in Huntington Beach, where they spend what little free time they have enjoying California’s pristine coastline.

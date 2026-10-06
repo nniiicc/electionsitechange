@@ -1,0 +1,66 @@
+top of page
+2026 Endorsements
+LaMonica believes that change starts in the streets and at the grassroots level.
+She is proud to have worked alongside and gained the support of people-powered movements fighting for social justice.
+Organizations
+Elected Officials & Leaders
+Leroy Jones, Jr., Chair of the New Jersey Democratic State Committee & Essex County
+Mayor Ras Baraka, City of Newark
+Mayor James Solomon,
+City of Jersey City
+Senator Cory Booker,
+New Jersey
+Essex County Executive Joseph DiVincenzo, Jr.
+Senator Majority Leader
+Teresa Ruiz
+(D-Essex)
+Senator Joe Cryan
+(D-Union)
+Mayor Dwane Warren, City of Orange
+Mayor Ted Green,
+City of East Orange
+Mayor Tony Vauss, City of Irvington
+Mayor Donald Shaw, City of Roselle
+Councilman Patrick Council, South Ward, City of Newark
+Mayor Derek Armstead,
+City of Linden
+Mayor Kathleen Miller Prunty,
+City of Cranford
+Annette Beasley, Irvington Democratic Municipal Chair
+Community Testimonies in Support of LaMonica
+“As we mourn the loss of Congressman Payne, we can look to the future with optimism, knowing we are sending someone with the courage and dignity of McIver in his place.
+Payne would be proud and I promise to do whatever I can to make it happen.
+In our democracy, there are no more engaged advocates or committed voters than the Black women of America.
+It’s an honor, therefore, to endorse someone who would be the first Black woman to represent the people of Newark in the halls of Congress.
+I am beyond confident that if elected, McIver will be able to hit the ground running along the same trail Rep.
+Bonnie Watson Coleman blazed before her.
+McIver is in that mold, she is a proven leader, a compassionate public servant and she is a steward of our collective values – community, opportunity, equality, and justice.
+It is only fitting that she follows in Payne Jr.’s footsteps from City Council President to Washington D.C.”
+Newark Mayor Ras Baraka
+“LaMonica is a passionate and dedicated public servant who has demonstrated her commitment to the people of Essex throughout her tenure on the Newark Council.
+I believe LaMonica will steer the path of her own destiny and will represent the people of the 10th congressional district with honor and integrity, and with the spirit of humility that Congressman Payne showed us.
+She is a worthy successor to Congressman Payne, who we remember as a true progressive who fought for Medicare for All, the Green New Deal, racial justice, equal rights, reproductive freedom, public transportation, free college tuition, and affordable childcare, housing, and prescription drugs.
+LaMonica will no doubt continue and honor Congressman Payne’s legacy, but she will also establish herself as a force to be reckoned with in Congress.”
+New Jersey Democratic State Committee & Essex County Democratic Committee Chairman LeRoy Jones, Jr.
+“I know LaMonica McIver will succeed as a member of Congress.
+I’ve watched LaMonica work as the president of the Newark City Council, and I know her to be a tremendous leader with a strong dedication to public service and the perfect temperament required to effectuate positive results in these turbulent times.”
+Senator Joe Cryan (D-Union)
+“Her training, professionalism, and leadership will continue to be a uniting force in Washington and in the 10th congressional district.
+The South Ward and the City of Newark is ready to roll up its sleeves to ensure a victory for our friend and comrade.”
+Newark South Ward Councilman Patrick Council
+“LaMonica McIver has proven herself to be a dedicated public servant with an unwavering commitment to improving systems and services for the residents of Newark, New Jersey.
+As past president of the Essex County Board of County Commissioners, and currently as Commissioner-at-large and Manager of Strategic Partnerships for the Laborers, I have had the opportunity to observe and interact with Council President McIver for the past 6 years.
+I look forward to seeing her passion and dedication continue as she rises to represent New Jersey on the national level.
+I believe that LaMonica McIver will continue the progressive work of the late Congressman Donald Payne, Jr. and the groundbreaking late Congressman Donald Payne, Sr., and I support her for the position of Congressperson.”
+Essex County Commissioner Wayne Richardson
+“The late Congressman Donald Payne Jr. had a special place in his heart for the Borough of Roselle.
+I know he would want us to continue to move CD 10 forward in unity.
+I believe LaMonica McIver will do just that.
+Her track record of showing up for the people she serves is how I believe she will serve the entire Congressional District 10.”
+Roselle Mayor Donald Shaw
+“Having had the privilege of working closely with LaMonica for several years, I can confidently say that she is a remarkable individual who possesses the qualities and dedication necessary to be an outstanding representative for our community.
+It is not just LaMonica’s qualifications and advocacy for women’s rights that make her an exceptional candidate.
+She possesses the qualities of dedication, communication, and leadership that are essential for effective representation.
+Her positive attitude, efficiency, and commitment to improving the quality of life for all make her an ideal choice to represent our district.”
+Irvington Mayor Tony Vauss
+bottom of page

@@ -1,0 +1,5 @@
+PHOENIX — Senate President Warren Petersen has appointed Senator Mark Finchem to serve as Vice Chair of the Senate Ad Hoc Committee on Adult Oral Health, according to a letter of appointment dated September 14, 2026.
+The Committee is charged with examining whether the Arizona Health Care Cost Containment System (AHCCCS) should be expanded to cover comprehensive dental care for adults, rather than limiting coverage to emergency care and extractions as it does today.
+Specifically, the Committee will evaluate the feasibility, cost, long-term fiscal impacts, and public health outcomes of such an expansion.
+The Committee’s work will also include analyzing financing models for expanded dental benefits and developing short-term and long-term Medicaid expenditure projections — including dynamic economic modeling of potential cost savings across the medical, behavioral health, and emergency care systems.
+Senator Finchem currently serves as Chairman of the Senate Federal Relations Committee and is a member of the Judiciary Committee and the Natural Resources, Energy & Water Committee.

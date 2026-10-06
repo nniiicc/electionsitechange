@@ -1,0 +1,39 @@
+Sandy Donatucci is a military spouse, mother, breast cancer survivor, caregiver for mom, community leader and volunteer, who is passionate about standing up for the families of our local community.
+She currently represents the people of District 105 in the Georgia State House where she serves as a member of the Education, Transportation, and Intragovernmental Coordination Committees.
+In her role, Sandy is delivering on her promise to lead with a common-sense approach to do what is best for our local families.
+As a military spouse, Sandy has a diverse background that stems from moving around often with her husband Bill when he was serving in the U.S.
+Army.
+After graduating from Indiana University of Pennsylvania, she and Bill moved to Aviano Italy Aviano Air Force Base.
+While there, Sandy was employed as a Civilian Contracted with AAFES for Turkey, Greece, and Italy.
+She also taught English as Safop, a local French Company.
+Sandy has worked as a sales professional in some capacity for 30+ years in which she has worked as an international sale representative, healthcare sales professional, and now as a highly-recognized Realtor.
+Locally, Sandy volunteers as Leaders for Marriage Ministry at 12 Stone Church and as a Competition Cheer Community Coach.
+She previously served District 4 on the Gwinnett County Planning Commission.
+A resident of Gwinnett County for 23 years, Sandy currently resides in Buford.
+She has been married to her husband Bill for 36 years.
+They are the proud parents of Kyle (32) and daughter-in-law Elizabeth, Ashley (23), and Noah (20) and 2 dogs.
+When I ran for State House, my promise was simple: Stand up for what's best for our families.
+In the State House, I delivered on that promise by bringing an outsider's perspective to work for common-sense solutions by finding common ground and bringing people together.
+By focusing on results, not politics, I delivered meaningful reforms to make life more affordable, keep families safe, and expand educational and economic opportunities in Gwinnett.
+- Cut your Income Taxes — Voted to cut the state income tax from 6% to 3.99% in coming years, saving the average Gwinnett family over $1,200
+- Put your money back in your pocket —Helped pass $1 billion in direct tax rebates for Georgia taxpayers, up to $500 per filer
+- Property Tax Relief – Delivered Homeowner Tax Relief Grants to saves families on their tax bills
+- Capped your property taxes — Fought for and delivered a 3% cap on property assessment increases, so families aren't blindsided by their tax bill
+- Reducing insurance costs — Cast the Deciding Vote for lawsuit reform, helped pass the insurance omnibus package to end surprise billing and further reduce insurance costs for Gwinnett families
+- Suspended the gas tax — Supported initiatives to help save Gwinnett drivers money at the pump when they needed it most
+- Enhanced penalties on squatters, human and drug traffickers, and scammers, giving law enforcement stronger tools to protect our community
+- Secured funding for school security, so our kids are safe in the classroom
+- Backed pay raises for law enforcement, standing up for the men and women who protect Gwinnett every day
+- Secured additional mental health funding for Georgia's schools
+- Passed the Math Matters Act – increasing access to advanced mathematics courses
+- Investing in Literacy – passed legislation to place a literacy coach in every K-3 school to help ensure students are reading at grade level
+- Distraction-Free Education – passed legislation t to make our K-12 schools cell phone-free
+- Increased Teacher Pay.
+- Fought to make sure every child in Gwinnett has the support they need to succeed, regardless of ZIP code
+- Codified the right to IVF treatment into Georgia law, protecting families' ability to grow
+- Stood up for women's sports, backing legislation to keep men out of girls' athletics
+- Carried legislation to expand Maternity Leave for state employees from 6 weeks to 9 weeks
+501-B Coverdell Legislative Office Bldg.
+Atlanta, GA 30334
+Office: (404) 656-0177
+sandy.donatucci@house.ga.gov

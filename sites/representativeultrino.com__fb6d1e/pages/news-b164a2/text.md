@@ -1,0 +1,31 @@
+BOSTON – Tuesday, July 14, 2026 – Last Wednesday, State Representatives Paul Donato, Kate Lipper-Garabedian, and Steven Ultrino joined their colleagues in the Massachusetts House of Representatives in passing H.5562, An Act relative to economic development in the Commonwealth, a $561 million economic development bond bill that creates strategic investments to strengthen the state's economy, support innovation, expand housing opportunities, and help communities and businesses thrive.
+The legislation includes hundreds of thousands of dollars for local economic development projects in Malden, subject to future bond authorization, while making targeted updates to key economic development programs, promoting job creation, reducing barriers to growth, and positioning Massachusetts to remain competitive in the industries of the future.
+"I want to thank Speaker Mariano, House leadership, and my colleagues for their work in advancing this important legislation,” said State Representative Steven Ultrino (D-Malden).
+“This bill reflects a shared commitment to strengthening our economy and supporting communities across the Commonwealth, and I look forward to continuing to work with the Malden delegation to secure key investments for local priorities and programs that will help our community grow."
+“This comprehensive economic development bill makes critical investments in key sectors of the Commonwealth’s economy, while supporting small businesses, encouraging housing production and strengthening fair housing protections, and investing in our cities and towns through efforts like downtown revitalization,” said State Representative Kate Lipper-Garabedian (D-Melrose).
+“As Co-Chair of the Emerging Technology Caucus, I am glad to see investments in robotics, AI, and cybersecurity that position the Commonwealth as a leader on innovation, while balancing responsible use of these advancements.
+Thank you to Speaker Mariano, Chair Michlewitz, Chair Fiola, and Chair Finn for prioritizing this legislation.”
+“I am very proud of the hard work of the Malden Delegation, as well as House Leadership, to pass this critical bill for the Massachusetts economy,” said State Representative Paul Donato (D-Medford).
+“This will without a doubt catapult much needed changes in Malden and communities across the entire Commonwealth.”
+Among its most significant provisions, the legislation:
+- Expands housing opportunities by creating new tools for municipalities to encourage housing production and the adaptive reuse of underutilized commercial properties.
+The bill streamlines local approvals for commercial-to-residential conversions, establishes a framework for multifamily housing on qualifying religious properties with affordability requirements, and improves local planning and permitting through standardized site plan review procedures and training for local land use boards.
+- Strengthens tenant protections and fair housing by authorizing municipalities to adopt a local option tenant right of first refusal for certain multifamily property sales while enhancing oversight of the real estate profession.
+- Improves the Commonwealth's fiscal resilience by creating new resources to respond to federal funding uncertainty, support hospitals and community health centers, invest in critical infrastructure, and provide bridge funding for colleges and universities facing disruptions to federal research funding.
+- Supports entrepreneurs and small businesses by reducing the filing fee to establish a new limited liability company (LLC) from $500 to $100, making it easier and more affordable to start a business in Massachusetts.
+- Establishes Massachusetts' first comprehensive micromobility framework by creating statewide safety standards and operational guidelines for electric bicycles and other powered personal transportation devices.
+- Strengthens the innovation economy by expanding incentives for the film industry and creating a new tax credit to support digital game development in Massachusetts.
+The bill includes $561 million in capital authorizations, such as:
+- $100 million for the SHIELD Initiative to strengthen Massachusetts' leadership in defense innovation and national security technologies.
+- $75 million to support artificial intelligence infrastructure, emerging technologies, and innovation.
+- $50 million to help municipalities convert underutilized commercial properties into housing.
+- $50 million for remediation of former state-owned properties.
+- $25 million to expand business development programs supporting commercial, industrial, and manufacturing projects.
+- $25 million to advance robotics research and commercialization through MassTech.
+- $25 million for downtown revitalization projects that strengthen local business districts and public spaces.
+- $25 million to support arts, culture, and creative economy investments.
+- $20 million to attract international businesses and investment to Massachusetts.
+- $20 million for veterans supportive housing initiatives.
+- $10 million to strengthen food science, sustainable agriculture, and agricultural technology.
+Having passed the House of Representatives 148-2, the bill now goes to the Senate for consideration.
+###

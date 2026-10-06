@@ -1,0 +1,17 @@
+“Skilled Workers” is the third spot of the general election, pairing Nunn’s push to train tradespeople with his record of bipartisan results
+Des Moines, IA – Combat aviator and U.S.
+Representative Zach Nunn today released “Skilled Workers,” the third television ad of the 2026 general election.
+The 30-second ad connects the rising cost of housing to a shortage of skilled workers and builders, and lays out Nunn’s push to train more plumbers, electricians, carpenters, and HVAC technicians.
+“Hardworking Iowans are doing everything right and feel like the path to homeownership still isn’t open to them,” said Nunn Campaign Manager Brendan Duffy.
+“Zach Nunn fought to pass the largest housing affordability bill in a generation into law, and he’s brought real dollars home to Iowa to train the electricians, carpenters, and HVAC techs our communities need to build more homes and restore the American dream of homeownership for families.”
+Zach Nunn’s housing record runs through the 21st Century ROAD to Housing Act, the most comprehensive housing affordability package in a generation, which drew significant bipartisan support in Congress and was enacted into law on July 11, 2026.
+He wrote the rural housing title in the bill, and backed the provision to ban large corporate investors from buying up single-family homes in Iowa.
+Federal funding Zach Nunn secured for skilled trades training in Iowa’s Third District:
+- $3 million for Des Moines Area Community College (DMACC), Ankeny campus.
+Expanding DMACC’s diesel, HVAC, building trades, and fire science programs, and rebuilding the Transportation Institute that trains Iowa’s commercial truck drivers.
+- $900,000 for Iowa Western Community College, Clarinda and Atlantic campuses.
+Renovating and expanding skilled trades lab facilities at Iowa Western’s two rural centers.
+- $1 million for Indian Hills Community College, Ottumwa.
+Expanding the commercial driver training area to help more Iowans qualify and get behind the wheel of a truck.
+Watch “Skilled Workers” HERE.
+###

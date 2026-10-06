@@ -1,0 +1,58 @@
+Meet Joe Poplawski
+Here's why Joe Poplawski should be your pick for
+Pennsylvania's Representative in the
+General Assembly Legislative District 135.
+Why I'm Qualified to Serve
+With over two decades of hands-on experience in civil engineering and building inspections, I’m uniquely prepared to make informed decisions about Pennsylvania's General Assembly Legislative
+District 135's infrastructure, zoning, and development.
+Accomplishments
+1999 - Present
+Role: Owner
+Advantage Inspection Service, LLC
+With over 20 years of experience as a trusted home and building inspector, Joe Poplawski has personally inspected more than 7,000 properties across Eastern Pennsylvania—protecting families, businesses, and neighborhoods with a sharp eye for safety and quality.
+As the owner of Advantage Inspection Service, Joe brings unmatched technical expertise to the issues that matter most: roads, zoning, buildings, and development.
+April 2022 - September 2023
+Role:
+Inspections, Assist Construction Manager
+Project type:
+Pennsylvania Turnpike Commission
+As part of a $300 million Pennsylvania Turnpike expansion, Joe assisted in managing one of the state’s largest transportation infrastructure projects—widening a 7-mile stretch, rebuilding four bridges, and expanding travel lanes.
+His role included inspections, coordination, and quality control, giving him firsthand experience with transportation planning and large-scale public works.
+This project sharpened Joe’s ability to manage complex infrastructure needs—expertise he’s ready to bring to Pennsylvania's General Assembly Legislative District 135 in service of our community.
+2023 - Present
+Role:
+Construction Manager
+Employer:
+QES Pavements, Inc.
+As Construction Manager with QES Pavements, Inc., Joe led key projects for the PA Department of Conservation and Natural Resources.
+His work included bridge and culvert restoration at the National Historical Canal Park, and managing wetland mitigation, paving, and new facility construction at Marsh Creek State Park—building hands-on experience in infrastructure and public resource management.
+January 2005 to December 2007
+Role:
+Project Manager & Municipal Engineer
+Employer:
+KEI, Inc
+As project manager and municipal engineer for KEI, Inc., Joe oversaw residential and commercial infrastructure projects, ensuring compliance with engineering standards and local regulations.
+His work included inspections, stakeholder coordination, and resource planning—building expertise in urban planning and community development.
+2003 - 2005
+Role:
+Construction Manager
+Location:
+ABE International Airport
+Hanover Township, PA
+As construction manager for the Lehigh Valley Airport’s sound insulation program, Joe led a complex, multi-year project focused on improving quality of life through noise mitigation.
+The role required close coordination with stakeholders, strict regulatory compliance, and efficient resource management—experience that prepared him to address public infrastructure, policy, and problem-solving in Pennsylvania's General Assembly Legislative District 135.
+In the Community
+2010 - 2013
+Assistant Scoutmaster with Troop 359
+Joe volunteered as an Assistant Scoutmaster with Troop 359, where they played a key role in mentoring young Scouts and supporting the Scouting program.
+Dedicated to character development and outdoor education, Joe assisted with troop meetings, organized camping trips, and led merit badge instruction.
+Through their guidance, Scouts built leadership skills and confidence while striving to live by the principles of the Scout Oath and Law.
+2002 - Present
+Volunteer with Community Action Committee of the Lehigh Valley
+Joe volunteered since 2002 with the Community Action Committee of the Lehigh Valley, where he conducted educational sessions for first-time home buyers on the importance and benefits of home inspections.
+Joe's informative presentations helped participants understand key aspects of the inspection process, identify potential issues in properties, and make empowered, informed decisions during the home-buying journey.
+Endorsements
+Gun Owners Of America
+Learn more about where Joe stands on the issues that impact Pennsylvania's General Assembly Legislative District 135 most.
+Interested in Volunteering on the Campaign?
+Email joe@joe4pahouse135.com

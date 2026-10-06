@@ -1,0 +1,109 @@
+Accomplishments
+Justice
+- Introduced legislation SB 540 and SB 406 to create a statutory window of justice for victims of Sexual Abuse
+- Reintroduced Breonna’s law to prohibit the use of lethally dangerous no-knock warrants
+- Supported the PA Forward Coalition, which includes immigrant rights groups MILPA, New Sanctuary Movement, Make the Road PA, CASA, and Juntos, working to recognize the dignity of the undocumented
+- Worked to establish Vaccine Clinics for immigrant communities and communities of color
+- Led a public policy hearing on Transgender Issues
+- Supported life-changing Expungement Clinics to aid deserving individuals to live freer from housing and work barriers
+- Fought for Racial and Social justice on every issue, from the environment to education, from voting rights to public safety
+- Participated in civil disobedience to fight for Healthcare for airport workers
+- Organized and hosted a Black and Diverse Business Forum in Delaware County that brought together over 30 minority owned businesses for seminars and networking
+Workers & Business
+- Supported President Biden’s American Rescue Plan and Build Back Better Agenda.
+- Passed legislation through the 2020 Cares Act to provide financial relief to small businesses hit by COVID
+- Sponsored legislation to end worker misclassification and voted for better protections and hazard pay for front line workers
+- Voted to expand overtime eligibility for exploited workers
+- Supported expanded overtime eligibility for low-salaried workers over Republican dissent
+- Voted against the EITC corporate tax breaks
+- Hosted multiple Apprenticeship Fairs alongside local unions and trade programs to connect students to alternatives to post-secondary degree programs
+- Spoke out in support of raising the minimum wage
+SAFETY & EMERGENCY SERVICES
+- Secured $4.5 million in funding for the Emergency 911 Center
+- Supported a $75 million investment in community-based violence prevention strategies.
+- Supported a $185 million investment for police and law enforcement agencies combating gun violence
+- Introduced bipartisan legislation to reduce Opioid Overdose through the Opioid Awareness Day resolution and the Fentanyl Test Strips SB 845
+- Hosted annual, county wide Overdose Vigils and held overdose policy hearings with his colleagues in the State Senate
+- Held town halls focused on gun violence prevention alongside community stakeholders and Delaware County elected officials
+ENVIRONMENT & TRANSPORTATION
+- Protected PA’s clean drinking water by voting against attempts to loosen pollution regulations
+- Voted in favor, against Republican opposition, of entering the Regional Greenhouse Gas Initiative, a compact with surrounding states on long-term energy use that prices carbon emissions
+- Voted against a Republican led and fossil fuel backed bill that would have stripped local municipalities of the ability to decide what energy sources are right for them (SB 275)
+- Worked with local government, state agencies, PennDOT and Amtrak to get the Seller’s Avenue Bridge Project back on line
+- Fought in court against Sunoco’s attempts to hide information about their dangerous gas pipelines
+- Stood for public transit, demanding funding solutions to ensure stability and growth for our region’s economy
+OUR SCHOOLS
+- Introduced legislation for $225 million in “Level Up” funding targeted to schools serving communities with the greatest needs and least re- sources: $65 million for the Upper Darby School District and $36 million for the William Penn School District
+- Supported an additional $44.3 million in funding for all Delaware County Schools, an increase of 15.4% over last year
+- Supported childcare assistance by $90 million to increase staff at early education centers and allow more parents to re-enter the workforce
+- Supported $100 million in funding towards school-based mental health strategies to help our teens and children
+- Voted for the settled science of masks in schools and student vaccination, opposing Mastriano
+- Called out Republican attempts to privatize schools, which would increase corporate tax breaks and defund public education
+- Voted against the Educational Improvement Tax Credit, a poorly designed initiative with little accountability or transparency allowing business tax credits for private schools
+- Called for immediate investment of federal ARPA funding in School Infrastructure to protect health, safety and learning
+- Called for “Free the Funds” expenditures from the rainy day surplus for stressed school budgets and overdue facilities repairs
+- Spoke at the No Toxic Schools Rally at the William Penn School District, demanding state investment to fix crumbling schools in Delaware County and across the state
+HEALTHCARE
+- Voted to protect the Right to Abortion and against the house Republican telehealth abortion amendment
+- Worked with local leaders and the PA Department of Health to create the first Delaware County Health Department that opened in January 2022
+- Introduced the package of SB 50, SB 51 and SB 52 to stabilize Healthcare protection for Pennsylvanians
+- Increased funding for Adult Mental Health services by $100 million, supporting families affected by substance abuse and other mental health issues
+- Held numerous telephone town halls with community and health experts to keep Delaware County informed about COVID
+- Sponsored a unique Diaper drive with the Maternity Care Coalition, resulting in over 3,000 diapers for families in need
+- Worked with Congresswoman Scanlon, Senator Hughes and Representative Boyle to eliminate barriers and secure loans for local distilleries to manufacture much-needed Hand Sanitizer in response to supply issues during Covid
+HOUSING & TAXES
+- Voted to increase funding for Property Tax and Rent Rebates by $140 million, giving seniors a 70% increase in relief per rebate
+- Voted to establish the innovative Whole Home Repairs program with $125 million in grant funding for low-income and middle-class property owners
+- Voted to increase funding for Affordable Housing development programs by $250 million.
+- Voted in favor of the federally-funded Rental Assistance Programs to prevent thousands of evictions
+- Sponsored successful legislation to expand the successful CPACE SB 635, the Energy Efficiency financing program to multi-family residential buildings
+- Led Democratic caucus hearing on Systemic Housing Insecurity
+- Called for extension of the federal eviction moratorium to safeguard PA renters
+VOTING RIGHTS
+- Voted to protect Voting Rights by voting against HB 1300 that would have weakened rights and accessibility, legislation vetoed by Governor Wolf
+- Sponsored SB 22 to create an independent Citizens Redistricting Commission
+- Supported Redistricting Town Halls for Delaware County residents, particularly regarding the changes to Senate District 26
+- Called out Republican state legislators for their involvement in the January 6th Insurrection, demanding their resignation and a federal investigation
+Grants
+Senator Kearney has worked to bring over $30 million back into our communities to fund projects that make Delaware County safer, cleaner, and a better place to live
+2022
+- $52,000 to support renovations at a local senior center
+- $75,000 to facilitate the development of a local housing issues plan with priorities and goals for the county
+- $125,000 for the Veteran’s War Memorial to replace memorial pavers in remembrance
+- $75,000 to purchase a Healthy Zone mobile van
+- $50,000 to support the renovation of an inclusive playground
+- $50,000 to support a veteran’s education program for schools
+- $50,000 to support a local 12-week summer camp
+- $20,000 to support equipment and kitchen replacement for fire loss at an athletic facility
+- $50,000 to support the work of the Delaware County Black Caucus
+2021
+- $4.5 million RACP grant to support Delaware County’s new 911 communication infrastructure system
+- $5 million RACP grant to support the creation of the Delaware County Community College Upper Darby Campus
+- $500,000 RACP grant to make pedestrian and safety improvements in the Plum Street Mall corridor
+- $1 million RACP grant to support the development of the Upper Darby Community Center
+- $50,000 for free Vision Screenings and glasses for eligible children in the Upper Darby School District
+- $50,000 to support Capacity Building efforts for organizations serving immigrant communities
+- $50,000 to support Solar Charging Stations for public libraries in PA Senate District 26
+- $50,000 to support the planting of an Urban Garden in the Bywood neighborhood of Upper Darby
+- $50,000 to support Implicit Bias Awareness forums for school administrators and personnel
+- $50,000 capital improvement grant to the Domestic Abuse Project of Delaware County
+- $50,000 grant for the Chester Corridor Improvement Project
+- $50,000 grant to improve the athletic fields in Swarthmorewoods and the playground at the Edgewood Elementary School in Tinicum Township
+2020
+- $500,000 RACP grant to support the creation of a childcare center at the Delaware County Community College Campus at their new Upper Darby location
+- $500,000 RACP grant to expand the inpatient adult behavioral health bed capacity at the Delaware County Memorial Hospital unit
+- $2 million RACP grant to support additional aircraft parking at Philadelphia International Airport
+- $1 million RACP grant to support site preparation for the building of the new Upper Darby Community Center
+- $1.5 million RACP grant for the CHOP site expansion into Upper Darby
+- $1.4 million grant through PHARE to support affordable housing programs for residents in Delaware and Chester Counties
+- $2.5 million in school safety grants
+- $250,000 Business-Education partnership grants to help businesses and school districts work together to prepare students for in-demand careers
+- $175,000 PA Smart Grants to four districts and the intermediate unit to support expanded computer science courses and teaching
+- $80,000 nonprofit Safety and Security grants for two Synagogues in Delaware County
+2019
+- $1 million in RACP funding to support the Kinder Park Housing project in Delaware County
+- $250,000 for the Friends of Smedley Park Corporation to improve the Springfield Trail
+- $125,000 for Marple Township for the Veterans Memorial Park Playground Revitalization
+- $75,000 for Upper Darby Township for the Muckinipates Park Expansion
+- $1.8 million in Multimodal grants
+- $2.3 million in Star Loans for infrastructure improvement

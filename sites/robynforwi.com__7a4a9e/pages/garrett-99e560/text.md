@@ -1,0 +1,12 @@
+Garrett
+“I grew up in and around the 14th District, on Milwaukee’s northwest side and now in Wauwatosa with my family.
+And I grew up pretty conservative, attending Catholic schools and really believing in the fiscal policies of the Republican Party.
+Working in financial affairs, I started to see a disconnect between what I thought the GOP stood for, and the policies and candidates they were actually putting forward.
+My loyalties started to shift with all of the controversy around the Affordable Care Act.
+With chronic and childhood illnesses in our family, I’ve been lucky to always have employer-sponsored health care, but I know that isn’t the case for all.
+Having health insurance for everyone just makes sense, financially, but also morally.
+The more the Right pushed against “Obamacare,” the less that vitriol made sense to me.
+By 2014, I started to identify as an Independent, and now, well, I’m very much a Democrat.
+Today, having health insurance is more important than ever, and I’m seeing our state Republican leaders hoard money and power and votes instead of taking care of the most vulnerable.
+I voted for Robyn in 2018, and I’ve been proud to watch her tireless support of the Healthcare Heroes Act despite her colleagues unwillingness to go to work.
+Robyn won’t stop fighting for access to health care and what is right, so we won’t stop fighting for her.” -Garrett

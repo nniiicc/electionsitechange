@@ -1,0 +1,14 @@
+G-PAC and Giffords PAC Endorse Attorney General Raoul and IL Supreme Court Candidates
+Chicago — This afternoon, the Gun Violence Prevention PAC and Giffords PAC endorsed Attorney General Kwame Raoul and Illinois Supreme Court candidates Judge Elizabeth M.
+Rochford and Justice Mary O’Brien in the 2022 general election at an event at Bright Star Church on Chicago’s South Side.
+“Every law we pass to strengthen Illinois’ gun […]
+Attorney General Kwame Raoul today released the following statement about the 2022 campaign for Illinois Attorney General
+CHICAGO – Attorney General Kwame Raoul today released the following statement about the 2022 campaign for Illinois Attorney General.
+“I look forward to debating the issues and challenges that matter most to voters across Illinois.
+This election comes at a critical time for our state as we continue to combat Republican attacks on our […]
+AG-elect Raoul responds to news on Catholic Church investigation
+CHICAGO – Illinois Attorney General-elect Kwame Raoul issued the following statement on today’s announcement regarding the investigation into sexual abuse in the Catholic Church: “Today’s news demonstrates the need for ongoing diligence in investigating crimes against children taking place within institutions that do not have a history of unilateral, proactive transparency.
+The Church’s disclosure of […]
+Raoul to join in challenging ACA decision, protect Illinoisans’ healthcare as AG
+CHICAGO – Illinois Attorney General-elect Kwame Raoul issued the following statement regarding a federal judge’s decision finding the entire Affordable Care Act unconstitutional: “The District Court’s decision jeopardizes healthcare access for more than one million Illinoisans, including children, seniors and people with pre-existing conditions.
+Upon taking office, I will continue our current attorney general’s work […]

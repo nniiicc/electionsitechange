@@ -1,0 +1,22 @@
+Embedded Files
+more affordable
+West Virginia
+West Virginians struggle to afford to live.
+The state government needs to tackle the hurdles that cause this and make West Virginia more affordable.
+better education
+Schools must be given better funding and resources from the state government to ensure students are provided adequate education.
+protect your freedom
+The state government needs to keep its hands off of the freedoms of West Virginians.
+West Virginians' right to make decisions for themselves must be protected.
+people over party
+Republicans and Democrats must work together to achieve real progress for West Virginians, and it should be the goal of the House of Delegates to focus on the needs of the people, not political parties.
+support law enforcement
+Law enforcement must be given the support it needs from the state to conduct their duties to ensure the safety of communities across West Virginia.
+Programs for first responders and law enforcement to better mentally recover from traumatic situations is essential to saving families, careers, and lives.
+criminal justice reform
+Decriminalizing marijuana in West Virginia is long overdue.
+We must stop overflowing prison and jails with people caught with marijuana.
+The state must also fix the issue of understaffed prisons and jails across West Virginia.
+Page updated
+Google Sites
+Report abuse

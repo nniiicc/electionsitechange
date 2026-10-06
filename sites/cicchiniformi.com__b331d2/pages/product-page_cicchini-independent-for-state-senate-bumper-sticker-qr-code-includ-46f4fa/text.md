@@ -1,0 +1,14 @@
+CICCHINI / INDEPENDENT / FOR STATE SENATE (Official political campaign bumpter sticker of Philippe Cicchini for Michigan State Senate District 9)
+Be part of a historic campaign for State Senate in Michigan.
+Independents embrace ALL colors on the spectrum, and this bumper sticker reflects the commitment to include and represent everyone.
+Product features
+- Vibrant, crisp colors with advanced printing
+- Premium water-resistant vinyl rated 5+ years outdoors
+- Matte UV-protective laminate to reduce glare and weathering
+- Waterproof adhesive with easy peel backing
+- Eco-solvent inks on eco-friendly material
+Care instructions
+- Use a soft, clean and dry cloth to gently brush any dust or dirt off from the center of the sticker outwards.
+Paid for by Philippe Cicchini for Michigan State Senate, P.O.
+Box 244, Troy, MI 48099.
+Proceeds benefit the campaign committee.

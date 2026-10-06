@@ -35,5 +35,6 @@ No one should feel like they are falling behind just trying to pay for housing, 
 I will fight for practical solutions that ease financial pressure, strengthen opportunity, and help working families get ahead.
 CAMPAIGN STOPS
 Upcoming Events
+- Pretty In PinkTue, Oct 06Lips Drag Queen Show Palace, Restaurant
 - Drag Show Fundraiser – 8 Dazzling DivasSun, Sep 27Atlanta Eagle
 VOTE NOVEMBER • LOCAL ISSUES • COMMUNITY FIRST

@@ -1,0 +1,1 @@
+Tom successfully fought to end the oil export ban and continues to fight for American Energy Independence and Oklahoma’s economy by standing up to Far-Left Democrats who want to put hardworking Oklahomans out of work and place an estimated $65,000 per family tax burden on families with the Green New Deal.

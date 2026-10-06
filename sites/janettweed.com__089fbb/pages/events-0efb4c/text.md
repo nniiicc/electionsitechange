@@ -1,0 +1,1 @@
+Get Out The Vote Candidate Meet + Greet October 10 2-5 pm - Speakers at 3 Angelo Canna Park, Cairo, NY Cairo First + the Cairo Dems announce a Green County Democrats Fall Fundraiser October 20, 2026 6 - 9pm Save the Date — details are soon to follow

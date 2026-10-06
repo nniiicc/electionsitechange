@@ -1,0 +1,6 @@
+Austin, TX - Speaker Dustin Burrows appointed State Rep.
+Trey Wharton (HD-12) to the Texas House Committee on Corrections and the Committee on Insurance.
+The House Committee on Corrections has jurisdiction over all matters pertaining to the incarceration and rehabilitation of convicted felons, the establishment and maintenance of programs that provide alternatives to…
+AUSTIN– Representative Trey Wharton joined the Texas Water Caucus, a nonpartisan educational platform supporting the next generation of water champions and ensuring water is prioritized, as a Vice Chair.
+The Caucus unanimously elected Representative Stan Kitzman as its new Chair and amended its bylaws to make the Caucus bicameral.
+Following the successful launch of the…

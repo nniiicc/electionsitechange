@@ -1,0 +1,15 @@
+top of page
+Home
+Meet Gina
+Special Election 2021
+State Representative Curry
+Platform & Legislation
+Economic Development
+Trade Education Opportunities
+Public Education Opportunities
+Affordable & Secure Housing
+Resources & Voting
+Get Involved
+More
+Use tab to navigate through the menu items.
+bottom of page

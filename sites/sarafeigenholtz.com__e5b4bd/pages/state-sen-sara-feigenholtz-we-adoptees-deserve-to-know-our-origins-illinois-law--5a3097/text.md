@@ -1,0 +1,16 @@
+The first time I held my original birth certificate, I was in my 50s.
+I’d spent a lifetime knowing that I was adopted.
+I was loved, supported and grateful for my family, but still missing the first page of my own story.
+That small piece of paper held answers that had always been out of reach: my birth time, my birth mother’s name and many other small details that finally connected me to the beginning of my life.
+For decades, adoptees such as me in Illinois were denied access to that most basic document.
+We could vote, buy a house or raise children of our own, but not see our own birth certificates.
+For years, the state sealed those records, citing outdated privacy laws that had long since outlived their purpose.
+That injustice became my mission.
+When I first introduced legislation to allow adult adoptees to access their original birth certificates, I knew it would not be easy.
+The bill took 14 years to pass: 14 years of hearings, negotiations and emotional testimony from adoptees, birth parents and adoptive families alike.
+Some feared the unknown; others worried about privacy or the reopening of painful memories.
+But I believed then, as I do now, that knowing where you come from is a fundamental human right.
+The bill was signed in May 2010.
+For the first time, adult adoptees in Illinois could open the door to their origins.
+That moment has become a personal and political milestone, not only in my career but also in the lives of thousands of Illinoisans who can now hold their own stories in their hands.
+Read more at: https://www.chicagotribune.com/2025/11/30/opinion-adoption-birth-certificate-illinois/

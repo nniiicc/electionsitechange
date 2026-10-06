@@ -1,0 +1,8 @@
+| As we head into Thanksgiving, I want to wish you and your families the best for time spent with loved ones reflecting on the year.
+Hopefully many of you have met or interacted with my phenomenal Legislative Aide, Mason Heilman, without whom I'd have a tough time juggling all the work happening in the office.
+He and I share a passion for government and gardening, and it has been a treat to grow plants in our State House windowsill and share in the gourd harvest from his community garden plot!
+Bans all flavored tobacco products, taxes vaping products Nov. 15, 2019 – BOSTON – This week, Representative Michelle Ciccolo (D-Lexington), along with her colleagues in the House of Representatives, passed legislation to ban all flavored tobacco products and tax vaping products in an effort to protect young people from the harmful effects of tobacco use.
+Read Full Press Release Here Increases access to mental health services at public colleges and universities, recognizes historic contributions of female veterans from Massachusetts BOSTON – Days before the nation celebrated Veterans Day on November 11, Representative Richard M.
+Haggerty (D-Woburn) and Representative Michelle Ciccolo (DLexington), along with their colleagues in the House of Representatives, voted to unanimously pass two pieces of legislation, which would improve mental health care for student veterans and honor the military service contributions of a female American Revolutionary War soldier.
+Full Press Release Here My first anniversary as YOUR Representative for the 15th Middlesex District in the General Court truly snuck up on me.
+Time really does fly when you're having fun! | Archives Categories All Announcement Donate Endorse/Endorsement Event News Press Support |

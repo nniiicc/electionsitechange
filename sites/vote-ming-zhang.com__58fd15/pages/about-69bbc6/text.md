@@ -1,0 +1,45 @@
+Ming Zhang for MA state senate
+Worcester & middlesex
+ABOUT ME
+Hi, I'm Ming Zhang
+MY JOURNEY
+The following reflection piece has been published as an op-ed by both Sentinel & Enterprise and The Sun News
+***
+My name is Ming Zhang, of Westford, and I’m running for State Senate to represent Worcester and Middlesex district.
+Last week, I had the opportunity to meet with Leominster Mayor Dean Mazzarella as part of my listening tour across the Senate district.
+Our conversation centered on issues I have consistently heard from residents throughout the region: meaningful property tax relief for seniors, expanding housing opportunities, including affordable housing, and maintaining sound financial management so communities can continue investing in their future while protecting taxpayers.
+That meeting reinforced something I’ve come to appreciate throughout this campaign: regardless of political affiliation, many of the challenges facing our communities are remarkably similar.
+It also reminded me why I decided to run for public office after more than three decades in America.
+In 1992, I arrived in Hawaii with just $40 in my pocket.
+Like many immigrants, I came to America with hope, uncertainty, and the belief that hard work could build a better future.
+More than three decades later, I find myself running for the Massachusetts State Senate — not because politics was ever part of my life plan, but because I came to believe that participating in democracy is one of the most meaningful ways to give back to the country that gave me an opportunity.
+One of the people who most influenced my decision to come to the United States was my mother-in-law, Hu Qiheng, a pioneering computer scientist who was later inducted into the Internet Hall of Fame for her leadership in advancing the Internet in China.
+She encouraged her children to experience American democracy firsthand, believing there was tremendous value in living in a society where ordinary citizens could participate in shaping their government.
+That encouragement stayed with me.
+Professionally, I spent more than two decades in technology leadership before transitioning into property investment and property management.
+Working directly with homeowners, renters, condominium associations, and local communities gave me a close view of the financial pressures facing Massachusetts families.
+Housing affordability, rising property taxes, insurance premiums, utility costs, and the challenge of helping both young families and seniors remain in the communities they love are no longer abstract policy discussions; they are the conversations I hear every week.
+Alongside my professional career, I have always loved writing.
+Our home is busy, and for years the quietest place I could find to write was our tiny bathroom.
+Many evenings, after my family had gone to bed, I would sit there and write.
+Several short stories and essays were eventually published in literary journals.
+Writing taught me how to listen.
+Over time, I realized I wanted not only to write about communities, but also to help shape practical solutions for them through public service.
+That conviction led me to run as an independent candidate for the Massachusetts State Senate.
+My campaign has been entirely grassroots.
+I personally collected more than 500 signatures without paid consultants or campaign staff, submitting my nomination papers roughly a month before the filing deadline after securing about 100 more than required number of certified signatures.
+Since then, I have been traveling throughout the district on a listening tour, meeting residents, business owners, nonprofit leaders, and local officials.
+My conversations with local leaders — select board members and mayors reinforced my belief that the challenges facing our communities are shared by many neighboring communities and that practical, collaborative problem-solving matters more than partisan labels.
+This summer, while my family traveled to China, I chose to remain in Massachusetts so I could continue meeting residents throughout the district and listening to their concerns.
+Therefore, I’m not home alone; I have residents as my grassroots support.
+Local news organizations, including Westford Access and Television (WestfordCAT), The Clinton Item, and the Groton Channel, have covered various aspects of my campaign.
+I believe there is now a broader story to tell — not simply about one candidate, but about an immigrant who came to America with little more than hope, built a life through hard work, and now believes that giving back means stepping forward to serve the communities that welcomed him.
+This is not just an immigrant story - it is part of the American Story.
+I ask for your support as we work together to find practical solutions to the challenges our communities face today.
+CAMPAIGN MISSION
+Massachusetts has become one of the most expensive places in America to raise a family, buy a home, retire, or start a business.
+That should concern every elected official.
+My campaign begins with a simple belief: affordability must be the Commonwealth's top priority.
+If working families cannot afford to live here, every other policy discussion becomes secondary.
+I believe government should invest strategically in people, infrastructure, and local economic growth while exercising fiscal discipline, operating transparently, and remaining accountable to residents - not party leadership.
+This campaign is about practical solutions that lower costs, expand opportunity, strengthen our communities, and ensure that Massachusetts remains a place where families can build their futures.

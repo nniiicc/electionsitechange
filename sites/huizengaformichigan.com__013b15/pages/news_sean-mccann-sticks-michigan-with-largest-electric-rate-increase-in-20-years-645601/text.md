@@ -1,0 +1,5 @@
+HOLLAND, MI. — MLive reports that Consumers Energy is demanding its largest electric rate increase in over 20 years (for the second year in a row!) and Sean McCann’s radical energy policies are to blame.
+After all, Tax Man McCann voted for extreme energy mandates that analysts warned double the average monthly electric rate in Michigan and even voted to allow electric companies to continue jacking up rates on families.
+“They don’t call him Tax Man McCann for nothing.
+Sean McCann was warned that ramming through his extreme energy mandates would double electric costs for Michigan families, yet he chose to do it anyway and now we’re all paying the price,” said Huizenga campaign spokesman Calvin Moore.
+“Tax Man McCann raised property taxes, income taxes, gas taxes, water rates, garbage collection fees and more because he cares more about rubber-stamping his party’s most radical and costly ideas than delivering relief for Michigan families.”

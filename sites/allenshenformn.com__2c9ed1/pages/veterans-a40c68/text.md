@@ -1,0 +1,12 @@
+Veteran Employment
+Our brave men and women serving our country in uniforms deserve the greatest respect from us.
+After serving our country they should never need to worry about finding a job in order to support their families.
+Members of our military have great disciplines and work ethics that can tackle any challenges faced at work, companies should consider hiring veterans first as they will often go above and beyond call of duty to complete their missions.
+I will push for policies that will incentivize companies to hire more veterans and when all qualifications are considered, veterans should be given preference for the jobs they are qualified for.
+I rather die standing on my feet than to live forever on my knees. – George Washington
+PTSD
+Our men and women in uniforms answered the call and served our country bravely all over the world, but many of them came home with PTSD causing many families to fall apart.
+Our Troops went to warzones around the world defending our freedom, after they come home it’s our responsibility to take care of their mental state and help them to re-integrate back into our society.
+I have talked to a few military spouses, one special operation serviceman’s wife told me that “I feel that the man I married died in Afghanistan, and I don’t know who came back in his body.” I mean she is not alone, neglected PTSD cases can lead to domestic abuses and even suicide or homicide.
+The government that sent them to warzones should be responsible to help our brave veterans, we can increase the PTSD awareness/treatments, encouraging our veterans to seek medical help and put them into programs to re-integrate back into our society.
+They served us, now let's serve them.

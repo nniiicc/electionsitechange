@@ -1,0 +1,61 @@
+CORPORATE ETHICS
+Political Activities
+- No organization, of any classification shall engage in any capacity in political activities, up to and including: Lobbying, promotions of a candidate, endorsing a candidate, donations, sponsoring a candidate, providing a venue for candidates to speak, or any other activities that could be construed as tacit or implied support of an individual candidate.
+- Corporations, Institutions, News Agencies, etc. may invite all candidates for a given position, or election cycle to an open and fair forum, to be overseen by a citizen committee, or federal election committee, to ensure fairness and transparency.
+Worker’s Rights
+- Business entities shall abide by the Worker’s Bill of Rights
+- Any Union Busting activities, up to and including spreading misinformation about unions shall be treated as insurrection against the United States of America, for the express purpose of undermining our institutions, economy, and infrastructure.
+Whistleblowing
+- Whistleblowing activities shall be defined as follows:
+- An employee who brings up ethical, safety, health or legal concerns to their leadership, verbally, or in writing, or any other entity in an attempt to rectify the concern.
+- Retaliation shall be defined as:
+- Any action that can be directly or indirectly construed as actions taken due to the whistleblowing activity
+- This can include a sudden change in shifts, supervision, duties, hours, additional duties, or more overt actions such as: threats, intimidation, demotion, pay cuts, etc.
+- Whistleblowing activities shall be reported to the Department of Labor, and may be anonymous, but must include detailed information of the ethical, safety, health or legal concerns
+- Reports of ethical, safety, health or legal concerns, submitted to the DoL must be investigated within 30 days of receipt
+- Investigations shall be unannounced
+- Investigations shall be thorough
+- Investigations shall prove or disprove ethical, safety, health or legal concerns in a reasonable amount of time
+- Instigators cannot be denied access to documents, procedures, blue prints, or other official records during their investigation’
+- Investigations may use evidence found of additional wrong doing to take further action against business entities, without incurring ex post facto provisions
+Legal Action
+- Employees of any business entity may file, or seek to file lawsuits against their employer whether or not they are directly impacted by the ethical, safety, health or legal concerns
+- The plaintiff may seek damages and compensation for filing legal action in addition to any other remedies that the lawsuit may offer or involve
+- Defendants may not place employees who are filing legal action against them, on a paid administrative leave.
+- Defendants may not hinder, nor deny access to information the plaintiff would normally have had access to in pursuit of their case, in addition to any information requested during the discovery process.
+- Defendants may not force the plaintiff to perform other duties, or reprise against them in any capacity throughout the legal process
+- Defendants shall not prevent plaintiffs from receiving their due compensation, be treated equally and fairly for promotion, or raises, or other activities that would infringe upon their career growth or progression
+Wage Caps
+- Corporations shall not pay any employee greater than 20x the lowest earning employee, including bonuses, benefits packages, or salary
+- In the case of Federalization of an industry, those positions that would be transitioned to the GS, or SES pay scales, would adhere to those standards
+Customer Data Collection, and Sale
+- Effective immediately all customer data collected by any individual or entity shall remain under the control, and confidence of the collecting party, or temporary holding authority
+- Failure to protect private data shall result in espionage charges
+- Sale of personal data shall result in espionage charges, violation of privacy charges, and violation of HIPAA inclusively or respectively
+Warranty and Returns
+- All products and services shall be warrantied for a period of 12 months, or less with sufficient evidence that products or services have a lesser lifespan such as industrial wear parts, products that undergo extreme pressure or heat, etc.
+- Warranty Returns of goods shall always be at the expense of the industry
+- Warranty Returned Goods shall restart the warranty period of the newly received good upon receipt of the product
+- Warranty Returned Goods must be new, and not refurbished
+- Warranty Claims shall include a full refund option, including any taxes and without requiring “restocking” or similar fees to be deducted, in lieu of exchange for the duration of the Warranty period, without requiring the consumer to provide any reason or detail beyond proof of function if good has been used
+Manufactured Obsolescence, Quality of Goods and Services
+- Industry standards for product development shall immediately cease manufactured obsolescence in their business strategy
+- This policy does not mandate continuous quality improvement, but does render illegal the act of manufacturing inefficiencies, weaknesses, or other deficiencies into a product with the express intent of capitalizing off of them
+- This policy does not insinuate that genuine advancement in technology or process will not show significant improvements over time
+- All Industries shall seek to achieve a minimum lifespan of goods and services for a period of 12 months where those goods and services are not under extreme conditions
+- Goods and services that are dedicated to dealing with extreme conditions shall seek continuous improvement to the preferred 12 months of guaranteed lifespan under said conditions
+Anti-Trust Enforcement
+- No US Industry shall be allowed to control more than 20% of a given market share at the national, state, or local level
+- Those that currently do shall be split apart and turned into S corps to ensure a lesser risk of re-monopolization with no greater than 5% market share
+- In the case that the industry provides public goods, services, or similar public facing activities, including but not limited to construction, transportation, infrastructure, utilities, or telecommunications, those entities shall become federalized immediately
+- Hostile Takeovers, deliberate undercutting of local businesses shall be illegal
+- Financial Management Firms shall be abolished and their assets, holdings, or other revenues shall be returned to their originating entities.
+- In the case those entities no longer exist those funds shall be redistributed to consumers evenly, without regard for consumer investiture
+- In the case that the Stock Market no longer exists, the above action shall be taken in terms of liquidated values of assets
+- In the case that the assets were residential property, too include apartment complexes, assisted living, were medical facilities, whether private practice, or institution, related to infrastructure, construction, transportation, distribution, utilities, tele communications, or any other industry that serves the greater public, those shall be immediately federalized
+Price Gouging Prevention
+- All products and services shall not exceed a 50% markup from the cumulative base cost per unit, or service rendered, regardless of supply, service, or availability.
+- All pharmaceuticals, and medical devices shall fall under the Universal healthcare provision
+- Any efforts to manipulate supply, or create artificial scarcity shall be treated as Market Manipulation, Manipulating the value of the Dollar, and related charges
+- Any and all violations of unfair, or deceptive trade practices law shall be redefined as criminal rather than civil with charges including the Death Penalty
+- This shall include raising rent, or other direct Cost of Living Expenses especially during times of crisis

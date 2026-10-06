@@ -1,0 +1,12 @@
+7th District Support Swells for Speaker Welch State Central Committee Run
+August 6, 2025
+Alderwoman Pat Dowell, Alderman Ray Lopez, Alderwoman Monique Scott, Alderwoman Stephanie Coleman, Leyden Township Committeeman Barrett Pedersen, and Cook County Clerk Monica Gordon join the growing list of Welch endorsements.
+Illinois House Speaker Emanuel ‘Chris” Welch is seeing swelling 7th District support for his bid to replace Congressman Danny Davis as State Central Committee person.
+Today, the Speaker announced endorsements from key leaders on the 7th District, including: 3rd Ward Alderwoman and Committeewoman Pat Dowell, 15th Ward Alderman and Committeeman Ray Lopez, 24th Ward Alderwoman and Committeewoman Monique Scott, 16th Ward Alderwoman and Committeewoman Stephanie Coleman, and Franklin Park Mayor and Democratic Committeeperson for Leyden Township Barret Pedersen.
+Welch has also earned the endorsements of Cook County Clerk Monica Gordon and State Representative Margaret Croke.
+An Illinois State Central Committeeperson (SCC) plays a crucial role in the governance and leadership of the Democratic Party at the state level.
+Their primary function is to represent their congressional district within their party's State Central Committee, which serves as the party’s governing body in Illinois.
+According to the latest census information, the 7th Congressional District has a population of 592,000.
+The population was 47% male and 53% female; 34% White, 59% Black, 4% Asian, and 7% Hispanic.
+These west side democratic leaders join the growing list of those calling Welch the post, including: Congressman Danny Davis (who currently holds the seat), Former Secretary of State Jesse White, Democratic Party of Illinois Chair Lisa Hernandez, DNC member Dan Hynes, Alderwoman and State Central Committeewoman Emma Mitts, MWRD Commissioner and Orland Township Democratic Committeeperson Beth McElroy Kirkwood, Former State Central Committeewoman Darlena Williams Burnett, River Forest President Cathy Adduci, Westchester President Greg Hribal, Bellwood Mayor Andre Harvey, Hillside Mayor Joe Tamburino, Broadview Mayor Katrina Thompson, Maywood Mayor Nathaniel Booker, 18th Ward Alderman Derrick Curtis, Alderman Walter Burnett, State Representative Jawaharial ‘Omar’ Williams, State Representative Kam Buckner, State Representative La Shawn Ford, and State Representative Aaron Ortiz.
+Welch has also filed for a new committee with the board of elections, Team Welch for 7th District State Central Committeeperson.

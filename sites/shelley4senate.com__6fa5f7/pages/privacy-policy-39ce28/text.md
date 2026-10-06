@@ -1,0 +1,50 @@
+Privacy Policy
+Your privacy matters.
+This Privacy Policy explains how this campaign collects, uses, and protects your personal information when you visit our website, sign up for updates, or engage with our campaign.
+We are committed to protecting your privacy and ensuring that your personal information is handled with care.
+This Privacy Policy explains how information about you is collected, used, and disclosed by Shelley for Senate and its affiliates (“Shelley for Senate 37” “we,” or “us”).
+This Privacy Policy applies to information we collect when you use the websites, mobile sites, and other online services that link to this Privacy Policy (collectively, the “Sites”).
+We may change this Privacy Policy from time to time.
+If we make changes, we will notify you by revising the date at the top of the policy and, in some cases, by providing additional notice (such as adding a statement to our homepage or sending you an email notification).
+We encourage you to review the Privacy Policy whenever you access the Sites to stay informed about our information practices and the ways you can help protect your privacy.
+By engaging with our campaign, including signing up for newsletters, making donations, or participating in events, you agree to the practices described in this policy.
+(Updated 5/16/26)
+We at Shelley for Senate 37 may obtain your personal information through three channels: (1) information you provide directly to us; (2) information we collect automatically when you use our Sites; and (3) information we obtain from other sources.
+We collect information you provide directly to us.
+For example, we may collect information when you fill out a form, send us an email, use our services, purchase merchandise, sign up to receive updates, request information, submit survey responses, make a donation, share a story, submit content, communicate with us via third-party social media sites, or otherwise communicate with us (via the Sites or otherwise).
+The types of information we collect may include your name, contact information (e.g., email, phone number, and address), payment information, and other contact or identifying information about yourself or others that you choose to provide or authorize to collect.
+You are responsible for providing a copy of this Privacy Policy to anyone whose contact or identifying information you share with us.
+We may also obtain information from other sources and combine it with information that you provide and that we collect through our Sites.
+For example, we may receive voter file data from state parties and other Democratic organizations, from publicly available sources, and from private organizations.
+We may also receive information from a social media site if you connect to us or our Sites through that site.
+We may use your personal information for various purposes, including to:
+- Provide, maintain, and improve our Sites and send you confirmations, receipts, technical notices, updates, security alerts, and support and administrative messages;
+- Provide and deliver the information you request or various features or functionalities, process donations and transactions, and send you related information, including confirmations;
+- Respond to your emails, submissions, comments, questions and requests, provide customer service, ask you to respond to a survey, request feedback, and otherwise contact you about your use of the Sites;
+- Send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about the campaign, various issues, events, activities, and volunteer opportunities (please see “Your Choices” below for information about how to opt out of certain communications at any time);
+- Help connect you with other supporters, and solicit volunteers, donations and support for Shelley for Senate 37 and for other candidates, issues and organizations that we support;
+- Contact you if we need additional information, such as if you leave fields blank on a form or if other information is necessary under Federal and state election laws;
+- Remind you to vote and register to vote and assist you in finding your registration information, polling location, and campaign events near you;
+- Monitor and analyze trends, usage, and activities in connection with our Sites;
+- Personalize and improve the Sites and provide advertisements, content, or features that match user profiles or interests or that are based on the information you provide or the actions you take;
+- Detect, prevent, and respond to fraudulent transactions, abuse, security issues, and other illegal activities and protect the rights and property of Shelley for Senate 37, users of our Sites, and others, including by enforcing our Terms & Conditions; and
+- Carry out any other purpose for which the information was collected.
+The Sites may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Sites with other media, and vice versa.
+The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.
+For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+You may opt out of receiving promotional emails or text messages by following the instructions in those emails or text messages.
+If you opt out, we may still send you other types of emails, such as those about your use of the Sites or any donations or transactions.
+Please note that opt-out requests may not take effect immediately and may take a reasonable amount of time to receive, process, and apply, during which time your information shall remain subject to your prior privacy settings.
+Further, please note that (unless required by applicable law) we may not be able to retrieve or rescind any information provided to third parties prior to your election to opt out.
+With your consent, we may send push notifications or alerts to your mobile device.
+You can deactivate these messages at any time by changing the notification settings on your mobile device.
+Recipients of text messages may opt-out of receiving them by replying “STOP” or “OPT OUT” to the mobile message sent by Shelley for Senate 37.
+No data transmission or storage can be guaranteed to be 100 percent secure.
+As a result, although we take reasonable administrative, technical, and physical security measures to protect your personal information, we cannot ensure or warrant the security of any information that we collect and maintain.
+Shelley for Senate 37 is based in the United States and the Sites are operated and administered entirely within the United States.
+The Sites are directed to users who are U.S. residents and this Privacy Policy is intended for them.
+The information we collect is processed and stored in the United States and is therefore governed by U.S. law.
+By accessing or using the Sites or otherwise providing information to us, you consent to the processing, transfer, and disclosure of information in the United States and other countries as described herein.
+We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements.
+Any changes will be posted on this page, and we encourage you to review it periodically. information we collect is processed and stored in the United States and is therefore governed by U.S. law.
+By accessing or using the Sites or otherwise providing information to us, you consent to the processing, transfer, and disclosure of information in the United States and other countries as described herein.

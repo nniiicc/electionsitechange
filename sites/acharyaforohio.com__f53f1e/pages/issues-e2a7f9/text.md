@@ -1,0 +1,156 @@
+What we're going to get DONE
+Laalitya will make sure that your property taxes go down WHILE keeping your schools funded, that every hardworking Ohioan has access to the healthcare that we need and fighting the cost of everything because big corporations don't deserve tax breaks as normal people struggle to get by.
+She is committed to fighting for an Ohio that works for everyone because we deserve better:
+Our kids deserve strong public schools
+Ohioans deserve better healthcare
+Families deserve affordability
+Explore her priorities further here!
+Please reach out to Team Acharya at laalitya@acharyaforohio.com
+I went to the biggest high school in Ohio - and I'm now running to represent it.
+Whether you or your child go to Mason City Schools, Lebanon City Schools, Kings Local Schools, or any of our private schools - you deserve to know that your child will be taught and taken care of.
+Here's how I'll make sure that happens
+Create Universal Pre-K for Ohio
+- Universal Pre-K doesn't just support the parents of young kids but it ensures those children are ready for Kindergarten
+- Early education is critical to future success and by implementing Universal Pre-K throughout the state, we will make sure that our kids are ready to take on school and future educational challenges
+- Studies have even shown that Pre-K leads to lower rates of juvenile arrests, violent arrests, felony arrests, convictions, and incarceration - so let's make sure ALL students (regardless of zipcodes) have that support
+Keep your tax dollars in your kids' schools by ending school vouchers
+- In the Cincy area, every public school gets about $4600 for each student from the state.
+Vouchers provide about $6100 for private school K-8 and $8400 for high school.
+The amount of money that a voucher gives per student is MORE than the amount a public school gets per student.
+- Vouchers take money away from public schools & private schools are not held to same standard as public schools in what they must/choose to teach.
+So taxpayer dollars are going into a "blackbox" without any accountability
+- Instead we must make sure that all public school systems are properly funded & have the tools to set kids up for success.
+This means AP Classes, SAT prep, funding successful extracurricular activities
+- Families can still choose to put their students into private school, but these schools should not be getting public funds
+Keep teachers focused on every student with Smaller Public School Classroom Sizes
+- Even Mason, one of the area's best public schools has had to deal with increasingly large class sizes which correlate to less 1:1 attention on students.
+- In 2024, Ohio had an average of one teacher to 39.58 students per classroom which is nearly double the recommended level.
+In 2008, that ratio was 21.3 students per classroom - the drop across the past 20 years is shocking.
+Focus in on the STUDENTS
+- Reduce focus on standardized testing.
+It doesn't actually lead to better student learning - just a focus on teaching only what is on the exams rather than fully well-rounded students.
+- Resources for neurodivergent and disabled children to be successful in school by working with teachers to create tangible goals for them to reach - especially if the traditional standards are not as feasible for them
+Continuing to fund and increase access to College Credit Plus (CCP) for students
+- Making the process more accessible and clearly advertised to students as a way to reduce the amount they may pay for college in the future
+- Make more funding accessible to students who are trying to take a CCP class that is not offered at their school at the collegiate level
+Invest in Job Training & Apprenticeships
+- Ohio needs a workforce system that prepares workers for good-paying jobs in manufacturing, healthcare, infrastructure, and energy
+- Expanding paid apprenticeships and workforce training programs connects workers directly to stable, high-demand careers
+- This would support our young people and also provide them with strong pathways after high school - especially for those who do not chose to go to college
+Reducing Ohio's "Brain Drain"
+- Incentivize students from here to stay here and for those who aren’t, to come here & settle here
+In 2022, Suburban Ohio was less than 5% of the state's total land area but home to 31% of the population.
+That means that suburban areas are home for a HUGE proportion of Ohioans.
+But suburban, urban and rural life are now all unaffordable for many.
+Pushing Back on Data Centers
+- Data centers are driving up our electricity bills, destroying our farms and NOT bringing jobs to the area
+- Ohio Lawmakers just gave a $4,500,000 tax break to a data center that will bring 10 jobs.
+Think about how else that money could have been used?
+- We need to make sure that data centers are not harming our communities by:
+- Requiring them to pay their own electricity bills, use better energy sources and "cooling" methods that don't waste water.
+Some data centers are needed but all of them should be responsible for themselves
+- If we don't take action now, our electric grids won't be stable for severe weather and our costs will keep going up
+Reform Zoning Laws to allow for more housing & small businesses
+- Allow for housing to be built within the “downtown” areas to further support walkability and local businesses.
+- Think the "Mason Mile" or Lebanon Downtown but with even more access to our downtown and local business
+- These could be duplexes, townhomes and apartments geared especially towards young people and young families
+- Increase funding to streamline permitting to make it easier to build affordable housing.
+AKA remove the red-tape
+Work with Landowners to keep housing on the market
+- Incentivize landlords to not have empty housing/lots/buildings.
+They should have businesses or families living in these structures to support use and maintenance
+- Reduce & Prevent large entities (like corporations or firms or non-individuals) from buying single-family housing
+Bring utility prices down for all
+- Incentivize community solar projects - like providing schools with funding to create solar gardens
+- Reduce insurance premium increases for the addition of clean energy onto homes
+- Require public hearings & independent audits before approving any rate increases.
+Ohioans have already dealt with large utility firms overcharging and under-delivering
+- Provide utility debt forgiveness or emergency relief funds during severe weather periods
+- Strengthening our energy grid for severe weather cases
+SW Ohio is home to some of the country's best facilities.
+Whether its Cincinnati Childrens' or the University of Cincinnati.
+But most Americans are only one medical crisis away from bankruptcy.
+As a trained biomedical engineer, I've seen firsthand how devastating the lack of healthcare regulation has been to normal Ohioans every day.
+Making medication and medical stays more affordable
+- More aggressive regulation of “facility fees,” surprise billing, out-of-network charges
+- Increasing transparency of all charges from the healthcare and insurance provider to the policyholder
+- Setting caps on how many multiples of cost a pharmaceutical company can charge a patient for (ie a drug that costs $20 to produce can only be sold for $100 - which provides a healthy margin for the company while also providing transparency to patients)
+Healthcare Costs Should Be Transparent
+- Insurers must be required to publicly publish their claim denial rate and premium amounts
+- Patients should be able to get the final cost of treatment by the day of treatment rather than afterwards (ie people should know "how much they are on the hook for")
+Increasing healthcare providers in Ohio
+- Especially in an area that borders several states, we can make it so that providers licensed in other states can more easily practice in Ohio
+- We don't have enough Primary Care Providers (PCP) in Ohio - especially in our rural areas.
+Strengthening access to primary care because Its easier to support a healthy community than an ill one.
+- To solve this, we can expand training programs and residency slots specifically in underserved specialties/communities (like primary care, mental health, etc) to incentivize those roles
+Protecting Ohioans from Medical Debt
+- Wage garnishment for medical bills only increases the strain on an already struggling household.
+By reducing this garnishment, we can ensure that money is being directed to the families and in-turn to their local communities
+- We can purchase medical debt for pennies on the dollar and instead allow families to spend that money IN our community rather than to large corporations.
+No hardworking person should be bankrupted for a medical emergency.
+Increasing the Amount of Safe Nursing Homes and Assisted Living Facilities
+- Assisted living is ~$6k/month in Ohio.
+A nursing home in Cincinnati goes from 9k/month up to $12k/month for a private room
+- Medicaid/State Funding that can go towards a nursing home/assisted living facilities should also be able to go towards private/independent living at home.
+Making Nursing Care Limits Safer
+- Federal guidelines recently changed about how many aides are required in nursing care. ~ So Ohio laws may be the stop-gap to ensure safe staffing.
+This is a huge concern for our elderly population
+Raise Wages for Ohio Workers
+- Ohio’s minimum wage has not kept up with our bills.
+This means working families are often juggling multiple jobs just to get by
+- Ohio's minimum wage is "technically" tied to inflation - but its not enough.
+We need to tie minimum wage to a "livable" amount.
+- We can do that by taking the average rent and grocery costs of Ohioans - and making that the base of our minimum wage.
+As rent and grocery costs increase, so does your earnings.
+- When people earn more, local economies grow - higher wages mean more spending at small businesses and stronger communities across Ohio.
+A livable wage is important for us ALL
+Standing up for all working families
+- Workers should be able to organize without worrying about what "their employers will do"
+- We need to stop bills like SB1 in 2025 which attacks university workers' rights by limiting what they can negotiate for and would ban strikes for Ohio university faculty.
+If bills like this pass, all of our working rights are at risk
+- Strengthening state-level labor protections ensures that unions can negotiate for safer workplaces, better benefits, and fair pay
+Healthcare for ALL - including Unions
+- There is a real divide in the labor community over healthcare for all, and I understand it.
+- Many union workers fought hard for employer-provided healthcare, and there is a legitimate fear that if the government provides healthcare for all, employers will drop coverage - and if the policy is later reversed, workers could be left with nothing
+- That’s why Ohio must first make healthcare for all permanent, protected by statute, and extremely difficult to repeal
+- Larger employers will also be required to either provide health coverage or contribute to a statewide healthcare fund, ensuring businesses continue paying their fair share instead of shifting costs onto taxpayers
+- Employers who currently offer comprehensive health plans would be financially rewarded for maintaining or enhancing coverage, particularly when those benefits are negotiated through union contracts and include dental, vision, mental health, and family coverage
+- For unionized workplaces, state law can explicitly protect healthcare as a mandatory subject of collective bargaining.
+This would ensure unions retain the power to negotiate stronger, supplemental plans rather than losing benefits
+Stopping Wage Theft and Making Safer Workplaces
+- Wage theft and labor violations cost Ohio workers millions of dollars each year, disproportionately harming low-wage and frontline workers
+- Increasing enforcement capacity and penalties ensures employers who break the law are held accountable
+Investing in Job Training & Apprenticeships
+- Ohio needs a workforce system that prepares workers for good-paying jobs in manufacturing, healthcare, infrastructure, and energy
+- Expanding paid apprenticeships and workforce training programs connects workers directly to stable, high-demand careers
+- This would support our young people and also provide them with strong pathways after high school - especially for those who do not chose to go to college
+Public transit is the key to reducing the strain on our roads, our fuel use, and ensuring accessibility within our communities.
+Imagine if you could just train to Columbus for a game at the Ohio State University?
+Or grab a bus to work instead of dealing in morning I-71 traffic?
+Reliable transit is crucial to our growth - especially as SW Ohio continues to boom.
+Supporting the CCDC Train
+- Devote dedicated funding to this train to connect Cincinnati, Columbus, Dayton and Cleveland
+- By working with local mayors, we can get local Mayors to get train tracks & the possibility of having smaller stations at big working hubs such as the P&G Business Innovation Center in Mason
+- We can create a train station and then work with P&G and other companies to create a method of transit from the train station to the workplace and back (such as Home --> Train Station --> Bus to Work --> Work).
+- This would reduce the daily strain on our roads and the amount of time wasted by Ohioans in traffic every day rather than with their families.
+This method works in many less car-dependent cities across the country & Midwest
+Expanding already existing transit
+- Continue to to expand the route and frequency of buses like the 71X Kings Island Express - especially during peak morning hours
+- Expand to weekends as a way for people to easily get downtown such as for younger people, people who don’t want to/can’t get downtown, etc
+- Increase timeliness of local buses
+- Promote public transit and provide subsidies to those who do regularly use public transit for their commutes
+- Develop buses from Lebanon to downtown - and create a bus from Lebanon to the Mason Kings Island Express bus
+- Further build bike paths across the district
+- Create temporary "bike lanes" where on certain summer weekends, multilane roads have 1 lane converted to a bike-only trail
+Our veterans have put their life on the line for us.
+It is the least that we can do for our heroes but to support them when they come home.
+Here's how to welcome our Veterans back to SW Ohio
+Increasing Program Access & Awareness
+- Improve outreach and awareness to our veterans.
+Many are unaware of the programs available to them such as VA specialized care or toxic exposure programs.
+It is our failure to not provide them with this information and support
+- Expand access to VA services like mental health and primary care centers directed just for veterans
+- Require all hospitals to have a Veteran Care Coordinator to directly address veterans’ concerns
+Developing more housing for Veterans
+- Increase state grants for veteran housing and offer state-backed low-interest home loans for veterans buying or renovating homes
+- Increase transparency for the VA and how these funds are directly going to support veterans themselves

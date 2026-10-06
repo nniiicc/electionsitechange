@@ -1,0 +1,4 @@
+As a veteran who served our country for more than 20 years in the United States Army, including deployment during the Iraq War Surge, I understand the sacrifices military families make because I have lived them.
+I understand long deployments, missed holidays, constant moves, and the pressure placed on spouses, children, and service members long after the uniform comes off.
+I stand with veterans and military families because they deserve leaders who understand service, accountability, and the realities they face here at home — from healthcare access and mental health support to rising costs and building stable lives after military service.
+Our community deserves representation from someone who has served beside them, understands their challenges firsthand, and will fight to ensure their voices are heard in Olympia.

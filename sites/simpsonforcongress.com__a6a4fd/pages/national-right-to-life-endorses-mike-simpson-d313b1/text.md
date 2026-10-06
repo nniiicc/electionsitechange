@@ -1,0 +1,1 @@
+National Right to Life Endorses Mike Simpson May 7, 2022 «Previous: Former Governor Butch Otter Endorses Mike Simpson for Congress Guest Opinion: We must stop Democrats’ attempts to take over federal elections and focus on real solutions»

@@ -1,0 +1,13 @@
+AFT-Kansas Becomes Second Statewide Public Education Union to Back Chris Mann for Kansas Attorney General
+August 18, 2026
+Contact: press@chrismannforkansas.com
+LAWRENCE, KS — On Tuesday, the American Federation of Teachers – Kansas announced its endorsement of Chris Mann for Kansas Attorney General, becoming the second statewide public education union to back Chris Mann’s campaign.
+AFT-Kansas is one of the largest public employee unions in Kansas, representing more than 10,000 workers who keep Kansas communities moving.
+These workers educate students, care for patients in hospitals across Kansas, maintain schools and public buildings, and keep cities and state agencies running.
+“The Kansas Association of Public Employees Committee on Public Education is proud to endorse Chris Mann.
+We believe he understands that the law should protect Kansans and strengthen our communities, not be used as a political weapon against them,” said Mike Harris, President of AFT-Kansas.
+“The Attorney General’s office has enormous power to shape whether our state protects public schools, workers, patients, civil rights, voting rights, and the rule of law.”
+AFT-Kansas is the second statewide union representing public school educators to announce its support for Chris Mann’s campaign for Attorney General.
+“As the proud graduate of Kansas public schools and father of two children currently in Kansas public schools, I’m honored to receive the support of two statewide unions representing Kansas educators,” said Chris Mann, candidate for Kansas Attorney General.
+The Kansas National Education Association Political Action Committee has also named Chris Mann as a recommended candidate, highlighting his strong commitment to Kansas public schools.
+AFT-Kansas and the Kansas National Education Association PAC join Mid-America Carpenters Regional Council, the Greater Kansas City Building and Construction Trades Council, the Laborers Local #1290, the Pipe Fitters Local 533, Kansas AFL-CIO, Kansas State Building & Construction Trades Council, the IBEW Local #124, the IBEW Local #271, Ironworkers Local #10, the Bricklayers Local #15, Tri-County Labor Council of Eastern Kansas, and the Operative Plasters and Cement Mason Local 518 in backing Chris Mann’s campaign for Kansas Attorney General.

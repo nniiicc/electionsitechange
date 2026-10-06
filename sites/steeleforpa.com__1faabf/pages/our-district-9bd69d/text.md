@@ -1,0 +1,17 @@
+Our District
+- Aspinwall Borough
+- Blawnox Borough
+- Brackenridge Borough
+- Cheswick Borough
+- East Deer Township
+- Fawn Township
+- Fox Chapel Borough
+- Frazer Township
+- Harmar Township
+- Harrison Township
+- Indiana Township
+- O’Hara Township
+- Sharpsburg Borough
+- Springdale Borough
+- Springdale Township
+- Tarentum Borough

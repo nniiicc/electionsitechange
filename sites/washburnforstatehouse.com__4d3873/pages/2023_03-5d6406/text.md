@@ -1,0 +1,16 @@
+by Dale Washburn | Mar 29, 2023 | News
+On Monday, March 20, the Georgia House of Representatives reconvened under the Gold Dome for our last full week of the 2023 legislative session.
+The end of session is quickly approaching, and we will reach Legislative Day 40, also known as “Sine Die,” on March 29....
+by Dale Washburn | Mar 23, 2023 | News
+The Georgia General Assembly reconvened for the 10th week of the 2023 legislative session on Monday, March 13.
+During these final days of session, my colleagues and I have turned our focus toward reviewing Senate legislation that passed before the Crossover Day...
+by Dale Washburn | Mar 17, 2023 | News
+The Georgia House of Representatives reconvened for the ninth week of session and Legislative Day 28, otherwise known as Crossover Day, on Monday, March 6, 2023.
+Crossover Day is a crucial deadline for the House and Senate as this is the last day for bills to pass out...
+by Dale Washburn | Mar 9, 2023 | News
+On Monday, February 27, my House colleagues and I started a long yet productive week of the 2023 legislative session, where we met for four days in the House Chamber and devoted an entire day to working in our respective committees.
+With Crossover Day coming up next...
+by Dale Washburn | Mar 1, 2023 | News
+The Georgia House of Representatives reconvened on Tuesday, February 21 for the seventh week of the 2023 legislative session.
+My colleagues and I went straight to work on Tuesday morning to ensure that good, sound legislation could pass before the clock runs out.
+Each...

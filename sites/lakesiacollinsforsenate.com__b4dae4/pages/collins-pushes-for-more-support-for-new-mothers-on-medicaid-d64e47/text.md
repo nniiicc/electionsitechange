@@ -1,0 +1,10 @@
+SPRINGFIELD – Continuing her support for mothers across Illinois, State Senator Lakesia Collins is leading a measure to give mothers enrolled in Medicaid better access to maternal health services.
+“I know the hardships of being a new mother, and for those on Medicaid, having a doula by their side can be a lifeline,” said Collins (D-Chicago).
+“This is one more way Illinois can assist new moms and continues our commitment to expanding care to marginalized communities and those who rely on Medicaid.”
+Under Senate Bill 2437, hospitals and birthing centers would be required to give patients enrolled in Medicaid the option to select a certified doula through the Illinois Medicaid-Certified Doula Program.
+Covered doula services can include counseling and support, newborn care, development of a birth plan, attendance at health care appointments, support during labor and delivery and more.
+The measure would also enable the Illinois Department of Healthcare and Family Services and Department of Public Health to establish recommendations to ensure access to Medicaid-covered maternal and reproductive health support services.
+“This will help mothers – regardless of whether they have private insurance or Medicaid – get the assistance they need during pregnancy,” said Collins.
+“With this legislation, we are creating an environment here in Illinois where all mothers can find safety and security in their health care and further opening resources for our communities.”
+Senate Bill 2437 passed the Senate Health and Human Services Committee on Tuesday.
+###

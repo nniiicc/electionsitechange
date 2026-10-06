@@ -1,0 +1,1 @@
+CCIA: "NEW MEXICO SCHOOLS: Failed Academics, Violence, Drugs, Transgender Affirmation, Graphic Sexual Books" Jun 11, 2024 1 min read Concerned for New Mexico - CCIA https://www.youtube.com/watch?v=rPA1VQXTW1o

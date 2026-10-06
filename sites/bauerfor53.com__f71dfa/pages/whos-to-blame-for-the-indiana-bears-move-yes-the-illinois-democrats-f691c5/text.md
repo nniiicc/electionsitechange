@@ -1,0 +1,24 @@
+Today the Bears announced that their “Board of Directors met and voted to advance [their] stadium development project in Hammond, Indiana.”
+Numerous politicians, including Pritzker, Johnson, Kam Buckner, and more, are treating this as yet another negotiating ploy.
+Some have even called on the legislature to reconvene in a special session.
+Others, such as State Rep.
+Grasse, have touted the bill the State House passed in April, omitting its flaws or even touting the ill-conceived “property tax relief” element.
+And alongside this, they claim they have “stood up to the billionaires” and protected taxpayers, even though, until their proposals fell through, these same legislators and politicians were perfectly happy to provide a variety of incentives, from property tax freezes to sales tax revenue, not just for the Bears but for a whole host of tourism and development projects.
+I don’t believe this is still a negotiating ploy.
+However unhappy season ticket holders in Lake Forest might be, it’s close to certain that the Bears are done playing games and have made their final decision.
+It’s easy to see the attractiveness of the offer, with direct funding for both stadium construction and infrastructure, and property tax exemption.
+Those claiming the site is a polluted wasteland are ill-informed, at best.
+And there’s simply nothing unusual about a professional sports stadium being located in a suburb, even one across state lines.
+But nonetheless, the Bears decision was not foreordained and it’s the Democrats’ repeated governance and legislative failures that ended their willingness to relocate at Arlington Park.
+Democrats refused to solve the acknowledged and very real issues before them, engaging instead in a combination of continual procrastination, attempts to horse-trade by packing bills with unrelated provisions, and simple internecine fighting.
+As I’ve said before: there are real issues with property taxes calculations for properties which can’t be assessed based on a simple market value.
+There are real issues with property taxes for businesses where the tax consumes an unsustainably high share of the revenue.
+Illinois’ property taxes in general, and property taxes for commercial properties and, in particular, in the Northwest Suburbs, are simply too high, and the state has become too dependent on special tax breaks rather than across-the-board reasonable levels of taxes.
+While this is a long-term problem requiring broad solutions, the Bears’ plan to purchase, own, and be liable for property taxes for a stadium made the issue more urgent, and while the State House did pass a bill to address this, they loaded it with so many extraneous provisions and so many unworkable elements that it was shrugged off as simply planned to be “fixed in the Senate.”
+Regarding infrastructure, we all know that it’s standard practice for the city/county/state to fund infrastructure, in the form of road widening and expansion, train stations, and so on but we expect developers to be responsible for the internal infrastructure, such as streets, sanitary/storm sewers, water mains, etc., Some are now saying the Bears bear the blame for lacking a traffic study but whether or not the Bears presented a traffic study is beside the point – Pritzker and the Democrats were hardly prevented from laying out, and adding into the budget appropriations process provisions spelling out the general parameters of what sorts of infrastructure they would and would not be willing to fund with state money.
+But worse than all of this was the debacle of the last Sunday’s last ditch attempt to rush through an entirely different idea, a “stadium authority” which would have been (or should have been) a non-starter for Arlington Heights, to sacrifice not only all property tax but all sales tax revenue from the site (as well as the sales tax revenue from any adjacent development).
+It was so half-baked that technically Arlington Heights wouldn’t have even qualified, because it included only municipalities entirely within Cook County.
+It doesn’t even qualify as a “Hail Mary” pass because at least in that case the quarterback is throwing in the right direction.
+It’s not at all clear to me whether this was actually intended to be a serious solution at all.
+And this all happened not because of the Bears but because the Democrats controlling the Illinois House and Senate were neither willing to work together to build consensus among their own party membership, nor to work constructively with Republicans to build a bipartisan consensus – and that’s the largest failure of all of them.
+Senate Democrats in particular are now insisting that they wisely stood up against selfish billionaire demands, but when everyone expected that the Senate would fix the multitude of flaws in the House bill, to instead pass an absurd last-minute bill was anything but “wise.”

@@ -1,0 +1,144 @@
+Legislative Record
+Representative Andrea White is working to strengthen families, improve access to health care and child care, support students and veterans, protect vulnerable Ohioans and make communities safer.
+Throughout her service in the Ohio House, Andrea has introduced and advanced legislation addressing the challenges Ohio families face at every stage of life.
+136th General Assembly
+2025–2026
+House Bill 7 — Child Care Eligibility for Foster and Kinship Caregivers
+Passed by the House Children and Human Services Committee
+Would make foster and kinship caregivers eligible for Ohio’s Publicly Funded Child Care program.
+House Bill 8 — Biomarker Testing Coverage
+Passed by the House Health Committee
+Would require health insurers and Medicaid to cover biomarker testing when it is used to diagnose, treat, manage or monitor a disease or medical condition.
+The legislation would not require coverage when testing is used solely for screening purposes.
+House Bill 41 — Public-Private Partnership Child Care Grant Program
+Pending in the House Finance Committee
+Would establish a grant program to help employers develop on-site or nearby child care facilities, expand existing facilities and partner with child care providers, government entities and nonprofit organizations to increase child care capacity in their communities.
+House Bill 95 — Support for the Ohio Veterans Education Council
+Included in the state operating budget, House Bill 96
+Provides $1.44 million in fiscal years 2026 and 2027 to support higher education institutions participating in the Ohio Veterans Education Council.
+House Bill 167 — Employer Child Care Tax Credit
+Pending in the House Ways and Means Committee
+Would create a nonrefundable tax credit for employers that provide qualifying child care benefits to their employees.
+The credit would apply to up to $500,000 in eligible expenses per calendar year.
+House Bill 519 — Criminal Tools and Motor Vehicle Theft
+Pending in the Senate Judiciary Committee
+Would establish that possessing or controlling an electronic device or tool with the intent to steal a motor vehicle is prima facie evidence of the criminal purpose required for a possessing-criminal-tools offense.
+The bill would also create a classification for repeat juvenile motor vehicle theft offenders.
+The legislation was developed with the Dayton Police Department.
+House Bill 560 — Protect Our Parents Act
+Pending in the House Financial Institutions Committee
+House Bill 689 — Fingerprinting Requirements
+Pending in the Senate Judiciary Committee
+House Bill 690 — Crossing Guards
+Pending in the House Judiciary Committee
+House Bill 724 — Behavioral Health Well Checks
+Pending in the House Insurance Committee
+House Bill 750 — PACE
+Passed by the House Health Committee
+House Bill 765 — Single-Family Tax Credit Fix
+Pending in the House Development Committee
+House Bill 848 — HBCU Month
+Pending in the House Workforce and Higher Education Committee
+House Bill 865 — Adoption
+Passed by the House Children and Human Services Committee
+House Bill 939 — Early Intervention
+Pending in the House Children and Human Services Committee
+House Bill 945 — Regulation of Hospice Care Programs
+Pending in the House Health Committee
+House Bill 948 — Electric Bicycles
+Pending in the House Transportation Committee
+House Concurrent Resolution 30 — 50th Anniversary of the Individuals with Disabilities Education Act
+Pending in the House Education Committee
+Leadership on Children and Human Services
+As Chair of the House Children and Human Services Committee, Representative White has helped guide legislation addressing child care, behavioral health, child protection and support for vulnerable Ohioans.
+Key legislation considered by the committee includes:
+- House Bill 2: Child Care Cred Program
+- Senate Bill 138: ADAMHS board reforms — enrolled
+- House Bill 359: Joshua Alert — enrolled
+- House Bill 464 and Senate Bill 218: Exempting military-certified child care providers from state licensure
+- House Bill 472: Providing free identification cards to individuals experiencing homelessness
+- House Bill 484: Workforce Investment Now Child Care Pilot Program, allowing qualifying child care workers to participate in Publicly Funded Child Care
+- House Bill 532: Allowing public children services agencies to take custody of specified children
+- House Bill 635: Child Protection Reform Act
+- House Bill 647: Publicly Funded Child Care program integrity legislation
+135th General Assembly
+2023–2024
+In addition to helping secure increased funding for early childhood health care, child care, preschool, K–12 education, higher education and career training, Representative White introduced and advanced legislation across a wide range of priorities.
+House Bill 7 — Strong Foundations Act
+Passed by the House; key provisions enacted through House Bill 33
+Addresses Ohio’s infant and maternal mortality rates and seeks to improve health, learning and developmental outcomes during a child’s first 1,000 days through investments in proven programs and services.
+House Bill 24 — Biomarker Testing Coverage
+Passed by the House
+Would require health plans and Medicaid to cover biomarker testing when supported by medical and scientific evidence and accepted standards of care.
+Biomarker testing can help patients receive more precise treatment while reducing unnecessary costs, delays and suffering.
+House Bill 56 — Increased Penalties for Street Takeovers and Fleeing Police
+Signed into law October 24, 2024
+Strengthens penalties for dangerous street takeovers, stunt driving and reckless driving.
+It also increases penalties for fleeing police in a motor vehicle and requires law enforcement agencies to adopt written pursuit policies and train officers accordingly.
+House Bill 76 — Innovate the Code
+Enacted through House Bill 33
+Modernizes notice and data-storage requirements in the Ohio Revised Code, eliminating outdated publication and delivery requirements and saving taxpayer dollars.
+House Bill 190 — Black Maternal Health Week
+Passed by the House
+Designates April 11–17 as Black Maternal Health Week to increase awareness of racial disparities in maternal and infant health and encourage efforts to prevent maternal and infant deaths.
+House Bill 312 — Regional Education Partnerships Program
+Enacted through Senate Bill 208
+Places the Regional Education Partnerships Program within the Ohio Department of Education and Workforce.
+The program helps communities build cradle-to-career collaborations that prepare young people for success and support Ohio’s postsecondary credential-attainment goals.
+House Bill 338 — Child Support for Adult Children with Disabilities
+Enacted
+Creates greater consistency across Ohio by allowing a divorcing parent to ask a court to award child support for an adult child whose disability prevents the individual from living independently.
+House Bill 388 — Lead-Safe Renovation, Repair and Painting
+Considered by the House Public Health Policy Committee
+Would transfer enforcement of the federal Lead Renovation, Repair and Painting Rule from the U.S.
+Environmental Protection Agency to the Ohio Department of Health.
+The legislation seeks to increase education about and compliance with safe renovation practices in homes and buildings constructed before 1978.
+House Bill 452 — Health Care Workplace Safety Act
+Enacted
+Requires hospitals and health care systems to create workplace security plans and systems for reporting and tracking incidents.
+It also strengthens de-escalation training and internal communication to help protect health care workers from workplace violence.
+House Bill 484 — Child Care Grant and Employer Training Initiative
+Considered by the House Finance Committee
+Would expand community child care capacity through partnerships among employers, providers, government agencies and community organizations.
+The legislation proposed grants of up to $750,000 and an employer design lab to help address Ohio’s interconnected workforce and child care challenges.
+House Bill 571 — Suicide Prevention and Crisis Resources for Students
+Enacted through Senate Bill 234
+Increases awareness of statewide and local mental health resources by requiring the 988 Suicide and Crisis Lifeline and other helpline information to appear on high school and college student identification cards, planners or online portals.
+House Bill 572 — Educator Preparation Program Survey
+Enacted through Senate Bill 94 on October 24, 2024
+Requires the Chancellor of Higher Education to review the classroom management, behavior management and mental health instruction offered through Ohio’s teacher and administrator preparation programs.
+The goal is to ensure educators are better prepared to support students and remain successful in the classroom.
+House Bill 576 — Employer-Provided Child Care Tax Credit
+Would provide employers with a tax credit of up to $500,000 for investments in on-site or nearby child care and assistance with employees’ child care expenses.
+House Bill 577 — Child Care Expense Tax Credit
+Would provide parents and caregivers with an income tax credit of up to $3,000 per child or $6,000 per family for child care expenses.
+Refundability would be determined through an income-based sliding scale.
+House Bill 578 — Tax Credits for Contributions to Child Care Programs
+Would create a 50% tax credit for qualifying contributions to home- and center-based child care providers, with a maximum credit of $100,000.
+House Bill 580 — Publicly Funded Child Care for Foster and Kinship Families
+Would expand access to Publicly Funded Child Care for children in foster care and long-term kinship care.
+House Bill 583 — Accountability and Transparency for Youth Group Homes
+Enacted through House Bill 315
+Strengthens accountability and transparency requirements for youth group homes.
+134th General Assembly
+2021–2022
+The following legislation introduced and advanced by Representative White became law:
+House Bill 244 — School Enrollment for Military Families
+Expanded access to school enrollment for military families preparing to move to Ohio.
+House Bill 252 — Speech and Hearing Services
+Expanded access to speech and hearing services and established a professional licensure compact for audiologists and speech-language pathologists, including military spouses and other professionals moving to Ohio.
+House Bill 343 — Protecting Crime Victims’ Rights
+Aligned the Ohio Revised Code with the Marsy’s Law constitutional amendment to strengthen compliance, enforcement, accountability and consistency in protecting crime victims’ rights.
+House Bill 427 — Combating Human Trafficking
+Strengthened penalties for human traffickers who use drugs to control their victims.
+House Bill 440 — Ohio Gains Initiative
+Helped reduce loan rates for farmers as they faced rising operating costs and food-price pressures.
+House Bill 569 — Hidden Heroes Scholarship Program
+Established scholarships for caregivers of veterans with 100% service-connected disabilities.
+House Bill 473 — Memorial Highway Designations
+Designated portions of State Route 48 in honor of Sergeant Cameron H.
+Thomas and Sergeant Kevin J.
+Lannon.
+The provisions were incorporated into a larger road-designation bill and signed into law.
+A formatting note: I removed the duplicate House Bill 569 entry, standardized capitalization and committee-status language, corrected “dueling workforce and child care crises” to “interconnected workforce and child care challenges,” and separated Andrea’s sponsored legislation from bills handled through her committee leadership.
+Because legislative statuses can change, the status lines should be checked periodically before publication.

@@ -1,0 +1,140 @@
+Endorsements for Doris Matsui
+Democratic Party Organizations
+California Democratic Party
+El Dorado County Democrats
+Greater Lodi Area Democrats
+Sacramento Democratic Alliance
+Sacramento County Democratic Party
+San Joaquin County Democratic Party
+Stonewall Democrats of Greater Sacramento
+Harry S Truman Club
+Labor Organizations
+AFSCME California
+BAC Local 3
+CA Federation of Teachers
+California Letter Carriers
+California Teachers Association
+Communication Workers of America
+IAFF-International Association of Fire Fighters
+IBEW 1245
+IBEW 340
+Ironworkers Local 118
+IUPAT 1237 – Flooring
+IUPAT 767 – Glaziers
+National Association of Letter Carriers
+National Education Association
+Plumbers & Pipefitters 447
+Sacramento-Sierra Building & Construction Trades Council
+Sacramento Deputy Sheriff’s Association
+SMART 104
+State Building & Construction Trades Council of California
+Teamsters Local 150
+United Nurses Associations of California/Union of Health Care Professionals (UNAC/UHCP)
+Women’s Organizations
+National Women’s Political Caucus
+Planned Parenthood Action Fund
+Environmental Organizations
+Natural Resources Defense Council
+Sierra Club California
+League of Conservation Voters
+LGBTQ+
+Equality PAC
+Equality California
+Human Rights Campaign PAC
+Stonewall Democrats of Greater Sacramento
+Business Organizations
+CalAsian Chamber of Commerce
+Sacramento Metro Chamber
+Community Leaders
+Alex Padilla, US Senator
+Adam Schiff, US Senator
+Pete Aguilar, US Representative
+Nanette Barragan, US Representative
+Dr.
+Ami Bera, US Representative
+Julia Brownley, US Representative
+Salud Carbajal, US Representative
+Judy Chu, US Representative
+Gil Cisneros, US Representative
+Lou Correa, US Representative
+Jim Costa, US Representative
+Mark Desaulnier, US Representative
+Laura Friedman, US Representative
+John Garamendi, US Representative
+Robert Garcia, US Representative
+Adam Gray, US Representative
+Josh Harder, U.S.
+Representative
+Jared Huffman, US Representative
+Sara Jacobs, US Representative
+Sydney Kamlager, US Representative
+Ro Khanna, US Representative
+Mike Levin, US Representative
+Ted Lieu, US Representative
+Sam Liccardo, US Representative
+Zoe Lofgren, US Representative
+Dave Min, US Representative
+Kevin Mullin, US Representative
+Jimmy Panetta, US Representative
+Nancy Pelosi, US Speaker Emerita
+Scott Peters, US Representative
+Raul Ruiz, US Representative
+Linda Sanchez, US Representative
+Brad Sherman, US Representative
+Lateefah Simon, US Representative
+Mark Takano, US Representative
+Mike Thompson, US Representative
+Norma Torres, US Representative
+Maxine Waters, US Representative
+George Whitesides, US Representative
+Gavin Newsom Governor
+Eleni Kounalakis, Lt.
+Governor
+Fiona Ma, State Treasurer
+Malia Cohen, State Controller
+Jerry McNerney, State Senator
+Dr.
+Richard Pan, State Senator, Ret.
+Maggy Krell, State Assemblymember
+Stephanie Nguyen, State Assemblymember
+Jim Cooper, Sacramento County Sheriff
+Thienvu Ho, Sacramento District Attorney
+Rich Desmond, Sacramento County Supervisor
+Patrick Kennedy, Sacramento County Supervisor
+Phil Serna, Sacramento County Supervisor
+Ron Freitas, San Joaquin County District Attorney
+Patrick Withrow, San Joaquin County Sheriff
+Lucas Frerichs, Yolo County Supervisor
+Oscar Vilegas, Yolo County Supervisor
+Bobbie Singh-Allen, Elk Grove Mayor
+Rod Brewer, Elk Grove Councilmember
+Sergio Robles, Elk Grove Councilmember
+Darren Suen, Elk Grove Councilmember
+Paul Sandhu, Galt City Councilmember
+Ramon Yepez, Lodi Mayor
+Mikey Hothi, Lodi Mayor Pro Tem
+Cameron Bregman, Lodi City Councilmember
+Lisa Craig-Hensley, Lodi City Councilmember
+Alan Nakanishi, Lodi City Councilmember
+Kevin McCarty, Sacramento Mayor
+Darrell Steinberg, Sacramento Mayor, Ret.
+Roger Dickinson, Sacramento Councilmember
+Eric Guerra, Sacramento Councilmember
+Rick Jennings, Sacramento Councilmember
+Lisa Kaplan, Sacramento Councilmember
+Phil Pluckebaum, Sacramento Councilmember
+Steve Hansen, Sacramento Councilmember Ret.
+Ray Tretheway, Sacramento Councilmember Ret.
+Dave Tamayo, SMUD Board President
+Rob Kerth, SMUD Board Vice President
+Nancy Bui-Thompson, SMUD Board Member
+Greg Fishman, SMUD Board Member
+Rosanna Herber, SMUD Board Member
+Brandon Rose, SMUD Board Member
+Heidi Sanborn, SMUD Board Member
+Martha Guerrero, West Sacramento Mayor
+Verna Sulpizo Hull, West Sacramento Mayor Pro Tem
+Quirina Orozco, West Sacramento Councilwoman
+Jesus Tarango, Chairman Wilton Rancheria
+Ken Barnes, Pres./CEO Greater Sacramento Urban League*
+*For identification purposes only

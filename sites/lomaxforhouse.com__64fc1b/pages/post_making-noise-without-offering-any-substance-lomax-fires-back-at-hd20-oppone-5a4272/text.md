@@ -1,0 +1,1 @@
+'Making noise without offering any substance': Lomax fires back at HD20 opponent Brooks over 'con job' remarks Press Team Feb 13 1 min read Link to story here --> https://1819news.com/news/item/making-noise-without-offering-any-substance-lomax-fires-back-at-hd20-opponent-brooks-over-con-job-remarks

@@ -1,0 +1,127 @@
+Endorsed by the California Democratic Party
+Elected Officials
+- U.S.
+Congressman Ami Bera, Candidate for U.S.
+Congressional District 3, 2026
+- California Lieutenant Governor Eleni Kounalakis, Candidate for State Treasurer
+- California State Assembly Speaker Robert Rivas
+- California Treasurer Fiona Ma, Candidate for State Lieutenant Governor
+- State Controller Malia Cohen
+- State Senator Angelique Ashby, District 8, Senate Majority Leader
+- Assemblymember Dawn Addis, District 30
+- Assemblymember Cecelia Aguiar-Curry, District 4, Assembly Majority Leader
+- Assemblymember Dr.
+Corey Jackson, District 60
+- Assemblymember Jessica Caloza, District 52
+- Assemblymember Damon Connolly, District 12
+- Assemblymember Robert Garcia, District 50
+- Assemblymember Mike Fong, District 49
+- Assemblymember Maggy Krell, District 6
+- Assemblymember Al Muratsuchi, District 66
+- Assemblymember Liz Ortega, District 20
+- Assemblymember Cottie Petrie-Norris, District 73
+- Assemblymember Sharon Quirk-Silva, District 67
+- Assemblymember Chris Rogers, District 2
+- Assemblymember Nick Schultz, District 44
+- Assemblymember Lori Wilson, District 11
+- Assemblymember Rick Chavez Zbur, District 51, Assembly Democratic Caucus Chair
+- California Democratic Legislative Women’s Caucus
+- Ken Cooley, Former Assemblymember, District 7, 2012-2022; Founding Councilmember and Mayor, City of Rancho Cordova, 2003-2012
+- Roger Dickinson, Member of the Sacramento City Council, District 2; Former Assemblymember, District 7, 2010-2014; Former Sacramento County Board of Supervisors, 1994-2010
+- Dr.
+Richard Pan, Former State Senator, District 6, 2014-2022; Candidate for U.S.
+Congressional District 6, 2026
+- Darrell Steinberg, Former Senate President pro Tempore and Mayor of Sacramento
+State Leaders
+- American Federation of State, County and Municipal Employees (AFSCME)
+- American Federation of State, County and Municipal Employees (AFSCME) Council 36
+- American Federation of State, County and Municipal Employees (AFSCME) Council 57
+- American Federation of Government Employees (AFGE) Local 1260
+- California Environmental Voters
+- California Faculty Association (CFA)
+- California Federation of Labor Unions (AFL-CIO)
+- California Federation of Teachers (CFT)
+- California Nurses Association (CNA)
+- California Teachers Association (CTA)
+- California Young Democrats (CYD)
+- California School Employees Association (CSEA)
+- Climate Action California
+- Equality California
+- National Women's Political Caucus of California
+- National Union of Healthcare Workers
+- Planned Parenthood Advocates Mar Monte
+- Service Employees International Union (SEIU)
+- Service Employees International Union (SEIU) 1000
+- Service Employees International Union (SEIU) 2015
+- The California Women's List (CWL)
+- United Association of Journeymen & Apprentices of the US and Canada Local 447 Federal PAC (Plumbers & Pipefitters)
+- United Domestic Workers (UDW)
+- United Nurses Association of California / Union of Health Care Professionals (UNAC/UHCP)
+- Women's Political Committee
+Local Elected Officials
+- Michael Baker, Board of Education Member, Twin Rivers Unified School District
+- Christopher Clark, Board of Education Member, Folsom Cordova Unified School District
+- Adara Clark-Gunn, President, CSEA Chapter 127
+- Pam Costa, Board of Education Member, San Juan Unified School District
+- Zima Creason, Board of Education Member, San Juan Unified School District
+- Ryan Digman, Chairperson, Special Education Community Advisory Committee (CAC), San Juan Unified School District
+- Gregg Fishman, Member, Sacramento Municipal Utility District (SMUD) Board of Directors, Ward 3
+- Al Fox, Former Member, Citrus Heights City Council
+- Eric Guerra, Mayor Pro Tem, District 6, Sacramento City Council
+- Sarah Kirby-Gonzalez, Board of Education Member, Washington Unified School District; Educator, Folsom Cordova Unified School District
+- Joe Little, Member, Rancho Cordova City Council
+- Kara Lofthouse, Board of Education Member, Folsom Cordova Unified School District
+- Porsche Middleton, Vice Mayor, City of Citrus Heights
+- Chinua Rhodes, Board of Education Member, Sacramento City Unified School District
+- Heidi Sanborn, Member, Sacramento Municipal Utility District (SMUD) Board of Directors, Ward 7
+- Jasjit Singh, Board of Education Member, Sacramento City Unified School District
+- Dave Tamayo, Board President, Sacramento Municipal Utility District (SMUD) Board of Directors, Ward 6
+- Shelton B.
+Yip, Trustee, Area 4, Yolo County Office of Education; former Special Education Administrator, Sacramento City Unified School District; Officer, Association of California School Administrators (ACSA) Retiree Council
+Community Organizations
+- Los Rios College Federation of Teacher Political Action Fund Committee (LRCFT PAFC)
+- NorCal Gun Violence Prevention
+- Plumbers & Pipefitters Local 447
+- Sacramento Central Labor Council, AFL-CIO
+- Teamsters Local 150
+Community Clubs
+- American River Democratic Club
+- College Democrats at Sacramento State University
+- Democratic Party of Sacramento County
+- Fem Dems of Sacramento
+- Folsom Area Democratic Club
+- JFK Democratic Club of Sacramento County
+- Sacramento County High School Democrats
+- Sacramento County Women Democrats
+- Sacramento County Young Democrats
+- Stonewall Democrats of Greater Sacramento
+- The Truman Democratic Club
+- Town and Country Democratic Club
+Community Leaders
+- Nicole Anderson, CEO and Founder, Nicole Anderson and Associates Consulting, LLC; former Diversity and Equal Access Executive for the Association of California School Administrators (ACSA)
+- Peter Birdsall, President, Education Advocates; former Executive Director, California County Superintendents
+- Ron J.
+Carruth, Ed.D., Executive Director, California High School Coalition; Retired Superintendent, El Dorado Union High School District and Whittier City School District; Past President, Association of California School Administrators (ACSA) State Superintendents' Council (2021-2024)
+- Sonny DaMarto, Ed.D., Past President, Association of California School Administrators (ACSA); Retired Superintendent, Turlock Unified School District and Burlingame Unified School District
+- Dr.
+General Davie, Jr., Retired Superintendent, San Juan Unified School District; Past Vice President Legislative Action, Association of California School Administrators (ACSA); Past President, Carmichael Kiwanis Club; Board Member, Aerospace Museum of California
+- Michael Kast, Assistant Superintendent of Student Programs, Sacramento County Office of Education; former special education teacher and principal, Sacramento City Unified School District
+- Oranit Limmaneeprasert, Professor and Past Faculty Union President, American River College/Los Rios College Federation of Teachers (CFT -ARC); District 7 Delegate, California Democratic Party
+- Adonai Mack, CEO, Child Action Inc.; former Senior Director of Equity Services and former Senior Director of Federal Relations, Political Affairs and Strategy for the Association of California School Administrators (ACSA)
+- Jon McNeil, Retired Chief Business Official, Whittier City School District; Principals' Center Team Leader, 2018 Business Services Administrator of the Year, and Educational Options Administrator of the Year for the Association of California School Administrators (ACSA)
+- Mary McNeil, Ph.D., Retired Superintendent of Schools, Needles Unified School District; 2018 Superintendent of the Year, Director of Superintendents Academy, and Region XV Past President for the Association of California School Administrators (ACSA)
+- Jessica Morse, Former Congressional Candidate, CD-03
+- Lawrence Murray, Mechanical Engineer, CoolingEarth
+- Jag Nagendra, 2026 Candidate, Folsom City Council; District 7 Delegate, California Democratic Party
+- Daniel Olmos, Ph.D., Associate Professor, California State University, Northridge
+- Neva Parker, 2026 Candidate, State Assembly, District 5
+- Frank Porter, Vice President, Housing Board of Directors, El Dorado County; Retired Superintendent of Schools, Twin Rivers Unified School District
+- Gary Rutherford, Ed.D., Retired Superintendent of Schools, Desert Sands Unified School District and Upland Unified School District
+- David Sanders, Past President, Folsom Area Democratic Club; District 7 Delegate, California Democratic Party
+- Danielle Sivalingam, District 7 Delegate, California Democratic Party
+- Roxanne Stellmacher, 2026 Board of Education Candidate, San Juan Unified School District
+- Lester A.
+Snow, former Secretary of the California Natural Resources Agency
+- Paula Villescaz, Deputy Legislative Affairs Secretary, Office of California Governor Gavin Newsom; former Trustee, San Juan Unified School District
+- Michelle Wavering, Retired Administrator, Upland Unified School District
+- Chris Yatooma, Former Vice President of Fiscal Services at Sierra and Delta Community Colleges; District 7 Delegate, California Democratic Party

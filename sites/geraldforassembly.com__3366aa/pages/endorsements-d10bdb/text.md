@@ -1,0 +1,21 @@
+ENDORSEMENTS
+Elected Officials
+US Representative Mike Levin
+San Diego City Councilmember Marni Von Wilpert
+La Mesa City Councilmember Lauren Cazares
+La Mesa City Councilmember Genevieve Suzuki
+North County Fire Protection District Director Jeff Egkan
+Organizations
+California State Democratic Party
+Congressional Legislative Black Caucus
+San Diego Democrats for Equality
+Alliance for Democracy of East County (ADEC)
+East County Democratic Club
+Escondido Democratic Club
+Fallbrook Democratic Club
+San Marcos Democratic Club
+San Diego North County Young Dem
+Poway Democratic Club
+San Diego Young Democrats
+Valley Center Democratic Club
+Women’s Democratic Club of San Diego

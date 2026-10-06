@@ -1,0 +1,40 @@
+Press Release
+Regional Elected Officials Endorse Rhonda Shader for California State Senate
+April 21, 2025
+Candidate Rhonda Shader, a proven leader and former Mayor of Placentia, announced a coalition of local elected leaders who have endorsed her campaign for California State Senate District 34.
+Endorsements include Senator Tony Strickland, Assemblymember Phillip Chen, Assemblymember Laurie Davies, Orange County Supervisor and former State Senator Janet Nguyen, Placentia Mayor Kevin Kirwin, Anaheim Mayor Pro Tem Natalie Meeks, Garden Grove Mayor Stephanie Klopfenstein.
+Lincoln Club of Orange County has also endorsed Shader.
+These endorsements underscore Shader’s support across the region.
+“Rhonda Shader is the strong, principled leader we need in the California State Senate.
+Her dedication to common-sense policies and fiscal responsibility will break the Democrats’ supermajority stronghold, restoring balance and accountability to Sacramento.”
+– Senator Tony Strickland
+“Rhonda Shader is a proven leader who brings people together to solve tough challenges.
+Her experience as a business owner and dedicated public servant makes her the right choice for California State Senate.
+We saw her deliver results for Placentia and now she will fight for us in Sacramento.
+I’m proud to endorse Rhonda because she leads with integrity and aims for results-driven solutions.”
+– Natalie Meeks, Mayor Pro Tem of Anaheim
+“Rhonda’s commitment to Garden Grove and her track record of delivering results make her the ideal candidate for California State Senate.
+I’m honored to endorse Rhonda for her dedication and leadership.”
+– Stephanie Klopfenstein, Mayor of Garden Grove
+Shader’s record of public service and unwavering dedication as a principled leader have earned her a reputation as a champion for fiscal responsibility.
+Shader will be a champion for policies that prioritize public safety, reduce the cost of living, and address the state’s homeless crisis.
+- Assemblymember Phillip Chen
+- Assemblymember Laurie Davies
+- Senator Dick Ackerman (ret.)
+- Janet Nguyen, Orange County Supervisor and former State Senator
+- Claude Parrish, Orange County Assessor
+- Tim Shaw, Orange County Board of Education
+- Lisa Sparks, Orange County Board of Education
+- Jorge Valdes, Orange County Board of Education
+- Ken Williams Jr., Orange County Board of Education
+- Janice Lim, Yorba Linda Mayor
+- Natalie Meeks, Anaheim Mayor Pro Tem
+- Jose Diaz, Former Anaheim City Council
+- Gloria Ma’ae, Former Anaheim City Council
+- Stephanie Klopfenstein, Garden Grove Mayor
+- Robyn Grant, Newport Beach Council
+- Kevin Kirwin, Placentia Mayor
+- Ward Smith, Placentia City Council
+- Crystal Miles, Villa Park City Council
+- Tara Campbell, Yorba Linda City Council
+- Shivinder Singh, Yorba Linda City Council

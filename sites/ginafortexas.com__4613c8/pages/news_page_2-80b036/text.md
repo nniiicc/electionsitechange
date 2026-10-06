@@ -1,0 +1,3 @@
+NEW: “Hinojosa blasts HISD’s AI school expansion as Greg Abbott’s ‘experiment’ on kids”
+Press Release
+Houston Chronicle: Hinojosa’s “populist message for everyday Texans, including teachers, against tech billionaires has made her perhaps the most serious challenger that Abbott has faced during his three terms as governor.” Houston, TX – This week, …

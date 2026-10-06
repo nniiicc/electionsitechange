@@ -1,0 +1,3 @@
+Congresswoman Monica De La Cruz wrote to Homeland Security Secretary Markwayne Mullin asking the department to prioritize religious worker visa applications, citing USCIS processing times of 8.5 and 11.5 months depending on applicant type.
+She credited the administration for a January 2026 change that lets certain R-1 workers seek readmission without spending a mandatory year outside the country, then pressed for shorter wait times on top of it, writing that “Churches and faith-based institutions serve as the foundation for our communities.” She also cosponsored the bipartisan Religious Worker Protection Act, which would let DHS extend R-1 status until a permanent residence application is finalized.
+Texas Border Business

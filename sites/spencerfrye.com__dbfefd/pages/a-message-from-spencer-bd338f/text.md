@@ -1,0 +1,5 @@
+A Message from Spencer
+Athens is unique – known statewide, nationwide, and even worldwide for arts, academics, technical innovation, agriculture, and a vibrant fabric of urban lifestyle side-by-side with a preserved rural environment.
+Our city is renowned throughout the state for its distinctive combination of progressive thinking with traditional Southern charm.
+But those of us who call Georgia home know that there is much work yet to be done in providing a strong education for our children, economic opportunities for our workers, transportation and communication infrastructure to bring Georgia into the 21st century, clean and abundant water resources, energy independence, and a more responsive and cost-efficient government.
+My vision for Athens and Georgia is pragmatic and forward thinking, supporting real-world solutions such as the application of renewable energy sources, the creation of sustainable businesses, enacting cost-efficient neighborhood revitalization and affordable housing policies, and the promotion of new economic enterprises to secure our future in the 21st century.

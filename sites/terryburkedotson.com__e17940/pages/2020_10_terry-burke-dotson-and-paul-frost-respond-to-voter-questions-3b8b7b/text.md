@@ -1,0 +1,1 @@
+Terry Burke Dotson and Paul Frost Respond to Voter Questions October 22, 2020 / terryburkedotson.com Zoom Virtual Meeting with Oxford Residents for Diversity and Equity Virtual Voter Education Night October 17, 2020 Click Here to View Video

@@ -1,0 +1,1 @@
+PA General Election: Tuesday, November 3 POLLS OPEN 7:00 AM - 8:00 PM Mail-in ballots must also be dropped before the 8:00 PM on Tuesday, November 3 Apply for a Mail Ballot Register to Vote Update Your Registration CONFIRM YOUR POLL Find a drop box work the polls

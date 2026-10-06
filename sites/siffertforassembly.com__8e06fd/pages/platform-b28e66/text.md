@@ -1,0 +1,342 @@
+Housing and Homelessness
+Half of all New Yorkers are rent burdened and over 100,000 are homeless.
+Families who've lived in our neighborhoods for generations are being pushed out by skyrocketing costs.
+And every housing bill that makes it through Albany gets carved up by real estate interests before it reaches the floor.
+The Housing Access Voucher Program exists, but it's funded at a fraction of what's needed.
+Good Cause Eviction passed, but with so many exceptions that most tenants aren't covered.
+Thousands of New Yorker sleep on the street, or wind up in jails and emergency rooms, because we do not provide safe housing with needed wraparound services.
+We don't need more half-measures.
+We need real investment and real protections.
+My record:
+- Organized weekly tenants clinics with the Village Independent Democrats, connecting neighbors with free legal advice to fight illegal evictions and landlord harassment
+- Traveled to Albany to support the 2019 tenant protection package—the strongest tenant rights legislation in a generation
+- Convened conferences at NYU Law exposing how landlords abuse the court system, filing thousands of cases against unrepresented tenants
+My vision:
+- 10x increase to the Housing Access Voucher Program—from $50 million to $500 million, covering every eligible New Yorker
+- Residential vacancy tax on units that sit empty—no loopholes for LLCs, no exceptions for pied-a-terres, with all revenue earmarked for affordable housing
+- Pass the Social Housing Development Authority Act to increase construction of affordable housing
+- Invest in a Housing First approach to homelessness that centers getting people off the streets and directly into housing – the only evidence-based way to reduce homelessness in the long-term
+- Dramatically reduce street homelessness by increasing funding for supportive housing, providing homes with wraparound services to those who need it
+- Statewide, fully funded right to counsel for anyone facing eviction—not a pilot program, a guarantee
+- Close the Good Cause Eviction loopholes that leave most tenants unprotected
+- Require landlords to make accessibility accommodations so older New Yorkers can age in place, with state funding where the burden is unreasonable
+- Introduce state legislation, modeled after recent New York City legislation, requiring landlords to provide cooling systems—no New Yorker should die of heat in their own apartment
+Immigration
+Donald Trump has unleashed a secret police across America.
+Families are being torn apart.
+Our neighbors are afraid to walk their kids to school, afraid to go to work, afraid to seek medical care.
+For almost a decade, legislation to make New York a sanctuary state has sat in Albany while most law enforcement agencies freely cooperate with ICE.
+That's a choice Albany has made—and it's the wrong one.
+New York must refuse to participate in these human rights abuses and actively resist them.
+My record:
+- Policy subcommittee member of the New York For All coalition, fighting to make New York a true sanctuary state
+- Member of the New York Immigration Coalition Immigrant Leaders Council
+- Spent a week at the South Texas Family Residential Center preparing detained mothers and children for credible fear interviews—every single one of my clients passed and was released
+- Currently organizing Village businesses door-to-door to prepare for ICE raids—making sure every shop owner knows their rights and their employees' rights
+- Volunteered at immigration clinics preparing TPS applications and conducting screening interviews for asylum seekers
+My vision:
+- Pass New York For All—no more delays, no more excuses.
+New York law enforcement should not be actively assisting ICE's human rights abuses
+- Access to Representation Act guaranteeing counsel for anyone in New York facing deportation—immigrants and citizens alike are being thrown into proceedings without lawyers
+- Ban ICE from all state and municipal property without a judicial warrant—not just courts, not just schools, everywhere
+- Create a private right of action so New Yorkers can sue officials who violate their constitutional rights, including during immigration enforcement
+AI, Tech & Privacy
+We are losing the basic dignities of a private life.
+Data brokers buy and sell our location history, our purchase history, our health information—and hand it to anyone willing to pay, including the federal government.
+Employers track workers' every keystroke and bathroom break.
+Facial recognition follows us into grocery stores and sports arenas.
+AI algorithms decide who gets jobs, apartments, and loans—and discriminate in ways we can't even see.
+I've spent three years leading the fight against this surveillance state.
+I've written countless bills.
+I've watched most of them die because legislators don't understand the technology and roll over whenever big tech or law enforcement claim they need some new invasive tool.
+My record:
+- Legal Director of the Surveillance Technology Oversight Project (S.T.O.P.)—leading New York's fight against Big Tech surveillance
+- Led advocacy for the RAISE Act, now law, requiring AI developers to file safety plans with the Attorney General
+- Passed two bills in NYC Council requiring NYPD to disclose the surveillance technology they use
+- Advocated for the Health Information Privacy Act (passed legislature, vetoed by Hochul)
+- Drafted state legislation on facial recognition bans, data broker regulations, and workplace surveillance restrictions
+- Submitted regulatory comments on AI, biometrics, and data privacy at the state and federal level
+My vision:
+- Ban biometric surveillance—facial recognition, gait analysis, voice recognition.
+If you're not a suspect, you shouldn't be in a database, and you shouldn't have to scan your face just to buy groceries
+- Regulate data brokers—end the buying and selling of location data, health data, and other sensitive personal information
+- AI transparency and accountability—if an algorithm is deciding your job application, your housing application, or your loan, you have a right to know how it works and whether it discriminates
+- Make sure that AI systems don't cause catastrophic harms such as helping people build biological weapons or hack global financial systems by requiring pre-deployment and even pre-training safety audits and by providing whistleblower protections cut from the RAISE Act
+- Restrict workplace surveillance—your employer doesn't need to count your keystrokes or track your bathroom breaks
+- Pass the Health Information Privacy Act again—and keep passing it until it's signed
+- Ban the most invasive forms of surveillance technology outright
+- Implement a 3-year moratorium on new data centers
+Civil Rights
+When the government violates people's rights, someone has to fight back.
+I've spent my career doing exactly that—in the courtroom and in the legislature.
+I've sued New York City for violating the religious freedom of Muslim women, Jewish men, and Sikhs.
+I've written legislation protecting LGBTQ+ New Yorkers.
+I've drafted police accountability bills that actually passed.
+The work isn't abstract for me—I've done it, I've won, and I know what it takes.
+My record:
+- Won lawsuit against NYC for forcing arrestees to remove religious head coverings in booking photos—forced a policy change and secured compensation for Muslim women, Jewish men, Sikhs, and others whose religious freedom was violated
+- Drafted and passed legislation in NYC Council increasing NYPD transparency, including surveillance technology disclosure requirements
+- Drafted state legislation to ban discriminatory facial recognition use and other creepy tech used to spy on New Yorkers
+- Fought against racist pseudoscience, including drafting a bill to ban the "excited delirium" diagnosis and advocating against DNA phenotyping
+My vision:
+- Champion the Justice Roadmap package to combat discrimination in New York's criminal and immigration legal systems
+- Support Cecilia's Act for Rights in the Sex Trades
+- Support Communities Not Cages to end draconian sentencing that destroys lives and families
+- Support Parole Justice for real paths to rehabilitation and release—people can change
+- Require that parole board determinations and reasoning be public and transparent
+- Pass the Electronic Communication Privacy Act and Geofence Warrant Ban to protect New Yorkers from warrantless surveillance
+- Create a universal private right of action for constitutional violations so any New Yorker whose rights are violated by an official can sue—federal, state, or local
+- Push for legislation limiting law enforcement access to sensitive data
+- Demand that the Governor use her powers of clemency for justice
+Public Safety
+Public safety is personal to me.
+I'm raising my toddler here in District 66, and my whole heart is focused on ensuring that this neighborhood is a safe place for my baby to explore, play, and grow.
+We don't need more empty promises that do nothing to make our streets and subways safer: we need real, evidence-based solutions to petty crime, violence, and dangers posed by cars and e-bikes.
+My record:
+- Worked to ban facial recognition building entry systems, which are often inaccurate and leave our homes vulnerable to break-ins
+- Drafted legislation to reform policing, including banning the "excited delirium" diagnosis, to protect our neighbors from excessive force
+My vision:
+- Expand funding for afterschool programs to divert youth from criminal activity
+- Fund supportive housing with wraparound mental health and addiction services as well as outpatient mental health and addiction supports to address root causes of crime before the crisis
+- Invest in harm reduction centers
+- Expand the social safety net so that no one needs to steal in order to feed themselves or their families
+- Hold delivery apps accountable for the conduct of their drivers and bikers, including tracking violations and paying fines when their drivers and bikers break the law
+LGBTQIA+
+LGBTQIA+ Americans are under attack nationwide, and LGBTQIA+ New Yorkers confront all the same threats right here at home.
+Facing homophobic harassments and assaults including of elected officials, protests against drag story hour, and the nationally organized movement to inflict cruelty upon transgender Americans, the LGBTQIA+ community needs our government to stand up for us.
+My record
+- Wrote and passed the Gender Inclusive Ballot Act, now law, granting non-binary New Yorkers the right to run for District Leader and State Committee
+- Drafted amendments to Manhattan Democratic Party rules implementing the Gender Inclusive Ballot Act
+- Served as Board Member of the Jim Owles Liberal Democratic Club
+- Advocated against the SAFE for Kids Act and federal KOSA, which risk outing LGBTQIA+ minors to their parents based on online activity
+- Advocated for shield laws to protect New Yorkers' access to gender affirming care
+My vision
+- Create a private right of action for anyone denied gender-affirming care in a New York State healthcare institution.
+- Make it easier for non-biological parents in gay marriages to obtain parental rights that other states must respect
+- Support the Healthy and Safe Students Act to provide LGBTQIA+-inclusive sex education in schools
+- Support the GIRDS Act to protect the rights of incarcerated transgender New Yorkers
+- Support the creation of a gender-affirming care fund, modeled after the existing abortion access fund
+Reproductive Freedom
+In the face of red states and the federal government declaring war on reproductive healthcare, Albany is our first and best line of defense to protect and uphold New Yorker’s fundamental rights.
+At the same time that our national abortion access is being dragged back to the 1970s, our rights are simultaneously under attack from a new wave of 21st-century surveillance technology threats.
+In Albany, I will stand in defense of the hard-won reproductive rights we have, work diligently to regulate the next generation of technological threats, and fight to expand access to reproductive healthcare for every New Yorker across the state–and I will always, always defend the right of New Yorkers, as well as anyone traveling to New York for reproductive healthcare, to obtain a safe abortion.
+My record
+- Active coalition member in support of the Health Information Privacy Act (passed legislature, vetoed by Hochul)
+- Assisted in drafting rules banning anti-abortion ads being targeted to people in abortion clinics – now law in New York
+- Worked with National Institute for for Reproductive Health to provide privacy trainings for reproductive justice organizations
+- Fought alongside Planned Parenthood and others in support of privacy legislation
+- Advocated for and conducted legal research on shield laws to protect abortion providers
+My vision
+- Pass the Health Information Privacy Act again—and keep passing it until it's signed
+- Expand the New York Abortion Access Fund, because a right to choose is meaningless for those without the financial or logistical ability to choose
+- Defend and expand New York’s shield laws protecting those who provide and receive reproductive healthcare in New York from out-of-state attacks
+- Strictly regulate “crisis pregnancy centers” to protect individuals seeking abortions from misinformation and coercion
+- Expand common-sense protections for pregnant incarcerated people, including ensuring access to nurseries and lactation rooms and banning dangerous restraints
+- Expand medicaid coverage of hospital stays for maternity patients and newborns
+- Enact comprehensive laws to protect the privacy of people seeking reproductive healthcare
+Climate
+Climate change is an existential threat, and our waterfront neighborhoods are on the front lines.
+Sea level rise, storm surge, extreme heat—we've seen what happens when we're not prepared.
+New York has ambitious climate targets, but targets without funding are just press releases.
+The CLCPA passed, but it's not fully funded.
+The NY HEAT Act got one provision through.
+Offshore wind keeps hitting obstacles.
+We need to stop making promises and start building.
+My record:
+- Conducted research at NYU Law on climate lawsuits against the fossil fuel industry
+- Filed an amicus brief arguing the Governor did not have authority to unilaterally halt congestion pricing—helped get the program back on track
+- Supported climate advocacy through VID and community organizations
+My vision:
+- Fully fund the CLCPA so we actually meet our emissions reduction targets
+- Make the biggest electricity consumers—especially massive data centers—pay higher rates than ordinary families
+- Take advantage of low prices to build large-scale solar capacity
+- Specifically fund and promote community solar
+- Navigate federal obstacles to actually build offshore wind capacity
+- Pass the Stop Funding Polluter Handouts Act to end subsidies for fossil fuels
+- End construction of all new fossil fuel infrastructure
+- Pass the rest of the NY HEAT Act, not just one provision
+- Fight for flood protection for our waterfront communities with real transparency and community engagement
+- Fight for more green spaces and to protect existing ones
+Healthcare
+Healthcare is a right, not a privilege.
+But hospitals are closing in our neighborhoods, insurance remains unaffordable for too many families, and Medicaid is under direct attack from Washington.
+I went to court to save Beth Israel Hospital and kept it open for another year.
+I advocated for health privacy legislation that the Governor vetoed.
+The fight for healthcare access is constant—and I've been in it.
+My record:
+- Served as counsel in the lawsuit to save Beth Israel Hospital, arguing the closure illegally discriminated against people with disabilities—kept it open for an additional year
+- Coordinated advocacy in lower Manhattan for the Medical Aid In Dying Act
+- Advocated for the Health Information Privacy Act, which passed the legislature before being vetoed by Hochul
+- Conducted research on gaps in HIPAA and state health data privacy protections
+My vision:
+- Defend Medicaid from Trump administration cuts—whatever it takes to protect New Yorkers' healthcare
+- Pass the Health Information Privacy Act again and build the coalition to get it signed
+- Ensure purchasing insurance on health exchanges is actually affordable for working families
+- Hold health systems accountable when they try to close hospitals and abandon communities
+- Champion reproductive and gender-affirming healthcare access and fight any attempts to restrict it
+- Expand funding for mental healthcare in shelters, schools, and prisons
+Disability & Accessibility
+To create a New York that works for everyone, we must create a New York that works for one of the city's largest marginalized groups—disabled New Yorkers.
+The disability community wants the same thing other New Yorkers want—good jobs, stable housing, and the ability to live their lives independently.
+I will fight to make sure all New Yorkers, including disabled New Yorkers, have those opportunities.
+My record:
+- Sued Mount Sinai Health System to prevent the closure of Beth Israel Hospital on the grounds that the closure illegally discriminated against people with disabilities
+- Helped draft legislation, which was passed and signed, to require insurance companies to cover dyslexia screenings
+- Drafted and filed an amicus curiae brief in support of congestion pricing, which has resulted in funding to build numerous subway elevators
+My vision:
+- Prioritize legislation to repeal the minimum wage exception for disabled employees
+- Champion a 7% Solution, setting a target of 7% of new New York State hires being people with disabilities, modeled after Barack Obama's Executive Order 13548, which set a 7% target and resulted in a 14% hiring rate
+- Introduce legislation to help older New Yorkers age in place, including a combination of requirements for landlords across New York State to pay for the same types of reasonable modifications that are required in New York City and state funding for expanded upgrades and services beyond those required of landlords
+- Make navigating our streets more accessible, including implementing daylighting in street design, giving people with disabilities vouchers to use yellow medallion taxis (and Curb) as an alternative to Access-A-Ride if they prefer, and adding hand-pedal and recumbent tricycle options for Citibike
+Transportation
+Getting around New York shouldn't be dangerous, unreliable, or unaffordable.
+Our subways need more service and better signals.
+Our streets need to be safe for pedestrians, cyclists, and drivers alike.
+I fought for congestion pricing when the Governor tried to kill it—and we won.
+Now we need to keep pushing.
+My record:
+- Filed an amicus brief arguing the Governor could not unilaterally halt congestion pricing—helped get the program back on track, funding subway elevators and transit improvements
+- Worked with Village Independent Democrats to support congestion pricing but demand fair treatment for drivers who live within the tolling zone
+- As President of Village Independent Democrats, helped shape VID's response to the 14th street busway, including working to get additional benches installed
+My vision:
+- Champion 6-minute service for every subway line—reliable transit shouldn't be a luxury
+- Prioritize funding for MTA signal upgrades so trains can run faster and closer together
+- Expand protected bike lanes, daylighting at intersections, and safe street design
+- Enforce traffic laws on bikes and e-bikes for pedestrian safety—but hold delivery apps like GrubHub and Uber Eats responsible for unsafe time pressures that endanger everyone
+- Champion Mayor Mamdani's vision for fast and free buses, including by expanding bus lanes
+- Continue to support congestion pricing but work to make it more fair—including by implementing rebates for in-district residents, increasing prices for Ubers and Lyfts, and other tweaks
+Arts
+My record:
+- Helped found two arts non-profits, including raising over $100,000 for an arts foundation and incorporating a successful theater
+- At the peak of the pandemic, hosted large-scale Zoom forums to help artists and freelancers apply for unemployment and other pandemic assistance
+- Hosted numerous arts events, including a successful music photography exhibit in the East Village
+My vision
+- Increase funding not just for the arts in general but specifically for artists to be able to afford to live in New York
+- Modify professional discrimination laws to continue to protect artists from discrimination but to permit giving artists preference in housing
+Education
+Every family deserves access to quality education and affordable childcare.
+Teachers and school staff deserve fair pay and real benefits.
+And it's absurd that schools throw away food while families go hungry because of liability rules.
+Universal childcare and afterschool are still promises, not reality.
+Tier 6 is still broken.
+We need to deliver on what we've been promising.
+My record:
+- Worked on legislation through NYU Law's State Legislative Externship requiring insurance companies to cover dyslexia screenings for children—now law
+- Run NYU's State Government Initiative, including educating students about state government
+My vision:
+- Universal childcare and afterschool—actually funded, actually available to every family who needs it
+- Fix Tier 6 to provide benefits comparable to Tier 4, so teachers and public employees get fair retirement
+- Increase pay for paraprofessionals—they're essential to our schools and should be paid accordingly
+- Change liability rules so schools can donate leftover food instead of throwing it away while families go hungry
+- Guarantee translators at parent-teacher conferences—every parent deserves to understand their child's education regardless of what language they speak
+Revenue
+New York needs progressive revenue to fund the programs that protect working families—housing vouchers, healthcare, education, transit.
+That means asking the wealthy to pay their fair share, not balancing budgets on the backs of working people.
+Our current tax system is more regressive than it should be.
+Wealthy New Yorkers and corporations can afford to contribute more—and they should.
+My record:
+- Early member of Invest in Our New York coalition pushing for progressive taxation
+- Helped draft the Heirs Act, which would create a tax on inherited wealth in New York
+- Former tax attorney with deep expertise in revenue policy and tax law
+My vision:
+- Pass the Heirs Act so wealth consolidation doesn't pass untaxed from generation to generation
+- Increase income taxes on the wealthiest New Yorkers and on corporations
+- Reform property taxes—provide relief for low- and middle-income families whose property tax burden is disproportionate to their income, while increasing taxes on the wealthiest
+- Reject regressive taxes that burden working families
+Labor
+Workers deserve dignity on the job—fair pay, real benefits, and freedom from constant surveillance.
+Unions built the middle class, and we need to protect and strengthen them.
+Public employees shouldn't be punished with inferior benefits just because they were hired after 2012.
+My record:
+- Provided legal advice to unions regarding potential illegal seizures of striking workers' property
+- Compiled model union contract language addressing workplace surveillance and employee privacy
+- Worked with advocates to get legislators to cosponsor the EmPIRE Worker Protection Act
+- Attended union-organized protests, including actions against Amazon's labor practices
+- Recently walked the NYSNA picket line multiple times
+My vision:
+- Fix Tier 6 to provide fair retirement benefits for public employees hired after 2012
+- Restrict employer surveillance of workers—productivity tracking has gone too far
+- Pass the Fair Pricing Act to prevent hospitals from gouging Medicaid and union health funds
+- Pass the EmPIRE Worker Protection Act to strengthen public enforcement of wage laws, especially for immigrant New Yorkers
+- Support legislation protecting union organizers from retaliatory lawsuits by employers
+- Convene tech companies and unions to develop a vision for employment in the age of AI
+Elections
+Our elections are harder to participate in than they should be—no same-day registration, a broken Board of Elections, and incarcerated New Yorkers stripped of their right to vote.
+I've been working on these issues for years.
+I helped draft election reform legislation that's now law.
+I will continue to fight to make sure that all New Yorkers have both the right and the ability in practice to vote.
+My record:
+- Wrote and passed the Gender Inclusive Ballot Act allowing non-binary New Yorkers to run for party positions—now law
+- Convened a working group to reform the NYC Board of Elections
+- Drafted legislation allowing New Yorkers to vote at any polling place in their county
+- Served as member of Let New York Vote's Board of Elections Working Group
+My vision:
+- Pass a constitutional amendment for same-day voter registration
+- Reform the NYC Board of Elections—it's an embarrassment and everyone knows it
+- Restore voting rights for incarcerated New Yorkers—everyone should have the right to participate in public life
+Courts
+Our courts are overwhelmed—constitutional caps on judges have created massive backlogs that delay justice for years.
+Helped lead the coalition that elevated a new Chief Judge.
+Now I want to help him succeed in making New York's courts a place where all New Yorkers can go to resolve disputes fairly.
+My record:
+- Leading member of the Court New York Deserves coalition, which successfully advocated for Judge Rowan Wilson to be elevated to Chief Judge
+- Served multiple times as Judicial Delegate for the 66th Assembly District
+My vision:
+- Lift the constitutional cap on Supreme Court justices—the patchwork of judicial reassignments has left courts short-staffed and cases delayed for years
+- Require judicial screening commissions to ensure all judges meet basic qualifications
+- Allow family court judges to handle divorce proceedings so families don't face fragmented, expensive justice
+- Free brief-period legal services for anyone who needs to access New York's courts but cannot afford a lawyer to help navigate the bureaucracy
+Government Transparency
+New Yorkers have a right to know what their government is doing.
+But agencies stonewall public records requests for months or years, ignore deadlines with no consequences, and make the appeals process so expensive and complicated that most people give up.
+I've filed enough FOIL requests and FOIL lawsuits that I am known statewide as an expert in the subject.
+I wrote a bill that would have fixed the worst abuses—it passed both houses and Hochul vetoed it.
+We're going to pass it again.
+My record:
+- Drafted the FOIL Timeline Act requiring agencies to respond to public records requests on an actual timeline—passed both houses of the legislature, vetoed by the Governor
+- Filed FOIL lawsuits on behalf of journalists and civil rights organizations, including representing Amnesty International in litigation for documents on surveillance of Black Lives Matter protests
+- Represented a journalist suing DHS for documents on biometric surveillance of immigrants
+- Convened a working group to modernize New York's Freedom of Information Law
+- Drafted and passed legislation in NYC Council requiring agencies to publish documents they produce in response to FOIL requests
+My vision:
+- Re-pass the FOIL Timeline Act and fight until it's signed—agencies shouldn't be able to ignore requests indefinitely
+- Make it easier to recover attorneys' fees when agencies unreasonably deny FOIL requests—stonewalling should have consequences
+- Reform the FOIL appeals process so it doesn't take years to get public records
+- Strengthen open meetings requirements—New Yorkers have a right to see their government deliberate, not just vote
+Animal Welfare
+How we treat animals reflects our values as a society.
+New York should lead on humane policies—banning cruel practices and protecting vulnerable species.
+My record:
+- Drafted an amicus brief on behalf of animal welfare organizations supporting NYC's ban on foie gras sales
+- Drafted legislation to ban the sale of animal products produced in violation of New York's animal cruelty laws
+- Drafted legislation to regulate tethering of dogs outdoors
+My vision:
+- Pass legislation banning sale of products produced in violation of animal cruelty laws
+- Pass legislation regulating tethering of dogs outdoors
+- Support bans on fur products
+- Support bans on glue traps
+- Ban commercial octopus farming
+- Give students plant-based options in school meals
+- Reduce subsidies for the horse racing industry and redirect those funds to crucial services like affordable housing and education
+- Increase funding for the Companion Animal Capital Fund to provide better conditions for animals in non-profit animal shelters
+- Create a fund to provide money for shelters and rescues holding animals as evidence in a criminal case, for example in the case of dog fighting
+- Fund high-volume, low-cost spay/neuter operations
+- Build more wildlife bridges to reduce the number of animals killed by cars
+- Create stipends for wildlife rehabilitators
+Small Business
+Small businesses are the heart of Lower Manhattan, but too many of them are struggling to keep their doors open.
+Our district is riddled with vacant storefronts, which blight our neighborhoods and leave holes in our communities.
+At the same time, the small businesses that remain are struggling to keep up with skyrocketing commercial rents.
+We cannot allow Lower Manhattan to become a ghost town of chain restaurants, banks, and closed shops.
+The state government must act before it's too late.
+My record:
+- Gone door-to-door to small businesses in the Village, helping train management on how to protect their vulnerable employees from ICE raids
+- Exclusively cater from small businesses for campaign-sponsored meals and NYU State Government Initiative events
+- Fought for commercial vacancy taxes in Albany
+My vision:
+- Disincentivize landlords from letting storefronts sit empty with a commercial vacancy tax on storefronts that have been vacant for more than six months
+- Institute commercial rent stabilization for New York City's small businesses
+- Pass the Neighborhood Small Business Rent Increase Exemption, giving landlords a tax abatement for signing low-increase, 10-year leases with small businesses
+- Tax vacant residential units, too, so that businesses have real customers as neighbors—not investment properties
+- Make New York a sanctuary state—customers and employees alike should feel safe enough to participate in the economy, instead of having to hide from immigration agents
+- Tax deliveries from online retail conglomerates and incentivize in-store purchasing

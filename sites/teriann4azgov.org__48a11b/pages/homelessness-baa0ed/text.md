@@ -1,0 +1,48 @@
+There is Hope in Phoenix
+As a candidate for Governor of Arizona, one of my top priorities is restoring safety, cleanliness, and dignity to our communities.
+Three years ago, homeless encampments were ordered to be cleaned up, yet many Arizona leaders have allowed the problem to linger without meaningful action.
+Icare about the people struggling on our streets, the businesses affected by growing encampments, and the residents who deserve clean, safe neighborhoods.
+We can be compassionate while also holding government accountable for doing its job.
+It is unacceptable that communities have been neglected for this long.
+As Governor, I will ensure that promised cleanup efforts are completed, public spaces are restored, and resources are directed toward getting people the help they need.
+Arizona deserves leadership that follows through—not leadership that forgets its responsibilities.
+We owe it to our citizens, our businesses, and those experiencing homelessness to create safer, cleaner communities for everyone.
+REAL SOLUTIONS FOR HOMELESSNESS
+Arizona can do better for those who are unsheltered and homeless.
+We cannot continue to ignore the crisis or expect it to solve itself.
+It requires leadership, accountability, and partnerships with the people who are already making a difference.
+One of those people is Austin and the team at AZ Hugs.
+Austin has dedicated countless hours—and often his own personal resources—to feeding, supporting, and helping our unsheltered neighbors.
+I had the opportunity to meet and work with Austin a few months ago, and I saw firsthand his commitment to serving others.
+As Governor, I will work alongside organizations like AZ Hugs instead of leaving them out of the conversation.
+The best solutions come from listening to those who are on the front lines every day.
+My plan is to focus on getting people off the streets and into stable lives by expanding access to mental health and substance use treatment, increasing temporary and transitional housing, strengthening job training and employment opportunities, partnering with faith-based and nonprofit organizations, improving coordination between state agencies and local communities, and ensuring taxpayer dollars are used effectively to help people become self-sufficient—not trapped in a cycle of homelessness.
+I believe Arizona’s current leadership has not done enough to engage grassroots organizations that are doing this work every day.
+We can change that.
+Thank you, Austin, for your dedication to Arizona and for the compassion you show our unsheltered community.
+I support AZ Hugs, and as Governor, I look forward to working together to bring real, lasting solutions that restore hope, dignity, and opportunity.
+Teri in the Community
+As a candidate for Governor of Arizona, I believe we can support both community safety and compassionate care for those experiencing homelessness.
+No one should go hungry, and I support efforts to ensure that people who are unsheltered have access to food, basic necessities, and the resources needed to improve their circumstances.
+At the same time, Arizona must address the concerns of residents and businesses by investing in effective solutions that promote public safety and community well-being.
+This means expanding access to shelters, mental health services, addiction treatment, job assistance, and long-term housing options.
+I am comfortable working directly with people experiencing homelessness because I believe every person has dignity, value, and the potential for a better future.
+As governor, I will advocate for policies that treat people with compassion while creating safer, healthier communities for everyone.
+Homelessness in AZ
+As a candidate for Governor of Arizona, I support policies that help people access the care, support, and opportunities they need to live stable and healthy lives.
+The rising cost of housing, healthcare, and everyday necessities has made it increasingly difficult for many Arizonans to make ends meet.
+Too many individuals and families are living on the edge of homelessness, and many have already lost stable housing.
+We cannot ignore these challenges or forget about the people affected by them.
+Arizona must invest in practical solutions that help families stay housed, expand access to support services, and provide pathways to stability for those experiencing hardship.
+I believe a stronger Arizona is one where we look out for one another and ensure that every person has the opportunity to succeed, contribute, and build a better future.
+More Shelters Needed in Arizona
+As a candidate for Governor of Arizona, I believe we need a better approach to addressing homelessness that supports both those in need and the communities they live in.
+I support expanding resources, shelter capacity, mental health services, addiction treatment, and pathways to stable housing for people experiencing homelessness.
+Arizona needs practical solutions that balance compassion with community well-being.
+By investing in services and support systems, we can help people regain stability while creating safer, healthier neighborhoods for everyone.
+I am running for governor because I believe Arizona needs change—change that brings people together, strengthens our communities, and ensures that every person is treated with dignity, respect, and opportunity.
+Arizona Community Support
+As a candidate for Governor of Arizona, I believe families experiencing homelessness deserve compassion, dignity, and meaningful support during difficult times.
+No family should be forgotten or treated as less valuable because they are facing hardship.
+I support policies that expand access to housing, essential services, and community resources to help families regain stability and independence.
+My goal is to ensure that every Arizona family is treated with respect and has the opportunity to build a safer and more secure future.

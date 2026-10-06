@@ -1,0 +1,16 @@
+Representative Cynthia Neeley is #ThrivingTogether with the Flint and Saginaw Branch of the NAACP.
+It is an honor to come together and break bread with such an array of amazing of women.
+State Rep.
+Cythia Neely (D-Flint) will host a stop on the Energy Reliability, Resilience and Accountability Task Force Listening Tour on Wednesday, Aug. 16, from…
+TODAY!!!
+History was MADE!!
+Cathedral of Faith Church, Grace Emmanuel Baptist Church, Mt.
+Carmel Baptist Church in partnership with GHS and the City of Flint…
+Bringing a vision into reality by transforming one of Flint’s oldest manufacturing sites into a recreational opportunity for families.
+Yesterday, the governor and Flint Mayor…
+Today as we presented HR 256 (KUPPA), Michigan Water Day and World Water Day, we were honored to acknowledge water warriors from our communities.
+Thank…
+March is National Reading Month, encouraging all children to pickup a book and read at least 20 minutes a day. https://www.facebook.com/100006646232583/videos/378544920761248/
+Today I cast many vote on a package that will LOWER prescription drugs!
+Please join Representative Cynthia Neeley for coffee and conversation on Monday, March 15th at 9:30 a.m. at Dom’s Diner located at 3833 Corunna Road in…
+Letter to the Editor: The appalling defense of ex-Governor Synder; Crains Detroit. https://www.crainsdetroit.com/letter-editor/letter-editor-appalling-defense-ex-gov-snyder?fbclid=IwAR2iV365sMy9mzOZ1RkWTwUtE-GFsn4wVAcLTP2Rp-vMQSBn71xIM1UzYzU

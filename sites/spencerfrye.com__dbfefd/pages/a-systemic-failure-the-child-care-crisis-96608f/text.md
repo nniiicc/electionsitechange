@@ -1,0 +1,35 @@
+A Systemic Failure: The Child Care Crisis
+In March 2020, as the COVID-19 pandemic began to ravage the United States and schools moved online, parents were left with an immediate crisis and an important decision to make: how to care for their children while providing economic stability for their families.
+While exacerbated by the sudden changes caused by the pandemic, this impossible choice has plagued families for years.
+The pandemic highlighted systemic failures in the child care system that have been present for decades.
+In Georgia, there are roughly 700,000 children under the age of 13 in working families earning low incomes.[1] The costs associated with caring for children below this age can equal nearly 40% of a low-income family’s budget.[2] Further, many of these low-income families are families of color.
+Employment is no guarantee of a liveable wage that can offset child care costs.
+Though institutionalized barriers to employment undoubtedly make it harder for families of color to acquire childcare, 69% of Black children have at least one employed parent but can still struggle to access childcare.[3] While the cost of child care has more than doubled in the last decade, many wages and employee benefit programs have not caught up.[4] Due to systemic racism and institutionalized barriers to higher education and well-paying jobs, people of color are more likely to be in low-wage jobs—often having erratic and unpredictable hours—and are less likely to have benefits like paid time off.[5]
+Not being able to afford childcare is not only a symptom of the problem, it also perpetuates it.
+Most low-income parents cannot find affordable and adequate child care in their community because child care providers can only charge what families in their area can afford.[6] This dilemma creates razor-thin margins for child care centers that disincentivizes opening in these areas.
+This inconsistency has resulted in 44% of Georgians living in a child care desert.[7]
+Not only does the child care crisis impact the wellbeing of these families, it is also disruptive to Georgia’s economy as a whole.
+Annually, child care challenges lead to at least $1.75 billion in lost economic activity and an additional $105 million lost in tax revenue.[8] Additionally, the lack of child care access is intensifying the nationwide labor shortage crisis.
+Black and multiracial parents experience job disruptions due to a lack of adequate access to child care at nearly twice the rate of white parents.[9]
+Nationwide, there is bipartisan public support for ensuring quality and affordable child care, with 70% of voters saying these programs should be a policy priority.[10] Additionally, 81% of voters believe that supporting child care programs is a good investment of taxpayers’ money.[11] However, with the pandemic-era child tax credit coming to an end and the likelihood for its renewal uncertain, many families are going to, once again, be burdened with an impossible choice.
+Georgia has taken steps to address these problems through Childcare and Parent Services (CAPS), which seeks to provide learning, afterschool and summer programming that is based on the needs of low-income families.[12] However, due to narrow parameters for eligibility and limited funding, many families have difficulty accessing this federally funded program.
+In order to qualify for CAPS, families must make at or below 50% of Georgia’s median income based on family size.[13] However, families above this limit are still low-income and in desperate need of these resources.
+Georgia should increase the limit for participating in CAPS to 85% of the median income and increase funding to the program.
+Additionally, Georgia should subsidize child care centers in low-income areas to increase the razor-thin margins that deter child care centers from opening in these areas.
+With as many as 80% of child care workers citing wages as their reason for leaving the industry, helping child care centers’ ability to increase employees’ wages could incentivize more workers to join the field and address the growing need.[14]
+At the federal level, President Biden’s Build Back Better initiative would invest $400 billion in child care expenses, lowering costs for families and investing in licensed facilities.[15] The implementation of these policy changes would alleviate the stress of parents living in child care deserts and promote a healthier economy for Georgia.
+[1] https://gbpi.org/wp-content/uploads/2016/07/Funding-Georgia-Child-Care-Plan.pdf
+[2] https://gbpi.org/wp-content/uploads/2016/07/Funding-Georgia-Child-Care-Plan.pdf
+[3] https://www.clasp.org/sites/default/files/publications/2017/12/2017_EquityStartsEarly_0.pdf
+[4] https://www.americanprogress.org/article/child-care-crisis-keeping-women-workforce/
+[5] https://www.clasp.org/sites/default/files/publications/2017/12/2017_EquityStartsEarly_0.pdf
+[6] https://www.ffyf.org/georgia-profile-2021/
+[7] https://www.ffyf.org/georgia-profile-2021/
+[8] https://geears.org/oppslost/
+[9] https://www.americanprogress.org/article/child-care-disruptions-hurt-parents-color/
+[10] https://www.ffyf.org/why-it-matters/political-demand/polling/september-2021-national-poll/
+[11] https://www.ffyf.org/why-it-matters/political-demand/polling/
+[12] http://geears.org/wp-content/uploads/GEEARS_CAPS_TwoPager_FINAL.pdf
+[13] http://geears.org/wp-content/uploads/Policymakers-recs-reader-FINAL.pdf
+[14] https://www.cnbc.com/2021/12/03/help-wanted-americas-childcare-crisis-fueled-by-worker-shortages-in-daycare-centers.html
+[15] https://www.cnbc.com/2021/12/03/help-wanted-americas-childcare-crisis-fueled-by-worker-shortages-in-daycare-centers.html

@@ -1,0 +1,23 @@
+“Helene perfected a recipe of heart and soul mixed with joy, laughter, and inspiration to keep a multi-generational audience engaged throughout the speech.” Paula Tallal, Ph.D.
+Board of Governors, Professor of Neuroscience Sulk Institute for Biological Studies
+“Helene presents her story with a hilarious, poignant, and inspirational flair that makes the most miraculous journey feel accessible and possible for all of us.” Joanie Mayer Hope, MD, Let Every Woman Know Conference, Alaska.
+“Truly forever changed by her example, accomplishments, unconditional sharing of heart, purpose, and journey.” Jennifer Romas, Producer, Choreographer, Headliner, Owner JRR Enterprises “
+“Thank you, Helene, so much...you inspired us.
+There were many nurses there today who’d had a bout with breast cancer, so they were encouraged!
+Your enthusiasm and smile at life were great.” J.
+Anne Hudgens, Director, Clinical Education Department, Department of Nursing Administration, Mayo Clinic, Florida
+“Helene’s story is an unbelievably fascinating journey into the heart and soul of a champion.
+Her ability to face and scale seemingly insurmountable challenges is a testament to the strength and character of this inspirational human being.
+You will laugh, you will cry.” Rolando Alvarez, M.D., M.S., Medical Director at Pharm XG Health One
+“Helene’s speech at University Hospital was special.
+Not only did she inspire and encourage us to stay healthy, but she also blessed us with her wonderful enthusiasm!
+Her commitment to good health is contagious.
+THANK YOU, HELENE!
+We LOVE you!” Julie Willey, Director, Public Relations, University Health System, San Antonio, TX.
+"Helene’s speech at High West Energy last Friday in Pine Bluffs, Wyoming, was truly one of the best I’ve heard!
+Her comedic timing is genius.
+Her speech was flawless yet flowed very organically.” Gary Collins Pine Bluffs Post Reporter
+“Why Helene Neville?
+Helene’s physical and mental strength…her heart and love for unity and human connection… her resiliency INFUSES into her audience.
+Unparalleled and vivid stories of a brave odyssey into the unknown, where sheer grit, optimism, and passion carried Helene to do what no one has done before.” Nicole Choi, Ph.
+D., CFP® Associate Professor of Finance Department Chair, University of Wyoming College of Business

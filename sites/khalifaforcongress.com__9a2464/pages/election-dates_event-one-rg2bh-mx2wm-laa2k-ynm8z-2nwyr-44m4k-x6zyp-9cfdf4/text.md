@@ -1,0 +1,13 @@
+Zyon Khalifa is running to be your Democratic representative for South Carolina’s Congressional District 2 and bring a new generation of leadership to Washington by defeating longtime incumbent Joe Wilson this November.
+Zyon is an Air Force veteran, attorney, former Division I student-athlete, and community advocate.
+Most importantly, he is someone who understands the everyday struggles facing working families because he has lived them himself.
+He believes South Carolina deserves leadership that listens, fights for opportunity, and puts people before politics.
+Zyon will fight for:
+An economy that works for everyday people by lowering costs, supporting small businesses, creating good-paying jobs, and investing in the future of South Carolina communities;
+Affordable and accessible healthcare that families can rely on, including stronger rural healthcare access and protections for working families;
+Public education that prepares students for success through workforce development, trade programs, higher education opportunities, and support for teachers;
+Protecting individual freedoms and constitutional rights while ensuring our communities remain safe and secure;
+Infrastructure and responsible growth that strengthens our communities without sacrificing our environment, water, or quality of life; and
+A government that is accountable, transparent, and focused on solving problems instead of political division.
+Join Zyon Khalifa in the fight for a stronger, fairer future for South Carolina and help bring new energy and leadership to Congress.
+Register with the following link:

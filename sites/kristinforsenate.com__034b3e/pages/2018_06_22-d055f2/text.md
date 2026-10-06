@@ -1,0 +1,3 @@
+Phillips-Hill: Full Potential Not Realized in Full Year 18-19 Budget
+Kristin Phillips-Hill, candidate for Pennsylvania’s 28th Senatorial District, sounded off on the remaining unfinished business that would allow Pennsylvania to take full advantage of the national economic trends.
+“The state budget package, which includes no new taxes or fees, is the result of House and Senate Republicans holding the line and defeating Governor Wolf on…

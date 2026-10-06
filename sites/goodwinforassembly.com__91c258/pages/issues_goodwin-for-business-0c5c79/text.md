@@ -1,0 +1,10 @@
+GOODWIN FOR BUSINESS
+Russell Antonio Goodwin, Sr. plans to be a Goodwin for business in Milwaukee by addressing the gaps in mentorship, leadership, and support systems that can potentially hinder the growth of small businesses in the county.
+Despite having a strong network of support organizations for small businesses, there is a lack of a leading organization to coordinate and streamline resources to create a better ecosystem for entrepreneurs.
+Goodwin recognizes the need for a more cohesive approach to supporting small businesses in Milwaukee and aims to establish a centralized "front door" for entrepreneurs to access resources, similar to successful models in other cities like Kansas City and Detroit.
+By promoting collaboration among existing support organizations and providing seamless assistance to local entrepreneurs, Goodwin seeks to enhance the capacity and effectiveness of the small business support ecosystem in the city.
+Additionally, Goodwin understands the importance of addressing capacity gaps in services such as one-on-one business coaching, financial education, and access to capital.
+By improving financial management skills among entrepreneurs and expanding programming for financial coaching, Goodwin hopes to empower small business owners to succeed.
+He also sees the need for more community development financial institutions to work directly with small businesses and advocates for coordinated funding efforts from philanthropic organizations to support and grow the small business community in Milwaukee.
+Overall, Goodwin's focus on enhancing leadership, coordination, and financial support for small businesses in Milwaukee reflects his commitment to improving and growing the local business ecosystem.
+By addressing key challenges and leveraging existing resources, Goodwin aims to create a more vibrant and effective environment for small business owners and entrepreneurs to thrive in the city.

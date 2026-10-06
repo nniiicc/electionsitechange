@@ -1,0 +1,78 @@
+ELECT
+Legislative Achievements 2022-2026
+Mercedes Vazquez Simmons
+Vice-President, Monroe County Legislature
+Elected NYS Democratic Committee Representative - Assembly District 137
+Monroe County Legislator District 22
+Legislative Accomplishments 2022-2025:
+- Currently serving as Vice-President of the Monroe County Legislature.
+(1/2024)
+- Currently serving as Legislative representative to the Vietnam Veterans Memorial of Greater Rochester Board.
+(5/2024)
+- Unanimously elected to serve as Assistant Minority Leader
+- Serves as the Vice Chair of Human Services (1/2024)
+- Serves as member of the Ways and Means Committee (1/2024)
+- Serves as member of the Public Safety Committee (1/2024)
+- Sitting member on the Fire Advisory Board (1/2024)
+- Serves on the Consortium for Safe Communities Committee (2023)
+- Prior service on both the Monroe County Ways and Means and the Recreation and Education committees.
+(2023)
+- On January 11, 2022, Legislators Roman and Vazquez Simmons co-sponsored a bill to extend Residential-Commercial Urban Exemption (RESCUE) Program.
+- Created an Inaugural Memorial Day Parade in 2022 for the County by Legislator Roman, Baynes, Burgess, Maffucci, Vazquez Simmons, and Vecchio
+- On June 14, 2022, County Executive and the Democratic Caucus sponsored a bill that provides $1.00 admission to Seneca Park Zoo, to families receiving SNAP benefits.
+- On July 12, 2022, the Legislature passed hybrid videoconferencing for all legislative meetings.
+- On July 12, 2022 all 29 legislators enacted a Local Law Entitled, “Monroe County School Bus Stop Arm Demonstration Program,” which will help ensure the safety of student bus riders.
+- On August 9, 2022 all 29 legislators enacted a bill that provides $5.00 admission to Seneca Park Zoo, to Veterans and their family members accompanying them.
+- Advocated to remove the “Reawaken America Tour” stop at the Main Street Armory in Rochester, scheduled for August 12, 2022.
+- On September 13, 2022 the Climate Action Plan – Phase, which was sent by the Climate Action Plan Advisory Committee and was approved by a unanimous vote.
+- On November 15, 2022 a special meeting was called to appoint Julie Cianca as Public Defender with a majority of members voting to appoint her for the remainder of the current two-year term.
+- At the December 13, 2022 Full Legislature meeting and months of advocacy by the Democratic Caucus and the community, an ASL interpreter was provided, with the intention of providing this at all Full Legislature meetings going forward.
+- Passed legislation for ARPA Funding to support Non-Profit Agencies in Monroe County
+In all 40 organizations and projects were chosen to receive funding.
+These include:
+- $7.1 million for the Community Resource Collaborative to create wraparound services and neighborhood outreach for better collaboration between well-known community organizations in the City neighborhoods historically referred to as the “Crescent” that have the highest levels of poverty in the City of Rochester.
+- $5.5 million for the Transformational Community Care Coordination Project, to pay skilled nursing facilities and home health care agencies for the successful recruitment and training of certified nursing assistants, home health aides, licensed practical nurses and registered nurses.
+- $2.2 million for the Healthy Baby Network to create a doula program to reduce Black maternal and infant mortality and to mentor and work with fathers — with a focus on previously incarcerated individuals.
+- $2.1million for Providence Housing Development Corp. to provide wraparound services for deaf and hard of hearing individuals fleeing domestic violence or human trafficking.
+- $1.3 million for the Research Foundation for the state University of New York at Brockport to develop a mobile welding lab to provide training to those with significant barriers to employment including at-risk youth, inmates and individuals on probation.
+- $1.3 million for Volunteers of America of Western New York for a hydroponic farm that will provide healthy food to vulnerable communities alongside job training and educational opportunities for county residents.
+Additionally, Legislator Vazquez Simmons:
+- Passed Legislation to increase tax breaks on property taxes for disabled and elderly citizens in Monroe County
+- Passed legislation to remove sales tax on clothing and shoes under $110 in Monroe County
+- Approving Collective Bargaining Agreement between Monroe County Executive and the International Union of Operating Engineers, Local 158
+- Approving Collective Bargaining Agreement between Monroe County Executive and Civil Service Employees Association, Inc.
+Monroe County Local 828, Unit 7400
+- Extended Emergency Rental Assistance Period in the 2.0 Portion.
+- Authorizing Contract with Villa of Hope for Juvenile Justice Therapy Services
+- Accepting Block Grant for Mental Health Services
+- Approving the Agreement between Monroe County Executive and CSEA, Local 1000 AFSCME, AFL-CIO, Monroe County Part-Time Employee Unit, Local 828
+- Accepting Grant from New York State Office of Mental Health for PFC Dwyer Veteran Peer-to-Peer Support Program and extending contract with Compeer.
+- Passed legislation for a six month county gas tax holiday.
+- Passed Legislation to begin construction on Zoo upgrades and improvements for the Tropics area to increase tourism and revenue to the county.
+- Increased investments in MCC for S.T.E.M and Virtual technology to increase programming in fields with high need for employment.
+- Added an Assistant Director of Public Safety to the County
+- Increased funding for Parks in the 2023 Operating Budget
+- Increased Funding for Cultural and Educational Services in the 2023 Operating Budget
+- Approving the Collective Bargaining Agreement between Monroe County Executive and Monroe County Airport Firefighters Association, I.A.F.F.
+Local 1636, AFL-CIO
+Memorializing Resolutions:
+- Support for Universal Childcare – State Level
+- Supporting Pay Transparency – State Level, Signed into law
+Letters of Support & Advocacy:
+- Support for RENEW (Rochester Energy Efficiency and Weatherization)
+- Support for Rochester Management Corporation Affordable Housing Investments
+Youth Awards:
+- Eliel Gonzalez
+Proclamations:
+- RDG + Partners – Recognizing the Opening of a New Location and their Commitment to Community
+- Kevin Walker – Community Service and Youth Advocacy
+- Julio Saenz – Community Service and Youth Advocacy
+- El Camino – 10th Anniversary Recognition
+- Rochester Press Radio Club – To Commemorate their Post Pandemic Return
+- Carmen Basilio – Community Service and Boxing instruction
+- Roberto Burgos – Community Advocacy
+- Baden Street Settlement – 121 Years of Community Support Services
+- Franklin Florence – Recognition of Community Activism and Support Services
+- Johnny Vega – Mentoring and Influencing the Music industry
+- Louis Aponte – Community Service & Paramedic Service
+- Rocky Fratto – Boxing Recognition & community Service

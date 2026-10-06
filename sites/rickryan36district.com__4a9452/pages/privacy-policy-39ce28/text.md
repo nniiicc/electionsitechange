@@ -1,0 +1,48 @@
+Privacy Policy
+This Privacy Policy applies to the website www.rickryan36.com (the “Site”) owned and operated by Friends of Rick Ryan, a political campaign.
+Friends of Rick Ryan has created this privacy policy to explain how information about you is collected, used and disclosed while visiting this site.
+We may change this Privacy Policy from time to time so we encourage you to check this page when revisiting this Site.
+By using this Site, you agree to the terms of this privacy policy.
+Collection of Information
+Information You Provide to Us
+We collect information you provide directly to us.
+For example, when you register or contribute on the Site or send us an email we may collect information or otherwise communicate with us.
+The types of information you provide to us may include your name, contact information (e.g., e-mail, phone number, and address), and other contact or identifying information you choose to provide.
+We use this information to operate this Site, send you news and information about Friends of Rick Ryan activities, solicit your participation in Friends of Rick Ryan activities and related uses.
+We use your e-mail address to send such information by e-mail, and may use your telephone number to call you or send you a text message or phone call for these purposes.
+Submitting your e-mail address on the Site will sign you up to receive emails from Friends of Rick Ryan.
+Information We Collect From Other Sources
+We may also obtain information from other sources and combine that with information we collect through our Site.
+For example, if you make a donation to a third-party website, such as ActBlue, we will obtain certain information about you from the third party that operates that website.
+Friends of Rick Ryan is required to file regular reports with state election offices that may publicly disclose the name, address, occupation and employer of certain persons who contribute to the campaign, along with the amount and date of contribution.
+We also may receive voter file data from state parties and other democratic organizations, from publicly available sources, and from private organizations.
+We may also receive information from a social media site if you connect to our Site through that site.
+Use of Information
+Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
+We may use information about you for various purposes, including to:
+- Provide, maintain and improve our Site and send you confirmations, receipts, technical notices, updates, security alerts, and support and administrative messages;
+- Provide and deliver the information you request, process donations and transactions, and send you related information, including confirmations;
+- Respond to your emails, submissions, comments, questions and requests, provide customer service, ask you to respond to a survey, request feedback, and otherwise contact you about your use of the Site;
+- Send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about the campaign, various issues, events, activities, and volunteer opportunities
+- Remind you to vote and register to vote and assist you in finding your registration information, polling location and campaign events near you;
+- Detect, investigate and prevent fraudulent transactions and other illegal activities and protect the rights and property of Friends of Rick Ryan; and
+- Carry out any other purpose for which the information was collected.
+We may share your information in the following limited instances or as otherwise described in this Privacy Policy:
+To companies that assist us in maintaining this Site or with Friends of Rick Ryan activities, but only for the purposes of providing services to Friends of Rick Ryan and with the strict requirement that any such company will never itself have the right to contact you for any reason; To comply with applicable law or legal requirements; To protect our rights or property, or to protect our supporters from fraudulent, abusive, or unlawful conduct, or if we reasonably believe that an emergency involving immediate danger or death or serious physical injury to any person requires disclosure of communications or justifies the dislsure of records.
+We may also share aggregated or anonymized information that does not directly identify you.
+Links to Third-Party Sites
+This Privacy Policy does not apply to any external links.
+This Privacy Policy only applies to our Site.
+It does not cover Sites that are linked to by this Site or Sites for which we are not responsible (“linked-Sites”).
+These linked-Sites will have their own policies and practices that may be different from ours.
+We encourage you to familiarize yourself with the policies and practices of the linked-Sites, especially if you provide personal information to them.
+Social Sharing Features
+The Site may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Site with other media, and vice versa.
+The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.
+For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+Security
+Please note that no data transmission or storage can be guaranteed to be 100 percent secure.
+As a result, although we strive to protect the information we maintain, we cannot ensure or warrant the security of any information that you transmit to us.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at
+rickryan36district@gmail.com

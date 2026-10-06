@@ -1,0 +1,34 @@
+Elected Leaders
+- US Senator Ron Wyden
+- US Senator Jeff Merkley
+- Governor Tina Kotek
+- Oregon Attorney General Dan Rayfield
+- Portland Mayor Keith Wilson
+- Gresham Mayor Travis Stovall
+- Hood River Mayor Paul Blackburn
+- Oregon State Senator Khanh Pham
+- Oregon State Senator Kayse Jama
+- Oregon State Representative Ricki Ruiz
+- Oregon State Representative Willy Chotzen
+- Oregon State Representative Thuy Tran
+- Oregon State Representative Andrea Valderrama
+- Portland City Council President Jamie Dunphy
+- Portland City Councilor Candace Avalos
+Organizations
+- Planned Parenthood Action Fund
+- Congressional Progressive Caucus
+- Reproductive Freedom for All
+- Oregon AFL-CIO
+- American Federation of Government Employees (AFGE)
+- Oregon Nurses Association
+- Communications Workers of America (CWA)
+- East County Rising
+- International Association of Sheet Metal, Air, Rail and Transportation Workers (SMART) Local 16
+- Oregon League of Conservation Voters
+- Oregon State Fire Fighters Council
+- Teamsters Joint Council 37
+- SEEC PAC
+- LiUNA Oregon & Southern Idaho
+- Western States Regional Council of Carpenters
+- Clackamas County Democrats
+- Portland Mercury

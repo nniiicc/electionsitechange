@@ -1,0 +1,3 @@
+- I had a 100% pro-gun voting record in the 93rd General Assembly, voting to expand concealed carry rights and pass Stand Your Ground legislation.
+- I am a Life Member of the National Rifle Association and strongly support our 2nd amendment rights.
+- I will oppose any efforts to infringe on our 2ndAmendment rights, including efforts to make it more expensive for law-abiding citizens to exercise their rights to hunt or practice self-defense.

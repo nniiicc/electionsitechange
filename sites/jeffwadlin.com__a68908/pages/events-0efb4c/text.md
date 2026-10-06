@@ -1,0 +1,204 @@
+Events for the week of September 28 - October 1
+TO RSVP FOR AN UPCOMING EVENT, CLICK HERE!
+Mon Sep 28
+Cleveland & Nevada Counties
+- 12pm - Triple Cross BBQ, Rison
+- 6pm - Norman’s 44 Restaurant, Prescott
+Tue Sep 29
+Howard, Pike, & Garland Counties
+- 8am - The Hickory House, Nashville
+- 12pm - Terri’s Place, Murfreesboro
+- 6pm - Garland County Library, Hot Springs
+Wed Sep 30
+Lafayette, Columbia, & Miller Counties
+- 8am - Jack’s Cafe, Stamps
+- 12pm - The Corner Clubhouse, Magnolia
+- 6pm - Community Meet & Greet, Texarkana
+Thu Oct 1
+Benton & Washington Counties
+- 11:30am - Public Library, Siloam Springs
+- 4:30 pm - Chickin, Peelin, & Politickin, Springdale
+Previous Campaign Events
+Sat Aug 1 - Pulaski & Franklin Counties
+- 12pm - National Biker Roundup, Little Rock
+- 5pm - Paradise Pizza Pub, Ozark
+Sun Aug 2 - Washington County
+- 1pm - Gun Show, Washington County Fairgrounds
+Mon Aug 3 - Washington County
+- 6pm - NWA Patio Social, Fayetteville
+Tue Aug 4 - Benton County
+- 9:30am - KLEK 102.5 FM radio show (Jonesboro)
+- 12pm - Courthouse, Bentonville
+- 6pm - Goat Lab Brewery, Lowell
+Wed Aug 5 - Madison, Newton & Searcy Counties
+- 9am - Mitchusson Park, Huntsville
+- 12pm - Bradley Park, Jasper
+- 4pm - Raccoon Springs City Park, Marshall
+Thu Aug 6 - Stone, Izard & Fulton Counties
+- 9am - Stone Co.
+Courthouse SE pavilion, Mountain View
+- 12pm - David A.
+Helm Veterans Memorial Park, Melbourne
+- 4pm - Fulton Co.
+Courthouse SE pavilion, Salem
+Fri Aug 7 - Baxter, Marion & Boone Counties
+- 9am - Baxter Co.
+Courthouse, Mountain Home
+- 12pm - Yellville City Park, Yellville
+- 4pm - Downtown Square SE pavillion, Harrison
+Sat Aug 8 - Hempstead County
+- 10am - Grape Festival, Tontitown
+- 12pm - Gravette Day, Gravette
+- 6pm - Cherokee Casino poker room, Siloam Springs
+Sun Aug 9 - Benton County
+- 1pm - Gun Show, Benton County Fairgrounds
+Tue Aug 11 - Washington County
+- 1pm - Mock Park, Prairie Grove
+- 4pm - Creekside Park, Farmington
+Wed Aug 12 - Washington & Benton Counties
+- 10am - Bunch Park, Elkins
+- 1pm - Harry Sbanatto Park, Tontitown
+- 4pm - Highfill City Park, Highfill
+Thu Aug 13 - Crawford, Scott & Montgomery
+- 10am - Crawford County Courthouse, Van Buren
+- 1pm - City Park, Waldron
+- 4pm - Montgomery County Courthouse, Mt.
+Ida
+Fri Aug 14 - Garland & Hot Spring Counties
+- 1pm - Garland County Courthouse, Hot Springs
+- 4pm - Hot Spring County Courthouse, Malvern
+Sat Aug 15 - Saline, Perry & Yell Counties
+- 9am - Downtown Farmer’s Market, Benton
+- 12pm - City Park, Perryville
+- 4pm - Merritt Park, Dardanelle (Pavilion near playground)
+Sun Aug 16 - Washington County
+- 1pm - Gun Show, NWA Convention Center Springdale
+Tue Aug 18 - Benton & Carroll Counties
+- 8am - Adult Rec Center, Bentonville
+- 11am - Basin Spring Park, Eureka Springs
+Wed Aug 19 - Johnson & Pope Counties
+- 10am - Johnson Co.
+Courthouse Gazebo, Clarksville
+- 1pm - Tammy Lou’s Cafe, Pottsville
+- 4pm - Russellville Depot Park, Russellville
+Thu Aug 20 - Logan & Sebastian Counties
+- 9am - Logan Co.
+Courthouse South Lawn, Paris
+- 12pm - Logan Co.
+Courthouse SW Lawn, Booneville
+- 5:30pm - River Valley City Elders, Ft.
+Smith
+Fri Aug 21 - Polk, Sevier & Little River Co’s
+- 10am - Skyline Cafe, Mena
+- 1pm - Sevier Co.
+Courthouse Gazebo, De Queen
+- 4pm - Little River Co.
+Courthouse Gazebo, Ashdown
+Sat Aug 22 - Miller & Hempstead Counties
+- 9am - GoodLuxe Coffee Shop, Texarkana
+- 12pm - Hempstead Co.
+Courthouse Gazebo, Hope
+Tue Aug 25 - Prairie & Monroe Counties
+- 1pm - Prairie Co.
+Courthouse Gazebo, Des Arc
+- 4pm - Monroe Co.
+Courthouse SE Lawn, Clarendon
+- 6pm - Bendi’s Diner, Clarendon
+Wed Aug 26 - Lee, Phillips & Arkansas Co’s
+- 9am - Lee Co.
+Courthouse Gazebo, Marianna
+- 12pm - Court Square Park, Helena
+- 1:15pm - Downtown Bar & Grill, Helena
+- 4pm - Arkansas Co.
+Courthouse NW Corner, DeWitt
+- 6pm - Rice Paddy Renewed, DeWitt
+Thu Aug 27 - Desha, Chicot & Ashley Co’s
+- 8am - The Owl’s Nest, McGehee
+- 11am - Mama’s Village Diner, Lake Village
+- 1pm - Chicot Co.
+Courthouse, Lake Village
+- 5pm - Andy’s Restaurant, Crossett
+Fri Aug 28 - Drew, Lincoln & Lonoke Counties
+- 7am - Chef’s Restaurant, Monticello
+- 11am - El Charro Mexican Restaurant, Star City
+- 1pm - Lincoln Co.
+Courthouse Lawn, Star City
+- 4pm - Lonoke Co.
+Courthouse Lawn, Lonoke
+- 6pm - Pizza Pro of Lonoke, Lonoke
+Sat Aug 29 - Yell County
+- 8am - Tootie’s Coffee, Snow Cones, & More, Danville
+- 10am - 79th Annual Mt.
+Nebo Chicken Fry, Mt.
+Nebo
+Tuesday, September 1
+- 9am - Paradise Donuts, Dover
+- 11am - Sticks Deli & Diner, Morrilton
+- 1:30pm - Blue Sail Coffee, Conway
+- 6pm - Malibu Cafe, Vilonia
+Wednesday, September 2
+- 8am - Joe n’ Hash Cafe, Clinton
+- 12pm - Peggy Sue’s Place, Heber Springs
+- 3pm - Midnight Oil Coffeehouse, Searcy
+- 6pm - Fathead Pizza, Newport
+Thursday, September 3
+- 8am - Sue’s Kitchen Express, Jonesboro
+- 11:30am - Jerry’s Steakhouse, Trumann
+- 6pm - Skinny J’s, Paragould
+Friday, September 4
+- 7am - Piggott Diner, Piggott
+- 12pm - Main Street Pizza, Walnut Ridge
+- 3pm - Family Fork, Ash Flat
+- 5:30pm - Live Music Fest, Horseshoe Bend
+Saturday, September 5
+- 8am - Whistle Stop Cafe, Batesville
+- 11am - FestiVille, Jacksonville
+Monday, Sep 7
+Clay & Craighead Co’s
+- 9am - Labor Day Parade and Picnic, Rector
+- 6pm - NEA Tea Party Meeting, Jonesboro
+Tue Sep 8
+Randolph, Craighead, Mississippi, &
+Crittenden Co’s
+- 7am - Dora’s Sale Barn Cafe, Pocahontas
+- 12pm - Vaughn’s Pit Stop BBQ, Bono
+- 3pm - Arky’s Scoop, Blytheville
+- 6pm - Andrey Pizza and Grill, Marion
+Wed Sep 9
+Cross & St.
+Francis Co’s
+- 7am - The Dave Elswick Show on 101.1 FM - Live in Studio
+- 3pm - Tacker’s Shake Shack - Wynne
+- 6pm - Ole Sawmill Cafe, Forrest City
+Thu Sep 10
+Woodruff, Lonoke, & Pulaski Co’s
+- 7am - Big Tex Kolaches & Bakery, Augusta
+- 11:30am - Purple Onion, Cabot
+- 6pm TBD, Little Rock
+Fri Sep 11
+Faulkner Co.
+- 9am - 9/11 Flag Run, Greenbrier
+Sat Sep 12
+Carroll & Benton Co’s
+- 8:30am - Agri Days - Cattleman’s Restaurant, Green Forest
+- 12pm - Centerton Days, Centerton
+- 6pm - The PUB at the Ridge, Pea Ridge
+Tue Sep 15
+Baxter County
+- 6pm - Baxter County Library, Mountain Home
+Wed Sep 16
+Garland County
+- 3pm - Coronado Community Center, Hot Springs Village
+Thu Sep 17
+Grant, Dallas, Calhoun, & Ouachita Counties
+- 7:30am - Jo’s Diner, Sheridan
+- 12pm - Round Table, Fordyce
+- 3pm - Granny’s Grill, Hampton
+- 6:30pm - Zion Hill Conference Center, Camden
+Fri Sep 18
+Clark & Izard Counties
+- 7:30am - Java Primo Coffee House, Arkadelphia
+- 5:30 pm - Cedar Glade Resort - Horseshoe Bend
+Sat Sep 19
+Randolph County
+- 10am - Pioneer Days, Maynard

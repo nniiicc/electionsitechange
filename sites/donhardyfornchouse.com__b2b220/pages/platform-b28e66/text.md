@@ -1,0 +1,62 @@
+Advocating for District 12
+I am proud and honored to officially announce my candidacy for the North Carolina House of Representatives, District 12, seeking to serve and advocate for the people of Lenoir, Greene, and Jones Counties, while advancing the broader interests of eastern North Carolina.
+My decision to run is rooted in a lifetime of service, deep local roots, and a proven record of leadership.
+As Mayor of the City of Kinston, I have worked tirelessly to move our community forward, delivering real results through collaboration, sound policy, and relentless advocacy at the local, state, and federal levels.
+During my tenure as mayor, we have secured tens of millions of dollars in state and federal investments for flood mitigation, infrastructure, public safety, economic development, and neighborhood revitalization.
+From major flood-resiliency projects and road resurfacing initiatives, to downtown revitalization, public safety grants, and industrial expansion tied to the North Carolina Global TransPark, our work has demonstrated what effective leadership and strong partnerships can accomplish.
+Beyond Kinston, I have been privileged to serve in leadership roles across North Carolina and the nation—working with municipal leaders, state agencies, and federal partners to shape policy on public safety, economic development, disaster recovery, infrastructure, housing, and military and veteran affairs.
+These experiences have prepared me to be an effective and informed advocate in Raleigh on day one.
+If elected, my priorities will be clear and people-centered:
+• Public Education: I strongly support the priorities of the North Carolina Superintendent of Public Instruction, including higher teacher pay, expanded childcare access, strong K–5 youth learning opportunities, and sustained investment in K–12 public education to ensure every child has the opportunity to succeed.
+• Responsible State Budgeting: Advocating for a balanced, transparent state budget that reflects the needs of eastern North Carolina communities.
+• Public Safety: Supporting good policy and adequate resources for our police officers, firefighters, EMS personnel, and 911 telecommunicators, ensuring they have the tools, training, and support needed to keep our communities safe.
+• Healthcare Access: Protecting and expanding access to quality, affordable healthcare across North Carolina.
+• Disaster Recovery & Resilience: Strengthening policies related to FEMA, CDBG-DR, and CDBG-MIT, with a focus on flooding, hurricanes, and long-term resilience for vulnerable communities.
+• Infrastructure: Continuing to prioritize road resurfacing, utility upgrades, and critical infrastructure funding to support growth and safety.
+• Affordable Housing: Expanding opportunities for safe, attainable housing for working families, seniors, and veterans.
+• Transportation & Economic Development: Advancing transportation solutions and supporting economic growth opportunities, including continued expansion tied to the NC Global TransPark and regional industrial development.
+Eastern North Carolina deserves strong, experienced, and accessible representation, leadership that understands our challenges, values our people, and is prepared to fight for equitable investment and opportunity.
+I am running to bring proven leadership, a collaborative spirit, and a results-driven approach to the North Carolina House.
+Together, we can build a stronger future for District 12 and for communities across eastern North Carolina!
+My Leadership Development: Growing Capacity to Serve
+I believe leadership requires constant growth, and I’ve been honored to be selected for—and to complete—some of the most competitive leadership development programs in North Carolina:
+• UNC School of Government – Advanced Leadership Corps (Completed).
+This program is one of North Carolina’s premier leadership development experiences for public officials.
+Selection is competitive, and participants undergo immersive training in communication, collaboration, and strategic governance.
+• The Hunt Institute – North Carolina Cohort (Completed).
+This fellowship brings together leaders committed to shaping education policy.
+It focuses on the continuum from early childhood through higher education, ensuring leaders like myself are equipped to advocate for stronger schools and better opportunities for our children.
+• Leadership North Carolina – Cohort 33 (Selected, 2025–26).
+The state’s most comprehensive leadership program, covering government, economic development, health, education, and the environment.
+With a highly selective application process, being chosen for Cohort 33 reflects recognition of my leadership record and potential to influence statewide progress.
+Each of these programs is rigorous, selective, and designed to prepare leaders to tackle the most pressing issues facing North Carolina’s communities.
+They give me both the tools and networks to bring innovative ideas, funding opportunities, and stronger advocacy directly back to Kinston.
+My Leadership Beyond the Badge: Serving Kinston and Beyond
+I’m proud to serve on a number of distinguished boards and commissions—all of which amplify Kinston’s voice and bring leadership back to our city:
+• North Carolina Global TransPark Authority Board of Directors
+• North Carolina League of Municipalities Board of Directors
+• National League of Cities Board of Directors
+• Past Chair of the Small Cities Council at the National League of Cities
+• Vice Chair of the National League of Cities 2025 Public Safety & Crime Prevention Federal Advocacy Committee
+• Past President of the North Carolina Mayors Association
+• Immediate Past President of the North Carolina Black Elected Municipal Officials
+• President of Pitt-Greenville Lodge #69, Fraternal Order of Police
+• Serving a second term as a Governor’s appointee to the North Carolina Governor’s Crime Commission
+• Member of the National Diversity Committee, Fraternal Order of Police
+• Member of the Eastern NC Disaster Recovery & Resiliency Alliance
+•Member, King Davd Masonic Lodge #24, Kinston, NC
+• Member, M.L.
+Walker Consistory #47, Goldsboro, NC
+• Member, Arabien Temple #42, Oasis of Newbern, Desert of NC
+National Memberships Bringing Resources to Kinston
+These national partnerships connect Kinston to federal funding, grants, and innovative programs that help cities like ours grow stronger and more resilient:
+• Mayor’s Alliance to End Childhood Hunger — expands access to school meals, after-school nutrition, and summer feeding programs.
+• American Flood Coalition — delivers resources and advocacy for flood prevention and resiliency.
+• United States Conference of Mayors (USCM) — opens doors to federal funding and national initiatives in public safety, housing, and infrastructure.
+• African American Mayor’s Association (AAMA) — connects Kinston to networks and equity-focused resources that help grow inclusive opportunities.
+Recognitions Reflecting Our Progress
+• All-America City Award (2025).
+With pride, I helped lead our city—alongside the City of Kinston Team, Kinston Teens, and community leaders—to earn one of the most prestigious civic recognitions in the nation.
+• 2020 AARP NC Inspiration Award for Coastal Community Service—a recognition for leadership in pandemic support, disaster response, social justice, and more.
+• Excellence in Public Power Awards from ElectriCities of North Carolina—recognizing Kinston’s leadership in delivering reliable and innovative public power.
+This isn’t about politics—it’s about using every credential, every connection, and every lesson I’ve learned to bring resources, resilience, and real results back to not just Kinston but Eastern North Carolina!

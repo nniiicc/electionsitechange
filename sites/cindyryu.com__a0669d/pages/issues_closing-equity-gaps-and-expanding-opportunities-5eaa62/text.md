@@ -1,0 +1,12 @@
+CinDY believes in
+Closing Equity Gaps
+I am proud to have helped Washington and the 32nd Legislative District focus on equity, treating it as a core value rather than a four-letter word.
+Social justice is a principle that Washingtonians hold dear, and one that I have championed throughout my career.
+As an immigrant myself, I understand the importance of lifting the collective voice of communities that have historically been excluded from decision-making.
+The effects of institutionalized racism are still felt across this state and I have worked tirelessly to create opportunities and improve the lives of all residents, regardless of skin color or income, so that we can all rise together.
+I was a cosponsor of the Historic Covenant Homeownership Expansion bill (HB 1696), a law that addresses racial disparities in homeownership among BIPOC communities.
+Signed in April 2025, this law provides down payment and closing cost assistance, especially to those affected by historically discriminatory housing laws.
+It also creates programs that allow some lower income families to have their home loans fully forgiven after 5 years - helping increase familial wealth and increase equitable homeownership.
+I served as chairperson overseeing the passage of the Community Reinvestment Act (HB 2523), guiding it through both policy and appropriation committees and onto the House floor.
+Gov.
+Ferguson signed this bill into law, allocating $50 million for community based non-profits to increase employment pathways, provide mentorship and counseling, and reduce correctional recidivism.

@@ -1,0 +1,1 @@
+Your Name Your Address Your Email Phone Number Send me a petition, I'll collect signatures to help get Danielle on the ballotPlease drop off a lawn signVoter Contact – Canvassing/Knocking on DoorsVoter Contact – Phone BankingVoter Contact – Text Banking Election Day Poll VolunteerVoter Contact – Postcard/Letter WritingHosting a House Party/Fundraiser Your Message

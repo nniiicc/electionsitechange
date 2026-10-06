@@ -1,0 +1,1 @@
+Endorsement from a Leading Voice for the Great Salt Lake by taylorwright | Aug 6, 2026 | News & Updates | 0 comments Free people solve problems, and free markets reward better solutions to save the Great Salt Lake..

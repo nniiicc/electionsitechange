@@ -1,0 +1,2 @@
+California State Treasurer Fiona Ma joined community leaders, labor organizations, elected officials, and supporters from across the Central Valley for a “Latinos for Fiona” rally at Jastro Park in Bakersfield ahead of the June 2 election.
+The event follows successful “Latinos for Fiona” gatherings in Boyle Heights and Downey and focused on civic participation, economic opportunity, and encouraging Californians to vote during the final days before Election Day.

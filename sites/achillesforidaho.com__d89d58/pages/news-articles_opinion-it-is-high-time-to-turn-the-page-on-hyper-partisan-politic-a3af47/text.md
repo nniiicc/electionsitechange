@@ -1,0 +1,1 @@
+Opinion: It is high time to turn the page on hyper-partisan politics in Idaho Sep 30 Written By Katie Moore https://www.postregister.com/opinion/columns/opinion-it-is-high-time-to-turn-the-page-on-hyper-partisan-politics-in-idaho/article_aacf6a75-d7e4-43f0-b28f-1e5b5c3a93f3.html Katie Moore

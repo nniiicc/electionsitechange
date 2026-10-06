@@ -1,0 +1,42 @@
+Nine percent of Massachusetts bridges are currently classified as structurally deficient
+Washington D.C. – The United States Department of Transportation’s Federal Highway Administration (FHWA) recently announced the first round of funding from a $27.5 billion bridge formula program created by the Infrastructure Investment and Jobs Act (IIJA).
+This is the largest bridge formula program in American history, with funding that will be distributed to states and tribal transportation facilities over the next five years.
+In this initial round of funding, the Massachusetts Department of Transportation will receive $225.3 million for fiscal year 2022.
+Over the life of the program, Massachusetts will eventually receive $1.1 billion for bridge replacement and repair projects across the Commonwealth.
+In addition to the formula funding in route to the Massachusetts DOT today, the IIJA includes a $12.5 billion bridge investment program, which will provide competitive grants to assist state, local, federal and tribal entities in rehabilitating or replacing bridges.
+Massachusetts can compete for additional resources under this program to undertake critical projects like the replacement of the Cape Cod Canal Bridges.
+“I am very pleased to see the first round of bridge funding has been released to Massachusetts from the Bipartisan Infrastructure Law,” said Congressman Stephen F.
+Lynch (MA-08).
+“There are almost 500 structurally deficient bridges across our state and the first round of $225.3M will allow us to finally start replacing and fixing our bridges.
+This funding is vital to improving transportation safety across the Commonwealth and I am proud to have worked with all my Massachusetts colleagues to help secure this funding for our communities.”
+“This week’s bridge funding announcement marks the beginning of a new era for surface transportation and bridge safety in Massachusetts,” said Senator Edward J.
+Markey (D-MA).
+“Of the 5,229 bridges in our Commonwealth, 472 – or nine percent – are currently classified as structurally deficient.
+But we now can end decades of crumbling bridge infrastructure from Pittsfield to Cape Cod by giving the Massachusetts Department of Transportation the resources needed to make critical and long overdue repairs to our most important throughways.
+And with billions more available for the Commonwealth from the bipartisan infrastructure law, we can take steps to replace critical passageways and evacuation routes, like the Cape Cod Canal bridges, and ensure they are structurally sound and operational for the remainder of the 21st century.”
+“This record $225 million federal bridge investment will increase safety and improve transportation options for Massachusetts families and businesses while boosting the Commonwealth’s economy,” said Senator Elizabeth Warren (D-MA).
+“Today’s announcement is just the first installment of $1.1 billion that’s coming to Massachusetts for bridge replacement and repairs, and when added to the additional billions that are coming from the Infrastructure Investment and Jobs Act overall, translates to thousands of good paying jobs that will revitalize our crumbling infrastructure.”
+“Modernized and improved bridges statewide will provide safety for all users, and create good-paying jobs for workers,” said Congressman Richard E.
+Neal, Chair of the House Committee on Ways and Means (MA-01).
+“Bridges are vital pieces of our infrastructure – not only to our daily commutes, but also to emergency vehicles and the trucks that are making deliveries in our communities.
+I am grateful to the Biden Administration for making this promise a reality.”
+“Our national failure to invest in infrastructure has consequences.
+We all pay the price in slower commutes, more dangerous roads, more frequent car repairs, and a backlog of broken bridges a mile long,” said Congressman Jim McGovern (MA-02).
+“There are bridges in the Second District old enough to qualify for Medicare—but thanks to President Biden’s Bipartisan Infrastructure Law, things will soon be changing for the better.
+This is not just about fixing broken bridges, it’s about investing in our future and ensuring that America remains competitive in the global economy.”
+“Beyond the Cape Cod Canal Bridges, we have many smaller bridges in Southeastern Massachusetts that have been deemed structurally deficient – a percentage well above the state’s average,” said Congressman Bill Keating (MA-09).
+“The bridge funding will go a long way to address this concerning issue throughout the region and help the Commonwealth expedite their plan for repairs.
+We expect to continue to see dividends from this bipartisan infrastructure bill.”
+“There are 472 bridges in poor condition across Massachusetts, and we know that poor road conditions are both a safety hazard and lead to costly repairs for drivers,” said Assistant Speaker Katherine Clark (MA-05).
+“Today’s funding announcement is just the beginning of the over $1.1 billion for bridge replacement and repairs our state can expect to receive over the next five years from the Infrastructure Law.
+This critical funding will enhance safety for drivers, improve quality of life and cut costs for commuters, and create new jobs.
+This milestone brings us one step closer to a stronger, competitive 21st-century economy.”
+“Nobody traveling America’s roads in 2022 should have to worry about falling through a bridge—and yet that’s how badly we’ve let things go,” said Congressman Seth Moulton (MA-06).
+“With almost 10% of bridges in Massachusetts classified as structurally deficient, this federal investment will ensure that we can once again trust our roads to get us where we need to go, and trust our government to deliver on its basic promise to keep us safe.”
+“Repairing and modernizing the Commonwealth’s bridges will help boost our economic recovery, create jobs and make our communities more safe and connected,” said Congresswoman Ayanna Pressley (MA-07).
+“We must get these federal dollars out the door as quickly as possible, and I’ll continue fighting to deliver President Biden’s full Build Back Better agenda and make the remaining investments our workers and families need in this moment.”
+“Today’s bridge funding announcement is just another way the Bipartisan Infrastructure Law continues to deliver for working families across the Commonwealth,” said Congresswoman Lori Trahan (MA-03).
+“Crumbling bridges plague Bay Staters everywhere, but especially families that live along the Merrimack and Nashua Rivers.
+By investing billions in new funding to repair and rebuild bridges in the Third District and beyond, this historic package will improve the daily lives of working families everywhere and create good jobs in the process.
+I look forward to working with my colleagues to maximize the impact of these investments in the Third District and across Massachusetts.”
+“America should be fixing bridges, not building walls – and now we are,” said Congressman Jake Auchincloss (MA-04).

@@ -1,0 +1,41 @@
+Terms and Conditions
+Last Updated: November 1, 2025
+Welcome, operated by Holly Jeffreys for HD 86 Campaign.
+By using this Website, you agree to the following Terms and Conditions.
+If you do not agree, please do not use this Website.
+1.
+Use of the Website
+This Website is intended for individuals who want to learn about the Holly Jeffreys for HD 86 Campaign, volunteer, donate, or engage with the campaign.
+You agree to use this Website for lawful purposes only and not to engage in any activity that could harm the Website, its users, or the Campaign.
+2.
+Donations & Payments
+Donations made through this Website must comply with local, state, and federal election laws.
+We use third-party payment processors, and we do not store your financial information.
+All contributions are final and non-refundable, unless required by law.
+3.
+Privacy & Data Collection
+Your use of this Website is also governed by our Privacy Policy, which explains how we collect, store, and use your personal information.
+By using this Website, you consent to our use of cookies and tracking technologies for analytics and functionality.
+4.
+Intellectual Property
+All content on this Website, including text, images, logos, and campaign materials, is owned by the Campaign or used with permission.
+You may not copy, modify, distribute, or use any content from this Website without prior written permission.
+5.
+Third-Party Links
+This Website may contain links to third-party websites (e.g., donation platforms, social media sites).
+We do not control or endorse third-party content and are not responsible for their terms of use or privacy policies.
+6.
+Prohibited Activities
+By using this Website, you agree not to:
+Use the Website for any unlawful or fraudulent purpose.
+Attempt to hack, disrupt, or interfere with the Website’s security or functionality.
+Post or share misleading, defamatory, or inappropriate content related to the Campaign.
+7.
+Disclaimer & Limitation of Liability
+This Website is provided “as is” without warranties of any kind.
+We make no guarantees regarding accuracy, reliability, or availability.
+The Campaign is not liable for any direct, indirect, or incidental damages resulting from your use of this Website.
+8.
+Changes to Terms
+We may update these Terms from time to time.
+Any changes will be posted on this page with the “Last Updated” date.

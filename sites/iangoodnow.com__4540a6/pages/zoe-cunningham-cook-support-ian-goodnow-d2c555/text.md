@@ -1,0 +1,9 @@
+Zoe Cunningham-Cook: Support Ian Goodnow
+I write in full support of Ian Goodnow to represent Windham 9 in Brattleboro.
+Ian is my good friend and former coworker.
+From that I have seen his strong work ethic and dedication, particularly during his tenure on the Select Board.
+But what I especially admire about Ian are his listening skills.
+Ian wants to know what people have to say, whether they be clients, constituents, or friends.
+I have no doubt that Ian will make our voices heard while in Montpelier.
+Please join me on August 13 in voting for Ian Goodnow.
+Zoe Cunningham-Cook (Brattleboro Reformer)

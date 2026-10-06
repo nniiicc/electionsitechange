@@ -1,0 +1,73 @@
+PRESS RELEASE
+Griswold announces 40 more endorsements in bid for attorney general
+Campaign builds momentum across the state
+Denver, CO- Dozens of additional current and former elected officials and community leaders endorsed Jena Griswold's campaign for Attorney General.
+New endorsements include Senate President James Coleman, US Congressman Jamie Raskin, former US Senator Tim Wirth, former State Representative Leslie Herod, former State Representative Karen Middleton, county commissioners, mayors, city council members, community leaders, Progressive Democrats of America-Colorado, and a labor organization.
+Griswold has now earned more than 180 endorsements, 134 of which are from current and former elected officials, including 26 sitting state legislators, 16 current and former mayors, and 19 current and former commissioners.
+Congressman Jamie Raskin said, "Throughout her impressive and productive career, Jena Griswold has defended strong democracy, survived one right-wing attack after another and fought like a tiger for the public interest.
+She has a zeal for justice and the rule of law and never backs down to bullies.
+She’s tough as nails and that’s what we need in these times of official lawlessness and cruelty.
+I’m honored to support her for Attorney General because I know she’ll be a relentlessly effective and creative lawyer for the people."
+Senate President James Coleman said, “I’m proud to endorse my friend Jena Griswold for Colorado Attorney General.
+As Secretary of State, Jena has protected our voting rights.
+She’s fought for working families and a brighter future for all Coloradans.
+As Attorney General, Jena will continue that fight, protect our communities, and stand up for justice and fairness across our state.”
+Former State Representative Leslie Herod: “Today, our rights and freedoms are on the line.
+We need an Attorney General who knows how to fight and how to win.
+That’s Jena Griswold.
+As Attorney General, Jena will stand up to Donald Trump and his dangerous agenda, protect our reproductive freedom, and ensure justice and liberty for all Coloradans.
+As a former Chair of the Colorado Black Democratic Legislative Caucus and the first LGBTQ+ Black Coloradan to serve in the state legislature, I’m proud to endorse Jena Griswold for Colorado Attorney General.”
+Former State Representative Karen Middleton: “I know firsthand how important it is to have elected officials who stand up for Colorado women, children, and families.
+That’s why I’m endorsing Jena Griswold for Colorado Attorney General.
+Jena will fight to protect a woman’s right to make her own healthcare decisions and work to keep our children and families safe in their communities.”
+“I’m honored to earn the support of leaders and organizations from across Colorado,” said Jena Griswold.
+“As Attorney General, I’ll stand up to MAGA extremists, protect reproductive rights, take on illegal corporate greed, and continue fighting to ensure every Coloradan—no matter their zip code—can live with dignity, opportunity, and justice.”
+The endorsements come after Griswold’s record-breaking fundraising quarter.
+Her campaign boasts the most cash-on-hand of all Attorney General candidates, over 5,000 individual contributions, and 77% of contributions coming from Colorado donors.
+Griswold is also polling ahead of her closest opponent by 34 points and earning nearly three times as much support as all of the other candidates combined.
+New Campaign Endorsements
+Current and Former Members of Congress:
+- Congressman Jamie Raskin
+- Senator Tim Wirth
+Unions and Organizations:
+- Plumbers Local #3
+- Progressive Democrats of America Colorado
+- Progressive Democrats of America
+Current and Former Elected Officials:
+- Al Blum, former Cherry Hills Village Council Member
+- Anne Brown, San Miguel County Commissioner
+- Clyde Church, former La Plata County Commissioner
+- James Coleman, Senate President
+- Timothy Corrigan, former Routt County Commissioner
+- Teddy Ericho, Telluride Mayor
+- Obi Ezeadi, Westminster City Council
+- Libby Fay, Mayor of Buena Vista
+- Meehan Fee, Telluride Mayor Pro Tem
+- Leroy Garcia, former Senate President
+- Nick Gradisar, former Pueblo Mayor
+- Cassie Harrelson, Aspen School Board
+- Leslie Herod, former State Representative
+- Susie Hidalgo-Fahring, Longmont City Council
+- Dominique Jackson, former State Representative
+- Justin Martinez, Thornton City Councilmember
+- Tisha Mauro, State Representative
+- Rebecca McClellan, State Board of Education
+- Dustin McDaniel, former Chair of the Democratic Attorneys General Association and former Arkansas Attorney General
+- Karen Middleton, former State Representative
+- Rick Palacio, former Democratic Party Chair
+- Marty Projaska, Mayor of Mountain Village
+- Greg Poschman, Pitkin County Commissioner
+- Chris Russell, Thornton City Councilmember
+- Angelica Rae Salinas, Routt County Commissioner
+- Kyle Schlacter, Littleton Mayor
+- Gail Schwartz, former State Senator
+- Judy Solano, Former State Representative
+- Shiquita Yarbrough, Longmont City Council
+Community Leaders:
+- Seth Cagin
+- Erin Egan
+- Tejwant Mangat
+- Roxy Pignanelli
+- Arnold Salazar
+- Manny Solano
+For a complete list of endorsements, visit Griswold’s campaign website.

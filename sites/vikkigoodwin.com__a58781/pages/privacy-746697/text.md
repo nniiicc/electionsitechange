@@ -1,0 +1,232 @@
+Privacy Policy & Terms of Service
+Last Updated: July 6, 2026
+This Privacy Policy explains how the Vikki Goodwin Campaign (otherwise known as the “Campaign”) collects, uses, and discloses information about you when you access or use our websites, mobile sites, and mobile applications that link to this Privacy Policy (otherwise known as the “Website”).
+This Privacy Policy also applies to email messages and SMS and MMS texts from the Campaign.
+This is the latest update to our privacy policy (see date above), and we may contact you with an email message for future privacy policy updates.
+Please review the Privacy Policy whenever you access the Website to stay informed about our information and data privacy practices.
+Information You Provide to Us
+We collect information when you provide it directly to us.
+For example, we collect information if you fill out a form, make a donation, send us an email, sign up for an event, sign up to receive updates or SMS alerts, request information, sign a petition, sign up as a volunteer or otherwise communicate with us or through our platform.
+The types of information we collect may include your name, contact information (including email address, social media handles, user names, postal address, phone number), payment information, and other information you choose to provide.
+Information We Collect Automatically When You Use Our Website
+When you access or use our Website, we automatically collect information about you, including:
+Log Information: We log information about your use of the Website, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our Website.
+Device Information: We may collect information about the computer or mobile device you use to access our website, including the hardware model, operating system and version, device identifiers and mobile network information.
+Cookies and Tracking Technologies Information: We use various technologies to collect information, and this may include sending cookies to your computer or mobile device.
+Cookies are small data files stored on your hard drive or in device memory that helps us to improve our Website and your experience, see which areas and features of our Website are popular and count visits.
+We may also collect information using web beacons (also known as “tracking pixels” or “clear GIFs”).
+Web beacons are electronic images that may be used in our Website or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon.
+For more information about cookies, and how to disable them, please see “Your Choices” below.
+Information We Collect From Other Sources
+We may also obtain information from other sources and combine that with information we collect through our Website.
+For example, if you create or log into your account through a social media site, we will have access to certain information from that site, such as your name, account information and friends lists, in accordance with the authorization procedures determined by such social media site.
+In addition, if you make a donation to the Vikki Goodwin Campaign via ActBlue (our donation portal on the Website is ActBlue), we will obtain certain information about you from ActBlue.
+If you sign up on Mobilize to attend a Vikki Goodwin Campaign event, we will obtain certain information about you from Mobilize.
+Use of Information
+We may use information about you for various purposes, including:
+- To provide, maintain, and improve our website,
+- To send you technical notices, updates, security alerts, and support and administrative messages;
+- To provide and deliver the information you request, process donations and transactions and send you related information, including confirmations and invoices;
+- To respond to your emails, submissions, comments, questions, and requests, provide customer service, request feedback, and otherwise contact you about your use of the website;
+- To send you newsletters and otherwise provide you with information or services you request or that we think will be of interest to you, such as sending you information to keep you informed about various issues, events, resources, promotions, contests, products and services;
+- To help connect you with other supporters, and to solicit volunteers for issues and organizations we support;
+- To contact you if other information is necessary under Federal or state laws;
+- To monitor and analyze trends, usage and activities in connection with our Website;
+- To link or combine with information we get from others to help understand your needs and interests and match you with opportunities;
+- To personalize and improve the Website and provide advertisements, content or features that match user profiles or interests or that are based on the information you provide or the actions you take; and
+- To carry out any other purpose for which the information was collected.
+- The Campaign is based in the United States and the information we collect is governed by U.S. and Texas law.
+By accessing or using the Website or otherwise providing information to us, you consent to the processing and transfer of information in and to the U.S. and other countries.
+Sharing of Information
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+- With vendors, consultants, and other service providers or volunteers who need access to such information to carry out work on our behalf;
+- When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
+- If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of the Campaign, its employees, volunteers, constituents or others;
+- In connection with, or during negotiations of, any reorganization, formation of a successor organization, asset sale or transfer, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of the Campaign; and
+- With your consent or at your direction, including if we notify you through our Site that the information you provide will be shared in a particular manner and you provide such information.
+- The above excludes text messaging originator opt-in data and consent, which information will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process; and (3) if the user consents to our sharing of such information.
+We may also share aggregated or anonymized information that does not directly identify you.
+Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
+The above excludes text messaging originator opt-in data and consent, which information will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process; and (3) if the user consents to our sharing of such information.
+We may also share aggregated or anonymized information that does not directly identify you.
+Text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
+Online Petitions
+If you sign an online petition, you understand that such petition is public information and that we may make the petition, and your name, city, state, and any comments provided in connection therewith publicly available.
+In addition, we may provide such petitions or compilations thereof, including your comments, name, city, and state to national, state or local leaders, or to the press.
+Links to Other Websites
+Our Website may contain links to other websites.
+For example, we link to ActBlue to enable donations through ActBlue, or we may link to sites of other organizations with whom we partner.
+Any personal information you provide on such linked pages is provided directly to that third party and is subject to that third party’s privacy policy.
+This Privacy Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these websites or any other sites that are linked to from the Site.
+We encourage you to read about their privacy and security practices and policies before providing them with personal information.
+Social Sharing Features
+The Website may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Website with other media, and vice versa.
+The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the entity that provides the social sharing feature.
+For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the entities that provide these features.
+Advertising and Analytics Services Provided by Others
+We may allow third parties to use cookies, web beacons, or other technologies or otherwise collect information about you in order to provide analytics and advertising services, including serving ads on the Site or on other sites based on your visits to the Website and other sites across the Internet and various mobile applications.
+These entities may collect or receive information about your use of the Website and other websites and mobile applications, including your IP address, browser, device information, pages viewed, time spent on pages, links clicked and conversion information.
+This information may be used by the Campaign and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests and better understand your online activity.
+We may use Google Analytics or other re-marketing tools to advertise online.
+This enables third-party vendors, including Google, to show our ads on sites across the Internet.
+Such third-party vendors, including Google, may use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our Website.
+For information on how you can opt out of Google’s use of cookies for interest-based ads please visit Google’s Ads Settings.
+For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices.
+Security
+The Campaign takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+The Campaign is based in the United States and is directed to U.S. residents, and we process and store information in the U.S.
+If you are located outside the U.S., we, and our service providers, may store, access, or transfer your information to jurisdictions that may not provide equivalent levels of data protection as your home jurisdiction.
+Your Choices
+Account Information
+You may request that we update, correct, or delete the information you provide to us by emailing us at info@vikkigoodwin.com.
+However, note that we may retain certain information as required by law or for legitimate business purposes.
+We may also retain cached or archived copies of information about you for a certain period of time.
+Cookies
+Most web browsers are set to accept cookies by default.
+If you prefer, you can usually choose to set your browser to remove or reject browser cookies.
+Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Website.
+We may automatically collect information using “cookies” or cookie-like files called Local Shared Objects (Flash cookies).
+Cookies are small data files stored on your hard drive by a Website.
+Local Shared Objects are larger data files stored on your hard drive.
+Among other things, cookies and Local Shared Objects help us improve our Website and your experience, count visits to our Website and to tailor your experience on our Website according to which areas you have visited on our Website and the preferences you have specified, and to save you the effort of having to log in or provide information each time you visit our Website.
+These cookies and Local Shared Objects may be linked to your personal information.
+Most Web browsers are set to accept cookies by default.
+If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies.
+If you choose to remove cookies or reject cookies, this could affect certain features or services of our Website.
+Browser settings will not affect Local Shared Objects.
+Web Beacons
+We may collect information using Web beacons.
+Web beacons are electronic images that may be used on our websites or in our emails.
+We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
+Third Party Advertisements
+We may also use third parties to show you ads for other organizations on our Website.
+We may also use third parties to show our ads on other organizations’ Websites based on your prior visits to our Website.
+To show these ads, these third parties may automatically collect information about your visits to our Website and other Websites, your IP address, your ISP, the browser you use to visit our Website (but not your name, address, email address or telephone number).
+They do this using cookies, clear gifs or other technologies.
+Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Website and the other Websites tracked by these third parties.
+This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads or on third party Websites, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology.
+If you would like more information about this practice and to know your choices about not having this information used by these third parties, click here.
+Children’s Online Privacy Protection Act
+We do not knowingly, directly or passively, collect information from children under the age of 13.
+To respect the privacy of children and to comply with the Children’s Online Privacy Protection Act, children under the age of 13 should not provide any Personal Information on this Website.
+We ask that parents supervise their children while online.
+Links To Other Websites
+Please be aware that we may provide links to third-party Websites, including those Websites maintained by Democratic candidates, other Democratic committees and news media outlets, as a service to our visitors.
+We are not responsible for the content or information collection practices of those Websites.
+Please note that these Websites’ privacy policies may differ from ours.
+We encourage you to review and understand their privacy practices before providing them with information.
+Promotional Communications
+You may opt out of receiving updates and newsletters by email by following the instructions in those emails, and you may opt out of receiving SMS alerts by texting STOP at any time.
+If you opt out, we may still send you other types of emails, such as those about your use of the Website or any donations or transactions.
+Mobile Push Notifications/Alerts
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device.
+You can deactivate these messages at any time by changing the notification settings on your mobile device.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at info@vikkigoodwin.com.
+Vikki Goodwin Campaign Terms & Conditions of Use
+Date of Last Revision: July 6, 2025 PLEASE READ THESE TERMS AND CONDITIONS OF USE CAREFULLY.
+BY ACCESSING OR USING THIS WEBSITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS INCORPORATED BY REFERENCE.
+IF YOU DO NOT AGREE TO ALL OF THESE TERMS, DO NOT USE THIS SITE.
+These Terms of Service (“Terms”) apply to your access to and use of the websites, mobile websites and other online offerings (collectively, the “Website”) provided by Vikki Goodwin Campaign and its affiliates (the “Campaign,” “we,” or “us”) that link to these Terms.
+By accessing or by using our Website, you agree to these Terms, and any terms incorporated by reference.
+If you do not agree to these Terms, do not use our Website.
+We may make changes to these Terms from time to time.
+If we make changes, we will provide you with notice of such changes, such as by sending an email, providing a notice through our Website or updating the date at the top of these Terms.
+Unless we say otherwise in our notice, the amended Terms will be effective immediately, and your continued use of our Website after we provide such notice will confirm your acceptance of the changes.
+If you do not agree to the amended Terms, you must stop using our website.
+If you have any questions about these Terms or our Website, please contact us at info@vikkigoodwin.com.
+Privacy
+For information about how we collect, use, share and otherwise process information about you, please see our Privacy Policy above.
+Consent to Use of Data and Mobile Communication; SMS Program Terms
+You consent to our communicating with you about the Website and the Campaign by SMS, text message, email or other electronic means.
+Your carrier’s normal messaging, data and other rates and fees will apply to these communications.
+By providing your mobile number and opting in, you agree to be contacted by or on behalf of Vikki Goodwin Campaign at the provided mobile number.
+This includes text messages for informational, product, or service-related purposes (e.g., donation requests, advocacy actions, etc.).
+Message frequency varies, and standard message and data rates may apply.
+To stop receiving text messages, reply with the word STOP.
+We may confirm your opt-out by text message.
+For support or assistance, please email us at info@vikkigoodwin.com.
+If you subscribe to any text programs that the Campaign makes available, the following terms apply: By subscribing to Campaign updates or alerts, you consent to receive periodic updates or alerts by automatic text message.
+Text STOP to stop.
+For Help, text HELP or contact us at info@vikkigoodwin.com.
+Message and data rates may apply.
+See our privacy policy above.
+Neither the Campaign nor the participating carriers guarantee that messages will be delivered.
+The Campaign may discontinue the program at any time without notice.
+User Content
+Our Website may allow you and other users to create, post, store and share content, including messages, comments, stories, text, photos, graphics, videos, music, and other materials (collectively, “User Content”).
+You may also submit User Content to the Campaign by other means, including email and text message.
+Except for the license you grant below, you retain all rights in and to your User Content, as between you and the Campaign.By posting, submitting or otherwise providing any User Content to the Campaign, you grant the Campaign and its independent contractors, service providers, consultants and joint committee members, a perpetual, irrevocable, nonexclusive, royalty-free, worldwide, fully paid, and sub-licensable license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, publicly perform and display your User Content and any name, username or likeness provided in connection with your User Content in all media formats and channels now known or later developed without compensation to you.
+When you post or otherwise share User Content with the Campaign, whether through our Website or otherwise, you understand that your User Content and any associated information (such as your username or profile photo) may be visible to others and you release the Campaign, and anyone acting under its authorization, from any claims that any use of your User Content as authorized herein violates any of your rights, including any rights of publicity or privacy.
+You may not create, post, store or share any User Content that violates these Terms or for which you do not have all the rights necessary to grant us the license described above.
+You represent and warrant that your User Content, and our use of such content as permitted by these Terms, will not violate any rights of or cause injury to any person or entity.
+Although we have no obligation to screen, edit or monitor User Content, we may delete or remove User Content at any time and for any reason with or without notice.
+Prohibited Conduct and Content
+You will not violate any applicable law, contract, intellectual property right or other third-party right or commit a tort in connection with any User Content you post to the Website or otherwise provide to the Campaign, and you are solely responsible for your conduct while using our Website.
+You will not: Engage in any harassing, threatening, intimidating, predatory or stalking conduct; Use or attempt to use another user’s account without authorization from that user and the Campaign; Impersonate or post on behalf of any person or entity or otherwise misrepresent your affiliation with a person or entity; Sell, resell or commercially use our Website; Copy, reproduce, distribute, publicly perform or publicly display all or portions of our Website, except as expressly permitted by us or our licensors; Modify our Website, remove any proprietary rights notices or markings, or otherwise make any derivative works based upon our Website; Use our Website other than for its intended purpose and in any manner that could interfere with, disrupt, negatively affect or inhibit other users from fully enjoying our Website or that could damage, disable, overburden or impair the functioning of our Website in any manner; Reverse engineer any aspect of our Website or do anything that might discover source code or bypass or circumvent measures employed to prevent or limit access to any part of our Website; Use any data mining, robots or similar data gathering or extraction methods designed to scrape or extract data from our Website; Develop or use any applications that interact with our Website without our prior written consent; Send, distribute or post spam, unsolicited or bulk commercial electronic communications, chain letters, or pyramid schemes; Bypass or ignore instructions contained in our robots.txt file; or Use our Website for any illegal or unauthorized purpose, or engage in, encourage or promote any activity that violates these Terms.
+You may also post, submit, or otherwise share only User Content that is nonconfidential and that you have all necessary rights to disclose.
+You may not create, post, submit, store or share any User Content that: Is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, suggestive, harassing, threatening, invasive of privacy or publicity rights, abusive, inflammatory or fraudulent; Would constitute, encourage or provide instructions for a criminal offense, violate the rights of any party or otherwise create liability or violate any local, state, national or international law; May infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party; Contains or depicts any statements, remarks or claims that do not reflect your honest views and experiences; Impersonates, or misrepresents your affiliation with any person or entity; Contains any unsolicited promotions, advertising or solicitations; Contains any private or personal information of a third party without such third party’s consent; Contains any viruses, corrupted data or other harmful, disruptive or destructive files or content; or In our sole judgment, is objectionable, restricts or inhibits any other person from using or enjoying our Website, or may expose the Campaign or others to any harm or liability of any type.
+Enforcement of this Section is solely at the Campaign’s discretion, and failure to enforce this section in some instances does not constitute a waiver of our right to enforce it in other instances.
+In addition, this Section does not create any private right of action on the part of any third party or any reasonable expectation that the Website will not contain any content that is prohibited by such rules.
+Ownership and Limited License
+The Website, including the text, graphics, images, photographs, videos, illustrations and other content contained therein, are owned by the Campaign or our licensors and are protected under both United States and foreign laws.
+Except as explicitly stated in these Terms, all rights in and to the Website are reserved by us or our licensors.
+Subject to your compliance with these Terms, you are hereby granted a limited, nonexclusive, nontransferable, non-sublicensable, revocable license to access and use our Website for your own personal, noncommercial use.
+Any use of the Website other than as specifically authorized herein, without our prior written permission, is strictly prohibited, will terminate the license granted herein and violate our intellectual property rights.
+Trademarks
+Vikki Goodwin Campaign and our logos, our product or service names, our slogans and the look and feel of the Website are trademarks of the Campaign and may not be copied, imitated or used, in whole or in part, without our prior written permission.
+All other trademarks, registered trademarks, product names and Campaign names or logos mentioned on the website are the property of their respective owners.
+Reference to any products, services, processes or other information by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation by us.
+Feedback
+You may voluntarily post, submit or otherwise communicate to us any questions, comments, suggestions, ideas, original or creative materials or other information about the Campaign or our Website (collectively, “Feedback”).
+You understand that we may use such Feedback for any purpose, commercial or otherwise, without acknowledgment or compensation to you, including, without limitation, to develop, copy, publish, or improve the Feedback in Campaign’s sole discretion.
+You understand that the Campaign may treat Feedback as nonconfidential.
+Repeat Infringer Policy and Copyright Complaints
+In accordance with the applicable laws including but not limited to the Digital Millennium Copyright Act, we have adopted a policy of terminating, in appropriate circumstances, the accounts of users who repeatedly infringe the intellectual property rights of others.
+If you believe that anything on our Website infringes any copyright that you own or control, you may notify the Campaign’s designated agent at info@vikkigoodwin.com.
+Please see 17 U.S.C. § 512(c)(3) for the requirements of a proper notification.
+Also, please note that if you knowingly misrepresent that any activity or material on our Website is infringing, you may be liable to the Campaign for certain costs and damages.
+Third-Party Content, Products, and Websites.
+We may provide information about third-party organizations, events, products, services, or activities, or we may allow third parties to make their content and information available on or through the Website (collectively, “Third-Party Content”).
+We provide Third-Party Content as a service to those interested in such content.
+Your dealings or correspondence with third parties and your use of or interaction with any Third-Party Content are solely between you and the third party.
+The Campaign does not control or endorse, and makes no representations or warranties regarding, any Third-Party Content, and your access to and use of such Third-Party Content is at your own risk.
+Indemnification
+To the fullest extent permitted by applicable law, you will indemnify, defend and hold harmless the Campaign and its independent contractors, service providers, and consultants, successor organizations, and joint committee members, and each of their respective officers, directors, agents, partners and employees (individually and collectively, the “Indemnified Parties”) from and against any losses, liabilities, claims, demands, damages, expenses or costs (“Claims”) arising out of or related to (a) your User Content or Feedback; (b) your violation of these Terms; (c) your violation, misappropriation or infringement of any rights of another (including intellectual property rights or privacy rights); or (d) your misconduct in connection with the Website.
+You agree to promptly notify Indemnified Parties of any third-party Claims, cooperate with Indemnified Parties in defending such Claims and pay all fees, costs and expenses associated with defending such Claims (including, but not limited to, attorneys’ fees).
+You also agree that the Indemnified Parties will have control of the defense or settlement, at the Indemnified Party’s sole option, of any third-party Claims.
+Disclaimers
+Your use of our Website is at your sole risk.
+Except as otherwise provided in a writing by us, our Website and any content therein are provided “as is” and “as available” without warranties of any kind, either express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement.
+In addition, the Campaign does not represent or warrant that our Website is accurate, complete, reliable, current or error-free.
+While the Campaign attempts to make your use of our Website safe, we cannot and do not represent or warrant that our Website or servers are free of viruses or other harmful components.
+You assume the entire risk as to the quality and performance of the Website.
+Limitation of Liability
+IN NO EVENT SHALL CAMPAIGN, OR OUR RESPECTIVE EMPLOYEES, AGENTS OR VOLUNTEERS BE LIABLE FOR ANY DIRECT, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY OTHER DAMAGES OF ANY KIND, INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE) OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF OR INABILITY TO USE THE SITE, THE SERVICES, THE CONTENT OR THE SITE MATERIALS CONTAINED IN OR ACCESSED THROUGH THE SITE, INCLUDING WITHOUT LIMITATION ANY DAMAGES CAUSED BY OR RESULTING FROM RELIANCE BY USER ON ANY INFORMATION OBTAINED FROM CAMPAIGN, OR THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR EMAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION OR UNAUTHORIZED ACCESS TO CAMPAIGN’S RECORDS, PROGRAMS OR SERVICES.
+IN NO EVENT SHALL THE AGGREGATE LIABILITY OF CAMPAIGN, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE, WHETHER ACTIVE, PASSIVE OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY OR OTHER THEORY, ARISING OUT OF OR RELATING TO THE USE OF OR INABILITY TO USE THE SITE OR THE SITE MATERIALS EXCEED ANY COMPENSATION YOU PAY, IF ANY, TO CAMPAIGN FOR ACCESS TO OR USE OF THE SITE.
+Governing Law and Venue
+Any dispute arising from these Terms and your use of the website will be governed by, construed, and enforced in accordance with the laws of Texas, except to the extent preempted by U.S. federal law, without regard to conflict of law rules or principles (whether of Texas or any other jurisdiction) that would cause the application of the laws of any other jurisdiction.
+Any dispute between the parties will be resolved in the state or federal courts of Texas and the United States, respectively.
+Modifying and Terminating our Website
+We reserve the right to modify our Website or to suspend or stop providing all or portions of our Website at any time.
+You also have the right to stop using our Website at any time.
+We are not responsible for any loss or harm related to your inability to access or use our Website.
+For support or assistance, please email us at info@vikkigoodwin.com.
+Sever-ability
+If any provision or part of a provision of these Terms is unlawful, void or unenforceable, that provision or part of the provision is deemed severable from these Terms and does not affect the validity and enforceability of any remaining provisions.
+Miscellaneous
+The failure of the Campaign to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision.
+The section titles in these Terms are for convenience only and have no legal or contractual effect.
+Except as otherwise provided herein, these Terms are intended solely for the benefit of the parties and are not intended to confer third-party beneficiary rights upon any other person or entity.
+You agree that the communications and transactions between us may be conducted electronically.
+Terms of Use
+These Terms of Service (“Terms”) apply to your access to and use of the websites, mobile applications and other online offerings (collectively, the “Websites”) provided by the Vikki Goodwin Campaign (the “Committee,” “we,” or “us”).
+By accessing or by using the Websites, you agree to these Terms, and any terms incorporated by reference.
+If you do not agree to these Terms, do not use the Websites.
+Consent to Receive Text Messages
+By providing your mobile number and opting in, you agree to be contacted by or on behalf of Vikki Goodwin Campaign at the provided mobile number.
+This includes text messages for informational, product, or service-related purposes (e.g., donation requests, advocacy actions, etc.).
+Message frequency varies, and standard message and data rates may apply.
+To stop receiving text messages, reply with the word STOP.
+We may confirm your opt-out by text message.
+For support or assistance, please email us at info@vikkigoodwin.com.

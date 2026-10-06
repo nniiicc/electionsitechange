@@ -1,0 +1,282 @@
+Endorsements
+Representative Isaac is honored to be endorsed by over 50 community leaders in Central Texas.
+Conservatives are uniting behind Carrie as the fearless conservative fighter who will defend our liberty in the Texas Capitol.
+Want to add your name to the list?
+Click here to join Team Isaac!
+Organizations
+State & Local Leaders
+Ted Cruz
+United States Senator
+Abby Johnson
+International pro-life advocate
+And Then There Were None CEO
+Col.
+Allen West
+Former U.S.
+Congressman
+Former Republican Party of Texas Chairman
+Wayne Christian
+Texas Railroad Commissioner
+Sid Miller
+Texas Agriculture Commissioner
+Paul Bettencourt
+State Senator
+Mayes Middleton
+State Representative
+Texas Freedom Caucus Chairman
+Briscoe Cain
+State Representative
+Texas Freedom Caucus Member
+Jared Patterson
+State Representative
+Tony Tinderholt
+State Representative
+Valoree Swanson
+State Representative
+Texas Freedom Caucus Member
+Mike Garcia
+Texas Freedom Caucus Executive Director
+Rick Green
+Former State Representative
+Talmadge Heflin
+Former State Representative
+Jason Isaac
+Former State Representative
+Nathan Macias
+Former State Representative
+Paul Workman
+Former State Representative
+George Green
+Former Candidate for State Representative, House District 73
+Former New Braunfels City Council member
+Chris Byrd
+State Republican Executive Committeeman
+J.T.
+Edwards
+State Republican Executive Committeeman
+Republican Party of Texas Auxiliary and Coalitions Committee Chair
+Republican Party of Texas Engagement Officials Committee Vice Chair
+Walter West, II
+State Republican Executive Committeeman
+Naomi Narvaiz
+State Republican Executive Committeewoman
+Ann Hettinger
+Concerned Women for America State Director*
+Jason Vaughn
+Pro-Life Texas Founder
+Texas Young Republicans liaison to the State Republican Executive Committee
+DJ Seeger
+Comal County Young Republicans Policy Director and Treasurer
+Craig Young
+Former Hays County Republican Party Chair
+Wesley Doss
+Hays County Republican Executive Committee Sergeant-at-Arms
+Mike Lee
+Hays County Republican Party Parliamentarian
+Nathalene Lee
+Hays County Republican Party SD 21 Delegate
+Todd Purcell
+Former Dripping Springs Mayor
+Todd Colvin
+North Hays County Fire Rescue Assistant Chief
+Michael Norton
+Johnson City ISD Principal
+Former Dripping Springs ISD Vice Principal
+Liz Tuttle
+Former Wimberley ISD School Board Member
+Former Wimberley Education Foundation Director of Education and Training
+Milton Sellars
+Former Comal ISD School Board Member
+Sonja Harris
+Conservative activist
+Alice Chisholm
+Former Kyle/Buda Republican Group President
+Mark Key
+Former Hays Trinity Groundwater Conservation District President
+Jimmy Skipton
+Former Hays Trinity Groundwater Conservation District Board Member
+Don Casey
+Blanco County Farm Bureau*
+Tony Greaves
+Former Hays County Farm Bureau
+Ellen Troxclair
+Former Austin City Council member
+Stacy McMahan
+East Texans for Liberty Executive Director
+Hank Seale
+Philanthropist
+Lyssa Seale
+Philanthropist
+Linda Tenorio
+Community leader
+Republican Precinct Chairs
+Current Chairs
+Carolyn Besselman
+Ben Broughton
+Joseph Browning
+Chris Byrd
+Mary Clarkson
+Allen Clayton
+Martha Doss
+Marty Hiles
+Albert Hingfield
+Don Johnson
+Joanne Martin
+Bob Mooney
+Will Moravits
+Kathy Phillips
+Melinda Rapp
+Dan Robison
+Carla Sisk
+Kaci Sisk
+Teri Taylor
+LaFawn Thompson
+Leonard Vigil
+Susan Walker
+Anna White
+J.B.
+Williamson
+Former Chairs
+David Crowell
+Emily Konkle
+Brian McAuliffe
+Jeffrey Narvaiz
+Mary Puckett
+Veterans
+Ben Adair
+Daniel Anderson
+“Shorty” Ronnie Barnett
+Rick Barnett
+Charles Bonney
+Alton Brannan
+Stephanie Brown
+Hank Burbridge
+Charles Busbey
+Robert “Chappy” Chaplin
+William Cooley
+Isaac Cortez
+Darrell Debish
+Mike Donnelly
+Bill Foote
+Brian Fricker
+Michelle Fricker
+Tim Gregory
+David Guzman
+Gary Hale
+Richard “Tex” Hall
+Kerman Hammond
+Justin Harris
+Gregg Herdlitchka
+Tom Huth
+Jerry Martin
+Justin Megoloff
+Aaron Miles
+Sharon Mixon
+Jeffrey Myers
+Steven Ochs
+Jim Palladino
+Alan Reams
+Huey Sandifer
+Paul Savage
+Thomas Soltau
+Leo Sopicki
+John Sorge
+Jefferson Whitehead
+Danny Williams
+Supporters
+Chris Adams
+Lisa Adams
+Vicki Agans
+Laura Bailey
+Rick Barnett
+Sissi Baskin
+Gail Benner
+Randell Benoit
+Janet Bonney
+Patricia Brenner
+Fred Bright
+Michael Brockway
+Lori Broughton
+Mickey Brown
+C.W.
+Bruns
+Jeff Burrier
+Charlie Cantu
+Darlene Cantu
+Bruce Collie
+Joanny Collins
+Mike Cox
+Jane Coy
+Connie Crain
+Eddie Crain
+Chuck DeVore
+Ken Dockery
+Mary Dockery
+Amy Doucet
+John Doucet
+Tammie Fulton
+Victor Garcia
+Becky Gibson
+Tom Gordon
+Wayne Gosnell
+Rick Graves
+Tony Greaves
+Kara Green
+Barbara Gremillion
+Sandy Hale
+Diane Hall
+Jeffrey Hankins
+Donovan Harmon
+David Howard
+Ruth Howard
+Rexine Howell
+Janet Hurst
+Terry Hurst
+Cathy Keaney
+April Klepac
+Jan Jensen
+Patti Johnson
+Jimmy Klepac
+Beverlee Lemes
+Ralph Lemes
+Susie Locker
+Kimberly Luikart
+Cristina Machado
+Colette McCharen
+Rita McNeill
+Amber Mergele
+Thalia Michelle
+Shari Monaco
+Sarah Morris
+Laura Nunn
+Sam Paul
+Jeff Payton
+Mark Peloquin
+Susan Peloquin
+Cris Peterson
+Jeff Peterson
+James Quintero
+Tricia Quintero
+Daniel Rath
+John Ray
+Alan Reams
+Linda Rivera
+Jozetta Roberts
+Eddy Rogers
+Carl Russell
+Loren Sack
+Shawn Saenz
+Brenda Sauceda
+Hank Seale
+Landon Self
+Ray Shaw, Jr.
+Michelle Simons
+Brian Sjolseth
+Brian Smith
+Katie Tahuahua
+Don Volz
+Ron Walton
+Loyal White
+Lisa Wiedemann
+Sherry Workman
+*This is a personal endorsement and is not made on behalf of any organization.

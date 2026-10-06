@@ -1,0 +1,63 @@
+2022 Endorsements
+Mike is honored to have received these notable endorsements
+Scroll down for list of notable endorsements
+Mike is honored to be endorsed by these fine organizations
+Mike is honored to have received these notable endorsements*
+* Organization is only for identification purposes
+US Senator Ted Cruz
+Rick Green – Founder and President of Patriot Academy
+Maria Espinoza – Trump Surrogate, National Director of The Rememberence Project
+George Conley – Parker County Commissioner for Precinct 1
+Steve Dugan – Parker County Commissioner for Precinct 4
+Jenny Barnwell – Parker County Treasurer
+Cindi Castilla – President of Texas Eagle Forum
+Cathie Adams – Former President of Texas Eagle Forum
+Julie McCarty – CEO of True Texas Project
+Jill Glover – Chair of Texas GOP Legislative Priorities Committee
+Beth Biesel – Texas Eagle Forum Election Integrity Chair
+Marcy Galle – Founder of Moms for Liberty – Parker County TX
+Dr Shiela Page – President Elect of Association of American Physicians and Surgeons
+Michelle Smith – Former State Director of Concerned Women for America
+Lynette McCracken – Co-founder of Parker County Tea Party
+Bill Hussey – Co-founder of Llano Tea Party
+Don and Rene Poe – Co-founders of Hood County Tea Party
+Tom Davis – Former Tarrant County GOP Chair
+Darrell Castillo – Professor of Government at Weatherford College
+James Ashby – Republican Volunteer of the Year
+Parker County Republican Precinct Chairs
+Tobie Hall – Republican Chair of Precinct 100
+Earlene S.
+Clouse – Republican Chair of Precinct 110
+Ann Henley – Republican Chair of Precinct 111
+Jeffery Davis – Republican Chair of Precinct 115
+Lynn Monaco – Republican Chair of Precinct 135
+Kelton Gunter – Republican Chair of Precinct 205
+Chuck Carr – Republican Chair of Precinct 210
+Laura Hester – Republican Chair of Precinct 215
+Eric Flores – Republican Chair of Precinct 220
+Luke Haynes – Republican Chair of Precinct 225
+Bruce Melberg – Republican Chair of Precinct 315
+Larry Bartoli – Republican Chair of Precinct 325
+Steven Graves – Republican Chair of Precinct 330
+LaJeanna Adair – Republican Chair of Precinct 345
+Gene Martin – Republican Chair of Precinct 410
+Laura Heffelfinger – Republican Chair of Precinct 420
+Betty L.
+Reinert – Republican Chair of Precinct 425
+David Steward – Republican Chair of Precinct 430
+John Korpal – Republican Chair of Precinct 435
+Mike Herring – Republican Chair of Precinct 440
+Ed Huddleston – Republican Chair of Precinct 450
+Former Parker County Republican Precinct Chairs
+Rick Perry – Former Republican Precinct Chair
+Carole Elston – Former Republican Precinct Chair
+Marilyn Lindholm – Former Republican Precinct Chair
+Anna Golden – Former Republican Precinct Chair
+Count Down To Runoff Election Day
+Day(s)
+:
+Hour(s)
+:
+Minute(s)
+:
+Second(s)

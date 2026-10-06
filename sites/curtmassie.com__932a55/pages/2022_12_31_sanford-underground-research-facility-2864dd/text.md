@@ -1,0 +1,2 @@
+A big thank you to the Sanford Underground Research Facility (SURF) for the legislator tour.
+It was great to see and hear how this facility has allowed South Dakota to be at the forefront of research in areas of dark matter and neutrino physics, biology, geology, and engineering.

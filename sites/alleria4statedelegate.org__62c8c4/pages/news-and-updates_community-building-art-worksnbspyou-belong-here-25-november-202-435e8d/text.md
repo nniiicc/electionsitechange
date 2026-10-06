@@ -1,0 +1,1 @@
+Community Building Art Works, “You Belong Here”, 25 November 2024, interview Sep 22 Written By Apple User MissionBelonging: Alleria, US Army Veteran (Ret) - You Belong Here https://www.youtube.com/watch?v=ymJG1Ama3z0 Apple User

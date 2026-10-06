@@ -1,0 +1,63 @@
+MICHELLE CICCOLO STATE REPRESENTATIVE
+Home
+About
+Meet Michelle
+Career Accomplishments
+The District
+Updates
+Office Hours
+Newsletter
+Press
+Priorities
+Zero Waste Caucus
+Legislative Trails Caucus
+Legislation
+Contact
+Campaign
+Contact Us
+State Rep Michelle Ciccolo
+[email protected]
+(781) 330-0730
+State House, Room 473F
+Boston, MA 02133
+Victoria Beyer, Legislative Aide
+[email protected]
+Follow this link to the State House Website:
+https://malegislature.gov/Legislators/Profile/M_C2
+*
+Indicates required field
+Name
+*
+First
+Last
+[object Object]
+Email
+*
+Street Address
+*
+City/Town
+*
+State
+*
+Zip Code
+*
+Phone Number
+*
+Comment
+*
+Submit
+Home
+About
+Meet Michelle
+Career Accomplishments
+The District
+Updates
+Office Hours
+Newsletter
+Press
+Priorities
+Zero Waste Caucus
+Legislative Trails Caucus
+Legislation
+Contact
+Campaign

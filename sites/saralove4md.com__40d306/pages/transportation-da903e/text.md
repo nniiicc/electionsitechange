@@ -1,0 +1,18 @@
+Transportation is one of the top issues affecting all of us in Montgomery County.
+Improving public transit and creating safer roads for all users - cars, cyclists, and pedestrians - is a priority.
+Each session we work to ensure that Marylanders have a robust, successful, and well-funded transportation network that they could rely on:
+Workgroup on the Reorganization of the Maryland Transit Administration (HB 517)(Delegate Korman)(2025) establishes the Workgroup on the Reorganization of the Maryland Transit Administration to study reorganizing the Maryland Transit Administration
+Montgomery County - Speed Monitoring Systems - High-Risk Highways (HB 1173) (2025) authorizes the placement and use of speed monitoring systems in Montgomery County on roads that are at high risk for crashes
+Speed Monitoring Systems - Penalties (HB 182)(2025) increases the civil penalty fees charged for speed monitoring system violations, levying higher fees for those going at higher speeds
+The Sergeant Patrick Kepp Act (HB 744)(2025).
+Named after Sergeant Patrick Kepp, a Montgomery County police officer who was severely injured by a reckless driver, this legislation increases penalties for reckless and aggressive driving
+Automated Enforcement Privacy Act (SB 381/HB 516) (Senator Love/Delegate Korman) (2025) establishes basic parameters around the use, access, and retention of data collected from the ever-increasing number of automated enforcement programs (cameras), including speed, school bus, red light, bus lane, construction, and noise.
+Sarah Debbink Langenkamp Memorial Act (HSB 315/HB 337) (Senator Kelly/Delegate Love)(2024) named for D16 resident Sarah Lagenkamp, this legislation brings a more substantial maximum penalty, including jail time, for vehicle drivers convicted of striking a cyclist in a bike lane or shoulder and causing significant harm or death.
+Maryland Road Worker Protection Act of 2024 (HB 513) (2024) protects roadway construction and maintenance workers and improves safety around work zones through the increased use of speed cameras and traffic enforcement.
+Maryland Metro Funding Act of 2024 (SB 126/HB 198)(Senator Augustine/Delegate Korman) (2024) temporarily lifts the operating cap to allow for the necessary funding increases from Maryland to WMATA (Washington Metropolitan Area Transit Authority).
+Transportation Equity (SB 19/HB 9)(2023) requires the Maryland Transportation Plan to prioritize ways to achieve equity in transportation when developing overall transportation goals.
+Passed
+Equitable and Inclusive Transit-Oriented Development Enhancement Act (HB 12)(2023) establishes a $5million Transit-Oriented Grant Program for local jurisdiction so aid in transit-oriented development.
+This will further our efforts to cut the cost of carbon emissions as well as address housing affordability.
+Clean Trucks Act of 2023 (SB 224/HB 230)(Senator Augustine/Delegate Love).reduces Maryland's greenhouse gas emissions by requiring the Maryland Department of the Environment to establish requirements for the sale of new zero-emission medium- and heavy-duty vehicles and to submit to the General Assembly a certain needs assessment and deployment plan.
+Clean Transportation and Energy Act (HB 550)(2023) moves the State forward to electrifying transportation and creating climate friendly transportation infrastructure by extending the Electric Vehicle Recharging Equipment Program and increasing the Medium-Duty and Heavy-Duty Zero-Emission Vehicle Grant Program.

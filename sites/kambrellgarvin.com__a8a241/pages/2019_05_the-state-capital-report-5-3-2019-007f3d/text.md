@@ -1,0 +1,39 @@
+The House of Representatives amended and gave second reading approval to H.3757, a bill establishing the WORKFORCE AND EDUCATION DATA OVERSIGHT COMMITTEE to support the mission of the Coordinating Council for Workforce Development by collecting data from various state government agencies and institutions and analyzing the compiled data to improve the effectiveness of the state’s educational delivery system in providing economic opportunities.
+The legislation provides for WEDOC’s composition of key public officials in the areas of employment and K-12 and higher education.
+The Office of First Steps to School Readiness, the Department of Education, the Commission on Higher Education, the Department of Social Services, the Technical College System, the Department of Commerce, the Department of Employment and Workforce, the Education Oversight Committee, and other agencies of the state, as considered necessary by the General Assembly, that collect relevant data related to educational and workforce outcomes are required to submit that data to the Revenue and Fiscal Affairs Office so that it may be used by WEDOC to compose reports and provide analysis for policy makers.
+All information disseminated by these partner agencies to the office, committee, or external stakeholders must conform to state and federal privacy, security, and data breach laws and regulations.
+These include requirements for using data in aggregate form and preventing the reporting of data that may potentially be used to identify information relating to a specific individual.
+The legislation specifies that the data submitted remains under the ownership and direction of the agency submitting the data and prohibits the unauthorized release of collected data.
+A protocol is established for the immediate notification of the Governor’s Office in the event of any actual, probable, or reasonably suspected breach of security or any unauthorized access to or acquisition, use, loss, destruction, compromise, alteration, or disclosure of any information under the oversight of WEDOC.
+The House returned S.455, the “ARMED SERVICE MEMBERS AND SPOUSES PROFESSIONAL AND OCCUPATIONAL LICENSING ACT”, to the Senate with amendments.
+The legislation establishes a protocol that allows the Department of Labor, Licensing and Regulation to expedite the issuance of professional and occupational licenses to spouses of military personnel transferred to South Carolina when the spouse holds a professional or occupational license issued by another state that has similar requirements.
+The House amended, approved, and sent the Senate H.3915, legislation clarifying the ROLE OF DEPARTMENT OF SOCIAL SERVICES LEGAL REPRESENTATIVES.
+The legislation revises provisions relating to DSS legal representation to provide that Department of Social Services legal representatives must ensure that the child’s welfare and safety are the predominant basis of all department recommendations and decisions pertaining to abuse and neglect proceedings.
+The House approved S.401, a bill addressing TRANSPORTATION IMPROVEMENT PROJECT COSTS, and enrolled the legislation for ratification.
+This bill relates to construction in the state highway system and provides that an entity undertaking a transportation improvement project shall bear the costs related to relocating water and sewer lines within the Department of Transportation’s right‑of‑way.
+The bill provides the requirements for utilities to be eligible for relocation payments.
+Public utilities are grouped into: (1) small utilities which have 10,000 or less water taps or sewer connections and serves a population of 30,000 or less; and (2) large utilities which have more than 10,000 water taps or sewer connections and greater than 30,000 in population.
+The
+transportation project will pay 100 percent of the relocation costs for the smaller utilities.
+For larger utilities, the project will pay the relocation costs but cap the amount paid by the project at no more than 4.0 percent of the
+original contract bid.
+If a small and large utility are in the same project, the cap goes to 4.5%, but the small utility has all costs covered, which is subtracted from the 4.5%; any remainder goes to cover the large utility.
+To be eligible for payment of the relocation costs, the public utility must meet the Transportation Improvement Project’s bid and construction schedule.
+This involves public utilities early in the project planning and design and provides an opportunity to minimize and avoid relocation costs through project design.
+In addition, DOT must include metrics on utility relocation in its annual accountability report.
+The House gave second reading approval to S.109, a bill making REVISIONS TO THE SOUTH CAROLINA ALARM SYSTEM BUSINESS ACT that include provisions for electric fences.
+These electric fence provisions include height specifications, requirements for protective barriers and signage posted to provide warning, and requirements for these fences to be equipped with an energizer driven by a commercial storage battery that does not exceed an electric charge of twelve volts DC.
+Electric fences shall be permitted on any property that is not zoned exclusively for residential use.
+The House amended and gave second reading approval to H.4327, a bill addressing the APPLICATION OF CERTAIN BUILDING CODES ON FARM STRUCTURES.
+The legislation provides that structures without a commercial kitchen used in an agritourism activity shall fall under the group A‑3 classification as defined in the 2015 International Building Code.
+Such structures may accommodate up to three hundred guests without installing a sprinkler system
+The House approved and sent the Senate H.4152, a bill to accommodate the PLASTIC RECLAMATION OPERATIONS of businesses that can accept discarded plastics unsuitable for various recycling initiatives and use a gasification or pyrolysis process to heat these post‑use polymers and recoverable feedstocks to break them down and convert them into such useful materials as oil, fuel, waxes, and lubricants.
+Solid waste policy and management provisions are revised to provide that post‑use polymers and recoverable feedstocks used in pyrolysis and gasification processes are classified as recovered materials, rather than solid waste, for the purposes of regulation by the Department of Health and Environmental Control.
+The legislation facilitates operations that use a gasification or pyrolysis process to heat plastics derived from industrial, commercial, agricultural, or domestic activities that may contain incidental contaminants or impurities, such as paper labels or metal rings, in order to convert them to crude oil, diesel, gasoline, home heating oil or other fuels, chemicals, waxes, lubricants, chemical feedstocks, diesel and gasoline blendstocks, or other raw materials or intermediate or final products that are returned to the economic mainstream in the form of raw materials, products, or fuels.
+The legislation includes requirements for seventy‑five percent, by weight or volume, of the recovered material stored at a facility to be recycled, sold, used, or reused during a calendar year.
+Any material that is accumulated speculatively and not in accordance with these requirements must be handled as solid waste.
+House Resolution H.4169 was adopted to memorialize the United States Congress to approve the UNITED STATES‑MEXICO‑CANADA AGREEMENT (USMCA) in order to ensure continuity in trade among the three North American economic partners.
+If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
+Box 292434, Columbia, SC 29229.
+Thank you for the opportunity to serve you in the House of Representatives.
+KHG/jhm

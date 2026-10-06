@@ -1,0 +1,2 @@
+Coffee Hour at Sabbath Coffee Roasters Royal Oak October 14, 2026 | 8:00-9:30am Join me at coffee hour to ask questions, talk politics, or tell me the best book you’ve read this year.
+Sabbath Coffee Roasters 723 E 11 Mile Rd, Royal Oak ← Back To Events Other Events Coffee hour Oct 12 2026 Coffee Hour at Lucky Detroit Birmingham 8:00-9:30am See Event Info Coffee hour Oct 10 2026 Coffee Hour at Coffee & Bark 8:30-10:00 See Event Info Coffee hour Oct 6 2026 Coffee Hour at Daycap Coffee 8:00-9:30 See Event Info

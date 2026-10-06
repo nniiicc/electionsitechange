@@ -1,0 +1,12 @@
+ABOUT KRISTIN
+Kristin Kassner is running for reelection as State Representative for
+the 2nd Essex District in the Massachusetts House of Representatives.
+Photo credit: Elayne Cronin
+With two decades of experience as a professional local government planner, Kristin has dedicated her career to improving the quality of life, infrastructure, and natural environment across the Commonwealth.
+At the State House, Kristin currently sits on the House Committee on Ways and Means, Joint Committee on Environment and Natural Resources, Joint Committee on Municipalities and Regional Government, Joint Committee on Revenue, and Joint Committee on Ways and Means advocating and delivering resources for the district.
+Kristin currently serves on the North Shore Water Resiliency Task Force and previously served as Vice-Chair of the Hamilton Master Plan Committee.
+She is the former president of the Massachusetts Chapter of the American Planning Association and an active member of the American Institute of Certified Planners (AICP), the Middlesex 3 Coalition, and the Massachusetts Municipal Association.
+Deeply engaged in civic and regional organizations, she is also involved with the Hamilton/Wenham League of Women Voters, the Massachusetts Women’s Political Caucus, The Trustees, the Massachusetts Audubon Society, and the Essex County Trails Association (ECTA).
+She holds a Master of Arts in Urban and Environmental Policy from Tufts University and a Bachelor of Arts in Urban and Regional Planning and Geography from Miami University.
+She completed advanced leadership training at the University of Massachusetts Boston’s Collins Center for Public Management and the Supervisory Leadership Development Program at University of Massachusetts Amherst.
+Kristin lives in Hamilton with her husband, Trevor, and their son.

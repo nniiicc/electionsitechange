@@ -1,0 +1,1043 @@
+Malliotakis joins ICE official to celebrate funding, blast New York sanctuary laws →
+Staten Island Advance – June 18, 2026
+Staten Island’s Malliotakis receives dual law enforcement endorsements for congressional re-election bid →
+Staten Island Advance – April 14, 2026
+Rep.
+Malliotakis to Newsmax: Mamdani Equity Plan Pushes ‘Socialist Agenda’ →
+Newsmax – April 09, 2026
+Staten Island residents protest proposed homeless shelter: ‘Recipe for disaster’ →
+Staten Island Advance – April 04, 2026
+Staten Island GOP touts 9,000-signature petition push; endorses 8 candidates →
+Staten Island Advance – April 03, 2026
+Rep.
+Nicole Malliotakis: Progressive Policies Are to Blame for Rising Crime In New York →
+770 WABC – March 30, 2026
+Staten Island’s Rep.
+Malliotakis backs bipartisan bills to expand fertility treatment… →
+Staten Island Advance – March 30, 2026
+Malliotakis, Chan push back on city’s plan for homeless shelter →
+Brooklyn Eagle – March 26, 2026
+2 law enforcement unions endorse Staten Island’s Rep.
+Malliotakis in congressional race →
+Staten Island Advance – March 24, 2026
+Democrats give up on Malliotakis redistricting fight →
+Politico – March 20, 2026
+Women’s History Museum bill sponsored by Staten Island Rep.
+Malliotakis passes House Committee with ban →
+Staten Island Advance – March 20, 2026
+Rep.
+Malliotakis to Newsmax: Dems Endanger US With DHS Funding Block →
+Newsmax – March 19, 2026
+Rep.
+Malliotakis to Newsmax: Mamdani Not Supporting NYPD as Security Fears Rise →
+Newsmax – March 10, 2026
+A Supreme Court win for a fair map: The Staten Island congressional district stays in place →
+NY Daily News – March 09, 2026
+Rep.
+Malliotakis talks Supreme Court preserving her district →
+NY1 – March 04, 2026
+Rep.
+Malliotakis vows to appeal congestion pricing ruling →
+Brooklyn Eagle – March 04, 2026
+Supreme Court preserves only GOP-held congressional district in New York City for 2026 elections →
+ABC7 – March 03, 2026
+SCOTUS sides with Malliotakis on redistricting case, in blow to NY Dems →
+City & State NY – March 03, 2026
+Supreme Court sides with New York Republican in congressional redistricting fight →
+Fox News – March 03, 2026
+NYC’s Only Republican in Congress Wins Supreme Court Decision →
+Bloomberg – March 03, 2026
+Dem scheme to redraw NYC’s lone GOP-held House seat blocked by SCOTUS →
+New York Post – March 03, 2026
+Supreme Court preserves only GOP-held congressional district in New York City for 2026 elections →
+ABC7 – March 02, 2026
+In win for GOP, Supreme Court blocks NY map change before midterms →
+USA Today – March 02, 2026
+Don’t mess with N.Y.’s elections: U.S.
+Supreme Court has to end congressional redistricting →
+New York Daily News – February 23, 2026
+Rep.
+Nicole Malliotakis urges Trump to intervene as Coast Guard members are set to miss paychecks →
+New York Post – February 21, 2026
+Rep.
+Malliotakis warns of ‘serious questions’ over automatic voter registration for non-citizens →
+Fox Business – February 20, 2026
+Republicans hope Supreme Court can stop new lines being drawn for NYC’s only GOP House seat →
+Telegraph Herald – February 20, 2026
+A new Supreme Court gerrymandering case is nightmare fuel for Democrats →
+Vox – February 19, 2026
+Republicans hope Supreme Court can stop new lines being drawn for NYC’s only GOP House seat →
+Newsday – February 19, 2026
+Latina House Republican asks Supreme Court to block Dems’ bid to ‘racially gerrymander’ her out of Congress →
+Fox News – February 17, 2026
+New York Republican asks Supreme Court to restore her congressional district →
+New York Post – February 15, 2026
+Rep.
+Malliotakis to Newsmax: DHS Funding Lapse ‘Absolutely Shameful’ →
+Newsmax – February 14, 2026
+Republicans Ask Supreme Court to Intervene in N.Y.
+Redistricting Case →
+The New York Times – February 13, 2026
+Rep.
+Malliotakis, FDNY to announce $9M in federal funding at Staten Island firehouse →
+Silive – February 13, 2026
+Rep.
+Malliotakis asks U.S.
+Supreme Court to block district redraw →
+Staten Island Advance – February 13, 2026
+Rep.
+Nicole Malliotakis asks Supreme Court to stop Dems from scrapping NYC’s sole GOP House seat →
+New York Post – February 13, 2026
+New York City Republicans risk losing lone GOP voice in Congress →
+New York Post – February 10, 2026
+NY GOP rips Hochul’s running mate Adrienne Adams for backing non-citizen voting →
+New York Post – February 09, 2026
+Rep.
+Malliotakis nets nearly $1M in local public safety funding →
+Staten Island Advance – February 04, 2026
+Up Close: Rep.
+Nicole Malliotakis on redistricting war over New York’s 11th Congressional district →
+ABC7 – February 01, 2026
+Rep.
+Nicole Malliotakis slams redistricting plan →
+Fox News – January 29, 2026
+New York Republicans appeal ruling on Staten Island district →
+New York Post – January 28, 2026
+Malliotakis slams Dems ‘misguided’ threat to block funding after latest ICE shooting →
+Silive – January 28, 2026
+Republicans appeal judge’s decision rejecting New York City GOP district lines →
+Fox News – January 27, 2026
+Greedy, loser Dems now want to steal Staten Island congressional seat →
+Silive – January 26, 2026
+Democrats Try to Steal Staten Island →
+Wall Street Journal – January 26, 2026
+GOP ready to go to Supreme Court to fight tearing up NYC’s lone Republican House seat →
+New York Post – January 23, 2026
+How New York’s gerrymander fight endangers GOP House seats everywhere →
+New York Post – January 23, 2026
+No redistricting for Staten Island: Leave the current lines in place →
+New York Daily News – January 23, 2026
+NYC Redistricting Goal to Ensure ‘Republican Can Never Win,’ Says Malliotakis →
+Bloomberg – January 23, 2026
+Judge rules NYC’s lone Republican congressional district unconstitutional, orders redraw →
+Fox News – January 22, 2026
+New York City’s only Republican-held congressional district must be redrawn, judge orders →
+New York Post – January 22, 2026
+Rep.
+Malliotakis responds to judge order to redraw her district →
+NY1 – January 22, 2026
+Rep.
+Nicole Malliotakis on Mamdani, gerrymandering and more →
+CBS New York – January 18, 2026
+Rep.
+Nicole Malliotakis on Mamdani, gerrymandering and more →
+CBS – January 18, 2026
+Congresswoman Nicole Malliotakis Talks Affordability →
+Bloomberg – January 16, 2026
+Bill with Rep.
+Malliotakis’ restored law enforcement funds advances to Senate →
+Brooklyn Eagle – January 12, 2026
+Malliotakis delivers letter to President Trump expressing support for SSG Ollis to receive medal of honor →
+Staten Island Advance – January 10, 2026
+Malliotakis speaks with State Department about Staten Island resident reportedly detained in Venezuela →
+Staten Island Advance – January 09, 2026
+Battle over Malliotakis’ district lines makes its way to court →
+Politico – January 07, 2026
+Rep.
+Nicole Malliotakis Talks NY-11 Lawsuit, Venezuela, Mayor Mamdani →
+PIX11 – January 07, 2026
+GOP lawmaker pushes to free US citizen reportedly detained in Venezuela →
+Fox News – January 07, 2026
+Rep.
+Malliotakis calls Maduro’s capture a ‘day of justice’ →
+Fox News – January 04, 2026
+GOP lawmaker calls for ‘balanced, bipartisan’ approach for healthcare fight as it drags on … →
+Fox Business – January 03, 2026
+We must stop socialism now, or it will spread across America: Nicole Malliotakis →
+Newsmax – January 02, 2026
+Republicans sound alarm over Mamdani’s far-left proposals and NYC’s future →
+Fox News – January 02, 2026
+Rep.
+Malliotakis to Newsmax: NYC Mayor Mamdani ‘Does Not Have a Mandate’ →
+Newsmax – January 02, 2026
+Rep.
+Malliotakis: NYC Is Lucky President Trump Loves This City, Otherwise Mamdani Could Do Real Damage →
+Fox News – January 02, 2026
+Rep.
+Malliotakis to Newsmax: Tax Cuts Will Boost Refunds, Help Working Families →
+Newsmax – December 26, 2025
+Rep.
+Malliotakis praises Cardinal Dolan as he steps down from NY Archdiocese →
+Staten Island Advance – December 19, 2025
+Rep.
+Malliotakis joins AARP town hall; pushes bill for $5,000 caregiver tax credit →
+Staten Island Advance – December 02, 2025
+Rep.
+Malliotakis to Newsmax: NYC Council Members’ Pay Push ‘Out of Touch’ →
+Newsmax – November 26, 2025
+Staten Island Republican Voter Registration Surges to All-Time Record High →
+The National Herald – November 18, 2025
+Nicole Malliotakis Praises ‘Transparency President’ Trump For Backing Epstein Files Release →
+Forbes – November 17, 2025
+Rep.
+Malliotakis fires back after legislator proposes bill to defund NYC under Mamdani →
+Staten Island Advance – November 08, 2025
+Rep.
+Malliotakis to Newsmax: No Federal Funds for ‘Communist Agenda’ →
+Newsmax – November 08, 2025
+NYC’s lone House Republican pledges to defeat Democrat redistricting threat to her seat →
+Fox News – November 03, 2025
+Rep.
+Nicole Malliotakis rips gerrymandering lawsuit for Staten Island district as ‘nonsensical power grab →
+New York Post – November 01, 2025
+Lawsuit argues New York’s GOP-held 11th Congressional District should be redrawn →
+New York Post – October 28, 2025
+Lawsuit Plunges New York Into the National Gerrymandering Fight →
+New York Times – October 27, 2025
+Democrats target Rep.
+Nicole Malliotakis seat with redistricting lawsuit →
+Yahoo – October 27, 2025
+New York City’s Sole GOP House Seat Challenged By Lawsuit →
+Bloomberg – October 27, 2025
+New Lawsuit Seeks to Challenge NYC’s Lone Republican District →
+New York Magazine – October 27, 2025
+Rep.
+Malliotakis blasts lawsuit looking to redraw Staten Island’s congressional district →
+Staten Island Advance – October 27, 2025
+Mamdani a ‘useful idiot’ of radical left and ‘downright dangerous,’ New York lawmaker warns →
+New York Post – October 21, 2025
+Rep.
+Malliotakis to Newsmax: NYC Would Be ‘Less Safe’ Under Mamdani →
+Newsmax – October 20, 2025
+Rep.
+Malliotakis to Newsmax: ‘No Kings’ Protests Aligned With Radical Groups →
+Newsmax – October 18, 2025
+NY pols celebrate Israeli hostages’ return: ‘A new chapter of lasting peace’ →
+New York Post – October 13, 2025
+GOP rep warns socialism will spread throughout US if it takes over NYC →
+Fox Business – September 20, 2025
+Malliotakis joins President Trump during his trip to Yankee Stadium on anniversary of 9/11 →
+Brooklyn Reporter – September 19, 2025
+Rep.
+Malliotakis calls for 9/11 terrorist trial date, introduces legislation to support and honor victims →
+Staten Island Advance – September 12, 2025
+Rep.
+Malliotakis urges Democrats to ‘work with Trump’ on stopping crime in cities →
+Foxnews – September 02, 2025
+Malliotakis Announces $42.7 Million to Improve Fort Hamilton Operations →
+Greek News USA – August 28, 2025
+Rep.
+Malliotakis to Newsmax: Dems Can’t Win on Policies, Have to Gerrymander →
+Newsmax – August 22, 2025
+NY Rep.
+Malliotakis rips radical defund and anti-ICE policies: ‘A threat to public safety’ →
+Fox Business – August 20, 2025
+Rep.
+Nicole Malliotakis on NYC mayoral race: ‘He is a dangerous candidate’ →
+FOX5 – August 06, 2025
+Malliotakis Applauds Trump’s Order Targeting NYC’s Illegal Injection Sites →
+The National Herald – July 30, 2025
+The Bipartisan Push for a Women’s History Museum →
+Politico – July 25, 2025
+Nicole Malliotakis to Newsmax: Dems ‘Embracing Socialism’ →
+Newsmax – July 18, 2025
+Mamdani’s dangerous policies need to be exposed: Rep.
+Nicole Malliotakis →
+Newmax – July 18, 2025
+Rep.
+Malliotakis’ legislation could make $250 billion available for middle-class housing →
+Staten Island Advance – July 16, 2025
+Malliotakis Applauds Court Decision Rejecting 9/11 Plea Deal →
+Greek News USA – July 12, 2025
+NY congresswoman accuses Mamdani of wanting to make NYC a ‘communist Cuba’ →
+Fox News – July 06, 2025
+Rep.
+Malliotakis: Staten Islanders will benefit from SALT deduction increase in Trump’s tax bill →
+Staten Island Advance – July 04, 2025
+New Yorkers will realize how ‘dangerous’ Mamdani is for the city, GOP rep warns | Fox News Video →
+Fox News – June 30, 2025
+Rep.
+Malliotakis helps launch new bipartisan caucus that will focus on ferries →
+Staten Island Advance – June 25, 2025
+Rep.
+Malliotakis will celebrate House’s passage of SALT deduction →
+Brooklyn Eagle – May 29, 2025
+Malliotakis discusses proposed increase to SALT cap →
+NY1 – May 13, 2025
+Rep.
+Malliotakis joins seniors as she pushes to reduce Social Security benefits tax →
+Brooklyn Eagle – May 13, 2025
+Staten Island Rep.
+Malliotakis talks tax deductions →
+Fox5ny – May 12, 2025
+Malliotakis Rallies Support for Senior Tax Relief →
+Greek News USA – May 06, 2025
+Malliotakis pushes for tax-free Social Security benefits for seniors →
+Staten Island Advance – May 06, 2025
+Rep.
+Malliotakis: Tripled SALT cap would cover almost everybody on Staten Island →
+Staten Island Advance – May 03, 2025
+Malliotakis talks helicopter regulations, Trump’s 100 days →
+NY1 – April 30, 2025
+GOP lawmaker urges transparency from Cuba: The ‘world needs to see what is happening there’ →
+Fox Business – April 25, 2025
+Fatal NYC helicopter crash prompts GOP lawmaker to call for ending popular tourist flights →
+Foxnews – April 12, 2025
+Trump backs Malliotakis’ Women’s History Museum bill for National Mall →
+Staten Island Advance – March 28, 2025
+NYC’s law allowing noncitizens to vote is dead as state’s highest court shuts it down →
+New York Post – March 21, 2025
+Nicole Malliotakis Calls For Bipartisan Reforms To Curb ‘Rampant Fraud And Abuse’ In Medicaid →
+YouTube – March 11, 2025
+Rep.
+Malliotakis to Newsmax: Cutting Columbia Grants Sends Vital Message →
+Newsmax – March 09, 2025
+Rep.
+Malliotakis to Newsmax: ‘Crack Down on’ Animal Testing →
+Newsmax – March 08, 2025
+America becoming ‘self-sufficient’ is an answer to national security issues: Rep.
+Nicole Malliotakis →
+Fox Business – March 07, 2025
+Malliotakis applauds Trump’s move to kill congestion pricing →
+The Brooklyn Home Reporter – March 05, 2025
+Malliotakis cheers Trump’s move to cancel congestion pricing →
+NY1 – February 20, 2025
+Rep.
+Malliotakis to Newsmax: Dems Tie the Hands of Law Enforcement →
+Newsmax – February 16, 2025
+Rep.
+Nicole Malliotakis floats new proposed tax cuts for seniors in pair of bills →
+NY Post – February 11, 2025
+Rep.
+Malliotakis proposes 2 new laws to lower ‘tax burden’ for Americans over 65 →
+Staten Island Advance – February 11, 2025
+Rep.
+Nicole Malliotakis floats new proposed tax cuts for seniors in pair of bills →
+New York Post – February 10, 2025
+Rep.
+Malliotakis to Newsmax: America ‘Winning’ as Trump Secures Border →
+Newsmax – February 3, 2025
+‘Authoritarian’: Furious NY House Republicans send warning to Dem leaders in war over Stefanik seat →
+Fox News – February 3, 2025
+Rep.
+Malliotakis to Newsmax: NYC’s Congestion Toll Typical of Democrats →
+Newsmax – February 2, 2025
+Rep.
+Malliotakis to join the board for Congressional Hispanic Leadership Institute →
+Staten Island Advance – February 2, 2025
+Rep.
+Nicole Malliotakis to Newsmax: Trump Brings Dramatic Shift in Focus on Public Safety →
+Newsmax – January 29, 2025
+Back to our roots’: Female GOP lawmakers work to win back feminism from the left →
+Fox News – January 27, 2025
+Malliotakis Leads Bipartisan Push Urging President Trump to Kill NYC Congestion Pricing →
+Greek News USA – January 23, 2025
+NYC congestion pricing: Rep.
+Malliotakis, colleagues introduce bills to ‘reverse’ the tolling program →
+Staten Island Advance – January 23, 2025
+Malliotakis: Trump will fight congestion pricing →
+Brooklyn Reporter – January 21, 2025
+Rep.
+Malliotakis to Newsmax: Ceasefire Shows Trump’s Strength →
+Newsmax – January 19, 2025
+New York Republican on raising SALT cap: ‘What we’re really looking for is tailored relief for our middle class’ →
+Fox News – January 13, 2025
+Malliotakis meets with Trump; president-elect makes ‘clear’ he wants to stop congestion pricing →
+Staten Island Advance – January 13, 2025
+Rep.
+Nicole Malliotakis wins re-election in 11th New York Congressional District →
+Staten Island Advance – November 5, 2024
+Malliotakis Recognized as a Guardian of Small Business by the NFIB →
+Greek News USA – September 24, 2024
+Nicole Malliotakis Tears Into ‘Disconnected Democrats’ Over Energy Policies During NY Trump Rally →
+Forbes – September 21, 2024
+Rep.
+Nicole Malliotakis to Newsmax: Trump Needs ‘Equal Secret Service’ Protection →
+Newsmax – September 18, 2024
+Thanks to congresswoman for co-sponsoring critical Oral Health Products Inclusion Act →
+Staten Island Advance – September 18, 2024
+Rep.
+Malliotakis to Newsmax: Harris ‘Unbelievable’ in Interview →
+Newsmax – September 15, 2024
+Lawmakers are ‘forcing’ New Yorkers to pay for migrants to ‘wreak havoc’: Rep.
+Malliotakis →
+Fox Business – September 6, 2024
+Rep.
+Malliotakis vows to fight against healthcare giants to help small Staten Island pharmacies →
+Staten Island Advance – September 5, 2024
+New York City House Republican slams Adams for ‘stonewalling’ on migrant crime numbers →
+Washington Examiner – September 5, 2024
+This is a ‘disturbing trend’ from the CCP: Rep.
+Nicole Malliotakis →
+Fox News – September 3, 2024
+A Bipartisan Plan Aiding Mental Health →
+NY Daily News – August 26, 2024
+A vote for Harris condones her bad policies: Rep.
+Nicole Malliotakis →
+Newsmax – August 21, 2024
+Rep.
+Malliotakis to Newsmax: Harris Policies Similar to Venezuela’s →
+Newsmax – August 21, 2024
+Malliotakis critical of DNC, advocates for Trump campaign focus →
+NY1 – August 21, 2024
+Rep.
+Malliotakis secures renovation funding for non-profit serving the disabled →
+Brooklyn Daily Eagle – August 19, 2024
+Rep.
+Nicole Malliotakis: Biden administration is ‘not serious about national security’ →
+Newsmax – August 3, 2024
+Nicole Malliotakis to Newsmax: 9/11 Plea Deal Unacceptable →
+Newsmax – August 3, 2024
+Voting for Kamala Harris is ‘condoning’ migrant lawlessness: Rep.
+Nicole Malliotakis →
+Fox Business – July 29, 2024
+Nicole Malliotakis Reacts To Selection Of JD Vance For Vice President →
+Forbes – July 27, 2024
+Nicole Malliotakis: This Is The GOP’s Message After Biden Drops 2024 Bid →
+Forbes – July 25, 2024
+Rep.
+Malliotakis on Trump’s Second Term: Strategic Relations with Greece, Turkey, and Ukraine →
+Greek News USA – July 24, 2024
+Nicole Malliotakis: Why Kamala Harris Is A Worse Candidate Than Biden →
+Forbes – July 23, 2024
+NY Rep.
+Nicole Malliotakis discusses 2024 presidential race after Biden’s exit →
+ABC7 – July 22, 2024
+Rep.
+Malliotakis to Newsmax: Trump the ‘Fearless’ Leader We Need →
+Newsmax – July 18, 2024
+Malliotakis Meets Greece Prime Minister Mitsotakis in Washington, DC →
+Hellenic News – July 18, 2024
+Malliotakis rallies behind Trump running mate pick JD Vance →
+NY1 – July 16, 2024
+Rep.
+Malliotakis to Newsmax: Trump Shows Courage After Shooting →
+Newsmax – July 16, 2024
+Vance will ‘absolutely’ bolster Trump’s message of unity after assassination attempt: Malliotakis →
+Fox News – July 15, 2024
+Nicole Malliotakis to Newsmax: Debate ‘Excuse’ to Drop Biden →
+Newsmax – July 11, 2024
+Rep.
+Malliotakis praises House bill requiring proof of citizenship to vote →
+Brooklyn Daily Eagle – July 11, 2024
+Rep.
+Nicole Malliotakis rips NYC official who suggested Staten Island should house more migrants →
+New York Post – July 8, 2024
+Another Voice: Thank Congresswoman Malliotakis for lower Medicare drug costs →
+Buffalo News – July 3, 2024
+Stefanik, Malliotakis introduce bill punishing colleges for not fighting antisemitism →
+NBC – July 3, 2024
+Officials tout $2.5 million pier investment as part of broader North Shore revitalization →
+Staten Island Advance – July 1, 2024
+Rep.
+Malliotakis to Newsmax: Rep.
+Bowman Defeat Reveals Disgust With Left →
+Newmax – June 26, 2024
+GOP rep says people are ‘waking up’ to what’s happening in NYC →
+Fox Business – June 25, 2024
+Malliotakis meets the Dalai Lama →
+Brooklyn Reporter – June 25, 2024
+Rep.
+Malliotakis says planned Staten Island migrant shelter would be operating illegally →
+Staten Island Advance – June 25, 2024
+Malliotakis Touts Bill That Prevents Federal Funding From Going To Schools That Promote Antisemitism →
+Forbes – June 24, 2024
+‘How Many More?’: Malliotakis Shreds Biden’s Border Policy After Arrest Of Migrants Linked To ISIS →
+Forbes – June 15, 2024
+‘Is The City Stonewalling You As Well?: Malliotakis Decries Inability To Access Migrant Crime Data →
+Forbes – June 14 2024
+Took Zero Responsibility’: Nicole Malliotakis Torches Andrew Cuomo After Closed-Door Interview →
+Forbes – June 14, 2024
+Nicole Malliotakis Details House Republicans’ Meeting With Former President Donald Trump →
+Forbes – June 13, 2024
+Staten Island electeds unite on defeating congestion pricing: ‘We want this thing dead’ →
+Staten Island Advance – June 9, 2024
+NY Rep.
+Malliotakis reacts to congesting pricing delay →
+PIX11 – June 6, 2024
+Staten Island Rep.
+Nicole Malliotakis shreds AOC for silence on cop-shooting NYC migrant →
+New York Post – June 5, 2024
+Nicole Malliotakis Takes A Victory Lap After Gov.
+Kathy Hochul Blocked NYC’s Congestion Pricing Plan →
+Forbes – June 5, 2024
+Malliotakis: AOC does not get to stay silent on this shooting →
+Newsmax – June 5, 2024
+‘Destroying This Country’: Malliotakis Slams ‘Radical Leftists’ After A Migrant Shot 2 NYPD Officers →
+Forbes – June 3, 2024
+Rep.
+Malliotakis gives local disability organization large federal check →
+Staten Island Advance – June 3, 2024
+Rep.
+Malliotakis blames N.Y.
+Democratic officials for failed border bill →
+Staten Island Advance – May 30, 2024
+Rep.
+Malliotakis receives award for ‘undying commitment to serving the public’ →
+Staten Island Advance – May 28, 2024
+Trump is expecting a ‘great reception’ from Bronx crowd: Rep.
+Nicole Malliotakis →
+Fox Business – May 23, 2024
+Rep.
+Malliotakis announces $2.2M in funding for the NYPD →
+Staten Island Advance – May 16, 2024
+Staten Island Rep.
+Malliotakis attends Trump criminal trial on Monday to show her support →
+Staten Island Advance – May 13, 2024
+GOP lawmakers Tuberville, Vance, Malliotakis attend court to support Trump →
+Washington Times – May 13, 2024
+Rep.
+Malliotakis to Newsmax: Impeachable for Biden to Withhold Israel Aid →
+Newsmax – May 11, 2024<
+Malliotakis introduces bill to lower prescription drug costs, increase access to telehealth →
+Staten Island Advance – May 8, 2024
+‘A $15 Cash Grab’: Nicole Malliotakis Rails Against Biden & Hochul Over New York Congestion Pricing →
+Forbes – May 2, 2024
+Trump holds Mar-a-Lago fundraiser for Staten Island congresswoman amid his criminal trial →
+Staten Island Advance – April 27, 2024
+Rep.
+Nicole Malliotakis: Everything People Dislike About New York Right Now Was Brought To Us By The Democratic Party →
+Fox News – April 26, 2024
+NY, NJ Reps.
+Malliotakis, Gottheimer join forces to stop NYC’s $15 congestion toll ‘cash grab’ →
+New York Post – April 25, 2024
+‘She Cannot Keep Them Safe’: Nicole Malliotakis Calls On Columbia University President To Resign →
+Forbes – April 25, 2024
+Malliotakis leads new effort to stop NYC congestion pricing →
+NY1 – April 25, 2024
+Rep.
+Malliotakis to Newsmax: Columbia President Must Resign →
+Newsmax – April 25, 2024
+Rep.
+Nicole Malliotakis introduces federal bill taking aim at NYC congestion pricing →
+Staten Island Advance – April 24, 2024
+We’ve had enough of the ‘pro-criminal’ policies: Rep.
+Nicole Malliotakis →
+Fox Business – April 1, 2024
+We can’t continue with an ‘unsustainable’ border: Rep.
+Nicole Malliotakis →
+Fox News – March 19, 2024
+New York Democrats are violating their own laws to house migrants: Rep.
+Nicole Malliotakis →
+Fox Business – March 18, 2024
+Rep.
+Malliotakis to Newsmax: SOTU Was ‘Gaslighting of the Union’ →
+Newsmax – March 9, 2024
+Rep.
+Malliotakis invites police officer attacked by migrants to State of the Union →
+Staten Island Advance – March 4, 2024
+Rep.
+Malliotakis: It’s clear that Mayorkas should be impeached →
+Newsmax – February 7, 2024
+Republicans call to remove NYC’s Sanctuary City laws after an assault on cops →
+Politico – February 5, 2024
+Rep.
+Malliotakis leads conservative pols’ call for more NYC cooperation on deportation cases →
+Staten Island Advance – February 5, 2024
+Nicole Malliotakis brings down the HAMMER on Ilan Omar, this needed to be said… →
+BizPac Review – February 4, 2024
+Biden’s ‘incredibly weak’ response to Iranian attacks escalating dangers for US: Rep.
+Nicole Malliotakis →
+Fox Business – January 29, 2024
+Malliotakis, Staten Island leaders rip Adams’ migrant relocation plan →
+NBC – January 22, 2024
+Kudos to Rep.
+Malliotakis for trying to keep drug costs down (opinion) →
+Staten Island Advance – January 18, 2024
+Rep.
+Malliotakis pushes 25% child tax credit increase →
+Staten Island Advance – January 12, 2024
+Rep.
+Malliotakis calls out Democrats’ supporters over escalating migrant crisis: ‘Change who you’re electing’ →
+Fox Business – January 8, 2024
+Rep.
+Malliotakis announces new health-care funding for 9/11 first responders, survivors →
+Staten Island Advance – January 8, 2024
+Malliotakis: We Need to Secure the Border →
+Bloomberg – January 8, 2024
+Nicole Malliotakis Touts New Healthcare Bill To Support 9/11 First Responders →
+Forbes – January 5, 2024
+We don’t have a partner in the Senate: Rep.
+Nicole Malliotakis →
+Fox Business – January 4, 2024
+Biden is putting the cartels ahead of the safety of his own American citizens: Rep.
+Malliotakis →
+Fox Business – December 31, 2023
+Biden refuses to secure the border and address the fentanyl crisis: Rep.
+Nicole Malliotakis →
+Fox Business – December 28, 2023
+‘Just Outrageous’: Nicole Malliotakis Decries New Migrant Policies →
+Forbes – December 26, 2023
+Nicole Malliotakis Unleashes On Democrats Over Border & More On The House Floor →
+Forbes – December 24, 2023
+This is what happens in communist countries: Rep.
+Nicole Malliotakis →
+Fox Business – December 21, 2023
+Rep.
+Malliotakis shares ‘concerning findings’ in migrant shelter contract on voter registration →
+Staten Island Advance – December 19, 2023
+‘It Is Very Corrupt’: Nicole Malliotakis Slams Decision From Court To Redraw NY Congressional Lines →
+Forbes – December 15, 2023
+Conservative S.I. pols speak out against ‘possible gerrymander’ in Congressional district maps →
+Staten Island Advance – December 11, 2023
+NYC Trying to Register Illegal Immigrants to Vote, Republican Rep Says →
+Townhall – December 9, 2023
+Peter Daszak has a lot of questions to answer: Rep.
+Nicole Malliotakis →
+Fox Business – April 18th, 2023
+‘Very Dangerous In The Future’: Nicole Malliotakis Warns Against Dependence On Chinese Trade →
+Forbes – April 10th, 2023
+Nicole Malliotakis: Chinese spy flight should have never been allowed to enter our airspace →
+Fox News – April 6th, 2023
+JUST IN: Nicole Malliotakis Fires Back At AOC For Calling Parents’ Bill Of Rights ‘Fascism’ →
+Forbes – March 25th, 2023
+Republicans Ridicule Biden over Claim His Budget ‘Secures’ Our Borders: ‘This Must Be a Joke’ →
+Breitbart – March 23rd, 2023
+Dems are politicizing the system through potential Trump indictment: Rep.
+Nicole Malliotakis →
+Fox Business – March 22nd, 2023
+Nicole Malliotakis, Josh Gottheimer head bipartisan NY and NJ anti-congestion toll caucus →
+New York Post – March 15th, 2023
+Rep.
+Nicole Malliotakis: We must know the source of COVID-19 to prevent the next pandemic →
+Fox News – March 12th, 2023
+GOP reps to launch Northern Border Security Caucus, as officials tackle surge in migrant encounters →
+Fox News – February 24th, 2023
+Rep.
+Nicole Malliotakis slams Biden for pushing economic ‘rhetoric’ →
+Fox Business – February 6th, 2023
+‘Fight The Socialist Wing Of Our Congress’: Nicole Malliotakis Lays Out Goals For 118th Congress →
+Forbes – February 4th, 2023
+‘That Is Unacceptable!’: Nicole Malliotakis Hammers Ilhan Omar Over Past Statements →
+Forbes – February 2nd, 2023
+These Republicans will serve on panels to probe COVID-19, ‘weaponization’ of government →
+The Hill – January 24th, 2023
+Kevin McCarthy names GOP members to serve on committees probing ‘weaponization’ of feds, COVID-19 origins →
+New York Post – January 24th, 2023
+Malliotakis: Anti-congestion pricing legislation must prioritize NYC residents →
+Staten Island Advance – January 20th, 2023
+NY Republicans demand Gov.
+Hochul scrap vaccine mandate for health care workers →
+New York Post – January 20th, 2023
+US cannot survive Washington’s ‘ridiculous’ spending: Rep.
+Nicole Malliotakis →
+Fox Business – January 19th, 2023
+Malliotakis picked for Ways and Means Committee →
+Brooklyn Eagle – January 18th, 2023
+Nicole Malliotakis selected to serve on House Ways and Means Committee →
+Staten Island Advance – January 11th, 2023
+New York Republicans credited with helping end House speaker stalemate →
+CBS News – January 7th, 2023
+GOP-led House will investigate Biden’s ‘botched’ Afghanistan withdrawal: Nicole Malliotakis →
+Fox Business – January 7th, 2023
+‘Black hole’ MTA ‘should not be asking for more money,’ US Rep.
+Nicole Malliotakis scolds →
+New York Post – December 5th, 2022
+This was a ‘significant win’ for House in NY: GOP representative →
+Fox Business – November 10th, 2022
+Rep.
+Nicole Malliotakis defeats Max Rose again in NY-11 →
+PIX11 – November 9th, 2022
+Nicole Malliotakis defeats Max Rose in New York’s 11th Congressional District →
+FOX5 NY – November 8th, 2022
+Malliotakis beats Rose in rematch, Staten Island stays red →
+NY1 – November 8th, 2022
+Malliotakis Defends N.Y.C.
+House Seat, Toppling Familiar Democratic Foe →
+New York Times – November 8th, 2022
+‘She’s a leader’: Trump holds ‘tele-rally’ in support of Rep.
+Nicole Malliotakis →
+Staten Island Advance – November 5th, 2022
+New Yorkers are ‘fed up and tired’ with Democrats: Rep.
+Nicole Malliotakis →
+Fox News – October 25th, 2022
+The Post endorses Rep.
+Nicole Malliotakis for re-election to the House →
+New York Post – October 8th, 2022
+Race for Congress: Nicole Malliotakis leads Max Rose in New York-11th district poll →
+Staten Island Advance – October 6th, 2022
+Race for Congress: Nicole Malliotakis leads Max Rose in New York-11th district poll →
+New York Post – October 6th, 2022
+Biden’s open border policy is ‘irrational and unsustainable’: Rep.
+Nicole Malliotakis →
+Fox Business – October 4th, 2022
+NYC quality of life plummeting is outcome of Democratic policies: Rep.
+Nicole Malliotakis →
+Fox Business – September 28th, 2022
+With focus on public safety, Rep.
+Malliotakis outlines GOP legislative agenda →
+Staten Island Advance – September 26th, 2022
+New Yorkers need to protect cops — and themselves — by ousting Hochul & Co. this November →
+Op-Ed by Nicole Malliotakis – September 23rd, 2022
+Here’s what Republicans will deliver when we take back the House →
+New York Post – September 23rd, 2022
+‘Have Been A Disaster’: Nicole Malliotakis Hammers Democrats Over Rising Crime →
+Forbes – September 18th, 2022
+Rep.
+Malliotakis rips Kathy Hochul: People of all parties are leaving New York →
+Fox Business – August 30th, 2022
+Malliotakis fosters, ‘Aquaman,’ dog thrown in Harlem River, helps to him find a forever home →
+Staten Island Advance – August 28th, 2022
+‘Sick And Tired Of The Democrats Running Our Country Into the Ground’: Malliotakis Slams Dems →
+Forbes – August 24th, 2022
+Rep.
+Malliotakis rips Democrats over border crisis: ‘Disaster for everybody involved’ →
+Fox News – August 21st, 2022
+Firefighters’ union backs GOP’s Nicole Malliotakis in House race after staying neutral in 2020 →
+New York Post – August 16th, 2022
+Rep.
+Malliotakis forges allyship with Lee Zeldin, ramps up calls to combat migrant ‘chaos’ in New York →
+Fox Business – August 15th, 2022
+Gottheimer, Malliotakis slam congestion pricing at bipartisan press conference →
+New Jersey Globe – August 15th, 2022
+Malliotakis: Congestion pricing is unproven, ineffective and costly for New Yorkers →
+Staten Island Advance – August 8th, 2022
+Rep.
+Malliotakis introduces bill to hold New York, Hochul accountable for lax bail law after Lee Zeldin attack →
+Fox News – August 4th, 2022
+Malliotakis introduces legislation to compensate widows and children of 9/11 victims →
+Staten Island Advance – August 4th, 2022
+Malliotakis on Congestion Pricing and Attack on Lee Zeldin →
+The Joe Piscopo Show – July 22nd, 2022
+Rep.
+Malliotakis blasts AOC, Omar: They think being arrested helps them politically →
+Fox News – July 20th, 2022
+NYC congestion pricing: Malliotakis calls on U.S.
+Transportation secretary to ensure thorough process →
+Staten Island Advance – July 20th, 2022
+Rep.
+Malliotakis, 60 other Americans, named to Iranian sanctions list →
+Staten Island Advance – July 19th, 2022
+Malliotakis Cosponsors Amendment Prohibiting F-16 Sale to Turkey →
+Hellenic News of America – July 11th, 2022
+Malliotakis grills NY liberal soft-on-crime policies →
+Fox News – July 10th, 2022
+‘Joe Biden and the Democrats are lying’ to the American people: Rep.
+Malliotakis →
+Fox News – July 8th, 2022
+Nicole Malliotakis leads Max Rose by 15 points in NY congressional race: GOP poll →
+New York Post – July 7th, 2022
+GOP representative calls for tougher action to combat China →
+Fox Business – July 7th, 2022
+VP Harris is ‘completely incompetent’: Rep.
+Malliotakis →
+Fox News – July 6th, 2022
+Malliotakis calls on President Biden to save VA hospitals →
+Staten Island Advance – July 6th, 2022
+‘Woke politicians’ need to ‘get serious’ about law and order: Rep.
+Malliotakis →
+Fox Business – July 6th, 2022
+NY Supreme Court strikes down law allowing noncitizens to vote →
+Fox News – June 27th, 2022
+‘The Failure, The Utter Incompetence’: GOP Lawmaker Torches VP Kamala Harris Over Border →
+Forbes – June 22nd, 2022
+Rep.
+Malliotakis, National Parks Service announce return of summer kayaking events →
+Staten Island Advance – June 22nd, 2022
+An empty chair sits in Congresswoman Malliotakis’ office to remind us of all who went to war, but never came home →
+Staten Island Advance – June 16th, 2022
+Rep.
+Nicole Malliotakis (R-NY) on the Biden Admin’s Border Policies & Navigating Red Tape →
+Sirius XM Radio – June 14th, 2022
+Great Kills Harbor to get $6.75M dredging project thanks to last year’s bipartisan infrastructure act →
+Staten Island Advance – June 13th, 2022
+Malliotakis Named Grand Marshal for Greek Independence Day Parade →
+The National Herald – June 3rd, 2022
+The Bright Red District in the Heart of New York City →
+New York Sun – May 24th, 2022
+Redrawn congressional lines dividing Democrats, ‘earthquake’ for New York politics →
+New York Daily News – May 21st, 2022
+Judge Approves N.Y.
+House Map, Cementing Chaos for Democrats →
+New York Times – May 21st, 2022
+Malliotakis Meets with Greek Prime Minister Kyriakos Mitsotakis →
+The National Herald – May 18th, 2022
+Malliotakis coordinates donation of 13,000 pounds of Goya Foods to local pantries →
+Staten Island Advance – May 12th, 2022
+Malliotakis secures $2.9 million in federal funds for NYPD →
+Brooklyn Paper – April 27th, 2022
+Stefanik, Malliotakis slam Dems’ ‘gerrymandered’ congressional map, praise court’s ruling →
+Fox News – April 22nd, 2022
+Malliotakis Raises Over $700,000 in First Quarter; Over $2.3 Million Total →
+Shorefront News – April 20th, 2022
+NY Needs to Fund Police and Stop Being Soft on Crime: Rep.
+Nicole Malliotakis →
+The Epoch Times – April 17th, 2022
+Democrats’ ‘destructive’ policies will catapult GOP to a ‘big win’ in November: Rep.
+Malliotakis →
+Fox News – April 11th, 2022
+Republicans write to Biden urging him to divide seized Taliban assets equally among 9/11 victims →
+Daily Mail – April 7th, 2022
+Malliotakis Slams Plan to Close Rikers, Open Borough Based Jails →
+Shorefront News – March 30th, 2022
+Malliotakis hosts public safety roundtable with NYC Asian-American leaders →
+Staten Island Advance – March 28th, 2022
+S.I. pols say VA plan to close Brooklyn, Manhattan hospitals is ‘unacceptable’ →
+Staten Island Advance – March 25th, 2022
+Congresswoman slams Democrats for ‘war on cars’ →
+Fox News – March 17th, 2022
+Malliotakis secures millions in funding for various S.I. resources →
+Staten Island Advance – March 17th, 2022
+Malliotakis ‘mad as hell’ Biden admin. wants to 2 close NYC VA hospitals →
+New York Post – March 9th, 2022
+‘Elections matter:’ Rep.
+Malliotakis fires back at feds’ consideration of safe injection sites →
+Staten Island Advance – February 9th, 2022
+Malliotakis Slams Max Rose on Non-Citizen Voting →
+Shorefront News – January 25th, 2022
+Rep.
+Malliotakis on NYPD officer shooting: ‘Enough is enough’ →
+Fox News – January 22nd, 2022
+Malliotakis Applauds Supreme Court Blocking Vaccine Mandate for Large Businesses →
+The National Herald – January 14th, 2022
+Rep.
+Malliotakis slams Biden for focusing on COVID mandates, not treatments →
+Fox News – January 2nd, 2022
+Rep.
+Malliotakis slams Biden for not fulfilling campaign promises →
+Fox News – January 2nd, 2022
+Biden’s Build Back Better bill is dead: Rep.
+Nicole Malliotakis →
+Fox News – December 30th, 2021
+Malliotakis: People have had enough of the government overreach during the pandemic →
+Fox News – December 27th, 2021
+Malliotakis introduces bill to defund supervised injection sites →
+Staten Island Advance – December 9th, 2021
+Rep.
+Malliotakis: The infrastructure bill is ‘incredibly’ important for aging cities like New York →
+Fox News – November 9th, 2021
+Malliotakis introduces bill that would ban BLM, other flags at U.S. embassies →
+Staten Island Advance – May 30th, 2021
+New bill would ban BLM, other ‘political flags’ from flying at US embassies →
+New York Post – May 29th, 2021
+Rep.
+Nicole Malliotakis asks feds to help restore law and order in NYC →
+New York Post – May 8th, 2021
+Rep.
+Malliotakis slams Dems over court packing bill →
+One America News – April 17th, 2021
+NY lawmakers tour parts of US-Mexico border amid migrant surge →
+NY1 – April 17th, 2021
+Malliotakis pushes for full-time in-person learning in NYC during hearing with Fauci →
+Staten Island Advance – April 16th, 2021
+Exclusive — Rep.
+Nicole Malliotakis: Cartels Are ‘Making Half a Billion Dollars a Month’ →
+Breitbart – April 15th, 2021
+Malliotakis Pushes for Reopening Schools →
+Shorefront – April 15th, 2021
+Rep.
+Malliotakis visits the border amid migrant crisis →
+One America News – April 15th, 2021
+Rep.
+Malliotakis: ‘Biden has turned over our border to the cartels’ →
+New York Post – April 10th, 2021
+Rep.
+Nicole Malliotakis to Newsmax TV: Vaccinating Terrorists ‘Unconscionable’ →
+Newsmax – January 30th, 2021
+Rep.
+Nicole Malliotakis: Cuomo’s indoor dining restrictions are ‘discriminating against New York City’ →
+Fox News – January 30th, 2021
+Malliotakis named to two key House committees →
+Brooklyn Reporter – January 29th, 2021
+Malliotakis to Serve on House Committee on Transportation & Infrastructure →
+The National Herald – January 26th, 2021
+Nicole Malliotakis Named Assistant Whip for Republican Conference →
+Greek Reporter – January 24th, 2021
+Nicole Malliotakis Sworn in as Congresswoman →
+The National Herald – January 6th, 2021
+NY Congresswomen Slam Nancy Pelosi’s New House Gender Rules →
+The Jewish Voice – January 6th, 2021
+Newly elected GOP ‘Freedom Force’ unites to fight socialism and the ‘Squad’ →
+The Blaze – December 28th, 2020
+It’s official: GOP’s Nicole Malliotakis ousts Democratic Rep.
+Max Rose in New York →
+The Washington Times – December 1st, 2020
+GOP Congresswoman-elect Nicole Malliotakis Has An Answer To AOC’s ‘Squad’ →
+International Business Times – November 30th, 2020
+Incoming GOP congresswoman to take aim at AOC with conservative ‘squad’ →
+Politico – November 29th, 2020
+Malliotakis mulls conservative clique to counter Alexandria Ocasio-Cortez ‘Squad’ →
+NY Daily News – November 29th, 2020
+After record-breaking victories, this is what newly elected GOP women had to say about the future of their party →
+CNN – November 29th, 2020
+EXCLUSIVE – Incoming GOP Rep.
+Nicole Malliotakis: Anti-Socialist Freshman Class Here to ‘Preserve America’ →
+Breitbart – November 26th, 2020
+GOP Congresswoman-Elect Wants to Form ‘Alliances’ With Democrats to ‘Shut Down the Socialist Squad’ →
+Newsweek – November 24th, 2020
+New York City’s lone Republican in Congress takes aim at AOC →
+Politico – November 21st, 2020
+‘Move over AOC’: Nikki Haley praises new anti-socialist ‘Freedom Squad’ of Republican congresswomen →
+Washington Examiner – November 20th, 2020
+House Republican Conference Welcomes Four New Hispanic Members →
+Latin Post – November 19th, 2020
+Year of the Republican woman →
+Washington Examiner – November 19th, 2020
+This election’s real winners?
+Republican women and minorities →
+Deseret News – November 19th, 2020
+NY’s Malliotakis to Lead Anti-Socialist ‘Freedom Squad’ in Congress →
+Jewish Voice – November 18th, 2020
+The Red Wave of Conservative Women Elected to Congress →
+Texas Insider – November 18th, 2020
+Congresswoman-elect rails against AOC, The Squad’s ‘socialist’ ideals →
+Fox News – November 16th, 2020
+Congresswoman-Elect Malliotakis on How to Bring New Yorkers Back →
+Townhall – November 16th, 2020
+Law and order helped Nicole Malliotakis flip New York seat in Congress →
+Fox Business – November 16th, 2020
+Nicole Malliotakis wins New York congressional race, flips seat red →
+Fox News – November 15th, 2020
+Nicole Malliotakis has The Squad in her sights as new face of GOP →
+New York Post – November 14th, 2020
+Here are the 17 GOP women newly elected to the House this year →
+The Hill – November 14th, 2020
+Rep-elect Nicole Malliotakis forming ‘Freedom Squad’ to counter AOC crew P →
+New York Post – November 13th, 2020
+Rep.
+Max Rose Loses to Nicole Malliotakis as Republicans Take Back N.Y.C.
+Seat →
+New York Times – November 12th, 2020
+Malliotakis Leads Rose by More Than 37,000 Votes in Staten Island →
+The National Herald – November 10th, 2020
+Nicole Malliotakis Endorsed by Trump →
+The National Herald – October 29th, 2020
+Welcome to West Brighton, the Staten Island Neighborhood that Could Decide the Rose-Malliotakis House Race →
+The City – October 28th, 2020
+Malliotakis Narrowly Leads Rose in Tight Staten Island Race, NBC 4/Marist Poll Finds →
+NBC4 New York – October 26th, 2020
+Malliotakis and Rose in dead heat as Election Day nears: poll →
+New York Post – October 26th, 2020
+Polls Show Tight Race Between Democrat Max Rose, Republican Nicole Malliotakis →
+CBS2 New York – October 26th, 2020
+New York Post Endorses Nicole Malliotakis for Congress →
+New York Post – October 25th, 2020
+In New York City, The GOP Makes A Stand For Law And Order →
+The Federalist – September 20th, 2020
+PBA backs Nicole Malliotakis over Max Rose in tight Staten Island race →
+New York Post – August 24th, 2020
+NYC police union endorses Nicole Malliotakis for Congress →
+Staten Island Advance – August 24th, 2020
+GOP enrollment exceeds 100,000 for first time on S.I. →
+Staten Island Advance – August 24th, 2020
+NYC Republican seeks to topple Democratic congressman through ‘law and order’ campaign →
+Washington Examiner – August 14th, 2020
+Bail reform backlash spreads across the country →
+Brooklyn Reporter – August 9th, 2020
+Malliotakis holds conference to discuss attack on 89-year-old woman lit on fire →
+Brooklyn Reporter – August 7th, 2020
+Malliotakis to Mayor: Give restaurants a break →
+Brooklyn Reporter – July 16th, 2020
+Restaurants befuddled by blitz visits from government agencies →
+Staten Island Advance – July 16th, 2020
+Malliotakis & Tannousis Slam Turkish President Erdogan’s Decision on Hagia Sophia →
+The National Herald – July 13th, 2020
+Malliotakis organizes Goya food drive following boycott calls →
+Staten Island Advance – July 11th, 2020
+Republican Nicole Malliotakis wins New York primary to challenge Max Rose →
+The Hill – July 1st, 2020
+Malliotakis, Reilly unveil bill to limit governor’s state of emergency powers over localities →
+Staten Island Advance – May 27th, 2020
+Malliotakis Secures GOP’s Young Guns Designation →
+GOP Young Guns – May 27th, 2020
+Listen to the docs — resume elective surgery →
+Op-Ed by Nicole Malliotakis – May 24th, 2020
+Assemblywoman Nicole Malliotakis spearheads drive to reopen dentist offices →
+Fox News – May 22nd, 2020
+Assemblywoman Nicole Malliotakis spearheads drive to reopen dentist offices →
+Staten Island Advance – May 22nd, 2020
+Rep.
+Elise Stefanik calls for fed probe of Cuomo’s nursing home policy →
+New York Post – May 16th, 2020
+A politician, a teen and some Kiwanians walked up to a pantry to stage a drive-by-food-drive.
+Another success. →
+Staten Island Advance – May 15th, 2020
+Put All Home Contract and Associated Trades Back to Work →
+Op-Ed by Nicole Malliotakis – May 15th, 2020
+Malliotakis: Reopening New York Starts with Common Sense Steps →
+Fox Business – May 13th, 2020
+Republican delegation asks city to open beaches, golf and tennis courts, citing mental health →
+Staten Island Advance – May 11th, 2020
+Loved ones pack into the Island’s cemeteries as gates open up for Mother’s Day →
+Staten Island Advance – May 10th, 2020
+Nicole Malliotakis: ‘This Is a Time for Our Country to Come Together’ →
+Breitbart – February 21st, 2020
+Should NYC release inmates amid coronavirus outbreak? →
+One America News – February 21st, 2020
+Malliotakis tapped by state assembly minority to lead efforts to restore access to all DMV records including those of undocumented immigrants →
+Staten Island Advance – February 25th, 2020
+VP Mike Pence’s nephew, sergeants’ union head Ed Mullins to headline Island’s GOP convention →
+Staten Island Advance – February 25th, 2020
+McCarthy Announces 35 Candidates in First Round of Young Gun “Contenders” →
+NRCC – February 19th, 2020
+Malliotakis now has GOP support from both sides of congressional district as race against Max Rose heats up →
+Staten Island Advance – January 10th, 2020
+After Repeated Brutal Attacks, Bail Reform Critics Call For Change →
+CBS – January 10th, 2020
+8 Conservative Women To Keep An Eye On In 2020 →
+Future Female Leaders – January 9th, 2020
+Staten Island Republican Party endorses Nicole Malliotakis in hotly contested congressional race →
+Staten Island Advance – January 7th, 2020
+New York’s New Criminal Justice Reforms Need Reform →
+Op-Ed by Nicole Malliotakis – December 19th, 2019
+Malliotakis takes aim at Rep.
+Rose over delayed North American trade deal →
+Staten Island Advance – December 3rd, 2019
+Schiff Money Will Taint the House Impeachment Vote →
+Op-Ed by Nicole Malliotakis – November 25th, 2019
+The 10 most vulnerable House members in 2020: Democrats dominate →
+Roll Call – November 4th, 2019
+Malliotakis: Mother Cabrini got the votes — but not the statue.
+Why? →
+Op-Ed by Nicole Malliotakis – October 10th, 2019
+Republican challenges Staten Island’s Max Rose, who now favors impeachment inquiry →
+PIX11 – October 7th, 2019
+Newt Gingrich: Take a Look at the Firebrands Lining Up for 2020 →
+Newsweek – September 19th, 2019
+Malliotakis trolls de Blasio while he’s campaigning in Iowa →
+Shorefront News – September 4th, 2019
+National GOP names Malliotakis ‘Young Gun’ →
+Brooklyn Reporter – August 29th, 2019
+NRCC Announces 43 “On the Radar” Candidates in First Round of Young Guns Program →
+NRCC – August 16th, 2019
+Assemblywoman Malliotakis Visits Israel As She Kicks Off Congressional Campaign →
+Jewish Press – August 16th, 2019
+Brooklyn’s last standing Republican Nicole Malliotakis talks to the Spectator →
+Brooklyn Spectator – August 7th, 2019
+Malliotakis trolls de Blasio while he’s campaigning in Iowa →
+New York Post – June 9th, 2019
+Congresswoman Cheney attends Assemblywoman Malliotakis campaign fundraiser →
+Staten Island Advance – June 7th, 2019
+Malliotakis urges Max Rose to call for Ilhan Omar’s resignation from House committee after her remarks on Venezuela →
+Staten Island Advance – May 3rd, 2019
+House GOP Rallies Behind Malliotakis, a Republican Woman, as Staten Island Challenger →
+Wall Street Journal – April 28th, 2019
+Nicole Malliotakis Looks Strong in NY-11 →
+Newsmax – April 24th, 2019
+Shorefront News – April 5th, 2019
+Fundraiser for Nicole Malliotakis for Congress at the Russian Tea Room →
+The National Herald – March 24th, 2019
+HUD Head Patton, Malliotakis Blast Mayor De Blasio For Further NYCHA Neglect →
+CBS – March 22nd, 2019
+2020 House Overview: Can Democrats Keep Their Majority? →
+Cook Political Report – March 1st, 2019
+Malliotakis says previous successes make her best option for GOP to reclaim House seat →
+NY Daily News – February 10th, 2019
+Republicans name 55 House Democrats as 2020 targets →
+Roll Call – February 7th, 2019
+Malliotakis makes it official, outlines why she’s running for Congress →
+Staten Island Advance – February 6th, 2019
+Cuban American rising GOP star Nicole Malliotakis announces run for U.S.
+Congress →
+Babalú Blog – January 27th, 2019
+Malliotakis to run against Rose in 2020 →
+Brooklyn Eagle – January 25th, 2019
+Nicole Malliotakis is running for Congress →
+New York Post – January 25th, 2019
+She’s running →
+BKLYNER – January 25th, 2019
+Immigration deal or no deal?
+America’s watching (commentary) →
+Op-Ed by Nicole Malliotakis – January 8th, 2019
+Malliotakis Laments Low Number of House GOP Women →
+Brooklyn Reporter – January 6th, 2019

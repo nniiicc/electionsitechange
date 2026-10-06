@@ -1,0 +1,17 @@
+Blake Gendebien Campaign Releases New Tv Ad, “Working Together”
+August 7, 2026
+FOR IMMEDIATE RELEASE
+August, 7, 2026
+CONTACT
+press@blakeforny.com
+BLAKE GENDEBIEN CAMPAIGN RELEASES NEW TV AD, “WORKING TOGETHER”
+LISBON, N.Y. — Blake Gendebien, a second-generation dairy farmer, today released a new television advertisement, “Working Together,” highlighting his record leading his dairy co-op and drawing a contrast with Anthony Constantino’s refusal to break with party leadership even as farmers struggle with rising costs.
+Beginning today, the ad will air on broadcast television in the Albany media market and on streaming platforms across the district, in addition to the campaign’s ongoing broadcast ads running elsewhere in the district.
+“This ad shows exactly who Blake is: a farmer who leads by working with people, not by falling in line,” said Campaign Manager Michael Waller.
+“Anthony Constantino would rather be a cheerleader for his party’s leadership while farmers and families get squeezed by their policies.
+Blake will reach across the aisle or stand up to his own party, whatever it takes to do right by Upstate New York.”
+###
+Born and raised on a farm in the North Country, Blake and his wife Carmen have raised their three sons on the Twin Mill Farm in Lisbon, growing the farm to 500 head of cattle.
+Blake and Carmen also started The Jules of Life Foundation, which provides resources and support to North Country families battling pediatric cancer.
+For the past 10 years, Blake has served as the Vice Chair of the Cooperative Board of Agri-Mark where he represented the interests of farmers from across the region.
+He is a former member of the Lisbon Central School Board, and was a longtime junior varsity basketball coach.

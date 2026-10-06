@@ -1,0 +1,3 @@
+Echols Surpasses 1.2 Million Raised in Race for AG
+Oklahoma City – Today, the Jon Echols campaign announced yet another milestone in fundraising on the path to becoming Oklahoma’s next Attorney General.
+“We’re pleased to announce that Jon has raised over 1.2 million dollars for his campaign with 8 months…

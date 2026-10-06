@@ -1,0 +1,29 @@
+- Reclassifies: Removes cannabis from Schedule I and treats it like alcohol/tobacco under a new regulated framework.
+- Regulates: Creates ATFC to license, monitor, and enforce standards for interstate cannabis commerce.
+- Taxes: Imposes a 10% wholesale federal excise tax, with transparent allocation and public reporting.
+- Protects: Sets national purity, labeling, advertising, and recall standards to safeguard consumers.
+- Respects: Preserves state retail authority and tribal sovereignty while ensuring lawful interstate commerce.
+- Tax rate: 10% wholesale federal excise tax, reviewed and adjustable to avoid black‑market resurgence.
+- Allocation: 40% deficit reduction; 30% public health and addiction treatment; 20% rural healthcare; 10% veterans’ healthcare.
+- Transparency: Quarterly audits and a live public dashboard showing collections and disbursements.
+- Age limit: 18+ for purchase, possession, and consumption.
+- Impaired driving: National standards and grants for state roadside testing and education.
+- Standards: FDA‑coordinated rules for product purity, potency disclosure, packaging warnings, and mandatory recalls.
+- Treatment: Coverage for behavioral health services under Medicaid/Medicare; dedicated funding for prevention.
+- Expungement: Automatic clearing of federal non‑violent cannabis convictions and resentencing for those incarcerated solely for such offenses.
+- State incentives: Grants to states adopting similar expungement/resentencing reforms.
+- Reinvestment: At least 15% of revenues directed to communities disproportionately impacted by prior prohibition.
+- Home cultivation: Adults 18+ may grow up to 6 plants (3 flowering); 12 per household, secured and non‑visible.
+- Farm‑to‑table: Small farms can sell directly to consumers; five‑year farmers’ market pilot for producers under 5,000 sq. ft. canopy.
+- Small producer priority: License set‑asides and SBA loan guarantees for small, minority‑, and veteran‑owned businesses.
+- Market caps: No single entity may control more than 10% of national wholesale market; vertical integration limited.
+- Merger review: Mandatory FTC/HSR scrutiny for sizable acquisitions.
+- Lobbying limits: Annual cap for licensee lobbying spend; beneficial ownership and political contributions disclosed publicly.
+- Foreign ownership: Capped to prevent offshore control.
+- Sustainability: USDA standards for energy, water, and waste; EPA pesticide oversight.
+- Research: 5% of revenues for NIH/CDC; streamlined approvals for clinical and academic studies; annual HHS outcomes report.
+- Banking: FDIC‑insured institutions can serve licensed cannabis businesses.
+- Worker protections: FLSA wage/benefit coverage and OSHA safety standards; VA programs to prioritize veteran‑owned businesses.
+- Oversight board: CROB monitors collections, allocations, publishes audits and dashboards.
+- Sunset review: GAO comprehensive review at year 9; five‑year tax‑rate reviews; automatic renewal unless Congress acts.
+- Core promise: Treat cannabis like alcohol: regulate it, tax it, and use the revenue to fund healthcare, veterans, and rural clinics—while protecting small farms, preventing monopolies, and guaranteeing transparency.

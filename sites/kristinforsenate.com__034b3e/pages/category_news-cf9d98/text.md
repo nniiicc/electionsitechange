@@ -1,0 +1,3 @@
+Kristin Shares Why She is Running for State Senate
+As I campaign throughout the 28th Senatorial District, at times I am asked “Why are you running for state senate?” I want to answer that question for all of the voters.
+I am running for this position to continue to work to end business as usual in Harrisburg by providing a strong voice for fiscal…

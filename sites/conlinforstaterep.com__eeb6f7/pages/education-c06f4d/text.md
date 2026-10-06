@@ -1,0 +1,10 @@
+top of page
+Priorities
+Education
+Schools in District 48 need more funding to make them safer, retain and recruit teachers, and to address the strain as staff and students play “catch up” to make up for pandemic-induced learning losses.
+Jennifer wants to:
+- Work with state and local agencies to address fundamental infrastructure needs
+- Create pay incentives and support for our teachers, school staff, and counselors who advise and assist students
+- Purchase updated textbooks and technology and create more personalized learning environments that will benefit all students, but especially improve the teaching of vulnerable and special needs students
+- Improve school safety through physical safety measures and supportive school communities.
+bottom of page

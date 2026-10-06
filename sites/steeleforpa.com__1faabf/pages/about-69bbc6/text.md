@@ -1,0 +1,27 @@
+Meet Mandy
+Mandy Steele is a Public Servant
+• Mandy is currently a member of the Pennsylvania State House, representing House District 33.
+• Mandy currently serves as Vice Chair of the Energy Committee and Secretary of the Consumer Protection, Technology & Utilities Committee, and is a member of the Agriculture & Rural Affairs, Environmental & Natural Resource Protection, Game & Fisheries, and Tourism, Recreation & Economic Development committees.
+• Mandy was previously a member of the Fox Chapel Borough Council, where she chaired the Comprehensive Planning Committee for her community.
+• She has spent the last several years leading bipartisan actions across 20 SWPA communities to rid them of a toxic substance and make them healthier and safer.
+Helping them stand for what is right and protect their families.
+• Mandy led grassroots efforts to build green infrastructure systems to control stormwater, making our communities safer from flooding.
+• Through her efforts, Mandy’s community became an early adopter of a solar installation that will power municipal functions with clean energy while saving taxpayer’s money.
+• As a Councilperson, Mandy led a movement to eradicate racial slurs in place names in her community, uniting the community in the pursuit of a common goal.
+• Mandy founded a thriving non-profit organization dedicated to green space and conservation.
+• She runs an operation that supports West African girls in their education through goat breeding programs.
+• She is an active member of her Democratic Committee.
+• Mandy has served as a student mentor for Carnegie Mellon students pursuing Engineering.
+I am running because I believe we need real people in Harrisburg
+Mandy Steele was elected to the Pennsylvania House of Representatives in 2022 to serve the 33rd Legislative District in Allegheny County.
+A graduate of the University of Pittsburgh and a mother of four, Mandy has founded and led two nonprofit organizations and, in 2019, became the first woman and first Democrat elected to the Fox Chapel Borough Council.
+Before taking office, she spent years leading bipartisan efforts across more than 20 southwestern Pennsylvania communities to address environmental and public safety challenges.
+She also spearheaded grassroots initiatives to build green infrastructure that manages stormwater and protects neighborhoods from flooding and landslides.
+As a state representative, Mandy is focused on restoring the Allegheny Valley to the thriving economic hub it once was.
+She is committed to keeping communities clean and healthy by reducing air and water pollution, advancing cleaner energy solutions, and creating good-paying jobs.
+Born and raised in O’Hara Township with her four siblings, Mandy grew up hearing stories of relatives who helped build the steel bridges spanning the Allegheny River.
+From her family, she learned the values of service, pride in community, and giving back.
+Today, she and her husband are raising their four children near where she grew up, instilling those same values.
+Their kids help care for a small backyard farm with goats, chickens, and guinea fowl, and are learning to hunt, fish, and look out for their neighbors.
+With deep roots in the district, Mandy understands the hardworking families who built these communities—because they are her family and this is her story.
+She knows that by bringing people together and working hard for District 33, we can once again make the valley a vibrant economic center for generations to come.

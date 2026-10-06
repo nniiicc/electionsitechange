@@ -1,0 +1,3 @@
+The PCCLT Richard Elias Housing Champion Award It was a deep honor to receive this award and to be recognized alongside my friend Liz Morales, Assistant City Manager for the City of Tucson, and corporate awardee WaFd Bank in South Tucson, represented by Manager Deanna Quihada and Vice President Kim Dees.
+This recognition was especially meaningful to me because it brought together so many parts of my personal and professional journey in one moment.
+What many people may not kn

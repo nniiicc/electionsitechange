@@ -1,0 +1,1 @@
+Goodlander criticized for sending taxpayer-funded mailer just ahead of election deadline August 11, 2026August 5, 2026 by alvin https://www.wmur.com/article/goodlander-mailer-franking-election-deadline-8526/73359533

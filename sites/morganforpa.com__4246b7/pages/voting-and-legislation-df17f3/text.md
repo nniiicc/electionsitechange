@@ -1,0 +1,11 @@
+Voting and Legislation
+Get in touch with us at info@new.com
+Access to voting
+Wendy Morgan believes in making voting for all citizens as accessible as possible.
+Through support of automatic voter registration, mail-in-ballots and free public transportation on election days.
+Redistricting
+Additionally, Morgan supports fair redistricting in Pennsylvania by the formation of an
+independent citizens redistricting commission (IRC) and passing legislation that will ensure transparency and public input.
+Bipartisanship and Legislation
+Morgan believes that in order for legislation to pass, members of all parties need to work together.
+Morgan supports procedural rule changes that will force bills that have clear bipartisan support to be brought to a vote in a committee and in the House of Representatives chamber.

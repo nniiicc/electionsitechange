@@ -1,0 +1,19 @@
+Boston Globe: Boston Mayor Michelle Wu endorses Ed Markey
+February, 23rd 2026
+By
+BOSTON —US Senator Ed Markey twice backed Michelle Wu’s mayoral campaigns, including his fellow progressive Democrat’s reelection bid last year against an underdog opponent who ran to her right.
+Now, Wu is returning the favor.
+Wu is endorsing Markey as he seeks a third term amid a primary challenge from US Representative Seth Moulton, a Salem Democrat who has long aligned with the party’s center-left wing.
+In a statement released by Markey’s campaign, Wu hailed Markey as a “bold leader” on issues including climate change, health care, and “economic justice.”
+“Senator Markey has been a longstanding partner for Boston families, standing strong on our values and delivering results by bringing resources and solutions,” Wu said.
+“I am grateful for our continued partnership here in Boston and pleased to endorse him for re-election.”
+Markey in 2021 supported Wu’s first mayoral campaign, at the time pointing to her pledges to address climate change and her support for a Green New Deal.
+He, alongside others in the Massachusetts delegation, has since worked with Wu on issues such as attempts to fund fare-free public transit and climate resilience programs.
+“Mayor Michelle Wu is one of the boldest and most visionary leaders in America today,” Markey said in a statement.
+“Together, we will continue to fight back against Donald Trump’s chaos, protect our neighborhoods, and make sure Boston stays No. 1 — in innovation, in equity, and in opportunity.”
+The endorsement from Boston’s young, progressive mayor comes as Moulton, 47, is centering his challenge of Markey, 79, on calls for generational change in the seat.
+Wu, 41, gained notoriety in Massachusetts and among Democrats nationally last year after she delivered an often-defiant testimony during a Republican-led Congressional hearing, including criticizing the Trump administration’s aggressive push to deport undocumented immigrants.
+Both Markey and Moulton are making the case that they are best equipped to take on the Trump administration as they fight for what’s considered a safe blue seat.
+John Deaton, who two years ago challenged US Senator Elizabeth Warren, has an inside lane to the Republican nomination in this fall’s Senate race.
+Wu joins several other Massachusetts’ elected officials who backed Markey over the last several months, including House Whip Katherine Clark, Attorney General Andrea Campbell, and Warren, his partner in the Senate who touted him as a “progressive champion.”
+VIEW ORIGINAL ARTICLE: https://www.bostonglobe.com/2026/02/23/metro/wu-markey-endorse-senate-moulton/

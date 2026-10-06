@@ -1,0 +1,9 @@
+Donald Trump’s reckless tariffs and war with Iran have created an affordability crisis for working families in Alabama.
+Under Trump, Alabama families are paying an average of $2,700 more for basic living expenses.
+Terri has consistently opposed policies that increase costs for Alabama families, voting against Republicans’ budget legislation and advocating instead for lowering prescription drug prices, protecting affordable health care, strengthening nutrition assistance, investing in good-paying jobs, and reducing everyday costs for working families.
+Delivering Affordable Housing: In Alabama’s 7th Congressional District, over 143,000 renters pay more than half of their monthly income on rent.
+That is why Terri worked to pass the 21st Century ROAD to Housing Act, which will build more affordable housing in Alabama, lower mortgage and rental costs, prioritize working families over private equity, and increase tenant protections.
+Lowering Energy Prices: Terri is a proud supporter of the Energy Bills Relief Act, which will lower energy costs by cracking down on price gouging, providing assistance to families to make sure their power isn’t shut off, and ensuring that facilities like data centers are paying for their own energy.’
+Fighting Against Trump’s Trade Wars: Terri worked with her colleagues to introduce the Stopping a Rogue President on Trade Act, which will stop many of Trump’s tariffs on our allies and require congressional approval for all new tariffs.
+She also cosponsored the Relief Act to refund Alabama families and small businesses for the Trump tariffs that the courts have found unlawful.
+Protecting Alabama Workers and Industries: This Congress, Terri reintroduced the Leveling the Playing Field Act 2.0, which would allow for targeted tariffs to protect Alabama’s steelworkers from illegal dumping from China.

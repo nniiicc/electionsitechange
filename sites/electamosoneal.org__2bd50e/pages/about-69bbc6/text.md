@@ -1,0 +1,28 @@
+"I have worked tirelessly on behalf of the constituents of my district the past two years in the Michigan Legislature"
+- Amos O'Neal
+Keeping on Pace for Our Future
+For the past six years, I have worked tirelessly on behalf of the City of Saginaw and surrounding townships in the State legislature.
+I have built bi-partisan relationships, worked my way into leadership positions, and amassed a record of success for our district.
+The following has been brought home to our district:
+- $2 million for Saginaw State University
+- $1 million for Saginaw United High School
+- $400,000 of investment to the Come out Stay Out Saginaw program
+- $12 million for out-of-school funding for the YMCA (for which I was named a Champion for Out of School time Funding from the Michigan After School Partnership, 2023)
+- $1.8 million in state funding for the Crow Island State Game Area to protect wetlands
+- $25 million in essential public health funding to the county health department
+- Over $30 million in investment in the medical infrastructure of Saginaw
+And so much more.
+Key legislation for all Michiganders this term include:
+- Juror Reform Package (House Bills 4091-4094)
+- City Tax Cap Removal (House Bill 4121)
+- Revenue Sharing Trust Fund Package (House Bills 4311/4312)
+- Juvenile Life Without Parole Resentencing MDOC Jurisdiction (House Bill 4211)
+- Tenant Rights Package (House Bills 4982-4997)
+The job is not done yet.
+And neither am I.
+My Background
+As you may know, I served on the Saginaw City Council for thirteen years, including as Mayor pro tem.
+I was then elected to the Saginaw County Board of Commissioners where I served for four years prior to my election to the Legislature in 2020.
+I am a graduate with a business degree from Northwood University and graduated from the Leadership Development Institute at Saginaw Valley State University and a graduate of the Saginaw Chamber of Commerce Leadership Saginaw Program.
+I attended and graduated from Saginaw Public Schools.
+My late wife Sherry and I raised three beautiful daughters in Saginaw and I have several grandchildren.

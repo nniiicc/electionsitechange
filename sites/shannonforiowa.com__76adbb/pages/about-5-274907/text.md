@@ -1,0 +1,18 @@
+HOME
+PLATFORM
+LEGISLATION
+AWARDS
+GET INVOLVED
+BREWS & VIEWS PODCAST
+NEWS
+EVENTS
+More...
+10
+WEEK
+09
+WEEK
+08
+WEEK 8
+Governor Kim Reynolds
+Iowa House Republicans
+Iowa Republican Party

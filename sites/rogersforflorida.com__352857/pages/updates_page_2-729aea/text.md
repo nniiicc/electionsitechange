@@ -1,0 +1,13 @@
+Updates
+HOUSE MAJORITY WHIP TOM EMMER ENDORSES AUSTIN ROGERS FOR CONGRESS IN FL-02
+August 3, 2026 | Press Release
+CONGRESSMAN GREG STEUBE ENDORSES AUSTIN ROGERS FOR CONGRESS IN FL-02
+August 1, 2026 | Press Release
+Internal poll shows Austin Rogers with slight lead on Keith Gross in CD 2
+August 1, 2026 | News
+NEW POLL: AUSTIN ROGERS TAKES LEAD OVER KEITH GROSS IN FL-02 REPUBLICAN PRIMARY
+August 1, 2026 | Press Release
+AUSTIN ROGERS SURPASSES $1 MILLION RAISED MILESTONE IN FL-02 RACE
+July 28, 2026 | Press Release
+ICYMI: Austin Rogers Receives Key Endorsements For FL-02 Congressional Campaign
+June 29, 2026 | Press Release

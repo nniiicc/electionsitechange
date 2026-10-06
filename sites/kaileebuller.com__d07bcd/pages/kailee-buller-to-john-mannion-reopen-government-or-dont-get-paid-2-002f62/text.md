@@ -1,0 +1,1 @@
+Standing at Syracuse Hancock International Airport, candidate for Congress Kailee Buller released a new video calling on Congressman John Mannion to stop playing politics and work across the aisle to reopen the government amid New York’s affordability crisis.

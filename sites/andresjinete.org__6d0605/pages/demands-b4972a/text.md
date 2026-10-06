@@ -1,0 +1,70 @@
+RENT CONTROL
+● A renter’s “bill of rights” that protects people and small business, and includes compensation for displacement due to rent increases and prohibits evictions during the school-year and in the winter months.
+● Major public housing investment with a goal to make 60% of the market high-quality, income-based units i.e. social housing.
+● Empower non-profits like community land trusts to provide housing at affordable rates.
+● Adopt a Housing First approach with no prerequisites for access to public housing to address homelessness.
+● Grant legal status to tenant unions and create a National Tenant Relations Board.
+UNIVERSAL HEALTHCARE
+● Free single-payer universal healthcare available to everyone, regardless of status.
+● Fund clinics and hospitals in medical deserts.
+● Support urban farmers, community gardens, and collectively-owned grocery stores in food deserts.
+● Education requirements for medical professionals on racial disparities and social determinants of health.
+● Programs targeted at youth to increase the number of Black medical professionals.
+● Get rid of patents in the pharmaceutical industry.
+NO STUDENT DEBT
+● Purchase and forgive all student debt.
+● Reinstate and expand tuition-free state and community colleges across the country.
+● Free vocational training and trade schools.
+fIGHT FOR $25
+● Raise the federal minimum wage from $7.25 to $25 an hour and index future increases to inflation.
+● Require service industry workers to be paid the full minimum wage in addition to tips.
+● Institute a 32-hour workweek without reducing base pay or benefits, and promote a transition to a four-day schedule
+ABOLISH ICE
+● Dismantle DHS, an agency weaponized against American civil liberties, communities of color, and local economies.
+● A complete overhaul of the immigration system, which includes a new amnesty, transfer of courts to the federal judiciary, shutting down detention centers, and more efficient processes
+● An inclusive, multilateral program that fosters cooperation, job creation, and economic prosperity across the Americas and stabilizes migration flows.
+● Replace CBP with TSA at ports of entry.
+STOP THE GENOCIDE
+● Cut all funding and end all military and intelligence cooperation with states that engage in war crimes and genocide.
+● Support pro-BDS legislation and promote enforceable peace processes based on secularism and a single, shared system of governance.
+● Protect the civil rights of Arab and Muslim-Americans, South Asian Americans, and the African diaspora.
+DEMOCRACY AT WORK
+● Mandatory union recognition when 50% of authorization cards are signed.
+● Increase NLRB fines and penalties for labor violations.
+● Legalize and standardize worker-owned cooperatives.
+● Public banks to support cooperative development and community investment.
+● Build a legal framework for social cooperatives in the non-profit sector.
+GREEN TRANSITION
+● Fund a full transition to a decarbonized economy powered by 100% renewable energy.
+● Promote publicly-owned, community-controlled energy production.
+● Invest in electric, high-speed, mass transit systems capable of replacing car commuting and air travel.
+● A full-stop ban on new data centers and comprehensive AI regulations.
+● Integrate energy grids across the Americas and develop a shared energy initiative with South America, one of the regions with the world’s highest potential for green energy production.
+END THE CARCERAL STATE
+● Eliminate private prisons and detention centers.
+● Ban mandatory minimum sentencing in federal cases and restore greater judicial discretion.
+● Treat drug possession and use as public health issues; decriminalize victimless offenses.
+● End incarceration for technical violations of probation and parole that do not involve new criminal conduct.
+● Legalize marijuana federally and ensure cannabis dispensaries have access to banking services.
+EQUITY & OPPORTUNITY
+● Codify into law the right to bodily autonomy and access to abortion.
+● Expand African American history curricula in schools.
+● Defend LGBTQIA+ rights and protect gender affirming care.
+● Support indigenous landback and tribal stewardship.
+● Recognize ALL tribal nations, including New Jersey’s Lenape communities.
+● Ban caste-based discrimination.
+● Fund universal childcare.
+rEPARATIONS
+● Lineage-based eligibility for descendants of persons enslaved in the United States.
+● A federal process for documenting and establishing qualifying ancestry with a defined time-frame for claims.
+● Direct, tax-exempted, cash reparations as the primary remedy, made in recurring payments.
+● Current racial wealth gap as the metric to assess economic value of reparations.
+● Re-establish Freedmen’s Bureau to administer and enforce the program.
+● Other economic programs shall not substitute for, reduce, or redefine reparations owed to qualifying descendants of U.S. slavery.
+fAIR TAX REFORM
+● Shift the burden of taxation to the top 1% of earners and eliminate income taxes for middle and lower income households.
+● Eliminate taxes on productive profits in favor of economic rent and unearned income i.e. monopoly profits, windfall gains, land value rent, and royalties from natural resources.
+● Cut the military budget by two-thirds, currently the highest in the world, and progressively shut down more than 700 overseas bases to pay for social programs.
+● Fund local schools and after-school programs at the federal level rather than through property taxes.
+THE 28TH AMENDMENT
+● A constitutional amendment to allow the public to directly petition for and vote in laws via federal ballot initiatives.

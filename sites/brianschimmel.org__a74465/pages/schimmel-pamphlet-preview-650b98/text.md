@@ -1,0 +1,41 @@
+State Representative, 29th District
+Brian Schimmel
+Independent
+Occupation: City Councilor; Small Business Owner
+– Capital Project Manager, Asset Management Specialist
+Occupational Background: Family Dairy Farm; Intel Corporation; Centro Cultural; Non-profit Board Leadership
+Educational Background: B.S., Oregon State University; Naval Reserve
+Officer Training Corps.
+Prior Governmental Experience: Urban Renewal Agency Board; Tualatin Valley (TV) Highway Transit & Safety Project Policy & Budget Committee (P&B); Economic Development Commission and Chamber of Commerce Board Liaison; Sustainability Commission Chair
+Community & Professional Experience: Housing needs analysis; homeless shelter and services; pandemic emergency response and community services; global operations, manufacturing, supply chain, systems development, and acquisitions.
+Government should work as well as the people it serves.
+As a Councilor, I see firsthand where state policy impacts people’s lives—and where implementation, funding, and local realities do not align.
+Good intentions are not enough.
+Before passing another mandate, we should understand its cost to implement, fund it responsibly, work with the people closest to the work, and ensure it actually improves people’s lives—urging legislative accountability.
+I’m running for State Representative to bring an implementation-focused approach to Salem:
+- Strong schools with stable funding
+- Lower costs for working families
+- Housing people can afford
+- Safe and inclusive communities
+- Support for local businesses
+- Accessible transportation
+- Resilient infrastructure
+- Responsible use of taxpayer dollars
+My time in office will reflect the same independent and determined leadership demonstrated as a city councilor, business owner, and community leader— focused on maximizing outcomes.
+My approach to effective governance is to work with people across the political spectrum to make policy work, without surrendering independent judgment or principles.
+Practical leadership.
+Local voices.
+Better results.
+Proudly Endorsed by LOCAL Leaders:
+- Hillsboro Classified United Local 4671
+- National Federation of Independent Business
+- State Senator Janeen Sollman
+- Washington County Commissioner Jerry Willey
+- Washington County Auditor Kristine Adams-Wannberg
+- Mayor Beach Pace – Hillsboro
+- Mayor Malynda Wenzl – Forest Grove
+- Mayor Jef Dalin – Cornelius
+- Chair Kristy Kottkey – Forest Grove School Board
+- Vice-Chair Mark Watson – Hillsboro School Board
+- Former Mayor Steve Callaway – Hillsboro
+(This information furnished by Friends of Brian Schimmel.)

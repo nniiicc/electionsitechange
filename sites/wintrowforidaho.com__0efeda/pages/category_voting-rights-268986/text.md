@@ -1,0 +1,9 @@
+Apr 24, 2021 | 2021 Legislative Session, Budget / Government Spending, Health Care, Public Education, Voting Rights / Gerrymandering
+The legislative session feels more like a Nanny State than State Government.
+Power consolidation continues as the legislature tries to insert itself in local elections, school districts, health districts, city budget decisions, voter restrictions, ballot initiatives,...
+Apr 17, 2021 | 2021 Legislative Session, Budget / Government Spending, Health Care, Human Rights, Public Education, Voting Rights / Gerrymandering
+We made it back from an 18 day recess on April 6, worked until April 13 and the Senate had to take ANOTHER three day recess while the House is supposed to be passing budgets and clear their calendar.
+However, watching it all, they just keep adding things!
+The latest...
+Apr 10, 2021 | 2021 Legislative Session, Budget / Government Spending, Civil Discourse, COVID 19, Health Care, Human Rights, Public Education, Sexual Assualt / Domestic Violence, Voting Rights / Gerrymandering
+I wish I had better news to report; after an 18 day recess, the House advanced S1110 that makes it nearly impossible for citizens to hold gov’t accountable through ballot initiatives and the Senate’s first bill out of the gate was an abortion bill that...

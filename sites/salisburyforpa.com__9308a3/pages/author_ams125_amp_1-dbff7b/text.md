@@ -1,0 +1,2 @@
+endorsements Campaign News, Endorsement Update February 12, 2024 ShareX formerly TwitterFacebookTumblrE-mail Abigail Salisbury Endorsed by Allegheny County Democratic Committee for Pennsylvania’s 34th State House District Abigail Salisbury received the official endorsement of the Allegheny County Democratic Committee (ACDC) for the 2024 Pennsylvania Democratic Primary.
+Read more by Abigail Salisbury

@@ -1,0 +1,55 @@
+Eight Years of Senate Service
+and Results for Alaska
+Since being elected to the Alaska State Senate in 2018, I have worked every day to improve the lives of Alaskans through effective leadership, community engagement, and bipartisan collaboration.
+LEGISLATION SIGNED INTO LAW ( Pending )
+• Improved Ability to Receive Disability Vehicle Placards
+• Requiring the Department of Public Safety to post Policies and Procedures
+• Extending the Physical Therapy and Occupational Therapy Board
+• Black History Month
+• Juneteenth
+• Women’s History Month
+• Hispanic Heritage Month
+• CPR Education in Schools
+• Mental Health Education K-12 (Vetoed and not overridden)
+• Recognizing March as Chronic Kidney Disease Awareness Month
+Leadership
+• Chair, Legislative Budget and Audit Joint Committee (2024 to Present)
+- Oversees state audits and investigations.
+- Promotes transparency, accountability, and responsible use of taxpayer dollars.
+• Chair, Legislative Council Joint Committee (2022 to 2024)
+- Oversee legislative operations and policies statewide.
+Education Advocacy
+• Consistent advocate for increased public education funding.
+• Supported efforts to improve student achievement and classroom resources.
+• Championed civics education, mental health education, and lifesaving CPR training.
+• Introduced a companion bill to support educational opportunities for deaf and hard-of-
+hearing students.
+• Drafted legislation to support educational opportunities for the blind and visually
+impaired.
+• Introduced legislation to include Asian American and Pacific Islander history in
+educational curriculum.
+Community and Cultural Recognition
+• Led efforts to celebrate Alaska’s diversity and recognize the contributions of
+underrepresented communities.
+• Sponsored legislation and resolutions honoring Alaska Natives, Hispanic, Black, and
+Filipino Americans, Hmong veterans, and other cultural groups that have enriched
+Alaska.
+Constituent Service
+• Assisted hundreds of constituents in navigating state agencies and resolving issues involving:
+- Permanent Fund Dividends
+- Public assistance programs
+- Licensing and regulatory matters
+- Veterans’ services
+- Senior services
+- State government agencies
+Capital Budget and Community Projects
+Worked to secure funding for projects benefiting Anchorage and surrounding communities, including:
+• School improvements
+• Public safety needs
+• Transportation infrastructure
+• Community facilities
+• Deferred maintenance projects
+A Record of Collaboration
+Throughout my Senate service, I have worked across party lines to build consensus, listen to
+constituents, and advocate for practical solutions that strengthen Alaska’s families, schools,
+businesses, and communities.

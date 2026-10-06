@@ -1,0 +1,6 @@
+Re-Elect Scott Rosenzweig to the Montana State Legislature in the 2026 Election
+Rep.
+Scott Rosenzweig is dedicated to fixing Montana’s broken and rigged healthcare system.
+Watch here …
+Rep.
+Scott Rosenzweig on taxes …

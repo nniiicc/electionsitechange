@@ -1,0 +1,59 @@
+Happy to have you in our HD24 community!
+Check out some of the activities in the district and across the state
+Free activities for kids/families:
+- Jeffco Public Library Culture Pass Program:
+- 2 free museum passes per month for cardholders
+- Majestic View Nature Center: Arvada
+- Lookout Mountain Nature Center: Morrison
+- CSU Spur: Denver
+- Denver Art Museum Drop-in activities on level 2 of the Martin Building
+- APEX Center: Arvada
+- Indoor Playground Monday-Friday 8-8, Sat&Sun 8 AM - 11:30 AM
+- Arvada Library Programs
+- Dinosaur Ridge: Morrison
+- Center for Science Education: Boulder
+Paid activities for kids/families:
+- Children's Museum: Marsico Campus
+- Denver Museum of Nature and Science
+- Features a kids room on the 2nd floor
+- Colorado Railroad Museum: Golden
+- Kookalooz Space Playground: Westminster
+- Wings Over the Rockies Air & Space Museum
+- CU Museum of Natural History
+- Wow Childrens Museum: Lafayette
+- Tot Time: Westminster
+- Altitunes
+- Denver Zoo
+- Butterfly Pavilion: Westminster
+- SafeSplash: Arvada
+- Denver Fire Museum
+- Little Monkey Biznass: Westminster
+- Paul Derda Recreation Center: Broomfield
+- Candeeland
+- Kids Wonder: Centennial
+- Kids Dig
+- Sky Zone Trampoline Park: Arvada
+- Belleview Park: Englewood
+- The Little Gym: Timnath
+- Fiske Planetarium: Boulder
+- My Gym Arvada
+- Children's Music Academy of Arvada
+- Swallow Hill Music: Denver
+- Tumble Haus
+- Wildlife Animal Sanctuary: Keensburg
+- APEX Activities Guide
+- APEX Toddler Open Play
+- Growing Gardens: Boulder
+- ABC Kids Climbing: Boulder
+- Wild Beginnings Nature School
+- Gateway Fun Park Center
+- Deeply Rooted Music School
+- The Urban Farm Seasonal Activities
+- Arvada area summer camps
+- Arvada Kite Festival
+- Tulip Fairy and Elf Festival
+- Tiny Town
+- Denver Beer Co Lowry w/ playground next to it
+- Rayback Collective: Boulder Rock Creek Farm: Broomfield
+- Ya Ya Ya Farm: Near Longmont
+- Munson Farm: Boulder

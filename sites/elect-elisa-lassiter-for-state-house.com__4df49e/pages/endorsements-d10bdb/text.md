@@ -1,0 +1,18 @@
+Our esteemed endorsements
+Elisa Lassiter's campaign for State House District 40 is honored to have received official endorsements from several key organizations.
+These endorsements reflect a careful evaluation of her experience, values, and commitment to effectively represent the community in metro Atlanta, Georgia.
+This broad coalition, ranging from local grassroots activists to state leaders, believes in her vision for stronger schools, accessible healthcare, voting rights, and economic opportunity.
+"The Paulding County Democrats proudly endorse Elisa Lassiter, recognizing her dedication to public service and her unwavering commitment to the values that uplift our communities."
+Paulding County Democrats
+"The Douglas County Democrats are thrilled to support Elisa Lassiter, a proven leader who will bring a strong, informed voice to the Georgia State House."
+Douglas County Democrats
+"Fighting Fifty PAC endorses Elisa Lassiter for her strong advocacy and policy expertise, believing she will be a fierce champion for working families in District 40."
+Fighting Fifty PAC
+"GA Win List is proud to endorse Elisa Lassiter, a candidate who embodies the vision and commitment needed to create a more equitable Georgia for all."
+GA Win List
+"The Georgia House Caucus officially supports Elisa Lassiter, recognizing her extensive public service and policy expertise that will undoubtedly benefit our state."
+Georgia House Caucus
+Why these endorsements matter
+"I am proud to be endorsed by the Fighting Fifty PAC, Georgia WIN List, EMILY's List, Georgia Equality, Fair Fight, Reproductive Freedom For All, Georgia House Democratic Caucus, Common Ground, We Told You So PAC, the Paulding County Democrats, the Douglas County Democrats, United for Georgia Women, New Politics, Mental Health Now, No One Asked, But, and The National Democratic Redistricting Committee.
+These organizations have carefully evaluated candidates across Georgia and concluded that I have the experience, values, and commitment to effectively represent House District 40.
+Their support reflects a broad coalition, from local grassroots activists to state leaders, who believe in our campaign’s vision for stronger schools, accessible healthcare, voting rights, and economic opportunity."

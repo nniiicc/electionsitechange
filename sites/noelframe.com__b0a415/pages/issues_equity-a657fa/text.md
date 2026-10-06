@@ -1,0 +1,40 @@
+RacIAL & Social Equity
+Institutional racism continues to create barriers for people of color at nearly every turn while gender non-binary people, members of the LGBTQ+ community and individuals with disabilities face inequities and dangers to their safety and dignity.
+We must continue to work to move our society forward towards a world that values all people.
+We must look at our policies with an intersectional lens and come to solutions that lift people up because this builds a stronger, more inclusive community for all of us.
+Communities of Color
+We know that people of color experience harmful discrimination every day that directly threatens their ability to thrive and live safe and healthy lives.
+People of color are more likely to experience incarceration, be exposed to air pollution, face gun violence, and still experience a significant wage gap compared to their white counterparts.
+Our immigrant and refugee neighbors have experienced heartless attacks from the federal government, including the separation of families seeking asylum.
+Native American women face disproportionate rates of being murdered and going missing.
+Progressive policies must focus on addressing these inequities in partnership with these communities.
+In the Legislature, Noel has championed:
+- SB 5693 (2022) – Refugee assistance funds ($74M) (PASSED)
+- HB 1725 (2022) – Missing Indigenous persons advisory system alerts (PASSED)
+- SB 5044 (2021) – Anti-racism training for K-12 staff (PASSED)
+- HB 1783 (2020) – Nation’s first statewide Office of Equity (PASSED)
+- I-1000 (2019) – Allowing the state to remedy discrimination for certain groups (PASSED, but repealed by Referendum 88)
+- HB 2514 (2018) – Removing racial covenants found in property deeds (PASSED)
+- HB 1488 (2017) – Expanding access to the College Bound Scholarship for students who are Deferred Action for Childhood Arrivals (DACA) eligible (PASSED)
+LGBTQ+
+The fight for equal rights for our LGBTQ+ population is far from over.
+Our LGBTQ+ communities deserve the same rights as all other people, including legal rights and access to health care.
+In the Legislature, Noel has championed:
+- SB 5313 (2021) – Gender Affirming Treatment Act (PASSED)
+- HB 1687 (2020) – The Nikki Kuhnhausen Act (PASSED)
+- SB 5722 (2017) – Banning conversion therapy (PASSED)
+- SB 6037 (2018) – Uniform Parentage Act (PASSED)
+Disabilities
+Those who are differently abled deserve every opportunity to succeed.
+Whether providing additional educational support or ensuring that people with developmental challenges earn fair wages, we must ensure that our friends in the disability community are supported.
+Noel was honored with the 2017 Arc of King County Award for promoting the rights of people with developmental disabilities and will continue to be a champion for this inspiring community.
+In the Legislature, Noel has championed:
+- HB 2008 (2022) – Eliminating use of IQ scores for services for individuals with developmental disabilities (PASSED)
+- SB 5790 (2022) – Strengthening community support services for individuals with developmental disabilities (PASSED)
+- SB 5819 (2022) – Caseworkers for Developmental Disabilities Administration's no-paid services caseload (PASSED)
+- SB 5268 (2021) – Transforming services for individuals with developmental disabilities (PASSED)
+- SB 5763 (2022) – Eliminating sub-prevailing wage for individuals with disabilities (PASSED)
+- SB 5284 (2021) – Ending sub-minimum wage for workers with disabilities (PASSED)
+- HB 1706 (2019) – Ending use of sub-minimum wage for workers with disabilities by the State of Washington (PRIME SPONSOR, PASSED)
+- HB 1199 (2019) – Eliminating the age and income cap for the Healthcare for Workers with Disabilities program (PASSED)
+- HB 2037 – Removing obstacles for higher education students with disabilities (PRIME SPONSOR, PASSED)

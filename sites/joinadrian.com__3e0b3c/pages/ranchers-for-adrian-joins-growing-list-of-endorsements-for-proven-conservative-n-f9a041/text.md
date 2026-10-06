@@ -1,0 +1,129 @@
+SCOTTSBLUFF – Today, Congressman Adrian Smith (NE-03) celebrates the endorsement of Ranchers for Adrian, a group of more than one hundred seventy cattle producers from Nebraska’s Third Congressional District.
+Ranchers for Adrian joins the growing list of endorsements for the only proven conservative candidate ahead of Nebraska’s May 12th primary election.
+“Nebraska is the Beef State, and I am grateful to have the backing of so many ranchers and farmers as I work to champion Nebraska’s number one industry in Congress.
+With the House passage of the Farm Bill and continued progress on fair trade agreements with Japan, South Korea, the United Kingdom, and other international partners, I am proud to work alongside President Trump and Republicans in Congress to deliver results for Nebraska agriculture.
+“But my work is far from over.
+As producers recover from this spring’s historic wildfires, I remain committed to ensuring they have the tools and support they need to rebuild and succeed.
+On the Ways and Means Committee, I will continue advancing pro-growth tax policies that help independent, producer-owned beef processors like Sustainable Beef in North Platte thrive.
+Smith has received exclusive endorsements, including:
+- President Donald Trump
+- Nebraska Farm Bureau
+- Nebraska Right to Life
+- National Rifle Association
+Smith currently serves on the House Ways and Means Committee, and is the Chairman of the Subcommittee on Trade.
+Smith also serves as a chairman of the Congressional Biofuels Caucus, the Congressional Modern Agriculture Caucus, the Congressional Rural Caucus, and is founding chair of the Congressional Modern Agriculture Caucus, where he works to educate his colleagues on the importance of cutting-edge methods used by Nebraska producers to feed and fuel our nation and the world.
+The Third District covers 80 of Nebraska’s 93 counties.
+Congressman Smith and his wife Andrea, along with their two children, reside in Gering.
+# # #
+NOTE: As more individuals join the coalition, this news release will be updated on the campaign website.
+*Updated 5/11/26 with additional names.
+Below is the initial list of individuals serving on the “Ranchers for Adrian” endorsement coalition:
+- Callan & Gina Ackerman
+- Fred Wellnitz
+- Lucus & Susan Young
+- Chad & Valerie Bell
+- George & Barb Cooksley
+- Bill & Julie Tielke
+- Wayne & Mary Crawford
+- Larry & Barbara Intermill
+- Ritch & Alicia Robertson
+- Bruce & Beth Forney
+- Mark & Deb Cover
+- Jack Buhr
+- Clayton & Taelar Krause
+- Scott & Kristin Schiff
+- Forrest & Candace Hughes
+- Boone Manion
+- Mike & Beth Drinnin
+- Eric & Tanya Storer
+- Jerry & Connie Underwood
+- Samuel & Kelley Drinnin
+- Chris & Sherry Vinton
+- Steve & Kathy Cleveland
+- Craig & Terri Uden
+- Cliff & Andee Symonds
+- Mike & Bev Dyer
+- Eric Hansen
+- Ty & Kaydee Alexander
+- Erin & Luke Norman
+- Scott Reynolds, DVM
+- John Plock
+- Chuck Ardissono
+- Michael Kelly
+- Chris Eickmann
+- Pat & Connie Peterson
+- Mark Spurgin
+- Shannon Peterson
+- Gerald & Sandy Riedel
+- Steve & Susan Hanson
+- Reiss Bruning
+- Joe & Cyndi Van Newkirk
+- Tim & Kathy Cover
+- Fred Bruning
+- Ron & Martis Shearer
+- Tom Kelly
+- Logan Schardt
+- Mike Phillips
+- Jan Spurgin
+- Sarah Greer
+- Lewis Coulter
+- Steve Stroup
+- Barry DeKay
+- Howard & Jill Daharsh
+- Chris & Kathy Schluntz
+- Perry DeKay
+- Gale E.
+Daharsh
+- Phil & Janice Bamesburger
+- Justin & Emily Haxby
+- Cassie Lapaseotes
+- Doug Winz
+- Greg & Teresa Ibach
+- Pete Lapaseotes
+- Tony & Keri Anderson
+- Bart & Shana Beattie
+- Hunter Borg
+- Chad & Kelly Duryea
+- Alec & Meredeth Ibach
+- Cody & Naomi Loomis
+- Katie Olson
+- Brad & Linsey Foote
+- Jeff & Kim Metz
+- Brenda Masek
+- Bryce & Diana Williams
+- Butch & Susan Schuler
+- Terry Borg
+- Jeff & Nannette Beattie
+- David & Christy Schuler
+- Shane Hamilton
+- Bryant & Lori Knoerzer
+- Bill & Queeda Baldwin
+- Matt & Dawn Caldwell
+- Paul & Angie Kenney
+- Melody Benjamin
+- Josh & LeAnne Skavdahl
+- John Kuehn, DVM
+- Kylor Hoffman
+- William Skavdahl
+- Don Lease
+- Owen Palm
+- Jud & Jennifer Skavdahl
+- Mike & Joni Albrecht
+- Rusty & Rachael Kemp
+- Samuel Skavdahl
+- Fred & Kay Meyer
+- Matt & Elizabeth Albrecht
+- Charles & Donna Skavdahl
+- Greg & Patti Hoegermeyer
+- Seth & Jessica Badje
+- Dan & Crystal Skavdahl
+- Brian Maricle
+- Boone & Nadene Huffman
+- Hannah Borg
+- Steve & Susan Wellman
+- Jaclyn Wilson
+- Joey Morava
+- Myron & Julie Dorn
+- Blaine Wilson
+- Joe & Shirley Burford
+- Mike & Trudy Nolles

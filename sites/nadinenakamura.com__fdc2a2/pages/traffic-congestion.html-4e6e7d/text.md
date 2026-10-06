@@ -1,0 +1,14 @@
+The Issues: Traffic Congestion
+| We all try to avoid peak traffic hours through Wailua and Kapa'a, but after decades of planning a Wailua-Kapa'a bypass relief route, the State Department of Transportation (SDOT) abandoned that plan.
+However, I am pleased that two projects to increase traffic safety and reduce congestion are now complete: Two additional highway improvements are needed to further relieve traffic congestion: The addition of one more south-bound lane between the Wailua Bridge and the southern terminus of the Kapa'a Bypass Road, fronting Coco Palms hotel.
+This project was completed in 2023.
+The addition of a roundabout at Kuhio Highway and Mailihuna Road that was completed in 2022.
+The addition of one more north-bound lane on the Kapa'a Bypass Road, between the roundabout and Kuhio Highway.
+SDOT requires funds for this project.
+The addition of one more Lihue-bound lane between Wailua River to Hanamaulu.
+The additional lane could be adjacent to the existing highway or created using the existing Wailua cane haul road.
+This would eliminate the need for contra-flow lanes, which is a costly operation.
+While these road improvements are critical to relieve traffic congestion, it is also important to work on reducing the number of vehicles on the road by improving the routes and frequency of our bus system and adding convenient shuttles that can help reduce the number of rental cars driven by visitors.
+I strongly support plans to develop mobility hubs around Kaua'i, with the first at Coconut Marketplace.
+I also support transit-oriented development such as the Mahelona Master Plan.
+I would also like the State and County to work together to build the Kuamo`o-Ma`alo connector road as a resiliency project to ensure that east and north shore communities have continuous access to medical, transportation, and other facilities in the event a tsunami or hurricane damages our shoreline highway and bridges. | |

@@ -1,0 +1,3 @@
+California Lieutenant Governor candidate Fiona Ma was honored to celebrate Asian American & Pacific Islander Heritage Month with the Ed Lee Dems at “Makers, Shakers & Bakers” — a special evening recognizing the innovators, leaders, and community builders who embody Mayor Ed Lee’s legacy of service and inclusion.
+On what would have been Mayor Ed Lee’s birthday, they came together to uplift the incredible AAPI leaders shaping San Francisco and beyond through culture, entrepreneurship, public service, and community care.
+Fiona was grateful to everyone working to organize, inspire, and empower our communities while carrying forward Mayor Lee’s vision of opportunity and unity for all.

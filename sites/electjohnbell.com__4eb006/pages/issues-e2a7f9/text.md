@@ -1,0 +1,32 @@
+When I was first elected in 2012, North Carolina’s economy was in bad shape.
+We had the third highest unemployment rate in the country, a $3 billion dollar budget deficit, record high taxes and out-of-control regulations that were killing small businesses.
+That’s why we immediately went to work to get our economy moving again.
+We enacted job-creating regulatory reform, passed historic tax relief, rolled back government red tape and balanced our state budgets.
+These reforms have led to an all-time low in unemployment, the elimination of over $5 billion in debt and deficits and the most people working in our state’s history.
+In fact, North Carolina has now been recognized by Forbes as the "Best State for Business" for three straight years.
+As the state continues to see economic growth in the future, it is critical that we continue down this successful and proven path of lower taxes and less regulations that has created an environment that is welcoming to new jobs, businesses and economic opportunities for all.
+It is my top priority to ensure our students and their education are put above all else and that parents – who know their children’s needs the most – are empowered and involved in their child's education.
+We should be encouraging parents to participate in our schools, not threatening or silencing them.
+I applaud parents, grandparents, concerned citizens and groups who are standing up for our children and their education.
+Since being elected in 2012, I’m proud to have supported policies that prioritize students, parents and teachers through more funding for our classrooms, smaller class sizes, expanded school choice, increased transparency and a stronger focus on early education.
+I have also supported pay raises for our teachers each year that I have been in office, which has resulted in the average teacher salary surpassing $50,000 a year for the first time ever.
+Going forward, I will continue to support policies that empower parents, prevent indoctrination, support teachers and ensure greater transparency in schools.
+For far too long, liberal politicians in Raleigh failed to balance our budgets and make the same tough decisions that hardworking families must do every day across North Carolina.
+By 2012, after decades of wasteful spending and higher taxes, North Carolina was faced with a $3 billion budget deficit and record high taxes.
+Since then, I’m proud to have helped lead the fight to restore fiscal sanity in Raleigh and balance our budget by eliminating wasteful spending and enacting conservative fiscal reforms.
+At the same time, we have successfully cut taxes for our citizens, put money aside for a rainy day fund in case of economic downturns or natural disasters and given pay raises and bonuses to our state employees and teachers.
+I have the greatest appreciation for the men and women who serve in uniform and I will always work to ensure they have the support and resources they need to be successful in North Carolina.
+Having the privilege to represent many military families surrounding Seymour Johnson Air Force Base in Goldsboro, I also understand the rich heritage of our military in North Carolina and have actively fought to protect our military bases.
+North Carolina is called the most military friendly state in America for a reason and it is because we have led the way when it comes to supporting our military families and the installations they serve on.
+That’s why I have been a leading voice in Raleigh for our active duty military, their families and the countless veterans who call North Carolina home.
+This includes passing laws to eliminate the state income tax on military retirement pay, expand in-state tuition and scholarships for veterans and their kids, and increase funding for our state’s military programs and protect our military instillations from encroachment.
+Agriculture is our state's number one economic driver and forms the backbone of our state, particularly in Eastern North Carolina.
+From sweet potatoes and tobacco to hogs and poultry, we have a strong and rich history of farming and agriculture in our region.
+If it wasn’t for agribusiness, so many small town would not exist today.
+That's why I was proud to help lead the fight in support of North Carolina farmers who are being targeted by out-of-state trial lawyers and extreme environmentalists who want to put them out of business.
+People need to know that food does not come from the grocery store – it comes from hard work on our family farms.
+I will always fight and advocate for our family farmers and support policies that protect, promote and preserve our agriculture heritage.
+As a life-long sportsman and the former Chairman of the North Carolina Sportsmen's Caucus, I have been a leading voice in Raleigh for protecting and advancing our hunting and fishing traditions in North Carolina.
+I believe we can promote wildlife conservation while continuing the tradition of hunting the vast land our state has to offer and fishing the creeks, rivers, and ocean we are lucky to call our own.
+In the General Assembly, I led the effort to get legislations signed into law to promote youth participation in outdoor recreational activities and 7-day hunting.
+I am very proud of our North Carolina sportsmen traditions and will always work to ensure they are respected and passed down to future generations.

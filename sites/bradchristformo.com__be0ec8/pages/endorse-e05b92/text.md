@@ -1,0 +1,58 @@
+Skip to content
+Meet Brad
+Experience
+Commitments
+Endorsements
+News
+Get Involved
+Volunteer
+Join the Team
+Endorse Brad
+Emissions Petition
+Senior Property Tax Survey
+Fighting Electric Rate Increases
+Media
+FAQ
+Connect
+Meet Brad
+Experience
+Commitments
+Endorsements
+News
+Get Involved
+Volunteer
+Join the Team
+Endorse Brad
+Emissions Petition
+Senior Property Tax Survey
+Fighting Electric Rate Increases
+Media
+FAQ
+Connect
+Donate
+Endorse Brad Christ
+Your Information
+First Name
+(Required)
+Last Name
+(Required)
+Email
+(Required)
+Phone
+Your Endorsement
+Please be sure to include the must-say line: "My name is ____, and I approve this message for Brad Christ for Missouri."
+Would you like to submit a video or written endorsement?
+Record a Video
+Write my Endorsement
+Write your Endorsement
+(Required)
+Two to four sentences.
+Say why, in your own words — then the must-say line.
+Record you endorsement
+(Required)
+Please allow access to your camera and microphone and then click the red record button, once you are finished click the red button again and allow it to save.
+I made this video myself, everything in it is true and my own opinion, I'm speaking as a private individual, and I give the Brad Christ campaign permission to review and share it.*
+(Required)
+I made this video myself, everything in it is true and my own opinion, I'm speaking as a private individual, and I give the Brad Christ campaign permission to review and share it.*
+Done?
+Ask a neighbor to do the same.

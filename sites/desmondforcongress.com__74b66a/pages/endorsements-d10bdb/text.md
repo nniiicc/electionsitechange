@@ -1,0 +1,133 @@
+Endorsements
+Oceanside Police Officers’ Association
+Deputy Sheriffs’ Association
+National Border Patrol Council
+Riverside Sheriffs' Association
+Oceanside Firefighters Association
+Escondido Police Officers' Association
+Escondido Firefighters Association
+CAL Fire Local 2881-10th District
+Riverside County Farm Bureau
+New Majority San Diego
+New Majority Orange County
+GOP Union Caucus
+San Diego Young Republicans
+California Republican Party
+California Congress of Republicans
+California Women's Leadership Association
+Howard Jarvis Taxpayers Association
+Endorsements
+Riley Gaines
+12x All-American Swimmer, Advocate for Women’s Sports and Rights
+Janet Nguyen
+Orange County Supervisor
+Carl Demaio
+California Assemblymember
+Darrell Issa
+United States Representative - 48th District
+Ken Calvert
+United States Representative - 41st District
+Tom McClintock
+United States Representative - 5th District
+Jessica Alexander
+Temecula Mayor
+Dr.
+Toper Taylor
+Indian Wells Mayor
+Jeff Fox
+Vista City Councilmember
+Jennifer Adnams
+Capistrano Unified School Board
+Lisa Zollinger
+Capistrano Unified School Board
+Lisa Davis
+Capistrano Unified School Board
+Vince Fong
+United States Representative - 20th District
+Tony Strickland
+CA State Senator
+Kevin Kiley
+United States Representative - 3rd District
+Steve Knoblock
+San Clemente Mayor
+John Franklin
+Vista Mayor
+Laurie Davies
+California Assemblymember
+Brian Jones
+CA Senate Minority Leader
+Peter Weiss
+Oceanside Councilmember
+Rick Robinson
+Oceanside Councilmember
+Howard Hart
+San Juan Capistrano City Council
+Rick Loeffler
+San Clemente City Council
+Pat Burns
+Huntington Beach Mayor
+Jamey Federico
+Dana Point City Council/Former Mayor
+John Taylor
+San Juan Capistrano City Council/Former Mayor
+Andrew Gruel
+Huntington Beach City Council/Chef
+Victor Cabral
+San Clemente Councilmember
+Diane Dixon
+California Assemblymember
+Lisa Bartlett
+O.C.
+Supervisor, 5th District (Ret.), South Orange County Community College District, Trustee Area 3.
+Mike Garcia
+Former U.S.
+Representative
+Richard Bailey
+Former Coronado Mayor
+Melanie Burkholder
+Carlsbad City Council
+Rebecca Jones
+San Marcos Mayor
+John McCann
+Chula Vista Mayor
+Matt Hall
+Former Carlsbad Mayor
+Joel Anderson
+San Diego County Supervisor
+Bill Wells
+El Cajon Mayor
+Jordan Marks
+San Diego County Assessor/Recorder/County Clerk
+Brian Billbray
+Former U.S.
+Representative
+Dane White
+Escondido Mayor
+Steve Vaus
+Poway Mayor
+Dianne Jacob
+Former San Diego County Supervisor
+Linda Lindholm
+Laguna Niguel Mayor (Ret.)
+Brian Maryott
+Former Mayor of San Juan Capistrano
+Organizations
+Latino American Political Association
+Reform California
+California Latino Voter Alliance
+Lincoln Club of San Diego County
+Lincoln Club of Orange County
+New Majority of San Diego & Orange County
+Republican Party of San Diego County
+Republican Party of Orange county
+North County San Diego Republican Assembly
+California Women's Leadership Association Political Action Committee
+California Republican Party
+San Diego Young Republicans
+Coalition for Fair Employment in Construction
+Hispanic 100
+Republican National Hispanic Assembly
+Your support is the driving force behind this campaign.
+Whether it’s donating, or volunteering every action makes a difference.
+We're powered by grassroots efforts, not special interests, and every dollar you contribute helps us take this fight to Washington and bring real solutions back to the 48th Congressional District.
+I would be honored to have you stand with me.

@@ -1,0 +1,84 @@
+Our Policy Platform
+Every issue on this platform connects back to one core belief: Kent County deserves the same investment, ambition, and respect as every other part of Delaware.
+Strong communities are built on good jobs, safe housing, quality schools, accessible healthcare, and the freedom to build a life where you grew up.
+We can have all of that here — if we have the courage to fight for it.
+A Kent County That Leads
+Kent County is missing something other parts of Delaware take for granted: community infrastructure.
+The accessible, central spaces where neighbors build skills, find leaders, launch businesses, and connect across the differences that usually divide us.
+Tyeisha has spent her career building People Power across the state.
+It's time to build it here at home.
+We are also watching families lose homes that have been in their families for generations — inherited houses taken away because of skyrocketing property taxes and water bills they can't pay.
+That is the destruction of generational wealth, and it has to stop.
+I will fight to:
+- Bring a real community development model to Kent County.
+Inspired by what works in Wilmington — like REACH Riverside and The Warehouse — Kent deserves a central hub that brings leadership development, workforce training, youth programming, and small business support together under one roof.
+Accessible.
+Walkable.
+Open to everyone.
+A place like the Duncan Center could anchor it.
+- Push for state investment in major Kent County community development projects — mixed-use development, downtown revitalization, and transit-connected growth that creates jobs and housing in the same place
+- Build walkable, connected neighborhoods so people can live, work, shop, and gather without needing a car for every errand
+- Expand affordable and workforce housing across Kent so young people, working families, and seniors can all afford to stay
+- Create real economic pathways for Kent County young people — apprenticeships, career and technical education, small business support — so they don't have to leave the county to build a future
+Public Schools That Work for Every Student
+As a member of the Governor's Educational Equity Council, Tyeisha is already fighting for a public education system that serves every child, in every zip code.
+I will fight to:
+- Modernize Delaware's broken school funding formula so funding follows student need, not property values
+- Fully fund universal pre-K
+- Guarantee competitive pay for teachers, paraprofessionals, and support staff
+- Free school meals for every student in Delaware — no child should learn on an empty stomach
+Honoring Our Veterans
+Tyeisha served as a combat medic in the U.S.
+Army.
+She knows from her own life what it takes to come home and navigate systems that don't always meet veterans where they are — especially around mental health and PTSD.
+I will fight to:
+- Expand mental health and PTSD treatment for Delaware veterans, including peer support, trauma-informed care, and outreach to those who never enter the system
+- Strengthen Delaware's services for homeless and housing-insecure veterans
+- Improve coordination between state, federal (VA), and community veteran service organizations so veterans don't fall through the cracks
+- Support veteran-owned small businesses, especially in Kent County
+- Expand career, education, and transition pathways for service members coming home and their families
+- Address the distinct needs of women veterans and veterans of color
+Healthcare as a Human Right
+I will fight to:
+- Move toward a state-wide public health insurance option that covers every Delawarean
+- Lower prescription drug costs through direct price negotiation and rate-setting
+- Confront Delaware's maternal and infant mortality crisis, with targeted investment in Black, rural, and low-income communities
+- Treat addiction and mental health as public health issues, not criminal ones
+Housing People Can Afford
+I will fight to:
+- Protect longtime homeowners from tax spikes
+- Help first-time buyers with downpayment assistance
+- Build more homes — including workforce housing
+- Pass a Tenants' Bill of Rights with strong protections against unjust eviction and source-of-income discrimination
+- Direct public dollars toward affordable housing, not luxury development
+- Expand downpayment assistance and rent-to-own programs so working families can become homeowners
+- Strengthen protections for manufactured home communities, which are critical to Kent County's housing stock
+An Economy That Works for Working People
+Tyeisha was deeply involved in Delaware's Fight for $15 campaign.
+She knows what it takes to win wage gains for working people — and she's not stopping at $15.
+I will fight to:
+- Tie minimum wage to the cost of living so workers don't fall further behind every year
+- Strengthen unions and fight back against "right to work" laws
+- Hold corporations accountable when they receive public dollars: real community benefit, real local jobs, real accountability
+- Expand apprenticeships and workforce training, especially for Kent County youth
+Working Families First
+Tyeisha contributed to the Delaware Cares Coalition that won paid family and medical leave for Delaware workers.
+She'll keep fighting to make Delaware the best state in the country to raise a family.
+I will fight to:
+- 16 weeks of paid family and medical leave for all workers
+- Universal child care with a sliding-scale public option
+- Protect reproductive rights in the Delaware constitution
+Clean Air, Clean Water, Strong Communities
+Tyeisha helped pass the Climate Change Solutions Act, putting Delaware on a path to a cleaner, more resilient future.
+She'll keep fighting for the policies that protect Kent County's land, water, and people.
+I will fight to:
+- Pass a Green Amendment guaranteeing every Delawarean the right to a clean and healthy environment
+- Invest in renewable energy and the good union jobs that come with it
+- Protect Kent's farmland, water quality, and rural character from unaccountable industrial development
+- Build climate resilience for communities facing flooding and extreme weather
+A Democracy That Works
+I will fight to:
+- Establish civilian oversight of law enforcement with real subpoena power
+- Stand with our immigrant neighbors — keep ICE out of state and local facilities
+- Protect LGBTQIA+ Delawareans, including access to gender-affirming care
+- Expand voting access — protect vote-by-mail, same-day registration, and automatic voter restoration

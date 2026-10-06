@@ -1,0 +1,10 @@
+Dina Titus Launches Fall Ad Campaign With First Spot: “Never Back Down”
+8/30/2022
+Las Vegas, NV – Today Titus for Congress’s first TV ad of 2022, “Never Back Down,” began airing in the Las Vegas media market.
+The ad, which is the first General Election TV advertisement placed by a candidate for Congress in Nevada’s First District, kicks off a ten-week ad campaign that will run through Election Day, November 8.
+Watch “Never Back Down” here:
+The ad plays off of Dina Titus’s established reputation as a fighter for Southern Nevada and points to recent benefits she has delivered - even in the face of opposition from massive corporate interests - for working families in Nevada’s First District.
+In Congress, while Republicans celebrated skyrocketing profits for billionaire corporations, Dina Titus wasn’t afraid to take on Big Oil for its price gouging and helped pass The Consumer Fuel Price Gouging Prevention Act without a single Republican vote.
+And she took on Big Pharma by delivering the Inflation Reduction Act which allows Medicare to negotiate the price of drugs and lower costs for millions while also capping the cost of insulin.
+“My opponent has shown time and again that all he has to offer Southern Nevadans are the same old Republican talking points, and he’s counting on millions in dark money advertising to make his case,” said Congresswoman Titus.
+“What better way to show I won’t back down from this fight than with an ad that speaks to the battles I’ve won in Congress on behalf of the people of Southern Nevada.”

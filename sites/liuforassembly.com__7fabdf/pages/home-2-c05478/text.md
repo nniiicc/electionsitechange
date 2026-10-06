@@ -1,0 +1,47 @@
+¡Hagamos que California
+vuelva a brillar!
+Dedicado a servir a los habitantes del Distrito 49
+de California
+con integridad, firmeza y
+un compromiso con la
+victoria.
+Long David
+liu
+RECUPEREMOS
+CALIFORNIA
+UN LÍDER CON UNA VISIÓN PARA EL FUTURO DE NUESTRO DISTRITO
+Long David Liu ha dedicado su carrera al servicio de los demás, forjándose una reputación como abogado que antepone los resultados y como portavoz de todos los residentes del Distrito 49 de California.
+Gracias a su experiencia en políticas públicas y organización comunitaria, es consciente de que una gestión eficaz requiere tanto un profundo conocimiento de la ley como un enfoque pragmático.
+A lo largo de su trayectoria, David se ha centrado en cuestiones fundamentales que afectan a nuestra vida cotidiana: la seguridad ciudadana, la educación y la prosperidad económica.
+Como su representante en la Asamblea Estatal, Long David Liu aportará una perspectiva renovada y un compromiso inquebrantable con la integridad.
+California necesita un candidato decidido, capaz de conectar de verdad con todos los habitantes del distrito, independientemente de su origen étnico o religión.
+El objetivo de esta campaña es garantizar que el Distrito 49 siga siendo un lugar donde todas las personas tengan la oportunidad de prosperar.
+Juntos, podemos construir una California más fuerte y resiliente.
+Te presentamos a Long David Liu
+David Liu es un abogado con amplia experiencia y un líder comunitario.
+Con una trayectoria profesional basada en la responsabilidad fiscal y la defensa de los intereses de la comunidad, está comprometido con la promoción de un futuro que dé prioridad a una educación de calidad, un crecimiento económico sólido y un cambio duradero.
+David cree en un gobierno transparente que trabaje sin descanso por las familias y las pequeñas empresas, que son el corazón de nuestra comunidad.
+Su visión se basa en construir una California que funcione para todos, desde nuestros dinámicos centros tecnológicos hasta los servicios locales esenciales que nos mantienen seguros y conectados.
+Mi visión para el Distrito 49
+La seguridad pública, los derechos de los padres y la prosperidad económica deben ser prioritarios en California.
+Como abogado que lleva más de veinte años luchando por las comunidades multiétnicas desfavorecidas, he sido testigo de primera mano de la corrupción, la disfunción y la inacción que frenan el desarrollo de nuestros barrios.
+Como padre, amante de los animales y ciudadano, me presento para llevar a Sacramento un liderazgo responsable, una aplicación firme de la ley y una política económica favorable al crecimiento.
+El aumento de los impuestos en California perjudica a las familias y a las empresas a diario.
+Las cargas regulatorias expulsan puestos de trabajo y empresas de nuestro estado, lo que perjudica a los más vulnerables de nuestras comunidades.
+Lucharé contra las subidas de impuestos, eliminaré las barreras burocráticas y devolveré el dinero a sus bolsillos.
+Las políticas de seguridad pública equivocadas han permitido que los delitos queden impunes.
+Ustedes merecen sentirse seguros, protegidos y a salvo.
+Haré que los delincuentes rindan cuentas, respaldaré a la policía e introduciré soluciones humanitarias pero eficaces para la falta de vivienda.
+Bajo la actual administración, se exige a las escuelas que implementen políticas que restringen la participación de los padres.
+Son los padres, y no los burócratas, quienes saben lo que es mejor para sus hijos.
+Por el futuro de mi hijo de cinco años y de todos los niños del Distrito 49, crearé un sistema escolar transparente, basado en el mérito y no partidista.
+Con mi firme determinación, mi enfoque basado en el sentido común, mi experiencia jurídica y mi dominio de varios idiomas, representaré y abordaré eficazmente las preocupaciones de todos.
+Al haber obtenido el respaldo de Michael Antonovich, Michael Gates, Philip Chen, Burton Brink y Daniel Deng, les pido humildemente que me concedan también su confianza y su voto.
+Juntos, recuperemos la seguridad pública, los derechos de los padres y las oportunidades económicas en California.
+Voten por Long David Liu.
+ÚNETE A LA LUCHA
+RECUPEREMOS LA 49
+Juntos podemos construir un futuro más sólido y próspero para nuestra comunidad.
+Cada dólar cuenta para lograr una victoria para todos nosotros.
+Apoya la campaña por el Distrito 49 de California.
+Tu contribución directa impulsa nuestras iniciativas de acercamiento a la comunidad y nuestra labor de defensa de políticas.

@@ -1,0 +1,39 @@
+The House of Representatives and the Senate adopted the conference committee report on H.3357 and the bill was enrolled for ratification.
+The legislation allows for a HEARING IMPAIRMENT NOTATION ON A MOTOR VEHICLE REGISTRATION as a means of providing law enforcement officers with information that could prevent misunderstandings during traffic stops and other interactions.
+The legislation establishes a procedure that allows drivers who are deaf or hard of hearing to apply to the Department of Motor Vehicles to have a notation added to their private passenger‑carrying motor vehicle registration.
+This special motor vehicle registration notation would only appear when a law enforcement check is run on the vehicle’s license plate through the department’s online interface with law enforcement to alert the officer that the driver may be deaf or hard of hearing.
+The House concurred in Senate amendments to S.996 and the legislation was ratified and signed by the Governor.
+This joint resolution authorizes an EXTENSION OF SOUTH CAROLINA PUBLIC SERVICE COMMISSION CANDIDATE SCREENING to provide an opportunity to find additional qualified candidates to present to the General Assembly for election to the commission that oversees public utilities.
+The legislation authorizes an extension in screening for candidates for PSC Seats 1, 3, 5, and 7 that allows the Public Utilities Review Committee to accept applications for a time period beginning Monday, February 3, 2020, through noon on Friday, February 28, 2020.
+Provisions are made for advertising these positions.
+In screening candidates for the PSC and making its findings, the Review Committee is directed to find the best qualified people by considering candidates’ ability, dedication, compassion, common sense, and integrity as well as their race, gender, and other demographic factors to assure nondiscrimination, inclusion, and representation to the greatest extent possible of all segments of the population of this state.
+The House amended, approved, and sent the Senate H.4209, a bill that creates the SOUTH CAROLINA FARM AID FUND to receive appropriations from the General Assembly along with private donations and establishes a protocol for using this fund to operate a grant program for providing financial assistance to farmers should the state again experience disastrous flooding or another type of catastrophic weather event.
+Under the grant program, financial assistance is limited to farmers who experience a verifiable loss of agricultural commodities of at least forty percent due to a catastrophic weather event.
+A grant may not exceed twenty percent of the farmer’s verifiable loss with a total cap of one hundred thousand dollars.
+Grant awards must be used for agricultural production expenses and losses due to the catastrophic weather event which demonstrate an intent to continue the agricultural operation, such as the purchase of seeds and fertilizer.
+The financial assistance may not be used to purchase new equipment.
+A Farm Aid Advisory Board is established to make recommendations and assist the Department of Agriculture in the administration of the grant program.
+The House approved S.525 and enrolled the bill for ratification.
+The legislation eliminates the sunset date for an environmental impact fee so that it will no longer expire on December 31, 2026, and will instead continue to fund the SUPERB ACCOUNT, which is used to address environmental clean up costs should an underground petroleum tank leak.
+The House amended, approved, and sent the Senate H.4831, a bill STRENGTHENING LEGAL PROTECTIONS FOR NATIVE REPTILE AND AMPHIBIAN POPULATIONS to counter illicit trade operations that collect these animals, notably South Carolina’s box turtles, and export them for sale.
+With certain exceptions, the legislation makes it unlawful for someone to sell, purchase, trade, exchange, barter, export, ship, transfer the possession of, rehome, remove, or attempt to remove from this state any native reptile or amphibian species, including parts, products, eggs, offspring, and derivatives.
+The Department of Natural Resources is authorized to establish possession limits for reptile and amphibian species by regulation in order to protect designated species from commercial exploitation and other pressures on these populations.
+The legislation also includes provisions making it unlawful for someone to release from captivity wildlife that is not native to this state.
+The Department of Natural Resources is authorized to promulgate regulations to prohibit or otherwise restrict
+2
+certain species of nonnative wildlife in this State, including species that have the potential to become established in this state in sufficient numbers so as to become a nuisance and those that pose a demonstrable deleterious and widespread threat to wildlife, agriculture, or human health and safety.
+The legislation enhances penalties for violations.
+The House approved S.474 and enrolled the bill for ratification.
+The legislation revises catch limits and size limits for estuarine and saltwater finfish, to provide that it is unlawful for someone to take or have in possession more than ten SPADEFISH (Chaetodipterus faber) in any one day, not to exceed thirty spadefish in any one day on any boat.
+The legislation provides that it is unlawful to take, possess, land, sell, purchase, or attempt to sell or purchase spadefish of less than fourteen inches in total length.
+The House approved S.475 and enrolled the bill for ratification.
+The legislation revises catch limits and size limits for estuarine and saltwater finfish, to provide that it is unlawful for someone to take or have in possession more than three TRIPLETAIL (Lobotes surinamensis) in any one day, not to exceed nine tripletail in any one day on any boat.
+The legislation provides that it is unlawful to take, possess, land, sell, purchase, or attempt to sell or purchase tripletail of less than eighteen inches in total length.
+The House amended, approved, and sent the Senate H.4737, a bill revising PERSONAL WATERCRAFT AND BOATING SAFETY provisions by increasing distance limits between a watercraft operating in excess of idle speed upon certain lakes and rivers of this state and a moored or anchored vessel, wharf, dock, bulkhead, pier, or person in the water.
+The doubling, or in the case of Lake Wylie tripling, of the current fifty foot minimum distance requirement on these lakes and portions of rivers is offered to afford greater protection from wakes generated by personal watercraft, notably sport boats used for waterskiing and wakeboarding.
+The House amended, approved, and sent the Senate H.5018, a bill facilitating ELECTRONIC PROCESSING OF WATERCRAFT AND OUTBOARD MOTOR TITLES through the Department of Natural Resources.
+The legislation allows for the transmitting and receiving titles and liens and the discharging of liens online using electronic documents.
+If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
+Box 292434, Columbia, SC 29229.
+Thank you for the opportunity to serve you in the House of Representatives.
+KHG/jhm

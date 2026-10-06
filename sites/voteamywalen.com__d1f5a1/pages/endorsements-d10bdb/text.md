@@ -1,0 +1,249 @@
+ENDORSEMENTS
+Washington State
+Elected Officials
+Former Governor
+Gary Locke
+Former Governor
+Christine Gregoire
+Senator
+Mike Chapman
+Former Senator
+Guy Palumbo
+Representative
+Adam Bernbaum
+Representative
+Jake Fey
+Representative
+Melanie Morgan
+Representative
+Alicia Rule
+Former Representative
+Joan McBride
+Secretary of State
+Steve Hobbs
+Senator
+Annette Cleveland
+Senator
+Marko Liias
+US Congressman
+Adam Smith
+Former Senator
+Reuven Carlyle
+Representative
+My-Linh Thai (Deputy Majority Leader)
+Representative
+Lauren Davis
+Representative
+Debra Lekanoff
+Representative
+Kristine Reeves
+Representative
+Monica Stonier
+Former Representative
+Eric Pettigrew
+Lieutenant Governor
+Denny Heck
+Senator
+Drew Hansen
+Senator
+Jesse Salomon
+Former Senator
+Bill Finkbeiner
+Representative
+Dan Bronoske
+Representative
+Steve Bergquist
+Representative
+David Hackney
+Representative
+Greg Nance
+Representative
+Clyde Shavers
+Former Representative
+Gael Tarleton
+Senator
+Adrian Cortes
+Former Senator
+Mark Mullet
+Representative
+Mari Leavitt (Deputy Whip)
+Representative
+Debra Entenman
+Representative
+Dave Paul
+Representative
+Adison Richards
+Representative
+Sharon Tomiko-Santos
+- King County Councilmember Claudia Balducci
+- King County Councilmember Rod Dembowski
+- King County Councilmember Steffanie Fain
+- King County Councilmember Reagan Dunn
+- King County Councilmember Pete Von Reichbauer
+- Bellevue Mayor Mo Malakoutian
+- Bellevue Deputy Mayor Dave Hamilton
+- Bellevue City Council Member Lynne Robinson
+- Bellevue City Council Member Claire Sumadiwirya
+- Bellevue City Council Member Vishal Bhargava
+- Bellevue City Council Member Jared Nieuwenhuis
+- Kirkland City Council Member Jon Pascal
+- Kirkland City Council Member John Tymczyszyn
+- Kirkland City Council Member Jay Arnold
+- Former Kirkland City Council Member Tom Neir
+- Former Kirkland Mayor Joan McBride
+- Former Kirkland Mayor Penny Sweet
+- Former Kirkland Deputy Mayor Santos Contreras
+- Former Redmond City Council Member Hank Myers
+- Former Redmond City Council Member Hank Margeson
+- Former Redmond City Council Member Byron Shutz
+- Issaquah Mayor Mark Mullet
+- Woodinville Mayor Mike Millman
+- Burien Mayor Kevin Schilling
+- Former Snoqualmie Mayor Matt Larsen
+- Bellevue Planning Commission Chair Negin Khanloo
+- Bellevue Planning Commissioner Jonny Lu
+- Kirkland Human Services Commissioner Kobey Chew
+- Redmond Planning Commissioner Roy Captain (former)
+- Archana Verma
+- Sue Baugh
+- Sarah Langton
+- Pearl Leung
+- Catie Malik
+- Keri Pravitz
+- Orna Berryman
+- Bea Nahon
+- Robert C.
+Wallace
+- Wendy Dolan Garcia
+- Cassandra Sage
+- Santos and Sue Contreras
+- Jennifer Ohayon
+- Jeff Hoerth
+- Scott K.
+Morris
+- Glenn Peterson
+- Jackie Pendergrass
+- Dan Krehbiel
+- Bill and Becky Ballantine
+- Patty Leverett
+- Rob Butcher
+- Tom Pendergrass
+- Denise Campbell
+- Barbara Morgan
+- Shivani Jain
+- Kathe Fowler
+- Bonnie McLeod
+- Kathy Feek
+- Jim Hitter
+- Terry Stewart Jr.
+- Catherine Stanford
+- Karin Quirk
+- William Vadino
+- Chad Eddlemon
+- Gina Madeya
+- Jill Dolan
+- Karen Fabre
+- Dick Kite
+- Blair Daly
+- Beau Van Deren
+- Glen Simecek
+- Ben Slivka
+- Kristin Ford
+- Steve and Marilyn Pedersen
+- Fred Jarrett
+- James Hanusa
+- Carl Washington
+- Wendy Weiker
+- Barbie Collins Young
+- Mike Millman
+- Keri Pravity
+- Guy Palumbo
+- Matt Larson
+- Sarah Layton
+- Kevin Schuelz
+- Tony Mena
+- Thomas Markl
+- Margaret Meister
+- Kirsten Gregory
+- Donald Dicks
+- William Forrest
+- Brenda Nunes
+- David Ellenhorn
+- Joe Fain
+- Michael Conley
+- Lee Keller
+- Katherine A Olson
+- Craig Shepherd
+- John Potts
+- Sally Otten
+- Katelyn Starkweather
+- Dan Ryan
+- Krist Novoselic
+- Diane Haelsig
+- David Granger
+- Richard Camacho
+- Scott Landes
+- Valentin Caspaar
+- Lester Nero
+- Sheyla Naranjo
+- Richard Lerz
+- Wendy Espinoss
+- Sara Curlott
+- August Leinweber
+- Joseph Leinweber
+- Richard Newman
+- Robert Brueggeman
+- Coy Watson
+- Aurelio Samano Trujillo
+- Kimberly Johnson
+- Nicholas Durkin
+- Scott Corn
+- Joe Razore
+- Ramandeep Singh
+- Harpreet Sidhu
+- Linda Brueggeman
+- Kelly Defernez
+- Pamela Hynes
+- Philip Hymel
+- Richard Fade
+- Scott Jones
+- Michael Shaw
+- Ross Snyer
+- Aaron Bourgeois
+- Stan McNaughton
+- Thi Nguyen
+- Hewan Teshome
+- Diana Hernandez
+- Patrick Gilroy
+- Amber Vaughn
+- Becca Burghardi
+- Nick Mosely
+- Scott Atkison
+- Jason Crowley
+- Wendy Hull
+- Vlad Orlovskii
+- Brad Miller
+- Brad Smith
+- Eileen Vincent
+- Diana Thompson
+- Gunnar Nordstrom
+- Scott Waller
+- Jay Johnson
+- Andrea York
+- Reggie Ross
+- Michele Rosen
+- Walter Krueger
+- Paul Anderson
+- Glen Simecek
+- Gordon Bluechel
+- Patti Mann
+- Timothy Siegel
+- Eric Veach
+- Uzma Malik
+- Peter Bodin
+- Rachel Nahon
+- Delee Shoemaker
+- Mary Loes
+- Byron Peterson
+- Troy Finlayson
+- James Parker

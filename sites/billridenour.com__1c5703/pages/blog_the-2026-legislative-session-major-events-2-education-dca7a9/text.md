@@ -1,0 +1,25 @@
+The 2026 Legislative Session – Major Events #2: Education
+Ensuring competitive pay for our teachers, school personnel, State Police, and state workers remains a priority for the Legislature.
+HB 4765 provided a 3% pay raise for these public servants.
+The Senate also passed an amendment to HB 4765 that would have established a formula to measure local and regional income levels and provide additional compensation in areas facing significant cost-of-living differences.
+The Eastern Panhandle and Northern Panhandle delegations, along with a number of other legislators, fought hard for this proposal.
+Unfortunately, concerns were raised that the amendment could hurt the teacher retirement system, and enough delegates voted against it to prevent its adoption.
+I strongly objected to the continued misconception that the Eastern Panhandle is somehow filled with wealthy residents who do not face the same financial pressures as other West Virginians.
+The reality is that many of our teachers, school personnel, law enforcement officers, and working families struggle with housing costs and other expenses that are far higher than most of the rest of the state.
+This long-standing bias against the Eastern Panhandle must end.
+Our teachers and public servants deserve compensation that reflects the actual cost of living in our region.
+I made it clear that the Eastern Panhandle delegation will return next year with legislation modeled after the U.S. military's Variable Housing Allowance and Basic Allowance for Subsistence programs.
+We will get this through, as it is critical to taking care of our kids, teachers, school personnel, State Police, and state workers.
+School choice was also a critical issue during the session.
+Several bills were introduced that would have imposed major restrictions on the HOPE Scholarship Program, including HB 4961, SB 600, and HB 5249.
+These proposals would have limited choices and reduced flexibility for parents seeking the best educational opportunities for their children.
+The House Finance Committee considered a proposal that would have capped scholarship amounts, restricted payments to educational providers outside West Virginia, limited spending on tutoring and college-preparatory services, prohibited funding for many after-school and summer programs, and imposed numerous other restrictions on participating families.
+Such changes would have particularly harmed families in the Eastern Panhandle, where many parents rely on educational options located across state lines, due to limited available choices.
+Ultimately, the Republican Caucus rejected these proposed restrictions and preserved the core mission of the HOPE Scholarship Program: empowering parents to make educational decisions that best meet the needs of their children.
+The Legislature did enact HB 5686, which changed HOPE Scholarship distributions from two payments annually to quarterly payments.
+This change will help families better manage educational expenses throughout the school year and improve budgeting flexibility.
+I will continue working to ensure that our teachers, school personnel, State Police, and state workers remain priorities for the Legislature.
+We must provide compensation that allows them to live and work in Jefferson County and remain competitive with neighboring states and localities.
+I will also continue to defend educational choice and the rights of parents to determine the educational path that is best for their children.
+All of the bills mentioned can be accessed here - https://www.wvlegislature.gov/Bill_Status/Bill_Status.cfm
+Montani Semper Liberi

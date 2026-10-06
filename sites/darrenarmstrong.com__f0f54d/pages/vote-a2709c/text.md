@@ -1,0 +1,51 @@
+Vote for Darren Armstrong on March 3rd!
+Vote for conservative Republican Darren Armstrong in the March 3rd primary for North Carolina House of Representatives District 79, representing Beaufort, Pamlico, Hyde, and Dare counties.
+Need help learning where or how to vote?
+Need help getting to the polls?
+Send Us a Message
+"*" indicates required fields
+NC House District 79
+Our district is home to the following counties, zip codes, and towns.
+Beaufort County (including any that overlap with adjacent counties)
+27806 (Aurora)
+27808 (Bath)
+27810 (Belhaven)
+27814 (Blounts Creek)
+27817 (Chocowinity)
+27821 (Edward)
+27834 (Greenville)
+27837 (Grimesland)
+27860 (Pantego)
+27865 (Pinetown)
+27889 (Washington)
+27892 (Williamston)
+27962 (Plymouth)
+28586 (Vanceboro)
+Hyde County, NC
+27824 (Engelhard)
+27826 (Fairfield)
+27875 (Scranton)
+27885 (Swanquarter)
+27960 (Ocracoke)
+Pamlico County (including any that overlap with adjacent counties)
+28509 (Alliance)
+28510 (Arapahoe)
+28515 (Bayboro)
+28529 (Grantsboro)
+28537 (Hobucken)
+28552 (Lowland)
+28556 (Merritt)
+28560 (New Bern)
+28571 (Oriental)
+28583 (Stonewall)
+28587 (Vandemere)
+Southern Portion of Dare County (from Kill Devil Hills south to Hatteras)
+27948 (Kill Devil Hills)
+27959 (Nags Head)
+27968 (Rodanthe)
+27982 (Waves)
+27972 (Salvo)
+27915 (Avon)
+27920 (Buxton)
+27936 (Frisco)
+27943 (Hatteras)

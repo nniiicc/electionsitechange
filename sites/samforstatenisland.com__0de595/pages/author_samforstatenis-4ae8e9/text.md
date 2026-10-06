@@ -1,0 +1,4 @@
+Staten Island is getting screwed out of its cut of a $1.5 billion settlement drug companies agreed to pay toward overdose prevention – despite the “forgotten borough” being “Ground Zero” of the Big Apple’s opioid epidemic, a local pol claims.
+The city’s share of the whopping legal payout is being allocated only to facilities in the city’s hospital system — and Staten Island is the only borough without a city-run hospital, Republican Assemblyman Sam Pirozzolo told The Post.
+Pirozzolo plans to testify Monday in Albany, before a state-appointed board overseeing the fund, that Staten Island is getting a raw deal.
+“The intent of the New York State Opioid Settlement Fund was never meant to exclude any New Yorker based on their residence or lack of a city hospital,” says Pirozzolo, according to a copy of his testimony.

@@ -1,0 +1,32 @@
+Affordability
+Stopping Insurance Hikes
+Auto insurance, health insurance, and prescription costs are eating away at family budgets.
+Pesach will:
+- Strengthen oversight of insurance companies through the New York State Department of Financial Services
+- Require full transparency and justification before any rate increases are approved
+- Support a prior approval system so insurers cannot raise rates without state sign-off
+- Crack down on fraud in the no-fault system that drives up premiums for honest drivers
+Insurance should protect families — not drain their bank accounts.
+Holding Utility Companies Accountable
+Utility bills keep going up, and families are stuck paying the price.
+Pesach will:
+- Push for stronger state oversight of utility rate increases through the Public Service Commission
+- Require greater transparency before rate hikes are approved
+- Fight for relief programs for middle-class families, not just the lowest-income brackets
+- Oppose unnecessary fees and mandates that raise energy costs
+Basic utilities shouldn’t be a financial burden.
+Making Childcare More Affordable
+For many families, childcare costs feel like a second rent.
+Pesach will:
+- Expand childcare tax credits so middle-class families actually qualify
+- Increase state support to childcare providers to create more available seats in Queens
+- Support tax incentives for employers who offer childcare assistance
+Parents shouldn’t be forced to choose between working and raising their kids.
+Expanding Middle-Class Tax Relief
+Too many families make just enough to miss out on help — but still struggle to keep up.
+Pesach will:
+- Expand the Empire State Child Tax Credit to provide real relief to families
+- Raise the income thresholds so more middle-class families qualify for tax relief
+- Cut unnecessary state fees and hidden costs that add up every month
+- Oppose new taxes that make it harder to live and work in New York
+If you’re working hard and doing the right thing, the system should work for you — not against you.

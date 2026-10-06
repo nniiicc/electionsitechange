@@ -1,0 +1,6 @@
+ASSEMBLY MINORITY LEADER RA CELEBRATES RECOGNITION OF ELLEN ANDRASICK AS SENIOR CITIZEN OF THE YEAR
+May 26
+Assembly Minority Leader Ed Ra (R-Franklin Square) presented Nassau County Senior Citizen of the Year Ellen Andrasick with an official Assembly proclamation to commemorate her lifetime of service, leadership and commitment to helping others.
+Ellen represents the highest ideal of civic engagement, having served in multiple leadership roles in the Order Sons and Daughters of Italy in America, America Lodge 2245, as well as the Community League of Garden City South.
+She also played an active role in local schools, serving in the PTA and volunteering through youth programs.
+Ellen has also helped seniors in her community, supporting initiatives that expand access to tax relief programs and improve quality of life.

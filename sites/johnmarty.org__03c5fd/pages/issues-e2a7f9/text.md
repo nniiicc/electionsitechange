@@ -1,0 +1,4 @@
+Transportation
+Senator Marty supports improving our transportation infrastructure to enable people to get where they need to go, quickly, efficiently, and affordably, in a manner that addresses our climate crisis.
+This includes a significant increase in use of transit and designing our communities to make walking, biking, and other modes of transportation more convenient and available.
+He has supported increasing the gas tax to address highway and road maintenance, and pushes for other changes to make our transportation system safer, more efficient, and affordable.

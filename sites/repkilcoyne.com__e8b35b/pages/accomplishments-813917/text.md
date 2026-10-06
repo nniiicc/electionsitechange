@@ -1,0 +1,107 @@
+Meg’s Accomplishments
+In 2020, I promised that, on Day 1, I would hit the ground running to serve the 12th Worcester District.
+Now in my third term as your State Representative, look at what we have accomplished together thus far.
+Local Earmarks
+- $50,000 to the Town of Clinton for downtown beautification
+- $500,000 to the Town of Clinton in reimbursement for the water and sewer treatment plant and land use of the Wachusett Reservoir
+- $100,000 to the Town of Berlin for the purchase of advanced life support equipment for ambulances
+- $40,000 to the town of Boylston for Fire Department information technology upgrades
+- $100,000 to the Town of Lancaster for the replacement of HVAC at Thayer Memorial Library
+- $25,000 to the Town of Serling for rehabilitation and improvement work at 1935 Town Hall
+- $30,000 to the Town of Northborough for sidewalk and roadway projects
+- $100,000 to Wachusett Regional High School for the purchase of security cameras
+- $25,000 to the Town of Clinton for the downtown Clinton Mural Program
+- $500,000 to the Town of Clinton in reimbursement for the water and sewer treatment plant and land use of the Wachusett Reservoir
+- $50,000 to the town of Berlin for a firepole and associated construction at the Berlin Firehouse
+- $50,000 to the Town of Boylston for hosting a Municipal Police Training Academy
+- $45,000 to the Town of Lancaster for the construction of a new veterans monument in Lancaster Memorial Park
+- $75,000 to the Town of Sterling for the study of West Sterling Water Source Wells access road
+- $65,000 to the Town of Northborough for downtown public sidewalk improvement
+- $500,000 in reimbursement for the water and sewer treatment plant and land use of the Wachusett Reservoir to the Town of Clinton
+- $50,000 to the Town of Boylston for roof repairs at the Boylston Elementary School
+- $50,000 to the Town of Boylston for hosting the Municipal Police Training Academy
+- $50,000 to the Town of Lancaster for improvements to the Thayer Memorial Library
+- $30,000 to the Town of Northborough in support of enhancements in its downtown district
+- $25,000 to the Town of Clinton for sidewalk repairs at Depot Square
+- $25,000 to the Town of Sterling for the Council on Aging
+- $25,000 to the Town of Berlin for IT upgrades
+- $10,000 to the Town of Northborough for a law enforcement wellness program
+- $500,000 to the Town of Clinton for the Water and Sewer Treatment Plant and for land use of the Wachusett Reservoir
+- $75,000 to the Town of Clinton for sidewalk repairs at Depot Square*
+- $50,000 to the Town of Boylston for hosting the Municipal Police Training Academy
+- $50,000 to the Town of Berlin for updated fire equipment for the Fire Department*
+- $50,000 to the Town of Sterling for erosion control of the Town Beach
+*before 9C budget cuts
+- $500,000 to the Town of Clinton for the Water and Sewer Treatment Plant and for land use of the Wachusett Reservoir
+- $50,000 to the Town of Boylston for hosting the Municipal Police Training Academy
+- $50,000 to the Town of Northborough for the Lincoln St.
+Culvert Replacement
+- $30,000 to the Town of Lancaster for the World Farmers of Lancaster
+- $20,000 to the Town of Lancaster for a Nonemergency Ambulance Transportation Regional Pilot Program for prison mitigation
+- $500,000 to the Town of Clinton for the Water and Sewer Treatment Plant and for land use of the Wachusett Reservoir
+- $200,000 to the Town of Lancaster for Prison Mitigation
+- $50,000 to the Town of Boylston for hosting the Municipal Police Training Academy
+- $25,000 to the Clinton Senior Center for building improvements
+- $20,000 to 19 Carter for building improvements
+- $500,000 for RFK in Lancaster
+- $100,000 for the Clinton Strand Theater
+- $100,000 for Houghton Elementary School in Sterling
+- $100,000 for the Berlin Rail Trail
+- $75,000 for the Boylston Feasibility Study on the Senior Center and the Public Safety Center
+Legislation Passed
+- An Act prioritizing patient access to care
+- An Act regarding free expression
+- An Act Enhancing Child Welfare protections
+- An Act to improve Massachusetts home care
+- An Act promoting rule of law, oversight, trust and equal constitutional treatment
+- An Act relative to toxic-free medical devices
+- An Act honoring Blue Star families
+- An Act relative to violation of regulation regarding hot work processes
+- An Act relative to teacher preparation and student literacy
+- An Act facilitating better interactions between police officers and persons with autism spectrum disorder
+- An Act amending certain laws relative to individuals with disabilities
+- An Act modernizing the Commonwealth's cannabis laws
+- Health Insurance Funding for Public Employees
+- An Act relative to assault and battery upon a transit worker
+- An Act strengthening health care protections in the Commonwealth
+- An Act authorizing the town of Lancaster to dissolve its animal control commission
+- An Act changing the name of the board of selectmen in the town of Boylston to select board
+- An Act authorizing the town of Clinton to grant 6 additional licenses for the sale of alcoholic beverages to be drunk on the premises
+- An Act authorizing the continued employment of Steven A.
+Hilliger as a firefighter in the Town of Lancaster
+- Signed Into Law
+- H.4977, The Affordable Homes Act
+- H.4890, Salary Transparency Act
+- H.4172, The HERO Act
+- H.4672, The Parentage Equality Act
+- H.4101, Tax Relief Package
+- H.4885, Firearm Safety Reform
+- H.4889, The FutureTech Act
+- H.4744, An Act to prevent abuse and exploitation
+- H.3903, An Act amending the charter of the town of Northborough
+- H.3902, An Act relative to the select board of the town of Northborough
+- H.3727, An Act providing for an increase in the membership of select board in the town of Sterling
+- H.345, An Act authorizing the town of Berlin to grant up to two additional all alcoholic beverages licenses not to be drunk on the premises
+- H.2571, An Act exempting the position of police chief in the town of Lancaster from the provisions of the civil service law
+- H.3578, An Act validating the results of the annual town election held in the town of Lancaster
+- H.4701, An Act authorizing the commissioner of Capital Asset Management and Maintenance to convey certain parcels of land in the town of Lancaster
+- H.4975, An Act authorizing the Division of Capital Asset Management and Maintenance to convey certain land in the town of Lancaster to Robert F.
+Kennedy Community Alliance, Inc.
+- 2 Climate Bills: 2050 Roadmap and Offshore Wind
+- COVID Economic Relief: PPP Loans/UI Reforms
+- Reconstruction of Holyoke Soldiers Home
+- Restructured Governance of Holyoke Soldiers Home
+- Chapter 90 with $100M for roads and bridges
+- Redistricting
+- Sports Betting
+- Genocide Education
+- CROWN Act
+- $110M in Budget for Free School Meals
+- Streamlined Common Application for Benefits in MA
+- Reproductive Rights and Gender Affirming Care
+- Veterans SPEED Act
+- $11.3B Transportation and Infrastructure Bill
+- ARPA Spending Bill
+- Cannabis Equity
+- Mental Health Parity
+- Workplace and Family Mobility

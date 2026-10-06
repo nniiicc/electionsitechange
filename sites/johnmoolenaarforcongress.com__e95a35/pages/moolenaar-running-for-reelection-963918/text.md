@@ -1,0 +1,14 @@
+Phone: (989) 600 - 4163
+Email: john@johnmoolenaarforcongress.com
+January 26, 2026
+Moolenaar Announces Re-Election Campaign for Congress
+Today, Congressman John Moolenaar announced he is running for re-election in Michigan’s Second Congressional District.
+With Republicans leading in the House, real progress has been made to restore common sense in Washington and get America back on track.
+Over the past year, Republicans have delivered major wins for working families by cutting taxes, reining in inflationary spending, securing the border, and standing up to the Chinese Communist Party (CCP).
+Congressman Moolenaar has been at the forefront of these efforts, fighting to make America more affordable, strengthen national security, and protect Michigan communities.
+As Chairman of the Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party, Congressman Moolenaar has led the fight to confront the CCP’s aggression, including successfully opposing the Chinese-linked Gotion battery plant in Michigan.
+He has also worked to support farmers by pushing back on burdensome labor costs, protecting Michigan’s energy security through Line 5, and advancing legislation to improve patient safety and rural health care access.
+“It has been an honor to serve the people of Michigan’s Second District and deliver results that put families, farmers, and small businesses first.
+Republicans are delivering results that matter, lowering taxes, securing the border, strengthening national security, and making government work for the people,” Moolenaar said.
+“There is more work to do, and I am running for re-election to continue fighting for Michiganders and to keep America moving in the right direction.”
+For questions or other inquiries, please go to www.JohnMoolenaarForCongress.com, or e-mail John@JohnMoolenaarForCongress.com.

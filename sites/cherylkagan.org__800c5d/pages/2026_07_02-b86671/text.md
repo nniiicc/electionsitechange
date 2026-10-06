@@ -1,0 +1,3 @@
+July 2, 2026 WYPR By Sarah Petrowich The Maryland Board of Public Works has delayed approving a $109 million voting system overhaul after advocates and state lawmakers brought up concerns around the contract’s transparency and price tag.
+The State Board …
+Continue Reading

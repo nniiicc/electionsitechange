@@ -1,0 +1,102 @@
+Endorsements
+California Leaders and Trusted Organizations Endorse Marc Berman
+Join the campaign.
+Endorse Marc.
+Elected Officials
+- California State Superintendent of Public Instruction Tony Thurmond
+- California State Insurance Commissioner Ricardo Lara
+- Retired Congressmember Jackie Speier
+- Retired Congressmember Mike Honda
+- Retired Assemblymember Rich Gordon
+- Governor Gavin Newsom
+- U.S.
+Senator Alex Padilla
+- Congresswoman Anna Eshoo
+- Congressmember Kevin Mullin
+- Lt.
+Governor Eleni Kounalakis
+- California Attorney General Rob Bonta
+- California State Treasurer Fiona Ma
+- California State Controller Malia Cohen
+State & Federal
+- San Mateo County Supervisor Ray Mueller
+- San Mateo County Supervisor Warren Slocum
+- San Mateo County Supervisor Dave Pine
+- Santa Clara County District Attorney Jeff Rosen
+- Santa Clara County Sheriff Bob Jonsen
+- Santa Clara County Supervisor Cindy Chavez
+- Santa Clara County Supervisor Otto Lee
+- Ret.
+Santa Clara County Supervisor Liz Kniss
+- Ret.
+Santa Clara County Supervisor Ken Yeager
+- San Jose Vice Mayor Rosemary Kamei
+- San Jose Fmr Mayor Sam Liccardo
+- Palo Alto City Councilmember Julie Lythcott-Haims
+- Palo Alto Councilmember Vicki Veenker
+- Palo Alto United School District President Jennifer DiBrienza
+- Former Palo Alto Mayor Betsy Bechtel
+- Menlo Park Mayor Jen Wolosin
+- Menlo Park City Councilmember Drew Combs
+- Menlo Park City School District Vice President Francesce Segre
+- Las Lomitas Elementary School District President Jason Morimoto
+- Half Moon Bay Mayor Deborah Penrose
+- Half Moon Bay Vice Mayor Joaquin Jimenez
+- Half Moon Bay City Councilmember Robert Brownstone
+- Half Moon Bay City Councilmember Debbie Ruddock
+- Campbell Mayor Anne Bybee
+- Campbell City Councilmember Dan Furtado
+- Campbell City Councilmember Sergio Lopez
+- Saratoga Vice Mayor Yan Zhao
+- Saratoga City Councilmember Belal Aftab
+County & City
+- Woodside Mayor pro tem Ned Fluet
+- Woodside Councilmember Chris Shaw
+- Portola Valley Mayor Sarah Wernikoff
+- Portola Valley Councilmember Jeff Aalfs
+- Portola Valley Former Mayor Maryann Derwin
+- Portola Valley School Board Member Bob Bauer
+- Mountain View Vice Mayor Pat Showalter
+- Mountain View City Councilmember Ellen Kamei
+- Mountain View Mayor Alison Hicks
+- Mountain View City Councilmember Lucas Ramirez
+- Mountain View City Councilmember Emily Ann Ramos
+- Mountain View Whisman School District President Laura Ramirez Berman
+- Mountain View Whisman School District Vice President Devon Conley
+- Mountain View Whisman School District Board Member Laura Blakely
+- Mountain View Los Altos High School District President Dr.
+Phil Faillace
+- Mountain View Los Altos High School Clerk and Board Member Esme Ortiz
+- Los Altos Mayor Sally Meadows
+- Los Altos Vice Mayor Jonathan Weinberg
+- Los Altos City Councilmember Neysa Fligor
+- Los Altos City Councilmember Pete Dailey
+- Los Altos Hills School District Board of Trustees President Bryan Johnson
+- Los Altos School District Board Trustee and Former President Vaishali “Shali” Sirkay
+- Los Altos Hills City Councilmember Kavita Tankha
+- Los Altos Hills City Councilmember George Tyson
+- Pacifica Mayor Tygarjas Bigstyck
+- Pacifica Mayor Pro Tem Sue Vaterlaus
+- Pacifica City Councilmember Sue Beckmeyer
+- Pacifica City Councilmember Mary Bier
+- California Firefighters Local 2881
+- Planned Parenthood Advocates Mar Monte
+- Housing Action Coalition
+- California Teachers Association
+- California Democratic Party
+- Professional Engineers in California Government
+- Association of California State Supervisors
+- Dean Democratic Club of Silicon Valley
+- Democratic Activists for Women Now
+Organizations
+- California Environmental Voters
+- Sierra Club California
+- Democratic Activists for Women Now
+- Equality California
+- BAYMEC
+- California Young Democrats
+- Coastside Democratic Club
+- California High School Democrats
+- California Labor Federation
+- CFT - A Union of Educators and Classified Professionals
+- California State Retirees

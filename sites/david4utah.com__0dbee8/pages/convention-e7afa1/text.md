@@ -1,0 +1,1 @@
+2024 Convention Utah County GOP Convention Saturday, April 20, 2024 57% David Shallenberger 43% Holly Sweeten It was a privilege to get to know the delegates from the various precincts and discuss the issues important to them and our community.

@@ -1,0 +1,3 @@
+Lucy is proudly endorsed by…
+Endorsements are awarded by many organizations in the summer and fall, this page will continue to be updated throughout the year.
+Please check back!

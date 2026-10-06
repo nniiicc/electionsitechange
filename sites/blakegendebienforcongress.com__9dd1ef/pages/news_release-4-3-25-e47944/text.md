@@ -1,0 +1,22 @@
+ICYMI: North Country Dairy Farmer Blake Gendebien, Democrat for NY-21, Kicks Off Town Hall Series in Herkimer
+April 3, 2025
+Lisbon, NY – Last night, dairy farmer and small business owner Blake Gendebien hosted the first town hall of his campaign to represent NY-21 in Herkimer County.
+Speaking with over 70 community members, Gendebien highlighted his focus on protecting Social Security and VA benefits for seniors and veterans, lowering costs for working families, and running a campaign focused on getting things done for the North Country.
+See photos and videos from the event here
+On protecting Social Security, Medicare, and Medicaid, Gendebien said, “we know they’re already shutting down services for Social Security.
+People aren’t there on the other end of the telephone.
+Offices are closed.
+We need good support from our legislators, and that’s what I want to provide.”
+On newly enacted tariffs, Gendebien said, “they are going to not just hurt businesses along the St.
+Lawrence River – [they are] going to shut down businesses, and this affects everybody.” As a small business owner and farmer born and raised in the North Country, he added, “I understand what [people are] going through.
+I live where they live.”
+On school meals for kids, Gendebien discussed the importance of free school meals, saying “[My wife and I] were struggling to figure out how to afford clothes for all three kids, how to buy grain for our sixty cows at a time, and the school lunch program was really important to us, and I will certainly be supportive of maintaining that.”
+Gendebien’s formidable campaign forced President Trump last week to withdraw Congresswoman Elise Stefanik from her nomination as Ambassador to the U.N.
+Spokesperson Georgia Greenleaf:
+“While Washington politicians are busy playing political games instead of delivering for their constituents, Blake Gendebien is on the ground, listening to his community and addressing the concerns of the district.
+It’s clear: in Congress, Blake is ready to be a workhorse, not a show horse.”
+###
+Born and raised on a farm in the North Country, Blake and his wife Carmen have raised their three sons on the Twin Mill Farm in Lisbon, growing the farm to 500 head of cattle.
+Blake and Carmen also started The Jules of Life Foundation, which provides resources and support to North Country families battling pediatric cancer.
+For the past 10 years, Blake has served as the Vice Chair of the Cooperative Board of Agri-Mark where he represented the interests of farmers from across the region.
+He is a former member of the Lisbon Central School Board, and was a longtime junior varsity basketball coach.

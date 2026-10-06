@@ -1,0 +1,1 @@
+Mary Nesgoda for Minnesota House 22B/ News/ Mary Nesgoda and South Central Candidates Prioritize Farmers in 2026 Race/ Mary Nesgoda and South Central Candidates Prioritize Farmers in 2026 Race 16 April 2026 Watch on YouTube: https://www.youtube.com/watch?v=DRg0K_BsPRc

@@ -1,0 +1,23 @@
+Donald Trump, Jr. is Coming to Campaign with Addison McDowell All Across NC-06!
+Donald Trump, Jr. to Campaign with Addison McDowell Wednesday and Thursday This Week & Also Speak at County GOP Events
+February 20, 2024
+(Arcadia) - Donald Trump, Jr. will be in North Carolina on February 21-22 campaigning across NC-06 in support of Trump endorsed candidate Addison McDowell.
+While in NC supporting McDowell, Trump, Jr. will also speak at some county GOP events.
+Join Trump, Jr., Addison McDowell, and other local conservative leaders on the campaign trail at the following stops:
+Wednesday, February 21
+Event: Addison McDowell for Congress Rowan County GOTV Rally
+Time: 2:00 PM - 3:00 PM
+Location: City Tavern - Salisbury, 113 E Fisher St, Salisbury, NC 28144
+Event: Addison McDowell for Congress Davie County GOTV Rally
+Time: 4:00 PM - 5:00 PM
+Location: The Granary, 168 E Kinderton Way, Advance, NC 27006
+Event: Davidson County GOP Reagan Day Dinner
+Time: 6:00 PM - 8:00 PM
+Location: 2929 Hedrick Mill Rd, Lexington, NC 27292
+Thursday, February 22
+Event: Addison McDowell for Congress Forsyth County GOTV Rally
+Time: 9:30 AM - 10:30 AM
+Location: WillStella Farm, 518 Hastings Hill Road, Kernersville, NC 27284
+Event: Addison McDowell for Congress Davidson County GOTV Rally
+Time: 2:30 PM - 3:30 PM
+Location: Sides Contracting Co., 1010 American Way Lexington, NC 27295

@@ -1,0 +1,26 @@
+Since taking office, Assemblymember Karinés Reyes has delivered for the Southeast Bronx: from the floors of Albany to the streets of Parkchester, Castle Hill, Van Nest, and West Farms.
+She’s passed new laws, fought for immigrant families, secured critical infrastructure, and shown up for constituents every step of the way.
+This is her record.
+Getting Things Done in Albany
+Karinés doesn't just introduce bills.
+She gets them signed.
+Her legislative record reflects a commitment to workers, women, and the marginalized:
+Protecting Workers: Karinés championed the Retail Worker Safety Act, providing panic buttons and violence prevention plans for retail employees, and the Roadway Excavation Quality Assurance Act, guaranteeing prevailing wages for infrastructure workers.
+She also secured victory with the New York State Fashion Workers Act, ensuring basic labor protections for creatives and models.
+Fighting for Justice & Equity: She dismantled systemic bias by passing the "Incorrigible Bill," removing offensive language from Family and Education laws that historically targeted girls of color.
+To protect our most vulnerable, she enacted the BIPOC Missing Women & Girls Task Force Bill, forcing the state to address failures in missing persons cases for women of color.
+Investing in Education: From fighting for a tuition-free CUNY via the New Deal for CUNY to protecting students from state taxes on federal loan forgiveness, Karinés is removing the financial barriers to higher education.
+Healthcare as a Human Right: From protecting doctors and patients through the Abortion Shield Laws to banning toxic mercury in cosmetics—a critical issue for women of color—Karinés is ensuring healthcare is safe, accessible, and equitable.
+Worker Safety & Rights: In the wake of the pandemic, she authored the NY HERO Act, establishing the first airborne infectious disease standard for workplaces in the country to keep New Yorkers safe from communicable diseases.
+She continues to lead the fight for the New York for All Act to protect immigrants regardless of status and is pushing to increase income eligibility for SCRIE/DRIE to ensure our seniors can afford to stay in their homes.
+Delivered for Our Community
+Karinés knows that leadership isn't just about legislation, it’s about tangible results in the neighborhood.
+Infrastructure & Transit
+She organized the community to force the MTA to install a long-awaited elevator at the Parkchester 6 train station and has been a leading voice in securing the federal RAISE grant to begin the historic process of capping the Cross Bronx Expressway.
+Housing Stability
+She secured over $200 million in state funding to convert distressed hotels into supportive housing for low-income New Yorkers and recently unlocked $1.5 million in capital funds for the residents of Jamie Towers.
+Crisis Response
+During the height of COVID-19, Karinés didn't stay on the sidelines.
+She returned to the hospitals to aid overburdened Bronx medical staff and distributed tens of thousands of units of PPE and fresh produce to families struggling with hunger and illness.
+Fighting Hunger & Poverty
+From distributing tens of thousands of units of fresh produce during the pandemic to expanding SNAP benefits so that our seniors, disabled residents, and unhoused neighbors can purchase hot meals at local restaurants, Karinés is tackling food insecurity head-on.

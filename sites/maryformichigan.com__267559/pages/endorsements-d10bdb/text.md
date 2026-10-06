@@ -1,0 +1,56 @@
+Endorsements
+I’m proud to have earned the support of a number of different organizations and community leaders.
+To add your name to our growing endorsement list, click the button below!
+Labor Organizations
+- Michigan AFL-CIO
+- Michigan Regional Council of Carpenters and Millwrights
+- LiUNA Local 1191
+- Michigan Education Association
+- UAW Region 1
+- UAW Region 1A
+- Michigan Chapter of the American Federation of State, County, and Municpal Employees
+- Michigan Building and Construction Trades Council
+- SEIU Michigan
+- International Brotherhood of Electrical Workers, Local 58 Detroit
+- Bricklayers Local 2
+- Michigan Professional Firefighters Union
+- Michigan Nurses Association
+Local Elected Officials & Community Leaders
+- Congresswoman Rashida Tlaib
+- Detroit Mayor Mary Sheffield
+- Redford Twp.
+Supervisor Pat McRae
+- Lt.
+Governor Garlin Gilchrist II
+- Detroit City Council President James Tate
+- MDP Black Caucus Chair Keith Williams
+- Reverend Horrace Sheffield
+- Detroit Police Chief Todd Bettison
+- Detroit Police Commission Chair Darryl Woods
+- Detroit City Councilman Denzel McCampbell
+- Detroit Caucus Chair, State Representative Stephanie Young
+- Detroit City Council Member At-Large Mary Waters
+- Redford Township Trustee Linda Jackson
+- Redford Township Trustee Kim Taylor
+- Annie Mae Holt, President of Grandmont Neighborhood Association
+- Dawn Wilson-Clark, Local Organizer and Non-Profit Leader
+- Charity Dean, President, Michigan Black Business Alliance
+- State Senator Sylvia Santana
+- State Representative Donovan McKinney
+- Beverly Frederick, Past-President North Rosedale Park Community Association
+- Rachael Allen, Founder, Operations School
+- Wendell Byrd, Former State Representative
+Community Organizations
+- Mi List
+- Planned Parenthood 2026 Sexual and Reproductive Health Champion
+- Michigan's 13th Congressional Democrats
+- We the People Action Fund
+- Wayne County Democratic Black Caucus
+- Michigan League of Conservation Voters
+- Fannie Lou Hamer PAC
+- Mothering Justice Action Fund
+- Michigan 12th Congressional District Democrats
+- Equality Michigan
+- Michigan Democratic Party Grassroots Caucus
+- Michigan Association for Justice
+- Michigan Credit Union League

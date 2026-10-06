@@ -1,0 +1,1 @@
+Black Lives Matter Rally & Vigil at Memorial Field in Abington Jun 29, 2020 | 8th Congressional District, Advancing Equality, News & Updates Brockton Enterprise Click here to view photos https://www.enterprisenews.com/photogallery/WL/20200629/NEWS/628009986/PH/1 Share this: Share on Facebook (Opens in new window) Facebook Share on X (Opens in new window) X

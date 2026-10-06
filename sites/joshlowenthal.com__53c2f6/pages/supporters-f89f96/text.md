@@ -1,0 +1,125 @@
+Proudly Endorsed
+Josh's Supporters
+California Democratic Party
+Governor Gavin Newsom
+Attorney General Rob Bonta
+Los Angeles County Federation Of Labor AFL-CIO
+California Teachers Association
+UFCW Local 324
+California Nurses Association
+California Professional Firefighters
+Cal Fire 2881
+Mayor Robert Garcia
+Congressman Alan Lowenthal
+State Senator Lena Gonzalez
+Assemblymember Patrick O’Donnell
+Assembly Speaker Anthony Rendon
+Ret.
+California Attorney General Bill Lockyer
+Long Beach Councilmember Cindy Allen
+Long Beach Councilmember Mary Zendejas
+Long Beach Councilman Roberto Uranga
+Ret.
+Long Beach Mayor Bob Foster
+Long Beach Unified School Board President Juan Benitez, Phd.
+Long Beach School Boardmember Doug Otto
+Long Beach City College Trustee Herlinda Chico
+Signal Hill Mayor Keir Jones
+Water Replenishment District Board Member Vera Robles Dewitt
+California Small Business Association
+Equality California
+Sierra Club
+Planned Parenthood
+Women Of Long Beach
+Democrats For Israel - Los Angeles Chapter
+Carson Alliance 4 Truth
+Los Angeles Times
+Long Beach Press Telegram
+Daily Breeze
+Los Angeles County Democratic Party
+Long Beach Democratic Club
+Long Beach Young Democrats
+Yes We Can Democratic Club
+San Pedro Democratic Club
+Democratic Women's Study Club
+Progressive Democratic Club
+California Faculty Association
+California Federation Of Teachers
+Faculty Association Of California Community Colleges
+California School Employees Association
+SEIU State Council
+SEIU UHW
+AFSCME Local 3299
+National Union Of Health Care Workers
+Cal Fire Local 2881
+Professional Engineers In California Government
+District Council Of Ironworkers
+ILWU Southern California District Council
+Teamsters Joint Council 42
+International Brotherhood Of Electrical Workers Local 11
+International Union Of Operating Engineers Local 12
+International Union Of Painters And Allied Trades District Council 36
+Laborers Local 1309
+Laborers Local 652
+Ironworkers Local 416
+Ironworkers Local 433
+California State Retirees (CSR)
+California Labor Federation
+United Domestic Workers (UDW)
+CA Coalition Of Law Enforcement Organizations
+UA Local 250
+California State Insurance Commissioner Ricardo Lara
+California State Treasurer Fiona Ma
+Assemblymember Rebecca Bauer-kahan
+Assemblymember Marc Berman
+Assemblymember Richard Bloom
+Assemblymember Tom Daly
+Assemblymember Mike Fong
+Assemblymember Eduardo Garcia
+Assemblymember Jesse Gabriel
+Assemblymember Adam Gray
+Assemblymember Evan Low
+Assemblymember Kevin Mccarty
+Assemblymember Patrick O’donnell
+Assemblymember Cottie Petrie-norris
+Assemblymember Luz Rivas
+Assemblymember Robert Rivas
+Assemblymember Freddie Rodriguez
+Assemblymember James Ramos
+California Legislative Jewish Caucus Pac
+Ret.
+Assemblymember Autumn Burke
+Ret.
+Assemblymember Hector De La Torre
+Ret.
+Assemblymember Dario Frommer
+Ret.
+Assemblymember Warren Furutani
+Ret.
+Assemblymember Bonnie Lowenthal
+State Senator Ben Allen
+State Senator Tom Umberg
+State Senator Scott Weiner
+Congressmember Alan Lowenthal
+Ret.
+Congressmember Harley Rouda
+Huntington Beach Councilmember Kim Carr
+Huntington Beach Councilmember Dan Kalmick
+Ret.
+Huntington Beach Mayor Linda Moulton-patterson
+Ret.
+Cerritos Mayor Mark Pulido
+Los Angeles City Attorney Mike Feuer
+Los Alamitos Unified School Board Trustee Marlys Davidson
+Ocean View School District Board Member Gina Clayton-tarvin
+Ret.
+Westminster Councilmember Diana Carey
+Ret.
+Westminster Elementary School District Jamison Power
+Carmen O.
+Perez
+Ray Cordova
+Supervisor Janice Hahn
+Assemblymember Ash Karla
+Assemblymember Matt Haney
+Assemblymember Tasha Boener Horvath

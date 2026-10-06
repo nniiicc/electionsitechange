@@ -1,0 +1,2 @@
+Coffee Hour at Bread by Crispelli’s September 24, 2026 | 8-9:30 Join me at coffee hour to ask questions, talk politics, or just shoot the breeze!
+Bread by Crispelli’s 931 N Main St, Royal Oak ← Back To Events Other Events Coffee hour Oct 14 2026 Coffee Hour at Sabbath Coffee Roasters Royal Oak 8:00-9:30am See Event Info Coffee hour Oct 12 2026 Coffee Hour at Lucky Detroit Birmingham 8:00-9:30am See Event Info Coffee hour Oct 10 2026 Coffee Hour at Coffee & Bark 8:30-10:00 See Event Info

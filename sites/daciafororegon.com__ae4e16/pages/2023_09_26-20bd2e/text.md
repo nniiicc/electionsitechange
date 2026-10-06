@@ -1,0 +1,3 @@
+City of Salem to no longer challenge benefits to firefighter’s widow
+The city of Salem will no longer contest the benefits’ claim by the widow of a Salem firefighter, City Manager Keith Stahley announced during a City Council meeting Monday night…
+City of Salem to no longer challenge benefits to firefighter’s widow Read More »

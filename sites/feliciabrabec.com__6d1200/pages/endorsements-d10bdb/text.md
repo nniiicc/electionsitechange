@@ -1,0 +1,129 @@
+Endorsements
+Who Supports Felicia
+- AFSCME Michigan 925
+- LiUNA Local 499
+- Michigan AFL-CIO
+- Michigan Building and Construction Trades Council
+- Michigan Education Association
+- Michigan Nurses Association
+- Michigan Pipe Trades Association
+- Michigan Professional Firefighters Union
+- Michigan Regional Council of Carpenters and Millwrights
+- National Association of Social Workers – Michigan Chapter
+- Service Employees International Union (SEIU)
+- United Auto Workers Region 1A
+- United Steelworkers – District 1
+- Washtenaw County Skilled Building Trades Council
+- Committee to Protect Health Care
+- Emgage Action
+- End Gun Violence MI – Action Fund
+- Equality Michigan Action Network
+- GIFFORDS PAC
+- Her Bold Move
+- League of Conservation Voters
+- March On PAC
+- Michigan Association for Justice
+- Michigan Farm Bureau AgriPac
+- MiList
+- Rank MI Vote PAC
+- Realtor PAC
+- Reproductive Freedom for All
+- Roads+
+- Sierra Club
+- The Michigan Daily
+- Vote Mama
+- Voters Not Politicians Pro-Voter Designation
+- We The People Action Fund
+- Young Democrats of Michigan
+- State Senator and Chair of Appropriations Sarah Anthony
+- State Senator Darrin Camilleri
+- State Senator John Cherry
+- State Senator Paul Wojno
+- State Senator Stephanie Chang
+- State Senator Sue Shink
+- State Senator Rosemary Bayer
+- Former State Senator Liz Brater
+- Former State Senator and Ann Arbor City Council Member Tony Derezinski
+- Former State Senator Lana Pollack
+- Former State Senator Alma Wheeler Smith
+- State Representative Carrie Rhenigans
+- State Representative Jason Morgan
+- State Representative Jennifer Conlin
+- State Representative Jimmie Wilson Jr
+- State Representative Morgan Foreman
+- State Representative Samantha Steckloff
+- State Representative Stephanie Young
+- State Representative Reggie Miller
+- Former State Representative and Floor Leader Kathy Angerer
+- Former State Representative Bill Sowerby
+- Former State Representative Ronnie Peterson
+- Former State Representative Kirk Profit
+- Former State Representative and Floor Leader David Rutledge
+- Former State Representative Adam Zemke
+- Washtenaw County Prosecutor Eli Savit
+- Chief Assistant Washtenaw County Prosecutor Victoria Burton Harris
+- Washtenaw County Clerk Larry Kestenbaum
+- Washtenaw County Water Resources Commissioner Gretchen Driskell
+- Former Washtenaw County Water Resources Commissioner Janis Bobrin
+- Washtenaw County Commissioner Chair Katie Scott
+- Washtenaw County Commissioner Shannon Beeman
+- Washtenaw County Commissioner Andy LaBarre
+- Washtenaw County Commissioner Justin Hodge
+- Washtenaw County Commissioner Jason Maciejewski
+- Washtenaw County Commissioner Annie Somerville
+- Washtenaw County Commissioner and Former State Representative and Floor Leader Yousef Rabhi
+- Washtenaw County Road Commission Chair Barb Fuller
+- Washtenaw County Road Commissioner Jo Ann McCollum
+- Washtenaw County Road Commissioner Jeff Smrz
+- Former Washtenaw County Commissioner Leah Gunn
+- Former Washtenaw County Commissioner Ricky Jefferson
+- Former Washtenaw County Commissioner Conan Smith
+- Ann Arbor Mayor Christopher Taylor
+- Ann Arbor Mayor Pro Tem Travis Radina
+- Ann Arbor City Council Member Dharma Akmon
+- Ann Arbor City Council Member Erica Briggs
+- Ann Arbor City Council Member Jenn Cornell
+- Ann Arbor City Council Member Lisa Disch
+- Ann Arbor City Council Member Ayesha Ghazi Edwin
+- Ann Arbor City Council Member Jen Eyer
+- Ann Arbor City Council Member Kathy Griswold
+- Ann Arbor City Council Member Cynthia Harrison
+- Ann Arbor City Council Member Jon Mallek
+- Ann Arbor City Council Member Chris Watson
+- Former Ann Arbor Mayor John Hieftje
+- Former Ann Arbor City Council Member Jean Carlberg
+- Former Ann Arbor City Council Member Jason Frenzel
+- Former Ann Arbor City Council Member Julie Grand
+- Former Ann Arbor City Council Member Steve Kunselman
+- Former Ann Arbor City Council Member Joan Lowenstein
+- Former Ann Arbor City Council Member Margie Teall
+- Former Ann Arbor City Council Member Stephen Rapundalo
+- AAATA Board Member Mike Allemang
+- Saline Mayor Brian Marl
+- Former Saline City Council Member Jim Dell’Orco
+- Milan Mayor Pro Tem Shannon Wayne
+- Milan City Council Member Mary Kerkes
+- Milan City Council Member Josh Kofflin
+- Milan City Council Member Dave Snyder
+- Mayor Nicole Brown
+- Ypsilanti City Council Member Roland Tooson
+- Former Ypsilanti City Mayor Lois Richardson
+- Former Ypsilanti City Mayor Amanda Edmunds
+- Lodi Township Trustee Leslie Blackburn
+- Pittsfield Township Supervisor Trish Reilly
+- Pittsfield Township Clerk Michelle Anzaldi
+- Pittsfield Township Treasurer Chris Ekpiken
+- Pittsfield Township Trustee David Brabec
+- Pittsfield Township Trustee Yameen Jaffar
+- Pittsfield Township Trustee Courtney Mills
+- Former Pittsfield Township Supervisor Mandy Grewal
+- Former Pittsfield Township Treasurer Patricia Tupacz Scribner
+- Former Pittsfield Township Trustee Linda Edwards-Brown
+- Superior Township Trustee Brenda McKinney
+- Superior Township Trustee Dana Greene
+- Former Superior Township Trustee Rhonda McGill
+- Ypsilanti Township Supervisor Brenda Stumbo
+- Ypsilanti Township Treasurer Stan Eldridge
+- Ypsilanti Township Trustee Gloria Peterson
+- Ypsilanti Township Trustee Karen Lovejoy Roe
+- Ypsilanti Township Trustee LaResha Thornton

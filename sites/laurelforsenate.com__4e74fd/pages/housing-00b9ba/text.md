@@ -1,0 +1,15 @@
+AFFORDABILITY | HEALTHCARE | HOUSING | EDUCATION
+Housing
+Everyone should have a place to call home.
+Whether you're a senior hoping to stay in your home, a young adult trying to buy your first house, a working family struggling with rising rents, or a parent hoping your children can afford to stay in the community they grew up in, housing costs are affecting all of us.
+Rising housing costs, higher interest rates, increasing rents, and growing property tax burdens are making it harder for people to afford a place to call home.
+I believe we all deserve to have somewhere to retreat to, somewhere to decompress from our day, somewhere to prepare for what comes tomorrow, and somewhere to create our families and live out our dreams.
+I will work with local leaders, residents, and state partners to bring resources and practical housing solutions to our communities while respecting the character of each town.
+I support policies that will:
+- Expand housing options that help seniors remain in their communities
+- Support housing solutions that allow young adults to stay in the towns where they grew up
+- Promote housing stability for working families facing rising rents
+- Encourage the rehabilitation of existing homes and multi-family properties
+- Support thoughtful community development that reflects local character while creating housing opportunities for future generations
+- Reduce reliance on property taxes to fund education and other essential local services
+Because everyone should have a place to call home.

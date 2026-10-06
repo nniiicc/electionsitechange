@@ -1,0 +1,1 @@
+Democrats in extra-close South King County state Senate primary race appear headed toward recount Aug 12 Written By Upper Left Strategies Daniel Beekman SEATTLE TIMES Upper Left Strategies https://upperleftstrategies.com

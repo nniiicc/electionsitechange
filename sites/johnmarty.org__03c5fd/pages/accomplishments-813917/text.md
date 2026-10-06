@@ -1,0 +1,56 @@
+John Marty is a strong advocate for government ethics, environmental protection, and health care reform and has been a highly respected state senator for over 30 years.
+- Passed a ban on toxic flame retardants
+- Passed legislation creating a solar energy standard, nation-leading community solar gardens program, and planning for a carbon-free economy – led to an almost 100 fold increase in the amount of solar energy in Minnesota!
+- Assisted a Pollution Control Agency whistleblower (during the Pawlenty administration) regarding the public health hazards of perfluorinated chemicals, resulting in an award-winning American Radio Works documentary
+- Authored and passed legislation restoring the Universal Newborn Screening program, which had been dismantled
+- Passed ban on the antibacterial chemical, Triclosan, in soap and other cleaning products.
+- Passed legislation banning puppy mills
+- Passed legislation reforming the use of solitary confinement in prisons with the collaboration of mental health advocates
+- Passed legislation allowing cities statewide to organize solid waste collection for safety, environmental benefits, and less road damage
+- Created oversight of amusement park rides to protect people from serious injury or death
+- Passed Universal Newborn & Infant Hearing Screening Act, requiring that all hospitals test the hearing levels of babies upon birth.
+- Passed law requiring that all cigarettes be self-extinguishing when left to smolder
+- Passed authorization for nurses to dispense oral contraceptives in family planning clinics
+- Passed provision to get funding for removal of lead water pipes through a personal appeal to every single member of the Senate Republican majority in 2020
+- Authored and passed anti-groping law to remove a loophole from Minnesota’s sexual assault statutes
+- Passed bonding and funds for the new Bell Museum
+- Passed Como Zoo bonding to create new Como Harbor Amphitheater and Discovery Zone
+- Authored and passed innovative “Benefit or B-Corporation” law to encourage mission-oriented business activities
+- Passed DWI legislation to reduce BAC to .08
+- Passed first-in-the-nation ban on smoking in hospitals and medical facilities
+- Passed ban on smoking in childcare centers
+- Created first-in-the-nation telecommunications service for people with hearing and speech impairments
+- Passed ground-breaking government ethics legislation
+- Passed legislation restricting lobbyist and PAC campaign contributions, and strengthening Minnesota’s campaign finance laws
+- Passed ban on virtually all consumer goods containing mercury
+- Authored legislation and successfully advocated for the biggest increase in funding for mental health services in the history of the state
+- Authored and passed legislation to support for children aging out of foster care
+- Passed bill regulating all-terrain vehicle (ATV) use on public lands
+- Fought off Republican efforts to give Koch Refining and other industrial polluters big rebates from the Renewable Development Fund which supports clean energy development in Minnesota
+- Persuaded DHS to drop its foolish prior authorization for a critical anti-addiction drug
+- Put spotlight on Senate Republican inaction on Chronic Wasting Disease (CWD) with a bill amendment, which led to an award from Bluffland Whitetails Association and other deer hunter groups
+- Successfully pressured DHS to make an essential administrative change to help low income people access dental care
+- Lead Senate negotiator on Governor Dayton’s shoreland buffer legislation to reduce erosion and increase water quality
+- Helped expose and prevent efforts to defund the MN Historical Society by Republicans who were opposed to signs at Fort Snelling referencing Bdote, the Dakota name for the area surrounding the confluence of the Minnesota and Mississippi rivers, a site of major social, cultural and historic significance for over 10,000 years
+- Led efforts to expose overpayments to HMOs in Minnesota’s “managed care” programs
+- Authored numerous bills expanding absentee voting, voting by mail, and other laws to expand access to voting
+- Eliminated delays in providing protection for seniors through licensing for assisted living
+- Passed legislation protecting private addresses in notifications given after car crashes
+- Coauthored and helped pass Alec Smith Insulin law
+- Passed Pharmacy Benefit Manager regulation
+- Ensured investment in UMN’s Forever Green Initiative to increase perennial and cover crop vegetation in agriculture
+- Passed legislation creating the Working Lands Watershed Restoration Program to incentivize planting of water-friendly perennial crops
+- Passed legislation reducing the exorbitant amount families pay for medical services for children with developmental disabilities
+- Increased oversight of internet sales of highly addictive, dangerous medications
+- Passed legislation improving access to medications to control sexually transmitted diseases.
+- Successfully amended out industry-created loopholes in a bill restricting the use of trichloroethylene, or TCE, a toxic chemical
+- Passed bill increasing consumer protections for manufactured home owners.
+- Passed bill prohibiting insurance companies from rating previous C-section deliveries as a pre-existing condition to deny coverage to women.
+- Created youth violence prevention programs for at-risk youth.
+- Passed legislation delivering a formal state apology to people with disabilities for past mistreatment and violation of their human rights.
+- As chair of the Health Committee, helped pass the Advanced Practice Dental Hygienist law, creating a mid-level dental practitioner to improve low-income people's access to dental care.
+- Through constituent services work uncovered that low income housing agencies across the state were inappropriately assessing fees to low-income residents, which led to the Department of Revenue regulations to end the practice
+- Helped expose a Minnesota Department of Health (during the Pawlenty administration) cover-up of an increased incidence of mesothelioma, a rare type of lung cancer, among miners on the Iron Range.
+- Forced the Pollution Control Agency (under the Pawlenty administration) to discontinue the operating permit for a large animal feedlot that was blatantly ignoring the law, causing serious health problems to neighboring farm families and major environmental harm.
+…In total, Senator Marty has passed literally thousands of provisions into state law, many of them first-in-the-nation ideas, many of them addressing serious social, environmental, public safety, health, educational, and economic problems in society.
+That’s why so many organizations have given Senator Marty awards for his outstanding leadership.

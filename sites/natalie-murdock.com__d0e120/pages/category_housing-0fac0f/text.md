@@ -1,0 +1,3 @@
+by Natalie Murdock | Feb 7, 2020 | Housing, Women of Color
+When it comes to the safety and well-being of women of color in Durham, NC they are still facing many obstacles both in the workplace and in terms of finding quality and affordable housing.
+Despite being incredibly vital to the U.S. economy, African American women...

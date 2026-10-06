@@ -1,0 +1,9 @@
+Endorsements
+Endorsements and Awards
+Nancy’s endorsements received through Sept. 30, 2026
+Oregon Consumer League Action Fund, Oregon Nurses Association, Sierra Club, Oregon League of Conservation Voters, Basic Rights Oregon PAC, Stand for Children, Humane Voters Oregon, Oregon AFL-CIO, North Coast States Carpenters Union, Oregon State Council for Retired Citizens, Oregon Education Association, Oregon Coalition of Police and Sheriffs (ORCOPS), Oregon State Building and Construction Trades Council, SEIU, Oregon School Employees Association, AFSCME Council 75, American Federation of Teachers-Oregon, Oregon Chiefs of Police Association, Oregon State Firefighters Council, Planned Parenthood PAC of Oregon, Sheriffs of Oregon, UA 290 Plumbers, Steamfitters, Oregon Federation of Nurses and Health Professionals
+U.S.
+Senator Jeff Merkley, U.S.
+Senator Ron Wyden, and Sen.
+James I Manning, Jr.
+Award of distinction from Moms Demand Action

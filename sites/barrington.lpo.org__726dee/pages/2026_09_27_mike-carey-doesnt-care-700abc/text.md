@@ -1,0 +1,18 @@
+Mike Carey doesn’t care…
+…that he’s holding joint fundraisers with a violent abuser.1
+…that as “Vice President of Government Affairs” at Murray Energy, he led the company to give a $100,000 bribe to Larry Householder.2
+…how much arsenic, mercury, and lead are leaking from coal ash into your water supply.3
+…that migrants in Ohio are living on your tax dollars.
+…that fuel & food prices are soaring because of Trump’s tariffs and wars.
+…that Trump is selling pardons to scammers, embezzlers, drug dealers, and corrupt politicians, and influence to foreign dictators.
+…that Trump is funneling your money to his businesses and investments via Secret Service hotel rooms, private prison cells for ICE, drone makers, and more.
+…that his party’s fiscal policies have the deficit at $1.8 trillion, and America on a path to debt crisis and financial collapse.
+…that other candidates have the right to challenge him in elections, not be kept off the ballot by frivolous, perjurious protests4.
+…to hold town halls and hear concerns about any of this from the people who elected him.
+- Representative Max Miller is accused in court of holding a gun to his wife’s head, throwing boiling water on her, and deliberately breaking their daughter’s collarbone.
+With full knowledge of this, Mike Carey co-hosted a fundraiser with him. ↩︎
+- Larry Householder was the Speaker of the Ohio House of Representatives, and is now an inmate in federal prison serving a 20-year sentence for racketeering.
+He and his cronies in the House took $60 million in bribes and illegal campaign contributions from FirstEnergy and other companies, including Murray Energy (whose executives claimed they had no idea what it was for), to give its power plants a billion-dollar bailout paid by raising your electric bills. ↩︎
+- Carey, during his twenty years as a coal lobbyist, testified in opposition to reporting on such leakage of toxic substances.
+Also while working for Murray Energy, he repeatedly claimed in the media that a mine collapse which killed nine people was due to an earthquake, but courts found Murray Energy liable for the wrongful deaths and safety failures. ↩︎
+- See the bottom of the linked article for the relevant information. ↩︎

@@ -1,0 +1,9 @@
+Radio Ad Transcripts 2018
+“Hi, this Keri Heintzeman, and I’m Linda Lueck.
+Our husbands, Representatives Josh Heintzeman and Dale Lueck work hard every day for the citizens of Aitkin and Crow Wing County.
+Josh and Dale get things done.
+They reduced taxes on our seniors, young families, and small businesses.
+They put new money into roads and bridges without raising the gas tax.
+Josh and Dale are experienced, effective leaders, not to mention great husbands, and fathers.
+Let’s make sure we keep Josh and Dale working for us in Saint Paul.
+Paid for by the Committees to Elect Dale Lueck and Josh Heintzeman”

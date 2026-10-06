@@ -1,0 +1,124 @@
+Endorsements
+Lieutenant Governor Eleni Kounalakis
+State Controller Malia Cohen
+State Insurance Commissioner Ricardo Lara
+State Superintendent of Public Instruction Tony Thurmond
+State Treasurer Fiona Ma, CPA
+Senate Assistant Majority Leader Susan Eggman
+Senator Angelique Ashby
+Senator Marie Alvarado-Gil
+Assembly Speaker pro Tempore Cecilia Aguiar-Curry
+Assemblymember Blanca Rubio
+Assemblymember Gail Pellerin
+Assemblymember Esmeralda Soria
+Assemblymember Dr.
+Akilah Weber
+Assemblymember Tina McKinnor
+Assemblymember Jasmeet Bains
+Assemblymember Rebecca Bauer-Kahan
+California Board of Equalization Chair Antonio Vazquez
+Alhambra Mayor Ross Maza
+Azusa Mayor Robert Gonzales
+Azusa Mayor Pro Tem Dennis Beckwith
+Azusa Councilmember Jesse Avila Jr.
+Azusa Councilmember Andrew N.
+Mendez
+Azusa Councilmember Edward J.
+Alvarez
+Baldwin Park Mayor Emmanuel J.
+Estrada
+Baldwin Park Councilmember Daniel Damian
+Baldwin Park Councilmember Alejandra Avila
+Baldwin Park City Clerk Christopher Saenz
+Baldwin Park City Treasurer Joanna Valenzuela
+Baldwin Park Planning Commissioner Mario Maciel Jr.
+Baldwin Park Planning Commissioner Erik Peña
+Covina Mayor Pro Tem John King
+Covina Councilmember Patricia Cortez
+Covina Councilmember Hector Delgado
+Covina Councilmember Victor Linares
+Duarte Mayor Jody Schulz
+Duarte Mayor John Fasana (Ret.)
+Duarte Mayor Pro Tem Vinh Truong
+Duarte Councilmember Margaret Finlay
+Duarte Councilmember Tera Martin Del Campo
+Duarte Councilmember Cesar Garcia
+Duarte Councilmember Toney Lewis
+El Monte Mayor Pro Tem Martín Herrera
+El Monte Councilmember Marisol Cortez
+El Monte Councilmember Alma Puente
+El Monte Councilmember Richard Rojo
+El Monte Councilmember Dr.
+Julia Ruedas
+Irwindale Mayor Pro Tem Albert F.
+Ambriz
+Irwindale Councilmember Mark A.
+Breceda
+Irwindale Councilmember Manuel R.
+Garcia
+La Verne Mayor Tim Hepburn
+Monrovia Mayor Becky Shevlin
+Monrovia Mayor Tom Adams (Ret.)
+Monrovia Mayor Rob Hammond (Ret.)
+Monrovia Mayor Lara Larramendi (Ret.)
+Morovia Councilmember Sergio Jimenez
+Monterey Park Mayor Jose Sanchez
+Monterey Park Mayor Pro Tem Thomas Wong
+Monterey Park Councilmember Henry Lo
+Monterey Park Councilmember Vinh T.
+Ngo
+Monterey Park Councilmember Yvonne Yiu
+Pomona Mayor Tim Sandoval
+Rosemead Mayor Steven Ly
+Rosemead Councilmember Sandra Armenta
+Rosemead Councilmember Sean Dang
+Rosemead Councilmember Polly Low
+South El Monte Mayor Gloria Olmos
+South El Monte Mayor Pro Tem Richard Angel
+South El Monte Councilmember Manuel Acosta
+South El Monte Councilmember Rudy Bojorquez
+South El Monte Councilmember Hector Delgado
+West Covina Councilmember Letty Lopez-Viado
+West Covina Mayor Dario Castellano (Ret.)
+West Covina Mayor Lloyd Johnson (Ret.)
+West Covina Mayor Corey Warshaw (Ret.)
+Azusa Unified School District Board President Sabrina Bow
+Azusa Unified School District Board Member Adrian Greer
+Baldwin Park Unified School District Board President Diana E.
+Miranda-Dzib
+Baldwin Park Unified School District Board Clerk/Vice President Christina Lucero
+Baldwin Park Unified School District Board Member Santos Hernandez, Jr.
+Charter Oak Unified School District Board President Cristian Aguilar
+Charter Oak Unified School District Board Vice President Kristin McGuire
+Charter Oak Unified School District Board Trustee Jeanette Flores
+El Monte City School Board President Lisette Mendez Garcia
+El Monte City School Boardmember Jennifer Cobain
+El Monte City School Boardmember David Siegrist
+El Monte Union High School Board President Ricardo Padilla
+El Monte Union High School Board Vice President H.
+Esthela Torres de Siegrist
+El Monte Union High School Board Clerk Qui Nguyen
+El Monte Union High School Boardmember Carlos Salcedo
+Monrovia Unified School District Board Clerk Rob Hammond
+Monrovia Unified School District Board Member Maritza Travanti
+West Covina Unified School District Board President Michael Flowers
+West Covina Unified School District Boardmember Eileen Miranda Jimenez
+San Gabriel Commissioner George Eli Herrera
+Upper San Gabriel Valley Municipal Water District Board President Jennifer Santana
+Upper San Gabriel Valley Municipal Water District Board Vice President Dr.
+Anthony Fellow
+Upper San Gabriel Valley Municipal Water District Board Secretary Ed Chavez
+Upper San Gabriel Valley Municipal Water District Board Director Charles Treviño
+Valley County Water District Board President Javier Vargas
+Valley County Water District Board Vice President Jazmin Leos
+Valley County Water District Board Director Ralph Galvan
+Valley County Water District Board Director David Muse
+California Teachers Association / National Education Association
+Equality California
+Honor PAC
+National Union of Healthcare Workers (NUHW)
+Democrats for Israel California
+Southern California Armenian Democrats (SCAD)
+Azusa Police
+Covina Police Department
+El Monte Police Officers Association

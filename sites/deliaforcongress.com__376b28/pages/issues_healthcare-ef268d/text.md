@@ -1,0 +1,21 @@
+Healthcare
+ROOTED
+Growing up in a working family where affordable healthcare was not always available, Delia knows personally the difficult healthcare choices families make every day.
+She believes that no one should have to choose between a life-saving medicine or keeping a roof over their heads.
+Our healthcare system should exist to save lives and address people’s needs, and not to deliver massive profits to investors and pharmaceutical companies.
+Delia has been a leader in the fight to make sure everyone has access to healthcare including championing historic expansions of Medicaid and co-sponsoring laws to reduce racial disparities in our healthcare system.
+READY
+As Congresswoman, Delia is a champion for getting health care costs down, including supporting Medicare for All.
+She is taking on the pharmaceutical and for-profit medical industries by championing legislation to lower the cost of healthcare and prescription drugs.
+She advocates for increased healthcare access until we ultimately get Medicare for everyone, so no one is denied the care they need.
+RESULTS
+In Congress, Delia has:
+- Co-sponsored the Medicare for All Act to guarantee that everyone has access to life-saving healthcare under a single-payer model
+- Co-sponsored the Health Equity and Access under the Law for Immigrant Families Act of 2023 to reduce barriers that immigrants face to enrolling in healthcare
+- Co-sponsored the Nurse Staffing Standards for Hospital Patient Safety and Quality Care Act of 2023 to guarantee that hospitals have safe nurse-to-patient staffing ratios
+- Co-sponsored the Stop the Wait Act of 2023 to remove the disability insurance benefits waiting period for patients with disabilities
+As State Representative, Delia:
+- Wrote and passed a law that extends Medicaid to all low-income people over the age of 42, making Illinois the first state in the nation to grant healthcare access to seniors regardless of immigration status
+- Supported and co-sponsored legislation to lower the costs of life-saving prescription drugs
+- Supported historic legislation championed and passed by the Illinois Black Caucus to address racial disparities in the IL healthcare system
+- Pushed for a law to require a maximum number of patients per nurse, so we are putting patient care ahead of hospital profits

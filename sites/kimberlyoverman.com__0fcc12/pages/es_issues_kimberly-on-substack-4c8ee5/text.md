@@ -1,0 +1,32 @@
+Kimberly Overman: «
+» para el Congreso
+Distrito 12 de Florida
+Kimberly en Substack
+Kimberly escribe con regularidad en Substack, donde aborda los problemas a los que se enfrenta el distrito FL-12 con sus propias palabras, sin argumentos prefabricados ni filtros de prensa.
+Si quieres saber cuál es su postura respecto a un tema concreto, ese es el lugar donde debes buscar.
+Esta es mi postura: mi programa electoral para el 12.º distrito congresional de Florida – 15 de agosto de 2026 – Un liderazgo que escucha.
+Soluciones que importan.
+Una guía para el votante de Kimberly Overman, candidata demócrata al Congreso por el distrito 12 de Florida.
+La crisis de la asequibilidad es real: vivienda, seguros, cuidado infantil, transporte y oportunidades – 13 de agosto de 2026 – La postura de Kimberly Overman sobre la vivienda asequible, el coste de la vida y las oportunidades económicas.
+Justicia penal, seguridad ciudadana, prevención de la trata de personas e igualdad de trato ante la ley – 13 de agosto de 2026 – La postura de Kimberly Overman sobre la justicia penal, la seguridad ciudadana y la igualdad de trato ante la ley.
+El Gobierno debe trabajar para el pueblo, no para intereses particulares – 12 de agosto de 2026 – La postura de Kimberly Overman, candidata demócrata al Congreso por el distrito 12 de Florida en la Cámara de Representantes de EE.
+UU., sobre ética, rendición de cuentas, reforma de la financiación de campañas electorales y el restablecimiento de la confianza en el Gobierno
+La asistencia sanitaria no debería depender del código postal, el empleo, el género ni los ingresos – 11 de agosto de 2026 – La postura de Kimberly Overman sobre la asequibilidad de la asistencia sanitaria y el acceso a la salud reproductiva
+La resiliencia climática es asequibilidad – 11 de agosto de 2026 – La postura de Kimberly Overman sobre el clima, el agua limpia, la resiliencia y la justicia medioambiental
+Oportunidades, representación y respeto – 11 de agosto de 2026 – La postura de Kimberly Overman respecto a las comunidades hispanas y latinas, las oportunidades y la representación
+Política exterior, derechos humanos, seguridad nacional y liderazgo responsable de EE.
+UU. – 11 de agosto de 2026 – La postura de Kimberly Overman sobre política exterior, derechos humanos y liderazgo responsable de EE.
+UU.
+La democracia funciona cuando cada votante tiene voz – 11 de agosto de 2026 – La postura de Kimberly Overman sobre el derecho al voto, la distribución equitativa de las circunscripciones y la protección de la democracia
+Fronteras sólidas, leyes justas y dignidad humana – 11 de agosto de 2026 – La postura de Kimberly Overman sobre la inmigración, el debido proceso y la unidad familiar
+La educación genera oportunidades – 11 de agosto de 2026 – La postura de Kimberly Overman sobre la educación pública, el profesorado, las oportunidades para los alumnos y la preparación para el mundo laboral
+Una promesa debe ser una promesa – 11 de agosto de 2026 – La postura de Kimberly Overman sobre la Seguridad Social, Medicare, las pensiones y la seguridad en la jubilación
+Los trabajadores merecen unos dirigentes que sepan escuchar – 11 de agosto de 2026 – La postura de Kimberly Overman sobre el trabajo, los salarios y los derechos de los trabajadores
+Proteger a las mujeres, a las familias y la libertad – 11 de agosto de 2026: la postura de Kimberly Overman sobre los derechos de las mujeres, la libertad reproductiva y la Enmienda sobre la Igualdad de los Derechos (ERA)
+Impulsa una campaña que se nutra de la gente, no de intereses particulares.
+Tu apoyo nos ayuda a conectar con los votantes, hacer crecer nuestro movimiento y lograr un cambio real.
+Haz tu donación hoy mismo para ayudar a Kimberly a luchar por las familias y el futuro de Florida.
+Este movimiento comienza
+contigo.
+Tanto si puedes ir de puerta en puerta, hacer llamadas o difundir nuestro mensaje por Internet, hay un lugar para ti en el Equipo Overman.
+Inscríbete y ayúdanos a devolver la integridad y los resultados al Congreso.

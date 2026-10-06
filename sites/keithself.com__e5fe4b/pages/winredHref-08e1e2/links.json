@@ -1,0 +1,11 @@
+[
+"https://keithself.com/endorsements",
+"https://keithself.com/issues",
+"https://keithself.com/meet-keith",
+"https://keithself.com/wp-content/uploads/2025/05/Privacy-Policy.pdf",
+"https://keithself.com/wp-content/uploads/2025/05/Terms-and-Conditions.pdf",
+"https://keithself.com/{{ iss.href }}",
+"https://keithself.com/{{ t.href }}",
+"https://keithself.com/{{ winredHref }}",
+"https://secure.winred.com/self-for-congress/donate"
+]

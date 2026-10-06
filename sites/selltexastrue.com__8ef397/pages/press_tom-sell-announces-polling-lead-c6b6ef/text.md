@@ -1,0 +1,39 @@
+Tom Sell Campaign Announces Polling Lead, Strong Fundraising Momentum, and Growing Endorsement Support
+Lubbock, TX — The campaign for Tom Sell today announced major momentum in the race for Texas’ 19th Congressional District, highlighted by a new poll showing Sell in the lead, a continued strong fundraising pace, and a growing list of key endorsements.
+The survey of 400 likely voters in the 2026 Republican primary shows Tom Sell has significantly increased his ballot score 3-fold from 8% to 28% in just six weeks.
+These gains are coming from the party’s base in the district with the biggest gains coming from the extremely conservative (+26%), very conservative (+24%), Trump Republicans (+23%), and Christian conservatives (+22%).
+“This momentum is a clear sign that the people of West Texas want leadership that will stand up for our values and put America First,” said Sell.
+“From securing the border to protecting our energy industry and fighting for agriculture, voters are responding to our message and joining our campaign in record numbers because they know I stand with President Trump.”
+Fundraising Momentum
+The campaign also reported $733,100 Cash on Hand as it plans to increase its spending on all platforms as early voting gets under way.
+“Our fundraising success proves that this campaign is powered by the people of West Texas,” Sell added.
+“We’re building the resources needed to win this race and take our fight to Washington.”
+Growing Endorsements
+Sell’s momentum is further underscored by a growing coalition of respected leaders and organizations rallying behind his campaign.
+Support from agriculture leaders, conservative advocates, and community voices across West Texas highlights the broad support for Sell’s commitment to protecting the region’s economy, energy industry, and rural way of life.
+Notable Endorsements
+- Cody Campbell
+- Major General Walter B.
+Huffman (U.S.
+Army, Retired)
+- Texas Farm Bureau AGFUND
+- Republican National Hispanic Assembly
+- National Association of Realtors PAC
+- Latinos United for Conservative Action
+- Texas Corn Producers
+- Texas Wheat Producers
+- Texas and Southwestern Cattle Raisers PAC
+- National Sorghum Producers
+- Texas Cattle Feeders BEEF PAC
+- Plains Cotton Growers
+- Rolling Plains Cotton Growers
+- Western Peanut Growers Association
+- Texas Forestry Association FORPAC
+- Southwest Council of Agribusiness
+- Congressman Pete Sessions (R-TX-17)
+- Congressman Jake Ellzey (R-TX-06)
+- Congresswoman Anna Paulina Luna (R-FL-13)
+- The Honorable Larry Combest (R-TX-19)
+“Our campaign is honored to have the backing of leaders who know what’s at stake for West Texas families,” said Sell.
+“Together, we’re building a coalition ready to win and deliver results.”
+With growing momentum in polling, fundraising, and endorsements, the Sell campaign is entering the next phase of the race focused on expanding voter contact, increasing grassroots engagement, and continuing to build support across the 19th District.

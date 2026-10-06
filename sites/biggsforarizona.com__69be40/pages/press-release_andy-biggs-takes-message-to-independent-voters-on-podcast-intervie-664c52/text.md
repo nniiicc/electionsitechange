@@ -1,0 +1,5 @@
+Sitdown with former Phoenix mayor and Independent voice Paul Johnson covers a number of major issues facing Arizona
+GILBERT, AZ—Republican nominee for Governor Andy Biggs took his campaign message directly to Independent voters in Arizona in a recent podcast interview with one of the leading Independent voices in the state.
+Biggs sat down with Paul Johnson, the former mayor of Phoenix and highly-respected advocate for Independent voters, and Henry Thompson to discuss his vision for the state in a wide-ranging episode that covered plans for water, taxes, education, and how Biggs plans to work together with Arizonans of different backgrounds as Governor.
+Biggs has frequently highlighted his work across the aisle and with Republicans from across the ideological spectrum on the campaign trail, from working with Democrats to pass the JACK Act to crack down on corruption to partnering with the late Senator John McCain to earn bipartisan support while passing the Ashlynne Mike AMBER Alert Act.
+Watch the full interview with the “Optimistic American” below:

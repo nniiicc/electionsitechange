@@ -1,0 +1,53 @@
+Skip to content
+Donate Now
+Donate Now
+Vicki Davis for NY Assembly 121
+Platform
+Events
+Volunteer
+News
+Endorsements
+Map of NY121
+Contact
+Vicki Davis for NY Assembly 121
+Donate Now
+Donate Now
+Platform
+Events
+Volunteer
+News
+Endorsements
+Map of NY121
+Contact
+« All Events
+This event has passed.
+Sunday Ice Cream Social – Maywood Depot
+May 24 @ 6:00 pm
+-
+8:00 pm
+«
+Meet the Candidates – Madison County
+DCDC Fundraiser Dinner
+»
+Maywood Depot in Sidney Center
+Music by Randy Hulse
+Add to calendar
+Google Calendar
+iCalendar
+Outlook 365
+Outlook Live
+Details
+Date:
+May 24
+Time:
+6:00 pm - 8:00 pm
+Venue
+Maywood Depot
+66 Maywood Ln
+Sidney Center
+,
+NY
+13839
+United States
++ Google Map
+Scroll to Top

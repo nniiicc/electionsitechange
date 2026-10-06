@@ -1,0 +1,42 @@
+Doug Jones for Governor: Doug Jones represented Alabama in the US Senate from 2017 to 2020.
+He is perhaps best known for his work as United States Attorney for the Northern District of Alabama.
+In that role, he successfully prosecuted two former Ku Klux Klan members responsible for the tragic 1963 bombing of the Sixteenth Street Baptist Church in Birmingham that killed four young girls. https://www.dougjones.com/
+i AM strongly supporting
+Democrats representing Alabama in Washington DC
+We have candidates running for every federal office this year.
+At the Top:
+Let's Put Democrats in every one of
+Alabama's Statewide Offices
+Phillip Ensler for Lt Governor: Attorney Phillip Ensler was elected in November 2022 to represent District 74 in the Alabama House of Representatives.
+He also serves as the Executive Director of the Jewish Federation of Central Alabama.
+He previously worked as the Senior Policy Advisor at the City of Montgomery, as Policy Counsel at Alabama Appleseed, and as a Teach for America teacher. https://phillipensler.com/
+Violet Edwards for State Auditor: Commissioner Violet Edwards is a successful businesswoman and public official with a proven record of leadership, fiscal responsibility, community development, and accountability.
+She was elected to office in 2020 and again in 2024 - becoming the first Black woman to serve on the Madison County Commission. https://www.voteviolet.com/
+Rosilyn Houston for State Treasurer: Rosilyn “Roz” Houston is a seasoned senior executive with more than 30 years of leadership experience in the financial services, nonprofit, and corporate sectors.
+She is widely recognized for her trailblazing career as the highest-ranking female and first person of color to serve in the C-Suite and Management Committees of two global banking firms, reporting directly to the U.S.
+CEO and global division heads. https://rozforalabama.com/
+Ron Sparks for Commissioner of Agriculture & Industries: Ron already served 2 terms as Alabama's Commissioner of Agriculture and Industries.
+Commissioner Sparks has a reputation for getting things done for his home state.
+That's why Ron won 62 of 67 counties the last time he was elected Commissioner of Agriculture. https://sparks2026.com/
+Jeff McLaughlin for Attorney General: Before becoming a lawyer, Jeff was a schoolteacher, and for over 35 years he has practiced law while also serving 10 years in the Alabama Legislature.
+He earned a reputation in Montgomery as a principled “Lone Ranger,” refusing campaign contributions and standing up to powerful lobbyists.
+Ashleigh Meyer Dunham for Supreme Court Associate Justice: Dunham is a distinguished legal professional with a career rooted in service to Alabama families.
+AshLeigh is also a practicing Fertility Attorney at Magic City Fertility Law.
+Her expertise in this area is deeply personal: AshLeigh and her husband welcomed their daughter through IVF, but had to leave Alabama to access the care they needed to start their family. https://www.ashleighdunhamforalabama.com/
+James Gordon for Public Service Commission, Place 1: Dr.
+Gordon, a licensed chiropractor, previously served in the Alabama House of Representatives, representing District 98 from 2006 to 2010, where he advocated for families, consumers, and local communities across the Mobile area.
+During his time in the legislature, he focused on policies that supported economic opportunity, community development, and improved quality of life for Alabamians. https://jamesogordon.com/
+Sheila McNeil for Public Service Commission, Place 2: Sheila McNeil served two terms on the San Antonio City Council, where she held key leadership roles, including Chair of the Metropolitan Planning Organization, Infrastructure Growth Committee, and Internal Government Relations Committee.
+In addition to her public service, McNeil spent a decade as a political science professor at the University of Texas at San Antonio, shaping the next generation of leaders.
+Most recently, she served as Chair of the Madison County Democrats from 2023 to 2026, continuing her commitment to civic engagement and political leadership. https://mcneilforpsc2.com/
+I am strongly supporting
+Alabama Democrats for State Senate
+Democrats currently hold just 8 of the 35 seats in the State Senate.
+Let's get these folks elected and break the Republican supermajority!
+(Note: Incumbents have not yet been posted.
+More to come!)
+Join me in supporting
+Candidates for the Alabama State House
+These Democrats are ready to serve the people!
+Endorsements are announced on a rolling basis.
+Not all have been posted, so stay tuned!

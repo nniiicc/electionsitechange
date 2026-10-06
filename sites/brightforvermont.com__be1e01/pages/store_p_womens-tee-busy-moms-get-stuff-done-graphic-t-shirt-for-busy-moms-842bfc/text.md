@@ -1,0 +1,52 @@
+Image 1 of 10
+Image 2 of 10
+Image 3 of 10
+Image 4 of 10
+Image 5 of 10
+Image 6 of 10
+Image 7 of 10
+Image 8 of 10
+Image 9 of 10
+Image 10 of 10
+Women's Tee — "busy moms get stuff done" Graphic T-Shirt for Busy Moms
+$30.00
+This mid-length boxy tee speaks directly to busy moms who wear many hats and still find time to finish the to-do list.
+The relaxed silhouette drapes casually over jeans or leggings, while the soft Airlume cotton keeps it comfortable on rushed mornings and long afternoons.
+The simple white, slightly rounded type across the chest reads like an inside nod to hustle and care — understated, confident, and a little bit cheeky.
+It layers easily under a cardigan or stands alone as a low-effort statement piece for school drop-offs, errands, playdates, and coffee runs.
+Built to wash and wear, it stays put thanks to side seams and a reinforced neck, so it feels lived-in without losing shape.
+Wear it when you want a quiet badge of honor that matches how you move through a day.
+Product features
+- Boxy relaxed fit for an easy, casual silhouette
+- 100% Airlume combed and ring-spun cotton (Athletic Heather: 90/10) for soft durability
+- Double-stitched neck and set-in sleeves to prevent fraying and keep shape
+- Side seamed construction and mid-length cut for better fit and coverage
+- Tear-away label for a comfortable, tag-free experience
+Care instructions
+- Machine wash: warm (max 40C or 105F)
+- Non-chlorine: bleach as needed
+- Tumble dry: low heat
+- Iron, steam or dry: medium heat, do not iron on print
+- Do not dryclean
+Size:
+Color:
+Add To Cart
+Added!
+This mid-length boxy tee speaks directly to busy moms who wear many hats and still find time to finish the to-do list.
+The relaxed silhouette drapes casually over jeans or leggings, while the soft Airlume cotton keeps it comfortable on rushed mornings and long afternoons.
+The simple white, slightly rounded type across the chest reads like an inside nod to hustle and care — understated, confident, and a little bit cheeky.
+It layers easily under a cardigan or stands alone as a low-effort statement piece for school drop-offs, errands, playdates, and coffee runs.
+Built to wash and wear, it stays put thanks to side seams and a reinforced neck, so it feels lived-in without losing shape.
+Wear it when you want a quiet badge of honor that matches how you move through a day.
+Product features
+- Boxy relaxed fit for an easy, casual silhouette
+- 100% Airlume combed and ring-spun cotton (Athletic Heather: 90/10) for soft durability
+- Double-stitched neck and set-in sleeves to prevent fraying and keep shape
+- Side seamed construction and mid-length cut for better fit and coverage
+- Tear-away label for a comfortable, tag-free experience
+Care instructions
+- Machine wash: warm (max 40C or 105F)
+- Non-chlorine: bleach as needed
+- Tumble dry: low heat
+- Iron, steam or dry: medium heat, do not iron on print
+- Do not dryclean

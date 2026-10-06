@@ -1,0 +1,23 @@
+VOLUNTEER | NEIGHBOR | ADVOCATE
+MEET
+DARRYL BLOCK
+Darryl Block is a father, husband, attorney, certified mediator, social worker, and youth basketball coach who calls Seminole County home.
+Throughout his career, Darryl has worked with people navigating some of life’s most difficult circumstances.
+From social work to law and mediation, his approach has remained the same: listen, treat people with dignity and respect, and work toward real solutions.
+That commitment to service has also included supporting active-duty service members in crisis and advocating for families navigating complex healthcare challenges.
+ROOTED IN OUR COMMUNITY
+Darryl and his family are deeply connected to Seminole County.
+His wife teaches at Sanford Middle School, his children attend local public schools.
+Those experiences give him a firsthand view of the challenges families face: rising costs, crowded roads, strained schools, and growth that is moving faster than local infrastructure.
+That’s why Darryl is running for the Florida House: to bring practical solutions to Tallahassee, strengthen public schools, manage growth responsibly, lower everyday costs, and make sure the people of House District 36 have a government that listens.
+People deserve leadership that understands the community because it’s part of the community.
+communities deserve a stronger voice in shaping their future.
+TURNING LOSS INTO ACTION
+In 2018, Darryl and his wife, Melanie, experienced the heartbreaking loss of their oldest son to a rare disease.
+Their experience navigating a complicated healthcare system inspired them to advocate for other families facing rare diseases and barriers to care.
+They took that advocacy to Tallahassee, working with state leaders to expand newborn screening for rare diseases and help give families access to earlier diagnoses and potentially life-saving interventions.
+For Darryl, the experience demonstrated what government can accomplish when leaders listen to the people they serve and reinforced the importance of standing up for families who struggle to be heard.
+DARRYL BLOCK
+Leadership should start with listening
+Darryl believes every neighborhood deserves a voice, every family deserves opportunity, and every child deserves access to a strong public education.
+In the Florida House, he will work to ensure communities have the resources they need, growth is managed responsibly, and government remains accountable to the people it serves.

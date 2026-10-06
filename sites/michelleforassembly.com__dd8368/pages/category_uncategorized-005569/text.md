@@ -1,0 +1,9 @@
+(Pomona, CA) – Michelle Rodriguez’s campaign announced today that the California Professional Firefighters have endorsed her candidacy for the 53rd Assembly District.
+The 53rd District includes the cities of Pomona, Chino, Ontario, Upland, and Montclair.
+View press release
+(Ontario, CA) – Today, Michelle Rodriguez proudly announces an endorsement of her campaign for the 53rd Assembly District from the Ontario Professional Firefighters Local 1430.
+A life-long advocate for public safety and first responders, mother of a firefighter, and California...
+(Pomona, CA) - Today, Michelle Rodriguez, a life-long advocate for public safety and stronger community-police relationships, is proud to announce an endorsement from the Riverside Sheriffs' Association in her bid for the 53rd Assembly District.
+The Riverside Sheriffs' Association represents...
+(Pomona, CA) The National Association of Government Employees (SEIU Local 5000) has announced their endorsement of Michelle Rodriguez for California’s 53rd Assembly District.
+This endorsement recognizes to her commitment to the welfare of first responders and public servants in the...

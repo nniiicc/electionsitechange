@@ -1,0 +1,22 @@
+Art has built a reputation as the Law & Order legislator but he has a track record of successfully getting a wide range of bills through the legislative process.
+He is also a strong supporter of the Second Amendment and the shooting sports.
+Sponsored by Art, these bills are now law
+2026 Restoration of Firearm Rights Amendments HB 39
+2025 Wyoming Religious Freedom Restoration Act HB207
+2025 Repeal of Unauthorized Use of Motor Vehicle Crime HB0125
+2024 Wyoming Reads Day HB0054
+2021Sawyer’s Law HB111 2021 (organ transplants and discrimination)
+2021 Firearms Transactions Financial Discrimination – HB0236
+2020 Emergency Call Location Information – HB0126
+2020 Motor Vehicle Violations – Penalties 2020 (This was Art’s HB0158 from 2019)
+2019 Volunteer/Reserve Peace Officer Liability HB159
+Some of the many bills that Art Co-sponsored that are now law
+Internet Crimes Against Children Task Force – SF 80 2026
+Wyoming State Shooting Complex – SF 169 2023
+Athletic Trainers Scope of Practice Amendments – SF 74 2021
+Property Tax Cap – HB 45 2024
+Felony Eluding a Peace Officer – Felony provision – SF 127 2019
+Fetal Heart Beat Act – HB 126 2026
+Life is a Human Right Act – HB 152 2023
+Restoration of Firearm Rights – SF 0120 2023
+For a more complete list of the bills Art has sponsored or co-sponsored go to: Art’s Bills

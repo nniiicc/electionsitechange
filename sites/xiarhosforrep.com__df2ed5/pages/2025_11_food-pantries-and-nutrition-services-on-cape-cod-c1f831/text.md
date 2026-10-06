@@ -1,0 +1,186 @@
+FOOD PANTRIES AND NUTRITION SERVICES ON CAPE COD
+November 3, 2025
+Cape Cod is a community that looks out for one another.
+Across every town, there are dedicated volunteers and organizations making sure that no one goes hungry.
+Below is a list of local food pantries and programs by town.
+Please share this information with anyone who may need a helping hand.
+⸻
+BARNSTABLE
+Cape Cod Community College Family Pantry
+Building #7 (Grossman Commons Cafeteria)
+Tuesdays 12–2 PM, Wednesdays 11 AM–1 PM
+Open to all students, faculty, and staff
+774-330-4857
+First Baptist Church Pantry
+486 Main Street, Hyannis
+Tuesdays 9 AM–12 PM
+508-775-1846
+St.
+Vincent de Paul Food Pantry – St.
+Francis Xavier Church
+21 Cross Street, Hyannis
+Tuesdays and Fridays 10 AM–12 PM
+508-775-3073
+Salvation Army Pantry and Soup Kitchen
+100 North Street, Hyannis
+Pantry by appointment Monday through Thursday 10–11:15 AM
+Breakfast 8:30–9:30 AM, Lunch 11:30–12:30 PM
+508-775-0364
+Faith Family Kitchen
+154 Bearses Way, Hyannis
+Monday, Wednesday, Friday 5:30–6:30 PM
+508-775-5073
+Cape and Islands Veterans Outreach Center Pantry
+223 Stevens Street, Hyannis
+Thursdays 9 AM–6 PM
+508-778-1590
+⸻
+BOURNE
+Friends Food Pantry
+121 Main Street, Buzzards Bay
+Tuesdays 9 AM–12 PM
+508-759-3351
+Empowerment Center (JBCC)
+1015 South Inner Road, Buzzards Bay
+Monday and Friday 10 AM–1 PM, Wednesday 1–4 PM
+(For those with base access)
+⸻
+BREWSTER
+Lower Cape Outreach Council Pantry
+Brewster Baptist Church, 1848 Main Street
+Mondays and Thursdays 10 AM–12 PM
+508-240-0694
+lcoutreach.org/pantry-hours
+⸻
+CHATHAM
+Lower Cape Outreach Council Pantry
+St.
+Christopher’s Church, 625 Main Street
+Tuesdays 4–6 PM, Thursdays 3–5 PM
+508-240-0694
+First United Methodist Church Pantry
+16 Cross Street, Chatham
+Thursdays and Fridays 11 AM–2 PM
+⸻
+EASTHAM
+Lower Cape Outreach Council Pantry
+Eastham United Methodist Church, 3200 State Hwy (Route 6)
+Monday 4–6 PM, Tuesday 10–12, Thursday 2–4 PM
+508-240-0694
+Community Fridge
+2500 State Hwy, Eastham (between Town Hall and Police Dept.)
+774-801-3229
+Cape and Islands Veterans Outreach Mobile Pantry
+Eastham Elks Club, 10 McKoy Road
+2nd and 4th Tuesdays 10 AM–1 PM
+⸻
+FALMOUTH
+Falmouth Service Center
+611 Gifford Street
+Tuesday 10–12, Wednesday 3:30–5:30, Thursday 10–12, Friday 10–12
+508-548-2794
+A Place at the Table – St.
+Barnabas’s Episcopal Church
+91 Main Street
+Hot lunches Tuesday and Thursday 11 AM–1 PM
+508-548-3863
+St.
+Vincent de Paul Food Pantry – St.
+Patrick Church
+511 Main Street
+Tuesday and Friday 10 AM–12 PM and 1–3 PM
+508-563-7775
+Cape and Islands Veterans Outreach Mobile Pantry
+Falmouth AmVets, 366 Palmer Ave
+1st and 3rd Tuesdays 10 AM–1 PM
+⸻
+HARWICH
+The Family Pantry of Cape Cod
+133 Queen Anne Road
+Tuesday 10–3:30, Wednesday 10–12, Thursday 10–7, Saturday 9–12
+508-432-6519
+Lower Cape Outreach Council Pantry
+St.
+Peter’s Lutheran Church, 73 Main Street
+Monday 1–3, Tuesday 3:30–5, Wednesday 12:30–2:30, Friday 10–12
+508-240-0694
+The People’s Fridge – Harwich Community Center
+100 Oak Street
+508-430-7509
+⸻
+MASHPEE
+Christ the King Food Pantry
+5 Job’s Fishing Road
+Wednesdays 9 AM–12 PM
+508-477-7700
+Mashpee Wampanoag Tribe Food Pantry
+483 Great Neck Road South
+Tuesday through Thursday 12–4 PM
+508-477-0208 ext. 189
+⸻
+ORLEANS
+Lower Cape Outreach Council Pantry
+Orleans Methodist Church, 73 Main Street
+Tuesdays 10 AM–12 PM
+508-240-0694
+⸻
+PROVINCETOWN
+Lower Cape Outreach Council Pantry
+United Methodist Church, 20 Shank Painter Road
+Wednesday and Thursday 10 AM–2 PM
+Soup Kitchen in Provincetown (SKIP)
+Same location
+Monday through Friday 12:30–1:30 PM (November through April)
+508-487-8331
+Crop Swap – Provincetown Library
+356 Commercial Street
+Open during library hours
+⸻
+SANDWICH
+Sandwich Food Pantry
+331 Cotuit Road
+Wednesday 10–12, Last Wednesday 6–7:30 PM, 3rd Saturday 10–12
+508-888-3816
+St.
+Vincent de Paul Food Pantry
+322 Quaker Meetinghouse Road
+Thursdays 9:30–12 PM
+508-833-1555
+Empowerment Center (Non-Base Access)
+117 Route 6A
+Monday and Tuesday 10–1, Thursday and Friday 12:30–4
+774-205-7232
+⸻
+SOUTH YARMOUTH
+Cape Cod Community Food Pantry
+845 Route 28, Unit 16 (Lighthouse Landing Plaza)
+Tuesday and Thursday 5:30–6:30 PM
+508-394-0880
+St.
+David’s Episcopal Church
+205 Old Main Street
+3rd Wednesday each month
+508-394-4222
+⸻
+WELLFLEET
+Lower Cape Outreach Council Pantry
+Our Lady of Lourdes Parking Lot, 2282 Route 6
+Monday and Wednesday 3–6 PM, Thursday 10–12 PM
+⸻
+WEST YARMOUTH
+Canaan Church Food Pantry and Community Garden
+204 Route 28
+508-266-1439
+⸻
+TRURO
+Truro Community Kitchen
+Christian Union Church, 27 Shore Road
+Deliveries on Tuesdays
+508-514-1833
+Lower Cape Outreach Council Pantry
+Community Center, 7 Standish Way
+Tuesday and Wednesday 10–12:30 PM
+⸻
+Cape Cod’s food pantries are open and ready to help.
+If you or someone you know needs food assistance, please reach out to one of these local programs.
+If you have any questions, please email my office at Steven.Xiarhos@mahouse.gov

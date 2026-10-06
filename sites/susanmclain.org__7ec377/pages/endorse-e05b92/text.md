@@ -1,0 +1,40 @@
+Endorsements:
+Oregon Education Association – PAC
+Oregon School Employees Association
+Oregon AFSCME
+SEIU 503
+Oregon State Fire Fighters Council
+Oregon Nurses Association
+North Coast States Carpenters Union
+Friends of Smart Growth
+U.S.
+Senator Jeff Merkley
+U.S.
+Senator Ron Wyden
+Congresswoman Suzanne Bonamici
+Oregon Attorney General Dan Rayfield
+State Representative Nathan Sosa
+State Representative Thủy Trần
+State Representative Ken Helm
+State Representative Ben Bowman
+Metro Councilor Juan Carlos Gonzalez
+Washington County Commissioner Nafisa Fai
+Hillsboro City Councilor Olivia Alcaire
+Hillsboro City Councilor Kipperlyn Sinclair
+Former State Senator Chuck Riley
+Former Oregon State Commissioner on Hispanic Affairs Joe Gallegos
+State Senator Lew Frederick
+State Representative Nancy Nathanson
+State Representative Dacia Grayber
+State Representative Pam Marsh
+State Representative Lamar Wise
+State Representative Lesly Muñoz
+State Representative Emerson Levy
+“I’ve known Susan for 36 years.
+She has always supported smart growth — using sound practices for stewardship of our land, water, and environment,” says Faun Hosey, a volunteer with Friends of Smart Growth.
+“I know her to be honest and passionate in her hard work for good policies that build economic growth and strong communities.”
+“Susan’s time as a teacher was a gift for me as one of the many students she mentored while teaching English, Speech, and Debate at Glencoe High School.
+She has continued her commitment to quality education in the Oregon legislature.
+Her first-hand experience as an educator is even more critical now to help address the crisis in public education.
+Please join me in supporting her and her efforts to help our children, schools, and communities.”
+—Jennifer LeSieur, teacher

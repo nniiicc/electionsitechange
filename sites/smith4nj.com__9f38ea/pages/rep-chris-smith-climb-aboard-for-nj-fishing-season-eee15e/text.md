@@ -1,0 +1,15 @@
+POINT PLEASANT, NJ – Representative Chris Smith (NJ-4) met with captains and customers early Saturday morning as they boarded local vessels and kicked-off the 2020 fluke fishing season.
+Smith had been working with Ray Bogan of the United Boatmen and Recreational Fishing Alliance to urge Governor Murphy to reopen the fishing boats at a capacity that is both safe and economically viable.
+On Friday morning, Governor Murphy signed an Executive Order lifting the 10-person capacity limit on charter boats and recreational businesses and imposing a new 25-person capacity limitation with a requirement that individuals can remain six feet apart at all times.
+Sign Up for Hamilton/Robbinsville Newsletter Our newsletter delivers the local news that you can trust.
+“Today’s partial reopening is a good start,” Smith said on Saturday.
+“The weather could be better, but people are here to go fishing and the eased restrictions mean more people can participate and our local businesses can start making money again.
+After speaking with fishermen today, I think spirits are lifted and hopes are higher.”
+The previous limit to a 10-person restriction enabled the smaller charter boats to sail at a profit, but was not helpful for the bigger party boats, some of which are over 100 feet long with eight passengers and two crew.
+Some smaller charters could not even cover the price of the fuel.
+The increase to 25 customers makes the trips economically feasible.
+According to Bogan, the State’s closure had resulted in New Jersey’s party boats losing an important portion of their season: “Though limiting the boats to 25 anglers is not ideal, it at least allows them to bring in some income and keep their businesses.
+“
+Smith thanked the Governor and called Friday’s announcement “a welcomed development that will enable these vessels to safely serve customers and sustain their businesses.
+“We look to the near future for further relief, but for now, the boats are moving again and other local business, like tackle shops that rely on the fishing industry, can also begin to recover economically from COVID-19,” said Smith who noted that customers look forward to catching and consuming fluke and noted its popularity in our local food supply.
+https://www.tapinto.net/towns/hamilton-slash-robbinsville/sections/other-nj-news/articles/rep-chris-smith-climb-aboard-for-nj-fishing-season

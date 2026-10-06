@@ -1,0 +1,2 @@
+Chil Associate 4/28/25 Chil Associate 4/28/25 Rep.
+Phil's 2025 Legislative Recap Read More Chil Associate 4/10/25 Chil Associate 4/10/25 Legislative Update: 3/10 - 3/30 Read More Chil Associate 3/13/25 Chil Associate 3/13/25 Legislative Update: 2/10 - 2/23 Read More Chil Associate 3/11/25 Chil Associate 3/11/25 Legislative Update: 2/24 - 3/9 Read More January 27 - February 9 Chil Associate 3/11/19 January 27 - February 9 Chil Associate 3/11/19 Legislative Updates Read More

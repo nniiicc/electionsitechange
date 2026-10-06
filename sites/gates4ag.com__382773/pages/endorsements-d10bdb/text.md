@@ -1,0 +1,642 @@
+ENDORSEMENTS
+Endorse Form - Endorsements
+We will get back to you as soon as possible.
+Please try again later.
+Sign Up to Endorse Michael Gates for Attorney General.
+Michael Gates is asking for the endorsement of every member and leader of our local communities.
+Will you back Michael Gates for Attorney General?
+MICHAEL GATES IS BACKED BY THE LEADERS WE TRUST!
+Don Barnes
+Orange County Sheriff
+John Zanoni
+Fresno County Sheriff
+Donny Yongblood
+Kern County Sheriff
+Michael Boudreaux
+Tulare County Sheriff
+Larry Stearn
+President of the Los Angeles Police Department
+Valley Bureau Foundation
+Lisa Smittcamp
+Fresno County District Attorney
+Cynthia Zimmer
+Kern County District Attorney
+Alex Villanueva
+Former Los Angeles County Sheriff
+David S.
+Milton
+Retired California Superior Court Judge
+American Independent Party of California
+California Parents Union
+California Cities for Local Control
+Jon Voight
+Actor
+Agnes Gibboney
+California Angel Mom
+Tony Strickland
+California State Senator
+Gates for Attorney General Co-Chair
+Steve Hilton
+Candidate for Governor of California
+Gloria Romero
+Former California State Senator
+Former Democratic Majority
+Leader of the California State Senate, Candidate for Lieutenant Governor of California
+Tony Rackauckas
+Former Orange County District Attorney
+Huntington Beach Police Officer’s Association
+Garden Grove Police Officer’s Association
+Westminster Police Officer’s Association
+Deputy Sheriffs' Association of San Diego County
+Newport Beach Police Association
+Pomona Police Officers' Association
+Simi Valley Police Officers' Association
+Sheriff's Employees' Benefit Association of San Bernardino
+California Republican Assembly
+The Israeli-American Civic Action Network (ICAN)
+Iranian-American Republican Council
+California Hispanic Republican Club
+California Rifle & Pistol Association
+Vietnamese-American Conservative Alliance (VACA)
+Silicon Valley Chinese Association
+San Diego Asian-Americans for Equality (SDAAE)
+Patriots4Freedom-San Diego
+Alameda County Republican Party
+Monterey County Republican Party
+Placer County Republican Party
+San Mateo County Republican Party
+Marin County Republican Party
+Santa Clara County Republican Party
+Shasta County Republican Party
+San Benito County Republican Party
+Nevada County Republican Party
+Santa Cruz County Republican Party
+Calaveras County Republican Party
+San Joaquin County Republican Party
+Santa Barbara County Republican Party
+Napa County Republican Party
+Contra Costa County Republican Party
+Riverside County Republican Party
+Southern California Area Republican Women
+California Congress of Republicans
+Central Coast Congress of Republicans
+Lincoln Club of Orange County
+Los Angeles County Lincoln Clubs
+West Orange County Republican Women Federated
+GOP Union Caucus
+Bishop Juan Carlos Mendez
+Centro Cristiano Bet-El a Southern Baptist Church in Los Angeles
+Pastor Jack Hibbs
+Calvary Church Chino Hills
+Gregory Brown
+Former Deputy Assistant Attorney General
+Civil Rights Division
+United States Department of Justice
+Marie Alvarado-Gil
+California State Senator
+Brian Jones
+California State Senator
+Roger Niello
+California State Senator
+Megan Dahle
+California State Senator
+Steve Choi
+California State Senator
+Shannon Grove
+California State Senator
+Rosilicie Ochoa Bogh
+California State Senator
+Suzette Martinez Valladares
+California State Senator
+Kelly Seyarto
+California State Senator
+David Tangipa
+California State Assembly Member
+Alexandra Macedo
+California State Assembly Member
+Carl DeMaio
+California State Assembly Member
+Kate Sanchez
+California State Assembly Member
+Tri Ta
+California State Assembly Member
+Rachel Darvish
+Los Angeles Attorney and Palisades Fires Activist
+Michael Antonovich
+Former California Assemblyman and
+Los Angeles County Supervisor
+Don Wagner
+Orange County Supervisor
+Former California Assembly Member
+Janet Nguyen
+Orange County Supervisor
+Former California State Senator
+Hugh Nguyen
+Orange County Clerk-Recorder
+Shari Friedenrich
+Orange County Treasurer
+Claude Parrish
+Orange County Tax Assessor
+Steve Garvey
+Major League Baseball Hall of Fame Nominee
+Former Candidate for U.S.
+Senate
+Former Congressman John Duarte
+Congressional District 13
+Congressman Ken Calvert
+Congressional District 41
+Elizabeth Barcohana
+Los Angeles Republican Central Committee Member
+Social Media Influencer
+Houman Hemmati
+Los Angeles Medical Doctor
+Social Media Influencer
+Sonja Shaw
+Chino Valley Unified School District Board President
+Candidate for State Superintendent of Public Instruction
+Carol Pefley
+California State Assembly Candidate
+Ritesh Tandon
+Candidate for Congressional District 17
+Mari Barke
+Orange County Board of Education Member
+Ken Williams
+Orange County Board of Education Member
+Lisa Sparks
+Orange County Board of Education Member
+Dr.
+Stefan Bean
+Orange County Superintendent of Schools
+Shawn Steel
+California Republican National Committee Member
+Casey McKeon
+Mayor of the City of Huntington Beach
+Butch Twining
+Mayor Pro Tem of the City of Huntington Beach
+Gracey Larrea-Van Der Mark
+Huntington Beach City Council Member
+Chad Williams
+Huntington Beach City Council Member
+Andrew Gruel
+Celebrity Chef
+Huntington Beach City Council Member
+Pat Burns
+Retired Long Beach Police Officer
+Huntington Beach City Council Member
+Don Kennedy
+Huntington Beach City Council Member
+Mike Vigliotta
+City Attorney of Huntington Beach
+Lisa-Lane Barnes
+City Clerk of Huntington Beach
+Mike Munzig
+Mayor Pro Tem Aliso Viejo City Council
+Jim Cunneen
+Mayor of Fountain Valley
+Curtis Burton
+Mayor Pro Tem City of Chino
+Steve Knoblock
+Mayor Pro Tem City of San Clemente
+R "Ray" Wang
+Cupertino City Council Member
+Liang-Fang "Liang" Chao
+Vice Mayor City of Cupertino
+Joseph Bonomolo
+Grass Valley City Council Member
+Aurelio Mattucci
+Torrance City Council Member
+Drew Bessinger
+Clovis City Council Member and Former Police Captain
+Joe Alindajao
+Delano City Council Member
+Fred Whitaker
+Former Mayor Pro Tem Orange City Council
+TJ Fuentes
+Orange County Republican Party Committee Member
+Janine Heft
+Former Laguna Hills Mayor
+Rhonda Shader
+Former Mayor of Placentia
+Michael Griffiths
+Former Torrance City Council Member
+Lynette Lee Eng
+Former Los Altos Mayor and City Council Member
+Tito Ortiz
+Former UFC Fighter
+Former Huntington Beach City Council Member
+Jim Silva
+Former California State Assembly Member
+Former Orange County Supervisor
+Former Huntington Beach City Mayor
+Rob Handy
+Retired Chief of Police for Huntington Beach Police Department
+Jon Fleishman
+Former Executive Director of the California Republican Party
+Leland DeVore
+Former Police Chief of Twin Falls
+Tom Angel
+Retired Division Chief of the Los Angeles Sheriff’s Department
+Robert Binkley
+Retired Division Commander of the Los Angeles Sheriff’s
+Department
+Warren Asmus
+Retired Division Chief of the Los Angeles Sheriff’s
+Department
+Pete Amico
+Retired Division Commander of the Los Angeles Sheriff’s
+Department
+Ralph Ornelas
+Retired Division Commander of the Los Angeles Sheriff’s
+Department
+Mike Smith
+Retired Division Captain of the Los Angeles Sheriff’s
+Department
+JJ Smith
+San Francisco Small Business Owner
+and Social Media Influencer
+Ed Laird
+Huntington Beach Business Owner
+dignitaries
+Richard Grenell
+Special Presidential Envoy for Special Missions of United States
+Dan Lungren
+Former California Attorney General
+Steve Hilton
+Candidate for California Govenor
+Chad Bianco
+Former Candidate for California Governor and Sheriff of Riverside County
+Herb Morgan
+Candidate for California Controller
+Law Enforcement and law enforcement associations
+Don Barnes
+Orange County Sheriff
+Sheriff James Fryhoff
+Ventura County Sheriff's Office
+John Zanoni
+Fresno County Sheriff
+Donny Yongblood
+Kern County Sheriff
+Michael Boudreaux
+Tulare County Sheriff
+Brandon Barnes
+Sutter County Sheriff
+Michael L.
+Johnson
+Shasta County Sheriff
+Gary Redman
+Amador County Sheriff
+Larry Stearn
+President of the Los Angeles Police Department
+Valley Bureau Foundation
+Billy Aldridge
+Chief of Police
+Chief Jeremy Paris
+Thousand Oaks Police Department Commander
+Ventura County Sheriff's Office
+Joseph Curreri
+Former Chief of Police
+California State University - Los Angeles
+Lisa Smittcamp
+Fresno County District Attorney
+Cynthia Zimmer
+Kern County District Attorney
+Matt Rogers
+Tehama County District Attorney
+Alex Villanueva
+Former Los Angeles County Sheriff
+David S.
+Milton
+Retired California Superior Court Judge
+Tony Rackauckas
+Former Orange County District Attorney
+Sally Moreno
+Madera County District Attorney
+Rob Handy
+Retired Chief of Police for Huntington Beach Police Department
+Jon Fleishman
+Former Executive Director of the California Republican Party
+Jorge R.
+Rodriguez
+Former Deputy Chief of the Los Angeles Police Department
+Leland DeVore
+Former Police Chief of Twin Falls
+John McGinness
+Retired Sacramento County Sheriff
+Tom Angel
+Retired Division Chief of the Los Angeles Sheriff’s Department
+Robert Binkley
+Retired Division Commander of the Los Angeles Sheriff’s
+Department
+Warren Asmus
+Retired Division Chief of the Los Angeles Sheriff’s
+Department
+Pete Amico
+Retired Division Commander of the Los Angeles Sheriff’s
+Department
+Ralph Ornelas
+Retired Division Commander of the Los Angeles Sheriff’s
+Department
+Mike Smith
+Retired Division Captain of the Los Angeles Sheriff’s
+Department
+Kris Pitcher
+Retired Deputy Chief of the Los Angeles Police Department
+John Sherman
+Retired Deputy Chief of the Los Angeles Police Department
+Bruce Crosley
+Retired Captain of the Los Angeles Police Department
+Lillian Carranza
+Retired Commander of the Los Angeles Police Department
+Bob Green
+Retired Deputy Chief of the Los Angeles Police Department
+Huntington Beach Police Officers' Association
+Garden Grove Police Officers' Association
+Westminster Police Officers' Association
+Shasta County Deputy Sheriff's Association
+Deputy Sheriffs' Association of San Diego County
+Newport Beach Police Association
+Pomona Police Officers' Association
+Simi Valley Police Officers' Association
+Sacramento County Deputy Sheriffs' Association
+Bakersfield Police Officers' Association
+Police Officers' Association of Lodi
+Sheriff's Employees' Benefit Association of San Bernardino
+Redlands Police Officers' Association
+San Bernardino Police Officers' Association
+Ventura County Deputy Sheriffs' Association
+Laguna Beach Police Employees' Association
+Burbank Police Officers' Association
+Corona Police Officers Association
+Placentia Police Management Association
+Clovis Police Officers Association
+Upland Police Officers Association
+Fresno Police Officers Association
+CELEBRITIES
+Tito Ortiz
+Former UFC Fighter
+Former Huntington Beach City Council Member
+Jon Voight
+Actor
+Steve Garvey
+Major League Baseball Hall of Fame Nominee
+Former Candidate for U.S.
+Senate
+candidates and elected officials
+Congressman Ken Calvert
+Congressional District 41
+Former Congressman John Duarte
+Congressional District 13
+Ritesh Tandon
+Candidate for Congressional District 17
+Tony Strickland
+California State Senator
+Gates for Attorney General Co-Chair
+Marie Alvarado-Gil
+California State Senator
+Brian Jones
+California State Senator
+Roger Niello
+California State Senator
+Megan Dahle
+California State Senator
+Steve Choi
+California State Senator
+Shannon Grove
+California State Senator
+Rosilicie Ochoa Bogh
+California State Senator
+Suzette Martinez Valladares
+California State Senator
+Kelly Seyarto
+California State Senator
+David Tangipa
+California State Assembly Member
+Alexandra Macedo
+California State Assembly Member
+Carl DeMaio
+California State Assembly Member
+Kate Sanchez
+California State Assembly Member
+Tri Ta
+California State Assembly Member
+Stan Ellis
+California State Assembly Member
+Jeff Gonzalez
+California State Assembly Member
+Steve Hilton
+Candidate for Governor of California
+Gloria Romero
+Former California State Senator
+Former Democratic Majority
+Leader of the California State Senate, Candidate for Lieutenant Governor of California
+Sonja Shaw
+Chino Valley Unified School District Board President
+Candidate for State Superintendent of Public Instruction
+Carol Pefley
+California State Assembly Candidate
+Michael Antonovich
+Former California Assemblyman and
+Los Angeles County Supervisor
+Jim Silva
+Former California State Assembly Member
+Former Orange County Supervisor
+Former Huntington Beach City Mayor
+Hon.
+Denis Weber
+Former Mayor of Agoura Hills
+Don Wagner
+Orange County Supervisor
+Former California Assembly Member
+Janet Nguyen
+Orange County Supervisor
+Former California State Senator
+Hugh Nguyen
+Orange County Clerk-Recorder
+Shari Friedenrich
+Orange County Treasurer
+Claude Parrish
+Orange County Tax Assessor
+Dr.
+Stefan Bean
+Orange County Superintendent of Schools
+Mari Barke
+Orange County Board of Education Member
+Ken Williams
+Orange County Board of Education Member
+Lisa Sparks
+Orange County Board of Education Member
+Shawn Steel
+California Republican National Committee Member
+TJ Fuentes
+Orange County Republican Party Committee Member
+Elizabeth Barcohana
+Los Angeles Republican Central Committee Member
+Social Media Influencer
+Casey McKeon
+Mayor of the City of Huntington Beach
+Butch Twining
+Mayor Pro Tem of the City of Huntington Beach
+Gracey Larrea-Van Der Mark
+Huntington Beach City Council Member
+Chad Williams
+Huntington Beach City Council Member
+Pat Burns
+Retired Long Beach Police Officer
+Huntington Beach City Council Member
+Don Kennedy
+Huntington Beach City Council Member
+Mike Vigliotta
+City Attorney of Huntington Beach
+Lisa-Lane Barnes
+City Clerk of Huntington Beach
+Jim Cunneen
+Mayor of Fountain Valley
+Mike Munzig
+Mayor Pro Tem Aliso Viejo City Council
+Curtis Burton
+Mayor Pro Tem City of Chino
+Steve Knoblock
+Mayor Pro Tem City of San Clemente
+De De Cavanaugh
+Mayor of Simi Valley
+R "Ray" Wang
+Cupertino City Council Member
+Liang-Fang "Liang" Chao
+Vice Mayor City of Cupertino
+Joseph Bonomolo
+Grass Valley City Council Member
+Aurelio Mattucci
+Torrance City Council Member
+Edward Montoya Jr.,
+SSG US Army (Retired) and City of Rialto Councilmember
+Drew Bessinger
+Clovis City Council Member and Former Police Captain
+Joe Alindajao
+Delano City Council Member
+Fred Whitaker
+Former Mayor Pro Tem Orange City Council
+Janine Heft
+Former Laguna Hills Mayor
+Rhonda Shader
+Former Mayor of Placentia
+Michael Griffiths
+Former Torrance City Council Member
+Steven Scharf
+Former Mayor of Cupertino
+Jon Fleishman
+Former Executive Director of the California Republican Party
+Paula Boland
+Former California State Assembly Member
+Jeff Reisig
+Former District Attorney Yolo County
+Dennis Zine
+Former Los Angeles City Council Member
+Greig Smith
+Former Los Angeles City Council Member
+ORGANIZATIONS
+California Republican Party
+Alameda County Republican Party
+Monterey County Republican Party
+Placer County Republican Party
+San Mateo County Republican Party
+Marin County Republican Party
+Sacramento Republican Party
+Santa Clara County Republican Party
+Shasta County Republican Party
+San Benito County Republican Party
+Nevada County Republican Party
+Santa Cruz County Republican Party
+Calaveras County Republican Party
+San Joaquin County Republican Party
+Santa Barbara County Republican Party
+Napa County Republican Party
+Contra Costa County Republican Party
+Riverside County Republican Party
+San Luis Obispo County Republican Party
+Ventura County Republican Party
+Yuba County Republican Party
+San Diego County Republican Party
+Tulare County Republican Party
+Trinity County Republican Party
+Sutter County Republican Party
+Sonoma County Republican Party
+Tuolumne County Republican Party
+Imperial County Republican Party
+San Francisco County Republican Party
+Modoc County Republican Party
+Madera County Republican Party
+Sacramento County Republican Party
+Mariposa County Republican Party
+Siskiyou County Republican Party
+Sierra County Republican Party
+San Bernardino County Republican Party
+Mendocino County Republican Party
+Los Angeles County Republican Party
+Yolo County Republican Party
+Del Norte County Republican Party
+Humboldt County Republican Party
+Merced County Republican Party
+Lake County Republican Party
+Kings County Republican Party
+Inyo County Republican Party
+Fresno County Republican Party
+Glenn County Republican Party
+Stanislaus County Republican Party
+El Dorado County Republican Party
+California Republican Assembly
+American Independent Party of California
+California Parents Union
+California Cities for Local Control
+Americans4Hindus
+The Israeli-American Civic Action Network (ICAN)
+Iranian-American Republican Council
+California Hispanic Republican Club
+California Rifle & Pistol Association
+Gun Owners of California/Gun Owners of America
+Republican Attorneys General Association
+Howard Jarvis Taxpayers Association PAC
+California Women's Leadership Association PAC
+Business And Housing Network (BAHN)
+Vietnamese-American Conservative Alliance (VACA)
+Silicon Valley Chinese Association
+Nisei Farmers League
+San Diego Asian-Americans for Equality (SDAAE)
+Patriots4Freedom-San Diego
+California Cities for Local Control (CCLC)
+Southern California Area Republican Women
+California Congress of Republicans
+Central Coast Congress of Republicans
+Lincoln Club of Orange County
+Los Angeles County Lincoln Clubs
+San Diego Lincoln Club
+West Orange County Republican Women Federated
+Tustin Area Republican Women Federated
+Marin County Republican Assembly
+GOP Union Caucus
+oTHER ENDORSEMENTS
+Andrew Gruel
+Celebrity Chef
+Huntington Beach City Council Member
+Bishop Juan Carlos Mendez
+Centro Cristiano Bet-El a Southern Baptist Church in Los Angeles
+Pastor Jack Hibbs
+Calvary Church Chino Hills
+John Phillips
+The John Phillips Show AM790 KABC & AM810 KSFO
+Agnes Gibboney
+California Angel Mom
+Rachel Darvish
+Los Angeles Attorney and Palisades Fires Activist
+Houman Hemmati
+Los Angeles Medical Doctor
+Social Media Influencer
+JJ Smith
+San Francisco Small Business Owner
+and Social Media Influencer
+Ed Laird
+Huntington Beach Business Owner
+Marian Jocz
+Executive Director United Chambers Of Commerce
+(For Name Recognition Purposes)
+Rickey Gelb
+CEO of The Gelb Group

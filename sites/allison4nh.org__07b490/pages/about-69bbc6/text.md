@@ -1,0 +1,33 @@
+Meet Allison
+Representative Allison Knab is an 18-year Stratham resident, dedicated community leader and SAU 16 public school parent
+Elected in 2022, Allison has proudly served two terms as a New Hampshire State Representative for Stratham.
+Her legislative work has included sponsoring and cosponsoring bills to increase the state’s contribution to retirement costs of teachers and first responders, establish a Farm-to-School Nutrition pilot program; clarify condo association meeting laws; restrict the use of carcinogens in paving products, enhance school instruction of election laws and voting; clarify statutes around green burials, and facilitate extreme risk protection orders in the state.
+In 2024, Allison became the ranking Member on the House Resources, Recreation, and Development Committee, making her the lead Democrat on the committee.
+She is proud to have worked collaboratively with her fellow committee members on both sides of the aisle to support state parks, outdoor recreation, healthy lakes and other water bodies, and thoughtful development.
+She has sat on the Stratham Select Board since 2018, served as Vice Chair from 2022 to 2026, and is currently the Board Chair.
+Allison is only the second woman to have served in the town’s 300+ year history.
+In this position, she works collaboratively to review and set the town’s annual budget, oversee the work of the town administrator, review articles in the warrant for Town Meeting, and participate in town hiring efforts.
+Allison is the Select Board representative to the Conservation Commission, Recreation Committee, and Stratham Hill Park Association.
+She also serves as the Board liaison to the Stratham Police Department, Library Director, Town Clerk's Office, and Parks and Recreation department.
+Allison serves as the Executive Director of the nonprofit Great Bay Stewards, which is the friends group to the Great Bay National Estuarine Research Reserve.
+In this role she oversees the organizational budget, serves as staff to the nonprofit board of trustees, plans events and fundraisers, writes and maintains grants, and manages communications.
+Allison and her husband Brian moved from Chicago to New Hampshire in 2007, and live in Stratham with their two daughters, Clara (20) Evelyn (17) and dog Wally (12).
+Brian is a radiation oncologist who works at the Elliot Hospital in Manchester, while their daughters attend Bucknell University and Exeter High School.
+Originally from Virginia, Allison graduated from the University of Virginia with a degree in biology and completed graduate studies at the University of California Berkeley in its Integrative Biology department.
+She has worked with numerous boards and committees, personally and professionally.
+Volunteer and Committee Experience:
+New Hampshire State House:
+- Resources, Recreation and Development Ranking Member (2024-2026)
+- Environment and Agriculture Committee (2022-2024)
+- Animal Protection and Licensing Subcommittee (2022-2024)
+- NH House Dems Victory Committee Executive Committee
+Community:
+- Stratham Conservation Commission (chair 2014-2018, secretary 2011-2014, member 2009-present)
+- Stratham Recreation Commission
+- Stratham Memorial School Financial Advisory Committee, Select Board Representative
+- Stormwater Source Water Protection Plan Committee
+- Stratham Open Space Planning Committee
+- Seacoast Conservation Commission Roundtable
+- Regional Steering Committee for the Age Friendly Communities Initiative
+- Forestry Management Plan Ad-hoc Committee
+- Pedestrian-Cycling Advocacy Committee

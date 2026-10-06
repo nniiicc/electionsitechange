@@ -1,0 +1,3 @@
+- I have a 100% pro-life voting record from Arkansas Right to Life and was endorsed by Arkansas Right to Life in my campaign for the House.
+- I believe that protecting innocent human life is the greatest moral issue in modern America.
+- I will oppose liberal efforts to undermine religious liberty by protecting the conscience rights of all Arkansans to adhere to their faith as they live their everyday lives.

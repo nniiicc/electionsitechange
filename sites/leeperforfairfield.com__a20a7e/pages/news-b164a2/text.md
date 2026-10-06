@@ -1,0 +1,42 @@
+News & LTEs
+Letters to the Editor
+- Sep 17, 2026 Re-elect Jennifer Leeper: A Record of Delivering for Fairfield — and of Decency I met Jennifer Leeper when her son and my daughter were at daycare together.
+We were both working moms, and like a lot of us after… Read more →
+- Sep 14, 2026 Jennifer Leeper Has Proven Her Value to Fairfield and Southport Too often, we hear elected officials say they will stand up for their communities.
+But when a real threat emerges, what matters is who actually does the work,… Read more →
+- Sep 11, 2026 Jennifer Leeper Has Earned Another Term As Fairfield voters consider who should represent us in Hartford, I strongly encourage my neighbors to support State Representative Jennifer Leeper for reelection.… Read more →
+- Sep 8, 2026 Four Reasons to Re-Elect State Rep.
+Jennifer Leeper We in Fairfield's 132nd district are fortunate to have a candidate running for re-election to the General Assembly this year who is as capable, wise,… Read more →
+- Oct 5, 2022 In-depth Knowledge of Housing Needs I would like to wholeheartedly endorse Jennifer Leeper for re-election as State Rep. for the 132nd District, Fairfield / Southport.
+Read more →
+- Oct 5, 2022 Everyone Should Vote for Jenn!
+I would like to encourage everyone – whatever your political affiliation – to vote for Jennifer Leeper so that she can continue the outstanding job she has been doing for us as State Representative for Fairfield & Southport.
+Read more →
+In the News
+- HB-8002 Forum — "Fairfield Housing Seminar"CTHouseDemocrats, YouTube
+- Connecticut's New Housing Law Empowers FairfieldFairfield Patch
+- Juvenile Crime Forum Hosted by Reps.
+Leeper and McCarthy VaheyCT-N
+- Leeper: Where Does Connecticut Criminal Justice Go From Here?Fairfield Patch
+- Juvenile Justice: Root Causes and PreventionFacebook
+- "The Digital Delusion"Melissa in the Morning
+- "Rethinking Screens in Schools"The Lisa Wexler Show
+- Inside Connecticut's Education Crisis: Funding, Homeschooling & Hard TruthsYouTube
+- CT's New Education Committee Chair, Jennifer LeeperAcast
+- Melissa in the Morning — Focus on EducationAudioboom
+- Homeschooling, DCF, and the Future of CT EducationApple Podcasts
+- Bell-to-Bell Cell Phone Ban in SchoolsPBS
+- Melissa in the Morning — Equivalent InstructionAudioboom
+- New Education Committee Leader on Standardized Tests, Crisis Drills, Special EdCT Examiner
+- Community Conversation on Math LiteracySacred Heart University
+- Major CT Education Issues 2026: AI, Funding, PolicyCT Insider
+- House Democrats Running Education BillsCT News Junkie
+- CT School Funding, Legislature, ECS 2026 BudgetCT Insider
+- Rules of the RoadCampaign Op-Ed
+- Attention, New York: Connecticut Is Open for BusinessCampaign Op-Ed
+- One Way to Make Absentee Voting EasierCampaign Op-Ed
+- Lawn Signs Bring Gratitude During Dark TimeCampaign Op-Ed
+- The Future of the Exide PropertyCampaign Op-Ed
+- Press Release: Moms Demand Action Names Jennifer Leeper a Gun Sense Candidate of DistinctionPress Release
+- Student VoicesCampaign Op-Ed
+- Affordable HousingCampaign Op-Ed

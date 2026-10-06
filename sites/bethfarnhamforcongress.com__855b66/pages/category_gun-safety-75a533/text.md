@@ -1,0 +1,71 @@
+Skip to content
+Menu
+Close
+Priorities
+Meet Beth
+Contact Beth
+donate
+Join us
+!
+Category:
+Gun Safety
+Sep 21, 2025
+·
+District Round-up
+,
+Gun Safety
+,
+Our Precious Democracy
+,
+Uncategorized
+District Round-up 9.21.25
+Aug 31, 2025
+·
+District Round-up
+,
+Gun Safety
+,
+Our Precious Democracy
+,
+Uncategorized
+District Round-up 8.31.25
+Nov 4, 2024
+·
+Gun Safety
+,
+healthcare
+,
+Immigration reform
+,
+Our Precious Democracy
+,
+Public Education
+,
+Reproductive Freedom
+,
+Uncategorized
+Choose Democracy
+Aug 3, 2024
+·
+Gun Safety
+,
+Immigration reform
+,
+Our Precious Democracy
+,
+Public Education
+,
+Reproductive Freedom
+Kamala and Me
+Dec 17, 2023
+·
+Gun Safety
+Gun Safety
+Paid for by BETH FARNHAM FOR CONGRESS
+Designed by WordPress
+Subscribe
+Loading Comments...
+Write a Comment...
+Email (Required)
+Name (Required)
+Website

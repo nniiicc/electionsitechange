@@ -1,0 +1,22 @@
+CONOCE A JOE TACHE
+Joe Tache es un educador, organizador comunitario y socialista en Boston.
+Durante más de diez años, Joe ha sido parte de —y ha sido formado por— organizaciones y movimientos en Massachusetts.
+Joe ha trabajado junto a activistas dedicados en movimientos contra la explotación laboral, la guerra, la brutalidad policial, la gentrificación y muchos otros temas.
+Dedica gran parte de su tiempo a escribir y educar sobre la causa fundamental de estos problemas: el capitalismo.
+Joe se matriculó como estudiante de administración de empresas en Northeastern University en 2013.
+Como joven adulto moldeado por las consecuencias sociales de las guerras de EE.UU. en Irak, Afganistán y Libia, la Gran Recesión y el asesinato de Trayvon Martin, Joe ingresó a la universidad buscando respuestas sobre cómo generar un impacto positivo en la sociedad.
+No las encontró en el aula, donde cada curso de negocios enseñaba la misma tesis general: el efectivo es rey y todo lo demás es secundario.
+Después del asesinato policial de Michael Brown en Ferguson en 2014, Joe comenzó su participación en el activismo estudiantil y comunitario.
+En el campus, participó en movimientos en solidaridad con el sindicato de trabajadores del comedor, oponiéndose a la invasión de Northeastern en Roxbury (un vecindario históricamente negro y de clase trabajadora), abogando por un mejor trato a los estudiantes de color y apoyando la autodeterminación palestina.
+Fuera del campus, Joe se unió al movimiento de Boston por vivienda asequible y realizó campañas contra una medida electoral estatal que atacaba la educación pública.
+En 2016, co-creó una serie de podcast de 7 partes, Colored: Crack Cocaine, the War on Drugs, and the Making of Post-Civil Rights America, que contó la historia de la "guerra contra las drogas" y el encarcelamiento masivo desde la perspectiva de líderes comunitarios en Boston.
+Después de graduarse de la universidad en 2018, Joe comenzó a trabajar como instructor de HiSET (Examen de Equivalencia de Escuela Secundaria) y mentor para estudiantes universitarios de primera generación.
+Posteriormente, dirigió un programa extracurricular y de verano de escuela secundaria que se enfocaba en los derechos de los trabajadores.
+Tiene una pasión por crear entornos en los que los jóvenes se sientan seguros, apoyados y empoderados.
+A través de años de activismo y trabajo comunitario, Joe aprendió que los problemas que afectan a las personas de clase trabajadora no solo tienen una causa común, sino también una solución común: el socialismo.
+En 2018, Joe se unió al Party for Socialism and Liberation para luchar por una sociedad que priorice las necesidades de las personas sobre las ganancias de los multimillonarios.
+En todo ese tiempo, ha vivido en Roxbury y ha proporcionado liderazgo a innumerables movimientos por la justicia en el Gran Boston: por vivienda digna y asequible en Roxbury, por justicia para Arif Sayed Faisal —un estudiante de UMass Boston asesinado por la policía en Cambridge, y por el fin del genocidio estadounidense-israelí en Gaza.
+Joe ha servido como un voluntario clave (y entre 2022-2024, miembro del personal) en el Boston Liberation Center, construyendo relaciones con miembros de la comunidad de Roxbury y de todo el estado que visitan el BLC.
+También ha apoyado el crecimiento del PSL y del movimiento socialista en todo Massachusetts: en Amherst, Lowell, Springfield, Worcester y más allá.
+Durante este tiempo, Joe también ha organizado e impartido clases de educación política sobre temas cruciales como la historia negra y el movimiento por los derechos de los inmigrantes, enfatizando la necesidad de que comprendamos nuestra historia para que podamos dar forma a nuestro futuro colectivo.
+Formado por una década de experiencia en la lucha, Joe Tache se postula para Senador de EE.UU. en Massachusetts, decidido no solo a construir una campaña exitosa, sino a construir un partido y un movimiento de clase trabajadora capaz de conquistar la sociedad que todos merecemos.

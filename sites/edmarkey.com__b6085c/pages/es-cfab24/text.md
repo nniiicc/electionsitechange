@@ -1,0 +1,390 @@
+A favor de Massachusetts
+Encuentre su pueblo, ciudad o condado para ver cómo Ed Markey ha ayudado a su comunidad.
+Total Asegurado para MA: $14,579,629,529.01
+Conoce a Ed
+Luchar por la clase trabajadora
+Experiencia que
+da forma a sus valores
+A lo largo de su carrera, Ed se ha negado a comprometer sus valores progresistas en su lucha por construir una Commonwealth y un país que sean justos y equitativos para todos.
+Nunca ha tenido miedo de romper el statu quo, y desde que fue elegido por primera vez para el Senado de los Estados Unidos en 2013, Ed ha estado liderando y cumpliendo con las cuestiones que más importan a la gente de Massachusetts.
+Redes sociales
+Gracias al Mansfield-Foxboro DTC por la cálida bienvenida de hoy.
+Los demócratas de Massachusetts no nos angustiamos; organizamos.
+Estamos agradecidos de estar con ustedes en esta lucha.
+Cuando nos organizamos juntos, los trabajadores son imparables.
+Es maravilloso reunirnos esta mañana en Dorchester con los sindicatos de todo nuestro Commonwealth.
+Este gobierno está recortando los recursos básicos para la salud que son esenciales para nuestras comunidades—pero no lo toleraremos.
+Fue un honor unirme a mis socios en esta lucha esta mañana en La Colaborativa y me siento agradecido por su incansable defensa.
+Lo último
+Ed Markey gana las primarias demócratas para el Senado de EE.
+UU.
+1 de septiembre de 2026
+Esta noche, Ed Markey ganó las primarias demócratas para el Senado de los EE.
+UU., asegurando la nominación demócrata y avanzando a las elecciones generales de noviembre.
+EL LOCAL 201 DE IUE-CWA RESPALDA LA REELECCIÓN DE ED MARKEY
+Sindicato con sede en Lynn respalda a Markey por apoyar a los trabajadores sindicalizados, la manufactura estadounidense y la seguridad nacional
+27 de agosto de 2026
+Los senadores estadounidenses Bernie Sanders y Elizabeth Warren, junto con la congresista Ayanna Pressley, realizarán un mitin "Poder para el Pueblo" con el senador Ed Markey el sábado 29 de agosto.
+Defensores de la Igualdad Transgénero respaldan al senador Ed Markey
+Principal organización nacional de derechos de los transgénero respalda a Markey como un campeón comprobado y autor de la Declaración de Derechos de los Transgénero
+26 de agosto de 2026
+Principal organización nacional de derechos de los transgénero respalda a Markey como un campeón comprobado y autor de la Declaración de Derechos de los Transgénero
+Acción Política Progresista China respalda al senador Ed Markey
+A seis días de las primarias, la voz política de la comunidad china del Gran Boston respalda a Markey
+26 de agosto de 2026
+A seis días de las primarias, la voz política de la comunidad china del Gran Boston respalda a Markey
+AVISO: Bernie Sanders, Elizabeth Warren y Ayanna Pressley se unirán a Ed Markey para el mitin de movilización de votantes 'Power to the People'
+24 de agosto de 2026
+Los senadores estadounidenses Bernie Sanders y Elizabeth Warren, junto con la congresista Ayanna Pressley, realizarán un mitin "Poder para el Pueblo" con el senador Ed Markey el sábado 29 de agosto.
+Alexandria Ocasio-Cortez respalda a Ed Markey
+AOC respalda a su colaboradora legislativa de toda la vida y probada campeona progresista
+20 de agosto de 2026
+AOC respalda a Ed Markey para la reelección
+“No debería ser tan difícil salir adelante”: Markey y Warren celebran un cabildo abierto sobre el costo de vida en Holyoke
+Más de 250 residentes del oeste de Massachusetts abarrotaron el Holyoke Community College para hacer sus preguntas sobre vivienda, servicios públicos, comestibles, atención médica y educación directamente a los senadores
+15 de agosto de 2026
+Más de 250 residentes del oeste de Massachusetts abarrotaron el Holyoke Community College para hacer sus preguntas sobre vivienda, servicios públicos, comestibles, atención médica y educación directamente a los senadores
+Nuevos informes profundizan las dudas sobre las inversiones de capital privado de Seth Moulton en la industria de defensa
+The American Prospect: "Moulton debería estar en el centro de esto.
+En su lugar, está comprometido por sus propias inversiones y conexiones personales."
+11 de agosto de 2026
+The American Prospect: "Moulton debería estar en el centro de esto.
+En su lugar, está comprometido por sus propias inversiones y conexiones personales."
+La campaña del senador Markey lanza consejos asesores comunitarios en todo Massachusetts
+10 de agosto de 2026
+Organizadores comunitarios, líderes sindicales, clérigos, legisladores y estudiantes ayudarán a dar forma a las prioridades de la campaña y a fortalecer el alcance comunitario
+La mayor organización de libertad reproductiva del país respalda a Ed Markey
+10 de agosto de 2026
+Reproductive Freedom For All respalda a Markey mientras Trump y los republicanos de MAGA buscan hacer retroceder el reloj en los derechos al aborto
+El senador Markey reúne a los votantes de Worcester y promete seguir cumpliendo con las familias trabajadoras y luchando contra Trump
+Markey encabeza importantes mítines de movilización de votantes en Marshfield y New Bedford, visita pequeños negocios con encuentros y saludos en Fall River y Falmouth
+9 de agosto de 2026
+El senador Ed Markey reunió a cientos de simpatizantes en South Shore, South Coast y Cape el domingo 9 de agosto de 2026.
+El senador Markey reúne a los votantes de Worcester y promete seguir cumpliendo con las familias trabajadoras y luchando contra Trump
+8 de agosto de 2026
+Hoy, el senador Ed Markey reunió a los votantes de Worcester en Institute Park el sábado, acompañado por el alcalde de Worcester, Joe Petty; el senador estatal Michael Moore; el representante estatal Jim O’Day; el representante estatal David LeBoeuf,…
+Declaración del senador Ed Markey sobre las primarias de Míchigan
+5 de agosto de 2026
+Hoy, el senador estadounidense Ed Markey emitió la siguiente declaración sobre la victoria del Dr.
+Abdul El-Sayed anoche como candidato demócrata en la contienda por el Senado de los EE.
+UU. en Míchigan:
+"Absolutamente patético": el senador Markey critica a Seth Moulton por usar a víctimas de trata de personas para ganar puntos políticos
+3 de agosto de 2026
+Declaración del senador Markey después del debate de Boston 25 + WGBH de esta noche
+Antes del Segundo Debate Primario, Nuevas Revelaciones Exponen los "Tratos Preferenciales" Internos de Seth Moulton en Compañías de Defensa
+The American Prospect: “Ninguna de estas rondas de financiación necesitó el dinero de Moulton.
+Más bien, fueron oportunidades para incluirlo en un trato ventajoso… Ya ha obtenido pingües beneficios, y si debe un favor, el favor todavía está pendiente.”
+3 de agosto de 2026
+Hoy, The American Prospect publicó “Seth Moulton’s Sweetheart Deals”, una nueva investigación que detalla cómo el congresista Seth Moulton ganó millones mientras servía en el Comité de Servicios Armados de la Cámara a través de acuerdos privados exclusivos...
+Markey presenta dos ambiciosos proyectos de ley del New Deal Verde para reconstruir las escuelas de Estados Unidos y proteger su sistema de salud del cambio climático.
+31 de julio de 2026
+Esta semana, Markey presentó planes para invertir en estudiantes, pacientes, trabajadores y comunidades, al mismo tiempo que crea millones de empleos bien remunerados.
+El congresista Ro Khanna apoya la reelección de Ed Markey
+31 de julio de 2026
+Hoy, el diputado Ro Khanna ha dado su apoyo al senador Ed Markey para su reelección al escaño del Senado de los Estados Unidos por Massachusetts.
+El senador Ed Markey respalda al Dr.
+Abdul El-Sayed para el Senado de los Estados Unidos
+29 de julio de 2026
+Hoy, el senador Ed Markey anunció su respaldo al Dr.
+Abdul El-Sayed para el escaño del Senado de los EE.
+UU. en Michigan.
+Vídeo recién publicado muestra cómo Moulton ganó millones de contratistas de defensa.
+Un video recién estrenado detalla cómo las transacciones internas del congresista Seth Moulton le han hecho ganar millones de dólares.
+Las inversiones exclusivas previas a la salida a bolsa incluyeron fabricantes de armas que comparecen ante el mismo Comité de Servicios Armados de la Cámara que él integra.
+24 de julio de 2026
+Un video recién lanzado detalla cómo las transacciones internas del congresista Seth Moulton le han hecho ganar millones de dólares.
+La congresista Pramila Jayapal apoya a Ed Markey para el Senado
+La progresista y presidenta emérita del Caucus Progresista del Congreso apoya a Ed Markey como el compañero que "siempre está a la altura del momento", desde liderar la Ley de Derechos Trans en el Senado hasta redactar la Ley de Derechos Civiles de la IA.
+24 de julio de 2026
+La congresista Pramila Jayapal respalda a Ed Markey para el Senado.
+ICYMI: Legisladores de Massachusetts Occidentales Dicen que Seth Moulton 'Erra el Blanco' con el Tren de Oeste a Este
+En un artículo de opinión de MassLive, los senadores estatales Adam Gómez y Jake Oliveira califican la desestimación del progreso ferroviario de la región por parte de Moulton de "profundamente errónea" y acreditan a Markey como "un campeón desde el primer día".
+23 de julio de 2026
+Dos senadores estatales del oeste de Massachusetts publicaron un artículo de opinión en MassLive el miércoles para dar un veredicto contundente sobre el enfoque de Seth Moulton con respecto al ferrocarril de pasajeros West-East, el proyecto transformador que lleva décadas...
+Por si te lo perdiste: Seth Moulton está enviando discretamente señales a los súper PAC de dinero oscuro que afirma oponerse.
+MassLive informa que el Congresista Moulton está manejando una "caja roja" oculta que le dice a los grupos de dinero oscuro exactamente qué decir en su nombre.
+22 de julio de 2026
+Nuevos informes muestran que el congresista Seth Moulton está utilizando el sitio web de su campaña para coordinarse indirectamente con super PAC de dinero oscuro, una medida que permite a su campaña eludir las leyes federales de campaña.
+Warren, Pressley, Sanders se unen detrás de Ed Markey en nueva compra de anuncios a nivel estatal
+21 de julio de 2026
+A 42 días del Día de las Primarias del 1 de septiembre, la campaña Markey for Senate lanzó hoy un nuevo anuncio televisivo y digital a nivel estatal en el que el senador Markey aparece junto a tres de…
+Seth Moulton engaña sobre su historial de votación durante el primer debate de las primarias al Senado
+8 de julio de 2026
+CHICOPEE, Mass. – Durante el primer debate primario de la carrera por el Senado de Massachusetts, el congresista Seth Moulton mintió en múltiples ocasiones sobre su historial de votación, sus inversiones en capital privado y el progresismo del senador Markey…
+Jane Fonda Climate PAC respalda a Ed Markey para el Senado
+Grupo fundado por el actor ganador del Oscar y activista climático respalda a Markey como un campeón que no teme responsabilizar a la industria de los combustibles fósiles.
+2 de julio de 2026
+El Jane Fonda Climate PAC respaldó hoy al senador Ed Markey para su reelección al Senado, poniendo a una de las organizaciones climáticas más destacadas del país detrás de un legislador al que ha llamado...
+El senador Markey critica fallo de la Corte Suprema dirigido a niños transgénero
+Markey insta a Seth Moulton a asumir la responsabilidad por sus pasados comentarios hirientes
+30 de junio de 2026
+Seth Moulton necesita asumir la responsabilidad por sus comentarios dañinos pasados contra la comunidad trans.
+El senador Bernie Sanders respalda la reelección de Ed Markey
+29 de junio de 2026
+BOSTON, Mass. — Hoy, el senador estadounidense Ed Markey anunció que recibió el respaldo del senador Bernie Sanders (I-VT) en su campaña de reelección al Senado de los Estados Unidos.
+Durante décadas, los senadores…
+Investigación de WBUR muestra que Moulton podría ganar millones con startups de defensa que su comité supervisa
+Moulton le dijo a WBUR que “no había conflicto”; luego anunció que se recusaría en el futuro y transferiría activos a un fideicomiso ciego.
+18 de junio de 2026
+Reportajes de investigación de una afiliada de NPR descubrieron acuerdos de capital privado de Seth Moulton con empresas que comparecen ante su comité de Servicios Armados.
+Tick-Tock, Seth: La Campaña de Markey Activa el Cronómetro de Transparencia
+18 de junio de 2026
+BOSTON, Mass. – Tic-tac, Seth.
+Hoy, la campaña de Markey para el Senado lanzó el Cronómetro de Transparencia, un contador en tiempo real que aparece de forma destacada en EdMarkey.com y que registra cada día, hora, minuto y segundo…
+"Deja de esconderte detrás de excusas": Moulton esquiva la pregunta sobre la declaración de impuestos y la divulgación financiera en el debate
+16 de junio de 2026
+BOSTON, Mass. – En el debate del martes por la noche, el congresista Seth Moulton se negó a ser específico sobre la publicación de su declaración de impuestos de 2025 o su declaración financiera, restando importancia a lo legítimo…
+La campaña de Markey publica la declaración de impuestos de 2025 del senador y pide a Seth Moulton que haga lo mismo
+16 de junio de 2026
+Boston, MA – Hoy, el senador Ed Markey publicó su declaración de impuestos federal de 2025 y pidió al congresista Seth Moulton que publique de inmediato sus propias declaraciones de impuestos y proporcione a los votantes de Massachusetts…
+El senador Markey acepta dos debates primarios y desafía a Moulton a un tercero en el oeste de Massachusetts
+8 de junio de 2026
+BOSTON, Mass. – El senador Ed Markey desafió hoy al congresista Seth Moulton a aceptar un debate primario demócrata en el oeste de Massachusetts, asegurando que los votantes fuera del mercado mediático de Boston puedan…
+El AFL-CIO de Massachusetts apoya la reelección del senador Ed Markey
+8 de junio de 2026
+PARA PUBLICACIÓN INMEDIATA Lunes, 8 de junio de 2026 Contacto de Prensa: Jonathan Ng Director de Comunicaciones jonathan@edmarkey.org BOSTON, Mass. – Hoy
+El senador Markey acepta dos debates primarios y desafía a Moulton a un tercero en el oeste de Massachusetts
+Los otros dos debates son difundidos por medios de Boston que no llegan al 413.
+Los residentes del oeste de Massachusetts también merecen ser parte del proceso.
+4 de junio de 2026
+PARA SU PUBLICACIÓN INMEDIATA Jueves, 4 de junio de 2026 Contacto de prensa: Jonathan Ng Director de Comunicaciones jonathan@edmarkey.org BOSTON, Mass. – El Senador Ed Markey desafió hoy al Congresista Seth Moulton a aceptar un demócrata...
+El senador Ed Markey gana el respaldo del Partido Demócrata de Massachusetts en la Convención Estatal
+Respaldado por votantes demócratas de todo Massachusetts, el senador Markey pide una mayoría demócrata progresista lista para proteger las libertades, enfrentar la corrupción corporativa y cumplir para las familias trabajadoras.
+30 de mayo de 2026
+Respaldado por votantes demócratas de todo Massachusetts, el senador Markey pide una mayoría demócrata progresista lista para proteger las libertades, enfrentar la corrupción corporativa y cumplir para las familias trabajadoras.
+Alex Rikleen Suspende su Campaña al Senado de EE.
+UU., Apoya la Reelección de Ed Markey
+Padre de Acton, ex profesor de historia y candidato al Senado ajeno a los partidos insta a los demócratas a unirse detrás de Markey antes de la Convención de MassDems
+27 de mayo de 2026
+Respaldado por votantes demócratas de todo Massachusetts, el senador Markey pide una mayoría demócrata progresista lista para proteger las libertades, enfrentar la corrupción corporativa y cumplir para las familias trabajadoras.
+El Sindicato de Constructores de Ascensores Apoya la Reelección de Ed Markey
+El Local 4 apoya a Markey, citando su lucha por los oficios de la construcción y la próxima generación de trabajadores calificados.
+26 de mayo de 2026
+PARA PUBLICACIÓN INMEDIATA Martes, 26 de mayo de 2026 Contacto de Prensa: Jonathan Ng Director de Comunicaciones jonathan@edmarkey.org BOSTON, Mass. – Hoy, el Sindicato Internacional de Constructores de Ascensores Local 4 anunció su respaldo al Senador Ed…
+Tres de los gremios de la construcción más grandes de Massachusetts respaldan a Ed Markey para el Senado.
+5 de mayo de 2026
+PARA PUBLICACIÓN INMEDIATA Martes, 5 de mayo de 2026 Contacto de prensa: Jonathan Ng Director de Comunicaciones jonathan@edmarkey.org BOSTON, Mass. – Hoy, tres de los sindicatos de la construcción más grandes de Nueva Inglaterra, United Union of Roofers, Waterproofers and Allied…
+El NRDC Action Fund apoya a Ed Markey para el Senado en el Día de la Tierra
+22 de abril de 2026
+BOSTON, Mass. – Hoy, en el Día de la Tierra, el NRDC Action Fund anunció su respaldo a la reelección del senador Ed Markey, citándolo como uno de los legisladores climáticos más importantes y con mayor visión de futuro de la nación en el…
+El Sunrise Movement y Voters of Tomorrow respaldan al senador Ed Markey para su reelección
+18 de abril de 2026
+BOSTON, Mass. – Sunrise Movement, la organización juvenil de acción climática más grande del país, y Voters of Tomorrow, la organización política líder de la Generación Z del país, anunciaron hoy su respaldo al Senador Ed Markey…
+Las principales organizaciones LGBTQ y de derechos reproductivos del país respaldan a Ed Markey para el Senado.
+2 de abril de 2026
+BOSTON, Mass. – Hoy, la Human Rights Campaign (HRC) y el Planned Parenthood Action Fund anunciaron su respaldo al senador Ed Markey para su reelección al Senado.
+La doble nacional…
+Daily Hampshire Gazette: 'Un campeón que aparece': El senador Markey recibe el apoyo de los líderes de Massachusetts occidental
+24 de marzo de 2026
+Por: Sam Ferland HAMPSHIRE - Ocho funcionarios locales, entre ellos la alcaldesa de Northampton, Gina-Louise Sciarra, y el alcalde de Easthampton, Salem Derby, han apoyado al senador estadounidense Ed Markey para su reelección en el Senado de Estados Unidos,...
+La Junta Ejecutiva de los Trabajadores Postales de Massachusetts apoya a Ed Markey para el Senado
+17 de marzo de 2026
+BOSTON, Massachusetts. - La Junta Ejecutiva del American Postal Workers Union Massachusetts y el Local 100 del Boston Metro APWU anunciaron su apoyo al senador Ed Markey para la reelección.
+El APWU es...
+The Berkshire Eagle: Los alcaldes de North Adams y Pittsfield apoyan a Ed Markey en las primarias al Senado
+13 de marzo de 2026
+Por: Tara Monastesse Berkshire - A medida que la temporada de elecciones de mitad de período se calienta en Massachusetts, los líderes de las dos ciudades del condado de Berkshire se aferran a lo que saben.
+El alcalde de Pittsfield, Peter Marchetti, y...
+Markey nos cubre las espaldas" El sindicato estatal de maquinistas apoya la reelección del senador Ed Markey
+12 de marzo de 2026
+BOSTON - El Consejo Estatal de la Asociación Internacional de Maquinistas y Trabajadores Aeroespaciales (IAM), que representa a 10.000 trabajadores sindicados de todo Massachusetts, ha anunciado hoy su apoyo al senador Ed Markey para la reelección.
+"La...
+BOSTON, Mass. - Hoy, la Asociación de Auxiliares de Vuelo-CWA, AFL-CIO (AFA-CWA), el mayor sindicato de auxiliares de vuelo del mundo, ha anunciado su apoyo al senador Ed Markey para la reelección.
+La AFA...
+Boston Globe: Ayanna Pressley apoya a Ed Markey para la reelección
+2 de marzo de 2026
+Por Anjali Huynh BOSTON - La diputada estadounidense Ayanna Pressley, que en su día se planteó seriamente competir con el senador Ed Markey por su escaño este año, respalda ahora la candidatura del demócrata a la reelección en medio de una...
+Dorchester Reporter: Markey recibe el apoyo de numerosos cargos electos de Boston
+25 de febrero de 2026
+Por Reporter Staff BOSTON - El senador Ed Markey ha anunciado hoy una avalancha de apoyos, entre ellos 12 de los 13 miembros del Ayuntamiento de Boston, varios legisladores estatales de Boston,...
+Boston Globe: La alcaldesa de Boston, Michelle Wu, respalda a Ed Markey
+23 de febrero de 2026
+Por Anjali Huynh BOSTON - El senador estadounidense Ed Markey apoyó en dos ocasiones las campañas para la alcaldía de Michelle Wu, incluida la candidatura de reelección de su compañera demócrata progresista el año pasado contra un oponente desvalido que se presentó a su derecha.
+Ahora, Wu...
+El Consejo Regional de Carpinteros de los Estados del Atlántico Norte apoya a Ed Markey para el Senado de EE.UU.
+18 de febrero de 2026
+BOSTON, Massachusetts - El Consejo Regional de Carpinteros de los Estados del Atlántico Norte (NASRCC, por sus siglas en inglés), que representa a más de 30.000 carpinteros en activo y jubilados,...
+Athol Daily News: Markey presenta la Ley ICE Out of Our Faces
+8 de febrero de 2026
+Por KATIE CASTELLANI BOSTON - En Beacon Hill se están gestando amplias reformas en materia de privacidad de datos e inmigración, y el senador Ed Markey ha incluido ambas en un nuevo proyecto de ley.
+El miércoles, Markey...
+Teamsters Brotherhood of Locomotive Engineers and Trainmen apoya la reelección del senador Ed Markey
+2 de febrero de 2026
+BOSTON - La campaña de Ed Markey para el Senado ha anunciado hoy el apoyo de la Hermandad de Maquinistas de Locomotoras y Ferroviarios (BLET), el sindicato de Teamsters que representa a los...
+Truthout: Senador pide abolir ICE, dice que votar para financiar DHS apoya "asesinato"
+29 de enero de 2025
+Por Sharon Zhang El senador Ed Markey (demócrata de Massachusetts) ha salido en tromba a favor de abolir el ICE y bloquear la financiación del Departamento de Seguridad Nacional (DHS), exigiendo que los demócratas...
+UNITED HERE Local 26: Hotel and Food Workers Union apoya la reelección del senador Ed Markey
+20 de enero de 2026
+Boston, MA - El sindicato de hostelería y restauración de Boston, UNITE HERE Local 26, ha anunciado hoy su apoyo a Ed Markey.
+Este sindicato de 12.000 miembros es uno de los...
+El sindicato Teamsters Local 122 apoya la reelección del senador Ed Markey
+15 de enero de 2026
+Boston, MA - Teamsters Local 122 se enorgullece en anunciar nuestro apoyo a Ed Markey para la reelección al Senado de los Estados Unidos.
+A lo largo de su mandato, el senador Markey ha...
+Newsweek: El senador Markey apoya la impugnación de Kristi Noem
+15 de enero de 2025
+Por Jason Lemon WASHINGTON - El senador Ed Markey, demócrata de Massachusetts, se ha mostrado a favor de impugnar a la secretaria del Departamento de Seguridad Nacional (DHS), Kristi Noem, después de que un grupo de...
+MSNOW: El senador Markey dice a Chris Hayes que "no hay cheque en blanco para el DHS".
+14 de enero de 2026
+El senador Ed Markey se une a Chris Hayes para hablar de su creciente preocupación por los abusos del ICE, la necesidad de poner fin a la inmunidad cualificada de los funcionarios del ICE y la rendición de cuentas de las fuerzas de seguridad federales.
+Markey...
+Boston Globe: El gobierno de EE.UU. y la Unión Europea se unen en la lucha contra el terrorismo
+13 de enero de 2026
+Por Julian E.J.
+Sorapuru WASHINGTON - El senador Ed Markey y la representante Ayanna Pressley han presentado hoy un proyecto de ley que eliminaría un principio jurídico que protege a los empleados del gobierno federal, incluidas las fuerzas del orden, de la responsabilidad civil...
+Los sindicatos SEIU 1199, 32BJ, CIR/SEIU, 888 y 509 apoyan a Ed Markey para el Senado de EE.UU.
+12 de enero de 2025
+BOSTON, Mass. - Hoy, los sindicatos locales del Sindicato Internacional de Empleados de Servicios (SEIU) en Massachusetts, que comprenden 115.000 miembros sindicalizados, anunciaron su apoyo a Ed Markey para la reelección al Senado, respaldando a un...
+Boston Globe: Mass.
+La Asociación de Profesores respalda la reelección del senador Ed Markey
+8 de enero de 2025
+Por James Vaznis El senador estadounidense Ed Markey se está asegurando el apoyo de los sindicatos de profesores del estado para evitar el desafío a la reelección del representante estadounidense Seth Moulton.
+El senador...
+MA Politico Playbook: Los demócratas universitarios de MA apoyan a Markey
+5 de enero de 2026
+Por KELLY GARRITY PRIMERA EN EL PLAYBOOK - El representante Seth Moulton se presenta al Senado con un llamamiento al cambio generacional.
+Algunos miembros de la próxima generación no se lo creen.
+Los miembros de la...
+La Federación Americana de Profesores de Massachusetts apoya la reelección del senador Ed Markey
+11 de diciembre de 2025
+BOSTON - La Federación Americana de Maestros de Massachusetts, que representa a los maestros, paraprofesionales, bibliotecarios, enfermeras y personal de apoyo en las escuelas públicas, colegios y bibliotecas de todo el Commonwealth, anunció hoy su...
+Ken Burns apoya la reelección del senador Ed Markey
+9 de diciembre de 2025
+BOSTON - El galardonado director de documentales Ken Burns ha apoyado al senador estadounidense Ed Markey para la reelección de 2026, transmitiendo un mensaje contundente y urgente sobre el futuro de la democracia estadounidense....
+Los bomberos profesionales de Massachusetts apoyan la reelección del senador Ed Markey
+24 de noviembre de 2025
+BOSTON - La campaña de Markey ha anunciado hoy el apoyo de los Bomberos Profesionales de Massachusetts (PFFM), que representan a más de 13.000 bomberos, paramédicos y paramédicos en toda la Commonwealth.
+Este apoyo sigue...
+Markey, respaldado por United Food & Commercial Workers Massachusetts
+5 de noviembre de 2025
+BOSTON - En representación de más de 30.000 miembros en todo el Commonwealth, la United Food & Commercial Workers (UFCW) Massachusetts - Locales 328, 791, 1445, y 1459 - están apoyando con entusiasmo el senador Ed Markey para la reelección.
+La UFCW...
+El senador Markey recibe el apoyo de NAGE/SEIU Local 5000 para su reelección
+3 de noviembre de 2025
+BOSTON - La Asociación Nacional de Empleados del Gobierno NAGE/SEIU Local 5000 ha anunciado su apoyo al senador Ed Markey para la reelección.
+Durante décadas, el senador Markey luchó junto a NAGE y sus...
+MA Politico Playbook: Un grupo de derechos trans apoya a Markey
+30 de octubre de 2025
+Por KELLY GARRITY NUEVO ESTA MAÑANA - Una organización sin ánimo de lucro centrada en la construcción de apoyo a los derechos de los transexuales en el Congreso se está metiendo en las primarias demócratas para el Senado de Massachusetts.
+El Proyecto Christopher Street, un híbrido PAC y...
+MassLive: Markey y Pressley critican al Partido Republicano por los recortes del SNAP que podrían afectar a 1,1 millones de personas en Mass.
+29 de octubre de 2025
+Por John L.
+Micek | jmicek@masslive.com Dos legisladores de Massachusetts arremetieron contra los republicanos del Congreso el viernes, diciendo que serían totalmente culpables si la ayuda alimentaria para los más pobres y...
+New England Joint Board of UNITE HERE apoya la reelección del senador Ed Markey
+24 de octubre de 2025
+BOSTON, MA - El New England Joint Board de UNITE HERE ha anunciado su apoyo al senador Ed Markey para la reelección, citando su compromiso con los derechos y la dignidad de los trabajadores y años de...
+La fiscal general Andrea Campbell apoya la reelección del senador Ed Markey
+23 de octubre de 2025
+BOSTON - La fiscal general de Massachusetts, Andrea Campbell, ha anunciado hoy su apoyo al senador Ed Markey para la reelección, citando su firme liderazgo en la acción climática, los derechos reproductivos y la justicia económica....
+Ed Markey recibe decenas de apoyos del área metropolitana de Boston para su reelección
+11 de octubre de 2025
+BOSTON - En representación de las comunidades de Arlington, Ashland, Bedford, Belmont, Boston, Cambridge, Carlisle, Chelmsford, Chelsea, Concord, Everett, Framingham, Lexington, Lincoln, Malden, Marlborough, Medford, Methuen, Natick, Revere, Saugus, Somerville, Sudbury, Waltham,...
+MSNBC: Ed Markey dice que el GOP "está saqueando el sistema de salud" en EE.UU.
+10 de octubre de 2025
+WASHINGTON, D.C. - Es el noveno día del cierre del Gobierno y demócratas y republicanos siguen culpándose mutuamente por no llegar a un acuerdo.
+El senador Edward Markey...
+El Consejo 93 de AFSCME apoya a Ed Markey para el Senado
+26 de septiembre de 2025
+BOSTON - Respaldada por el voto unánime de la Junta Ejecutiva del Consejo 93 de AFSCME, la campaña de Markey para el Senado ha anunciado hoy el respaldo del Consejo 93 de AFSCME, que representa a más...
+Líderes estatales y regionales del 8º Distrito del Congreso apoyan la reelección de Ed Markey
+22 de septiembre de 2025
+BOSTON- Dos docenas de legisladores y líderes estatales y regionales del Octavo Distrito del Congreso que representan a las comunidades de Abington, Avon, Boston, Braintree, Bridgewater, Brockton, Canton, Cohasset, Dedham, Easton, East Bridgewater, Halifax,...
+La congresista Katherine Clark apoya la reelección de Ed Markey
+11 de septiembre de 2025
+BOSTON - La congresista Katherine Clark (MA-05), Jefa de la Minoría de la Cámara de Representantes de EE.UU., ha apoyado hoy la reelección del senador Ed Markey en un nuevo vídeo en el que...
+Boston Globe: Markey exige la dimisión de RFK Jr. tras su combativo testimonio en el Senado
+5 de septiembre de 2025
+Boston - El senador Edward J.
+Markey exigió el viernes la dimisión del Secretario de Salud y Servicios Humanos, Robert F.
+Kennedy Jr., tras su combativo testimonio en el Senado el día anterior, en el que Kennedy...
+MSNBC: Ed Markey advierte sobre el liderazgo de RFK Jr.
+4 de septiembre de 2025
+WASHINGTON, D.C. - Ante una tensa audiencia en el Capitolio, varios senadores demócratas pidieron la dimisión del Secretario del HHS, Robert F.
+Kennedy Jr., citando preocupaciones sobre el acceso a las vacunas,...
+Markey recibe el apoyo del diputado Bill Keating y de los líderes del 9º distrito del Congreso
+22 de agosto de 2025
+BOSTON - El congresista Bill Keating, junto con 26 actuales y antiguos líderes estatales, regionales y locales del Noveno Distrito del Congreso, incluyendo la Costa Sur, la Costa Sur y Cape Cod e Islas,...
+CBS News: Los legisladores de Massachusetts presentan una ley federal basada en el transporte gratuito de Boston
+19 de agosto de 2025
+BOSTON - El senador Ed Markey y la congresista Ayanna Pressley presentaron legislación federal para ampliar la equidad en el tránsito.
+Ver fuente
+Ed Markey recibe el apoyo de los líderes del norte de Boston
+13 de agosto de 2025
+BOSTON- La campaña de reelección de Ed Markey para el Senado se enorgullece de anunciar los apoyos de 24 líderes estatales y locales de las comunidades del norte de Boston, incluyendo Andover, Bedford, Danvers,...
+MassLive: Markey arremete contra Trump por el programa solar
+11 de agosto de 2025
+El senador demócrata de Massachusetts Ed Markey forma parte del coro de políticos del Estado de la Bahía que no están muy entusiasmados con la decisión de la administración Trump de cancelar...
+El congresista Jim McGovern apoya la reelección del senador Ed Markey
+31 de julio de 2025
+BOSTON- Destacando su compromiso con las familias trabajadoras del centro de Massachusetts, el congresista Jim McGovern (MA-02) apoyó hoy a Ed Markey para su reelección al Senado de EE.UU..
+Los legisladores de Massachusetts, que sirvió...
+Líderes de Boston apoyan la reelección de Ed Markey
+25 de julio de 2025
+BOSTON- Los legisladores estatales de todo Boston están lanzando su apoyo a la reelección del senador Ed Markey al Senado de EE.UU..
+El anuncio de hoy sigue a una serie de docenas de apoyos...
+La diputada Lori Trahan, junto con líderes estatales y locales del 3er distrito, apoya la reelección de Ed Markey
+16 de julio de 2025
+BOSTON - Ampliando la lista de apoyos y respaldos en todo Massachusetts, la congresista Lori Trahan y 24 actuales y antiguos líderes estatales, regionales y locales del Tercer...
+El representante Richard Neal, legisladores estatales y líderes regionales y locales del 1er distrito del Congreso apoyan la reelección de Ed Markey
+8 de julio de 2025
+BOSTON- El congresista Richard Neal, decano de la delegación de Massachusetts y principal demócrata en el Comité de Medios y Arbitrios de la Cámara de Representantes, junto con 26...
+De Newton a Fall River, 28 líderes locales, regionales y estatales apoyan la reelección de Ed Markey
+1 de julio de 2025
+BOSTON- En representación de los dirigentes de las administraciones locales, regionales y estatales de Acushnet, Attleboro, Boston, Brookline, Dover, Fall River, Franklin, Freetown, Holliston, Hopkinton, Lakeville, Mansfield, Medfield, Medway, Millis, Needham, New Bedford, North...
+VÍDEO: IBEW Local 103 apoya la reelección de Ed Markey al Senado de EE.UU.
+26 de junio de 2025
+BOSTON-Hoy en un anuncio de vídeo diciendo: "Ed Markey siempre está con los miembros del IBEW, especialmente cuando se trata de buenos puestos de trabajo con buenos salarios y buenos beneficios",...
+VIDEO: Elizabeth Warren apoya la reelección de Ed Markey
+25 de junio de 2025
+BOSTON-La senadora Elizabeth Warren, senadora principal de Massachusetts y principal defensora en el Congreso de las familias trabajadoras y de la responsabilidad corporativa, apoyó hoy a su compañero en el Senado -Ed Markey- en un anuncio en vídeo diciendo: "Él defiende...
+Cam Charbonnier dirigirá la campaña de Ed Markey para su reelección como senador de EE.UU.
+22 de julio de 2025
+BOSTON - El senador Ed Markey ha anunciado hoy que Cam Charbonnier dirigirá su campaña de reelección al Senado de los Estados Unidos.
+Charbonnier es un estratega demócrata afincado en Boston con más de...
+Boston Globe: Trump y el Partido Republicano están atacando la historia negra.
+Entonces, ¿por qué no ha habido ningún movimiento para derogar Juneteenth?
+19 de junio de 2025
+Esta semana hace cuatro años que el gobierno de Estados Unidos creó su primer nuevo día festivo federal en casi cuatro décadas.
+El Decimosexto Día de la Independencia Nacional, que conmemora la emancipación de los estadounidenses negros esclavizados, se...
+Revista TIME: Senador Markey: La "cúpula dorada" de Trump es oro de tontos
+18 de junio de 2025
+Anunciada con la bravuconería característica y poco asentada en la realidad, la llamada "Cúpula Dorada para América" del presidente Donald Trump es la última reencarnación de la fantasía de la "Guerra de las Galaxias" del presidente Ronald Reagan: una constelación...
+CBS News: Los recortes de Medicaid podrían devastar cientos de hospitales rurales en los estados del GOP, dicen los demócratas
+12 de junio de 2025
+Los recortes al gasto federal en Medicaid podrían afectar a cientos de hospitales rurales en muchos estados que han elegido senadores republicanos y votado por el presidente Trump, advirtieron el jueves los demócratas del Senado, citando...
+Boston Globe: En una juguetería de Cambridge, Markey arremete contra Trump por 'jugar con nuestra economía' con los aranceles
+Una cadena local de juguetes y un fabricante de Massachusetts dicen que los aranceles a China podrían devastar sus negocios.
+16 de mayo de 2025
+En su segundo día en un nuevo escaparate de la avenida Massachusetts, la tienda de juguetes Henry Bear's Park de Porter Square abrió sus puertas a una conversación...
+MSNBC: 'Make America Sick Again': El senador Markey arremete contra RFK Jr. y la agenda sanitaria de Trump
+14 de mayo de 2025
+El Senador Ed Markey (D-MA) se une a Chris Jansing antes de que el Comité HELP del Senado interrogue al Secretario de Salud y Servicios Humanos Robert F.
+Kennedy Jr. sobre sus recortes presupuestarios y la respuesta al sarampión....
+Boston Globe: Un año después de la quiebra de Steward, Warren y Markey exigen una investigación penal
+Los senadores están presionando al Departamento de Justicia para que investigue al director general de Steward, Ralph de la Torre, por desacato al Congreso
+6 de mayo de 2025
+Un año después de que Steward Health Care solicitara la protección por quiebra, los legisladores de Massachusetts renuevan sus llamamientos para que el Departamento de Justicia actúe contra el director ejecutivo de la empresa, el Dr.
+Ralph de...
+The New York Times: Visitamos a Rumeysa Ozturk en detención.
+Lo que vimos fue una advertencia para todos nosotros.
+25 de abril de 2025
+Una joven caminaba despreocupadamente por la vía pública y de repente se vio rodeada por agentes del orden enmascarados y vestidos de paisano.
+Sin explicación alguna, y en ausencia...
+Opinión de Commonwealth Beacon: Los precios de la energía se están disparando en Massachusetts.
+Los aranceles de Trump lo están empeorando.
+Las medidas de la Casa Blanca entorpecen los esfuerzos de los Estados para combatir el cambio climático
+10 de febrero de 2025
+Las familias de Massachusetts se enfrentan a facturas de energía por las nubes, y las imprudentes políticas energéticas y comerciales de la administración Trump lo están empeorando.
+Algunos habitantes de la Bahía ya están pagando el doble de lo que pagaban...
+Opinión del Boston Globe: El lugar de Elon Musk en la Constitución
+Artículo 3.5, una disposición nunca antes utilizada con autoridad ilimitada para rehacer nuestro orden constitucional con Musk como líder no elegido y que no rinde cuentas.
+14 de febrero de 2025
+Los libros de texto enseñan a los estudiantes los tres poderes de nuestro gobierno federal, creados en la Constitución de EE.UU. como artículos separados que definen las competencias de cada uno.
+El Artículo I es el Congreso.
+El Artículo II...
+Boston Globe: La congelación de Trump de $316m para los esfuerzos climáticos de Massachusetts es 'inconstitucional', dice Markey
+A pesar de las órdenes judiciales: "Ahora mismo, no podemos acceder a esos fondos", dijo un dirigente de una organización sin ánimo de lucro.
+7 de febrero de 2025
+Cientos de millones de dólares asignados a los programas de energía limpia y medio ambiente de Massachusetts siguen siendo inaccesibles debido a la congelación de fondos federales de la administración Trump, dijo el senador Ed Markey durante una...

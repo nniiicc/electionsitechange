@@ -1,0 +1,6 @@
+Tax & Budget Reform
+Ed proudly supported the bipartisan ethics reform House Bill 5 that has taken Georgia from being one of the loosest to being one of the toughest states in the nation in its laws regarding the disclosure of elected officials’ and lobbyists’ personal information and financial dealings.
+To provide an unprecedented level of transparency and accountability in state government agencies, Ed supported Senate Bill 300, the Transparency in Government Act, which publicizes state expenditures, contracts, audits, salaries, and travel expenses for every state agency and employee on a publicly searchable website.
+Ed supported passage of Senate Bill 33, the Zero-based Budget Act, which requires state agencies every four years to produce a full, bottom-up accounting and justification of every dollar spent in every state program.
+In June 2020, with COVID-19 devastating state tax revenues, Ed voted to cut his own pay by 10% to safeguard teacher pay and vital classroom resources.
+In 2022, Ed protected taxpayers by passing a 20% cut to the state Income Tax, eliminating the state Income Tax on military retirement, returning the state’s $1.7 billion budget surplus to taxpayers, and allowing local governments to return surplus tax dollars to local taxpayers.

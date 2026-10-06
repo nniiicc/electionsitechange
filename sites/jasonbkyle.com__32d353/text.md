@@ -21,3 +21,12 @@ Thank you for your interest.
 Jason believes in transparency and accountability.
 If you have a question, concern, or would simply like to get in touch, please enter your email below.
 You can also email Jason directly at jason@jasonbkyle.com, call (385) 394-2424 or reach out on social media.
+BY PROVIDING YOUR PHONE NUMBER AND CHECKING THE BOX BELOW, YOU ARE CONSENTING TO RECEIVE MARKETING AND POLLING TEXT MESSAGES TO THAT NUMBER FROM THE JASON B.
+KYLE CAMPAIGN.
+MESSAGE FREQUENCY VARIES.
+DONATIONS MAY BE SOLICITED.
+MESSAGE AND DATA RATES MAY APPLY.
+TEXT HELP FOR HELP.
+TEXT STOP TO UNSUBSCRIBE.
+SMS OPT-IN DATA OR PHONE NUMBERS WILL NOT BE SOLD, RENTED, OR SHARED WITH THIRD PARTIES.
+TERMS AND CONDITIONS AND PRIVACY POLICY APPLY.

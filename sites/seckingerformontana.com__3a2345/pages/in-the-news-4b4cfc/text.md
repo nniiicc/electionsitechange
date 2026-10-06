@@ -1,0 +1,70 @@
+In the Press
+These featured stories offer a quick look at Josh’s work in office and the issues he has taken on for Montanans.
+RIVER MANAGEMENT
+WHILE IN OFFICE JOSH INTRODUCED
+BETTER RIVER MANAGEMENT LEGISLATION
+Using Better Data to Protect Montana’s Rivers
+Josh introduced HB 762 to establish better recreational-use data on Montana waterways, giving managers real information before making decisions about access and use.
+“This bill seeks to establish a clear baseline of use.”
+Source: David Tucker, Mountain Journal.
+Read article
+FOOD ASSISTANCE
+WHILE IN OFFICE JOSH PUSHED FOR
+PROTECTION OF FOOD ASSISTANCE
+Standing Up for Montanans Facing Food Insecurity
+When federal delays threatened SNAP benefits for 77,000 Montanans, Josh joined lawmakers calling on the state to use available contingency funds.
+“We passed a bill that said, ‘Mr.
+Governor, here’s money to backfill cuts to federal programs.
+We’re giving you that authority.’ And yet, the governor refuses to do so.”
+Source: Mara Silvers, Montana Free Press, November 10, 2025.
+Read article
+WILDLIFE SPENDING
+WHILE IN OFFICE JOSH CALLED FOR
+ACCOUNTABILITY IN WILDLIFE SPENDING
+Protecting Habitat and Taxpayer Dollars
+Josh joined fellow lawmakers questioning a proposal to dramatically expand Montana’s pen-raised pheasant program, asking FWP to show measurable results and explain how hunting-license revenue was being used.
+“Investing in high-quality pheasant habitat and abundant wild pheasant populations offered a far superior conservation and recreational strategy than put-and-take hunting.”
+Source: Jordan Hansen, Daily Montanan, July 20, 2026.
+Read article
+SCIENCE-BASED CONSERVATION
+WHILE IN OFFICE JOSH ADVOCATED FOR
+SCIENCE-BASED WATERSHED MANAGEMENT
+Protecting Montana’s Rivers for the Long Term
+Josh joined watershed and fisheries experts to discuss how research, collaboration and practical conservation work can keep the Upper Missouri healthy for anglers, communities and future generations.
+Source:Wet Fly Swing Podcast, April 1, 2026.
+Listen to podcast
+HOUSING STABILITY
+WHILE IN OFFICE JOSH STOOD WITH BOZEMAN FAMILIES FIGHTING TO STAY IN THEIR HOMES
+Advocating for Housing Stability
+When 338 residents of King Arthur Park and Mountain Meadows Estates organized to pursue resident ownership and protect their homes from displacement, Josh publicly stood with them.
+“I stand with you.”
+Source: Esha Walia, KBZK News, August 27, 2025.Read article
+COMMUNITY PREPAREDNESS
+WHILE IN OFFICE JOSH BROUGHT LOCAL LEADERS TOGETHER TO PREPARE THE COMMUNITY
+Preparing Bozeman with Facts, Not Fear
+Josh worked with law enforcement, school leaders, local officials and community organizations to coordinate a response if federal immigration enforcement affected Bozeman.
+Josh also joined lawmakers from 27 states calling for accountability in federal enforcement.
+“It is imperative that we get this information right.
+Because if we get it wrong, all we’re doing is scaring people.”
+Source: Cassidy Powers, KBZK News, February 11, 2026.
+Read article
+PRESS COVERAGE LIST
+Science-Based Watershed Conservation
+904 | Upper Missouri Watershed Conservation with Josh Seckinger and David Stagliano from UMOWAWet Fly Swing Podcast, April 1, 2026
+Public Access and Private Property Rights
+Lawmakers Need to Protect Public Access for Corner Crossers Writers on the Range, February 9, 2026
+reprinted in Bozeman Daily Chronicle, February 26, 2026
+Community Preparedness and Public Safety
+Montana lawmakers attend ICE meeting as Bozeman officials prepare community response plan KBZK, February 11, 2026
+Food Security for Montana Families
+Montana Democrats’ pitch for a special session on hold as Congress moves toward reopening government Montana Free Press, November 10, 2025
+Housing Stability and Local Leadership
+'It gives me hope': Bozeman mobile home residents hold second press conference with elected official support KBZK News, August 27, 2025
+Data-Driven River Management
+River Study Offers New Angle on Yellowstone Recreation Mountain Journal, March 26, 2025
+Responsible Consumer Regulation
+Faced with kratom bill, lawmakers pressured to ‘get something passed’ Montana Free Press, March 25, 2025
+Public-Land Access and Private Property Rights
+Accessing public lands through block management Missoula Current, March 4, 2025
+Responsible Wildlife Management
+House dumps one wolf bill Daily Montanan January 31, 2025

@@ -1,0 +1,56 @@
+ABOUT YOLANDA “PANCHA”
+Yolanda “Pancha” Jaramillo is an educator, acequia leader, and advocate for Northern New Mexico’s land, water, and families.
+Born and raised in Rio Arriba County and rooted in the traditions of Dixon, she comes from a long line of farmers and acequieros who have protected the land and water for generations.
+From her parents, Elias and Carolina Romero, she learned the values of hard work, faith, education, and service.
+Following in her father’s footsteps as a school teacher, Yolanda built a career in education, serving as Director of the Language Learning Center at New Mexico Highlands University, a university instructor and visiting professor of Spanish, and a teacher at Española High School and other districts across New Mexico and Texas.
+She was married for 38 years to the late Nick Jaramillo, a dedicated educator and coach, and lovingly cared for him during his courageous fight with dementia — deepening her commitment to healthcare access and support for caregivers.
+Since 2009, Yolanda has served as Secretary/Treasurer of La Acequia de La Plaza de Dixon and sits on the Board of Directors of the New Mexico Acequia Association, and the Embudo Valley Regional Acequia Association.
+In 2024, she was appointed to the New Mexico Acequia Commission.
+Yolanda works to protect historic water rights, and safeguard New Mexico’s water, land and environment.
+In 2003, she and her daughter Ane Romero founded New Mexico’s first youth suicide prevention program, Yellow Ribbon, providing lifesaving trainings to schools and rural and tribal communities across the state.
+A proud mother of three and grandmother of one, Yolanda is fighting for water, land, healthcare, education, behavioral health, and job creation — delivering real results for rural communities, not rhetoric.
+Education
+- University of New Mexico, Albuquerque, NM.
+Completed one year of doctoral studies in Latin American Literature and Linguistics, 1992–1993
+- M.A., Spanish Literature, New Mexico Highlands University, Las Vegas, NM, 1987
+- B.A., Spanish/ Theatre, New Mexico Highlands University, Las Vegas, NM , 1983
+- Graduate, Menaul High School.
+Albuquerque, NM, 1976
+Work and Community Experience
+- Secretary/Treasurer, La Acequia de La Plaza de Dixon, 2009–Present
+Re-elected to consecutive two-year terms; oversees governance, financial stewardship, and protection of historic acequia water rights.
+- NM Acequia Commission, Appointed by Governor Michelle Luján-Grisham, 2024
+- Board of Directors, Concilio, New Mexico Acequia Association, 2010-Present
+Advocates for acequia communities statewide, supporting policy, education, and land and water protection initiatives.
+- Chapter Coordinator/Trainer, Yellow Ribbon Suicide Prevention Program of New Mexico, 2003–Present
+Leads suicide prevention training and outreach efforts in local communities.
+- Teacher, Española High School, 2016
+- Instructor, Bilingual Strategies Institute, Taos, NM, 2015
+- Interim Director, Language Learning Center, New Mexico Highlands University, 2007–2008
+- Instructor, Spanish, Heritage Spanish, Literature, New Mexico Highlands University, 1987-1991; 2006–2008
+- Secondary Language Skills Tester, Las Vegas City Schools, Las Vegas, NM, 2005
+- Instructor, Intermediate Spanish, Graduate Assistant, University of NM
+- Office of Academic Support and Career Services, New Mexico Highlands University, 2004
+- Teacher, English to Speakers of Other Languages, Spanish, Directed The Diary of Anne Frank, Aldine Senior High School, Houston, TX, 2002–2003
+- Youth Development Specialist, La Jicarita Enterprise Community Youth Development, Mora, NM, 2001–2002
+- Teacher, West Las Vegas Family Partnership & Valley Middle School, West Las Vegas School District, Las Vegas, NM, 2000–2001
+- Fundraiser Communicator/Supervisor, IDC Communication Centre, Henderson, NV, 1997–1998
+- Free-Lance Voice Overs, Translator and Language Consultant, OR; Directed educational video, Umatilla Dam Visitor’s Center, OR
+- Teacher, Grants High School, Grants-Cíbola School District, Grants, NM, 1998
+- Instructor, Pacific University, Forest Grove, OR 1996
+- Visiting Professor of Spanish, Literature, Director of Theatre in Spanish, New Mexico Highlands University, 1991–1992
+Community Involvement
+- Community Event Organizer, 300th Anniversary of Las Acequias del Embudo, Dixon, NM.
+As a result of this event, Governor Luján -Grisham declared September 20, 2025, NM Acequia Heritage Day.
+Currently collaborating on an upcoming 301st Anniversary event.
+Co-sponsored, organized, visited with acequieros from the Peñasco and Embudo Valleys, and recruited presenters, and musicians for this all-day commemorative event.
+- Las Vegas 4th of July Fiesta Committee.
+Co-initiated and organized the first Las Vegas 4th of July Veterans Parade and Ceremony.
+- Maestra de Ceremonias, Fiestas de Santa Rosa de Dixon
+- Stage Actress, Director, among the many roles, I portray La Agua en El Trovo del Aceite y La Agua
+- Radio Personality, KXRT FM, Taos; KDCE; KNMX Las Vegas, NM 1979-1985
+- Active advocate for acequia, clean water, land issues, and suicide prevention awareness throughout New Mexico.
+Personal
+Yolanda is passionate about prayer, acequia and land stewardship, behavioral health, genealogy, the Spanish language and its dialects and teatro.
+She was married for 38 years to the late Nick Jaramillo, a dedicated educator and coach, and lovingly cared for him during his courageous fight with dementia.
+She is a proud mother of one son and two daughters, a grandmother to one grandson, and a devoted companion to Holly Dog and her beloved parakeet.

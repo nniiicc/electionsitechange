@@ -1,0 +1,16 @@
+PORTLAND, OR – Today, Republican Christine Drazan released a new ad in a desperate attempt to distract from her own unpopular record of protecting data centers and refusing to call for accountability.
+Governor Kotek’s record on data centers is clear.
+She supports moratoriums on new data center development across Oregon and said the state “needs to stop being a cheap date.” She blocked the sale of state land for a new data center in Salem and continues to call for more transparency and accountability to protect Oregon consumers and natural resources.
+Christine Drazan’s Record on Data Centers:
+- Even though a majority of Oregonians don’t want data centers in their backyard, Christine Drazan opposed data center oversight and tax break repeals.
+- Last year, Drazan voted against the POWER Act (HB 3546, 2025), legislation designed specifically to hold data centers accountable for paying their fair share of utility costs.
+- In July, Drazan said she did not support an “arbitrary moratorium” on data centers.
+“Christine Drazan has avoided every opportunity to hold data centers accountable,” said Federico Araujo, communications director for Tina for Oregon.
+“Meanwhile, Governor Kotek supports a moratorium on new data center development across Oregon until they no longer increase utility rates, undermine clean energy for other users, and damage our clean water and air.
+Unlike Christine Drazan, Governor Kotek knows it’s time to take action.”
+###
+ABOUT GOVERNOR KOTEK
+Governor Tina Kotek has spent her career making history and fighting for others.
+Over the last three years, Governor Kotek has expanded access to affordable childcare, created thousands of new shelter beds, protected abortion access and vote-by-mail, and funded early literacy and summer learning programs.
+She has also been a national leader in pushing back against Donald Trump’s attacks on our communities, our healthcare, and our rights by blocking his illegal attempts to deploy the Oregon National Guard in our communities and working through the night to reverse his decision to strip food assistance from Oregonians by taking away SNAP benefits.
+Governor Kotek is running for reelection to continue defending Oregon values and tackling the state’s biggest challenges – lowering costs, reducing homelessness, strengthening schools, expanding mental health and addiction care, and bringing affordable childcare to every corner of the state.

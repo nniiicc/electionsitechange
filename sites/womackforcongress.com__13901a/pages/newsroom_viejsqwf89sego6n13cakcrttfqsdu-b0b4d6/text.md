@@ -1,0 +1,10 @@
+Congressman Womack Wins Third District Republican Primary
+For Immediate Release
+May 24, 2022
+ROGERS, Ark. – Representative Steve Womack (AR-3) today released the following statement after winning the Arkansas Republican primary nomination:
+“It’s a privilege to have the continued confidence of Third District Arkansans.
+As your representative in Congress, I work every day to uphold the promises of the Constitution.
+This means fighting for a stronger economy, smaller government, lower taxes, the rule of law, individual liberty, and a powerful military.
+Together, “we the people” will uphold the conservative principles that have built our exceptional nation into November and beyond.
+Thank you for your trust and vote.”
+###

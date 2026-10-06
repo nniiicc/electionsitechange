@@ -1,0 +1,73 @@
+top of page
+Use tab to navigate through the menu items.
+Malden Delegation Announces $35,000 State Grant to Purchase Safety Equipment for the Malden Fire Department
+BOSTON (February 5, 2025) —State Senator Jason Lewis and State Representatives Paul Donato, Steve Ultrino, and Kate Lipper-Garabedian...
+Feb 5, 2025
+Malden Delegation Announces $150,000 in One Stop for Growth Grants
+BOSTON (October 31, 2024) —State Senator Jason Lewis and State Representatives Paul Donato, Steve Ultrino, and Kate Lipper-Garabedian...
+Oct 31, 2024
+Legislative Delegation Announces Road Safety Grant for Malden
+BOSTON (October 24, 2024) —State Senator Jason Lewis and State Representatives Paul Donato, Steve Ultrino, and Kate Lipper-Garabedian...
+Oct 24, 2024
+Malden Delegation Announces $249,750 Shared Streets and Spaces Program Award
+BOSTON (September 6, 2024) —State Senator Jason Lewis and State Representatives Paul Donato, Steve Ultrino, and Kate Lipper-Garabedian...
+Sep 6, 2024
+Malden Delegation Secures $925,000 for Numerous Local Prioritie
+BOSTON (August 8, 2024) —State Senator Jason Lewis and State Representatives Paul Donato, Steve Ultrino, and Kate Lipper-Garabedian are...
+Aug 8, 2024
+Malden Receives Historic Levels of Funding Through Municipal Vulnerability Preparedness Program
+The Malden Delegation worked with City officials and regional coalitions to secure over $1 million for combating regional impacts from...
+Sep 23, 2022
+Malden Benefits from Shannon Community Safety Initiative Grant Program
+MAPC received $757,147.86 from the Senator Charles E.
+Shannon Jr., Community Safety Initiative (CSI) Grant Program to address and respond...
+Feb 18, 2022
+FY22 Student Awareness of Fire Education & Senior SAFE Programs
+Malden Fire Department received $7575 from the Student Awareness of Fire Education (S.A.F.E.) Grant Program and $3455 from the Senior...
+Feb 18, 2022
+FY22 Firefighter Safety Equipment Grant Program
+The Malden Fire Department was awarded a total of $21,691 from the MA Department of Fire Services.
+The program allows fire departments to...
+Jan 19, 2022
+Municipal Americans with Disabilities Act Grant Program
+The City of Malden was recently awarded a total of $45,000 from the Massachusetts Office on Disability to complete upgrades to the Malden...
+Jan 19, 2022
+FY22 Civics Teaching and Learning Grant Awardees Announced
+Malden public schools will receive $45,000 for vendor partnerships to provide professional development for teachers and administrators....
+Jun 21, 2021
+FY22 Early Childhood Mental Health Consultation Grant Awardees Announced
+Malden and surrounding communities will receive over $630,000 to expand childhood behavioral health services.
+The Department of Early...
+May 26, 2021
+Application Opening For $28.6 Billion Restaurant Revitalization Fund
+SBA Administrator Isabella Casillas Guzman announced today that the U.S.
+Small Business Administration will begin registrations on...
+Apr 29, 2021
+SELF-EMPLOYED AND GIG WORKERS - NEW UNEMPLOYMENT BENEFIT
+The MEUC program, which is a part of the Continued Assistance Act, was created to assist workers who qualified for traditional...
+Apr 27, 2021
+Two Malden Cultural Organizations Awarded a Total of $5000
+I'm proud to announce that Jean Appolon Expressions, Inc. and Monkeyhouse, Inc. of Malden have been awarded $2,500 each from the Mass....
+Apr 21, 2021
+MASSACHUSETTS HEALTH CONNECTOR CONDUCTING WEBINAR FOR THOSE IN NEED OF HEALTH INSURANCE COVERAGE & N
+The Health Connector is currently in an extended Open Enrollment period through July 23rd, 2021.
+This webinar will cover how the American...
+Apr 10, 2021
+MALDEN AWARDED $102,000 IN SHARED STREETS GRANT FUNDS
+I'm pleased to announce that Malden has been awarded $102,000 in Shared Streets Grant funds from the Mass.
+Department of Transportation...
+Apr 6, 2021
+HOUSING FAMILIES AND THE MALDEN YMCA AWARDED A TOTAL OF $67,000 IN ASOST GRANTS
+I'm proud to announce that Housing Families and the Malden YMCA have received a total of $67,000 in After School and Out-of-School Time...
+Apr 3, 2021
+MALDEN FIRE DEPARTMENT AWARDED $24,355 IN FIREFIGHTER SAFETY EQUIPMENT GRANTS
+I'm proud to announce that the Malden Fire Department has been awarded $24, 355 in Firefighter Safety Equipment Grants from the...
+Apr 2, 2021
+Malden Public Schools have been awarded $2000 in Influence 100 Grants from the Department of Element
+I'm proud to announce that Malden Public Schools have been awarded $2000 in Influence 100 Grants from the Department of Elementary and...
+Mar 30, 2021
+No events at the moment
+Tel: (617) 722-2877
+Email: Steven.Ultrino@MAhouse.gov
+State House, Room 174, Boston, MA 02133
+bottom of page

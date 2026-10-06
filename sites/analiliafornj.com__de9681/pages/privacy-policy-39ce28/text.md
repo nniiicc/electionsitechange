@@ -1,0 +1,76 @@
+Privacy Policy
+Analilia for NJ has created this privacy notice to explain how we use information that you may provide while visiting our website and to demonstrate our firm commitment to internet privacy.
+Analilia for NJ may modify this policy from time to time so we encourage you to check this page when revisiting this website.
+How we use your information
+Analilia for NJ is committed to protecting your privacy online.
+When you register, contribute, sign up to volunteer, or take any other action on our site, we may ask you to give us contact information, including your name, address, telephone number and/or e-mail address.
+We may obtain information about you from outside sources and add it to or combine it with the information we collect through this site.
+We use this information to operate this site, send you news and information to you about Analilia for NJ and to solicit your participation in Analilia for NJ programs, events and activities, and obtain and confirm rsvp’s to events and programs.
+We use your e-mail address to send such information by e-mail and may use your telephone number to call you for these purposes.
+In addition to providing the services and complying with our Privacy Policy, we use the information to confirm consent to receive text (SMS and MMS).
+If you decide to purchase tickets to an event or to make a contribution online, we may also ask for your credit card number and its expiration date.
+That information is used solely for processing your contribution; is not maintained by our organization; and is never disclosed to anyone, for any other purpose other than for processing your contribution, under any circumstances.
+How we protect information you provide
+Analilia for NJ uses industry standard security measures to protect against the loss, misuse or alteration of the information under our control.
+Our server is located in a locked, secure environment.
+Permission to access your information is granted only to you and organization name employees or contractors who need to know that information to provide services to you.
+Although we make good faith efforts to store information collected by this website in a secure operating environment, we cannot guarantee complete security.
+Links to other websites
+This privacy policy covers this website and its subdomains.
+These sites may link to third-party websites.
+We are not responsible for the content or privacy policies of these third-party sites.
+We encourage you to read the privacy policies and review the practices of all websites you visit.
+Other disclosure of your information
+Though we make every effort to preserve user privacy, we may need to disclose personal information when we have a good-faith belief release is appropriate to comply with the law (for example, a lawful subpoena), to protect our rights or property, or to protect our donors, volunteers and supporters from fraudulent, abusive, or unlawful conduct, or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
+Special notice for parents:
+We want to help you guard your children’s privacy.
+We encourage you to talk to your children about safe and responsible use of their personal information while using the internet.
+Analilia for NJ does not knowingly collect, use or distribute children’s personally identifiable information to any third parties.
+If you have any reservations, questions or concerns about your child’s access to this site or how information that your child provides is used by us, please contact us.
+About cookies, ip addresses and log file data cookies
+A cookie is a piece of data stored on the user’s hard drive containing information about the user.
+The Analilia for NJ website uses a cookie for measuring aggregate web statistics, including number of monthly visitors, number of repeat visitors, most popular webpages and other information.
+Analilia for NJ will also use cookies to facilitate your online visit by maintaining data that you provide for online activism activities so that you will not need to resubmit certain information.
+We may also use third-party services such as Google Analytics.
+This helps us understand traffic patterns and know if there are problems with our site.
+We may also use embedded images in emails to track open rates for our mailings, so that we can tell which mailings appeal most to our supporters.
+Advertising
+We may place online advertising with third-party vendors, including Google, which will be shown on other sites on the internet.
+In some cases, those third-party vendors may decide which ads to show you based on your prior visits to the site.
+At no time will you be personally identified to those third-party vendors, nor will any of the information you share with us be shared with those third-party vendors.
+If you prefer to opt out of the use of these third-party cookies on the site, you can do so by visiting the network advertising initiative opt out page.
+Mobile Program
+1.
+Analilia for NJ will send text messages about events and information related to Analilia Mejía, the NJ-11 special Congressional election and related local elections and issues.
+2.
+You can cancel the SMS service at any time.
+Just text "STOP" to the number.
+After you send the SMS message "STOP" to us, we will send you an SMS message to confirm that you have been unsubscribed.
+After this, you will no longer receive SMS messages from us.
+If you want to join again, just sign up as you did the first time and we will start sending SMS messages to you again.
+3.
+If you are experiencing issues with the messaging program you can reply with the keyword HELP for more assistance, or you can get help directly at info@analiliafornj.com.
+4.
+Carriers are not liable for delayed or undelivered messages
+5.
+As always, message and data rates may apply for any messages sent to you from us and to us from you.
+You will receive periodic messages estimated at around 2-4 texts/week.
+If you have any questions about your text plan or data plan, it is best to contact your wireless provider.
+6.
+If you have any questions regarding privacy, please read our privacy policy: https://www.analiliafornj.com/privacy-policy.
+To who we share the information collected
+Text messaging originator opt-in data and consent will not be shared with any third parties, provided that the foregoing does not apply to sharing (1) with vendors, consultants and other service providers who need access to such information to carry out work on our behalf (and who will not use such information for their own purposes); (2) if we believe disclosure is required by any applicable law, rule, or regulation or to comply with law enforcement or legal process.
+Mobile information will not be shared with third parties/affiliates for marketing/promotional purposes.
+Server log files
+We log standard technical information, such as your IP address and the kind of browser you use.
+We log this information for troubleshooting purposes and to track which pages people visit in order to improve the site.
+We do not use log files to track a particular individual’s use of the website.
+How to unsubscribe or opt out
+People who subscribe to e-mail lists via this website will receive periodic updates from Analilia for NJ by regular mail, fax and/or e-mail.
+You may opt out of receiving future information via e-mail by using the unsubscribe procedure specified on the e-mail message.
+How we notify you about privacy policy changes
+We may revise and update this privacy policy if we change our practices, add new site features, or change existing site features.
+We will notify registered users by email and post notice to this site of any substantive changes to our privacy policy.
+Your use of this site following such changes constitutes your agreement with regard to information collected from you in the past and in the future.
+How to contact us
+Questions regarding this privacy policy should be emailed to info@analiliafornj.com.

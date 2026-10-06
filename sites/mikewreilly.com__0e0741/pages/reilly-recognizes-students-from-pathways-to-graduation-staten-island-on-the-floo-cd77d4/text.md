@@ -1,0 +1,12 @@
+FOR IMMEDIATE RELEASE: May 12, 2023
+ALBANY, NY – Assemblymember Michael Reilly (R,C-Staten Island) recently welcomed students from the New York City Department of Education’s (NYCDOE) Pathways to Graduation-Staten Island (P2G-SI) program to Albany and introduced them “on the floor” of the State Assembly to highlight some of the successful college and career readiness programs offered by New York City public schools.
+Video of Reilly’s floor speech can be found at www.bit.ly/3nTnFah.
+P2G-SI is an alternative learning program within the NYCDOE that serves as one of five borough-based programs which collectively make up the citywide Pathways to Graduation program (79Q950).
+Each borough program supports students ages 17-21 who typically did not find success within a traditional learning environment.
+Moreover, P2G welcomes all students, regardless of their credit accumulation or previous participation in the New York City school system, and works to leverage opportunities and supports that promote success within the three domains of transition planning – education, employment, and independent living – to prepare all students to obtain their high school equivalency diploma and beyond.
+“I grew up in a union household and I married into one, so I know firsthand that college isn’t for everyone,” said Reilly, a former Lieutenant with the New York City Police Department.
+“Pathways to Graduation is helping young people across our city complete their basic education while gaining the skills and confidence needed to find a good-paying, high-quality job – and it’s a reminder of the support network offered by our public school system so that every student has the potential to succeed.
+I invited Mr.
+Swanson and his students to Albany just as the state budget was wrapping up so that I could show my colleagues why providing funding and resources to public schools across the state was of paramount importance.”
+The group of students were led by P2G-SI Principal and Staten Island resident Donny Swanson, who said: “It was a great honor for our Pathways to Graduation-Staten Island school community to visit the New York State Capitol in Albany and be recognized by Assemblyman Reilly during the New York State Assembly on May 1, 2023.
+This experience provided our students with the opportunity to extend their learning on the topic of Government in their Social Studies classes and celebrate the accomplishments of our students this school year.”

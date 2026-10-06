@@ -1,0 +1,30 @@
+Fiscal Responsibility that Respects Taxpayers
+Illinois families balance their budgets every day, and Ryan Spain believes state government should be held to the same standard.
+He supports responsible budgets that control spending, address Illinois’ long-term financial obligations, and protect taxpayers from having to pay more for the government's mistakes.
+Ryan opposes increases to income and property taxes and supports meaningful pension and fiscal reforms that put Illinois on a more sustainable path.
+He also believes responsible budgeting includes maintaining the roads, bridges, and infrastructure that families and employers depend on throughout Central Illinois.
+More Affordable, Accessible Healthcare
+Ryan understands how deeply healthcare affects every family.
+Through his work at OSF HealthCare and his service in the Illinois House, he has seen the challenges facing patients, hospitals, healthcare workers, and communities, especially in areas where access to care is limited.
+He co-sponsored legislation to lower prescription drug costs and backed a bill to expand insurance coverage for Alzheimer’s patients’ treatments.
+Local Control.
+Less Government Overreach.
+Ryan has seen firsthand how mandates and uncertainty from Springfield can make it harder for local leaders to serve their communities.
+During his time on the Peoria City Council, he fought to protect local government funding and stood against state actions that shifted resources away from cities and villages.
+Ryan believes government works best when decisions are made as close to the people as possible.
+He remains committed to protecting local control, defending religious liberty, and holding state agencies accountable when regulations go beyond what the law allows or place unnecessary burdens on families, communities, and employers.
+Protecting Seniors and Strenghtening Families
+Ryan believes Illinois should be a state where seniors can retire with security and families can build a future without being priced out of their communities.
+That means protecting retirement income, addressing rising property taxes, and ensuring essential services remain available to those who depend on them.
+As a husband and father of two daughters, Ryan understands the pressures families face.
+He supports policies that make Illinois safer and more affordable while protecting opportunities for children, supporting caregivers, and respecting the decisions parents make for their families.
+Defending Our Values and Constitutional Rights
+Ryan Spain is a lifelong Republican who is pro-life and a strong supporter of the Second Amendment.
+His Central Illinois roots have shaped his commitment to personal responsibility, individual liberty, strong families, and service to others.
+Ryan understands that constitutional freedoms must be defended, even when doing so is politically difficult.
+He will continue standing up for the rights and values that matter to families across the 73rd District.
+Growing Jobs and Opportunity in Central Illinois
+Ryan has spent much of his career working to bring jobs, investment, and economic growth to the Peoria area.
+His experience in local government and economic development has shown him what employers need to succeed and how taxes, regulations, infrastructure, and workforce challenges can hold communities back.
+Ryan supports a competitive business climate that helps existing employers grow, attracts new investment, and creates opportunities for the next generation.
+He will continue fighting for stronger infrastructure, workforce development, and policies that make Central Illinois a place where businesses and families can put down roots and thrive.

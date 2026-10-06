@@ -1,0 +1,17 @@
+Sobre Randy
+Randy Udell tiene un historial probado y la experiencia que necesitamos para representar al Distrito 47 en la Asamblea.
+Residente de Fitchburg desde 1998, Randy Udell está terminando su primer mandato como Representante Estatal del Distrito 47.
+Randy es actualmente miembro del Comité de Instituciones Financieras, Comité de Silvicultura, Parques y Recreación al Aire Libre, Comité de Seguros, Comité de Revisión de la Ley, y el Grupo de Trabajo de Banda Ancha del Gobernador.
+Ha luchado para fortalecer las protecciones laborales de Wisconsin, ampliar el acceso a la atención médica y el cuidado de niños, invertir en las comunidades locales y fortalecer las protecciones ambientales.
+Randy también es el autor del paquete de ley 2026 Mejor Banda Ancha, que mejoraría las inversiones en infraestructura de banda ancha y fortalecería las protecciones y estándares de los consumidores.
+Randy sirvió como uno de los dos concejales que representan el Distrito 4 en el Consejo Municipal de Fitchburg del 2020 al 2024, que incluye las partes oeste y sur de la ciudad.
+Anteriormente fue presidente del consejo durante dos años y ha sido presidente del Comité de Financiero durante los últimos tres años, donde supervisan el presupuesto de funcionamiento de $25,000,000 de la ciudad.
+De 2024 a 2026, sirvió como supervisor de la Junta del Condado de Dane representando al Distrito 33, que consiste en los 2/3 años del sur de la ciudad de Fitchburg e incluye una mezcla de constituyentes urbanos, suburbanos y rurales.
+Fue miembro del Comité de Obras Públicas y Transporte y todavía sirve como miembro general del Grupo de Trabajo de Banda Ancha del condado.
+Como representante del Distrito 47 de la Asamblea, Randy trae una combinación única de experiencia previa elegida, amplio conocimiento de negocios y finanzas, y un profundo compromiso para hacer que el gobierno estatal funcione tanto para los residentes del Distrito 47 como para Wisconsin en su conjunto.
+También ha sido elegido Tesorero del Partido Demócrata de Wisconsin desde 2015, elegido por demócratas de todo el estado.
+Randy sirve como miembro central del equipo de Devin Remiker, monitoreando un presupuesto multimillonario del partido del estado.
+Anteriormente se sirvó como presidente y tesorero del Segundo Distrito Demócrata del Congreso.
+Randy creció en una familia de clase trabajadora en Janesville.
+Como estudiante universitario en la UW-Whitewater, Randy sirvió como presidente de los Young Democrats y un senador estudiantil, además de trabajar para el congresista Les Aspin, representante desde hace mucho tiempo del primer distrito del Congreso de Wisconsin..
+Ahora jubilado de una carrera de 30 años en finanzas y planeador como ingeniero de telecomunicaciones, Randy y su esposo Brad viven en Seminole Forest con su perro rescatado, Cooper.

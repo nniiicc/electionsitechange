@@ -1,0 +1,47 @@
+She had big dreams and goals, but never imagined the depth of her positive and courageous impact on the lives of others.
+Step by step, she has blazed her own trail as an award-winning servant leader, community organizer, nonprofit founder, and wife and working mother.
+Charlane is the co-founder and former co-executive director of The Equity Alliance, a statewide 501(c)(3) nonpartisan, nonprofit advocacy organization whose mission is to unapologetically build independent Black political and economic power and keep government in check.
+Under Charlane’s visionary leadership, she turned $250 of her own money into a $2.5 million-dollar powerhouse organization in just five years, growing currently with 12 employees and three chapters across the state.
+Her successes through TEA earned her the prestigious recognition of 2020 People of the Year by The Tennessean and numerous accolades.
+Her organization led a statewide coalition that registered 91,000 Black and brown Tennesseans to vote for the 2018 midterms, increased Black voter turnout by 413 percent, scored two legal voting rights victories against the Tennessee Secretary of State, and is responsible for electing the most diverse, progressive, majority-female Metro Council in the city’s history.
+When the COVID-19 pandemic struck Nashville, Charlane made sure Black and Brown communities got our fair share of federal C.A.R.E.S.
+Act resources to combat the pandemic.
+She led the Our Fair Share Community Needs Assessment where more than 8,500 Nashvillians were surveyed within 65 days, resulting in Metro Council approving a combined $22 million in relief for Black and Latino residents, people experiencing homelessness and food insecurity, and minority small businesses.
+As a trusted voice on voting rights and racial justice issues, her work has been featured in The New York Times, The Washington Post, Rolling Stone, National Journal, Pew Charitable Trusts, Huffington Post, the Associated Press, Think Progress, on NPR Weekend Edition, MSNBC, CNN, Roland Martin Unfiltered, internationally and throughout Tennessee.
+She has graced the coveted stage at the inaugural TEDxNashvilleWomen and has been a featured guest on various local television broadcasts, radio stations and national podcasts.
+A nationally recognized voting rights advocate and speaker, Charlane was named by Reckon South among “8 Black women fighting for voting rights in the South” after the election of President Joe Biden and Vice President Kamala Harris.
+Charlane brings an unmatched level of work, community, policy and lived experience with a proven track record of results and impact.
+She is thoroughly experienced in government, nonprofit management, grassroots advocacy, communications, and community engagement.
+Throughout her professional career, she has served and amplified the voices of low-income earners, welfare recipients, pregnant mothers, children of incarcerated parents, foster children, Hurricane Katrina evacuees, and people impacted by tornadoes and predatory real estate developers.
+As founder and board president of the Power of 10 PAC, she helped to elect Black and Latino candidates for school board, municipal, judicial, and state legislature positions.
+As owner of OEM Consulting Group, LLC, she has provided community engagement, government affairs, and public relations strategies and solutions for political candidates, nonprofits, universities, and small businesses.
+Charlane honed her policy expertise while serving as a congressional aide and communications strategist for U.S.
+Congressman Jim Cooper, where she advised the congressman on voting rights and criminal justice reform issues.
+She was tapped to lead Project Register, a bipartisan initiative by Rep.
+Cooper and former State Sen.
+Steve Dickerson in which she recruited more than 200 companies to encourage their employees to register to vote online.
+It proved to be one of the most successful voter registration initiatives in Congress.
+Charlane was later selected to travel with a U.S. congressional delegation to China to learn about foreign diplomacy and international trade policy.
+Charlane is a graduate of Leadership Nashville and Young Leaders Council.
+She holds current membership with Leadership Tennessee, Nashville’s Agenda, Nashville CABLE, NAACP Nashville, and Alpha Kappa Alpha Sorority, Inc. and served on the 2020 Metro C.A.R.E.S.
+Act Allocation Committee and the Mayor John Cooper C.A.R.E.S.
+Act Advisory Committee.
+Senator Oliver is a member of Alpha Kappa Alpha Sorority, Inc, and serves on the national board of Women in Government.
+Among her board affiliations, she currently serves as a community board member for Tri-Star Southern Hills Medical Center.
+Previous board affiliations include Stand Up Nashville, Nurture the Next, Metro Nashville Emergency 911 Communications District Board, YWCA of Nashville and Middle Tennessee, and Purpose Preparatory Academy.
+She is a longtime member of Mount Zion Baptist Church and volunteers for her daughter’s Girl Scout Troop.
+In 2022, Charlane was elected to the Tennessee State Senate, winning the toughest primary in the state that cycle in 100 days as the only woman in a five-way open race.
+Now serving in her first term as “The People’s Senator” for the 19th Senatorial District, Charlane is the lone progressive voice in the Tennessee Senate, where she champions a bold legislative agenda that uplifts working-class families, centers racial justice, challenges corporate power, protects marginalized communities, supports women and survivors, and strengthens democracy.
+She leads the Senate Democratic Caucus as Vice-Chairwoman and the Tennessee Black Caucus of State Legislators as Vice-Chair.
+Now a resident of Bordeaux, Charlane is proud to be married to her partner of 20 years, Leshuan, with whom they have three children together and a “jorkie” dog named Prince.
+Charlane’s Career Highlights
+- Co-Founder & Co-Executive Director, The Equity Alliance Congressional Aide/Communications Staff, Office of U.S.
+Congressman Jim Cooper Director of Communications, Williamson County Chamber of Commerce Marketing Coordinator, Meharry Medical College AMACHI Knoxville Director, Knoxville Leadership Foundation CoverKids Program Coordinator, Tennessee Community Services Agency Grants Assistant, Knoxville Area Urban League Eligibility Caseworker, Tennessee Department of Human Services Public Relations Intern, Bethlehem Centers of Nashville
+- Michelle B.
+Marrs Health Care Advocacy Award • Matthew Walker Comprehensive Health Center, 2022 Chair’s Award • Tennessee Democratic Party, 2021 Nashville Power 100 • Nashville Business Journal, 2020 & 2021 Innovator Award • Creative Girls Rock, 2021 Susan Short Jones Emerging Leader Award • National Coalition of 100 Black Women - Metro Nashville Chapter, 2021 Heritage Award • Nashville Alumnae Chapter of Delta Sigma Theta Sorority, Inc., 2021 Young Leader of the Year Award • Young Leaders Council, 2019 Luminary Award • Family and Children’s Services, 2020 Tennessean of the Year • The Tennessean, 2020 Excellence in Public Service Award • Alpha Phi Alpha Fraternity, Inc.
+Tau Lambda Chapter, 2019 Community Leader Civic Award • The Links, Incorporated, 2019 Women of Influence - “Dynamic Duo” • Nashville Business Journal, 2019 Ella Baker “Power” Award • NAACP Nashville, 2019 Movers and Shakers Award • Tennessee Women’s Political Collaborative, 2019 Young Professional Leadership Award Nominee • ATHENA Nashville, 2019 Now Generation Activist • The Tennessean, 2019 Dr.
+Evelyn Fancher Unsung Hero Award • Les Gemmes, Inc., 2018 Unsung Hero Award • East Nashville Chamber of Commerce Council, 2018 100 Leading African Americans in Nashville • NashvilleBusiness.Net, 2018 Finalist, Nashville Emerging Leader Awards • Young Professional Nashville, 2017 Communication Excellence Grand Award • Association of Chamber of Commerce Executives, 2017 Nashville Black 40 Under 40 • Stay On The Go Magazine, 2016 Most Valuable Professional • Meharry Medical College the Division of Student and Faculty Affairs, 2014 Mentor of the Year • Governor Bredesen's L.I.F.T.
+Mentoring Initiative, 2007
+- Class of 2022 • Leadership Nashville, 2021 – Present Member • Nashville’s Agenda, 2021 – Present Board Member • Stand Up Nashville, 2020 – Present Member • Metro C.A.R.E.S.
+Act Allocation Committee, 2020 – 2021 Member • Mayor John Cooper C.A.R.E.S.
+Act Advisory Committee, 2020 Board Member • Nurture The Next, 2019 – Present Member • NAACP Nashville, 2019 – Present Board Secretary • Purpose Preparatory Academy, 2017 – 2022 Board Member • Metro Nashville Emergency 911 Communications District Board, 2017 – 2021 Board Chair • The Equity Alliance, 2017 – 2019 Class of 2014 • Nashville Junior Chamber Leadership Institute, 2014 Board Intern • YWCA of Nashville & Middle Tennessee, 2013 – 2014 Class 59 • Young Leaders Council, 2012 – 2013 Charter Member & Vice President • Knoxville Area Urban League Young Professionals, 2007 - 2011 Member • Alpha Kappa Alpha Sorority, Inc., 2005 – Present

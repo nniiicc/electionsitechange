@@ -1,0 +1,3 @@
+Thank you to the voters for this amazing win – and to the tens of thousands of supporters and volunteers in our Reform California movement who power our fight against the Sacramento Swamp every day.
+After we finalize this win in the November runoff election, I look forward to delivering on the mandate the voters of the 75th Assembly District are giving me to shake-up our state’s broken political system and demand action to fix the problems that are causing so many to flee California.
+Watch my appearance on KUSI News this morning for more comments on the results – and the votes that still need to be counted!

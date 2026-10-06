@@ -1,0 +1,4 @@
+The Illinois Federation of Teachers has endorsed former state Treasurer Alexi Giannoulias’ bid for the Democratic nomination for secretary of state in next year’s primary, his campaign announced Monday.
+“Alexi Giannoulias understands the importance of a strong public education system, spanning from pre-K to higher education, and is committed to supporting Illinois educators,” said Dan Montgomery, president of the organization and its more than 100,000 members.
+“The office of the secretary of state oversees libraries and how young people learn to drive.
+These are critical issues of importance to our membership,” Montgomery said in a statement.

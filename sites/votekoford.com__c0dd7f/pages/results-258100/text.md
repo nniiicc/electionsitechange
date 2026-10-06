@@ -1,0 +1,19 @@
+Proven.
+Effective.
+Getting Results for Our Community.
+In just one term, Jill Koford has demonstrated that she can bring people together and pass meaningful legislation that benefits our community and families.
+- Protecting Utah’s Water and the Great Salt Lake: Jill passed legislation to secure more water for the Great Salt Lake.
+She also created a streamlined process for voluntary water conservation and established a $2.75 million program that compensates farmers who temporarily lease water without permanently surrendering their water rights.
+Jill also passed landmark transparency requirements ensuring large data centers disclose their expected and actual water use so state and local communities can determine whether to allow them into their communities.
+- Supporting Students and Families: Jill expanded access to lifesaving epinephrine medication in Utah schools, including newly approved nasal treatments.
+She also made it easier for parents to designate a trusted adult to supervise a teenager with a learner permit.
+- Standing with Those Who Serve: Jill passed legislation providing eligible ROTC participants at Utah’s public colleges and universities with in-state tuition, reducing financial barriers for students preparing to serve our country.
+- Improving Property-Tax Accountability: Jill passed bipartisan reforms to improve the accuracy and accountability of property-tax calculations, helping protect taxpayers from unnecessary increases while maintaining funding for Utah students.
+- Supporting Our Community: Jill Koford has championed continued opioid-settlement support for SOAR in Ogden, which provides recovery, counseling, and wellness services to individuals and families affected by addiction.
+She secured nearly $1.08 million over two years in funding for the Northern Utah Youth Network, expanding workforce readiness, mentoring, STEM, and career-exploration opportunities for young people across Northern Utah.
+The initiative is designed to reach as many as 2,500 students while helping low-income families prepare their children for Utah’s high-demand industries.
+Jill Koford has worked on passing major legislation to expand housing supply, cut city bureaucracy, and lower costs for Utah homebuyers.
+- Expanding Housing Options: Gives homeowners with qualifying lots the legal right to build a backyard cottage or garage apartment, creating options for rental income, aging parents, or adult children.
+- Cutting Red Tape: Forces local governments to stick to strict review deadlines, stopping drawn-out administrative delays that drive up construction costs.
+- Ensuring Fair Land Appeals: Removes city councils from judging building disputes, shifting appeals to neutral, independent panels to keep projects moving forward.
+- Lowering Overhead for Homebuyers: Reins in excessive city development requirements to directly lower final home prices.

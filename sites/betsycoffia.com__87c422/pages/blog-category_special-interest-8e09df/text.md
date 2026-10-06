@@ -1,0 +1,2 @@
+Prosecutor should accept AG’s help with Interlochen’s sexual misconduct investigation, lawmaker says
+INTERLOCHEN, MI - Saying an “all hands on deck” approach is needed, a state representative from Northern Michigan has asked the Grand Traverse County Prosecutor to accept Attorney General Dana Nessel’s offer to help investigate sexual misconduct and assault claims linked to Interlochen Center for the Arts.

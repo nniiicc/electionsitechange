@@ -1,0 +1,3 @@
+Leaders from Edinburg, Texas, led by Mayor Omar Ochoa, traveled to Washington, D.C., last week at the invitation of Congresswoman Monica de la Cruz, who hosted the South Texas delegation as part of her second STX Days event focused on connecting local communities with federal resources and programs.
+According to event materials, the purpose of STX Days is to connect Texas to Washington and ensure communities have access to “resources, programs, and new opportunities to thrive.” The gathering brought together community leaders and local officials from across the congressional district to receive updates on federal initiatives and available funding.
+Read more here.

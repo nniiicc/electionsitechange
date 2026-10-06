@@ -1,0 +1,3 @@
+McBride Campaign Releases New Ad in Defense of Social Security and Medicare
+Press Release
+Sarah McBride will always stand up for the promises made to workers after a lifetime of hard work Wilmington, DE — Today, Sarah McBride, the Democratic Nominee for Delaware’s at-large Congressional seat, released her third ad …

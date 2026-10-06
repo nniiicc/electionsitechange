@@ -1,0 +1,31 @@
+Fair Share Supplemental Budget Update
+Massachusetts lawmakers passed a $1.35 billion spending package that seeks to ease pressures caused by strained school budgets and delivers a massive infusion of cash into the state's public transportation system.
+The investments in H.5740 are expansive and include cutting taxes to jumpstart housing construction, training the next generation of doctors and teachers, helping cities and towns dig out from an extreme winter, taking steps to shield the state's finances from the ripple effects of federal tax and tariff policy, and protecting immigrants from federal deportation actions.
+Investing in Schools and Students
+The legislation puts $558 million in Fair Share funds toward education, delivering relief to families, students, and school districts across the state.
+School districts struggling to cover the costs of serving students with disabilities will see immediate help, with $152 million directed toward special education reimbursements, while $150 million goes toward making childcare more affordable and accessible across the Commonwealth.
+The bill invests $40 million to help the youngest learners read, including $20 million for high-dosage tutoring and $20 million for classroom programs specifically designed to accelerate reading skills for kids in kindergarten through third grade.
+Research consistently shows that children who are not reading proficiently by third grade face steeper challenges throughout their education, making this one of the most consequential investments in the package.
+Fixing Roads, Rails, and Transit
+The legislation directs $794 million in Fair Share funds toward transportation.
+A $595 million investment in the MBTA includes $450 million to keep the T running, $60 million for maintenance and upgrades physical infrastructure with an emphasis on commuter rail improvements, $50.4 million to improve workforce and safety, $20 million to make fares more affordable for low-income riders, and $15 million for water transportation infrastructure across the state.
+For communities across the state, the bill delivers $100 million to help cities and towns recover from an exceptionally costly winter—$80 million distributed based on how many roads a community maintains, and $20 million specifically for communities hit hardest by this year's historic storms.
+Regional public bus systems across the state also receive $25 million to recruit and retain workers, plus $10 million for equipment and facility upgrades.
+An additional $3.75 million goes toward maintaining unpaved roads in rural areas.
+Making It Cheaper to Build Housing
+To address one of the biggest barriers to building new homes in Massachusetts, the bill creates a new tax exemption on building materials used in the construction of affordable, moderate-income, and middle-income housing projects, saving developers money and making it more financially viable to build the homes that families across the state desperately need.
+The exemption is capped at $35 million per year and is specifically designed to help offset rising costs driven by tariffs imposed by the Trump Administration.
+Responding to Federal Policy Changes
+The bill also takes steps to protect Massachusetts taxpayers and businesses from the financial fallout caused by the Trump Administration and Congressional Republican policies.
+The Legislature is carefully phasing in changes to state tax law to align with the federal One Big Beautiful Bill Act, doing so gradually to avoid a sudden hit to state revenues.
+The bill also creates a new tax credit for airlines that use sustainable aviation fuel, helping Massachusetts work toward its goal of achieving net zero carbon emissions by 2050, and offers a tax credit of up to $5,000 for farmers who donate surplus food to local food banks.
+Training the Next Generation of Doctors and Teachers
+To address a growing shortage of primary care physicians, the bill sets aside $10 million in scholarships for UMass Chan Medical School students who agree to pursue family medicine and practice in underserved communities in Massachusetts after they graduate.
+To encourage young educators to start their career in Massachusetts, the bill creates the Tomorrow's Teachers program, investing $10 million in scholarships and loan forgiveness to college students and high school graduates who commit to teaching in Massachusetts public schools.
+Helping Immigrants Stay Safe
+With the Trump Administration ramping up immigration enforcement, the legislation directs $1 million toward free legal services for immigrants and refugees who need help navigating the courts.
+This builds on a $5 million investment the Legislature already made to launch the Massachusetts Access to Counsel Initiative, which has helped hundreds of residents access legal representation.
+Back in March, I filed successful Amendments #202 and #203, which allotted $250,000 for Thrive Scholars to support high achieving students from under resourced communities starting in high school and through college to career services, and $1,000,000 to community-based services that increase educational services to youth after they age out of custody from the Department of Children and Families with a match by private investment, respectively.
+I am pleased to see that they were included in the final version of the supplemental budget.
+After being enacted by both the House of Representatives and Senate, it goes to the Governor for her signature.
+Governor Healey signed the bill into law without making any changes.

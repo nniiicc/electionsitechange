@@ -1,0 +1,1 @@
+SHELIA SHARES OUR VALUES Defend reproductive freedom and access to abortion Reform Wisconsin’s Criminal Justice system Support our public schools, colleges, and universities Expand access to health care Protect our clean air and water

@@ -1,0 +1,69 @@
+News.
+It's an exciting time to be part of the WV House of Delegates.
+Over the course of our work sessions, we have made impressive strides towards West Virginia's future and our media have been strategic partners in helping us let you know all of the latest news.
+Below is a sample of recent news articles for you to explore, feel free to contact me with any questions.
+And for our friends in the media, I'm open to chatting anytime!
+Speaker Hanshaw Announces Plans for the Upcoming 87th Legislature
+Press Release Here
+Look Ahead Video Panel Series:
+Video of Panel 1: Education - https://youtu.be/QIKrWCbY6gQ
+Video of Panel 1 & 2: Education & A Talk With Leadership - https://www.facebook.com/wvpress/videos/892889481374080
+Video of Panel 3: Growth - https://www.facebook.com/wvpress/videos/952785992301830
+Parkersburg News and Sentinel and other Ogden Newspapers:
+West Virginia lawmakers, advocates make case for education reform.
+By Steven Allen Adams:
+https://www.newsandsentinel.com/news/local-news/2022/01/west-virginia-lawmakers-advocates-make-case-for-education-reforms/
+West Virginia legislative leaders lay out agendas for 2022 session
+By Steven Allen Adams:
+https://www.newsandsentinel.com/news/local-news/2022/01/west-virginia-legislative-leaders-lay-out-agendas-for-2022-session/
+Charleston Gazette-Mail and other HD Media Newspapers:
+Legislature focused on what will bring and keep people in WV, even as COVID cases spike
+By Lacie Pierson:
+https://www.wvgazettemail.com/news/legislature-focused-on-what-will-bring-and-keep-people-in-wv-even-as-covid-cases/article_d742d11e-f08c-5fab-b5fb-099c0259e268.html
+Herald-Dispatch of Huntington and other HD Media Newspapers:
+State vows to continue work on broadband legislation
+By Joe Severino:
+https://www.herald-dispatch.com/news/w-va-leaders-vow-to-continue-work-on-broadband-legislation/article_89feee13-7924-5a66-9c40-443b71846423.html
+The Exponent Telegraph and other WV News Newspapers:
+West Virginia legislative leaders discuss plans, priorities for 2022 session
+By Charles Young
+https://www.wvnews.com/news/wvnews/west-virginia-legislative-leaders-discus-plans-priorities-for-2022-session/article_74e033f6-7
+The Inter-Mountain of Elkins and other Ogden Newspapers:
+West Virginia lawmakers discuss prospects for growth and infrastructure
+By Joselyn King:
+https://www.theintermountain.com/news/local-news/2022/01/state-legislators-discuss-growth-infrastructure/
+West Virginia Public Broadcasting:
+Teacher aides to pay increases, House Education Vice Chair talks priorities for West Virginia legislative session
+By Liz McCormick:
+https://www.wvpublic.org/section/education/2022-01-07/teacher-aides-to-pay-increases-house-education-vice-chair-talks-priorities-for-legislative-session
+Legislative leaders discuss priorities at Lookahead session
+By Eric Douglas
+https://www.wvpublic.org/government/2022-01-07/legislative-leaders-discuss-priorities-at-lookahead-session
+West Virginia Metro News and Radio Programs:
+Legislative priority is additional classroom aides for first and second grades
+By Brad McElhinney
+https://wvmetronews.com/2022/01/08/legislative-priority-is-additional-classroom-aides-for-first-and-second-grades/
+As governor hints at announcement, lawmakers embrace bill to prepare development sites
+By Brad McElhinny:
+https://wvmetronews.com/2022/01/09/as-governor-hints-at-announcement-lawmakers-embrace-bill-to-prepare-development-sites/
+WCHS TV:
+Issues in education discussed during W.Va. legislative session preview
+By Kennie Bass with WCHS Staff Reports
+http://Read More: https://wchstv.com/news/local/issues-in-education-discussed-during-wva-legislative-session-preview
+The Dominion Post of Morgantown:
+2022 Legislative Lookahead: Bill will put 1,800 teacher aides in grades 1 and 2 classrooms
+By David Beard:
+https://www.dominionpost.com/2022/01/07/2022-legislative-lookahead-bill-will-put-1800-teacher-aides-in-grades-1-and-2-classrooms/
+WOWKTV:
+West Virginia legislative session begins this week
+By Mark Curtis
+https://www.wowktv.com/news/west-virginia/west-virginia-legislative-session-begins-next-week/
+Additional Articles:
+https://wvmetronews.com/2022/02/16/house-passes-site-development-workforce-training-bills-aimed-at-economic-growth/
+https://wvmetronews.com/2022/02/20/harrison-county-delegate-calls-for-regulatory-framework-for-autonomous-delivery-vehicles/
+https://wkmznews.com/harrison-county-delegate-proposes-regulations-for-autonomous-delivery-vehicles/
+https://www.morganmessenger.com/2022/01/12/lawmakers-say-focus-of-2022-session-is-preparing-for-growth-making-state-a-good-place-to-live-work/
+https://www.connect-bridgeport.com/connect.cfm?func=view§ion=News&item=Theyre-Not-Here-Yet-But-Harrison-County-Delegate-Riley-Seeks-Jump-on-Autonomous-Delivery-Vehicles46467
+https://www.pawv.org/news/category/state-historic-tax-credit (Historic Tax Credit)
+https://www.weirtondailytimes.com/news/local-news/2022/01/w-va-lawmakers-discuss-prospects-for-growth-and-infrastructure/
+https://wvecouncil.org/two-bills-to-support-this-week/ (Energy Efficiency )

@@ -1,0 +1,8 @@
+top of page
+Karmin Grider's Mission
+Donate, Karmin Grider, State House District 31, 2026
+This is done by shifting the source of funding from special interests to the people, which is why I have taken the “No Lobbyist, No Special Interests Pledge.”
+While puppet politicians build bloated war chests funded by special interests to insulate themselves from challengers and reinforce their egos, I am building a monumental team of individuals who understand public servants are called to preserve and protect our inherent rights, not sell them for power and prominence—that is the fundamental difference in this race.
+Collin Duel may be THEIR investment,
+but I am YOUR RETURN.
+bottom of page

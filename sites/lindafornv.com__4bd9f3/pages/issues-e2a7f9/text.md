@@ -1,0 +1,11 @@
+- Protect the Affordable Care Act and Medicaid to ensure coverage for all Nevadans.
+- Lower the cost of prescription drugs and expand access to affordable care.
+- Increase awareness and enrollment in Nevada’s state health plans.
+- Defend every Nevadan’s right to vote by opposing policies that restrict ballot access.
+- Support fair, secure, and accessible elections for all eligible voters.
+- Expand access to affordable housing across Nevada.
+- Reform the state’s summary eviction process to better protect tenants.
+- Support job creation and workforce expansion through responsible economic development.
+- Carefully evaluate film tax credit proposals to ensure fiscal responsibility and taxpayer benefit.
+- Strengthen protections on Nevada’s roads and transit systems for both drivers and passengers.
+- Increase enforcement against dangerous driving behaviors, including illegal street racing and trick driving.

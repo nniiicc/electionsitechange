@@ -1,0 +1,6 @@
+Mahalo
+MAHALO LETTER (clickable link) Aloha: As your new State Senator for Puna and East Ka`u, I want to thank you for your support. 2021 and the next several years will be…
+Skip to content
+Monthly Archives: December 2020
+Mahalo
+MAHALO LETTER (clickable link) Aloha: As your new State Senator for Puna and East Ka`u, I want to thank you for your support. 2021 and the next several years will be…

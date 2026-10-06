@@ -1,0 +1,22 @@
+For Immediate Release
+August 17, 2026
+Don Tracy: 2,500 Tyson Jobs Gone and Bears’ Focus on Indiana Prove Stratton’s Illinois Is Bad for Business
+JOSLIN — U.S.
+Senate candidate Don Tracy today responded to Tyson Foods’ abrupt closure of its Joslin beef plant eliminating roughly 2,500 jobs, as well as the Chicago Bears focus on a new stadium in Hammond, Indiana.
+“In the same week, Illinois lost 2,500 good-paying jobs at Tyson and watched its hometown football team inch closer to leaving the state,” Tracy said.
+“This is not a coincidence.
+This is the Stratton-Pritzker record.
+Highest overall taxes, heavy regulation, and an administration that prioritizes progressive politics over keeping private sector employers and their jobs have made Illinois a challenge for those Illinois businesses that can move to a more business-friendly state.
+“Cattle shortages are real, but Tyson is shifting capacity to Nebraska, Kansas, and Texas, not keeping it in Illinois.
+The Bears appear ready to move to Indiana.
+Families in the Quad Cities and across Illinois are paying the price, while Lt Governor Stratton parties on Martha’s Vineyard.
+“I am traveling to the region next week to meet with local leaders and hear directly from workers.
+We will put faces and names to the cost of these failed policies, and we will keep highlighting the businesses Illinois is losing until there is a long-overdue change in Illinois management.”
+###
+About Don Tracy:
+Don is Senior Counsel at Brown, Hay & Stephens, the oldest law firm in Illinois, where Abraham Lincoln famously practiced law as a young lawyer.
+Public service is important to Don, with a lifetime spent in community service, most often in volunteer positions.
+He has served as Chairman of the Illinois Republican Party, Chairman of the Illinois Gaming Board, Secretary of the Illinois Bar Foundation, President of the Sangamon County Bar Association, Chairman of the Illinois Corporate Acts Advisory Committee, President of the Abraham Lincoln Association, and President of the Oak Ridge Cemetery Board, among other community leadership positions.
+Born in Urbana in Eastern Illinois, raised in Mt.
+Sterling in Western Illinois, and having raised his own family in Springfield in Central Illinois, Don has deep ties to Illinois.
+As the oldest of 12 children, family has always been important to Don.

@@ -1,0 +1,1 @@
+Michigan Senate OKs medical debt plan to cap interest, limit collections Apr 7 1 min read https://bridgemi.com/michigan-government/michigan-senate-oks-medical-debt-plan-to-cap-interest-limit-collections/

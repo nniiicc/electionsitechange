@@ -1,0 +1,3 @@
+Articles
+30-Year Police Officer Aaron Paul Announces Campaign for Minnesota House Serving Shakopee
+Shakopee, MN — Longtime public servant and current police sergeant, Aaron Paul, announced today his candidacy for the Minnesota House of Representatives, pledging to bring common-sense leadership and accessible representation to the people of Shakopee…

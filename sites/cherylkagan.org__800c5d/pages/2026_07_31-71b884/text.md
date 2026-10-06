@@ -1,0 +1,3 @@
+July 31, 2026 Bethesda Today By Ceoli Jacoby Montgomery County Question A not written in ‘plain language,’ District 17 senator argues Dist. 17 Sen.
+Cheryl Kagan (D-Rockville) is raising concerns about the suggested text of a proposed Montgomery County ballot …
+Continue Reading

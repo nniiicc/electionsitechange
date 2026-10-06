@@ -1,0 +1,15 @@
+FOR IMMEDIATE RELEASE — June 24, 2026
+Malliotakis Endorsed by Correction Officers Benevolent Association
+Representative Nicole Malliotakis (NY-11, Staten Island-Southern Brooklyn) has been endorsed for a fourth term in Congress by the New York City Correction Officers’ Benevolent Association (COBA).
+With 15,000 active and retired members, COBA is the second-largest municipal jail union in the nation and the second-largest law enforcement union in New York City.
+COBA President Benny Boscio wrote, “We are at a pivotal crossroads and now more than ever, New Yorkers need a champion in Washington, D.C, who is committed to keeping our communities safe and supporting the men and women, who serve on the front lines of public safety.
+“For years, you have been an unwavering advocate for protecting the rights of our members and other law enforcement officers.
+“You stood with us in our fights to prevent the closure of Rikers Island, to oppose the ban on punitive segregation, and to end the inhumane policy that forced Correction Officers to work 24 hour shifts.
+“You have supported our efforts to protect the lives of our members and to hold assaultive inmates accountable for their crimes committed in jail.
+“Most recently, you successfully secured millions of dollars in Federal funding for the Department of Correction to purchase additional safety equipment to keep our members safe.
+“We are extremely grateful for your steadfast support over the years and we are proud to support your candidacy for re-election, so together, we can continue to advocate for the rights of New York City’s Boldest.”
+Congresswoman Nicole Malliotakis said, “I would like to thank the 15,000 members of the Correction Officers’ Benevolent Association and its President, Barry Boscio, for their strong endorsement.
+On a daily basis, the men and women of COBA face a tough and dangerous job dealing with violent criminals who can strike-out at any moment.
+They have definitely earned the nickname of New York’s Boldest.
+“I was proud to secure funding for security upgrades within the Department of Corrections that will make COBA members safer, and I will always fight to deliver the federal funding they need.
+“Additionally, I will always stand with COBA in opposition to anti-law enforcement legislation and regulations that impede their ability to keep our jails and correction officers safe.”

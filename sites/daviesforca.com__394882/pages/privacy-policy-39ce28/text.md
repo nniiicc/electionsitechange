@@ -1,0 +1,43 @@
+Privacy Policy
+This Privacy Policy governs the manner in which “Laurie Davies for Assembly 2024” collects, uses, maintains and discloses information collected from users of https://www.daviesforca.com/ (the “website”).
+This Privacy Policy applies to the website.
+Information We Collect Automatically
+If you visit our website to browse, read, or download information:
+Your web browser automatically sends us (and we may retain) information such as the:
+Internet domain through which you access the Internet (e.g., yourServiceProvider.com if you use a commercial Internet service provider, or yourSchool.edu if you use an Internet account from your school);
+- Internet Protocol address of the computer you are using;
+- type of browser software and operating system you are using;
+- date and time you access our site; and
+- the Internet address of the site from which you linked directly to our site.
+We will use this information as aggregate data to help us maintain this site, e.g., to determine the number of visitors to different sections of our site, to ensure the site is working properly, and to help us make our site more accessible and useful.
+We will not use this information to identify individuals, except for site security or law enforcement purposes.
+We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information.
+Other Information We Collect
+If you choose to identify yourself (or otherwise provide us with personal information) when you use our online forms:
+We will collect (and may retain) any personally identifying information, such as your name, street address, email address, and phone number, and any other information you provide.
+We will use this information to try to fulfill your request and may use it to provide you with additional information at a later time.
+If you request information, services, or assistance, we may disclose your personal information to those third parties that (in our judgment) are appropriate in order to fulfill your request.
+If, when you provide us with such information, you specify that you do not want us to disclose the information to third parties, we will honor your request.
+Note, however, that if you do not provide such information, it may be impossible for us to refer, respond to or fulfill your request.
+If your communication relates to a law enforcement matter, we may disclose the information to law enforcement agencies that we deem appropriate.
+How Long We Keep Information
+We may keep information that will collect for an unlimited period of time.
+Use of Cookies
+Our website may use “cookies” to enhance your experience.
+Your web browser places cookies on its hard drive for record-keeping purposes and sometimes to track information about it.
+You may choose to set your web browser to refuse cookies, or to alert you when cookies are being sent.
+If you do so, note that some parts of the website may not function properly.
+Google Analytics
+We use a tool called “Google Analytics” to collect information about use of this site.
+Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site.
+We use the information we get from Google Analytics only to improve this site.
+Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information.
+We do not combine the information collected through the use of Google Analytics with personally identifiable information.
+Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google.
+Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy.
+You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
+Children’s Online Privacy Protection Act Compliance
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), in that we do not knowingly collect or maintain personal information from anyone under 13 years of age.
+Our website, information and services are all directed to people who are at least 13 years of age or older.
+Your Access to and Control Over Information
+You may opt out of any future contacts from us at any time by contacting us via the email address given on our website: info@davies4ca.com

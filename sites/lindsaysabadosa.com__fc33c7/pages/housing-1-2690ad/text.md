@@ -1,0 +1,14 @@
+HOUSING
+The following includes a list of the housing bills my office has filed in 2025-2026.
+In addition to these bills, I have cosponsored many others.
+To read the full text of the bill, click on the bill name.
+An Act relative to preventing algorithmic rent fixing in the rental housing market
+This bill prohibits real estate lessors and service providers from using algorithms or services that coordinate rental prices or terms in ways that restrict competition.
+It makes such practices an unfair method of competition under Massachusetts law, subject to penalties.
+The act also invalidates predispute arbitration agreements and joint-action waivers in cases related to rent fixing.
+It allows for legal action and recovery of attorney fees and costs for successful plaintiffs, including the attorney general or municipalities enforcing the law.
+An Act relative to reaffirming the rights of individuals experiencing homelessness
+This bill aims to prevent the criminalization of homelessness by prohibiting the arrest or prosecution of individuals solely for engaging in activities related to their homelessness, such as sleeping in public spaces or panhandling.
+The act emphasizes the need for alternative solutions, like housing-first approaches and access to social services, instead of criminal penalties.
+It seeks to ensure that individuals experiencing homelessness are treated with dignity and given access to necessary resources for stability.
+The act advocates for a shift toward support-based policies rather than punitive measures.

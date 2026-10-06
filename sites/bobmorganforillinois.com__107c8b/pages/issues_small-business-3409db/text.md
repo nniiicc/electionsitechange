@@ -1,0 +1,3 @@
+Since taking office, Bob has been a champion for small businesses, advocating for them down in Springfield and working hard to ease the financial strain of the COVID-19 pandemic for business owners.
+Since taking office, Bob has been a champion for small businesses, consistently advocating for them down in Springfield.
+This work became even more essential in light of the COVID 19 pandemic, during which Bob fought for business interruption insurance, advocated for grants to help businesses coping with COVID losses, and worked to make it easier for small businesses to form in Illinois through reforms with the Secretary of State.

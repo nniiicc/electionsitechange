@@ -1,0 +1,37 @@
+FAIR & FREE FLORIDA
+The Free State of Florida?
+Maybe if you're a corporation that's friends with the governor.
+But for the rest of us, not so much.
+That's why I'm taking bold action with the Fair & Free Florida plan.
+Fair& Free Florida puts YOU first.
+We are gonna end corruption through meaningful reforms to shine a light on misdeeds and misdealings.
+We are also going to restore the freedoms that have been rolled back under Florida's fascist slide.
+People first policies
+- $22 min wage with annual increase based on federal COLA Residents summer sales tax waiver
+- Universal all day pre-k Child care vouchers for working families
+- Restore lottery funding as a supplement to school budget
+- School voucher accountability - End private/religious school vouchers, bring step-up scholarship administration into Florida department of education
+- Medicaid expansion
+- Full funding for Sadowski fund, limit fund diversions from affordable housing, transparency in contractor of to end pay for play
+- 5% annual rental increase cap
+- State insurance for disasters (Jolly plan)
+- No Shit Fund - subsidies for counties/municipalities to identify, rectify, and prevent shit in the water
+Restoring freedom
+- End state surveillance - stop illegal tracking of people
+- Medical freedom and safety (Eskamani, Smith, Jones plan)
+- End mandatory 287g agreements - public accounting of state and local costs of federal operations
+- Public accountability and oversight on migrant detention facilities
+- Restore citizen ballot initiatives - end excessive fees, committee reporting requirements, illegal tenements, make simple majority of voters
+- True History- revert education choices back to districts, repeal Stop WOKE Act
+- Equality in public expression - end don’t say gay, destruction of public art in local jurisdictions
+- Safe public assembly - repeal HB1, make hitting protesters with car illegal, make police tracking of protesters illegal
+End corruption
+- Public contract transparency - include sub-contractors
+- Return home rule - your voice
+- End pay for play state contracting - strengthen laws on public procurements processes
+- Enhance whistleblower protections
+- Improve public data integrity
+- Oversight boards appointed by the legislature not governor
+- Restrict radioactive roads
+- Mandate prosecutions for polluters - increase penalties for violators, hold legacy polluters accountable
+- Ethics ombudsman- create independent, elected board to replace governor-appointed ethics committee

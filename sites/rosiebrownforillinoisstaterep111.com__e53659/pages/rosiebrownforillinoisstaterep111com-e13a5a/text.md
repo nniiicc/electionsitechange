@@ -1,0 +1,105 @@
+Rosetta “Rosie” Brown
+Rooted in Community.
+Ready for Change.
+What to Expect from Rosetta "Rosie" Brown
+Rosetta “Rosie” Brown is running for Illinois House District 111 to deliver practical, people‑first solutions grounded in lived experience, not politics as usual.
+From Alton to Granite City, Wood River to Bethalto, Rosie’s platform reflects what she hears every day when she knocks on doors and listens to neighbors.
+❋ Mental Health & Wellness
+The Issue
+Families across District 111 are experiencing rising mental health challenges — from anxiety in our classrooms to isolation among seniors.
+Too many people are waiting months for care or going without help entirely.
+❋ Jobs & Economic Opportunity
+The Issue
+District 111 is full of hardworking people — but wages aren’t keeping up, and too many young people feel they have to leave to succeed.
+❋ Education & Youth Empowerment
+The Issue
+Our educators are stretched thin, our classrooms are crowded, and students deserve more opportunity — not fewer options.
+❋ Infrastructure & Environment
+The Issue
+Aging infrastructure and environmental challenges affect daily life — from flooded streets to unsafe water lines.
+❋ Revitalization & Safe Communities
+The Issue
+People want to feel safe in their homes and proud of their neighborhoods — without fear or neglect.
+❋ Technology & Innovation
+The Issue
+Access to technology and broadband should not depend on your zip code.
+Your Voice.
+Your Vote.
+Your Victory.
+Mental Health & Wellness
+Healthy Minds.
+Stronger Communities.
+The Reality
+- Schools lack enough counselors and social workers
+- Seniors need adult day care and wellness support
+- Mental health crises are too often handled by police instead of professionals
+Rosie’s Plan
+- Expand school‑based mental health services so students can get help where they already are
+- Support adult day care and senior wellness programs across the district
+- Increase funding for local, community‑based mental health providers
+- Advocate for crisis response alternatives that prioritize care over incarceration
+Rosie believes mental health care is health care — and it should be accessible to everyone.
+Jobs & Economic Opportunity
+Work Should Pay.
+Opportunity Should Stay Local.
+The Reality
+- Median household income in the district is well below the Illinois average
+- High school students want trade and career pathways, not just student debt
+- Small businesses struggle to access capital and support
+Rosie’s Plan
+- Expand vocational and trade programs in high schools
+- Support union jobs and apprenticeship pathways
+- Create micro‑grant and technical assistance programs for small businesses
+- Invest in green jobs tied to infrastructure and sustainability
+Rosie stands with workers, unions, and entrepreneurs — because a strong economy starts locally.
+Education & Youth Empowerment
+Every Child Seen.
+Every Future Funded.
+The Reality
+- Teachers are paying out of pocket for supplies
+- Students need mentorship, career readiness, and real‑world skills
+- Parents want schools that are safe, supported, and fully funded
+Rosie’s Plan
+- Fight for equitable and full school funding
+- Reduce classroom overcrowding and support teachers
+- Expand after‑school, mentorship, and career readiness programs
+- Build pathways to 4-year colleges and institutions, HBCUs, trade schools, Online Degrees, and local careers
+Rosie believes education should open doors — not close them.
+Revitalization & Safe Communities
+Safe Streets.
+Strong Neighborhoods.
+The Reality
+- Vacant properties hurt surrounding communities
+- Gun violence and illegal firearms threaten public safety
+- Too many neighborhoods lack investment and resources
+Rosie’s Plan
+- Support vacancy‑to‑value housing initiatives
+- Fund community‑based violence prevention programs
+- Crack down on illegal guns and ghost guns
+- Partner with residents and organizations to revitalize neighborhoods
+Rosie’s approach to safety is community‑driven, preventative, and people‑focused.
+Infrastructure & Environment
+Build It Right — For Today and Tomorrow.
+The Reality
+- Roads, sidewalks, and public spaces need repair
+- Flooding and water quality remain serious concerns
+- Communities want growth that doesn’t sacrifice health or safety
+Rosie’s Plan
+- Repair roads, sidewalks, and public spaces
+- Replace lead water lines and protect clean water access
+- Invest in flood prevention and climate resilience
+- Promote sustainable development that creates jobs and protects health
+Rosie believes infrastructure is about dignity, safety, and the future.
+Technology & Innovation
+Connecting People.
+Powering the Future.
+The Reality
+- Some families still lack reliable internet
+- Students and seniors are left behind digitally
+- Local innovation needs local support
+Rosie’s Plan
+- Expand broadband access across District 111
+- Pilot public Wi‑Fi and AI spaces in community hubs
+- Support tech education and workforce training
+- Foster local innovation and entrepreneurship
+Rosie’s vision prepares District 111 for the economy we’re heading into — not the one we’re leaving behind.

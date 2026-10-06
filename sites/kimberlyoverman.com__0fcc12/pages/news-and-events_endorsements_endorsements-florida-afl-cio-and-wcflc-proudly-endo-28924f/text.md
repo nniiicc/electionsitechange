@@ -1,0 +1,23 @@
+Kimberly Overman
+for Congress
+Florida District 12
+Endorsement
+Home » News & Events » Endorsements » Endorsements: Florida AFL-CIO and WCFLC Proudly Endorses Kimberly Overman
+Florida AFL-CIO and WCFLC Proudly Endorses Kimberly Overman
+Kimberly Overman has earned the endorsement of the AFL-CIO.
+Kimberly has worked alongside organized labor throughout her public service career, and in her campaigns for Hillsborough County Commission she was supported by the West Central Florida Labor Council and affiliated locals including Teamsters 79, IBEW 824, Operating Engineers 487, Laborers 517, Iron Workers 397, and UA Plumbers & Pipefitters 123.
+In Congress, she has committed to co-sponsoring the PRO Act, defending prevailing wage protections under Davis-Bacon, expanding registered apprenticeships, and strengthening OSHA enforcement — including heat illness protections that matter in a state where outdoor work carries real risk.
+###
+Media Contact:
+Overman for Congress – Florida District 12
+813-720-7719
+4610 N Central Avenue
+Tampa, FL 33603
+Vote@kimberlyoverman.com
+Fuel a campaign powered by people, not special interests.
+Your support helps us connect with voters, grow our movement, and deliver real change.
+Chip in today to help Kimberly fight for Florida’s families and future.
+This movement starts
+with you.
+Whether you can knock doors, make calls, or share our message online—there’s a place for you on Team Overman.
+Sign up and help us bring integrity and results back to Congress.

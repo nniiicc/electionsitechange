@@ -1,0 +1,25 @@
+THE NEWS.
+Stay Up To Date On The Latest News.
+Rep Smith receives inaugural bipartisan award from US Chamber of Commerce
+WASHINGTON, DC – Congressman Chris Smith (R-NJ) was once again recognized for his leadership as one of the most bipartisan Members of Congress, as the U.S.
+Chamber of Commerce (USCOC) released its inaugural “Jefferson-Hamilton Award for Bipartisanship,” citing Smith’s work during the first half of the 116th Congress (2019-2020) at the Chamber’s virtual “Governing with…
+Rep Chris Smith’s remarks in support of the JUSTICE Act
+Smith voted “NO” on ending qualified immunity and “YES” on Passing the JUSTICE Act to ensure greater transparency and accountability in policing in order to build safer communities.
+Remarks by Rep-.
+Chris Smith (R-NJ) In the House of Representatives 6/25/2020 Madame Speaker, the JUSTICE Act is designed to ensure greater transparency and accountability in policing…
+U.S.
+Rep.
+Chris Smith continues longstanding criticism of China as Beijing threatens retaliation
+The Trentonian by Sulaiman Abdur-Rahman Democrats and Republicans have increasingly become more critical of China as the COVID-19 pandemic endures.
+But GOP Congressman Chris Smith, a longtime New Jersey politician, has been sounding the alarm on Chinese Communist Party politics for years.
+The state-affiliated Global Times newspaper, which House Speaker Nancy Pelosi and many others…
+Rep.
+Chris Smith: Climb Aboard for NJ Fishing Season
+POINT PLEASANT, NJ – Representative Chris Smith (NJ-4) met with captains and customers early Saturday morning as they boarded local vessels and kicked-off the 2020 fluke fishing season.
+Smith had been working with Ray Bogan of the United Boatmen and Recreational Fishing Alliance to urge Governor Murphy to reopen the fishing boats at a capacity that is…
+Rep Smith: Pandemic makes women and children more vulnerable to trafficking
+Excerpts of remarks by U.S.
+Congressman Chris Smith of New Jersey via Zoom The OSCE Parliamentary Assembly’s Special Representative on Human Trafficking Issues OSCE Office for Democratic Institutions and Human Rights (ODIHR), Warsaw, Poland Monday, May 4, 2020 (9:00AM EST) Special thanks to all the distinguished international participants—especially a very brave survivor Shandra Woworuntu, founder of…
+Rep Smith’s new bill holds China accountable for spread of COVID-19
+‘Avenue for justice’: Congress to put China in crosshairs By Stephen Dinan Sunday, May 3, 2020 The coronavirus crisis hasn’t derailed Rep.
+Chris Smith — he’s written six bills while Congress has been on a virus-induced recess, including a demand that airlines refund unused tickets and a trend-setting bill to punish China for mismanaging the…

@@ -1,0 +1,21 @@
+House Republicans devastate K-12 school funding for 2025-26
+June 18, 2025
+It is disgraceful that our school funding is being cut in this way.
+I will NEVER allow school funding to be gutted like this.
+A DISGRACE!
+See article below.
+Contact your lawmakers: Reject education cuts that hurt students
+Last week, House Republicans (https://keweenawreport.com/2025/06/12/147435/) introduced – and then swiftly passed – an education budget for 2025-26 that harms students’ opportunities to get the education and skills they need to land good-paying careers after graduation.
+This budget guts programs and services that students and families rely on, including:
+- Career and technical courses that prepare students for good paying jobs ($62 million cut)
+- Free school meals so hungry kids can focus on learning and families have one less thing to worry about in the morning ($200 million cut)
+- Targeted support for transportation and other unique needs faced by rural schools ($137 million cut)
+- Programs that recruit and retain excellent educators for every student in classrooms across Michigan ($125 million cut)
+- Mental health and school safety resources that help students and educators face the unique challenges of today’s world ($259 million cut)
+These cuts make it impossible to ensure every student gets a great public education, no matter where they live.
+To make matters worse, the way their budget is set up creates a structural deficit for next year that will cause even more cuts for our students in the future.
+In addition, after decades of preaching fiscal responsibility when it comes to school employee retirement, the House Republican budget violates current laws and slashes $1.2 billion from the state’s commitment to paying down pension liabilities – a decision that could increase the total debt for the first time in over a decade.
+Finally, this budget doubles the amount of money being siphoned away from neighborhood preK-12 schools to higher education – and still cuts our community college and university budgets that are key to driving our economy.
+Students deserve fully-funded pre-K12 schools and affordable higher education – and the House Republican budget delivers neither.
+Contact your state Representative and Senator – urge them to reject this dangerous budget proposal in upcoming negotiations and instead work toward a budget agreement that makes necessary investments in students of every age across our state.
+Source: https://mea.org/reject-education-cuts-that-hurt-students/

@@ -1,0 +1,48 @@
+House Passes Substance Addiction Legislation to Enhance Continuum of Care and Prevention Efforts
+January 14, 2016
+For immediate release: January 14, 2016 (BOSTON) – Representative Mark Cusack joined his colleagues in the Massachusetts House of Representatives to pass substance addiction legislation that creates a new standard to evaluate and treat patients who present in emergency rooms with an apparent overdose.
+This new best practice, which will...Read More - House Passes Substance Addiction Legislation to Enhance Continuum of Care and Prevention Efforts
+Federal Funding in Massachusetts; New report considers ways to bring more money into Massachusetts
+December 2, 2015
+For immediate release: December 2, 2015 BOSTON – On Tuesday, November 17, Representative Mark J.
+Cusack (D-Braintree) joined colleagues for the release of a report that looks into ways for the Commonwealth of Massachusetts to maximize the funding it receives from the Federal Government.
+The report, titled Maximizing Federal Support...Read More - Federal Funding in Massachusetts; New report considers ways to bring more money into Massachusetts
+House Passes Bill to Criminalize Fentanyl Trafficking
+October 15, 2015
+For immediate release: October 20, 2015 BOSTON – Representative Mark J.
+Cusack joined his colleagues in the House of Representatives to pass legislation criminalizing the trafficking of fentanyl.
+Drug traffickers frequently combine fentanyl, the most potent opioid available for medical use, with heroin which can create a lethal mix.
+Under...Read More - House Passes Bill to Criminalize Fentanyl Trafficking
+Blue Hills State Reservation Deer Management
+October 15, 2015
+For immediate release: October 15, 2015 (BOSTON) – On October 14th, 2015 the Commonwealth of Massachusetts approved a finalized deer management plan for the Blue Hills State Reservation.
+The plan allows for a controlled hunt to be carried out on November 30, 2015, December 1, 2015, December 7, 2015, and...Read More - Blue Hills State Reservation Deer Management
+District FY16 Budget
+July 14, 2015
+For immediate release: July 14, 2015 BOSTON – State Representative Mark J.
+Cusack (D-Braintree), Senator Brian A.
+Joyce (D-Milton), and Senator John F.
+Keenan (D-Quincy) are pleased to announce that the town of Braintree received $150,000 for public safety improvements and $200,000 for the expansion of the Department of Elder...Read More - District FY16 Budget
+Legislature Authorizes Funding for Municipal Roads and Bridges
+March 31, 2015
+For immediate release: March 31, 2015 (BOSTON) -- On Wednesday, March 25th State Representative Mark J.
+Cusack joined his colleagues in the Massachusetts House of Representatives to approve legislation that authorized the Commonwealth to borrow $200 million that will be dedicated to municipally owned roads and bridges.
+The House of...Read More - Legislature Authorizes Funding for Municipal Roads and Bridges
+State Representative, Mayor, and Police Chief Outline Plans for Additional State Funding; Braintree receives $100,000 for Public Safety Improvements
+March 14, 2014
+For immediate release: March 14, 2014 (BOSTON) – State Representative Mark J.
+Cusack was pleased to join Mayor Joseph Sullivan and Police Chief Russell Jenkins Thursday morning to outline their plans for state funding that Representative Cusack was able to secure for Braintree in the Fiscal Year 2014 state budget....Read More - State Representative, Mayor, and Police Chief Outline Plans for Additional State Funding; Braintree receives $100,000 for Public Safety Improvements
+Representative Cusack Announces Legislation to help Braintree’s Small Businesses
+December 11, 2013
+For immediate release: December 11, 2013 (BOSTON) – Representative Mark Cusack (D-Braintree) has announced legislation to assist Braintree’s small businesses.
+The legislation will increase the local option tax exemption on small business property from 10% to 20%, which will lead to greater savings for Braintree’s small business community.
+“This legislation...Read More - Representative Cusack Announces Legislation to help Braintree’s Small Businesses
+Massachusetts House of Representatives Supports Bill to Expand Veterans’ Benefits
+November 13, 2013
+For immediate release: November 13, 2013 (BOSTON) – Representative Mark Cusack (D-Braintree) recently joined his colleagues in the Massachusetts House of Representatives to unanimously pass the 2013 VALOR Act which builds on existing legislation to expand services military personnel, veterans and their families.
+The legislation expands benefits, increases access to...Read More - Massachusetts House of Representatives Supports Bill to Expand Veterans’ Benefits
+Representative Cusack Named Vice Chairman of the Joint Committee on Telecommunications, Utilities and Energy
+February 19, 2013
+For immediate release: February 19, 2013 BOSTON- Representative Mark J.
+Cusack (D- Braintree) was recently named the Vice Chairman of the Joint Committee on Telecommunications, Utilities and Energy for the 188th Legislative Session of the Massachusetts General Court.
+The Telecommunications, Utilities, and Energy Committee is charged with reviewing all matters...Read More - Representative Cusack Named Vice Chairman of the Joint Committee on Telecommunications, Utilities and Energy

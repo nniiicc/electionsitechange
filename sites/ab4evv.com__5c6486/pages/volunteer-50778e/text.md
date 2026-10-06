@@ -1,0 +1,1 @@
+[siteorigin_widget class=”WP_Widget_Media_Image”][/siteorigin_widget] [siteorigin_widget class=”WP_Widget_Custom_HTML”][/siteorigin_widget] [siteorigin_widget class=”A13fe_Widget_Shortcodes”][/siteorigin_widget]

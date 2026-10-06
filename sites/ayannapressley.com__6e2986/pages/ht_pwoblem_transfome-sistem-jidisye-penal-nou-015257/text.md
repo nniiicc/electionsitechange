@@ -1,0 +1,5 @@
+Transfòme Sistèm Legal Kriminèl nou an
+Pandan plizyè ane, Règlemantè politik, defansè, ak manm kominote yo te konnen ke sistèm legal kriminèl nou an pa bay menm tretman nan pini moun nwa ak mawon – soti nan echek lagè nan dwòg rive nan anprizonnman an gwo kantite, nan lajan kach ak ankourajman an pèseveran nan yon endistri prizon pou pwofi – ankò nou te wè twò piti pwogrè ki fèt nan adrese inegalite sa yo.
+Pou pi byen adrese eritaj nan règleman kap detrui sa yo, Ayanna konnen nou dwe konplètman repanse sistem legal krimnèl nou an ki rasis, ki pa toleran ak etranje e ki fondamantalman kraze, pou nou konstwi yon nouvo sistèm ki santre sou prensip yon pouvwa pataje, libète, sekirite, egalite, ak diyite moun.
+Ayanna te entwodwi Garanti Jistis Pèp la, yon travay odasye ak vizyon pou yon sistèm legal kriminèl ki pi jis, pou mete nou pi pre direksyon pou pwomès jistis pou tout moun.
+Ayanna te goumen pou mete yon fen nan pèn lanmò federal la e li te garanti yon angajman nan men Prezidan Biden ke pèsonn pa pwal egzekite pa gouvènman federal la toutotan li prezidan.

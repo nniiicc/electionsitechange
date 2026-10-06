@@ -1,0 +1,71 @@
+Former Mayor of Perkins Jason Shilling
+Lincoln County GOP County Vice-Chair Susan Holmes
+Lincoln County GOP State Committeeman Ryan Kester
+Lincoln County GOP State Committeewoman Shannon Kester
+Lincoln County GOP District Committeeman Eric Kinzie
+Lincoln County GOP District Committeeman Virgil Wilson
+Lincoln County GOP Precinct 1 Vice Chair Stephanie Schones
+Lincoln County GOP Precinct 3 Vice Chair Ryan Kester
+Lincoln County GOP Precinct 6 Chair Eric Kinzie
+Lincoln County GOP Precinct 6 Vice Chair Heather Eakle
+Lincoln County GOP Precinct 8 Vice Chair Julia Blevins
+Lincoln County GOP Precinct 9 Chair Danna Shaw
+Lincoln County GOP Precinct 9 Vice Chair Laurlee Prough
+Lincoln County GOP Precinct 10 Chair Virgil Wilson
+Lincoln County GOP Precinct 10 Vice Chair Jamie Wilson
+Lincoln County GOP Precinct 11 Vice Chair Christina Miles
+Lincoln County GOP Precinct 11 Chair Michael Voris
+Lincoln County GOP Precinct 13 Chair James Gill
+Lincoln County GOP Precinct 15 Chair William Beck
+Lincoln County GOP Precinct 16 Chair Dorn Weaver
+Lincoln County GOP Precinct 16 Vice Chair Kimberly McMillan
+Lincoln County GOP Precinct 19 Chair Christian Calvillo
+Lincoln County GOP Precinct 19 Vice Chair Susan Holmes
+Lincoln County GOP Precinct 20 Chair Christian Miles
+Lincoln County GOP Precinct 20 Vice Chair Hayley Miles
+Lincoln County GOP Precinct 21 Chair Dakota Coffman
+Lincoln County GOP Precinct 21 Vice Chair Larry Cooper
+Chandler City Councilmember Ward 4 & Business Manager Crouch Family Medicine Robin Crouch
+Chandler City Council David Burgess
+Chandler City Council Ben Myers
+Agra Mayor Laura Brown
+Former Carney Mayor Bo Gibbs
+Carney Mayor Constance Wallace
+McLoud Mayor Daniel McClure
+Logan County GOP Precinct 203 Chair Don Spencer
+Logan County GOP County Precinct 203 Vice Chair Jim Bernethy
+Former Mayor of Perkins Jason Shilling
+Lincoln County GOP County Vice-Chair Susan Holmes
+Lincoln County GOP State Committeeman Ryan Kester
+Lincoln County GOP State Committeewoman Shannon Kester
+Lincoln County GOP District Committeeman Eric Kinzie
+Lincoln County GOP District Committeeman Virgil Wilson
+Lincoln County GOP Precinct 1 Vice Chair Stephanie Schones
+Lincoln County GOP Precinct 2 Vice Chair Ryan Kester
+Lincoln County GOP Precinct 3 Vice Chair Ryan Kester
+Lincoln County GOP Precinct 6 Chair Eric Kinzie
+Lincoln County GOP Precinct 6 Vice Chair Heather Eakle
+Lincoln County GOP Precinct 8 Vice Chair Julia Blevins
+Lincoln County GOP Precinct 9 Chair Danna Shaw
+Lincoln County GOP Precinct 9 Vice Chair Laurlee Prough
+Lincoln County GOP Precinct 10 Chair Virgil Wilson
+Lincoln County GOP Precinct 10 Vice Chair Jamie Wilson
+Lincoln County GOP Precinct 11 Vice Chair Christina Miles
+Lincoln County GOP Precinct 11 Chair Michael Voris
+Lincoln County GOP Precinct 13 Chair James Gill
+Lincoln County GOP Precinct 15 Chair William Beck
+Lincoln County GOP Precinct 16 Chair Dorn Weaver
+Lincoln County GOP Precinct 16 Vice Chair Kimberly McMillan
+Lincoln County GOP Precinct 19 Chair Christian Calvillo
+Lincoln County GOP Precinct 19 Vice Chair Susan Holmes
+Lincoln County GOP Precinct 20 Chair Christian Miles
+Lincoln County GOP Precinct 20 Vice Chair Hayley Miles
+Lincoln County GOP Precinct 21 Chair Dakota Coffman
+Lincoln County GOP Precinct 21 Vice Chair Larry Cooper
+Chandler City Councilmember Ward 4 & Business Manager Crouch Family Medicine Robin Crouch
+Chandler City Council David Burgess
+Chandler City Council Ben Myers
+Agra Mayor Laura Brown
+Former Carney Mayor Bo Gibbs
+Carney Mayor Constance Wallace
+McLoud Mayor Daniel McClureLogan County GOP Precinct 203 Chair Don SpencerLogan County GOP County Precinct 203 Vice Chair Jim Bernethy

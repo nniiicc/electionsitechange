@@ -1,0 +1,44 @@
+Our Priorities
+We are committed to building a better and brighter future for our families and communities.
+Together, we can raise up our city and create a more just, equitable, and livable New York.
+- New York was built on the backs of the working class, we must support workers by:
+- Protecting the right of workers to organize
+- Combating wage theft and holding employers accountable
+- Ensuring the health and safety of all workers by establishing stricter workplace requirements and protections
+- We will work to ensure that our neighbors have an affordable place to live by:
+- Increasing tenant protections to prevent unjust evictions
+- Supporting small landlords to maintain the fiber of our communities
+- Increasing housing stock through novel programs and additional construction that does not displace existing families and includes union labor
+- New York is a state built by immigrants, we will secure:
+- Stronger protections for immigrants against discrimination, wage theft, and ensure they can live a dignified life.
+- Additional vending licenses and safe working conditions for street vendors.
+- Increased funding for legal services, English as a Second Language, Migrant Crisis response, and mental health services for immigrant New Yorkers.
+- New Yorkers deserve a system that works for everyone regardless of the color of their skin or their income, and we will:
+- Fight to end qualified immunity
+- Ensure the constitutional rights of appellants, immigrants and victims are protected.
+- Our public schools gave me a chance to thrive.
+We will fight so that they can do it for every child by:
+- Ensuring full foundation aid funding every year
+- Increasing access to STEM, arts, and other programs that allow our children to dream and learn
+- Increasing access to 3K and after-school programming for our working-class neighbors, regardless of immigration status
+- We will work to ensure that our massive system works for our neighbors by:
+- Fighting against additional fare increases
+- Securing yearly funding for much-needed repairs and support to make every train station ADA-compliant
+- Increasing services in transit deserts.
+We can save lives by ensuring everyone gets where they need to go safely, whether by public transit, cycling, or walking our streets.
+- From abortion, to discrimination in pay, we must continue to fight regardless of what the Supreme Court has said by:
+- Securing funding so that anyone regardless of income or immigration status can access birth control, abortion, or other forms of reproductive healthcare.
+- Supporting the fight for equal pay rights and against discrimination in the workplace
+- Establishing legislation to ensure that all women can be truly are free from all types of gender-based violence
+- They are our family and remain under attack.
+We will support them by:
+- Fighting to increase the Lorena Borjas Fund to $15 million
+- Increase penalties for workplace discrimination and hate crimes
+- Seniors and New Yorkers with disabilities are often left without proper support, we will ensure:
+- Increased funding for culturally competent services
+- Accountability against those who abuse seniors or those with disabilities
+- Increased access to healthcare and adequate housing
+- The future of our families depends on the future of our planet, we will fight to:
+- Pass the NY Heat Act
+- Secure funding to better educate our neighbors on disaster prevention and response
+- Ensure that New York State becomes a global leader in the transition to renewable energy.

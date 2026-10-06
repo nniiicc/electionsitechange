@@ -1,0 +1,16 @@
+Belza Endorsed by Marysville City Leaders
+Marysville, Calif. – As the campaign trail is moving into the General Election, Dom Belza continues to add new endorsements and build local community and grassroots coalitions in his campaign for the State Assembly.
+Today, Dom Belza announced new endorsements from across the 3rd Assembly District – including Glenn County Supervisor Jake Withrow and Gridley Vice Mayor Bruce Johnson.
+These endorsements join an overwhelming list of community supporters.
+In addition to being an agricultural businessman, father, and coming from a generational farming family, Dom Belza served on the Marysville City Council for four years.
+While serving as a Councilmember, Belza had many successes in moving the city forward.
+Just check out what Marysville Mayor Chris Branscum has to say about Dom Belza’s service:
+“Dom’s strategic thinking created a critical path for success in a Hyatt Hotel, Grocery Outlet and restaurant development that is of enormous importance to our city.
+We need a man like Dom Belza representing our district in the State Assembly.”
+Mayor Branscum is part of a strong coalition of leaders from the City of Marysville supporting Dom Belza, including:
+Chris Branscum, Mayor
+Bruce Buttacavoli, Vice Mayor
+Brad Hudson, Councilmember
+Stephanie McKenzie, Councilmember (Ret.)
+Dom Belza was the top vote getter for the 3rd Assembly District during the June Statewide Primary election.
+Due to California’s election rules, there will be a final run-off election held in conjunction with the November 3rd, 2026 Statewide General Election.

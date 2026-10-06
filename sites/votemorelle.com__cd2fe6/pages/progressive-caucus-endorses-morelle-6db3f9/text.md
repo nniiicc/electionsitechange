@@ -1,0 +1,15 @@
+JOE MORELLE SECURES MAJOR ENDORSEMENT FROM
+CONGRESSIONAL PROGRESSIVE CAUCUS
+June 22, 2018 | Press Release
+Rochester, NY – Today, Joe Morelle announced that the Congressional Progressive Caucus has endorsed his candidacy for House of Representatives in the 25th District.
+The Congressional Progressive Caucus consists of one United States Senator and 78 members of the United States House of Representatives and is the largest caucus within the House Democratic Caucus.
+“Right now, our progressive values are under attack from a White House that continues to wage war on working families while lining the pockets of special interests,” said Mark Pocan, Co-Chair of the Congressional Progressive Caucus.
+“That is why it is imperative that we elect leaders like Joe Morelle who will be the champion hardworking Americans need and deserve.
+Joe has been fighting to advance social, educational, and economic opportunities his entire life – and we know he will do the same in Congress.”
+“It is a true honor to have the support of the Congressional Progressive Caucus,” said Morelle.
+“Never in my lifetime has it been more critical to have real leadership in Congress to protect the fundamental, progressive ideals we all share.
+I will work to take our country back from extremists by fighting every day to keep our neighborhoods safe from the terror of gun violence, preserve and protect our environment for future generations, and ensure universal healthcare for every person.
+Families across America deserve nothing less.”
+Morelle, who currently serves as a state Assemblymember representing the towns of Brighton, Irondequoit and parts of the city of Rochester, has spent a lifetime in public service working to advance the best interests of his community.
+In the Assembly, Morelle has successfully fought for the passage of legislation to support our working families, including measures to keep guns out of the hands of domestic abusers, protect reproductive freedoms of women, combat and treat the spread of opioid addiction, protect and expand access to critical healthcare programs, and ensure our schools receive the essential support and resources they deserve.
+Morelle has also received over 30 endorsements including the Women’s Equality Party, the Working Families Party, and every major trade and service union in New York State.

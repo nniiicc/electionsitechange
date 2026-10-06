@@ -1,0 +1,1 @@
+Staci is running to build a future where every Texan has: Strong public schools that prepare every child for success Affordable healthcare and investment in community wellness A fair criminal justice system

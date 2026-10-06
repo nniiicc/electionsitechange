@@ -1,0 +1,36 @@
+Charles Hoelter is committed to transparency.
+View his official campaign filings here.
+The San Francisco Young Republicans have officially voted to endorse Charles Hoelter in his campaign for California’s Congressional District 15.
+In a formal statement, Bruce Lou, President of the organization, expressed strong support for Hoelter’s candidacy and vision:
+“Last night, the San Francisco Young Republicans voted to endorse your candidacy for Congressional District 15.
+You’re welcome to use our endorsement in your messaging and promotional materials.
+We’ll also be highlighting our endorsed candidates on social media in the coming days and would be glad to include you.
+Congratulations, and best of luck going into the primary.”
+This endorsement reflects growing grassroots support for Hoelter’s campaign and highlights his alignment with the priorities and values of young Republican voters in the region.
+Hoelter expressed appreciation for the endorsement and emphasized his commitment to engaging with local communities, expanding outreach, and continuing to build momentum heading into the primary election.
+For more information about Charles Hoelter’s campaign,
+upcoming events, and how to get involved, please visit:
+https://hoelterforuscongress.com
+Campaign Team – Charles Hoelter
+Email: chas_in_charge@yahoo.com
+Phone: (650) 219-0966
+Supporters gather outside a government building advocating for voter identification requirements.
+The rally included community members and leaders such as California Assembly member Carl DeMaio and congressional candidate Charles Hoelter, highlighting growing grassroots support for election integrity initiatives.
+A coalition of concerned citizens and community leaders came together to advocate for stronger voter identification requirements and greater transparency in the electoral process.
+Events like this demonstrate the growing public demand for secure and trustworthy elections.
+Leaders and supporters emphasized that ensuring fair elections is essential to maintaining confidence in the democratic system.
+“Secure elections are the foundation of a strong democracy.
+When voters have confidence in the process, our entire nation benefits.” – Charles Hoelter
+San Mateo, CA 94401 — February 13, 2026 — Charles Hoelter is proud to announce that as of last night, he has officially received the endorsement of the SMGOP Party, marking a significant milestone in his campaign and reinforcing the growing momentum behind his mission to serve the people.
+“I am honored and grateful to receive the endorsement of the SMGOP Party,” said Charles Hoelter .
+“This endorsement represents a shared commitment to protecting our values, restoring strong leadership, and putting the needs of our community and country first.”
+The SMGOP Party endorsement reflects confidence in Hoelter’s dedication to principled leadership, transparency, and accountability in government.
+With this support, Hoelter’s campaign continues to strengthen its foundation and expand outreach to voters across the district.
+Charles Hoelter remains committed to fighting for the priorities that matter most to hardworking families, including economic stability, public safety, constitutional freedoms, and government that serves the people—not special interests.
+For more information about Charles Hoelter’s campaign,
+upcoming events, and how to get involved, please visit:
+https://hoelterforuscongress.com</a >
+Email:
+charlesforcalifcongressdistrict15@gmail.com</a >
+Phone: (650)458-7785
+If you would like to officially endorse Charles, please contact the campaign

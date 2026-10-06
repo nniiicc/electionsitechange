@@ -1,0 +1,47 @@
+Rep.
+Jason Osborne: Democrats’ National Agenda Contrary to New Hampshire Principles
+May 10, 2021
+This column by New Hampshire House Majority Leader Jason Osborne originally appeared in the New Hampshire Union Leader on May 10, 2021.
+Read it at unionleader.com.
+MUCH OF AMERICA listened Read More
+NH Legislature Removes Statehouse Mask Mandate
+May 7, 2021
+The Republican-controlled Joint Facilities Committee voted to revoke the mask mandate at the Statehouse and legislative office building as vaccinations expanded and fatalities dropped sharply.
+NH Journal reports House Majority Read More
+Soaring State Revenue Makes the Case for Tax Cuts, NHGOP Says
+May 5, 2021
+New Hampshire took in $434.1 million in April revenue, more than $84 million above projections, continuing a streak of beating fiscal expectations every month of 2021.
+NH Journal reports House Read More
+NH’s Mask Mandate Partly Done in Over Critical Race Theory
+April 21, 2021
+Gov.
+Chris Sununu’s decision to end the statewide mask mandate was attributed in part to pressure from conservative House Republicans tying budget passage to priorities such as banning the teaching Read More
+NHGOP’s Boyd Wins Big in Merrimack Special Election
+April 13, 2021
+Republican Bill Boyd won a decisive victory over former Rep.
+Wendy Thomas in the special election to fill the Merrimack seat left vacant by Speaker Dick Hinch’s death.
+NH Journal Read More
+NHGOP House Passes ‘Treasure Trove’ Budget Over Criticism From Dems, Sununu
+April 7, 2021
+The GOP-controlled New Hampshire House passed its state budget, including HB 2, despite criticism from both House Democrats and Gov.
+Chris Sununu.
+NH Journal reports House Majority Leader Jason Osborne Read More
+House Finance Committee Advances Budget, Sununu Rejects ‘Off The Rails’ Legislation
+March 31, 2021
+The House Finance Committee passed its $13.8 billion budget proposals, HB 1 and HB 2, advancing them toward a full House vote.
+NH Journal reports House Majority Leader Jason Osborne Read More
+Former NH Chief Justice: Ban on Critical Race Theory Doesn’t Violate Constitution
+March 15, 2021
+Former New Hampshire Supreme Court Chief Justice Bob Lynn released an opinion defending the constitutionality of HB 544, the bill barring state employees and contractors from teaching or training certain Read More
+“Democrats Are Going Home Now:” House Dems Attempt to Deny Quorum Backfires
+February 24, 2021
+House Democrats’ attempt to block a vote on a pro-life bill by walking out and denying a quorum backfired when Speaker Sherm Packard, anticipating the move, ordered the doors locked Read More
+Abortion Politics Were At Center Of House Dems’ Walk Out
+February 24, 2021
+The New Hampshire House passed HB 625, the Fetal Life Protection Act banning abortions after 24 weeks except for medical emergencies, and HB 233, the Born Alive Infant Protection Act, Read More
+GOP Leader Asks Police Chiefs to Take ‘Necessary Precautions’ In Wake of NHDem’s Doxxing Attack
+January 19, 2021
+House Majority Leader Jason Osborne (R-Auburn) sent a letter to New Hampshire police chiefs asking them to take precautions for state representatives after a Democratic lawmaker published the names, home Read More
+NHGOP Picks Packard As Next Speaker
+December 18, 2020
+House Republicans chose Acting Speaker Sherm Packard as their nominee for Speaker of the New Hampshire House, filling the vacancy left by the death of Speaker Dick Hinch, NH Journal Read More

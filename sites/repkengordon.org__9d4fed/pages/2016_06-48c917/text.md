@@ -1,0 +1,3 @@
+A proposed Massachusetts House bill that will help new parents spend more time with their children was the focus of a meeting that featured a member of President Obama’s cabinet.
+Representative Ken Gordon, the sponsor of the House bill to bring paid family and medical leave to all workers in Massachusetts, was joined U.S.
+Labor Secretary Tom Perez, Massachusetts Attorney General Maura Healey, Co-Chairman of the Joint Committee Labor and Workforce Development John Scibak (D-South Hadley), and Senate Co-Sponsor Karen Spilka (D-Ashland) at Cambridge startup Tamr to discuss the issues surrounding the proposed program, a release from Gordon’s office states.

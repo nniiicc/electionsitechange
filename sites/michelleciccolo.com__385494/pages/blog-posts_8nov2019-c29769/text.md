@@ -1,0 +1,3 @@
+| Increases access to mental health services at public colleges and universities, recognizes historic contributions of female veterans from Massachusetts BOSTON – Days before the nation celebrated Veterans Day on November 11, Representative Richard M.
+Haggerty (D-Woburn) and Representative Michelle Ciccolo (DLexington), along with their colleagues in the House of Representatives, voted to unanimously pass two pieces of legislation, which would improve mental health care for student veterans and honor the military service contributions of a female American Revolutionary War soldier.
+Full Press Release Here | Archives Categories All Announcement Donate Endorse/Endorsement Event News Press Support |

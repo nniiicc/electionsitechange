@@ -1,0 +1,20 @@
+Legislation / Getting Good Things Done
+Education
+Enacted laws I have authored and/or co-sponsored:
+- HB1, combining $410 million in ongoing support for Idaho education with a $500 million income tax rebate
+- Improved healthcare coverage for educators
+- Funding for full-day optional kindergarten
+- Career ladder legislation providing teacher raises
+- Anti-bullying law
+- Civics education requirement
+- Funding for trauma training and suicide prevention for parents & school personnel
+Other work in education:
+- Served on Governor’s Task Force on Higher Education, where I successfully advocated for increased scholarship funding for low-income students
+- Volunteer teacher of classes on the Constitution and Bill of Rights in Boise schools since 2008
+- Founding member of Boise State University Honors College’s Advisory Board
+Recognition for my work in this area:
+- Idaho Children are Primary’s “Primary Legislator” Award for support of children and families
+- Rated 100% for support of education by Idaho Business for Education
+- Idaho Federation of Families’ Outstanding Advocacy Award for Children’s Mental Health
+- Endorsed by Idaho Education Association
+- Idaho Women Lawyers’ Public Service Award

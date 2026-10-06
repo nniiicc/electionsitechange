@@ -1,0 +1,3 @@
+City of Chicago-Cook County Violence Against Women Task Force Aims to Address Domestic Violence
+A task force aimed at creating safeguards for women who are the victims and survivors of domestic violence was launched on Wednesday, Jan. 7th.
+The City of Chicago-Cook County Violence Against Women Task Force seeks to address the rise in violence against women and their children across Cook County and the city of Chicago…

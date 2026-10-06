@@ -1,0 +1,50 @@
+Recent Posts
+- Pete Scroggs endorses Jim WalshNovember 1, 2016 Originally published Monday, October 31st in The Daily World – Letter to the Editor Supporting Walsh By Peter Scroggs I have known Jim Walsh for over 10 years and have found him to be a good family man, a smart businessperson and someone who is more passionate about seeing Grays Harbor thrive than many of […]Read More »
+- WA REALTORS PAC SUPPORTS JIM WALSHOctober 27, 2016 WA REALTORS PAC SUPPORTS JIM WALSH FOR OPEN WA HOUSE SEAT IN LD19 Realtors Group Points Out that Walsh is NOT a Professional Lobbyist and DOES Represent Local Values October 27, 2016 — Longview, WA — The Washington Realtors PAC and affiliated groups have created and distributed an effective direct-mail package supporting Republican Jim […]Read More »
+- TIM SUTINEN ENDORSES JIM WALSH FOR OPEN WA LD19 STATE HOUSE SEATOctober 26, 2016 TIM SUTINEN ENDORSES JIM WALSH FOR OPEN WA LD19 STATE HOUSE SEAT Former Rival’s Support Brings Majority of Primary Votes to Walsh’s Side October 25, 2016 — Longview, WA — Business owner and political activist Tim Sutinen has endorsed candidate Jim Walsh in the general election for the open Washington State House […]Read More »
+- Grateful for supportOctober 3, 2016 This is Jim Walsh.
+I’m grateful for The Daily News editorial board’s endorsement of my candidacy for the Washington State House, Position 1 in legislative District 19.
+I consider that endorsement a challenge—the best kind of challenge—to serve my neighbors well in Olympia.
+The endorsement mentioned the clarity of my positions on taxes, gun rights […]Read More »
+- The Daily News endorses Jim WalshSeptember 21, 2016 The Daily News editorial released on September 21st… After careful consideration, the TDN editorial board urges you to vote for Jim Walsh for the state House of Representative District 19 position no. 1.
+State political operatives from both sides of the aisle tell us polling shows taxes and gun control are the hot button issues […]Read More »
+- WALSH ENDORSED BY HUNTERS HERITAGE COUNCIL, WA DAIRY PACSeptember 13, 2016 WALSH ENDORSED BY HUNTERS HERITAGE COUNCIL, WA DAIRY PAC Recently, Jim Walsh’s campaign for the open Washington State House of Representatives seat in Legislative District 19 has received two important endorsements.
+Jim has been endorsed by the Hunters Heritage Council of Washington.
+The Hunters Heritage Council is an organization dedicated to political action on […]Read More »
+- Thank you for all of your support!August 8, 2016 I’m honored–and excited–to have won the primary election for the open House seat in WA Legislative District 19.
+I’m looking forward to a great general election race.
+And, once I get to Olympia, to helping make this area a better place to live and work.Read More »
+- PRIMARY ELECTIONS 2016August 8, 2016 In the 19th Legislative District(Southwest Washington), James Walsh had a good showing coming out of a very divided primary for Position 1 in the state legislature.
+This is one of the last rural districts still controlled by the Democratic Party in Washington State, and while a Republican hasn’t held a state office here since long […]Read More »
+- Primary is round 1 in contest to rule Washington state House, SenateAugust 8, 2016 With the Washington state primary results coming in, the battle lines are being drawn over control of the state Legislature come the November elections.
+By Joseph O’Sullivan Seattle Times Olympia bureau OLYMPIA — A pair of incumbent Washington state senators maintained small leads in Tuesday’s returns in two closely watched primary races.
+The […]Read More »
+- Aberdeen Republican Walsh will run against RossettiAugust 8, 2016 By Terri Harber The Daily World Republican Jim Walsh of Aberdeen is the front runner in the 19th District State House race for Position 1, obtaining 5,092 votes, almost 30 percent of ballots cast in Tuesday’s Primary Election.
+“I’m still shaking a little bit,” Walsh said Tuesday night.
+“I’m real happy with the outcome — […]Read More »
+- Walsh wins 19th District primary; Purcell, Rossetti battling for second placeAugust 8, 2016 Hayat Norimine – The Daily News – [email protected] Republicans have historically been at a disadvantage in the 19th District, but this year GOP challenger Jim Walsh took a surprise lead in Tuesday’s primary, winning 30 percent of vote.
+Incumbent state Rep.
+J.D.
+Rossetti clung narrowly to second position with 24.6 percent of the vote, leading Teresa […]Read More »
+- JIM WALSH ENDORSED BY WASHINGTON PATRIOTS PACJuly 25, 2016 JIM WALSH ENDORSED BY WASHINGTON PATRIOTS PAC Challenger for House in WA Leg District 19 Included in List of State Legislative Candidates Who Will Return Focus to Government The Washington Patriot PAC (WPP) has endorsed Jim Walsh, Candidate for the Washington State House (LD19, Position 1).
+The WPP has endorsed Washington state legislative candidates […]Read More »
+- WALSH ENDORSED BY GUN OWNERS ACTION LEAGUE/WAJuly 25, 2016 WALSH ENDORSED BY GUN OWNERS ACTION LEAGUE/WA Candidate for WA State House in LD19 Says 2016 Election Offers Opportunity to Focus on Importance of Gun Rights The Gun Owners Action League of Washington (GOAL of WA) has endorsed Jim Walsh, Candidate for the Washington State House (LD19, Position 1).
+GOAL of WA contributes to […]Read More »
+- JIM WALSH ENDORSED BY GRAYS HARBOR GOPJuly 25, 2016 JIM WALSH ENDORSED BY GRAYS HARBOR GOP County Party Encourages One of Its Own to Provide a Stronger Voice to Voters of WA Leg District 19 Jim Walsh, Candidate for the Washington State House (LD19, Position 1), has been endorsed by the Grays Harbor Republican Party (GHGOP).
+The GHGOP endorsed Walsh as part of its […]Read More »
+- Jim Walsh Endorsed by ‘Human Life of Washington’July 2, 2016 JIM WALSH ENDORSED BY HUMAN LIFE PAC Candidate for WA State House in LD19 Says 2016 Election Offers Rare Opportunity for Major Legislative Reforms Jim Walsh—who’s running for the Washington State House, Legislative District 19, Position 1—been endorsed by the Human Life of Washington Political Action Committee.
+Human Life PAC is based in Bellevue, WA, […]Read More »
+- Walsh files for 19th District seatMay 17, 2016 By Jake Schild The Daily World On Monday night, Aberdeen businessman Jim Walsh made his candidacy for state representative in the 19th Legislative District official.
+Walsh, a Republican who is vice chairman of the state party, filed for the district’s position 1 just after 6 p.m., according to the Grays Harbor Auditor’s Office website.
+The […]Read More »
+- OPINION: Fix homelessness by spending more wiselyMay 12, 2016 By Jim Walsh A society is measured by how it treats its most vulnerable members.
+So, how do we help the homeless improve their circumstances?
+Not by increasing the amount of taxes that we dedicate to public assistance — but by spending the money we currently budget more effectively.
+How do we do that?
+First, […]Read More »
+- Old boy network gets a challenge in SW Washington legislative districtApril 27, 2016 BY JOEL CONNELLY, SEATTLEPI.COM STAFF Updated 3:34 pm, Monday, April 25, 2016 The state’s 19th Legislative District, covering all or parts of five Southwest Washington counties, has the shortest life expectancy of any district in the state, according to a recent ranking by the Office of Financial Management.
+But the district’s legislators have been able to […]Read More »
+- Legislature candidate says more voters are Republican than they realizeApril 12, 2016 The Daily News – Tom Paulu [email protected] Since 1947, only one Republican has been elected to the state House of Representatives in the 19th District – and he had an advantage because in the 1980s the district was split into sections that favored conservatives.
+Even though that split is long gone, Jim Walsh of Aberdeen […]Read More »
+- LIBERTY CAUCUS ENDORSES WALSH FOR WA STATE HOUSE: Group cites GOP candidate’s “understanding” and “service to this state”April 12, 2016 January 8, 2016 — the Republican Liberty Caucus of Washington has formally endorsed Jim Walsh for State Representative (Position 1) from the 19th Legislative District.
+Announcing the endorsement, RLC/WA Chairman Tony Stephens said of Walsh: We have searched your positions, recalled your past statements, looked into your political alliances and your service to this state […]Read More »

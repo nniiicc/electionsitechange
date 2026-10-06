@@ -1,0 +1,32 @@
+FOR IMMEDIATE RELEASE
+September 4, 2025
+Saipan, CNMI – Galvin Sablan Deleon Guerrero, independent candidate for US Delegate to Congress, strongly condemns Executive Order 14324, which suspends duty-free de minimis treatment for all imported goods under $800, effective last Friday.
+“This executive order is a direct hit on the wallets of CNMI families and small businesses,” said Deleon Guerrero.
+“Folks in Washington may see this as trade enforcement, but they are ignoring the reality of life here in the Marianas—it’s a tax on our survival.
+We cannot sit and wait while our islands pay the price for policies written for the mainland when we have clear protections under Section 603 of our Covenant with the US.”
+If applied fully in the CNMI, the order would subject all shipments entering the US— including those routed through mainland ports before reaching Saipan, Tinian, and Rota— to new duties, taxes, or flat-rate fees.
+Local analysis by the CNMI House Committee on Transportation and Infrastructure led by Chairman Vincent R.
+Aldan noted that this would likely lead to higher consumer costs for groceries, medicine, school supplies, clothing, and building materials— essentials that are already growing more expensive every year.
+“This executive order undermines the very protections guaranteed to the CNMI under Section 603 of our Covenant with the US.
+The Covenant was clear: the CNMI is outside the US customs territory and should have the ability to regulate its own imports and keep goods affordable for our people.
+But because nearly all of our shipments pass through US ports, this order effectively strips away that protection and raises the cost of living in direct contradiction to the Covenant’s intent.
+We cannot allow Washington to ignore the promises made to the people of the Marianas.”
+In response, Deleon Guerrero outlined the steps he would take if the issue remains unresolved:
+Territorial Exemption from Federal Customs Policy
+“As Delegate, I would fight for a territorial exemption or alternative threshold for insular areas.
+Cookie-cutter policies must give way to approaches that recognize the unique nature of the CNMI and other territories when it comes to commerce and trade.”
+Federal Relief for Territories Facing Disproportionate Impacts
+“As Delegate, I would advocate for federal relief if the CNMI and territories face drastically disproportionate impacts from national customs policy.
+The CNMI and other territories rely almost entirely on imports.
+Without tailored relief, federal customs decisions written for mainland markets can devastate our communities— driving up costs for families, discouraging small business growth, and fueling inflation.
+I will fight to ensure that relief measures, exemptions, or direct assistance are built into federal law so the people of the Marianas are not left behind.”
+Bipartisan Collaboration to Protect Remote Communities
+“As Delegate, I would work with elected officials on both sides of the aisle to ensure that the voices of remote communities are not ignored in Washington.
+Federal policy must take into account the lived realities of territories like the CNMI, where distance, high transportation costs, and heavy reliance on imports create vulnerabilities that mainland states simply do not face.
+The same can be said about rural communities in the US that are far from trade centers.
+By advocating for flexible thresholds and relief mechanisms, we can make sure that our communities are protected rather than punished by blanket national trade and customs decisions.”
+“The Marianas should not bear the brunt of trade wars and national policies that overlook our unique challenges,” Deleon Guerrero added.
+“We are already struggling as it is, and federal policies that continue to come down without proper representation will hurt us even more at a time when we are already hurting.”
+“This is not just about commerce— it’s about whether families in the Marianas can afford their next grocery trip, their children’s school supplies, or their medicine.
+I’m fighting for that— fighting for us.”
+###

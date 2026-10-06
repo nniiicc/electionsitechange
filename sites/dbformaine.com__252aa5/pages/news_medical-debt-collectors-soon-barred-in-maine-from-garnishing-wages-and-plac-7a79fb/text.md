@@ -1,0 +1,3 @@
+| Medical Debt Collectors Soon Barred in Maine from Garnishing Wages and Placing Liens on Homes 6/13/2026 The Maine Wire detailed the full scope of Maine's newly signed medical debt protection law — Senator Bailey's LD 2129 (An Act to Protect Maine People from the Harmful Impacts of Medical Debt).
+The article explained that debt collectors will be prohibited from seizing wages or placing liens on primary residences to satisfy unpaid medical bills, offering a significant new layer of financial protection for Maine households.
+The piece also outlined how the law fits within a broader national trend of states moving to curtail predatory medical debt collection. | Blog Latest News Archives Categories |

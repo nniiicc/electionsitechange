@@ -1,0 +1,61 @@
+Endorsed by Organizations
+Delaware State Education Association
+Advocacy Organization
+2026 DSEA Endorsed Candidate
+Sierra Club
+Advocacy Organization
+2026 Sierra Club Endorsed Candidate
+Run For Something
+Advocacy Organization
+2026 Run For Something Endorsed Candidate
+Delaware Stonewall PAC
+Advocacy Organization
+2026 Delaware Stonewall PAC Endorsed Candidate
+Working Families Party
+Political Party
+2026 Delaware WFP Endorsed Candidate
+Moms Demand Action
+Advocacy Organization
+2026 Moms Demand Action Gun Sense Candidate
+Delaware Democratic Party PRIDE Caucus
+Political Group
+2026 Delaware Democratic Party PRIDE Caucus Supported Candidate
+Delaware State AFL-CIO
+Labor Union
+2026 DE State AFL-CIO Endorsed Candidate
+3.14 Action
+Advocacy Organization
+2026 3.14 Endorsed Candidate
+Endorsed by National & Local Elected Officials
+State Rep.
+Larry Lambert
+“We need more fighters like Rae Krantz in our state legislature.
+Rae understands the hard work it will take to fix some of our toughest problems, and she’s ready to roll up her sleeves.
+I’d be honored to work alongside her as we tackle issues like environmental justice and the rising cost of living that is making life harder for so many families.
+I am excited to endorse Rae Krantz for State House Representative.”
+State House Representative, District 7
+Councilmember Dee Durham
+“Having worked together with Rae on several environmental issues, I know what a staunch supporter she is for environmental protection.
+She embodies deep commitment to her community and would bring that to her role as a state legislator.
+I am thrilled to endorse her candidacy.”
+NCC Councilmember, District 2
+Governor Matt Meyer
+“Rae's fight for affordable lives, safer streets, and clean air and water reflects exactly the kind of forward-looking, practical leadership Delaware needs as our communities face faster change than ever before.
+As a mom, a foster parent, and a tireless advocate, Rae brings the creativity and urgency our state needs to build an economy and a future where every Delaware kid can thrive.”
+Delaware
+State Senator Laura Sturgeon
+“As a lawmaker, a career educator, and Chair of the Public Education Funding Commission working with educators, school leaders, and national experts to revamp our school funding formula, I know that despite the strides we've made, there is still much work left to do.
+Now more than ever, we must elect leaders who share a vision for robust and equitable school funding — and that's why I'm proud to endorse Rae Krantz for State House in District 6.
+Her education platform is thoughtful and detailed, rising to meet the political moment in which we find ourselves here in Delaware.”
+State Senator, District 4
+Senator Bernie Sanders
+“We need leaders at every level of government who are prepared to take on the billionaire class and fight for working families.
+We need bold solutions to the crises we face.”
+US Senator, Vermont
+State Rep.
+Wilson-Anton
+“I’m excited to endorse Rae Krantz for State House.
+Rae is one of the most genuinely caring people I know.
+I’ve seen her go out of her way to make sure her neighbors are taken care of.
+As a working mom and former foster parent, Rae understands the challenges working families are facing in Delaware and she has the passion and drive to work to solve those problems for families across the state.”
+State Representative, District 26

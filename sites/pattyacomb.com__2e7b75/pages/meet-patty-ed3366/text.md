@@ -1,0 +1,53 @@
+MEET PATTY
+I was born and raised in Minnetonka, and have proudly called the area home for many years.
+Over the course of my career in public service, I’ve worked tirelessly to support the needs of our community, starting with seven years as an at-large City Council member in Minnetonka.
+During my time on the council, I focused on improving city infrastructure, enhancing community services, and promoting environmental sustainability.
+Now in my third term as a member of the Minnesota House of Representatives, I’m honored to represent the suburban communities of Minnetonka, Wayzata, Woodland, Deephaven, and Shorewood.
+In my role, I’ve made it a priority to tackle some of the most pressing challenges our state faces, especially when it comes to climate and energy policy.
+As Chair of the Climate and Energy Finance and Policy Committee, I’m leading efforts to combat climate change and transition to a clean energy economy, while also ensuring that Minnesota’s energy policies are both sustainable and equitable.
+In addition to my work on the Climate and Energy Committee, I serve on several other key committees, including the Sustainable Infrastructure Committee, the Health Finance Committee, and the Ways and Means Committee.
+These roles allow me to influence policies that affect the daily lives of Minnesotans, from improving healthcare access to strengthening our state’s financial outlook.
+I’m also co-Chair of the Legislative Energy Commission and a member of the Legislative Citizen Commission on Minnesota Resources, both of which focus on ensuring the long-term sustainability of Minnesota’s natural resources.
+Throughout my time in the Legislature, I’ve been a proud member of the House Climate Action Caucus, working with colleagues to push for bold action on climate issues.
+My passion for protecting our environment and creating a sustainable future drives much of my work, and I’m committed to finding innovative solutions that benefit all Minnesotans.
+I believe that by working together, we can build a stronger, healthier, and more resilient state for generations to come.
+Outside of my legislative work, I enjoy spending time with my family, exploring the natural beauty of our state, and staying connected with the communities I represent.
+Proven Experience
+Minnesota House of Representatives
+2019 to present
+Representing Minnetonka, Wayzata, Deephaven, Shorewood, and Woodland
+Committees
+Chair, Climate and Energy Finance and Policy committee
+Member, Ways and Means, Health Finance and Policy, and Sustainable Infrastructure Policy committees
+Commissions
+Co-Chair, Legislative Energy Commission (LEC)
+Member, Legislative-Citizen Commission on Minnesota Resources (LCCMR)
+Member, House Climate Action Caucus
+Minnetonka City Council
+2012 to 2018
+At-large member, representing and serving the entire city
+Previous public service
+Local
+- Bassett Creek Watershed Management Commission, commissioner
+- Empty Bowls, challenge leader
+- Hopkins Eisenhower Elementary school, school naturalist
+- Hopkins One Voice, coalition member
+- Hopkins School District Strategic Planning Committee, member
+- League of Women Voters, Minnetonka, Eden Prairie and Hopkins current member
+- Minnehaha Creek Watershed District, policy advisory committee member
+- Minnetonka Family Collaborative, executive committee member
+- Minnetonka Mills Corridor Development Initiative, committee member
+- Minnetonka Park Board, vice-chair
+- Minnetonka Rotary, current member and former foundation treasurer
+- Minnetonka Wetland Health Evaluation Program, team leader
+- ResourceWest, Board vice-chair
+- School & Community in Partnership, collaborative member
+- Tonka Cares, sustainability committee member
+Regional and state
+- Board of Water and Soil Resources, Governor Dayton appointee
+- Metro Cities Housing and Economic Development, policy committee member
+- Metropolitan Area Water Supply Advisory Committee, Governor Dayton appointee
+- Minnesota Mayoral Active Transportation Caucus, member
+National
+- Environmental Protection Agency, Governmental Advisory Committee member
+- National League of Cities Energy, Environment, and Natural Resources, steering committee member

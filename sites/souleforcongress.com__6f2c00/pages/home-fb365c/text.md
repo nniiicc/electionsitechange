@@ -1,0 +1,18 @@
+Peter Soule
+for Congress
+Leading the charge for a better future for the Golden State
+Public Safety and Security
+|
+Bring Back the Golden State
+|
+Build for the Next Generation
+|
+Public Safety and Security | Bring Back the Golden State | Build for the Next Generation |
+About Peter Soule
+The devastation by the Great 1906 San Francisco Earthquake does not compare to the current devastation in California and America inflicted by progressive Democrat policies.
+Our Bay Area Congressional Representatives all side with their left-wing Democrat caucus to keep illegal criminal gang members from being deported, making life unaffordable by keeping energy and home prices artificially high, to say nothing of refusing to condemn government waste and fraud.
+In response to the rubble left by the 1906 Earthquake, my grandfather, Edward Lee Soule Sr, started a company in 1911, to manufacture a brand-new product, reinforcing steel.
+Reinforcing steel enabled the construction of buildings, bridges and the like that would withstand earthquakes.
+Still standing today are buildings across the US with Soule Steel products.
+I am running for US Congress because our area needs an advocate in Congress that will stand up for the interests of taxpayers and the next generation.
+Just as reinforcing steel has changed the way America builds, send me to Congress to support President Trump as he re-builds America to be Great Again.

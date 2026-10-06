@@ -1,0 +1,65 @@
+Skip to content
+Menu
+Home
+Meet Carole
+Events
+Photos
+News
+Fall River Housing Navigation Guide
+Hot Jobs
+Press Release
+Southcoast Rail Update
+Contact
+Keeping Up With Carole
+Upcoming Events
+Events Search and Views Navigation
+Show Events Search
+Events Search
+Events From
+Search
+Event Views Navigation
+View As
+List
+Month
+Day
+«
+Previous Events
+October 2026
+Office Hours – Freetown Town Hall
+October 15 @ 11:30 am
+-
+12:30 pm
+Freetown Town Hall,
+3 Main Street
+Assonet
+,
+02702
+United States
++ Google Map
+Find out more »
+Coffee and Conversation
+October 16 @ 9:00 am
+-
+10:00 am
+Twisted Griddle,
+757 Robeson Street
+Fall River
+,
+MA
+02720
++ Google Map
+Find out more »
+Office Hours – North End Senior Center
+October 20 @ 10:30 am
+-
+11:15 am
+101 President Avenue.
+Fall River, MA
+Find out more »
+Office Hours – Flint Senior Center
+October 20 @ 11:30 am
+-
+12:15 pm
+69 Alden St., Fall River, MA,
+Find out more »
++ Export Events

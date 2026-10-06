@@ -1,0 +1,2 @@
+Community Endorsements Sarah is backed by the community leaders, advocacy organizations, and workers who are fighting for Arizona each and every day!
+Sierra Club Keep Arizona Blue Student Coalition Arizona List Arizona Pipe Trades Local 469 PAC SMART Union Maricopa County Young Democrats UFCW Local 99 PAC Voting Rights Fund American Federation of State, County, and Municipal Employees Vote Mama PAC Boilermakers Local 627 Equality Arizona

@@ -1,0 +1,67 @@
+NH State Representative Tom Cormen
+of May 23, 2024
+We continued voting on Senate bills.
+Overall, we had a pretty good day.
+| Bill | Motion | Type of vote | My vote | Result of vote | Notes |
+|---|---|---|---|---|---|
+| SB 558-FN | Table | Division | Yea | Table 325-32 | |
+| SB 418-FN | OTP | Roll call | Yea | 101-253 | ITL passed on voice vote; I voted Nay |
+| SB 340 | OTPA | Division | Nay | OTPA 186-176 | |
+| CACR 22 | OTP | Roll call | Nay | 195-165 | Requires 60% to pass |
+| SB 373 | OTP | Voice | Yea | OTP | |
+| SB 440 | Table | Division | Yea | Table 224-137 | |
+| SB 134-FN | OTPA | Voice | Yea | OTPA | |
+| SB 217-FN-A | ITL | Roll call | Nay | ITL 184-174 | |
+| SB 311-FN-A-LOCAL | OTPA | Division | Yea | OTPA 317-45 | |
+| SB 337-FN | OTPA | Voice | Yea | OTPA | |
+| SB 352-FN-A | OTPA | Voice | Yea | OTPA | |
+| SB 355-FN | OTPA | Voice | Yea | OTPA | |
+| SB 369-FN | OTP | Voice | Yea | OTP | |
+| SB 393-FN | OTPA | Voice | Yea | OTPA | |
+| SB 396-FN-A | OTP | Voice | Yea | OTP | |
+| SB 403-FN | OTP | Roll call | Yea | OTP 241-22 | |
+| SB 404-FN | OTPA | Voice | Yea | OTPA | |
+| SB 406-FN-A | OTPA | Voice | Yea | OTPA | |
+| SB 409-FN | OTPA | Voice | Yea | OTPA | |
+| SB 417-FN | OTPA | Roll call | Yea | OTPA 361-3 | |
+| SB 453-FN-A | Interim Study | Voice | Yea | Interim Study | |
+| SB 455-FN | OTPA | Voice | Yea | OTPA | |
+| SB 456-FN | OTP | Division | Yea | 178-182 | ITL passed on voice vote; I voted Nay |
+| SB 463-FN | OTPA | Voice | Yea | OTPA | |
+| SB 476-FN | OTPA | Roll call | Yea | OTPA 212-155 | |
+| SB 499-FN | OTPA | Division | Yea | OTPA 235-136 | |
+| SB 553-FN | OTPA | Division | Yea | 176-190 | Interim Study passed on voice vote; I voted Yea |
+| SB 567-FN | Table | Division | Yea | Table 302-54 | |
+| SB 591-FN-A | OTPA | Voice | Yea | OTPA | |
+| SB 596-FN | ITL | Division | Nay | ITL 187-178 | |
+| SB 604-FN-A | OTPA | Voice | Yea | OTPA | |
+| SB 503 | OTPA | Voice | Yea | OTPA | |
+| SB 402 | OTPA | Division | Yea | OTPA 231-135 | |
+| SB 411-FN | OTP | Voice | Yea | OTP | |
+| SB 419-FN | OTPA | Voice | Yea | OTPA | |
+| SB 461 | ITL | Division | Yea | ITL 201-164 | |
+| SB 505 | OTP | Roll call | Yea | OTP 242-124 | |
+| SB 559-FN | OTPA | Division | Yea | OTPA 192-171 | |
+| SB 330-FN | OTP | Voice | Yea | OTP | |
+| SB 431 | OTPA | Roll call | Yea | OTPA 214-148 | |
+| SB 527 | OTP | Division | Yea | OTP 199-154 | |
+| SB 358-FN | ITL | Roll call | Yea | ITL 176-174 | |
+| SB 469 | OTP | Voice | Yea | OTP | |
+| SB 501 | OTP | Roll call | Yea | OTP 181-169 | |
+| SB 510 | OTPA | Voice | Yea | OTPA | |
+| SB 485-FN | OTPA | Roll call | Nay | OTPA 175-169 | |
+| SB 543 | OTP | Division | Yea | OTP 172-168 | |
+I note this bill because I voted against the party’s recommendation of ITL.
+(My seatmate, Paige Beauchemin, agreed with and voted the same way.) The bill would have doubled the length of license suspension for a first-offense refusal to take a chemical test for impaired driving, from six months to a full year.
+The Department of Safety supported this bill because our current refusal rate of 70% is nearly double the national average; people consider refusing the test the “smart way to go.” The argument against increasing the suspension length is the hardship that ensues when someone loses their driving privileges.
+Paige and I agreed that the hardship should not be an excuse for driving while impaired.
+We lost the vote, and I was a bit surprised to see more Republicans vote against the bill than for it.
+This proposed constitutional amendment would enshrine our “first in the nation” status in the state constitution.
+I’m fine with it being a law, but a constitution is about the organization of the government and the rights of the people.
+It’s not about how political parties conduct their business.
+The amendment garnered a majority vote, but not the 60% necessary.
+This bill would have allowed optometrists to perform certain surgical procedures that currently only opthamologists may perform.
+The motivation is that access to opthamologists in rural areas, especially Coos County, is a problem.
+As you can imagine, we received a ton of email on this bill, from optometrists who supported it, and from opthamologists who opposed it.
+I voted for the motion to Table because the training that optometrists would get for these procedures is insufficent.
+This bill would come back the next week as an amendment that the Senate attached to HB 1410.

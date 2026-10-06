@@ -1,0 +1,39 @@
+Home
+Healthcare
+Housing
+Family
+Flock Cameras
+Data Centers
+ICE
+Gift Ban
+Contribution Limits
+No Corpo Election Money
+More
+Home
+Healthcare
+Housing
+Family
+Flock Cameras
+Data Centers
+ICE
+Gift Ban
+Contribution Limits
+No Corpo Election Money
+Home
+Healthcare
+Housing
+Family
+Flock Cameras
+Data Centers
+ICE
+Gift Ban
+Contribution Limits
+No Corpo Election Money
+Support Legislation to:
+Prohibit
+use of
+Flock
+cameras and similar
+ALPR
+systems in
+PA

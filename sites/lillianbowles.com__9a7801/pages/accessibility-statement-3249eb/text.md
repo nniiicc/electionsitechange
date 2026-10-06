@@ -1,0 +1,33 @@
+Welcome to the official website of Elect Lillian Bowles.
+We are committed to ensuring that our website is accessible to people of all abilities.
+We strive to make our site user-friendly for everyone, including those with disabilities.
+If you encounter any accessibility barriers on our site, please let us know so we can address the issue and improve the user experience for all.
+ACCESSIBILITY STATEMENT
+This statement was last updated on [enter relevant date].
+We at Elect Lillian Bowles are dedicated to ensuring that our website, lillianbowles.com, is accessible to all individuals, including those with disabilities.
+What web accessibility is
+Web accessibility means that people with disabilities can perceive, understand, navigate, and interact with the web, and that they can contribute to the web.
+This also means that they can access and benefit from the same services, content, and functionality as everyone else.
+Accessibility adjustments on this site
+We have implemented various measures to enhance the accessibility of our website, including following the Web Content Accessibility Guidelines (WCAG) [2.0 / 2.1 / 2.2 - select relevant option] to ensure compliance at level [A / AA / AAA - select relevant option].
+Our website is designed to work seamlessly with assistive technologies such as screen readers and keyboard navigation.
+In addition, we have taken the following steps to improve accessibility:
+- - Utilized the Accessibility Wizard to identify and resolve potential accessibility issues
+- Set the language of the site
+- Organized clear heading structures on all pages
+- Provided descriptive alternative text for images
+- Implemented color combinations that meet the required color contrast
+- Minimized the use of motion on the site
+- Ensured accessibility of all multimedia content
+Declaration of partial compliance with the standard due to third-party content [only add if relevant]
+The accessibility of certain pages on our site may be impacted by content from third-party sources, such as social media platforms or embedded videos.
+We acknowledge that these pages may not fully meet the desired accessibility standards and declare partial compliance for these specific pages.
+Accessibility arrangements in the organization [only add if relevant]
+[Enter a description of the accessibility arrangements in the physical offices / branches of our organization or campaign headquarters.
+This may include details about accessible parking, transportation, and other facilities to accommodate individuals with disabilities.]
+Requests, issues, and suggestions
+If you encounter any accessibility challenges while using our website, or if you have any suggestions for improving accessibility, please reach out to our accessibility coordinator:
+[Name of the accessibility coordinator]
+[Telephone number of the accessibility coordinator]
+[Email address of the accessibility coordinator]
+[Additional contact details if relevant / available]

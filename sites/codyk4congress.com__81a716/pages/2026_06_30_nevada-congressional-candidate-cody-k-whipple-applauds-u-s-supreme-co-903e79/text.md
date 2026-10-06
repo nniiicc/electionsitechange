@@ -1,0 +1,11 @@
+Las Vegas, NV – Republican congressional candidate Cody K Whipple today applauded the United States Supreme Court’s decision affirming that states may protect girls’ and women’s sports by maintaining separate athletic competition based on biological sex.
+The Court’s ruling upholds laws enacted in Idaho and West Virginia and recognizes that Title IX permits states to preserve fair competition in women’s athletics.
+“The Supreme Court reached the right decision,” said Whipple.
+“For more than fifty years, Title IX has opened doors for generations of young women to compete, earn scholarships, develop leadership skills, and pursue their dreams.
+Those opportunities deserve to be protected.
+“As a former collegiate athlete, a coach, and the father of three daughters, I know firsthand that sports teach discipline, teamwork, perseverance, and confidence.
+Every young woman deserves the opportunity to compete on a level playing field, where hard work determines success.”
+Whipple said the decision reflects common sense and restores confidence that women’s athletics will remain fair and competitive while respecting the dignity of every individual.
+“Protecting women’s sports is about preserving the integrity of competition and ensuring that the opportunities generations of women fought to earn remain available for future generations.”
+Throughout his campaign, Whipple has emphasized protecting Nevada families, strengthening education, and putting ‘Nevada First.
+Nevadans Always.’ As a fourth-generation Nevadan, small business owner, rancher, youth coach, and former collegiate athlete, Whipple has pledged to bring practical, commonsense leadership to Congress focused on families and opportunities for the next generation.

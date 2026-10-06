@@ -1,0 +1,128 @@
+Below is a list of Representative Mastrofrancesco’s bills introduced and co-sponsored for the 2021 legislative session.
+(Click on the bill number for details.)
+HB5401 AN ACT PROHIBITING MANDATORY COVID-19 VACCINATION.
+(To prohibit the State of Connecticut or any employee thereof from mandating a COVID-19 vaccination)
+HB5402 AN ACT PROHIBITING EMPLOYERS AND PUBLIC OFFICIALS FROM REQUIRING PROOF OF COVID-19 VACCINATION.
+(To prohibit employers and public officials from requiring proof of COVID-19 vaccination)
+HB5473 AN ACT CONCERNING ADDITIONAL METHODS AND RESOURCES TO DETER JUVENILE AUTO THEFT.
+(To offer additional pretrial educational and diversionary resources for juveniles in the criminal justice system while promoting public safety and reducing motor vehicle thefts by persistent juvenile offenders)
+HB5474 AN ACT CONCERNING THE PROVISION OF CRITICAL SERVICES TO PERSONS SUFFERING AS A RESULT OF THE COVID-19 PANDEMIC.
+(To provide critical services to persons suffering as a result of the COVID-19 pandemic)
+HB5475 AN ACT CONCERNING FUNDING FOR MENTAL HEALTH SERVICES FOR PERSONS SUFFERING FROM THE COVID-19 PANDEMIC.
+(To provide critical services to persons suffering as a result of the COVID-19 pandemic)
+HB5540 AN ACT CONCERNING CERTAIN AUTHORITY OF THE SECRETARY OF THE STATE.
+(To (1) eliminate the presumption that the Secretary of the State’s declaratory rulings, opinions, instructions and orders correctly interpret and effectuate the administration of elections and primaries, (2) require that any such declaratory ruling, opinion, instruction or order be submitted for review and approval by the legislative branch, and (3) eliminate the ability of the Secretary to apply to the Judicial Branch for enforcement of certain orders issued by the Secretary)
+HB5578 AN ACT INCLUDING MORAL AND PHILOSOPHICAL OBJECTIONS AS AN EXEMPTION TO IMMUNIZATION REQUIREMENTS.
+(To allow a waiver for moral and philosophical objection to the immunization requirements)
+HB5597 AN ACT CONCERNING OPIOIDS.
+(To combat the opioid epidemic in the state)
+HB5653 AN ACT CONCERNING DECLARATIONS OF PUBLIC HEALTH AND CIVIL PREPAREDNESS EMERGENCIES AND THE CREATION OF A BIPARTISAN COMMISSION TO STUDY STATUTES GOVERNING THE ISSUANCE OF SUCH DECLARATIONS.
+(To update our civil preparedness and public health emergency statutes and executive order emergency powers to reflect emerging threats, and to retain a legislative role in defining the duration of such powers)
+HB5657 AN ACT CONCERNING THE TREASURER AND UNCLAIMED PROPERTY.
+(To require additional public notice of abandoned property that has been transferred to the Treasurer, to require the Treasurer to give notice to municipalities which have property that has escheated to the state and to authorize the Treasurer to accept electronic claim forms)
+HB5670 AN ACT CONCERNING A WORK REQUIREMENT FOR RECIPIENTS OF PUBLIC ASSISTANCE.
+(To require able-bodied public assistance recipients to work or volunteer to receive benefits unless they are exempt under federal law)
+HB5692 AN ACT DELAYING CERTAIN EFFECTIVE DATES AND MAKING OTHER REVISIONS OF THE POLICE ACCOUNTABILITY LEGISLATION OF PUBLIC ACT 20-1 OF THE JULY SPECIAL SESSION.
+(To revise the police accountability legislation of public act 20-1 of the July special session in order to restore the due process rights of peace officers entrusted to enforce our laws and protect public safety)
+HB5752 AN ACT FUNDING THE STATE-WIDE FIREARMS TRAFFICKING TASK FORCE BY REDUCING CITIZENS’ ELECTION PROGRAM GRANTS.
+(To provide funding to the state-wide firearms trafficking task force)
+HB5796 AN ACT CONCERNING FREEDOM OF EXPRESSION AND OF THE PRESS FOR STUDENTS.
+(To protect student expression and student publications except when such expression or publications are obscene, libelous, slanderous or disrupt school activities)
+HB5797 AN ACT INCREASING THE AMOUNT A SCHOOL DISTRICT MAY REDUCE ITS MINIMUM BUDGET REQUIREMENT WHEN IT EXPERIENCES A DECLINE IN STUDENT ENROLLMENT.
+(To provide mandate relief by allowing school districts greater authority to reduce their education budgets when there is reduced student enrollment)
+HB5839 AN ACT AUTHORIZING BONDS OF THE STATE FOR OPERATIONAL GROWTH AND EXPENSES OF THE NAUGATUCK VALLEY WATERBURY BRANCH LINE OF THE METRO-NORTH COMMUTER RAILROAD.
+(To provide funding for the operational growth of and expenses associated with the Naugatuck Valley Waterbury Branch Line of the Metro-North Commuter Railroad)
+HB5874 AN ACT REQUIRING PRESENTATION OF PHOTO IDENTIFICATION TO VOTE.
+(To require electors to present photo identification in order to vote at their respective polling places)
+HB5882 AN ACT WITHDRAWING CONNECTICUT FROM THE AGREEMENT AMONG THE STATES TO ELECT THE PRESIDENT OF THE UNITED STATES BY NATIONAL POPULAR VOTE.
+(To withdraw the state from the Agreement Among the States to Elect the President of the United States by National Popular Vote)
+HB5970 AN ACT CONCERNING THE MUNICIPAL REGULATION OF FIREARMS.
+(To prohibit the regulation of firearms by municipalities)
+HB5981 AN ACT CONCERNING THE STORAGE OF EVICTED TENANTS’ POSSESSIONS.
+(To eliminate the requirement that municipalities store the possessions of evicted tenants)
+HB5982 AN ACT CONCERNING SCHOOL RESOURCE OFFICERS.
+(To permit all municipalities to employ school resource officers)
+HB6126 AN ACT PERMITTING SCHOOL DISTRICTS TO OPT-OUT OF THE COMMON CORE STATE STANDARDS.
+(To allow school districts to opt-out of the Common Core State Standards and to choose an alternative standard for its curriculum)
+HB6131 AN ACT CONCERNING THE ESTABLISHMENT OF SCHOOL VOUCHER PROGRAMS.
+(To authorize boards of education to establish a school voucher program)
+HB6193 AN ACT SUBJECTING CERTAIN NON-STATE ENTITIES THAT SERVE A GOVERNMENTAL FUNCTION TO THE FREEDOM OF INFORMATION ACT AND THE CODES OF ETHICS.
+(To subject certain non-state entities that serve a governmental function to the Freedom of Information Act and the codes of ethics)
+HB6194 AN ACT CONCERNING THE COMPETITIVE BIDDING AND OVERSIGHT OF QUASI-PUBLIC AGENCY CONTRACTS.
+(To create transparency in the awarding of quasi-public agency contracts by requiring them to be subject to competitive bidding and subject to oversight by the State Contracting Standards Board)
+HB6271 AN ACT INCREASING THE PREVAILING WAGE THRESHOLD FOR REMODELING AND RENOVATION.
+(To increase the prevailing wage threshold for certain public works projects)
+HB6273 AN ACT REQUIRING NOTICE OF AN EMPLOYEE’S RIGHT TO CHOOSE NOT TO BE A MEMBER OF A UNION.
+(To provide clear notice of an employee’s right to choose not to be a member of a union)
+HB6293 AN ACT REQUIRING PARENTAL NOTIFICATION PRIOR TO THE TERMINATION OF A PREGNANCY BY A MINOR.
+(To ensure that the best interests of a minor are protected when facing an unplanned pregnancy)
+HB6325 AN ACT CONCERNING THE SECRETARY OF THE STATE, ABSENTEE BALLOTS AND ELECTION AUDITS.
+(To (1) require the Secretary of the State to report on certain election laws modified or suspended for any primary or election held in 2020 or 2021, (2) require any declaratory ruling, instruction, opinion or order of the Secretary to be adopted as a regulation and submitted to the Legislative Regulation Review Committee, (3) prohibit the unsolicited mailing of absentee ballots by certain election officials, (4) provide state-wide consistency regarding pre-election day processing of absentee ballots whenever authorized and prohibit registrars of voters from contacting voters for the purpose of curing unsigned absentee ballots, (5) require the Secretary to establish a pilot program from the verification of signatures on returned absentee ballot envelopes, (6) require that absentee ballot applications contain a statement regarding penalties for noncompliance with certain provisions, (7) establish a task force to study the feasibility of single-envelope returns of absentee ballots, (8) establish a working group to examine risk-limiting audits of election results, and (9) change the deadline by which minor parties need to file their rules with the Secretary prior to nominating candidates for office)
+HB6332 AN ACT ESTABLISHING A TASK FORCE TO IDENTIFY OCCUPATIONAL LICENSES THAT ARE PURELY FEE-BASED.
+(To establish a task force to identify occupational licenses that are purely fee-based)
+HB6462 AN ACT CONCERNING USE OF FORCE BY A PEACE OFFICER.
+(To delay changes to provisions concerning use of force by a peace officer enacted as part of public act 20-1 of the July special session and to make certain other changes to said provisions)
+HB6491 AN ACT CONCERNING ELECTRONIC DEFENSE WEAPONS.
+(To remove the prohibition on possession of nonlethal electronic defense weapons)
+HB6517 AN ACT IMPLEMENTING THE RECOMMENDATIONS OF THE TASK FORCE TO ANALYZE THE IMPLEMENTATION OF LAWS GOVERNING DYSLEXIA INSTRUCTION AND TRAINING.
+(To implement the recommendations of the task force to analyze the implementation of laws governing dyslexia instruction and training)
+HB6637 AN ACT CONCERNING A MENTAL HEALTH BILL OF RIGHTS FOR DEAF, DEAFBLIND AND HARD OF HEARING PERSONS.
+(To establish a state-wide mental health services program to provide mental health services tailored to the specialized needs of deaf, deaf-blind and hard of hearing persons)
+HJ00048 RESOLUTION PROPOSING A STATE CONSTITUTIONAL AMENDMENT CONCERNING MUNICIPAL ZONING.
+(To permit municipalities to enact and enforce zoning restrictions without regional or state interference)
+SB294 AN ACT CONCERNING QUALIFYING CONTRIBUTIONS UNDER THE CITIZENS’ ELECTION PROGRAM.
+(To require that the State Elections Enforcement Commission return to a campaign treasurer any contribution that does not qualify toward receiving a grant under the Citizens’ Election Program so that such treasurer may return such contribution to the contributor)
+SB300 AN ACT REQUIRING AN ANALYSIS OF THE CONSTITUTIONALITY OF PROPOSED LEGISLATION.
+(To provide legislators with information regarding the constitutionality of proposed legislation)
+SB301 AN ACT CONCERNING BIPARTISAN REVIEW OF EMERGENCY DECLARATIONS.
+(To allow for a bipartisan review of emergency declarations)
+SB802 AN ACT CONCERNING THE ADMINISTRATION OF ELECTIONS.
+(To implement several changes concerning the administration of elections)
+SB822 AN ACT CONCERNING CAMPAIGN FINANCE AND PHOTO IDENTIFICATION FOR VOTING.
+(To (1) require that statements signed by electors, in lieu of presenting certain identification at the polls, be audited for accuracy, and (2) make several changes regarding campaign finance)
+Below is a list of Representative Mastrofrancesco’s bills introduced and co-sponsored for the 2019 legislative session.
+(Click on the bill number for details.)
+HB05227AN ACT CONCERNING THE REGULATION OF FIREARMS BY MUNICIPALITIES.
+(To prohibit the regulation of firearms by municipalities)
+HB05493 AN ACT ELIMINATING THE BUSINESS ENTITY TAX.
+(To eliminate the business entity tax)
+HB05524 AN ACT INCREASING THE PENALTIES FOR THE SALE OF FENTANYL.
+(To increase penalties for the sale of fentanyl)
+HB05571AN ACT APPROPRIATING FUNDS TO THE STATE-WIDE FIREARMS TRAFFICKING TASK FORCE.
+(To provide funding to the state-wide firearms trafficking task force and prevent deaths from illegally trafficked firearms)
+HB05578AN ACT CONCERNING THE ESTABLISHMENT OF SCHOOL VOUCHER PROGRAMS.
+(To authorize boards of education to establish a school voucher program)
+HB05612 AN ACT WITHDRAWING CONNECTICUT FROM THE NATIONAL POPULAR VOTE INTERSTATE COMPACT.
+(To withdraw the state from the National Popular Vote Interstate Compact)
+HB05626 AN ACT CONCERNING A WORK REQUIREMENT FOR RECIPIENTS OF PUBLIC ASSISTANCE.
+(To promote work among recipients of public assistance to improve their life prospects)
+HB05632 AN ACT RESTORING CAPITAL PUNISHMENT.
+(To restore the death penalty in Connecticut)
+HB05637 AN ACT CONCERNING CLEAR AND CONSPICUOUS STATEMENTS REGARDING STATE AND MUNICIPAL EMPLOYEES’ RIGHT TO OPT OUT OF UNION MEMBERSHIP.
+(To provide clear notice of a state or municipal employee’s right to choose not to be a member of a union)
+HB05697 AN ACT ELIMINATING THE EARNED INCOME TAX CREDIT.
+(To eliminate the earned income tax credit)
+HB05699AN ACT CONCERNING THE DEDUCTION AND WITHHOLDING OF THE PERSONAL INCOME TAX FROM PENSION PAYMENTS.
+(To eliminate the requirement that income tax be deducted and withheld from pension payments unless the payee has submitted a CT-W4P withholding certificate to the payer)
+HB05742 AN ACT CONCERNING THE STORAGE OF EVICTED TENANTS’ POSSESSIONS.
+(To eliminate the requirement that municipalities store the possessions of evicted tenants)
+HB05944 AN ACT NAMING A BRIDGE IN PLANTSVILLE IN HONOR OF UNITED STATES ARMY SPC4 WILLIAM A.
+BEARD.
+HB06330 AN ACT CONCERNING LOCAL AND STATE COOPERATION IN THE ENFORCEMENT OF FEDERAL IMMIGRATION LAW.
+(To ensure that local and state officials are fully cooperating with law enforcement personnel in the enforcement of federal immigration law)
+HB06537 AN ACT REQUIRING PARENTAL NOTIFICATION PRIOR TO THE TERMINATION OF A PREGNANCY BY A MINOR.
+(To ensure that the best interest of a minor are protected when facing an unplanned pregnancy)
+HB06627AN ACT INCREASING THE AMOUNT A SCHOOL DISTRICT MAY REDUCE ITS MINIMUM BUDGET REQUIREMENT WHEN IT EXPERIENCES A DECLINE IN STUDENT ENROLLMENT.
+(To provide mandate relief by allowing school districts greater authority to reduce their education budgets when there is reduced student enrollment)
+HB06738 AN ACT INCREASING THE PREVAILING WAGE THRESHOLD FOR REMODELING AND RENOVATION.
+(To increase the prevailing wage threshold for certain public works projects)
+HB06985 AN ACT FUNDING THE STATE-WIDE FIREARMS TRAFFICKING TASK FORCE BY REDUCING CITIZENS’ ELECTION PROGRAM GRANTS.
+(To provide funding to the state-wide firearms trafficking task force and prevent deaths from illegally trafficked firearms)
+HB07047 AN ACT PROHIBITING THE REGULATION OF FIREARMS BY MUNICIPALITIES.
+(To prohibit municipalities from adopting ordinances and regulations to regulate firearms)
+SB00073 AN ACT CONCERNING THIRD-PARTY NONPROFIT COMMUNITY ACCESS PROVIDERS AND MUNICIPAL PROGRAMMING.
+(To require third-party nonprofit community access providers to provide written consent for towns to conduct certain activities regarding education and government public access and community access programming)
+SB00596 AN ACT CONCERNING RIDING TRAILS FOR ALL-TERRAIN VEHICLES.
+(To allow for the creation of all-terrain vehicle trails on state land)
+SB00993 AN ACT CONCERNING LOCAL AND STATE COOPERATION IN THE ENFORCEMENT OF FEDERAL IMMIGRATION LAW.
+(To ensure that local and state officials are fully cooperating with law enforcement personnel in the enforcement of federal immigration law)

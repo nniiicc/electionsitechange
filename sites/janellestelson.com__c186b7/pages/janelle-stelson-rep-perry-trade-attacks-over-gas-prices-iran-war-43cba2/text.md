@@ -1,0 +1,3 @@
+HARRISBURG, Pa. — Rising gas prices tied to the ongoing war in Iran are becoming a central issue in the race for Pennsylvania’s 10th Congressional district, as Democratic candidate Janelle Stelson criticized Republican incumbent Scott Perry for his support of the conflict.
+Speaking in Harrisburg, Stelson argued that the war is directly contributing to higher costs for families across central Pennsylvania.
+Read the full article here: https://www.fox43.com/article/news/politics/janelle-stelson-scott-perry-iran-war-gas-prices-congress-10th-district-pennsylvania/521-3d55c9b4-6981-439d-997e-86411f687a15

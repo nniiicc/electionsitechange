@@ -1,0 +1,31 @@
+- A staunch and early supporter of marriage equality and other LGBTQ rights, including transgender equality.
+- A leading voice—and sponsor of bills—for increased funding for mental health and developmental disability resources.
+- Stalwart supporter for preserving Roe v.
+Wade and a woman’s right to make decisions about her own body.
+- Advocate of rights and opportunities for Maryland's underserved, from securing increased funding for Baltimore City Public Schools to ensuring laws do not discriminate against minorities and other underserved groups.
+- Encouraged stronger state level efforts to prevent and respond to hate crimes and to ban hate symbols.
+- One of Maryland’s most effective legislators on campaign finance reform and voter protection, spearheading the fight for same day voter registration, increased transparency and accountability for super-PACs and other outside campaign spending, public financing of political campaigns, and defeating voter suppression laws.
+- Former Chairman of the Election Law subcommittee, carrying the charge to protect one of our most sacred civil liberties – the right to vote – and successfully blocking voter suppression efforts across our state, as well as taking protective measures against election fraud.
+- A key advocate for accessible polling locations and a thorough, community-minded process for changing polling places
+- Supporter of common-sense gun reform, including the Governor’s Firearms Safety Act of 2013 and the Maryland assault weapons ban and 2023 legislation to tighten restrictions on who can purchase handguns.
+- A leading voice for combating gang violence in our community, including a supporter of the Maryland Gang Prosecution Act of 2007 which established tougher accountability measures for schools to monitor gang involvement.
+- Supporter of Megan’s Law, which set tougher penalties for sex offenders, rapists and child abusers.
+- Author and sponsor of Grace’s Law, one of the toughest anti-cyberbullying laws in the nation, and led the passage of a bill requiring every school to develop a plan to combat bullying.
+- A leader in the fight to end the devastating effects of human trafficking, which pull thousands of young men and women into a cycle of exploitation and abuse every year.
+Cardin co-sponsored legislation to strip convicted human traffickers of the profits of their crimes and helped ensure that youth victims of sex trafficking are not prosecuted for crimes they committed as a result of their circumstances.
+- Co-sponsored legislation that creates a clear path for courts to authorize preventative measures against child abduction
+- Led the fight against predatory lending practices that hurt Maryland families, such as payday loans and advance loans.
+- Co-sponsored legislation to crack down on corporations that use deceptive advertisements for automotive sales, clothing sales, and food labeling to intentionally fool Maryland consumers.
+- Co-sponsored the Family Prosperity Act of 2023, which offered tax credits to guarantee that hundreds of thousands of families can live and raise children free from poverty
+- Supported Governor Moore’s Access to Banking Act to help foster partnerships between banks and low-income communities
+- Embraced President Obama’s forward-thinking healthcare legislation, sharing the belief that everyone deserves quality, affordable healthcare without limitations based on pre-existing conditions, age, or gender.
+- Sponsored first of its kind legislation to help prevent large energy companies from coming into your backyard and taking your land to build dangerous gas lines that could cause deadly explosions or contaminate our precious natural resources.
+- Recognizing that traffic enforcement technology designed to protect Marylanders can also have inherent weaknesses, led an effort to reform speed camera programs statewide by requiring increased accountability, transparency and accuracy.
+- Sponsored numerous pieces of legislation to revitalize the Chesapeake Bay – a national treasure and economic jewel of Maryland – including taking action to limit storm water runoff, implement Smart Growth practices, close incentives for businesses to contaminate the Bay (and the environment at-large), and hold polluters responsible, as well as establish an oyster shell recycling program.
+- Co-sponsored legislation to create a Baltimore Regional Water Governance Task Force to monitor water and wastewater management and make recommendations to Baltimore City and County governments
+- Introduced legislation to increase recycling at state office buildings and to expand the State’s “green portfolio.”
+- Supported incentives to businesses and individuals who reduce their carbon footprints and create next-generation energy jobs.
+- Supported initiatives to improve the air quality across our state such as the clean indoor and outdoor air acts.
+- Maintained a 97 percent lifetime environmental voting record; served as Chairman of the Legislative Bicycle Caucus; and identified opportunities to incentivize state employees to live healthy lifestyles and enjoy more time outdoors.
+Elect Cardin, By Authority, Steven Gelblum, Treasurer - Copyright © 2020 Jon S.
+Cardin - All Rights Reserved.

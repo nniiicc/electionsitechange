@@ -1,0 +1,12 @@
+(The Center Square) – An Arizona senator has concerns about the fallout from the Arizona Health Care Cost Containment System’s request to freeze 30 pending administrative appeals while at the same time litigating the same issues in another lawsuit.
+The agency filed a motion with the Arizona Office of Administrative Hearings, requesting an administrative law judge to pause 30 pending appeals pertaining to Prorenata Labs and six AHCCCS-contracted health plans.
+The dispute concerns reimbursement rates for specific COVID-19 tests and whether an out-of-network laboratory can be compensated for nonemergency services without prior authorization.
+David Goodspeed, the chief communications officer for AHCCS, said Prorenata Labs has “filed thousands of disputes challenging [these] two primary issues.”
+“AHCCCS has requested that administrative hearings be temporarily paused until a superior court judge rules on the two primary challenged issues to reduce duplicative litigation, inconsistent rulings, and unnecessary expenditure of public resources,” Goodspeed told The Center Square in an email.
+State Sen.
+Mark Finchem, R-Prescott, said he fears this request will “open the door to every agency doing the same thing.”
+“If this becomes a playbook for state agencies, the consequences will reach far beyond this case,” Finchem told The Center Square.
+Finchem said he did not believe Arizonans could have confidence in the administrative appeals process if any state agency could halt proceedings and move the dispute to court.
+The senator questioned why the Hobbs administration “wants to halt established proceedings and shift the legal question to a lawsuit it initiated.”
+“Without a full and public explanation, this smells like another attempt by the Hobbs administration to cover up agency actions,” he said.
+Continue reading: https://www.thecentersquare.com/arizona/article_ecd05e5c-e504-43ac-8fb2-e50466fe8a67.html?a

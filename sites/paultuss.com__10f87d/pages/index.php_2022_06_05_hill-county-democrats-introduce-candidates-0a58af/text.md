@@ -1,0 +1,3 @@
+Havre Daily News – March 21, 2022
+Hill County Democrats introduced seven candidates for local, state and national elections at a meeting Sunday, where the candidates spoke about their goals and qualifications and encouraged attendees to get as many Democrats as possible into office in the upcoming elections.
+More…

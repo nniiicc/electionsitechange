@@ -1,0 +1,1 @@
+11/17/25 Energy Generation Previous Thank you to Constituents Next A Thanks to those Involved You Might Also Like Common Sense Support Core Industries A Balanced Budget Principles Over Politics Property Tax Talk II

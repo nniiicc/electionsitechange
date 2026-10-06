@@ -1,0 +1,49 @@
+Skip to primary navigation
+Skip to main content
+Skip to footer
+Karen Reddington-Hughes
+State Representative CT66
+About
+Where I Stand
+News & Updates
+Our District
+Bethlehem
+Litchfield
+Morris
+Warren
+Woodbury
+Calendar
+Gallery
+Get Involved
+« All Events
+This event has passed.
+Litchfield RTC Meet & Greet
+June 22 @ 6:00 pm
+-
+8:00 pm
+«
+June 19th Freedom & Liberty Rally
+House Republicans Fundraiser
+»
+×
+❮
+❯
+Add to calendar
+Google Calendar
+iCalendar
+Outlook 365
+Outlook Live
+Details
+Date:
+June 22
+Time:
+6:00 pm - 8:00 pm
+Venue
+Di Franco’s
+281 Main St S
+Woodbury, CT
+,
+CT
+06798
+United States
++ Google Map

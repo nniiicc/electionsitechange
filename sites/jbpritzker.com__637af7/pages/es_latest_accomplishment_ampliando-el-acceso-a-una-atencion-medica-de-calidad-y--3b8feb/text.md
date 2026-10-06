@@ -1,0 +1,23 @@
+Ampliando el acceso a una atención médica de calidad y asequible
+JB cree que la atención médica es un derecho, no un privilegio.
+Ha ampliado el acceso médico, mejorado la calidad de la atención disponible y reducido los costos para las familias en todo el estado de Illinois.
+Servicios de aborto
+Consagró los derechos reproductivos en la legislación estatal y expandió la disponibilidad de servicios de atención
+Medicamentos recetados
+Redujo el costo de los medicamentos recetados, incluyendo la insulina, ahorrando a las familias miles de dólares al año.
+Facturas médicas
+Eliminó la deuda médica de cientos de miles de familias de clase media y de bajos ingresos
+Salud mental
+Expandió la cobertura de seguro para servicios de salud mental, prevención del suicidio y tratamiento del abuso de sustancias
+Veteranos
+Invirtió en hogares para veteranos de Illinois para que nuestros héroes puedan recibir atención en instalaciones de última generación
+Madres primerizas
+Creó la Iniciativa de Equidad en el Nacimiento para reducir las tasas de mortalidad materna.
+También comenzó a otorgar licencias a parteras y expandió la disponibilidad de doulas para las madres primerizas
+Comparte con tu red
+Únete a #TeamJB
+Regístrese para unirse al equipo hoy mismo y recibir actualizaciones de la campaña, informarse sobre las oportunidades de voluntariado y mucho más.
+Al enviar su número de teléfono móvil, acepta recibir mensajes de texto periódicos de esta organización.
+Se pueden aplicar tarifas de mensajes y datos.
+Envíe HELP por mensaje de texto para obtener más información.
+Envíe STOP por mensaje de texto para dejar de recibir mensajes.

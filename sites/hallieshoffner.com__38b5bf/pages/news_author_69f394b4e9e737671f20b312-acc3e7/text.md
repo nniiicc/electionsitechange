@@ -1,0 +1,5 @@
+News from the campaign Media inquiries can be sent to media@shoffnerforarkansas.com Micah Wallace 10/2/26 Micah Wallace 10/2/26 Senate Adjourns Without Farm Bill or Cost-of-Living Relief for Arkansas Families Read More Micah Wallace 9/23/26 Micah Wallace 9/23/26 Tom Cotton says “Arkansans are rightfully feeling pressure at the pump.” Cotton is wrong, there is nothing right about the war that is costing Arkansans at the pump.
+Read More Micah Wallace 9/17/26 Micah Wallace 9/17/26 Shoffner Calls for Senate Vote on Farm Bill Before September 30 Deadline Read More Micah Wallace 8/12/26 Micah Wallace 8/12/26 Hallie Shoffner Accepts Arkansas TV Debate Invitation Read More Micah Wallace 8/6/26 Micah Wallace 8/6/26 Senate Farm Bill Failure Spotlights Broken System Read More Micah Wallace 8/5/26 Micah Wallace 8/5/26 New Poll Shows Shoffner Closes Gap, Signals Competitive U.S.
+Senate Race in Arkansas Read More Micah Wallace 7/24/26 Micah Wallace 7/24/26 Gas Prices Continue to Rise.
+Tom Cotton Either Doesn’t Know or Doesn't Care.
+Read More

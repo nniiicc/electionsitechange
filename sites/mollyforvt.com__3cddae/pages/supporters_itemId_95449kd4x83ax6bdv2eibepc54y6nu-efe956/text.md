@@ -1,0 +1,184 @@
+Supported By Vermonters We Trust.
+Union Support
+National Support
+Elected & Community Supporters
+And more!
+Priscilla Adler — Dummerston
+Paul Adler — Dummerston
+Elaine Alfano — Montpelier
+Roger Allbee — Townshend
+Martha Allen — East Montpelier
+Steve Amos — Wheelock
+Jillian Anderson — Winooski
+Peter Anthony — Barre City
+Sarita Austin — Colchester
+Melyssa Bailey — St.
+Albans
+Janet Bailey — St.
+Albans Town
+Jeffrey Bak — Winooski
+Mary Balcer — Brattleboro
+Mary Ellen Baldwin — South Burlington
+Kristin Barklund — St.
+Albans Town
+Elizabeth Bassett — Charlotte
+Chaunce Benedict — Swanton
+Tavid Bingham — Underhill
+Jill Bishop — Shaftsbury
+Thomas Blakely — Bennington
+Joe Blakely — Barre City
+Lucy Boyden — Cambridge
+Juliette Britton — Manchester
+Richard Brock — East Montpelier
+Keith Brown — Burlington
+Sebastian Brown — Burlington
+Marianne Burke — Burlington
+Bridget Burkhardt — South Burlington
+Kate Canning — Burlington
+Lauren Carifio — Shaftsbury
+Jay Caruso — Barnard
+Julia Caserta — South Burlington
+Ela Chapin — East Montpelier
+Sara Coffey — Guilford
+Liz Ryan Cole — Thetford
+Bill Coleman — Newark
+Stefanie Comstock — Georgia
+Lisa Conger — St.
+Albans
+Zoe Contros Kearl — Shaftsbury
+Calvin Dame — Brattleboro
+Ameliane Darrow — Brattleboro
+Cheri Davis — Essex Junction
+Craig Decatur — Underhill
+Jaskarm Deijarda — Brattleboro
+Michael DeSanto — Milton
+Bill Donahue — Hartland
+Katherine Donahue — Hartland
+Marianne Donahue Perchlik — Marshfield
+Frank Driscoll — North Hero
+Sara Dunphy — Williston
+Amanda Ellis-Thurber — Brattleboro
+Kaitlyn Erbe — Burlington
+Scott Esmond — Jericho
+Beth Esmond — Jericho
+Susan Essex Luce — Burlington
+Steve Finner — Barre City
+William Fisk — Shaftsbury
+Betty Frye — Guilford
+Sam Galeota — Sunderland
+Scott Garren — Cuttingsville
+Betsy Gentile — Brattleboro
+Patricia Giavara — East Montpelier
+Jock Gill — Peacham
+Andrew Gillespie — Burlington
+Daniel Gillis — Winhall
+Betsy Gontele — Brattleboro
+Marta Gossage — Brattleboro
+Peter Gould — Brattleboro
+Ann Grah — Manchester
+Jennifer Green — Burlington
+Ken Grillo — Burlington
+Mary Grove — Brattleboro
+DaShawn Groves — Winooski
+Amanda Gustin — Barre City
+Bethy Hall — Brattleboro
+George Harvey — Brattleboro
+Tammy Hendrick — St.
+Albans Town
+John Hickory — Windsor
+Emma Holcomb — Colchester
+Nicholas Hubbell — Essex Junction
+Audrey Hubbell — Essex Junction
+Laura Jarvis — St.
+Albans City
+Marley Jennings — Richmond
+Steven Jurnak — Essex
+Dženeta Karabegović — Burlington
+David Keiser — Newbury
+David Kelley — Greensboro
+Stephen Klein — Montpelier
+Lynn Knight — Georgia
+Pelin Kohn — Montpelier
+Nick Kolegzar — Burlington
+Pamela Kraynak — Burlington
+Charles La Rosa — South Washington
+Gabriel Lajeunesse — Montpelier
+Martine Larocque Gulick — Burlington
+Melanie Lawrence — Newbury
+Steve Levy — Burlington
+Anne Lezak — Burlington
+Danny Lichtenfeld — Putney
+Betsy Liley — St.
+Albans Town
+John Luce — Burlington
+Dan Lucy — Bennington
+Laurie Macintosh — Shaftsbury
+Eleanor Mayo — Brattleboro
+Michael McCarthy — St.
+Albans
+Pam McCarthy — St.
+Albans Town
+Carol McManus — Brattleboro
+Jay Meadows — Underhill
+Jude Melen — Shelburne
+David Mellinger — Shaftsbury
+Karen Mellinger — Shaftsbury
+Amy Mentes — Burlington
+Robin Migdelany — Waterford
+Junio Moody — Brattleboro
+Timothy Moore — Essex
+Brett Morrison — Manchester
+Caroline Morse — Shaftsbury
+Kevin Moyer — Winooski
+William Nowlan — Moretown
+Robert Oeser — Brattleboro
+Daren Orr — Colchester
+Danielle Orr — Colchester
+Kyle Paquette — Colchester
+Nathaniel Parke — Shaftsbury
+Josephine Pearson — Burlington
+Mary Perchlik — Marshfield
+Taina Perez — Springfield
+Duane Peterson — Waterbury Center
+Walter Phelps — Newfane
+Robert (Bob) Phillips — Colchester
+Quaron Pinckney — Winooski
+Peter Plumeau — Burlington
+Lauren Pricer — Shelburne
+Mitchell Race — Shaftsbury
+Cathy Rahill — Burlington
+Drew Ransom — Burlington
+Erin Ransom — Burlington
+Nancy Reid — Montpelier
+Jane Reissig — St.
+Albans
+Marvin Resnikoff — Brattleboro
+Jean Roberts — Colchester
+Mirela Roberts — Colchester
+John Roberts — West Cornwall
+Brian Robertshaw — Jamaica
+Johanna Robohm — Jacksonville
+Sally Roth — Bristol
+Todd Rubiano — Waterbury Center
+Rose Ryea — Swanton
+Jahnessa Ryea — Swanton
+Ronald Sampath — Bennington
+Steve Schubart — Charlotte
+Greg Shepler — Burlington
+Lucy Singer — St.
+Albans
+Mary Just Skinner — Middlesex
+Margaret Sullivan — Brattleboro
+Emily Thackara — Burlington
+Mason Thackara — Burlington
+Donna Toneatti — Georgia
+Jay U — Barnard
+Carolyn Van Cott — St.
+Albans Town
+Ronald Wannamaker — Burlington
+Jerry Ward — Randolph Center
+Kristin Warner — Montpelier
+Sam Werbel — Burlington
+Laura Williams — South Burlington
+Katherine Wilson — Brattleboro
+Tom Woodward — Bennington

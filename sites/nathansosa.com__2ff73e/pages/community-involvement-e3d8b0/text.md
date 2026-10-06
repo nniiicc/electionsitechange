@@ -1,0 +1,13 @@
+Nathan has been active in trying to build a better community through his volunteer work with a variety of organizations.
+They include the following:
+- Oregon Government Ethics Commission: after being nominated by the House Democrats and appointed by Governor Brown, he served on this bi-partisan commission to enforce government ethics laws from 2017-2021.
+He was elected unanimously by his colleagues as vice chair in 2019 and chair in 2020.
+- Hillsboro Schools Foundation: he raises money to fund innovative programs in Hillsboro public schools.
+He joined the board in 2015 and served as president from 2018 - 2022.
+- Hillsboro 2035 Community Plan Oversight Committee: he helped to guide the implementation of the Hillsboro 2035 Community Plan.
+- Washington County Chamber of Commerce: as an ambassador, he provided outreach and support to local small businesses.
+- Washington County Democratic Party: as a member of the Communications Committee, he promoted fellow Democrats, conducted candidate interviews, and raised awareness of public policy issues in the community.
+- Portland State University and Lewis & Clark Law School: as a youth mentor, he worked with undergraduates as well as law students to help them explore a career in the law.
+His mentees have typically been from underrepresented communities.
+- Oregon Trial Lawyers’ Minority Caucus: as co-chair of the caucus, he spearheaded the law school student outreach initiative and created opportunities for minority law students and lawyers to learn, grow, and network with each other as well as judges and political leaders.
+- Hands-On Greater Portland: he assisted with park restoration at Tualatin Hills Nature Park, fundraising for the Hillsboro Library, and support for homeless youth through HomePlate Youth Services.

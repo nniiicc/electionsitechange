@@ -1,0 +1,38 @@
+Small businesses aren’t just part of our hometown economy—they are our hometown economy.
+They create the jobs, serve our communities, and keep our small and rural towns alive.
+We need to make sure our systems recognize that, and that opportunity isn’t reserved for the biggest players, but shared with the builders, the starters, and the people down on Every Street.
+UNLEASHING AMERICAN
+BUSINESS
+OPPORTUNITY PLAN
+- A Business qualifies for the smallest category it meets based on either employee count OR average Salary+Benefits
+”Improving Business classifications will give more breathing room to small business”
+- Microbusiness : Expanded from 10 to 20 Employees or $50,000 Salaries
+- Small Enterprise : New Class, 21 - 100 Employees or $100,000 Salaries
+- Small Business : 101 - 500 Employees or $200,000 Salaries
+- Large Enterprise : 501 - 2500 Employees or $500,000 Salaries
+- Large Business : 2501+ or +$500,000 Salaries
+Prevent billion-dollar firms from siphoning resources meant for smaller business classifications, local economies, and true small business.
+- Eliminates misclassification, fraud, and loopholes in federal contracting to ensure fair competition and accountability.
+”Improving Business classifications will give more breathing room to small business”
+- All businesses receiving federal contracts must recertify their business size annually through a simple electronic report of total payroll and employee count.
+- Creates a public database listing all businesses with federal contracts and their classifications - Mandates annual audits of 10% of federal contractors near business-size thresholds, conducted by the GAO, SBA, and Inspector Generals. - Enforces heavy penalties for falsifying employment records; repeat offenders barred from receiving federal contracts for 5 years.
+Prevent billion-dollar firms from siphoning resources meant for smaller business classifications, local economies, and true small business.
+- Innovate solutions to reduce Microbusiness failure and turnover
+”America is built by small businesses, we need to empower microbusinesses to do more”
+- Microbusiness-only incubator spaces or office parks at low rate and short terms
+- Implement a focus on rural or economically depressed areas, giving grants and loan programs to support microbusiness in underrepresented areas
+- Financial literacy and business management systems that allow for micro-loan cap expansion upon completion of classes.
+Its time for Microbusinesses to stop fighting on their own, we fight with you
+- We need to increase our Federal Contracting Goals towards Small Businesses from 23% to 25%
+”Empowering every corner of American Business”
+- Established Tiered Set-Aside Goals :
+- 3% for Microbusinesses, 7% for Small Enterprise, 15% for Small Business
+- Promoting Goals that make sure that those who are equally qualified are equally empowered
+- Of the new 25% of Funds set aside, 11% of those funds should try to go individually to Veteran-Owned, Women-Owned, Marginalized-Community-Owned, or Young-Adult-Owned Businesses
+A 1% increase in Federal Contracts Fund to Small Businesses creates 100,000 new jobs, turning Federal Spending into Small Business success
+- Direct grants to launch community co-ops that solve unique community issues or needs
+”Local Ownership with Lasting Value”
+- $5,000 - $50,000 Grant for new businesses under worker or community ownership
+- Demand driven with local participatory models organized under the Small Business Association
+- Offer Clerical, Managerial, and Finance advisory aid and training packages
+- Allow for legacy businesses transfers and property lease incentives to move projects forward.

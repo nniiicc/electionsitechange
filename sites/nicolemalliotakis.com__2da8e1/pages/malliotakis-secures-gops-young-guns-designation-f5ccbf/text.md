@@ -1,0 +1,11 @@
+Malliotakis: My campaign has what it takes to defeat the left-leaning Max Rose!
+On Wednesday, the congressional campaign of Assemblywoman Nicole Maliotakis (NY-11) was elevated to the top level of the National Republican Congressional Committees (NRCC) Young Guns Program.
+The Young Guns designation means the candidate has met a series of goals and benchmarks that ensures they have the resources needed to run a competitive campaign and defeat the Democrat opponent in the November elections.
+Assemblywoman Nicole Malliotakis is in her fifth term representing portions of Staten Island and Southern Brooklyn in the New York State legislature as she faces off against first term left leaning Democrat, Congressman Max Rose.
+Malliotakis has been endorsed by the Republican County Committees in Staten Island and Brooklyn as well as the New York State Conservative Party.
+In addition Malliotakis has been endorsed by President Trump, House Republican Leader Kevin McCarthy and House Members Steve Scalise, Liz Cheney, Peter King, Lee Zeldin and Elise Stefanik, to name just a few.
+New York’s 11th Congressional District covers all of Staten Island as well as a number of neighborhoods in Southern Brooklyn.
+Assemblywoman Nicole Malliotakis said, “Today’s designation to the top level of the NRCC’s Young Guns program is proof positive that my campaign has what it takes to defeat a left leaning Democrat like Max Rose, who votes with Speaker Nancy Pelosi 97% of the time and with Alexandria Ocasio Cortez, Ilhan Omar and the rest of the ‘Squad’ well over 90% of the time.
+As a Member of Congress, I will be proud to work with President Trump, Leader Kevin McCarthy and others as we work to rebuild the American economy, create jobs and defeat the far left polices that Nancy Pelosi, Alexandra Ocasio Cortez and Max Rose are attempting to inflict on our nation.
+“Reaching the top level of the Young Guns program is a clear signal to donors, Republican voters and the media that NY-11 will be one of the key congressional races in the nation as we fight to restore Republican leadership to the House of Representatives.
+I’d like to thank Republican House Leader Kevin McCarthy, NRCC Chairman Tom Emmer and the team at the NRCC for their confidence in my ability to defeat Max Rose.”

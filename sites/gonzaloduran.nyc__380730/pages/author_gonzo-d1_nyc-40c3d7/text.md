@@ -1,0 +1,4 @@
+Author: Gonzalo Duran
+I am a former United States Marine Sergeant, currently serving as the Chief Executive Officer of Devil Dog USA Incorporated and the Editor-in-Chief of the Big Apple Gazette.
+I also hold the positions of Vice Chairman of the Bronx County Conservative Party and (C) District Leader of the 79th Assembly District in the Bronx.
+Over the past decade, I've been involved in various community roles, including serving as an access producer, cable talk show host, published columnist for numerous periodicals and newsletters, chaplain, advocate, and political leader in my beloved Bronx.

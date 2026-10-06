@@ -1,0 +1,20 @@
+Meet Angela Harrolle Mohan
+Angela Harrolle Mohan is an Arizona leader and Arizona State University graduate with more than two decades of executive leadership and public service experience.
+A former federal Special Agent, nonprofit executive, and small business owner, she successfully championed bipartisan legislation enacted into law to strengthen benefits for Arizona’s first responders and their families.
+She has also served as an Honorary Commander at Luke Air Force Base, reflecting her commitment to Arizona’s military community.
+Known for her integrity, strategic leadership, and ability to unite diverse stakeholders, Angela is committed to strengthening Arizona’s future through principled leadership, collaboration, and service.
+Angela is not a career politician, but a citizen inspired to serve after seeing the challenges facing everyday Arizonans.
+She believes government works best when leaders focus on practical solutions instead of partisan politics.
+She has successfully championed bipartisan legislation signed into law.
+A registered Independent, Angela has previously been registered as both a Democrat and a Republican to participate in their respective primary elections, reflecting her belief that leadership should be driven by people, solutions, and results—not party labels.
+Guided by her lifelong commitment to public service, Angela believes protecting public safety is a responsibility shared by every leader and a promise owed to every Arizonan.
+Today, Angela is happily remarried and treasures time with her family, including her six children and her newest grandchild.
+Her years of significant travel and time spent abroad on various government-missions provided her with the opportunity to work closely with diverse international communities, including Spanish-speaking populations, strengthening her ability to communicate across cultures and connect with people from a wide range of backgrounds, enhancing her ability to serve and engage effectively in multilingual environments.
+Angela’s commitment to service was profoundly shaped by personal tragedy.
+In 2008, her late husband, was killed in the line of duty in Sedona AZ during a mountain rescue while saving the lives of two others.
+His sacrifice deepened her appreciation for those who dedicate their lives to serving others and continues to inspire her commitment to public service.
+Teri Ann & Angela’s Passion to Serve Arizona
+Teri Ann and Angela came together with one united goal: to serve every Arizonan and build a better tomorrow through leadership that is authentic, accountable, and grounded in the real needs of our communities.
+Together, they are prepared to confront some of Arizona’s most pressing challenges from the very beginning of their administration—strengthening water security, combating fraud and demanding meaningful audits, improving our education system, reforming state agencies, and working to improve the quality of life for every Arizonan.
+Teri Ann and Angela understand that Arizona is facing serious challenges on multiple fronts and that this is a critical moment for our state.
+Arizona needs a government willing to take its seat at the table with one clear priority: putting Arizonans first—not last.

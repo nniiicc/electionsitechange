@@ -1,0 +1,5 @@
+Childcare and Early Learning
+Childcare must be made affordable and accessible for all.
+It is crucial to support working parents and their families.
+Universal preschool opportunities would vastly improve the quality of education in Washington State.
+In 2026, Steve's bill HB-2159 with the companion SB-5872 on the Senate site, resulted in partnership with with Governor's office and the Ballmer Group increasing access to Washington's Early Childhood Education and Assistance Program (ECEAP), up to 2 billion dollars over the next ten years.

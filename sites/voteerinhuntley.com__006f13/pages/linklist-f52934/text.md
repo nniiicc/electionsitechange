@@ -1,0 +1,40 @@
+Erin Huntley
+Conservative Candidate for Florida House District 45
+𝕏
+Search all links
+Campaign Links
+Campaign Website
+Donate to Campaign
+Free Yard Sign
+Volunteer
+Our District
+Get a Car Magnet
+Voter Links
+Register to Vote
+Request Vote by Mail: Orange County
+Request Vote by Mail: Osceola County
+Erin Huntley in the News
+Endorsed by Congressman Mike Haridopolos
+Erin Huntley Is Republican Nominee
+Agriculture Commissioner Wilton Simpson Endorses Erin Huntley
+Erin First to Qualify by Petition in Race
+Osceola County Sheriff Endorses Erin Huntley
+AFP Action Endorses Erin Huntley
+Huntley Raises More Than a Quarter Million Dollars
+Local Republicans Endorse Erin Huntley
+Erin Huntley Highlights Parental Rights and School Choice
+Attorney General James Uthmeier Endorses Erin Huntley
+Erin Huntley Appointed to Florida Virtual School Board
+Erin Huntley Nears $200,000 Raised
+Governor DeSantis Appoints Erin Huntley
+Huntley Reports Six-Figure Fundraising Haul
+Congressman Daniel Webster Endorses Erin Huntley
+Erin Huntley Serves as Trump Electoral College Voter
+Windermere Resident Announces Candidacy
+Orange County GOP Chair Runs for House District 45
+Erin Huntley Files to Run in House District 45
+Social Media
+Facebook
+Instagram
+X
+LinkedIn

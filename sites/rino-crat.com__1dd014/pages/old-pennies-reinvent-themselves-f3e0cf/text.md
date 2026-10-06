@@ -1,0 +1,11 @@
+When my New York–born parents moved our family to Hamilton in 1965, they had already learned that being a Montana cowboy and ranch wife came with an expectation: you were also a Republican.
+My dad soon attended a local Republican Central Committee meeting and came home saying, “Wow—those folks think Eisenhower is a communist.” He had just encountered the influence of the John Birch Society (JBS), which at the time quietly operated a national printing press in Hamilton.
+Back then, JBS extremists were tolerated, while mainstream Republicans focused on conservative fiscal policy and practical social solutions.
+Culture wars and imaginary election fraud had not yet been invented to drain public resources.
+Ravalli County tax dollars were not wasted on endless fraud hearings or baseless election office voter‑registration challenges.
+Sixty years later, the John Birch Society has reinvented itself as Americans for Prosperity (AFP), funded by billionaire Koch Industries interests.
+For independent verification, search the political and financial ties between Americans for Prosperity and the National Federation of Independent Business.
+These organizations oppose healthcare access, support tax cuts for wealthy corporations and individuals, increase the national debt, undermine environmental review of projects like the Sheep Creek Mine, push cookie‑cutter corporate giveaway legislation nationwide, and dominate primary‑election PAC spending—all while claiming to represent “family values” and “Main Street small business.”
+In the June 2 primary election voters can keep dark money, John Birch Society and extremists out of our community and our elections.
+Do not support local candidates backed by Americans for Prosperity.
+Archie Thomas,D, the original Rino-crat for Hamilton HD 86

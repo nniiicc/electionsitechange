@@ -1,0 +1,30 @@
+LIFELONG CONSERVATIVE REPUBLICAN
+- Protecting the unborn
+- Protecting religious organizations
+- Protecting Second Amendment rights
+- Act 441 – The Voter Registration and Secure Voter Records Act of 2023
+- Act 544 – Created the Election Integrity Unit
+- Honoring our nation
+- Lowering Income Taxes 2021, 2022, 2023, 2025 and 2026
+- Act 681 Amend the commercial driver alcohol and drug testing act to comply with federal motor carrier safety regulations
+- Act 37 Amend the sex offenders registration act to include offender's address to public.
+- Act 264 Amend law concerning record keeping maintained by scrap metal recyclers and to create offenses for the theft of a catalytic converter and unauthorized possession of a catalytic converter.
+- HB1479 Prohibit the purchase of, or acquisition of title to agricultural land by a governmental entity of The Peoples' Republic of China or certain entities connected with The People's Republic of China
+- Act 532 Reduce the income tax rates applicable to individuals, trusts, and corporations
+- Supported Act 659 "Protect Arkansas Act." those convicted of 18 of the most violent felonies in state code, including rape and capital murder, would have to serve the entirety of their sentences in prison.
+Act 659 would require courts to add a period of post-release supervision in these cases if defendants are not already sentenced to the statutory maximum for their offense.
+People convicted of 53 lesser violent felonies such as second-degree murder, battery in the first degree or sexual indecency with a child would have to serve 85% of their sentence before being eligible for release with supervision.
+“Representing the people of District 29 has been an incredible privilege, and I am proud of the work we have done as a legislature.
+I humbly ask your support as I seek another term.
+As your representative, I am committed to upholding conservative values and advocating for a stronger, more prosperous Arkansas."
+Highlights of Representative McClure’s 2025 Legislative Package Include:
+· Act 943 – To amend the law concerning prohibited contracts by state agencies to purchase promotional items manufactured in China.
+· Act 811 – To prevent a foreign-party-controlled business from leasing land; and to prohibit a prohibited foreign party from holding an interest in real property or agricultural land in certain circumstances.
+This protects Arkansas land from China and other countries considered adversaries.
+· Act 937 – To amend various laws concerning actions related to foreign entities.
+· Act 238 – To amend the Arkansas law concerning criminal offenses; and to criminalize unlawful squatting on property.
+· Act 1008 – To create the Grocery Tax Relief Act by amending the law concerning the sales and use taxes levied on food and food ingredients; and to exempt groceries from state sales and use tax.
+· Act 330 – To increase the Homestead Property Tax Credit.
+· HB1920 – To transfer general revenue to the Aging and Adult Services Fund Account to be used for food services benefiting the elderly.
+McClure serves as Chair of the House Committee on Aging, Children and Youth, Legislative and Military Affairs.
+He is a member of the House Revenue and Taxation Committee; the Advanced Communications and Information Technology Committees in both the House and Joint; and the Aging, Children and Youth Committee.

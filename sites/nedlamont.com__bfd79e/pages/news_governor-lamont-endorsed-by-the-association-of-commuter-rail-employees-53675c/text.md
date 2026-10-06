@@ -1,0 +1,19 @@
+press release
+Jun 30, 2026
+GOVERNOR LAMONT ENDORSED BY THE ASSOCIATION OF COMMUTER RAIL EMPLOYEES
+ACRE Cites Historic Rail Investments, Modernization of Metro-North, and Commitment to Protecting Union Jobs
+New Haven, Conn. – Governor Ned Lamont today announced he received the endorsement of the Association of Commuter Rail Employees (ACRE), which represents conductors, engineers, signalmen, rail traffic controllers, yardmasters, assistant station masters, and power directors on the Metro-North Railroad.
+“The men and women of ACRE keep Connecticut moving every single day, and I am proud and honored to have their support,” said Governor Ned Lamont.
+“Together, we’ve made historic investments to modernize Metro-North, expand service, created one of the busiest railways in the country and built a rail system Connecticut commuters can count on and we’ve done it by partnering with the workforce that actually runs the railroad, not working around them.
+I will keep fighting for ACRE’s members and every union worker who builds, operates, and maintains Connecticut’s transportation system.”
+Governor Lamont has overseen historic investment in Connecticut’s rail infrastructure, anchored by the Time for CT initiative, backed by nearly $2 billion in federal funding, aimed at modernizing Metro-North service, upgrading tracks and bridges, and cutting commute times across the state.
+That commitment has gone hand in hand with a record of standing up for the workers who make the system run: strengthening collective bargaining rights, supporting fair contracts, and ensuring that modernization is built in partnership with labor rather than at its expense.
+“Governor Lamont has been a true partner to ACRE and to every railroad worker who keeps Metro-North running,” said Ed Valente, Executive Board Director of the Association of Commuter Rail Employees.
+“We’ve been able to count on the Governor since he’s been in office and he’s had our backs.
+We look forward to continuing to work with him on more investments as we improve railway infrastructure across Connecticut.”
+ACRE’s endorsement adds to a growing list of endorsements, including U.S.
+Sens.
+Richard Blumenthal and Chris Murphy, and U.S.
+Reps.
+John Larson, Joe Courtney, Rosa DeLauro, Jim Himes and Jahana Hayes, Comptroller Sean Scanlon, Treasurer Erick Russell, Attorney General William Tong, 93 State Lawmakers, 86 Democratic Town Committee Chairs, more than 50 municipal leaders across the state, 44 Democratic State Central Committee members, the Connecticut AFL-CIO, the Teamsters Union, IUOE Local 478, Unite Here Local 217, Unite Here Local 34, the Connecticut District Laborers’ Council, the Uniformed Professional Firefighters Association, the Amalgamated Transit Union of Connecticut, and the Connecticut Carpenters Union.
+The campaign will continue to roll out additional endorsements in the coming days.

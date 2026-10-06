@@ -1,0 +1,32 @@
+Search this site
+Embedded Files
+On the House Floor with Seatmate Rep.
+Quang Nguyen
+On the House Floor
+Magazine Cover - Welcoming visitors on the House Floor
+Working with Congressman Eli Crane - CD2
+On the radio with Jason at KYCA
+On the radio with Sanford Cohen on KQNA Talk of the Quad Cities
+March for Life Rally with Representative Nguyen
+Testifying in the Judiciary Committee at State House
+Standing up for Border Security
+Active with the AZ State Federation of Republican Women
+Active with the Arizona Free Enterprise Club
+At Republican Women of Prescott
+Worlds Oldest Rodeo in Prescott with Yavapai County GOP Members
+I appreciate the support of Representative Q Nugyen and Senator K Fann
+Representing LD-1, working with Congresswoman Debbie Lesko at the 2020 annual Maricopa County Republican Committee meeting.
+Yavapai GOP Fundraiser 2019
+Yavapai GOP Victory Rally 2020
+At Ben Avery Range with Team for Washington Birthday Match
+Parade Ready!
+Campaign Food-Drive for Salvation Army
+Chino Valley Veterans Breakfast
+Well Armed Women - Chino Valley Chapter
+Managing the Medical Unit for Wildland Firefighting Assignments
+On assignment as Medical Unit Leader for Wildland Firefighters
+Summer work as Medical Unit Leader for Wildland Firefighters
+Keeping current on healthcare reform in Arizona
+Selina Bliss, Nursing Professor working with nursing students
+Google Sites
+Report abuse

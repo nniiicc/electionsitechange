@@ -1,0 +1,17 @@
+After DCS Investigation, Senator Werner Child Safety Reform Clears Legislature, Heads to Governor for Signature
+PHOENIX, ARIZONA—Legislation sponsored by Senate Health & Human Services Committee Chair Carine Werner to strengthen child abuse investigations and ensure critical warning signs are not overlooked is now heading to the Governor's desk for consideration after passing the full legislature today with bipartisan support.
+SB 1174 was developed following Senator Werner's months-long investigation into several abuse and neglect cases that led to the tragic death of three Arizona children last year.
+The measure addresses one of the most consistent concerns raised throughout the investigation: critical information was often scattered across multiple hotline calls and reports, preventing decision-makers from seeing the full picture of a child's circumstances.
+Under SB 1174, DCS hotline workers will be able to quickly compile and review a child's complete recent history of hotline reports and investigations, including reports involving siblings, so patterns of abuse, neglect, or escalating concerns are immediately visible when new reports are received.
+The legislation also allows hotline staff to consider information from prior calls that did not initially meet the threshold for a DCS investigation when evaluating new allegations.
+In addition, cases involving four or more reports regarding the same caregiver within a twelve-month period must be assigned to experienced child safety specialists or investigators with advanced forensic training when available.
+The bill also ensures courts overseeing dependency cases receive relevant hotline information involving children already under court supervision.
+"Throughout our investigation, we repeatedly heard the same heartbreaking theme: warning signs existed, but siloed information prevented DCS from seeing the full picture," said Senator Werner.
+"Reports were made and concerns were documented, yet critical pieces of information remained scattered across separate calls, reports, and organizations.
+SB 1174 helps connect those dots by making sure hotline workers and investigators have immediate access to a child's recent history before decisions are made."
+Senator Werner launched a series of oversight hearings after several high-profile child deaths and child welfare failures raised questions about Arizona's child welfare systems.
+Testimony from DCS, child welfare experts, law enforcement officials, educators, agency leaders, and affected families highlighted the need for stronger safeguards to identify patterns of abuse earlier and intervene before children fall through the cracks.
+"When multiple reports are coming in about the same child or caregiver, those incidents cannot be viewed in isolation," said Senator Werner.
+"This bill helps ensure repeated concerns are recognized as a pattern, escalated appropriately, and reviewed by experienced professionals.
+If we expect better outcomes for vulnerable children, we must provide frontline staff with better information and better tools."
+SB 1174 is part of a broader package of child safety reforms advanced by Senator Werner this session.

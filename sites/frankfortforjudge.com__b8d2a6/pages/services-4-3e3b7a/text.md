@@ -1,0 +1,69 @@
+Endorsements
+Not only am I a proud Texan, but I bring over 30 years of legal expertise and a deep commitment to the rule of law.
+I am the only candidate for this seat who is Board Certified in Family Law by the Texas Board of Legal Specialization.
+My commitment to prioritizing the public safety of our communities is why I’ve been endorsed by the Houston Police Officers’ Union and numerous law enforcement groups and elected Republican law enforcement officials across the region.
+Endorsed by top Texas organizations and leaders
+Conservative Republicans of Harris County
+Conservative Republicans of Texas
+The Link Letter
+Texas Conservative Review
+Kingwood Tea Party
+Katy Christian Magazine
+Texas Homeschool Coalition
+Houston Region Business Coalition (HRBC)
+C-Club
+Spring Branch Republicans
+Young Republicans of Houston
+Brazoria County Conservatives
+Young Republicans Gulf Coast
+Bay Area Conservatives PAC
+Houston Police Officers Union
+POLICE Inc
+Combined Law Enforcement Association of Texas (CLEAT) – Harris County Employees Organization
+The BLUES, World’s Largest Police Magazine
+Galveston Municipal Police Association
+Texas Municipal Police Association (TMPA)
+Mexican American Sheriff’s Organization (MASO)
+Houston Metro Police Union Lodge 98
+League City POA FOP Lodge 555
+South 7 Meetup Club
+The Bluesheet
+BIZPAC
+Dr.
+Steven Hotze
+Terry Lowry, The What’s Up Radio Program
+Gary Polland
+Dr.
+Robin Armstrong, Republican National Committeeman
+Debbie Georgatos, Republican National Committeewoman
+Harris County Commissioner Tom Ramsey
+State Representative Valoree Swanson
+State Representative Charles Cunningham
+Former Texas Supreme Court Justice Eva Guzman
+Former Court of Criminal Appeals Justice Michelle Slaughter
+Julie Pickren, State Board of Education
+Galveston County Commissioner Hank Dugie
+Galveston County Sheriff Jimmy Fullen
+Harris County Constable Phil Sandlin
+Brazoria County Sheriff Bo Stallman
+Chambers County Sheriff Brian Hawthorne
+Galveston County Constable Justin West
+Galveston County Constable Paul Edinburgh
+League City Councilman Sean Sanders
+Norma Jeter, President of Conservative Coalition of Harris County
+Dawn McDonald, State Republican Executive Committee, Senate District 6
+Keith Nielsen, State Republican Executive Committee, Senate District 6
+Ralph Fite, State Republican Executive Committee, Senate District 7
+Deborah Fite, State Republican Executive Committee, Senate District 7
+Gaylyn Devine, State Republican Executive Committee, Senate District 11
+Ken Moore, State Republican Executive Committee, Senate District 11
+Melinda Morris, State Republican Executive Committee, Senate District 13
+Brenda Estis, State Republican Executive Committee, Senate District 15
+Sakki Joseph, State Republican Executive Committee, Senate District 18
+Tom Nobis, Harris Republican Precinct Chairman
+Elizabeth Day, Brazoria County Precinct Chairman
+Jeff L.
+McGeorge, President of Cherry Tree Republicans
+Shannon Brinkley, SD4 Co-Vice Chair
+Rodney Sims, Harris County Precinct Chair 502
+Russell Rush, Harris County Precinct Chair 155

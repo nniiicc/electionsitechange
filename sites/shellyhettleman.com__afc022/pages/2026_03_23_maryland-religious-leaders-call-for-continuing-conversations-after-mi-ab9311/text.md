@@ -1,0 +1,13 @@
+BY ALEX HOLT
+GREATER GREATER WASHINGTON
+MARCH 23, 2026
+This Monday marks Crossover Day, the deadline for most of the bills introduced over the last two months of the Maryland General Assembly’s annual legislative session.
+Bills must “cross over” out of their original chamber and into the other one in order to have a chance of passing into law.
+Traditionally, election years tend to be a little slower in the MDGA.
+With all 141 seats in the House of Delegates and all 47 seats in the Senate up for grabs come November (not to mention statewide offices like Governor), the temptation not to do anything to rock the boat is often very real.
+Even this year, Governor Wes Moore & leaders in both chambers were quick to rule out any major tax or fee increases.
+There are a number of contributing factors here, chief among them the surprise resignation of Baltimore County Democrat Adrienne Jones as Speaker of the House of Delegates and her swift replacement with Prince George’s County/Anne Arundel County Democrat Joseline Peña-Melnyk.
+The new speaker quickly left her mark with the appointment of five new standing committee chairs and the first new House standing committee in at least a decade.
+Meanwhile, a tricky budget crisis took up most of the legislative oxygen in last year’s session and a turbulent federal environment is creating new budget issues this year while distracting from hot button topics like housing, transportation, and the environment.
+All of this looks set to make the 2026 Maryland legislative session an especially busy one this year for urbanist issues.
+Here are some of the biggest ones to watch out for, broken down by category.

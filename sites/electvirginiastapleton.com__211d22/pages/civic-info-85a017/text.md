@@ -1,0 +1,1 @@
+Civic Information and Resources Voter Eligibility & Registration Information Register to Vote Track Your Ballot State of Oregon: Election Information Legislator Lookup Oregon State Senate District 11 Map

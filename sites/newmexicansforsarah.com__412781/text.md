@@ -7,6 +7,8 @@ KRWG interview
 Source New Mexico questionnaire
 My stance on Project Jupiter
 VOTING
+I come from a family of farmers and mechanics:
+I’m working to hold data centers accountable:
 Connect
 I’m a straight-shooter.
 I’ll always listen and discuss your concerns with you.

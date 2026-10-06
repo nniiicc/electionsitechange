@@ -1,0 +1,3 @@
+by anchorhost | Jun 22, 2022 | Issues, Lower Tax
+Yankton Daily Press & Dakotan: Opinion Current projections indicate South Dakota will see a nice surplus for fiscal year 2022 when those books close June 30.
+And with that, it may be time for this state to finally embrace an idea that has been proposed for nearly...

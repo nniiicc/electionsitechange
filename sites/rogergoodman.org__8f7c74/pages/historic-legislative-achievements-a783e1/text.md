@@ -1,0 +1,5 @@
+In contrast to the national political scene, the Washington State Legislature functions quite well, addressing the needs of our families, schools, workers and businesses and making a positive difference in our communities.
+During the height of the pandemic our legislative work intensified in response to the urgent demands to protect public health, to keep people housed and businesses afloat, and to pave the way for a strong and equitable economic recovery.
+Here in our area, I was busy helping our first responders get the personal protective equipment they needed, I helped health workers obtain their required credentials to work in our over-stressed hospitals, and I helped countless workers navigate through the bureaucracy to qualify for unemployment benefits, among many other demands.
+I also kept closely in touch with parents, teachers and school administrators to ensure that our kids could get the best education possible in the “remote learning” environment.
+It was such a challenging time for all of us.

@@ -1,0 +1,4 @@
+Healthy Families
+Keeping our rural hospitals open isn't just a healthcare issue—it’s an economic necessity for District Thirteen.
+When we protect our local clinics and providers, our tax dollars stay right here in Kansas instead of being shipped away.
+I am committed to championing common-sense healthcare solutions that prioritize preventive care, reduce emergency costs, and ensure that no Kansas family has to drive hours just to see a doctor, do bloodwork, or get imaging.

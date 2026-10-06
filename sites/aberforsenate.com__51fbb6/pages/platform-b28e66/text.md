@@ -1,0 +1,34 @@
+Our Platform
+Fighting for the World in the World's Borough
+Aber Kawas's full platform for New York State Senate District 12.
+Fund Dignity
+- Pass the NY Health Act, so every New Yorker has free, comprehensive healthcare at the point of service regardless of their employment, income, or immigration status
+- Guarantee safe-staffing ratios at all NY hospitals so every patient receives the care and attention they deserve, from healthcare providers with the training and capacity to do so
+- Raise the wages, end the 24-hour work day, and improve the working conditions of long-term care workers so that everyone receiving and giving care lives with dignity
+- Invest in hospitals across New York so everyone can receive top quality care no matter where they live
+- Make every MTA bus fast and free, reducing wait times to 6 minutes or less during rush hour through expanded enforced bus lanes and frequent all-doors boarding buses
+- End street deaths by allowing NYC to set its own speed limits, install as many traffic cameras as necessary, and funding redesign of our streets so our borough becomes the safest in the city
+- Fund accessibility upgrades so everyone can access the trains they need
+- Supercharge MTA improvements so that existing service is fast and reliable, and new services can bring excellent transit to people who need it
+- Fund the Interborough Express (IBX) to make it fast and convenient to get around Queens and into Brooklyn without making the exhausting trip into Manhattan
+- Create the Social Housing Development Authority to construct tens of thousands of new, union-built housing units that are permanently affordable, dignified, and desirable
+- Reform zoning laws so more affordable housing goes up everywhere, while ensuring that new developments are transit-oriented, have strong affordability standards, and are beneficial to the communities they're built in
+- Fully implement Good Cause Eviction protections so tenants can renew their leases without unreasonable rent hikes and are protected from landlord harassment and unjust eviction
+- Pass the Tenant Power Act to legally recognize tenant unions, make it easier for tenant unions to be formed, require landlords to negotiate with them, and establish the Statewide Tenant Association to provide support and resources
+- Protect homeowners from predatory real estate speculation by passing the End Predatory Home Flipping Act
+Fight Destruction
+- Make power a public good by using the Build Public Renewables Act to take on monopoly utilities — lowering bills, creating union jobs, reducing pollution, and supercharging the green transition
+- Reduce air pollution in Queens' asthma alley by transitioning to a Renewable Ravenswood and protecting residents from smog emissions from the high-traffic roads that cut through our communities
+- Build resilient infrastructure by expanding funding for the Environmental Bond Act, investing in climate disaster restoration, flood risk prevention, and cleaning up Newtown Creek
+- Fund green schools, upgrading HVAC systems, building rooftop solar, renovating schoolyards, and making schools resilient spaces for communities when emergencies strike
+- Subsidize green homes with upgrades for homeowners, co-op members, and condo owners complying with NYC Local Law 97, reducing pollution and energy consumption at low cost
+- Stop our tax dollars funding Israeli settler violence by passing the Not On Our Dime bill
+- Ban the illegal sale of Palestinian land and create an enforcement mechanism that prohibits violation of international law in New York State
+- Break the chain of weapons used for illegal and unjust wars transported and manufactured through New York's publicly-funded infrastructure like JFK airport and Brooklyn Navy Yard
+- Protect the First Amendment rights of New Yorkers by rejecting proposed "buffer zone bills" seeking to limit the right to protest, and fight back against attacks on the Boycott, Divestment, and Sanctions movement
+- Be a voice for anti-imperialism in Albany, holding the federal government accountable for illegal wars, blockades, or regime change everywhere, including Iran, Lebanon, Cuba, and Latin America
+- End New York's collaboration with ICE by passing New York For All, ending state and local law enforcement collusion and allowing immigrants to live open and dignified lives
+- Provide ample funding for legal services for those under threat of deportation and detention by the federal government, representation for those going through the documentation process, and for organizations that provide Know Your Rights trainings
+- End inhumane detention of our immigrant neighbors by passing Dignity Not Detention, which prohibits state and local contracts with ICE facilities
+- Guarantee immigrant New Yorkers the right to challenge federal abuses and defend their constitutional rights in court
+- Prohibit contracts with Flock Safety, preventing local law enforcement from using AI-enabled technology that violates privacy rights and can be used by ICE

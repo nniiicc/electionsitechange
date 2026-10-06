@@ -1,0 +1,4 @@
+Tax reform, tax relief, and tax assistance are needed in our state and we must continue to make progress.
+- Rebecca cosponsored legislation to establish the New York City Tax Reform Study Commission to provide the state with a blueprint of reforms to the real property taxation system in the city.
+- Rebecca is a cosponsor of legislation that provides for a tax check-off box on tax returns for gifts to the New York State Horse Retirement and Rescue Fund.
+- Rebecca has offered free tax services to senior citizens by holding clinics and promoting filing assistance from the community office on York Avenue.

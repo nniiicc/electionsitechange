@@ -1,0 +1,18 @@
+ABOUT ROBIN
+For more than 25 years, Robin Harvey has dedicated her career to serving children and families across Maryland.
+A social worker by training and by calling, Robin began her professional journey as a guidance counselor in Boston Public Schools, where she developed the advocacy, collaboration, and problem-solving skills that continue to define her leadership today.
+Throughout her career, Robin has led innovative efforts to improve outcomes for families involved in the public child welfare system.
+Her work protecting vulnerable children from abuse and neglect earned her the Baltimore Child Abuse Center’s Hero Award in 2017.
+Certified in Results-Based Accountability, Robin is known for pairing compassion with data-driven strategy — ensuring that good intentions translate into measurable impact.
+Her work is fueled by urgency and guided by a belief that families deserve systems that work.
+Robin has served as Commissioner for District 1 on the Baltimore County Commission for Women and currently serves on the Board for the Certification of Residential Child Care Program Professionals.
+She also served as Co-Chair of the NAACP Randallstown Security Square Mall Redevelopment Task Force, convening community voices, business leaders, and elected officials around a shared vision for revitalization.
+That collaborative effort helped secure a $20 million combined county and state investment to advance redevelopment and economic opportunity in the corridor.
+In addition to her professional leadership, Robin has worked on several political campaigns, including supporting Speaker Emerita Adrienne Jones and contributing to the success of the District 10 Unity Slate.
+Through these efforts, she strengthened her experience in coalition building, grassroots mobilization, and legislative strategy — work grounded in her belief that strong communities are built through collaborative leadership.
+Over the years, Robin has reviewed and consulted on local and state legislation affecting Maryland families, bringing both frontline experience and policy expertise to the table.
+As the elected representative for Councilmanic District 1 on the Baltimore County Board of Education, Robin served as Vice Chair for three years and was a steadfast advocate for high-quality public education, strong governance, and equitable opportunity for every student.
+Professionally, Robin serves as Executive Director of the Office of Licensing and Monitoring within the Maryland Department of Human Services, where she oversees statewide licensing and monitoring of residential child care and placement agencies.
+She is also the founder of Compendium Hill, LLC, a consulting firm that partners with organizations on strategic planning, goal development, and results-based leadership.
+Robin earned her undergraduate degree in Psychology from the College of William & Mary and her Master of Social Work from the University of Pennsylvania.
+She is a graduate of EMERGE Maryland and lives in Baltimore County with her family.

@@ -1,0 +1,8 @@
+Tribal Sovereignty
+As a former attorney and advocate on behalf of Native American Tribes and Pueblos, championing self-determination and tribal sovereignty is a commitment that has defined my career and guides my work in Congress.
+New Mexico’s Third Congressional District is home to 16 Pueblos, the Jicarilla Apache Nation, and large portions of the Navajo Nation.
+In Congress, I serve as the top Democrat on the Indian Affairs Subcommittee and work to ensure the federal government upholds its obligation to fully safeguard the inherent sovereign authority and governmental jurisdiction that Native American Tribes have over their lands and resources and their right of self-determination, and to engage in government-to-government consultation.
+I helped secure the largest investments in Tribes in history with the passage of the American Rescue Plan and the Bipartisan Infrastructure Law.
+But much more work needs to be done and we need to continue to fully invest in the Bureau of Indian Affairs (BIA), Bureau of Indian Education (BIE), Indian Health Service (IHS), and other key programs to provide infrastructure in Indian Country.
+I will also continue to support Tribes and Pueblos to compact and contract IHS and other programs.
+I am leading the fight in Congress to protect historic and sacred sites and to return stolen sacred items to their rightful Tribal owners.

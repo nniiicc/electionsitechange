@@ -1,0 +1,116 @@
+FOR COLORADO
+MEET PHIL
+Dedicated to Serving Others
+Phil Weiser is dedicated to serving others.
+He believes our government should work for the people, not corporations or special interests.
+As Attorney General, Phil has stood up to protect the rule of law and our democracy, and he led the charge against irresponsible companies that ripped off Coloradans.
+He works every day to make our state safer and more affordable.
+And as our next governor, he’ll continue to build on the progress that makes Colorado such a great place to live.
+Phil learned firsthand the importance of advocating for others while working in the U.S.
+Supreme Court as a clerk for Justice Ruth Bader Ginsburg.
+Justice Ginsburg helped inspire Phil to always fight injustice and stand up for our freedoms and equality justice for all.
+Experienced leadership
+Phil also worked in the Obama and Clinton administrations at the U.S.
+Department of Justice and the White House, where he worked to expand access to broadband internet, develop programs to encourage entrepreneurship, and stop corporate monopolies from taking advantage of consumers.
+At the University of Colorado, Phil taught constitutional and antitrust law, served as Dean of the Law School, and founded a center on law, technology, and entrepreneurship.
+And he founded successful nonprofits that support startup businesses across Colorado as well as served as the chair of Governor Ritter’s Innovation Council.
+American values
+As the son and grandson of Holocaust survivors, Phil has dedicated his career to ensuring that all people—no matter their gender, ethnicity, faith, or who they love—are free from discrimination, hatred, and oppression.
+His commitment to these American values is rooted in his family’s story.
+Phil’s mother was born in captivity in the Buchenwald concentration camp, where his grandmother was imprisoned by the Nazis during World War II.
+American soldiers from the U.S.
+Army liberated the concentration camp, including Phil’s mother, grandmother, and others who survived the Holocaust.
+Committed to you
+Following the war, Phil’s family immigrated to the United States as refugees—looking for a new life that offered opportunity, freedom, and equality for all.
+A first-generation American, Phil knows firsthand the promise of America and is committed to upholding its ideals of liberty and justice for all.
+Phil lives in Denver with his wife, Dr.
+Heidi Wald.
+They have two children, one in college, one in high school, and a (mostly) well-behaved dog named Zeke.
+Accomplishments
+WORKING FOR COLORADANS
+Housing
+As your Governor, I will work tirelessly, with local leaders and Colorado communities, to make our housing more affordable and more available.
+That includes pushing for ways for people to live near where they work.
+As your Attorney General, I have:
+- Recovered millions for renters ripped off by corporate landlords
+- Led programs to revitalize rural housing and restore blighted homes
+- Returned mobile home payments to families after a housing company went under
+- Cracked down on corporate collusion that illegally raised rental prices
+Affordability
+As your Governor, I will make it my job to make living in Colorado affordable.
+As your Attorney General, I have:
+- Returned over $550M to Colorado consumers harmed by fraud
+- Fought to block a grocery mega-merger that would have driven up grocery costs and shut down local supermarkets throughout the state
+- Put a stop to illegal towing scams
+- Fought for fair wages for workers
+Healthcare
+- Protected the Affordable Care Act that over 1M Coloradans rely on
+- Led the fight to protect families from crushing medical debt and stop debt collectors from targeting patients
+- Took on Big Pharma and brought back $900M to fund opioid addiction treatment
+- Secured $32M for youth mental health programs by holding vaping companies accountable for targeting our kids
+Keeping our Communities Safe
+- Fought for more funding to police departments to hire and keep good officers, and to support their mental health needs
+- Fought for new laws to keep guns away from people who are a danger to themselves or others, and went to court to defend them
+- Pushed for laws requiring safe gun storage so children can’t access firearms
+- Worked to close a loophole that allowed abusive dating partners to keep their guns, the so-called “boyfriend loophole”
+- Prosecuted financial crimes that raise costs for Coloradans, including insurance fraud and white-collar scams
+- Investigated church leaders who sexually abused children and got justice for the victims
+- Called for stronger laws to stop illegal online sales of deadly drugs like fentanyl
+- Spearheaded important improvements in law enforcement training
+- Argued before the U.S.
+Supreme Court to better protect domestic violence survivors from dangerous stalkers
+Protecting Consumers
+- Recovered nearly $900M from drug companies that fueled the opioid crisis and established a nationally recognized framework to invest those funds to save lives
+- Protected kids from the harms of social media by working to rein in Big Tech and pushing for stronger protections for them
+- Held vaping companies accountable for targeting kids, and secured millions to invest in youth mental health programs
+- Led efforts to crack down on monopolists like Google and Live Nation/Ticketmaster
+- Fought against efforts to dismantle the Consumer Financial Protection Bureau
+- Spearheaded and implemented the Colorado Privacy Act
+Protecting Workers
+- Set up the first ever dedicated worker protection unit in the AG’s Office
+- Pushed for new laws to clamp down on wage theft from workers
+- Supported workers on the picket lines pushing for better wages and safer working conditions
+- Took on predatory training repayment agreement provisions abused by HCA and Petsmart
+- Challenged Kroger and Albertsons to protect grocery workers jobs
+- Challenged US Anesthesia Partners’ and Jiffy Lube’s abusive use of non-compete arrangements
+- Supported just transition efforts–providing opportunities for communities losing jobs when coal plants close–with investments in workforce education and training for a clean energy economy
+Helping Business Thrive
+- Created a level playing field by cracking down on fraudulent business filings that harmed existing businesses
+- Developed a balanced regulatory framework for Colorado’s new Privacy Act enabling responsible compliance and avoiding unnecessary burdens
+- Created a data security toolkit to help small businesses safeguard against scams and cybercrime and comply with Colorado law
+- Championed start ups and entrepreneurs through the work of new initiatives, like CU’s Silicon Flatirons Center, Startup Colorado, and the BEN entrepreneurs network, which I founded
+- Supported skills and career development work of organizations breaking new ground, like CareerWise Colorado, where I was a founding board member
+- Promoted rural economic revitalization by supporting job training and infrastructure investments in underserved communities
+- Championed broadband expansion so small businesses can compete and grow, no matter their ZIP code
+Colorado’s Kids
+- Launched a statewide initiative to build school-community partnerships that strengthen youth mental health and connections
+- Expanded and strengthened the Safe2Tell program, giving students a life-saving tool to report mental health concerns and stop tragedy before it happens
+- Held vaping companies accountable for targeting kids, securing millions to fund prevention and school-based mental health programs
+- Led efforts against Big Tech to increase data privacy and protect kids from harm on social media
+Our Outdoors and our Climate Future
+- Held companies that contaminated our water with “forever chemicals” to account in court
+- Defended Colorado’s clean air laws and fought to uphold strong federal methane standards modeled after our own
+- Protected Colorado’s right to set tougher vehicle emissions standards
+- Recovered millions from companies responsible for toxic spills to fund environmental restoration
+- Fought harmful water diversion schemes and used every legal tool to safeguard our water from out-of-state interests
+- Recovered millions of dollars in “natural resources damages” and ensured those funds are put to work to restore natural habitats and ecosystems
+Protecting Your Rights
+- Stood against the Trump Administration’s lawless actions, taking them to court whenever they acted above the law and harmed Coloradans
+- Went to court to ensure that abortion care remains legal and accessible in Colorado
+- Protected nearly 19,000 young Colorado DREAMers from being taken from the only home they’ve ever known
+- Stood firm against attacks on diversity, equity, and inclusion, and have fought discrimination in all forms
+Defending Our Democracy
+- Argued and won a case at the U.S.
+Supreme Court to defend the integrity of Colorado’s elections
+- Prosecuted a rogue county clerk for illegally tampering with election systems and putting elections at risk
+- Took action against those trying to intimidate voters
+- Protected fair representation for voters by fighting a county trying to gerrymander its elected officials maps and disenfranchise minority communities
+- Combatted deepfakes and disinformation by enforcing new laws requiring clear labels on AI-generated political content
+Standing up to the Trump Administration
+- Sued immediately when Coloradans’ Social Security, Medicare, and public funds were threatened by DOGE’s unauthorized access to the federal payment system
+- Went to court to stop Trump’s unconstitutional attempt to end birthright citizenship
+- Fought back against efforts to freeze billions in federal aid going to Colorado hospitals, schools, and public services
+- Co-led 23 states + D.C. in suing to stop HHS and RFK Jr. from cutting $11B in critical public health grants
+- Joined 21 states to sue over dangerous NIH cuts that would gut medical and public health research
+- Opposed attempts to dismantle the U.S.
+Dept of Education because Colorado families depend on strong federal support for schools and students

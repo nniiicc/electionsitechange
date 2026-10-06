@@ -1,0 +1,23 @@
+Constituent Resources
+Whether you’re looking for voting information, state or local government services, legislative resources, or help navigating a state agency, this page is designed to connect you with the right place to start.
+And if you can’t find what you need, please reach out, my office is always here to help.
+- Find your elected officials
+- How a bill becomes a law (chart)
+- How a bill becomes a law (text)
+- General Assembly
+- Cobb County website
+- How to sign up for the PENS report [Police Email Notification System]
+- Find where you vote
+- Register to vote
+Useful Phone Numbers
+- Emergency: 911
+- Non-Emergency Cobb Police: 770-499-3900
+- Poison Control Center: 404-616-9000
+- GA Mental Health Hotline: 888-945-1414
+- Elder Abuse Anonymous Hotline: 404-577-TIPS(8477)
+- Dogwood 24/7 Pet ER: 404-609-1234
+- Cobb Traffic/Road Complaints: 770-528-3666
+- Cobb Board of Elections: 770-528-2581
+- Cobb Board of Commissioners: 770-528-3300
+- Cobb Board of Education: 770-426-3300
+- Cobb Drivers License: 770-528-5400

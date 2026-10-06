@@ -1,0 +1,25 @@
+FOR IMMEDIATE RELEASE
+July 5, 2016
+Contact: Mike Trujillo
+Mike[at]barraganforcongress[dot]com
+Progressive Armando Sotomayor Backs Nanette Barragán for Congress
+SAN PEDRO, CA – Today the Nannette Barragán for Congress campaign announced that her primary opponent in California’s 44th district and strong third place finisher, Armando Sotomayor, has officially endorsed her run for Congress.
+Mr.
+Sotomayor joins a robust list of local leaders endorsing Barragán for Congress since the primary election, including former Supervisor Gloria Molina, former Congressman Esteban Torres, and legendary union activist Dolores Huerta.
+“I am so excited to be building this momentum heading in to the general election,” said Barragán.
+“I am honored to have earned Mr.
+Sotomayor’s endorsement.
+His progressive leadership has been an invaluable source of strength in this community.
+I know that with his support, we will continue to get our message out in the 44th district.”
+Community volunteer Armando Sotomayor campaigned on bridging the achievement gap in schools and ensuring that our education system prepares students for the real world job market.
+Like Barragán, he is also committed to providing top notch healthcare for our seniors and protecting programs like Social Security to ensure that every American has a shot at their version of the American Dream.
+“Nanette and I see eye to eye on many of the most important issues here in the 44th district,” said Mr.
+Sotomayor.
+“She understands that quality, affordable education is a crucial resource for this and every community across the United States.
+Our government should lift every American up, regardless of race or religion or country of origin, and I believe that Nanette is the only candidate in this race with the skills, commitment, and integrity to make this happen.”
+Barragán, the daughter of immigrants from Mexico, grew up in Carson and the surrounding areas where she attended Stephen M.
+White Junior High School, learned to swim at the Carson Pool, and studied at the Carson Library.
+She worked her way through UCLA and law school at USC before becoming a long-time advocate for the environment and the first elected Latina member of the Hermosa Beach City Council.
+She was also a leader in the fight against Measure O, a ballot measure that would have allowed oil companies to drill for oil in the Santa Monica Bay.
+Find more information here: www.barraganforcongress.com.
+###

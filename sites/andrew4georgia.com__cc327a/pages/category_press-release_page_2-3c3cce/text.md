@@ -1,0 +1,3 @@
+Andrew Underwood Announces Candidacy in Georgia Congressional District 14 Special Election
+ROCK SPRING, Ga. — Today, Libertarian Andrew Underwood announced candidacy in the special election to fill the unexpired term of Marjorie Taylor Greene, Congresswoman of Georgia Congressional District 14 in Northwest Georgia.
+He joins a field of Republicans and Democrats each promoting the same old ideas that have given Georgians a bad deal in Washington,…

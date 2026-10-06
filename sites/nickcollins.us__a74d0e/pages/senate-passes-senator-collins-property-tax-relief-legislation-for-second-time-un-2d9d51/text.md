@@ -1,0 +1,16 @@
+Measure would provide property tax relief to homeowners, seniors and small businesses
+The Massachusetts Senate unanimously adopted an amendment to the economic development bill offered by Senator Nick Collins that would deliver property tax relief for the second time this legislative session.
+The amendment was approved during debate on the Senate’s economic development legislation and contains the same provisions as S.2900, Senator Collins’ municipal property tax relief bill, which previously passed the Senate 37-1 earlier in the legislative session.
+The measure would allow municipalities to use surplus funds to issue rebates to homeowners who received the residential exemption in the prior fiscal year.
+By reducing the property tax burden on residential properties, the proposal would also help renters who face rising housing costs when taxes are passed through in the form of higher rents.
+The amendment would expand the authority available to cities and towns to increase property tax exemptions and raise income and asset eligibility limits for qualifying seniors.
+It would also extend the deadline to file a property tax abatement application to 75 days and increase the amount of personal property that may be exempt from taxation, providing additional relief to small businesses.
+Many of these policies build on property tax relief measures and priorities already supported by Boston officials and approved by the Boston City Council, including expanded assistance for seniors and efforts to protect residents from rising property taxes.
+“Once again, my colleagues have recognized how important it is to move this legislation forward, approving it for a second time in the same session,” said Senator Nick Collins.
+“This relief is for homeowners, especially seniors, renters feeling the pressure of the city’s annual property tax increases, and small business owners working to keep their doors open.
+These are policies City officials are already on record supporting, policies that would provide badly needed property tax relief following the city’s annual property tax increases.
+Those residents deserve the same support when we fight for relief at the State House.”
+“I am grateful for the unanimous and bipartisan support of my Senate colleagues, but the work is not finished,” Collins continued.
+“I will keep fighting to ensure these provisions make it through conference committee and onto the Governor’s desk before the end of the legislative session.”
+The Senate adopted the amendment as part of its version of the Economic Development Bond bill.
+A six-member conference committee will now reconcile the differences between the bills passed by the Senate and House, respectively, before a final bill is sent to the Governor for approval.

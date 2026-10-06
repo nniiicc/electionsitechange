@@ -1,0 +1,4 @@
+Serving in the minority, Mary Cavanagh understood that leadership roles would be key in developing relationships and pushing legislation across the aisle in both the House and the Senate.
+Now, in the Senate Democratic Majority, she serves as the chair of the Committee on FInance, Insurance and Consumer Protection and Appropriations Subcommittees for the Departments of Labor and Economic Opportunity, Licensing and Regulatory Affairs, and Insurance and Financial Services.
+In addition Cavanagh currently serves as Deputy Majority Whip, Chair of the Latino Caucus, and an active member of the Michigan Legislative Black Caucus, Detroit Caucus, Progressive Women’s Caucus,Firearms and Safety, Care, Education, and so many more.
+Being active in these roles has and will be crucial in effective policy making not only for our district but for all of Michigan.

@@ -1,0 +1,14 @@
+Issues
+Climate Action & Environmental Justice
+As the parent of three young kids, I cannot think of a more urgent issue to tackle than climate change.
+The science is clear: we are facing tectonic changes to our basic way of life unless we begin to aggressively reduce our reliance on fossil fuels and turn the tide on carbon emissions, and the longer we wait, the more terrifying the consequences.
+The wildfires, droughts, severe weather anomalies, and high temperatures we’re experiencing now will seem mild compared to the Biblical-level events that climate change will wreak on our planet.
+I’m proud to be endorsed by the political action counterparts of all of the major environmental organizations, including Sierra Club and League of Conservation Voters.
+As a member of the House Natural Resources Committee, I’ve been a steadfast voice and vote in favor of protecting our fragile natural spaces and coastlines while also pushing to wean us off of the fossil fuels that are so rapidly transforming our climate.
+This record builds on my time in the California State Senate, where I was able to author a number of key climate bills, including legislation to end offshore drilling, decarbonize transportation and household appliances, and to require companies to disclose their climate risks and carbon emissions from their supply chains.
+I’ve also been a leader in the fights to preserve our wilderness and protect biodiversity, including authoring the first law in the country to enact the “30 by 30” goals of protecting 30% of our open spaces by the year 2030, which leading scientists have said are necessary to ensure we prevent mass extinction.
+We face tough times ahead.
+We must reverse the harmful anti-environmental policies of the Trump administration while also accelerating innovation.
+The fact is that the high profile efforts– such as pushing electric cars, encouraging solar and wind, electrifying the grid– are not enough.
+We’re going to need to bear down on some of the more technical and mundane aspects of climate policy– addressing methane leaks, decarbonizing more difficult sectors like heavy duty transit, aviation, or cement and asphalt production while continuing to push to address our open spaces and adapt to the changes that climate change will wreak– and federal policy has a huge role to play here in driving the necessary green innovation and incentivizing private capital to come into these areas.
+We can solve the climate crisis, but we must act with urgency and smart policy.

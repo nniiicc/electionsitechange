@@ -1,0 +1,25 @@
+Meet Braeden Oswald
+- Service
+- 28 years of Military Service - Marine Corps / Army (Retired)
+- Warrant Officer - Military Intelligence
+- Combat Veteran - Afghanistan
+- Combat Action Badge
+- 2 years Salt Lake County Sheriff’s Office
+- Corrections Officer
+- Awarded the Distinguished Service Medal
+- Most Professional Award - Correction’s Academy
+- State Delegate / Delegate Chair: HD24-G14 SLC
+- Braeden is the father of twin teenage boys and a beautiful daughter.
+His daughter and her husband have just welcomed a new baby boy to their family, and Braeden is excited to be a grandfather.
+He has lived in District 24 of Salt Lake City for over thirteen years, and is a lifetime resident of Utah.
+His demonstrated commitment and service to our community, and his ability to easily connect with people, provides an easy path for cooperation.
+In his free time Braeden enjoys writing, reading, cooking, gardening, outdoor activities and fitness of all kinds.
+- Education / Certifications
+- Excelsior University
+- B.S.
+Liberal Arts Emphasis on History
+- Salt Lake Community College
+- A.S.
+Business Administration
+- Certified Scrum Master
+- ACAMS - Association of Certified Anti-Money-Laundering Society

@@ -1,0 +1,14 @@
+CShelby County Criminal Court Clerk Heidi Kuhn is a wife, mother of four, and grandmother of two and a proven public servant and leader with over two decades of successful experience in government leadership.
+Kuhn brings a track record of innovation, compassion, and results-driven leadership; especially in creating second chances for justice-involved individuals and expanding access to opportunities to all residents of Shelby County.
+Nationally recognized for her work to expand expungement access in Tennessee, her office has processed nearly 10,000 expungements, helping individuals and families rebuild their lives.
+Her leadership and community involvement has earned her numerous awards and accolades, including:
+- TN Clerk of the Year (2025)
+- Legacy of Community Impact Award (2024)
+- Leadership Memphis Changemaker (2022)
+- Southern Justice Summit Award (2021)
+- Memphis Business Journal “Top 40 Under 40”
+- Memphis Woman Magazine’s “50 Women Who Make a Difference”
+- 3V Leading Lady Award
+As a congressional candidate, Heidi Kuhn brings more than 26 years of experience in government roles, not just as a role holder, but as one that looks to make impact and real change.
+She offers bold, compassionate leadership rooted in experience and a deep commitment to justice, equity, and opportunity for West Tennessee.
+Her proven ability to modernize government, remove systemic barriers, and uplift communities makes her uniquely qualified to lead District 8 into a brighter future for ALL citizens.

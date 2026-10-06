@@ -1,0 +1,1 @@
+Bensalem Weekly: "Allen Calls Out Tomlinson at District Office, Brings Receipts" May 18 1 min read Updated: Aug 26 "Democratic challenger says incumbent [Tomlinson] broke the same funding promise three times in six years." Read More

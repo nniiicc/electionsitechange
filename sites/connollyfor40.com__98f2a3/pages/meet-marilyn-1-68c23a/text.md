@@ -1,0 +1,10 @@
+Marilyn Connolly was born in Worland, Wyoming, and raised in Johnson and Sheridan County, where she learned the value of hard work from her father, a cowboy, and her mother, a ranch cook and homemaker.
+A lifelong Wyoming resident, Marilyn has spent decades serving her community through her work, her family, and her involvement in local leadership.
+As a former Johnson County Commissioner, current State Representative & prominent member of the local Republican party, Marilyn has a proven record of managing budgets, making tough decisions, and ensuring taxpayer dollars are spent responsibly to meet the real needs of Wyoming communities.
+Marilyn’s service spans decades of hands-on work in healthcare and public safety, including roles as a CNA, EMT, Public Health Response Coordinator, and Homeland Security and Emergency Management Coordinator.
+She has also served on the Rural Health Care District Board, Buffalo Senior Center Board, and Northern Wyoming Mental Health Board, always focused on strengthening the services Wyoming families rely on.
+A mother of four and grandmother of ten, Marilyn is deeply invested in ensuring that Wyoming remains a place where families can thrive for generations to come.
+Her proactive approach to policymaking, informed by her experience as a single mother raising children in Buffalo, underscores her commitment to practical and forward-thinking governance.
+Marilyn Connolly is running for State House District 40 to strengthen Wyoming’s economy, support rural communities and first responders, and ensure state government lives within its means while delivering for families.
+She is focused on practical solutions that keep jobs in Wyoming, stabilize the state budget, and make it easier for the next generation to build a future here.
+Marilyn is committed to representing Johnson and Sheridan Counties with transparency, accountability, and a clear focus on results—bringing her experience in local government, public safety, and healthcare to advocate for the people she serves.

@@ -1,0 +1,37 @@
+July 14, 2024
+Fighting Maryland Piedmont Project
+These past week has been a difficult one for our community.
+Like many thousands of Carroll (and Frederick) County residents, our Carroll County Delegation and I are incredibly concerned with the far-reaching “Maryland Piedmont Reliability Project” – a huge powerline project that would be run by PSEG, a New Jersey-based utility company.
+As you may imagine, I’ve received and replied to hundreds of emails, calls and social media messages – trying to give people the best information possible and also make it clear – Carroll County’s Delegation (me, Senator West and Delegates Rose, Tomlinson, Bouchat & Stonko) are firmly opposed to this along with our County Commissioners.
+We all saw the map of potential routes and huge impact it would have the same time the public did.
+So – our county commissioners and state legislators are working together – we will fight this all the way and give people every opportunity to make their voice heard.
+We are also doing our best to coordinate with elected officials in Frederick and Baltimore Counties who are also affected.
+Thursday was the “informational meeting” in Westminster put on by PSEG.
+It was a poorly run and frankly disrespectful event considering that people were there concerned about the future of their property and livelihood.
+I am furious with how it played out and we are demanding that PSEG conduct another meeting with actual opportunity for public comment and Q&A with real experts – I will keep you posted on that.
+In advance of the Thursday meeting – our Carroll County Delegation members as a team put together a detailed document outlining our opposition to this project and giving important history of why Maryland is being told they have to bring in more electric production – when you have state policies passed to close down numerous power plants and have even more scheduled to go offline and then don’t replace their production with reliable sources of energy, you’re going to have problems.
+For the record, I voted against those short-sighted energy policies at the state level.
+We have several very serious concerns about the project, such as the importance of property rights, agricultural preservation and the possible use of eminent domain which is unacceptable in my view.
+We also included additional people to contact at the federal level.
+NOTE – this is a fast moving situation and we’re learning more all the time.
+We will continue to update with more info and action items to engage in the process that those who are being potentially affected can take as we move forward.
+See the full document by clicking here.
+Additional Action Items – Maryland Public Service Commission:
+It is important to note that this is going to be a long battle, not at all over once PSEG selects the route they want to try to use – once PSEG selects the route they want to try to use it has to go to the Maryland Public Service Commission (PSC) for a lengthy process that can take 18 months to 2 years and THAT is where citizen, local government and community feedback, comments and even lawsuits will come more into play.
+The good news is that late Friday, the PSC announced that they have opened up a dedicated email for collecting comments from the community, affected property owners and any other stakeholders who want to make their voice heard.
+Below is the press release from the PSC with all the details, including the email address:
+For Immediate Release: July 12, 2024
+Media Contact: Tori Leonard | [email protected] | (410) 767-8054
+(BALTIMORE, MD) – The Maryland Public Service Commission has established a dedicated email account for comments related to the Maryland Piedmont Reliability Project, a high-voltage transmission line proposed by PSEG, as part of a regional transmission process.
+Although PSEG has not yet filed an application with the Public Service Commission for authority to build the project, and there is no case pending before the Commission, nevertheless, the Commission will accept comments via a dedicated email address, piedmontcomments.psc@maryland.gov
+If the developer files an application and the Commission opens a case, those comments will be added to the public comments file of the case so that the Commission has the benefit of the public’s views.
+Hearings being held by the developer are part of PSEG’s pre-application process, which the Commission does not oversee.
+If the developer files an application, the public will have the opportunity to provide comments in a variety of ways.
+This would include public hearings, held by the Commission, in the areas where the project is proposed to be constructed, as well as comments sent in by mail or email.
+The Commission will provide notice of its hearings and other proceedings on its website (psc.state.md.us), through the news media and social media channels.
+Members of the public are encouraged to engage with this process and provide input.
+###
+Our local elected officials and I are going to continue to work together opposing this plan and fighting to make sure every voice is heard.
+Our state legislators, including me, will be also looking at legislation for the next Session to try to repeal the wrong-headed energy policies that Maryland has passed – over my objection – in the past several years using this as a prime example for WHY we need reliable energy generation here in the state, using nuclear, clean coal, and natural gas instead of putting all our eggs in expensive, less reliable forms of energy like offshore wind.
+Of course feel free to reach out with questions at [email protected].us, my staff and I are doing our best to get back to people as quickly as possible.
+Return To News >

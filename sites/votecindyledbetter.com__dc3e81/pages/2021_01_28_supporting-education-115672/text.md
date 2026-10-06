@@ -1,0 +1,2 @@
+The Indiana House of Representatives voted 93-2 on Tuesday in support of legislation to fully fund all K-12 public school students for the 2020-21 school year, regardless of whether students attended classes in-person or virtually due to COVID-19.
+The legislation now advances to the Senate for consideration. https://www.indianahouserepublicans.com/news/press-releases/bartels-ledbetter-house-passes-legislation-fully-funding-all-k-12-public-school-students-this-year/

@@ -1,0 +1,4 @@
+BY Kathleen Moore, Post-Star, Oct 12, 2020
+A man who ran his own drywall business, worked as a plow wingman and has served in public offices from planning board to town supervisor is now running for state Assembly.
+Horicon Supervisor Matt Simpson is running on the Republican line for the 114th Assembly District seat.
+The district includes all of Warren and Essex counties and portions of Saratoga and Washington counties.

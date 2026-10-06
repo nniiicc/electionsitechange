@@ -1,0 +1,121 @@
+- Opinion: Here’s what MCPS must demonstrate before closing a school September 30, 2026 Bethesda Magazine By Adam Van Grack As the district explores closing elementary, middle schools, officials must learn from past lessons Montgomery County Public Schools (MCPS) recently announced that declining enrollment will lead it to consider closing elementary and … Continue Reading
+- Gaithersburg’s Old Towne Plaza renamed in honor of Sidney Katz September 18, 2026 Montgomery Community Media by Maryam Shahzad Olde Towne Plaza in Gaithersburg will become Sidney A.
+Katz Plaza to honor the lifelong Gaithersburg resident who has been in public service for 50 years.
+“I truly am honored and I truly am humbled by … Continue Reading
+- Ballot Questions might be more difficult for voters with disabilities to understand September 16, 2026 Maryland Reporter by Howard Gorrell While Fight Back MD supports a “YES” vote and Protect Maryland Votes urges a “NO” on the November 2026 congressional redistricting amendment (Question 3), respectively, Sen.
+Cheryl Kagan, D, of Montgomery County has led efforts to … Continue Reading
+- In Rockville, remembering 11 who died on 9/11 September 11, 2026 The Banner by Marijke Friedman “It doesn’t feel like 25 years,” said Christine Fisher, whose husband died in the attack on the Pentagon Darin Pontell and Devora Kirschner, friends since sixth grade, moved to Gaithersburg and got … Continue Reading
+- Ballot questions written at a graduate school level, not plain language, as new law requires September 8, 2026 Maryland Reporter by Howard Gorrell On Thursday, the Supreme Court of Maryland approved a proposed amendment on congressional redistricting for the November ballot.
+This decision reversed two lower-court rulings that would have blocked it.
+The Court decided … Continue Reading
+- Maryland State Senator Kagan discusses redistricting amendment ruling (VIDEO) September 1, 2026 DC News Now Sunrise on the Hill Maryland State Senator Cheryl Kagan (D-District 17) joins Sunrise on The Hill after a Maryland judge ruled that the redistricting amendment cannot appear on the November ballot.
+The judge paused … Continue Reading
+- Maryland redistricting ballot question blocked by judge: What’s next August 26, 2026 WBAL The redistricting ballot question approved by lawmakers during a special session cannot go on the November ballot, an Anne Arundel County judge ruled Wednesday.
+Following Anne Arundel County Circuit Court Judge Robert Thompson’s decision, Democrats and Republicans have weighed … Continue Reading
+- Rockville Council Member: Housing Project Suspended Because of Wootton HS Closure (Updated) August 17, 2026 Montgomery Perspective By Adam Pagnucco Rockville City Council Member Adam Van Grack has long opposed MCPS’s decision to close Wootton High School.
+One of the arguments he has made, which has been echoed by the Maryland Building Industry … Continue Reading
+- Elections in Uncertain Times: #MACoCon Prepares for November August 17, 2026 Conduit Street by Kevin Kinnally Maryland election administrators are preparing for the 2026 election amid evolving legal requirements, security concerns, staffing challenges, misinformation, and ongoing scrutiny of election operations.
+Counties remain on the front lines, managing the … Continue Reading
+- The Politics Hour: MD redistricting, VA primaries, and one year since Trump’s MPD takeo August 6, 2026 WAMU 88.5 The Politics Hour with Kojo Nnamdi All eyes are now on November’s midterm elections, after this week’s Virginia primaries turned out to be a “big snoozer.” Could the Commonwealth be the difference in which party … Continue Reading
+- Ferguson: Special elections not on the agenda for brief session on redistricting August 3, 2026 Bethesda Magazine By Ceoli Jacoby Maryland General Assembly also won't consider new maps, Senate president says A proposal to require special elections for vacant seats in the Maryland General Assembly won’t be on the agenda during the legislature’s special … Continue Reading
+- Lawmakers convene for what leaders hope is quick work on a redistricting bil August 3, 2026 Maryland Matters By William J.
+Ford and Christine Condon Legislation will not actually redraw congressional boundaries, but will ask voters to make it easier to do so Maryland lawmakers are expected to come out of the special … Continue Reading
+- Kagan says proposed ballot question text may violate state law she sponsored July 31, 2026 Bethesda Today By Ceoli Jacoby Montgomery County Question A not written in ‘plain language,’ District 17 senator argues Dist. 17 Sen.
+Cheryl Kagan (D-Rockville) is raising concerns about the suggested text of a proposed Montgomery County ballot … Continue Reading
+- Board approves $109 million voting machine contract despite concerns July 23, 2026 Maryland Matters By Bryan P.
+Sears Voting advocates say proposed system is not yet certified for 2030; elections officials disagree, say a new system is badly needed The Board of Public Works approved a multimillion-dollar contract Wednesday … Continue Reading
+- House, Senate leaders draw hard line on special session topics July 20, 2026 Maryland Matters by Bryan P.
+Sears Bills not pertaining to redistricting will be prohibited lawmakers are told, freezing out GOP efforts to push affordability bills The leaders of the House of Delegates and the Senate are setting … Continue Reading
+- Amar Mukunda ousted the Senate majority leader.
+Now he wants to reform Annapolis.
+July 13, 2026 Baltimore Banner by Jack Hogan His victory in Montgomery County’s District 39 was one of the primary’s biggest surprises Amar Mukunda said he tapped into a “deep well of dissatisfaction” during his campaign against one of Maryland’s … Continue Reading
+- Maryland delays approval of new $109M voting system after rise of transparency concerns July 2, 2026 WYPR By Sarah Petrowich The Maryland Board of Public Works has delayed approving a $109 million voting system overhaul after advocates and state lawmakers brought up concerns around the contract’s transparency and price tag.
+The State Board … Continue Reading
+- #MACoCon Can’t-Miss: Elections in Uncertain Times June 30, 2026 Conduit Street Kevin Kinnally At the 2026 MACo Summer Conference, election experts will examine how court decisions, cybersecurity threats, and changing federal policies continue to reshape election administration.
+Counties play a central role in Maryland’s election system, … Continue Reading
+- Supreme Court rules states can count late-arriving mailed ballots, rejecting Trump-led challenge June 29, 2026 The Baltimore Banner by Mark Sherman, Associated Press and Pamela Wood WASHINGTON — The Supreme Court on Monday ruled that states can count ballots that arrive after Election Day, a practice President Donald Trump has persistently targeted.
+The decision rejected a Republican-led … Continue Reading
+- Democratic states scramble to prevent potential Trump administration interference in their elections June 20, 2026 CNN By Fredreka Schouten Democratic-led states are racing to safeguard November’s midterm elections against potential interference from the Trump administration and its allies, passing new laws that restrict the presence of law enforcement at polling places or … Continue Reading
+- Kagan’s Recommendation Mailer June 20, 2026 Montgomery Perspective By Adam Pagnucco Last week, I wrote about a series of mailers containing sample ballots on behalf of “Democratic teams” that actually reflected selections made by the county’s state senators.
+That resulted in a bit of pushback … Continue Reading
+- House sets target dates for special session June 19, 2026 Maryland Matters By: Bryan P.
+Sears Members of the House of Delegates are being asked to consider two windows for a special session that could consider two possible amendments to the Maryland Constitution.
+House Speaker Joseline Peña-Melnyk, … Continue Reading
+- Political notes: An AI adviser, a new hand on racing panel reins, lawmakers talk shop June 10, 2026 Maryland Matters By: Christine Condon and William J.
+Ford Gov.
+Wes Moore’s (D) newest senior adviser will aim to improve Maryland’s use of AI technology.
+Michael Boyce, who started as Moore’s senior adviser for responsible artificial intelligence … Continue Reading
+- State Roundup: Elections board issues guide to address mail-in ballot problem; Farmers seek federal aid after devastating freeze; 22,000 sign up for special butterfly ID June 10 2026 Maryland Reporter by Cynthia Prairie ELECTIONS BOARD ISSUES GUIDELINE TO ADDRESS MAIL-IN BALLOT ERROR: Maryland’s five-member state election board unanimously approved a set of public guidelines Tuesday laying out how thousands of mail-in ballots will be tabulated for … Continue Reading
+- Here’s what Gov.
+Wes Moore signed into law during last bill ceremony of 2026 6/9/26 The Diamondback by Clare Roth Gov.
+Wes Moore signed about 275 state bills leftover from this spring’s legislative session late last month, addressing topics including artificial intelligence, youth civic engagement, housing and healthcare.
+In a public statement earlier this … Continue Reading
+- ‘Crucial’: New Maryland law lets public school students earn a civic excellence seal on their diploma June 2, 2026 WMAR By: Taylor Epps ANNAPOLIS, Md. — Maryland public school students will soon have a new opportunity to show their achievements after Governor Wes Moore signed the Maryland Civic Excellence Program bill.
+The program allows public school … Continue Reading
+- Election Conversations: Sen.
+Cheryl Kagan, Maryland May 27, 2026 NCSL By Elections and Redistricting Staff Kagan, a nearly 20-year veteran of the General Assembly, is NCSL’s appointee to the U.S.
+Election Assistance Commission’s Board of Advisors.
+After the 9/11 terrorist attacks, Cheryl Kagan decided that serving … Continue Reading
+- Interview: First-in-nation 311 statewide plan signed into law to help 911 centers May 27, 2026 Montgomery Community Media Maryam Shahzad People want to know that when there is an emergency, 911 will be there to answer the call.
+“My passion for 911 began when my friend, Carl Henn, died in a freak thunderstorm and … Continue Reading
+- ‘The Pulse’ on county budget cuts, Maryland’s mail-in ballot blunder & MCPS layoffs May 22, 2026 Montgomery Community Media Markette Sheppard In this week’s edition of The Pulse, get the latest update on the Maryland State Board of Election’s mail-in ballot error that affected more than a half million voters, including many Montgomery County residents.
+Then, … Continue Reading
+- Slate of Maryland election reform bills set to go into law before November midterms May 15, 2026 WYPR By Sarah Petrowich The Maryland General Assembly passed an array of election reforms this year to try and curb election interference and increase voter access ahead of the General Election this November.
+State Sen.
+Cheryl Kagan … Continue Reading
+- Maryland to be the first with a statewide 311 number May 12, 2026 WTOP News by Kate Ryan Among the bills signed into law on Tuesday, one allows anyone in Maryland to call 311 to get information on government services in their area.
+Maryland State Sen.
+Cheryl Kagan said the … Continue Reading
+- Friedson Recognized with “Visionary Award” by Young Artists of America on Strathmore Stage May 11, 2026 Montgomery County Council Presentation followed YAA’s “Prince of Egypt” performance, alongside Tony, Grammy, and Academy Award winner, Stephen Schwartz Montgomery County Councilmember Andrew Friedson was honored by Young Artists of America (YAA) on Saturday, May 2 with the organization’s Visionary Award in recognition … Continue Reading
+- Moore issues scores of endorsements, but some incumbent Democrats miss the cut May 8, 2026 Maryland Matters by Bryan P.
+Sears and William J.
+Ford Ferguson tops the list of names missing from list after months-long redistricting dispute with governor Scores of Democratic candidates were endorsed Thursday by Gov.
+Wes Moore (D), … Continue Reading
+- Senate President Bill Ferguson did not make Gov.
+Moore’s latest campaign endorsement list May 8, 2026 WYPR by Sarah Petrowich Gov.
+Wes Moore released his latest list of campaign endorsements on Thursday and one notable name not on the list is Senate President Bill Ferguson (D-Baltimore City).
+Ferguson has represented Southern Baltimore for 15 years … Continue Reading
+- Moore: Closed primary election system ‘has run its course’ April 30, 2026 Maryland Matters By: Bryan P.
+Sears Despite comments on HBO, spokesperson insists governor is not ‘opining’ on state elections that are the subject of a lawsuit Closed political primaries like Maryland’s disenfranchise voters and should be “reevaluated,” … Continue Reading
+- How the General Assembly’s redistricting fight derailed a referendum on special elections April 30, 2026 Bethesda Today By Ceoli Jacoby 2026 legislative session marked MoCo legislators' third failed attempt to change process for filling vacancies Reflecting on the 2026 Maryland General Assembly session at a meeting of the District 18 breakfast club at Silver Spring’s … Continue Reading
+- AI-powered statewide 311 approved April 22, 2026 Montgomery Community Media Maryam Shahzad Maryland will use Artificial Intelligence to establish the nation’s first statewide 311 through the bipartisan bill led by State Sen.
+Cheryl Kagan (D-District 17).
+The bill was approved by the Maryland legislature during the General Assembly session … Continue Reading
+- The Politics Hour: The D.C.
+Council weighs in on the budget and the Maryland General Assembly wraps up April 17, 2026 The Politics Hour with Kojo Nnamdi LISTEN The Maryland General Assembly wrapped its session this week, but not before a rowdy last few minutes.
+Lawmakers are touting major accomplishments such as a balanced budget, a slew of anti-ICE bills, … Continue Reading
+- Kagan testifies on statewide 311 bill April 7, 2026 Montgomery Community Media by Maryam Shahzad State Sen.
+Cheryl Kagan (D-District 17) testified Tuesday on her bipartisan bill to create the nation’s first statewide 311 system powered by artificial intelligence to lighten the load on 911 centers.
+A Maryland House Committee … Continue Reading
+- Officials worry as they weigh impact of Supreme Court’s conversion therapy ruling April 1, 2026 Maryland Matters By: Danielle J.
+Brown If Tuesday ruling undermines Maryland’s ban, LGBTQ+ advocates worry there won’t be time in session for corrective action State officials are trying to determine how Tuesday’s Supreme Court ruling overturning a … Continue Reading
+- Md. lawmakers reaffirm legislative priorities March 31, 2026 Washington Blade By Sam Epner Maryland’s legislative caucuses outlined their legislative priorities heading into the final weeks of the 2026 General Assembly during a joint press conference on March 24.
+The press conference was titled “We are … Continue Reading
+- After missing most of the session, Benson, Jones return to praise, affection, flowers March 31, 2026 Maryland Matters by William J.
+Ford Jones return for the rest of the session remains unclear, but Benson said she plans to return to the job Two of the state’s most respected legislators, who have been absent … Continue Reading
+- Democrats Who Sabotage Democracy March 30, 2026 Montgomery Perspective By Adam Pagnucco.
+Few issues animate Democratic and progressive activists more than voting rights.
+And more than at any point since the 1960s, voting rights are under attack.
+President Donald Trump and his right-wing allies … Continue Reading
+- A dubious award, a redistricting debate, a (sort of) Parrott return, in political notes March 28, 2026 Maryland Matters By: Bryan P.
+Sears, William J.
+Ford and Christine Condon If you watched the House of Delegates first floor session of the week, youmight have been delighted to hear that a Maryland resident by the … Continue Reading
+- ‘Tactical’: Analysts, lawmakers skeptical of redistricting in elections bill March 26, 2026 Baltimore Sun By Mennatalla Ibrahim Addition makes the bill’s future uncertain in Senate The Maryland House of Delegates on Thursday rejected a Republican-led effort to remove redistricting language from an elections bill, following a sharp partisan debate that raised … Continue Reading
+- Senate leader calls latest redistricting effort from House a nonstarter March 26, 2026 Maryland Matters By: Bryan P.
+Sears House Democrats say they’ve ‘thrown in the towel’ on new maps, but vow to fight for new language on redistricting rules Senate President Bill Ferguson (D-Baltimore City) said House amendments effectively … Continue Reading
+- Maryland House tries to revive redistricting plan B March 25, 2026 The Banner by Pamela Wood and Madeleine O'Neill Some Maryland Democrats are making a late push to revive a backup plan for redrawing the state’s congressional districts in hopes of giving Democrats a chance to sweep all … Continue Reading
+- House committee tacks redistricting language onto Senate elections bill March 25, 2026 Maryland Matters By: Bryan P.
+Sears and Steve Crane Amendment likely spells doom for proposal that would have filled legislative vacancies by election rather than appointment A House committee, without debate and without dissent, added redistricting language … Continue Reading
+- Ethics, lead shot, housing and gender identity: Lawmakers plow through bills on crossover day March 24, 2026 Maryland Matters By: Danielle J.
+Brown, William J.
+Ford and Christine Condon After multiple floor sessions in the House and Senate Monday, potentials winners and losers in the remaining weeks start to come into view Sen.
+Cheryl … Continue Reading
+- A question of church and state dominates Senate debate on charitable organizations bill March 21, 2026 Maryland Matters By: Danielle J.
+Brown Debate delays action on SB 4 as both House and Senate rush to finish work on their bills before ‘crossover’ day Sen.
+Ron Watson (D-Prince George’s) listens Friday as Sen.
+Cheryl … Continue Reading
+Let's Stay in Touch!
+Sign up to stay in touch with Senator Cheryl Kagan!
+By submitting this form, you are consenting to receive marketing emails from: Cheryl Kagan.
+You can revoke your consent to receive emails at any time by using the SafeUnsubscribe® link, found at the bottom of every email.
+Emails are serviced by Constant Contact

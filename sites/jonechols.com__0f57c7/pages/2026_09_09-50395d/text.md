@@ -1,0 +1,3 @@
+Oklahoma Farm Bureau Endorses Jon Echols for Attorney General
+Oklahoma City, OK – Today, in a sign of continued momentum for the campaign, the Oklahoma Farm Bureau is officially endorsing Republican nominee, Jon Echols, for Attorney General.
+The Oklahoma Farm Bureau is a leading cornerstone in the fight to…

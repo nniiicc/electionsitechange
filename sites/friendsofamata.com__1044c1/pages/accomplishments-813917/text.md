@@ -1,0 +1,100 @@
+Overview
+As I again seek the honor of representing American Samoa in Congress, I wanted to provide this overview so people can better understand the work I have been doing on behalf of our territory.
+Much of congressional work happens quietly through meetings, committee work, advocacy with federal agencies, coalition building, and constant follow-up on funding and legislation.
+These accomplishments represent only a portion of that work, but they help illustrate the areas where I have focused my efforts and the kinds of results I have worked to deliver for American Samoa.
+As you review this list, I hope you will look not only at the announcements themselves, but at the broader priorities behind them — securing federal funding, strengthening infrastructure, supporting our military and veterans, protecting fisheries, improving healthcare and public safety, expanding educational opportunities, and ensuring that American Samoa has a strong voice in Washington.
+My goal is to continue building on these efforts and to keep working every day to advance the interests of the people of American Samoa.
+My Priorities and Accomplishments in Congress
+I have focused my work in Congress on securing federal support for American Samoa, strengthening our infrastructure and transportation systems, supporting our military and veterans, protecting Pacific fisheries, advancing education and youth opportunities, and increasing the visibility and influence of American Samoa in Washington.
+Across my work, my primary goal has been to ensure that American Samoa receives strong federal representation and practical results that improve the lives of our people.
+Securing Federal Grants and Funding
+One of my top priorities has been bringing federal resources to American Samoa for infrastructure, healthcare, transportation, environmental improvements, and public services.
+FEMA COVID-19 Reimbursement Funding
+I announced nearly $1.3 million in FEMA support reimbursing the American Samoa Department of Health for pandemic response efforts.
+EPA Infrastructure and Environmental Funding
+I secured and announced a $400,000 EPA grant to replace aging diesel utility trucks for the American Samoa Power Authority.
+This funding improves fuel efficiency, lowers emissions, and strengthens our public utility infrastructure.
+Airport Infrastructure Modernization
+I supported aviation infrastructure improvements through two FAA grants totaling $600,000 for airport modernization projects at Ofu and Fitiuta in Manu’a.
+These projects modernize airport facilities and improve passenger services.
+Domestic Violence Prevention Funding
+I highlighted a $353,303 Department of Justice grant supporting anti-domestic violence and sexual assault programs in American Samoa.
+Through these efforts, I have worked to:
+- Bring federal funding into the territory
+- Improve public infrastructure
+- Support healthcare and social services
+- Strengthen transportation and environmental systems
+Supporting Military Personnel, Veterans, and Pacific Security
+I have consistently supported military readiness, veterans’ benefits, and the strategic importance of the Indo-Pacific region.
+NDAA and Military Pay Raise
+I supported the National Defense Authorization Act (NDAA), including:
+- A 3.8% military pay raise
+- Pacific security initiatives
+- Advocacy for veterans from the Freely Associated States to receive VA healthcare benefits
+I continue to emphasize the importance of the Indo-Pacific region and the critical role American Samoa plays in U.S. national security.
+Homeland Security Funding
+I supported legislation ending the lengthy Department of Homeland Security funding standoff, restoring funding for:
+- FEMA
+- TSA
+- U.S.
+Coast Guard
+- Cybersecurity operations
+These efforts reflect my commitment to:
+- Supporting military personnel and veterans
+- Strengthening Pacific territorial security
+- Ensuring stable federal operations that affect American Samoa and other island territories
+Protecting Fisheries and Maritime Interests
+Because American Samoa’s economy depends heavily on fisheries, I have made fisheries protection and maritime security a major priority.
+Anti-Illegal Fishing Legislation
+I cosponsored the bipartisan FISH Act to combat illegal, unreported, and unregulated fishing.
+The legislation strengthens vessel inspections and enforcement efforts.
+This legislation is important because it helps:
+- Protect Pacific fisheries
+- Prevent unfair foreign competition
+- Support food security and maritime commerce
+- Strengthen maritime sovereignty and regional security
+Strengthening Territorial Representation in Congress
+One of the accomplishments I am especially proud of is helping launch the bipartisan Congressional Territories & Commonwealths Caucus.
+The caucus works to:
+- Improve access to federal programs
+- Coordinate territorial priorities
+- Increase congressional attention to territorial issues
+- Advocate jointly for island jurisdictions
+This effort strengthens American Samoa’s voice in federal policymaking and builds stronger partnerships with Guam, Puerto Rico, CNMI, and the U.S.
+Virgin Islands.
+Education and Community Engagement
+I strongly believe in supporting education, civic engagement, and opportunities for our young people.
+My office has highlighted and supported:
+- Student leadership programs
+- Teacher recognition
+- Civic education initiatives
+- Youth achievement opportunities
+Examples include:
+- Hosting American Samoa Close Up students at the U.S.
+Capitol
+- Recognizing Teacher Appreciation Week
+- Honoring Poetry Out Loud national competitor Johnson Ailima
+These efforts reflect my commitment to:
+- Encouraging future leadership
+- Supporting educational opportunity
+- Promoting civic engagement among Samoan youth
+Human Rights and Religious Freedom Advocacy
+In addition to territorial issues, I have also participated in congressional hearings and discussions concerning:
+- Sudan
+- Crimes against humanity
+- Religious freedom protections worldwide
+This work reflects my commitment to broader humanitarian and foreign affairs issues alongside my advocacy for American Samoa.
+Overall Priorities
+My work in Congress continues to focus on four major priorities:
+| Priority Area | Focus |
+|---|---|
+| Federal Funding | Infrastructure, healthcare, transportation, and public services |
+| Territorial Advocacy | Expanding representation and federal access for U.S. territories |
+| Security & Defense | Military support, veterans issues, Indo-Pacific security, and homeland security funding |
+| Community Development | Education, healthcare, public safety, and cultural recognition |
+Among the accomplishments I am most proud of are:
+- Securing federal grants and funding for American Samoa
+- Supporting military personnel and veterans
+- Advancing fisheries protection legislation
+- Strengthening the institutional voice of U.S. territories in Congress
+Throughout my work, I have remained focused on delivering practical federal support for American Samoa while building bipartisan partnerships that benefit our people and strengthen our future.

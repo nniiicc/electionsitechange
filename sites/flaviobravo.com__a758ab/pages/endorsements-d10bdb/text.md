@@ -1,0 +1,41 @@
+Endorsements
+PROUDLY ENDORSED BY:
+Attorney General Kris Mayes
+Public Safety:
+Arizona Fraternal Order of Police
+Arizona Police Association
+Arizona State Troopers Association
+Business Advocates:
+Arizona Association of REALTORS
+Arizona Chamber of Commerce & Industry
+Arizona Technology Council
+Greater Phoenix Chamber of Commerce
+Home Builders Association of Central Arizona
+Community Advocacy Organizations:
+Equality Arizona
+Keep Arizona Blue Student Coalition
+Living United for Change in Arizona - LUCHA
+Save our Schools Arizona
+Sierra Club - Grand Canyon Chapter
+Health Advocates:
+Arizona Academy of Family Physicians
+Arizona Families for Vaccines
+Arizona Nurses Association
+Planned Parenthood Advocates of Arizona
+Reproductive Freedom for All Arizona
+Labor Organizations:
+AFSCME Arizona
+Arizona Building and Construction Trades
+Arizona Education Association
+Arizona AFL-CIO
+Arizona Pipe Trades 469
+International Union of Painters and Allied Trades – District Council 36
+International Brotherhood of Boilermakers Local 627
+Iron Workers Local 75
+LIUNA Local 1184
+Maricopa Area Labor Federation (MALF)
+Sheet Metal Air, Rail and Transportation (SMART) Workers Local 359
+SEIU
+Teamsters Local 104
+UFCW Local 99
+Western States Regional Council of Carpenters

@@ -1,0 +1,63 @@
+Endorsements
+Local Leaders And Law Enforcement Support Alex Mealer
+Local Leaders
+- Jim McIngvale “Mattress Mack”, Hometown Hero
+- Cleta Mitchell, Founder of the Election Integrity Network
+- Honorable Wayne Smith, Former State Representative
+- Tom Ramsey, Harris County Commissioner, Precinct 3
+- Fred Flickinger, Houston City Council Member, District E
+- Jerry Mouton Jr., Deer Park Mayor
+- Rick Helton, La Porte Mayor
+- John Hebert Jr., Liberty Mayor
+- Andy Conner, Mayor of Dayton
+- Danny Lee, Mayor of Cleveland
+- Stephen DonCarlos, Former Mayor of Baytown
+- Michel Bechtel, Former Mayor of Morgan's Point
+- Johnny Isbell, Former Mayor of Pasadena
+- Barry Beasley, Former Mayor of La Porte
+- Calvin Mundinger, Former Mayor of Baytown
+- Jimmy Burke, Former Mayor of Deer Park
+- Gerald Kolarik, Liberty County Commissioner, Precinct 4
+- Sherry Garrison, Deer Park City Council Member, Position 1
+- TJ Haight, Deer Park City Council Member, Position 2
+- Tommy Ginn, Deer Park City Council Member, Position 3
+- Justin League, Deer Park City Council Member, Position 4
+- Ron Martin, Deer Park City Council Member, Position 5
+- Georgette Ford, Deer Park City Council Member, Position 6
+- Brent McCaulley, La Porte City Council Member, At-Large B
+- Chuck Engelken, La Porte City Council Member, District 2
+- Robert Guerra, La Porte City Council Member, District 4
+- Jay Martin, La Porte City Council Member, District 5
+- Robbie McLarrin, La Porte City Council Member, District 6
+- Kim Harris, Liberty County Treasurer
+- Jennifer Bergman, Liberty County District Attorney
+- Bob Rehak, Publisher of “Reduce Flooding Now!”
+Labor
+- Seafarers international Union
+Law Enforcement
+- National Border Patrol Council
+- Texas Municipal Police Association
+- Texas State Lodge Fraternal Order of Police
+- Pasadena Police Officer's Union
+- Baytown Municipal Police Association
+- Deer Park Police Association
+- La Porte Police Officers' Association
+- Houston Metro Police Union Lodge 98
+- Robert “Bobby” Rader, Liberty County Sheriff
+- Mark Davison, Liberty County Constable, Precinct 3
+- Zack Harkness, Liberty County Constable, Precinct 6
+- Joe Gamaldi, Fraternal Order of Police "FOP" National Vice President
+- Douglas Griffith, Houston Police Officers’ Union “HPOU” President
+- Ray Hunt, Houston Police Officers’ Union “HPOU” Executive Director
+- Vera Bumpers, Former Chief of Police for the Metropolitan Transit Authority of Harris County "METRO"
+- Chad Norvell, Fort Bend County Precinct 1 Constable
+Organizations
+- The Club for Growth
+- Winning for Women
+- With Honor Fund III
+- Houston Region Business Coalition
+- The “C” Club of Houston
+- Maggie’s List
+- SEAL PAC
+- American Chemistry Council
+- Associated Builders and Contractors

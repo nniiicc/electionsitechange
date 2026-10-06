@@ -1,0 +1,1 @@
+Make an impact today When you choose to give, you become part of something bigger—something powerful. $5.00 $10.00 $25.00 $50.00 $100.00 Custom Amount Please enter an amount $ One-Time Donation Weekly Donation Monthly Donation Quarterly Donation Annual Donation Support us by covering the fees we have to pay 3% Cover the Fee Donate Donate

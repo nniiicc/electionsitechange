@@ -1,0 +1,12 @@
+VOz: “Who is N'Kiyla Jasmine Thomas, the socialist nurse who caused an upset in Oklahoma and pledged to remove Trump from office if she reaches the Senate”
+She will now face Republican Kevin Hern, a U.S. representative from Oklahoma's 1st District since 2018 and a candidate endorsed by President Donald Trump, in a race where she starts at a clear disadvantage, as Oklahoma has not elected a Democrat to the Senate since 1990.
+August 25, 2026
+While the Democratic Party continues to be torn between the center and the radical left, there is a new rising political star in the ranks of the Democratic Party: N'Kiyla Jasmine Thomas, a nurse with no prior political experience, won the Democratic Senate runoff in Oklahoma on Tuesday, defeating attorney Jim Priest and securing her spot as the Democratic nominee for November.
+With this victory, which many considered unexpected when the race began, Thomas becomes the first Senate nominee in the state's history to openly identify as a Democratic socialist.
+The victory comes just one week after state legislator Angie Nixon, also a Democratic socialist, won the Democratic nomination for the Florida Senate, and adds to a string of victories by the party's left wing in this primary cycle, where voters have consistently had to choose between moderate figures and new faces moving further to the left.
+For years now, this phenomenon has been fueling an internal debate among very progressive sectors, close to figures such as Senator Bernie Sanders and Congresswoman Alexandria Ocasio-Cortez, as well as the moderate—and, in some cases, conservative—wing of the Democratic Party, which argues that this shift to the left is driving the party away from voters in conservative states.
+Thomas led the initial race in June with 45% of the vote compared to Priest's 24% in a five-candidate primary where no one reached the majority needed to avoid a runoff.
+Thomas ended up winning comfortably in the runoff as well.
+She will now face Hern, a U.S. representative for Oklahoma's 1st District since 2018 and a candidate endorsed by President Donald Trump, in a race where he starts at a clear disadvantage, as this state has not elected a Democrat to the Senate since 1990 and Trump won there by nearly 35 points in 2024.
+The task seems nearly impossible for Thomas, who, nevertheless, has already made a name for herself within the Democratic Party thanks to his strong performance in the primaries.
+Full article here.

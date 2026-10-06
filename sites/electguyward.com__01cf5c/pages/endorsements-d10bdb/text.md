@@ -1,0 +1,26 @@
+Guy has been endorsed by both Business and Labor.
+He is Pro-Life, Pro-Coal, and Pro Second Amendment.
+Following is a list of his endorsements over the years:
+- National Rifle Association
+- West Virginians for Life
+- Home Builders Association of West Virginia
+- West Virginia Civil Defense League
+- West Virginia Farm PAC
+- West Virginia Troopers Association
+- West Virginian Building and Construction Trades
+- International Union of Operating Engineers Local 132
+- West Virginia Business & Industry Council (WVBIC)
+- West Virginia Hospital PAC
+- Gas and Oil Political Action Committee (GOpac)
+- WV Bank PAC
+- WV Appalachian Laborers’ District Council
+- WV Nurses Political Action Committee
+- West Virginia for Manufacturing Jobs PAC
+- Community Bankers PAC
+- West Virginia Home School PAC
+- Arch Coal PAC
+- West Virginia Coal Association
+- West Virginia Oil Marketers and Grocers Association (OMEGA)
+- West Virginia Truckers Association
+- West Virginia Chamber of Commerce
+- Metallurgical Coal Producers Association WV PAC

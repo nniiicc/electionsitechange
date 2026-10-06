@@ -1,0 +1,34 @@
+Proudly Endorsed by Community Leaders
+Community Leaders
+- US Senator Ron Wyden
+- US Senator Jeff Merkley
+- Oregon Senate President Rob Wagner
+- Oregon Speaker Julie Fahey
+- Oregon House Majority Leader Ben Bowman
+- Metro Councilor Christine Lewis
+- West Linn Mayor Rory Bialostosky
+- Tualatin Mayor Frank Bubenik
+- Lake Oswego Mayor Joe Buck
+- Beaverton Mayor Lacey Beaty
+- Councilor Bridget Brooks - Tualatin
+- Councilor Valerie Pratt - Tualatin
+Unions & Organizations
+- Oregon Education Association
+- Stand for Children
+- MotherPAC
+- WINPAC
+- Pro Choice Oregon
+- Planned Parenthood of Oregon
+- Oregon League of Conservation Voters
+- UFCW Local 555
+- Oregon State Firefighters Council
+- Oregon Nurses Association
+- Clackamas County Democrats
+- Oregon Trial Lawyers Association
+- SEIU Oregon
+- NW Carpenters Union
+- Women’s Investment Network PAC
+- Willamette Women Democrats
+- Sierra Club, Oregon Chapter
+- Independent Party of Oregon
+- Working Families Party of Oregon

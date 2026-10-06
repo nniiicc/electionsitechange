@@ -1,0 +1,2 @@
+Rep.
+Mari Leavitt, D-University Place, is privileged to receive five appointments: one appointment is to the Dept. of Children, Youth and Families’ (DCYF) Partnership Council on Juvenile Justice (WA-PCJJ); the second appointment is to DCYF’s Early Learning Advisory Council (ELAC); the third is to the National Conference of State Legislatures’ (NCSL) Education Standing Committee; the fourth is the Council of State Governments’ (CSG) Housing Committee; and the fifth is to the CSG Western Region Executive Committee.

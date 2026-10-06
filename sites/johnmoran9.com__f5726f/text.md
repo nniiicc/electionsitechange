@@ -2,7 +2,7 @@ For You.
 FOR YOU.
 From the South End to Orchard Gardens to Copley Square to the Polish Triangle, John Moran proudly represents all residents of Massachusetts House of Representatives’ 9th Suffolk district on Beacon Hill.
 For John, every constituent is a neighbor and working to help his neighbors and fighting for what’s right is a lifelong calling.
-As a 24-year South End resident with his partner, Michael, and their dog, Edna, decades-long executive leadership experience at three of metro-Boston’s largest companies, and years of affordable housing advocacy with multiple community organizations in the South End and Roxbury, John works tirelessly to lead Suffolk’s 9th District.
+As a 27-year South End resident with his husband, Michael, and their dog, Edna, decades-long executive leadership experience at three of metro-Boston’s largest companies, and years of affordable housing advocacy with multiple community organizations in the South End and Roxbury, John works tirelessly to lead Suffolk’s 9th District.
 John’s story is the story of community.
 He was born into a big Irish family based in Scranton, Pennsylvania, and was raised by his mom and stepfather.
 They instilled in him the importance of giving back to his community.

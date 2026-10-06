@@ -1,0 +1,2 @@
+For over twenty years, Americans for Prosperity Foundation has been educating and training citizens to be advocates for freedom, creating real change at the local, state, and federal levels.
+In communities across the country, Foundation programs share knowledge and tools that encourage participants to apply the principles of a free and open society in their daily lives–knowing this leads to the greatest prosperity and well-being for all.

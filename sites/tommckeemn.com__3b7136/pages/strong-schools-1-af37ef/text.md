@@ -1,0 +1,14 @@
+Signed in as:
+filler@godaddy.com
+Minnesota should expect both strong investment in public education and strong results for students.
+Unfortunately despite increased spending, results have been trending in the wrong direction in Minnesota schools.
+Statewide assessments are only one measure, but they are an important signal that too many students are not yet meeting grade-level expectations in reading and math.
+We need to:
+• Keep reading, writing and math fundamentals at the center of state education policy.
+• Support evidence-based literacy instruction and transparent measures of student progress.
+• Give local districts flexibility to meet student needs instead of layering on unnecessary administrative requirements.
+• Strengthen career and technical education, skilled-trades pathways and partnerships with employers.
+• Support safe learning environments and high expectations for every student.
+• Give districts flexibility - with oversight - on how they spend certain state dollars, instead of tying funding to a list of mandates for every district.
+Prepared and paid for by
+The Tom McKee for House Committee

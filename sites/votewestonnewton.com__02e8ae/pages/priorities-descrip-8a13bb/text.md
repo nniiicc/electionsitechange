@@ -1,0 +1,39 @@
+Safeguarding Our Children from Online Predators
+As Chairman of the House Judiciary Committee, Weston has made protecting children and families a priority.
+He continues working to strengthen protections for children online, hold bad actors accountable, and ensure South Carolina's laws keep pace with rapidly changing technology.
+Weston believes parents should have the tools and protections they need to keep their children safe and will continue advancing commonsense safeguards for South Carolina families.
+As the sponsor of the South Carolina Social Media Regulation Act, Weston has led efforts to strengthen penalties for online exploitation and improve coordination between law enforcement and prosecutors in child protection cases.
+Supporting Law Enforcement & Public Safety
+Weston has consistently worked to support the men and women who keep South Carolina communities safe while strengthening laws that hold dangerous criminals accountable.
+Recent investments include:
+- Pay increases for state law enforcement
+- $24.5 million to expand the Palmetto 800 communications system used by law enforcement, firefighters, and emergency responders across South Carolina
+Additional public safety accomplishments include supporting legislation to improve officer recruitment and retention, strengthen penalties for violent offenders, and enhance tools for local law enforcement agencies.
+As Judiciary Chairman, Weston will continue working with law enforcement, prosecutors, and community leaders to strengthen public safety and ensure South Carolina remains a safe place to live, work, and raise a family.
+Cutting Taxes for Families & Small Businesses
+Weston believes taxpayers—not government—know best how to spend their hard-earned money.
+The 2026–27 budget delivers:
+- $422 million in new tax relief
+- $325 million in income tax relief, reducing South Carolina's top income tax rate from 6% to 5.21%
+- $81 million for the Homestead Exemption, increasing the exemption for eligible seniors from $50,000 to $75,000
+Additional accomplishments include prior tax relief measures that reduced the burden on working families and small businesses across South Carolina.
+Weston will continue working to reduce the tax burden on families and small businesses while keeping South Carolina fiscally responsible and economically competitive.
+Strengthening Education, Workforce Training, & School Safety
+Weston believes strong schools and a skilled workforce are essential to South Carolina's continued success.
+The 2026–27 state budget includes:
+- Raising the minimum starting teacher salary to $50,500
+- Adding $2,000 to the teacher salary schedule
+- New investments in classroom materials, school safety, buses, and school facilities
+Additional accomplishments include prior investments in school security improvements, teacher recruitment incentives, and expanded career and technical education opportunities.
+South Carolina is also continuing to invest in workforce development, including $95 million for SC WINS tuition assistance and $15 million for readySC workforce training, helping South Carolinians gain the skills needed for good-paying jobs.
+Improving Infrastructure - Preserving the Lowcountry’s Natural Resources
+As Beaufort and Jasper counties continue to grow, Weston believes South Carolina must make responsible infrastructure investments while protecting the natural resources and quality of life that make the Lowcountry special.
+The 2026–27 budget invests:
+- $344 million in roads and bridges to improve infrastructure and address congestion
+- $80 million for land conservation
+Additional accomplishments include securing funding for local road improvements, drainage projects, and infrastructure upgrades across Beaufort and Jasper counties.
+Weston will continue working to balance responsible growth with conservation and ensure the Lowcountry receives the infrastructure investments necessary to meet the needs of its residents.
+Preserving Conservative Values
+Weston remains committed to defending the conservative values that have helped make South Carolina a great place to live, work, and raise a family.
+As Chairman of the House Judiciary Committee, he continues working to protect individual liberties, defend families, support law enforcement, strengthen accountability in government, and ensure South Carolina's laws reflect the values of the people they serve.
+His record includes consistent support for pro-family policies, Second Amendment protections, and efforts to limit government overreach.

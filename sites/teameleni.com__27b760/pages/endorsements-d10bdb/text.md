@@ -1,0 +1,23 @@
+Endorsements sought and received, 2020
+Endorsements sought and received, 2018
+View fullsize
+Editorial Letter from Bill Volovski
+View fullsize
+Editorial Letter from Paula Schwartz
+View fullsize
+Editorial Letter from Audrey Rossignal
+View fullsize
+Editorial Letter from Carrie Firestone
+View fullsize
+Editorial Letter from Valerie Gordon
+View fullsize
+Editorial Letter from Gail Deutsch
+View fullsize
+Editorial Letter from Bill Volovski
+View fullsize
+Editorial Letter from Michael Vogel
+View fullsize
+Editorial Letter from Robin Schwartz
+Letters to the Editor
+Download a PDF of the October 2nd issue of the Valley Press, in which some of these appear.
+Download a PDF of the October 16th issue of the Valley Press, in which some of these appear.

@@ -1,0 +1,23 @@
+Your Vote, Your Voice: District 23 Election Guide
+"Democracy is a team sport.
+Make sure your voice is heard in 2026."
+To bring Fairness, Access, and Opportunity to the Utah State Senate, we need every neighbor in District 23 to have a plan to vote.
+Below is everything you need to know for the upcoming election cycle.
+2026 Key Election Dates
+| Event | Date |
+| Party Affiliation Change Deadline | April 1, 2026 |
+| Primary Ballots Mailed | June 2, 2026 |
+| Voter Registration Deadline (Online/Mail) | June 12, 2026 (5:00 PM) |
+| Regular Primary Election Day | Tuesday, June 23, 2026 |
+| General Election Day | Tuesday, November 3, 2026 |
+How to Register & Vote
+- Check Your Status: Visit https://vote.utah.gov/ to verify you are registered at your current District 23 address.
+- Vote by Mail: All active registered voters in Utah County automatically receive a ballot by mail.
+Ensure your mailing address is up to date!
+- Same-Day Registration: If you miss the June 12 deadline, you can still register in person at a vote center on Election Day (June 23) with two forms of valid ID.
+Where to Vote in District 23
+Utah County uses "Vote Centers," meaning you can cast your ballot at any official location in the county.
+Local spots for Orem and Vineyard include:
+- Orem Centerpoint Church: 1550 Sandhill Rd, Orem (Election Day only)
+- Vineyard City Hall: 125 South Main Street, Vineyard (Election Day only)
+- Early Voting: Utah County Elections Office, 100 E Center St, Provo (Starts June 15)

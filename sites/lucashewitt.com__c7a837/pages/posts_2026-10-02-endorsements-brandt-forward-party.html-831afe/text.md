@@ -1,0 +1,30 @@
+Lucas Hewitt Earns Endorsements from Republican Supervisor and Forward Party
+FOR IMMEDIATE RELEASE
+October 2, 2026
+Lucas Hewitt Earns Endorsements from Republican Supervisor and Forward Party
+No party candidate for Iowa House District 61 draws support from different places on the political map
+WATERLOO, Iowa - October 2, 2026 - Lucas Hewitt, the no party candidate for Iowa House District 61, has been endorsed by Black Hawk County Supervisor Justin Brandt, a Republican, and by the Young Forwardists Committee of the Forward Party, a national organization of independent and reform-minded voters.
+The two endorsements come from different places on the political map but both land on the same point: District 61 should be represented by someone who answers to the people who live here, not to party leaders.
+"It's not often we see political candidates bravely run as Independents, but at a time in America when so many of us are fed up with both parties' failure to connect with us, I think it's time we give strong consideration to Lucas Hewitt," said Supervisor Brandt.
+"When I met Lucas, I felt a calming and authentic passion to raise the bar of politics and a desire to bring both sides together.
+He has my full endorsement for Iowa House District 61."
+"By refusing a party label, pledging to weigh every proposal on its merits, and promising transparency with those he serves, Hewitt models the ideals of independent, community-first representation that the Young Forwardists stand for," the Young Forwardists Committee said in its endorsement.
+The committee called Hewitt "a powerful advocate for good government and transparent, independent leadership."
+Hewitt, 35, was born and raised in Waterloo and works as an enterprise application developer.
+He is the son of a retired Waterloo police officer and a retired Iowa Department of Corrections probation officer.
+He is running on three promises: nonpartisan decision-making, weighing every bill on its merits no matter which side it comes from; transparent communication, publishing the reasoning behind every vote; and responsive representation, personally answering every message from a constituent.
+"A Republican county supervisor and a national movement of independents won't agree on everything," Hewitt said.
+"But they can both agree that this district deserves a representative who listens to the people first and foremost, then makes decisions based on the merits.
+That's how I'll do this job and I'm grateful to them for supporting that."
+Hewitt's full endorsements, biography and platform are at www.LucasHewitt.com.
+###
+About the Campaign
+Lucas Hewitt is a no-party petition candidate for Iowa House District 61, which covers portions of Waterloo in Black Hawk County.
+His campaign is funded entirely by individual contributions with no party financial support.
+Learn more at www.LucasHewitt.com.
+Media Contact
+Lucas Hewitt
+319.214.0454
+contact@lucashewitt.com
+www.lucashewitt.com
+In the news: Read the Waterloo-Cedar Falls Courier's story on the endorsements

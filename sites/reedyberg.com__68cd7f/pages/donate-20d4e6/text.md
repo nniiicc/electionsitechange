@@ -1,0 +1,15 @@
+★
+★
+★
+★
+★
+Support the Campaign
+Help Reedy reach voters across Central Washington and win LD-15 Position 2.
+Every dollar goes directly toward reaching our neighbors.
+- $25 Yard signs that put Reedy's name on lawns across LD-15.
+- $100 Mail pieces delivered to undecided voters in Central Washington.
+- $250 Digital ads that reach Yakima Valley families where they already are.
+- $500 A full week of voter outreach — door-knocking, phones, and events.
+Paid for by Reedy Berg for Washington ·
+4001 Summitview Ave Ste 5 Mailbox 207, Yakima WA 98908
+Contributions are not tax deductible. · WA PDC Disclosure

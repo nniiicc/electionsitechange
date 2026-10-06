@@ -1,0 +1,19 @@
+Welcome
+District 24A
+News
+Events
+Issues
+Contact
+Media
+Pictures
+Radio Ads
+Volunteer
+Donate
+Duane Quam for Minnesota House
+News
+Democrats Kill Roads and Bridges
+By
+Duane
+onMay 26, 2016
+in
+legislature

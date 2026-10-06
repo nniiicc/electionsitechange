@@ -1,0 +1,183 @@
+My colleagues and I returned to the Georgia State Capitol on Monday, March 2, for the busiest stretch of the 2026 legislative session so far, leading up to Legislative Day 28, Crossover Day, the key deadline for bills and resolutions to pass out of their originating chamber in order to remain eligible for final passage before we adjourn Sine Die.
+In the days leading up to this important milestone, my colleagues and I worked through two committee workdays and two legislative days, often late into the night.
+During the eighth week of session, members of the House also joined Governor Brian Kemp as he signed the Amended Fiscal Year 2026 budget into law.
+The House had passed 97 bills and resolutions by the end of the week, sending many measures to the Senate for consideration.
+- House Bill 1000 – One-Time Tax Refund:
+- Passed unanimously to return money directly to Georgia taxpayers.
+- Eligible taxpayers who filed income tax returns for both the 2024 and 2025 tax years would receive a refund automatically from the Georgia Department of Revenue after filing their 2025 return.
+- Refund amount would equal the lesser of the taxpayer’s 2024 liability or a set amount:
+- $250 for single filers or married filing separately
+- $375 for heads of household
+- $500 for married couples filing jointly
+- Reflects the state’s strong fiscal position and commitment to returning funds to Georgia families.
+- House Bill 1402 – Vision and Hearing Screenings in Schools:
+- Requires annual vision and hearing screenings for public-school students in pre-K through third grade.
+- Screenings would take place at schools and be administered by trained personnel or qualified partners.
+- The Georgia Department of Public Health would oversee training, protocols and data collection.
+- An annual report comparing screening results with student test scores would be submitted to the General Assembly.
+- Provides one-time grants up to $15,000 per school district (subject to appropriations) to purchase screening equipment.
+- Parents would receive advance notice and could opt their child out; they would also be notified if their child fails a screening or is not reading on grade level.
+- House Bill 1413 – DREAMS Scholarship Program:
+- Creates the Dedicating Resources to Educationally Advance More Students (DREAMS) Scholarship.
+- Administered by the Georgia Student Finance Authority.
+- Provides up to $3,000 per academic year for eligible students with unmet financial need.
+- Available to undergraduates attending institutions in the University System of Georgia or the Technical College System of Georgia.
+- Maximum duration of eight semesters or 12 quarters.
+- Establishes a dedicated endowment funded by grants, gifts and donations.
+- Also creates a medical scholarship program for students who commit to practicing medicine in Georgia for at least four years after residency.
+- House Bill 1187 – Trey’s Law:
+- Prohibits enforcement of nondisclosure agreements that silence survivors of childhood sexual abuse.
+- Voids NDAs that prevent victims from discussing abuse or related facts.
+- Allows settlement amounts and unrelated terms to remain confidential.
+- Inspired by the story of Trey Carlock, whose experience highlighted the harm such agreements can cause to survivors.
+- House Bill 1290 – Protections for Older Adults and Disabled Individuals:
+- Strengthens protections against sexual abuse for vulnerable populations.
+- Updates the definition of sexual abuse to focus on lack of consent rather than proof of coercion.
+- Creates a new category of “dangerous sexual offenses” in Georgia’s sexual offender registry.
+- Adds willful sexual abuse of a disabled adult, older adult or long-term care facility resident to the registry.
+- House Bill 1283 – Family Justice Center Act:
+- Authorizes creation of Family Justice Centers to coordinate services for victims of family violence, sexual assault, child abuse, elder abuse and human trafficking.
+- Centers could be operated by a county or city government, district attorney’s office or nonprofit organization.
+- Governance would include representatives from law enforcement, prosecution, victim services and community partners.
+- Funding grants would be administered by the Georgia Criminal Justice Coordinating Council.
+- Strong confidentiality protections would safeguard victim information.
+- Consolidates services in one location to reduce the burden on victims seeking assistance.
+- House Bill 1230 – Drone Restrictions Over Correctional Facilities:
+- Prohibits operating unmanned aircraft systems over prisons and jails.
+- Makes it illegal to allow such drone operations from one’s property.
+- Classifies drones used in violation of the law as contraband, allowing seizure or destruction by law enforcement.
+- Enables officers to take mitigation measures if unauthorized drones are suspected.
+- Aims to prevent contraband deliveries and improve facility security.
+- House Bill 1138 – Increasing Access to Contraceptives Act:
+- Allows pharmacists to prescribe and dispense certain hormonal contraceptives, including pills and patches.
+- Permits pharmacists to administer injectable contraceptives.
+- Requires pharmacists to complete accredited training before providing these services.
+- Requires insurers, Medicaid and other state programs to cover extended contraceptive supplies.
+- Expands access in areas lacking OB-GYN providers.
+- House Bill 1118 – Maternal Birth Leave Expansion:
+- Provides eligible state employees with 120 hours of paid maternal birth leave within the first three weeks after childbirth.
+- Requires six months of employment and, for hourly workers, at least 700 hours worked in that period.
+- Builds upon previous legislation expanding paid parental leave.
+- Funded through the existing maternal birth leave budget with no additional cost to the state.
+- House Bill 1045 – You Are Not Alone Awareness Act:
+- Requires student ID badges for grades 6–12 to include the message: “9-8-8—You are not alone.”
+- Promotes the 988 crisis hotline for students facing suicidal crisis, emotional distress or substance abuse challenges.
+- Applies to badges issued on or after July 1, 2026, allowing schools to update during normal printing cycles.
+- Standardizes access to crisis resources across school districts.
+- House Bill 1114 – Financial Literacy Education:
+- Requires the Georgia State Board of Education to adopt K–12 financial literacy standards.
+- High school students would complete at least a half-credit financial literacy course beginning in the 2026–2027 school year.
+- Topics include budgeting, banking, credit, investing, financial planning, fraud prevention and gambling risks.
+- Middle school and elementary students would receive age-appropriate financial education.
+- Fully implemented across all grades by the 2027–2028 school year.
+- House Bill 1112 – Cash Rounding for Pennies:
+- Establishes a standardized rounding system for cash transactions to the nearest five cents.
+- Totals ending in 1, 2, 6 or 7 cents round down; totals ending in 3, 4, 8 or 9 cents round up.
+- Does not apply to electronic payments.
+- Customers may still pay the exact amount using pennies.
+- Clarifies that merchants using the rounding system would not violate state or local laws.
+- House Bill 1122 – Peripheral Artery Disease Screenings:
+- Expands insurance coverage for screening of Peripheral Artery Disease for at-risk individuals ages 50–64.
+- Coverage would begin for health plans issued or renewed after January 1, 2027.
+- Allows annual screenings using a simple, noninvasive test measuring blood flow in the ankle.
+- Aims to reduce amputations and improve early detection and treatment.
+- House Resolution 1000 – Timber Tax Constitutional Amendment:
+- Proposes allowing standing timber to be assessed at zero percent ad valorem tax when under a qualifying-use covenant.
+- If the covenant is broken within 10 years after harvest or sale, the tax savings would be recaptured.
+- Requires the state to reimburse counties, municipalities and school districts for lost revenue.
+- If approved by the Senate, the proposal would go to voters in a statewide referendum.
+- House Bill 668 – Service Dog Protections:
+- Strengthens protections for service dogs and their handlers.
+- Creates criminal penalties for harming or interfering with a service dog.
+- Allows restitution for veterinary care, retraining or replacement of injured service dogs.
+- Expands eligibility for service dog assistance to individuals with physical or mental impairments.
+- Establishes penalties for falsely claiming the need for a service dog.
+Additional legislation passed during week 8:
+- House Bill 158 – Creates standardized business registration forms and establishes a statewide business registry database.
+- House Bill 275 – Makes property tax assessment notices clearer and more taxpayer-friendly.
+- House Bill 295 – Allows property owners to seek compensation for losses caused by local government inaction or nuisance conditions.
+- House Bill 334 – Requires annual Medicaid coverage reviews for sickle cell disease treatments.
+- House Bill 376 – Updates and expands tax credits for rehabilitation of certified historic structures.
+- House Bill 382 – Allows certain FDA-approved psychedelic medications and updates pharmacy supervision rules.
+- House Bill 421 – Expands the crime of enticing a child to include traveling across state lines for the offense.
+- House Bill 438 – Lowers the retirement age for Department of Public Safety sworn officers to 55.
+- House Bill 547 – Allows consolidation of conservation use property covenants and recognizes carbon sequestration as a secondary use.
+- House Bill 641 – Requires utilities to adopt policies protecting customers with life-threatening medical conditions from service disconnection.
+- House Bill 664 – Clarifies voting thresholds for homeowners’ association covenant approvals and amendments.
+- House Bill 717 – Establishes regulations for psychedelic-assisted therapy clinics in Georgia.
+- House Bill 874 – Protects taxpayer privacy by prohibiting phone numbers on public property tax documents.
+- House Bill 880 – Expands tax deductions and exemptions to reduce income taxes for Georgia families and retirees.
+- House Bill 892 – Prohibits massage therapy businesses from operating overnight hours.
+- House Bill 947 – Strengthens oversight, eligibility verification and reporting requirements for SNAP benefits.
+- House Bill 951 – Requires insurance coverage for medically necessary orthotic and prosthetic devices.
+- House Bill 961 – Protects patients from surprise billing for emergency ambulance transport.
+- House Bill 962 – Expands tax deductions and increases limits for higher education savings plans.
+- House Bill 963 – Requires certification that campaign contributions are not funded by foreign nationals.
+- House Bill 967 – Creates grants to help law enforcement install bullet-resistant vehicle equipment.
+- House Bill 979 – Establishes procedures for returning federal jurisdiction over certain lands to the state.
+- House Bill 990 – Creates a program to help cover veterinary care for retired law enforcement dogs.
+- House Bill 1076 – Establishes a felony offense for obstructing law enforcement with a motor vehicle.
+- House Bill 1077 – Extends the sales tax exemption for fine arts performances and exhibitions.
+- House Bill 1087 – Waives certain fees for home modifications for disabled veterans.
+- House Bill 1116 – Implements broad property tax reform and creates a new homestead sales tax option.
+- House Bill 1128 – Adds legal guardians to indemnification claim notification requirements for public safety officers.
+- House Bill 1129 – Limits enterprise zone tax benefits and redevelopment financing practices.
+- House Bill 1132 – Provides sales tax exemptions for charities building affordable housing for first-time buyers.
+- House Bill 1133 – Allows solar energy development on closed landfill sites.
+- House Bill 1134 – Updates procedures for vehicle repossession notifications.
+- House Bill 1142 – Creates a public registry for repeat domestic violence offenders.
+- House Bill 1148 – Extends and expands tax credits for conservation land donations.
+- House Bill 1159 – Exempts certain federal farm assistance payments from state income tax.
+- House Bill 1166 – Limits zoning restrictions on very small residential dwellings.
+- House Bill 1178 – Creates a House committee to oversee state budget and fiscal planning.
+- House Bill 1191 – Expands military recognition license plates for additional service medals.
+- House Bill 1192 – Requires expanded health program reporting to legislative committees.
+- House Bill 1195 – Expands veterinary telemedicine and remote triage services.
+- House Bill 1196 – Establishes criminal offenses for trespassing in wild animal enclosures.
+- House Bill 1201 – Requires updated safety standards for smoke detectors.
+- House Bill 1208 – Modernizes court reporting rules to allow approved recording methods beyond stenography.
+- House Bill 1209 – Creates a limited sales tax exemption for certain convention-related development projects.
+- House Bill 1211 – Updates medical guideline references for colorectal cancer screening coverage.
+- House Bill 1220 – Expands eligibility for private school scholarship programs.
+- House Bill 1234 – Allows life insurance benefits to be assigned directly to funeral service providers.
+- House Bill 1238 – Seeks federal approval to reimburse caregivers for certain youth Medicaid services.
+- House Bill 1247 – Prohibits courts from deferring to state agency interpretations of laws.
+- House Bill 1254 – Reorganizes several professional licensing functions under the Secretary of State.
+- House Bill 1261 – Exempts certain electric utility equipment inventory from property taxes.
+- House Bill 1266 – Restricts personal watercraft use in parts of the Ogeechee River.
+- House Bill 1268 – Annual technical update to revise and correct the Official Code of Georgia.
+- House Bill 1272 – Creates a regulatory framework for payment stablecoin issuers in Georgia.
+- House Bill 1275 – Allows certain non-FDA-approved stem cell therapies under ethical guidelines.
+- House Bill 1284 – Allows terminally ill students to receive high school diplomas.
+- House Bill 1285 – Allows counties to collect both enhanced homestead and local option sales taxes.
+- House Bill 1293 – Updates eligibility and funding for the Dual Achievement workforce program.
+- House Bill 1295 – Establishes a multistate licensing compact for physician assistants.
+- House Bill 1296 – Creates a pilot program studying breakthrough mental health treatments for veterans and first responders.
+- House Bill 1302 – Modernizes Georgia’s workforce and education coordination systems.
+- House Bill 1303 – Criminalizes possession of certain drugs in the presence of a young child.
+- House Bill 1310 – Designates cotton as Georgia’s official state fabric.
+- House Bill 1328 – Expands eligibility for military scholarships at the University of North Georgia.
+- House Bill 1345 – Allows the governor to approve workforce training programs tied to federal Pell Grants.
+- House Bill 1365 – Adds an additional superior court judge to the Atlanta Judicial Circuit.
+- House Bill 1368 – Updates governance and employment structure for community service boards.
+- House Bill 1374 – Protects healthcare providers’ choice of payment methods from insurers.
+- House Bill 1379 – Requires public colleges to disclose funding from foreign sources of concern.
+- House Bill 1391 – Creates a special license plate supporting public safety officers.
+- House Bill 1393 – Allows rural hospitals to collaborate on healthcare planning and services.
+- House Bill 1396 – Requires certain homeless service organizations to participate in the statewide data system.
+- House Bill 1408 – Allows veterinarians and technicians to administer rabies vaccinations under local approval.
+- House Bill 1409 – Expands mandated reporters for child abuse and modernizes reporting procedures.
+- House Bill 1415 – Requires inventory and oversight of real property owned by the Stone Mountain Memorial Association.
+- House Bill 1432 – Strengthens legislative oversight of the Georgia Public Defender Council.
+- House Bill 1434 – Requires local governments to regulate development in airport safety zones.
+- House Bill 1465 – Eliminates vehicle registration revalidation decals beginning in 2027.
+- House Bill 1470 – Allows defendants to recover damages from unsuccessful ADA website accessibility lawsuits.
+- House Resolution 1243 – Proposes a constitutional amendment to fund Next Generation 9-1-1 systems.
+- House Resolution 1300 – Annual legislative package dedicating state roadways.
+- House Resolution 1416 – Creates a study committee on the long-term sustainability of family farms.
+We returned to the State Capitol on Monday, March 9, for Legislative Day 29.
+With Crossover Day behind us, the House will begin considering legislation that passed in the Senate while the Senate reviews House measures.
+As the 2026 legislative session continues toward Sine Die on April 2, I encourage you to reach out with any questions or concerns about legislation being considered this year.
+Your input is invaluable, and I welcome the opportunity to connect to discuss the issues that matter most to you and your family.
+You can contact me at my Capitol office by email at dale.washburn@house.ga.gov or by phone at 404-656-0152.
+As always, thank you for the privilege of serving as your state representative.

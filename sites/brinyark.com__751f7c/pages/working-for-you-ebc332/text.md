@@ -1,0 +1,11 @@
+WORKING FOR YOU
+- Sponsored and carried a bill in the House for the Secretary of State to better secure election voter rolls.
+- Sponsored and carried a bill in the House for the Chief Justice of the Supreme Court to allow for more efficient use of judicial funding.
+- Sponsored and carried the Coal Impacted Communities Workforce Development Grant Program bill to direct the Federal coal royalties back to Fayette, Tuscaloosa, Jefferson and Walker Counties.
+- Sponsored and carried a bill for the Alabama Law Enforcement Agency (ALEA) allowing for the creation of additional technology and data exchange funding.
+- Sponsored and carried a bill creating Decentralized Unincorporated Non-profit Associations in Alabama for the first time.
+- Sponsored and carried local bills for Fayette County Sheriff and Revenue Commissioner.
+- Sponsored and carried a constitutional amendment to freeze property taxes for seniors in Fayette County.
+- Co-sponsored and voted to pass numerous bills that have provided for more than $1.5 billion in tax relief for Alabama families through cutting taxes on groceries, retirement income, property tax cap, military tax exemption, adoption tax credit, eliminating the business privilege tax, and many more.
+- Co-sponsored and voted to pass bills enhancing criminal penalties, supporting and promoting law enforcement, protecting children, allowing for school choice, preventing title fraud, promoting workforce development, improving education, advancing Alabama businesses and manufacturing, and much more.
+- Served on the Judiciary Committee and Health Committee, debating, vetting, amending, supplementing, passing, and blocking bills before they get to the House floor.

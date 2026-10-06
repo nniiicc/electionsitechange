@@ -1,0 +1,15 @@
+ABOUT VINCE FONG
+A willingness to listen and the skills to lead have underscored Vince Fong’s lifetime commitment to California.
+“From a young age, Vince knew that he wanted to positively affect the region that he has always called home, and as he attended some of the nation’s most respected universities, he recognized that policy provided him with the opportunity to achieve this goal.”
+Born and raised in Bakersfield, Vince attended public schools, graduated from West High School and went on to earn a bachelor’s degree from UCLA and master’s from Princeton University.
+Vince started his career with Congressman Bill Thomas, Chair of the Ways and Means Committee, working on international trade policy to open u
+For nearly a decade, he has served as the district director to House Majority Leader and Congressman Kevin McCarthy, managing public policy issues for the region, working to create jobs, making common sense reforms, and fighting to improve the quality of life for our neighbors and families.
+Vince has helped to lead the conversation on energy independence in California and worked to develop policies that permit business expansion and enhance job opportunities for local residents.
+He has worked with local small business owners to create a climate for small business growth.
+He helped organize the Valley Fever Symposium, bringing the issue into the national spotlight and convincing leaders in healthcare to conduct research and find solutions to a growing problem.
+Each day, Vince works with local leaders and organizations to put California’s job climate back on track.
+He has seen firsthand the burdens of bureaucracy and red tape.
+His efforts to lower taxes, reduce burdensome regulations and limit government overreach, remind elected leaders that free-markets and competition are the keys to a successful economy and good-paying jobs.
+A dedicated neighbor and committed volunteer, Vince is a former board member for Goodwill Industries of South Central California, former elected member of the Kern County Republican Central Committee and a lifetime member of the NRA.
+He serves on the boards of the Jim Burke Education Foundation and Honor Flight Kern County where he works to send WWII, Korean War and Vietnam Veterans to Washington, DC to see their memorials.
+In 2024, Vince was elected to represent California’s 20th Congressional District, including parts of Kern, Tulare, Kings, and Fresno Counties.

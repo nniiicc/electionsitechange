@@ -1,0 +1,41 @@
+Eli's Record
+In my six years on the Board of Alders and in the eight legislative sessions that I’ve worked in Hartford, I focused on the issues I hear most about—housing affordability and taxes, gun violence and street safety, jobs and education, health care and child care, immigrant rights and climate.
+Here’s some of the work I’m most proud of:
+Celebrating the passage of a law raising housing code fines
+Making Our City and State More Affordable
+- Over the past four years, I built a coalition to write and pass the Downtown for All affordable housing zoning law to allow the construction of more affordable mixed income housing
+- In 2023, I led the effort to pass a new state law (and then supported a city law to match it) that increases fines on landlords for housing code violations from $250 to $2,000
+- Every city budget cycle, I’ve pushed for fiscal responsibility and to lower the mill rate, while maintaining high-quality city services
+- We passed legislation to empower tenant unions
+- At the state capitol, I've fought for a child tax credit with Connecticut Voices for Children and helped the Progressive Caucus advocate for paid leave and a higher minimum wage
+Chairing a Board of Alders Education Committee meeting
+Investing in Great Schools for Our Kids
+- As chair of the Education Committee from 2022-2023, I brought attention to the literacy crisis in our schools and pushed the district to adopt a new research-based reading curriculum
+- We also focused on getting chronically absent kids back in school, helping spur an investment in outreach that brought down absenteeism
+- With the mayor and my colleagues, we invested in a $3 million tutoring program to help students get back on track after the pandemic.
+- I helped bring attention to the need for more post-grad opportunities for our students, the importance of multi-language learning, the challenges facing LGBTQ+ students, teacher staffing and retention, and facilities maintenance issues
+- In 2023, I joined my colleagues to approve a new contract with our city's teachers, giving them a well-deserved and much-needed raise
+Discussing street safety on Chapel St in Dwight
+Improving Neighborhood Safety
+- Earlier this year, I co-wrote a new zoning ordinance and a new licensing ordinance to better regulate smoke shops in our city
+- Over the past several years, I joined my colleagues to invest in more cameras and other public safety infrastructure to prevent violence in our neighborhoods
+- In 2020, we strengthened our city's Civilian Review Board
+- Over the past several years, we created and then invested in Elm City COMPASS to provide mental health and social services through the 911 system
+- In 2021, we created a new Department of Community Resilience and the Office of Violence Prevention, which are helping to address the root causes of violence in our city.
+Eli talking about a $5.3 million grant for road safety and housing
+Critical Investments in Streets and Infrastructure
+- In 2022, I worked with city and state partners on a $5.3 million grant to redesign State Street to create space for new mixed-income housing development
+- I worked with a coalition of city and state leaders to help secure a game-changing $25 million investment to improve our bus system.
+- We also helped secure $4.6 million in funding for infrastructure improvements around the Green.
+Helping sign up volunteers for the Vaccinate Fair Haven effort
+Supporting Our Immigrant Community
+- In 2020, I organized a letter on behalf of 25 members of the Board of Alders to Governor Lamont asking for economic support to our state’s undocumented residents during the pandemic.
+Our advocacy helped win $4.5 million in state funding.
+- In 2021, I worked with community leaders on an effort to knock on every door in Fair Haven to help residents sign up for vaccination appointments
+- As the Trump administration has attacked immigrant communities this year, I joined city leaders to announce a Resource Guide for New Residents.
+- This past year, I helped draft pending Welcoming City legislation for New Haven
+Quality of Life
+- During the pandemic, I worked with Downtown small business owners to close down a lane of College St, so that restaurants could expand outdoor dining.
+- I helped pass a noise ordinance amendment that has cut down on trash haulers who violate city law by waking up residents before 5 am.
+- I helped fix broken sidewalks, install new traffic calming improvements, and address constituent services issues like potholes and tree trimming requests
+Eli organizing a neighborhood cleanup

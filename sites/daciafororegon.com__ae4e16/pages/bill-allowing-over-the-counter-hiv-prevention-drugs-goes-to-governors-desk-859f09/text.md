@@ -1,0 +1,6 @@
+The Oregon House on Monday re-passed House Bill 2958 B, which allows pharmacists to prescribe, dispense, and administer both pre-exposure and post-exposure prophylaxis.
+Known as PrEP and PEP, the two drugs prevent HIV infection…
+Skip to content
+Bill Allowing Over-the-Counter HIV Prevention Drugs Goes to Governor’s Desk
+The Oregon House on Monday re-passed House Bill 2958 B, which allows pharmacists to prescribe, dispense, and administer both pre-exposure and post-exposure prophylaxis.
+Known as PrEP and PEP, the two drugs prevent HIV infection…

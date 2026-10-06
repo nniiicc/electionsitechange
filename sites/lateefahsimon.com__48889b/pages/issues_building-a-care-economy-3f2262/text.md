@@ -1,0 +1,7 @@
+Building a Care Economy
+As a teenage mother and single mother of two, Lateefah understood early on that the care economy is not built to work for poor and working-class families or care for children and babies in marginalized communities.
+Paid family leave, affordable child care, and affordable home health remain out of reach for those who need it most, and families with young children and caretakers with sick relatives are often forced to take on substantial debt to provide the most basic care for their loved ones.
+As Congresswoman, Lateefah will fight for a future with affordable, high-quality child care and pre-K, long-term care, and paid leave while supporting care workers and family caregivers.
+She will work to restore the Child Tax Credit and expand it further to provide up to $6,000 in tax cuts to families with newborn children - a critical relief for young parents who need to buy diapers, clothes, car seats, and more for their children, and an integral investment in our children and families.
+She will build on the historic investments from the American Rescue Plan to strengthen home care systems by raising pay, improving benefits, and expanding opportunities for caregivers who serve more than 7 million Americans with disabilities and seniors in their homes or communities.
+Lateefah understands that care is critical and will work day in and day out to ensure everyone has access to the new care economy.

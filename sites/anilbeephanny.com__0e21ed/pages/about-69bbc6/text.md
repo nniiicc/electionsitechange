@@ -1,0 +1,34 @@
+Anil Beephan Jr. has always believed that public service should be about showing up, listening, and getting results.
+He currently represents New York’s 105th Assembly District, which includes the towns of Amenia, Beekman, Dover, East Fishkill, Fishkill, LaGrange, Pawling, Union Vale, and Wappinger.
+Since taking office in 2023, Anil has worked to be an accessible and responsive representative who puts the needs of Dutchess County residents first.
+Anil’s commitment to service began long before he was elected to office.
+He spent eight years as a volunteer firefighter with the East Fishkill Fire District, an experience that gave him a deep appreciation for the men and women who serve on the front lines of our communities.
+He later worked as an aide to State Senator Sue Serino, helping residents navigate state government and working closely with local officials, businesses, and community organizations.
+That experience gave Anil a firsthand understanding of how government can either help people or make their lives more difficult.
+In 2018, Anil was elected to the East Fishkill Town Board.
+During his five years as a councilman, he focused on transparency, fiscal responsibility, and responsible economic development.
+He helped establish term limits for town elected officials, supported responsible budgets, and worked to make local government more accessible to residents.
+Anil also spent nearly a decade working in the private sector.
+His experience in business, local government, the State Senate, and emergency service has shaped the practical approach he brings to the Assembly.
+As Assemblyman, Anil has focused on passing legislation that makes a real difference for local families.
+He co-authored Melanie’s Law with AM Cunningham, which strengthens protections for victims and families.
+After a tragic situation hit our community involving child safety, he co-authored legislation with Senator Hinchey & AM Barrett requiring background checks for adults working in youth-serving and after-school programs, helping close important gaps in protections for children.
+Anil has passed several local bills benefiting Dutchess County, including legislation expanding access to cellular service, designating the Fishkill Creek as an inland waterway (key for flood mitigation & protections), and measures honoring local veterans, first responders, and community heroes.
+He has also fought to bring more state funding home to the district.
+His office is nearing $1 million in discretionary aid secured for local towns, libraries, and schools.
+Anil believes Dutchess County taxpayers deserve to see more of their money returned to the communities where it can have the greatest impact.
+Making New York more affordable remains one of Anil’s top priorities.
+He has opposed rising utility rates, higher taxes, excessive state spending, and policies that place additional burdens on homeowners, seniors, small businesses, and working families.
+He has also pushed for greater accountability from utility companies and supported efforts to make electric bills easier for residents to understand.
+Protecting the character and quality of life of Dutchess County is another major focus of Anil’s work.
+He has spoken out against irresponsible development that could strain local roads, water systems, energy capacity, and neighborhoods.
+He has been especially active in calling for a responsible data-center moratorium as the only republican co-sponsor on the legislation.
+Anil supports economic growth and good-paying jobs, but he believes development must be responsible and must benefit the communities it impacts.
+Looking ahead, Anil will continue focusing on lowering costs, improving public safety, supporting law enforcement and first responders, investing in roads and infrastructure, protecting seniors and veterans, strengthening small businesses, expanding broadband and cellular access, and securing more funding for local schools, towns, libraries, and emergency services.
+He will also continue making constituent service a central part of his office.
+Whether someone needs help with a state agency, unemployment benefits, utility issues, or another government-related problem, Anil believes residents deserve a representative who is available and willing to help.
+Anil is the first Republican of Indian and Caribbean descent to serve in the New York State Legislature.
+He is also a private pilot and remains active throughout the communities he represents.
+For Anil, public service is personal.
+It means being present, staying accessible, and always working to protect what makes Dutchess County home.
+MAP OF ASSEMBLY DISTRICT 105

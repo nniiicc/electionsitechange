@@ -1,0 +1,26 @@
+Meghann
+My commitment to public service comes from a lifelong belief that when we care for our families, our neighbors, and our communities, we build a stronger Iowa for everyone.
+Meghann Foster
+Meghann Foster is running for the Iowa Senate to represent District 43, serving Coralville, North Liberty, Solon, and West Iowa City.
+She is the former Mayor of Coralville and brings more than eight years of experience in local government, grounded in a lifelong commitment to service, community, and showing up where it matters.
+Meghann’s public service has always been hands-on and people-centered.
+Before holding elected office, she was deeply involved as a community volunteer.
+That commitment extended to leadership roles on nonprofit boards including 4Cs Community Coordinated Child Care, the Coralville Community Food Pantry, and the Domestic Violence Intervention Program—work focused on strengthening families, expanding access to essential services, and ensuring that community voices are heard.
+In local government, Meghann has served Coralville on the Planning and Zoning Commission, as a City Council member, and as Mayor.
+She has also represented the community on numerous regional and statewide boards, helping guide decisions related to housing, transportation, economic development, and quality of life.
+Throughout her years of public service, she has consistently championed affordable housing, access to social services, and thoughtful growth that puts people first.
+Meghann holds a B.A. from the University of Iowa and an M.A. from Washington State University.
+She lives in Coralville with her husband and their five children, an experience that shapes her understanding of the challenges families face and reinforces her belief in service as a responsibility to one another.
+As she runs for the Iowa Senate, Meghann is focused on bringing practical, community-informed leadership to Des Moines and being a strong, steady voice for District 43.
+Meghann’s experience includes:
+- Local Service and Leadership: Coralville’s Planning and Zoning Commission, City Council Member, and Mayor
+- Non-Profit Leadership: Board service including 4C’s Community Childcare, the Coralville Community Food Pantry, and the Domestic Violence Intervention Program
+- Local, Regional, and Statewide Boards: Johnson County Metropolitan Planning Organization, (JCMPO) East Central Iowa Council of Governments (ECICOG) Clear Creek Watershed Coalition, Iowa League of Cities Statewide Mayor’s Association, Johnson County Emergency Management, Better Together 2030, Think Iowa City
+- Long record of volunteerism and community work
+As your State Senator, Meghann will work to:
+- Support local decision-making and home rule
+- Address rising cancer rates
+- Address affordability, including housing, health care, food, and child care costs, and raising the minimum wage
+- Support meaningful water quality initiatives
+- Protect civil rights
+- Protect and support public schools

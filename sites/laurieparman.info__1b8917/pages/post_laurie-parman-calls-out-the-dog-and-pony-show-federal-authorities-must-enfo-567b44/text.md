@@ -1,0 +1,13 @@
+Laurie Parman Calls Out the “Dog and Pony Show” – Federal Authorities Must Enforce the Law
+Laurie Parman Calls Out the 'Dog and Pony Show' – Federal Authorities Must Enforce the Law
+Laurie Parman isn’t afraid to speak the truth.
+As a longtime election judge and Republican candidate for Illinois House District 66, she’s calling out the “dog and pony show” by Democratic officials who are trying to block federal immigration authorities near polling places — all while real concerns about election integrity and non-citizen voting go unaddressed.
+“Federal authorities have a job to do – enforce the laws, keep the streets safe, and protect the citizenry,” Parman declared.
+Only American citizens should decide our elections.
+Read the full story here: Link to the Kane County Reporter article
+It’s time to respect the chain of command, secure our elections, and put Illinois citizens first.
+If you agree that only American citizens should decide our elections, like and share this post on Facebook.
+Learn more and get involved at https://www.laurieparman.com/
+About Laurie Parman
+Laurie Parman is a Sleepy Hollow resident, longtime election judge, and Republican candidate for Illinois House District 66.
+She is committed to election integrity, public safety, and restoring accountability in Springfield.

@@ -1,0 +1,3 @@
+FOR IMMEDIATE RELEASE October 21, 2025 Local Business Owner, Father, and Community Leader Vows to Bring Common-Sense Solutions Back to Carson City Las Vegas, NV – Well-known community leader and business owner Brandon Davis announced his candidacy for Nevada Assembly...
+Brandon Davis Announces Campaign for Nevada State Assembly District 34
+read more

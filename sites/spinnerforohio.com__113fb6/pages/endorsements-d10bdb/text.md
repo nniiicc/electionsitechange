@@ -1,0 +1,39 @@
+Endorsements
+Noah is proud to be endorsed by these amazing state and local leaders:
+- U.S.
+Congresswoman Emilia Sykes
+- Mayor Don Walters, City of Cuyahoga Falls
+- Mayor Shorter Griffin, City of Barberton
+- Fmr.
+Mayor Bill Judge, City of Barberton
+- Mayor Shammas Malik, City of Akron
+- Mayor Therese Dunphy, Village of Silver Lake
+- Sheriff Kandy Fatheree
+- Elliot Kolkovich, Summit County Prosecutor
+- Tavia Galonski, Summit County Clerk of Courts
+- Erin Dickinson, President Summit County Council
+- John Donofrio, Summit County Council At-Large
+- John Schmidt, Summit County Council
+- Brandon Ford, Summit County Council
+- Julie Miller, Barberton City Council At-Large
+- Russ Balthis, President Cuyahoga Falls City Council
+- Mary Nichols-Rhodes, Cuyahoga Falls City Council At-Large
+- Brian Ashton, Cuyahoga Falls City Council At-Large
+- Susan Spinner, Cuyahoga Falls City Council
+- Nikki Cebula, Cuyahoga Falls City Council
+- Joe Siegfirth, Cuyahoga Falls City Council
+- Mike Brillhart, Cuyahoga Falls City Council
+- Gary DeReemer, Cuyahoga Falls City Council
+- Marie Willis-Guarneri, Cuyahoga Falls City Council
+- Frank Stams, Cuyahoga Falls City Council
+- AJ Harris, Cuyahoga Falls Board of Education
+- Ohio Association of Professional Firefighters
+- Buckeye Veterans Coalition
+- Ohio AFL-CIO
+- Ohio Education Association
+- Ohio Federation of Teachers, AFL-CIO
+- Tri County Building and Construction Trades Council
+- AFSCME, Local 11
+- Ohio Civil Service Employees Association, AFSCME
+- Ohio Association of Public School Employees, AFSCME
+- Service Employees International Union

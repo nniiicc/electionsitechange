@@ -1,0 +1,1 @@
+In the News In the News Recent interviews and stories about Melanie Macey News Article July 13, 2026 Detroit Free Press Endorsement – Free Press picks 9 candidates in state House races Read Article News Article March 21, 2024 Oakland County Times – 2026 Candidate Interview: Melanie Macey for State Representative District 6 Read Article

@@ -1,0 +1,15 @@
+- $3 millones para el Puerto marítimo del condado de Miami-Dade para la instalación de energía en tierra: Aumenta la eficiencia y reduce las emisiones de diésel con la energía en tierra.
+- $2,5 millones para la ciudad de Coral Gables para el desarrollo de un centro de movilidad: Apoya un centro céntrico con una estructura de estacionamiento, estaciones de carga de vehículos eléctricos y una parada de tránsito regional.
+Incluye una azotea con áreas ajardinadas y espacios públicos.
+- $3,5 Millones para Vivienda Asequible para Personas Mayores: La inflación ha afectado gravemente a muchos de nuestros mayores, especialmente a aquellos con ingresos fijos.
+Aseguré millones de dólares para viviendas asequibles, garantizando que nuestros mayores tengan hogares seguros y accesibles durante estos tiempos difíciles.
+- $1,75 millones para la ciudad de South Miami para la conversión de fosas sépticas a alcantarillado: Convierte las viviendas de fosas sépticas a alcantarillado para mejorar la calidad del agua.
+- $1,6 millones para la Villa de Pinecrest para el sistema de drenaje pluvial: Se centra en mejoras de infraestructura muy necesarias para reducir las inundaciones y gestionar de manera más eficaz las aguas pluviales.
+- $1 millón para la localidad de Cutler Bay para mejoras en la gestión de aguas pluviales: Financia una nueva estación de bombeo de aguas pluviales e infraestructura para reducir las inundaciones.
+- $1 millón para el condado de Miami-Dade para la infraestructura de aguas pluviales para el control de la contaminación: Mejora la infraestructura de aguas pluviales para mejorar la calidad del agua.
+- $1 millón para la ciudad de Miami para mejoras de infraestructura: Apoya mejoras de drenaje, caminos más amplios y aceras más seguras.
+- $3,75 millones para la ciudad de West Miami para reemplazo del sistema de agua potable: Reemplaza el sistema de agua obsoleto para mejorar la confiabilidad y reducir las fugas.
+- $1,6 millones para el proyecto de bomba de agua de West Grove Biscayne Bay: Apoya la conversión de fosas sépticas a alcantarillas para proteger las aguas subterráneas y la bahía de Biscayne.
+- $4,4 millones para la localidad de Cutler Bay para el proyecto de mejora de Marlin Road: Mejora Marlin Road con cruces peatonales de alta visibilidad, refugio para peatones, aceras, carriles para bicicletas e iluminación para reducir la congestión y mejorar la seguridad.
+- $4 millones para la ciudad de Miami para el proyecto de mitigación de inundaciones en el vecindario de 8th Street: Financia la mitigación de inundaciones en Little Havana con malecones híbridos, costas vivas, jardines de lluvia, calles azules y bioswales para abordar las inundaciones durante las mareas altas y las lluvias intensas.
+- $4 millones para la ciudad de Miami para el proyecto de mitigación de inundaciones en el parque José Martí: Apoya la mitigación de inundaciones en el parque José Martí con mejoras de infraestructura, un nuevo paseo junto al río, renovaciones de edificios y la adición de una cubierta de árboles nativos.

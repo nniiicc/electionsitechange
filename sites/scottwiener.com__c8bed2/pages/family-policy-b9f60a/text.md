@@ -1,0 +1,7 @@
+< RETURN TO ISSUES PAGE
+ISSUES
+FAMILY POLICY
+ENSURING EVERY FAMILY CAN THRIVE
+In Congress, Scott will work to:
+Scott’s Legislative Track Record
+RETURN TO ISSUES PAGE

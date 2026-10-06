@@ -1,0 +1,14 @@
+Pahrump, NV – The Nye County Law Enforcement Association has endorsed 4th-generation Nevadan, rancher, and businessman Cody K Whipple for Congress in Nevada’s 4th Congressional District, citing his commitment to public safety, support for law enforcement, and understanding of the challenges facing Nevada communities.
+This endorsement represents another significant show of support from Nevada’s law enforcement community for Whipple, whose Nevada First campaign has emphasized protecting communities, supporting first responders, and ensuring Nevadans have a strong voice in Washington.
+“We also appreciate your stated commitment to strengthening public safety, supporting law enforcement, protecting rural communities, and ensuring first responders have the resources necessary to perform their duties,” said John Tolle, President of the Nye County Law Enforcement Association.
+“These are not abstract issues to our members.
+Our members serve communities spread across one of the largest counties in the United States.”
+Tolle continued, “We understand that decisions made in Washington can have a significant impact on local law enforcement, whether through federal funding, public-safety programs, communications infrastructure, recruitment and retention, or policies affecting Nevada’s rural communities and public lands.
+We believe Nevada’s 4th Congressional District needs a representative who understands those communities and is willing to listen to the law enforcement professionals serving them.”
+Whipple thanked the association and its members for their support and emphasized the importance of standing with the men and women who protect Nevada communities every day.
+“I’m honored to have the endorsement of the Nye County Law Enforcement Association and, more importantly, grateful for the men and women who put themselves in harm’s way to protect our communities,” said Cody K Whipple.
+“Our law enforcement officers and first responders deserve a representative in Washington who will listen to them, stand up for them, and make sure they have the resources they need to do their jobs.
+“I strongly reject the dangerous, radical agenda championed by groups like the Democratic Socialists of America to defund our police.
+Stripping resources from the brave men and women who keep our communities safe isn’t just reckless, it destabilizes our economy, weakens public safety, and leaves our officers without the critical support they deserve.
+I will always advocate for our law enforcement, holding criminals accountable, and ensuring our communities remain safe and protected.”
+Cody K Whipple’s campaign continues to gain momentum as Nevadans unite around his vision of safer streets, stronger families, and representation that puts the people of Nevada first.

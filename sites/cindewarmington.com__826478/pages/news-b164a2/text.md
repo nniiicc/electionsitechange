@@ -1,0 +1,275 @@
+PRESS RELEASE
+With Cloud of Corruption over Court, Warmington Demands Justices Step Aside Pending Investigation
+MANCHESTER, NH — Today, Cinde Warmington, Democratic nominee for Governor of New Hampshire, called on State Supreme Court Justices Melissa B.
+Countway, Patrick E.
+Donovan and Bryan K.
+Gould to immediately step aside from the court to allow investigation into their complicity in conduct that forced the resignation of Justice Gordon MacDonald and has left a cloud of corruption over the state’s highest court, made worse by Kelly Ayotte’s inaction.
+PRESS RELEASE
+ICYMI: Former U.S.
+Attorney General Eric Holder Endorses Cinde Warmington for Governor
+MANCHESTER, NH — In Case You Missed It, WMUR reported that former U.S.
+Attorney General Eric Holder and Chairman of the National Democratic Redistricting Committee (NDRC) endorsed Cinde Warmington for Governor.
+Holder, who served as the nation's top law-enforcement officer, is backing Warmington as part of the National Democratic Redistricting Committee’s Democracy Defenders program.
+PRESS RELEASE
+NEW: Five Weeks Out: Cinde Warmington’s Path to Victory
+After months of Kelly Ayotte spending more than $2 million on attack ads, Ayotte has failed to pull away and is facing a four-point race with just five weeks to go.
+Meanwhile, Cinde Warmington has cut the deficit by more than half since UNH previously polled in August.
+PRESS RELEASE
+UNH Poll Shows Cinde Warmington “Statistically Tied” With Kelly Ayotte
+MANCHESTER, NH — Today, after a new UNH poll showed that Democratic nominee for governor Cinde Warmington is within four points of defeating Kelly Ayotte — “statistically tied,” according to UNH — Communications Director Jon Levin released the following statement.
+PRESS RELEASE
+ICYMI: Annie Kuster: Warmington is the Change We Need
+MANCHESTER, NH — In Case You Missed It, former Congresswoman Annie Kuster wrote an op-ed for the Union Leader highlighting Democratic nominee for Governor Cinde Warmington’s commitment to making New Hampshire more affordable for working families.
+PRESS RELEASE
+New Hampshire Carpenters Endorse Cinde Warmington for Governor
+MANCHESTER, NH — Today, Carpenters Local 349 and Interior Systems Local 352 endorsed Democratic nominee Cinde Warmington for governor.
+Local 349 & 352 members include over 2,200 carpenters, pile drivers, millwrights, and floorcoverers across New Hampshire.
+PRESS RELEASE
+NEW: Cinde Warmington Campaign Launches Cost of Kelly Microsite Highlighting Ayotte’s Failed Record
+MANCHESTER, NH — Today, the Cinde Warmington campaign is launching a new microsite highlighting the true cost of Costly Kelly’s failed agenda.
+While Ayotte attempts to spin her failing record, the truth is simple: life has gotten more expensive under Kelly Ayotte.
+PRESS RELEASE
+ICYMI: Cinde Warmington Visits C&J Bus Lines Terminal on "Cut the Costs" Tour
+PORTSMOUTH, NH — In Case You Missed It, SeacoastOnline covered Democratic nominee for governor Cinde Warmington’s latest stop on her "Cut the Costs" tour at the C&J Bus Lines terminal in Portsmouth.
+Cinde spoke with Jim Jalbert, owner and president of C&J Bus Lines, about the impact of Donald Trump’s reckless tariffs, Kelly Ayotte’s veto of the Ten-Year Transportation Plan, and rising diesel prices.
+PRESS RELEASE
+ROUNDUP: Cinde Warmington Calls for Delay in Naming MacDonald Replacement, Public Hearings
+MANCHESTER, NH — Following Gordon MacDonald’s resignation from the New Hampshire Supreme Court, Democratic nominee for governor Cinde Warmington called for a delay in naming his replacement until after the November election and for public hearings into the conduct of the justices involved in the personnel matter underlying the resignation.
+PRESS RELEASE
+In Wake of MacDonald Resignation, Warmington Calls for Public Hearings on Supreme Court
+MANCHESTER, NH — Following a press conference yesterday in which Democratic nominee for governor Cinde Warmington called for a delay in naming Gordon MacDonald’s replacement until after the November election, Warmington is now calling for public hearings of the New Hampshire Supreme Court justices who participated in the handling of the personnel matter underlying MacDonald’s resignation.
+PRESS RELEASE
+ICYMI: Cinde Warmington Joins WMUR’s "Conversation with The Candidate"
+MANCHESTER, NH — In Case You Missed It, Democratic nominee for governor Cinde Warmington joined WMUR for the station’s "Conversation with the Candidate" series.
+This marks Cinde’s second televised town hall, following her participation in the New England College town hall series.
+PRESS RELEASE
+Billboard Truck Puts Costly Kelly’s Data Center Record on Display
+MANCHESTER, NH — In Case You Missed It, the Cinde Warmington campaign deployed a digital billboard truck across Concord and Manchester — including a stop outside the New Hampshire Republican Party’s breakfast — to highlight how Kelly Ayotte has rolled out the red carpet for data centers to expand across New Hampshire.
+PRESS RELEASE
+ICYMI: On The Takeout, Cinde Warmington Blasts Ayotte’s Failure to Stand up For Granite Staters
+MANCHESTER, NH — In Case You Missed It, Democratic nominee for governor Cinde Warmington joined The Takeout with Major Garrett on CBS, where she blasted Kelly Ayotte’s failure to stand up for Granite Staters.
+Ayotte has refused to challenge Donald Trump's reckless tariffs, which are driving up costs for working families and driving out Canadian tourists.
+PRESS RELEASE
+Statement on Cinde Warmington Becoming the Democratic Gubernatorial Nominee
+MANCHESTER, NH — Today, Campaign Manager Andrea Cervone released the following statement after Cinde Warmington officially became the Democratic nominee for Governor of New Hampshire.
+PRESS RELEASE
+ICYMI: Cinde Warmington Discusses Housing Crisis, Impact of Private Equity
+HOPKINTON, NH — In Case You Missed It, Democratic candidate for governor Cinde Warmington joined a roundtable discussion about the impact of out-of-state and private equity investors purchasing manufactured housing communities.
+The discussion centered around Meadows of Hopkinton — a manufactured housing community — that was sold to Sado Capital and whose residents have since seen their monthly rent increase exponentially.
+PRESS RELEASE
+Planned Parenthood NH Action Fund PAC Endorses Cinde Warmington for Governor
+CONCORD, NH — Today, Planned Parenthood NH Action Fund PAC endorsed Cinde Warmington for governor.
+PRESS RELEASE
+ICYMI: Cinde Warmington Campaigns In Meredith on 'Cut The Costs' Tour
+MANCHESTER, NH — In Case You Missed It, the Laconia Daily Sun highlighted the first stop of Democratic candidate for governor Cinde Warmington’s statewide “Cut the Costs” tour.
+PRESS RELEASE
+With Potential Data Center In Bow, Cinde Warmington Reiterates Calls for a Data Center Moratorium
+MANCHESTER, NH — With Bow now confirmed as the site for a potential data center, Democratic candidate for governor Cinde Warmington is reiterating her call for a statewide data center moratorium and community protections.
+PRESS RELEASE
+New Hampshire AFL-CIO Endorses Cinde Warmington for Governor
+MANCHESTER, NH — Ahead of Labor Day, the New Hampshire AFL-CIO endorsed Cinde Warmington for governor, highlighting Cinde’s longstanding support for organized labor and working families.
+The New Hampshire AFL-CIO represents over 35,000 workers across New Hampshire and is the state’s largest labor federation.
+PRESS RELEASE
+National Women’s Political Caucus Endorses Cinde Warmington for Governor
+MANCHESTER, NH — Today, the National Women’s Political Caucus (NWPC) — a grassroots organization dedicated to identifying, recruiting, training and supporting women candidates for elected and appointed office — endorsed Cinde Warmington for governor.
+PRESS RELEASE
+Cinde Warmington Announces "Cut the Costs" Tour
+MANCHESTER, NH — Today, Democratic candidate for governor Cinde Warmington announced her statewide "Cut the Costs" Tour, a series of stops where she'll sit down directly with Granite Staters to hear what's actually squeezing their budgets — from property taxes to housing to groceries — and lay out her vision for a more affordable New Hampshire.
+PRESS RELEASE
+Cinde Warmington Statement on Kelly Ayotte’s Data Center Pivot
+MANCHESTER, NH — Today, Democratic candidate for governor Cinde Warmington released the following statement following a report that Kelly Ayotte supports a data center moratorium.
+PRESS RELEASE
+Cinde Warmington Statement on Ten-Year Transportation Plan
+MANCHESTER, NH — Today, Democratic candidate for governor Cinde Warmington released the following statement on the Legislature’s vote to override Kelly Ayotte’s reckless veto of the Ten-Year Transportation Plan.
+PRESS RELEASE
+WMUR: Democratic Gubernatorial Candidate Cinde Warmington Calls for Suspension of State Gas Tax
+MANCHESTER, NH — In Case You Missed It, Democratic candidate for governor Cinde Warmington spoke with WMUR about her call for a temporary suspension of the state gas tax to provide immediate relief to Granite Staters at the pump.
+PRESS RELEASE
+“What Planet” Warmington Launches First TV Ad Highlighting Ayotte’s Failed Record As Governor
+MANCHESTER, NH — Today, Cinde Warmington’s campaign for governor launched its first TV ad, taking aim at Kelly Ayotte’s failed record as governor and her latest attempt to deceive Granite Staters facing skyrocketing costs for everything from housing and health care to electric rates.
+The ad, titled “What Planet,” begins airing today on WMUR.
+PRESS RELEASE
+Iron Workers Local 7 Endorses Cinde Warmington For Governor
+Today, Iron Workers Local 7 endorsed Cinde Warmington for Governor.
+Local 7, representing more than 3,600 ironworkers across New Hampshire, Maine, Vermont, and Massachusetts, highlighted Cinde’s commitment to fighting for working families.
+PRESS RELEASE
+Cinde Warmington Challenges Kelly Ayotte to Six General Election Debates
+MANCHESTER, NH — Today, Democratic candidate for governor Cinde Warmington challenged Kelly Ayotte to participate in six general election debates.
+PRESS RELEASE
+NEW: Cinde Warmington Announces Support For Temporary Gas Tax Suspension
+In Case You Missed It, Democratic candidate for governor Cinde Warmington visited Bohanan Farm in Contoocook, where she announced her support for temporarily suspending the state gas tax to deliver immediate relief to working families and small businesses being squeezed by rising gas prices.
+PRESS RELEASE
+Rights and Democracy NH Endorses Cinde Warmington for Governor
+Today, Rights and Democracy NH endorsed Cinde Warmington for governor, highlighting Cinde’s commitment to expanding access to affordable housing and health care, and standing up for New Hampshire families.
+PRESS RELEASE
+Warmington Campaign Unveils New Data Center Billboard
+Today, the Cinde Warmington for Governor campaign unveiled a new billboard in Manchester that highlights how Kelly Ayotte has rolled out the red carpet for data centers and her repeated failure to call for a data center moratorium.
+in the news
+WMUR: Warmington Says New Tariffs Against Canada Amount to Sales Tax
+MANCHESTER, NH — In Case You Missed It, Cinde Warmington spoke with WMUR about how Donald Trump’s tariffs are hurting working Granite Staters and highlighted her opposition to the latest round of 50% tariffs imposed by Donald Trump on Canada.
+PRESS RELEASE
+AFT-NH Endorses Cinde Warmington for Governor
+MANCHESTER, NH — Today, the American Federation of Teachers-New Hampshire (AFT-NH) endorsed Cinde Warmington for governor, highlighting Cinde’s longstanding support for public education.
+AFT-NH represents over 3,500 workers across the Granite State, including teachers, nurses and public health professionals, paraprofessionals, and public employees.
+PRESS RELEASE
+Cinde Warmington Statement on DNC Decision
+Today, Democratic candidate for governor Cinde Warmington released the following statement on the DNC Rules and Bylaws Committee’s decision to change the 2028 Democratic Presidential Primary calendar.
+in the news
+ICYMI: Warmington Campaign Highlights Ayotte’s Vulnerabilities, Path to Take Back Corner Office
+MANCHESTER, NH — In Case You Missed It, the National Journal highlighted a new memo from the Cinde Warmington campaign showing how Kelly Ayotte’s record-low approval ratings, coupled with a challenging political environment for Republicans and growing grassroots momentum for Democrats, provide a clear pathway for Cinde to take back the corner office.
+PRESS RELEASE
+Warmington Blasts New Trump Tariffs, Highlights Kelly Ayotte’s Failure to Fight Back
+MANCHESTER, NH — Following Donald Trump’s new 50% tariffs on Canadian goods, Democratic candidate for governor Cinde Warmington released the following statement.
+PRESS RELEASE
+ROUNDUP: Cinde Warmington Visits Rochester Child Care Center, Highlights Solutions to Make Child Care More Affordable and Accessible
+MANCHESTER, NH — In Case You Missed It, the New Hampshire Bulletin and the Union Leader highlighted Democratic candidate for governor Cinde Warmington’s recent visit to the Rochester Child Care Center.
+in the news
+Union Leader: Donna Soucy: “2026 is Year Democrats Can Take Back the Governor’s Office”
+MANCHESTER, NH — In Case You Missed It, a new Union Leader column from former State Senate President Donna Soucy highlights the latest UNH polling showing Cinde Warmington now within five points of defeating Kelly Ayotte — “narrowing the gap three points” — and New Hampshire Democrats’ opportunity this year to take back the governor’s office.
+PRESS RELEASE
+ROUNDUP: New UNH Poll Shows Cinde Warmington Within Five Points of Defeating Kelly Ayotte
+MANCHESTER, NH — In Case You Missed It, new UNH polling highlights a tightening race for governor of New Hampshire with Cinde Warmington an even stronger challenger now within five points of defeating Kelly Ayotte — the least popular first-term New Hampshire governor in more than 30 years.
+NEWS ARTICLE
+Kelly Ayotte’s lead over Warmington shrinks to 5 points as her numbers slide
+Granite Post - New Hampshire’s race for governor has tightened heading into the summer, with Republican Gov.
+Kelly Ayotte’s lead over presumptive Democratic nominee Cinde Warmington shrinking to 5 points in the latest University of New Hampshire Granite State Poll.
+PRESS RELEASE
+Cinde Warmington Statement on New Sununu Center Developments
+MANCHESTER, NH — Following the latest reports of abuse at the Sununu Youth Services Center under Kelly Ayotte and the completion of the Attorney General's investigation into the initial reports of abuse, Democratic candidate for governor Cinde Warmington released the following statement.
+in the news
+ICYMI: Union Leader Highlights Cinde Warmington’s Opposition to Ayotte’s New Medicaid Premiums
+MANCHESTER, NH — In Case You Missed It, the Union Leader highlighted Democratic candidate for governor Cinde Warmington’s opposition to Kelly Ayotte’s new Medicaid premiums that will force Granite Staters to pay up to $270 a month to keep their health coverage.
+PRESS RELEASE
+Cinde Warmington Statement on the One-Year Anniversary of the Big Ugly Bill
+MANCHESTER, NH — Ahead of the one-year anniversary of Donald Trump’s disastrous Big Ugly Bill, Democratic candidate for governor Cinde Warmington released the following statement.
+IN THE NEWS
+ICYMI: 314 Action Fund Endorses Cinde Warmington for Governor
+MANCHESTER, NH — In Case You Missed It, The Granite Post recently reported that 314 Action Fund — the only national organization working to recruit, train and elect Democratic scientists across all levels of government — endorsed Cinde Warmington for New Hampshire governor.
+PRESS RELEASE
+Cinde Warmington Blasts Kelly Ayotte’s Higher Medicaid Premiums
+MANCHESTER, NH — As Kelly Ayotte’s new Medicaid premiums officially take effect, Democratic candidate for governor Cinde Warmington released the following statement.
+PRESS RELEASE
+NEW POLL: Cinde Warmington Closes in on Ayotte
+MANCHESTER, NH — A new UNH poll shows a tightening race for governor of New Hampshire with Cinde Warmington an even stronger challenger now within five points of defeating Kelly Ayotte — the least popular first-term New Hampshire governor in more than 30 years.
+In the news
+Cinde Warmington Statement on Dobbs Anniversary
+MANCHESTER, NH — On the fourth anniversary of the Dobbs v.
+Jackson decision, Democratic candidate for governor Cinde Warmington released the following statement:
+In the news
+ICYMI: Concord Monitor Spotlights Cinde Warmington's Commitment to Stand Up to Trump
+CONCORD, NH — In Case You Missed It, new reporting from the Concord Monitor highlights a clear contrast in this year’s gubernatorial race.
+article
+Warmington: New Hampshire Can’t Wait on Data Center Action
+In May, hundreds of Nottingham residents packed a Planning Board meeting to fight a proposed 40-acre data center a developer wanted to build in their community.
+article
+Ayotte criticizes Massachusetts but gets big campaign donations from there
+The Keene Sentinel - Unlike Ayotte, most of Warmington’s contributions have come from individuals as opposed to businesses and organizations.
+article
+Cinde Warmington: I’m fighting for a more affordable New Hampshire
+The Union Leader - Granite Staters crowded town halls and school gymnasiums this week to take part in one of the most basic forms of democracy: town meeting day.
+It’s a tried-and-true civic tradition where communities come together to determine their priorities and how to allocate scarce resources.
+In the news
+ICYMI: In Valley News, Rep.
+Laurel Stavis Highlights Warmington’s Calls for a Data Center Moratorium
+MANCHESTER, NH — In Case You Missed It, Representative Laurel Stavis wrote an op-ed for the Valley News highlighting Democratic candidate for governor Cinde Warmington’s calls for a pause on data center development and Kelly Ayotte’s continued failure to protect Granite Staters from this looming threat.
+In the news
+First on WMUR: Warmington campaign announces fundraising numbers
+MANCHESTER, N.H. —In her bid to unseat incumbent Gov.
+Kelly Ayotte, Democrat Cinde Warmington is announcing her fundraising haul for the state-mandated reporting period that ends this week.
+PRESS RELEASE
+In Less Than Four Months, Warmington Raises Over $600k with Strong Grassroots Granite State Support
+PRESS RELEASE
+Cinde Warmington Officially Becomes Democratic Candidate for Governor
+MANCHESTER, NH — Less than a day after officially becoming the Democratic candidate for governor following the close of New Hampshire's candidate filing period, Cinde Warmington opened her campaign headquarters in Manchester over the weekend, joined by supporters ready to help deliver a better, more affordable future for Granite Staters.
+aRTICLE
+Column: Republicans roll out red carpet for data centers in NH
+Valley News - It was impossible to miss the public outcry over a proposed data center in Nottingham, New Hampshire a few weeks ago.
+Thousands of local residents and concerned citizens from around the state descended on the town’s Planning Board to register their outrage.
+With the support of Democratic gubernatorial candidate Cinde Warmington, who has called for a moratorium on data center development, the Planning Board balked and the developer went away — for now.
+KEY ENDORSEMENTS
+Tom Sherman Endorses Cinde Warmington for Governor
+CONCORD, NH — Today, former State Senator and Representative Tom Sherman endorsed Cinde Warmington for Governor.
+IN THE NEWS
+ICYMI: Cinde Warmington Highlights Focus on Tackling New Hampshire’s Housing Crisis
+CONCORD, NH — In Case You Missed It, Democratic candidate for governor Cinde Warmington recently joined New Hampshire Today, where she highlighted her focus on addressing New Hampshire’s housing crisis and skyrocketing property tax rates.
+PRESS RELEASE
+Statement on Kelly Ayotte’s Stale, Pathetic First Ad of the Cycle
+CONCORD, NH — In response to Kelly Ayotte’s first television ad of the cycle, Communications Director Jon Levin released the following statement.
+PRESS RELEASE
+ICYMI: Cinde Warmington Officially Files to Run for Governor
+CONCORD, NH — In Case You Missed It, Cinde Warmington officially filed at the Secretary of State’s office a declaration of her candidacy for Governor of New Hampshire, surrounded by supporters and family.
+PRESS RELEASE
+Warmington for Governor Response to Kelly Ayotte Filing for Governor
+CONCORD, NH — In response to Kelly Ayotte officially filing to run for reelection, Campaign Manager Andrea Cervone released the following statement.
+PRESS RELEASE
+As Cinde Warmington Demands a Statewide Data Center Moratorium, Ayotte Falls Short on Protections
+CONCORD, NH — Democratic candidate for governor Cinde Warmington is demanding a temporary statewide data center moratorium until robust guardrails are put in place to protect Granite Staters.
+OP-ed
+In Op-ed, Warmington Blasts Ayotte’s Cuts, Outlines Solutions to Stop Abuse at Sununu Center
+MANCHESTER, NH — In Case You Missed It, Cinde Warmington shared in a new Union Leader op-ed how Kelly Ayotte’s reckless cuts to the Office of the Child Advocate (OCA) weakened oversight and prolonged abuse at the Sununu Youth Services Center.
+PRESS RELEASE
+ICYMI: NH Bulletin Highlights Cinde Warmington’s Visit to Mascoma Community Health Center
+CANAAN, NH — In Case You Missed It, the New Hampshire Bulletin highlighted Democratic candidate for governor Cinde Warmington’s recent visit to the Mascoma Community Health Center in Canaan.
+ARTICLE
+Kentucky governor visits NH to back local Democrats
+WMUR - State Democrats are pushing to reclaim seats in the New Hampshire House and hold onto their congressional delegation.
+To help their cause in the midterms, they've recruited a national party leader.
+Kentucky Gov.
+Andy Beshear made a stop in New Hampshire Saturday as the keynote speaker at this year's New Hampshire Democratic Party convention.
+events
+At Grassroots Fundraiser with DGA Chair Andy Beshear and NHDP Convention, Warmington Offers Leadership For a Better, More Affordable New Hampshire
+PORTSMOUTH, NH – Today, Cinde Warmington, Democratic candidate for governor, described how her leadership as governor will build a better, more affordable New Hampshire, speaking in Portsmouth at a grassroots fundraiser and campaign office opening with Kentucky Governor Andy Beshear and later in the day at the New Hampshire Democratic Party Convention.
+KEY ENDORSEMENTS
+New Hampshire Congressional Delegation Endorses Warmington For Governor
+CONCORD, NH – Today, Cinde Warmington received key endorsements for Governor of New Hampshire from U.S.
+Senators Jeanne Shaheen and Maggie Hassan and U.S.
+Representatives Chris Pappas and Maggie Goodlander.
+IN THE NEWS
+On New Hampshire Today, Cinde Warmington Blasts Kelly Ayotte’s Child Advocate Cuts, Rising Property
+CONCORD, NH — In Case You Missed It, Democratic gubernatorial candidate Cinde Warmington recently spoke with Chris Ryan on New Hampshire Today about the latest reports of abuse at the Sununu Youth Services Center.
+in the news
+ICYMI: NBC10 Boston Analyst Scott Spradling Highlights Kelly Ayotte’s Mounting Vulnerability
+CONCORD, NH — In Case You Missed It, NBC10 Boston Political Analyst Scott Spradling highlighted Kelly Ayotte’s mounting vulnerability and pointed to recent polling showing Cinde as a formidable candidate well-positioned to defeat Ayotte this fall.
+article
+Cinde Warmington centers affordability in bid for N.H. governor
+As part of The Dartmouth’s coverage of the upcoming 2026 midterm and gubernatorial elections, the paper is publishing an interview series, “A Sit-Down with The Dartmouth,” featuring in-depth conversations with candidates for statewide and New Hampshire district offices.
+key endorsements
+Teamsters Local 633 Endorses Cinde Warmington for Governor
+MANCHESTER, NH — Today, Teamsters Local 633 endorsed Cinde Warmington for Governor.
+Local 633, representing more than 4,700 members working in New Hampshire, highlighted Cinde’s record fighting for New Hampshire’s working families.
+In the news
+ROUNDUP: Warmington Ties Abuse at the Sununu Center to Ayotte’s Cuts to Independent Watchdog
+CONCORD, NH — This week, Cinde Warmington, Democratic candidate for Governor, shined a light on Kelly Ayotte’s cuts to the Office of the Child Advocate (OCA), which have led to ongoing abuse of children at the Sununu Youth Services Center.
+PRESS RELEASE
+Cinde Warmington: Ayotte’s Cuts Continue Abuse of Children at Sununu Youth Services Center
+CONCORD, NH — Today, Cinde Warmington, Democratic candidate for Governor, citing new reports of children abused at the Sununu Youth Services Center, slammed Kelly Ayotte for budget cuts that have allowed the abuse to continue.
+PRESS RELEASE
+On Tax Day, Cinde Warmington Calls Out Kelly Ayotte for Driving Up Property Taxes
+CONCORD, NH — This Tax Day, Cinde Warmington is calling out Kelly Ayotte for driving up Granite Staters’ property taxes, and reaffirming her commitment to veto any income or sales tax.
+key endorsements
+American Postal Workers Union Local #230 Endorses Cinde Warmington for Governor
+MANCHESTER, NH — Today, Local #230, Manchester Area Local, of the American Postal Workers Union (APWU) endorsed Cinde Warmington for Governor.
+Local #230 represents New Hampshire postal workers across the state, including clerks, maintenance, and motor vehicle employees.
+The vote to endorse Warmington was adopted by APWU Local #230 members at a recent monthly membership meeting.
+PRESS RELEASE
+Cinde Warmington Statement on New Abuse Complaints at the Sununu Youth Services Center
+CONCORD, NH — In response to new reports of serious abuse at the Sununu Youth Services Center (SYSC) documented by the New Hampshire Office of the Child Advocate (OCA), Cinde Warmington released the following statement.
+PRESS RELEASE
+Following Gas Price Spike, Cinde Warmington Demands Kelly Ayotte Push Trump for Tariff Refunds
+CONCORD, NH — With gas prices surging to $4 a gallon for the first time since 2022, Democratic candidate for Governor Cinde Warmington is calling on Kelly Ayotte to stand up to Donald Trump and demand tariff refunds to deliver relief for Granite Staters.
+PRESS RELEASE
+Cinde Warmington Statement on Reports That New Hampshire Could Be Considered for ICE Warehouse
+CONCORD, NH — In response to reports that Markwayne Mullin, Donald Trump’s nominee for Secretary of Homeland Security, is not ruling out the possibility of locating another ICE human warehouse in New Hampshire, Democratic candidate for Governor Cinde Warmington released the following statement:
+In the news
+ICYMI: In Union Leader Op-ed, Cinde Warmington Defines Her Fight for a More Affordable NH
+MANCHESTER, NH — In case you missed it, Cinde Warmington shared in a new Union Leader op-ed why and how she’s fighting to make New Hampshire more affordable for Granite State families.
+Cinde detailed how Kelly Ayotte’s affordability crisis is crushing working families across the state, with rising housing costs, property taxes, and health care expenses hurting Granite Staters “who can’t get ahead” — no matter how hard they work.
+PRESS RELEASE
+Kelly Ayotte Fails to Sue Donald Trump for His Unaffordable Tariffs
+CONCORD, NH — After Kelly Ayotte failed to join a coalition of two dozen states suing Donald Trump for imposing new tariffs following his Supreme Court loss, Democratic candidate for Governor Cinde Warmington released the following statement.
+PRESS RELEASE
+Cinde Warmington Statement On ICE Facilities in New Hampshire
+CONCORD, NH— In response to recent reporting that the Department of Homeland Security is moving on from plans for an immigrant detention facility in Merrimack, Democratic candidate for Governor Cinde Warmington released the following statement:
+KEY ENDORSEMENTS
+More than 100 Granite State Leaders Endorse Cinde Warmington for Governor
+CONCORD, NH – Less than 24 hours after Cinde Warmington announced she is running for Governor, more than 100 leaders across the Granite State endorsed Cinde — including over 80 current and former elected officials, as well as local officeholders, from every county across the state.

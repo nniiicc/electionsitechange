@@ -1,0 +1,4 @@
+Guest User 10/26/22 Guest User 10/26/22 Landsman Statement on Gov.
+Tim Walz Being Named Harris VP Nominee Read More Guest User 10/19/22 Guest User 10/19/22 Landsman Comment Regarding His Constituent, Mr.
+Vance, Being Named Trump VP Nominee Read More Guest User 10/13/22 Guest User 10/13/22 Landsman: “The Court’s ruling makes clear how truly horrifying a second Trump presidency would be.” Read More Guest User 10/12/22 Guest User 10/12/22 Landsman Statement on Sonza’s Acceptance and Promotion of Antisemite and Holocaust Denier’s Endorsement Read More Guest User 10/4/22 Guest User 10/4/22 Landsman Statement on President Biden’s Decision to Exit Race Read More Guest User 10/3/22 Guest User 10/3/22 Landsman Calls for Change in 2024 Presidential Campaign Read More Guest User 9/28/22 Guest User 9/28/22 Rep.
+Greg Landsman: “Trump is unfit to be President.” Read More

@@ -1,0 +1,20 @@
+Build Back Better: The Impact on North Carolina
+Congress has an opportunity to make progressive changes that we have been looking forward to, that could serve as a catalyst for even more changes going forward.
+The initiative proposes large investments in learning opportunities for children, helping parents, especially working parents make ends meet, and opportunities to position the economy for stronger growth for years to come.
+Here are 10 ways that President Biden's Build Back Better initiative would directly impact North Carolina:
+- The Build Back Better framework will enable North Carolina to provide access to child care for 629,956 young children (ages 0-5) per year from families earning under 2.5 times the North Carolina median income (about $201,846 for a family of 4), and ensure these families pay no more than 7% of their income on high-quality child care.
+- The Build Back Better framework will enable North Carolina to expand access to free, high-quality preschool to more than 154,103 additional 3- and 4-year-olds per year and increase the quality of preschool for children who are already enrolled.
+- The Build Back Better framework will set the United States on course to meet its climate targets—a 50-52% reduction in greenhouse gas emissions below 2005 levels by 2030—in a way that creates good-paying union jobs, grows domestic industries, and advances environmental justice.
+The framework will also create a new Civilian Climate Corps that will enlist a diverse generation of North Carolinians in conserving our public lands, bolstering community resilience, and addressing the changing climate, all while putting good-paying union jobs within reach.
+- The Build Back Better framework will increase maximum Pell Grant awards by $550 for students at public and private non-profit institutions, supporting the 175,289 students in North Carolina who rely on Pell.
+- The Build Back Better framework invests in training programs that will prepare North Carolina’s workers for high-quality jobs in fast-growing sectors like public health, child care, manufacturing, IT, and clean energy.
+- The Build Back Better framework will ensure that the nutritional needs of North Carolina’s children are met by expanding access to free school meals to an additional 307,000 students during the school year and providing 903,450 students with resources to purchase food over the summer.
+- The Build Back Better framework will expand rental assistance for North Carolina renters, while also increasing the supply of high-quality housing through the construction and rehabilitation of over 1 million affordable housing units nationwide.
+- The Build Back Better framework will close the Medicaid coverage gap to help millions of Americans gain health insurance, extend through 2025 the American Rescue Plan’s health insurance premium reductions for those who buy coverage on their own, and help older Americans access affordable health care by expanding Medicare.
+This includes providing coverage to 388,000 uninsured North Carolinians, including 212,000 who fell within the coverage gap during the pandemic.
+- The Build Back Better framework will expand access to home- and community-based care to more of North Carolina’s senior citizens and disabled citizens, and improve the quality and wages of caregiving jobs.
+- The framework will extend Child Tax Credit (CTC) increases of $300/month per child under 6 or $250/month per child ages 6 to 17.
+This will continue the largest one-year reduction in child poverty in history.
+It will also provide a tax cut of up to $1,500 in tax cuts for 593,900 low-wage workers in North Carolina by extending the American Rescue Plan’s Earned Income Tax Credit (EITC) expansion.
+Dr.
+King once said, “The time is always right to do what is right.” This is Congress’s opportunity to bring progressive, cost-cutting policies that have held working families in North Carolina back, so that everyone may have access to affordable child care, education, health care, and housing.

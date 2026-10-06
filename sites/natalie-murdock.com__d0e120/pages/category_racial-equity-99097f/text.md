@@ -1,0 +1,3 @@
+by Natalie Murdock | Aug 6, 2020 | Presidential Campaign, Racial Equity
+FOR IMMEDIATE RELEASE July 28, 2020 WHAT THEY ARE SAYING: North Carolina Leaders Praise Joe Biden’s Plan for Racial Equity Today, Joe Biden released the Biden Plan to Build Back Better by Advancing Racial Equity Across the American Economy.
+COVID-19 has shed light on...

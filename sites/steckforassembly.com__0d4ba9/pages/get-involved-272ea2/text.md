@@ -1,0 +1,7 @@
+Join Us
+PHIL STECK HAS BEEN ALWAYS BEEN A TRUE, GRASSROOTS PROGRESSIVE.
+FOR ALMOST 30 YEARS HE HAS BEEN FIGHTING For what is most important to you.
+NOW, HE NEEDS YOUR HELP TO BE RE-ELECTED AND CONTINUE AS A STRONG VOICE IN THE CAPITOL FOR COLONIE, NISKAYUNA, GUILDERLAND AND SCHENECTADY.
+TOGETHER, WE WILL PROTECT UPSTATE’S MIDDLE CLASS.
+This campaign will be successful with your help and the help of fellow volunteers.
+Stand with Phil and to make positive changes in our community.

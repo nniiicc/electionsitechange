@@ -1,0 +1,13 @@
+| AUGUSTA (WGME) -- A bill that gives victims of animal abuse a voice had a public hearing Wednesday morning at the State House in Augusta.
+LD 1442 is called "An Act to Provide for Court Appointed Advocates for Justice in Animal Cruelty Cases." The bill is also known as "Franky's Law." It was named after a pug mix from Winter Harbor who was kidnapped from his home last year.
+He was tortured, killed, wrapped in garbage bags and dumped into the bay.
+The dog’s body later washed up on a beach in front of the Hancock County District Attorney's home.
+Two men were arrested and charged.
+Franky's Law would allow courts to appoint law students or volunteer lawyers to work for free for animal abuse victims.
+The bill's sponsor, Representative Donna Bailey, of Saco, says the bill has received a positive response from the public.
+"The advocates will be able to help the court and help the prosecutors to speak for the animals, if you will,” Bailey said.
+Those against it say the wording of the bill is too vague.
+“There are already things that are in process that we don't feel like this is going to be a benefit to animal cruelty cases.
+We understand the good intentions behind it, but we just don't feel the language is appropriate,” Director of Animal Welfare for the Department of Agriculture Conservation of Forestry Liam Hughes said.
+Franky's Law is modeled after Desmond's Law, a similar bill that passed in Connecticut in 2016.
+A work session followed Wednesday’s public hearing. | Blog Latest News Archives Categories |

@@ -1,0 +1,7 @@
+| PHOENIX – Student loan forgiveness could eliminate college debt for thousands of Black and Latino borrowers in Arizona.
+According to the U.S.
+Department of Education, more than 800,000 Arizonans have federal student loan debt.
+By canceling it, advocates say, Black and Latino incomes could increase and help reduce the racial wealth gap.
+The forgiveness plan, which President Joe Biden announced in August and now is stalled in federal court, is targeted toward students like Terriana Dennis of Phoenix, a Black alumna of the University of Arizona.
+Dennis, who works as a fraud, waste and abuse agent for the medical transportation company Veyo, said she has $15,000 in student loans.
+“The student loan program will benefit people of color and low-income families in a significant way,” Dennis said. | Archives Categories |

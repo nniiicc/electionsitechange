@@ -1,0 +1,28 @@
+Meet Shayne
+Issues
+Volunteer
+Contribute
+Home
+Yard Signs
+Endorsements
+Endorsements
+Shayne Morgan is a true leader.
+AFL-CIO
+Click here to add your endorsement
+Voter Information
+Endorsements
+Yard Signs
+Contact
+Paid for by Morgan for Montana House District 76
+Powered by CampaignPartner.com -
+Political Websites
+Home
+Meet Shayne
+Issues
+Endorsements
+Contribute
+Volunteer
+Yard Signs
+Contact
+Voter Information
+Close Menu

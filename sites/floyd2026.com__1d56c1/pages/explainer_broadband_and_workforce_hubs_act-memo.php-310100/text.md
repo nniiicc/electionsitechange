@@ -1,0 +1,33 @@
+Rural Last‑Mile Broadband and Workforce Hubs Act — Implementation Guidance for Industry Partners and Local Governments
+The Rural Last‑Mile Broadband and Workforce Hubs Act establishes a federal grant program to accelerate deployment of last‑mile broadband in rural and underserved areas, while creating local workforce hubs to train and place residents in broadband and technology jobs.
+The Act mandates enforceable milestones, clawbacks, and public dashboards to ensure transparency and accountability.
+- Eligible Entities: States, local governments, Tribal governments, nonprofits, cooperatives, private broadband providers, and public‑private partnerships.
+- Partnership Structures: Applicants may apply individually or as part of a consortium.
+Partnership agreements must define roles, responsibilities, and cost‑sharing arrangements, and all partners must agree to transparency and reporting requirements.
+- Priority Considerations: Projects serving the highest percentage of unserved households, leveraging existing middle‑mile infrastructure, offering open‑access spillover capacity, and integrating workforce training will receive priority.
+- Federal Share: Up to 75% of project costs; up to 90% for high‑need counties (low income and low broadband availability).
+- Matching Funds: Cash or in‑kind contributions such as rights‑of‑way, infrastructure access, materials, or documented volunteer labor.
+- Matching Formula: Scales local match based on cost per household served, incentivizes cost‑efficient designs, and rewards local hiring commitments.
+- Mandatory Milestones: Construction start within 12 months; 50% of planned connections within 24 months; 100% within 36 months.
+- Progress Reporting: Quarterly reports on build progress, connections, workforce hub enrollment, and financial status.
+- Clawbacks: Proportional repayment for missed milestones or misuse of funds; publication of non‑compliance on the public dashboard within 30 days.
+- Enforcement: Audit authority for the Secretary, Inspector General, and GAO; DOJ civil enforcement for recovery of funds.
+- Public Dashboard: Project‑level data updated quarterly, including maps, premises passed/connected, speeds, latency, costs, workforce outcomes, and compliance actions.
+- Data Standards: Machine‑readable, open formats; ADA‑compliant; privacy‑protected.
+- Verification: Annual independent audits of reported data.
+- E‑Rate: Aligns with FCC’s E‑Rate program for schools and libraries to avoid duplication and maximize impact.
+- BEAD: Harmonizes with NTIA’s Broadband Equity, Access, and Deployment Program, sharing mapping and performance data and aligning reporting requirements.
+- Other Federal Programs: Coordination with USDA, Department of Education, and other agencies to maximize efficiency.
+- 0–6 Months Post‑Enactment: Program rules issued; application portal launched; stakeholder briefings conducted.
+- 6–12 Months: First grant awards announced; projects commence engineering and permitting.
+- 12–24 Months: Construction underway; workforce hubs operational; first milestone checks.
+- 24–36 Months: Majority of connections completed; ongoing training and job placement; dashboard fully populated.
+- 36–48 Months: Full project completion; final audits and clawback enforcement as needed.
+- Adherence to all milestone deadlines and reporting requirements.
+- Full cooperation with audits and data verification processes.
+- Maintenance of open‑access commitments and workforce training outcomes.
+Industry partners, local governments, and eligible entities are encouraged to engage early to align project proposals with program priorities.
+For technical assistance, partnership facilitation, or to schedule a stakeholder briefing, please use the following channels:
+- Contact Form — General inquiries and technical assistance requests.
+- Partnership Interest Form — Submit partnership proposals or workforce hub collaboration ideas.
+- Independence Statement — Learn how this bill aligns with a constituent‑driven, transparent governance model.

@@ -1,0 +1,36 @@
+ANTI-CORRUPTION AND DEMOCRACY REFORM
+Our democracy works best when every voice is heard, every vote is protected, and the government is accountable to the people, not wealthy special interests.
+Across the country, Americans are seeing growing attacks on voting rights, increasing influence from dark money in politics, and a lack of accountability that erodes trust in government.
+Joe believes we must strengthen our democracy by protecting the freedom to vote, increasing transparency in government, and cracking down on corruption at every level.
+He is leading a discharge petition in the House to bring legislation to the floor that would ban stock trading for members of Congress, the President, and the Vice President.
+As top Democrat onCommittee on House Administration, which oversees federal elections, Joe is leading efforts to defend the integrity of our elections and ensure government works for working families, not the rich and powerful.
+Joe is fighting to:
+- Protect and expand access to the ballot box for every eligible American
+- Prevent discriminatory voting practices and voter suppression
+- Reduce the influence of dark money in politics
+- Strengthen ethics and accountability standards across government
+- Increase transparency in campaign finance and public office
+- Restore trust in democratic institutions
+To further these efforts, Joe is leading the Anti-Corruption and Democracy Reform Task Force to root out corruption and strengthen public trust in government.
+The Task Force is focused on:
+- Combating corruption in the Executive Branch
+- Strengthening ethics and accountability in Congress and the courts
+- Reforming campaign finance laws and increasing transparency
+- Expanding voting rights and protecting free and fair elections
+- Advancing reforms that put people ahead of special interests
+In Congress, Joe has co-sponsored legislation including:
+The Freedom to Vote Act
+Would expand voting access, strengthen election security, and reduce the influence of money in politics.
+The John R.
+Lewis Voting Rights Advancement Act
+Would restore and strengthen key protections of the Voting Rights Act of 1965 to prevent discriminatory voting practices.
+The For the People Act
+Would enact sweeping anti-corruption reforms to protect voting rights, reduce the influence of big money in politics, and strengthen ethics rules across government.
+The AI Transparency in Elections Act
+Would require clear disclaimers on political ads that use significant artificial intelligence-generated content.
+The Support Our Election Workers Act
+Would provide grants to improve pay, recruitment, training, and safety for election workers and help address threats and intimidation.
+The Democracy For All Amendment
+Would overturn decisions like Citizens United by affirming Congress and states’ authority to regulate political spending.
+The DISCLOSE Act
+Would increase transparency in campaign spending and strengthen prohibitions on foreign money in U.S. elections.

@@ -1,0 +1,19 @@
+Focused on Our Priorities
+Improving Education
+Reduce recapture, fund our schools, invest in teachers and classrooms, and ensure every student has the opportunity to succeed.
+Cutting Taxes
+Support smart tax relief that eases the cost of living, helps small businesses grow, and keeps our local economy strong.
+Bolstering Infrastructure & Transportation
+Invest in reliable infrastructure and transportation that keeps communities connected and growing.
+Increasing Government Accountability
+Demand transparency, accountability, and efficiency so the government works better for the people it serves.
+Expanding Economic Opportunity
+Create jobs and expand economic opportunity by supporting small businesses and a strong local workforce.
+Improving Healthcare
+Improve access to affordable, quality healthcare by strengthening local providers, reducing costs, and focusing on patient-centered solutions.
+Protecting Homeowners
+Cut property taxes, lower insurance rates, and reduce burdensome regulations to keep homeownership affordable, protect family investments, and strengthen our neighborhoods.
+Keeping Us Safe
+Reduce crime, invest in community safety programs, and support neighborhood watch initiatives to ensure families feel secure and our communities remain safe and welcoming.
+Preserving Natural Resources
+Protect our land, water, and natural resources while supporting responsible growth and local jobs.

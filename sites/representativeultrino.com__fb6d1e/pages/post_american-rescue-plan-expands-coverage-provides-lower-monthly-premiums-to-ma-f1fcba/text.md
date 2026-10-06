@@ -1,0 +1,5 @@
+AMERICAN RESCUE PLAN EXPANDS COVERAGE, PROVIDES LOWER MONTHLY PREMIUMS TO MANY PREVIOUSLY INELIGIBLE
+Updated: May 20, 2021
+The American Rescue Plan, signed into law in March 2021, delivers new and expanded subsidies to millions of Americans—and hundreds of thousands of people in Massachusetts through the Massachusetts Health Connector—to help lower the cost of their health insurance.
+The financial help available to help pay for insurance through the Affordable Care Act has been increased, which means most people who already get help paying for insurance will get more support, and many people who used to not qualify for help will now see lower monthly premiums.
+If you need health insurance, apply today at www.MAhealthconnector.org

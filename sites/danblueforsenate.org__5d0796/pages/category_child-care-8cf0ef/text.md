@@ -1,0 +1,1 @@
+Democratic Leaders Advocate for Child Care Funding as Federal Support Ends Jun 3, 2024 | Child Care, News, Sourced Senate Minority Leader Dan Blue and other democratic leaders urge colleagues to take action and prioritize child care funding as federal support dwindles. read more

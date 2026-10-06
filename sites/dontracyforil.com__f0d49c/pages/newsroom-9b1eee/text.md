@@ -1,0 +1,23 @@
+Official campaign announcements and statements
+SPRINGFIELD — Republican U.S.
+Senate candidate Don Tracy has released his fourth advertisement of the general election, “Too Extreme,” taking aim at the policies championed by Juliana Stratton that have helped drive jobs and reliable power out of Illinois while families and businesses absorb higher costs.
+CHICAGO — U.S.
+Senate candidate Don Tracy today announced new billboards IN Chicagoland reading “SOCIALISM DESTROYS LIVES; VOTE DON TRACY FOR US SENATE.”
+SPRINGFIELD — This morning, Republican U.S.
+Senate candidate Don Tracy released his third advertisement of the general election, “Keep It Simple: Energy,” which takes aim at the policies that have helped drive reliable power generation out of Illinois while families and businesses are being hit with higher energy bills.
+JOSLIN — U.S.
+Senate candidate Don Tracy today responded to Tyson Foods’ abrupt closure of its Joslin beef plant eliminating roughly 2,500 jobs, as well as the Chicago Bears focus on a new stadium in Hammond, Indiana.
+SPRINGFIELD — Republican U.S.
+Senate candidate Don Tracy released his second campaign this week, “Keep It Simple: Make Illinois Business Friendly,” highlighting the real-world consequences of Illinois’ high-tax, excess regulatory approach to business.
+SPRINGFIELD — According to a report this morning in The Illinoize, Lt.
+Gov.
+Juliana Stratton is skipping the Illinois Farm Bureau’s Candidate Forum to instead spend time with wealthy Democrat donors in Martha’s Vineyard.
+SPRINGFIELD — Four people were killed and at least 20 others were wounded in shootings across Chicago this weekend, including a drive-by shooting in Humboldt Park where an assailant opened fire on a crowd gathered outdoors, injuring six people, two critically.
+SPRINGFIELD — Republican U.S.
+Senate candidate Don Tracy today released a new statewide television and digital advertisement, Keep It Simple, contrasting his common sense approach to leadership with the costly consequences of Juliana Stratton's extreme agenda.
+Don Tracy: First They Raised Your Taxes.
+Then They Raised Their Own Pay.
+SPRINGFIELD — A Fox News report is highlighting the WALZ Act, the centerpiece of a new anti-fraud package expected to save taxpayers approximately $240 billion by strengthening federal spending oversight, reducing welfare fraud, and recovering unused COVID funds.
+CHICAGO — While describing Chicago's Independence Day weekend as the city's "least violent" Fourth of July in seven years, media reported five people were killed and 23 others were injured in shootings, stabbings, and assaults between Thursday evening and Monday morning, according to the city’s police department.
+Among the victims were two Chicago police officers shot in the line of duty and six teenagers wounded in a mass shooting outside a gathering.
+SPRINGFIELD — State lawmakers have announced a six-month delay of this year's scheduled automatic gas tax increase.

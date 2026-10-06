@@ -1,0 +1,9 @@
+Angel Ramirez is a proud first-generation college graduate from Coe College with degrees in Social and Criminal Justice and Political Science.
+She co-founded Our Future, a nonprofit fellowship for young leaders, and currently serves as its Executive Director.
+Angel also works with Kids First Law Center as a Youth Peace Project Facilitator and has served as a Legislative Aide for Iowa State Senator Rob Hogg.
+Her commitment to community is grounded in lived experience, professional leadership, and a deep understanding of local issues.
+- Work: Executive Director – Our Future, Peace Facilitator – Kids First Law Center, Project Assistant – West Wind Education Policy
+- Legislative: Legislative Aide – Iowa State Senator Rob Hogg, Intern – Linn County Board of Supervisors
+- Campaign: President of CoeVotes, Field Rep – Progressive Turnout PAC, Fellow – Cory Booker Campaign
+Education: BA in Social and Criminal Justice, BA in Political Science – Coe College
+Awards: Truman Scholarship Finalist, United Way Board Alumnus, Newman Civic Fellow, National Kohawk Award, Women of Achievement in the Service to Community Award

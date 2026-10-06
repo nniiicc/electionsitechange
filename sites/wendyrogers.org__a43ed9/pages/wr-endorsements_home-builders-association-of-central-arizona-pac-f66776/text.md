@@ -1,0 +1,1 @@
+“After a careful evaluation of voting records and interviews, the Home Builders Association of Central Arizona Political Action Committee (HBACA PAC) has endorsed you in the 2026 July Primary Election. […] We look forward to working with you to make housing affordable, protect jobs, and preserve Arizona’s unique way of life.”

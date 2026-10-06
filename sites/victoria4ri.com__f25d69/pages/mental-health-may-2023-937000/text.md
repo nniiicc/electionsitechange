@@ -1,0 +1,11 @@
+I’m very grateful to Westerly Town Council member Mary Scialabba for hosting a thoughtful Mental Health Forum on May 20th.
+We heard from Town Manager Shawn Lacey, who was also Westerly’s police chief, and he testified that the vast majority of the calls they responded to are mental-health related.
+We also heard from members of the community who’ve gone through mental health struggles as well as teachers who witness these struggles in their students or their students’ families.
+We also heard from Wood River Health’s Alison Croke.
+Although Wood River Health is in Hope Valley, they treat a lot of patients from Westerly and have a small operation in Westerly.
+With the Hope Valley expansion, they hope to increase their mental health offerings.
+As a state, we’ve invested in community-based mental health infrastructure and Wood River Health is a grant recipient.
+As issues concerning mental health continue to rise, I will continue to push bills that will ensure that services are available in our community (for example, school-based mental health for students).
+Both of these bills passed in the House and Senate and became law this June.
+● A bill I co-sponsored: S-0869 AN ACT RELATING TO HUMAN SERVICES — MEDICAL ASSISTANCE — THE PROMOTING ACCESS TO INCREASED MENTAL HEALTH SERVICES FOR ALL STUDENTS ACT – Directs that services provided by school social workers and certified school psychologists would be included as health care-related services eligible for federal Medicaid reimbursement
+● H-5881 AN ACT RELATING TO STATE AFFAIRS AND GOVERNMENT — POLICE OFFICERS – COMMISSION ON STANDARDS AND TRAINING (passed by Senate) – Requires police training on recognizing the possible existence of mental health disorders and substance use disorders and requires certified crisis intervention team training for all officers

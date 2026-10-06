@@ -1,0 +1,3 @@
+Cook County and Chicago launch new violence against women task force
+New efforts are underway to bring leaders together to focus on the health and safety of women, children, and vulnerable individuals.
+Cook County Commissioner Donna Miller joins us to explain the new Cook County and City of Chicago Violence Against Women Task Force and why addressing domestic violence is a key priority…

@@ -1,0 +1,1 @@
+Delegate Heather Bagnall April 13, 2022 Taking Stock Delegate Heather Bagnall April 13, 2022 Taking Stock Of The 2022 Session - A Recap Of The Work Done On Behalf Of Marylanders Published - April 13, 2022 Author - Heather Bagnall Publication - Severna Park Voice Whole Article - https://www.severnaparkvoice.com/stories/taking-stock-of-the-2022-session-heather-bagnall,38256?

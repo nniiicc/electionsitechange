@@ -1,0 +1,14 @@
+Press Releases
+Hotel and Gaming Trades Council Endorses Congressman Rob Menendez for Re-Election
+NEW JERSEY – The Hotel and Gaming Trades Council, AFL-CIO (HTC) has endorsed Congressman Rob Menendez for re-election in the 2026 cycle.
+“Rob Menendez is a proven ally of working people, and we could not be prouder to endorse him for reelection,” said HTC President Rich Maroko.
+“At a time when working people are under attack, we need to send our best fighters to DC.
+For our members living in the 8th Congressional District, Rob is that fighter.”
+“I am honored to earn the support of HTC,” said Congressman Menendez.
+“Our hospitality industry workers are a critical part of our economy, and I have always fought for them to receive the respect, dignity, and rights that they deserve.
+I will never let up the fight for the right to organize, for better wages, and for the safety of our hospitality workers.
+I will always stand with organized labor and every working family in New Jersey.”
+HTC represents nearly 40,000 non-managerial hospitality and gaming employees working in all departments, in Northern New Jersey and in New York.
+HTC’s members come from many nations and backgrounds and speak more than 50 languages.
+Since being elected to Congress, Menendez has supported important labor legislation such as the PRO Act and fought for working families to have access to affordable, quality healthcare, stable housing, a clean environment and a fair shot at the American dream.
+He is a member of the Congressional Labor Caucus and holds a 100% lifetime score from the AFL-CIO.

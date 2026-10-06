@@ -1,0 +1,15 @@
+Lead
+Leadership & Awards
+Leadership:
+- Panel Speaker, Beyond Borders International Conference on Reproductive Rights (January 2024, Washington D.C.)
+- Plenary Speaker, State Innovation Exchange National Conference (December 2022, Washington D.C.)
+- Co-Chair, Wake County Legislative Delegation (2021-2022 Session)
+- Co-Chair, House Democratic Women's Caucus (2021-2022 Session)
+- North Carolina State Lead, National Caucus of Environmental Legislators (2021)
+Awards:
+- 2023 Elected Woman of Excellence (National Foundation for Women Legislators)
+- Lillian's List Jan Allen Courage Award (2022)
+- Child Care Services Association Public Service Award (2022)
+- NC State Firefighters' Association Firefighter's Friend Award (2021-2022)
+- League of Conservation Voters Green Tie Award (2020)
+- NC-ERA Alliance Champion Award (2019)

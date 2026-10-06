@@ -1,0 +1,3 @@
+Release: Statement in Response to the Delaware Superior Court’s Decision to Remove Early Voting
+Press Release
+Wilmington, DE — In response to the Delaware Superior Court striking down laws passed by the Delaware General Assembly to expand early voting and permanent absentee voting in Delaware, Congressional candidate and State Senator Sarah McBride …

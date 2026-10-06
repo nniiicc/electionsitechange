@@ -1,0 +1,44 @@
+Week 11 Legislative Session Recap 2026
+March 23 - 27, 2026
+My House colleagues and I returned to the Gold Dome on Monday, March 23, for Legislative Day 36, beginning the second-to-last week of the 2026 legislative session.
+It was a busy and productive week, with three legislative days and two committee workdays as we continued advancing key legislation.
+By week’s end, the General Assembly had reached Legislative Day 38, leaving just one day before Sine Die on April 2, the final opportunity for bills to pass both chambers and be sent to the governor’s desk.
+As this critical deadline approaches, these final days remain among the most fast-paced and consequential of the session.
+During week eleven, the House passed the following legislation:
+- Senate Bill 542 – Strengthens penalties for clergy members who abuse positions of spiritual authority by establishing first- and second-degree offenses for improper sexual conduct, along with clear definitions, penalties and a 15-year statute of limitations.
+- House Bill 1009 – Prohibits public high school students from accessing personal electronic devices during the school day beginning July 1, 2027, while allowing exceptions for medical or educational needs and requiring updated school policies for device storage.
+- Senate Bill 428 – Expands access to mental health services by allowing waiver requests for federal Medicaid support for individuals with serious mental health needs who are at risk of homelessness, incarceration or hospitalization.
+- Senate Bill 220 – Updates Georgia’s medical cannabis program by expanding available forms, adjusting dosage standards and adding new qualifying medical conditions.
+- Senate Resolution 622 – Creates a joint study committee to evaluate rising costs in Georgia’s foster care system and identify efficiencies and long-term solutions.
+- Senate Bill 433 – Also known as Rio’s Law, establishes a voluntary license plate for individuals with autism or developmental disabilities and requires specialized training for law enforcement officers.
+- Senate Bill 547 – Increases penalties for human trafficking-related crimes by classifying pimping and pandering as felonies for all offenses.
+- Senate Bill 540 – Establishes safeguards for minors using AI companion chatbots, including disclosure requirements, parental controls and protections against harmful interactions.
+- Senate Bill 594 – Addresses deceptive and harmful uses of AI by creating criminal penalties for election interference, exploitation involving minors and fraudulent impersonation.
+- Senate Bill 150 – Extends the program allowing retired teachers to return to high-need classrooms through 2030 while continuing to receive retirement benefits.
+- Senate Bill 369 – Enhances policies for nontraditional education programs, virtual learning and charter schools, while improving accountability and long-term planning.
+- Senate Bill 589 – Expands access to pre-K and requires student ID badges for grades 6–12 to include 9-8-8 crisis hotline information.
+- House Bill 1030 – The Math Matters Act, which expands advanced math opportunities, increases instructional time and strengthens teacher preparation standards.
+We also passed the following bills from the Rules Calendar this week:
+- Senate Bill 8 – Establishes standards for remote online notarization, including required training, identity verification procedures and electronic recordkeeping, while authorizing secure remote notarizations and setting penalties for related violations.
+- Senate Bill 146 – Allows families to access burial sites on private property through permits and sets requirements for family burial plots, including size, maintenance, accessibility and limits on commercial use.
+- Senate Bill 306 – Permits consolidation of conservation covenants, adds taxpayer notification options and clarifies allowable land uses, while also capping low-income housing tax credits for certain years.
+- Senate Bill 395 – Authorizes limited information sharing between the Department of Public Health and the Georgia Composite Medical Board for oversight of the Low THC Oil Patient Registry.
+- Senate Bill 403 – Updates unclaimed property laws by clarifying when property is considered abandoned and simplifying the claims process for heirs in lower-value cases.
+- Senate Bill 430 – Revises hotel-motel tax provisions, expands eligible tourism uses and establishes new oversight and dispute resolution procedures for tourism promotion entities.
+- Senate Bill 441 – Requires State Depository Board approval for new pooled investment funds involving multiple local governments beginning in 2026.
+- Senate Bill 442 – Provides for the revocation of commercial driver’s licenses issued to noncitizens upon the expiration of their visa.
+- Senate Bill 443 – Increases penalties for obstructing highways or streets to a high and aggravated misdemeanor and establishes civil liability for damages.
+- Senate Bill 472 – Strengthens oversight of financially troubled school systems by allowing suspension of board members, tightening superintendent contracts and expanding audit authority.
+- Senate Bill 478 – Extends the Georgia Outdoor Stewardship Act through 2039 and increases dedicated funding for conservation efforts.
+- Senate Bill 485 – Requires REAL ID verification for nail technicians and updates provisions for professional licensing and behavioral analysis certification.
+- Senate Bill 500 – Expands and renames the state’s behavioral health workforce database to include more healthcare licensing boards.
+- Senate Bill 503 – Enacts the Georgia Insurance Fairness Act, strengthening consumer protections, increasing fraud penalties and enhancing insurer oversight and disaster response programs.
+- Senate Bill 566 – Updates property tax procedures by improving transparency, strengthening homestead exemption enforcement and creating a statewide database.
+- Senate Bill 569 – Enhances towing regulations by authorizing emergency light permits, creating a statewide vehicle database and improving notification requirements.
+- Senate Bill 605 – Expands grounds for discipline or removal of district attorneys and solicitors general, including violations related to victims’ rights and professional conduct.
+The House will return to the State Capitol for the final week of the 2026 legislative session, with Sine Die scheduled for April 2.
+In the days ahead, we anticipate long hours as we work to finalize legislation before the deadline.
+I encourage you to reach out regarding any measures important to you or your family, and to stay informed as we conclude the session.
+Please don't hesitate to contact me by email at
+karen.mathiak@house.ga.gov or by phone at (404) 656-0213.
+Thank you for allowing me to serve as your state representative.

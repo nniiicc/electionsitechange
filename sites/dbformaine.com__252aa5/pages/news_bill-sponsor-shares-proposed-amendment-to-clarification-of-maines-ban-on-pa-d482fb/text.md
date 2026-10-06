@@ -1,0 +1,2 @@
+| Ahead of a scheduled legislative work session, The Maine Wire reported that Senator Bailey, as the sponsor of LD 2061 (An Act to Clarify the Prohibition on Paper Billing Statement Fees), shared a proposed amendment to sharpen the bill's language and close loopholes in Maine's existing ban on paper statement fees.
+The proposed changes aimed to ensure that financial institutions cannot sidestep the consumer protection law through definitional technicalities, providing Mainers clearer and more enforceable protections. | Blog Latest News Archives Categories |

@@ -1,0 +1,2 @@
+| “On behalf of the Iowa State Education Association (ISEA) representing public education professionals across the state, we are pleased to recommend Brian Bruening for the Iowa Senate," said ISEA President Joshua Brown.
+"We believe Brian Bruening will do what is best for all of Iowa’s students regardless of the ZIP code in which they live and be a voice for education professionals as important decisions are made that impact our students and our public schools.” | Author Brian Bruening Archives July 2026 May 2025 March 2025 October 2024 Categories |

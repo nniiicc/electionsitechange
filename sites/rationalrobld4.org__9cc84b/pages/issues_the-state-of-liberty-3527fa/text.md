@@ -1,0 +1,14 @@
+One Washington State
+Our current representative is fixated with making Washington state into two Autonomous Regions (HB2085)
+Fiscally Reckless
+Eastern Washington receives roughly $1.30 in state services for every $1.00 paid in taxes.
+Separation would cut off that subsidy - hurting the very region pushing hardest for the split.
+Practical problems
+- Dividing a state's government, infrastructure, and budget would be complicated and expensive
+- Water rights, highways, utilities, and public lands cross the proposed dividing lines — splitting them would create legal chaos
+- The creation of 2 regions requires the impractical hurdle of a WA State constitutional amendment, as well as a 2/3 voter majority to pass
+Political and economic problems
+- Eastern WA is largely rural and lower-population — it would have a much smaller tax base to fund schools, roads, and services on its own
+- Western WA generates most of the state's economic output; separating it could hurt both sides
+- It could complicate both regions' influence in the U.S.
+Senate rather than strengthen either one

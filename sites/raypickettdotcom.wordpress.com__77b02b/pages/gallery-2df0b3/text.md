@@ -1,0 +1,43 @@
+Skip to content
+Facebook
+Ray Pickett for NC House
+About
+Donate
+Use this form to donate to Ray Pickett’s campaign
+Gallery
+Contact
+Ray Pickett for NC House
+info@raypickett.com
+P.O.
+Box 265
+Blowing Rock
+,
+NC
+28605
+USA
+Facebook
+About
+Donate
+Use this form to donate to Ray Pickett’s campaign
+Gallery
+Contact
+A WordPress.com site
+Loading Comments...
+Write a Comment...
+Email (Required)
+Name (Required)
+Website
+Subscribe
+Subscribed
+Ray Pickett for NC House
+Sign me up
+Have a WordPress.com account?
+Log in now.
+Ray Pickett for NC House
+Copy shortlink
+View post in Reader
+Manage subscriptions
+Sign up
+Log in
+Report this content
+Collapse this bar

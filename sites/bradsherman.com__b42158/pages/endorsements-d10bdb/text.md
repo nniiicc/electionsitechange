@@ -1,0 +1,415 @@
+BRAD'S ENDORSEMENTS
+Coalition of Support
+Labor Unions
+California Federation of Labor Unions
+Los Angeles County Federation of Labor
+Los Angeles/Orange Counties Building and Construction Trades Council
+International Association of Fire Fighters
+Ventura County Professional Firefighters' Association
+United Firefighters of Los Angeles City, IAFF Local 112
+SEIU California State Council
+SEIU 121 Registered Nurses
+SEIU United Healthcare Workers West
+California Teachers Association
+California Federation of Teachers
+California School Employees Association
+Amalgamated Transit Union (ATU) Local 1277
+International Association of Machinists and Aerospace Workers (IAM) District Lodge 947
+International Alliance of Theatrical Stage Employees (IATSE) Local 80
+International Brotherhood of Electrical Workers (IBEW) Local 11
+International Union of Painters and Allied Trades District Council 36
+International Union of Operating Engineers Local 12
+Laborers Local 300
+Teamsters Joint Council 42
+Sheet Metal, Air, Rail, and Transportation Workers (SMART) Local 105
+United Association (UA) Local 250
+United Food and Commercial Workers Local (UFCW) 770
+Association for Los Angeles Deputy Sheriffs
+California Democratic Party
+Planned Parenthood Action Fund
+Democratic Party of the San Fernando Valley
+Los Angeles County Democratic Party
+Avance Democratic Club
+CSUN Iranian Student Association
+Democratic Majority for Israel
+Democrats for Israel Los Angeles
+Democrats for the Protection Animals
+Equality California
+Equality PAC
+North Valley Democratic Club
+Southern California Armenian Democrats
+Valley Grassroots for Democracy
+National Organization for Women (NOW) PAC
+Organizations & Grassroots Democrats
+Federal Elected Leaders
+Alex Padilla
+U.S.
+Senator
+Adam Schiff
+U.S.
+Senator
+Cory Booker
+U.S.
+Senator
+Nancy Pelosi
+Speaker Emerita
+Hakeem Jeffries
+House Democratic Leader
+Katherine Clark
+House Democratic Whip
+Pete Aguilar
+House Democratic Caucus Chair
+Julia Brownley
+Congresswoman
+Maxine Waters
+Congresswoman
+Ted Lieu
+Congressman
+George T.
+Whitesides
+Congressman
+Luz Rivas
+Congresswoman
+Sarah McBride
+Congresswoman
+Jasmine Crockett
+Congresswoman
+Jared Huffman
+Congressman
+Mike Thompson
+Congressman
+Ami Bera
+Congressman
+Doris Matsui
+Congresswoman
+John Garamendi
+Congressman
+Josh Harder
+Congressman
+Mark DeSaulnier
+Congressman
+Lateefah Simon
+Congresswoman
+Adam Gray
+Congressman
+Kevin Mullin
+Congressman
+Sam Liccardo
+Congressman
+Ro Khanna
+Congressman
+Zoe Lofgren
+Congresswoman
+Jimmy Panetta
+Congressman
+Jim Costa
+Congressman
+Salud Carbajal
+Congresswoman
+Raul Ruiz
+Congressman
+Judy Chu
+Congresswoman
+Laura Friedman
+Congresswoman
+Gil Cisneros, Jr.
+Congressman
+Jimmy Gomez
+Congressman
+Norma Torres
+Congresswoman
+Sydney Kamlager-Dove
+Congresswoman
+Linda Sánchez
+Congresswoman
+Mark Takano
+Congressman
+Robert Garcia
+Congressman
+Nanette Barragán
+Congresswoman
+Derek Tran
+Congressman
+Lou Correa
+Congressman
+Dave Min
+Congressman
+Mike Levin
+Congressman
+Scott Peters
+Congressman
+Sara Jacobs
+Congresswoman
+Juan Vargas
+Congressman
+Tony Cárdenas
+Former Congressman
+State Elected Leaders
+Gavin Newsom
+Governor
+Rob Bonta
+Attorney General
+Malia Cohen
+State Controller
+Tony Thurmond
+State Superintendent of Public Instruction
+Fiona Ma
+State Treasurer
+Henry Stern
+Senator
+Ben Allen
+Senator
+Rick Chavez Zbur
+Assembly Democratic Caucus Chair
+Jesse Gabriel
+Assemblymember
+John Harabedian
+Assemblymember
+Jacqui Irwin
+Assemblymember
+Celeste Rodriguez
+Assemblymember
+Pilar Schiavo
+Assemblymember
+Nick Schultz
+Assemblymember
+Local Elected Leaders
+Lindsey Horvath
+Los Angeles County Supervisor
+Janice Hahn
+Los Angeles County Supervisor
+Hilda Solis
+Los Angeles County Supervisor
+Matt LaVere
+Ventura County Supervisor
+Vianey Lopez
+Ventura County Supervisor
+Karen Bass
+Los Angeles Mayor
+Bob Blumenfield
+Los Angeles City Councilmember
+Adrin Nazarian
+Los Angeles City Councilmember
+Imelda Padilla
+Los Angeles City Councilmember
+Traci Park
+Los Angeles City Councilmember
+Nithya Raman
+Los Angeles City Councilmember
+Monica Rodriguez
+Los Angeles City Councilmember
+Mary Mendoza
+San Fernando Mayor
+Joseph D.
+Ayala
+Simi Valley City Councilmember
+Andra Hoffman
+Los Angeles Community College District Board of Trustees
+Arleigh Kidd
+Ventura County Board of Education Trustee
+Antonio Villaraigosa
+Former Los Angeles Mayor
+Dennis Washburn
+Former Calabasas Mayor
+Paul Krekorian
+Former Los Angeles City Councilmember
+Paul Koretz
+Former Los Angeles City Councilmember
+Josh Gray
+Former Director of Rancho Simi Recreation & Park District
+Community Leaders
+*Titles and affiliations listed for identification purposes only.
+- Alan Sege, Board Member, Pacific Palisades Democratic Club
+- Alex DeOcampo, Fmr President, CSUN Young Democrats; Fmr President, CA Young Democrats; Co-Founder, Filipino Voter Empowerment Project
+- Alfred Chung, Veteran; Board Member, Operation PTSD A Veterans Group Inc.
+- Alida Piga, ANCA
+- Allen M.
+Lawrence, Chairman Emeritus, San Fernando Valley Political Awareness Committee
+- Alton Reed, Representative, Communications Workers of America (CWA)
+- Barry Sylvan, Real Estate Agent
+- Benjamin Reznik, Partner, Jeffer Mangels Butler & Mitchell LLP
+- Bill Nye, The Science Guy
+- Bob Shmaeff, Member, Tarzana Neighborhood Council
+- Brad Rosenheim, President, Rosenheim & Associates, Inc.
+- Bruce Miller, New Directions for Youth
+- Cecile Bendavid, Member, CADEM Small Business & Professionals Caucus
+- Commissioner Majib Siddiquee, Founder & Community Leader, Little Bangladesh; President, Little Bangladesh Improvements Inc.
+- Corinne Sánchez, President & CEO, Proyecto Del Barrio
+- Dale Surowitz, Executive Director, Los Angeles Jewish Health
+- David Banes, Founder, Beacon of Zeal
+- David Gershwin, Principal, David Gershwin Consulting
+- David Hyman, Trustee & Legislative Liaison, NALC Branch 2902
+- Deane Leavenworth, Commissioner, LA County Small Business Commission; Board Member, LA Area Chamber of Commerce; Board of Governors, LA County Economic Development Corporation
+- Debbi Lund, Community Leader
+- Dennis Zine, Board Member, New Directions for Youth
+- Diana Williams, Executive Director, West Valley–Warner Center Chamber of Commerce
+- Donald Weissman, Principal, Weissman Law Firm
+- Dorothy Apple, Member, Valley Village Neighborhood Council
+- Dr.
+George Balfour, Physician
+- Ed Begley Jr., Environmental Activist
+- Elizabeth Badger, LACDP Member; Community Activist
+- Eric Kingsley, President, VBS
+- Erik Nasarenko, Ventura County District Attorney
+- Erick Lace, Member, Winnetka Neighborhood Council
+- Fred Gaines, Member, Valley Industry & Commerce Association (VICA)
+- Gary Bettman, Member, Pacific Palisades Democratic Club
+- Ginny Hatfield, Member, Valley Village Neighborhood Council
+- Hank Yuloff, Executive Director, Encino Chamber of Commerce
+- Howard Katchen, Member, Sherman Oaks Neighborhood Council
+- Irv Selman, President, Selman Insurance Services
+- James Brown, Co-Chair, West Valley LAPD Community Police Advisory Board
+- Jeff Mausner, Member, Tarzana Neighborhood Council
+- Jeff Plotkin, Doctor and Small Business Owner
+- Jimmie Woods Gray, LA Fire Department Commissioner; Union Activist; Former Chair, LACDP
+- Jodie Francisco, Board Member, Southland Regional Association of Realtors®; Volunteer Manager, Get Together Foundation & MusiCares
+- Joel M.
+Simon, Attorney, Alperstein, Simon, Farkas, Gillin & Scott, LLP
+*
+*Title
+- John Alford, Former VP of Membership, CA Young Democrats
+- Juan Delgado, Chief Information Officer, Proyecto Del Barrio
+- Kamran Ghassemieh, President, First Credit Bank
+- Lysa Simon, Member, North Valley Democratic Club
+- Ma'Dame Townsend, President & CEO, Regional California Black Chamber of Commerce
+- Marc Thursten, Post Commander, Valley Jewish War Veterans
+- Marcus Mitchell, Member, North Valley Community Council
+- Marilyn Grunwald, Advocate, Democratic Advocates for Disability Issues
+- Marlene Rowlett, President & CEO, El Proyecto Del Barrio
+- Marty Cooper, President, Cooper Communications Inc.
+- Mary Ellen Early, President, Action Democrats of the San Fernando Valley
+- Maryam Zar, Community Member, Pacific Palisades
+- Matab Ahmad, Director, Raya LLC
+- Matthew Millen, Member, Jewish War Veterans of the USA, Post #118
+- Mel Powell, Past President, Sherman Oaks Chamber of Commerce
+- Melissa Grant, DSCC Member; Vice President, Pacific Palisades Democratic Club
+- Michael Kapp, Democratic National Committee Member
+- Michael Soneff, Member, Pacific Palisades Community Council
+- Micheal Hollander, Community Leader; Retired Journalist
+- Mihran D.
+Toumajan, Armenian American Community Advocate
+- Mohammad Basith, Member, Jalalabad Association of California
+- Nancy Hodges-Jimenez, Government Relations Manager, Proyecto Del Barrio
+- Nishan Bostanian, Member, ANCA West Valley
+- Paige Hajiloo, Former CSUN Student Body President
+- Pamm Fair, CADEM Delegate; Former Political Director, SEIU 721
+- Pat “Ziggy” Zicarelli, Former National Association of Realtors (NAR)
+- Rafi Sarkisian, President, Armenian Cultural Foundation - West San Fernando Valley
+- Rafi Kourounian, Member, ANCA West Valley
+- Raymond Bishop, Commissioner, LA County Small Business Commission
+- Rev.
+Zedar Broadous, Senior Pastor, Adonai Covenant International Ministries
+- Robert Mulein, Former President, Temple Kol Tikvah
+- Ross B.
+Hopkins, Former Board Member, Valley Economic Alliance
+- Ross Pendergraft, Principal, Leavitt Insurance Services of Los Angeles
+- Scott Sterling, President, Museum of the San Fernando Valley
+- Shelley Rivlin, Member, ADL National Board
+- Silvia Sandhu, Clinic Administrator, Proyecto Del Barrio
+- Stephen Sherman, Veteran; Founder & CEO, Dorie Miller Memorial Foundation
+- Sudip Gorakshakar, Board Member, National Federation of Indian-American Associations
+- Susan Lord, Member, Tarzana Neighborhood Council
+- Susan Nissman, Artist
+- Susan Woodnick, Former Programs Director, Sherman Oaks Chamber of Commerce
+- Tamara Plotkin, Doctor and Small Business Owner
+Statements of Support
+Planned Parenthood Action Fund
+“Planned Parenthood Action Fund is proud to endorse Brad Sherman for re-election to Congress because he has never wavered in his defense of reproductive freedom and essential health care.
+When Donald Trump and his allies launched attacks on abortion access and voted to “defund” Planned Parenthood, Brad fought back.
+We know that he will continue fighting to restore funding and protect care for millions of Americans who rely on Planned Parenthood health centers for cancer screenings, birth control, and so many other life-saving reproductive health care services.
+“From helping pass the Affordable Care Act to opposing every effort to roll back coverage, Brad Sherman has consistently put people over politics.
+With abortion access and reproductive freedom under attack, we need his continued leadership in Congress."
+International Association of Fire Fighters
+“Brad Sherman is a proven ally and has been a strong partner with frontline firefighters and paramedics.
+He has been an effective leader for public safety, fighting for critical resources and investments in life-saving fire fighting technologies.
+The International Association of Fire Fighters is proud to endorse Brad Sherman for Congress.
+He has always been there for firefighters — and we are pleased to support his re-election campaign.”
+Los Angeles County Federation of Labor
+“The Los Angeles County Federation of Labor is proud to endorse Brad Sherman for re-election because he has been a consistent and effective champion for working families throughout his time in Congress.
+Brad has always stood with workers to protect good-paying jobs, defend collective bargaining, and make sure our economy works for everyone, not just those at the top.
+At a time when working people are under attack, we need Brad Sherman’s proven leadership and unwavering commitment to fighting for us in Washington.”
+Equality California
+“Brad Sherman has been a consistent and unwavering champion for LGBTQ+ equality in Congress.
+From fighting back against the Trump Administration's attacks to helping block anti-trans legislation in the House to working tirelessly to defend reproductive freedom and LGBTQ+ civil rights, Brad understands that our community deserves pro-equality champions who deliver results.
+Equality California is proud to endorse Brad Sherman for re-election because we know he will continue to be a strong ally and partner in the fight for full, lived equality for all.”
+Avance Democratic Club
+"Avance Democratic Club is pleased to give our enthusiastic support and endorsement to Congressman Brad Sherman.
+He has been a force for good in Congress, fighting back against Donald Trump and ICE, supporting immigrants, working people and our community.
+He is the best choice for the people of the 32nd District."
+Southern California Armenian Democrats
+"The Armenian community is united behind Congressman Brad Sherman.
+He has been one of the most vocal supporters of our community in the House of Representatives.
+Brad has been a leader who shows up, listens, is accessible, and who we know we can count on to fight for our community.
+We look forward to helping him get re-elected."
+U.S.
+Senator Alex Padilla
+"Brad Sherman protects families from rogue ICE operations - and he stands up to Trump."
+U.S.
+Senator Adam Schiff
+"Brad Sherman is a powerful voice for Southern California in Washington.
+When he speaks, people listen.
+And when he fights, he wins.
+We need Brad’s experience in Washington, fighting for us."
+California Governor Gavin Newsom
+"Brad Sherman has been a leader in the fight to protect the people of California against Donald Trump.
+He's been an effective member of Congress for the 32nd District, working to lift up working families, seniors, young people and our most vulnerable.
+We need Brad to keep up the fight for California in Congress.
+I am proud to endorse Brad Sherman's re-election."
+Congresswoman Maxine Waters
+“Brad Sherman has never backed down from standing up for what’s right.
+Whether it’s protecting working families or fighting back against Donald Trump’s dangerous agenda, Brad has always been a strong and steady voice for justice.
+His experience and tenacity make him an invaluable member of Congress, and I’m proud to endorse him.”
+Congresswoman Sarah McBride
+“Brad Sherman has been a steadfast and effective champion for LGBTQ+ equality, standing strong against discrimination and using his leadership in Congress to advance dignity, safety, and freedom for all.
+From protecting marriage equality to fighting back against the Trump Administration's attacks on brave transgender servicemembers, Brad has never wavered.
+At this moment, when our fundamental freedoms are under constant threat, we must stand with proven leaders like Brad Sherman and work together to take back the House of Representatives so we can continue moving our country forward.
+I am proud to support my friend Brad Sherman for re-election.”
+State Superintendent of Public Instruction Tony Thurmond
+"Brad Sherman has been a longtime champion for public education, for working families and for our California values.
+I am proud to endorse Brad Sherman's re-election for Congress.
+We need him to keep up the fight for California's students, public educators and working families."
+California State Treasurer Fiona Ma, CPA
+"Brad Sherman has been a deeply effective member of Congress on behalf of the people of California.
+He's been a champion for working women and men, helped pass President Obama's Affordable Care Act, invested more in fire fighting and emergency response, helped combat climate change by funding renewable energy like wind and solar and so much more.
+I am proud to endorse Brad Sherman's re-election for Congress."
+Assembly Democratic Caucus Chair Rick Chavez Zbur
+“Brad Sherman has spent his career defending our California values — from protecting reproductive freedom and advancing LGBTQ+ equality to fighting climate change and standing strong against the Trump Administration’s lawless attacks on our communities.
+I know Brad will continue to be a champion for all Californians in Congress, and I’m proud to support him.”
+Los Angeles City Councilmember Traci Park
+"Brad Sherman has been an effective leader for our community in Congress.
+He's fought for critical public safety resources, infrastructure investments that have helped create local jobs and he's been a bold fighter for the people of Los Angeles for years.
+I am proud to endorse Brad Sherman's re-election to Congress."
+Teamsters Joint Council 42
+“The members of the Teamsters Joint Council 42 are excited to announce our enthusiastic endorsement of Brad Sherman for Congress.
+In the US House of Representatives, Brad has been an effective voice on behalf of working families.
+Brad Sherman is an ally - he has stood shoulder to shoulder with us - and we are pleased to stand with him as he campaigns for re-election.”
+Amalgamated Transit Union Local 1277
+"Brad Sherman is an ally, a partner and a warrior for working families.
+That's why the members of the Amalgamated Transit Union Local 1277 proudly endorse his re-election to Congress."
+IAM Union District Lodge 947
+“Brad Sherman is a champion for working families.
+He has been a fighter for workers’ rights and more good paying middle class jobs.
+The IAM District 947 is proud to endorse Brad Sherman’s re-election for Congress.”
+International Union of Operating Engineers Local 12
+“The International Union of Operating Engineers Local 12 is pleased to endorse Brad Sherman’s re-election to Congress.
+Brad has been a champion for our members and working families across Southern California.
+He has built up a proven record of fighting for better wages, workers’ rights, healthcare access, and retirement security.
+We know he will continue fighting for our members in the US House of Representatives which is why we are proud to stand with him.”
+International Union of Painters and Allied Trades District Council 36
+"Brad Sherman is a champion for working families.
+That's why the International Union of Painters and Allied Trades District Council 36 enthusiastically endorse his re-election to Congress.
+Brad has been a force for good -- and an effective voice for our members in Congress."
+Sheet Metal Workers Local 105
+“Workers need fighters in Congress who stand with the labor movement, pushing for workers’ rights, better wages, investments in infrastructure to create jobs, healthcare access and retirement security.
+Brad Sherman has stood shoulder to shoulder with us for decades.
+He is an ally, a warrior and a steadfast passer with us.
+That is precisely why the members of SMART Local 105 are pleased to announce our enthusiastic endorsement of Brad Sherman’s re-election for Congress.
+“
+United Association Local 250
+“Brad Sherman has been a fierce and bold voice for working people.
+He has been an ally in the fight for more good paying union jobs, healthcare access, workers’ rights and retirement security.
+For these reasons and many more, the members of United Association (UA) Local 250 are proud to endorse Brad Sherman’s re-election to Congress.”
+Former LACDP Chair Jimmie Woods Gray*
+“As the former Chair of the Los Angeles County Democratic Party, I am proud to endorse Brad Sherman for Congress.
+Brad is a fighter for working women and men, and for justice and equality for every community.
+We need him in Washington fighting against Donald Trump and to keep delivering for his district.”

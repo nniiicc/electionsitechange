@@ -1,0 +1,154 @@
+NEWS & PRESS
+NEWS ARTICLE
+Can Chris Kluwe win California Assembly, District 72?
+"Many people first came to know Chris during his career with the Minnesota Vikings, but in recent years he's become well known for speaking out on issues ranging from LGBTQ+ rights and free speech to local government and civic engagement.
+His activism has sparked both support and controversy, making him one of the more recognizable voices in California politics." -Crowd Source Carrie
+Check out the interview here!
+NEWS ARTICLE
+He was fired twice for doing the right thing
+"Former NFL punter and author Chris Kluwe joins Lisa Guerrero Unleashed for a candid discussion on fighting for marriage equality, standing against extremism, and stepping into the political arena.
+Kluwe reflects on risking his professional sports career to support marriage equality, his arrest during a peaceful protest at a Huntington Beach City Council meeting over library censorship, and why he is now running for the California State Assembly." -Lisa Guerrero
+Watch the conversation here!
+NEWS ARTICLE
+Chris Kluwe nails it
+"Even if it makes him uncomfortable, this is one of the things Chris needs to do.
+Own the past.
+Embrace the glory.
+Tell stories of gridiron Sundays when hope seemed lost and the Vikings led by two and they were pinned in their own end zone and they needed a Kluwe punt and … and … and …
+Yes, America is collapsing.
+Yes, Donald Trump is awful.
+Yes, Gracey Van Der Mark is nuts.
+But, sadly, we have the attention spans of gnats.
+This is the s*** one must do." -Jeff Pearlman
+NEWS ARTICLE
+Huntington Beach has been a MAGA stronghold.
+Chris Kluwe has other plans.
+"Chris Kluwe swears that, even now, he doesn’t want to be a politician.
+He just wishes that everyday things in his longtime hometown of Huntington Beach made sense." -Farley Elliott
+NEWS ARTICLE
+Toxic and Problematic with Chris Kluwe
+"Lazlo and SlimFast talk with former NFL punter Chris Kluwe about his journey from the NFL to becoming a full-blown social activist.
+They get into football, social media, and how Kluwe got into California politics." -Church of Lazlo Podcasts
+Check out the full podcast here!
+NEWS ARTICLE
+Chris Kluwe is The Guy
+"At the most recent Huntington Beach City Council meeting, he showed what leadership is." -Jeff Pearlman
+Watch the full video here!
+NEWS ARTICLE
+In California’s AD-72 race, Chris Kluwe takes lead in field of 4 vying for the open seat
+"Chris Kluwe sprang to the lead on Tuesday night, with Gracey Van Der Mark in second and Matthew Harper and Frank Wagoner trailing behind in early primary returns for California’s 72nd Assembly District.
+Kluwe, a community activist and former NFL player, acknowledged Tuesday evening that results could change as more votes are tallied, but said he believes voters responded to the themes of his campaign."
+NEWS ARTICLE
+Chris Kluwe has a real shot
+"And while I am thrilled for Chris, I think it’s important for Democrats (and other reasonable people) to really get involved here.
+Chris is, truly, a great dude.
+Smart, intellectual, overflowing with decency, integrity.
+He’s the rare NFL vet who doesn’t like talking about the NFL.
+He’s much more into issues, solutions.
+But, to win the general, he’s going to need three things:
+A huge turnout.
+To take some of Harper’s 17 percent.
+To make people aware of Gracey’s awfulness." -Jeff Pearlman
+NEWS ARTICLE
+Kluwe settles with Epting in defamation case, pair call for civility in Huntington Beach
+Showing the importance of recognizing opposing views while also keeping accounts factual and based in reality, Chris Kluwe and Chris Epting have agreed to a settlement supporting local journalism in Kluwe’s defamation case against Epting.
+NEWS ARTICLE
+Former NFL punter — a Democrat — rips Gavin Newsom in California Assembly race
+“'I am fully cognizant of the registration numbers of the district, and it does lean Republican by like seven or eight points by registration,' Kluwe said.
+'But the thing is, I grew up in this district.
+The vast majority of people who live here, particularly in this district, really just want their government to work and to leave them alone.
+They don’t want culture war nonsense.'” -Josh Koehn
+NEWS ARTICLE
+Chris Kluwe, AD-72 candidate, 2026 primary election questionnaire
+"Ahead of the June primary election, the Southern California News Group compiled a list of questions to pose to the candidates who wish to represent you.
+You can find the full questionnaire below." - Erika I.
+Ritchie
+NEWS ARTICLE
+Former NFL punter Chris Kluwe is ready to turn his activism into a political career
+"HUNTINGTON BEACH, Calif. — For eight years, Chris Kluwe plied his trade by trotting onto the field on fourth downs and booting a football back to the opposing team.
+Yet when Kluwe saw an opportunity last year to help his community — and fight for what he believes in — the former Minnesota Vikings punter couldn’t resist the compulsion to go for it." -Michael Silver
+NEWS ARTICLE
+Chris Kluwe has some stuff to say
+"Yesterday, Chris Kluwe came to my class to chat about his days as a punter at UCLA, then for the Minnesota Vikings.
+Chris is just a really good dude.
+Honest.
+Earnest.
+Refreshingly nerdy and down to earth.
+There are no airs, no sense of entitlement.
+Again—a good dude.
+Before class, we sat down for pizza, and chatted about his run against the out-of-her-mind Gracey Van Der Mark, who puts the Q in QAnon and the cashews in nuts.
+PRESS RELEASE
+Chris Kluwe Emerges as the Strongest Democrat Poised to Flip Assembly District 72
+Since launching his campaign in the fall of 2025, Kluwe has consolidated support from Democratic leaders and labor unions across Orange County and California, earning endorsements from a broad coalition of workers, educators, and elected leaders who recognize both the urgency of this race and Kluwe’s ability to win.
+NEWS ARTICLE
+The Former NFL Player Who Embodies the Rage of the Trump Resistance
+"Chris Kluwe exemplifies the engaged civil disobedience we desperately need in this time." -THE NEW REPUBLIC
+Press release
+Former NFL Player & OC Community Leader Chris Kluwe Launches Campaign for State Assembly District 72
+Chris Kluwe, long-time Orange County resident, former Minnesota Vikings player, author, father, and longtime advocate for civil rights, officially launched his campaign today to become the next Assemblymember for California’s 72nd Assembly District, encompassing the communities of Seal Beach, Huntington Beach, Newport Beach, Laguna Beach, Laguna Woods, Laguna Hills, and Aliso Viejo.
+NEWS ARTICLE
+Chris Kluwe, once arrested at a Huntington Beach Council meeting, will run for Assembly
+"Chris Kluwe, the former NFL punter who seized national attention when he was arrested during a Huntington Beach City Council meeting, will run for the 72nd Assembly District seat.
+Although there have been consistent pleas from people he’s met over the last several months since that City Council meeting to run for public office, Kluwe said he’s been reluctant to become a politician." -OC REGISTER
+NEWS ARTICLE
+Speaking Truth in MAGA Country: Chris Kluwe on Free Speech
+"Huntington Beach, a community often characterized as a stronghold of MAGA ideology in Southern California.
+It was here, during a heated City Council meeting, that Kluwe was arrested for doing what many would consider the most fundamental act in a democracy: speaking out.
+'I went to the microphone to share concerns about the direction of the city and the silencing of dissent,' Kluwe told LA Progressive.
+'Apparently, that was enough to get me arrested.'” -LA PROGRESSIVE
+NEWS ARTICLE
+Chris Kluwe got arrested protesting MAGA.
+He's still protesting because 'it's the right thing to do'
+"Kluwe, who has been critical of Republicans' 'fascism' as well as Democrats' inaction, says that it's 'a very welcome sign' to see the recent push back against the Trump Administration, particularly from elected officials.
+As a 'peaceful, law abiding citizen,' Kluwe says 'I don't really want to be doing these things — I want you to do your job.'" -THE ADVOCATE
+NEWS ARTICLE
+Ex-NFL punter Chris Kluwe says he was fired as a high school coach over MAGA plaque protest
+"Last week, Kluwe spoke out against a nod to the MAGA slogan popularized by President Donald Trump being featured on a commemorative plaque outside Huntington Beach Central Library.
+After the speech, which was widely shared on social media, Kluwe engaged in what he called the “time-honored American tradition of peaceful civil disobedience” – approaching the council members sitting in front of him before being restrained by police." -CNN
+NEWS ARTICLE
+Chris Kluwe isn't backing down after arrest for MAGA protest.
+'Somebody's got to step up'
+"Of his own protest and arrest, Kluwe added, 'This is something that I feel our Democratic officials should be doing and they’re not doing it.
+So if they’re not doing it, somebody’s got to step up.
+And if I’m in a position where I can step up, I’ve got to do it.’" -USA TODAY
+NEWS ARTICLE
+Ex-NFL player Chris Kluwe explains why he got arrested protesting Huntington Beach MAGA library sign
+"Former NFL punter Chris Kluwe made national headlines more than a decade ago for his vocal support of same-sex marriage while playing for the Minnesota Vikings.
+This week, the Orange County native garnered attention closer to home when he railed against a “MAGA” acrostic plaque that’s set to be placed outside the Huntington Beach Central Library in celebration of its 50th anniversary." -LA TIMES
+NEWS ARTICLE
+Former NFL punter Chris Kluwe arrested over anti-Trump protest at city council meeting
+"Kluwe, who punted in Minnesota for eight seasons, took the podium during Tuesday night's public comment section of the Huntington Beach City Council meeting, expressing his opposition to the city honoring Trump." -NBC NEWS
+NEWS ARTICLE
+Here's How NFL Players Are Reacting To Trump's "Son Of A Bitch" Comment
+"President Donald Trump declared on Friday that NFL team owners should fire any 'son of a bitch' who doesn't stand for the national anthem — an apparent reference to Colin Kaepernick, who kneeled to the flag in a political protest last year.
+Former player Chris Kluwe didn't hide his criticism." -BUZZFEED NEWS
+NEWS ARTICLE
+Taking a Stand: 10 of the NFL's Most Notable Advocates and Activists
+"A former punter for the Minnesota Vikings, Kluwe found himself in the middle of a media firestorm as the debate over same-sex marriage raged in 2013.
+A staunch supporter of equality, the athlete penned a letter admonishing Maryland delegate Emmett C.
+Burns Jr. for his chastising of Baltimore Ravens linebacker Brendon Ayanbadejo, himself an outspoken advocate for LGBT rights." -ROLLING STONE
+NEWS ARTICLE
+Chris Kluwe, the candid crusader
+"Kluwe is not a one-trick pony.
+He’s taken on various issues, from the football-centric (punter Ray Guy’s omission from the Pro Football Hall of Fame, the last NFL lockout and concussions, to name a few) to personal freedoms in American society.
+The topic of gay rights has been on the forefront, however, because it’s an issue not only in professional sports locker rooms, but for the nation." -OC REGISTER
+NEWS ARTICLE
+Chris Kluwe On What Cost Him His Job With The Minnesota Vikings
+"Kluwe, a straight man, says his outspoken support of same-sex marriage cost him his job.
+'In my mind, there's no logical conclusion that can be drawn, other than that I was fired for my activism,' Kluwe tells Michel Martin, host of NPR's Tell Me More." -NPR
+NEWS ARTICLE
+Chris Kluwe has a commitment to excellence
+"Outspoken Oakland Raiders punter and social activist Chris Kluwe has a much different outlook than the stereotypical NFL player.
+His philosophy, in part, is to 'try not to be like everybody else.'" -OC REGISTER
+NEWS ARTICLE
+40 Under 40: Chris Kluwe, Minnesota Vikings
+"Pro football player, civil rights advocate and Internet gladiator Chris Kluwe is a high achiever, even when only considering his day job as a punter for the Minnesota Vikings.
+However, in the past year, Kluwe — for years a strong presence online — has used his notoriety, writing ability and often profane wit to dramatically shape social policy by waging a personal campaign against the proposed constitutional ban on gay marriage." -MINNESOTA BUSINESS JOURNAL
+NEWS ARTICLE
+Ellen DeGeneres Praises Vikings' Chris Kluwe
+"On Tuesday's episode of her daytime talk show, Ellen DeGeneres says she's become a Minnesota Vikings fan, even though she also says the Green Bay Packers are one of her favorite teams.
+The new fandom comes in response to punter Chris Kluwe's controversial recent letter detailing his stance on defending gay marriage." -CBS NEWS
+NEWS ARTICLE
+Vikings' Kluwe marches to his own tune
+"There is not another player in the NFL quite like Chris Kluwe.
+" -YAHOO SPORTS

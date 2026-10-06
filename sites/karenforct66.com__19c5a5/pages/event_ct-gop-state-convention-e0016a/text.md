@@ -1,0 +1,39 @@
+Skip to primary navigation
+Skip to main content
+Skip to footer
+Karen Reddington-Hughes
+State Representative CT66
+About
+Where I Stand
+News & Updates
+Our District
+Bethlehem
+Litchfield
+Morris
+Warren
+Woodbury
+Calendar
+Gallery
+Get Involved
+« All Events
+This event has passed.
+CT GOP State Convention
+May 15
+-
+May 16
+«
+Woodbury Board of Finance Public Hearing
+CT66 House Convention
+»
+Add to calendar
+Google Calendar
+iCalendar
+Outlook 365
+Outlook Live
+Details
+Start:
+May 15
+End:
+May 16
+Organizer
+CT GOP

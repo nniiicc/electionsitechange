@@ -1,0 +1,22 @@
+NYSUT-ENDORSED CANDIDATE GENDEBIEN HOSTS POTSDAM ROUNDTABLE WITH LOCAL TEACHERS
+September 18, 2026
+FOR IMMEDIATE RELEASE
+Friday, September 18, 2026
+CONTACT
+press@blakeforny.com
+NYSUT-ENDORSED CANDIDATE GENDEBIEN HOSTS POTSDAM ROUNDTABLE WITH LOCAL TEACHERS
+NYSUT members discussed the issues facing their union and public education in the North Country
+POTSDAM, N.Y. – This past Tuesday, Blake Gendebien sat down with local educators to discuss critical issues affecting the North Country, including high poverty rates, the ongoing mental health crisis affecting communities, and population loss in rural regions of New York.
+One focus of the conversation was poverty and the growing role of schools as safety nets in NY-21.
+Speakers focused on high local poverty rates that push districts to take on responsibilities well beyond the classroom, including universal kindergarten, free meals, and “community school” models that provide mental health services alongside academics.
+Meanwhile, North Country educators are stretched thinner than ever, leaving the profession facing shortages in critical subjects like special education and world languages.
+“As rural population loss shrinks funding to our local districts, schools are left with just as much need but fewer resources to meet it,” said Gendebien.
+“This squeeze has only worsened with a lack of investment in union jobs and economic opportunities, including manufacturing and supply-chain growth not only in St.Lawrence County, but across the district.
+Furthermore, a destabilized federal Department of Education makes it harder to obtain basic support and public service loan forgiveness that keeps new teachers in the field.
+The North Country needs a voice in Washington who understands that fighting for its schools means fighting for its healthcare, its economy, and its future, simultaneously.”
+###
+Blake and his wife Carmen have raised their three sons on Twin Mill Farms in Lisbon, milking 500 cows and farming 1200 acres.
+Blake and Carmen also started The Jules of Life Foundation, which provides resources and support to North Country families battling pediatric cancer.
+For the past 10 years, Blake has served as Vice Chair of the Cooperative Board of Agri-Mark, representing the interests of farmers from across the region.
+He is a former member of the Lisbon Central School Board and was a longtime junior varsity basketball coach.
+Blake is committed to being a bipartisan leader who will lower costs, save our rural healthcare, and end the corruption in Washington.

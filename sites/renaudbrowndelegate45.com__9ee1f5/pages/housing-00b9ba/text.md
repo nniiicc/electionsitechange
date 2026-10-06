@@ -1,0 +1,56 @@
+Of the 227,226 occupied housing units in Baltimore City, 49.1% are owner-occupied, while 50.9% have renters living in them.
+As of Aug. 2026, there are 11,810 vacants.
+Income inequality is the greatest financial burden that topples all other issues of progress in our nation.
+Minorities, poor Whites, and now the LGBTQ+ community, have taken the backseat for centuries and any offerings of reparations will not forgive the sins of our dreadful past.
+In the Jim Crow ’30s, redlining was the rule of lending denied to communities of color, by red color, to exclude them from capital.
+Though the practice was banned by the Fair Housing Act in 1968, it’s like the New Jim Crow; it still exists today!
+HUD (Housing and Urban Development) won a lawsuit against Associated Bank in 2015.
+There are some protections for LGBTQ+ people
+These states/city prohibit housing discrimination based on sexual orientation and gender identity.
+- California, Colorado, Connecticut, Delaware, District of Columbia, Hawaii, Illinois, Iowa, Maine, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico, Oregon, Rhode Island, Vermont and Washington.
+In addition to the states listed above, another four states prohibit housing discrimination based on sexual orientation only.
+- Maryland, New Hampshire, New York and Wisconsin.
+Courts and administrative agencies in several additional states have interpreted either their sex or disability discrimination statutes to prohibit certain forms of discrimination against transgender people.
+We’ve got to curb homelessness.
+Priority: End vacant housing!
+Search status of Baltimore City property:
+https://cels.baltimorehousing.org/reg/Search_Reg.aspx
+Legislation in Baltimore City:
+In Rem Foreclosures
+Land Bank
+Mary Pat Clark Opportunity to Purchase Act
+Mayor Scott’s Plan is to invest $3 Billion in Properties in Blocks to include occupied properties containing vacants.
+Partner: DHCD
+Johnston Square Impact Investment Area
+Southwest Impact Investment Area
+Coldstream Homestead Montebello Impact Investment Area
+East Baltimore Midway Impact Investment Area
+Park Heights Impact Investment Area
+Broadway East Impact Investment Area
+2026
+26-0235
+Department of Housing and Community Development – Specific Powers – Amendment
+Introduced on 09.14.2026
+This legislation allows for the Baltimore City Department of Housing and Community Development to acquire vacant properties through condemnation in order to rehabilitate them for productive use.
+26-0059R
+Informational Hearing – Affordable Housing Trust Fund
+Introduced on 07.13.2026
+This resolutions requires that the Baltimore City Department of Housing and Community Development, the Affordable Housing Trust Fund Commission, and inviting relevant stakeholders to appear before the City Council and to provide annual reports on the accomplishments of the Affordable Housing Trust Fund, including units produced and residents helped, the income level of residents served, the required items to be reported upon that are specified in both the Charter amendment that established the Fund and in the ordinance that created the funding source, and any additional information the Council may request.
+26-0152
+Installment Payment Plans – Property Taxes in Arrears – Residential Property
+Introduced on 02.23.2026
+Enacted on 04.27.2026
+This bill would authorize certain property tax arrearages to be paid through an installment payment plan; requiring the Director of Finance to establish an installment payment program; setting eligibility requirements for the program; prohibiting the Director from taking certain action against a person if compliant with a plan; establishing the effect of non-compliance with a plan; specifying the contents of the notice of an offer of a plan; specifying certain terms of the installment payment plan.
+2025
+25-0118
+Planned Unit Development – Designation – Tivoly Eco-Village
+Introduced on 11.10.2025
+Enacted 03.18.2026
+This ordinance will approve the application of Urban Green LLC, acting as authorized agent of the owner of certain real property located at 2700-2798 Tivoly Avenue, 2701-2793 Tivoly Avenue, 2700-2770 Fenwick Avenue, 1701-1711 28th Street, 1811-1813 28th Street, 2700-2740 Hugo Avenue, and 2701-2735 Hugo Avenue, to have that property designated as a Planned Unit Development.
+Federal Projects from Representative Kweisi Mfume (in progress)
+- Acquisition and Renovation of Blighted Properties in Park Heights – $1,250,000
+- Baltimore Safer Haven Shelter – $1,000,000 for homeless youth LGBTQIA+ https://www.baltimoresafehaven.org/home
+- Belvedere Place Affordable Rental Housing Development – $2,500,000 https://planning.baltimorecity.gov/sites/default/files/Belvedere%20Place_UDAAP%20Meeting_20211209_reduced.pdf
+- Elkander Way at Stadium Place – $2,000,000 for Senior Housing https://gedco.org/coming-soon-elkader-way/ (D14)
+- Rehabilitation of Fulton Avenue Homes – $1,500,000 https://unityhomesbaltimore.com/
+- Wayland Village II – $1,500,000 for veteran housing (income below 60% of Median) https://affordablehousingonline.com/housing-search/Maryland/Baltimore/Wayland-Village-Senior-Apartments/10059500

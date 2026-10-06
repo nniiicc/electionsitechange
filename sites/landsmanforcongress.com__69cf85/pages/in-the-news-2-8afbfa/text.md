@@ -1,0 +1,1 @@
+In the News New York Times: In Fight for Congress, Democrats Run as ‘Team Normal,’ Casting G.O.P. as ‘Weird’ Read More Cincinnati Enquirer: “Landsman has done more in one term than many have in their careers in Congress” Read More Cincinnati Herald: “Landsman secures $15m for Southwest Ohio” Read More

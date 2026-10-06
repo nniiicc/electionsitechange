@@ -1,0 +1,6 @@
+The Walk to School
+Monday August 15th, I participated in a motivation event put together by Juan Moore and Pointe South Middle School.
+We met all the...
+Southside Back to School Bash 2
+Saturday August 13th, we hosted our 2nd Annual Southside Back to School Bash at Skate Towne Roller Rink.
+Last year Skate Town USA, the...

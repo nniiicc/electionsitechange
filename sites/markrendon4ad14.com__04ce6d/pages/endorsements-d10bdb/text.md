@@ -1,0 +1,35 @@
+ENDORSEMENTS
+Mark Rendón is proud to be supported by community leaders, public servants, progressive organizers, candidates, and organizations working across the East Bay and California.
+We are grateful for YOUR support and endorsement.
+ORGANIZATIONS
+INDIVIDUALS
+Soli Alpert — Chair, Berkeley Rent Board
+Ida Martinac — Berkeley Rent Board Commissioner
+Boona Cheema — Former Executive Director, BOSS
+Margot Smith — 2024 candidate for State Assembly, District 14
+Robert Lieber — Former Mayor of Albany
+Dr.
+Butch Ware — 2026 primary candidate for California Governor
+John Selawsky — Former President, BUSD Board of Education; former Chair, Berkeley Rent Board
+Marjorie Mikels — 2026 primary candidate for State Attorney General
+Glenn Turner — 2026 primary candidate for State Treasurer
+Don Macleay — Former candidate for Oakland Mayor
+Laura Wells — Former candidate for California Governor
+Orlando Johnson — Former candidate for Oakland Mayor
+Phoebe Thomas Sorgen — Former Berkeley City Council candidate
+Greg Jan — Council Member, Green Party of Alameda County
+Nassim Nouri — Green Party of Santa Clara County Council
+Jon Sternberg — Retired Nurse, CA Nurses Association
+Stan Woods — Member.
+KPFA.
+Local Station Board
+Dr.
+Shaina Maxey Pomerantz — 2024 Candidate for Oregon Attorney General; Lawyer, educator, advocate
+John Callaway — Retired Professor
+Stephen Josephson — Retire resident
+Mari Mendonca — Organizer/Advocate
+Suzanne Baker
+Steve Wedgwood
+* Individual endorsers’ affiliations are included for identification purposes only
+Endorse Mark
+By completing this form to endorse Mark Rendón on behalf of your organization or as an individual, you are joining us to bring true representation to Assembly District 14.

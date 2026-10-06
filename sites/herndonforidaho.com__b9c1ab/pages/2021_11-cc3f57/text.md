@@ -1,0 +1,3 @@
+Nov 25, 2021 | Herndon's Editorial
+I have gotten many messages in recent days asking me what I think of water adjudication and whether the state is trying to steal water.
+First, here is the headline we have seen recently in North Idaho news: IDWR sending out 5,000 notices to water users in the Priest...

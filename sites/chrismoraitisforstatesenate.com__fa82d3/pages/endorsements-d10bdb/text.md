@@ -1,0 +1,56 @@
+Endorsements
+Chris Moraitis has received the following community endorsements:
+- Van Buren County Sheriff Daniel Abbott
+- Van Buren County Prosecutor Susan Zuiderveen
+- Van Buren County Drain Commissioner Joe Parman
+- Jay Blair – Assistant Prosecuting Attorney
+- Waverly Township Supervisor, Tony Millek
+- Waverly Township Clerk, Starr Houston
+- Waverly Township Treasurer, Many Wright-Johnson
+- Waverly Township Trustee, Tom Fleetwood
+- Porter Township Supervisor, Chris Oxley
+- Porter Township Clerk, Heather Smith
+- Porter Township Treasurer, Andy Nesbitt
+- Porter Township Trustee, Nate Bitely
+- Porter Township Trustee, Laura Packer
+- The Honorable Tonya Schuitmaker
+- The Honorable James Middaugh
+- The Honorable Mary Ann Middaugh
+- Marcellus Township Supervisor Ed Koshar
+- Bangor Township Supervisor Mike Sullins
+- Village of Bloomingdale Supervisor Justin Crawford
+- Bloomingdale Township Supervisor Matt Ashbrook
+- Ken Wahmhoff
+- Ron Reisterer
+- The Honorable Dale Shugars
+- Greg and Marian O’Niel
+- Shaun Willis
+- Shelly and Dennis Hartmann
+- Jim and Andrea Klett
+- Chip and Kim Klett
+- Tod Kubiszak
+- George Lucas
+- Former Albion College President Joe Calvaruso
+- Donna Calvaruso
+- Apollo Braganini
+- John Braganini
+- Van Buren County Register of Deeds Paul DeYoung
+- Patrick Warner
+- Don Olendorf
+- Lindsey Kronemeyer
+- Sabrina Pritchett Evans
+- Balkema family
+- Zachary Morris
+- Cindi Compton
+- Austin Kreutz
+- Dietrich family
+- Tom George
+- Ken Beyer
+- Ken Yonker
+- County Commissioner Kurt Doroh
+- County Commissioner Mike Chappell
+- County Commissioner Paul Schincariol
+- County Commissioner Tina Leary
+Endorse Chris
+Want to endorse Chris Moraitis for State Senate?
+Fill out the form below.

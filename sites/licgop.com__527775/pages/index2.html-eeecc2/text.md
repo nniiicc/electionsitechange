@@ -1,0 +1,15 @@
+| | Edward Lee Republican for NYSAssembly District 36 | | | | | | |
+The NYS 36th Assembly District includes Long Island City and Astoria in Queens, NY
+| Press | | | Political clubs and current candidates | | | Past candidates | |
+| | Tara Szczepanski Host of the Polish American Brotherhood show | | | North Brooklyn Republican Club | | | Tom Zmich - former Republican candidate for US Congress |
+| | News4us.world Steven Phillips from Arizona | | | Andy Williams Jr.
+Republican candidate for Attorney General for Illinois | | | Dr.
+Linda Guillebeaux activist and former Democrat candidate for Public Advocate |
+| | Mike Cohen, International journalist for major news networks, after going blind opened up his podcast "Mike of New York" | | | Gonzalo Duran Vice Chairman of the Bronx County Conservative Party Candidate for US Congress for NY-15 | | | The Lord K Born former Green candidate now with the Conservative Party Former candidate for State Assembly District 86 |
+| | Annastasia Petsas Theodoropoulos of the MAGA Kingdom Report | | | Dylan Modarelli Republican candidate for US Congress Florida's 9th district | | | Steven Lee Whistleblower who took on the NYPD and former candidate for NYS Assembly District 40 |
+| | | | | John Riccotone Republican candidate for NYS Assembly 47 Retired Police Officer President of Community Education Council District 20 | | | Salamander Brandy Co-chair Memphis DSA Former candidate for Mayor of Memphis |
+| | | | | Grace Marrero Conservative Party candidate for NYS Senate District 36 | | | Jonathan Rinaldi for NYS Assembly District 28 |
+| Activists and Organizers | | | | | | | |
+| | Lisa Henschol Color of Change LA chapter | | | Edwin Delacruz Vice President of the Manhattan GOP | | | Otis Johnson - The longest wrongfully incarcerated man in NYS history |
+| | Jay Rene of Prison Riot Radio | | | Aura Moody Republican Queens County Committee | | | Alan Collinge Founder of Student Loan Justice |
+| | | | | | | | |

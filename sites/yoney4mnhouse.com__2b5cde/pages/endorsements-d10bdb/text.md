@@ -1,0 +1,38 @@
+Endorsements
+I am proud to be endorsed by these organizations and community members.
+- Minnesota DFL (Democratic Party)
+- 314 Action
+- AFSCME Council 5
+- Education Minnesota
+- Inter Faculty Organization (IFO)
+- Minnesota AFL-CIO
+- Minnesota Association of Professional Employees (MAPE)
+- Minnesota Professional Fire Fighters Association
+- Minnesota Teamsters Joint Council 32
+- Minnesota Young DFL (MYDFL)
+- Save the Boundary Waters Action Fund
+- Stonewall DFL
+- Sierra Club
+- Women Winning
+- Representative Heather Keeler
+- Former Clay County DFL Chair Athena Gracyk
+- New Roots Midwest Executive Director Cani Adan
+- David Hunstad
+- Former Mayor Del Rae Williams
+- Em Christie
+- Moorhead City Council Member Emily Moore
+- Dr.
+Erin Gillam
+- Former ND House Representative Hamida Dakane
+- Moorhead City Council Member Heather Nesemeier
+- Former Clay County DFL Chair Julian Dahlquist
+- Former Moorhead School Board member Kara Gloe
+- Katie Cragg
+- Kawar Farok
+- Kelly Gorsz
+- Nathan Schoenack
+- Moorhead City Council Member Nicole Mattson
+- Former Moorhead City Council Member Sara Watson Curry
+- Former Moorhead City Council Member Shelly Dahlquist
+- Former Moorhead Human Rights Commission Chair Siham Amedy
+- Former Moorhead City Council Member Steve Lindaas

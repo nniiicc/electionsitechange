@@ -1,0 +1,31 @@
+ENDORSEMENTS
+U.S.
+Senator Eric Schmitt
+Congressman Sam Graves
+Chairman Jim Jordan
+Missouri Attorney General
+Catherine Hanaway
+Speaker Pro-Tem Chad Perkins
+State Senator Cindy O'Laughlin
+Representative Jeff Farnan
+Representative Josh Hurlbert
+Representative Mark Meirath
+Representative Dean VanSchoiack
+Mayor Damien Boley (Smithville)
+Mayor Randy Pogue (Kearney)
+Mayor Talt Holman (Macon)
+Mayor Dusty Sawyer (La Plata)
+Holt County Presiding Commissioner Tom Bullock
+DeKalb County Presiding Commissioner Kyle Carroll
+Clinton County Sheriff AJ Carrel
+Former Congressman Mike Conaway
+Former State Senators: Brad Lager & Dan Hegeman
+Former State Representatives: Casey Guernsey, Doug Richey, T.J.
+Berry, Doug Ervin, & Kathy Chinn
+Dekalb Co.
+Western district Commissioner Kyle White
+Excelsior Springs Councilman Mark Spohn
+Former Platte County Commissioners: Dagmar Williams & John Elliott
+MO Right to Life
+Moms for America Action
+CPAC

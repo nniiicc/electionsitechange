@@ -1,0 +1,77 @@
+ABOUT
+Learn More About Cheryl Youakim, Minnesota State Representative 46B
+Cheryl Youakim
+Minnesota Representative 46B - Serving Hopkins, Edina, & St.
+Louis Park
+email: cheryl@cherylyouakim.com
+mobile: (952) 240-2278
+It has been an honor to serve Hopkins, Edina and St.
+Louis Park in the legislature for the last eleven years.
+I am excited to announce my re-election bid for SD46B.
+During our last legislative session, we had a historic tie in the Minnesota House, 67-67.
+Our GOP colleagues wanted to roll back our historic investments in education, health care, reproductive freedom, affordable housing, repeal Paid Family & Medical Leave, and more.
+Our Federal Government has done even more damage.
+Before our very own eyes, the Trump administration has sent over 3,000 Federal agents into Minnesota to terrorize our communities, disappear our neighbors, shred the constitution, and kill Renee Good and Alex Pretti.
+Trump is also cutting Federal funding that will harm Minnesota families and some of the most vulnerable members of our communities.
+I have worked hard to and will continue to fight to make sure our communities are safe, healthy, and affordable.
+I would be honored to have your support to continue the work for you as your State Representative.
+Folks want quality education, from our youngest learners to those preparing for careers and college, access to affordable childcare, money in long-term care, investment and reform in community public safety to feel protected and supported, a dependable transportation system, and to protect our environment as well as our rights.
+I will always stand for our rights to love who we love, worship how we choose, and to equal protection under the law no matter who we are, what we look like, or where we live.
+I look forward to conversations with you.
+Please feel free to reach out at 952-240-2278 or cherylyouakim.com.
+I will also be posting my upcoming January – March Community Conversations on the events page as well as on facebook and my email legislative update.
+About
+Cheryl Youakim has been married to Jacques Youakim (Hopkins School Teacher) since 1992.
+They are proud parents to Madeline, Gannon & Jacob.
+Since 1997, they have lived in Hopkins and are involved in their community on many different levels.
+Cheryl is currently the state representative for Hopkins, Edina, and St.
+Louis Park and a former Hopkins City Council Member.
+She has a B.A. in Journalism from the University of Minnesota, a M.A. in Public Administration from the St.
+Mary’s University, and works in our public school classrooms as a substitute teacher and paraprofessional when the legislature is not in session.
+Cheryl’s Legislative Record
+- Currently, Cheryl is is the Co-Chair of the House Education Finance Committee where she has been able to protect the investments made in 2023-2024 as well as continue to make sure our schools have the resources to meet our student’s needs.
+- Cheryl also serves on the the House Tax Committee and the House Ways & Means Committee
+- During the 2023-2024 legislative session, Cheryl was the Chair of the House Education Finance Committee where she was able to work with colleagues to make an additional $5.4 billion dollar investment in our public education system
+- Formerly, as the Chair of the House Property Tax Division, she was able to make investments to reduce property taxes and help local governments provide essential services.
+- Formerly the Chair of the House Education Policy Committee and has served on the House Transportation Policy Committee, Government Operations Committee, Higher Education Committee, and the Rules Committee
+- Cheryl has worked to pass bi-partisan legislation such as the Hometown Heroes bill to assist firefighters with cardiac care, mental health supports, and financial support for cancer treatments
+- Cheryl has also passed legislation to enhance the Minnesota Missing Person’s Network, access to mental health supports for our students, pushed for the completion of the SWLRT project, increased funding for our public schools, provide a variety of supports for our local communities, and invested in property tax relief for Minnesotans
+- As a former City Council member, she understands the importance of protecting our school boards and city councils ability to make local decisions.
+Cheryl’s History of Community Involvement
+- Currently is a substitute paraprofessional and short-call subsitute teacher in the Hopkins, Edina, and St.
+Louis Park Schools
+- Joined the Edina Morningside Rotary
+- Former volunteer at Perspectives in St.
+Louis Park
+- Former Hopkins City Council (2005-2013)
+- Southwest Light Rail Transit Corridor Management Committee
+- League of Minnesota Cities Economic Development Committee
+- Rotary Club Member
+- Former Hopkins Human Rights Commission Member
+- Hopkins Citizens Academy Alumni
+- Various Hopkins School District committees: Alice Smith PTO, Legislative Action Coalition, Harley Hopkins Parent Advisory Board, Superintendents Communications Committee
+- Co-Founder of Start Learning Early (an Early Childhood advocacy group)
+- Recipient of the Minnetonka Rotary Club’s “Building Responsible Youth Award” and the WCCO Good Neighbor Award
+- Former Paraprofessional at Harley Hopkins Early Childhood Special Education, Hopkins High School, and Aquila Elementary in St.
+Louis Park
+Cheryl’s Awards
+- 2025 Appointed NCSL Vice Chair Standing Education Committee
+- 2024 Legislative Champion Award – Coalition for Adult Basic Education
+- 2024 Outstanding Legislative Leadership Award – Coalition to Increase Teachers of Color and American Indian Teachers
+- 2024 Legislative Leadership Award – Minnesota School Psychologists Association
+- 2023 Champion of Literacy awarded by the Reading Center & Dyslexia Institute of Minnesota
+- 2023 Legislator of the Year awarded by the Minnesota School Social Workers Association
+- 2023 Legislative Award awarded by the BARR Center (Building Assets, Reducing Risks)
+- 2023 Legislative Award awarded by the Minnesota School Psychologist Association
+- 2023 Outstanding Legislative Leadership Award awarded by the Coalition to Increase Teachers of Color and American Indian Teachers in Minnesota
+- 2022 Legislator of Distinction – Tax Policy Award awarded by the Coalition of Greater Minnesota Cities
+- 2021 Legislator of the Year awarded by the Rethos Policy Institute
+- 2021 Legislator of Distinction awarded by the League of Minnesota Cities
+- 2021 Legislator of the Year awarded by the Minnesota School Social Workers Association
+- 2018 Legislator of Distinction awarded by the League of Minnesota Cities
+- 2017 Legislator of Distinction awarded by the League of Minnesota Cities
+- 2015 Legislator of Distinction awarded by the League of Minnesota Cities
+About House District 46B
+Currently, House District 46B includes the cities of Hopkins, Edina, and St.
+Louis Park.
+Click here to find your polling location and for a map of Senate District 46B.

@@ -1,0 +1,29 @@
+END USER LICENSE AGREEMENT:
+Introduction
+This End-User Agreement (“Agreement”) sets forth the terms and conditions under which you (“User”, “you”, “your”) are granted a limited, non-exclusive, non-transferable license to use the services and content provided by Ted Hill Republican State Representative District 14 | Seat A (“Company”, “we”, “us”, “our”).
+By accessing or using the services and content provided by the Company, you agree to be bound by the terms and conditions of this Agreement.
+Services and Content
+The Company provides a variety of services and content and reserves the right to modify or discontinue any of its services or content at any time without notice.
+Use of Services and Content
+The User agrees to use the services and content provided by the Company only for lawful purposes.
+The User shall not use the services or content in any way that could damage, disable, overburden, or impair the Company’s servers or network, or interfere with any other party’s use and enjoyment of the services or content.
+Intellectual Property
+All services and content provided by the Company, including but not limited to text, graphics, logos, images, and software, are the property of the Company or its licensors and are protected by U.S. and international copyright and trademark laws.
+The User shall not reproduce, duplicate, copy, sell, resell, or exploit any portion of the services or content without the express written consent of the Company.
+Disclaimer of Warranties
+The services and content provided by the Company are provided on an “as is” and “as available” basis.
+The Company makes no representations or warranties of any kind, express or implied, as to the operation of the services or content or the information, content, materials, or products included on the services or content.
+The Company does not warrant that the services or content will be uninterrupted or error-free, and the Company will not be liable for any interruptions or errors.
+Limitation of Liability
+In no event shall the Company be liable for any damages whatsoever, including but not limited to direct, indirect, special, incidental, or consequential damages, arising out of or in connection with the use or inability to use the services or content provided by the Company.
+Indemnification
+The User agrees to indemnify and hold the Company, its affiliates, officers, agents, and employees harmless from any claim or demand, including reasonable attorneys’ fees, made by any third party due to or arising out of the User’s use of the services or content, the User’s violation of this Agreement, or the User’s violation of any rights of another.
+Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the Governing State, without giving effect to any principles of conflicts of law.
+Changes to this Agreement
+The Company reserves the right to make changes to this Agreement at any time.
+The User will be notified of any changes to this Agreement through a notice on the Company’s website.
+The User’s continued use of the services or content following any changes to this Agreement constitutes acceptance of those changes.
+Contact Information
+If you have any questions about this Agreement or the services or content provided by Ted Hill Republican State Representative District 14 | Seat A, please contact us.
+By accepting this Agreement, you acknowledge that you have read, understood, and agree to be bound by its terms.

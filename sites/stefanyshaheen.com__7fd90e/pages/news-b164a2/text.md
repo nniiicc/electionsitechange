@@ -1,0 +1,296 @@
+September 3, 2026
+Press Releases
+80+ New Hampshire Veterans Announce Support for Stefany Shaheen
+Manchester, N.H. – Highlighting her commitment to improving health care and support for veterans and their families, more than 80 New Hampshire Veterans are announcing their endorsement of Stefany Shaheen in New Hampshire’s first congressional district Democratic primary.
+These men and women answered a call to serve and deserve an equal commitment from the American people for their service.
+In Congress, Stefany will fight to get veterans quality health care close to home.
+“The Trump Administration cut veterans’ health care – laying off thousands of employees at the Department of Veterans Affairs – while spending billions of dollars on bombs, a ballroom and tax breaks for billionaires.
+That’s outrageous,” said Stefany Shaheen.
+“Many of those fired were veterans themselves.
+Undoing the damage this Administration has done to health care and other critical services for veterans isn’t enough.
+Our country owes a debt to all those who serve, in Congress I will make sure we honor it.”
+“I’m so proud to have earned the support of 82 veterans from across New Hampshire in this race.
+I will always stand up for them and the people of our state,” added Shaheen.
+September 2, 2026
+Press Releases
+Stefany Shaheen Demands Transparency on Bow Data Center Project, Calls for Moratorium
+Manchester, NH — Documents and plans regarding a proposed data center in Bow must be released to the public immediately, says Stefany Shaheen, Democratic candidate for Congress in New Hampshire’s First District, who is calling for a moratorium on data centers in the state.
+Shaheen is raising concerns over news reports that the project has been under discussion by state and federal officials who have failed to inform Granite Staters.
+“The people of New Hampshire have a right to know what is being built in their own backyard, especially when it involves a project of this scale that could impact their water quality, electric rates, and quality of life,” said Shaheen.
+“It’s clear from reporting by New Hampshire Public Radio that the New Hampshire Department of Energy, the Federal Energy Regulator Commission, Eversource and Granite Shore Power have been discussing this project for some time without sharing any details with Granite Staters.
+That’s unacceptable.”
+August 31, 2026
+In the News
+Mark Hounsell: Vote for Stefany Shaheen, a strong, capable candidate
+I respectfully urge all registered Democrats to support Stefany Shaheen in her candidacy for the party’s nomination to the U.S.
+Congress.
+Her nomination would give voters a strong and capable candidate in November, and I encourage independent voters to participate in the Democratic primary to help ensure that the most compelling choice appears on the ballot.
+Stefany Shaheen is a multi-generational Granite Stater who understands New Hampshire because she is one of us.
+No matter your party affiliation, she stands out as the strongest bipartisan choice on the ballot.
+Her integrity is beyond question, her grasp of the challenges facing our state is unmatched, and her life, upbringing, and public service reflect a deep commitment to the people of New Hampshire.
+New Hampshire is more than a place on a political map.
+It is a collection of communities where people value honesty, independence, hard work, compassion and neighbors helping neighbors.
+That is why I am supporting Stefany Shaheen for Congress.
+August 27, 2026
+In the News
+Stefany Shaheen has my vote because PFAS action matters - Andrea Amico
+The Friday before Memorial Day in May 2014, my life changed forever.
+I read a newspaper article reporting that PFAS, then commonly referred to as PFCs, had been detected in drinking water wells at the Pease Tradeport … That was when Stefany Shaheen, then a Portsmouth city councilor, stepped forward.
+Stefany became the first local elected official to advocate for PFAS blood testing for people exposed at Pease.
+She asked difficult questions and continued pressing when the state initially proposed testing only 100 community members.
+Her willingness to stand alongside families mattered and made a difference.
+August 26, 2026
+In the News
+Hassan endorses Stefany Shaheen in NH-01 primary
+Sen.
+Maggie Hassan is joining the fray in the 1st Congressional District, endorsing Stefany Shaheen … “Stefany Shaheen and I first got to know each other as moms of children with tough health challenges — moms who realized that we needed to fight for our children’s healthcare and inclusion,” Hassan said.
+“Stefany’s fight for her daughter gave her the strength and experience to fight for all families — on the City Council, as an entrepreneur, and on the Police Commission.
+Stefany will bring the same fight to Congress and stand up to Donald Trump and his corruption and lawlessness.”
+I served alongside Stefany Shaheen on the task force that then-Governor Maggie Hassan created to investigate the pediatric cancer cluster I had identified on New Hampshire’s Seacoast in 2014.
+I later spent years on the Pease Restoration Advisory Board, working to address PFAS pollution at the former Pease Air Force Base, and I pushed the EPA to enforce the original Coakley Landfill cleanup plan when regulators sought to roll it back.
+I know exactly what it looks like when someone shows up for this fight because I watched Shaheen do it from the seat next to mine.
+Stefany Shaheen showed up.
+August 24, 2026
+In the News
+State Employees' Association endorses Shaheen in 1st District Democratic primary
+The State Employees’ Association is throwing its support to Stefany Shaheen in the 1st Congressional District Democratic race.
+Shaheen met with union members and leadership Monday morning in Concord.
+Union officials said Shaheen’s support for unions during her time as a Portsmouth city councilor and her deep roots in the Granite State made her their pick in a competitive primary.
+August 23, 2026
+In the News
+Stefany Shaheen calls out Maura Sullivan’s AIPAC-linked donors
+Stefany Shaheen, Democratic candidate for Congress in NH-01, discusses her campaign, her criticism of primary opponent Maura Sullivan and her donors; her support for an end to military aid to Israel; her position on Medicare for All; whether she will oppose socialism in Congress; the DNC’s decision to relegate New Hampshire in the presidential primary process.
+August 18, 2026
+In the News
+Stefany Shaheen proposes criminal penalties related to profiteering off White House
+First Congressional District candidate Stefany Shaheen held a press conference at the Granite State Candy Shop in Manchester, where she said President Donald Trump is profiteering off the White House.
+The Democratic candidate was joined by former state Supreme Court Justice John Broderick.
+Shaheen claims the president has enriched himself by $2 billion in the last year, and she is proposing criminal penalties for profiteering off the presidency.
+August 13, 2026
+In the News
+1st District candidate Stefany Shaheen discusses her environmental agenda in campaign
+Candidate Stefany Shaheen is highlighting the fight to regulate so-called forever chemicals as she tries to win over voters in the 1st Congressional District.
+Shaheen is touting the support of environmental advocates in her campaign.
+It’s a policy realm she’s already quite familiar with.
+A decade ago, she was helping to lead the charge in Portsmouth for water testing after perfluorochemicals were found in a well near the Pease Tradeport.
+August 11, 2026
+In the News
+US Sen.
+Kelly endorses Shaheen in 1st District Democratic primary
+U.S.
+Sen.
+Mark Kelly, D-Arizona, made four journeys into space as an astronaut, and he’s now venturing into New Hampshire’s 1st Congressional District Democratic primary.
+The senator is endorsing Stefany Shaheen in CD-1, telling his fellow Democrats that she is the “fighter we need.”
+“New Hampshire needs a fighter to take on Donald Trump and his hand-picked Republican candidate in November,” Kelly said.
+“When toxic PFAS threatened local drinking water, Stefany Shaheen showed up and demanded testing and clean water for Granite State families.
+Whether she’s standing with her neighbors to stop an ICE detention facility or taking on insurance companies who try to raise the cost of health care, Stefany has what it takes to beat Republicans this fall.”
+August 4, 2026
+In the News
+Shaheen earns endorsement of state's largest teachers union
+Back-to-school is still a few weeks away, but Stefany Shaheen’s campaign is getting a summertime boost from the classroom, as the state’s largest teachers union endorsed her campaign.
+NEA-New Hampshire is backing Shaheen in the competitive, multi-candidate Democratic primary in the 1st Congressional District.
+“NEA-New Hampshire is proud to recommend Stefany Shaheen for Congress because we know she will be a strong voice and vote for New Hampshire public school educators, our students and our schools,” said Megan Tuttle, president of NEA-New Hampshire.
+August 3, 2026
+Press Releases
+In New Ad, Shaheen: “I’ll Raise Hell With Trump And The Insurance Companies”
+Stefany Shaheen, vowing to “raise hell with Trump and the insurance companies” ripping off Granite Staters, says in a new ad, “it’s time the people of New Hampshire stopped paying for Donald Trump’s corruption.” Shaheen, running for Congress in New Hampshire’s First Congressional District, calls out Donald Trump’s unprecedented corruption, including trading health insurance stocks, and cutting health care for Granite Staters while paying for bombs, a new ballroom, and tax breaks for billionaires.
+July 28, 2026
+In the News
+Shaheen works to maintain lead in race for Democratic nomination in 1st District
+First Congressional District candidate Stefany Shaheen is leading the polls for the Democratic nomination, and she’s hoping to maintain that lead into Election Day.
+Shaheen toured the Manchester Fire Department’s central station Tuesday, talking about the wide variety of issues first responders confront on the streets.
+July 23, 2026
+In the News
+Gun violence prevention advocate Giffords endorses Shaheen in 1st District
+Gabby Giffords, a prominent gun violence prevention advocate and former congresswoman, is endorsing Stefany Shaheen in the race for New Hampshire’s 1st Congressional District seat … “Stefany Shaheen has been a leader in her community for years, fighting to protect the well-being of others,” Giffords said.
+“With an advocate like her in Washington, New Hampshire voters will have a true champion for gun safety working tirelessly to protect their families, schools and neighborhoods.
+I know Stefany Shaheen has the determination to fight for lifesaving gun laws — from universal background checks to red flag laws — and she has the grit needed to stand up to corrupt gun industry lobbyists.”
+July 16, 2026
+Press Releases
+The American Federation of Teachers Supports Stefany Shaheen
+AFT’s 3,500 New Hampshire Members Are The Third Union Backing Shaheen in NH-01
+Manchester, N.H. – Citing her commitment to public education and her commitment to standing up for educators amidst relentless attacks from the Trump Administration, the American Federation of Teachers (AFT) is endorsing Stefany Shaheen for New Hampshire’s first Congressional District.
+July 15, 2026
+Press Releases
+Mayors Matt Gerding, Chuck Grassie, and Dennis Shanahan: Why Democratic mayors support Stefany Shaheen
+Every day, we walk the streets of our cities, talking to the people and businesses who keep New Hampshire running.
+We hear firsthand the problems Granite Staters are facing, from financial anxieties that keep them up at night to concerns about their kids’ schools and the cost of housing.
+Unprecedented challenges are stretching families in our communities to the breaking point.
+That’s why we are united in endorsing Stefany Shaheen for Congress.
+July 15, 2026
+In the News
+DiLorenzo, Shaheen land big endorsements
+Two of the leading candidates for the wide open First Congressional District seat, Republican Anthony DiLorenzo and Democrat Stefany Shaheen, secured significant endorsements this week.
+Shaheen, the Democratic frontrunner in a crowded primary field, won the backing of the American Federation of Teachers (AFT).
+Stefany Shaheen announced her latest fundraising haul, saying she will file a figure of more than $400,000 for the second quarter of 2026.
+July 10, 2026
+Press Releases
+In First TV Ad, Shaheen Takes on Trump, Emphasizes Health Care Fight
+Manchester, N.H. – Stefany Shaheen takes on Donald Trump for cutting health care for New Hampshire families to pay for his ballroom, bombs, and tax breaks for billionaires, in the first television ad launched by her campaign for Congress in New Hampshire’s First District.
+For years, Stefany has been fighting the insurance companies denying life-saving care to her daughter, who has type 1 diabetes.
+Fixing America’s broken health care system is personal for Shaheen, and in the ad she vows to fight for every New Hampshire family’s health care as hard as she has fought for her own.
+July 9, 2026
+In the News
+Stefany Shaheen focuses on Trump in first TV ad of campaign
+Stefany Shaheen is targeting President Donald Trump with her first TV ad of the 2026 election cycle in the race for the 1st Congressional District seat.
+Titled “Alarm,” the ad will begin airing on WMUR Friday morning and highlights the struggles Shaheen has faced as the mother of a daughter with type 1 diabetes.
+Elle Shaheen was diagnosed with the disease 18 years ago at the age of 8.
+July 7, 2026
+In the News
+Stefany Shaheen focused on healthcare, economy in Congressional bid
+Stefany Shaheen has her sights set on Congress.
+The Democrat is running with a major focus on healthcare and constituent services.
+June 17, 2026
+In the News
+Pro-Social Security/Medicare PAC backing Stefany Shaheen in 1st Congressional District
+A national political action committee that aims to protect the future of Social Security and Medicare is taking sides in the crowded 1st Congressional District primary and backing Stefany Shaheen’s bid for the open seat.
+The National Committee to Preserve Social Security & Medicare PAC said Shaheen, a former Portsmouth city councilor, has stood out among the six major Democratic candidates in the primary race for one of New Hampshire’s two House seats as a defender of health care for senior citizens.
+June 11, 2026
+In the News
+Stefany Shaheen says she's a 'trusted fighter' who can deliver change in D.C.
+First Congressional District candidate Stefany Shaheen of Portsmouth said she’s a “trusted fighter” with an independent record of accomplishing results…Shaheen, 51, said that despite her political pedigree, she can bring about change on health care, affordability and protecting human rights.
+“I’m running based on my own record of service and my commitment to fighting this administration, and I think that’s what people are looking for, a trusted fighter who can deliver results,” Shaheen said.
+June 11, 2026
+Press Releases
+Endorsed by More Than 65 New Hampshire Health Care Leaders, Stefany Shaheen Files to Run for Congress in NH-01
+Surrounded by supporters, Stefany Shaheen filed to run for Congress in New Hampshire’s first district, vowing to take on Donald Trump, RFK Jr., and the insurance companies that are preventing Americans from getting health care.
+This week, Shaheen was endorsed by more than 65 New Hampshire health care leaders.
+In the coming days, she will be making stops across the district as part of her ‘Road to Better Health Care’ tour, listening to Granite Staters concerns about health care, and sharing her plans to bring down costs.
+June 10, 2026
+Press Releases
+65+ New Hampshire Health Care Leaders Announce Support for Stefany Shaheen
+Highlighting her commitment to improving health care for families, more than 65 health care leaders are announcing their endorsement of Stefany Shaheen in New Hampshire’s first congressional district Democratic primary.
+These are the people helping families across the first district stay healthy and safe – doctors, dentists, therapists, clinicians, and Granite Staters with experience working across many different health disciplines.
+June 5, 2026
+In the News
+Trump EPA rollback of drinking water protections poses risk: Commentary
+We are three mothers who have collectively spent years fighting to prevent forever chemicals from contaminating water in our communities after discovering that the water drawn from the Haven Well at the former Pease Air Force Base in New Hampshire and in seacoast communities nearby —contained highly toxic per- and polyfluoroalkyl substances (PFAS).
+June 2, 2026
+Press Releases
+ICYMI: Stefany Shaheen “Blasts” RFK Jr. on Visit to New Hampshire
+In case you missed it, NH-CD1 candidate Stefany Shaheen slammed Health and Human Services Secretary Robert F.
+Kennedy Jr. during his visit to New Hampshire as part of his “Take Back Your Health Tour.” Stefany highlighted RFK Jr.’s refusal to meet with New Hampshire families and address the concerns of Granite Staters who have lost their health insurance because of Medicaid cuts from the Trump Administration.
+May 29, 2026
+Press Releases
+Why Won’t RFK, Jr.
+Meet With Granite Staters Priced Out Of Health Care?
+Health care advocate and candidate for Congress (NH01) Stefany Shaheen is inviting Health and Human Services Secretary Robert Kennedy Jr. to speak with Granite Staters whose health care has become unaffordable as a result of his actions and the Trump Administration’s health care cuts, during his trip to New Hampshire on Friday.
+May 27, 2026
+Press Releases
+Stefany Shaheen Shares Plans To Strengthen Medicare Ahead of RiverWoods Forum
+Earlier, Shaheen Speaks With Manchester Seniors About Bernie Sanders’ Legislation Extending Medicare Coverage To Vision, Dental and Hearing
+Ahead of a candidate forum at the RiverWoods Retirement Community, Stefany Shaheen is calling for closing coverage gaps in Medicare and halting a Trump Administration plan to use AI to deny coverage and care to people on Medicare.
+Shaheen, a health care advocate and entrepreneur running for Congress in New Hampshire’s first district, will join seniors in Manchester earlier in the day and share her plans for improving health care.
+April 30, 2026
+Press Releases
+Rochester Mayor Chuck Grassie and Somersworth Mayor Matt Gerding Endorse Stefany Shaheen for Congress
+Stefany Shaheen has now been endorsed by every Democratic Mayor in New Hampshire’s First Congressional District
+Citing her record of supporting small businesses and standing up for New Hampshire’s communities, Rochester Mayor Chuck Grassie and Somersworth Mayor Matt Gerding endorsed Stefany Shaheen in New Hampshire’s first congressional district primary.
+April 23, 2026
+Press Releases
+On Earth Day, Stefany Shaheen, New Hampshire Families, Experts and Legislators Gather to Demand Action on PFAS
+On Earth Day, New Hampshire Congressional candidate Stefany Shaheen and a coalition of New Hampshire families, medical professionals, scientists, and state lawmakers gathered for a roundtable discussion to highlight the urgent need to ensure clean drinking water and fight the Trump Administration’s delay of PFAS cleanup.
+Shortly after taking office, Donald Trump’s administration delayed PFAS cleanup by roughly five years at nearly 140 military sites.
+April 1, 2026
+Press Releases
+Stefany Shaheen Raises Over Half A Million Dollars in Q1, Campaign Powered By 2,600+ New Hampshire Contributors
+More than 2,600 Granite Staters have contributed to Stefany Shaheen’s campaign for Congress, which helped her raise over $500,000 in the first 90 days of 2026.
+Just this quarter, the campaign received more than 9,000 contributions and 95% of those contributions were $100 or less.
+Stefany is not taking corporate PAC money.
+She will report having over $1,100,000 on hand.
+February 19, 2026
+In the News
+Portsmouth mayors endorse Stefany Shaheen in 2026 U.S.
+House race
+Stefany Shaheen, Democratic candidate for the U.S.
+House in New Hampshire’s 1st District, received endorsements from city leaders past and present, including multiple mayors during a Feb. 19 gathering.
+Portsmouth Mayor Deaglan McEachern, Assistant Mayor Jo Kelley, former mayors Jack Blalock, Tom Ferrini and Bob Lister as well as former Assistant Mayor Jim Splaine joined Shaheen at Cup of Joe Cafe & Bar.
+February 19, 2026
+Press Releases
+Coalition of Portsmouth Mayors & Assistant Mayors Endorse Stefany Shaheen
+Highlighting her efforts to make a difference for people in Portsmouth, a group of Portsmouth Mayors and Assistant Mayors are endorsing Stefany Shaheen in New Hampshire’s first congressional district Democratic primary.
+Portsmouth Mayor Deaglan McEachern, Assistant Mayor Jo Kelley, former Mayors Jack Blalock, Tom Ferrini, and Bob Lister as well as former Assistant Mayor Jim Splaine, joined Stefany Shaheen at Cup of Joe Cafe & Bar in downtown Portsmouth, on Thursday in support of her campaign.
+December 16, 2025
+Press Releases
+Coalition of Dover Mayors Endorse Stefany Shaheen
+Connected by their shared commitment to making a difference for New Hampshire families, a coalition of Dover Mayors is endorsing Stefany Shaheen in New Hampshire’s first congressional district primary.
+Mayor Elect Dennis Shanahan, current Mayor Bob Carrier and former Mayors Jack Buckley, Karen Weston, Wil Boc and Alex Nossiff, all joined Stefany Shaheen at a local small business in Dover, on Tuesday afternoon in support of her campaign.
+December 16, 2025
+In the News
+Stefany Shaheen works to consolidate support among Democrats in 1st Congressional District
+As 2025 comes to a close, the Democratic front-runner in New Hampshire’s 1st Congressional District race is continuing to consolidate support.
+Stefany Shaheen is showcasing hyperlocal endorsements, with five Dover mayors, whose leadership dates back to the 1970s, and the city’s mayor-elect backing her campaign.
+December 15, 2025
+Press Releases
+Teamsters Local 633 Endorses Stefany Shaheen in NH01 Democratic Primary
+Shaheen Earns First Labor Union Endorsement In the Primary, Representing More Than 5,000 New Hampshire workers
+Citing her commitment to fight for working families, especially to cut skyrocketing costs, Teamsters Local 633 endorsed Stefany Shaheen as their candidate for Congress in New Hampshire’s First Congressional District.
+December 15, 2025
+In the News
+Stefany Shaheen gets first major union endorsement in race for 1st Congressional District
+Stefany Shaheen holds a solid polling lead in the field of 1st Congressional District Democrats, and she is now bolstering her position with the first major union endorsement in the 2026 race.
+Teamsters Local 633, with nearly 5,000 members in New Hampshire, is backing Shaheen as their candidate for Congress in NH-01.
+December 11, 2025
+Press Releases
+Stefany Shaheen: House Republicans Chose Tax Breaks For Billionaires Over Our Health Care
+Stefany Shaheen, a health care advocate and candidate for Congress in New Hampshire’s First District, called out Republicans in Congress for refusing again to extend the Affordable Care Act tax credits that make health care affordable for families.
+Today, Republicans in the U.S.
+Senate killed a three year extension of the ACA credits.
+House Republicans haven’t even held a vote.
+November 18, 2025
+In the News
+Stefany Shaheen to Jake Tapper: We've got to go further and make health care work for people
+Read More
+November 17, 2025
+Press Releases
+Stefany Shaheen Proposes Action To Reduce Health Care Costs For New Hampshire Families
+After taking a stand to oppose last week’s shutdown deal over Speaker Johnson’s unwillingness to ensure a vote in Congress to extend health care tax credits, Stefany Shaheen proposed action she’d take as a member of Congress to reduce the costs of health care for Granite Staters on WMUR TV.
+November 17, 2025
+In the News
+Stefany Shaheen explains opposition to shutdown deal brokered by her mother | CloseUp
+Stefany Shaheen, a Democratic candidate for New Hampshire’s 1st Congressional District, discusses her opposition to the deal to reopen the government, which her mother, Sen.
+Jeanne Shaheen, helped craft.
+November 13, 2025
+In the News
+Stefany Shaheen on CNN: We need to turn anger into action for the health care fight ahead
+Read More
+November 11, 2025
+In the News
+Stefany talks about the health care fight ahead with Jen Psaki
+Read More
+November 10, 2025
+Press Releases
+Stefany Shaheen’s Statement Opposing The Shutdown Deal
+Improving health care has been the cause of my life.
+It’s why I am running for congress.
+So I cannot support this deal when Speaker Johnson refuses to even allow a vote to extend health care tax credits.
+My statement:
+September 17, 2025
+Press Releases
+Dover Mayor Bob Carrier Endorses Stefany Shaheen for Congress
+“Stefany and I share a commitment to giving back to the community where we grew up and raised our families.
+That’s how I know she will never give up, and never stop fighting to make a difference for New Hampshire families,” said Mayor Bob Carrier.
+“From her time on the city council, Stefany has proven that she knows how to bring people together to build consensus and when to stand your ground for what you believe.
+She understands the need for action to reduce the costs of housing, health care, groceries – everything – and she’s got a record of delivering results.”
+July 10, 2025
+Press Releases
+Governor John Lynch Endorses Stefany Shaheen
+“Granite Staters are facing grave and urgent challenges – from destructive tariffs threatening our small businesses and economy, to cuts that will steal health care from thousands.
+Stefany Shaheen can meet these challenges, stand up for New Hampshire, and make a difference,” said Governor Lynch.
+“Stefany built her business here, she raised her family here, she grew up here.
+New Hampshire is part of who she is.
+She has my full support because I know no one in this race understands New Hampshire like she does or has the experience and record she brings of making a difference.”
+June 18, 2025
+Press Releases
+Portsmouth Mayor Deaglan McEachern Endorses Stefany Shaheen for Congress
+“Stefany is the kind of thoughtful, credible and serious leader we need representing New Hampshire in Congress.
+She will protect health care, tackle the rising costs of housing, energy, and groceries, and end these destructive tariffs that are having a crushing impact on local businesses and our tourism economy,” said Mayor Deaglan McEachern.
+“I’ve known Stefany for a long time.
+When she is determined to do something, she never gives up.
+That passion and persistence are exactly what we need right now.”
+May 28, 2025
+Press Releases
+Health Care Advocate and Entrepreneur Stefany Shaheen Launches Congressional Campaign
+A Lifelong Granite Stater, Shaheen Vows To Fight Back Against Trump, Elon, and RFK Jr.’s Assault on Health Care
+Stefany Shaheen, a health care advocate and entrepreneur, today announced she will be a candidate for Congress in New Hampshire’s First District, vowing to stand up for New Hampshire families against the assault on their health care by Donald Trump, Robert F.
+Kennedy Jr. and the Republicans in Congress.

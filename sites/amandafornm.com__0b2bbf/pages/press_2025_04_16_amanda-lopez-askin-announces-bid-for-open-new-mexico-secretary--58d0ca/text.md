@@ -1,0 +1,18 @@
+- Press Releases
+Amanda López Askin Announces Bid for Open New Mexico Secretary of State Seat
+Doña Ana County Clerk Will Make Sure New Mexico’s Small Businesses thrive and Our Elections Remain Safe, Secure, and Fair
+LAS CRUCES—Doña Ana County Clerk Amanda López Askin launched her campaign for New Mexico’s open Secretary of State seat on Wednesday citing the need for proven leadership in the Secretary of State’s office to keep elections safe and to help small businesses succeed.
+“I am running for Secretary of State because it’s never been more important to protect New Mexicans’ right to vote,” López Askin said.
+“With our elections under assault across the country, it’s important we have a Secretary of State who’s ready to stand up to election deniers and extremists.”
+López Askin, in her second term as County Clerk for New Mexico’s second-largest county, has a record of fighting for secure elections.
+In 2020, when our elections were under attack, López Askin persevered, combating misinformation and pushing back on election deniers.
+She even partnered with law enforcement to keep election workers safe and voting running smoothly.
+Further, in her seven years as Doña Ana County Clerk, López Askin has helped new businesses cut through government bureaucracy so business owners can focus on the work they are passionate about.
+“In this time of economic uncertainty, we need to make sure that New Mexico’s small businesses can compete and thrive,” said López Askin.
+“As secretary of state I will provide certainty and stability for New Mexico businesses.”
+López Askin is a proud public servant with deep roots in New Mexico.
+She was raised in Las Cruces by a proud, hard-working single mom who relied on support programs to provide a stable life for her children.
+With the support of her community, hard work and determination, López Askin became a family and mental health therapist and dedicated herself to helping kids in foster care.
+When the opportunity came to serve Dona Aña County as county clerk, she leapt at the chance to continue serving the community that has given her so much.
+As county clerk, López Askin worked with Democrats and Republicans to ensure the integrity of our elections.
+As Secretary of State Amanda will bring her lived and professional experience to serve all New Mexicans by making sure our elections remain safe, secure, and fair, providing transparency in campaign finance, and supporting New Mexico’s businesses.

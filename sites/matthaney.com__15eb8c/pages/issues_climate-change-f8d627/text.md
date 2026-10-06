@@ -1,0 +1,14 @@
+matt on the issues
+Climate Change
+Matt’s Results for San Francisco
+- Supported full enrollment in CleanPowerSF and advanced San Francisco’s goals of phasing out fossil fuels, including city divestment from oil and gas companies.
+- Helped make San Francisco one of the first cities requiring city departments to report their greenhouse gas emissions under SF’s Climate Action Plan.
+- Championed the largest expansion of protected bike lanes in San Francisco history, reducing speed limits to make it safer to walk and bike, and fighting for more funding for Caltrain, BART, and Muni.
+- Authored a policy to make SFUSD the first “net-zero” emissions school district in California.
+- Invested nearly $1 million as Budget Chair into the Department of the Environment to launch initiatives ensuring equitable and inclusive climate action.
+Matt’s Commitments in the Assembly
+- Continue the work of former Assemblymembers Rob Bonta and David Chiu to pass a California Green New Deal that aggressively combats climate change and focuses on environmental justice for low-income and immigrant communities.
+- Fight for unprecedented statewide investments in green infrastructure and sustainable transportation solutions such as charging stations, electric buses, protected bike lanes, and commuter rail projects.
+- Complete the high-speed rail project and bring high-speed rail to the Salesforce Transit Center with the downtown rail extension.
+- Reform environmental laws currently abused in ways that stop clean energy and sustainable transit projects.
+- Invest in wildfire prevention measures, drought preparedness infrastructure, and power grid upgrades to protect Californians from the worst effects of climate-related natural disasters.

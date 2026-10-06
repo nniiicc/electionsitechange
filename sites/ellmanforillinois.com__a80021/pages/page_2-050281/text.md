@@ -1,0 +1,16 @@
+SPRINGFIELD – According to the Centers for Disease Control and Prevention, suicide was the second leading cause of death among people ages 10-14 and 25-34 in the United States, underscoring growing concerns about the role online platforms and AI systems can play in vulnerable users’ mental health crises.
+To increase protections aimed at preventing self-harm, State Senator Laura Ellman advanced legislation to …
+Continue reading
+SPRINGFIELD – State Senator Laura Ellman is advocating for new legislation aimed at banning the use of the toxic herbicide paraquat in Illinois, citing growing evidence linking the chemical to Parkinson’s disease and its mounting impact on families across the state.
+“Paraquat is one of the most toxic herbicides still in use, and the science linking it to serious health risks …
+Continue reading
+SPRINGFIELD – To combat climate change and environmental degradation as well as provide food for students, State Senator Laura Ellman is working to advance legislation aimed at helping schools reduce food waste and ensure more students have access to nutritious meals during the school day.
+“In a state where one in eight people face food insecurity, we should be doing everything …
+Continue reading
+SPRINGFIELD – With nearly one in 10 Americans lacking health insurance coverage according to the U.S.
+Census Bureau, State Senator Laura Ellman is working to advance legislation to ensure Illinois residents are not locked out of coverage due to past-due premium payments.
+“Health care coverage shouldn’t be out of reach for someone simply because they’ve fallen behind on a previous payment,” said …
+Continue reading
+DuPage County Election Commission officials were scrambling Tuesday to deliver paper ballots to early voting sites for precincts in the 41st House District after the precincts were excluded from some electronic voting machines.
+Officials said the 108 precincts weren’t programmed into the machines because of uncertainty about whether state representative candidate Valerie Montgomery would keep her name on the ballot. …
+Continue reading

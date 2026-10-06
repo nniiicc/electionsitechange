@@ -1,0 +1,20 @@
+top of page
+DONATE
+Home
+About
+News & Announcements
+Community Awards
+District 60 | 2022 Race
+2022 Endorsements
+Events
+Free Services & Programs
+Contact
+All Posts
+Capitol News
+Community Event
+Legislation
+Special Session | 2023
+The House of Representatives convened for seven days during this special session, starting on Wednesday, Nov 29 and adjourning on December 7
+Capitol News
+Dec 15, 2023
+bottom of page

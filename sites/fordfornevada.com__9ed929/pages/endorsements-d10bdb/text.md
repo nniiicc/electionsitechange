@@ -1,0 +1,90 @@
+We are strongly supporting
+AARON FORD FOR GOVERNOR
+Catherine Cortez Masto
+U.S.
+SENATOR
+Jacky Rosen
+U.S.
+SENATOR
+Dina Titus
+congresswoman
+Steven Horsford
+congressman
+Susie Lee
+congresswoman
+- Assembly Members
+- Sandra Jauregui, Majority Leader
+- Natha Anderson, Assemblymember (D-30)
+- Tracy Brown-May, Assemblymember (D-42)
+- Max Carter, Assemblymember (D-12)
+- Joe Dalia, Assemblymember (D-29)
+- Reuben D'Silva, Assemblymember (D-28)
+- Tanya Flanagan, Assemblymember (D-7)
+- Cecelia González, Assemblymember (D-16)
+- Linda Hunt, Assemblymember (D-17)
+- Jovan Jackson, Assemblymember (D-6)
+- Selena La Rue Hatch, Assemblymember (D-25)
+- Elaine Marzola, Assemblymember (D-21)
+- Brittney Miller, Assemblymember (D-5)
+- Cinthia Moore, Assemblymember (D-11)
+- Erica Mosca, Assemblymember (D-14)
+- Hanadi Nadeem, Assemblymember (D-34)
+- Duy Nguyen, Assemblymember (D-8)
+- David Orentlicher, Assemblymember (D-20)
+- Erica Roth, Assemblymember
+- Selena Torres-Fosset, Assemblymember (D-3)
+- Howard Watts, Assemblymember (D-15)
+- State Senators
+- Nicole Cannizzaro, Senate Majority Leader
+- Michelee Cruz-Crawford, State Senator (D-1)
+- Skip Daly, State Senator (D-13)
+- Fabian Doñate, State Senator (D-10)
+- Marilyn Dondero Loop, State Senator (D-8)
+- Edgar Flores, State Senator (D-2)
+- Dina Neal, State Senator (D-4)
+- Rochelle Nguyen, State Senator (D-3)
+- Roberta Lange, State Senator (D-7)
+- James Ohrenschall, State Senator (D-21)
+- Julie Pazina, State Senator (D-12)
+- Melanie Scheible, State Senator (D-9)
+- Angie Taylor, State Senator (D-15) County Commisioners
+- Tick Segerblom, Clark
+- William McCurdy II, Clark Rural Leaders
+- Jasie Holm, West Wendover Mayor
+- Gabriela Soriano, West Wendover City Councilwoman
+- Margaret Johnston, Carlin City Councilwoman
+- Izzy Gutierrez, Former West Wendover Councilman
+Endorsing Organizations
+- Culinary Workers Union, Local 226
+- Teamsters of Nevada
+- End Citizens United
+- National Organization for Women
+- American Federation of State, County, and Municipal Employees
+- International Brotherhood of Electrical Workers, Local 357
+- International Brotherhood of Electrical Workers, Local 401
+- Northern Nevada Laborers Apprenticeships and Training Program, Local 169
+- Nevada State Education Association
+- Nevada Faculty Alliance
+- Everytown for Gun Safety
+- Women's Democratic Club of Clark County
+- Communications Workers of America
+- Reproductive Freedom for All
+- Transport Workers Union of America
+- Bricklayers & Allied Craftworkers, Local 13
+- International Association of Bridge, Structural, Ornamental, and Reinforcing Ironworkers, Local 433
+- Moms Demand Action
+- International Alliance of Theatrical Stage Employees, Local 720
+- International Alliance of Theatrical Stage Employees, Local 363
+- Nevada State AFL-CIO
+- Planned Parenthood Action Fund
+- International Union of Operating Engineers
+- Washoe Education Assocation
+- United Auto Workers
+- Planned Parenthood Advocates Mar Monte
+- Building & Construction Trades Council of Northern Nevada
+- Defend the Vote
+- PLAN Action
+- Service Employees International Union, Local 1107
+- Nevada Conservation League
+- International Union of Painters and Allied Trades, District Council 16
+- Plumbers, Pipefitters & Service Technicians, Local 525

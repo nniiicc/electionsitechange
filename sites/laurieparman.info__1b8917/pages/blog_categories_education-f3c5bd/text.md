@@ -1,0 +1,2 @@
+As a 30 year educator in Illinois public schools and a proud conservative who believes in accountability, merit, and helping students to “struggle forward”, I am deeply troubled by the Illinois State Board of Education's recent decision to slash proficiency standards on state assessments.
+This move, approved just weeks ago, isn't the "alignment" with national benchmarks that officials are spinning—it’s a classic case of “smoke and mirrors”.

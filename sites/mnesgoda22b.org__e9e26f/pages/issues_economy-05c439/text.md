@@ -1,0 +1,12 @@
+Reducing the Cost of Living #
+Families in our district are feeling the squeeze.
+Groceries cost more, rent keeps climbing, childcare is out of reach, and energy bills eat into paychecks.
+Inflation has hit working families the hardest.
+I will fight to reduce the impact of rising costs by lowering the expenses that matter most:
+- Affordable housing — Invest in housing construction, strengthen renter protections, and expand homeownership programs
+- Childcare relief — Bring down the cost of childcare so parents don’t have to choose between working and caring for their kids
+- Lower energy costs — Support programs that reduce utility bills for families and small businesses
+- Food affordability — Strengthen local food systems and expand access to nutrition assistance
+- Consumer protections — Crack down on price gouging and predatory lending practices
+- Fair tax policy — Shift the tax burden off working families and onto those who can afford to pay more
+Targeted public investments and cost-cutting reforms can improve affordability without sacrificing the quality of life our communities deserve.

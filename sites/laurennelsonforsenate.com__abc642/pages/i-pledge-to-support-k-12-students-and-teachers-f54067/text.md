@@ -1,0 +1,2 @@
+Education Important Issues Videos I pledge to support K-12 students and teachers Editor October 16, 2024 Please take a moment to watch my video below where I share what my 30+ years as a teacher has taught me.
+You will also hear my personal insight on how to fund classrooms that are CREATIVE, POSITIVE and CHALLENGING. https://laurennelsonforsenate.com/videos/District-18-State-House-Senate-Candidate-Forum-2.mp4

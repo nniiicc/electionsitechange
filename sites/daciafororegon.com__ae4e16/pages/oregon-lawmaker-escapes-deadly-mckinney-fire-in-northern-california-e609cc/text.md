@@ -1,0 +1,6 @@
+Democratic Rep.
+Dacia Grayber and her husband were camping near Mount Ashland, just north of the wildfire…
+Skip to content
+Oregon lawmaker escapes deadly McKinney Fire in Northern California
+Democratic Rep.
+Dacia Grayber and her husband were camping near Mount Ashland, just north of the wildfire…

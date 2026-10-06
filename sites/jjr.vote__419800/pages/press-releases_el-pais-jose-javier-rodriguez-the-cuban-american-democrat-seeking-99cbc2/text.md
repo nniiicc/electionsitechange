@@ -1,0 +1,21 @@
+FOR IMMEDIATE RELEASE
+May 27, 2026
+Contact: press@jjr.vote, 786-683-8781
+Miami, FL - Today, El País published a feature profile on Democratic candidate for Florida Attorney General José Javier Rodríguez, highlighting his vision to restore the Attorney General’s office as an independent institution focused on tackling the issues Floridians face daily: corruption, crime, and rising costs.
+In the interview, Rodríguez highlighted his campaign to bring accountability and independence back to the Attorney General’s office and return it to its core mission of serving Floridians.
+He discussed his commitment to fighting corruption, standing up to powerful interests, and ensuring the office works for everyday people - not as a political arm for partisan agendas, as the current office under James Uthmeier has become.
+The profile also emphasizes Rodríguez’s calls for accountability regarding the controversial “Alligator Alcatraz” detention facility — calls he first made when the center was rapidly constructed last year.
+Read the full article here.
+Key Points:
+- “José Javier Rodríguez, the Democratic candidate for Florida attorney general, does not want the page turned on the notorious immigrant detention site Alligator Alcatraz, west of Miami, which has become a symbol of the “cruelty” of the Donald Trump administration.
+If he wins the November election, the 47-year-old Cuban American says he will investigate how Republican Governor Ron DeSantis’ administration established the facility as a “political theater for consumption in Washington.”’
+- “In Florida — a Republican‑run state that has been at the forefront of Trump’s anti‑immigrant offensive — the attorney general’s office has become an extension of the governor’s political arm, Rodríguez says.
+He aims to reclaim the office as an institutional check that protects the public interest.”
+- “In recent months, attorneys general in several states have taken leading roles in legal battles against the Trump administration.
+“Groups of state attorneys general are slowing down Trump’s agenda when it has gone beyond the law,” Rodríguez says, citing as examples deployments of the National Guard to Democratic‑run cities, immigration raids, and attempts to cut food‑stamp benefits (SNAP) without congressional approval.
+“The attorney general is not the government’s lawyer, but the people’s lawyer.”
+- ‘“What we have is an attorney general who wants to make political theater out of everything, instead of focusing on public safety,” Rodríguez says, adding that many local governments in Florida have been pressured to sign 287(g) agreements.
+“As attorney general, it’s about enforcing the law, not exercising power.
+But [in Florida] they’re exercising power.
+What they want is to create conflict and generate headlines,” he adds.”
+###

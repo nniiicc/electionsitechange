@@ -1,0 +1,23 @@
+State Strategic Plan Could Mean More Mandatory Testing…
+Despite repeated assurances that the State does not intend to test children’s attitudes, behaviors, and beliefs, language in the final draft document of the State Strategic Plan (May 9, 2018) emphasized measuring beyond the traditional scope of academics.
+The plan explains, “the state can rely on traditional measures of proficiency in certain content areas, but such measures are not always complete in terms of what this plan is promoting.
+At the same time, leaders recognize that it will take time to fully develop meaningful and appropriate metrics that speak to all plan dimensions, especially the four domains.¹”
+What are the four domains?
+Two of them are academic in nature: Foundational Skills and Knowledge (literacy, numeracy and technology) and Well-Rounded Content (social studies, sciences, languages, arts, physical education, etc).
+The remaining two are affective (behavioral,emotional, belief oriented).
+Social-Emotional focuses on self-awareness, self-management, social awareness, relationship skills, and responsible decision making, while the Leadership and Reasoning domain emphasizes problem solving, design thinking, creativity, and information analytics.
+In other words, how and why a child thinks and acts a certain way.
+These areas of a child’s development determine who they are as an individual and have been traditionally cultivated in the context of their own family.
+This is not the first time that the State has pushed for greater data collection and analysis of student’s personal characteristics and beliefs.
+In the 1990’s the legislature attempted to halt the Ohio Department of Education’s plans to assess children’s attitudes but the work continued on behind the scenes, expanding and developing social-emotional goals and measurements.
+Today, the Ohio Department of Education (ODE) seeks to link a student’s social-emotional data with their past and future¹.
+Inter-agency data access and sharing agreements are to be leveraged to establish progress indicators and determine how well students and schools are meeting the new state goals.
+To accomplish this goal data may be linked with family socio-economic status, childcare or disciplinary records.
+From this data, projections may be made about a child’s future and as one ODE employee commented during discussions, “course corrections can be made much sooner with that information.”
+Don’t let the vague terminology used throughout Ohio’s Strategic Plan draft fool you when it says the affective domains will not be tested!
+There are references to collecting, measuring, comparing, linking, sharing and using social-emotional data to determine student and school performance throughout the entire document.
+The plan explains that standard development is the gateway to creating definitions of “proficiency” and that each domain should be “equally valued.” The plan states under Standards, Assessments and Accountability, “Ohio must be more deliberate in defining expectations for social-emotional and leadership/reasoning knowledge and skills and challenge students to master those as well.²” “The four learning domains require the state to explore innovative approaches to assessments that go beyond academic content…³” As we have seen repeatedly in Ohio’s short State Report Card history, it is only a short step from mandatory testing of students to determining teacher and school “quality” based upon the state’s determination of “proficiency” and “progress.” We need to decide if teachers and schools should be held accountable for the development of social-emotional beliefs and behaviors in Ohio’s children or if these critical areas of development should remain in the domain of the family.
+¹ – “Each Child, Our Future” Ohio’s Strategic Plan for Education: 2019-2024, draft May 9, 2018, pg 19
+² – pg 8
+³ – pg 9
+Link to Ohio’s Strategic Plan, May 9, 2018 draft: SP-Full merged document-5-9-18-11PM (002)

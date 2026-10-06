@@ -1,0 +1,34 @@
+MD 150 (EASTERN BLVD.) SAFETY REVIEW
+FROM MD 43 TO EARLS RD
+MD 150 (EASTERN BLVD.) SAFETY REVIEW
+FROM MD 43 TO EARLS RD.
+Background and Public Concerns
+- Ongoing safety issues, including a recent fatal crash
+- Concerns about left turns from side streets, speeding, and congestion
+- Community requested:
+- Extended center turn lane
+- Medians to block left turns
+- New traffic signal at Mariners Point Drive
+- Speed reduction, speed cameras, and revised traffic patterns
+Review Summary
+The Maryland Department of Transportation conducted:
+- A spot speed study (85th percentile speed = 47 mph in a 40 mph zone)
+- Crash history analysis (221 crashes since 2020, including 4 fatalities)
+- Sight line evaluations (found acceptable)
+- Intersection signal warrant analysis at Mariners Point Dr.
+(did not meet MUTCD warrants)
+- Review of traffic control devices and new development impacts
+Ongoing Improvements
+- Funding awaited for installing a vehicle detector at Mariners Point Dr. to help with safe exits
+- Baltimore County is refreshing signage and pavement markings at multiple intersections as part of the Bowleys Quarters Area Traffic Study
+Proposed Alternatives
+Alternative 1: Median Installation
+- Install flexible medians to prohibit left turns at Landing Point, Stevens Rd., and Village Green Rd.
+- Pros: Immediate safety benefit
+- Cons: Limits access and lacks U-turn points
+Alternative 2A/2B: Center Left Turn Lane
+- Resurface and widen MD 150 to add a center turn lane
+- Includes design variations and different segment lengths
+- Pros: Proven crash reduction method
+- Cons: Requires additional right-of-way, signal changes, and utility relocation
+- Status: Long-term solution requiring funding and design approvals

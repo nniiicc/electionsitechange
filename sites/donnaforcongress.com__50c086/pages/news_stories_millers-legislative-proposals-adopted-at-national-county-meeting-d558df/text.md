@@ -1,0 +1,3 @@
+Miller’s legislative proposals adopted at national county meeting
+Four legislative initiatives presented by Cook County Commissioner Donna Miller were adopted at the National Association of Counties annual conference in Philadelphia this month.
+Miller was one of 2,000 delegates at the conference…

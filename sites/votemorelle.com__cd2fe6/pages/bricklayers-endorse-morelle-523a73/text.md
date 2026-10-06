@@ -1,0 +1,12 @@
+INTERNATIONAL UNION OF BRICKLAYERS AND ALLIED CRAFTWORKERS LOCAL 3 ENDORSES
+JOE MORELLE FOR CONGRESS
+April 16, 2018 | Press Release
+Rochester, NY – Today, the International Union of Bricklayers and Allied Craftworkers Local 3 has endorsed Joe Morelle in the race for the for the 25th Congressional District.
+Local 3 represents thousands of trowel trades craft workers and is the 9th union endorsement Morelle has received.
+“Joe has been a passionate fighter for our working families, and we know that he will bring that same fight to Washington,” said Anthony DiPerna, President of Bricklayers and Allied Craftworkers Local 3.
+“He is the leader that our members – and working men and women across the country – deserve in Congress.”
+“Monroe County boasts a strong and vibrant community of skilled workers,” said Morelle.
+“It has been my honor to stand alongside these dedicated men and women who work tirelessly on behalf of our community.
+As their representative in Congress, I will work just as hard fighting for them by creating more job opportunities with fair wages for all.”
+Morelle, who currently serves as a state Assemblymember representing the towns of Brighton, Irondequoit and parts of the city of Rochester, has spent a lifetime in public service working to advance the best interests of his community.
+In the Assembly, Morelle has successfully fought for the passage of legislation to raise the minimum wage in New York State, establish paid family leave to ease the burden on our working families, improve access to healthcare for all people, bring millions of dollars in infrastructure improvements to our area, and increase workforce development training to ensure individuals have the skills and training they need to be successful.

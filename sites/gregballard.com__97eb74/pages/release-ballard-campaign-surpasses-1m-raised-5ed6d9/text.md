@@ -1,0 +1,19 @@
+INDIANAPOLIS – Today, independent Secretary of State candidate Greg Ballard announced that his campaign has surpassed $1 million in funds raised.
+“This is what a winning campaign looks like,” said Ballard.
+“We have raised more per month this year than any other candidate, regardless of party.
+That’s because people across Indiana want something different, and I’m proud to say that 99% of the dollars donated to my campaign – from individuals or committees – are from Hoosiers.
+No other viable candidate in this race can say that.”
+The million dollar milestone was reached due to a $100,000 contribution from Indianapolis resident and former Lilly CEO John Lechleiter that was received yesterday.
+It is the largest single donation from an individual the campaign has received to date.
+“My wife Sarah and I are pleased to support Mayor Ballard as a candidate for Indiana Secretary of State and likewise supportive of the formation of a new political party in our state,” Lechleiter said.
+“We are sick and tired of watching the two legacy parties race each other to their respective extremes.
+We are interested only in good government, and the Lincoln Party promises that.”
+Ballard is running as an independent under the banner of the Lincoln Party, which does not yet exist but will be established in Indiana if Ballard receives at least 2% of the vote in November.
+Early polling released in March showed him well above that threshold.
+2026 Fundraising
+Greg Ballard (I) $219,066.8325 / month
+($876,267.33 from 3/1 to 6/30)
+Beau Bayh (D) $196,394.94 / per month
+($1,178,369.66 from 1/1 to 6/30)
+Max Engling (R) $105,359.57 / per month
+($142,745.23 from 5/20 to 6/30)

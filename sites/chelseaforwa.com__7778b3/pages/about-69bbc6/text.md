@@ -1,0 +1,18 @@
+About Chelsea
+Chelsea Dimas (she/her/ella) is a longtime servant leader, communications professional, and proud daughter of Indigenous immigrants from México (Nahua and Purépecha) with a long family history of hard-working campesinos.
+Chelsea has spent most of her life fighting for her gente (people) by being on the frontlines with them, demanding rights and protections for farmworkers, immigrants, reproductive freedom, the LGBTQ+ community, and other vulnerable populations.
+From here at home in he Yakima Valley to our state legislature and across the nation, Chelsea strongly believes that everyone deserves a seat at the table to have a say in the decision-making process.
+With more equitable policies and diverse representation, she believes we can truly create a future where ALL Washingtonians thrive.
+Chelsea was the first openly Queer, Indigenous Latinx woman running for office in the city of Sunnyside in 2021 and is now the first (again) to be running as State Representative, in the NEW District 14.
+When she’s not working to dismantle white supremacy and fighting for human rights (let’s be real—la lucha nunca para, the fight never stops), Chelsea devotes her free time to supporting her favorite eateries all over Central Washington, going to live shows and festivals, collecting tattoos, dabbling in whiskey distilling, streetwear fashion, and all things music + art related.
+Chelsea and her partner call Sunnyside home—along with their 3 feisty “pupperonis,” one very sassy cat, and her countless plant babies.
+Affiliations, Community Work + Recognitions
+- Daughter of immigrant farmworkers from México
+- First gen college graduate of PLU
+- Founder of the community led organization RAÍCES
+- Commissioner for the WA State Human Rights Commission
+- Vice Chair of the Yakima County Democrats
+- Board Director with the Central Washington Hispanic Chamber of Commerce
+- Member of the DEI Committee for Sunnyside School District
+- Communications Specialist with Civil Survival
+- And the first openly Queer Indigenous Mexicana running as a Democrat for Washington State Representative, in the NEW District 14

@@ -1,0 +1,9 @@
+Phil Gift is a registered nurse who spent the last 17 years of his nursing career working with the Department of Veterans Affairs.
+In this phase of his career, he served veterans as a triage RN at the Marion VA Medical Center before finishing up his career as a Patient Care Manager at the Muncie VA Community Based Outpatient Clinic on Morrison Road.
+Phil was born and raised in Fairmount, Indiana, where he attended all twelve years of school in what is now the Madison-Grant school system.
+After his high school graduation, he earned an associate degree in journalism from Vincennes University, a Bachelor of Science Degree in Administrative Management from the University of Cincinnati, and a Bachelor of Science Degree in Nursing from Ball State University.
+During his time as a federal employee, the Hatch Act prohibited his running for elected political office.
+Now that he is no longer a federal employee, he states, “Serving America’s veterans was one of the greatest honors and pleasures I have ever had in my life.
+However, as I close my career of service to America’s veterans, I am anxious to expand my service to the people of the state of Indiana.
+We must make sure that our laws, and the legislators who make them, recognize the inherent rights of every Hoosier guaranteed under our constitution.
+We must fight to remain free from the tyranny of church and state, ensuring that we use government only to assure the freedom, safety, and well-being of our citizens, so that every individual is able to pursue life, liberty, and happiness—regardless of who they love, how they love, and how they plan their families.”

@@ -1,0 +1,30 @@
+Planned Parenthood Votes New Mexico is proud to endorse leaders who will fight to protect our bodily autonomy, defend abortion access, safeguard gender-affirming care, and stand up for transgender rights, especially as these freedoms face attacks at the federal level.
+This election isn’t just important, it’s pivotal.
+We need you to show up, vote, and stand with champions who will protect the values New Mexicans believe in: access, dignity, and compassionate health care for everybody.
+The American Federation of Teachers is a union of professionals that champions fairness; democracy; economic opportunity; and high-quality public education, healthcare and public services for our students, their families and our communities.
+"Your leadership and dedication to public education have not gone unnoticed, and we are grateful for the work you have done, and continue to do on behalf of our schools.
+It is encouraging to partner with leaders who consistently stand with educators and advocate for strong public schools across our state.” - NEA-NM
+The NMVC Action Fund is a new 501(c)4 organization based in New Mexico.
+Our Mission: To advance child and family-centered policies and leadership that support measurable and meaningful improvements in the well-being of New Mexico’s families through policy and electoral advocacy.
+New Mexico's public service employees are one of our most valuable resources in our state.
+We safeguard and maintain our parks, public roads, and public buildings - from nurses to child care providers, sanitation workers, public safety, corrections and detention facilities, water and transportation systems - we form the backbone of an effective public service system that helps to promote opportunity and improve the lives of all New Mexicans.
+SMART Local 49 represents skilled sheet metal workers across New Mexico and West Texas.
+We fight for fair pay, strong benefits, safe workplaces, and the pride of building a lasting career.
+The New Mexico State Council of Machinists and Aerospace Workers represents union members in a variety of fields and industries, from railway workers, airline workers to workers at our National labs.
+They also represent workers in traditionally non-machinist roles, like healthcare workers, professional union staff members, and even NASA.
+Like New Mexico, their membership is diverse and spans the political spectrum.
+Green Vote 2026 is a project of Conservation Voters New Mexico (CVNM) Action Fund, a nonpartisan “coordinated” political action committee (PAC) that works to elect pro-conservation candidates and to defeat anti-conservation candidates at the state level up to the amount allowed by New Mexico campaign finance laws.
+Through CVNM Action Fund, we let voters know that—for New Mexico’s air, land, water and communities—who we elect matters.
+The Rio Grande Chapter of the Sierra Club is a volunteer-led organization representing more than 10,000 members in New Mexico and West Texas.
+Their mission to is to explore, enjoy and protect the planet, and they prioritize protecting our climate, air, water, wildlife and public lands in New Mexico and West Texas.
+The Sierra Club Rio Grande Chapter endorsement was given after an extensive questionnaire and interview process.
+Animal Protection Voters was formed in October 2002 in New Mexico.
+One important tool that can be used to reduce animal suffering is passing laws that better protect animals.
+In order to pass local, state and federal laws, it’s necessary to build a force that our lawmakers cannot ignore.
+That is why we are here.
+At Semilla Action, we believe we can advance and achieve equity, justice, wellbeing, and opportunities for our families and communities by empowering and activating the BIPOC, Immigrant, LGBTQ+, Workers, Youth & Women electorate in New Mexico.
+Paid for by Friends for Christine
+PO Box 1565, Los Alamos, NM 87544
+Copyright © 2026 Friends For Christine - All Rights Reserved.
+We use cookies to analyze website traffic and optimize your website experience.
+By accepting our use of cookies, your data will be aggregated with all other user data.

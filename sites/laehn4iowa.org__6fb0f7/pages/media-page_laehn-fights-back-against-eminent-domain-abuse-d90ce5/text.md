@@ -1,0 +1,2 @@
+Laehn Fights Back Against Eminent Domain Abuse
+In a divided vote at the regular board meeting on April 11, the Greene County supervisors approved a letter drafted by county attorney Thomas Laehn to be sent to the Iowa Utilities Board objecting to the use of eminent domain to acquire land for Carbon Summit Solutions CO2 pipeline across 12 miles of the county… read more at greenecountynewsonline.com.

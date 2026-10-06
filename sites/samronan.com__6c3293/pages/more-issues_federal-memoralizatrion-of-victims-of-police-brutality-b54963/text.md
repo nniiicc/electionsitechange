@@ -1,0 +1,18 @@
+FEDERAL MEMORALIZATRION OF VICTIMS OF POLICE BRUTALITY
+Police Brutality
+The United States of America is guilty of many crimes, not least of which is allowing her police forces to murder civilians extrajudicially since the inception of our nation.
+Those victims deserve to be remembered as much as any fallen soldier, or victim of genocide, for their lives mattered just as much.
+Therefore, per this provision, a monument shall be erected to commemorate the victims of police brutality.
+This monument shall have the following elements:
+- The names of every victim of police brutality who lost their live
+- The dates of their murders
+- The names of the Officer(s) responsible for their murder
+- Whether or not those officers were punished
+- A space for the date they were held accountable, and the sentence they suffered
+- The Departments responsible for the deaths of civilians
+- And a reminder to all Americans that what we allow to happen to any group of Americans can happen to all.
+Prosecution and Posthumous Prosecution
+The memorial shall have the names of those officers and whether or not they were prosecuted at the time of the of the construction, however, all officers shall be prosecuted per this provision
+- They shall also serve their full sentences without the possibility of parole, and/or face the death penalty
+- Double Jeopardy shall be unapplicable as their exoneration in the first place was a failure of the Criminal Justice System to render a fair trial in the first place
+- The Police Reform policies shall coincide with this provision, but is also a direct result of the need for this provision in the first place

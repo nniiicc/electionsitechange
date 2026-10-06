@@ -1,0 +1,37 @@
+Newsroom
+CCAH PAC endorses Eric Lucan for State Assembly – District 12
+Source: CCAH | By Political Action Committee
+We are proud to endorse Eric Lucan, Marin County Supervisor, in his campaign for California’s 12th Assembly District, which serves Marin and Sonoma counties.
+In close race, Lucan’s experience makes him choice for Assembly
+Source: MarinIJ | By Marin IJ Editorial Board
+The depth of Lucan’s support reflects his local experience and local leaders’ respect for him as a thoughtful and hardworking leader and representative.
+Marin weighs in against ICE lockup in Bay Area
+Source: MarinIJ | By Richard Halstead
+The Marin County Board of Supervisors remains firmly committed to opposing unlawful removals, federal overreach and actions that undermine due process, community trust and the rule of law,” said Supervisor Eric Lucan, president of the board.
+Democrats Jackie Elward and Eric Lucan headed for runoff in race for California’s Assembly District 12 seat
+Source: The Press Democrat | By Kyle Garcia Takata
+The latest returns from the June 2 primary showed Lucan, a Marin County supervisor, still in the lead spot among the six-person primary field, with 28.1% of the vote.
+Editorial: In tight race, IJ recommends Lucan for Assembly
+Source: MarinIJ | By Marin IJ Editorial Board
+In the June 2 race for Marin’s seat in the state Assembly, Marin Supervisor Eric Lucan has the most experience and regional knowledge among the three top candidates.
+SMART to continue free rides for youths, seniors
+Source: MarinIJ | By Adrian Rodriguez
+“We’ve been doing free fares for youths and seniors for two years already and it’s been wildly successful,” [Lucan} said.
+“This is just a continuation.”
+Since the free fare program launched in April 2024, the number of youth and senior riders has ballooned 195%.
+Youths and seniors now make up about 43% of all riders, up from 23.5% before the program started.
+How Four Marin Leaders See the Future of Workforce Housing in Marin
+Source:Marin Magazine | By Kristen Jones
+Twenty-five thousand years ago, the Greek philosopher Heraclitus articulated a fundamental law of the Universe when he proclaimed that life is a constant state of flux…
+“Marin County Supervisor Eric Lucan, currently the President of the Board for 2026, is one of the most visible champions of housing projects on the Board of Supervisors, and has been a strong advocate for permanent supportive housing for the homeless and other vulnerable populations.”
+Eric Lucan Appointed Marin County Board of Supervisors President
+Source: County of Marin
+Marin County, CA – District 5 Supervisor Eric Lucan, who represents the majority of the City of Novato and its unincorporated communities, has been selected by his colleagues to serve as President of the Marin County Board of Supervisors for 2026.
+Campaign Years – First in Playbook
+Source: Politico | By Blake Jones & Dustin Gardiner
+MARIN MAYHEM — Democratic Marin County Supervisor Eric Lucan is running for Assemblymember Damon Connolly’s seat as Connolly attempts to move over to the state Senate.
+Corte Madera Councilmember Eli Beckman, a fellow Democrat, is also running for the Assembly seat…
+Marin candidates crowd Assembly race
+Source: MarinIJ | By Richard Halstead
+A throng of candidates have announced they will run for a state Assembly seat being vacated by Damon Connolly.
+Connolly announced on Thursday he will surrender his seat to run for state Senate in 2026.

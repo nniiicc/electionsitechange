@@ -1,0 +1,64 @@
+press release
+Sep 29, 2026
+As the War Ashley Hinson Voted 7x to Continue Stretches into Seventh Month, Josh Turek Announces New Slate of “Veterans For Turek”
+FOR IMMEDIATE RELEASE
+September 29, 2026
+CONTACT: press@turek4iowa.com
+As the War Ashley Hinson Voted 7x to Continue Stretches into Seventh Month, Josh Turek Announces New Slate of “Veterans For Turek”
+Hinson called the war “out of sight, out of mind,” but Josh knows the generational consequences of forever wars
+Des Moines, IA – This week, 20 additional veterans endorsed Josh Turek for U.S.
+Senate, expanding the “Veterans for Turek” coalition, a group of Iowa veterans who are committed to sending Josh to the U.S.
+Senate.
+Iowa’s veterans support Josh Turek because they know he will fight for an end to the type of forever wars that Ashley Hinson has voted to continue and ensure our servicemen and women are taken care of when they come home.
+Ashley Hinson has voted seven times to continue the war in Iran, even as her Republican Iowa colleagues crossed the aisle to vote to end it.
+She repeatedly downplayed the conflict, claiming it “is out of sight, out of mind” and “certainly not the first thing [Iowans] bring up.” The truth: the war is not “out of sight, out of mind” for the families of the three Iowans who died in the conflict, for the millions of Iowans who are paying for it at the pump, or for the farmers who are getting hammered with record-high diesel prices as they go into harvest.
+Unlike Hinson, Josh is committed to ending unnecessary wars that put American lives at risk and raise prices on working class Iowans.
+Josh also understands firsthand that the VA isn’t just policy – it’s a lifeline.
+The grandson of WWII Navy veterans and the son of a Vietnam veteran, Josh was born with spina bifida as a result of his father’s exposure to Agent Orange during his 22 months in Vietnam and has relied on the VA for his health care for most of his life.
+Josh has repeatedly fought to take care of our veterans.
+Meanwhile, Ashley Hinson voted against $12 billion in funding to take care of our veterans, defended VA cuts, and initially opposed the PACT Act.
+“Veterans for Turek” is chaired by United States Marine and Army Veteran Nathan Sage, Josh’s former primary opponent who ended his campaign and promptly endorsed Josh.
+The “Veterans for Turek” coalition includes Iowans from across the state who have served in various branches of the United States Military:
+- Andy Carter, Navy (Muscatine County)
+- Verlen Dahleen, Airforce and Airguard (Polk County)
+- Ron Dinsdale, Army (Story County)
+- Dennis Dullard, Army (Polk County)
+- Marc Hall, Army (Linn County)
+- Sen.
+Tom Harkin, Navy (Warren County)
+- Ron Healey, Army (Dubuque County)
+- Dave Gervich, Army (Hardin County)
+- Pat Mills, Army (Hardin County)
+- Allen Nelson, Army (Jefferson County)
+- John Oakley, Army (Linn County)
+- Craig Reber, Navy (Dubuque County)
+- Jim Romar, Army (Polk County)
+- Dan Tallon, Army (Dallas County)
+- James Temme, Army (Dallas County)
+- Tony Thompson, Army (Black Hawk County)
+- State Sen.
+Tom Townsend, Navy (Dubuque County)
+- Tim Trosky, Navy (Linn County)
+- Steve Warnstadt, Army (Woodbury County)
+- Garry Zerwas, Army (Webster County)
+These Veterans join the existing coalition that includes*:
+- Nathan Sage, Marines and Army (Warren County)
+- Jill Alesch, Iowa Army National Guard (Polk County)
+- Darrell Anderson, Army (Linn County)
+- Melvin Bobo, Air Force (Polk County)
+- Melisa Dohl, Air Force (Polk County)
+- Penni Guyler, Air Force (Polk County)
+- Rodney Heisterkamp, Army and Navy (Story County)
+- Terry Johnson, Army (Linn County)
+- Justin Limke, Army (Polk County)
+- State Rep.
+Larry McBurney, Iowa Air National Guard (Polk County)
+- Desi McDonough, Army Reserve (Wapello County)
+- Rich Running, Navy (Marshall County)
+- Kevin Techau, Air Force and Iowa Air National Guard (Linn County)
+- Mark Allen Thompsen, Air Force (Polk County)
+- Ray Walton, Army (Warren County)
+- Gerald Weiland, Army (Winneshiek County)
+- State Rep.
+Ross Wilburn, Iowa Army National Guard (Story County)
+*Individuals on this list are endorsing in their personal capacity.

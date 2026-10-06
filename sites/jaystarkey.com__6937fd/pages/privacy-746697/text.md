@@ -1,0 +1,46 @@
+Privacy Policy:
+We know your privacy is important, which is why the Committee to Elect James "Jay" Starkey maximizes your control over the disclosure of your own personally identifiable information.
+Through transparency, accountability, and adhering to legal standards, we optimize your online experience and ensure that your data is protected.
+Please note that by using our website, you agree to be bound by the terms of this Privacy Policy.
+Information We Collect:
+We aggregate personally identifiable information and non-personally identifiable information.
+Personally identifiable information we may collect includes, but is not limited to, the following data:
+- First name and last name
+- Email address
+- Phone number
+This sort of data is only collected if you voluntarily disclose it via an action on our site (filling out a contact, volunteer, or donation form, etc.).
+Unless you are a site administrator, you do not need to provide any of the aforementioned information in order to use this site.
+Non-personally identifiable information we may collect includes, but is not limited to, the following data:
+- Device information (OS type or browser type)
+- Internet Protocol (IP) address
+- Browser device (i.e. laptop or mobile)
+- Usage (pages viewed, amount of time on page, exit URLs, etc.)
+- Preferred language
+- Location
+- Cookie ID
+Anonymous data is collected through tools such as cookies, which are text files that collect standard login and user behavior information.
+Cookies enable you to receive customized web pages based on your past site behavior.
+How We Collect Information
+The following events are some ways in which we would collect your information:
+- Request for campaign information or submitting volunteer form of a donation
+How We Use Information:
+The following events are some ways in which we would use your data to optimize user experience:
+- Processing info requests
+- Sending relevant information (product information, policy updates, event announcements, etc.)
+- Responding to your questions and concerns
+- Offering campaign updates
+- Conducting site improvements
+Please note that in the event of a collaboration with another campaign, disclosed contact information might be among those transferred assets.
+Third-Party Access:
+We will not disclose your personal information to any third parties unless we are legally compelled to do so.
+Also text messaging originator opt-in data and consent will not be shared with any third parties unless required by law.
+Children’s Online Privacy Protection Act Compliance
+We are in compliance with the requirement of COPPA (Children’s Online Privacy Protection Act).
+We do not collect any information from anyone under 13 years of age.
+Our website is directed to people who are at least 13 years old or older.
+Terms and Conditions:
+"You agree to receive informational messages (event reminders, donation requests, campaign notifications, etc.) from Committee to Elect James "Jay" Starkey.
+Message frequency varies.
+Message and data rates may apply.
+For help, reply HELP or email us at jay@jaystarkey.com.
+You can opt out at any time by replying STOP."

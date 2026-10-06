@@ -1,0 +1,17 @@
+WASHINGTON, D.C. — In June, Rep.
+Hank Johnson (GA-04), Ranking Member of the House Judiciary Subcommittee over Federal Courts, joined leaders of the Congressional Progressive Caucus (CPC), Congressional Black Caucus (CBC), Congressional Hispanic Caucus (CHC), and the Congressional Asian Pacific American Caucus (CAPAC) in announcing a new House resolution calling for reforms to restore voting rights in the wake of the Supreme Court’s decision in Louisiana v.
+Callais that eviscerated the Voting Rights Act of 1965.
+“At this 250-year mark of the beginning of American democracy, we see democracy under attack,” said Rep.
+Johnson.
+“We see democracy for all under attack.
+There cannot be democracy in this country for just a privileged few.
+Democracy must exist for us all.
+Unfortunately, it’s the United States Supreme Court that’s leading the movement to deconstruct our democracy, and it must be reformed.”
+The resolution calls for the House to adopt legislation to restore and strengthen the Voting Rights Act of 1965 and – when Democrats retake the majority in the House – the elimination of the 60-vote threshold in the Senate and enactment of fundamental reforms to the Supreme Court.
+The resolution also raises the alarm about a years-long campaign by the Supreme Court’s rightwing majority to undermine minority representation nationwide and highlights the threat that the Court’s far-right majority poses to Congressional efforts to advance workers’ rights, curb executive power, and combat corruption.
+The resolution is co-led by Rep.
+Johnson (GA-4), CPC Chair Greg Casar (TX-35), CBC Chair Yvette Clarke (NY-9), CHC Chair Adriano Espaillat (NY-13), and CAPAC Chair Grace Meng (NY-6).
+SUPPORTING GROUPS: Asian and Pacific Islander American Vote (APIAVote), Demand Justice, Democracy for America Advocacy Fund, Empowering Pacific Islander Communities (EPIC), End Citizens United, Everybody Votes Campaign, Free Speech For People, Greenpeace USA, Indivisible, Japanese American Citizens League, Lawyers for the Rule of Law, League of Conservation Voters, MoveOn, National Asian Pacific American Women’s Forum, National LGBTQ Task Force Action Fund, National Organization for Women, NCNW, OCA-Greater Los Angeles Chapter, Organized Power In Numbers, Progressive Caucus Action Fund, Public Citizen, Reproductive Freedom for All, Secure Elections Network, Stand Up America, Take Back the Court Action Fund, TakeItBack.org, The African American Policy Forum, Unitarian Universalists for Social Justice, and Voto Latino.
+Democrats, led by Rep.
+Johnson, have proposed a variety of structural changes to the Supreme Court including: establishing a binding code of judicial ethics for Supreme Court justices, imposing the $50 Congressional gift ban on Supreme Court justices, reform of the shadow docket and Certiorari process, 18-year term limits for Supreme Court justices, and expanding the Supreme Court to match the number of federal judicial circuits.
+###

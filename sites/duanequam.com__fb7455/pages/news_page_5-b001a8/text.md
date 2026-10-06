@@ -1,0 +1,9 @@
+SAH ends May 18; Goal to open bars, restaurants June 1 May 15, 2020 Dear Friends and Neighbors, Thanks to the thousands of Minnesotans who called, emailed, and wrote to Governor Walz, letting him know that Minnesotans could be trusted to safely get back to work.
+Due to this, Gov.…
+Read More
+May 7, 2020 Pandemic Unemployment Assistance Update I’ve received many questions on unemployment insurance, and am providing information and links below to help with some of the very common ones.
+The Minnesota Department of Employment and Economic Development (DEED) sent out the following updated unemployment guidance this week: Two weeks…
+Read More
+Stay at Home Extended, Curbside retail open May 1, 2020 Stay At Home Extended, Retail Open With Restrictions Yesterday, Governor Walz announced an extension of the Stay at Home order until May 18th, along with a modification to the policy on retail stores.
+Beginning May 4th, retail and other non-critical…
+Read More

@@ -1,0 +1,10 @@
+BLACK EXCELLENCE AWARDS GALA 2020 Celebrating Black Entrepreneurs & Business Owners of Lake County Feb 29, 2020, 5:30PM – 9:00PM […]
+Category: news
+Waukegan rejects taller emissions stack for Medline plant that uses ethylene oxide
+Opponents of the taller stack — including state Rep.
+Rita Mayfield, D-Waukegan, who asked to make a rare-but-not-unprecedented speech ahead […]
+State Rep.
+Rita Mayfield and CUB Hold Utility-Bill Clinic
+When: Thursday, October 10, 2019, 6:00 – 8:00pm Where: Waukegan Public Library, Meeting Room A, 128 North County Street, Waukegan […]
+CPLC Celebrates as Governor Signs Milestone Coal Ash Cleanup Bill Into Law
+For years, Clean Power Lake County has called for state action on toxic pollution from two unlined coal ash ponds […]

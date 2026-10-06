@@ -1,0 +1,38 @@
+Election & Voting Information
+1.
+CHECK YOUR REGISTRATION, POLLING PLACE, AND SAMPLE BALLOT
+Georgia My Voter Page (Secretary of State)
+https://mvp.sos.ga.gov/s/
+2.
+KEY DATES, GENERAL ELECTION 2026
+Registration deadline: October 5, 2026
+Early voting: October 13 to October 30, 2026
+Election Day: November 3, 2026
+3.
+COUNTY BOARDS OF ELECTIONS
+HD-151 covers all or part of eight counties.
+Find your county below for local voter registration and election information.
+Chattahoochee County
+Chattahoochee County Board of Elections
+379 Broad Street, Cusseta, GA 31805
+Phone: (706) 989-3603
+Dougherty County
+https://www.dougherty.ga.us/Government/Dougherty-County-Departments/Voter-Registration-and-Elections
+Phone: (229) 431-3247
+Marion County
+https://www.marioncountyga.org/by-department/elections-and-registration/
+Schley County
+https://schleycountyga.us/pages/elections-voter-registration
+Phone: (229) 937-2689
+Stewart County
+https://stewartcountyga.gov/elections/
+Phone: (229) 838-6220 ext. 210
+Sumter County
+https://www.sumtercountygaelections.us/
+Phone: (229) 928-4580
+Terrell County
+https://terrellcountyga.gov/page5.html
+Phone: (229) 995-5066
+Webster County
+https://webstercountyga.org/boelections/
+Phone: (229) 828-5775

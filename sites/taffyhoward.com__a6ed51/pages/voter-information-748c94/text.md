@@ -1,0 +1,66 @@
+Ready to Vote?
+Here’s What You Need to Know
+Every vote matters.
+Below is everything you need to know about registering to vote, early voting, Election Day, and where to cast your ballot in Pennington County.
+Voter Registration
+Registration Deadline
+You must be registered to vote by:
+Monday, May 18, 2026 at 4:00 PM MDT
+Where to Register
+Voter registration may be completed during regular business hours at:
+- Pennington County Auditor’s Office
+Municipal finance offices [directions]
+- South Dakota Secretary of State’s Office
+Driver’s license locations [see map]
+- SNAP, TANF, WIC, military recruitment, and disability assistance offices [find offices]
+- Pennington County Auditor’s Office:
+900 Concourse Dr, Rapid City, SD [directions]
+Register by Mail
+You may print a mail-in voter registration form by clicking the button below:
+Early Voting
+Vote Before Election Day
+Early in-person voting is now open at:
+Pennington County Administration Building
+900 Concourse Dr
+Rapid City, SD
+Early Voting Hours
+Monday–Friday
+7:00 AM – 4:00 PM MDT
+Early voting continues through the day before Election Day.
+Election Day
+Tuesday, June 2, 2026
+Polling Hours
+Polls are open from:
+7:00 AM – 7:00 PM MDT
+Find Your Polling Place
+If you do not know your precinct or polling location, visit the South Dakota Secretary of State’s Voter Information Portal to:
+- Verify your voter registration
+- Check your party affiliation
+- View your legislative district and precinct
+- Find your polling place
+- View a sample ballot
+You may also call the Pennington County Auditor’s Office at:
+605-394-2153
+Monday–Friday | 7:00 AM – 4:00 PM
+Area Polling Locations
+Precinct 3-2
+Crossroads Wesleyan Church
+1823 Sheridan Lake Rd
+Rapid City
+Precincts 3-3 & 3-4
+Calvary Lutheran Church
+5311 Sheridan Lake Rd
+Rapid City
+Precinct 5-1
+Fountain Springs Church – West
+2100 N Plaza Dr
+Rapid City
+Precincts 5-2 and CL
+Canyon Lake Activity Center
+2900 Canyon Lake Dr
+Rapid City
+Precincts 5-3 & 5-5
+West Middle
+School
+1003 Sioux San Dr
+Rapid City

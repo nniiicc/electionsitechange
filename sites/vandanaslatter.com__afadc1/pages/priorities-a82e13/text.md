@@ -1,0 +1,66 @@
+Priorities
+Fully Funding Public Education
+Education is the cornerstone of opportunity.
+Pursuing higher education should unlock opportunity, not come with a debt sentence or financial hardship.
+Families across the state face rising costs from daycare to college while many students skip meals just to make ends meet.
+Vandana has worked alongside OSPI and local school districts to craft funding models that meet diverse needs across the state.
+She continues to champion:
+- Equitable funding K–12 public schools with equitable, statewide resources
+- Investing in mental health supports, inclusive curriculum, and teacher pay
+- Uplifting career-connected learning and apprenticeships
+- Expanding access to early learning and special education services
+Inclusive and Accessible Healthcare
+Healthcare is a human right.
+Healthcare access is under threat—Medicaid and Medicare cuts loom, and too many families forgo necessary care to remain financially stable.
+If federal programs shrink or insurance costs rise, millions could lose coverage, especially vulnerable populations.
+Protecting healthcare access to all is our duty as public servants, and Vandana brings her background as a clinical pharmacist and public health professional to shape policy that puts people first.
+As the only licensed healthcare professional in the Senate, she is committed to protecting and fighting for healthcare for all.
+She has championed mental and behavioral health access, rural nursing workforce programs, reproductive freedom, and culturally competent care particularly for underserved communities.
+She continues to champion:
+- Health data privacy and consumer protections
+- Expansion of maternal care and the behavioral health workforce
+- Increased access to telehealth and community-based care
+- Affordable and accessible care for all
+Affordable Housing & Preventing Displacement
+Everyone deserves a safe, stable place to call home.
+Housing costs continue to spike, pushing seniors and families out of their communities.
+Every Washingtonian deserves the dignity of aging in place and the stability of a permanent home near transit and jobs.
+Vandana is leading with urgency and compassion to increase affordable housing near jobs, transit, and schools while ensuring we don’t leave behind low-income and working families.
+She continues to champion:
+- State investments in permanent supportive housing and emergency shelters
+- Data-informed anti-displacement tools and rental stabilization policies
+- Early, transparent community engagement around new housing developments
+- Smart planning to allow for growth while protecting the character of our communities
+Public Safety & Justice
+True public safety comes from mutual trust, respect, accountability, and prevention.
+In many marginalized neighborhoods, the lack of crisis response and consistent support undermines both trust and safety.
+Vandana has worked closely with law enforcement, community leaders, and public health professionals to advance policies that prioritize safety, healing, justice, and equity.
+She has helped provide resources for law enforcement and community safety—while ensuring local jurisdictions have the flexibility to respond with the tools they need.
+With organizations like the Alliance for Gun Responsibility backing her, it’s clear Vandana is committed to a thoughtful, community-centered approach to public safety.
+She continues to champion:
+- Violence prevention and behavioral health crisis response
+- Strengthening mutual trust and respect between law enforcement and the communities they serve
+- Advancing accountability, transparency, and collaboration in public safety
+- Centering impacted communities in public safety policy
+- Resources for community-based and locally driven public safety programs
+- Support for law enforcement and first responders with the resources and training they need
+Climate Action and Environmental Justice
+Climate action is urgent—and it must be equitable.
+As we fight to reduce emissions, expand clean energy, and protect our natural resources, we must also ensure that no community is left behind.
+The reality is that air and water pollution, extreme heat, and climate-related disasters hit low-income and historically marginalized communities first and worst.
+Our climate economy is also at risk.
+Without strong investment in clean water systems, climate resilience, and green job creation, we risk leaving entire communities without the tools to thrive.
+Vandana has championed bold climate policies—from emissions reductions and clean transportation to protections for environmental health.
+She continues to champion:
+- Environmental health protections in historically overburdened communities
+- Clean transportation and equitable transit access
+- Urban forestry, green infrastructure, and climate resilience planning
+- A just transition to clean energy and good, green jobs
+Immigration & Belonging
+As an immigrant and long-time advocate for inclusive communities, Vandana is committed to ensuring Washington is a place where everyone, regardless of immigration status, can feel safe, respected, and able to thrive.
+A thriving Washington depends on protecting immigrant safety, mobility, and participation.
+She continues to champion:
+- Legal aid, healthcare, and education access for undocumented Washingtonians
+- Protections against workplace exploitation and discrimination
+- Leadership pathways for immigrant youth and communities
+- Washington as a safe haven for asylum seekers and immigrant families

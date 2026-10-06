@@ -1,0 +1,24 @@
+January 7, 2026
+|
+Endorsement
+Rockwall, TX — Momentum behind Air Force Reserve officer, constitutional lawyer, and seventh-generation Texan Jace Yarbrough continues to grow as current and former members of the Texas House of Representatives announce their support for his campaign for Congress in Texas’s 32nd Congressional District.
+State Representative Wes Virdell, a fellow veteran, praised Yarbrough’s grit and constitutional resolve.
+“As a fellow veteran and defender of our Second Amendment, I know Jace Yarbrough is a proven fighter who won’t back down from the radical left,” said Representative Wes Virdell.
+“Jace has spent years in the legal trenches defending our constitutional liberties and our Texas values.
+I am proud to endorse him for Congress because he has the integrity and the grit to deliver real results for District 32.”
+Former State Representative and current Tarrant County Commissioner Matt Krause also announced his endorsement, citing Yarbrough’s character and conservative convictions.
+“I’ve been privileged to call Jace a friend for many years now,” said Commissioner Matt Krause.
+“You will not find a more dedicated candidate to Liberty and limited government.
+He has the character to lead and the conservative convictions that will make him an excellent Congressman.
+I am proud to endorse him!”
+In addition to Virdell and Krause, Yarbrough has earned the support of State Representatives Brent Money and Richard Hayes, further underscoring the growing confidence among conservative lawmakers in his campaign and leadership.
+A husband and father of five, Yarbrough has spent his life defending faith, family, and the constitutional freedoms that define the Texas way of life.
+A descendant of a veteran of the Texas Revolution, he continues to serve as an officer in the U.S.
+Air Force Reserves and has built a legal career taking on progressive overreach in the courts.
+Following his military service, Yarbrough became a constitutional lawyer, where he challenged religious discrimination, fought unconstitutional COVID vaccine mandates, opposed the misuse of taxpayer dollars for abortion travel, and defended First Amendment rights against government overreach.
+His legal work has included successful efforts to protect first responders, parents, and children from unlawful mandates and a far-left, woke ideology.
+Yarbrough earned degrees in Electrical Engineering and Government from the University of Texas at Austin and a law degree from Stanford Law School.
+With his wife Elizabeth, he founded Saint Francis Academy, a classical Christian school rooted in faith and academic excellence.
+The Yarbrough family is active in their local church and is raising five children.
+Texas’s 32nd Congressional District encompasses parts of Northern and Eastern Texas, including Camp, Collin, Dallas, Hunt, Rains, Rockwall, Upshur, and Wood Counties.
+Learn more at www.JaceForCongress.com.

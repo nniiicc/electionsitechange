@@ -1,0 +1,53 @@
+Endorsements
+Thank you to the following individuals and organizations for their endorsements of my 2026 re-election campaign for State Senate:
+- Mellisa Cain, Artist, Small Business Owner, and Burlington Resident “Since Tanya first took office as my senator in 2022 she has been the only person in office I trust to represent those of us who are renters who work more than full time, can't rely on a ton of savings in an emergency, will probably never retire, and don't want to be told that our neighbors who are also struggling are the problem.
+I want her back in Montpelier making sure that we're not ignored.”
+- Wilmer Chavarria, Williston Resident “I don’t need a history textbook to show me who the dissenters of the past were.
+What I need is to know who they are right now.
+Who will have my back when they come for me, and who will fight the fight when everyone else hides.
+Tanya knows exactly how to meet this moment.”
+- Noah Detzer, Essex Resident and VT State Employee “Since 2020, Tanya has been an incredibly effective legislator who holds truth to power and isn’t afraid to stand up for her values.
+Whether she’s defending state employee and teacher pensions, introducing legislation that will make the 1% pay their fair share, or physically holding the line at a protest against ICE, Tanya is always showing up for Vermont.
+She gives me hope that the future of Vermont will be a more just, equitable place for everyone.
+I am enthusiastically supporting her re-election and can’t wait to see what she does next.”
+- Christine Gaynor-Patterson, Essex Junction Resident “Tanya has not just been a champion for public education in the statehouse, she has been a partner in fighting for our local students and their families here in Essex.
+Her background working in schools makes her an informed and effective advocate for the needs of everyone who comes through our doors while pursuing funding reform that take the burden off the backs of Vermonters who can least afford it.”
+- Matt Gile, Winooski School Librarian “Tanya is a fierce advocate for working Vermonters.
+Tanya listens with deep curiosity and compassion to what the community needs, a skill she has developed in her years as a social worker, and uses her sharp mind to fight for us in the state house.
+Tanya has been a bold voice in Montpelier standing up for public education, for health care, for labor rights, for housing and renter protections, and for a progressive tax system.
+I enthusiastically endorse Tanya for re-election to the Vermont Senate.”
+- Jerry Greenfield, co-founder Ben & Jerry's “Tanya has been an effective and relentless advocate for the rights of Vermonters who are under attack from the current federal administration.
+Her work on government transparency, fair taxation, healthcare reform, preservation of public schools, and enshrining civil rights in the Vermont constitution has been critical to the state and continues to be even more important in the next biennium.”
+- Zoraya Hightower, Burlington Resident and Former City Councilor “As the world around us continues to change and shift in ways we’d never hoped to see we need bold leaders who have a vision for a better world and have a strategy to move us from the status quo.
+Tanya is and has been that leader in the Senate.
+I’m thrilled that she wants to continue the works she’s been doing.”
+- Joe Major, VT State Senator - Windsor “I am proud to endorse Tanya Vyhovsky for Senate because she has consistently demonstrated a deep commitment to working families, affordable healthcare, mental health services, social justice, and protecting Vermont’s most vulnerable communities.
+As a social worker, educator, and legislator, Tanya brings both compassion and practical experience to public service, always leading with empathy and a strong sense of fairness.
+I believe Vermont needs leaders who are willing to stand up for everyday people, defend democratic values, and tackle the affordability challenges facing working families, seniors, and young people.
+Tanya’s collaborative approach, dedication to community-centered policy, and willingness to fight for a more equitable Vermont make her exactly the kind of leader Vermonters need in the Senate.”
+- Robert Millar, Winooski School Board Vice President “I've known Tanya Vyhovsky for many years and I have been proud to have her as one of my State Senators for the past four years.
+I know that on the issues that truly matter to Winooski's residents, Tanya will always stand with the people, not wealthy developers or corporate elites.
+I also know that, unlike many elected officials, Tanya is responsive and genuinely interested in hearing from her constituents.
+I’m excited to once again endorse her campaign for reelection!”
+- Grace Palmer, Musician and Burlington Resident “When I first met Tanya, I found her to be compassionate, intelligent, and down to earth.
+Watching her bring the same passion to government on behalf of Vermonters only reinforced my first opinion; that she is EXACTLY who Vermonters want in government.
+Senator Vyhovsky has my full endorsement, for a number of reasons.
+Her dedication for equality and social justice is not only inspiring, but needed in the fight to ensure equality for all.
+She has a deep commitment to working class people, and is a loud advocate for those in need.
+I’m grateful to have such a kind, fiery leader in office, and believe she should return to the Senate, to continue the important work she does.”
+- Chris Pearson, Former VT Senator “As a former senator I am impressed by Tanya’s work in Montpelier.
+She is responsive and engages with a wide range of constituents.
+In the statehouse she is more and more adept at finding common ground with colleagues.
+The district is well represented with Tanya in the Senate and I look forward to voting for her again.”
+- VT State Employees' Association
+- Vermont-NEA
+- Planned Parenthood Vermont Action Fund IE PAC
+- VT Conservation Voters
+- VPIRG Votes
+- Vermont AFL-CIO
+- Vermont Chapter of the National Association of Social Workers - PACE
+- Sierra Club Vermont
+- Committee of Interns & Residents - SEIU
+- Center for Freethought Equality
+- Green Mountain DSA
+- 314 Action Fund

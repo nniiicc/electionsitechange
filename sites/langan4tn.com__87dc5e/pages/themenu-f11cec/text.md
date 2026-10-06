@@ -1,0 +1,1 @@
+The Single Party Power Legislative Menu Choose Your Course Polluted Environment Failing Infrastructure Governance by Oppression and Punishment Corporations over Tennesseans APOLOGIES TO THOSE IN THE STATE OF TENNESSEE AFFORDABILITY IS NOT OFFERED BY THE GOP.

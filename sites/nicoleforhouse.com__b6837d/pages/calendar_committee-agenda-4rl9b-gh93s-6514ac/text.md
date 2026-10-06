@@ -1,0 +1,24 @@
+Agenda:
+- Motions and Resolutions:
+- HB 1220 – Voter registration verification
+- HB 1024 – Amend certain fees collected by the Secretary of State
+- HB 1165 – Agricultural producer assessment rejection
+- SCR 604 – Supporting expanded transportation services for veterans
+- Committee Reports (Amended Bills):
+- Second Reading & Consent Calendar:
+- HB 1141 – Employers & opioid antagonist access
+- HB 1144 – Dietitian licensure compact
+- SB 25 – Plumbing code adoption
+- Second Reading of House Bills & Joint Resolutions:
+- HB 1157 – County drainage permit fee removal
+- HB 1152 – Prohibiting directives from intergovernmental organizations
+- HB 1222 – Expanding concealed pistol possession
+- Additional House Bills:
+- HB 1193 – Prohibiting mandatory on-campus housing and meal plans
+- HB 1042 – Appropriation for historical exhibits
+- HB 1180 – Candidate party affiliation disclosure for school boards
+- HJR 5006 – Constitutional amendment on initiative reintroduction
+- HB 1194 – County cooperation for equalization office operations
+- Second Reading of Senate Bills & Joint Resolutions:
+- SB 33 – Water and environmental appropriations (emergency declaration)
+📌 More Info: South Dakota Legislature Website

@@ -1,0 +1,3 @@
+Michael 10/20/25 Michael 10/20/25 “AG Keith Ellison is leading the charge against Trump in Minnesota.
+Will lawsuits make a difference?” Read More Michael 10/20/25 Michael 10/20/25 “Tolkkinen: Keith Ellison met with constituents in Trump-voting farm country.
+It was civil.” Read More Michael 10/20/25 Michael 10/20/25 “Minnesota AG strikes deal with Mayo Clinic to continue reduced-cost care” Read More Michael 10/20/25 Michael 10/20/25 “AG Ellison wins court order stopping dismantling of Department of Education” Read More Michael 10/20/25 Michael 10/20/25 “AG Ellison seeks more staff, tougher penalties to fight Medicaid fraud” Read More Older Posts

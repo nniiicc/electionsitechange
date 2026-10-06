@@ -1,0 +1,3 @@
+WATCH: Chris Pappas Discusses Stakes of the NH Senate Race, Trump Corruption, and John Sununu’s Support for Trump’s War in Iran on MeidasTouch
+Press Release
+MANCHESTER, N.H. — In case you missed it, Congressman Chris Pappas joined Ben Meiselas on MeidasTouch to discuss the stakes of New Hampshire’s toss-up Senate race, the pervasive corruption in the Trump Administration, and John Sununu’s …

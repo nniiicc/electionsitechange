@@ -1,0 +1,60 @@
+Endorsements
+Endorsements
+- Bernie Sanders US Senator from Vermont
+- Delia Ramirez Congresswoman
+- Toni Preckwinkle Cook County Board President
+- Will Guzzardi IL State Rep
+- Jamie Andrade IL State Rep
+- Lilian Jimenez IL State Rep
+- Eira Corral-Sepulveda Metropolitan Water Reclamation Commissioner
+- Josina Morita Cook County Commissioner
+- Anthony Quezada Cook County Commissioner
+- Daniel La Spata Alderperson 1st Ward
+- Jessie Fuentes Alderperson 26th Ward
+- Ruth Cruz Alderperson 30th Ward
+- Rossana Rodríguez Sánchez Alderperson 33rd Ward
+- Carlos Ramirez Rosa Alderperson 35th Ward
+- Andre Vasquez Alderperson 40th Ward
+- Matt Martin Alderperson 47th Ward
+- Leni Manaa-Hoppenworth Alderperson 48th Ward
+- United Working Families
+- Grassroots Illinois Action
+- 30th United Chicago
+- The People's 32nd
+- 33rd Ward Working Families
+- United Neighbors of the 35th Ward
+- 39th Ward Neighbors United
+- United Northwest Side
+- 47th Ward Democrats
+- Northside DFA
+- Run for Something
+- Citizen Action Illinois
+- The People's Lobby
+- JCUA Votes
+- Girl, I Guess
+- Sierra Club
+- Planned Parenthood Illinois Acton
+- Better Streets Chicago Action Fund
+- IVI Independent Political Organization
+- Sunrise Movement Chicago
+- Mijente
+- Indivisible Chicago Alliance
+- Illinois Alliance for Retired Americans
+- Illinois NOW
+- New American Leaders
+- Gun Violence Prevention PAC
+- Giffords PAC
+- Equality Illinois
+- Chicago Teachers Union Local 1
+- Teamsters Local 700
+- Cook County College Teachers Union Local 1600
+- Chicago Federation of Musicians
+- Bakery, Confectionery, Tobacco Workers and Grain Millers International Union
+- UIC United Faculty Committee on Political Education
+- Illinois Federation of Teachers
+- West Suburban Teachers Union Local 571
+- Warehouse Workers Action
+- NASW-IL Chapter
+- AFSCME People
+- International Union of Operating Engineers Local 150
+- Illinois AFL-CIO

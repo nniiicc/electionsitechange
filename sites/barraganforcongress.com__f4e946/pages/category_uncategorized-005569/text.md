@@ -1,0 +1,2 @@
+Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities
+FOR IMMEDIATE RELEASE October 3, 2016 Contact: Mike Trujillo mhtrujillo@gmail.com 818-968-6048 Isadore Hall Pressures Insiders To Silence Nanette Diaz Barragán At Protest Of Trump’s Treatment Of Women & Minorities SAN PEDRO, CA – Tomorrow, local leaders will gather at the Trump National Golf Course in Rancho Palos Verdes to protest Trump’s treatment of women [...]

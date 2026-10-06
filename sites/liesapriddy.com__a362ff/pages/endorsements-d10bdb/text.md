@@ -1,0 +1,32 @@
+Liesa Priddy Endorsements
+- Wilton Simpson COMMISSIONER OF AGRICULTURE & CONSUMER SERVICES
+“Liesa Priddy is precisely the kind of principled, commonsense conservative leader Florida agriculture needs in Tallahassee.
+Liesa understands what it takes to safeguard Florida’s family farms, defend private property rights, and preserve our rural communities.
+I am proud to support her candidacy.”
+- Lauren Melo State Representative “I’m proud to endorse Liesa Priddy for Florida House District 82.
+A conservative Republican fighter and third-generation Florida rancher from Immokalee, Liesa understands the values and needs of our communities.
+Her commitment to protecting rural lands, supporting a growing Naples, and serving eastern Collier and Hendry Counties makes her the right choice for Florida’s largest House district.”
+- Kevin Rambosk Collier County Sheriff
+“Liesa Priddy has always supported professional law enforcement, and I appreciate her recognition of the importance of public safety in our community.
+It is without reservation, as well as my honor, to endorse Liesa Priddy in her 2026 campaign for the Florida House of Representatives District 82.”
+- Steve Whidden Hendry County Sheriff
+“Liesa Priddy is the kind of leader law enforcement needs in Tallahassee.
+She understands that keeping our communities safe isn’t just a talking point — it’s a daily commitment.
+Liesa has always stood behind the men and women who put on the badge, and she knows that strong public safety means giving law enforcement the resources, the support, and the backing to do the job right.”
+- Florida Cow PAC
+- Florida Farm Bureau
+- Florida Chamber of Commerce
+- Florida Medical Association “The FMA PAC is proud to endorse Liesa Priddy in House District 82.
+Liesa is a proven leader in her community and within the agricultural industry, and the Florida Medical Association looks forward to working with her in the Florida House of Representatives.” -FMA PAC President, Andrew Borom, MD
+- Florida Milk PAC Florida Dairy Farmers Support Liesa Priddy for Florida House
+- Associated Industries of Florida
+- Adam Botana State Representative
+- Yvette Benarroch State Representative
+- Matt Hudson Former State Representative
+- Joe Spratt Former State Representative
+- Howie Grimm Everglades City Mayor
+- Scott Schultz Naples City Councilman
+- Amanda Nelson Hendry County School Board Member
+- Ramon Iglesias Hendry County Commission
+- Barbara Spratt LaBelle City Commissioner
+- Emory "Rowdy" Howard Hendry County Commission

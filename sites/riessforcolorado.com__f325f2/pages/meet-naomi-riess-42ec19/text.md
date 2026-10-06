@@ -1,0 +1,19 @@
+Naomi Riess has called Durango home for more than three decades.
+As a small-business owner, land-use consultant, farmer, mother, and longtime community volunteer, she has built her life around helping people navigate challenges, protect property rights, enjoy life, and strengthen the communities and families of Southwest Colorado.
+Naomi raised her family in Durango, where all three of her children graduated from Durango High School.
+Throughout those years, she was deeply involved in several local schools and youth programs, volunteering in the schools, serving as President of the Durango Early Learning Center Board, participating on the Durango 9-R District Accountability Advisory Committee, leading parent groups, coaching youth soccer, leading 4-H programs, and chairing the Durango High School After Prom Party.
+Her commitment to young people and healthy families has remained a constant throughout her life.
+For more than 33 years, Naomi has owned and operated Riess Research & Planning, helping farmers, ranchers, property owners, and businesses navigate land-use regulations, permitting, water issues, development approvals, and long-range planning.
+Her work has given her a firsthand understanding of the challenges facing rural communities, including housing availability, responsible growth, private property rights, natural resource management, water rights law, and the economic pressures affecting working families.
+Naomi’s service extends throughout Southwest Colorado.
+She has worked with county governments, planning commissions, regulatory agencies, and community organizations across the Four Corners region.
+She has served on numerous stakeholder groups revising county documents, and she was a citizen-leader during the 2018 La Plata County District Plan revisions, continuing to serve as a leader within her local district group.
+She participated in all three phases of the 2020 Census, primarily serving communities on the Southern Ute Reservation, and previously worked on the Navajo Nation administering the National Assessment of Educational Progress.
+She also helped establish the Tracks Across Borders Scenic and Historic Byway and has served for more than 15 years on the La Plata County Historic Preservation Commission, including many years as Vice Chair.
+As a Master Gardener, Certified Pollinator Steward, and owner of Colorado Heritage Farms, Naomi understands the importance of agriculture, water resources, land stewardship, and consuming locally raised, grown, and produced products.
+She raises bees and chickens, has raised pigs, is nurturing a small 55-tree fruit orchard, gardens using water-wise techniques, and remains actively involved in supporting local agriculture, the La Plata County Fair and 4-H Programs.
+In addition to her planning work, Naomi served as a mediator during the housing downturn, helping families navigate difficult situations involving divorce and child-related disputes and assisting parents in developing strong, communicative, and cooperative co-parenting plans.
+That experience strengthened her belief that lasting solutions come from listening carefully, finding common ground, and working collaboratively toward practical outcomes.
+Naomi’s life and career have been built on service, problem-solving, and a deep appreciation for the people and landscapes of Southwest Colorado.
+She brings decades of experience working directly with families, businesses, farmers, ranchers, and local governments, along with a practical and personal understanding of the issues facing House District 59.
+Rooted in community, committed to responsible stewardship, and guided by a lifelong dedication to helping others and a proven track record of service, Naomi Riess seeks to continue serving Southwest Colorado and helping ensure a strong future for the region’s families, businesses, and rural communities.

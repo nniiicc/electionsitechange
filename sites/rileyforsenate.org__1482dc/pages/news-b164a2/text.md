@@ -1,0 +1,12 @@
+-
+8/12/26 Lubbock City Council meeting on Data centers Riley went a spoke at a special meeting in Lubbock to advocate for those in his district that are struggling even more now in pursuit of Data center supremacy in Texas
+-
+5/4/26 Riley Rodriquez joins constituents speaking out against Data Centers “We have families showing up at our helping centers that haven't had families in decades.
+It's not an abstract thought.
+It's not something that might happen.”
+-
+5/4/26 Texas Voices: Riley Rodriquez's Candidacy for change in Texas State Senate District 28 Riley Rodriquez on Running for Texas Senate District 28, AI Data Centers, Water, Vouchers & Corporate Influence
+-
+5/4/26 Big Country native Riley Rodriquez announces run for Texas Senate in district 28 “Prices keep going up, wages stay the same, and corporations are moving into the state needing resources and energy with no type of regulation.”
+-
+5/4/26 Riley Rodriquez Candidate for Texas Senate District 28 “(District 28) needs someone that's in touch and is actually focused on things that affect the working class and not just the wealthy's pocketbook.”

@@ -1,0 +1,1 @@
+News Legislation Supporting Village Referenda Signed Into Law August 26, 2024 SUNY Chancellor Celebrates SUNY Leadership in AI Research and Scholarship July 17, 2024 Steve Otis Statement – Vote “Yes” for Clean Water, Clean Air, Green Jobs Bond Act October 3, 2022 Steve Otis Statements at Storm Recovery Meeting on the Hurricane Ida Action Plan September 8, 2022

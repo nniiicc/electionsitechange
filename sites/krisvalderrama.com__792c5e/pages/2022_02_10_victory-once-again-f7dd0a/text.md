@@ -1,0 +1,10 @@
+- Home
+- Representing District 26
+It is the honor of my life to represent the citizens of District 26 in the Maryland House of Delegates.
+As a
+lifelong resident of District 26, I understand the needs of our community.
+You are utmost in my mind
+during every meeting, hearing and voting session that I attend.
+Whether it is working for a safer Route
+210, or ensuring funding so our students receive a first rate environmental education experience from
+the Alice Ferguson Foundation, I am committed to providing you the very best representation possible.

@@ -1,0 +1,15 @@
+Michigan Regional Council of Carpenters and Millwrights Endorses Jeremy Moss for Congress in MI-11
+September 18, 2025
+Growing labor support highlights Moss’s tested record fighting for working families in Michigan
+Oakland County, MI – Today, the Michigan Regional Council of Carpenters and Millwrights announced their endorsement of Sen.
+Jeremy Moss in his campaign for Michigan’s 11th Congressional District.
+This marks his second major labor endorsement and demonstrates his base of support with Michigan’s working families.
+“I’m the son and grandson of union workers right here in Michigan, where organized labor built America’s middle class.
+In the State Senate, I’ve fought for fair wages and safe working conditions alongside Michigan’s carpenters and millwrights.
+I’m so honored they are joining our campaign for Congress,” Moss said.
+“We are taking this next fight to Washington to protect skilled trade jobs, stand up to federal attacks on labor rights, and restore the dignity every worker deserves.”
+As President Pro Tem of the Michigan Senate, Moss was instrumental in passing legislation to repeal right-to-work, restore prevailing wage, and expand jobsite protections for Michigan workers.
+“We are proud to stand with Jeremy Moss as he runs to represent Michigan’s 11th District in Congress for one simple reason: he’s had the backs of our members and every working person in the state,” said Tom Lutz, Executive Secretary-Treasurer of the Michigan Regional Council of Carpenters and Millwrights.
+“Jeremy is a principled and common-sense public servant who has long fought for working families, and I know that’s exactly what he’ll continue to do in Washington.”
+Moss previously announced the endorsement from LiUNA Local 1076 along with 60 elected officials in the district, continuing to build the coalition needed to represent Oakland County in Congress.
+To learn more about Jeremy Moss’s campaign for Congress, visit votejeremymoss.com.

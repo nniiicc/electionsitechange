@@ -1,0 +1,76 @@
+Skip to content
+Skip to content
+Home
+About Pat Dixon
+Policy Statements
+Exonerate Robert Roberson
+Free Market Sustainability
+Approval Voting
+School Choice
+Parent & Teacher Empowerment
+Non-Partisan Redistricting
+Texas Muslims
+AI
+Property Tax
+The Abbott Report
+The Border
+Election Integrity
+Texas Transportation
+Missed Opportunity?
+Hyperbole anyone?
+COVID
+How to Return Taxes
+Guns
+Texas Stance on Science Questionnaire
+Flock Cameras
+AI Data Centers
+The War on Hemp
+The Abbott Ad
+765 kV Transmission
+iVoterGuide Questionnaire
+League of Women Voters General Election Voters Guide
+Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey
+New Braunfels Herald-Zeitung article 8/29/26
+Minority Winner
+Israel
+Abbott’s Tax Plan
+About Greg Abbott
+Biblical Principles
+Texas Cannabis Policy Questionnaire
+Business
+DPAS-INC
+Sports and Outdoors
+CDT 2015
+Bio
+My Journey
+Axyl
+Mail Stops
+About Me
+My Mom
+About PSP
+YouTube Channel
+Photos
+Arts
+Music
+Amazon author page
+Government
+Keep the Party Libertarian
+Texas Senate District 14
+Lago Vista city council
+TX20
+Policy Statements
+Media and Video
+Search for:
+Search
+Home
+Uncategorized
+iVoterGuide Questionnaire
+iVoterGuide Questionnaire
+patdixon
+August 29, 2026
+August 29, 2026
+Uncategorized
+ivioter_questionnaire_review_2026-08-28
+Download
+Marijuana Policy Project/Texas Cannabis Policy Center’s 2026 candidate survey
+New Braunfels Herald-Zeitung article 8/29/26

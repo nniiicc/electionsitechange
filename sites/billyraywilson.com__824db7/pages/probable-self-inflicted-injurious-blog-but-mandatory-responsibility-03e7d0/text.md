@@ -1,0 +1,16 @@
+Individuals, from around the international community came to North America, before the idea of a nation, where all people regardless of race, creed, religion, sex orientation, etc., could live as equals without a mandatory religion, government persecution or whatever the negative factor for their own self-interest however, sadly, foreign governments and, of course, the religion oriented insurrections learned of the bountiful wealth and world power North America held for those that owned and/or occupied the continent.
+The great powers, Spain, The British Empire, France came and abused the indigenous population until the powers cited had established colonies that would be traded, sold, bartered, and wars fought to recover other’s lands, without of course, concern for the indigenous population.
+Alas, in 1776, the British North American Colonies on the northeastern seaboard defeated the British Empire and established the United States which at the founding consisted of thirteen colonies.
+My state, one of the four Commonwealth States, Kentucky was the fifteenth state to join the new Union.
+The United States was thriving of a barter system and questionable financial avenues required to preserve and build our new nation.
+Alas, an entity arose, evil or questionable, supported by non-other than Alexander Hamilton, the Rothschild Investor/Banking Family Members from Europe.
+Today, December 29, 2025, allegedly, a primary, private owner of the 1913 founded Federal Reserve System is the Rotthschild Family and, after almost two hundred forty plus years, they and like Federal Reserve Owners, found an, in my opinion, an investor and a person of questionable integrity name Donald J.
+Trump to elevate to the Presidency of the United States which the same fortunes had elevated to many on-United States loyal person to the position of Administrator of the Laws, Policies, Treaties, etc., set forth by the US Government’s Article One of the US Constitution’s Framework of Government.
+The Legislative Branch of the US Federal Government is the Government of the United States, not the President and/or Chief Executive as defined by Article II of the US Constitution.
+In light of the above,if there are any true United States citizens, in the Commonwealth of Kentucky or the United States, that are truly interested in the preservation of the United States as a Constitutional Republic, then he and she must make the time and effort to truthfully research the fraud of the Old and New Testaments, the two political parties of the United States and the unethical and non-moral characters of the incumbent members of the Federal Government and replace them in November 2026.
+The investors have destroyed Europe, except for the soon expired Ukraine, and the Middle East whereas they are now attempting to destroy Latin America and the United States with the assistance of the Republican Party and a number of Democrat that believe they are Chosen People.
+There are not now or ever been Gods of Abraham however, sadly, the majority of investors attempting to destroy the United States are converts to Judaism.
+Thomas Jefferson attempted to identify a Wall of Separation between Religion and our Constitutional Republic but failed due to greed and self-interest.
+Thank you.
+BILLY RAY WILSON
+DEFENDER OF THE US CONSTITUTION

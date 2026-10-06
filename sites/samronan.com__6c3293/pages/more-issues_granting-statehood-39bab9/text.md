@@ -1,0 +1,14 @@
+GRANTING STATEHOOD
+Puerto Rico
+- Puerto Rico should be granted Statehood and all of the rights and benefits therein
+- Development of Puerto Rico shall be given priority to current residents, with especial considerations to small business owners, and local needs
+- Federal Funding shall meet any needs of reconstruction, modernization, or similar actions, at no cost to Puerto Ricans
+DC
+- Washington DC, should be granted Statehood and all of the rights and benefits therein
+US Territories
+- All US territories, that desire admission to the US as a state should be granted statehood and all of the rights and benefits therein
+1st Nations
+- Of the many 1st nations people that exist within the borders of the US as sovereign states, every single one of them have had their treaties, or sovereignty violated by the federal government or private interests consistently over the past few centuries.
+Statehood would end this gross abuse of power against 1stnations.
+- Therefore, any 1stnations people or tribe, who would meet the constitutional criteria for statehood, should be granted official statehood so that their territories cannot be infringed upon, and include lesser populous people as protected entities as well.
+- Irrespective of these interested parties accepting this opportunity, all treaty monies owed by the Federal government to the territories shall reflect the modern equivalent of agreed upon monies and duties, with the additional compensation outline in the Reparations policies.

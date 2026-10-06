@@ -1,0 +1,33 @@
+Georgia Early Literacy Act
+Literacy is one of the keys to life.
+The ability to read and receive a quality education opens doorways to opportunity and lifelong success, and right now, only one in three Georgia students can read at grade level by the end of third grade.
+On Thursday, the Georgia House introduced historic education legislation that will facilitate generational change for our children, families, businesses, and the entire state by ensuring every child has the chance to learn to read.
+The Georgia Early Literacy Act of 2026 takes bold, affirmative steps forward to strengthen Georgia’s literacy rates by investing in placing a literacy coach in every K-3 elementary school, streamlining guidelines for grade placement, fostering greater collaboration at the district and school level, better preparing Georgia’s future educators, and educating parents on the critical importance of early literacy and language development.
+We will also champion funding to ensure every family in Georgia receives a book upon the birth of their child, so they can begin reading to their children from the very beginning, where it matters most—at home.
+Let’s get Georgia reading!
+AFY 2026 Budget
+Yesterday, the Georgia House passed our version of the Amended Fiscal Year 2026 Budget.
+This budget reflects our ongoing commitment to returning more money to hardworking Georgia taxpayers and investing in the initiatives that matter most to the future of our great state.
+From education, public safety, healthcare, and transportation, these investments will contribute to every community across Georgia.
+- $850 Million for Homeowner Property Tax Relief
+- $2,000 Pay Supplements for Every State Employee
+- $1.4 Million for School Social Workers
+- $17.8 Million for Medical Education Programs
+- $29 Million for an Optometry School at Georgia Southern
+- $27 Million for a Georgia Regional Hospital for Mental Health
+- $9.7 Million to Hire Additional Correctional Officers
+- $250 Million for the Local Road Assistance Program
+Georgia Families First
+Every Georgia family deserves an opportunity to thrive.
+That’s why I was proud to announce the House’s ‘Georgia Families First’ legislative initiative.
+Each of these bills and investments, sponsored by women in the House Republican Caucus, takes affirmative steps forward to ensure children, women, and families in every corner of the state have access to the resources and support they need to be safe, healthy, and successful.
+House Bill 1123 - Expands Pre-K afterschool services to help working families
+House Bill 1118 - Increases paid maternal leave for state-employee birth mothers from 6 to 9 weeks
+House Bill 1138 - Increases women’s access to contraceptives by allowing pharmacists to prescribe birth control
+House Bill 1142 - Creates a statewide domestic violence offender registry managed by the Georgia Bureau of Investigation
+$8.9 Million Investment - Expands the maternal home visiting program from 75 to 154 counties
+$2 Million Investment - Increases summer care for Pre-K students through the Summer Transition Program
+Check out some more highlights from this week below:
+I hope everyone has a great weekend, and as always, I hope to hear from each of you soon.
+My best,
+Speaker Jon Burns

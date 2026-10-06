@@ -1,0 +1,1 @@
+Media For media inquiries, please contact: Eric Stevens (585) 310-2290 eric@sarahclarkforassembly.com Photos Logos Color, for light background Black, for light background Color, for light background White, for dark background

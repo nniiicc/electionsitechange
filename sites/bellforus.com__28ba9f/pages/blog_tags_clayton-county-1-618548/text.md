@@ -1,0 +1,6 @@
+K.I.N.G.S.
+Breakfast
+Special thanks to the K.I.N.G.S. of Pointe South Middle School for allowing me to take part in their breakfast and Black History Month...
+Clayton County Prison Reentry Initiative
+On February 21st, I had the pleasure of attending the Clayton County Prison Reentry Initiative Stakeholders Meeting.
+The event was hosted...

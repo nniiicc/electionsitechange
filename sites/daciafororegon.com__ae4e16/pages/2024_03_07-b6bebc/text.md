@@ -1,0 +1,3 @@
+Oregon Legislature adopts bill to modernize state’s EMS system, improve coordination
+The Oregon Legislature this week passed the EMS Modernization Act of 2024 (HB 4081), a policy framework more than 20 years in the making that begins to address inefficiencies in Oregon’s emergency medical system, after years of ranking near the bottom in national surveys…
+Oregon Legislature adopts bill to modernize state’s EMS system, improve coordination Read More »

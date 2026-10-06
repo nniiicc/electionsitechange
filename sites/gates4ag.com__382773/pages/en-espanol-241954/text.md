@@ -1,0 +1,458 @@
+Issues:
+COMO NUESTRO MINISTRO DE JUSTICIA, MICHAEL GATES LUCHARÁ POR NUESTRAS FAMILIAS, NUESTRAS COMUNIDADES Y NUESTRA SEGURIDAD.
+LA SEGURIDAD PÚBLICA ES LO PRIMERO
+FAMILIAS SEGURAS, COMUNIDADES SEGURAS, HACER QUE EL CRIMEN VUELVA A SER ILEGAL
+Como Ministro de Justicia, Michael Gates hará de la seguridad pública su principal prioridad.
+Los californianos merecen sentirse seguros en sus vecindarios, ya sea caminando al trabajo, enviando a sus hijos a la escuela o dirigiendo un pequeño negocio.
+Durante demasiado tiempo, los políticos de Sacramento han debilitado la aplicación de la ley, reducido la responsabilidad y han dejado a las comunidades para lidiar con las consecuencias.
+Los votantes de California aprobaron la Proposición 36 en 2024 para mejorar la aplicación de la ley y aumentar las sanciones por ciertos delitos.
+Hasta la fecha, los líderes de Sacramento se han negado a implementar la voluntad de los votantes.
+Michael hará que la implementación completa de la Proposición 36 en todo el estado sea su máxima prioridad después de asumir el cargo.
+Se escuchará la voluntad del pueblo, el crimen volverá a ser ilegal.
+Michael Gates tiene un historial probado de defender la seguridad pública.
+Como fiscal de la ciudad de Huntington Beach, creó el primer programa de enjuiciamiento penal local de la ciudad para garantizar que los delitos, especialmente los delitos de calidad de vida, se tomaran en serio.
+El resultado: reducción de la delincuencia y calles más seguras.
+Como Ministro de Justicia, él:
+Priorizar el enjuiciamiento de los violentos y los reincidentes
+Hacer cumplir las leyes existentes que Sacramento se niega a hacer cumplir
+Restablecer la rendición de cuentas en todo el sistema de justicia penal
+Asociarse con los fiscales locales y las fuerzas del orden para mantener las comunidades seguras
+LA SEGURIDAD PÚBLICA NO ES PARTIDISTA; ES FUNDAMENTAL.
+PROTEGER EL CONTROL LOCAL DEL EXCESO DE SACRAMENTO
+DE PIE A SACRAMENTO PARA PROTEGER NUESTRAS COMUNIDADES
+Los mandatos de talla única de Sacramento causan un daño real, anulando a los votantes locales mientras fuerzan el desarrollo en áreas ambientalmente sensibles y proptas a incendios.
+Michael Gates cree que los gobiernos locales, no los burócratas de Sacramento, están en la mejor posición para tomar decisiones de uso de la tierra y vivienda que equilibren el crecimiento, la seguridad, la infraestructura y la protección del medio ambiente.
+Como Ministro de Justicia, Michael Gates:
+Defender la autoridad constitucional de las ciudades y condados para controlar las decisiones de zonificación, uso de la tierra y vivienda
+Rechazar los mandatos estatales que anulan los planes locales y las cartas de la ciudad aprobadas por los votantes
+Hacer cumplir las leyes ambientales donde el desarrollo de alta densidad amenaza las zonas costeras, los hábitats de la vida silvestre, los suministros de agua y las áreas de riesgo de incendio
+Proteger a las comunidades de ser obligadas a construir en áreas que ponen en peligro la seguridad pública y la calidad de vida
+MICHAEL GATES DEFENDERÁ A LAS COMUNIDADES QUE QUIEREN UN CRECIMIENTO INTELIGENTE, UNA PROTECCIÓN AMBIENTAL REAL Y SOLUCIONES QUE REFLEJEN LAS REALIDADES LOCALES, NO LOS MANDATOS POLÍTICOS DE SACRAMENTO.
+APOYAR A LA APLICACIÓN DE LA LEY, NO SOCAVARLAS
+FINANCIACIÓN TOTAL - NO DESFINANCIACIÓN - LA POLICÍA, DEFENDIENDO A NUESTROS OFICIALES EN LA CORTE
+Los oficiales de policía son los guardianes de la ley y el orden.
+Cuando son esposados por los políticos, las comunidades sufren.
+Como Ministro de Justicia, Michael Gates:
+Defender a los agentes de la ley que son demandados por hacer su trabajo
+Restaurar el apoyo de la fiscalía para la policía, no para dudar
+Rechazar las políticas que obliguen a la policía a actuar como trabajadores sociales en lugar de luchadores contra el crimen
+Asegúrese de que los oficiales tengan el apoyo y los recursos que necesitan para mantener a las comunidades seguras
+APOYAR LA APLICACIÓN DE LA LEY SIGNIFICA VECINDARIOS MÁS SEGUROS Y UNA MAYOR CONFIANZA ENTRE LAS COMUNIDADES Y AQUELLOS QUE LAS PROTEGEN.
+LUCHA CONTRA EL FRAUDE, EL DESPERDICIO Y LA MALA GESTIÓN EN CALIFORNIA
+RESTAURAR LA RESPONSABILIDAD, PROTEGER A LOS CONTRIBUYENTES Y ACABAR CON LA CULTURA DE LOS RESIDUOS
+California ha invertido cientos de miles de millones de dólares de los contribuyentes en programas de alto perfil, sin embargo, 250 mil millones de dólares se han perdido y han sido no contabilizados debido al fraude, el desperdicio y la mala gestión.
+Solo algunos ejemplos incluyen:
+Más de 24 mil millones de dólares gastados en programas para personas sin hogar, la crisis ha empeorado, no mejorado, lo que plantea serias preguntas sobre la supervisión, la transparencia y los resultados.
+Al menos 18 mil millones de dólares en el proyecto de tren de alta velocidad de California, sin embargo, todavía no hay una línea ferroviaria continua de pasajeros que conecte las principales ciudades, y miles de millones más en excesos de costos y retrasos.
+32.600 millones de dólares en fraude verificado del seguro de desempleo, dinero que fue robado a californianos trabajadores mientras las familias y las pequeñas empresas apenas se aferraban.
+Como Ministro de Justicia, Michael Gates:
+Investigar y procesar el fraude a todos los niveles.
+Exigir total transparencia con informes públicos reales y auditorías independientes.
+Responsabilizar a los funcionarios públicos y a los contratistas privados cuando hagan un mal uso de los fondos.
+Asóciese con las fuerzas del orden federales y locales para desmantelar complejos esquemas de fraude que drenan la economía de California.
+Defender a los contribuyentes demandando para recuperar los fondos perdidos y fortaleciendo las herramientas de aplicación para prevenir futuros abusos.
+LAS FAMILIAS DE CALIFORNIA MERECEN UN GOBIERNO QUE PROTEJA SU DINERO DURAMENTE GANADO, HAGA CUMPLIR LA LEY Y ENTREGUE RESULTADOS REALES, ESPOSANDO A LOS ESTAFADORES, NO SOLO ABOFETADAS.
+DEFENDER EL TÍTULO IX Y LOS DERECHOS DE LOS PADRES
+PROTEGER A NUESTRAS NIÑAS Y DEFENDER LOS DERECHOS DE LOS PADRES
+Como Ministro de Justicia, Michael hará cumplir y defenderá agresivamente todas las leyes federales para proteger a nuestras jóvenes y padres en nuestros sistemas deportivos y educativos.
+Mientras era Ministro de la Ciudad de Huntington Beach, Michael lideró la acusación para proteger a los padres e hijos mediante la redacción de una Ordenanza de “Dererecho de los Padres a Saber”, que fue adoptada por el Ayuntamiento.
+También demandó al Estado de California impugnando el AB 1955, una nueva ley estatal que obligaba a los maestros y educadores a guardar secretos de los padres con respecto a los problemas de género de sus hijos.
+Como Ministro de Justicia, Michael Gates:
+Hacer cumplir el Título IX en todo el estado en todos los deportes y educación
+Protege los deportes de las niñas manteniendo a los niños fuera de los deportes femeninos
+Defender los derechos de los padres a estar informados e involucrados en la educación de sus hijos
+Continuar haciendo cumplir los derechos constitucionales de los padres contra leyes estatales equivocadas como AB 1955
+Proteja los derechos de la Primera Enmienda de los padres como protegen a sus hijos cuando se dirigen a las Juntas Escolares en las reuniones
+MICHAEL TIENE UN HISTORIAL DE PROTECCIÓN DE LOS PADRES Y PROTEGERÁ A NUESTRAS NIÑAS, LO QUE INCLUYE MANTENER A LOS NIÑOS FUERA DE TODOS LOS DEPORTES FEMENINAS EN CALIFORNIA, ASEGURANDO QUE TODOS LOS SISTEMAS DEPORTIVOS Y EDUCATIVOS DE TODO EL ESTADO CUMPLAN CON EL TÍTULO IX.
+Lo HARÁ EL PRIMER DÍA DE ASUMIR EL CARGO.
+DEFENDER EL TÍTULO IX Y LOS DERECHOS DE LOS PADRES
+PROTEGER A NUESTRAS NIÑAS Y DEFENDER LOS DERECHOS DE LOS PADRES
+California ha gastado decenas de miles de millones de dólares en personas sin hogar, y la crisis solo ha empeorado.
+Michael Gates cree que la falta de vivienda debe abordarse con compasión, responsabilidad y resultados.
+El sistema actual recompensa el fracaso, atrapa a las personas en la adicción y la enfermedad mental, y deja a las comunidades inseguras.
+Como Ministro de Justicia, se centrará en arreglar lo que Gavin Newsom rompió por:
+Exigir transparencia y responsabilidad por el gasto en personas sin hogar
+Apoyar soluciones de tratamiento para la adicción y la enfermedad mental grave
+Hacer cumplir las leyes contra el uso abierto de drogas, los campamentos y la trata
+Programas de expansión que sacan a las personas de las calles, al tratamiento y de vuelta a la sociedad
+LA COMPASIÓN SIN RESPONSABILIDAD HA FALLADO.
+LAS SOLUCIONES REALES REQUIEREN AMBAS COSAS.
+GARANTIZAR LA INTEGRIDAD ELECTORAL
+LOS CALIFORNIANOS MERECEN LA CONFIANZA DE QUE NUESTRO SISTEMA ELECTORAL ES HONESTO, LEGAL Y DIGNO DE LA CONFIANZA DEL PÚBLICO.
+Incidentes recientes, incluyendo el registro de un perro llamado Maya y la participación en múltiples ciclos electorales, han suscitado preocupaciones legítimas sobre si las leyes electorales se están aplicando constantemente.
+Michael Gates tiene un historial probado en la lucha por la integridad electoral durante su tiempo en los Estados Unidos.
+Departamento de Justicia y durante su tiempo como Fiscal de la Ciudad de Huntington Beach.
+Michael sabe por experiencia que salvaguardar la integridad electoral significa hacer cumplir la ley sin miedo ni favor, investigar las irregularidades dondequiera que ocurran y garantizar que se cuente cada voto legal.
+Como Ministro de Justicia, Michael Gates:
+Investigar todas las quejas creíbles de irregularidades electorales y presuntas violaciones de la ley electoral de California
+Hacer cumplir las leyes electorales existentes para garantizar que las listas de votantes sean precisas, seguras y se mantengan legalmente
+Responsabilizar a cualquier persona o agencia que no cumpla con los requisitos de integridad electoral
+Proteger el acceso legal a la papeleta mientras se evita el fraude, el abuso y las fallas administrativas
+Asegúrese de que las elecciones de California se lleven a cabo de manera justa, transparente y en pleno cumplimiento de la ley
+MICHAEL GATES LUCHARÁ PARA RESTAURAR LA CONFIANZA EN LAS ELECCIONES DE CALIFORNIA, ASEGURANDO UN SISTEMA ELECTORAL QUE SEA JUSTO, ACCESIBLE, HONESTO Y QUE FUNCIONE CON INTEGRIDAD PARA TODOS LOS VOTANTES.
+Hacer cumplir las Leyes Ambientales
+DANDO CONTROL A LAS AGENCIAS LOCALES, NO A LOS BURÓCRATAS DE SACRAMENTO, PARA PROTEGER A SUS HERMOSAS COMUNIDADES.
+Proteger nuestro medio ambiente requiere más que consignas.
+Requiere hacer cumplir las leyes de los libros y respetar el papel de las comunidades locales en la protección de los lugares a los que llaman hogar.
+Con demasiada frecuencia, los mandatos de talla única de Sacramento eluden las protecciones ambientales, anulan la toma de decisiones locales y presionan a las comunidades para que acepten proyectos que amenazan hábitats sensibles, recursos hídricos y seguridad pública.
+Michael Gates cree que los gobiernos locales, no los burócratas de Sacramento, están en la mejor posición para evaluar los impactos ambientales, equilibrar el crecimiento con la conservación y proteger a sus comunidades bajo la ley estatal existente.
+Como Ministro de Justicia, se centrará en arreglar lo que Gavin Newsom rompió por:
+Defender la autoridad de las ciudades y condados para tomar decisiones de uso de la tierra que reflejen las condiciones ambientales locales y las prioridades de la comunidad
+Responsabilizar a las agencias estatales y a los desarrolladores cuando intentan eludir la revisión ambiental o socavar las protecciones locales
+Proteger las zonas costeras sensibles, los hábitats de la vida silvestre, los suministros de agua y las áreas de alto riesgo de incendio del desarrollo imprudente o ilegal
+Preservar el control local para que las comunidades puedan proteger la seguridad pública, la calidad ambiental y la calidad de vida
+MICHAEL GATES LUCHARÁ POR UN CRECIMIENTO RESPONSABLE, UNA PROTECCIÓN AMBIENTAL REAL Y EL ESTADO DE DERECHO, ASEGURANDO QUE LAS DECISIONES QUE AFECTAN A NUESTRO MEDIO AMBIENTE SE TOMEN CON RESPETO POR LAS COMUNIDADES LOCALES, Y SIN PRESIÓN DE SACRAMENTO.
+Respaldos
+REGÍSTRESE PARA RESPALDAR A MICHAEL GATES PARA FISCAL GENERAL.
+Michael Gates está pidiendo el respaldo de cada miembro y líder de nuestras comunidades locales. ¿Apararás a Michael Gates para Fiscal General?
+¡MICHAEL GATES ESTÁ RESPALDADO POR LOS LÍDERES EN LOS QUE CONFIAMOS!
+Richard Grenell
+Ambassador and Former National Security Advisor to President Trump
+Dan Lungren
+Former California Attorney General
+Chad Bianco
+Former Candidate for California Governor and Sheriff of Riverside County
+California Republican Party
+Don Barnes
+Orange County Sheriff
+John Zanoni
+Fresno County Sheriff
+Donny Youngblood
+Kern County Sheriff
+Michael Boudreaux
+Tulare County Sheriff
+Brandon Barnes
+Sutter County Sheriff
+Larry Stearn
+President of the Los Angeles Police Department
+Valley Bureau Foundation
+Billy Aldridge
+Chief of Police
+Lisa Smittcamp
+Fresno County District Attorney
+Cynthia Zimmer
+Kern County District Attorney
+Matt Rogers
+Tehama County District Attorney
+Alex Villanueva
+Former Los Angeles County Sheriff
+David S.
+Milton
+Retired California Superior Court Judge
+American Independent Party of California
+California Parents Union
+California Cities for Local Control
+Jon Voight
+Actor
+Agnes Gibboney
+California Angel Mom
+Tony Strickland
+California State Senator
+Gates for Attorney General Co-Chair
+Steve Hilton
+Candidate for Governor of California
+Gloria Romero
+Former California State Senator
+Former Democratic Majority
+Leader of the California State Senate, Candidate for Lieutenant Governor of California
+Tony Rackauckas
+Former Orange County District Attorney
+Huntington Beach Police Officer’s Association
+Garden Grove Police Officer’s Association
+Westminster Police Officer’s Association
+Deputy Sheriffs' Association of San Diego County
+Newport Beach Police Association
+Pomona Police Officers' Association
+Simi Valley Police Officers' Association
+Sacramento County Deputy Sheriffs' Association
+Bakersfield Police Officers' Association
+Sheriff's Employees' Benefit Association of San Bernardino
+Redlands Police Officers' Association
+San Bernardino Police Officers' Association
+Ventura County Deputy Sheriffs' Association
+Laguna Beach Police Employees' Association
+Burbank Police Officers' Association
+California Republican Assembly
+Americans4Hindus
+The Israeli-American Civic Action Network (ICAN)
+Iranian-American Republican Council
+California Hispanic Republican Club
+California Rifle & Pistol Association
+Gun Owners of California/Gun Owners of America
+Republican Attorneys General Association
+Howard Jarvis Taxpayers Association PAC
+California Women's Leadership Association PAC
+Vietnamese-American Conservative Alliance (VACA)
+Silicon Valley Chinese Association
+Nisei Farmers League
+United Vietnamese American Community of Northern California
+San Diego Asian-Americans for Equality (SDAAE)
+Patriots4Freedom-San Diego
+Alameda County Republican Party
+Monterey County Republican Party
+Placer County Republican Party
+San Mateo County Republican Party
+Marin County Republican Party
+Santa Clara County Republican Party
+Shasta County Republican Party
+San Benito County Republican Party
+Nevada County Republican Party
+Santa Cruz County Republican Party
+Calaveras County Republican Party
+San Joaquin County Republican Party
+Santa Barbara County Republican Party
+Napa County Republican Party
+Contra Costa County Republican Party
+Riverside County Republican Party
+San Luis Obispo County Republican Party
+Ventura County Republican Party
+Yuba County Republican Party
+San Diego County Republican Party
+Tulare County Republican Party
+Trinity County Republican Party
+Sutter County Republican Party
+Sonoma County Republican Party
+Tuolumne County Republican Party
+Madera County Republican Party
+Los Angeles County Republican Party
+Yolo County Republican Party
+Del Norte County Republican Party
+Humboldt County Republican Party
+Merced County Republican Party
+Imperial County Republican Party
+San Francisco County Republican Party
+Modoc County Republican Party
+Sacramento County Republican Party
+Mariposa County Republican Party
+Lake County Republican Party
+Kings County Republican Party
+Inyo County Republican Party
+Glenn County Republican Party
+Stanislaus County Republican Party
+El Dorado County Republican Party
+Southern California Area Republican Women
+California Congress of Republicans
+Central Coast Congress of Republicans
+Lincoln Club of Orange County
+Los Angeles County Lincoln Clubs
+San Diego Lincoln Club
+West Orange County Republican Women Federated
+Tustin Area Republican Women Federated
+Marin County Republican Assembly
+Siskiyou County Republican Party
+Sierra County Republican Party
+San Bernardino County Republican Party
+Mendocino County Republican Party
+Fresno County Republican Party
+GOP Union Caucus
+Bishop Juan Carlos Mendez
+Centro Cristiano Bet-El a Southern Baptist Church in Los Angeles
+Pastor Jack Hibbs
+Calvary Church Chino Hills
+John Phillips
+The John Phillips Show AM790 KABC & AM810 KSFO
+Gregory Brown
+Former Deputy Assistant Attorney General
+Civil Rights Division
+United States Department of Justice
+Marie Alvarado-Gil
+California State Senator
+Brian Jones
+California State Senator
+Roger Niello
+California State Senator
+Megan Dahle
+California State Senator
+Steve Choi
+California State Senator
+Shannon Grove
+California State Senator
+Rosilicie Ochoa Bogh
+California State Senator
+Suzette Martinez Valladares
+California State Senator
+Kelly Seyarto
+California State Senator
+David Tangipa
+California State Assembly Member
+Alexandra Macedo
+California State Assembly Member
+Carl DeMaio
+California State Assembly Member
+Kate Sanchez
+California State Assembly Member
+Tri Ta
+California State Assembly Member
+Stan Ellis
+California State Assembly Member
+Jeff Gonzalez
+California State Assembly Member
+Rachel Darvish
+Los Angeles Attorney and Palisades Fires Activist
+Michael Antonovich
+Former California Assemblyman and Los Angeles
+County Supervisor
+Don Wagner
+Orange County Supervisor
+Former California Assembly Member
+Janet Nguyen
+Orange County Supervisor
+Former California State Senator
+Hugh Nguyen
+Orange County Clerk-Recorder
+Shari Friedenrich
+Orange County Treasurer
+Claude Parrish
+Orange County Tax Assessor
+Steve Garvey
+Major League Baseball Hall of Fame Nominee
+Former Candidate for U.S.
+Senate
+Former Congressman John Duarte
+Congressional District 13
+Congressman Ken Calvert
+Congressional District 41
+Elizabeth Barcohana
+Los Angeles Republican Central Committee Member
+Social Media Influencer
+Houman Hemmati
+Los Angeles Medical Doctor
+Social Media Influencer
+Sonja Shaw
+Chino Valley Unified School District Board President,
+Candidate for State Superintendent
+Carol Pefley
+California State Assembly Candidate
+Ritesh Tandon
+Candidate for Congressional District 17
+Mari Barke
+Orange County Board of Education Member
+Ken Williams
+Orange County Board of Education Member
+Lisa Sparks
+Orange County Board of Education Member
+Dr.
+Stefan Bean
+Orange County Superintendent of Schools
+Shawn Steel
+California Republican National Committee Member
+Casey McKeon
+Mayor of the City of Huntington Beach
+Butch Twining
+Mayor Pro Tem of the City of Huntington Beach
+Gracey Larrea-Van Der Mark
+Huntington Beach City Council Member
+Chad Williams
+Huntington Beach City Council Member
+Andrew Gruel
+Celebrity Chef
+Huntington Beach City Council Member
+Pat Burns
+Retired Long Beach Police Officer
+Huntington Beach City Council Member
+Don Kennedy
+Huntington Beach City Council Member
+Mike Vigliotta
+City Attorney of Huntington Beach
+Lisa-Lane Barnes
+City Clerk of Huntington Beach
+Mike Munzig
+Mayor Pro Tem Aliso Viejo City Council
+Jim Cunneen
+Mayor of Fountain Valley
+Curtis Burton
+Mayor Pro Tem City of Chino
+Steve Knoblock
+Mayor Pro Tem City of San Clemente
+R "Ray" Wang
+Cupertino City Council Member
+De De Cavanaugh
+Mayor of City of Simi Valley
+Liang-Fang "Liang" Chao
+Vice Mayor City of Cupertino
+Joseph Bonomolo
+Grass Valley City Council Member
+Aurelio Mattucci
+Torrance City Council Member
+Drew Bessinger
+Clovis City Council Member and Former Police Captain
+Joe Alindajao
+Delano City Council Member
+Fred Whitaker
+Former Mayor Pro Tem Orange City Council
+TJ Fuentes
+Orange County Republican Party Committee Member
+Janine Heft
+Former Laguna Hills Mayor
+Rhonda Shader
+Former Mayor of Placentia
+Michael Griffiths
+Former Torrance City Council Member
+Steven Scharf
+Former Mayor of Cupertino
+Tito Ortiz
+Former UFC Fighter
+Former Huntington Beach City Council Member
+Jim Silva
+Former California State Assembly Member
+Former Orange County Supervisor
+Former Huntington Beach City Mayor
+Rob Handy
+Retired Chief of Police for Huntington Beach Police Department
+Jon Fleishman
+Former Executive Director of the California Republican Party
+Paula Boland
+Former California State Assembly Member
+Dennis Zine
+Former Los Angeles City Council Member
+Greig Smith
+Former Los Angeles City Council Member
+Jeff Reisig
+Former District Attorney Yolo County
+Leland DeVore
+Former Police Chief of Twin Falls
+John McGinness
+Retired Sacramento County Sheriff
+Tom Angel
+Retired Division Chief of the Los Angeles Sheriff’s Department
+Robert Binkley
+Retired Division Commander of the Los Angeles Sheriff’s
+Department
+Warren Asmus
+Retired Division Chief of the Los Angeles Sheriff’s
+Department
+Pete Amico
+Retired Division Commander of the Los Angeles Sheriff’s
+Department
+Ralph Ornelas
+Retired Division Commander of the Los Angeles Sheriff’s
+Department
+Mike Smith
+Retired Division Captain of the Los Angeles Sheriff’s
+Department
+Kris Pitcher
+Retired Deputy Chief of the Los Angeles Police Department
+John Sherman
+Retired Deputy Chief of the Los Angeles Police Department
+Bruce Crosley
+Retired Captain of the Los Angeles Police Department
+Lillian Carranza
+Retired Commander of the Los Angeles Police Department
+Bob Green
+Retired Deputy Chief of the Los Angeles Police Department
+JJ Smith
+San Francisco Small Business Owner and Social Media Influencer
+Ed Laird
+Huntington Beach Business Owner
+Dona ahora
+Elija la cantidad
+Una vez* Mensual
+Cover the Fees: Cubrir las tarifas
+Express Checkout : Pago exprés
+Send me updates by Text: Envíame actualizaciones por mensaje de texto
+* Al proporcionar su número de teléfono, usted acepta recibir actualizaciones de mensajes de texto, incluidos mensajes de texto automatizados, a ese número de Gates para el Ministro de Justicia.
+Se pueden aplicar tarifas de mensajes y datos, y la frecuencia de los mensajes puede variar con el tiempo.
+Responda “STOP” para optar por no recibir estas actualizaciones de mensajes de texto.
+Are you currently employed? : ¿Estás empleado actualmente?
+Your information is secure: Su información está segura.
+By accessing this form you agree to the Terms of Service, and Privacy Policy: Al acceder a este formulario, usted acepta los Términos de Servicio y la Política de Privacidad.

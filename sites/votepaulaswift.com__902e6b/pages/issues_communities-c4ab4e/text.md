@@ -1,0 +1,10 @@
+Stable Communities
+As a widowed single mother who had to rebuild her life, Paula knows that housing stability isn’t just a policy issue — it’s the foundation that allows families to heal, grow, and thrive.
+Whether you rent or own, everyone deserves housing stability.
+Paula will fight for local solutions that help families stay in their homes, support responsible property owners, and ensure our communities have a voice in how they grow.
+- Respect local input on housing decisions and work with cities and communities to meet housing needs in ways that fit local character, not one-size-fits-all mandates from Sacramento.
+Our neighborhoods know what works for them.
+- Support homeowners and responsible property owners by expanding legal aid and counseling for homeowners facing foreclosure, protecting small landlords from burdensome regulations, and creating incentives to preserve small multi-family housing in established neighborhoods.
+- Ensure housing stability for renters by supporting fair, predictable rules including protections against arbitrary evictions for long-time renters so families can plan their lives without fear of sudden displacement.
+- Create more housing options for working families and encourage housing at different price points to help teachers, nurses, and first responders stay in the communities where they serve.
+- Crack down on predatory practices, deed theft, and illegal lockouts that exploit vulnerable homeowners and renters while supporting the vast majority of property owners who do right by their tenants.

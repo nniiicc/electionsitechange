@@ -1,0 +1,7 @@
+Bishop’s record-breaking quarter is strongest fundraising showing in GA-02 history
+ALBANY, GA – Today, the Sanford Bishop for Congress campaign announced raising more than $800,000 in the second quarter of 2022 for Congressman Bishop’s re-election efforts – the single biggest fundraising quarter he has ever posted.
+These numbers bring Bishop’s total fundraising haul this cycle to more than $1.9 million, with over $1 million in the bank, as he heads into the general election.
+“These record-breaking fundraising numbers demonstrate widespread support for Congressman Bishop’s work for the people of Georgia and our nation,” said Sanford Bishop for Congress campaign manager Robert West.
+###
+Whether it’s securing millions in disaster relief and storm preparation funding; delivering more than $1 billion in COVID funding to support hospitals, schools, families, workers, and small businesses; or delivering millions in funding to support local law enforcement to help reduce crime, Congressman Sanford Bishop continues to show up for the people of this district, state, and nation.
+He supported the bi-partisan Infrastructure Investment and Jobs Act to create thousands of new jobs rebuilding Georgia’s roads, bridges, airports, and clean water systems; worked to lower prices for families in the grocery store and at the gas pump, and fought for Georgia’s military bases, servicemembers, veterans, and their families.

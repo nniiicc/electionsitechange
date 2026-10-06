@@ -1,0 +1,24 @@
+Raleigh, N.C. – State lawmakers in the North Carolina House of Representatives unanimously approved legislation to provide $257 million of additional disaster relief for victims of Hurricane Dorian and other recent severe storms this week.
+House Bill 1023 Storm Recovery Act of 2019 is the latest in a series of disaster relief bills passed by the North Carolina House that have provided over $1 billion of hurricane recovery funds to victims since 2016.
+North Carolina recently saved a record rainy day reserve that allowed the state to respond to Hurricanes Matthew, Florence, Dorian, Tropical Storm Michael, and other major disasters, without raising taxes or diverting revenue from other sources.
+“This is a lot money in our sixth disaster relief bill since 2016,” said state House Majority Leader John Bell (R-Wayne).
+“Thank goodness we are a state that is fiscally responsible, that is prepared for disasters, to provide relief to victims who desperately need our help in recovery.
+Where schools were devastated, where infrastructure was devastated, we’re helping them rebuild, and we’re doing it in the right way that is sustainable over the long-term.”
+Appropriations for disaster relief in H.B. 1023 include:
+- $36 million for the state Department of Transportation to increase cash flow, fund debris removal, and provide highway repairs.
+- $55 million to match federal grants for Hurricane Matthew, Tropical Storm Michael, Hurricane Dorian, and other storms and future emergencies.
+- $5 million to the Department of Agriculture and Consumer Affairs for the buyout of swine farms in flood-prone areas.
+- $42 million to the state Division of Emergency Management for mitigation studies, monitoring systems, and other resiliency needs.
+- $20 million to Golden LEAF to repair infrastructure and equipment, fund hazard mitigation.
+- $40 million to the North Carolina Office of Recovery and Resiliency for loans or grants to local governments for resiliency planning.
+- $5.2 million to Elizabeth City State University for repairs to buildings damaged in Hurricane Dorian.
+- $1.7 million to repair Okracoke School as necessary after Hurricane Dorian.
+- $1.8 million to the Office of State Budget and Management for infrastructure at the Lake Mattamuskeet watershed.
+The bill directs the Department of Public Safety to establish mechanisms that solicit input from agencies receiving federal or state disaster recovery funds regarding ways to improve the administration of funds and associated program.
+The removal of abandoned vessels is also addressed in the legislation by granting the state Wildlife Resources Commission additional authority to deal with derelict boats after severe storms on the coast.
+Recommendations of the state General Assembly’s Program Evaluation Division regarding disbursement of federal Community Development Block Grants for storm relief were also included in the legislation.
+The bill further forbids any of its appropriations from being spent on new residential buildings in the 100-year flood plain and adds a new position at the Division of Emergency Management to administer federal grants.
+“This bill is a big step forward for supporting victims and communities still reeling not only from hurricanes on the coast, but disasters across North Carolina,” said Rep.
+Chuck McGrady (R-Henderson), a co-chair of the state House Appropriations Committee.
+“It continues our commitment to maximizing federal matching funds through disaster relief spending, and improving state policy to help every region prepare for future emergencies.
+I appreciate the commitment of my colleagues to smart financial management so we can deliver recovery funds in times of desperate need for North Carolinians.”

@@ -1,0 +1,15 @@
+- May 4, 2026
+Louisville, MS — Democratic congressional nominee Michael A.
+Chiaradio attended the 43rd Annual Freedom Fund Banquet hosted in Louisville by the NAACP this past Saturday, joining local leaders, elected officials, and members of the community for an evening focused on civic engagement and the future of Mississippi.
+The event brought together a broad coalition of leaders, including members of the Louisville Democratic Executive Committee and community advocates committed to expanding opportunity and participation across the region.
+Chiaradio was briefly recognized during the program and spent the evening meeting with attendees from across the area, discussing the importance of strengthening local organizing efforts and building the kind of turnout operation needed to compete in 2026.
+The evening reinforced a central theme of the campaign: elections in Mississippi are decided by participation, and long term success depends on sustained engagement at the local level.
+With the 2026 election approaching, Chiaradio emphasized the need to continue building momentum across the district by connecting with voters, expanding outreach, and ensuring that more people are engaged in the political process.
+To support the campaign and help expand voter outreach efforts across Mississippi’s 3rd District, please visit: https://secure.actblue.com/donate/michael-a-chiaradio
+- 1-800-700-600
+- info@thecentersolutionsparty.com
+- 60 East 65th Street, New York City, NY 10065
+Paid for by Michael A.
+Chiaradio for Congress 2026, Inc.
+Contributions are not tax deductible.
+Contributions are not tax deductible.

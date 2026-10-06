@@ -1,0 +1,10 @@
+Beth
+“My husband and I have three young boys.
+As parents, we have an awesome responsibility to set a positive example, teach them values, and help mold them into decent human beings who care about others and the word they live in.
+Our goal is to raise our boys to be kind, respectful, decent, inquisitive, and full of positive character.
+And we know that they—like all children—are constantly watching us adults as examples and guidance for “how to be.”
+Lately, our family has had many conversations about civics, government and leadership.
+We discuss the importance of leaders doing their jobs with integrity, working hard, caring about others and advocating for the people they represent.
+We also discuss the importance of “walking the talk.” Robyn is a leader who exemplifies ALL of these values…someone who leads with integrity and who we, as an entire family, appreciate and are proud to have representing us and our community.
+We know how much she cares, how hard she works, how talented she is at building coalitions and how above board she is.
+We are grateful for her, the incredible leader she is, and the amazing example she is for our boys.” -Beth

@@ -1,0 +1,21 @@
+GET HELP
+Here to Support You and Your Family
+Navigating government can be confusing and frustrating.
+John Zaccaro Jr. believes no one should have to figure it out alone.
+His district office works with residents to help resolve issues, connect people with services, and stay on cases when problems take time to fix.
+Helping people through difficult moments is one of the most important parts of this job.
+support with everyday issues
+John’s team regularly helps residents with:
+- Housing concerns and tenant issues
+- Benefits and social services
+- School-related questions and challenges
+- Senior services and accessibility needs
+- Neighborhood quality-of-life concerns
+- Navigating city and state agencies
+If you are not sure who to call or where to start, the district office can help point you in the right direction and stay involved as issues are addressed.
+District Office
+2018 Williamsbridge Road
+Bronx, NY 10461
+718-409-0109
+Fax: 718-409-0431
+Email: zaccaroj@nyassembly.gov

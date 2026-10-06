@@ -1,0 +1,6 @@
+HOLLAND, MI. – Today, Huizenga for Congress announced the launch of a new website, TaxManMcCann.com, exposing Sean McCann’s record of raising costs on Michigan families.
+The new site will serve as a one-stop shop for voters to learn the growing number of ways Sean McCann has voted to make life more expensive while lining his own pockets.
+The new site features an interactive calculator where taxpayers can see exactly how much Sean McCann’s tax and fee increases will cost them and will be promoted to voters over the summer with a five-figure digital media campaign.
+“For three decades, Sean McCann has treated Michigan taxpayers like his personal piggy bank, lining his own pockets at the expense of working families,” said Calvin Moore, Huizenga campaign spokesman.
+“While hardworking families struggle to pay for their gas and groceries, Sean gave himself a fat pay increase and stuck the rest of us with higher taxes and electric bills.
+TaxManMcCann.com exposes the ugly truth behind Sean McCann’s disastrous record and shows exactly why Michigan families cannot afford to send him to Washington.”

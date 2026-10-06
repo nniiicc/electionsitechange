@@ -1,0 +1,16 @@
+HIGH TAX HINOJOSA WANTS TO RAISE TAXES ON TEXAS SMALL BUSINESSES
+AUSTIN — Don’t let her Whataburger prop cup distract you, Gina Hinojosa wants to raise your taxes.
+She said a state income tax “makes sense,” has a history of raising property taxes, and she even wants to raise taxes on Texas businesses.
+Hinojosa’s goal is “reining in” Texas job creators and “making them pay.” Texas is Texas because we allow businesses to flourish, but High Tax Hinojosa would destroy the job creation engine that has kept Texas going.
+“Gina Hinojosa has voted to raise property taxes, called for a new state income tax, and now wants to punish small businesses that have kept the Texas economy humming.
+Increasing business taxes would directly lead to job losses and an economic slowdown.
+Texans want opportunity and jobs, not crippling business taxes, but that’s exactly what Gina Hinojosa would do to them.”
+— Catherine Frazier, Texans for Greg Abbott Communications Director
+Gina Hinojosa has been advocating for higher taxes on Texans since 2016.
+In a 2016 interview with KXAN, Gina Hinojosa called a state income tax “the third leg” of the stool that Texas needed.
+(YouTube)
+In an interview with Texas Public Radio, Gina Hinojosa said her reasons for running included, “reining in” business, and “making them pay.” (Texas Public Radio)
+In an interview with First Unitarian Universalist Church of Austin Gina said that Texas is not “taxing commercial properties” enough.
+(YouTube)
+In 2017, Gina voted against HB 28 which would have phased out the business franchise tax.
+(HB 28, 85R)

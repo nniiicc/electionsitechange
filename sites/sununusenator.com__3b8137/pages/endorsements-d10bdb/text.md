@@ -1,0 +1,55 @@
+ENDORSEMENTS
+WE'RE PUTTING IT ON THE LINE FOR JOHN SUNUNU
+- Kathy and Former Congressman, Governor, United States Senator Judd Gregg, Rye
+- Former Governor Craig Benson, Rye
+- Executive Councilor Joe Kenney, Wakefield
+- Executive Councilor John Stephen, Manchester
+- Executive Councilor Janet Stevens, Rye
+- Executive Councilor Dave Wheeler, Milford
+- State Senate President Sharon Carson, Londonderry
+- State Senate President Pro Tempore Daryl Abbas, Salem
+- State Senator Bill Gannon, Sandown
+- State Senator Dan Innis, Bradford
+- State Senator Tim McGough, Merrimack
+- State Senator David Rochefort, Littleton
+- Former NH GOP Chair and 2024 Trump Campaign Senior Advisor Stephen Stepanek, Thornton
+- Former State Senator David Currier, Henniker
+- House Majority Leader Jason Osborne, Auburn
+- Deputy Majority Leader Joe Sweeney, Salem
+- State Representative Joe Alexander, Goffstown
+- State Representative and Mayor Mike Bordes, Laconia
+- State Representative Bill Boyd, Merrimack
+- State Representative Karel Crawford, Moultonborough
+- State Representative Jess Edwards, Auburn
+- State Representative Sam Farrington, Rochester
+- State Representative Lisa Freeman, Tilton
+- State Representative Michael Granger, Milton
+- State Representative George Grant, Sunapee
+- State Representative Michael Harrington, Strafford
+- State Representative John Janigian, Salem
+- State Representative Bob Lynn, Windham
+- State Representative John MacDonald, Wolfeboro
+- State Representative Wayne MacDonald, Londonderry
+- State Representative Jay Markell, Atkinson
+- State Representative Julie Miles, Merrimack
+- State Representative Maureen Mooney, Merrimack
+- State Representative Jeanine Notter, Merrimack
+- State Representative Yury Polozov, Hooksett
+- State Representative Kim Rice, Hudson
+- State Representative James Thibault, Franklin
+- State Representative Peter Varney, Alton
+- Mayor Robert Cone, Berlin
+- Carroll County Commissioner Charles M.
+McGee, Moultonborough
+- Carroll County Commissioner Harold B.
+Parker, Wolfeboro
+- Rockingham County Commissioner Tom Tombarello, Sandown
+- Former RNC Committeewoman Juliana Bergeron, Keene
+- Ed Lecius, Merrimack
+- Arto Leino, Keene
+- Al Letizio, Jr., Windham
+- Beth Varney, Alton
+- Americans for Prosperity Action
+- Log Cabin Republicans PAC
+- State Employees’ Association, SEIU Local 1984
+- Turning Point Action

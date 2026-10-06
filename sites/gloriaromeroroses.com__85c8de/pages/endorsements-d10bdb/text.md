@@ -1,0 +1,56 @@
+PROUDLY ENDORSED BY
+- Honorable Alex Sink
+- Andre Teixeira
+- Honorable Anna Hochkammer
+- Honorable Annie Betancourt
+- Commissioner Ben Sorensen
+- Honorable Cindy Lerner
+- Mayor Daniela Levine Cava
+- Honorable David Richardson
+- David Lawrence
+- Honorable Donna Shalala
+- Elizabeth Schwartz
+- Honorable Enid Weisman
+- Representative Fentrice Driskell
+- Dr.
+Frances Colon
+- Gepsie Metellus
+- Irvans Augustin
+- Jackie Gross Kellogg
+- Jane Gilbert
+- Mayor Javier Fernandez
+- Councilmember Jennifer Webb
+- Honorable Katy Sorenson
+- Honorable Leanne Tellam
+- Councilmember Linda Julien
+- Senator Lori Berman
+- School Board Member Luisa Santos
+- Mel Meinhardt
+- Honorable Mike Abrams
+- Honorable Mike Davey
+- Modesto Abety
+- Commissioner Oliver G.
+Gilbert III
+- Richard Grosso
+- Honorable Ron Silver
+- Honorable Sabrina Javellana
+- Shaan Patel
+- Honorable Shelley Stanczyk
+- Mayor Xavier Suarez
+- Democratic Environmental Caucus
+- Democratic Hispanic Caucus of Florida
+- Emgage Action
+- Florida Education Association
+- Her Bold move
+- Latino Victory
+- Miami Herald
+- Mom's Demand Action
+- Ruth's List Florida
+- SAVE ACTION PAC
+- SEIU Florida
+- South Florida AFL-CIO
+- Sierra Club
+- United Teachers of Dade
+- Equality Florida Action Pac
+- Giffords PAC
+- Vote Water

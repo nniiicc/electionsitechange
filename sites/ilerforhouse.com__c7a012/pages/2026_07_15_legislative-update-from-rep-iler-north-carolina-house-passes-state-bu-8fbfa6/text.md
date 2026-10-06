@@ -1,0 +1,12 @@
+Legislative Update from Rep.
+Iler — North Carolina House Passes State Budget Delivering Historic Raises, Responsible Tax Relief
+The North Carolina House recently gave bipartisan approval to the 2026 Appropriations Act, which Governor Josh Stein signed into law last week.
+The comprehensive state budget includes historic salary increases for teachers and law enforcement, responsible tax relief for North Carolinians, and investments in public safety.
+The 2026 Appropriations Act:
+- makes historic investments in public safety and education
+- continues to lower taxes and does so in a responsible way
+- protects taxpayer dollars by making targeted investments to crack down on waste, fraud, and abuse
+- ensures North Carolinians keep more of their hard-earned money
+- continues our commitment to Western NC by investing millions more in Helene recovery
+“This budget reflects our commitment to keeping North Carolina strong by investing in the people and priorities that matter most,” said Representative Frank Iler.
+“It helps families keep more of what they earn, makes childcare and housing more affordable, delivers meaningful raises for teachers and law enforcement, strengthens public safety, and does it all while maintaining the fiscal discipline that has made North Carolina one of the nation’s strongest economies.”

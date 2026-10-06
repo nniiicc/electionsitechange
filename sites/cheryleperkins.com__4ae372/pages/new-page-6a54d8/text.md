@@ -1,0 +1,25 @@
+Cheryle Perkins in the News
+“I fought for the citizens of Newton County as County Assessor, and I’m ready to fight for you in Jefferson City!”
+Newton County Assessor defends decision not to raise property tax valuations
+— KZRG Radio July 23, 2025
+“Newton County Assessor Cheryle Perkins is defending her decision to reject the Missouri State Tax Commission's request to raise property tax valuation by 12%, maintaining county currently at 77-80% of market value.”
+Newton County joins in lawsuit against Missouri State Tax Commission
+— KSN-TV September 23, 2025
+“Just to show a show of force that we’re all united, we’re all one group, and we’re all trying to work together on it,” said Perkins.
+“We’ll fight it all the way and then we’ve still got the county representatives behind us.
+So, it’s a good deal.”
+Missouri lawmaker plans property assessment, tax reforms
+— KOAM-TV August 14, 2025
+"The cost of living is going up, our utilities are going up, our insurance rates are going up and we just can't afford another huge increase," Perkins said.
+Newton County Assessor refusing Missouri Tax Commission request
+— KSN-TV July 14, 2025
+During a public meeting Monday night (7/14) at Seneca City Hall, Newton County Assessor, Cheryle Perkins says she’s not signing a letter of understanding — asking her office to raise county property tax valuations by 13%.
+Perkins says Newton County Residents cannot afford such a steep increase.
+Jill Carter and Cheryl Perkins explain what's going on with Missouri's Property Taxes
+— KNEO Radio October 7, 2025
+"The cost of living is going up, our utilities are going up, our insurance rates are going up and we just can't afford another huge increase," Perkins said.
+Missouri county assessors asking for tax reform
+— KSN-TV August 25, 2025
+“It makes it a lot more important because I feel like I have somebody behind me.
+I’m not just fighting a battle by myself and everybody’s like, ‘Well, let me know if you need anything.’ They’re actually there, and they’re fighting with us,” said Perkins.
+Many state lawmakers also back Perkins.

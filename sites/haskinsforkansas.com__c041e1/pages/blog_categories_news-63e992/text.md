@@ -1,0 +1,29 @@
+top of page
+NEWS & PRESS
+Straight from the campaign
+Find the latest campaign news, media coverage, and press resources for Kirk Haskins, State Representative for Kansas House District 53.
+In the News
+Kirk in the news
+Haskins Questions Double Standard in Election Law Dispute
+According to reporting from Kansas Reflector, Haskins also pointed out that Proctor used state-produced letterhead when posting about the matter on his campaign Facebook page, potentially raising a separate campaign law issue.
+While Haskins de
+Kirk HaskinsSep 23
+Rep.
+Kirk Haskins Addresses Chucks and Pearls Rally at Kansas Statehouse
+Representative Kirk Haskins joined lawmakers, candidates, and community members at the Chucks and Pearls rally at the Kansas Statehouse on September 19.
+Haskins delivered remarks during the Topeka event, which brought participants together at the Capitol ahead of the November election.
+His appearance at the rally was featured in national media coverage distributed by Reuters Connect.
+Source: Reuters Connect Read the full story: https://www.reutersconnect.com/item/rep-kirk-ha
+Kirk HaskinsSep 20
+Court Pauses Kansas Law Eliminating Three-Day Mail Ballot Grace Period
+A Kansas court delivered a significant win for voters this July, temporarily blocking the Republican-backed law that eliminated the three-day grace period for mail-in ballots — a law Kirk has been fighting against since it was first introduced.
+A judge in the District Court of Douglas County granted a temporary injunction on July 16, halting Senate Bill 4 from applying to upcoming elections.
+The injunction requires election officials to allow a three-day grace period for adva
+Kirk HaskinsJul 16
+Haskins Pushes Back on Constitutional Amendment Over Non-Citizen Voting
+Rep.
+Kirk Haskins voiced strong opposition to a proposed constitutional amendment that would add language to the Kansas Constitution specifying that only U.S. citizens are eligible to vote — a protection that federal law already guarantees.
+Kansas lawmakers passed HCR 5004, a proposed constitutional amendment that will appear on the November 3 general election ballot.
+A yes vote would amend the Kansas Constitution to state that only a U.S. citizen is eligible to vote in the s
+Kirk HaskinsJun 19
+bottom of page

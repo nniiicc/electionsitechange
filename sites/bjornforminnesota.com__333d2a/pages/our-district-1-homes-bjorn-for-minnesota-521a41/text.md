@@ -1,0 +1,8 @@
+Address
+PO Box 147
+Halstad, MN 56548
+Contacts
+218-227-3033
+Hello@BjornForMinnesota.Com
+Paid for by
+Bjorn for Minnesota PO Box 147 • Halstad, MN 56548

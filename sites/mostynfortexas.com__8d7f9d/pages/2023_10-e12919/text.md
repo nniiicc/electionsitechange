@@ -1,0 +1,3 @@
+Oct 27, 2023 | Uncategorized
+As a Christian, as a Texan, and as an American, I cannot begin to express the heartbreak and anger I felt over the weekend as the news broke about Hamas’ attack on Israel.
+The fact that these terrorists felt confident enough to launch such an attack on civilian...

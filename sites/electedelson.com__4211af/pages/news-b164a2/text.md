@@ -1,0 +1,44 @@
+News
+February 7, 2023
+Hearing on JFX speed camera bill reveals Baltimore having trouble collecting fines
+"Both the actual revenue, sort of projected, and the revenue amount collected from speed cameras is relatively less than they had expected it to be, I think, because there's less citations issued and collections of those citations has been more of a challenge than they initially expected," Baltimore City Delegate Mark Edelson, D-District 46.
+January 31, 2024
+Maryland bill tackles climate pollution from transportation by expanding affordable, clean options
+“For Maryland to achieve its landmark Climate Solutions Now goals, transportation projects must align with the state’s goals to cut climate pollution 60% by 2031 and reduce the miles that residents have to travel, which in turn fosters more affordable and convenient options to reach jobs and daily activities,” said Delegate Mark Edelson, bill sponsor in the House.
+December 6, 2023
+License Plate Readers Installed at Entrances/Exits to South Baltimore Peninsula
+Support for the grants was provided by members of Maryland Legislative District 46, including Senate President Bill Ferguson and Delegates Luke Clippinger, Robbyn Lewis, and Mark Edelson.
+January 25, 2024
+Juvenile intake director loses job 2 months after representatives raise concerns
+Delegate Mark Edelson said, "What we learned through the process and our sort of independent analysis on it, was that DJS personnel were not following the law.
+And as a result, we were seeing an increased risk to the community." Cohen and Edelson say DJS took a step in the right direction, but there's still a long way to go.
+March 1, 2023
+What to watch in the 2023 Maryland General Assembly
+Most of the rest of the big transportation bills this session can be classified as focusing on equity.
+For example...
+HB 673 and SB 617 or the Fair Fares Act, from Del.
+Mark Edelson (D-Baltimore City) and Sen.
+Shelly Hettleman (D-Baltimore County), which would, among other things, decouple MTA fares from inflation, almost certainly preventing yet another price hike this summer.
+November 4, 2023
+City officials address concerns over juvenile crime and suspect release in letter to Baltimore Police Commissioner and Department of Juvenile Services
+“I joined my colleagues in the letter we co-authored in order to speak in a clear and united voice of city and state elected officials on behalf of our communities.
+The recent series of juvenile suspects being arrested for violent crimes and then being released shortly thereafter is an operational breakdown that must be corrected with the utmost urgency.
+The laws and policies currently on the books, if followed, would have and should have led to different results.
+Ones that prioritize justice for the victim, safety for our communities, and both accountability and structured support and rehabilitation for the offenders.
+All of our residents deserve nothing less.”
+January 29, 2024
+Cheaper housing production in Maryland?
+Parking reform bills take a swing
+“Given how expensive we know it is to build parking structures in this city, it can be about $15-30,000 per space, in residential buildings, those costs end up getting defrayed onto the tenant.
+It makes the cost of the housing so much more expensive,” Edelson said.
+“So taking that away and ideally putting some of that money frankly into bikeability, walkability, and easy access to transit will make those units more affordable and ideally change sort of the culture of how we build from building for cars to building for people and transit.”
+March 28, 2024
+State lawmakers rush to respond to bridge collapse
+Del.
+Mark Edelson, D-Baltimore City, said he has confidence that the House and Senate can come together with a shared focus on families and individuals impacted to quickly pass laws in Annapolis.
+“It’s about making sure that we do it right and don’t just rush it, but at the same time we are here to deal with long-term issues and to deal with exit issues,” Edelson said.
+“And we have until midnight on April 8.”
+June 14, 2023
+Mark's Day in Annapolis
+Laudantium fugit occaecati officia.
+Voluptatem aut maxime sunt doloru

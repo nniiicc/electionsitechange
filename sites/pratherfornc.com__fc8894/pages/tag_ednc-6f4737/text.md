@@ -1,0 +1,3 @@
+Legislators visit public school that sets up newcomer students and families for success
+When Lindsey Prather was a teacher in Buncombe County Schools, she saw dozens of flags hanging around one of the district’s most diverse schools.
+The school housed a Newcomers Center, where students of immigrant and refugee families spent a semester…

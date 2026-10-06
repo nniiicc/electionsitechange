@@ -1,0 +1,3 @@
+Ty Pinkins, U.S.
+Senate Candidate and Army Veteran, Slams Trump's Reckless Gaza Plan, and Criticizes Cindy Hyde-Smith's Support Feb 5, 2025 0 min read
+Why I’m Leaving the Democratic Party and Running as an Independent When the System Fails the People, You Don’t Have to Stay in It For too long, working families in Mississippi—and across this country—have...

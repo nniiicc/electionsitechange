@@ -1,0 +1,482 @@
+Skip to content
+Meet Jerri
+Platform
+Volunteer
+Events
+Vote
+Yard Signs
+Shop
+Meet Jerri
+Platform
+Volunteer
+Events
+Vote
+Yard Signs
+Shop
+Facebook-f
+X-twitter
+Instagram
+Tiktok
+Donate Now
+Jerri Green for Governor
+Meet Jerri
+Platform
+Volunteer
+Events
+Yard Signs
+Vote
+Shop
+Donate
+Jerri Green for Governor
+Meet Jerri
+Platform
+Volunteer
+Events
+Yard Signs
+Vote
+Shop
+Donate
+Meet Your Next Governor
+MEET JERRI IN YOUR TOWN
+Scroll to see more dates.
+October 7, 2026
+Memphis
+October 8, 2026
+Memphis
+October 9, 2026
+Memphis
+October 10, 2026
+Spring Hill
+October 10, 2026
+Jackson
+October 11, 2026
+Franklin
+October 11, 2026
+Gallatin
+October 13, 2026
+Memphis
+October 14, 2026
+Nashville
+October 16, 2026
+Knoxville
+October 17, 2026
+Knoxville
+October 17, 2026
+Greeneville
+October 18, 2026
+Bristol
+October 22, 2026
+Nashville
+October 23, 2026
+Nashville
+October 27, 2026
+Knoxville
+Past Events
+October 4, 2026
+Signal Mountain
+October 3, 2026
+Morristown
+October 3, 2026
+Nashville
+October 2, 2026
+Cookeville
+October 2, 2026
+Oak Ridge
+September 30, 2026
+Brentwood
+September 29, 2026
+Memphis
+September 27, 2026
+College Grove
+September 27, 2026
+Spring Hill
+September 25, 2026
+Nashville
+September 24, 2026
+Murfreesboro
+September 20, 2026
+Paris
+September 20, 2026
+Memphis
+September 19, 2026
+Bethpage
+September 19, 2026
+Lawrenceburg
+September 18, 2026
+Gallatin
+September 17, 2026
+Covington
+September 13, 2026
+Franklin
+September 13, 2026
+Chattanooga
+September 12, 2026
+Chattanooga
+September 12, 2026
+Manchester
+September 11, 2026
+Lenoir City
+September 9, 2026
+Knoxville
+September 8, 2026
+Caryville
+September 7, 2026
+Harriman
+September 6, 2026
+Tazewell
+September 5, 2026
+Mt.
+Juliet
+September 5, 2026
+Nashville
+September 4, 2026
+Savannah
+September 3, 2026
+Alamo
+August 29, 2026
+Nashville
+August 27, 2026
+Memphis
+August 25, 2026
+Germantown
+August 23, 2026
+Nashville
+August 22, 2026
+Nashville
+August 22, 2026
+Memphis
+August 6, 2026
+Memphis
+August 5, 2026
+Memphis
+August 5, 2026
+Jackson
+August 4, 2026
+Nashville
+August 4, 2026
+Franklin
+August 4, 2026
+Murfreesboro
+August 3, 2026
+Chattanooga
+August 3, 2026
+Cleveland
+August 2, 2026
+Knoxville
+August 2, 2026
+Alcoa
+August 2, 2026
+Seymour
+August 1, 2026
+Jonesborough
+August 1, 2026
+Bristol
+August 1, 2026
+Oak Ridge
+August 1, 2026
+Cookeville
+July 31, 2026
+Goodlettsville
+July 31, 2026
+Lebanon
+July 31, 2026
+Clarksville
+July 30, 2026
+Memphis
+July 26, 2026
+Germantown
+July 25, 2026
+Memphis
+July 23, 2026
+Memphis
+July 19, 2026
+Nashville
+July 18, 2026
+Columbia
+July 17, 2026
+Jackson
+July 14, 2026
+Collierville
+July 12, 2026
+Dyersburg
+July 12, 2026
+Hartsville
+July 11, 2026
+Lebanon
+July 11, 2026
+Shelbyville
+July 10, 2026
+Ripley
+June 30, 2026
+Memphis
+June 28, 2026
+Oak Ridge
+June 28, 2026
+Morristown
+June 27, 2026
+Sevierville
+June 27, 2026
+Newport
+June 27, 2026
+Kingsport
+June 26, 2026
+Clarksville
+June 20, 2026
+Memphis
+June 17, 2026
+Memphis
+June 14, 2026
+Memphis
+June 13, 2026
+Hohenwald
+June 13, 2026
+Memphis
+June 7, 2026
+Oakland
+June 6, 2026
+Memphis
+May 31, 2026
+Savannah
+May 31, 2026
+Franklin
+May 30, 2026
+Fayetteville
+May 28, 2026
+Memphis
+May 17, 2026
+Washburn
+May 16, 2026
+Knoxville
+May 16, 2026
+Gallatin
+May 15, 2026
+Alcoa
+May 14, 2026
+Jackson
+May 9, 2026
+Clarksville
+May 9, 2026
+Springfield
+May 3, 2026
+Murfreesboro
+May 2, 2026
+Ashland City
+May 1, 2026
+Nashville
+April 26, 2026
+Nashville
+April 25, 2026
+Chattanooga
+April 25, 2026
+Livingston
+April 19, 2026
+Nashville
+April 18, 2026
+Memphis
+April 18, 2026
+Jackson
+April 18, 2026
+Humboldt
+April 18, 2026
+Milan
+April 12, 2026
+Tracy City
+April 11, 2026
+Dunlap
+April 11, 2026
+Winchester
+April 11, 2026
+Columbia
+April 10, 2026
+Millington
+March 29, 2026
+Gallatin
+March 28, 2026
+Springfield
+March 28, 2026
+Gallatin
+March 28, 2026
+Nashville
+March 22, 2026
+Fairview
+March 21, 2026
+Waverly
+March 21, 2026
+Erin
+March 14, 2026
+Whiteville
+March 14, 2026
+Dyersburg
+March 14, 2026
+Ripley
+March 8, 2026
+Cookeville
+March 8, 2026
+Oak Ridge
+March 7, 2026
+Pikeville
+March 7, 2026
+Whitwell
+March 7, 2026
+Linden
+February 26, 2026
+Memphis
+February 22, 2026
+Mt.
+Juliet
+February 21, 2026
+Murfreesboro
+February 21, 2026
+Gordonsville
+February 19, 2026
+Covington
+February 17, 2026
+Chattanooga
+February 16, 2026
+Cleveland
+February 16, 2026
+Lenoir City
+February 15, 2026
+Kingsport
+February 15, 2026
+Knoxville
+February 14, 2026
+Crossville
+February 13, 2026
+Clarksville
+February 7, 2026
+Union City
+February 7, 2026
+Franklin
+January 11, 2026
+Nashville
+January 10, 2026
+Manchester
+January 10, 2026
+Chapel Hill
+January 10, 2026
+Dickson
+January 9, 2026
+Memphis
+December 14, 2025
+Memphis
+December 12, 2025
+Germantown
+December 9, 2025
+Collierville
+December 6, 2025
+Jackson
+November 9, 2025
+Chattanooga
+November 9, 2025
+Cookeville
+November 8, 2025
+Brownsville
+November 8, 2025
+McMinnville
+November 7, 2025
+Memphis
+October 30, 2025
+Maryville (Virtual)
+October 26, 2025
+Wartburg
+October 25, 2025
+Summertown
+October 25, 2025
+Murfreesboro
+October 23, 2025
+Alamo
+October 18, 2025
+Memphis
+October 16, 2025
+Memphis
+October 14, 2025
+Blountville
+October 13, 2025
+Jonesborough
+October 12, 2025
+Louisville
+October 11, 2025
+South Pittsburg
+October 11, 2025
+Sparta
+October 10, 2025
+Memphis
+September 30, 2025
+Nashville
+September 29, 2025
+Knoxville
+September 28, 2025
+Loudon
+September 27, 2025
+Waverly
+September 27, 2025
+Bethpage
+September 26, 2025
+Paris
+September 24, 2025
+Collierville
+September 14, 2025
+Lebanon
+September 14, 2025
+Nashville
+September 13, 2025
+Nashville
+September 13, 2025
+Franklin
+September 12, 2025
+Nashville
+September 2, 2025
+Maryville
+September 1, 2025
+Harriman
+August 31, 2025
+Knoxville
+August 30, 2025
+Chattanooga
+August 29, 2025
+Jackson
+August 28, 2025
+Memphis
+August 27, 2025
+Germantown
+August 22, 2025
+Covington
+July 12, 2025
+Nashville
+Learn more + RSVP Here
+Request for Jerri to Come to Your Town
+MEET JERRI FROM WHEREVER YOU ARE
+Tune in to a Podcast with Jerri
+Tennessee Brando
+Indivisible Tri-Cities Forum with Gubernatorial Candidates
+Politics Unfiltered with Former TNDP Chair Hendrell Remus
+Anchor Girls
+The Loyal Opposition with Len Assante
+Raising Kellan
+The Tennessee Holler
+The Loyal Opposition: Wilson County
+Cast Iron Resistance
+Blue-Lusional
+Amanda's Mild Takes
+City Cast Nashville
+The Arrington Gavin Show
+The Rush Hour with Dave Neal
+Blue Tennessee
+The Queen's Table
+On the Fly
+Rise Above Justice
+Tennessee Matters
+Check out the Latest News
+GOP redistricting is miscalculation that empowered Memphis
+Tennessee’s book bans are a test of who we are
+Memphis City Councilwoman Jerri Green officially throws hat into Tennessee governor's race
+GOP's Big Beautiful Bill betrays poor, working-class Tennesseans.
+Here's how | Opinion
+Democratic gubernatorial candidate Jerri Green speaks at town hall in Jonesborough
+When The Parade Ends | Opinion from Jerri Green
+Gubernatorial candidate stops in Cookeville
+Democrat Jerri Green on why she wants to be Tennessee governor: 'I'm pragmatic'
+Tennessee candidate for governor Jerri Green speaks on policies
+Read Jerri's Substack Here
+Donate Now

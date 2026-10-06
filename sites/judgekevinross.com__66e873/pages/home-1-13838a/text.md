@@ -1,0 +1,24 @@
+Delivering Justice for Twenty Years.
+Kevin Ross performed well in the study of law and has remained committed to legal education.
+Kevin received his Juris Doctorate degree from the University of Iowa with High Distinction, graduating in only two years while collecting numerous additional honors:
+• Law Foundation Full Tuition Merit Scholarship
+• Iowa College of Law Best Litigator Award
+• Dean’s Achievement Award
+• Donald P.
+Lay Faculty Recognition Award
+• Hancher-Finkbine Medallion Nomination
+• Iowa Learning, Loyalty and Leadership Award
+• National Trial Advocacy Team Captain
+• American Bar Association Regional Trial Finalist
+• Invitational Van Oosterhout Moot Court Quarter Finalist
+• American Jurisprudence Academic Excellence Awards
+He had previously received his Bachelor of Arts degree from the University of Iowa studying broadcast communication and English.
+Judge Ross taught as an adjunct professor at the St.
+Thomas School of Law.
+And he serves as an ongoing member of the Multistate Essay Examination Drafting Committee of the National Conference of Bar Examiners.
+A lover of English, Judge Ross is regularly recognized for the clarity and style of his judicial opinions.
+He founded the Quill & Bagel Society -- a periodic workshop for judges, law clerks, and staff attorneys committed to honing individual legal-writing skills and maintaining the quality of the court’s opinions.
+He served seven years as a board member of Scribes: The American Society of Legal Writers.
+Judge Ross has supervised more than 50 law clerks during his tenure on the bench, many of whom have distinguished themselves as exceptional attorneys in Minnesota and many other states.
+In 2011, the George Mason School of Law’s Green Bag Almanac & Reader selected him as the first state court jurist to be honored with its award for “Exemplary Judicial Opinion Writer.”
+Judge Ross Delivering the 2006 Commencement Address at the University of Iowa College of Law

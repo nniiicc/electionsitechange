@@ -1,0 +1,23 @@
+Election Integrity
+Access Without Safeguards
+Mike Fong has consistently supported expansions in voting access, such as satellite voting locations and early voting options, without advocating for voter ID requirements, which entirely undermines the integrity of elections by allowing undocumented individuals to vote for a system they can easily take advantage of.
+This approach is impractical and entirely undemocratic, as it dilutes the votes of responsible citizens who follow the rules and contribute to society, while opening the door for undocumented individuals to take advantage of the system rather than participate as invested members.
+This focus on inclusivity without safeguards has led to the hijacking of our democratic institutions.
+Assembly Constitutional Amendment 8
+Partisan Map-Drawing Power
+Mike Fong voted yes on ACA 8, a constitutional amendment that lets the state legislature temporarily redraw congressional districts if another state like Texas engages in partisan gerrymandering which hands Sacramento politicians the power to override California's independent Citizens Redistricting Commission and manipulate maps for political advantage, undermining the non-partisan system voters approved to stop exactly this kind of partisan rigging and threatening fair representation for every eligible voter in District 49.
+Assembly Bill 604
+Legislative Control of District Maps
+Mike Fong voted yes on AB 604, a bill that drew and set new congressional district boundaries for California, temporarily overriding the independent Citizens Redistricting Commission, if voters approved Proposition 50 in response to Texas' partisan redistricting, which handed the power back to Sacramento politicians to redraw maps for the 2026 elections and potentially gain extra Democratic seats by manipulating district lines without the non-partisan checks voters put in place to prevent exactly this kind of gerrymandering.
+Senate Bill 280
+Rigging Maps by Ballot
+Mike Fong voted yes on SB 280, a bill that called a statewide special election on November 4, 2025, to let voters decide on ACA 8 and set timelines, procedures, and funding for implementing temporary new congressional districts, overriding California's independent Citizens Redistricting Commission, if other states like Texas gerrymandered, which handed Sacramento politicians the tools to redraw maps for the 2026 elections and potentially boost Democratic seats through partisan adjustments rather than sticking to the non-partisan, voter-approved process that prevents exactly this kind of rigging.
+David’s Statement
+We will end illegal and violent immigrants influencing our democratic processes.
+We will reinstitute a fair mapping of districts to ensure every California voter’s voice is heard.
+No California citizen who pays into their state deserves to have their voice drowned out by those who only exploit the state.
+I support common-sense election integrity measures, such as requiring voter ID, because I believe every vote must be secure and trustworthy.
+This one simple step prevents fraud while keeping elections fully accessible to every eligible citizen.
+No one should have their voice diluted because of our broken election process.
+I am determined to restore confidence in California’s electoral system by advocating for transparent, verifiable processes that truly protect our democracy.
+We need to make sure the everyday Californian who works hard, pays taxes, and plays by the rules has full confidence that their vote counts and isn’t diluted by harmful, undemocratic policy.

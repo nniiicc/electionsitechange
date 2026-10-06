@@ -1,0 +1,178 @@
+Newsroom
+Sept 16, 2026
+“Whether you care about access to open lands or clean water or clean air or health care or your neighbors being able to afford their rent and their groceries in the same month, whatever thing you care about, you have to protect the right to vote in order to have a say in it.”
+Sept 15, 2026
+With long ballots this year, Colorado election officials encourage early voting
+“Fast results are wonderful.
+Accurate results are essential.”
+Sept 15, 2026
+Keep your voting plans, Colorado, because we will be sending mail ballots (Opinion)
+“Election officials plan for snowstorms and wildfires.
+We prepare for power outages, equipment failures, cyberattacks, and misinformation.
+We test our systems.
+We audit our elections.
+We build redundancies.
+And when a new threat emerges, we plan for that too.”
+Sept 2, 2026
+Election officials say they can’t comply with Trump’s proposed mail ballot rules
+“At this point, even when we prevail and it’s not implemented, the uncertainty being created by all of this is itself an election risk.”
+Aug 28, 2026
+Election officials say mail-in ballot rules could compromise midterms
+"They have top security and they make sure that our processes are well done," Gonzalez said of the companies printing ballots.
+Aug 25, 2026
+Colorado’s top election official said fight over mail ballots not over
+“My priority is and has always been to make sure that every eligible voter is able to vote and have their ballot accurately counted.”
+Aug 24, 2026
+Supreme Court allows parts of Trump mail-ballot order to take effect ahead of midterms
+“They are talking about bringing together data, much of it never intended for identifying voters, from different sources, that there is no way to verify the accuracy of.”
+Aug 24, 2026
+Colorado election officials say mail in voting will continue after Supreme Court decision
+“It's highly concerning that we are even talking about jeopardizing a system that helps voters have their voices heard.”
+May 28, 2026
+Amanda Gonzalez, Democratic candidate for Colorado Secretary of State | Colorado Point of View
+“When I hear political rhetoric trying to make it sound like there’s something nefarious going on, I ask myself: What is the goal?
+All this nonsense you’re hearing about our elections is about reducing your power.”
+June 28, 2026
+With time running out, Trump digs in on changing midterm election rules
+“Now is not the time for an experiment with people’s fundamental right to vote,” said Amanda Gonzalez (D), the county clerk in Colorado’s Jefferson County and a candidate for secretary of state.”
+June 10, 2026
+Postal Service won’t deliver mail ballots for states that don’t hand over voter lists, under plan for Trump directive
+“We already told the Trump administration that they couldn’t have our voter data,” said Amanda Gonzalez, who is the clerk of Jefferson County, Colorado, and a Democrat running to be the top election official in the state, which is fighting the administration’s voter roll demand in court.
+“This is just a poorly disguised ploy to get it another way.”
+May 29, 2026
+Colorado Secretary of State: Democrat Amanda Gonzalez
+“Amanda Gonzalez said Colorado needs a “firewall, not a figurehead,” as its next secretary of state.
+Gonzalez said she’s well-prepared for the role after a career fighting to improve elections.”
+May 28, 2026
+The Race for Colorado Secretary of State: Amanda Gonzalez, Democrat for SOS
+"We are seeing amateur hour at the federal level.
+We need experts in these roles at the state level, because this is the last line of defense we have to protect our democracy."
+May 29, 2026
+Jeffco Ballot Boss Mounts High-Stakes Run For Colorado Secretary Of State
+“Gonzalez's mix of legal credentials and nuts-and-bolts reforms…convert county-level chops into statewide momentum."
+June 30, 2026
+Amanda Gonzalez wins Democratic primary for Colorado Secretary of State
+“Gonzalez said her campaign was not bankrolled by political insiders and wealthy donors, but was supported by regular people.
+"They underestimated how powerful that was," she said.”
+April 2, 2026
+June’s primary election ballots taking shape
+“Gonzalez earned 63% of delegates at the Democratic Party assembly. ‘I’m proud of what we’re building,’ Gonzalez wrote on Facebook. ‘People-powered, values-driven, and ready to protect every vote fiercely.’”
+April 2, 2026
+Local election leaders dismiss Trump’s order to overhaul mail-in voting as confounding, likely to fail
+“This is the kind of thing that continues to sow confusion among voters and makes them worried their voice won’t be heard and their vote won’t be counted,” she said.
+“The real work that is happening because of this is that officials are having to spend more time ensuring voters have accurate information about elections.”
+April 1, 2026
+Colorado Democratic leaders push back on Trump executive order on mail-in ballots
+“When you muddy the rules and spread misinformation, you make it harder for eligible voters to participate,” Amanda Gonzalez, the Jefferson County clerk and recorder, told Newsline.
+“That’s not about protecting elections.
+That’s about disenfranchising voters for political gain.”
+March 20, 2026
+'It’s laughable’: Election officials pour cold water on MAGA midterm overhaul (PDF)
+“I probably get a question about this every single day,” said Gonzalez, the clerk in Jefferson County, Colo.
+“People, particularly women, are nervous they don’t have the documents they need in order to register to vote.”
+March 12, 2026
+Colorado’s election audits are built on math, not politics | OPINION (PDF)
+“When the problem is that people are being told not to believe evidence, simply producing more evidence isn’t enough.
+What actually builds trust is leaders with platforms taking the time to understand the systems they criticize.
+Leaders who talk to election administrators, statisticians and security experts before declaring something is broken.
+Leaders who explain how elections actually work instead of amplifying misconceptions.”
+February 20, 2026
+Even election officials who like voter ID have issues with the SAVE America Act
+“It is claiming to solve a problem that is, frankly, imaginary,” said Amanda Gonzalez (D), the election clerk for Jefferson County, Colorado.
+“And what’s going to happen is we are unjustifiably going to make voting harder for millions of eligible voters across the country.”
+November 3, 2025
+The 25 Young(ish) New Democrats to Watch
+”Although they don’t run the country yet, the visions of these young Democratic politicians speak to the problems the party is grappling with: how to deliver on working-class issues, expand the party’s tent while still holding onto their values, and stand up to the current administration.”
+April 1, 2026
+Colorado leaders say Trump’s executive order targeting mail voting violates state election authority
+“Elections are governed by state law, not presidential decree,” she said.
+“An executive order isn’t law; it can’t override Colorado’s constitutionally protected authority, and it won’t stop us from running secure, accessible, transparent elections for every eligible voter.”
+March 28, 2026
+Democrats gather in Pueblo to select candidates for primary ballot
+“Secretary of State candidate Amanda Gonzalez leads a chant of “Show me what democracy looks like” after her nomination speech at the Colorado Democratic Assembly on March 28, 2026, in Pueblo.
+Gonzalez got 63.1% of the vote and will get the top slot on the ballot.”
+October 30, 2025
+Ahead of Tuesday’s Election, Jefferson County’s clerk reflects on how Colorado’s first in-jail voting effort turned out
+“And so we brought that [in-jail voting] number up from just three in 2022, which is just unacceptable, up to over 300 last year, which was so exciting.
+Every step that we get that is closer to every eligible voter voting, is a really, really good thing.”
+June 23, 2025
+Handheld translation devices help non-English speakers navigate government bureaucracy
+“The Clerk and Recorder’s office is the office you go to if you have questions about voter registration or when you actually are voting,” said Gonzalez.
+“It's the office that you go to for the tags to your car, to record the deed to your home.”
+June 12, 2025
+Department of Justice demands Colorado turn over 'all records' related to 2024 federal elections
+“I want to be absolutely clear that we will not be proactively handing over any data to anyone,” said Gonzalez.
+“Our voters trust us to protect their elections from interference, and whether that's from foreign actors, domestic threats, or an administration that thinks it's above the law, we need to be protecting voters.”
+May 19, 2025
+Trump order targets barcodes on ballots.
+They’ve long been a source of misinformation
+Amanda Gonzalez, the elections clerk in Colorado’s Jefferson County, doesn’t support Trump’s order but believes Colorado’s decision was a worthwhile step.
+“We can just eliminate confusion,” Gonzalez said.
+“At the end of the day, that’s what I want -- elections that are free, fair, transparent.”
+April 25, 2025
+Nearly 2,600 incarcerated people voted in Colorado last year under new law
+“Voting isn’t an academic exercise, right?
+It is the way that you actually make your voice heard in government, and often times, people that have involvement with our criminal justice system are people that have been told that they shouldn’t have a voice, or they’re not worthy of a voice, or that their opinions don’t matter, and that is absolutely not true,” Gonzalez said.
+April 2, 2025
+The real threat to our elections is voter suppression | OPINION
+“Protecting our democracy doesn’t just mean ensuring elections happen.
+Protecting our democracy means ensuring the system is fair, that every eligible voter is able to cast their ballot, and that we don’t allow voter suppression to masquerade as ‘election security.’”
+February 12, 2025
+Over 2,300 Coloradans voted from jail in 2024 under new law
+“I want to continue to see this program expand — I want to see every single eligible voter participate in our democracy — but I am really proud that we made a significant step forward toward that goal during this cycle,” Gonzalez said.
+January 29, 2025
+Jeffco clerk’s office reaffirms support for nonbinary and transgender communities amid federal passport directive
+“We want to be clear: nonbinary, transgender and gender non-conforming people have always been, and will always be, valued members of our community,” said Jefferson County Clerk and Recorder Amanda Gonzalez.
+“We are deeply disheartened by this directive, which sends a message contrary to the inclusive values we hold.
+But here in Jeffco, our passport office will always remain a place where everyone is treated with kindness and respect.”
+January 6, 2025
+Amanda Gonzalez, Jefferson County clerk, launches Colorado secretary of state campaign
+“I’m excited for this.
+I’ve been working on voting rights for a very long time … This is something that I’m really passionate about, especially coming into another Trump administration.
+I know how important it is that we protect the right to vote.
+And so I’m excited to do it and be transparent about it.”
+January 6, 2025
+Jefferson County Clerk Amanda Gonzalez launches bid to become Colorado secretary of state
+Gonzalez said her experience running elections and advocating for voting policy changes make her stand out in the field.
+She also pointed out how she would be the first Latina and first openly queer secretary of state in Colorado if elected.
+(She identifies as bisexual.)
+January 6, 2025
+Jefferson County clerk launches bid for Colorado Secretary of State
+“January 6th is a day that reminds all of us what's at stake.
+It's a day that none of us, I think, we'll ever forget.
+I know that four years ago I sat glued to the news and horrified about what was happening in Washington DC,” she said.
+“One of the things that I take solace in is that for the last couple years, (is that) I have had the privilege of running elections in a really bipartisan manner.”
+January 6, 2025
+Jeffco Clerk Amanda Gonzalez kicks off 2026 campaign for Colorado secretary of state
+“You need to be able to trust people that you’re electing to make good decisions, even in unforeseen circumstances, and I want people to know who I am,” Gonzalez said.
+“And that’s someone who has been fighting tirelessly for voting rights for a very long time.”
+January 6, 2025
+Jeffco election official announces bid for Secretary of State
+”Gonzalez, previously the executive director of Colorado Common Cause, said, “Voting is the way we express hope.
+The way we show love for our community.
+The way we make our voices heard.
+I promise to safeguard Coloradans' access to the ballot box and to fight for secure elections that work for every Colorado voter."
+January 6, 2025
+Jefferson County Clerk Amanda Gonzalez Joins 2026 Race for Secretary of State
+"Right now in politics, people feel unheard.
+That indicates we need a new kind of leadership," she says.
+"The first Latina, the first out person, that's a new kind of leadership.
+That's the future.
+Talking about a system that works for all of us isn't academic for me.
+My people are some of the people who have historically been left out of our democracy."
+November 5, 2024
+Colorado election workers unite across party lines for accurate count
+"Those rooms are full of people from all different parties.
+They're working together because they just want a fair election.
+They just want to see democracy work for everybody," said Jefferson County Clerk and Recorder Amanda Gonzalez.
+November 4, 2024
+A Colorado law lets many inmates vote from jail – some are taking officials up on the offer
+"Colorado’s election rules already allowed counties to do in-person jail voting, but only Denver had tried it before it became a requirement this year.
+Inmates can also get a ballot mailed to them in jail, but Amanda Gonzalez, the Jefferson County Clerk, said that just didn’t happen much.
+Her county ran the numbers and said voting from jail accounted for just around a half percent of voter turnout.
+July 27, 2022
+Backers of the ‘Big Lie’ Are Trying to Run Local Elections.
+Democrats Are Finally Fighting Back
+“The time to fight for our democracy is now.
+It can’t just be a few lawyers or a few election officials.
+It really has to be all of us realizing how important this is.”

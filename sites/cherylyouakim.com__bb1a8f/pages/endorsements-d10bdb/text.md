@@ -1,0 +1,245 @@
+ENDORSEMENTS
+Endorsements from Organizations and Individuals
+HI am pleased to have the support of the following elected officials, friends and neighbors:
+“I support Cheryl Youakim because she is a community activist and elected city official who cares about people and knows how to get things done.
+She has drive and persistence and will put our communities first as a legislator in St.
+Paul.”
+Campaign Chair Steve Kelley, Former State Senator
+2026 Organizations
+MAPE
+Clean Water Action
+Moms Demand Action Gun Sense Candidate
+Women Winning
+Planned Parenthood
+Stonewall DFL
+Education Minnesota
+LiUNA
+DFL Feminist Caucus
+DFL Environmental Caucus
+DFL Senior Caucus
+Conservation Minnesota
+SEIU MN
+Teamsters DRIVE
+Pro Choice Minnesota
+Minnesota Professional Firefighters Association
+AFL-CIO
+Sierra Club
+Gender Justice
+MNA – Minnesota Nurses Association
+Housing First MN
+2026 Individuals
+Congresswoman Kelly Morrison
+Lt.
+Governor Peggy Flanagan
+Heather Edelson
+Heidi Garrido
+Shawn McGerr
+Dan Pollock
+Colin Cox
+Rep.
+Julie Greene
+Rep.
+Larry Kraft
+The Sanchez Family
+Jim Hovland
+Dan Arom
+Carolyn Jackson
+Billee Kraut & Butch Johnson
+Susan & Jackson Khatri
+Michael Doobie Kurus
+Shelly & Ron Billiet
+Lucy Arimond
+Sarah & Fred Deschamps
+Dale & Jean Searles
+Howard Paster
+Shannon Smith
+Joni Bennett
+Patrick Gage
+Nadia Mohamed
+Jake Spano
+Virginia Mancini
+Brooke Rooper
+Nathan & Melissa Miller
+Brian Hunke
+Zhiming Zhao & Ellie Kretz
+Sarah Wilhelm-Garbers
+Jim Engelking
+John Anderson
+Alex Blee
+Paula Evensen
+Tracy & Ann Godfrey
+Randy Funk
+Tim Hawkinson
+Carl Holmquist
+2024 Organizations
+Very excited to announce endorsements from these wonderful organizations this year!
+Education Minnesota
+Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund
+MAPE
+WomenWinning
+Education Minnesota Aspiring Educators
+Conservation Minnesota
+ProChoice Minnesota
+IBEW
+Stonewall DFL
+North Central States Regional Council of Carpenters
+Minnesota Nurses
+Minnesota Professional Fire Fighters
+Care Providers of Minnesota
+AFL-CIO
+Teamsters Joint Council 32
+AFSCME Council 5
+LiUNA
+SEIU
+Clean Water Action
+Minneapolis Building and Construction Trades
+Brotherhood of Locomotive Engineers and Trainmen
+Minnesota Retailers
+2024 Individuals
+Thank you to all of you who have reached out to voice your support for my re-election!
+Angie & Bill Sundell
+Molly Cummings & Shel Berg
+Shawn McGeer
+Tim Sneer & Dale Kruse
+Billie Kraut & Butch Johnson
+Susan Reiersgord Khatri
+Jackson Khatri
+Marti Priest & Bob Grider
+Esther Haskvitz
+Shannon Smith
+Brian & Jackie Hunke
+Heidi Garrido
+Tony Small
+Dona Conway
+Beth Kivett
+Patrick Gage
+Doug Boonstra
+Marie Raykowski
+Colin Cox
+Tommy Johnson
+Lucy Arimond
+Beth Kivett
+Kim Stanek
+Joan Hughes
+Mark & Beth Jones
+Doug Kasa
+Debra Strege
+Kelly Heikkila
+Katherine Chaves
+Shannon Kreisel
+Joni Bennett
+2022 Organizations
+Very excited to announce endorsements from these wonderful organizations this year!
+DFL
+Minnesota Professional Fire Fighters
+Pro-Choice Minnesota
+MAPE
+Minnesota Retailers
+Education Minnesota
+North Central State Regional Council of Carpenters
+Women Winning
+Stonewall DFL
+Moms Demand Gun Sense Candidate
+IBEW
+Minnesota Pipe Trades Association
+AFL-CIO
+Outfront MN
+Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund
+LiUNA
+Minnesota Farmers Union
+Minnesota Nurses Association
+International Union of Operating Engineers (Local 49)
+SEIU
+AFSCME
+Sheet Metal Workers Local 10
+Brotherhood of Locomotive Engineers and Trainmen
+Minnesota Farmers Union
+Minneapolis Building and Construction Trades Council
+2020 Organizations
+Very excited to announce endorsements from these wonderful organizations this year!
+DFL
+MAPE
+AFL-CIO
+Women Winning
+Conservation Minnesota
+OutFront MN
+Moms Demand Action Candidate of Distinction
+Planned Parenthood
+IBEW
+AFSCME
+Education Minnesota
+Sheet Metal, Air, and Transit Union – SMART
+North Central States Regional Council of Carpenters
+Sierra Club
+SEIU
+NARAL
+LiUNA
+Friends of the Boundary Waters
+2020 Individuals
+Thank you to all of you who have reached out to voice your support for my re-election!
+Betsy Baker
+Sarah Maaske
+Shawn McGerr
+Jeanne & Douglas Jensen
+Jill Oleisky
+Mary Tomback
+Billiee Kraut & Butch Johnson
+Otis H.
+Godfrey
+Robert O’Hara
+Karen Waters
+Marcia Oleisky
+Kevin Haley
+Laura McClendon
+Mary Muldoon
+Diana Gaisor
+Angie Sundell
+Shannon Smith
+Kim Anderson
+Joan & Jon Schaefer
+Al Boyce
+Dorothy Boen
+Lucy Arimond
+Mike Bailey
+Jenifer Williams
+Kim Kotzen Wear
+Kate Summers
+Harlan Limpert
+Shawn McGerr
+Chris & Ben Van Lierop
+Edita Nosow
+Biran & Jackie Hunke
+Mark Ennenga
+Carol & David Rosenblatt
+Carol Rue
+Jon Haugee
+Vanessa Olson
+Tom Lien
+Linda Trummer
+Jennifer Mischke
+Sharron Steinfeldt
+Mark Hilst
+Matthew Flory
+Ellen & Jim Hancock
+Andrew Wright
+Barb Stevens
+Rachel McClendon
+Kim Fishman
+Elaine Wynne & Larry Johnson
+Barry Jensen
+Doug Rohde
+Paula Evensen
+Michael Lee
+Steve Roth
+Beatrice Benda
+Carrie Johnson
+Adele Hansen
+Linda & Paul Jennings
+Douglas Jensen
+Jaye Thompson
+Erin & Brian Gonzalez-Bardzinski
+Tyler & Kristen Berling
+Jessica & Jason Janoski
+Bill James
+Marti Priest
+And many more of your friends and neighbors!

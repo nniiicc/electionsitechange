@@ -1,0 +1,1 @@
+Campaign Team ~ Campaign Team Campaign Team ~ Campaign Team Kristian Renteria - Campaign Manager Caleb Batts - Content Manager Xitlalli Rodarte-Lopez - Volunteer Coordinator Mariajose Baca - Event Coordinator Tori Carter - Lead Oganizer Paola Carrera - Digital Lead Veronica Rodriguez Pena -Graphics Jeremiah Medina - Videography & Socials Jordan Forsyth - Videography

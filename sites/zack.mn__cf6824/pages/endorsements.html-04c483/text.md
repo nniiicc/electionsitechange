@@ -1,0 +1,34 @@
+Zack's focus is representing everyone from every corner of district 35A.
+Because of his track record of fighting for working people, a strong economy, safe communities, better healthcare and a clean environment, he's earned the endorsement of these organizations:
+- Education Minnesota Anoka-Hennepin
+- AFL-CIO
+- AFSCME Council 5
+- Minnesota Retailers Association
+- Moms Demand Action
+- Save the Boundary Waters
+- Conservation MN
+- MN Nurses Association
+- Protect Minnesota: Orange Star Candidate
+- Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund
+- SEIU MN State Council
+- LiUNA Minnesota and North Dakota
+- Teamsters Joint Council 32
+- Northern Midwest Regional Council of Carpenters (NMRCC)
+- Housing First Minnesota
+- MAPE
+- Minn Farm Bureau Political Action Committee
+- Minnesota Farmers Union
+- Sierra Club
+- FairVote MN: Awarded RCV Champion Badge
+- International Union of Operating Engineers Local 49
+- IBEW Local 110
+- IBEW Local 292
+- Minnesota Pipe Trades Association
+- Minnesota Professional Fire Fighters
+- OutFront Minnesota
+- Giffords
+- Senator Tina Smith
+Star Tribune endorses Zack Stephenson (2018)
+"The contest for the open seat in Champlin and Coon Rapids pits an energetic Hennepin County prosecutor against a longtime high school wrestling coach and physical education teacher.
+Our nod goes to the attorney, DFLer Zack Stephenson, for his leadership potential and the grasp he exhibits of major issues that will confront the 2019 Legislature."
+Read the Star Tribune's full endorsement here.

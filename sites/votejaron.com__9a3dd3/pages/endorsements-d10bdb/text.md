@@ -1,0 +1,117 @@
+TRUSTED.
+PROVEN.
+ENDORSED.
+Fiona Ma, CPA
+California’s 34th State Treasurer
+“California needs all voices, and especially rural voices, at the table.
+I’ve known Jaron to be a vocal and innovative advocate from forest management to public safety and homelessness to housing and basic needs.
+He will be an asset to everyone in the State Senate”
+LABOR
+AFSCME Local 1
+AFSCME Council 57
+Equality California
+IBEW Local 1245
+North Valley Labor Federation
+Operating Engineers Local 3
+Planned Parenthood Mar Monte
+Plumbers and Pipefitters Local 442
+Sheet Metal Workers Local 104
+Southern California Tribal Chairmen’s Association
+United Association Local 447
+United Auto Workers
+STATE REPRESENTATIVES
+Fiona Ma
+California State Treasurer
+Lena A.
+Gonzalez
+California State Senate Majority Leader
+Bob Archuleta
+California State Senator
+Lola Smallwood-Cuevas
+California State Senator
+Patrick Ahrens
+California State Assemblymember
+Rebecca Bauer-Kahan
+California State Assemblymember
+Rebecca Bauer-Kahan
+California State Assemblymember
+Catherine Blaskespear
+California State Assemblymember
+Tina McKinnor
+California State Assemblymember
+Gail Pellerin
+California State Assemblymember
+Rhodesia Ransom
+California State Assemblymember
+Blanca Rubio
+California State Assemblymember
+Pilar Schavio
+California State Assemblymember
+Nick Schultz,
+California State Assemblymember
+Dave Jones
+Former California State Insurance Commissioner
+LOCAL REPRESENTATIVES
+Rosemarie Smallcombe
+Mariposa County Supervisor
+Oscar Villegas
+Yolo County Supervisor
+Amanda Folendorf
+Calaveras County Supervisor
+Jose Moran
+City of Livingston Mayor
+Mo Mulheren
+Mendocino County Supervisor
+Josh Pedrozo
+Merced County Supervisor
+Stacy Corless
+Mono County Supervisor
+Japjeet Uppal
+City of Livingston Councilmember
+Heidi Hall
+Nevada County Supervisor
+Jennifer Kreitz
+Mono County Supervisor
+Channce Condit
+Stanislaus County Supervisor
+Brooke Laine
+El Dorado County Supervisor
+Gary Bradford
+Yuba County Supervisor
+Rosalinda Vierra
+City of Ceres Councilmember
+Gabriel Quinto
+City of El Cerrito Mayor
+Jennifer Torres-O’Callaghan
+City of Lathrop Vice Mayor
+Luis Uribe
+City of Riverbank Councilmember
+Chris Bubser
+Town of Mammoth Lakes Mayor
+John Wentworth
+Town of Mammoth Lakes Councilmember
+Matt Serrato
+City of Merced Mayor
+Chris Ricci
+City of Modesto Councilmember
+Cindy Fosi
+City of Riverbank Councilmember
+Rachel Hernandez
+City of Riverbank Mayor
+John C.
+Pimentel
+City of Riverbank Councilmember
+Andy Merrill
+City of Sonora Mayor Pro Tem
+Ann Segerstrom
+City of Sonora Mayor
+Anna Klozstad
+City of Truckee Mayor
+Lise Talbott
+City of Waterford Councilmember
+Guadalupe “Lupita” Gutierrez
+City of Waterford Councilmember
+Joseph Mathiesen-Powell
+Chicken Ranch Rancheria Chairman
+Mat Galvan
+Tuolumne County Chamber of Commerce President

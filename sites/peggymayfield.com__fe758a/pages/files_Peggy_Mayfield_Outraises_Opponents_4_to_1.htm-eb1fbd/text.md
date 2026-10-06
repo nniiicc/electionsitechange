@@ -1,0 +1,23 @@
+Press Release�������������������������������������
+Media Contact: Peggy Mayfield
+For
+Immediate Release��� � � � � � � � � � � � � �
+(317) 831-8683
+April
+23, 2012��������������������������������������pmayfield@peggymayfield.com
+State Representative Candidate
+Peggy Mayfield Outraises Opponents 4 to 1
+Current Morgan County Clerk Leads the Field in Individual Contributors
+by 5 to 1
+(Martinsville, IN)�Candidate for State Representative and Morgan County Clerk Peggy Mayfield filed her campaign finance report Friday showing that she has outraised Republican Opponent Daniel Elliot and Democrat Peggy Welch 4 to 1.� She also reported receiving more individual contributions than any other candidate in the race for the District 60 house seat.
+�We led the field in individual contributors and individual contributions,� said Mayfield campaign manager Jacob Clough. �Peggy Mayfield�s conservative message resonates with voters in the new district, and her accomplishments as a government reformer and business woman are already known in Morgan County,� said Clough, adding, �It�s pretty clear voters want someone to replace Peggy Welch, and they�ve picked Peggy Mayfield to do it.�
+About
+Peggy Mayfield
+Peggy Mayfield, 48, is in her second term as Morgan County Clerk.� During her tenure, Peggy oversaw an annual budget of over half a million dollars and operated under budget every year, returning over $133,000 to the county�s general fund.� She is also an Executive Board Member of the Association of Clerks of Circuit Courts of Indiana and regularly testifies before the General Assembly on issues related to ballot access.
+Peggy and her husband Dean are raising four boys and are members of St.
+Martin of Tours Catholic Church in Martinsville.� They own Mayfield Insurance in Mooresville, a 91 year old family-owned and operated business.
+Peggy is also a certified rifle and shotgun instructor, enjoys coaching youth clay target programs and serving on the Executive Board of the Boy Scouts of America.
+To learn more about Peggy�s campaign, visit www.peggymayfield.com.
+-30-
+Paid for by the
+Mayfield Campaign

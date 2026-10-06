@@ -1,0 +1,18 @@
+Cook Political Report Moves SC-01 Toward Competitive Territory, Cites Nancy Lacore’s Fundraising Strength
+Press Release | June 18, 2026CONTACT:
+Kaylie Haberstroh | kaylie@nancylacore.com
+“But the first-place finisher on the Democratic side, retired Rear Admiral Nancy Lacore, is a strong fundraiser, taking in $1.6 million since launching her campaign in January."
+MOUNT PLEASANT, SC — The nonpartisan Cook Political Report has shifted South Carolina's First Congressional District toward a more competitive rating, citing Rear Admiral Nancy Lacore's fundraising strength as a major consideration for the increasingly competitive nature of the open-seat race.
+In its latest analysis of House races across the country, Cook Political Report specifically highlighted Lacore as the only candidate in the Democratic Primary Runoff by name, pointing to her campaign's fundraising success and ability to compete financially in the general election.
+"But the first-place finisher on the Democratic side, retired Rear Admiral Nancy Lacore, is a strong fundraiser, taking in $1.6 million since launching her campaign in January," Cook Political Report wrote.
+"She clearly has the donor network to at least keep pace with the GOP nominee."
+"This campaign has always been about earning support across the Lowcountry and proving that voters are ready for a new kind of leadership," said Lacore.
+"We're building a broad coalition focused on lowering costs, protecting our freedoms, and delivering results for South Carolina families.
+Independent observers are recognizing what we're seeing on the ground every day: this race is competitive, and voters are ready for change."
+Lacore finished first in Tuesday’s Democratic Primary with a commanding lead over six other competitors on the ballot.
+Since polls closed on election day, she has picked up the endorsements of former primary opponent Francina Dantzler, State Representatives Spencer Wetmore and Leon Stavrinakis, and former Beaufort Mayor Billy Keyserling.
+The Charleston City Paper also doubled down on their endorsement of Lacore for the runoff.
+She is the only candidate left in this race with the ability to put together the resources and coalition necessary to flip this seat in November.
+After 35 years of service in the United States Navy, a career beginning as a helicopter pilot and ending as a three-star Admiral and Chief of Navy Reserve, Lacore was removed from her post by Pete Hegseth with no explanation.
+She decided to continue her service to our country in Congress.
+###

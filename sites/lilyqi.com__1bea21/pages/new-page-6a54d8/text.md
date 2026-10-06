@@ -1,0 +1,3 @@
+Media Highlights Washingtonian Maryland Delegate Lily Qi’s Journey From Shanghai to Annapolis FOX5 DC Lily Qi’s journey from China to MD politics: ‘We are real Americans’ NPR A Foot In 2 Worlds: Chinese Immigrant, U.S.
+Politician Radio Free Asia: WhyNot (Mandarin) 华人，女性，政治家：齐丽丽的美国地方选举之路 (Chinese American, Woman, Politician: Lily Qi’s Campaign Journey in American Local Politics) Foreword Reviews Interview with Lily Qi, Author of Elected American Elected American: From Red China to Blue Maryland The Wire China Lily Qi on Choosing to be an American Maryland Matters MD lawmaker’s historic journey unfolds in book that’s part autobiography, part political memoir.
+Bethesda Magazine From Bethesda Magazine: MoCo lawyer, state delegate have books publishing in July

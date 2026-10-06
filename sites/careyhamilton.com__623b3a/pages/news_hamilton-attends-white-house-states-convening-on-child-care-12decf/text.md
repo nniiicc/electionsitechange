@@ -1,0 +1,12 @@
+Hamilton attends White House States Convening on child care
+July 19, 2023
+On Wednesday, July 19, State Rep.
+Carey Hamilton (D-Indianapolis), House Democratic Caucus Chair, will attend the Convening of States at the White House to discuss action from state governments on child care policy.
+Child care access is a priority for the Biden-Harris administration as seen in the President’s budget proposal that would keep the average family cost for child care at $10 a day.
+Hamilton has introduced numerous bills and amendments to improve Indiana’s child care system and reduce costs since she was elected to the General Assembly in 2016.
+“I am honored to have been invited to our nation's capital to meet with fellow state Democratic leaders to discuss childcare access across the United States,” Hamilton said.
+“Indiana ranks third in the nation for the most expensive child care, yet in the bottom 20 states for child care worker pay.
+“Affordable child care strengthens families by freeing up income for needs such as quality food and secure housing and it strengthens our economy by growing a critical component of our workforce – working parents.
+We urgently need legislation such as a child care tax credit that I have proposed numerous times only to be rejected by GOP lawmakers.
+Solutions such as this one are vital to support those struggling to raise a family and stay employed.
+I look forward to meeting with fellow legislators to learn how other states are growing access to affordable childcare.”

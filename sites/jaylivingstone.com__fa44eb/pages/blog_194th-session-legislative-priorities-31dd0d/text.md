@@ -1,0 +1,72 @@
+194th Session Legislative Priorities
+Friday, January 17th was the deadline for legislators to submit timely filed legislation to be considered for the next two years.
+Bills that are filed after this deadline are considered ‘late files’, and must go through the added step of being approved by the Committees on Rules of the two branches, acting concurrently, and then the approval of two thirds of the members of each branch before beginning the traditional legislative process.
+Once a bill is filed in the House or Senate, it is given an initial number (a docket number) and is recorded.
+The House and Senate Clerk then assign each bill a bill number and recommend the appropriate Joint Committee to hear the bill.
+Bills that originate in the House begin with “H” and those that originate in the Senate begin with “S”
+I personally filed 41 bills for the 194th Legislative Session before the January 17th deadline.
+These bills range from a variety of topics including housing, public health, health care, transportation, district issues, and many others.
+Though success is not guaranteed for each bill, I look forward to working with my colleagues in the Legislature to achieve positive outcomes for these issues.
+Please visit my website for a detailed list (link) summarizing all the bills I filed for the 194th Legislative Session.
+District Issues
+Summary: This bill proposes that the Board of Health of a Massachusetts city or town should be able to restrict the hours when garbage can be collected in areas zoned for business or commercial use.
+This bill would ensure that residents would not be woken up or disturbed by trash collection during the night.
+Summary: This bill would increase penalties for motorists who injure or cause death to a pedestrian and extend the time frame for which the deceased pedestrian’s executor or administrator may give the notice regarding the decedent’s estate.
+Housing
+Summary: This bill would give the tenants the first right of refusal if the landlord of a building intends to sell to match market offers.This is a local option bill that encourages preservation and would help prevent displacement.
+It would help stabilize low-income households.
+Smaller landlords and smaller buildings are generally exempt.
+Summary: This bill would extend deductions to resident shareholders of housing cooperatives who have lived in their cooperative for the entire tax year and have not claimed a real state or federal mortgage interest tax.
+Summary: This bill would allow any city or town to impose an affordable housing surcharge of up to 2% of the local property tax.
+Transportation
+Summary: This bill proposes to require third-party delivery providers to report data for each delivery to the state for congestion management and transportation planning purposes.
+It also proposes to assign a publicly visible ID number to each third party delivery driver regardless of the vehicle they drive to increase traffic enforcement.
+Summary: This bill proposes to update the requirements for transportation network companies (TNCs), including the implementation of a rider assessment fee, posting aggregate data, and clear fare estimates.
+Environment
+Summary: This bill would require all new construction and major renovations to use electricity instead of fossil fuels for space heating/ cooling, clothing drying, and hot water.
+It would also require biolabs and hospitals to have zero net CO2 Emissions by 2050.
+Summary: This bill would provide a capital outlay program of maintenance and improvements to municipal drinking, the replacement of lead service line pipes, and waste and stormwater infrastructure assets in the Commonwealth.
+Criminal Justice
+Summary: This bill would require that birth control methods, emergency contraception methods, and abortion services are available without undue barriers to incarcerated persons who are capable of becoming pregnant upon admission to a correctional facility and at any time upon request.
+Summary: This bill would protect parents with disabilities from being denied the custody of their child(s) by requiring courts to determine if the parent's disability causes actual harm to a child based on evidence, explain in writing if a parent's disability is a negative factor in custody and parenting decisions, and assess if the harm can be avoided with adaptive equipment and supportive services for the parent.
+Summary: This bill would extend the availability of immunity to the witness in more courts and for all criminal offenses.
+Summary: This bill would remove copays for medical visits and charges for necessary medical supplies and equipment for incarcerated people.
+Labor and Workforce
+Summary: This bill would prohibit employers from discriminating against individuals based on their status as a victim of domestic abuse as it pertains to hiring, requesting leave and accommodations.
+Summary: This bill would add anesthesiologist assistants to the registration of certain professions and occupations.
+The bill also outlines the duties, supervision, discipline, and licensing of anesthesiologist assistants.
+Summary: This bill would exclude service performed outside of the usual course of business of the employer from being deemed “employment” to reflect the nature of modern work having shifted to include remote work.
+Summary: This bill would expand the eligibility for the family of a public employee (such as a bus driver, shelter worker or teacher) to receive a payment of $300,000 if the employee dies while on duty.
+Summary: This bill would require services employers to perform annual risk assessments that include all factors which may put employees at risk of workplace assault and homicide.
+The employer must implement a program designed to mitigate the dangers found in the risk assessment and make a written version of that plan available to all employees.
+Public Health & Animal Protections
+Summary: This bill would require that disposable menstrual products be made easily accessible to all who menstruate in prisons, homeless shelters, and public schools at no cost to menstruating individuals.
+Summary: This bill would provide a capital outlay program of maintenance and improvements to municipal drinking, the replacement of lead service line pipes, and waste and stormwater infrastructure assets in the Commonwealth.
+Summary: This bill would require the department of public health implement a “Preparticipation Physical Evaluation”, for all K-12 students in public and private schools who plan to participate in school or community sponsored athletic teams.
+Summary: This bill would permit clinicians with an independent practicing authority to provide health care in the Commonwealth under the guidance of the department of public health.
+Summary: This bill would restrict the trade of ivory and rhino horn within Massachusetts, ensuring that the Commonwealth does not contribute to the global poaching crisis.
+Economic Development
+Summary: This bill would give cities and towns the option to increase the residential property tax exemption for seniors.
+This bill would also increase income and asset eligibility limits for these tax exemptions.
+Summary: This bill would allow the distribution of trust property to another trust pursuant to the trustee's discretionary authority to make distributions to, or for the benefit of, one or more beneficiaries to address current limitations in MA trust law.
+Summary: This bill would expand non-discriminatory provisions by defining "gender identity" and including the new definition in insurance statutes.
+Summary: This bill would remove discretionary authority to the insurer, or an agent of the insurer, to determine eligibility for benefits or coverage or to interpret the terms of the policy, contract, certificate, or agreement after coverage is sought.
+Summary: This bill would extend a sales tax exemption to entities whose primary engagement is research and development activities.
+Summary: This bill proposes that donations or volunteer work for Massachusetts based charities would not be used to determine residency for tax purposes.
+Technology & Innovation
+Summary: This bill would require all new construction and major renovations to use electricity instead of fossil fuels for space heating/ cooling, clothing drying, and hot water.
+It would also require biolabs and hospitals to have zero net CO2 Emissions by 2050.
+Summary: This bill would require providers of AI implement and make available tools for tracking the provenance of synthetic content, including its origin and any modifications.
+Summary: This bill protects the identity and data privacy of a public library user from the public record and only grants access to these records through a court-issued warrant or under exigent circumstances.
+Summary: This bill would create standards for procedure for all internet users to plan the management of their digital assets by appointing trustees/fiduciaries in the same way that people plan the management of physical and tangible monetary property.
+Judicial System
+Summary: This bill would repeal archaic laws within the General Laws that have become unconstitutional to make sure the state remains inclusive and detached from historical biases.
+Summary: This bill would allow anyone at least 18 years of age, and not a party member, to serve a summons and complaint for all civil actions pending in District Court, Boston Municipal Court, or Superior Court.
+This bill would also allow persons whose case has been dismissed as a result of an arbitration agreement to commence a new action for the same cause within one year after the dismissal from the original action without losing time under the applicable statute of limitations.
+Summary: This bill would improve the retirement rights of public defenders so that they are consistent with other similar government employees.
+Summary: This bill would change the number of appointees on the forensic science oversight board from 13 to 15 and would give nominating power for 1 appointee to the president of the Massachusetts Organization of State Engineers and Scientists, and nominating power for 1 appointee to the union representing the Boston Police Crime Laboratory Unit.
+Summary: This bill would amend the General Laws in effort to clarify terms relative to the forfeiture reform and establish a new section that creates new standards by which property forfeiture will be prosecuted.
+Summary: This bill would outline the procedures for conducting depositions and discovery in Massachusetts for civil cases pending in other states.
+Summary: This bill would require State Retirement to divest state funds from companies that derive more than 15% of revenues from the sale or manufacture of ammunition, firearms, or firearm accessories used for civilian purposes.
+Summary: This bill would provide an alternative to guardianship that allows an individual to make decisions about his or her own life with a team of chosen supporters to enhance their life and maximize independence.
+Summary: This bill is a large piece of legislation pertaining to the child welfare system in Massachusetts that addresses various issues such as data reporting, disproportionality, and better serving youth in custody.

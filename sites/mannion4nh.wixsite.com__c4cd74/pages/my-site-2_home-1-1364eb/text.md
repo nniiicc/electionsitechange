@@ -1,0 +1,43 @@
+Roll Call Votes
+Key Voting Record Highlights Mannion has a strongly conservative voting record on taxes, education, guns, immigration, and social issues.
+Here are notable votes:
+Taxes & Budget
+- Voted for a constitutional amendment banning any income tax (CACR 10, 2026)
+- Voted for cutting business taxes (HB 155, 2025)
+- Voted against a tax on non-primary residences (HB 1580, 2026)
+- Voted for late budget amendments restoring some police/fire retirement benefits (HB 282, 2025)
+-
+Education & Parental Rights
+- Voted for a Parental Bill of Rights (HB 10, 2025)
+- Voted for removing some home-school notification/evaluation requirements (HB 1268, 2026)
+- Voted for requiring a local school tax cap vote and limiting admin expenses (HB 1300, 2026)
+- Voted for open enrollment across public schools (SB 101, 2025)
+- Voted for the CHARLIE Act limiting certain teachings on race/sexuality (HB 1792, 2026)
+- Voted for banning "harmful to minors" sexual material in schools (HB 324, 2025)
+- Voted for voter ID requirements and absentee ballot verification
+-
+Social & Health Issues
+- Voted for biological sex-based classifications in bathrooms, sports, prisons, etc.
+(HB 1442 & HB 148)
+- Voted for conscience rights for medical professionals on abortion (HB 232, 2025)
+- Voted against extreme risk protection orders ("red flag" law; HB 1642, 2026)
+- Voted for banning hormone treatments/puberty blockers for minors (with exceptions; HB 377, 2025)
+- Voted to keep school immunization requirements (HB 1811, 2026)
+- Voted against home-growing medical marijuana (HB 53, 2025)
+- Voted to keep penalties for marijuana possession/use (HB 198, 2025)
+-
+Guns & Criminal Justice
+- Voted against expanded background checks + waiting periods (HB 56, 2025)
+- Voted for banning public colleges from regulating firearms (HB 1793, 2026)
+-
+Other
+- Voted for repealing Housing Champion program (HB 1196, 2026)
+- Voted for no-cause evictions after lease term (HB 60, 2025)
+- Voted for banning state refugee resettlement involvement (HB 1706, 2026)
+- Voted against sanctuary policies / for local immigration enforcement
+- Voted for allowing utilities to invest in natural gas/nuclear (HB 1775, 2026)
+-
+Recent Specific Roll Call Examples (May 2025)
+- Yes on HB 1442 (biological sex classifications)
+- Yes on HB 232 (conscience rights)
+- No on HB 1681 (tiny houses/yurts)

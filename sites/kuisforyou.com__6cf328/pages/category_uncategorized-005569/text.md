@@ -1,0 +1,3 @@
+- Newtown Needs a Representative Who Knows What’s Driving Your Property Taxes—Michelle Will Treat Them Like the Urgent Issue They Are.
+Michelle understands where the pressure on your tax bill comes from, because she’s spent more than a decade examining budgets line by line, year after year.
+Newtown deserves a representative…

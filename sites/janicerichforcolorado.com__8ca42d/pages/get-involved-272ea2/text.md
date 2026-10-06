@@ -1,0 +1,11 @@
+Get Involved
+- Assist as a Poll Watcher
+- Assist with Phone banks
+- Assist with Voter Registration
+- Door to Door Team
+- E-Leader (Email Campaign)
+- Organize an Event in My Area
+- Local Campaign Captain
+- Put a Sign in My Yard
+- Volunteer at Campaign Headquarters
+- Volunteer to Work Campaign Events

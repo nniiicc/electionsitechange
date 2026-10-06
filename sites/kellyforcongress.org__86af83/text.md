@@ -1,12 +1,14 @@
-Proven Leader,
-Real Results
-Meet Kelly
-Friends,
-It’s an honor and a privilege to serve as the Congresswoman for Minnesota’s Third District.
-I am grateful you have put your trust in me to represent the people of the Third District in Washington, DC and to be your voice in Congress.
-I had the honor of caring for Minnesotans for more than 20 years as an OB-GYN, and that experience informs my work in Congress.
-I think about my patients every day as I serve in office.
-That same commitment to care, problem-solving, and listening as a doctor is what I bring to Congress.
-I pledge to find common ground with my colleagues, bring a results-focused approach to Washington, and deliver for the Third District, for Minnesota, and for America.
-With gratitude,
-Kelly
+Doctor.
+Mom.
+Proud Minnesotan.
+Kelly has spent her life caring for Minnesotans.
+First as a doctor, caring for patients here in Minnesota for more than 20 years.
+Now, she’s fighting for Minnesotans in Congress: standing up to the Trump Administration, fighting to lower costs and make health care more accessible and affordable, and working to defend our rights and our democracy.
+Join Our Campaign
+Sign up for the latest updates from Team Kelly:
+Help Us Fight Back
+Our campaign is 100% people powered.
+No corporate PACs.
+No federal lobbyists.
+No dark money.
+Every donation – no matter how small – helps us fight corruption and keep the power with the people.

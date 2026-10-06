@@ -1,0 +1,123 @@
+Leadership + Results
+Senator Dave Weeks — Vermont Senate, Rutland County
+Rutland County State Senator Dave Weeks won his August 2026 primary election and is running for re-election to the Vermont Senate in November 2026.
+First elected in 2022 and re-elected in 2024, Dave represents the people of Rutland County — from his hometown of Wallingford to his current home in Proctor — working on economic development, education, and accountable government for Vermont.
+Serving Rutland County in the Vermont Senate
+Senator Weeks holds key leadership roles in the Vermont Legislature:
+- Vice Chairman, Senate Education Committee — strengthening Vermont schools and opportunities for our students
+- Senate Economic Development Committee — supporting Vermont jobs, small businesses, and workforce growth
+- Joint Legislative Committee on Administrative Rules (LCAR) — ensuring state agency rules stay accountable to Vermonters
+- Joint Information Technology Oversight Committee — bringing transparency to how the state spends taxpayer dollars on technology
+- School Construction Task Force — addressing Vermont's urgent school infrastructure needs
+A Proven Executive Fighting for Vermont
+Before serving in the Vermont Senate, Dave spent decades as a Fortune 500 aerospace program leader — a career managing multi-billion-dollar projects on time and on budget.
+He brings that same discipline to state government: finding waste, delivering results, and holding bureaucracy accountable.
+Dave's career delivering complex, high-stakes projects included:
+- NATO's continent-wide Air Command and Control System, strengthening the air defense network protecting Europe
+- Modernization of the Patriot missile defense system for US Allies, the world's most sophisticated surface-to-air defense platform
+- Airborne intelligence, surveillance, and reconnaissance systems for international security missions
+- International border protection programs, integrating advanced sensor networks and command-and-control technology
+Working across the United States, Europe, the Middle East, and the Far East, Dave learned to deliver results in demanding environments with fixed budgets and no room for failure — experience Vermont taxpayers deserve in their state senators.
+Why Dave Weeks for Rutland County
+Dave Weeks fights for Rutland County families on the issues that matter: growing the local economy, funding our schools, rebuilding our infrastructure, and making Montpelier live within its means.
+Vote Dave Weeks for Vermont Senate — Rutland County, November 3, 2026.
+Dave at the Kuwait border before crossing into Iraq on the morning of the invasion, 2003
+Dave conducting Marine infantry operations in the Arctic on the north cape of Norway, 1984
+Third ship in Dave’s Navy career, the USS Arleigh Burke (DDG 51), a Aegis destroyer with its precommissioning crew
+A Lifetime of Service
+Dave Weeks' commitment to serving others began decades before his election to the Vermont Senate.
+A 31-year military veteran, Dave rose from Marine Corps infantry Corporal to Navy Captain — a career spanning enlisted leadership and senior naval command.
+United States Marine Corps
+Dave's service began at Parris Island, followed by infantry specialty training at Camp Lejeune and arctic mountain warfare operations with 1st Battalion, 25th Marines.
+United States Navy — Surface Warfare Officer
+As a commissioned Navy officer, Dave served aboard cruisers, destroyers, and amphibious assault ships, including:
+- Commissioning crew of the USS Arleigh Burke (DDG-51) — built in Bath, Maine, and named for naval legion Admiral Arleigh Burke
+- Forward-deployed Aegis cruiser in Yokosuka, Japan — serving with Naval Forces Japan
+- Naval Special Warfare Command — supporting special operations with combat craft and surveillance units
+- Mobile Security Squadron and coastal gunboat units
+- Deployments with the Sixth Fleet in Bahrain and Amphibious Group Three detachments
+Iraq Veteran
+Dave deployed in support of combat operations in Iraq — service recognized by the State of Vermont with the Vermont Distinguished Service Medal and the Vermont Veteran's Medal.
+Serving Vermont's Veteran Community
+Dave remains active in Rutland County's veteran community:
+- American Legion Post 52, Wallingford — Member
+- VFW Post 648, Rutland — Life Member
+- Navy League — Life Member
+- Iraq and Afghanistan Veterans of America — Member
+Neither military information nor photographs of Dave in uniform imply endorsement by the Department of Defense or its particular military departments.
+Rooted in Vermont
+Dave Weeks' story begins in Wallingford, Vermont, in a family dedicated to service.
+Following His Father's Example
+Dave is the son of Captain Bob Weeks, U.S.
+Navy — a submarine skipper who went on to represent Wallingford as a Vermont State Legislator.
+From his father, Dave learned the values that guide him today: love of country, devotion to community, and a belief that public service is a responsibility to be earned, not a privilege to be exploited.
+Family
+Dave is married to Dr.
+Leeanne Wootten, PhD, who has served as Head of School at a variety of international schools around the world.
+They have four children:
+- Jacob — a Certified Public Accountant working in the biotech industry
+- Sarah — a Physician Associate (PA) serving patients in health care
+- Mitch — a music producer
+- Cassandra — a graduate student
+From his home in Proctor to the neighborhoods of Rutland County he represents, Dave Weeks brings the lessons of a lifetime of family and service to the Vermont Senate.
+Dave with his wife, Leeanne.
+Parents Captain Bob and Gerry Weeks, US Navy (Retired) and former VT Legislator.
+Educated to Lead
+Dave Weeks never stopped learning.
+From a Vermont high school classroom to graduate studies on three continents, Dave built the education to solve big problems — and he puts it to work for Rutland County every day in the Vermont Senate.
+Vermont Roots, Vermont Education
+- University of Vermont — Degree in Political Science and Computer Science
+- Mill River Union High School — graduate, Wallingford area
+Advanced Degrees
+- Master of Business, Project Management — University of San Diego
+- Master of Public Administration, Certificate in City Management — Villanova University
+- Master of National Security and Strategic Studies — U.S.
+Army War College
+- Doctoral studies in National Security Policy — King's College London
+Advanced Professional Training
+- FEMA Incident Management (national and local levels)
+- NATO Command and Control operations
+- U.S.
+Army Chemical Corps — defense and decontamination
+- 3D Negotiations, Six Sigma, and ISO certification
+- U.S.
+Navy specialties: Aegis combat systems, gas turbine engineering, damage control, surveillance and security operations
+Vermont Outdoorsman
+Dave Weeks isn't just a politician who likes Vermont — he lives here.
+When Dave isn't serving in Montpelier, you'll find him doing the things that matter to Rutland County families: maintaining trails on our mountains, riding snowmobiles through the backroads, and enjoying the outdoors that make Vermont special.
+Outdoor Recreation
+- Hiking and Trail Maintenance — Active member of the Green Mountain Club, Killington Section, working to preserve Vermont's trail systems
+- Scuba Diving — Wreck Diver, Nitrox, Deep Diver, and Advanced Open Water certified
+- Snowmobiling — Member of VAST (Vermont Association of Snow Travelers) and Shrewsbury Sno-Birds
+- Marksmanship — U.S.
+Marine Corps trained, safety-focused shooter
+- Skiing — Downhill, cross-country, and telemark
+- Snowshoeing — Winter trail exploration throughout Rutland County
+- Kayaking — Lake, river, and coastal waters
+- Archery
+- Sailing and Small Boating
+Local Ties
+Dave's commitment to Vermont's outdoor heritage runs deep.
+Through his membership in the Green Mountain Club and local snowmobile clubs like the Shrewsbury Sno-Birds, he stays connected to the land and the communities that protect it.
+Committed to Our Community
+Dave Weeks doesn't just represent Rutland County — he serves it.
+Long before his election to the Vermont Senate, Dave was volunteering, coaching, and leading in the organizations that keep our region strong.
+Regional Leadership
+- Rutland Regional Medical Center — Board of Directors member, helping guide the region's largest health care provider
+- Rutland Regional Airport Committee — Legislative member, supporting local aviation and economic infrastructure
+- Chamber and Economic Development of the Rutland Region (CEDRR) — member, working to grow Rutland County's economy
+Investing in Our Youth
+Dave has spent decades investing in the next generation:
+- Scouting — Eagle Scout (Class of 1976) whose decades of leadership include Council Executive Board, District Commissioner, Scoutmaster, Philmont expedition Scoutmaster, National Jamboree Scoutmaster, and the Eagle Scout Alumni Association Board
+- Youth Soccer — Coach and certified referee
+- Little League Baseball — Umpire
+Preserving Our Heritage and Trails
+- Green Mountain Club — trail maintenance volunteer
+- Pittsford, Fair Haven, Shrewsbury, and Poultney Historical Societies — member
+- Crown Point Road Association — member, helping preserve the historic colonial route through Rutland County
+- West Rutland Carving Studio & Sculpture Center — student, supporting the arts in our community
+Civic and Fraternal Organizations
+- Loyal Order of Moose, Rutland Lodge 1122 — member
+- Vermont Outdoor Business Alliance (VOBA) — member
+- Phi Mu Delta, Nu Gamma Chapter — alumnus and past president
+- Maritime Museum and Military Vehicle Preservation Association — member

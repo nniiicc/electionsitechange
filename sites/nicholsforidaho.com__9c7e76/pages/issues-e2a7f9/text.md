@@ -1,0 +1,21 @@
+On The Issues
+- Pro Gun
+- Property & Water Rights
+- Pro Agriculture
+- Limited Government/Taxes
+- Pro Business
+- Pro Life
+- Pro Constitution
+- Pro Family
+- Dual Federalism
+- State Sovereignty
+- Local Control
+- Quality Education
+- School Choice
+- Health Freedom
+- Federal Education/Common Core
+- Obamacare/Ottercare
+- Illegal Immigration
+- Federal Infringement on States Rights
+- Government Overreach
+- Burdensome Regulations

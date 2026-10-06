@@ -1,0 +1,7 @@
+Congressman Paul Tonko released the following statement in response to NY20's new Congressional District boundaries.
+"While we're disappointed to have to say goodbye to our friends in parts of Albany and Rensselaer counties, we're thrilled to introduce our campaign for higher wages, clean energy, voting rights and other progressive issues to more voters in Warren and Saratoga counties.
+Early in the process, we stressed the importance of keeping Capital Region communities together for a unified voice in Congress, this map reflects a district that does just that.
+I want to thank those who submitted public comments as well as those who worked so hard on this process."
+Copyright © 2021-2026 Paul Tonko for Congress - All Rights Reserved.
+911 Central Ave., #221 Albany, NY 12206
+info@paultonko.com | 518.217.2726

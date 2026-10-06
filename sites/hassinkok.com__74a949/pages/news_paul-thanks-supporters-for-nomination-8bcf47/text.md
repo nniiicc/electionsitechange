@@ -1,0 +1,39 @@
+Skip to content
+Save Oklahoma Students (SOS)
+“ThatIsNotOK”
+Issues
+Meet Paul
+Endorsements
+News
+Resources
+Contact
+DONATE
+DONATE
+MENU
+Save Oklahoma Students (SOS)
+“ThatIsNotOK”
+DONATE
+Issues
+Meet Paul
+Endorsements
+News
+Resource Links
+Contact
+DONATE
+MENU
+Save Oklahoma Students (SOS)
+“ThatIsNotOK”
+DONATE
+Issues
+Meet Paul
+Endorsements
+News
+Resource Links
+Contact
+Paul thanks supporters for nomination
+Paul thanks supporters for nomination
+hassinkok
+2022-07-01T12:18:14-05:00
+June 29, 2022
+Page load link
+Go to Top

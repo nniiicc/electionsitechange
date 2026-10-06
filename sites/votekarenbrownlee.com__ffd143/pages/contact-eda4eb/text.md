@@ -1,0 +1,38 @@
+×
+Donate to Karen Brownlee
+for Ohio House
+$28
+$250
+$50
+$500
+$100
+OTHER
+Or, sign up to volunteer ➔
+0
+Skip to Content
+Home
+Meet Karen
+Issues
+Endorsements
+District 28
+Voting Information
+GET INVOLVED
+Open Menu
+Close Menu
+Home
+Meet Karen
+Issues
+Endorsements
+District 28
+Voting Information
+GET INVOLVED
+Open Menu
+Close Menu
+Home
+Meet Karen
+Issues
+Endorsements
+District 28
+Voting Information
+GET INVOLVED
+Contact

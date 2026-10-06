@@ -1,0 +1,44 @@
+Breitbart News
+ICYMI: Arkansas Democrat Hallie Shoffner: ‘We’d Trade Five Americans’ for One ‘Undocumented Immigrant’
+Hallie Shoffner, who is running to unseat Sen.
+Tom Cotton (R-AR), defended “undocumented” farm workers as exceptionally hardworking, after previously saying she grew up around “undocumented” farm workers, discussing Mexican H-2A employees on her family farm, defending farmers’ reliance on foreign-born labor, and leading a nonprofit that assisted “undocumented Hispanics.”
+“Every farmer will tell you at one point, we did, or still do, employ undocumented immigrants, and it’s absolutely ridiculous that these folks are being rounded up because they’re hardworking people,” Shoffner said on Free Arkansas with host Andy McNeill.
+“They’re some of the best people we know, and honestly, we’d trade five Americans for just one of them because of how hard they work.”
+“And why is it that there’s no pathway for them to work here legally when they’re good workers?
+We pay them well.
+They spend money here.
+They have family here,” Shoffner said.
+“We’re acting like all Republicans like what’s happening with ICE, and Tom Cotton’s basically saying you, Andy, if you’re a Republican and you disagree with my position on ICE, or if you’re asking any kind of questions about it, well, you must be anti-American and anti-safety,” Shoffner said.
+“And I’m like, I have a seven-year-old boy.
+All I think about is safety.”
+Laura Loomer highlighted the interview on X, writing, “The facts are clear: Farmer Hallie loves putting illegal aliens first, which is why she is UNFIT to serve in the U.S.
+Senate.”
+In a report on Loomered, Loomer also pointed to a portion of the interview in which host Andy McNeill questioned why ICE agents needed to dress like “SEAL Team Six.” Shoffner responded that the use of bulletproof vests “seems kind of performative to me.”
+In June, Shoffner said immigrants “whether they have documents or not” are essential to the country’s “social, cultural, and economic fabric” and contribute to the small-business economy.
+Shoffner was then asked whether she would vote to defund ICE and answered, “I would vote to defund ICE as it exists right now.” She said the agency no longer served its original purpose and that she “would not spend one more dime on ICE,” before pointing to hunger among Arkansas children as an issue she would address.
+Shoffner later denied wanting to defund the agency, writing in response to Cotton, “I don’t want to defund ICE.
+I want to reform it.” During an Arkansas television interview, an anchor asked Shoffner about an ad claiming that she wanted more illegal immigrants in the country, wanted to abolish immigration law enforcement, and had given to Kamala Harris 25 times.
+When the anchor asked whether she had said those things, Shoffner answered, “No.”
+Shoffner’s connection to immigrant communities predates her Senate campaign.
+She previously served as executive director of Seis Puentes, a Little Rock nonprofit focused on the Latino community.
+In 2012, she told the Arkansas Times that one of the organization’s goals was helping “undocumented Hispanics” navigate American systems and “engage them in the process.” Seis Puentes also partnered with North Little Rock to help illegal immigrants obtain “valid photo ID.”
+Shoffner also said she “grew up in an immigrant community” and that “the farm workers for all the farms… were generally from Mexico and Honduras” during a January 2026 podcast interview.
+“Many of them were undocumented, but their children… were U.S. citizens or Dreamers.
+And so I learned Spanish,” she said.
+She has repeatedly defended foreign agricultural labor as important to Arkansas farms.
+In a September 2025 interview, she described the H-2A program as “how farmers get labor” and said the country had “gotten ourselves into a situation where we rely on foreign-born labor.” She asked, “What if we build an immigration system where we actually went to these farmers and went to these employers and asked what they need as opposed to just blanket policies that make it so that we can’t get affordable labor?”
+Shoffner has criticized Department of Homeland Security inspections of housing for H-2A agricultural workers.
+In August 2025, Shoffner said Arkansas farms use the H-2A Agricultural Visa Program to recruit foreign-born workers from Mexico and South Africa.
+“Now the Department of Homeland Security has suddenly decided it’s their job to inspect H-2A Visa housing,” she said.
+She questioned why the inspections were taking place, adding, “My only thinking is they don’t want farmers to access labor, they don’t want farmers to be successful, they don’t want farmers to grow food, and we are going to be a country reliant on others to feed us.”
+Beyond immigration, Shoffner has connected agriculture to climate change.
+In 2020, she called climate change a threat to “my business, my way of life, and the legacy I will leave for my son: the farm.” Shoffner said “emissions-driven climate change amplifies extreme weather events,” including “longer droughts, more torrential rains, and stronger storms,” and stated that farmers could face “more challenging seasons jeopardizing our ability to make a profitable crop.”
+She criticized the Trump administration and the Department of Government Efficiency over changes to agricultural programs.
+In an April 2025 post, she listed “Farm to school programs (cancelled by DOGE), SNAP access at farmers markets (cancelled by DOGE), Local processing facilities (threatened by tariffs), Support for women- and BIPOC-owned farms (cancelled by Trump),” which she described as part of “the true path to health in rural America.”
+Shoffner has also focused on race in her agricultural advocacy.
+Discussing three black farmers in a 2024 profile, Shoffner said, “As a society, we pretty much did everything possible to ensure that Black farmers did not become prosperous farm families.” She added that “women and minority farmers who live on the margins of the industry at large are deserving of a first shot at the specialty rice industry.”
+In another statement, Shoffner described herself as a beneficiary of advantages she said were historically unavailable to black farmers.
+“As a white multi-generational farmer, I know the privilege that propelled our family to success, although ours was modest compared to others,” she said.
+Shoffner described this as “a privilege not given to black farmers systematically disenfranchised of their livelihoods and their land and murdered for standing up for what they believe in.”
+Shoffner has also framed programs supporting women and smaller farming operations in terms of diversity, equity, and inclusion.
+In a January, 2025 LinkedIn post, she wrote, “As a woman farmer running a small farm, I have been fortunate to participate in programs that support smaller operations like mine.” She added, “These initiatives enable me to access opportunities that our farm’s size would typically hinder,” before concluding, “This is diversity, equity, and inclusion in action.”

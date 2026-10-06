@@ -1,0 +1,32 @@
+DRUG AND CANNABIS REFORM
+Decriminalization of Drugs
+- All laws related to criminalizing the use or possession of illegal or controlled substances shall be nullified, and persons convicted under these laws shall be freed, their records expunged, and all rights, privileges, and freedoms restored
+- Impacted citizens shall also receive compensation for reintegration into society at the rate of $55,120/year prorated to the amount of time spent behind bars, on probation, or otherwise dealing with the financial, and social fallout of possession or use charges
+- Rehabilitation Centers shall be integrated into the Medical Industry in addition to provisions outlined in the Criminal Justice Reforms
+- Additionally, safe consumption centers shall be established for recovering addicts
+- Bars, and establishments that offer alcohol, shall institute a strict 1 alcoholic beverage/hour rule
+Ending Cannabis Prohibition
+- Recreational use Cannabis, or products containing any amount of THC, shall taxed, and governed in the same manner as alcohol or tobacco at the federal level
+- Personal growth of cannabis shall be allowed
+- Becoming a licensed distributor of Cannabis products shall follow the same rules as establishing an LLC within the state the prospective distributor resides, or intends to do business
+- For online businesses, federal standards of safety must be adhered to
+Reinstating Hemp Production into the Economy
+- Hemp related agriculture shall be integrated, at scale to the US economy and be taxed at a blanket rate of 20%
+- As of 2021 the price/lbs of Flower, Grain, and Fiber yields were as follows:
+- $39.60 for flower
+- $1.51 for grain
+- $1.50 for fiber
+- These rates shall continue to be utilized, allowing for natural market trends
+- Potential yields at the proportionate rate of total harvest landmass occupied per hemp product planted, or harvested, per yield are as follows:
+- 180,168,991,930.94 pounds Utilized Product Floral % of total harvest
+- 39,941,949,960.05 pounds Utilized Product Grain % of total harvest
+- 303,528,327,916.05 pounds Utilized Product Fiber % of total harvest
+- $7,650,296,916,779.02 Total Value of Utilized Production
+- $1,530,059,383,355.80 Federal tax income (20% blanket tax rate)
+- $6,120,237,533,423.21 Net profit for hemp products
+- There is a very real possibility that Hemp can generate $1.5 trillion in revenues per harvest, up to several harvest per year, and should be explicitly reintegrated into our nations economy
+Integrated Research of Cannabis
+- Official Medical Research into the various Medical Benefits of THC, CBD Oil, and the overall Cannabis plant itself
+- Peer Review Research with international bodies that are conducting similar research
+- Additional expansion of research in the chemical properties to be used as alternative medicines, or other uses such as fuel
+- Expanded or officially federally funded research for integration of the Marijuna plant with THC content, or the THC absent "Hemp", into industrial uses including, but not limited to textitles, construction, and fuel sources.

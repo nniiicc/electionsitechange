@@ -1,0 +1,11 @@
+Public Safety
+As a mother, Lisa will always prioritize the safety of our community and is a proven advocate for our first responders.
+In her time as a Radnor Commissioner, she supported police funding for increased staffing, training, programming, and state-of-the-art public safety equipment every year she was in office, making Radnor a leader in community policing.
+She’s also helped the Philadelphia Police Foundation raise funding for better equipment and programs for the men and women of the Philadelphia Police Department and supported the Radnor Police Department participating in the Anti-Defamation League’s anti-bias training.
+Since joining the legislature, Lisa has made support for fire, EMS, and police a top priority.
+Funding for EMS is of particular interest and Lisa’s first piece of legislation introduced was to ensure EMS were paid for transports to hospitals by Medicaid.
+Removing the “loaded miles” restriction allows EMS to be reimbursed properly and was written into the 2024 PA Fiscal Code.
+Lisa is also currently working in a bipartisan manner with a colleague in Allegheny County to change laws regarding direct billing so insurance payments for EMS services are sent to the care provider, not the patient.
+She has also been proud to co-sponsor legislation which amended the Pennsylvania Workers’ Compensation Act to make it easier for first responders to receive benefits for post-traumatic stress injuries (PTSI).
+In addition, Lisa has brought thousands back to the district to support projects and needs of local first responders.
+From ambulance loading systems and police AEDs and training to fire station enhancements and rescue equipment, Lisa is working to support the needs of our first responders who are always there when we need them.

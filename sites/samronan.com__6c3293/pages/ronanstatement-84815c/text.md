@@ -1,0 +1,24 @@
+Ronan Statement
+This is the official Unifying Statement of the Ronan Campaign, to Unite the entire American Working Class under a common cause, achievable goals, and fundamental truths!
+Clause #1
+That foremost among the transcendent values is the individual’s use of their free will, whence derives their right to be free from the restrictions of arbitrary force;
+Clause #2
+That liberty is indivisible, and that political freedom cannot long exist without economic freedom, empowering education, and a high quality of life;
+Clause #3
+That the purpose of government is to protect those freedoms through the powers granted to it by the Constitution, and ensure that entities outside of this bound are restrained from diminishing them;
+Clause #4
+That when government ventures beyond these rightful functions, it accumulates power, which tends to diminish order and liberty and must be checked by the citizen;
+Clause #5
+That the Constitution of the United States is the best arrangement yet devised for empowering government to fulfill its proper role, while restraining it from the concentration and abuse of power;
+Clause #6
+That the genius of the Constitution—the division of powers—is summed up in the clause that reserves primacy to the several states, or to the people, in those spheres not specifically delegated to the Federal government;
+Clause #7
+That the market economy, allocating resources by the free play of supply and demand, is detrimental to the goals of personal freedom and the ability of the constitutional government to carry out its’ mandate, and that it is necessary to regulate, oversee, and control industry for the greater good of the citizen, the worker, and the individual than the institution itself;
+Clause #8
+That when government interferes with the work of the market economy, it tends to improve the moral and physical strength of the nation; that when it holds accountable the actions of one man to bestow protections on another, it checks the abuse of the first, enables the integrity of the second, and empowers the moral autonomy of both;
+Clause #9
+That we will be free only so long as the national sovereignty of the United States is secure; that history shows periods of freedom are rare, and can exist only when free citizens concertedly defend their rights through unity of purpose, purposeful education, and financial freedom;
+Clause #10
+That the forces of international Capitalism are, at present, the greatest single threat to these liberties;
+Clause #11
+That the United States should stress victory over, rather than coexistence with, this menace; and

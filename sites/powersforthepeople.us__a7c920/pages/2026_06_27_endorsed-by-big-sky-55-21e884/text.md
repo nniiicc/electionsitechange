@@ -1,0 +1,2 @@
+Big Sky 55+ is a strong voice to engage Montanans 55 and older to advocate for forward thinking policies such as health care and economic security for all.
+Debo is a champion of Medicaid Expansion, Social Security & Medicare, Tax Fairness, Affordable Housing, Protecting and Defending Democracy, Senior Services, Right to a Clean & Healthful Environment, Native Equity, and Strengthening Montana’s Rural Communities which are all issues important to this advocacy group.

@@ -1,0 +1,1 @@
+Donate Your donation will help win this election and bring positive change to our state and communities. $20.00 $30.00 $60.00 $100.00 Custom Amount Please enter an amount $ Support us by covering the fees we have to pay 3% Cover the Fee Donate Donate

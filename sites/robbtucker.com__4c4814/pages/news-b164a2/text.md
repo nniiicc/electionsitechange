@@ -1,0 +1,3 @@
+SACRAMENTO, CA — David Tangipa, a Sacramento native and rising leader in California politics, has officially endorsed Robb Tucker in the race for California’s newly drawn 3rd Congressional District.
+Tangipa praised Tucker’s leadership, values, and commitment to representing the people of Northern California in Washington, D.C.
+“While I am fighting for our values in Sacramento,…

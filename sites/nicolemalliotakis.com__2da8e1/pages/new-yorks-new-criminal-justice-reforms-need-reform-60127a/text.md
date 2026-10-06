@@ -1,0 +1,33 @@
+This Op-Ed originally appeared in the Brooklyn Reporter
+The first role of any government is the protection of its citizens
+With the New Year quickly approaching, the vast majority of law-abiding New Yorkers are deeply concerned about the criminal justice reforms set to take effect on January 1st, 2020.
+Perhaps the most concerning in this package of “reforms” are the changes that will transform how bail is used and administered in criminal courts across New York State.
+It’s estimated that under the bail reforms, approximately 90 percent of those arrested will either be set free within a matter of hours, with nothing more than their court papers and their promise to appear for their court date or, in many cases, will simply receive a desk appearance ticket and continue on their merry way without even being arrested.
+What makes these drastic changes all the more troubling is the fact that this legislation was passed in the middle of the night, as part of the state budget process, with no input or testimony from law enforcement, district attorneys or the court system which is charged with administering the reforms.
+SIGN THE PETITION AGAINST BAIL REFORM
+In short, this was an end run by the Democrats in the state legislature to bypass any meaningful hearings or debate, which was in turn affirmed and made into law with the signature of Governor Andrew Cuomo.
+It is widely acknowledged that the first role of any government is the protection of its citizens.
+The bail reform legislation turns that concept upside down by giving protections to the criminal class while putting the property and well-being of law-abiding citizens at imminent risk, starting at 12:01 a.m. on New Year’s Day.
+This is not a partisan issue; it’s a common sense issue that must be addressed.
+Just ask Staten Island District Attorney Mike McMahon.
+He’s a Democrat who will tell you why bail reform is wrong for our city and state.
+Or read the Op-Ed (NY Post-6/16/19) written by David Soares, the Albany County district attorney, who is also a Democrat and a self-described “progressive prosecutor,” who described the reform package as “laws dismantling order.” Sadly, Brooklyn’s District Attorney, Eric Gonzalez, is welcoming these changes with open arms.
+Law enforcement representatives around the state, including the unions representing the men and women of the NYPD, are deeply concerned.
+The same holds true for state troopers, sheriffs and municipal police chiefs who patrol rural areas of our state and who are worried about how these changes will impact the communities they protect.
+Whether they patrol the streets of Brooklyn or huge areas of the Adirondacks, their response is pretty much the same; these so-called reforms will put the lives and property of New Yorkers at risk.For the safety of all New Yorkers there are a number of myths associated with bail reform that need to be immediately addressed:
+- The myth that this law only applies to low-level criminals, when in fact it will put individuals charged with a host of serious crimes — including those charged with strangulation, drug dealing, certain assaults and even criminally negligent homicide — back on the street.
+- The myth that this law only applies to first time offenders, when in fact, even those with lengthy “rap sheets” will be allowed to walk free.
+- The myth that, under this law, dangerous criminals may be held without bail, when in fact, it is not addressed in the legislation.
+- The myth that there is always judicial discretion, when in fact, this law removes almost all of a judge’s discretion and many of those arrested will simply be handed a summons, released and won’t see a judge until weeks later, when and if they appear in court.
+- The myth that information concerning witnesses will remain confidential until shortly before the trial, when in fact, the names of witnesses and their contact information will be released to the accused within 15 days of the arrest date, an action that will make the witnesses ripe for intimidation.
+In addition, we need to examine our court system closely to confirm that the accused are receiving their constitutionally-protected right to a speedy trial and, if necessary, be prepared to enact the needed reforms and improvements to the system.
+Over 5,000 New Yorkers have signed a petition on my website, which calls for immediate action to block implementation of the bail reform legislation.
+To this end, I recently wrote a letter to Gov.
+Cuomo suggesting he call an Extraordinary Session of the legislature and request that his colleagues, the Democrat leaders of the Assembly and Senate, take legislative action to delay implementation of bail reform until there has been time to review the legislation and hear testimony from concerned New Yorkers who will be impacted by it.
+SIGN THE PETITION AGAINST BAIL REFORM
+The response I received from the Governor’s Office has been total silence!
+It’s time for residents of our city and state to pick up their phones and call Gov.
+Cuomo’s New York City office at 212-681-4580 to tell them that bail reform is a threat to law, order and the safety of our citizens, and its implementation must be stopped.
+Gov.
+Cuomo has a short window of opportunity to protect our citizens from a piece of ill-conceived and hastily passed legislation that will do more to protect the criminal class than law-abiding New Yorkers.
+I genuinely hope he has the courage and fortitude to take the necessary action before year’s end.

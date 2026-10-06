@@ -1,0 +1,368 @@
+TPTRP REMOTE SELLER AND FOREIGN ENTITY ACT
+House Bill · Tex.
+Const. art.
+VIII, sec. 1-q
+Economic nexus registration and collection obligations for remote sellers and foreign entities under Article VIII, Section 1-q.
+By: ______________________
+H.B.
+No. ______
+A BILL TO BE ENTITLED
+AN ACT relating to the collection, registration, administration, and remittance of the TPTRP sales and use tax by remote sellers and foreign entities transacting business in this state; requiring out-of-state and foreign entities to register with the Secretary of State and obtain a Comptroller tax permit before transacting business with Texas customers; prohibiting Texas businesses from transacting with unregistered out-of-state or foreign entities; establishing the Foreign Entity Module of the Texas Sales and Use Tax Portal; replacing the enumerated taxable services list with a broad-base all-services standard; repealing specified Tax Code Chapter 151 exemptions inconsistent with the broad-base design; excluding Internet access service from the TPTRP sales and use tax base as required by federal law; extending marketplace facilitator obligations to services; providing civil and criminal penalties; providing a voluntary disclosure program; and making conforming amendments to the Texas Tax Code and the Texas Business Organizations Code; imposing a tax.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+SECTION 1.
+SHORT TITLE.
+This Act may be cited as the "TPTRP Remote Seller and Foreign Entity Act."
+SECTION 2.
+LEGISLATIVE FINDINGS AND PURPOSE.
+(a) The Legislature finds that:
+(1) Section 1-p, Article VIII, Texas Constitution, as added by H.J.R.
+No. _____, 90th Legislature, Regular Session, 2027, defines "taxable transaction" and "agent transaction" and establishes the sales and use tax imposed under the TPTRP Sales and Use Tax Act as a broad-base, destination-based tax applicable to every taxable transaction in this state at every point in the supply chain, applicable to all sellers regardless of physical location or domicile, at a uniform rate that does not vary by seller domicile, and, under Section 1-p(h), Article VIII, Texas Constitution, prohibited from being narrowed by class-wide exemptions, resale certificates, or manufacturing-input exemptions;
+(2) Section 1-q, Article VIII, Texas Constitution, as added by H.J.R.
+No. _____, establishes the economic nexus standard and the registration prerequisites — including Secretary of State authorization and a Comptroller tax permit — that apply to all remote sellers, including out-of-state and foreign entities, as a constitutional minimum;
+(3) a significant and growing volume of commercial transactions conducted with Texas businesses and consumers is provided by foreign entities and out-of-state entities that do not currently collect or remit Texas sales and use tax on those transactions, creating a material revenue gap and an inequitable competitive disadvantage for Texas-domiciled businesses;
+(4) the Supreme Court of the United States in South Dakota v.
+Wayfair, Inc., 585 U.S. 162 (2018), confirmed that a state may impose a sales and use tax collection obligation on a remote seller that lacks physical presence in the state and that economic nexus based on the volume of sales into the state is the appropriate constitutional standard;
+(5) the economic nexus authority established by Section 1-q, Article VIII, Texas Constitution, and the market-access enforcement authority established by that same section, extend to remote sellers without regard to the seller's domicile; federal income tax treaties between the United States and foreign countries govern only federal income taxation and do not preempt, limit, or affect a state's exercise of the Section 1-q economic-nexus and market-access authority; states are not parties to such treaties, and foreign entities subject to such treaties remain fully subject to the sales and use tax imposed under the TPTRP Sales and Use Tax Act;
+(6) the Import-Export Clause of the United States Constitution (Article I, Section 10, Clause 2) applies only to tangible goods at the point of importation and does not apply to services, digitally delivered products, or subsequent sales of imported goods within this state; the tax on taxable transactions defined by Section 1-p, Article VIII, Texas Constitution, as applied to services and in-state transactions, is not a tax on importation and is not subject to the Import-Export Clause; this finding rests on the substantial-nexus, fair-apportionment, non-discrimination, and fair-relationship requirements of Complete Auto Transit, Inc. v.
+Brady, 430 U.S. 274 (1977), each of which is independently satisfied by the tax structure established under Section 1-p and Section 1-q;
+(7) the tax imposed on taxable transactions under Section 1-p, Article VIII, Texas Constitution, is a general broad-base transaction tax imposed at a uniform rate on all taxable transactions regardless of whether the transaction is conducted online, in person, by telephone, by mail, or through any other medium or channel of commerce; it does not impose a tax on electronic commerce that is not also imposed on equivalent transactions conducted through other means; it therefore does not constitute a discriminatory tax on electronic commerce prohibited by the Internet Tax Freedom Act, 47 U.S.C. § 151 note;
+(8) Internet access service — the service of connecting a user to the Internet — is excluded from the taxable-transaction base under Section 1-p(e)(4), Article VIII, Texas Constitution, as required by the permanent prohibition in the Internet Tax Freedom Act; content, applications, and digital services delivered over the Internet are not Internet access service and remain taxable transactions under Section 1-p, Article VIII, Texas Constitution;
+(9) the use-tax self-assessment mechanism under prior law was rarely enforced and created a systemic compliance gap; the buyer prohibition established by this Act eliminates that gap and places all sellers on equal footing as a condition of market access;
+(10) the Secretary of State registration prerequisite placed on out-of-state and foreign entities by this Act is a non-discriminatory, content-neutral market-access condition identical in character to requirements already imposed on Texas-domiciled businesses; it is consistent with the Commerce Clause, the Foreign Commerce Clause, Complete Auto Transit, Inc. v.
+Brady, 430 U.S. 274 (1977), and National Pork Producers Council v.
+Ross, 598 U.S. 356 (2023), which confirmed that non-discriminatory state regulations do not violate the dormant Commerce Clause merely because they affect out-of-state conduct;
+(11) every remote seller meeting the economic nexus threshold of Section 1-q(a), Article VIII, Texas Constitution, benefits from the services, infrastructure, legal system, and commercial marketplace of this state — including access to Texas courts, the protection of Texas commercial law, Texas transportation and communications infrastructure enabling delivery, and the Texas consumer market — in a manner sufficient to justify the obligations imposed by this Act; this finding satisfies the fair relationship prong of Complete Auto Transit, Inc. v.
+Brady;
+(12) the obligations imposed by this Act on foreign entities apply equally to all foreign entities regardless of country of domicile and do not impair the federal government's ability to speak with one voice in foreign affairs; a uniform, non-discriminatory destination-based consumption tax of the type established by this Act does not conflict with any federal foreign policy interest and is consistent with the foreign commerce clause requirements of Japan Line, Ltd. v.
+County of Los Angeles, 441 U.S. 434 (1979), and Barclays Bank PLC v.
+Franchise Tax Board, 512 U.S. 298 (1994); and
+(13) the establishment of a simplified, single-point foreign entity registration and remittance portal will facilitate compliance and is consistent with internationally recognized best practices for cross-border consumption tax administration, as reflected in the European Union's One Stop Shop system and OECD VAT Digital Toolkit standards.
+(b) The purpose of this Act is to implement Sections 1-p and 1-q, Article VIII, Texas Constitution, by:
+(1) establishing the economic nexus threshold and the registration and remittance obligations of all remote sellers;
+(2) replacing the enumerated taxable services list in Tax Code §151.0101 with a broad-base all-services standard consistent with the taxable-transaction definition in Section 1-p, Article VIII, Texas Constitution;
+(3) repealing specified Tax Code Chapter 151 exemptions — including the intercorporate services exemption, the sales-for-resale certificate system, the manufacturing-input exemption, and certain industry-specific exemptions — that are inconsistent with the broad-base design of the sales and use tax imposed under the TPTRP Sales and Use Tax Act and prohibited by Section 1-p(h), Article VIII, Texas Constitution;
+(4) expressly excluding Internet access service from the TPTRP sales and use tax base as required by the Internet Tax Freedom Act;
+(5) requiring all out-of-state and foreign entities to register with the Secretary of State and obtain a Comptroller tax permit before transacting business with Texas customers;
+(6) prohibiting Texas businesses from transacting with unregistered out-of-state or foreign entities and providing penalties for violations;
+(7) establishing the Foreign Entity Module of the Texas Sales and Use Tax Portal as the single-point compliance system for remote sellers; and
+(8) providing enforcement mechanisms, penalties, and a voluntary disclosure program sufficient to ensure universal compliance.
+SECTION 3.
+DEFINITIONS.
+In this Act:
+(1) "TPTRP sales and use tax" means the sales and use tax imposed under the TPTRP Sales and Use Tax Act, the broad-base, destination-based transaction tax established by Section 1-p, Article VIII, Texas Constitution, imposed on all taxable transactions in this state.
+In this Act, "TPTRP sales and use tax" has the meaning assigned by the TPTRP Sales and Use Tax Act.
+(2) "Taxable transaction" has the meaning established by Section 1-p(b), Article VIII, Texas Constitution — a transaction in which a clear product is being purchased or a service is being rendered, at every point in the supply chain, where the buyer is located in this state or the economic benefit is received in this state.
+The term does not include transactions excluded by the Definition Filter under Section 1-p(e), Article VIII, Texas Constitution.
+(3) "Agent transaction" has the meaning established by Section 1-p(c), Article VIII, Texas Constitution — a transaction in which a person acting as agent on behalf of a principal purchases a product or service on the principal's behalf and separately renders the agent's own labor or product to the principal, subject to the anti-pyramiding rule.
+(4) "Remote seller" means any person or entity that makes taxable transactions with Texas customers without maintaining a primary place of business in Texas, including:
+(A) businesses incorporated, domiciled, or registered in another state of the United States; and
+(B) foreign national entities incorporated, domiciled, or organized under the laws of a country other than the United States.
+(5) "Foreign entity" means any person, corporation, partnership, limited liability company, trust, or other legal entity that is domiciled, incorporated, or organized under the laws of a country other than the United States.
+(6) "Texas customer" means any natural person, business entity, organization, or governmental body that:
+(A) maintains a physical address, place of business, or place of residence in this state; or
+(B) receives the economic benefit of a transaction at a location in this state; or
+(C) is billed to a Texas address for the goods or services received;
+provided that, for a transaction with a foreign entity or out-of-state entity, the foreign entity or out-of-state entity knew or reasonably should have known, at the time of contracting or delivery, that the goods or services would be used, consumed, or primarily benefiting operations or persons located in this state.
+(7) "SOS Authorization" means the registration, certificate of authority, or other authorization issued by the Secretary of State to an out-of-state or foreign entity authorizing that entity to transact business in this state.
+(8) "Texas Tax Registration Certificate" means the certificate issued by the Comptroller to a remote seller that has satisfied the registration and permit requirements of this Act, authorizing that entity to collect and remit the TPTRP sales and use tax.
+(9) "Portal" means the Texas Sales and Use Tax Portal established under Section 490.073, Government Code, including the Foreign Entity module of that portal established under Section 7 of this Act.
+(10) "Comptroller" means the Comptroller of Public Accounts of the State of Texas.
+(11) "Secretary of State" means the Secretary of State of the State of Texas.
+(12) "Outsourced services" means services acquired by a Texas business from a seller located outside this state — whether in another state of the United States or in a foreign country — where those services are performed primarily for the benefit of the Texas business's Texas operations, customers, or workforce, and where the seller knew or reasonably should have known that the services would benefit Texas operations.
+(13) "Internet access service" means the service of connecting a subscriber or user to the Internet through a broadband, wireless, dial-up, satellite, or any other access technology, including any directly bundled telecommunications service used to provide the access connection.
+The term does not include content, applications, data services, or digital products delivered over the Internet.
+Internet access service is excluded from the TPTRP sales and use tax base under Section 1-p(e)(4), Article VIII, Texas Constitution, and is not a taxable transaction under this Act.
+(14) "Marketplace facilitator" means a person that operates a digital platform, software application, or electronic marketplace that lists, advertises, or makes available taxable services or goods offered by third-party providers to purchasers in this state; facilitates the transaction between the provider and the purchaser; and collects or directs the collection of payment from the purchaser.
+SECTION 4.
+RELOCATION OF ECONOMIC NEXUS RULES TO CHAPTER 151-A.
+The economic-nexus standard formerly proposed as an amendment to Section 151.008, Tax Code, is codified at Section 151A.617, Tax Code, in the TPTRP Sales and Use Tax Act.
+On and after the Implementation Date, Section 151A.617 governs the economic-nexus threshold, permit registration, collection, and remittance obligations of remote sellers.
+SECTION 5.
+RELOCATION OF BROAD-BASE TAXABLE-SERVICES RULE TO CHAPTER 151-A.
+The broad-base taxable-services rule formerly proposed as an amendment to Section 151.0101, Tax Code, is codified at Section 151A.620, Tax Code, in the TPTRP Sales and Use Tax Act.
+On and after the Implementation Date, Section 151A.620 governs the taxability of services, including services supplied remotely, digitally, through a marketplace facilitator, or by a foreign entity.
+SECTION 5A.
+CONFORMING REPEALS — TAX CODE CHAPTER 151 EXEMPTIONS INCONSISTENT WITH THE TPTRP SALES AND USE TAX.
+(a) The following sections of Chapter 151, Texas Tax Code, are repealed effective on the Implementation Date established by Article VIII, Section 9.01, of the Texas Constitution:
+(1) Section 151.346 (Intercorporate Services) is repealed.
+The exemption for service transactions among affiliated entities that report income to the IRS on a consolidated return is inconsistent with Section 1-p(h), Article VIII, Texas Constitution, which prohibits intercorporate services exemptions, and with the taxable-transaction definition of the TPTRP sales and use tax, which applies at every point in the supply chain including business-to-business transactions.
+Services rendered by one legal entity to another legal entity are taxable transactions regardless of their corporate affiliation or consolidated tax filing status.
+(2) Section 151.302 (Sale for Resale — Certificate System) is repealed to the extent it creates a resale certificate exemption mechanism.
+The resale certificate system is replaced by the Agent Transaction Anti-Pyramiding Rule established by Section 1-p(c), Article VIII, Texas Constitution.
+No resale certificate shall be issued or accepted on or after the Implementation Date.
+Transactions that would have been exempt under the resale certificate system are governed instead by the anti-pyramiding rule: goods or services acquired for resale are taxed once at acquisition; the resale itself is a separate taxable transaction taxed once at the point of the resale.
+The net effect is that each dollar of economic value is taxed once — at the point of each actual transaction — with no exemption at any stage of the supply chain.
+(3) Section 151.318 (Manufacturing Inputs) is repealed.
+Manufacturing-input exemptions are prohibited by Section 1-p(h), Article VIII, Texas Constitution.
+All inputs purchased by a manufacturer — raw materials, components, supplies, equipment, and services — are taxable transactions at the point of purchase.
+The anti-pyramiding rule of Section 1-p(c) ensures no dollar is taxed more than once across the supply chain.
+(4) Section 151.351 (Information Services — Partial Exemption / 80-20 Data Processing Split) is repealed to the extent it provides that any percentage of data processing or information services is exempt from tax.
+All data processing services, information services, and SaaS, PaaS, IaaS, and related cloud computing services are taxable in full as taxable services under Section 151A.620, Tax Code, of the TPTRP Sales and Use Tax Act.
+(5) Section 151.359 (Data Center Exemption) is repealed.
+Industry-specific data center tax exemptions are NAICS-code and industry-sector carve-outs prohibited by Section 1-p(h), Article VIII, Texas Constitution.
+(6) Section 151.3595 (Large Data Center Projects Exemption) is repealed for the same reasons as Section 151.359.
+(b) The following sections of Chapter 151, Texas Tax Code, are not repealed by this Act and remain in full force and effect:
+(1) Section 151.309 (Governmental Entities) — exemptions for purchases by governmental entities are retained subject to review in companion TPTRP implementation legislation;
+(2) Section 151.307 (Exemptions Required by Prevailing Law) — retained to the extent it preserves exemptions required by the United States Constitution or federal law, specifically including the Internet access service exclusion required by the Internet Tax Freedom Act; and
+(3) Section 151.310 (Religious, Educational, and Public Service Organizations) — retained pending review in companion TPTRP implementation legislation addressing TLES scope and First Amendment considerations.
+(c) All other exemptions and partial exemptions in Chapter 151, Subchapter H, Texas Tax Code, that are not expressly retained by Subsection (b) of this section and that apply to categories of goods or services that are taxable transactions under Section 151A.620, Tax Code, of the TPTRP Sales and Use Tax Act are suspended effective on the Implementation Date established by Article VIII, Section 9.01, of the Texas Constitution, pending comprehensive review and conforming amendment in the full TPTRP implementation legislation.
+The Comptroller shall publish a list of all suspended exemptions not later than 30 days after the effective date of this Act.
+SECTION 6.
+AMENDMENT TO TEXAS BUSINESS ORGANIZATIONS CODE — SOS REGISTRATION PREREQUISITE.
+(a) Chapter 9, Texas Business Organizations Code, is amended by adding Subchapter H to read as follows:
+SUBCHAPTER H.
+REGISTRATION PREREQUISITE FOR REMOTE SELLERS UNDER THE TPTRP SALES AND USE TAX
+Sec. 9.H.001.
+APPLICABILITY.
+This subchapter applies to any out-of-state entity or foreign entity that makes taxable transactions with Texas customers and meets the economic nexus threshold established by Section 151A.617, Tax Code, or that voluntarily elects to register with this state.
+Sec. 9.H.002.
+REGISTRATION REQUIRED BEFORE TRANSACTING BUSINESS.
+An out-of-state entity or foreign entity subject to this subchapter may not transact business with Texas customers unless the entity holds a current SOS Authorization issued by the Secretary of State under this subchapter.
+Sec. 9.H.003.
+COORDINATED REGISTRATION PROCESS.
+The Secretary of State and the Comptroller shall establish and maintain a coordinated single-filing process through the Portal through which an out-of-state or foreign entity may simultaneously apply for SOS Authorization and a Texas Tax Registration Certificate from the Comptroller.
+The coordinated process shall issue both authorizations upon a single completed application.
+Sec. 9.H.004.
+CONTRACT UNENFORCEABILITY.
+An out-of-state entity or foreign entity that transacts business with Texas customers without a current SOS Authorization may not maintain an action, suit, or proceeding in any court of this state arising out of or related to any transaction conducted without the required authorization.
+Sec. 9.H.005.
+EQUAL TREATMENT.
+The SOS Authorization requirements of this subchapter apply to out-of-state and foreign entities on the same terms as registration requirements applicable to Texas-domiciled businesses.
+No out-of-state or foreign entity may receive more favorable or less favorable registration terms than a Texas-domiciled business based on its domicile.
+SECTION 7.
+FOREIGN ENTITY MODULE OF THE TEXAS SALES AND USE TAX PORTAL.
+(a) The Foreign Entity module of the Texas Sales and Use Tax Portal established under Section 490.073, Government Code, provides the online compliance functions through which remote sellers and foreign entities register for, file, and remit TPTRP sales and use tax obligations.
+The Comptroller shall configure, operate, and maintain the Foreign Entity module as an integrated component of the Texas Sales and Use Tax Portal, and not as a standalone or separately hosted system.
+(b) The Foreign Entity module shall provide, as capabilities of the Texas Sales and Use Tax Portal:
+(1) online registration for remote sellers, including foreign entities domiciled outside the United States, without requiring a United States Social Security Number or Individual Taxpayer Identification Number as a mandatory condition of registration; the module shall accept a foreign entity's home-country tax identification number or a Texas Comptroller Foreign Entity Tax Identification Number issued to entities without a home-country number;
+(2) issuance of a Texas Tax Registration Certificate upon completion of registration and confirmation of SOS Authorization;
+(3) a rate lookup tool allowing a registrant to determine the applicable TPTRP sales and use tax rate by customer location, updated to reflect any legislative rate adjustment;
+(4) a consolidated quarterly filing system enabling submission of a single return covering all Texas taxable transactions for the reporting period, with separate line items for excluded transactions (Definition Filter) and TLES-exempt transactions reported at \$0;
+(5) acceptance of payment by ACH electronic funds transfer, international wire transfer, and such other electronic payment methods as the Comptroller may designate by rule;
+(6) user interface support in English and Spanish at minimum, with Mandarin Chinese, Hindi, Portuguese, and Filipino added within 18 months of the module's initial launch;
+(7) a secure account management interface for viewing filing history, permit status, and Comptroller correspondence; and
+(8) a voluntary disclosure filing function consistent with Section 13 of this Act.
+(c) The Comptroller shall publish and maintain, as part of the Texas Sales and Use Tax Portal, a Public Foreign Entity Registry — a publicly searchable database of all remote sellers and foreign entities holding a current Texas Tax Registration Certificate and a current SOS Authorization.
+The registry shall be accessible online without charge and updated in real time.
+The Foreign Entity module shall share registration and authorization data with the Business Organizations Code registration system maintained by the Secretary of State to keep the registry current.
+(d) The Comptroller shall interface the Foreign Entity module with Internal Revenue Service Form 1042-S, Form 1099, and other federal information returns to cross-reference reported payments from Texas businesses to foreign vendors against registration and remittance records maintained through the Texas Sales and Use Tax Portal.
+This interface is authorized under 26 U.S.C. §6103(d).
+(e) Currency exchange rate methodology.
+The Comptroller shall, by rule, establish a methodology for converting non-United States dollar payments to United States dollars for purposes of determining the TPTRP sales and use tax due on a transaction denominated in a foreign currency.
+The Comptroller shall designate one or more published exchange rate sources — such as the Federal Reserve H.10 statistical release or Internal Revenue Service published exchange rates — and shall specify the date as of which the exchange rate is applied (date of transaction, date of invoice, or first day of the filing period).
+Remittances in foreign currencies shall be converted to United States dollars using the Comptroller-designated methodology.
+A foreign entity that remits in United States dollars at the Comptroller-designated rate is not subject to additional liability for exchange rate fluctuation occurring after the date of remittance.
+SECTION 8.
+RELOCATION OF MARKETPLACE-FACILITATOR RULES TO CHAPTER 151-A.
+The marketplace-facilitator collection rule formerly proposed as an amendment to Chapter 151, Tax Code, is codified at Section 151A.618, Tax Code, in the TPTRP Sales and Use Tax Act.
+On and after the Implementation Date, Section 151A.618 governs the collection and remittance duty of marketplace facilitators, including the good-faith reliance limitation.
+SECTION 9.
+MULTI-STATE AND INTERNATIONAL APPORTIONMENT.
+(a) When a taxable service is delivered to or consumed by a purchaser both within and outside this state, the Texas taxable measure is limited to that portion of the total service charge reasonably attributable to the service delivered to or consumed in this state.
+(b) The Comptroller shall establish by rule apportionment methodologies providing objective safe harbors, including allocation based on the proportion of the purchaser's Texas-located employees, Texas-source revenues, or Texas locations to the purchaser's total employees, revenues, or locations, as appropriate to the nature of the service.
+(c) The Comptroller shall provide credits against the TPTRP sales and use tax to prevent multiple taxation where another state or country has imposed a substantially equivalent consumption tax on the same transaction and that other state or country has imposed its tax on a basis consistent with the destination principle.
+This credit is mandatory, not discretionary, and is required by federal constitutional law as interpreted in Japan Line, Ltd. v.
+County of Los Angeles, 441 U.S. 434 (1979).
+The Comptroller shall promulgate rules specifying the documentation a remote seller or foreign entity must provide to claim the credit.
+(d) Internal consistency.
+The apportionment provisions of this section are designed to be internally consistent: if every state and the federal government imposed an identical destination-based tax at the same rate using the same apportionment methodology, no taxpayer would face double taxation.
+This internal consistency confirms the constitutional validity of the apportionment methodology under the fair apportionment prong of Complete Auto Transit, Inc. v.
+Brady, 430 U.S. 274 (1977).
+SECTION 10.
+BUYER PROHIBITION AND VERIFICATION OBLIGATION.
+(a) General prohibition.
+A Texas business may not transact business with an out-of-state entity or foreign entity unless that entity holds, at the time of the transaction:
+(1) a current SOS Authorization; and
+(2) a current Texas Tax Registration Certificate.
+(b) No use tax self-assessment alternative.
+There is no use tax self-assessment or self-remittance mechanism that substitutes for the prohibition established by this section.
+A Texas business that makes a taxable payment to an out-of-state or foreign entity that does not hold both a current SOS Authorization and a current Texas Tax Registration Certificate violates this section regardless of any subsequent attempt by the Texas business to self-assess or self-remit tax on that transaction.
+(c) Affirmative verification obligation.
+Before entering into any transaction with an out-of-state or foreign entity, a Texas business shall verify that the entity appears as a currently registered and authorized entity in the Public Foreign Entity Registry maintained by the Comptroller under Section 7(c) of this Act.
+Lack of knowledge of an entity's non-compliance is not a defense to a violation of this section.
+(d) Agent transaction documentation.
+A registered out-of-state or foreign entity must separately document pass-through reimbursements and its own labor or services on all invoices to Texas customers in accordance with the agent transaction anti-pyramiding rule of Section 1-p(c), Article VIII, Texas Constitution.
+(e) E-1 and E-2 visa holder classification.
+A foreign national operating a business in Texas under an E-1 (Treaty Trader) or E-2 (Treaty Investor) nonimmigrant visa who maintains a physical place of business in Texas is classified as a Texas-domiciled business for purposes of this Act and is not a "remote seller" or "foreign entity" subject to the Portal registration or buyer prohibition provisions of this Act.
+Such a business is subject to the same registration and tax collection obligations as any Texas-domiciled business under Chapter 151, Texas Tax Code.
+SECTION 11.
+PENALTIES — SELLER VIOLATIONS.
+(a) A remote seller or foreign entity that:
+(1) transacts business with Texas customers without a current SOS Authorization;
+(2) collects the TPTRP sales and use tax without a current Texas Tax Registration Certificate; or
+(3) fails to remit collected TPTRP sales and use tax to the Comptroller;
+is liable for all TPTRP sales and use tax that should have been collected and remitted, plus interest at the rate established under Section 111.060, Texas Tax Code, plus a civil penalty of not less than \$500 and not more than \$10,000 per violation, as determined by the Comptroller based on the nature, volume, and duration of the violation.
+(b) A person who knowingly or intentionally operates as a remote seller or foreign entity transacting business in this state without a current SOS Authorization or Texas Tax Registration Certificate commits an offense.
+An offense under this subsection is a Class A misdemeanor if the total tax liability does not exceed \$10,000, and a state jail felony if the total tax liability exceeds \$10,000.
+(c) A remote seller or foreign entity in violation of this section is barred from enforcing any contract arising from transactions conducted in violation of this section in any court of this state, as provided by Section 9.H.004, Texas Business Organizations Code.
+(d) Statute of limitations — tolling for unregistered entities.
+The four-year statute of limitations for tax assessments under Section 111.201, Texas Tax Code, does not begin to run against an out-of-state entity or foreign entity that has not registered with the Secretary of State or the Comptroller as required by this Act until the earlier of:
+(1) the date the Comptroller discovers the entity's Texas taxable transactions through audit, Portal cross-reference, IRS data sharing, or any other means; or
+(2) the date the entity registers with the Secretary of State or the Comptroller under this Act or the voluntary disclosure program under Section 13.
+This subsection does not apply to entities that registered but failed to file or remit for specific periods — the statute of limitations for such entities runs from the close of the period for which the return was due.
+SECTION 12.
+PENALTIES — BUYER VIOLATIONS.
+(a) A Texas business that violates Section 10 of this Act is liable for:
+(1) all TPTRP sales and use tax that should have been collected and remitted on the prohibited transactions, plus interest at the rate established under Section 111.060, Texas Tax Code;
+(2) a civil penalty equal to 25 percent of the tax liability for a first violation, 50 percent for a second violation, and 100 percent for a third or subsequent violation; and
+(3) suspension of the Texas business's own TPTRP sales and use tax permit for a period determined by the Comptroller based on the nature, volume, and duration of the violation, not to exceed 12 months for a first violation.
+(b) A person who knowingly or intentionally directs a Texas business to transact with an unregistered out-of-state or foreign entity in violation of Section 10 commits an offense.
+An offense under this subsection is a Class B misdemeanor if the total tax liability does not exceed \$5,000, and a Class A misdemeanor if the total tax liability exceeds \$5,000.
+(c) The penalties established by this section shall be set and adjusted by the Legislature by general law to remain sufficient to eliminate any economic incentive for a Texas business to transact with an unregistered entity, as required by Section 1-q(g), Article VIII, Texas Constitution.
+SECTION 13.
+VOLUNTARY DISCLOSURE PROGRAM.
+The Comptroller shall establish and maintain a Voluntary Disclosure Agreement (VDA) program for remote sellers and foreign entities that have historical TPTRP sales and use tax liability but have not previously registered or filed.
+The program shall:
+(1) limit the look-back period for historical tax liability to not more than four years from the date the Comptroller's voluntary disclosure agreement is executed;
+(2) waive all civil penalties applicable to tax periods covered by the voluntary disclosure agreement, provided the entity registers and remits all tax and interest owed before or contemporaneously with executing the VDA;
+(3) provide a streamlined registration and filing process specifically for voluntary disclosure participants through the Portal; and
+(4) remain open on a continuing basis with no enrollment window or application deadline.
+SECTION 14.
+CONSTITUTIONAL AND FEDERAL LAW COMPLIANCE.
+(a) This Act shall be applied and construed in a manner consistent with:
+(1) the United States Constitution, including the Commerce Clause (Article I, Section 8, Clause 3), the Foreign Commerce Clause as interpreted in Japan Line, Ltd. v.
+County of Los Angeles, 441 U.S. 434 (1979), Barclays Bank PLC v.
+Franchise Tax Board, 512 U.S. 298 (1994), and National Pork Producers Council v.
+Ross, 598 U.S. 356 (2023), the Import-Export Clause (Article I, Section 10, Clause 2), and the Due Process Clause of the Fourteenth Amendment;
+(2) South Dakota v.
+Wayfair, Inc., 585 U.S. 162 (2018), and Complete Auto Transit, Inc. v.
+Brady, 430 U.S. 274 (1977);
+(3) the Internet Tax Freedom Act, 47 U.S.C. § 151 note; and
+(4) Sections 1-p and 1-q, Article VIII, Texas Constitution, as added by H.J.R.
+No. _____, 90th Legislature, Regular Session, 2027.
+(b) Nothing in this Act imposes a tax on the importation of goods subject to federal customs duties.
+The TPTRP sales and use tax is imposed on exchanges of goods and services with Texas customers — not on the act of importation.
+(c) The Comptroller shall monitor federal legislative and regulatory developments affecting state taxation of remote sellers and foreign commerce and shall submit a report to the Legislature within 90 days of any federal enactment that may require modification of this Act.
+SECTION 14A.
+RELOCATION OF REMOTE-SELLER REPORTING RULES TO CHAPTER 151-A.
+(a) The successor reporting, tax-stack lookup, and sourcing rules for remote sellers are codified in Sections 151A.617 through 151A.619, Tax Code, in the TPTRP Sales and Use Tax Act.
+(b) Because the TPTRP Sales and Use Tax Act replaces local sales taxes with the unified tiered tax structure of Chapter 151-A, Tax Code, Section 151.0595, Tax Code, is superseded on the Implementation Date.
+Its successor reporting and sourcing rules are codified in Sections 151A.617 through 151A.619, Tax Code.
+(c) The Comptroller shall provide remote sellers transition guidance through the Texas Sales and Use Tax Portal before the Implementation Date.
+SECTION 15.
+TRANSITION PROVISIONS.
+(a) The change in law made by this Act applies only to transactions occurring on or after the effective date of this Act.
+(b) Remote sellers and foreign entities that meet the economic nexus threshold on the effective date of this Act have 90 days from the effective date to obtain SOS Authorization and register through the Portal.
+No penalty shall be assessed for transactions occurring during this 90-day transition period, provided the entity registers within that period.
+(c) Texas businesses have 90 days from the effective date of this Act to verify that all existing out-of-state and foreign vendors appear in the Public Foreign Entity Registry.
+A Texas business that has an existing contract with an out-of-state or foreign entity that has not registered shall provide written notice to that entity of the registration requirement within 30 days of the effective date.
+No penalty shall be assessed against a Texas business for transactions under a pre-existing contract during the 90-day transition period, provided the Texas business has given required notice and the vendor registers within that period.
+(d) The Comptroller shall begin accepting registrations through the Portal not later than 60 days after the effective date of this Act.
+(e) The Secretary of State shall establish coordinated registration procedures not later than 60 days after the effective date of this Act.
+(f) The Comptroller shall promulgate initial rules under Section 151A.617(c), Tax Code, and Sections 7(e), 9(b), and 9(c) of this Act not later than 90 days after the effective date of this Act.
+(g) The Comptroller shall publish the list of suspended exemptions required by Section 5A(c) of this Act not later than 30 days after the effective date of this Act.
+SECTION 16.
+EFFECTIVE DATE.
+This Act takes effect on the first day of the calendar quarter beginning not earlier than 90 days after the date on which H.J.R.
+No. _____, 90th Legislature, Regular Session, 2027, is approved by the voters of Texas.
+If H.J.R.
+No. _____ is not approved by the voters, this Act has no effect.
+SECTION 17.
+SSUTA-COMPATIBLE PROVIDER VOLUNTARY PATHWAY.
+(a) A remote seller that is registered with the Streamlined Sales Tax Registration System (SSTRS) and uses a Certified Service Provider (CSP) certified by the Streamlined Sales Tax Governing Board to calculate, collect, and remit sales and use tax may use that CSP to calculate, collect, and remit the TPTRP sales and use tax on Texas transactions, provided that:
+(1) the CSP's software has been updated to include the TPTRP sales and use tax rate and taxable transaction definitions applicable under this Act and Art.
+VIII, Sec. 1-p;
+(2) the remote seller registers through the Portal and obtains a Texas Tax Registration Certificate; and
+(3) the remote seller files and remits through the Portal using the CSP-calculated amounts.
+(b) Use of a CSP does not relieve a remote seller of the obligation to obtain SOS Authorization under Section 6 of this Act.
+(c) The Comptroller shall work with the Streamlined Sales Tax Governing Board and CSP providers to ensure that SSUTA-certified software can be updated to accommodate the TPTRP sales and use tax.
+The Comptroller shall publish technical specifications for CSP integration with the Portal not later than 90 days after the effective date of this Act.
+DRAFTING NOTES
+(Internal working notes — remove before filing)
+Note 1: Section 5 — Full Replacement of §151.0101
+The key structural change in v3 is the full replacement of §151.0101, not an amendment adding to the existing enumerated list.
+The old enumerated list implied that services not listed were untaxed.
+The new broad-base language reverses the presumption: all services are taxable unless excluded by the Definition Filter or TLES.
+This is the correct structure for implementing the taxable-transaction definition of the TPTRP sales and use tax.
+Note 2: Section 5A — Conforming Repeals
+The six specific repeals in Section 5A address the most critical exemptions identified in the gap analysis.
+The approach for exemptions not expressly addressed — suspension pending comprehensive TPTRP implementation legislation — is the most pragmatic approach.
+Attempting to enumerate every Chapter 151 exemption for repeal in this focused bill would broaden the one-subject scope significantly and could jeopardize the bill's passage as a targeted remote seller / foreign entity measure.
+Note 3: §151.346 Repeal — Intercorporate Services
+This is the most significant individual repeal.
+The constitutional authority is Art.
+VIII, Sec. 1-p(h), which expressly prohibits intercorporate services exemptions.
+The legislative finding in Section 2(3) and the finding in Section 5A(a)(1) together document why this exemption cannot survive the constitutional amendment.
+Note 4: §151.302 Resale Certificate Repeal — Anti-Pyramiding Transition
+The resale certificate system is deeply embedded in Texas business practice.
+The transition note in Section 5A(a)(2) explains the anti-pyramiding replacement — it is critical that businesses understand the new rule BEFORE the old system is repealed, to avoid inadvertent double-taxation during the transition.
+The Comptroller's rules under Section 5(e) should include detailed guidance on the transition from resale certificates to anti-pyramiding documentation.
+Note 5: Section 9(c) — Mandatory Credit
+The credit against multiple international taxation is made mandatory in v3 (previously discretionary).
+This is constitutionally required by Japan Line for foreign commerce.
+Making it mandatory is also practically important — foreign entities will not register voluntarily if they face the risk of both the Texas TPTRP sales and use tax and a home-country VAT or consumption tax on the same transaction without a credit.
+Note 6: Section 11(d) — Statute of Limitations Tolling
+The tolling provision is essential for enforcement against long-standing non-compliant foreign entities.
+Without it, a foreign entity that has been transacting with Texas customers for five or six years without registering may have already run the four-year limitations clock on its oldest years.
+The tolling provision applies only to truly unregistered entities — not to entities that registered but failed to file for specific periods.
+Note 7: Criminal Penalty Thresholds
+Sections 11(b) and 12(b) criminal penalties will require review by the Texas House Criminal Jurisprudence Committee.
+TLC to advise on preferred threshold alignment with Texas Penal Code §31.03 (theft) classification structure.
+Note 8: §151.0595 Placeholder (Section 14A)
+The single local use tax rate mechanism (§151.0595) is preserved as a placeholder pending the full TPTRP rate structure determination.
+If the TPTRP sales and use tax has no separate local rate component, §151.0595 is moot and will be repealed in the full TPTRP implementation legislation.
+If the TPTRP sales and use tax has a local share, the simplification mechanism must be updated to apply to it.
+Section 14A covers both scenarios.
+Note 9: SSUTA Compatibility (Section 17)
+Section 17 is a voluntary pathway, not a mandatory registration alternative.
+Remote sellers must still use the Portal and hold a Texas Tax Registration Certificate.
+Section 17 simply allows them to use SSUTA-certified tax software to calculate their obligations rather than building a separate Texas-specific calculation engine.
+PRE-FILING CHECKLIST
+(Review before converting to TLC H.B. format)
+- [ ] H.J.R.
+No. _____ designation filled throughout (all cross-references)
+- [ ] TBOC Ch. 9 Subchapter H letter confirmed with TLC
+- [ ] Article VIII, Section 1-q constitutional cross-reference filled in this coordinated pass
+- [ ] Criminal penalty thresholds (Secs. 11(b) and 12(b)) reviewed against Penal Code §31.03
+- [ ] Section 5A(a)(2) resale certificate transition — Comptroller rule guidance scope confirmed
+- [ ] §151.346 repeal (Sec. 5A(a)(1)) reviewed for any federal consolidated-return preemption issues
+- [ ] Marketplace facilitator extension (Sec. 8) reviewed against existing Tax Code §151.0242
+- [ ] IRS data-sharing authority (Sec. 7(d)) confirmed under 26 U.S.C. §6103(d)
+- [ ] Currency exchange methodology (Sec. 7(e)) — Comptroller rule to designate specific source
+- [ ] §151.0595 placeholder (Sec. 14A) — confirm disposition in full TPTRP rate legislation
+- [ ] Tolling provision (Sec. 11(d)) — confirm interaction with §111.201 existing text
+- [ ] Transition provisions (Sec. 15) — 90-day periods adequate for Comptroller system build
+- [ ] Section 5A(c) suspended exemptions list — Comptroller publication capacity in 30 days confirmed
+- [ ] Caption House Rule 8 compliance confirmed — "imposing a tax" included ✓
+- [ ] One-subject rule (Art.
+III, Sec. 35) analysis — confirm all provisions relate to TPTRP sales and use tax remote seller scope
+- [ ] Bill Analysis prepared (House Rule 4, Sec. 32(c) for committee report version)
+- [ ] Convert to H.B.
+TLC format per §BILL in legislation_insert_template_instructions.md
+- [ ] Standalone legislation page per legislation_page_template_instructions.md
+Draft v3 — June 2026 Author: Rep.
+Will Campbell, HD-109 For TPTRP 90th Legislature, 2027 Regular Session Formatted for pre-filing review — not yet in TLC filing format Contingent on voter approval of H.J.R.
+No. _____, 90th Legislature, 2027 Regular Session *<u>willcampbellfortexas.com</u>*
+Change Log — Stage 1 Conformity Edits (2026-08-02)
+| # | Section | Edit description |
+|---|---|---|
+| 4.1 | Caption; Section 1; Section 2 (a)(2)-(4), (9)-(13), (b); Section 3 (1),(8),(9),(13); Section 5 (b),(c),(d); Section 5A heading and (a)(1); Section 7; Section 8; Section 9(c); Sections 11-13; Section 14(b); Section 14A; Section 17; Drafting Notes | Replaced all 43 occurrences of "Unified Transaction Tax" (including 3 additional informal "UTT" references in drafting notes) with "the TPTRP sales and use tax" (short form) or "the sales and use tax imposed under the TPTRP Sales and Use Tax Act" (formal form, used in Section 3(1)'s definition and once each in Section 2(a)(1), Section 2(a)(5), Section 5A heading context, and Section 14A(a)).
+Retitled Section 1 short title to "TPTRP Remote Seller and Foreign Entity Act." Updated the bill caption accordingly. |
+| 4.2 | Section 6 (Chapter 9, Business Organizations Code amendment) | Resolved the [Z] subchapter placeholder to Subchapter H.
+Texas Business Organizations Code Chapter 9 currently runs Subchapters A (Registration) through G (Miscellaneous Provisions), with no existing Subchapter H; H is confirmed as the next available letter for the new "Registration Prerequisite for Remote Sellers" subchapter.
+All internal section references (Sec. 9.[Z].001–.005) renumbered to Sec. 9.H.001–.005, including the cross-reference in Section 11(c) and the pre-filing checklist. |
+| 4.3 | Section 4 (Tax Code §151.008(c)) | Confirmed the economic-nexus thresholds already stated correctly as $100,000 gross receipts and 200 separate transactions; no correction needed.
+Added the non-increase limitation sentence (verbatim from the edit spec) immediately following the threshold and entity-type subsections, citing Article VIII, Section 1-q, Texas Constitution.
+Did not otherwise modify the §151.008 threshold wording. |
+| 4.4 | Section 7 | Retitled from "Texas Foreign Entity Transaction Tax Portal" to "Foreign Entity Module of the Texas Sales and Use Tax Portal." Rewrote subsection (a) to frame the Foreign Entity module as an integrated component of the Texas Sales and Use Tax Portal established under Section 490.073, Government Code, rather than a standalone system.
+Reframed subsections (b)-(e) so registration, permitting, rate lookup, filing, payment, language support, account management, voluntary disclosure interface, the Public Foreign Entity Registry, IRS data-sharing, and currency-exchange methodology are described as capabilities/functions of the Portal or the Foreign Entity module rather than of a separate portal.
+Added a data-sharing sentence in subsection (c) confirming coordination with the Secretary of State's Business Organizations Code registration system.
+Updated the Section 3(9) "Portal" definition to define the Portal as the Texas Sales and Use Tax Portal under Section 490.073, Government Code, encompassing the Foreign Entity module. |
+| 4.5 | Section 2, findings (a)(1) and (a)(5)-(8) | Rewrote finding (a)(1) to anchor on Section 1-p's definitions of "taxable transaction" and "agent transaction" and the Section 1-p(h) bar on class-wide exemptions, resale certificates, and manufacturing-input exemptions, while preserving the original finding's substance regarding broad-base, destination-based, uniform-rate design.
+Rewrote finding (a)(5) to anchor on the Section 1-q economic-nexus and market-access enforcement authority before addressing federal income tax treaties.
+Rewrote finding (a)(6) to cite the Complete Auto Transit v.
+Brady four-prong test alongside the Import-Export Clause analysis (four-prong analysis itself left unmodified per instructions).
+Rewrote findings (a)(7)-(8) to anchor the Internet Tax Freedom Act findings on the Section 1-p taxable-transaction definition and the Section 1-p(e)(4) Internet-access-service exclusion, respectively.
+Findings (a)(2)-(4) and (a)(9)-(13) were left substantively unchanged except for tax-name conformance under Edit 4.1. |
+Note on scope compliance: No changes were made to the Complete Auto Transit v.
+Brady four-prong analysis (Section 9(d), Section 14(a)(2)), the Import-Export Clause analysis (Section 2(a)(6), Section 14(b)), the Internet Tax Freedom Act carve-out (Section 2(a)(7)-(8), Section 3(13), Section 5(c)(1)), Marketplace Facilitator obligations (Section 8), the Voluntary Disclosure program structure (Section 13), civil or criminal penalties (Sections 11-12), the §151.008 economic-nexus wording (Section 4, beyond the added non-increase limitation), or the repeal of specified Chapter 151 exemptions (Section 5A), beyond tax-name conformance required by Edit 4.1.
+REMOTE SELLER AND FOREIGN ENTITY ACT — STAGE 3 EDIT LOG (2026-08-06)
+| # | Section | Edit description |
+|---|---|---|
+| rsa.s3.1 | Portal rename (8 occurrences) | Renamed "Texas Sales and Use Tax Portal" to "Texas Sales and Use Tax Portal" throughout. |
+Change Log — Version 3 (2026-08-07)
+| # | Section | Edit description |
+|---|---|---|
+| v3.1 | Whole Act | Updated the title and standardized the Portal name. |
+| v3.2 | Secs. 4, 5, 8, and 14A | Replaced Chapter 151 amendments relocated to Chapter 151-A with cross-references to Sections 151A.617 through 151A.620, Tax Code. |
+| v3.3 | Secs. 5A and 5(d) | Tied the exemption repeal and suspension to the Implementation Date and supplied the Article VIII, Section 1-q constitutional citation. |

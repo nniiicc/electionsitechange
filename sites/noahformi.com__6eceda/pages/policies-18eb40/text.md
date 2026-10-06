@@ -1,0 +1,110 @@
+Noah’s Priorities for a More Resilient Michigan
+Noah Arbit is committed to advancing and supporting legislation to make Michigan's economy and society stronger and more resilient for all families.
+In the State House, he will work to tackle Michigan's mental health crisis, particularly among youth; boost regional competitiveness, innovation, and job growth and reverse "brain drain;" invest vital resources to support our kid’s education, expand financial literacy curriculum; make Michigan a national leader in combating hate crimes; defend our constitutional rights - including the freedom to vote, the freedom to choose, and the freedom to love; as well as work to arrest climate change and protect Michigan's natural inheritance - including our lakes and water.
+Confronting Michigan's Mental Health Crisis
+As our State Representative, Noah is working tirelessly to:
+- Expand access to vital, affordable mental health treatment for all Michiganders regardless of income or zip code
+- Expand insurance coverage for treatments and therapies centered on addiction recovery, trauma, and behavioral health
+- Increase reimbursement rates to providers and reduce red tape to incentivize greater insurance network adoption by providers, including therapists, psychologists, and psychiatrists (HB 5343 and 5345)
+- Incentivize mental health practitioners educated and trained in Michigan universities to stay and practice in Michigan through partial tuition repayment
+- Ensure stronger compliance by the State of Michigan with federal insurance parity laws for mental and physical health (SB 27 and HB 4707)
+- Increase mental health personnel and other resources in public schools to help address Michigan’s youth mental health crisis (FY 2024 School Aid Budget)
+- Provide funding for mental health responders to attach to local police units and provide vital expertise in responding to incidents potentially involving individuals suffering mental health issues (FY 2024 State Budget)
+- Advocate for a comprehensive study on the epidemic of loneliness among seniors, and issue public policy recommendations for interventions to improve mental health among elderly residents
+- Reduce the barriers to mental health practitioners wishing to move to Michigan to practice by reforming Michigan’s endorsement process for psychiatrists and speeding Michigan’s accession to the Psychology Interjurisdictional Compact (Psypact) and Association of State and Provincial Psychology Boards Agreement of Reciprocity (AOR)
+- Ban dangerous, harmful, pseudo-scientific practice of “conversion therapy” for minors in Michigan (HB 4616 and 4617)
+- Support community organizations working to address the mental health needs of underserved communities, including LGBTQ+ Michiganders
+Building a Dynamic, Thriving Michigan for All
+As our State Representative, Noah is working tirelessly to:
+- Reverse Michigan’s brain drain by investing in infrastructure and policies to attract young people raised and educated in Michigan to stay in Michigan to build their careers and families (HBs 5768, 5769, 5770)
+- Support our vibrant small business community in West Bloomfield, Commerce, and the Lakes by reducing overbearing regulatory burdens, cutting red tape, and swiftly connecting local businesses with the resources they need within state agencies
+- Partner with local officials and community leaders to boost economic development and incentivize new business growth across Greater West Bloomfield and Commerce, and pass a research and development tax credit (HBs 4368, 5099, 5100, 5101, 5102)
+- Continue movement towards a comprehensive paid family leave program in the State of Michigan that protects working families and small businesses alike (HB 4574)
+- Build support for a multi-modal rapid public transit system - including light rail - to unite Oakland County and the entire Metro Detroit region as one dynamic, interconnected regional economy and attract young people across the country
+- Implement a fair and manageable tax structure that generates enough revenue to adequately fund the quality services Michiganders desire without unduly burdening families
+- Protect workers’ rights and dignity, including the right to organize and collectively bargain, as well as repealing the right-to-work law and Governor Snyder’s unfair retirement tax (SB 34)
+- Significantly reform Michigan’s corporate tax incentive program (the “SOAR” Fund) to stop giving large corporations big handouts with little oversight or demonstrable taxpayer benefit (HBs 5768, 5769, 5770)
+- Advocate for Commerce Township’s industrial corridor - in efforts led by the Oakland County Executive’s Office to incentivize defense firms to locate in Oakland County, including as a member of the bipartisan Legislative Aerospace and Defense Caucus
+- Work with local, county, and state partners and community leaders to develop closer trade links between Oakland County and high-tech markets seeking to invest in Michigan, including firms located in South Korea, Taiwan, Israel, and the European Union
+Strengthening Families and Supporting Seniors
+As our State Representative, Noah is working tirelessly to:
+- Reverse the egregious, glaring failures of the 2019 Auto No Fault Reform and do everything humanly possible to fulfill our promise to protect and care for vulnerable Michiganders with catastrophic injuries
+- Help reduce the rising cost of prescription medications for all Michiganders, including seniors, and make it easier to receive those prescriptions via online delivery
+- Address the increasingly unaffordable cost of child care and long-term care for loved ones, seniors, and developmentally disabled Michiganders, which places far too many families in a bind
+- Boost assistance for senior living and long-term care facilities and ensure all residents enjoy a high quality of life by holding facilities accountable to meeting rigorous quality of care benchmarks, and addressing pay inequities for care workers
+- Expand community-based direct care solutions that allow seniors and loved ones across the State of Michigan to stay in their homes and age in-place
+- Implement insurance coverage requirements for proven obesity and diabetes treatments, including GLP-1 and GIP medications like semaglutide and tirzepatide
+- Continue movement towards a comprehensive paid family leave program in the State of Michigan that protects working families and small businesses alike (HB 4574)
+- Protect legal access to safe reproductive and sexual health care and services everywhere in the State of Michigan, including abortion, contraception, emergency contraception, commercial surrogacy, and STI treatments (HB 5013)
+- Mandate insurance coverage parity for anti-HIV prophylaxis (PrEP) and post-exposure (PEP) medication treatments (HB 5340)
+Strengthening Michigan’s Hate Crimes Law and Countering Violent Extremism
+As our State Representative, Noah is working tirelessly to:
+- Take on Michigan’s dangerous anti-government paramilitary movement by passing the “MILITIAS Act” (Michiganders Interrupting Lawless, Incendiary, Threatening, and Insurrectionist Activities Act) to place criminal penalties on individuals operating as part of an illegal paramilitary group — including training exercises, falsely assuming law enforcement functions, and committing acts of organized violence
+- Make Michigan the national leader in combating hate crimes by implementing a multidimensional, innovative approach to reforming existing laws and implementing new ones
+- Pass a standalone statute criminalizing vandalism targeting religious and communal institutions and property, including houses of worship (HB 4476)
+- Pass a sentence enhancement statute for crimes motivated by hate or bias to provide local prosecutors an additional, more flexible tool in their arsenal to ensure perpetrators of hate crimes are held accountable
+- Increase funding and training for law enforcement agencies and prosecutors in identifying potential hate crimes when they occur and, critically, interfacing with victims of hate crimes in the course of an investigation
+- Expand the scope of protected characteristics covered by Michigan’s antiquated, 1980s era “ethnic intimidation” statute to include sexual orientation, gender expression or identity, physical or mental disability, and age (HB 5400)
+- Stiffen weak penalties for those convicted of hate crimes and eliminate structural features of Michigan’s existing hate crime law that disincentivize prosecutors from charging hate crimes more frequently (HB 5400)
+- Implement anti-bias education as a component of criminal sentences for hate crimes, which has seen success in a number of other states
+- Banned dangerous, harmful, pseudo-scientific practice of “conversion therapy” for minors in Michigan (HBs 4616 and 4617)
+- Champion resources for organizations that are dedicated to rooting out racism, antisemitism, homophobia, bigotry, and all forms of hate and extremism in our communities
+Safeguarding Democracy, Constitutional Rights, and Improving Governance
+As our State Representative, Noah is working tirelessly to:
+- Hold corporate polluters accountable and financially responsible for harm to our precious natural environment and ensure they pay for clean-up (HBs 5241, 5242, 5243, 5244, 5245, 5246, and 5247)
+- Eradicate use of industrial chemicals and contaminants like PFAS that seep into our lakes, waterways, and drinking water (HB 5657 and SB 327)
+- Protect our inland lakes and waterways from environmental degradation, and defend recreational usage
+- Implement Governor Whitmer’s MI Healthy Climate Plan to make Michigan a carbon-neutral economy by 2040 and create nearly 250,000 good-paying jobs in the process (SBs 271, 273, 502, 519)
+- Hold DTE and other utility accompanies accountable for all service interruptions to Michigan households due to insufficient grid investments, mandate customers are compensated fairly, and ensure energy security for all Michigan families
+- Continue fixing Michigan’s roads, bridges, and dams, and invest in strong, clean infrastructure built to last (FY 2024 State Budget)
+- Pursue flooding mitigation measures to more proactively prepare, protect our communities, and keep residents safe (FY 2024 State Budget)
+- Stop outsourcing state regulatory and compliance audits on environmentally critical infrastructure to the same corporations managing these sites
+- Expand electric vehicle (EV) charging point stations across Michigan, including West Bloomfield, Commerce, and the Lakes (FY 2024 State Budget)
+- Partner with local officials to advocate for additional funding to maintain our community’s system of public parks and trails, including increased safety mechanisms along the West Bloomfield, Air Line, and Clinton River Trail Networks
+Empowering Students and Educators to Reach Their Fullest Potential
+As our State Representative, Noah is working tirelessly to:
+- Sustainably increase public school funding across the board to ensure every kid in every ZIP code has access to a quality K-12 education, including funding for the arts and extracurricular enrichment (FY 2024 State Budget)
+- Address Michigan’s crisis in teacher, paraprofessional, and school support staff recruitment and retention by increasing benchmark salaries, offering competitive benefits packages, and implementing retention bonuses for educators (FY 2024 School Aid Budget)
+- Work towards developing universal a pre-kindergarten program to ensure all young children have access to enrichment in the most critical early years of development
+- Address the increasing unaffordability of higher education for young people by returning to pre-2008 levels of public university funding in the state budget and expanding financial aid
+- Strengthen Michigan’s high school financial literacy curricular requirement to include basic functions of contemporary financial life, including navigating insurance markets, credit, investment practices, retirement accounts, home ownership, taxes, and more
+- Ensure K-12 student count day will never again coincide with religious holidays, including Rosh Hashanah, Yom Kippur, and Eid (HB 4648)
+- Save the historic, 104 year-old Roosevelt Elementary School building in Keego Harbor from unnecessary demolition by the West Bloomfield School District (HB 5025)
+- Invest in continuing education programs for adults and seniors and incentivize employers to defray costs for continuing education as a benefit for employees
+- Increase mentorship opportunities for young adults in our communities by supporting partnerships between school districts and local businesses, non-profit organizations, and other institutions
+- Ensure charter schools are held accountable to the same measures of performance and transparency as public schools (HBs 5231, 5232, 5233, 5234, and 5269)
+Protecting Our Lakes, Climate, and Natural Resources
+As State Representative, Noah will work tirelessly to:
+- Establish access to clean drinking water in every household in every community in the State of Michigan as a human right protected in the state Constitution
+- Hold corporate polluters accountable for egregious harm to our precious natural resources
+- Eradicate use of industrial chemicals and contaminants like PFAS that seep into our lakes, waterways, and drinking water
+- Pass a resolution in the Legislature to formally declare the climate crisis a statewide emergency in Michigan
+- Continue fixing Michigan’s roads, bridges, and dams, and invest in strong, clean infrastructure built to last
+- Cease the outsourcing of state regulatory and compliance audits on environmentally critical infrastructure to the same corporations managing these sites
+- Support implementation of Governor Whitmer’s MI Healthy Climate Plan to make Michigan a carbon-neutral economy by 2050
+- Expand electric vehicle (EV) charging point stations across West Bloomfield, Commerce, and the Lakes
+- Pursue flooding mitigation measures to more proactively prepare, protect our communities, and keep residents safe
+- Adequately fund the Michigan Department of Environment, Great Lakes, and Energy (EGLE) to ensure increased protections of our natural resources, environment, and Great Lakes
+- Partner with local officials to advocate for additional funding to maintain our community’s beautiful system of public parks and trails, including increased safety mechanisms along the West Bloomfield and Air Line Trails
+- Bring together state, county, and municipal officials to address the ongoing problem of maritime patrol on Cass Lake and ensure the protection of residential properties and the safety of all recreants
+Building Safer, More Resilient Communities
+As our State Representative, Noah is working tirelessly to:
+- Increase funding and support for cost-saving and effective diversion programs and interventions, including veterans’ treatment courts, drug treatment courts, and mental health courts, particularly for juvenile offenders (HBs 4624, 4627, 4628, 4629)
+- Combat the proliferation of dangerous assault-style weapons in Michigan
+- Mandate owners of firearms in Michigan purchase and carry firearm liability insurance policies
+- Sustain necessary funding for first responders who keep our towns safe and healthy (HBs 4605, 4606 and FY 2025 State Budget)
+- Provide funding for mental health responders to attach to local police units and provide vital expertise in responding to incidents potentially involving individuals suffering mental health issues
+- Stand up for survivors of sexual violence by extending the statute of limitations to prosecute cases of criminal sexual conduct (HBs 4482, 4483, 4484, 4485, 4486, 4487)
+- Pursue common-sense accountability and transparency reform measures for law enforcement agencies, including greater emphasis on de-escalation techniques and prohibiting the use of ineffective and dangerous physical maneuvers, such as choke-holds
+- Address the issue of recreational safety on lakes across our community, including with a $100,000 law enforcement grant to Keego Harbor for marine patrol (FY 2024 State Budget)
+- Replace Michigan’s ineffective, unjust, and costly cash bail system and with a proven public safety risk assessment of the level of threat posed by a criminal defendant to public safety and work with judges make that risk assessment the main determinant of whether a defendant should be held in jail pending trial or released
+Ensuring Accessible, Responsive, Transparent, and Community-Focused Leadership
+As our State Representative, Noah is working tirelessly to:
+- Run a responsive, constituent-centered office in Lansing that seamlessly connects constituents with the resources they need in state government and responds to residents’ concerns on local and state issues swiftly, efficiently, and effectively
+- Promptly and proactively respond and manage constituent casework, including issues relating to unemployment insurance, health care, licensure issues, housing, and more
+- Host regular constituent conversations and town halls to ensure constituents across West Bloomfield, Commerce, and the Lakes maintain consistent access to their representative
+- Provide regular social media updates to constituents regarding the latest legislation and other activities in Lansing and the 20th District
+- Attend township and city board meetings regularly to provide legislative updates to local leaders and residents
+- Attend township and city board meetings regularly to provide legislative updates to local leaders and residents
+Sound good to you?
+Join our campaign or make a donation to show your support!

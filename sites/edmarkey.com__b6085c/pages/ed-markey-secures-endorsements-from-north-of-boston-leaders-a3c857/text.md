@@ -1,0 +1,36 @@
+Ed Markey Secures Endorsements from North of Boston Leaders
+August 13th, 2025
+BOSTON— The Ed Markey for Senate reelection campaign is proud to announce the endorsements of 24 state and local leaders from the communities North of Boston, including Andover, Bedford, Danvers, Hamilton.
+Lynn, Marblehead, Newburyport, North Andover, Pebody, Salem, Stoneham, Tewksbury, and Woburn.
+These endorsements come alongside those from legislators and community leaders in Central and Western Massachusetts and the Boston area, with more to come.
+“From access to public transportation, to managing the impacts of climate change, to spurring more economic growth, to strengthening indispensable maritime and artistic traditions, these leaders are tackling the most challenging issues of the day and bringing results for their communities,” said Markey.
+“Creating and maintaining strong federal and local partnerships is one of my most important jobs as a U.S.
+Senator, especially as the Trump administration attacks Massachusetts’s funding and institutions.
+I am honored to have these endorsements for reelection so I can continue to bring their fight to Washington.”
+List of endorsements:
+- Jared Nicholson, Mayor of Lynn
+- Dominick Pangallo, Mayor of Salem
+- Jason Lewis, State Senator (5th Middlesex)
+- Joan Lovely, State Senator (2nd Essex)
+- Jennifer Armini, State Representative (8th Essex)
+- Daniel Cahill, State Representative (10th Essex)
+- Manny Cruz, State Representative (7th Essex)
+- Michael Day, State Representative (31st Middlesex)
+- Ken Gordon, State Representative (21st Middlesex)
+- Richard Haggerty, State Representative (30th Middlesex)
+- Kristin Kassner, State Representative (2nd Essex)
+- Sally Kerans, State Representative (13th Essex)
+- Tram Nguyen, State Representative (18th Essex)
+- Adrianne Ramos, State Representative (14th Essex)
+- Sean Reid, State Representative (11th Essex)
+- David Robertson.
+State Representative (19th Middlesex)
+- Dawne Shand, State Representative (1st Essex)
+- Thomas Walsh, State Representative (12th Essex)
+- Paul Tucker, Essex County District Attorney
+- Kevin Coppinger, Essex County Sheriff
+- Eileen Duff, Essex South Register of Deeds (former Governor’s Councilor)
+- Tom McGee, former Mayor of Lynn and former State Senator (3rd Essex), former Chairman of the Massachusetts Democratic Party
+- Kathleen O'Connor Ives, former State Senator (1st Essex)
+- Peter Capano, former State Representative (11th Essex)
+###

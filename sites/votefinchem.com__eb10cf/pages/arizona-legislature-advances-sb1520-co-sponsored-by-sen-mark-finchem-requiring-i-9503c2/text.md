@@ -1,0 +1,7 @@
+Arizona lawmakers are advancing SB1520, legislation co-sponsored by Senator Mark Finchem to strengthen coordination between state agencies and federal immigration authorities.
+SB1520 requires state agencies to share relevant immigration status information with federal partners, ensuring that enforcement efforts are supported by accurate and timely data across jurisdictions.
+The legislation eliminates communication gaps that can hinder enforcement and ensures that agencies are working together to uphold immigration law consistently and effectively.
+Senator Finchem co-sponsored SB1520 as part of a broader effort to reinforce border security, strengthen cooperation with federal authorities, and ensure Arizona remains aligned with national immigration enforcement priorities.
+The bill advanced in the Arizona House on April 1, continuing its movement through the legislative process.
+Bill information:
+https://trackbill.com/bill/arizona-senate-bill-1520-agencies-immigration-data-sharing/2794986

@@ -1,0 +1,5 @@
+“Speaker Sexton urges constituents to stay home, social distance” – Crossville Chronicle
+April 2, 2020
+Tennessee House Speaker Cameron Sexton urged his constituents to stay home, practice social distancing, use good hand washing hygiene and to stay the course in the coming weeks to help flatten the curve and spread of the COVID-19 virus during a Tuesday evening telephone town hall event.
+“We need to play our part … it’s a sacrifice, but If we follow CDC guidance and remain steady and positive, we’ll come out on the other side of this,” Sexton said.
+Click here to read the entire article.

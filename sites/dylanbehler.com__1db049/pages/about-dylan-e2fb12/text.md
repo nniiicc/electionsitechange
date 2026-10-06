@@ -1,0 +1,48 @@
+About Delegate Dylan
+After the 2018 election, Dylan began his tenure with then-Senator Sarah Elfreth's office.
+He started as her Legislative Director where he helped her pass dozens of bills on a variety of topics from increasing maternal healthcare for minority communities to creating the first statewide office dedicated to increasing internet connectivity.
+After the COVID-19 pandemic, Dylan assisted District 30 constituents navigate complex challenges such as the unemployment crisis.
+He then became Senator Elfreth's Chief of Staff where he continued to be integral in the passage of more legislation and helping navigate complex budget issues while Senator Elfreth was Chair of a subcommittee of the Budget and Taxation Committee.
+After the 2023 legislative session, Dylan then took an appointed position in Governor Moore's administration as the Legislative Director at the Maryland Department of Natural Resources where he worked every day helping to restore the Chesapeake Bay and protect Maryland's natural resources from the mountains in Western Maryland to the shores of Ocean City.
+In this position, he helped navigate the legislative process to pass legislation sponsored by the Department, preserved DNR's multi-million dollar budget, and helped solve constituent problems on behalf of Federal, State, and Local elected officials.
+Outside of his professional career, Dylan has served in a variety of other positions.
+Most recently, he served as the Chair of the Anne Arundel County Democratic Central Committee for two years, most prominently helping protect our Board of Education from far-right extremists and building a better party infrastructure in our County.
+Currently, he serves as a Trustee on the Anne Arundel County Library Board and on the Advisory Committee for the Maryland Clean Energy Center.
+In the past, Dylan has served on the boards of the South County Democratic Club, the Anne Arundel Sierra Club and the Maryland Sierra Club.
+Dylan is a graduate from the University of Maryland in College Park and currently resides in Downtown Annapolis.
+A lifelong Marylander, Dylan Behler has spent his life dedicated to serving our community - and he proudly serves as our Delegate for District 30A in the General Assembly
+Dylan's values were ingrained in him growing up as a Free and Reduced Meal Student in Anne Arundel County Public Schools whose health care was provided by Medicaid.
+He saw first-hand the good that government can do in people’s lives because the support that was provided to him and his family allowed him to go on to become a first generation college student.
+Outside of his professional career, Dylan has served in a variety of other positions.
+Most recently, he served as the Chair of the Anne Arundel County Democratic Central Committee for two years, most prominently helping protect our Board of Education from far-right extremists and building a better party infrastructure in our County.
+Currently, he serves as a Trustee on the Anne Arundel County Library Board and on the Advisory Committee for the Maryland Clean Energy Center.
+In the past, Dylan has served on the boards of the South County Democratic Club, the Anne Arundel Sierra Club and the Maryland Sierra Club.
+Dylan is a graduate from the University of Maryland in College Park and currently resides in Downtown Annapolis.
+After his first job of steaming crabs and shucking oysters, he focused on building a career in community service.
+His first venture into public service was in 2017 when he spent a summer working for the North American Building Trades Unions (NABTU) where he learned how to navigate the Federal Government to ensure that workers were paid a fair wage and that there were paths to good paying jobs for Americans.
+After that experience, he became a Committee Analyst for Senate President Thomas V.
+Mike Miller Jr. where he tracked the activities of the Education, Health, and Environmental Affairs Committee while providing constituent services to those in need.
+After serving for Senate President Miller, he became even more involved.
+During the 2018 election cycle, Dylan worked on former Delegate Alice Cain's campaign in the primary election.
+He then became staff on County Executive Pittman's campaign where he helped flip Anne Arundel County from red to blue thereby ensuring that teachers, police, and firefighters were supported, that a more transparent government was created, and that the natural beauty of Anne Arundel County was protected.
+A lifelong Marylander, Dylan Behler has spent his life dedicated to serving our community - and he proudly serves as our Delegate for District 30A in the General Assembly
+Dylan's values were ingrained in him growing up as a Free and Reduced Meal Student in Anne Arundel County Public Schools whose health care was provided by Medicaid.
+He saw first-hand the good that government can do in people’s lives because the support that was provided to him and his family allowed him to go on to become a first generation college student.
+After his first job of steaming crabs and shucking oysters, he focused on building a career in community service.
+His first venture into public service was in 2017 when he spent a summer working for the North American Building Trades Unions (NABTU) where he learned how to navigate the Federal Government to ensure that workers were paid a fair wage and that there were paths to good paying jobs for Americans.
+After that experience, he became a Committee Analyst for Senate President Thomas V.
+Mike Miller Jr. where he tracked the activities of the Education, Health, and Environmental Affairs Committee while providing constituent services to those in need.
+After serving for Senate President Miller, he became even more involved.
+During the 2018 election cycle, Dylan worked on former Delegate Alice Cain's campaign in the primary election.
+He then became staff on County Executive Pittman's campaign where he helped flip Anne Arundel County from red to blue thereby ensuring that teachers, police, and firefighters were supported, that a more transparent government was created, and that the natural beauty of Anne Arundel County was protected.
+After the 2018 election, Dylan began his tenure with then-Senator Sarah Elfreth's office.
+He started as her Legislative Director where he helped her pass dozens of bills on a variety of topics from increasing maternal healthcare for minority communities to creating the first statewide office dedicated to increasing internet connectivity.
+After the COVID-19 pandemic, Dylan assisted District 30 constituents navigate complex challenges such as the unemployment crisis.
+He then became Senator Elfreth's Chief of Staff where he continued to be integral in the passage of more legislation and helping navigate complex budget issues while Senator Elfreth was Chair of a subcommittee of the Budget and Taxation Committee.
+After the 2023 legislative session, Dylan then took an appointed position in Governor Moore's administration as the Legislative Director at the Maryland Department of Natural Resources where he worked every day helping to restore the Chesapeake Bay and protect Maryland's natural resources from the mountains in Western Maryland to the shores of Ocean City.
+In this position, he helped navigate the legislative process to pass legislation sponsored by the Department, preserved the Agency's multi-million dollar budget, and helped solve constituent problems on behalf of Federal, State, and Local elected officials.
+Outside of his professional career, Dylan has served in a variety of other positions.
+Most recently, he served as the Chair of the Anne Arundel County Democratic Central Committee for two years, most prominently helping protect our Board of Education from far-right extremists and building a better party infrastructure in our County.
+Currently, he serves as a Trustee on the Anne Arundel County Library Board and on the Advisory Committee for the Maryland Clean Energy Center.
+In the past, Dylan has served on the boards of the South County Democratic Club, the Anne Arundel Sierra Club and the Maryland Sierra Club.
+Dylan is a graduate from the University of Maryland in College Park and currently resides in Downtown Annapolis.

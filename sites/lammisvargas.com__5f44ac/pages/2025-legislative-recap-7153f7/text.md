@@ -1,0 +1,76 @@
+Senator Lammis J.
+Vargas | District 28 (Cranston & Providence)
+Introduction: Reflecting on 2025
+In 2025, Senator Lammis J.
+Vargas completed her first legislative session representing District 28 at the Rhode Island State House.
+As a lifelong public servant and former State House employee and City Councilmember, stepping into the role of legislator was a new experience for me, especially given the turbulent and unsettling current national political environment.
+Together with my colleagues in the Senate and other parts of Rhode Island’s government, we delivered real results for the people of Cranston and Providence.
+Throughout the session, Senator Vargas focused on practical, people-first policies rooted in the belief that state and local government can make a real, positive impact.
+Below is a snapshot of key legislative efforts, investments, and community wins from the year.
+As always, please don’t hesitate to reach out to me via phone, email, or social media with your questions, concerns, and ideas that can shape our 2026 legislative priorities.
+Thank you for trusting me to represent you in our state government!
+Protecting Our Communities from Gun Violence
+Senator Vargas supported legislation to protect our communities from gun violence; supported the legislation that bans the sale of prohibited firearms and restricts their manufacture, sale and purchase in Rhode Island.
+This measure represents a significant step towards ensuring safe communities and preventing mass shootings.
+“Military-style weapons have no place in our neighborhoods.
+This law is about protecting our families, our children, and our future.
+Rhode Islanders deserve to feel safe wherever they go – in schools, places of worship, and all public spaces”
+– Senator Lammis Vargas
+This work reflects an ongoing commitment to common-sense gun safety reforms designed to keep communities safer.
+Investing $3 Million in Infant Care
+Recognizing the growing child care crisis facing Rhode Island families, Senator Vargas supported a $3 million investment in infant care to help reopen infant classrooms across the state.
+Rising costs, low wages, and staffing shortages have forced many providers to close infant rooms, limiting access for working families.
+The 2026 State Budget addresses this by:
+- Creating a new infant care rate in the Child Care Assistance Program
+- Setting infant rates 20% higher than toddler rates to reflect the higher staffing needs for infants
+- Expanding child care access for children ages 6 weeks to 18 months
+“Too many parents are struggling to find care for their babies, and that’s keeping them from getting back to work.
+This funding is a lifeline for families and child care providers alike.”
+Supporting Small Nonprofits by Cutting Red Tape
+During the 2025 session, Senator Vargas sponsored legislation to ease administrative burdens on small nonprofit organizations.
+Under the new law:
+- Nonprofits with less than $1 million in gross income are no longer required to submit costly CPA-audited financial statements
+- Organizations can redirect time and resources toward their mission instead of paperwork
+“Our local nonprofits do incredible work, often on tight budgets.
+By removing unnecessary auditing requirements, we’re helping them better serve our communities.”
+Additional Legislative Achievements in 2025
+Throughout the session, Senator Vargas supported and passed legislation that:
+- Expanded the Unclaimed Property Division’s ability to return assets, including cryptocurrency
+- Expanded TDI/TCI wage replacement and caregiver benefits
+- Ended payday lending in RI – stopping predatory loan practices
+- Eliminated VIN inspection fees for veterans and active-duty military
+- Improved protections for veterans filing VA disability claims
+- Created the PURPLE Alert system to help locate missing adults with disabilities
+- Banned the declawing of cats and strengthened penalties for animal cruelty
+- Limited cell phone use in classrooms to improve focus and learning
+- Passed the Freedom to Read Act to protect library access
+- Reformed the school funding formula to strengthen special education funding
+- Secured $22 million in additional state funds to help replace the westbound span of the Washington Bridge
+- Reformed the Coastal Resources Management Council to ensure environmental experts make decisions that protect our shoreline and natural resources
+- Allowed utilities to purchase clean and safe nuclear energy from out-of-state to help lower energy cost and support a reliable power supply
+Expanding Health Care Access and Affordability
+With Rhode Island facing a shortage of primary care doctors and rising health care costs, Senator Vargas supported key investments to strengthen the health care system.
+The FY 2026 State Budget includes:
+- Over $40 million to boots Medicaid reimbursement rates for primary care providers, helping attract and retain doctors
+- $38 million in additional funding for hospitals
+- $12 million more for nursing homes
+- A new pilot program eliminating prior authorization delays for services ordered by primary care doctors
+- A new law allowing up to a 90-day supply of non-opioid Schedule II medications, including commonly prescribed ADHD medications
+“Everyone deserves quality health care.
+It’s a basic human right.”
+Community Grants & Local Impact
+In addition to legislative work, Senator Vargas helped deliver funding directly to community organizations, including:
+- A grant to the Cranston Public Library
+- Funding support for the Rhode Island Coalition for the Homeless to assist with housing needs
+- Childhood Lead Action Project
+- Edgewood Waterfront & Preservation Association
+- Artist Exchange
+- Cranston East Little League
+- William R.
+Dutemple Elementary School
+- Stadium Elementary School
+- Edward S.
+Rhodes Elementary School
+Looking Ahead
+While 2025 delivered meaningful progress, there is always more work to be done.
+Senator Vargas remains committed to listening to constituents, addressing local concerns, and shaping thoughtful legislative priorities for the year ahead.

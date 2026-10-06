@@ -1,0 +1,22 @@
+ICYMI: "Mike Johnson looks ahead to 2026 fundraising with House majority on the line"
+January 14, 2025
+In Case You Missed It: Mike Johnson looks ahead to 2026 fundraising with House majority on the line
+Washington Examiner
+By Cami Mondeaux
+January 13, 2025
+"House Speaker Mike Johnson (R-LA) is already looking ahead to the 2026 elections, relaunching his joint fundraising committee as Republicans prepare to defend their razor-thin majority for the second half of President-elect Donald Trump’s second term.
+"Johnson will announce on Monday the updated formation of his “Grow the Majority” joint fundraising committee, which will once again act as the speaker’s main vehicle to raise money for House GOP campaigns and Republican-aligned campaign organizations.
+The committee will include more than 70 Republican entities with a maximum contribution of more than $1 million, according to a press release sent by Johnson’s team.
+"'As we work this year to deliver on the mandate given to us by the American people, we will also make sure we raise the resources needed to defend and grow our majority in 2026,' Johnson said in a statement.
+'The Republican Party attracted a new coalition of voters in this past election, fed up with the status quo and ready to put America first.
+By staying on offense and holding Democrats accountable, we will be ready to win in every battleground across America.'
+"The committee will work in tandem with House GOP incumbents, Republican candidates looking to flip Democratic-held seats, state Republican parties, the National Republican Congressional Committee, the Congressional Leadership Fund, and the Republican National Committee.
+It will also collaborate with Johnson’s reelection campaign and leadership PAC.
+"The efforts come after Johnson, who first became speaker in October 2023, quelled concerns about his fundraising prowess in a crucial election year.
+He set quarterly fundraising records while traversing more than 250 cities across 40 states during the 2024 election cycle.
+"'No one worked harder for House Republicans than Speaker Johnson in 2024, and we are just getting started,' Team Johnson Executive Director Billy Constangy said in a statement.
+'Team Johnson remains committed to leaving nothing on the field to grow the majority by creating the largest joint fundraising committee this cycle for House Republicans.
+Grow the Majority will ensure incumbents and candidates in key Districts build up a strong warchest in 2025 and enter the midterms ready to win and expand our map.'"
+"Johnson’s efforts helped Republicans maintain a majority in the House, handing the party a GOP trifecta with control of both chambers of Congress and the White House.
+Johnson managed to hang on to the party’s historically slim majority despite a net loss of one House seat in the 2024 elections, resulting in a 220-215 majority once all vacancies are filled."
+Read the full article here.

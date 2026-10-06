@@ -1,0 +1,161 @@
+PRESS RELEASE
+Jena Griswold Launches Campaign for Attorney General
+Date: April 7, 2025
+Colorado Secretary of State Jena Griswold launches campaign for Attorney General
+Griswold vows to fight for every Coloradan
+DENVER, Colo. – Today, Colorado Secretary of State Jena Griswold announced her campaign for Attorney General.
+“I am running for Attorney General because Colorado needs a strong, proven leader in this critical moment,” said Griswold.
+“I’ll stand up to Donald Trump to protect our rights and freedoms.
+I’ll fight for working- and middle-class Coloradans, hold big corporations accountable, and safeguard our land, air, and water.”
+Griswold’s campaign launches with the support of over 100 endorsers, including labor unions, current and former elected officials, and community leaders.
+Former Lieutenant Governor Gail Schoettler will serve as campaign chair.
+Griswold was elected as Secretary of State in 2018 and reelected in 2022.
+Her accomplishments as Colorado’s Chief Election Officer include increasing drop boxes and in-person voting, implementing automatic voter registration, and providing voters with tools to track their ballot from mailing to counting.
+Griswold spearheaded legislation to criminalize threats to election workers and fake elector schemes, ban guns near voting, and increase penalties for those who compromise voting equipment.
+She also led legislation to crack down on fraudulent business records and business identity theft.
+“Secretary Griswold is the strong leader we need as Attorney General,” said Schoettler.
+“As she always has, Jena will stand up to Donald Trump, MAGA extremists, and anyone who threatens the Colorado way of life.
+And as a woman, she’ll protect reproductive healthcare.”
+Congressman Jason Crow said, “Jena Griswold will make an excellent Attorney General.
+She is tough, will fight for working Coloradans, and stand up against Trump’s extreme agenda.”
+District Attorney Amy Padden said, “Jena Griswold is the leader Colorado needs.
+She will be a champion for civil rights, consumer protections, and public safety as our next Attorney General.”
+House Majority Leader Monica Duran said, “Jena Griswold understands the struggles of working families because she’s lived them.
+As Attorney General, she’ll fight for fairness, justice, and opportunity for all.”
+Before assuming office, Griswold practiced international anti-corruption law, business law, election law, and ran a small business.
+She also served as the director of the Governor of Colorado’s Washington, D.C.
+Office, where she helped bring back hundreds of millions of relief dollars to help Colorado communities affected by the 2013 flood.
+Griswold earned her J.D. from the University of Pennsylvania Law School.
+Endorsements
+- Labor Unions and Organizations:
+- IATSE Local 7 (Denver Theatrical Stage, Film and Exhibition Employees Union)
+- IBEW 68 (International Brotherhood of Electrical Workers)
+- IBEW 111 (International Brotherhood of Electrical Workers)
+- IBEW 113 (International Brotherhood of Electrical Workers)
+- LiUNA Local 720 (Laborers' International Union of North America)
+- SMART Local 9 (Sheet Metal Workers)
+- Teamsters Local 455
+- UA Local 58 (Plumbers, Pipefitters & HVAC Service Journeyman)
+- UA Local 208 (Denver Pipefitters local 208)
+- Progressive Change Campaign Committee
+- Current and Former Members of Congress:
+- Congressman Jason Crow (CD6)
+- Former Congresswoman Betsy Markey (CD4)
+- Former Congresswoman Yadira Caraveo (CD8)
+- Tribal Leaders:
+- Chairman Melvin Baker, Southern Ute
+- Chairman Manuel Heart, Ute Mountain Ute
+- State Legislators:
+- House Majority Leader Monica Duran (HD23)
+- Andrew Boesenecker (HD53)
+- Chad Clifford (HD37)
+- Lisa Cutter (SD20)
+- Eliza Hamrick (HD61)
+- Nick Hinrichsen (SD3)
+- Jamie Jackson (HD41)
+- Iman Jodeh (SD29)
+- Junie Joseph (HD10)
+- Cathy Kipp (SD14)
+- Sheila Lieder (HD28)
+- William Lindstedt (HD33)
+- Meghan Lukens (HD26)
+- Janice Marchman (SD15)
+- Amy Paschal (HD18)
+- Naquetta Ricks (HD40)
+- Gretchen Rydin (HD38)
+- Marc Snyder (SD12)
+- Rebekah Stewart (HD30)
+- Tom Sullivan (SD27)
+- Katie Wallace (SD17)
+- Jenny Willford (HD34)
+- Current and Former Mayors:
+- Ian Billick, Crested Butte
+- Dean Brookie, Former Durango
+- Barbara Bynum, Former Montrose
+- Clint Folsom, Former Superior
+- JD Mangat, Lafayette
+- Jim Schmidt, Former Crested Butte
+- Lauren Simpson, Arvada
+- Anna Stout, Former Grand Junction Mayor and current City Council member
+- Other Current Elected Officials:
+- Marlo Alston, Centennial City Council
+- Kim Archuletta, Pueblo County Treasurer
+- Karen Bigelow, Mayor Pro Tem, City of Thornton
+- Megan Burns, Northglenn City Council
+- Tommy Butler, Greeley City Council
+- Jessica Campbell, Arapahoe County Commissioner
+- Renée M.
+Chacon, Commerce City Council
+- Alison Coombs, Aurora City Council
+- Heidi Henkel, Broomfield City Council
+- Kathy Henson, Adams County Commissioner
+- PK Kaiser, Arapahoe County Assessor
+- Anne Keke, Aurora School Board President
+- Dennis Maes, Pueblo School Board
+- Kenny Nguyen, Broomfield City Council
+- Amy Padden, District Attorney (JD18)
+- Emma Pinter, Adams County Commissioner
+- Marsha Porter-Norton, La Plata County Commissioner
+- Nicole Rajpal, Boulder Valley School District Board of Education President
+- Callie Rennison, CU Regent (CD2)
+- Michal Rosenoer, Buena Vista Board of Trustees
+- JoyAnn Ruscha, RTD Director District B
+- Matt Salka, La Plata County Commissioner
+- Andrea Samson, Loveland City Council
+- Nicole Speer, Boulder City Council
+- Ashley Stolzmann, Boulder County Commissioner
+- Leslie Summey, Arapahoe County Commissioner
+- Alex Villagran, Adams County Treasurer
+- Michael Westerberg, Arapahoe County Treasurer
+- PT Wood, Chaffee County Commissioner
+- Former Elected Officials:
+- Gail Schoettler, Lt.
+Governor and State Treasurer
+- Stan Garnett, Boulder District Attorney
+- Janet Buckner, State Senator
+- Diane Mitsch Bush, Routt County Commissioner and State Representative
+- Mike Cerbo, State Representative
+- Val Flores, State Board of Education
+- Mike Foote, State Senator
+- Bill Holen, Arapahoe County Commissioner
+- Sara Lu Loflin, Mayor Pro-Tem of Erie
+- Julia Marvin, State Representative
+- Sol Sandoval, Pueblo School Board
+- Brian Stockmar, Vail City Council
+- Stacy Suniga, Greeley At-large Council
+- Community leaders:
+- Hon.
+Dottie Lamm, Former First Lady
+- Vicki Cowart, Former President of Planned Parenthood of the Rocky Mountains
+- Portia Prescott, Chair of the Rocky Mountain NAACPCO-MT-WY State Conference
+- Melissa Johnsen, Former Chair Denver Democratic Party
+- Lexi Adler, Chair City of Louisville Revitalization Commission Commissioner
+- Eula Adams
+- Rob Andrews
+- Steve Black, former Deputy Attorney General
+- Julia Bristor
+- Jamie Burke
+- Janet Caspers
+- Howard Chou
+- Sue Felton
+- Hazel Gibson
+- Hilary Glasgow
+- Dr.
+Tony Henderson
+- Doug Jaynes
+- Leora Joseph
+- Vita Lantz-Brown
+- Nita Lynch, 2024 Presidential Elector
+- Al Acker-Lyons
+- Heather Lurie, Co-Director of the Electing Women Alliance
+- Pastor Thomas Mayes, President of the Greater Metropolitan Ministerial Alliance
+- Rebecca Mirsky
+- Jamie Perkins
+- Eric Proctor, Candidate for Jefferson County Treasurer
+- Laurie Ritche
+- Deb Suniga
+- Monica VanBuskirk
+- and others…
+Griswold lives in Louisville with her husband, Mario, and their son.
+For more information about her campaign, visit jenaforcolorado.com.
+###

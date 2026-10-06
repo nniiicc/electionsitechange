@@ -1,0 +1,30 @@
+Affordability
+Ideology Over Pro-Growth Economics
+California's unaffordability is strangling all of its residents.
+While voters have identified the cost of living crisis, lack of economic opportunity, and rising prices consistently among their greatest concerns, the ruling democratic status quo has only exacerbated the issue due to the absolute absence of accountability at every level.
+Mike Fong has never voted ‘No’ on any substantive legislation that has come across his desk.
+He has voted ‘Yes’ on over 9,300 bills since 2022, many of which have contributed to constraining Californians’ wallets.
+Assembly Bill 247 (2023-2024)
+Saddling Future Generations with Back-Breaking Taxes
+Mike Fong voted in favor of Assembly Bill 247, which saddles future generations with billions of additional taxes while the next generation of California is barely hanging on by its fingernails in terms of finances and quality job opportunities.
+The bill's stated goal is to fund K-12 education and build additional community colleges.
+While noble in intent, we have seen the results of this approach in countless failed public projects that wasted vast amounts of taxpayer money, not to mention the government's utter irresponsibility in caring for children due to its lack of transparency and commitment to quality education.
+Senate Bill 840 (2025-2026)
+The Ever-Increasing Price of Energy
+California’s leadership has consistently failed to lower or relieve the price of energy and fuel in California.
+The Greenhouse Gas Reduction Fund and bills supporting it, such as SB 840, ensure that, under the climate change ideology, energy prices increase exponentially, forcing residents to spend more and more on gas, electricity, and energy of almost every kind.
+In fact, Mike Fong has been such a proponent of a system that hurts the most vulnerable Californians through exorbitant energy prices that he received near-perfect climate scores in 2023, 2024, and 2025.
+Meaning, he has been a staunch and unyielding proponent of increasing energy prices through the justification of arbitrary climate metrics for going on four years.
+This is an individual who will blindly support ‘climate-friendly policy’ even when his constituents endlessly tell him he has gone too far.
+Assembly Bill 39 (2025-2026)
+The Expensive and Unnecessary Transition from Gasoline to Electricity
+Mike Fong voted ‘aye’ on AB 39, which mandated the electrification of cities and counties with a population over 75 thousand.
+The so-called “Local Electrification Planning Act” forcefully accelerates the shift from cheaper natural gas to electricity with no safeguards for grid reliability or costs, increases long-term electricity demand and required grid updates which utilities end up recovering through higher rates and fixed charges for all ratepayers, adds bureaucratic and compliance costs for cities and counties, and ultimately prioritizes the statewide climate goals over local affordability when Californians are already facing some of the highest electricity rates in the U.S.
+Rather than attempting to support you, make your life cheaper and easier, the establishment and Mike Fong believe artificially electrifying regions of no need of extensive electrification, thereby further increasing prices for energy for everyone in the state to satisfy vague climate change benchmarks.
+David’s Statement:
+I will end the policies artificially driving up the cost of gasoline and electricity.
+I will end the prioritizing of climate change initiatives over the residents of California.
+I will end the endless tax increases in California.
+I am devoted to reshaping California into a state that doesn’t price residents out of their homes, a California that allows businesses and entrepreneurs to thrive once more with more capital, and, above all, a California where residents don’t struggle every day to pay for basic expenses.
+The non-stop increase in prices and taxes on residents makes this state unlivable for the middle class and results in companies such as Toyota North America, Yamaha Motor, AECOM, In-N-Out, Charles Schwab, Tesla, Chevron, and countless others abandoning California for states with pro-business policies, in the process taking jobs and the economic vibrancy that made California what it used to be.
+I will make California pro-business and affordable for all Californians, and restore the roaring economy of years past, making all aspects of life priced at a proper, fair, and reasonable level.

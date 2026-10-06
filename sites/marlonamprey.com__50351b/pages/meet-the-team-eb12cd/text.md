@@ -1,0 +1,28 @@
+Meet the Team
+- Ian Genove Chief of Staff Ian brings a rigorous economic perspective and nearly a decade of dedicated service to the Maryland General Assembly (MGA).
+A 2017 graduate of the University of Maryland, College Park, with a Bachelor’s Degree in Economics, Ian leverages his analytical background to navigate the complexities of state governance and legislative strategy.
+Over his nine-year tenure within the MGA, Ian has established a proven track record of leadership.
+He has successfully spearheaded diverse initiatives spanning economic development, legislative policy, and constituent advocacy across Maryland’s 30A and 40th Legislative Districts, as well as at the statewide level.
+His work is defined by a commitment to bridging the gap between data-driven policy and the lived experiences of Maryland residents.
+Beyond the halls of the State House, Ian is a lifelong learner and an avid explorer.
+He finds inspiration in new cultures and experiences, and he is a passionate enthusiast of outdoor activities and competitive sports.
+- Kendra Nelson Communications Coordinator Kendra brings over a decade of civic engagement and community organizing experience to Delegate Amprey's office.
+A Baltimore native, she previously served as Director of Civic Engagement at No Boundaries Coalition, where she led resident programs across seven Baltimore neighborhoods, building bridges between community members and local government.
+As founder of MVN Media, Kendra specializes in political communications and community-centered storytelling.
+She currently serves on the board of Baltimore Family Alliance and has established herself as a trusted voice in Baltimore's civic landscape, known for creating accessible pathways for community participation in local government.
+Kendra holds deep roots in Baltimore, where she lives with her two children.
+Her work is guided by the belief that effective political communications must be grounded in authentic community relationships and that civic engagement should meet people where they are, in their full complexity.
+- Aisosa Ighile Legislative Staff Aisosa is a second-year Political Science student at Coppin State University, where she focuses her studies on the intersection of policy and social equity.
+Driven by a deep-seated passion for social and environmental justice, she is particularly interested in exploring systemic solutions for prison reform, advancing feminist advocacy, and expanding educational access.
+- Kalea Armstrong Legislative Staff Kalea is a junior at Morgan State University, where she is pursuing a major in Political Science alongside minors in Psychology and Criminal Justice.
+Originally from Pittsburgh, Pennsylvania, Kalea has embraced Baltimore as her second home and is dedicated to serving the residents of the 40th District.
+Driven by a commitment to systemic change, Kalea is deeply passionate about criminal justice reform, racial justice, and community advocacy.
+Her academic and professional pursuits are informed by her firsthand observations of the challenges facing underrepresented communities.
+Following her undergraduate studies, she plans to attend law school to become a criminal defense attorney dedicated to equitable justice.
+Beyond her academic and legislative work, Kalea is a lifelong athlete.
+She currently represents Morgan State University as a student-athlete on the Acrobatics & Tumbling team, a role she has prepared for through competitive sports since the age of five.
+- Reece Dell Legislative Staff Reece is a student at the University of Maryland, College Park, majoring in Government and Politics with a minor in Law and Society.
+Her academic focus centers on legislative processes and the intersection of law and governance, with a specific interest in how legal frameworks can be utilized to create equitable and effective policy.
+An aspiring advocate, Reece intends to attend law school following her graduation.
+She aims to transition her academic background into a career as an attorney, where she can contribute to high-impact policy development and legal advocacy.
+- Ralikh Hayes Campaign Manager

@@ -1,0 +1,16 @@
+Norbut Solar Farms Visit
+I visited a agrivoltaic farm called Norbut Solar Farms on July 15, 2026 Read More...
+Posted on 17 Jul 2026, 12:15 - Category: News
+No Kings' Rally
+An event on the lakefront in Geneva NY Read More...
+Posted on 29 Mar 2026, 9:15 - Category: News
+Campaign Donation Update
+A donation update from the NYS Public Campaign Finance Board Read More...
+Posted on 29 Mar 2026, 9:12 - Category: Campaign Donation Update
+Emily Gregory's Amazing Win
+What this victory can teach us about voting, running for office, and our democracy Read More...
+Posted on 29 Mar 2026, 9:10 - Category: News
+From "Performance Rage" to Action
+Your vote DOES matter!!
+Read More...
+Posted on 29 Mar 2026, 9:06 - Category: Information

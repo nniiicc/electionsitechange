@@ -1,0 +1,71 @@
+Endorsements
+Salem Leaders: Current Elected Officials
+Kim Driscoll
+Mayor
+Lev McClain
+Ward 4 City Councillor
+Andy Varela
+Ward 7 City Councillor
+Beth Anne Cornell
+Salem School Committee
+Patti Morsillo
+City Council President, Ward 3 City Councillor
+Jeff Cohen
+Ward 5 City Councillor
+Alice Merkle
+City Councillor-at-Large
+Kristin Pangallo
+Salem School Committee
+Megan Riccardi
+Ward 6 City Councillor
+Ty Hapworth
+City Councillor-at-Large
+Bob McCarthy
+Ward 1 City Councillor, Dean of the Council
+Groups & Organizations
+Salem Leaders: Former Elected Officials
+John Tierney, Former Congressman, and City Council President
+Lucy Corchado, Former Ward 1 City Councillor
+Christine Madore, Former Ward 2 City Councillor, President
+Lisa Peterson, Former Ward 3 City Councillor
+Beth Gerard, Former Ward 6 City Councillor
+Josh Turiel, Former Ward 5 City Councillor
+Tom Furey, Former City Councillor At Large
+Elaine Milo, Former City Councillor At Large
+Ana Nuncio, Former School Committee Member
+Brendan Walsh, Former School Committee Member
+Statewide Endorsers
+Former Chairman of Ways and Means
+Former Congressman John Tierney
+Jeffrey Sanchez, Honorary Campaign Chair
+House Leader Frank Moran
+House Leader Tommy Golden
+House Leader Paul Donato
+Chairman Carlos Gonzalez
+Chairwoman Chynah Tyler, MBLLC
+Chairman Bud Williams
+Chairman Bill Driscoll
+Chairman Jerry Parisella
+Chairman Adrian Madaro
+Chairman Sean Garabelly
+Chairwoman Alice Peisch
+Chairman Dylan Fernandes
+Vice-Chair, Representative Andy Vargas
+Vice-Chair, Representative John Santiago
+Vice-Chair, Representative Brian Murray
+Vice-Chair, Representative Natalie Higgins
+Representative Jack Patrick Lewis
+Representative Jessica Giannino
+Representative Russell Holmes
+Representative Meg Kilcoyne
+Representative Joan Meschino
+Representative Jake Oliveira
+Representative Ted Phillips
+Representative Michael Kushmerek
+Representative Alan Silvia
+Former State Representative, Juana Matias
+Senator Barry Finegold
+Senator Jamie Eldridge
+Senator Adam Gomez
+Senator Jason Lewis
+Senator Diana DiZoglio, Candidate for Auditor

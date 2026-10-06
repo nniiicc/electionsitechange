@@ -1,0 +1,43 @@
+Top priorities
+What Dr.
+Kim Will Fight For In The Legislature
+“This campaign is about service, not ambition.
+Kim is running so seniors are not left waiting and every resident of Henry County feels seen, heard, and supported.”
+Housing Affordability & Stability
+Rising housing and utility costs are pushing families and seniors to the edge.
+The state plays a direct role in affordability through funding, regulation, and consumer protections.
+- Vote to increase state funding for affordable housing through Georgia’s Housing Trust Fund
+- Support tax incentives for developers who build affordable housing for seniors and working families
+- Strengthen tenant protections related to habitability, safety standards, and transparency
+- Pass Rent Control
+- Advocate for utility affordability programs and consumer protections during rate increase debates
+Seniors & Healthcare Access
+Georgia’s seniors often face delays and confusion accessing benefits and care due to underfunded systems and lack of oversight.
+- Support funding increases for the Department of Human Services programs that serve seniors
+- Advocate for improved oversight and reporting on benefit processing times
+- Expand support for community-based healthcare access programs
+- Strengthen constituent casework support to help seniors navigate state systems
+Strong Public Schools & Student Support
+The state controls school funding formulas and education policy that directly affect Henry County classrooms.
+- Fight for full funding of Georgia’s public school funding formula
+- Support increased state investment in counselors, social workers, and student support services
+- Protect public education funding from being diverted away from local schools
+- Work with educators to ensure state policies reflect classroom realities
+Food Security & Community Support
+Food insecurity is directly affected by state funding decisions and program eligibility rules.
+- Support increased funding for state-administered nutrition assistance programs
+- Strengthen coordination between state agencies and nonprofit food providers
+- Advocate for streamlined access to benefits for families and seniors
+- Push for data-driven oversight to identify and address service gaps
+Transportation & Smart Growth
+The state legislature controls transportation funding and long-term infrastructure planning.
+- Advocate for road safety investments in growing and high-traffic areas
+- Support state transportation funding that reflects population growth
+- Push for accountability and transparency in infrastructure spending
+- Ensure transportation planning prioritizes safety, economic access, and quality of life
+Public Safety & Neighborhood Stability
+Public safety depends on prevention, accountability, and coordination between the state and local agencies.
+- Work with law enforcement and emergency services to address resource gaps
+- Support funding for fraud prevention and consumer protection programs, especially for seniors
+- Advocate for state resources that support community-based prevention efforts
+- Ensure state public safety funding is tied to transparency and accountability

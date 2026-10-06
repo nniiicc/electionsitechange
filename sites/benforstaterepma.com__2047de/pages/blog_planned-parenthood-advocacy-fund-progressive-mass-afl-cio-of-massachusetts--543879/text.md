@@ -1,0 +1,16 @@
+Planned Parenthood Advocacy Fund, Progressive Mass, AFL-CIO of Massachusetts, and Mass Alliance endorse Ben Ewen-Campen for State Rep
+Key endorsements from progressive and labor organizations bolster Ewen-Campen’s campaign in the 27th Middlesex
+JUNE 17, 2026 (Somerville, MA).
+Ben Ewen-Campen’s campaign announced today the endorsement of key progressive and labor organizations in Massachusetts, including Planned Parenthood Advocacy Fund, Progressive Mass, the AFL-CIO of Massachusetts, and Mass Alliance.
+The campaign also announced a first round of endorsements from a wide array of labor unions representing workers across Somerville and Massachusetts: Service Employees International Union (SEIU) 509, United Food & Commercial Workers (UFCW) 1445, International Union of Painters and Tapers (IUPAT) DC 35, and the Boston Teachers Union (BTU).
+President of the Planned Parenthood Advocacy Fund of Massachusetts, Dominique Lee, wrote: “At a time when federal attacks on Planned Parenthood health centers, patients, and providers have skyrocketed, state-level leadership and action matters as we seek to ensure Massachusetts remains a beacon for reproductive freedom and a safe place for people of all identities to live and access care.
+The Planned Parenthood Advocacy Fund is proud to endorse Ben Ewen-Campen, a community-driven leader with a proven record of fighting for every person’s right to make decisions about their health, body, and future.”
+“Ben Ewen-Campen is a progressive champion with a proven track record of organizing and winning,” said Jonathan Cohn, Executive Director of Progressive Mass.
+“Whether by leading the passage of Somerville's affordable housing overlay, making Somerville the second city in the US to prohibit the usage of facial recognition technology, and spearheading the work for Somerville's rent control and transfer fee home rule petitions, Ben has worked to build coalitions to advance agenda-setting policy.
+This combination of progressive values, organizing mindset, and community engagement is exactly what we need at the State House."
+These endorsements follow years of collaboration on progressive legislation in Somerville.
+“I’m thrilled to have earned the support of such a powerful grassroots coalition.
+No individual at the State House can accomplish things by themselves, and I am incredibly proud of the strong and trusting relationships I’ve built with these extraordinary progressive organizations.
+I look forward to working together to fight for progress on Beacon Hill,” said Ewen-Campen, a five-term City Councilor in Somerville.
+These new endorsements come on the heels of endorsements of many current and former elected officials, including Mayor Jake Wilson, State Rep Mike Connolly, and City Councilors from across Somerville.
+The election is on September 1, with options for early voting at City Hall and vote-by-mail.

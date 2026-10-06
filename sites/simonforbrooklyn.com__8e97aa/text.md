@@ -6,6 +6,8 @@ VOTE in the Democratic Primary: June 23
 Election Day: June 23.
 Polls close at 9 PM!
 -104Days
--27Seconds
+-2Hours
+-8Minutes
+-39Seconds
 If you are in line by 9 PM, you can vote!
 Find your poll site at https://vote.nyc.

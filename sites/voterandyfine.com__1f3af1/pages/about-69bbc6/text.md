@@ -1,0 +1,10 @@
+MEET RANDY FINE
+Randy Fine is a self-made businessman and third-generation Floridian who successfully built and ran three companies, retiring by the age of 40 to spend time with his wife and two sons.
+As the child of two public educators and a product of public schools, Randy worked full-time while earning his undergraduate degree magna cum laude from Harvard College.
+He later graduated from Harvard Business School as the youngest MBA in his generation and a Baker Scholar, the school’s highest academic honor.
+In the Florida State House of Representatives, Randy sponsored the largest school choice expansion in U.S. history and has consistently fought for conservative values.
+As the only Jewish Republican in the Florida Legislature, Randy has championed pro-Israel legislation, leading the fight against antisemitism and promoting a strong U.S.-Israel alliance.
+Randy's legislative work includes securing hundreds of millions of dollars for infrastructure and environmental preservation, such as hurricane resiliency projects and efforts to stop sewage spills.
+He is proud to have advocated for individuals with disabilities and assisted in clearing the wait list for services for children with special needs.
+Randy has pushed legislation to clamp down on illegal immigration, hold insurance companies accountable, lower taxes, and protect the second amendment, which earned him an A rating from the NRA.
+Committed to advancing the America First agenda, in Congress, Randy will work to cut job-killing regulations, secure the border, strengthen the economy, and ensure future generations can achieve the American Dream.

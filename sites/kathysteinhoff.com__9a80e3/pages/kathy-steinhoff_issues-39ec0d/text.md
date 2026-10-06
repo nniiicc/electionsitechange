@@ -1,0 +1,3 @@
+Every Missouri child should have access to a free, quality public education, regardless of their zip code.
+As a former teacher, I know all too well that Jefferson City Republicans have created poor working conditions for teachers, slashed programs for students, spread misinformation about curriculum, failed to adequately fund public schools, and even gone so far as to sue school districts for keeping students and staff safe during the pandemic.
+I will fight against these ridiculous attacks on public education and ensure every Missouri student has access to an accurate, honest education that sets them up for the future and doesn’t shy away from hard truths about our past.

@@ -1,0 +1,25 @@
+Gov.
+Healey signs bill, supported by Rep.
+Arciero, protecting public transit workers
+Published on December 9, 2025 by WestfordCAT
+BOSTON — Gov.
+Maura Healey recently signed a bill into law, that was supported by Westford’s state representative James Arciero, which will strengthen protections for public transit workers by expanding laws on assault and battery against public employees in Massachusetts.
+The new law, which was drafted as Bill H.4645, was signed into law by Healey on Wednesday, Dec. 3., after it was unanimously approved by both the House and Senate a few weeks earlier with a 160-0 and 38-0 vote, respectively.
+“I am pleased to support this important legislation to extend legal protections for assaults on public transit workers while performing their duties,” Arciero said, who is also a chair of the House Joint Committee on Transportation.
+“Public transit workers perform an incredibly important service, to help us get to where we are going.
+This legislation protects public transit workers across the Commonwealth including those we meet riding the trains from the Littleton MBTA station on the Fitchburg Line or the North Billerica or Lowell stations on the Lowell Line.
+Public transit workers are also our friends and neighbors working for the regional transit authorities, such as the LRTA and MART, and they deserve the full protection the law provides.”
+According to the Legislature, the new law will ensure that all public transit employees receive the same heightened legal protections as other public employees while performing their jobs, whether they are employed directly by public transit agencies or are employed by private contractors, such as commuter rail operator Keolis.
+Additionally, the Legislature said the new law will add public transit workers to the list of public employees, which includes police officers, firefighters, and emergency medical personnel, who are protected from assault and battery, with heightened penalties for anyone who commits that type of crime.
+“Public transportation employees do important work every day to keep our trains and buses moving on time and ensure the safety of all passengers,” Healey said.
+“They should never be subject to any form of assault simply for doing their jobs.
+This bill ensures that they have the protections they deserve and will enhance safety for all users of our public transportation system.
+I’m grateful to the leadership of Chairs Day and Edwards, Senator Collins, Representative McGonagle, our partners in the Legislature and the Carmen’s Union to pass this essential legislation.”
+Carmen’s Union Local 589, a union representing thousands of train operators, bus operators and other public transit staff across Massachusetts, said the new law was first conceptualized by union members before it made its way to the State House, with union leaders stating that the new law will serve as a “strong deterrent to potential assailants” and provide a safer working environment for bus drivers, train operators, station attendants and other MBTA personnel”.
+“This is a significant victory for everyone who rides or operates public transit,” Carmen’s Union President Jim Evers said.
+“We are thankful to our elected leaders in the House and Senate and Governor Healey for supporting this common sense legislation that will keep our members safe.
+Our MBTA bus and train operators deserve to be able to do their jobs without fear of assault, while commuters deserve to know that public transportation is safe.
+This new law ensures that those who assault public transit workers will be held accountable and that our valued transportation employees are protected.”
+The new law will clarify the definition of assault by recognizing that projecting bodily fluids, including spitting or throwing substances like urine, constitutes assault against a public worker.
+Offenders will face a sentence ranging from a minimum of 90 days to two and a half years in a house of correction, a fine between $500 and $5,000, or both.
+The new law is set to take effect on March 3, 2026.

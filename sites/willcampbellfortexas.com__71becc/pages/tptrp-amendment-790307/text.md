@@ -1,0 +1,3707 @@
+THE TEXAS PROPERTY TAX REPLACEMENT PLAN
+House Joint Resolution · Tex.
+Const. arts.
+III, VII, VIII, IX, XI, XVI
+A constitutional amendment abolishing every property tax in Texas at every level of government, abolishing
+the
+franchise tax and the state and local taxes on fuel, vehicles, insurance, hotels, beverages, tobacco, and
+utilities,
+and replacing all of them with a single sales and use tax capped at six percent — with voter approval
+required
+for every rate increase, every new tax, and every dollar of government borrowing.
+By: ______________________
+H.J.R.
+No. ______
+A JOINT RESOLUTION
+proposing a constitutional amendment known as the Texas Property Tax Replacement
+Plan: abolishing all ad valorem property taxes imposed by this state and by every county, municipality,
+school district, and special district of this state; abolishing the franchise tax and all other taxes
+measured by revenue, gross receipts, margin, or business activity; abolishing the state taxes on motor
+fuels, on oil and gas production, on motor vehicle sales, use, and rental, on insurance premiums, on
+hotel occupancy, on mixed beverages and alcoholic beverages, on cigarettes and tobacco products, on
+utility gross receipts, and on coin-operated machines, together with the local counterparts of those
+taxes, including municipal and county hotel occupancy taxes, venue project taxes, and short-term motor
+vehicle rental taxes, as duplicative second sales taxes that violate the principle of equal and uniform
+taxation; preserving each constitutional dedication those taxes funded by re-keying it to the sales and
+use tax collected on the same transactions; guaranteeing every obligation secured by an abolished tax;
+establishing a single flat sales and use tax as the sole form of taxation any taxing entity of this
+state may impose as a matter of right; establishing the constitutional definitions of a taxable
+transaction, an agent transaction, and the categories of transactions excluded from the tax base;
+establishing the sourcing, rate-uniformity, economic-nexus, and market-access requirements applicable to
+all sellers, including out-of-state and foreign sellers; establishing the Cost of Living Standard as the
+sole constitutional test for any exemption and authorizing the Texas Living Exemption Set; establishing
+a five-tier rate structure with a Constitutional Cap Rate for each tier, an Interest and Sinking
+sub-rate certified by the comptroller, and a Maintenance and Operations sub-rate that may be reduced by
+a governing body but increased only by the voters; establishing the Total Budget Cap, the Cumulative
+Budget Growth Cap, the Actual Need Ratio and its mandatory rate-reduction ballot, the Mandatory
+Expenditure Reduction Plan, and mandatory public disclosure; guaranteeing all outstanding bond
+obligations, requiring voter approval for all future government borrowing, and establishing the Citizens
+First Bond Sale Requirement and the I&S Reserve Fund; establishing for every taxing entity a
+Stabilization Fund, an Infrastructure Fund, a First Responder Fund, an I&S Reserve Fund, and a
+Citizen Dividend Fund, together with the TPTRP Surplus Waterfall, the tiered disaster cascade, and the
+Citizen Dividend; establishing the TPTRP Transition Fund, the TPTRP Transition Board, and the TPTRP
+Transition Monitoring Division; repealing the Foundation School Program and the excess local revenue
+recapture system and funding each school district from its own rate, with a constitutional definition of
+the efficient system of public free schools and a guaranteed funding floor delivered through the
+transition and post-transition assistance framework; making the rejection of a proposed rate increase by
+the voters of a jurisdiction binding on the governing body and disqualifying for state assistance;
+establishing citizen enforcement standing with fee-shifting for every provision of this amendment; and
+making all conforming amendments and repeals necessary to give this amendment full effect.
+BE IT RESOLVED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+PREAMBLE — LEGISLATIVE FINDINGS
+The Legislature of the State of Texas finds:
+1.
+Property taxation in this state has become a tax on unrealized value
+rather than on economic activity.
+The ad valorem tax is assessed against the appraised value of
+property a citizen already owns, without regard to whether the citizen realized any income, made any
+sale, or engaged in any transaction.
+It is the only tax in this state that a citizen may be required to
+pay by selling the very asset being taxed, and the only tax whose nonpayment results in the forced sale
+of a family's home.
+No reform of appraisal practice, exemption schedule, or rate limitation has
+altered that structural fact.
+2.
+The current sales and use tax base reaches only a fraction of the economic
+activity occurring in this state.
+Six decades of statutory exemption, exclusion, and
+definitional carve-out have removed most business-to-business, wholesale, intermediate, and service
+transactions from the base.
+The narrowness of the base — not the inadequacy of transaction taxation
+itself — is the reason a transaction tax has not previously been capable of replacing the property tax.
+3.
+A transaction tax applied to the full universe of taxable transactions, at
+a uniform rate, without exemption for any industry, profession, organizational form, or political
+interest, is capable of funding every taxing entity in this state at its current level of revenue while
+eliminating the ad valorem tax entirely.
+The definitions, prohibitions, and rate structure
+established by this amendment are the mechanism by which that base is defined and protected from future
+erosion.
+4.
+Exemptions must be constitutionally bounded rather than legislatively
+discretionary.
+An exemption granted to an industry, a profession, or a class of sellers shifts
+the burden of the exempted transactions onto every other taxpayer and narrows the base until the rate
+must rise.
+The Cost of Living Standard established by this amendment permits exemption only where the
+transaction directly and primarily affects the cost of living of individual Texas citizens and their
+families, applied uniformly and without distinction, and voids any exemption that fails that test.
+5.
+Rate limits are meaningless unless they are constitutional and unless the
+mechanisms of circumvention are closed in the same instrument.
+Governments facing statutory
+rate limits have historically substituted mandatory fees, assessments, surcharges, reclassifications,
+and duplicate special-purpose entities for the taxes they could not raise.
+This amendment defines each
+of those mechanisms as a rate increase requiring voter approval.
+6.
+The current Texas Constitution requires a fiscal reserve of the State
+alone, through the Economic Stabilization Fund established by Article III, Section 49-g.
+No
+equivalent constitutional requirement exists for the counties, municipalities, independent school
+districts, or special districts of this state, and no taxing entity of any kind is constitutionally
+required to maintain reserves for infrastructure, first responder capital needs, bond debt service, or
+the return of surplus revenue to citizens.
+Extending that architecture to every taxing entity reduces
+the risk of local fiscal failure and ensures that public safety and public infrastructure are funded
+before any discretionary use of surplus.
+7.
+Surplus revenue in excess of an entity's constitutionally certified
+need belongs to the citizens who paid it.
+The sequence by which surplus flows through an entity's
+constitutionally required funds, and is ultimately returned to citizens as a Citizen Dividend, is itself
+a citizen protection co-equal in constitutional stature with the rate limits and voter-approval
+requirements established by this amendment.
+8.
+Every taxing entity of this state is, in substance, an enterprise owned by
+its citizens.
+The citizens are the owners; the elected governing body is the management.
+A
+revenue system based on transactions rather than appraised values aligns the financial interests of the
+entity with the economic well-being of its jurisdiction, because revenue grows only when commerce grows.
+9.
+The abolition of the ad valorem tax must not impair a single outstanding
+bond obligation.
+The substitution of a dedicated sales and use tax revenue stream, secured by
+an entity-level reserve fund, a tiered shortfall cascade, and an irrevocable state guarantee, is a
+revenue enhancement to every existing bondholder and not an impairment of any bond contract.
+10.
+No taxing entity of this state should be placed in financial exigency by
+the transition itself.
+A temporary Transition Fund, a temporary Transition Board with authority
+to provide supplemental assistance and to build permanent transaction-tax base in shortfall
+jurisdictions, and a permanent monitoring function within the office of the comptroller are necessary to
+guarantee continuity of essential services during the transition period.
+11.
+The purpose of the tiered disaster cascade established by this amendment
+is to reduce the cost of recovery borne directly by citizens whose property is damaged and by local
+businesses whose operations are disrupted, and to reduce the long-term dependence of this state and its
+citizens on private insurance and federal disaster assistance.
+A disaster that can be fully
+addressed at the level of the affected municipality, school district, or county should be resolved at
+that level, so that state resources remain available for events that genuinely exceed local and regional
+capacity.
+12.
+School finance built on each district's own transaction base, with a
+guaranteed floor, is an efficient system.
+The Foundation School Program and the excess local
+revenue recapture system have produced six decades of litigation without producing either equality or
+adequacy, and recapture has required the taxpayers of one community to fund the schools of another.
+A
+structure under which every district levies within the same constitutional maximum, sets its own rate
+through its own board and its own voters, keeps every dollar it collects, and is guaranteed assistance
+sufficient to fund the general diffusion of knowledge when its own collections fall short, provides
+equal access to revenue capacity and a guaranteed funding floor without redistribution.
+13.
+Beyond a level of approximately $10,000 of maintenance and operations
+revenue per enrolled student, additional per-student spending has not been shown to produce measurable
+improvement in student outcomes.
+The Legislature therefore finds that the citizens of a school
+district are entitled to be told, plainly and prominently, when their district's maintenance and
+operations revenue per enrolled student exceeds that level.
+The disclosure required by this amendment is
+a transparency measure directed to the citizens who own the district, and is not a cap, a limit, or a
+distribution formula.
+14.
+No taxing entity should be left without a remedy when the transition
+period ends.
+The economic development authority exercised by the Transition Board during the
+transition period is made permanent in the office of the comptroller, and the economic stabilization
+fund is made available for that purpose, so that an entity whose own transaction base is not yet
+sufficient has a continuing path to self-sufficiency rather than a fiscal cliff.
+15.
+When the voters of a jurisdiction decline to approve a tax rate increase,
+that decision is an instruction, not an obstacle.
+The purpose of requiring voter approval to
+raise a rate is defeated if the entity can obtain from the State the revenue its own taxpayers refused
+to authorize.
+Assistance from the State is therefore available only to an entity whose voters have
+approved a rate at the constitutional maximum available to that entity and whose collections at that
+rate still fall short of the entity's certified baseline.
+An entity whose voters have said no shall
+live within the revenue its existing rate produces.
+16.
+A tax imposed on a single product, service, or industry is a second sales
+tax and is not equal and uniform.
+A hotel occupancy tax, a venue tax, a rental car tax, a
+beverage tax, and a tobacco tax each impose on one class of transaction a burden that other transactions
+do not bear.
+Layering such a tax on top of a uniform sales and use tax recreates the special-interest
+targeting this amendment is designed to end, in the opposite direction.
+Every tax of that character is
+therefore abolished at every level of government, and no election may authorize a new one.
+17.
+Each provision of this amendment is deliberately bounded in
+constitutional definition — establishing existence, core purpose, minimum requirement, and
+outer limit — so that administration, procedure, and day-to-day management are left to implementing
+legislation, consistent with the principle that a state constitution establishes durable structure and
+boundaries rather than operational detail.
+ARTICLE 1.
+AMENDMENTS TO ARTICLE VIII — TAXATION AND REVENUE
+The section designations 1-m, 1-n (two sections presently
+carry this designation), 1-o, 1-p, 1-r, 1-s, 1-x, and 1-y are occupied by ad valorem exemption and
+limitation provisions that Article 8 of this resolution repeals because they are rendered inoperative by
+the abolition of ad valorem taxation.
+By direction of the author, this resolution reuses those
+designations within the same instrument for the Texas Property Tax Replacement Plan, because every
+cross-reference in the component drafts, in the implementing legislation, and in the public explanatory
+materials is built on that numbering.
+The Council is asked to confirm the form of the repeal-and-reuse
+construction and to verify each existing designation against the constitution as published on the date
+of filing, Article VIII lettering having changed at each recent amendment election.
+No substantive
+provision depends on the form adopted.
+SECTION 1.01.
+EQUALITY AND UNIFORMITY; PROPERTY NO LONGER TAXED IN PROPORTION TO VALUE.
+Section 1, Article VIII, Texas Constitution, is amended by amending Subsections (a),
+(b), and (c) and adding Subsection (o) to read as follows:
+Sec. 1.
+EQUALITY AND UNIFORMITY OF TAXATION; TAXATION OF TRANSACTIONS;
+PROHIBITION ON TAXATION OF PROPERTY IN PROPORTION TO VALUE.
+(a) Taxation shall be equal and uniform.
+Equality and uniformity under this section
+is satisfied with respect to the sales and use tax established by this article when the same rate and
+the same obligations apply to every taxable transaction and to every seller within a taxing entity's
+jurisdiction without regard to the identity, industry, profession, organizational form, domicile, or
+political influence of the buyer or the seller.
+(b) No real property, tangible personal property, or intangible property in this
+state, whether owned by a natural person or by a corporation, may be taxed in proportion to its value,
+or by reference to its appraised, assessed, market, or ownership value, by this state or by any
+political subdivision of this state.
+All taxation of property in proportion to value is abolished and
+prohibited as provided by Section 1-e of this article.
+(c) The Legislature may not impose, and may not authorize any political subdivision
+of this state to impose, a tax measured by the income, revenue, gross receipts, taxable margin, profit,
+or business activity of a natural person or a corporation.
+The Legislature may impose an occupation tax
+only as permitted by Section 1-m of this article.
+Persons engaged in mechanical and agricultural
+pursuits shall never be required to pay an occupation tax.
+(o) The sales and use tax established and governed by Sections 1-m through 1-w of
+this article is the sole form of taxation that this state or any political subdivision of this state may
+impose as a matter of right.
+Subsections (d) through (n) of this section, which provided for exemptions
+from and limitations on the taxation of property in proportion to value, are repealed as provided by
+Article 8 of the joint resolution proposing this amendment, and have no further force or effect.
+SECTION 1.02.
+ABOLITION OF AD VALOREM PROPERTY TAXES; PRESERVATION OF BOND OBLIGATIONS.
+Section 1-e, Article VIII, Texas Constitution, is amended to read as follows:
+Sec. 1-e.
+AD VALOREM PROPERTY TAXES ABOLISHED AND PROHIBITED; BOND OBLIGATIONS PRESERVED.
+(a) No State ad valorem taxes shall be levied upon any property within this State.
+(b) No ad valorem tax on property—real, personal, or mixed—shall be levied,
+assessed, collected, or enforced by the State of Texas, or by any county, municipality, school district,
+or special district of this State.
+All ad valorem property taxes at every level of Texas government are
+hereby abolished and prohibited.
+(c) Nothing in this section shall impair the obligation of any bond, note, or other
+obligation issued by any taxing entity in reliance upon the ad valorem taxing authority repealed herein.
+All such pre-abolition obligations remain valid and enforceable.
+Payment of such obligations is
+guaranteed and secured as provided in Article VIII, Section 1-o of this Constitution.
+The repeal of ad
+valorem taxing authority is a substitution of revenue source, not a diminishment of any bond obligation.
+(d) Findings and purpose.
+The people of Texas, in adopting this section and
+Sections 1-m through 1-w of this article, find and declare:
+(1) The ad valorem tax is assessed against value a citizen has not realized, without
+regard to whether the citizen earned income, made a sale, or engaged in any transaction, and its
+nonpayment results in the forced sale of the taxed property.
+No reform of appraisal practice, exemption
+schedule, or rate limitation has altered that structural fact.
+(2) A tax applied to the full universe of taxable transactions, at a uniform rate,
+without exemption for any industry, profession, organizational form, or political interest, is capable
+of funding every taxing entity of this state at its current level of revenue while eliminating the ad
+valorem tax entirely.
+The narrowness of the former sales tax base, and not the inadequacy of transaction
+taxation, is the reason a transaction tax had not previously replaced the property tax.
+(3) An exemption granted to an industry, a profession, or a class of sellers shifts
+the burden of the exempted transactions onto every other taxpayer and narrows the base until the rate
+must rise.
+Exemption is therefore permitted only under the Cost of Living Standard established by
+Section 1-r of this article, applied uniformly and without distinction.
+(4) A rate limit is meaningless unless the mechanisms of its circumvention are closed
+in the same instrument.
+Mandatory fees, assessments, surcharges, reclassifications, and duplicate
+special-purpose entities substituted for a tax that could not be raised are rate increases requiring the
+approval of the voters.
+(5) A tax imposed on a single product, service, or industry is a second sales tax and
+is not equal and uniform.
+Layering such a tax on a uniform sales and use tax recreates the
+special-interest targeting this article is designed to end.
+(6) No provision of this constitution required a fiscal reserve of any taxing entity
+other than the State, and none required any entity to reserve for infrastructure, first responder
+capital needs, bond debt service, or the return of surplus to citizens.
+Extending that architecture to
+every taxing entity reduces the risk of local fiscal failure and funds public safety and public
+infrastructure before any discretionary use of surplus.
+(7) The substitution of a dedicated sales and use tax revenue stream, secured by an
+entity-level reserve fund, a tiered shortfall cascade, and an irrevocable guarantee of the State, is a
+revenue enhancement to every holder of an outstanding obligation and is not an impairment of any
+contract.
+(8) The purpose of the tiered disaster cascade established by this article is to
+reduce the cost of recovery borne by citizens whose property is damaged and by local businesses whose
+operations are disrupted, and to reduce the dependence of this state and its citizens on private
+insurance and federal disaster assistance.
+A disaster that can be addressed at the level of the affected
+entity should be resolved at that level.
+(9) A system under which every school district levies within the same constitutional
+maximum, sets its own rate through its own board and its own voters, keeps every dollar it collects, and
+is guaranteed assistance sufficient to fund the general diffusion of knowledge when its own collections
+fall short, provides equal access to revenue capacity and a guaranteed funding floor without
+redistribution, and is an efficient system of public free schools.
+The Foundation School Program and the
+excess local revenue recapture system produced six decades of litigation without producing either
+equality or adequacy, and recapture required the taxpayers of one community to fund the schools of
+another.
+(10) Beyond approximately $10,000 of maintenance and operations revenue per enrolled
+student, additional per-student spending has not been shown to produce measurable improvement in student
+outcomes.
+The disclosure required by Section 1-n(l) of this article is a transparency measure directed
+to the citizens who own the district, and is not a cap, a limit, or a distribution formula.
+(11) No taxing entity should be placed in financial exigency by the transition to
+this system, and none should be left without a remedy when the transition ends.
+Temporary transition
+assistance, and its permanent successor in the office of the comptroller, exist so that an entity whose
+own transaction base is not yet sufficient has a continuing path to self-sufficiency rather than a
+fiscal cliff.
+(12) When the voters of a jurisdiction decline to approve a rate increase, that
+decision is an instruction and not an obstacle.
+The purpose of requiring voter approval is defeated if
+the entity may obtain from the State the revenue its own taxpayers refused to authorize.
+An entity whose
+voters have said no shall live within the revenue its existing rate produces.
+(13) Each provision of this section and of Sections 1-m through 1-w of this article
+is bounded in constitutional definition, establishing existence, core purpose, minimum requirement, and
+outer limit, so that administration, procedure, and day-to-day management are left to implementing
+legislation.
+SECTION 1.03.
+PROHIBITED FORMS OF TAXATION; ADDITIONAL TAX FORMS; PROHIBITION ON CIRCUMVENTION.
+Section 1-m, Article VIII, Texas Constitution, is repealed as provided by Article 8
+of this resolution, and Article VIII, Texas Constitution, is amended by adding Section 1-m to read as
+follows:
+Sec. 1-m.
+PROHIBITED FORMS OF TAXATION; ADDITIONAL TAX FORMS REQUIRE VOTER APPROVAL; PROHIBITION ON CIRCUMVENTION.
+(a) Definitions.
+In this section and in Sections 1-n through 1-w of this
+article:
+(1) "Taxing entity" means the State of Texas, any county, any incorporated
+municipality, any independent school district, and any Tier 5 entity.
+(2) "Tier 5 entity" means any special district, authority, corporation, or
+other political subdivision or instrumentality of this state, however created and by whatever name, that
+in its final year before the Implementation Date levied an ad valorem tax, imposed a local sales and use
+tax, or received a dedicated share of either, and that is not the State of Texas, a county, an
+incorporated municipality, or an independent school district.
+The term includes, without limitation,
+municipal utility districts, water control and improvement districts, fresh water supply districts,
+drainage and levee improvement districts, groundwater conservation districts, river authorities,
+hospital districts, emergency services districts, jail districts, airport authorities, junior college
+and community college districts, library districts, metropolitan and regional transit and transportation
+authorities, crime control and prevention districts, county assistance districts, municipal development
+districts, and Type A and Type B economic development corporations.
+A district, authority, or
+corporation that met this definition in its final year is a Tier 5 entity whether or not the Legislature
+has separately classified it.
+The TPTRP Transition Board shall publish the roster of Tier 5 entities,
+and each entity's initial apportioned share of the Tier 5 aggregate cap under Section 1-n(b)(4) of
+this article, not later than the Implementation Date.
+(3) "Implementation Date" has the meaning assigned by Section 1-n(a) of
+this article.
+(b) Prohibited forms of taxation.
+In addition to all prohibitions already
+established by this constitution, no taxing entity may impose, assess, collect, or enforce:
+(1) any tax, levy, assessment, or charge measured by the value, appraised value,
+assessed value, or ownership of real, personal, or mixed property;
+(2) any tax measured by revenues, gross receipts, net income, profit, taxable margin,
+or business activity of any person or entity, including the franchise tax;
+(3) any tax measured by or imposed upon a transaction, a sale, a receipt, or the
+purchase, use, storage, rental, occupancy, or consumption of a product or service, other than the sales
+and use tax established by this article, including a tax that applies to a particular product, service,
+commodity, industry, or class of seller and not to taxable transactions generally.
+A tax described by
+this subdivision is a second and duplicative sales tax, is not equal and uniform within the meaning of
+Section 1(a) of this article, and is prohibited at every level of government in this state; or
+(4) any occupation tax, license fee, permit fee, or regulatory assessment the primary
+economic effect of which is to supplement general operating revenues rather than to fund the specific
+regulatory or service activity the fee nominally covers.
+All ad valorem taxes, property-based taxes, franchise taxes, margin taxes, and
+product-specific or transaction-specific taxes at every level of government in this state are abolished
+and prohibited.
+No taxing entity that has abolished such a tax under this article may reimpose it by any
+name or in any form.
+An occupation tax, license fee, permit fee, or regulatory assessment that is equal
+and uniform under Section 2 of this article and that is set at an amount reasonably related to the cost
+of the specific regulatory or service activity it funds is not prohibited by Subdivision (4) of this
+subsection.
+A charge for the actual, metered, or contracted delivery of a utility or other service
+furnished to a customer, a benefit-based special assessment, an impact fee, and a toll are not
+prohibited by Subdivision (3) of this subsection.
+(c) Taxes abolished and replaced by the sales and use tax.
+On the
+Implementation Date, the following taxes are abolished and may not be reimposed by this state or by any
+political subdivision of this state, by any name or in any form, the revenue formerly derived from them
+being replaced by the sales and use tax established by Section 1-n of this article:
+(1) the franchise tax and every successor or equivalent tax measured by margin,
+revenue, or gross receipts;
+(2) the taxes imposed on gasoline, diesel fuel, and other motor fuels and
+lubricants;
+(3) the taxes imposed on the production of oil, gas, and condensate at the wellhead,
+and the regulatory fees measured by production volume or value that function as production taxes;
+(4) the taxes imposed on the sale, use, or rental of a motor vehicle;
+(5) the taxes imposed on insurance premiums and on the gross receipts of insurers,
+agents, and brokers;
+(6) the hotel occupancy taxes imposed by this state;
+(7) the taxes imposed on mixed beverages, on the gross receipts of mixed beverage
+permittees, and on the sale of alcoholic beverages;
+(8) the taxes imposed on cigarettes, cigars, and other tobacco products;
+(9) the taxes imposed on the gross receipts of utilities and of utility companies;
+(10) the taxes imposed on coin-operated machines;
+(11) the local counterparts of the taxes described by Subdivisions (2) through (10)
+of this subsection, including a municipal or county hotel occupancy tax, a venue project tax, a
+short-term motor vehicle rental tax, a local mixed beverage or alcoholic beverage tax, and any other tax
+imposed by a political subdivision upon a particular product, service, or class of transaction; and
+(12) each additional tax, imposed by this state or by a political subdivision of this
+state, that is measured by a transaction, a sale, a receipt, or the volume or value of a product sold or
+produced, other than a fee reasonably related to the cost of a specific regulatory or service activity,
+whether or not enumerated in this subsection.
+Each transaction formerly subject to a tax abolished by this subsection is a taxable
+transaction under Section 1-p of this article and is subject to the sales and use tax established by
+this article, except as exempted under Section 1-r of this article.
+Each purpose formerly funded by a
+tax abolished by this subsection is funded on and after the Implementation Date from the sales and use
+tax revenue dedicated to that purpose by this constitution, or by legislative appropriation where no
+dedication applies.
+(d) Additional forms of taxation require voter approval; forms that may never be
+authorized.
+No taxing entity may impose any tax, levy, assessment, or charge of any kind, by any
+name or in any form, beyond the sales and use tax authorized by this article, unless the tax has been
+approved by a majority of the qualified voters within the affected jurisdiction voting at a lawfully
+conducted election.
+Voter approval under this subsection may authorize only a form of taxation that is
+not prohibited by Subsection (b) or (c) of this section.
+No election may authorize a tax measured by the
+value or ownership of property, a tax measured by income, revenue, gross receipts, margin, profit, or
+business activity, or a tax measured by or imposed upon a transaction or upon a particular product or
+service.
+A tax of a form prohibited by this section is void whether or not approved by the voters.
+The
+State of Texas is subject to this requirement in the same manner as every other taxing entity, and no
+statewide tax may be imposed under this subsection without approval by a majority of the qualified
+voters of this state voting at a statewide election.
+(e) Prohibition on circumvention.
+No taxing entity may impose, assess,
+collect, or enforce any mandatory monetary obligation upon persons or transactions within its
+jurisdiction — by any name or in any form, including a fee, assessment, surcharge, or levy — the primary
+economic effect of which is to supplement general revenues, unless the obligation has been approved by a
+majority of the qualified voters within the affected jurisdiction voting at a lawfully conducted
+election.
+(f) Acts constituting a rate increase.
+Each of the following constitutes a
+tax rate increase for all purposes of this article and is subject to every voter-approval requirement
+applicable to an increase in the Maintenance and Operations rate under Section 1-n of this article:
+(1) the imposition of any new mandatory fee or assessment that is not directly and
+solely tied to a specific, voluntarily used service;
+(2) the reclassification of any previously excluded or exempt transaction class as
+taxable, which may be accomplished only by amendment of this constitution;
+(3) the creation of any new governmental entity the primary purpose of which
+duplicates or supplements the existing service functions of an entity already subject to this article;
+and
+(4) the expansion of any service fee definition such that the fee functions as a
+source of general operating revenue.
+(g) Enforcement.
+The comptroller of public accounts has standing and
+authority to challenge any obligation imposed in violation of this section and to seek injunctive relief
+in a district court of Travis County.
+Any Texas citizen has standing to bring a civil action to
+challenge any such obligation in the district court of the county in which the entity is located.
+A
+prevailing citizen shall be awarded reasonable attorney's fees and costs.
+A citizen who does not
+prevail bears no penalty beyond denial of the claim.
+(h) Prohibitions retained.
+Nothing in this section diminishes any
+prohibition on taxation already established by this constitution, including the prohibitions on an
+individual income tax under Section 24-a, a capital gains tax under Section 24-b, a wealth tax under
+Section 25, a death or inheritance tax under Section 26, a transfer tax on the conveyance of real
+property under Section 29, and a tax on securities market operators and transactions under Section 30 of
+this article.
+SECTION 1.04.
+THE SALES AND USE TAX — TIERED RATE STRUCTURE, CONSTITUTIONAL CAP RATE, RATE GOVERNANCE, BUDGET LIMITS, AND DISCLOSURE.
+Section 1-n, Article VIII, Texas Constitution (exemption from ad valorem taxation of
+raw cocoa and green coffee), and Section 1-n, Article VIII, Texas Constitution (exemption from ad
+valorem taxation of tangible personal property held temporarily at certain locations), are repealed as
+provided by Article 8 of this resolution, and Article VIII, Texas Constitution, is amended by adding
+Section 1-n to read as follows:
+Sec. 1-n.
+SALES AND USE TAX — TIERED RATE STRUCTURE, CONSTITUTIONAL CAP RATE,
+RATE GOVERNANCE, BUDGET LIMITS, AND MANDATORY DISCLOSURE.
+(a) Definitions.
+In this section:
+(1) "Total rate" means the sum of a taxing entity's Maintenance and
+Operations rate and its Interest and Sinking rate.
+(2) "Maintenance and Operations rate" or "M&O rate" means the
+component of a taxing entity's total rate dedicated to the entity's maintenance and operations
+expenditures, set by the governing body of the entity within the limits established by this section.
+(3) "Interest and Sinking rate" or "I&S rate" means the
+component of a taxing entity's total rate dedicated to the payment of certified annual bond debt
+service, certified by the comptroller of public accounts as provided by Subsection (h) of this section.
+(4) "Constitutional Cap Rate" or "CCR" means the maximum total
+rate established by Subsection (b) of this section for the tier in which a taxing entity is classified.
+No entity's total rate may exceed its CCR under any circumstance.
+(5) "Starting Combined Rate" means the sum of the initial tier rates
+established by the general law implementing this article, which may not exceed three and one-quarter
+percent (3.25%) in the aggregate on the Implementation Date.
+(6) "Total Replacement Obligation" means, for each taxing entity, the
+revenue required to replace all revenue the entity derived in its final year of ad valorem taxation from
+every tax abolished by this article, as certified by the comptroller.
+(7) "Chief financial officer" means the officer or employee of a taxing
+entity charged by law or by the governing body with primary responsibility for the entity's
+financial administration.
+(8) "Available Base Revenue" means the entity's projected Maintenance
+and Operations collections for the coming fiscal period, as certified by the chief financial officer
+using the comptroller's certified growth rate, reduced by five percent to preserve the minimum
+operating buffer required by this section.
+(9) "Qualified Rate Change Event" means a voluntary reduction of the M&O
+rate by the governing body or a voter-approved increase of the M&O rate.
+An automatic rate change
+resulting from bond retirement, from Interest and Sinking over-collection, or from a mandatory Actual
+Need Ratio reduction is not a Qualified Rate Change Event and does not reset any baseline established by
+this section.
+(10) "Allowed Budget Maximum" means the amount determined by applying the
+Allowed Budget Growth Rate to the entity's adopted Maintenance and Operations budget as of the most
+recent Qualified Rate Change Event and reducing the result by five percent.
+(11) "Allowed Budget Growth Rate" means one-half of the cumulative growth
+in the entity's Maintenance and Operations revenue measured from the most recent Qualified Rate
+Change Event to the current fiscal period.
+(12) "Total Budget Cap" means the lesser of the Available Base Revenue and
+the Allowed Budget Maximum.
+(13) "Actual Need Ratio" or "ANR" means the quotient of an entity's
+actual Maintenance and Operations cash collections divided by the sum of its adopted Maintenance and
+Operations expenditures, its Interest and Sinking bond debt service, and the five percent minimum
+operating buffer for the same fiscal year.
+(14) "Maximum Available Rate" means the Constitutional Cap Rate for the
+tier in which a taxing entity is classified or, for a Tier 5 entity, that entity's apportioned
+share of the Tier 5 aggregate cap under Subsection (b)(4) of this section, imposed by the entity
+following approval by its voters under Subsection (d) of this section.
+An entity is imposing its Maximum
+Available Rate only when its total rate equals that amount.
+(15) "Final Year Baseline" means, for each taxing entity, the sum,
+certified by the comptroller of public accounts, of the revenue the entity derived in its last full
+fiscal year before the Implementation Date from: its ad valorem taxes; its local sales and use taxes;
+every other tax abolished by Section 1-m(c) of this article that the entity levied or of which it
+received a dedicated share; and, for an independent school district, its Foundation School Program
+entitlement and every other form of state funding it received in that year.
+For the State of Texas, the
+Final Year Baseline is the State's final-year revenue from every tax abolished by this article.
+The
+Final Year Baseline is the measure against which an entity's Total Replacement Obligation, the
+sufficiency of its rate, and its eligibility for assistance under Section 1-u of this article are
+determined.
+(16) "Implementation Date" means the date established by the general law
+implementing this article on which collection of the sales and use tax under the tiered rate structure
+begins and the prohibition established by Section 1-e of this article takes effect.
+(b) Five tiers; Constitutional Cap Rate.
+The sales and use tax established
+by this article shall be levied within a five-tier structure corresponding to the five classes of taxing
+entities authorized to receive revenue under this article.
+Each tier has the Constitutional Cap Rate
+stated in this subsection:
+| Tier | Class of taxing entity | Constitutional Cap Rate |
+|---|---|---|
+| Tier 1 | The State of Texas | 2.00% |
+| Tier 2 | Counties | 1.00% |
+| Tier 3 | Incorporated municipalities | 1.00% |
+| Tier 4 | Independent school districts | 1.50% |
+| Tier 5 | Special districts | 0.50% |
+| Maximum combined rate | All tiers | 6.00% |
+(1) The Constitutional Cap Rate is a ceiling, not a schedule.
+The
+Constitutional Cap Rate of a tier is the maximum total rate that may be imposed by each individual
+taxing entity classified in that tier.
+It is not a fixed rate, a required rate, or a uniform rate.
+Except for the starting rates established under Subsection (c)(2) of this section, the rate of each
+taxing entity is determined individually by that entity under Subsections (c) and (d) of this section,
+is not set by, tied to, indexed to, or affected by the rate of any other taxing entity in the same tier
+or in any other tier, and need not be uniform among the entities classified in a tier.
+(2) No entity may exceed its tier cap.
+No taxing entity may impose a total
+rate that exceeds the Constitutional Cap Rate for its tier, by any name or in any form, by any act of
+the Legislature, by any ordinance, resolution, or administrative instrument, by voter approval, or by
+any other means.
+No Constitutional Cap Rate may be raised except by amendment of this constitution
+approved by the voters of this state.
+(3) The tax stack; six percent ceiling at every location.
+The rate applied
+to a taxable transaction is the sum of the rates then in effect for each taxing entity whose
+jurisdiction includes the location to which the transaction is sourced under Section 1-p of this
+article.
+That sum may not exceed six percent (6.00%) at any location in this state, and no combination
+of overlapping jurisdictions may produce a rate in excess of six percent at any location.
+(4) Tier 5 is an aggregate cap.
+Because the jurisdictions of special
+districts overlap one another, the Tier 5 Constitutional Cap Rate of one-half of one percent (0.50%) is
+the maximum aggregate rate that may be imposed at any location in this state by all Tier 5 entities
+whose jurisdictions include that location, combined.
+Where the jurisdictions of two or more Tier 5
+entities overlap:
+(A) the combined Tier 5 rate applicable at the overlapping location may not exceed
+one-half of one percent (0.50%);
+(B) the TPTRP Transition Board established by Section 1-u of this article shall,
+during the transition period, apportion the available Tier 5 rate among the overlapping entities by
+administrative order, based on each entity's certified obligations, and shall evaluate whether an
+overlapping district should be absorbed by, consolidated with, or dissolved into another entity as
+provided by Section 1-u and Section 1-o(g) of this article; and
+(C) after the Transition Board terminates, the TPTRP Transition Monitoring
+Division established by Section 1-u(h) of this article performs the apportionment function of Paragraph
+(B) of this subdivision.
+A Tier 5 entity whose apportioned share is reduced under this subdivision
+retains the right to seek an increase within its apportioned share under Subsection (d) of this section,
+and may not obtain an increase that would cause the combined Tier 5 rate at any location to exceed
+one-half of one percent.
+(5) Sufficiency of a special district's need.
+A Tier 5 entity whose
+service obligations are fully funded from its own operating revenues, user charges, or other lawful
+sources, without need for its apportioned share of the Tier 5 rate, shall have its rate reduced
+accordingly under Subdivision (4) of this subsection, and is a candidate for absorption or dissolution
+as provided by Section 1-u of this article.
+(b-1) Taxing entities created after the Implementation Date.
+A taxing
+entity created after the Implementation Date has no Final Year Baseline, no Total Replacement
+Obligation, and no eligibility for assistance under Section 1-u of this article.
+Its initial rate is
+zero.
+The entity may impose a rate only after approval by its voters under Subsection (d) of this
+section, and the first rate submitted to its voters may not exceed fifty percent (50%) of the
+Constitutional Cap Rate for the tier in which the entity is classified or, for a Tier 5 entity, fifty
+percent (50%) of the apportioned share available to it under Subsection (b)(4) of this section.
+After
+its first fiscal period at a voter-approved rate, the entity may seek further increases under Subsection
+(d) of this section on the same terms as any other taxing entity, subject to its Constitutional Cap
+Rate.
+The creation of a taxing entity may not cause the combined rate at any location to exceed six
+percent (6.00%), and the TPTRP Transition Monitoring Division shall reapportion the Tier 5 aggregate cap
+as necessary before a newly created Tier 5 entity may impose a rate.
+(c) Composition of the rate; starting rates; the M&O floor; reduction by the
+governing body.
+(1) The total rate of every taxing entity consists of the M&O rate and the I&S
+rate.
+The sum of the two components may not exceed the entity's CCR.
+(2) The general law implementing this article shall establish, effective on the
+Implementation Date, a uniform starting rate for each tier sufficient in the aggregate to fund the Total
+Replacement Obligation of the entities within that tier.
+The aggregate Starting Combined Rate may not
+exceed three and one-quarter percent (3.25%).
+A starting rate established under this subdivision applies
+to each entity in the tier only until that entity first acts under Subsection (c)(4) or Subsection (d)
+of this section, after which the entity's rate is the rate the entity has itself established.
+The
+Legislature may not establish a second uniform rate for a tier, may not reset an entity's rate to a
+uniform rate, and may not impose a minimum rate on any entity other than the State of Texas.
+(3) After the effective date of the implementing legislation, the Legislature may
+adjust only the rate of the State of Texas under Tier 1, the State being the sole taxing entity
+classified in that tier, and may do so only in compliance with Subsections (c)(4) through (c)(6) and
+Subsection (d) of this section.
+The Legislature has no authority to adjust, prescribe, approve,
+condition, or equalize the rate of any county, municipality, independent school district, or special
+district.
+The governing body of each taxing entity sets that entity's own M&O rate, subject to
+this section, and no two entities in the same tier are required to impose the same rate.
+(4) The governing body of any taxing entity may reduce its M&O rate at any time
+by action of the governing body and without a voter election, provided that the resulting rate is
+sufficient to generate projected revenues equal to or greater than the entity's adopted annual
+Maintenance and Operations budget plus a five percent minimum operating buffer, as certified by the
+entity's chief financial officer and verified by the comptroller.
+(5) No governing body may reduce its M&O rate below the certified floor described
+by Subdivision (4) of this subsection without first reducing its adopted Maintenance and Operations
+budget to a level the lower rate can support, as verified by the comptroller.
+(6) A reduction of the M&O rate, once effective, may not be reversed by action of
+the governing body alone.
+Restoration of a prior or higher rate requires voter approval as provided by
+Subsection (d) of this section.
+(7) This subsection and Subsection (d) of this section implement the asymmetric
+rate-control design stated in Subsection (j) of this section: a rate may be lowered by the governing
+body, but may be raised only by the voters.
+(d) Increase of the M&O rate requires voter approval.
+(1) No taxing entity, including the State of Texas, may increase its M&O rate
+above its current rate for any reason without prior approval by a majority of the qualified voters of
+the affected jurisdiction voting at a lawfully conducted election held on a uniform election date.
+(2) A rate increase election shall state the specific new M&O rate sought, the
+projected annual revenue at that rate based on the comptroller's most recent certified final tax
+base for the jurisdiction, and the specific purpose or budgetary need the additional revenue is intended
+to fund.
+(3) No increase approved under this subsection may bring the entity's total rate
+above the CCR for its tier.
+(4) If a rate increase election fails, the governing body shall immediately initiate
+a Mandatory Expenditure Reduction Plan as required by Subsection (e) of this section, and the
+consequences stated in Subdivisions (6) and (7) of this subsection attach.
+(5) This subsection applies to the Legislature of the State of Texas with respect to
+the Tier 1 M&O rate in the same manner as it applies to every other governing body subject to this
+article.
+No branch or agency of state government may increase the effective Tier 1 tax burden on Texas
+citizens by any mechanism other than a successful statewide voter election.
+(6) The rejection of a rate increase is binding.
+The rejection by the voters
+of a proposed rate increase is a determination by the taxpayers of the jurisdiction that the entity
+shall operate within the revenue its existing rate produces.
+On rejection, the governing body shall
+adopt and execute a Mandatory Expenditure Reduction Plan under Subsection (e) of this section, and the
+entity is ineligible for assistance of any kind from the TPTRP Transition Fund, the TPTRP Transition
+Board, the TPTRP Transition Monitoring Division, or the economic stabilization fund until the entity's
+voters approve an increase.
+No officer, agency, board, or fund of this state may supply, offset,
+advance, or otherwise make good the revenue the voters declined to authorize.
+(7) Frequency of rate increase elections.
+A taxing entity may submit a
+proposed rate increase to its voters at each uniform election date.
+If the voters reject a proposed rate
+increase at two elections, the entity may not submit another proposed rate increase until the second
+anniversary of the date the results of the second election were canvassed.
+The limitation of this
+subdivision does not suspend, delay, or excuse any Mandatory Expenditure Reduction Plan obligation, any
+mandatory rate reduction under Subsection (g) of this section, or any other duty imposed by this
+article.
+(e) Mandatory Expenditure Reduction Plan.
+(1) When an election to increase the M&O rate of a taxing entity fails, the
+governing body shall adopt and file with the comptroller a Mandatory Expenditure Reduction Plan not
+later than the 90th day after the date the election results are certified.
+(2) The Plan shall identify all budgeted expenditures exceeding the entity's
+projected revenue ceiling at the current M&O rate, inclusive of the five percent minimum operating
+buffer, and shall specify the reductions by department or function required to bring total Maintenance
+and Operations expenditures within that ceiling within one fiscal year of the Plan's adoption.
+(3) The Plan may not propose a subsequent voter election as a substitute for a
+required reduction, may not defer a required reduction beyond the current fiscal year except on written
+justification approved by the comptroller, and may not apply bond debt service funds, any fund
+established by Section 1-s of this article, or any waterfall distribution under Section 1-t of this
+article to Maintenance and Operations expenses.
+(4) The Plan shall be adopted by recorded vote of the governing body and published on
+the entity's official website not later than the date it is filed with the comptroller.
+(5) The comptroller shall verify the sufficiency of each filed Plan, publish all
+filed Plans on the Local Government Transparency Portal not later than the 10th day after receipt,
+monitor implementation compliance quarterly, and withhold the Maintenance and Operations portion of the
+entity's quarterly distribution under this article on a finding of noncompliance.
+The comptroller
+may never withhold, suspend, or escrow the Bond Service Levy portion of a distribution, which continues
+to flow to the entity's I&S Reserve Fund without interruption.
+(6) The expenditure reduction sequence established by Section 1-s(j) of this article
+governs the order in which reductions under this subsection are made, including the constitutional floor
+below which first responder services, court and justice services, and essential utility services may
+never be reduced.
+(f) Annual budget certification; the Total Budget Cap; the Cumulative Budget
+Growth Cap.
+(1) Every taxing entity shall adopt its annual Maintenance and Operations budget in
+accordance with the budgeting sequence established by this article.
+No entity may adopt an annual
+Maintenance and Operations budget that exceeds the Total Budget Cap.
+No budget adopted in excess of the
+Total Budget Cap takes effect, and no such budget may be filed.
+(2) The Maintenance and Operations budget of a taxing entity may not grow, measured
+from the most recent Qualified Rate Change Event, by a percentage exceeding one-half of the cumulative
+growth in that entity's Maintenance and Operations revenue measured over the same period.
+(3) When a governing body voluntarily reduces its rate, the budget base at the new
+Qualified Rate Change Event shall be set to the lesser of the entity's actual adopted Maintenance
+and Operations budget in the year of the reduction or the Allowed Budget Maximum that would have applied
+under the prior cumulative period, so that no voluntary rate reduction may be used to reset the baseline
+to a budget in excess of the amount the growth cap would have permitted.
+When voters approve a rate
+increase, the budget base resets to the entity's actual adopted Maintenance and Operations budget
+in the year of the increase.
+(4) The comptroller shall verify each entity's Total Budget Cap calculation
+annually and shall certify to the entity either that its proposed budget is within the cap or the amount
+by which the proposed budget exceeds the cap.
+The comptroller shall publish all budget certifications on
+the Local Government Transparency Portal.
+(5) Any Texas citizen has standing to bring a civil action to enjoin the expenditure
+of funds under a budget adopted in violation of this subsection, and a prevailing citizen shall be
+awarded reasonable attorney's fees and costs.
+(g) Actual Need Ratio; mandatory rate reduction ballot.
+(1) At the close of each fiscal year, the chief financial officer of every taxing
+entity shall calculate and certify to the comptroller the entity's Actual Need Ratio.
+The
+calculation may not be adjusted for investment earnings, reserve contributions, or interfund transfers;
+surplus is measured on actual cash collections against actual cash obligations only.
+(2) When an entity's Actual Need Ratio exceeds one and one-tenth for two
+consecutive fiscal years, and the entity's Stabilization Fund has been funded to its required
+Six-Month Minimum Balance under Section 1-s of this article, the governing body shall place on the
+ballot at the next scheduled election a proposition to reduce the M&O rate to the rate that would
+produce an Actual Need Ratio of not more than one and zero-hundredths (1.00).
+(3) The governing body may not substitute, delay, or decline to place the proposition
+required by Subdivision (2) of this subsection on the ballot.
+(4) If the proposition is approved, the governing body shall execute a budget
+reduction in accordance with Subsection (e) of this section.
+If the proposition is rejected, the current
+rate holds and the two-year measurement period resets.
+(5) If an entity's Stabilization Fund falls below its Six-Month Minimum Balance,
+the requirement of Subdivision (2) of this subsection is suspended until the minimum balance is
+restored.
+(h) Interest and Sinking Rate—Law-Certified, Entity-Serviced, Automatic.
+Within each
+taxing entity's total rate, a portion shall be designated as the Interest and Sinking Rate (I&S
+Rate) dedicated to the payment of certified annual bond debt service on all voter-approved general
+obligation bonds issued by that entity.
+Each taxing entity is responsible for servicing its own bond
+debt obligations from its own sales and use tax collections, in the following manner:
+(1) Each taxing entity shall, as the first priority use of its collected sales and
+use tax revenues each fiscal period, apply collections sufficient to satisfy its certified annual bond
+debt service—principal and interest—when due according to the bond's original payment schedule.
+Bond debt service payments by each entity are senior to all M&O expenditures, waterfall
+distributions, and reserve contributions.
+(2) The Texas Comptroller of Public Accounts shall annually certify, for each taxing
+entity, the I&S Rate necessary to fund the entity's certified annual debt service requirement
+plus a buffer of not less than 5 percent and not to exceed 10 percent of annual debt service, based on
+the Comptroller's assessment of collection volatility in the entity's jurisdiction.
+The I&S
+Rate is established by this certification; it is not set by action of the governing body.
+(3) Each taxing entity shall report to the Texas Comptroller, on a schedule
+established by implementing legislation, its bond debt service payment status, bond registry
+information, and I&S Reserve Fund balance.
+The Comptroller shall publish all such reports on the
+Local Government Transparency Portal.
+(4) The I&S Rate shall automatically decrease, without any action by a governing
+body, when bonds are retired, defeased, or otherwise paid in full, with the reduction taking effect in
+the fiscal year following the Comptroller's annual recalculation.
+No governing body vote,
+resolution, or ordinance is required for this reduction to take effect.
+(5) The I&S Rate shall automatically decrease, without any action by a governing
+body, when an entity's I&S Reserve Fund balance exceeds two times the entity's certified
+annual bond debt service.
+In such circumstance, the Comptroller shall recalculate and reduce the I&S
+Rate in the following fiscal year by the amount necessary to prevent future over-accumulation above that
+maximum.
+No governing body vote is required.
+(5-A) The I&S Rate shall automatically decrease, without any action by a
+governing body, when an entity's actual I&S collections exceed its certified annual bond debt
+service by more than 10 percent in each of two consecutive fiscal periods.
+On the second such period,
+the Comptroller shall recalculate and reduce the entity's I&S Rate for the following fiscal
+year to the rate projected to produce certified annual bond debt service plus the 5 percent minimum
+buffer established by paragraph (2) of this subsection.
+The two-consecutive-period requirement exists so
+that a single period of unusually strong collections does not produce a rate reduction that must be
+reversed in the next period.
+The purpose of this paragraph is to return the benefit of economic growth
+to the taxpayer: as the transaction base in an entity's jurisdiction grows, the portion of the rate
+dedicated to debt service declines automatically toward the minimum buffer rather than accumulating.
+(6) The I&S Rate shall never be increased above the level necessary to fund
+certified annual bond debt service plus the applicable buffer, without a new voter-approved bond
+election authorizing additional bonds.
+No governing body may increase the I&S Rate by ordinance,
+resolution, or administrative action.
+(7) When an entity's collections in any fiscal period are insufficient to fund
+its scheduled bond debt service after application of all I&S collections and I&S Reserve Fund
+balances, the Comptroller shall have authority to intervene and ensure payment is made from the backstop
+cascade established in Article VIII, Section 1-o of this Constitution, so that no bondholder suffers
+default or delay due to any entity's administrative failure.
+(i) New Debt—Universal Voter Approval Required.
+No taxing entity subject to this
+Article—including the State of Texas—may issue or incur any form of indebtedness, obligation, bond,
+note, certificate of obligation, lease-purchase agreement, or any other instrument that creates a future
+payment obligation payable from public revenue, of any kind and by any name, without prior approval by a
+majority of the qualified voters within the affected jurisdiction at a duly called and lawfully
+conducted election.
+(1) This requirement applies to the State of Texas in the same manner as it applies
+to every county, municipality, school district, and special district.
+The Legislature may not create any
+state obligation payable from public revenue without a statewide voter election.
+(2) For a taxing entity other than the State of Texas, the voter approval election
+shall be held within the geographic boundaries of that entity's jurisdiction.
+(3) Before any new bond election may be held, the Comptroller shall certify that the
+I&S Rate necessary to service the proposed bonds, when added to the entity's current total rate
+(M&O plus existing I&S), does not exceed the Constitutional Cap Rate (CCR) for the entity's
+tier.
+No bond election may be called, and no bonds may be issued, for which the required I&S Rate
+would cause the entity's total rate to exceed its CCR.
+Under no circumstances may the total rate of
+any entity exceed its CCR.
+(4) Each new bond issuance approved under this section is subject to the Citizens
+First Bond Sale Requirement established in Article VIII, Section 1-o(d) of this Constitution.
+(5) No emergency, disaster declaration, executive order, or act of the Legislature
+may waive or suspend the voter approval requirement of this subsection.
+(j) Rate Control—Asymmetric Design.
+Any increase in a taxing entity's total M&O
+rate above its currently applicable rate shall require approval by a majority of the qualified voters of
+the entity's jurisdiction at a regular or special election held on a uniform election date.
+Any
+reduction in a taxing entity's total rate, including reductions resulting from automatic I&S
+Rate decreases on bond retirement or over-collection, shall take effect without a voter election—upon
+certification by the Comptroller (for automatic I&S reductions) or by vote of the governing body
+(for M&O reductions)—as applicable under this Article.
+A governing body may not increase the rate
+above any level previously approved by voters without a new voter approval election.
+The I&S
+sub-rate is governed by subsection (h) of this section and is not subject to the M&O
+increase/decrease rules of this subsection.
+(k) Tier 4 — School District Funding; Repeal of the Foundation School Program and
+Recapture.
+(1) Each district funds itself from its own rate.
+Each independent school
+district is a taxing entity classified in Tier 4 and is funded from the collections generated by its own
+Tier 4 rate on taxable transactions sourced to locations within the district under Section 1-p of this
+article, together with its funds established under Section 1-s and its distributions under Section 1-t
+of this article.
+An independent school district sets its own Maintenance and Operations rate in the same
+manner as every other taxing entity: the board of trustees may reduce the rate by recorded vote under
+Subsection (c) of this section, and the rate may be increased only by approval of the district's
+voters under Subsection (d) of this section, and in no event above the Tier 4 Constitutional Cap Rate.
+(2) No allocation formula; no enrollment-based distribution.
+Revenue is not
+allocated or distributed to independent school districts by the State under any formula.
+No distribution
+to a school district under this article may be based on or weighted by student enrollment, average daily
+attendance, property valuation, taxable property wealth, district wealth per student, or any measure of
+comparative capacity, and no per-student funding floor or ceiling may be imposed on a district's
+own collections.
+The comptroller distributes to each district the collections sourced to that district,
+in the same manner as for a county or a municipality.
+(3) Foundation School Program superseded.
+The Foundation School Program
+state transfer established by Chapter 48, Education Code, is superseded by this article and has no
+further force or effect on and after the Implementation Date, and the Legislature shall repeal it in the
+general law implementing this article.
+Beginning on that date, the maintenance and operations of an
+independent school district and the debt service on its bonds are funded from the district's own
+Tier 4 collections and from the sources described by Subdivision (1) of this subsection, and not from a
+state entitlement measured by enrollment, attendance, or district wealth.
+(4) Elimination of recapture.
+The excess local revenue recapture provisions
+of Chapters 48 and 49, Education Code, are superseded by this article and have no further force or
+effect on and after the Implementation Date, and the Legislature shall repeal them in the general law
+implementing this article.
+No independent school district may be required to remit any portion of its
+collections, its fund balances, or its distributions to the State, to any other district, or to any
+recapture, equalization, or redistribution fund, and the Legislature may not enact a successor to those
+provisions by any name or in any form.
+(5) Parity with all other taxing entities.
+An independent school district is
+subject to every provision of Sections 1-e and 1-m through 1-w of this article to the same extent as
+every other taxing entity, including the Total Budget Cap and the Cumulative Budget Growth Cap under
+Subsection (f) of this section, the Actual Need Ratio and mandatory rate reduction ballot under
+Subsection (g), the Mandatory Expenditure Reduction Plan under Subsection (e), the mandatory public
+disclosure required by Subsection (l), the Interest and Sinking rate and new-debt voter approval
+required by Subsections (h) and (i), the bond guarantee, Citizens First Bond Sale Requirement, and I&S
+Reserve Fund established by Section 1-o, the Stabilization Fund, Infrastructure Fund, First Responder
+Fund, and Citizen Dividend Fund required by Section 1-s, and the surplus waterfall and Citizen Dividend
+required by Section 1-t.
+(6) Bond debt service.
+Each independent school district remains the primary
+obligor on its own outstanding bonds.
+A district's I&S rate, I&S Reserve Fund, and access
+to the shortfall backstop cascade are governed by Subsections (h) and (j) of this section and by Section
+1-o of this article.
+Bonds guaranteed by the permanent school fund are additionally subject to Article
+VII, Section 5(h) of this constitution.
+(7) Transition and post-transition assistance.
+An independent school
+district is eligible for assistance from the TPTRP Transition Fund during the transition period, and
+from the economic stabilization fund through the TPTRP Transition Monitoring Division after the
+Transition Board terminates, only if the district satisfies the Assistance Eligibility Standard of
+Section 1-u(b-1) of this article — that is, only if the district's voters have approved a rate at
+the Tier 4 Constitutional Cap Rate and the district's collections at that rate remain insufficient
+to produce its Final Year Baseline.
+A district whose voters have rejected a proposed rate increase shall
+reduce its budget under Subsection (e) of this section and is ineligible for assistance as provided by
+Subsection (d)(6) of this section.
+Subject to that standard, no independent school district may be
+placed in financial exigency solely as a result of the transition effected by this article, and no
+district's students may be deprived of the general diffusion of knowledge required by Article VII,
+Section 1 of this constitution by reason of the commercial character of the district's territory.
+(8) Existing governance and accountability law preserved.
+Nothing in this
+article diminishes, suspends, or repeals any provision of this constitution or of general law governing
+the governance, financial accountability, academic accountability, auditing, reporting, sanction,
+conservatorship, management, or dissolution of an independent school district.
+A district that fails to
+meet its fiscal or academic obligations remains subject to every remedy available under existing law.
+(l) Mandatory public disclosure.
+Every taxing entity shall maintain on its
+official public website, and shall transmit to the comptroller for publication on the Local Government
+Transparency Portal, updated within 30 days of any material change and within 60 days of the close of
+its fiscal year, the following:
+(1) the entity's current total rate, I&S sub-rate, M&O sub-rate, current
+rate floor, and rolling 10-year rate history;
+(2) actual year-to-date collections and planned compared with actual expenditures;
+(3) the balance of every fund required by Section 1-s of this article;
+(4) the amount and per-citizen value of every waterfall distribution under Section
+1-t of this article;
+(5) the entity's adopted annual budget in searchable form with year-over-year
+comparisons;
+(6) all outstanding bond obligations and projected payoff dates;
+(7) the chief financial officer's written advisement at each budget and
+waterfall decision point and the governing body's recorded vote on each;
+(8) a plain-language summary of collections, expenditures, and distributions prepared
+for a general audience; and
+(9) the annual Total Budget Cap certification issued by the comptroller;
+(9-A) for each of the two most recent fiscal periods, the entity's actual
+Interest and Sinking collections compared with its certified annual bond debt service, stated as a
+percentage, together with a statement of whether the automatic rate step-down under Subsection (h)(5-A)
+of this section has been triggered or is one period from being triggered; and
+(10) in the case of an independent school district, the district's total
+Maintenance and Operations revenue for the fiscal year divided by the number of students enrolled in the
+district, stated as a dollar amount per enrolled student.
+If that amount exceeds $10,000 per enrolled
+student, the district shall additionally publish, on the first page of its adopted budget, on the front
+page of its official website, and in the notice of each budget hearing, a plain-language statement that
+the district's maintenance and operations revenue per enrolled student has exceeded $10,000 for the
+fiscal year, together with the amount by which the threshold was exceeded.
+The threshold stated in this
+subdivision is a disclosure trigger only.
+It does not limit, cap, reduce, or condition a district's
+revenue, rate, or budget, and it is not a distribution formula.
+Compliance with this subsection is mandatory.
+Failure to publish a required item
+within the required deadline results in suspension of the Maintenance and Operations portion of the
+entity's quarterly distribution under this article until compliance is restored, as enforced by the
+comptroller.
+The Bond Service Levy portion of a distribution may never be suspended, withheld, or
+escrowed under this subsection or under any other provision of this article.
+(m) Collection, allocation, and distribution.
+(1) The sales and use tax established by this article shall be collected by sellers
+and remitted to the comptroller through the existing state sales and use tax permit, collection, and
+remittance system.
+No taxing entity may establish a separate collection system, and no additional
+collection agency may be created.
+(2) The comptroller shall allocate each remittance among the tiers according to the
+rate in effect for each taxing entity whose jurisdiction includes the transaction, and shall distribute
+each entity's allocation to that entity not less frequently than quarterly.
+(3) The local share of a taxable transaction is sourced as provided by Section 1-p of
+this article.
+(4) The comptroller may retain from collections only the actual, audited cost of
+administering the collection, allocation, and distribution function, as appropriated by the Legislature
+and published annually.
+(5) Fiscal periods; the State's biennium.
+For every taxing entity other
+than the State of Texas, a fiscal period under this article is the entity's fiscal year.
+For the
+State of Texas, whose budget is enacted biennially, the Total Budget Cap and the Cumulative Budget
+Growth Cap of Subsection (f) of this section apply to each biennial appropriation measured against the
+corresponding two-year period, and the Actual Need Ratio of Subsection (g) of this section, the surplus
+waterfall of Section 1-t of this article, and the disclosure required by Subsection (l) of this section
+are computed and performed annually for each state fiscal year within the biennium.
+Federal funds
+received by the State and appropriated for the purpose for which they were received are not part of the
+State's Maintenance and Operations budget for purposes of the Total Budget Cap and are not part of
+the State's distributable surplus pool.
+(6) The Legislature shall provide by general law for the administration of this
+section, including certification procedures, reporting schedules, audit authority, and the dispute
+process available to a taxing entity that contests a comptroller certification issued under this
+section.
+SECTION 1.05.
+BOND MANAGEMENT, STATE GUARANTEE, AND THE CITIZENS FIRST BOND SALE REQUIREMENT.
+Section 1-o, Article VIII, Texas Constitution (rural economic development; limitation
+on ad valorem tax increases), is repealed as provided by Article 8 of this resolution, and Article VIII,
+Texas Constitution, is amended by adding Section 1-o to read as follows:
+Sec. 1-o.
+BOND MANAGEMENT, ENTITY DEBT OBLIGATION, STATE GUARANTEE, AND CITIZENS FIRST BOND SALE REQUIREMENT.
+(a) Definitions.
+In this section:
+(1) "Pre-Abolition Bond" means any general obligation bond, note, or other
+indebtedness issued by a Texas taxing entity that was issued with a pledge of ad valorem taxes for the
+payment of principal and interest, and that remains outstanding after the effective date of the ad
+valorem prohibition established in Article VIII, Section 1-e of this Constitution.
+(2) "Bond Service Levy" means the dedicated, law-set component of the flat
+sales and use tax established by Article VIII, Section 1-n of this Constitution—specifically the I&S
+Rate portion certified for each entity by the Comptroller—which is set aside exclusively for the payment
+of principal and interest on Pre-Abolition Bonds and on voter-approved bonds issued after the effective
+date.
+(3) "I&S Reserve Fund" means the single, dedicated, entity-level bond
+debt service fund maintained by each taxing entity—including the State of Texas—overseen by the Texas
+Comptroller of Public Accounts and funded from that entity's Bond Service Levy collections.
+The I&S
+Reserve Fund serves as both the operating account from which the entity makes its bond debt service
+payments and the entity's first-line emergency reserve for bond debt service shortfalls.
+Each
+taxing entity maintains its own I&S Reserve Fund; these are not consolidated at any tier level, and
+each fund is specific to and the responsibility of its entity.
+No entity is required to maintain any
+separate or additional bond reserve fund; the I&S Reserve Fund is the sole entity-level bond reserve
+contemplated by this Constitution.
+(4) "Stabilization Fund" means, for each taxing entity, the general fiscal
+reserve fund required by this Article with a minimum balance equal to six months of the entity's
+most recently adopted annual full budget (M&O plus I&S combined).
+For the State of Texas, the
+existing Economic Stabilization Fund established by Article III, Section 49-g of this Constitution
+serves as the state's Stabilization Fund for purposes of this section.
+(5) "Economic Stabilization Fund" or "ESF" means, for purposes of
+this section: (A) for the State of Texas, the fund established by Article III, Section 49-g of this
+Constitution; and (B) for every other taxing entity, that entity's Stabilization Fund established
+by Article VIII, Section 1-s of this Constitution.
+No entity is required to maintain a reserve fund
+under this section separate from its Stabilization Fund, and a reference in the backstop cascade of
+subsection (f) of this section to the ESF of a tier is a reference to the Stabilization Fund of the
+entity at that tier.
+(6) "Citizens First Period" means the initial 30-day period following
+certification of a voter-approved bond election result during which adult citizen-residents of the
+issuing entity's jurisdiction have the exclusive right to purchase bonds in the Tier 1 (Entity)
+offering, as described in subsection (d) of this section.
+(7) "Constitutional Cap Rate" or "CCR" means the tier-specific
+maximum total rate established for each class of taxing entity by Article VIII, Section 1-n of this
+Constitution.
+No entity's total rate (M&O plus I&S) may exceed its CCR under any
+circumstance.
+(8) "Revenue Bond" means a bond, note, or other obligation of a taxing
+entity whose sole pledge and security for payment of principal and interest is an identifiable,
+separately accounted stream of revenues derived from the operation of an enterprise or service
+facility—such as water, wastewater, electric, toll, or transit system revenues—owned and operated by the
+issuing entity.
+A bond is a Revenue Bond for purposes of this section only if: (A) the bond resolution,
+trust indenture, and official statement contain no pledge, claim, or recourse—direct, contingent, or
+residual—against any tax revenue of any kind, including the Bond Service Levy, the M&O allocation,
+or any general fund of the issuing entity; (B) the bond is not rated or marketed on the basis of any tax
+pledge or governmental taxing power; and (C) the entity's governing body certifies in the bond
+resolution that the bond meets these criteria.
+Any bond that does not satisfy all three criteria is a
+general obligation bond for purposes of this section regardless of its label.
+(b) Each Entity's Primary Bond Debt Service Obligation.
+(1) Every taxing entity subject to this Article—including the State of Texas—is and
+remains the primary obligor on its own outstanding bonds and bond obligations.
+The substitution of the
+Bond Service Levy for the repealed ad valorem I&S levy does not transfer, diminish, or extinguish
+any entity's obligation to service its own debt.
+(2) Each taxing entity shall apply its collected Bond Service Levy collections, as
+the first priority use of all collected revenues in each fiscal period, to fund its I&S Reserve Fund
+and satisfy its certified annual bond debt service when due.
+No entity may divert, appropriate,
+transfer, or encumber any Bond Service Levy collection for any M&O purpose, waterfall distribution,
+reserve contribution other than its own I&S Reserve Fund, or any other use prior to satisfying its
+bond debt service obligations in full.
+(3) The Texas Comptroller of Public Accounts shall provide administrative assistance
+to each taxing entity in managing its bond debt service obligations, including: certifying the annual I&S
+Rate for each entity; maintaining the comprehensive bond registry; monitoring payment status; providing
+technical assistance; and, when an entity's governing body or finance function fails to properly
+execute scheduled debt service payments, taking the steps authorized under subsection (f) of this
+section to ensure bondholders are paid.
+(4) Each taxing entity shall report its bond payment status and I&S Reserve Fund
+balance to the Comptroller on a quarterly basis.
+The Comptroller shall publish all reports on the Local
+Government Transparency Portal within 10 days of receipt.
+(5) The State of Texas irrevocably guarantees, as ultimate backstop, the timely
+payment of all principal and interest on all Pre-Abolition Bonds when due, in accordance with each bond's
+original resolution and official statement.
+This guarantee is unconditional and irrevocable and shall
+not be diminished by any subsequent act of the Legislature.
+This guarantee is a backstop of last resort;
+it does not alter each entity's primary servicing obligation under this subsection.
+(c) Revenue Substitution—Bond Covenant Continuity.
+(1) For all purposes of any Pre-Abolition Bond resolution, indenture, official
+statement, or continuing disclosure agreement, the Bond Service Levy certified and collected for each
+entity constitutes the legal successor to and substitute for the ad valorem Interest and Sinking levy
+that was pledged to such bonds at the time of their issuance.
+This substitution is a revenue
+enhancement, not an impairment.
+(2) No bondholder of any Pre-Abolition Bond shall have any claim that the revenue
+substitution effected by this section constitutes an impairment of the bond contract.
+The State's
+guarantee under subsection (b)(5) of this section constitutes an enhancement, not a diminishment, of
+bondholder security.
+(3) The Legislature shall enact conforming statutory changes to the Texas Education
+Code, Local Government Code, and all other statutes that require taxing entities to levy, assess, or
+collect ad valorem taxes for bond debt service, providing that compliance with the Bond Service Levy
+certification and collection under this section satisfies all such statutory requirements in full.
+(d) Citizens First Bond Sale Requirement—Five-Stage Hierarchical Offering.
+Every
+voter-approved bond issuance by any taxing entity subject to this Article shall proceed through the
+following five stages in the order listed.
+No stage may be bypassed; no stage may be opened to
+participants of a later stage while a prior stage remains open.
+(1) Stage 1—Entity Citizens Offering (30 Days).
+Upon certification of a
+voter-approved bond election result, the issuing entity shall open a 30-day Citizens First Period during
+which adult citizen-residents of the issuing entity's own jurisdiction may purchase bonds directly.
+During this period:
+(A) Not less than 25 percent of the total bond offering is reserved for this
+stage.
+If citizen demand exceeds 25 percent, the entity may, at its election, increase the citizen
+allocation up to 100 percent of the total offering.
+There is no restriction against selling the entire
+bond issuance to the issuing entity's own citizens during Stage 1 if sufficient demand exists.
+(B) Bonds shall be offered in minimum denominations of $100 and maximum
+denominations of $500 per bond to citizen purchasers in this stage.
+No brokerage account or financial
+intermediary is required.
+Citizens may subscribe through the Texas Comptroller's citizen bond
+portal or by mail.
+(C) Bonds in this stage shall be offered at the same interest rate, maturity
+schedule, and principal terms as would be offered to any institutional purchaser.
+No citizen may be
+offered terms less favorable than the best institutional terms.
+(D) Interest earned by citizens on bonds purchased in Stages 1 through 3 shall be
+treated as tax-exempt municipal bond interest for federal income tax purposes consistent with 26 U.S.C.
+Section 103, as applicable to general obligation bonds of a state or political subdivision.
+(2) Stage 2—Next Tier Up Citizens Offering (30 Days).
+Any bonds not subscribed in
+Stage 1 shall, upon expiration of the Stage 1 period, be offered for an additional 30 days to adult
+citizen-residents of the next-higher tier's jurisdiction, according to the entity's tier
+classification under Article VIII, Section 1-n of this Constitution.
+Stage 2 denominations are the same
+as Stage 1: $100 minimum, $500 maximum per bond.
+(3) Stage 3—Statewide Citizens Offering (30 Days).
+Any bonds not subscribed in Stages
+1 and 2 shall, upon expiration of the Stage 2 period, be offered for an additional 30 days to all adult
+citizen-residents of the State of Texas through the Texas Comptroller's citizen bond portal.
+Stage
+3 denominations are the same: $100 minimum, $500 maximum per bond.
+(4) Stage 4—Texas-Domiciled Entity Offering (30 Days).
+Any bonds not subscribed in
+Stages 1 through 3 shall, upon expiration of the Stage 3 period, be offered for an additional 30 days
+exclusively to Texas-domiciled business entities.
+For purposes of this stage, a "Texas-domiciled
+entity" means a corporation, limited liability company, partnership, trust, or other legally formed
+entity that: (A) is organized under the laws of the State of Texas or registered to do business in Texas
+with the Secretary of State; and (B) has its principal place of business—meaning its primary executive
+offices and primary decision-making location—physically located within the State of Texas.
+An entity
+that maintains only a registered agent in Texas without its principal place of business in Texas does
+not qualify.
+Stage 4 offerings shall be at the standard municipal bond denomination of $5,000 per bond.
+(5) Stage 5—General Bond Market.
+Any bonds not subscribed in Stages 1 through 4
+shall, upon expiration of the Stage 4 period, be released to the general institutional bond market under
+standard municipal bond market rules, at the standard $5,000 per bond denomination, through the issuing
+entity's underwriter or placement agent of record.
+(6) Comptroller Infrastructure.
+The Texas Comptroller of Public Accounts shall
+establish and maintain the citizen bond purchasing portal required by this subsection, through which
+citizens may subscribe to purchase bonds in Stages 1, 2, and 3 of any offering subject to this section.
+No brokerage account, financial intermediary, or minimum subscription account balance may be required.
+(7) Enforcement.
+Failure to comply with the hierarchical offering sequence of this
+subsection renders the bond placement voidable as to any Stage 5 placement that occurred before the
+prior stages were completed.
+Any adult citizen-resident of the issuing entity's jurisdiction may
+bring a civil action in a district court of competent jurisdiction to void a noncompliant placement.
+The
+citizen need not demonstrate individual financial injury to have standing.
+A prevailing citizen shall be
+awarded reasonable attorneys' fees and costs.
+(e) I&S Reserve Fund—Entity-Level Operating Rules.
+(1) I&S Reserve Fund—Single Fund, Dual Function.
+Every taxing entity subject to
+this Article, including the State of Texas, shall maintain a single I&S Reserve Fund at a balance of
+not less than one times and not more than two times the entity's certified annual bond debt service
+requirement.
+The I&S Reserve Fund is funded from the entity's Bond Service Levy collections.
+This fund serves simultaneously as: (A) the operating account from which the entity makes its scheduled
+bond debt service payments; and (B) the entity's first-line emergency reserve for bond debt service
+shortfalls, accessed as Tier A of the cascade in subsection (f) of this section.
+No taxing entity is
+required to establish, fund, or maintain any separate or additional bond reserve fund.
+(2) When an entity's I&S Reserve Fund balance exceeds two times its
+certified annual bond debt service, the Comptroller shall automatically reduce the I&S Rate for that
+entity in the following fiscal year by the amount necessary to prevent future accumulation above the
+two-times maximum.
+No governing body action is required.
+(3) The I&S Reserve Fund is a legally segregated, purpose-restricted fund.
+No
+amount from the I&S Reserve Fund may be transferred to the entity's general fund, M&O
+budget, waterfall funds, or any other use, except for the payment of bond principal and interest when
+due or for the backstop cascade in subsection (f) of this section.
+(f) Shortfall Backstop—Tiered Escalation Cascade.
+When any taxing entity's Bond
+Service Levy collections in any fiscal period are insufficient—after application of all I&S Rate
+collections—to satisfy its scheduled bond debt service when due, the following cascade applies in the
+order listed.
+No tier of the cascade may be accessed until the prior tier is exhausted to its floor:
+(1) Tier A—Entity I&S Reserve Fund.
+The entity shall first draw from its own I&S
+Reserve Fund.
+Draws from the I&S Reserve Fund for bond debt service shortfalls may not reduce the
+Fund's balance below 50 percent of its required one-times minimum balance as established by
+subsection (e)(1) of this section.
+Upon reaching that floor, the cascade escalates.
+(2) Tier B—Entity Stabilization Fund.
+If the I&S Reserve Fund has been drawn to
+its floor under paragraph (1), the entity shall next draw from its own Stabilization Fund.
+Draws for
+bond debt service may not reduce the entity's Stabilization Fund below 50 percent of the required
+six-month minimum balance.
+Upon reaching the 50 percent floor, the cascade escalates.
+(3) Tier C—Next-Tier ESF.
+If the entity's own Stabilization Fund has been drawn
+to its 50 percent floor, the next-higher tier's Economic Stabilization Fund becomes available to
+cover the remaining obligation.
+Only the ESF of the next-higher tier is available at this tier of the
+cascade—the next-higher tier's I&S Reserve Fund is not available to cover another entity's
+bond service obligation.
+(4) Tier D—State Economic Stabilization Fund.
+If Tier C resources are insufficient or
+if the entity is already at the county level, the State Economic Stabilization Fund established by
+Article III, Section 49-g of this Constitution shall provide the remaining amount necessary to satisfy
+scheduled bond debt service in full.
+Draws from the State ESF for this purpose are mandatory and
+self-executing; no separate appropriation act is required.
+(5) No Entity's I&S Reserve Fund Beyond the Originating Entity.
+Beyond Tier
+A—the originating entity's own I&S Reserve Fund—no other entity's I&S Reserve Fund is
+available in this cascade.
+At Tier C and Tier D, only ESF funds are available, not I&S Reserve Funds
+of neighboring or overlapping entities.
+(6) Comptroller Authority.
+When the Comptroller determines that an entity's
+governing body or financial officers have failed to initiate the cascade in a timely manner and a bond
+payment is at risk of being missed, the Comptroller shall have authority to initiate draws from the
+applicable cascade tier directly, without prior action by the entity's governing body, to ensure
+timely bondholder payment.
+(7) No Act May Override.
+No act of the Legislature, no executive order, and no
+administrative directive may prevent or delay the cascade described in this subsection when triggered by
+a bond debt service shortfall.
+(g) Special District Bond Assumption—Voter-Approved Only.
+(1) Any special district currently classified in Tier 5 under Article VIII, Section
+1-n shall remain in Tier 5 unless and until its bond obligations and district functions are absorbed
+into a host-tier entity by a voter-approved process as provided in this subsection.
+(2) No special district may be absorbed into a Tier 2 or Tier 3 host entity without
+the affirmative vote of a majority of qualified voters in both: (A) the host entity's jurisdiction,
+at a duly called election; and (B) the special district's jurisdiction, at a duly called election.
+Both elections must be held on the same uniform election date and must both pass by majority vote for
+absorption to proceed.
+(3) Before any absorption election may be called, the Texas Comptroller shall certify
+that the combined total rate of the host entity does not exceed the CCR for the host entity's tier.
+If the combined rate would exceed the CCR, no absorption election may be called.
+(4) Upon a valid voter-approved absorption, the outstanding Pre-Abolition Bonds and
+any post-abolition voter-approved bonds of the absorbed district shall be assumed by the absorbing host
+entity.
+The Comptroller shall add the absorbed district's certified annual bond debt service to the
+host entity's I&S Rate calculation.
+(5) No assumption under this subsection shall impair the obligation of any bond of
+the absorbed district.
+The bondholders of the absorbed district's bonds shall have the same
+guarantee rights against the State under subsection (b)(5) of this section as all other bondholders, and
+the same access to the cascade in subsection (f) of this section.
+(g-1) Obligations Secured by Other Abolished Taxes.
+An obligation of a taxing entity that is outstanding on the Implementation Date and
+that is payable from or secured by a tax abolished by Article VIII, Section 1-m(c) of this Constitution
+— including a municipal or county hotel occupancy tax, a venue project tax, a short-term motor vehicle
+rental tax, or a local mixed beverage tax — or by a local sales and use tax superseded and absorbed into
+a tier rate under the temporary provisions of the joint resolution proposing this amendment — including
+a sales and use tax pledged by a metropolitan or regional transit authority, a crime control and
+prevention district, a county assistance district, a municipal development district, or a Type A or Type
+B economic development corporation — is a Pre-Abolition Bond for all purposes of this section.
+Such an
+obligation remains valid and enforceable in accordance with its terms, is guaranteed by the State of
+Texas on the same terms as an obligation formerly payable from ad valorem taxes, is serviced from the
+issuing entity's Bond Service Levy under Article VIII, Section 1-n(h) of this Constitution, and has
+access to the I&S Reserve Fund and to the shortfall backstop cascade of subsection (f) of this
+section.
+The substitution of the Bond Service Levy for the abolished tax is a revenue substitution
+governed by subsection (c) of this section, does not require a new election, a new pledge, or an
+amendment of any bond resolution, trust indenture, or covenant, and does not constitute an impairment,
+default, or event of acceleration.
+The operating and maintenance cost of a convention center, arena, stadium, civic
+facility, tourism promotion program, or other facility or program formerly supported in whole or in part
+by a tax abolished by Article VIII, Section 1-m(c) of this Constitution is, on and after the
+Implementation Date, an ordinary maintenance and operations expenditure of the entity that owns or
+operates it, payable from that entity's M&O rate and subject to the Total Budget Cap and the
+Cumulative Budget Growth Cap of Article VIII, Section 1-n(f) of this Constitution.
+No such cost may be
+charged to the Bond Service Levy, to the I&S Reserve Fund, or to any fund established by Article
+VIII, Section 1-s of this Constitution.
+(h) No New Property-Tax-Backed or Unauthorized Debt; Revenue Bond Definition.
+After
+the effective date of Article VIII, Section 1-e of this Constitution, no taxing entity subject to this
+Article may issue any obligation payable from ad valorem taxes.
+All new bond obligations issued after
+that date shall be payable from: (1) the Bond Service Levy collected from the sales and use tax
+allocated to the issuing entity under Article VIII, Section 1-n, subject to the I&S Rate provisions
+therein and the voter approval requirement of Article VIII, Section 1-n(i); or (2) the net revenues of
+an enterprise operation of the issuing entity, constituting a Revenue Bond as defined in subsection
+(a)(8) of this section.
+Revenue bondholders have no claim on the Bond Service Levy, the I&S Reserve
+Fund, or any ESF backstop established in this section—their sole pledge is the enterprise revenues
+specifically identified in the bond resolution.
+No bond may be issued, marketed, or described as a
+"revenue bond" for purposes of avoiding the Citizens First requirement, the voter approval
+requirement, or the cascade provisions of this section unless it fully satisfies the definition in
+subsection (a)(8).
+(i) Sub-Rate Dedications.
+The Legislature, and the governing body of each
+taxing entity, may dedicate a portion of the tax imposed by Chapter 151-A to a specific fund,
+department, or purpose.
+A dedication that reallocates a portion of the entity's current combined
+rate to the dedicated purpose, without increasing the entity's combined rate, may be adopted under
+the rate-adjustment procedures of Section 1-n(e) of this Article.
+A dedication that would increase the
+entity's combined rate is subject to the voter-approval requirement of Section 1-n(f) of this
+Article.
+All dedications remain subject to the tier rate ceilings established by Section 1-n and the
+Combined Constitutional Rate established by Section 1-m.
+The Comptroller shall publish each dedication
+as a formal component of the affected entity's certified rate structure in the Texas Sales and Use
+Tax Portal.
+The Legislature shall provide by law for the procedural rules, accounting, reporting, and
+amendment or repeal of dedications under this subsection.
+SECTION 1.06.
+TAXABLE TRANSACTION, AGENT TRANSACTION, DEFINITION FILTER, RATE UNIFORMITY, AND SOURCING.
+Section 1-p, Article VIII, Texas Constitution (exemption from ad valorem taxation of
+precious metals held in a precious metal depository), is repealed as provided by Article 8 of this
+resolution, and Article VIII, Texas Constitution, is amended by adding Section 1-p to read as follows:
+Sec. 1-p.
+SALES AND USE TAX — TAXABLE TRANSACTION, AGENT TRANSACTION, DEFINITION FILTER, RATE UNIFORMITY, AND SOURCING.
+(a) The Legislature shall impose a sales and use tax on all taxable transactions
+occurring in this state.
+The sales and use tax is a broad-base, destination-based tax on exchanges of
+goods and services, imposed at every point in the supply chain.
+The Legislature shall set the rate or
+rates of the sales and use tax by general law, subject to any constitutional rate structure established
+by the Texas Property Tax Replacement Plan constitutional amendment.
+The rate of the sales and use tax
+shall be uniform and shall not vary based on the domicile, physical location, or national origin of the
+seller.
+(b) A transaction is a taxable transaction subject to the sales and use tax when a
+clear product is being purchased or a service is being rendered as part of the exchange or sale.
+This
+definition is broad by constitutional design and applies at every point in the supply chain, including:
+(1) business-to-business transactions at every stage of production, distribution, and
+delivery;
+(2) business-to-consumer transactions for goods, services, digital products, and any
+other item of economic value;
+(3) transactions in which goods or services are delivered remotely, electronically,
+digitally, or through any other medium, where the buyer is located in this state or receives the
+economic benefit of the transaction in this state;
+(4) transactions in which a seller is located outside this state, in another state of
+the United States or in a foreign country, where the buyer is located in this state or the economic
+benefit of the transaction is received in this state; and
+(5) transactions in which the seller knew or reasonably should have known, at the
+time of contracting or delivery, that the goods or services would be used, consumed, or primarily
+benefiting operations or persons located in this state.
+The point at which the buyer takes possession of the good, receives the service, or
+otherwise obtains the right to use, consume, or enjoy the taxable good or service governs whether a
+transaction is subject to the sales and use tax of this state.
+A transaction in which the buyer takes
+possession of the good or first receives the service in this state is a transaction subject to the
+sales and use tax, regardless of where the buyer is domiciled or resides.
+A transaction in which the
+buyer takes possession of the good or first receives the service outside this state is not a
+transaction subject to the sales and use tax, regardless of where the seller is located.
+This
+point-of-possession rule applies to the seller-inbound and buyer-outbound scenarios addressed by this
+subsection; where a good or service is delivered remotely, electronically, digitally, or by common
+carrier, possession is deemed taken at the location to which the good is delivered or at which the
+service is first received by the buyer, and Subdivisions (b)(3), (b)(4), and (b)(5) of this subsection
+continue to govern taxability where a Texas buyer receives the good or service or the economic benefit
+of the transaction in this state.
+(c) An agent transaction occurs when a person acting as an agent on behalf of a
+principal purchases a product or service on the principal's behalf and separately renders the agent's
+own labor or product to the principal.
+In an agent transaction:
+(1) products or services purchased by the agent on behalf of the principal are taxed
+once at the point of purchase by the agent and are passed through to the principal at the documented
+reimbursement amount without additional tax;
+(2) the agent's own labor, product, or service rendered to the principal is a
+separate taxable transaction, taxed once at the point of the agent's billing to the principal; and
+(3) no single dollar of economic value is taxed more than once.
+The Legislature shall implement the agent transaction rule by general law.
+The
+Legislature shall not reinstate a resale certificate system, manufacturing-input exemption, or
+intercorporate services exemption as a substitute for or supplement to the anti-pyramiding protection
+provided by this subsection.
+(d) The sales and use tax, the rate of the sales and use tax, and all obligations
+imposed under this section and Section 1-q of this article apply equally to all sellers, whether
+domiciled in this state, in another state, or in a foreign country.
+No seller may be subjected to:
+(1) a higher or lower rate of sales and use tax based solely on the seller's
+state or country of domicile;
+(2) a more burdensome registration, filing, or remittance obligation based solely on
+the seller's state or country of domicile; or
+(3) a special tax treatment, exemption, or exclusion based solely on the seller's
+state or country of domicile.
+This subsection is a specific application of the equal and uniform taxation principle
+of Section 1(a) of this article to the sales and use tax and is intended to satisfy the
+non-discrimination prong of Complete Auto Transit, Inc. v.
+Brady, 430 U.S. 274 (1977), and the
+additional requirements of the Foreign Commerce Clause as interpreted by the Supreme Court of the United
+States.
+(e) The following categories of transactions are excluded from the sales and use tax
+base and may not be included in the taxable base by the Legislature without a constitutional amendment:
+(1) Category G-1 — Federal Government Transactions.
+Transactions in which the federal
+government of the United States is the buyer or principal are excluded.
+The Supremacy Clause of the
+United States Constitution prohibits this state from imposing a tax that directly burdens the federal
+government's constitutional functions.
+Transactions in which a federal contractor is the buyer for
+its own account, not as an agent of the federal government, are taxable transactions and are not
+excluded by this category.
+(2) Category F — Financial Flows.
+The following financial flows are excluded because
+they do not constitute the purchase of a product or the rendition of a service, they are transfers of
+capital, returns on capital, reimbursements of loss, or redistribution of existing value:
+(A) mortgage principal and interest payments on real estate loans;
+(B) interest income credited on personal deposit accounts, savings accounts, and
+certificates of deposit;
+(C) dividend distributions from a corporation to its shareholders;
+(D) insurance claim payouts and loss reimbursements paid in satisfaction of a
+covered loss.
+A premium paid for a policy of insurance is not a financial flow under this paragraph.
+The
+purchase of a policy of insurance is the purchase of a product and is a taxable transaction under
+Subsection (a) of this section, and an exemption for a policy of personal insurance may be granted only
+under Section 1-r of this article;
+(E) purchases and sales of equity interests, partnership interests, membership
+units, bonds, notes, and other financial instruments representing ownership or debt interests;
+(F) intra-family and personal gift transfers made for non-commercial purposes,
+including inheritances and personal charitable contributions;
+(G) personal inter-account fund transfers representing the movement of existing
+value between accounts of the same person or entity; and
+(H) government grants, entitlement payments, welfare disbursements, and other
+transfer payments from a governmental entity to an individual or organization where no product is
+purchased and no service is rendered.
+(3) Category I-1 — Intra-Company Transfers.
+Internal ledger entries, inter-divisional
+accounting transfers, and other internal financial movements between departments or divisions of the
+same legal entity that do not involve the purchase of a product or the rendition of a service by one
+legal entity to another are excluded.
+(4) Category IA — Internet Access Service.
+Internet access service, the service of
+connecting a user to the Internet through a broadband, dial-up, wireless, or any other access
+technology, including the service itself and any directly bundled telecommunications service used to
+provide the access connection, is excluded from the sales and use tax base.
+This exclusion is required
+by and coextensive with the permanent prohibition on state taxation of Internet access service under the
+Internet Tax Freedom Act, 47 U.S.C.
+Section 151 note, as in effect on January 1, 2027, or as amended.
+The Legislature shall, by general law, define the boundaries of this exclusion consistent with the
+Internet Tax Freedom Act.
+Content, applications, and services delivered over the Internet are not
+Internet access service and are not excluded by this category.
+(5) Category CP — Pure Currency and Payment-Medium Exchanges.
+A transaction
+consisting solely of the exchange of one form of money, legal tender, or digital payment medium for
+another form of money, legal tender, or digital payment medium, without the purchase of a separate
+product or service, is excluded.
+The use of currency, legal tender, cryptocurrency, stablecoin,
+tokenized value, or any other payment medium to purchase a taxable product or service does not exclude
+the underlying taxable transaction.
+(6) Any additional transaction category expressly excluded by another provision of
+this constitution adopted as part of the Texas Property Tax Replacement Plan.
+(f) The sales and use tax is a general broad-base transaction tax applicable equally
+to taxable transactions regardless of whether a product or service is ordered, delivered, rendered, or
+accessed in person, by mail, by common carrier, by telephone, by the Internet, through a digital
+platform, or by any other means.
+The Legislature may not impose the sales and use tax in a manner that
+constitutes a multiple or discriminatory tax on electronic commerce or Internet access service in
+violation of federal law.
+(g) Transactions excluded by Subsection (e) of this section are outside the
+constitutional tax base of the sales and use tax.
+The Legislature may not reclassify an excluded
+financial flow, intra-company transfer, or federal-government transaction as a taxable service or
+taxable product by general law.
+(h) Except as expressly authorized by another provision of this constitution adopted
+as part of the Texas Property Tax Replacement Plan, the Legislature may not create by general law a
+class-wide exemption, exclusion, deduction, or special treatment from the sales and use tax base for:
+(1) business inputs, manufacturing inputs, business purchases for resale, or
+business-to-business services;
+(2) intercorporate or affiliated-group services;
+(3) data processing, information services, cloud computing, digital automation,
+call-center operations, accounting, legal support, engineering support, or other outsourced services; or
+(4) any product or service based solely on the identity, industry, organizational
+form, domicile, or political influence of the buyer or seller.
+This subsection does not prohibit the Texas Living Exemption Set or another
+constitutionally authorized exclusion adopted by the voters as part of the Texas Property Tax
+Replacement Plan.
+(i) Sourcing of a transaction for distribution of the local share.
+For a
+taxable transaction in which a seller with a place of business in this state — including a registered
+wellhead, well site, gathering facility, production facility, retail location, office, manufacturing
+plant, or warehouse — is a party to the sale of the product or service purchased, the transaction is
+sourced to that seller's place of business for purposes of distributing the local share, if any, of
+the sales and use tax.
+A facility through which goods are stored, routed, transferred, or delivered is
+not, by that fact alone, the seller's place of business for a transaction to which the facility's
+operator is not a party.
+This subsection does not exempt a facility operator from tax on any separate
+taxable transaction — including a storage, handling, fulfillment, or logistics fee — for which the
+facility operator is itself the seller; such a transaction is sourced to the facility's location
+under this subsection.
+A transaction at a registered wellhead or well site is sourced to the county and
+to each overlapping special district in which the well is physically located, without regard to the
+location of the purchaser.
+A seller lacking a place of business in this state is not governed by this
+subsection and remains subject to the destination principle of Subsection (b) of this section.
+Subsection (i) is drafted from the origin-sourcing
+provision of the breakdown article.
+It does not appear in the component Foreign Entity joint resolution
+and is new text in this assembled draft.
+SECTION 1.07.
+ECONOMIC NEXUS; REMOTE AND FOREIGN SELLER REGISTRATION; MARKET ACCESS.
+Article VIII, Texas Constitution, is amended by adding Section 1-q to read as
+follows:
+Sec. 1-q.
+ECONOMIC NEXUS, REMOTE SELLER AND FOREIGN ENTITY REGISTRATION, NON-DISCRIMINATION, AND MARKET-ACCESS PREREQUISITES.
+(a) A seller located outside this state, whether in another state of the United
+States or in a foreign country, is subject to the sales and use tax of this state if the seller has
+substantial nexus with this state.
+A seller has substantial nexus with this state if, in the preceding
+or current calendar year, the seller:
+(1) has gross revenue from taxable transactions with buyers located in this state of
+$100,000 or more; or
+(2) engages in 200 or more separate taxable transactions with buyers located in this
+state.
+The thresholds stated in Subdivisions (1) and (2) of this subsection are established
+by this constitution.
+The Legislature may lower either threshold by general law but may not raise either
+threshold above the amount or number stated in this subsection without an amendment of this constitution
+approved by the voters of this state.
+Physical presence in this state may not be required as a condition
+of substantial nexus.
+A federal income tax treaty between the United States and a foreign country does
+not preempt or affect an obligation imposed by this section.
+(b) A seller that has substantial nexus with this state under Subsection (a) of this
+section shall register, collect, file, and remit the sales and use tax in the same manner as a seller
+domiciled in this state.
+(c) The Legislature finds and declares that a seller with substantial nexus to this
+state benefits from access to the commercial market of this state, the laws and courts of this state,
+the infrastructure of this state, and the protections provided to persons and property in this state.
+The Legislature may impose reasonable market-access conditions, registration requirements, and
+collection obligations on sellers with substantial nexus to this state, provided those conditions are
+applied equally and do not discriminate against interstate commerce or foreign commerce.
+(d) The Legislature may require as a condition of transacting business with a buyer
+located in this state that a seller located outside this state register with the comptroller and, if
+otherwise required by general law, register with the secretary of state to transact business in this
+state.
+(e) The Legislature may require a person located in this state not to knowingly
+purchase a taxable product or service for business use from a seller required to register under this
+section unless the seller is properly registered and authorized to collect and remit the sales and use
+tax.
+(e-1) This section applies to a taxable transaction with an individual consumer
+located in this state in the same manner and to the same extent as it applies to a taxable transaction
+with a business located in this state.
+A seller having substantial nexus under Subsection (a) of this
+section shall collect the sales and use tax from an individual Texas buyer and remit it to the
+Comptroller, and may not decline to sell to, impose a surcharge upon, or impose a different price or
+condition upon a buyer located in this state by reason of that obligation.
+(e-2) A taxable transaction in which the buyer is located in this state and the
+seller is not required to collect the tax under this section remains subject to the sales and use tax.
+The Legislature shall provide by general law for the direct payment of the tax by the buyer in that
+circumstance and may provide a de minimis threshold below which a buyer is not required to report.
+This
+subsection does not create or authorize an exemption; a taxable transaction not collected by the seller
+is taxable and payable by the buyer.
+(f) This section and any law enacted under this section shall be construed to apply
+equally to sellers located in this state, in another state, or in a foreign country.
+The Legislature may
+not impose a higher rate of tax, a discriminatory threshold, or a special disability on a seller based
+solely on the seller's out-of-state or foreign status.
+(g) The Legislature shall provide by general law for the administration and
+enforcement of this section, including registration, filing, remittance, verification procedures,
+marketplace-facilitator obligations, and remedies for noncompliance, consistent with the constitutional
+principles established by this section and Section 1-p of this article.
+(h) Revenue derived from the sales and use tax shall be dedicated and applied as
+provided by the Texas Property Tax Replacement Plan constitutional amendment and the general law enacted
+under that amendment.
+The Legislature may not use revenue derived from the sales and use tax to restore
+or replace an ad valorem property tax prohibited by this constitution.
+SECTION 1.08.
+COST OF LIVING STANDARD; TEXAS LIVING EXEMPTION SET.
+Section 1-r, Article VIII, Texas Constitution (exemption from ad valorem taxation by
+a county or municipality of a portion of the appraised value of a residence homestead), is repealed as
+provided by Article 8 of this resolution, and Article VIII, Texas Constitution, is amended by adding
+Section 1-r to read as follows:
+Sec. 1-r.
+COST OF LIVING STANDARD; TEXAS LIVING EXEMPTION SET; ADMINISTRATION AND ENFORCEMENT.
+(a) The Cost of Living Standard.
+The Legislature may exempt from the sales
+and use tax imposed under this article only those transaction classes that directly and primarily affect
+the cost of living of individual Texas citizens and their immediate families.
+No exemption may be
+granted for any transaction the primary purpose or primary economic effect of which is commercial,
+business-to-business, income-producing, or profit-oriented, nor for any transaction class defined by the
+industry, profession, or commercial activity of the parties.
+Every exemption must apply uniformly to all
+Texas citizens and their families without distinction as to race, color, creed, religion, national
+origin, sex, income, or wealth.
+An exemption that fails this Standard is void.
+(b) No exemption based on seller, industry, or asserted commercial purpose.
+No exemption may be granted on the basis of the identity of the seller, the industry to which a
+transaction belongs, or the commercial purpose asserted by the buyer.
+An exemption authorized under this
+section attaches to the transaction made by the citizen, not to the person or entity that sells the
+exempt product or service.
+(c) The Texas Living Exemption Set.
+The Legislature may, by general law,
+establish, amend, and maintain a schedule of transaction classes exempt from the sales and use tax
+imposed under this article, to be known as the Texas Living Exemption Set.
+The Legislature may add or
+remove transaction classes from the Texas Living Exemption Set at any time through the ordinary
+legislative process, provided that every transaction class included satisfies the Cost of Living
+Standard.
+An exemption applies only to a transaction made by a Texas citizen, or by an agent acting on
+behalf of a Texas citizen, for personal, primary residence, or family use.
+(d) No class-wide commercial exemption.
+The authority granted by Subsection
+(c) of this section does not authorize, and the Legislature may not create, a class-wide exemption,
+exclusion, deduction, or special treatment of the kind prohibited by Section 1-p(h) of this article,
+including any exemption for business inputs, manufacturing inputs, purchases for resale,
+business-to-business services, intercorporate or affiliated-group services, or outsourced services.
+No
+resale certificate system may be reinstated.
+(e) Administration through the existing permit system.
+The sales and use
+tax imposed under this article shall be administered through the existing Texas sales and use tax permit
+system.
+No new agency, licensing structure, or compliance regime may be created solely for the purpose
+of administering the Texas Living Exemption Set.
+Each permit holder shall certify, under oath and
+subject to the penalties of perjury, the transaction classes the permit holder treats as exempt under
+the Texas Living Exemption Set.
+(f) Enforcement.
+The comptroller has full audit authority over all permit
+holders with respect to claimed exemptions.
+The district attorney of any county and the attorney general
+each have independent authority to bring criminal prosecution and civil back-tax collection actions for
+fraudulent exemption claims.
+(g) Citizen standing.
+Any Texas citizen has standing to bring a civil
+action in a court of competent jurisdiction:
+(1) to challenge any transaction class included in the Texas Living Exemption Set as
+failing the Cost of Living Standard;
+(2) against any person or entity that wrongfully claims an exemption in violation of
+the Cost of Living Standard; and
+(3) against any person or entity that wrongfully charges the tax on a transaction
+that qualifies for exemption under the Texas Living Exemption Set.
+A citizen prevailing in an action under this subsection shall be awarded the full
+amount of any tax wrongfully collected or wrongfully exempted, together with interest, penalties, and
+reasonable attorney's fees and costs.
+A citizen who does not prevail bears no penalty beyond denial
+of the claim.
+(h) Relationship to the Definition Filter.
+The transaction categories
+excluded from the tax base by Section 1-p(e) of this article are definitional exclusions and are not
+exemptions.
+They are not subject to this section and may not be added to the taxable base except by
+amendment of this constitution.
+SECTION 1.09.
+THE TPTRP FUND SYSTEM.
+Section 1-s, Article VIII, Texas Constitution (exemption from ad valorem taxation of
+animal feed held for retail sale), is repealed as provided by Article 8 of this resolution, and Article
+VIII, Texas Constitution, is amended by adding Section 1-s to read as follows:
+Sec. 1-s.
+TPTRP FUND SYSTEM — STABILIZATION, INFRASTRUCTURE, FIRST RESPONDER, I&S RESERVE, AND CITIZEN DIVIDEND FUNDS FOR ALL TAXING ENTITIES.
+(a) Definitions.
+In this section:
+(1) "Taxing entity" means the State of Texas, any county, any incorporated
+municipality, any independent school district, and any special district authorized to receive a
+distribution of sales and use tax revenue under the TPTRP tiered rate structure established by this
+Article.
+(2) "Full Budget Funding Amount" means the sum of an entity's most
+recently adopted annual Maintenance and Operations budget plus the entity's certified annual
+Interest and Sinking bond debt service obligation for the same period.
+(3) "Six-Month Minimum Balance" means an amount equal to one-half (50%) of
+the entity's Full Budget Funding Amount for the most recently completed fiscal year.
+(4) "One-Year Maximum Balance" means an amount equal to the entity's
+Full Budget Funding Amount for the most recently completed fiscal year.
+(5) "Stabilization Fund" means, for every taxing entity other than the
+State of Texas, the constitutionally required general fiscal reserve fund created by subsection (b) of
+this section.
+For the State of Texas, "Stabilization Fund" means the Economic Stabilization
+Fund established by Article III, Section 49-g of this Constitution, as amended by this Article to
+conform to the standards of this section.
+(6) "Infrastructure Fund" means the constitutionally required,
+purpose-restricted fund created by subsection (m) of this section, dedicated exclusively to Qualifying
+Infrastructure as defined by that subsection.
+(7) "First Responder Fund" means the constitutionally required,
+purpose-restricted fund created by subsection (n) of this section, dedicated exclusively to the capital,
+equipment, training, and emergency-event cost-recovery needs of First Responder Departments as defined
+by that subsection.
+(8) "I&S Reserve Fund" means the single, dedicated, entity-level fund
+required of every taxing entity to serve simultaneously as the operating account from which the entity
+pays bond debt service and as the entity's first-line emergency reserve for bond debt service
+shortfalls, as established and defined by Article VIII, Section 1-o of this Constitution (TPTRP Bond
+Management), and incorporated into the waterfall sequence of this section by subsection (o) of this
+section.
+No taxing entity is required to establish, fund, or maintain any separate or additional bond
+reserve fund; the I&S Reserve Fund is the sole entity-level bond reserve contemplated by this
+Constitution.
+The detailed structure, minimum balance, and administration of the I&S Reserve Fund is
+governed exclusively by Article VIII, Section 1-o, and by implementing legislation enacted under that
+section.
+(9) "Citizen Dividend Fund" means the constitutionally required fund
+created by subsection (p) of this section, into which the guaranteed minimum share of surplus revenue
+described by that subsection is deposited pending distribution to citizens.
+(10) "Fiscal Distress Condition" means the condition declared when a taxing
+entity's Stabilization Fund balance falls below fifty percent (50%) of the required Six-Month
+Minimum Balance, except as otherwise provided by subsection (i-1) of this section during an entity's
+Accumulation Period.
+(11) "Declared Disaster" means a natural disaster, public health emergency,
+or other catastrophic event for which a declaration has been issued by the appropriate authority under
+applicable law, including a declaration by a city's mayor, a county judge, the Governor of the
+State of Texas, or the President of the United States under applicable federal law.
+(12) "Chief Financial Officer" or "financial officer" means the
+officer or employee of a taxing entity charged by law or by the governing body with primary
+responsibility for the entity's financial administration.
+(13) "Essential Utility" means a publicly or privately operated water,
+wastewater, electric power, natural gas, or communications infrastructure system whose function is
+necessary to sustain public health, safety, and basic habitability within the affected jurisdiction.
+(14) "Restoration of Citizen Property and Local Business" means the repair,
+rebuilding, or replacement of a damaged or destroyed primary residence, other citizen-owned real or
+personal property, or a local business's damaged or destroyed real property, equipment, or
+inventory, directly resulting from a Declared Disaster.
+(15) "Accumulation Period" means, with respect to a taxing entity's
+Stabilization Fund, the period beginning on the effective date applicable to that entity under this
+Article, or the date of the entity's formation if later, and ending on the date the entity first
+reaches its required Six-Month Minimum Balance.
+(16) "Maintenance Period" means the period beginning on the date a taxing
+entity first reaches its required Six-Month Minimum Balance and continuing thereafter, including any
+later period in which the fund is drawn below that balance.
+(17) "Contribution Shortfall" means a fiscal period during an entity's
+Accumulation Period in which no amount was available to be deposited to the entity's Stabilization
+Fund through Level 1 of the waterfall because the entity had no Comptroller-certified distributable
+surplus pool for that fiscal period, notwithstanding the entity's compliance with the Total Budget
+Cap and the other applicable requirements of this Article.
+(b) Stabilization Fund Required for Every Taxing Entity.
+Every taxing entity subject to this Article shall establish and maintain a
+Stabilization Fund as a legally segregated, purpose-restricted special fund separate from all other
+funds of the entity, including the Infrastructure Fund, First Responder Fund, I&S Reserve Fund, and
+Citizen Dividend Fund established by this section.
+The Stabilization Fund of each taxing entity is not
+part of the entity's general fund, M&O operating accounts, or I&S debt service accounts and
+may not be commingled with those funds or with any other fund under any circumstances.
+The Stabilization Fund of the State of Texas is the Economic Stabilization Fund (ESF)
+established by Article III, Section 49-g of this Constitution, which is hereby amended and redesignated
+as provided by Section 3.02 of the joint resolution proposing this amendment to conform to the minimum
+balance, maximum balance, permitted use, and capitalization standards established by this section.
+(c) Minimum and Maximum Balance; Fund Retention and Investment.
+(1) Minimum Balance.
+Every taxing entity shall maintain its Stabilization
+Fund at or above the Six-Month Minimum Balance.
+The Six-Month Minimum Balance is a constitutional floor
+— it is not a target.
+An entity that has not yet reached the Six-Month Minimum Balance is actively in
+the process of building its fund through waterfall capitalization and may not divert Stabilization Fund
+waterfall deposits to any other use until the minimum is met.
+(2) Maximum Balance.
+No taxing entity's Stabilization Fund may exceed
+the One-Year Maximum Balance.
+Revenue that would otherwise flow to the Stabilization Fund at Level 1 of
+the waterfall, when the fund has reached or would exceed the One-Year Maximum Balance, passes in full to
+Level 2 of the waterfall as provided by this Article.
+(3) Recertification.
+The Texas Comptroller of Public Accounts shall certify
+each entity's Six-Month Minimum Balance and One-Year Maximum Balance annually, within 60 days of
+the close of the entity's fiscal year, based on the entity's most recently adopted annual
+budget figures.
+Upon recertification, the new minimum and maximum apply prospectively.
+(4) Retention of Unused Balances — No Lapse.
+Any amount in the Stabilization
+Fund not expended in a fiscal period, up to the One-Year Maximum Balance, shall carry forward to the
+next fiscal period without lapsing, reverting to the general fund, or being subject to any other
+year-end sweep, reallocation, or "use it or lose it" budgetary practice.
+The building of the
+Stabilization Fund toward and, where the governing body elects, up to the One-Year Maximum Balance over
+multiple fiscal periods is the intended constitutional design of this section, not an irregularity to be
+corrected.
+(5) Investment for Interest.
+The Chief Financial Officer of each taxing
+entity may invest amounts held in the Stabilization Fund in accordance with the entity's lawful
+investment policy and applicable law governing the investment of public funds.
+All investment earnings
+on the Stabilization Fund are credited to and remain within the Stabilization Fund, subject to the
+One-Year Maximum Balance, and serve the constitutional purpose of building each entity's reserve
+capacity over time and reducing each entity's long-term reliance on bond issuance to fund its
+needs.
+(c-1) Baseline Certification for Newly Formed Entities.
+For a taxing entity formed or first authorized to receive a distribution of sales and
+use tax revenue after the effective date applicable to that entity under this Article, the entity's
+initial Full Budget Funding Amount, Six-Month Minimum Balance, and One-Year Maximum Balance shall be
+determined as follows:
+(1) the entity's actual Comptroller-certified sales and use tax collections for
+its first full fiscal quarter of operation shall be projected forward on an annualized basis;
+(2) that projected figure shall serve as the entity's estimated Full Budget
+Funding Amount for the entity's first fiscal year;
+(3) the entity's governing body shall adopt its first annual budget using that
+projected figure; and
+(4) not later than 60 days after the close of the entity's first full fiscal
+year, the Comptroller shall recertify the entity's Full Budget Funding Amount, Six-Month Minimum
+Balance, and One-Year Maximum Balance based on the entity's actual full-year collections, and that
+recertified figure governs prospectively in the same manner as the annual recertification required by
+subsection (c)(3).
+(c-2) Certification Dispute Process.
+A taxing entity that disputes a Comptroller certification issued under subsection
+(c)(3) or subsection (c-1) of this section may contest that certification as follows:
+(1) Step One — Comptroller Reconsideration.
+The entity shall first submit a
+written contest to the Comptroller, together with supporting documentation, not later than 30 days after
+the certification is issued.
+The Comptroller shall issue a written determination not later than 30 days
+after the contest is filed, either affirming, revising, or withdrawing the disputed certification.
+(2) Step Two — Judicial Review.
+If the entity is not satisfied with the
+Comptroller's determination under subdivision (1) of this subsection, the entity may seek judicial
+review in a district court of Travis County not later than 30 days after the Comptroller's
+determination is issued.
+(3) No Automatic Stay.
+A contest, reconsideration, or judicial review under
+this subsection does not stay the disputed certification, any Fiscal Distress Condition determination,
+or any other obligation of this section pending resolution, except that a court may order interim relief
+upon a showing of clear and irreparable harm.
+(4) Implementing Legislation.
+The Legislature shall provide by general law
+for the administrative procedures necessary to carry out this subsection, including filing deadlines,
+documentation standards, and coordination with any parallel dispute process established under the TPTRP
+Transition Board Act for Final Year Baseline certifications during the Transition Period.
+(d) Capitalization of the Stabilization Fund — Primary Mechanism: The Waterfall.
+The primary mechanism by which every taxing entity's Stabilization Fund is
+capitalized is the TPTRP Surplus Waterfall established by Section 1-t of this Article.
+At Level 1 of the
+waterfall:
+(1) not more than fifty percent (50%) of the entity's distributable surplus pool
+for the fiscal period may be contributed to the Stabilization Fund;
+(2) during the Accumulation Period, the Level 1 share shall be applied first toward
+reaching the Six-Month Minimum Balance;
+(3) once the Six-Month Minimum Balance is met, the governing body of the entity may,
+by recorded vote at a public meeting, elect to continue directing some or all of the Level 1 share to
+the Stabilization Fund until the fund reaches the One-Year Maximum Balance; this election is
+discretionary each fiscal period and must be made on the public record with the Chief Financial Officer's
+written recommendation accompanying the governing body's recorded vote;
+(4) any portion of the Level 1 share that is not contributed to the Stabilization
+Fund in a given fiscal period — whether because the Stabilization Fund has reached the One-Year Maximum
+Balance or because the governing body elects to contribute less than the full available amount once the
+Six-Month Minimum Balance has been met — passes in full to Level 2 of the waterfall for that fiscal
+period; and
+(5) in no event may more than fifty percent (50%) of the distributable surplus pool
+be contributed to the Stabilization Fund in a single fiscal period.
+(e) Capitalization of the Stabilization Fund — Additional Mechanisms.
+In addition to waterfall distributions, a Stabilization Fund may be capitalized
+through:
+(1) Direct Legislative or Governing Body Appropriations.
+The Legislature,
+for the State's ESF, and each entity's governing body, for local entities, may appropriate
+general funds or unobligated fund balances to the Stabilization Fund at any time.
+For local entities,
+such appropriation does not require a voter election provided it does not require a rate increase.
+(2) State Transition Fund Disbursements.
+During the TPTRP Transition Period,
+the TPTRP Transition Fund administered by the Transition Board may provide capitalization assistance to
+any taxing entity that has not yet reached its Six-Month Minimum Balance, in accordance with the
+Transition Fund deployment priorities established by implementing legislation.
+(3) Investment Earnings.
+Governed by subsection (c)(5) of this section.
+(4) Gifts, Grants, and Donations.
+A taxing entity may accept and deposit
+gifts, grants, or donations to its Stabilization Fund from any lawful source.
+(5) Bond Proceeds — Prohibited.
+Bond proceeds may not be used to capitalize
+any Stabilization Fund.
+The Stabilization Fund is a reserve against revenue shortfalls and disaster
+response — not a use of borrowed money.
+(f) Permitted Uses — Stabilization Fund.
+A taxing entity's Stabilization Fund may be used only for the following
+purposes:
+(1) Revenue Shortfall Coverage.
+When the entity's actual sales and use
+tax collections in a fiscal period are insufficient to fund the entity's adopted M&O budget
+plus the required 5% minimum M&O operating buffer, the entity may draw from the Stabilization Fund
+to cover the shortfall.
+The governing body must document the shortfall determination in a public
+resolution filed with the Texas Comptroller within 30 days of the draw.
+(2) Declared Disaster Response — Tiered Cascade.
+The Stabilization Fund is
+the constitutionally designated primary government-side financial resource for disaster response under
+the TPTRP tiered disaster cascade established by subsection (h) of this section, subject to the
+use-of-funds priority sequence established by subsection (h-1).
+An entity may draw from its
+Stabilization Fund to fund disaster response costs upon issuance of a valid declaration as provided by
+subsection (h).
+(3) Fiscal Distress Recovery.
+When a Fiscal Distress Condition is declared
+under subsection (i) of this section, the entity may draw from the Stabilization Fund as part of its
+Fiscal Recovery Plan to stabilize operations and restore fiscal compliance.
+(4) Debt Service Temporary Coverage — Limited.
+If, in an extraordinary
+circumstance, I&S collections are temporarily insufficient to meet a bond debt service payment that
+is due, the entity may draw from the Stabilization Fund to cover the shortfall, provided: (i) the draw
+is documented in writing filed with the Texas Comptroller and the Bond Review Board within 10 business
+days; (ii) the draw is repaid from the I&S stream or the I&S Reserve Fund as soon as collections
+permit and in no event later than the close of the following fiscal year; and (iii) no draw may reduce
+the Stabilization Fund below twenty-five percent (25%) of the Six-Month Minimum Balance.
+(g) Prohibited Uses — Stabilization Fund.
+A taxing entity's Stabilization Fund may not be used for the following
+purposes:
+(1) General operating expenses, salaries, or administrative costs in any year in
+which no Fiscal Distress Condition has been declared.
+(2) Capital projects, infrastructure improvements, or equipment purchases except when
+expressly authorized as part of a Declared Disaster response under subsection (f)(2), and then only to
+the extent and in the priority order established by subsection (h-1).
+(3) Compensation for elected officials, bonuses, or performance incentives.
+(4) To cover a budget deficit resulting from the governing body's failure to
+comply with the Total Budget Cap sequence established by this Article.
+(5) As collateral for borrowing of any kind.
+(6) As a substitute for required waterfall distributions — including deposits to the
+I&S Reserve Fund, Infrastructure Fund, First Responder Fund, or Citizen Dividend Fund — except as
+provided by the Fiscal Distress Condition rules of subsection (i).
+(7) To fund a Mandatory Expenditure Reduction Plan required under this Article as a
+consequence of a failed rate increase election.
+The Stabilization Fund may provide temporary bridge
+support during a declared Fiscal Distress Condition, but the MERP obligation itself — the budget
+reduction — must be executed and may not be substituted by fund draws.
+(h) Tiered Disaster Cascade — Fund Deployment Upon Declared Disaster.
+When a Declared Disaster is issued affecting one or more taxing entities, the TPTRP
+Stabilization Fund System deploys in the following constitutionally mandated sequence.
+No tier of this
+cascade may be activated until the prior tier has been drawn down to or below fifty percent (50%) of its
+required Six-Month Minimum Balance, which is the threshold specified for escalation under this
+subsection.
+The overriding constitutional principle governing this cascade is that a disaster shall be
+resolved at the lowest level of government capable of fully addressing it, so that funds at each higher
+tier remain available for events that genuinely exceed lower-tier capacity.
+Tier 1 — City and ISD Funds: The Stabilization Funds of all affected
+municipalities and independent school districts within the declared disaster area are deployed first.
+Each entity draws from its own Stabilization Fund as needed for disaster response costs within its
+jurisdiction, applied in the priority order established by subsection (h-1).
+An entity's First
+Responder Fund, established by subsection (n), is available concurrently at Tier 1 for the operational
+cost-recovery and equipment needs of its First Responder Departments responding to the disaster, and an
+entity's Infrastructure Fund, established by subsection (m), is available concurrently at Tier 1
+for Qualifying Infrastructure damaged by the disaster.
+Tier 2 — County Fund (Activated at 50% of Minimum Balance): When any
+municipality or ISD within a county has drawn its Stabilization Fund down to or below fifty percent
+(50%) of its required Six-Month Minimum Balance in response to the declared disaster, the county's
+Stabilization Fund activates.
+The county may draw from its Stabilization Fund to provide direct
+financial assistance to affected municipalities and ISDs within its boundaries, or to fund county-level
+disaster response operations, or both, applied in the priority order established by subsection (h-1).
+A
+disaster that can be fully resolved through the combined resources of the affected city or ISD and,
+where activated, the county under this Tier 2, shall not escalate to Tier 3.
+Tier 3 — State Fund / ESF (Activated at County 50% of Minimum
+Balance): When any county's Stabilization Fund has been drawn down to or below fifty
+percent (50%) of its required Six-Month Minimum Balance in response to a declared disaster, the State
+Economic Stabilization Fund activates.
+The Governor may authorize draws from the ESF for disaster relief
+assistance to affected counties, municipalities, and ISDs, and for state agency disaster response
+operations, including the Texas Military Department, applied in the priority order established by
+subsection (h-1).
+ESF draws for disaster relief under this cascade are subject to the appropriation and
+legislative authorization requirements of Article III, Section 49-g, as amended.
+Tier 4 — Catastrophic Risk Transfer Threshold: Once the State ESF
+has been drawn down to or below fifty percent (50%) of its required Six-Month Minimum Balance, the state's
+catastrophic risk insurance, reinsurance, or other risk-transfer coverage and applicable federal
+disaster assistance mechanisms take effect as the next layer of financial protection.
+Implementing
+legislation shall establish the state's risk-transfer program structure, coverage attachment
+points, and federal coordination protocols consistent with this cascade sequence.
+Cascade Intent: This tiered sequence reduces state-level ESF
+exposure by requiring lower tiers of government to deploy their own reserves first, in proportion to
+their jurisdiction and fiscal capacity.
+It creates incentives for every entity to maintain its
+Stabilization Fund at or above the Six-Month Minimum Balance — because an entity with a depleted fund
+activates county-level and state-level backstops sooner, increasing the scrutiny and oversight placed on
+that entity's fiscal management.
+The tiered cascade also provides a rational structure for the
+private insurance market to price state-level catastrophic risk, which is expected over time to reduce
+the cost of the State's catastrophic insurance coverage, and to reduce the practical dependence of
+Texas citizens and local businesses on private insurance as their primary avenue of disaster recovery.
+(h-1) Use-of-Funds Priority Sequence — Disaster Response Spending Order.
+Within every tier of the cascade established by subsection (h), and regardless of
+which tier's fund is deployed, disaster response expenditures from a Stabilization Fund, First
+Responder Fund, or Infrastructure Fund shall be applied in the following constitutional priority order.
+A lower-numbered priority must be substantially addressed before funds are applied to a higher-numbered
+priority, except that nothing in this subsection prevents concurrent response activity across priorities
+where the nature of the emergency requires simultaneous action:
+(1) First Priority — Essential Utilities.
+Restoration of Essential
+Utility service to the affected population, including emergency repair, temporary restoration, and
+coordination with utility providers, whether publicly or privately operated.
+(2) Second Priority — Health and Safety.
+Response to immediate
+threats to human life, health, and safety, including emergency medical response, search and rescue,
+temporary shelter, food and water distribution, and public health measures necessary to prevent disease
+or further loss of life.
+(3) Third Priority — Public Infrastructure Repair.
+Repair,
+restoration, or reconstruction of Qualifying Infrastructure and other publicly owned infrastructure
+damaged by the disaster, to the extent necessary to restore essential government function and public
+access to essential services.
+(4) Fourth Priority — Restoration of Citizen Property and Local
+Business.
+To the extent funds remain available above the Six-Month Minimum Balance of the fund
+or funds being drawn upon, assistance for the Restoration of Citizen Property and Local Business within
+the affected jurisdiction, administered in a manner designed to reduce the cost of recovery borne by
+citizens and local businesses and to reduce reliance on private insurance and federal disaster
+assistance as the primary means of recovery.
+(5) Implementing Legislation.
+The Legislature shall provide by
+general law for the specific administration, monitoring, documentation, and citizen application
+procedures necessary to carry out this priority sequence in a manner that maximizes benefit to citizens
+and local businesses in the declared disaster area while ensuring funds are not depleted below the
+Six-Month Minimum Balance except as provided by subsections (f), (i), and (i-1) of this section.
+Implementing legislation shall establish the mechanism by which an entity determines that a disaster has
+been substantially addressed at its tier such that escalation to the next tier of the cascade is
+unnecessary.
+(6) No Effect on Fund Segregation.
+Nothing in this subsection
+authorizes the transfer of funds between the Stabilization Fund, First Responder Fund, and
+Infrastructure Fund for a purpose outside each fund's own constitutional purpose.
+A First Responder
+Fund draw during a disaster remains limited to First Responder Department purposes; an Infrastructure
+Fund draw during a disaster remains limited to Qualifying Infrastructure; and a Stabilization Fund draw
+during a disaster is limited to the priority sequence of this subsection to the extent the expenditure
+is not already funded by the First Responder Fund or Infrastructure Fund.
+Funds drawn upon for one
+priority under this subsection that remain unused for that priority are not thereby freed for use at a
+different priority without documentation of the reallocation determination by the Chief Financial
+Officer and a public resolution of the governing body.
+(i) Fiscal Distress Condition — Declaration and Response.
+(1) Trigger.
+A Fiscal Distress Condition is declared automatically when any
+taxing entity's Stabilization Fund balance falls below fifty percent (50%) of the required
+Six-Month Minimum Balance, except as provided by subsection (i-1) during an entity's Accumulation
+Period.
+The Texas Comptroller shall monitor all fund balances as reported under the mandatory public
+reporting requirements of this Article and shall issue a Fiscal Distress Notice to any entity that has
+reached this threshold within 10 days of the determination.
+(2) Governing Body Response — 10 Days.
+Upon issuance of a Fiscal Distress
+Notice, the governing body shall notify the Texas Comptroller in writing within 10 days, providing a
+full accounting of the causes of the fund drawdown.
+(3) Fiscal Recovery Plan — 60 Days.
+The governing body shall adopt and file
+a Fiscal Recovery Plan with the Texas Comptroller within 60 days of the Fiscal Distress Notice.
+The Plan
+must specify: (i) the causes of the shortfall; (ii) the exact steps the entity will take to restore the
+fund to its Six-Month Minimum Balance; (iii) the timeline for restoration, with no step deferred beyond
+24 months without written Comptroller approval; and (iv) the governing body's recorded vote
+adopting the Plan.
+(4) Distribution Suspension.
+The entity's quarterly TPTRP waterfall
+distribution is suspended and held in a Comptroller-managed account from the date of the Fiscal Distress
+Notice until the Fiscal Recovery Plan is filed, certified as sufficient by the Comptroller, and the
+entity is in documented compliance with Plan milestones.
+The entity's Bond Service Levy is never
+suspended, withheld, or held in escrow under this paragraph, and continues to flow to the entity's
+I&S Reserve Fund without interruption for the payment of bond debt service.
+(5) Expenditure Restrictions During Distress.
+During a declared Fiscal
+Distress Condition, the governing body may not approve any new non-essential expenditures, new
+non-emergency personnel positions, new contracts for non-essential services, or new capital projects not
+already under contract and not required for public safety.
+(6) Fiscal Manager Appointment.
+If a Fiscal Distress Condition is not
+resolved within one fiscal year of the date of the Fiscal Distress Notice, the Texas Comptroller may
+appoint a fiscal manager for the entity, subject to the due process requirements established by
+implementing legislation.
+The elected governing body retains its elected status throughout the period of
+fiscal management.
+(7) Due Process Before Fiscal Manager Appointment.
+Before appointing a
+fiscal manager: the Comptroller issues a written Notice of Trigger Determination; the governing body has
+governing body may appeal to a Travis County district court within 15 days; the court rules within 30
+days; if no appeal is filed or the appeal is denied, the Comptroller proceeds with fiscal manager
+appointment.
+(i-1) Good Faith Contribution Standard — Accumulation Period Assistance Pathway.
+During an entity's Accumulation Period, the following rules apply:
+(1) Good Standing Through Actual Contribution.
+An entity that receives or
+makes a Stabilization Fund contribution in a fiscal period through Level 1 of the waterfall, through a
+direct appropriation under subsection (e)(1), or through a Transition Fund disbursement under subsection
+(e)(2), is in good standing for that fiscal period notwithstanding that the entity has not yet reached
+its Six-Month Minimum Balance.
+(2) Contribution Shortfall Notice Instead of Immediate Fiscal Distress.
+If
+an entity experiences a Contribution Shortfall during its Accumulation Period, the Comptroller shall
+issue a Contribution Shortfall Notice rather than a Fiscal Distress Notice for that first shortfall
+fiscal period.
+(3) Mandatory Assistance Contact.
+Not later than 30 days after receipt of a
+Contribution Shortfall Notice, the entity's governing body shall initiate formal contact with: (i)
+the TPTRP Transition Board, if the shortfall occurs during the Transition Period; or (ii) the Texas
+Comptroller, if the shortfall occurs after the Transition Period, for the purpose of seeking assistance,
+technical review, transition support, tax-base development coordination, bridge mechanisms authorized by
+law, or other aid established by implementing legislation.
+(4) Objective Determination.
+Whether a shortfall constitutes a Contribution
+Shortfall under this subsection shall be determined using Comptroller-certified collection data and
+related objective economic data, not solely the entity's own projection or self-assessment.
+(5) Escalation to Fiscal Distress.
+A Contribution Shortfall escalates to a
+Fiscal Distress Condition under subsection (i) if: (i) the entity experiences a second consecutive
+Contribution Shortfall; or (ii) the Comptroller determines that the shortfall was not attributable to
+genuine economic contraction, revenue weakness, or other conditions consistent with good-faith
+compliance.
+(6) Maintenance Period Unaffected.
+Once an entity enters its Maintenance
+Period, this subsection no longer delays or replaces the standard Fiscal Distress rules of subsection
+(i).
+(7) Implementing Legislation.
+The Legislature shall provide by general law
+for the specific procedures, documentation standards, evidentiary thresholds, assistance mechanisms, and
+escalation rules required to carry out this subsection.
+(j) Expenditure Reduction Sequence.
+When expenditure reductions are required under this Article — whether through a
+Fiscal Distress Condition, a failed rate increase election, or an ANR-triggered mandatory rate reduction
+— reductions shall proceed in the following constitutional order.
+This sequence is not discretionary:
+(1) First: Eliminate all discretionary non-essential spending.
+(2) Second: Reduce non-first-responder administrative and operational personnel and
+programs.
+(3) Third: Reduce non-essential capital and infrastructure spending.
+(4) Constitutional Floor — Never Reduce: First responder services, court and justice
+services, and essential utility services may never be reduced below the level necessary to sustain
+public safety and essential service delivery in the jurisdiction.
+(k) Comptroller Oversight and Public Reporting.
+The Texas Comptroller shall:
+(1) maintain a real-time public database of every taxing entity's Stabilization
+Fund, Infrastructure Fund, First Responder Fund, I&S Reserve Fund, and Citizen Dividend Fund
+balances, updated no less than quarterly, accessible on the Local Government Transparency Portal;
+(2) certify each entity's Six-Month Minimum Balance and One-Year Maximum Balance
+annually;
+(3) issue Fiscal Distress Notices within 10 days of identifying a Stabilization Fund
+balance below the 50% threshold;
+(4) issue Contribution Shortfall Notices under subsection (i-1) within 10 days of
+identifying a qualifying first shortfall during an entity's Accumulation Period;
+(5) verify and publish all Fiscal Recovery Plans within 10 days of receipt;
+(6) monitor Fiscal Recovery Plan compliance on a quarterly basis;
+(7) withhold the Maintenance and Operations portion of the quarterly distribution of
+a non-compliant entity as authorized by this Article, provided that the Comptroller may never withhold,
+suspend, or escrow the Bond Service Levy portion of any distribution, which continues to flow to the
+entity's I&S Reserve Fund without interruption; and
+(8) during a Declared Disaster, publish on the Local Government Transparency Portal,
+updated not less than weekly for the duration of the disaster response, the amount and priority category
+of expenditures made under subsection (h-1) by each affected entity and by any fund activated at a
+higher cascade tier.
+(l) Citizen Enforcement.
+Any Texas citizen who resides in or pays taxes in a jurisdiction shall have standing
+to bring a civil action in the district court of the county where the entity is located, or, for an
+action against the Comptroller under subdivision (5) of this subsection, in the district court of Travis
+County, to:
+(1) compel an entity to establish any fund required by this section;
+(2) compel compliance with a filed Fiscal Recovery Plan;
+(3) enjoin any prohibited use of any fund established by this section, including any
+use of disaster response funds outside the priority sequence established by subsection (h-1) or any
+commingling of fund purposes prohibited by subsection (h-1)(6);
+(4) compel any public disclosure required by this section; or
+(5) compel the Texas Comptroller of Public Accounts to perform any duty required of
+the Comptroller by subsection (k) of this section, including the timely issuance of Fiscal Distress
+Notices, Contribution Shortfall Notices, annual balance certifications, or publication of Fiscal
+Recovery Plans.
+A prevailing citizen shall be awarded reasonable attorneys' fees and costs.
+A
+citizen who does not prevail bears no penalty beyond denial of the claim.
+(m) Infrastructure Fund — Purpose, Requirement, and Restrictions.
+(1) Fund Required.
+Every taxing entity subject to this Article shall
+establish and maintain an Infrastructure Fund as a legally segregated, purpose-restricted special fund
+separate from the Stabilization Fund, First Responder Fund, I&S Reserve Fund, Citizen Dividend Fund,
+and general fund of the entity.
+(2) "Qualifying Infrastructure" Defined.
+For purposes of this
+subsection, "Qualifying Infrastructure" means the acquisition, construction, reconstruction,
+or major rehabilitation of:
+(A) roads, streets, bridges, and related public rights-of-way;
+(B) water supply, water treatment, wastewater, and stormwater drainage systems;
+(C) publicly owned utility systems and infrastructure;
+(D) courthouses, county or municipal clerk offices, and other public buildings
+whose primary function is to provide citizens with direct, in-person access to essential government
+services, including courts, vital records, permitting, and elections administration; and
+(E) for independent school districts and special districts, the physical
+facilities and capital systems required to directly deliver the entity's core statutory function to
+the public.
+Qualifying Infrastructure does not include the construction, renovation, or
+furnishing of administrative office space for elected officials or executive staff, or any facility
+whose primary function is internal government administration rather than direct citizen-facing service
+delivery or public infrastructure.
+Implementing legislation shall further define and, where necessary,
+restrict the scope of Qualifying Infrastructure consistent with this subsection's core distinction
+between public infrastructure and citizen-facing service facilities, on the one hand, and general
+government administrative facilities, on the other.
+(3) Permitted Uses.
+Money in the Infrastructure Fund may be used only for
+the planning, design, acquisition, construction, reconstruction, major rehabilitation, and directly
+associated financing costs of Qualifying Infrastructure, including the repair or reconstruction of
+Qualifying Infrastructure damaged in a Declared Disaster as provided by subsections (h) and (h-1).
+Money
+in the Infrastructure Fund may not be used for routine maintenance, general operating expenditures, or
+any purpose not constituting Qualifying Infrastructure.
+(4) Capitalization; Retention; Pass-Through.
+The Infrastructure Fund is
+capitalized primarily through the waterfall sequence established by Section 1-t of this Article.
+In any
+fiscal period, the governing body may allocate to the Infrastructure Fund not more than forty-five
+percent (45%) of the amount arriving at Level 3 after the guaranteed minimum Citizen Dividend amount has
+been protected, based on the Chief Financial Officer's written recommendation and the entity's
+documented infrastructure needs for the upcoming period.
+Any portion of that available Infrastructure
+Fund share that the governing body does not allocate in that fiscal period passes through in full to the
+Citizen Dividend Fund.
+The Infrastructure Fund may additionally be capitalized through direct governing
+body appropriation, gifts, grants, and investment earnings, in the same manner and subject to the same
+general principles as provided for the Stabilization Fund by subsection (e), except that no maximum
+balance cap applies to the Infrastructure Fund.
+The Infrastructure Fund is a purpose-restricted fund;
+unused balances carry forward and do not lapse or revert to the general fund at the close of any fiscal
+period, consistent with subsection (c)(4).
+(5) No Diversion.
+Money in the Infrastructure Fund may not be transferred to
+the general fund, used for M&O expenditures, or redirected to any other fund established by this
+section, except that a governing body may, by recorded public vote upon the written recommendation of
+the Chief Financial Officer, determine that a specific portion of funds is not needed for any currently
+planned or reasonably anticipated Qualifying Infrastructure project, in which case that portion flows to
+the Citizen Dividend Fund as provided by subsection (p).
+(n) First Responder Fund — Purpose, Requirement, and Restrictions.
+(1) Fund Required.
+Every taxing entity subject to this Article shall
+establish and maintain a First Responder Fund as a legally segregated, purpose-restricted special fund
+separate from the Stabilization Fund, Infrastructure Fund, I&S Reserve Fund, Citizen Dividend Fund,
+and general fund of the entity.
+(2) "First Responder Department" Defined.
+For purposes of this
+subsection, "First Responder Department" means a law enforcement agency, fire department, or
+emergency medical services provider operated by or under the authority of the taxing entity, and, for
+the State of Texas, includes the Texas Military Department and other state agencies with a statutorily
+assigned emergency response mission.
+(3) Permitted Uses.
+Money in the First Responder Fund may be used only for
+the following purposes of a First Responder Department:
+(A) acquisition, construction, and major rehabilitation of stations, training
+facilities, and related infrastructure;
+(B) acquisition and replacement of vehicles, apparatus, and equipment;
+(C) recruitment, certification, and ongoing training of personnel; and
+(D) reimbursement of extraordinary operating costs directly incurred by a First
+Responder Department in responding to a declared emergency or disaster, applied consistent with the
+Second Priority of subsection (h-1), to the extent such costs are not reimbursed from another source.
+Money in the First Responder Fund may not be used to fund the routine, ongoing
+general operating budget or base payroll of any First Responder Department.
+This fund is a capital,
+equipment, training, and emergency cost-recovery replenishment resource — it is not a substitute for the
+annual operating appropriation each First Responder Department receives through the ordinary budget
+process.
+(4) Determination of Need and Allocation Procedure.
+The head of each First
+Responder Department, in consultation with departmental staff, shall determine and submit to the entity's
+governing body an itemized statement of the department's First Responder Fund needs as part of the
+entity's regular budget process.
+The governing body — acting through the Legislature for the State
+of Texas, and through the applicable council, court, or board for local entities — serves as the
+allocating and mediating authority among the itemized requests of all First Responder Departments within
+its jurisdiction, but may not withhold an allocation from the First Responder Fund for any purpose other
+than the permitted uses of this subsection.
+Implementing legislation shall establish the specific
+procedure, timeline, and dispute resolution process for departmental submissions and governing body
+allocation decisions.
+(5) Capitalization; Retention; Pass-Through.
+The First Responder Fund is
+capitalized primarily through the waterfall sequence established by Section 1-t of this Article.
+In any
+fiscal period, the governing body may allocate to the First Responder Fund not more than forty-five
+percent (45%) of the amount arriving at Level 3 after the guaranteed minimum Citizen Dividend amount has
+been protected, based on the Chief Financial Officer's written recommendation and in coordination
+with the applicable First Responder Department heads.
+Any portion of that available First Responder Fund
+share that the governing body does not allocate in that fiscal period passes through in full to the
+Citizen Dividend Fund.
+The First Responder Fund may additionally be capitalized through direct governing
+body appropriation, gifts, grants, and investment earnings, in the same manner and subject to the same
+general principles as provided for the Stabilization Fund by subsection (e), except that no maximum
+balance cap applies to the First Responder Fund.
+The First Responder Fund is a purpose-restricted fund;
+unused balances carry forward and do not lapse or revert to the general fund at the close of any fiscal
+period, consistent with subsection (c)(4).
+(6) No Diversion.
+Money in the First Responder Fund may not be transferred
+to the general fund, used for non-First Responder Department M&O expenditures, or redirected to any
+other fund established by this section, except that the governing body may, by recorded public vote upon
+the written recommendation of the applicable First Responder Department head, determine that a specific
+portion of funds is not needed for any currently planned or reasonably anticipated departmental need, in
+which case that portion flows to the Citizen Dividend Fund as provided by subsection (p).
+(o) I&S Reserve Fund — Incorporation by Reference and Waterfall Coordination.
+(1) Fund Required.
+Every taxing entity subject to this Article shall
+establish and maintain a single I&S Reserve Fund as required by, and defined in full by, Article
+VIII, Section 1-o of this Constitution (TPTRP Bond Management).
+The I&S Reserve Fund is a legally
+segregated, purpose-restricted special fund that serves simultaneously as the entity's bond debt
+service operating account and as its first-line emergency reserve for bond debt service shortfalls, and
+is separate from the Stabilization Fund, Infrastructure Fund, First Responder Fund, Citizen Dividend
+Fund, and general fund of the entity.
+No taxing entity is required to establish, fund, or maintain any
+separate or additional bond reserve fund.
+(2) Waterfall Capitalization; Pass-Through.
+At Level 2 of the waterfall
+established by Section 1-t of this Article, not more than fifty percent (50%) of the amount arriving
+from Level 1 may be allocated to the entity's I&S Reserve Fund, directed toward the accelerated
+payoff of outstanding voter-approved bond obligations or toward maintaining the I&S Reserve Fund's
+required balance, in accordance with the Chief Financial Officer's written recommendation and the
+requirements of Article VIII, Section 1-o.
+Any portion of the Level 2 share not needed or not allocated
+for bond purposes in that fiscal period — including the entirety of that share if the entity has no
+outstanding bonds or the applicable reserve requirement is already fully satisfied — passes in full to
+Level 3 of the waterfall.
+(3) Governing Provision.
+The minimum balance, maximum balance, permitted
+uses, prohibited uses, and administration of the I&S Reserve Fund are governed exclusively by
+Article VIII, Section 1-o, and by implementing legislation enacted under that section.
+Nothing in this
+section shall be construed to create a separate or conflicting bond reserve fund standard; this
+subsection incorporates that structure by reference for purposes of the waterfall sequence established
+by this section.
+(p) Citizen Dividend Fund — Purpose, Requirement, and Guaranteed Minimum.
+(1) Fund Required.
+Every taxing entity subject to this Article shall
+establish and maintain a Citizen Dividend Fund as a legally segregated, purpose-restricted special fund
+separate from the Stabilization Fund, Infrastructure Fund, First Responder Fund, I&S Reserve Fund,
+and general fund of the entity.
+The Citizen Dividend Fund exists to hold surplus revenue that is
+constitutionally committed to distribution to citizens, pending the completion of the entity's
+distribution process at the close of each fiscal period.
+(2) Guaranteed Minimum Deposit — Contingent on Surplus.
+In any fiscal period
+in which a taxing entity has a distributable surplus pool under Section 1-t of this Article, not less
+than five percent (5%) of the amount reaching the Citizen Dividend calculation point of the waterfall
+shall be deposited into the Citizen Dividend Fund.
+This guarantee applies only to actual surplus
+revenue.
+In any fiscal period in which no distributable surplus pool exists because actual collections
+do not exceed the entity's Total Budget Cap and other applicable constitutional requirements, no
+Citizen Dividend is owed or payable for that period.
+(3) Nature of the Fund.
+Money in the Citizen Dividend Fund is not general
+revenue, is not appropriated for any governmental purpose, and does not belong to the taxing entity for
+any operating, capital, or reserve purpose.
+The Citizen Dividend Fund exists solely to administer the
+efficient, orderly distribution of surplus tax revenue back to the citizens who paid it.
+The character
+of a Citizen Dividend distribution as a return of surplus taxes already paid — and not a government
+benefit, welfare payment, grant, or social program — is established by Section 1-t of this Article and
+is not altered by the existence of this Fund.
+(4) Permitted Use — Distribution Only.
+Money in the Citizen Dividend Fund
+may be used only to fund the per-capita distribution to qualifying citizens required by Section 1-t of
+this Article, and to pay the direct administrative costs of executing that distribution.
+Money in the
+Citizen Dividend Fund may not be transferred to the general fund, the Stabilization Fund, the
+Infrastructure Fund, the First Responder Fund, the I&S Reserve Fund, or used for any governmental
+operating or capital purpose under any circumstance.
+(5) Distribution Governed by Section 1-t.
+The manner, timing, per-capita
+distribution requirement, minor's custodian account structure, method-of-receipt election, and
+Citizen Distribution Statement requirements governing distribution from the Citizen Dividend Fund are
+established by Section 1-t of this Article, and implementing legislation shall provide further
+administrative detail consistent with that Section.
+SECTION 1.10.
+THE TPTRP SURPLUS WATERFALL AND THE CITIZEN DIVIDEND.
+Article VIII, Texas Constitution, is amended by adding Section 1-t to read as
+follows:
+Sec. 1-t.
+THE TPTRP SURPLUS WATERFALL — A CONSTITUTIONAL CITIZEN PROTECTION.
+(a) Constitutional Purpose.
+The Legislature finds and declares that the sequence by which surplus tax revenue is
+distributed among a taxing entity's constitutionally required funds and, ultimately, to its
+citizens is itself a fundamental citizen protection, co-equal in constitutional stature with the tax
+rate limits, budget growth caps, and voter-approval requirements established elsewhere in this Article.
+This Section guarantees that no taxing entity subject to this Article may retain and spend surplus
+revenue collected above its constitutionally certified Total Budget Cap and required minimum fund
+buffers for any discretionary governmental purpose.
+All such surplus shall flow through the sequence
+established by this Section, without exception, alteration, or discretion to bypass any level, except as
+expressly provided by this Section.
+(b) Application.
+This Section applies to every taxing entity subject to this Article following the
+close of the Transition Period established elsewhere in this Article.
+During the Transition Period, the
+modified waterfall allocation between the Transition Fund and each entity's waterfall pool, as
+established by the Transition Fund provisions of this Article, governs.
+This Section governs the full
+waterfall beginning with the first fiscal period following the close of the Transition Period, and
+governs the Citizen Dividend guarantee of subsection (e) of this Section from the first day of
+collections under this Article to the extent provided by general law during the Transition Period.
+(c) The Waterfall Sequence.
+At the close of each fiscal period, after all Maintenance and Operations expenditures
+have been funded from the Maintenance and Operations rate within the Total Budget Cap established
+elsewhere in this Article, the entity's remaining distributable surplus shall flow through the
+following four levels, in sequence, without deviation:
+(1) Level 1 — Stabilization Fund.
+Up to fifty percent (50%) of the
+distributable surplus pool may flow to the entity's Stabilization Fund, as governed by Section 1-s
+of this Article.
+During the Accumulation Period, this share is applied first toward the Six-Month
+Minimum Balance.
+Once the Stabilization Fund has reached the balance to which the governing body has
+elected to fund it for that fiscal period under Section 1-s(d), any unallocated portion of the Level 1
+share passes in full to Level 2.
+(2) Level 2 — I&S Reserve Fund.
+Up to fifty percent (50%) of the
+amount arriving from Level 1 may flow to the entity's I&S Reserve Fund, as governed by Article
+VIII, Section 1-o of this Constitution, directed toward accelerated bond payoff or toward maintaining
+the I&S Reserve Fund's required balance, in accordance with the Chief Financial Officer's
+written recommendation.
+Any portion of that Level 2 share not needed or not allocated for bond purposes
+passes in full to Level 3.
+(3) Level 3 — Guaranteed Citizen Dividend, Infrastructure Fund, and First
+Responder Fund.
+Of the amount arriving at Level 3, not less than five percent (5%) shall be
+reserved unconditionally for the Citizen Dividend Fund.
+Of the remaining amount available for Level 3
+fund allocations, not more than forty-five percent (45%) may be allocated to the Infrastructure Fund,
+and not more than forty-five percent (45%) may be allocated to the First Responder Fund, each in
+accordance with Sections 1-s(m) and 1-s(n) of this Article.
+Any portion not allocated to those two funds
+passes in full to the Citizen Dividend Fund.
+(4) Level 4 — Citizen Dividend Distribution.
+All amounts credited to
+the Citizen Dividend Fund under this Section shall be distributed at the close of each fiscal period as
+provided by subsection (e) of this Section.
+(d) Constitutional Guarantee Against Discretionary Retention.
+No taxing entity subject to this Article may adopt a budget, resolution, or ordinance
+that retains distributable surplus outside the sequence established by subsection (c) of this Section,
+that delays a required waterfall distribution beyond the close of the fiscal period in which the surplus
+was collected, or that creates any fund, account, or reserve not established by this Article or by
+Article VIII, Section 1-o, for the purpose of holding surplus revenue outside this Section's
+sequence.
+Any surplus revenue held or retained by a taxing entity in violation of this subsection is
+subject to immediate distribution by order of a district court upon action by the Texas Comptroller or
+by any Texas citizen with standing under this Article.
+(e) The Citizen Dividend — Distribution Mechanics.
+(1) Per-Capita Distribution.
+All amounts in a taxing entity's Citizen
+Dividend Fund at the close of each fiscal period shall be distributed in equal per-capita shares to
+every qualifying citizen of that taxing entity as of the close of that fiscal period.
+No distribution
+under this subsection may be subjected to any means test, income qualification, or application process
+beyond the verification of qualifying citizenship required by paragraph (1-A) of this subsection.
+(1-A) Qualifying Citizen Defined.
+For purposes of this Section, a "qualifying
+citizen" of a taxing entity is a natural person who, as of the date of distribution: (A) is a
+citizen of the United States; (B) is a citizen and resident of the State of Texas; (C) has resided
+within the jurisdiction of the taxing entity continuously for not less than one year immediately
+preceding that date; and (D) is 18 years of age or older, except that a minor child who satisfies
+Paragraphs (A) through (C) of this subdivision qualifies for a share held under paragraph (4) of this
+subsection.
+A person who is not a citizen of the United States is not a qualifying citizen and may not
+receive a distribution under this Section by any means, in any amount, or through any other person.
+The
+Legislature shall provide by general law for the verification of qualifying citizenship, which must be
+capable of being satisfied by a qualifying citizen without cost.
+(2) Character of the Distribution.
+A Citizen Dividend distribution is a
+return of surplus taxes already paid by the citizen and is not a government benefit, welfare payment,
+grant, or social program of any kind.
+This characterization is a matter of constitutional definition
+under this Section and may not be altered by statute, administrative rule, or agency interpretation.
+(3) Method of Receipt — The Citizen's Election.
+The method by which a
+Citizen Dividend distribution is received is the election of the individual citizen.
+Each qualifying
+citizen shall elect the method by which the citizen receives the citizen's distribution and shall
+designate the account, payment destination, or mailing address to which the distribution is delivered,
+and the citizen alone determines the financial institution, account, and account terms the citizen uses
+to receive it.
+The Legislature shall provide by general law for the methods of receipt to be made
+available, which shall include, at a minimum, direct deposit to an account at a financial institution
+designated by the citizen and a payment instrument issued by the Texas Comptroller of Public Accounts,
+and which may include any additional method of receipt the Comptroller makes available.
+No citizen may
+be required to accept any particular method of receipt, to use any particular financial institution, or
+to open or maintain any particular type of account as a condition of receiving a Citizen Dividend, and
+no distribution may be withheld, reduced, or delayed because of the method of receipt the citizen
+elects.
+No processing fee, administrative charge, or deduction of any kind may be assessed against a
+citizen's distribution by a taxing entity, by the Comptroller, or by any institution distributing
+the dividend.
+(4) Minor Citizens — Custodian Accounts.
+An equal per-capita share for each
+minor child who is a citizen of both the State of Texas and the applicable jurisdiction, and whose
+parent or legal guardian is a qualifying citizen under this subsection, shall be deposited into a
+dedicated custodian account established for the benefit of that minor child.
+The parent or legal
+guardian has no right of withdrawal, borrowing, pledging, or any other access to funds in the minor's
+custodian account for any purpose, and such funds may not be used for any expense of the parent,
+guardian, or household under any circumstance.
+Funds in a minor's custodian account are made
+available in full to the child upon reaching eighteen years of age, at which time the account converts
+to a standard distribution account in the child's own name.
+(5) Citizen Distribution Statement.
+At the time of each distribution, every
+qualifying citizen shall receive a written or electronic Citizen Distribution Statement stating: the
+exact dollar amount of the citizen's dividend; a breakdown of the dividend by source taxing entity
+and tier; each source entity's total collections, total certified need, and total surplus for the
+fiscal period; the rate in effect for each source entity; and the recorded vote of each source entity's
+governing body at each waterfall decision point described by subsection (c) of this Section.
+Implementing legislation shall establish the format and delivery method of the Citizen Distribution
+Statement, which shall in all cases be provided in plain language comprehensible to a general audience.
+(6) Enforcement.
+Any Texas citizen has standing to bring a civil action to
+compel a taxing entity's compliance with this subsection, including the timely and accurate
+calculation and distribution of the Citizen Dividend and the timely delivery of the Citizen Distribution
+Statement.
+A prevailing citizen shall be awarded reasonable attorneys' fees and costs.
+(f) Relationship to the Cumulative Budget Growth Cap.
+The waterfall sequence established by this Section operates in conjunction with, and
+depends upon, the Cumulative Budget Growth Cap and Total Budget Cap provisions established elsewhere in
+this Article.
+Because a taxing entity's Maintenance and Operations budget may grow only by a
+fraction of its cumulative revenue growth since its most recent Qualified Rate Change Event, an entity
+that manages its budget prudently and does not seek unnecessary rate increases will see its
+distributable surplus — and therefore its Stabilization Fund, I&S Reserve Fund, Infrastructure Fund,
+First Responder Fund, and ultimately its Citizen Dividend — grow as its jurisdiction's economy
+grows, without any rate increase and without any reduction in the rate being necessary to return that
+growth to citizens.
+This Section and the Total Budget Cap provisions of this Article are intended to
+operate as a single, integrated constitutional design: government spending is constitutionally
+constrained to a fraction of revenue growth, and the remainder is guaranteed, by this Section, to flow
+to constitutionally protected reserve funds and, ultimately, to the citizens who generated that growth
+through their own economic activity.
+(g) Fund Disposition Upon Merger, Consolidation, Dissolution, or Annexation.
+Upon the lawful merger, consolidation, dissolution, or annexation of any taxing
+entity subject to this Article, including a special district absorbed by an overlying entity, an
+independent school district consolidated into another district, a municipality annexed by another
+municipality, or any other successor arrangement authorized by law:
+(1) each TPTRP fund balance of the dissolving, absorbed, or merging entity shall
+transfer by operation of law to the corresponding TPTRP fund of the surviving, receiving, annexing, or
+consolidated entity;
+(2) the transferred balance shall retain its original fund character and purpose
+restriction and may not be commingled into a different TPTRP fund category;
+(3) if a transferred Stabilization Fund balance would cause the receiving entity's
+Stabilization Fund to exceed its One-Year Maximum Balance, the excess amount shall flow to that entity's
+Citizen Dividend Fund unless implementing legislation requires a different constitutional treatment
+consistent with this Article;
+(4) bond-related transfers shall remain subject to Article VIII, Section 1-o and to
+any bond covenant or legal obligation not inconsistent with this Constitution; and
+(5) the Legislature shall provide by general law for the detailed administrative
+procedures necessary to implement this subsection over the long term.
+(h) Citizen Enforcement.
+Any Texas citizen who resides in or pays taxes in a jurisdiction shall have standing
+to bring a civil action in the district court of the county where the entity is located to compel
+compliance with the waterfall sequence established by this Section, to enjoin any diversion of surplus
+revenue outside that sequence, and to compel any distribution, disclosure, or Citizen Distribution
+Statement required by this Section.
+A prevailing citizen shall be awarded reasonable attorneys'
+fees and costs.
+A citizen who does not prevail bears no penalty beyond denial of the claim.
+SECTION 1.11.
+THE TPTRP TRANSITION BOARD AND TRANSITION MONITORING DIVISION.
+Article VIII, Texas Constitution, is amended by adding Section 1-u to read as
+follows:
+Sec. 1-u.
+TPTRP TRANSITION BOARD AND TRANSITION MONITORING DIVISION.
+(a) The Legislature shall establish by general law a TPTRP Transition Board as a
+temporary independent body of state government to administer the transition assistance framework
+established by this constitution and by general law during the period ending on the sixth anniversary of the date the Board is constituted.
+(b) The Board has full administrative and executive authority, subject to general
+law, to:
+(1) review and approve supplemental assistance from the TPTRP Transition Fund to
+eligible taxing entities that satisfy the Assistance Eligibility Standard of Subsection (b-1) of this
+section, subject to the eligibility conditions established by general law, including the requirement
+that the entity's voters have approved a rate increase up to the Constitutional Cap Rate applicable
+to that entity's tier and the entity remains below its Comptroller-certified Final Year Baseline or
+other constitutionally authorized operating threshold at that rate;
+(2) provide analysis and advisory support to taxing entities and to the Legislature
+regarding the rates needed for fiscal sufficiency, subject to the principle that no rate change at any
+tier may be made without action by the governing body of the affected entity and no rate increase may
+take effect without approval by the voters of that entity's jurisdiction when voter approval is
+otherwise required by this constitution;
+(3) identify, coordinate, and leverage available federal and state economic
+development programs, special-zone designations, and financing tools in eligible shortfall jurisdictions
+to accelerate commercial economic development and build a permanent sales and use tax base;
+(4) execute development agreements and deploy transition assistance as authorized by
+general law and consistent with the public-purpose requirements of this constitution;
+(5) issue administrative orders for special district tier-rerouting assignments as
+authorized by general law;
+(6) coordinate transition assistance with the comptroller, the Bond Review Board, the
+Texas Education Agency, the Texas Water Development Board, the Texas Commission on Environmental
+Quality, the governor's economic development office, and other state agencies or programs specified
+by general law; and
+(7) take additional actions provided by general law that are necessary to ensure
+every eligible taxing entity achieves revenue self-sufficiency under the sales and use tax system
+established by this constitution.
+(b-1) Assistance Eligibility Standard.
+This subsection governs every form
+of assistance authorized by this section, by Article III, Section 49-r, and by Article III, Section
+49-g(r)(h) of this constitution, whether provided by the Board during the transition period or by the
+Division after the Board terminates.
+A taxing entity is eligible for assistance only if:
+(1) the entity is imposing its Maximum Available Rate as defined by Article VIII,
+Section 1-n(a) of this constitution, its voters having approved a rate at the Constitutional Cap Rate
+applicable to the entity, or to its apportioned share of the Tier 5 aggregate cap;
+(2) the entity's collections at that rate, as certified by the comptroller,
+remain insufficient to produce the entity's Final Year Baseline; and
+(3) the entity is in compliance with the Total Budget Cap and Cumulative Budget
+Growth Cap of Article VIII, Section 1-n(f), the disclosure requirements of Section 1-n(l), and the fund
+requirements of Section 1-s of that article.
+An entity whose voters have rejected a proposed rate increase is ineligible for
+assistance as provided by Article VIII, Section 1-n(d)(6) of this constitution until its voters approve
+an increase.
+Neither the Board nor the Division may waive, reduce, or substitute for any requirement of
+this subsection, and neither may provide assistance that has the effect of supplying revenue the voters
+of the entity declined to authorize.
+This subsection does not limit the authority of the Board or the
+Division to provide economic development assistance under Subsection (b)(3) of this section for the
+purpose of building an entity's permanent transaction base, which may be provided to an entity that
+satisfies Subdivisions (1) and (3) of this subsection whether or not the entity has yet exhausted its
+rate.
+(c) General law must provide procedures for Comptroller certification of the Final
+Year Baseline and related transition determinations and for administrative review of those
+certifications and determinations.
+(d) No taxing entity in this state that satisfies the Assistance Eligibility
+Standard of Subsection (b-1) of this section may be placed in financial exigency solely as a result of
+the transition from ad valorem taxation to the sales and use tax system established by this constitution
+if the entity has timely applied for available transition assistance and is cooperating with lawful
+restructuring recommendations issued under general law.
+(e) General law may not authorize the Board or any other officer or agency to
+dissolve, consolidate, annex, absorb, or otherwise alter the governmental structure, territory, or
+separate legal existence of a taxing entity without the voter approvals otherwise required by this
+constitution and by general law.
+No estimated or modeled tax-base determination alone constitutes
+constitutional grounds for administrative dissolution or consolidation.
+(f) The Board shall issue at least one public report each year to the Legislature
+and the governor regarding Fund activity, entity status, outstanding obligations, and recommendations
+for statutory adjustments, and shall provide additional public reporting as required by general law.
+(g) The Board terminates not later than the sixth anniversary of the date the Board is constituted and may dissolve before that date only by unanimous vote of all appointed Board members on a
+finding that all eligible taxing entities are self-sufficient and all lawfully incurred obligations are
+under active management by a designated successor.
+The Board's term may not be extended.
+The
+Legislature may by general law provide for continued administration of specific obligations lawfully
+incurred before the Board's termination, but may not continue the Board itself beyond that date.
+(h) The comptroller shall establish by general law a permanent TPTRP Transition
+Monitoring Division within the comptroller's office.
+The Division shall assume all monitoring,
+reporting, record-keeping, and successor-administration responsibilities assigned by general law on the
+Board's termination.
+The Division director shall be appointed by the comptroller.
+The Division
+shall continue to report to the Legislature and the governor for not less than two years following the
+Board's termination and shall maintain ongoing monitoring of taxing entity sales and use tax
+collections and successor obligations under this constitution thereafter.
+On and after the Board's
+termination, the Division succeeds to the functions described by Subsection (b) of this section on a
+permanent basis and shall: (1) evaluate the revenue sufficiency and self-sufficiency of every taxing
+entity in this state on a continuing basis; (2) recommend to the Legislature, and administer as
+authorized by general law, assistance to a taxing entity that satisfies the Assistance Eligibility
+Standard of Subsection (b-1) of this section, funded by appropriation from the economic stabilization
+fund under Article III, Section 49-g(r)(h) of this constitution or from other funds appropriated for
+that purpose; (3) identify, coordinate, and deploy economic development programs, designations, and
+financing tools in a shortfall jurisdiction for the purpose of building a permanent sales and use tax
+base sufficient to make the entity self-sustaining; (4) perform the Tier 5 apportionment function
+assigned by Section 1-n(b)(4) of this article; and (5) evaluate and recommend absorption, annexation,
+consolidation, or dissolution of a taxing entity that cannot be made self-sustaining, subject to the
+voter-approval protections of Subsection (e) of this section.
+No taxing entity may be left without a
+remedy under this subsection by reason of the termination of the Board.
+This subsection does not expire.
+(i) Subsections (a) through (g) of this section expire on the sixth anniversary of the date the Board is constituted, except that the expiration of those subsections does not affect rights or
+duties fixed before expiration.
+Subsection (h) of this section does not expire.
+SECTION 1.12.
+GOVERNMENT AS A CITIZEN-OWNED ENTERPRISE — FINDINGS AND PERFORMANCE CRITERIA.
+Section 1-x, Article VIII, Texas Constitution, is repealed as provided by Article 8
+of this resolution, and Article VIII, Texas Constitution, is amended by adding Section 1-v to read as
+follows:
+Sec. 1-v.
+TAXING ENTITY AS A CITIZEN-OWNED ENTERPRISE; PERFORMANCE CRITERIA.
+(a) Declaration.
+Every taxing entity of this state is an enterprise owned
+by the citizens of its jurisdiction.
+The citizens are the owners of the enterprise, the elected
+governing body is its management, and the purpose of the enterprise is to deliver the services described
+by Subsection (b) of this section at the highest attainable standard within the revenue the enterprise
+lawfully collects.
+Surplus revenue in excess of the entity's constitutionally certified need is the
+property of the citizens who paid it and is returned to them as provided by Section 1-t of this article.
+(b) Performance criteria.
+The performance of every taxing entity shall be
+measured against the following criteria:
+(1) protection of citizens from crime;
+(2) access to the means of justice;
+(3) economic security of citizens;
+(4) proper enforcement of the laws;
+(5) safety and security of citizens through the readiness of first responders;
+(6) infrastructure sufficient to sustain life and commerce in the jurisdiction; and
+(7) fiscal discipline in accomplishing Subdivisions (1) through (6) of this
+subsection within the entity's revenue.
+(c) Measurement and publication.
+The Legislature shall provide by general
+law for the measurement and annual publication of each entity's performance against the criteria
+established by Subsection (b) of this section, using the data already required to be published under
+Section 1-n(l) of this article, including the balances and deployment of the First Responder Fund and
+the Infrastructure Fund, the entity's Actual Need Ratio, its compliance with the Cumulative Budget
+Growth Cap, and the per-capita amount of its Citizen Dividend.
+(d) No cause of action created by this section.
+This section establishes
+the constitutional standard against which citizens evaluate the performance of their taxing entities and
+governs the interpretation of Sections 1-m through 1-w of this article.
+It does not create a private
+cause of action independent of the enforcement provisions of Section 1-w of this article and the
+sections of this article establishing specific enforceable duties.
+SECTION 1.13.
+CITIZEN ENFORCEMENT AND STANDING.
+Section 1-y, Article VIII, Texas Constitution, is repealed as provided by Article 8
+of this resolution, and Article VIII, Texas Constitution, is amended by adding Section 1-w to read as
+follows:
+Sec. 1-w.
+CITIZEN ENFORCEMENT; STANDING; EXPEDITED HEARING; ATTORNEY'S FEES.
+(a) General standing.
+Every citizen of this state has standing to bring an
+original action in a district court to enforce any provision of Sections 1-e and 1-m through 1-w of this
+article.
+An action under this section shall be brought in the district court of the county in which the
+taxing entity is located, except that an action against the comptroller shall be brought in a district
+court of Travis County.
+(b) Relief available.
+A citizen who resides in or pays taxes in the
+jurisdiction of a taxing entity may bring an action under this section to:
+(1) compel a governing body to reduce its rate when a mandatory rate reduction under
+Section 1-n(g) of this article has been triggered and the entity has failed to act;
+(2) enjoin a governing body from imposing a mandatory fee, assessment, or charge that
+constitutes a functional tax increase under Section 1-m of this article without voter approval;
+(3) compel publication of any report, notice, certification, plan, or statement
+required by this article that has not been timely filed or published;
+(4) challenge a comptroller certification, or a failure to certify, on evidence of
+error;
+(5) challenge any bond placement that was not preceded by the offering stages
+required by Section 1-o(d) of this article, and seek to void that placement;
+(6) enjoin any prohibited use of, or diversion from, any fund established by Section
+1-s of this article, and compel compliance with the waterfall sequence and Citizen Dividend distribution
+required by Section 1-t of this article;
+(7) compel an entity to adopt or comply with a Mandatory Expenditure Reduction Plan
+or a Fiscal Recovery Plan required by this article; and
+(8) seek any other relief necessary to enforce the constitutional protections
+established by this article.
+(c) Expedited hearing.
+A court shall expedite the hearing of an action
+brought under this section.
+(d) Attorney's fees.
+If the citizen prevails, the court shall award
+reasonable attorney's fees and court costs against the entity.
+A citizen who does not prevail bears
+no penalty beyond denial of the claim, except that if the court finds the action frivolous, the court
+may award fees and costs to the entity.
+(e) No injury requirement for offering-sequence actions.
+A citizen bringing
+an action under Subsection (b)(5) of this section is not required to demonstrate individual financial
+injury.
+(f) Right not subject to abridgement.
+No entity of government may by
+ordinance, contract, charter provision, rule, or other instrument abridge, condition, waive, or shorten
+the right of enforcement established by this section.
+The right established by this section exists
+independently of, and in addition to, any enforcement authority held by the comptroller or the attorney
+general.
+ARTICLE 2.
+CONFORMING AMENDMENTS TO DEDICATED REVENUE AND APPROPRIATIONS PROVISIONS OF ARTICLE VIII
+SECTION 2.01.
+DEDICATION OF MOTOR FUEL AND MOTOR VEHICLE SALES TAX REVENUE TO PUBLIC ROADWAYS AND THE AVAILABLE SCHOOL FUND.
+Section 7-a, Article VIII, Texas Constitution, is amended by adding the following at
+the end of the section:
+On and after the Implementation Date established under Section 1-n of this article,
+the taxes on motor fuels and lubricants referred to in this section are abolished as provided by Section
+1-m of this article, and the transactions formerly subject to those taxes are subject to the sales and
+use tax established by this article.
+Beginning on that date, the net revenue derived from the sales and
+use tax imposed on the sale of motor fuels and lubricants used to propel motor vehicles over public
+roadways is dedicated by this constitution to the purposes stated in this section, in place of the
+abolished taxes, and one-fourth of that net revenue shall be allocated to the Available School Fund
+exactly as the one-fourth allocation of motor fuel tax revenue was allocated before that date.
+Revenue
+dedicated by this paragraph retains the same dedication, priority, and availability for the payment of
+principal and interest on county and road district bonds and warrants as the abolished taxes carried,
+and an obligation formerly payable from that revenue is additionally protected by Section 1-o of this
+article.
+The comptroller shall separately account for and report the collections dedicated by this
+paragraph.
+Motor vehicle registration fees are not abolished by Section 1-m of this article, continue in
+effect as a fee for the registration of a motor vehicle, and remain dedicated as provided by this
+section.
+SECTION 2.02.
+STATE HIGHWAY FUND, SPORTING GOODS, AND TEXAS WATER FUND DEDICATIONS.
+(a) Section 7-c, Article VIII, Texas Constitution, is amended by adding Subsection
+(f) to read as follows:
+(f) On and after the Implementation Date established under Section 1-n of this
+article, the taxes imposed on the sale, use, or rental of a motor vehicle under Chapter 152, Tax Code,
+are abolished as provided by Section 1-m of this article, and those transactions are subject to the
+sales and use tax established by this article.
+Beginning on that date:
+(1) the deposit required by Subsection (a) of this section is made from the net
+revenue derived from the Tier 1 sales and use tax; and
+(2) the deposit required by Subsection (b) of this section is made from the net
+revenue derived from the Tier 1 sales and use tax imposed on the sale, use, or rental of a motor
+vehicle, in the same percentage and above the same threshold stated in that subsection.
+Not later than the 90th day before the Implementation Date, the comptroller shall
+recompute each dollar threshold stated in this section so that the proportion of Tier 1 collections
+deposited to the state highway fund under this section is substantially equivalent to the proportion
+deposited under this section in the state fiscal year preceding the Implementation Date, and shall
+publish the recomputation.
+(b) Section 7-d, Article VIII, Texas Constitution, is amended by adding Subsection
+(e) to read as follows:
+(e) On and after the Implementation Date established under Section 1-n of this
+article, the automatic appropriation required by Subsection (a) of this section is made from the net
+revenue derived from the sales and use tax established by this article and imposed on the sale, storage,
+use, or other consumption in this state of sporting goods that were subject to taxation on January 1,
+2019, under Chapter 151, Tax Code.
+The comptroller shall separately account for those collections.
+(c) Section 7-e, Article VIII, Texas Constitution, is amended by adding Subsection
+(e) to read as follows:
+(e) On and after the Implementation Date established under Section 1-n of this
+article, the deposit required by Subsection (a) of this section is made from the net revenue derived
+from the Tier 1 sales and use tax.
+Not later than the 90th day before the Implementation Date, the
+comptroller shall recompute the dollar thresholds stated in Subsection (a) so that the proportion of
+Tier 1 collections deposited to the Texas water fund is substantially equivalent to the proportion
+deposited under this section in the state fiscal year preceding the Implementation Date, and shall
+publish the recomputation.
+The expiration date stated in Subsection (b) of this section is not affected.
+(d) A dedication or automatic appropriation under Section 7-a, 7-c, 7-d, or 7-e of
+this article is satisfied before the Tier 1 waterfall sequence established by Section 1-t of this
+article is applied, and revenue so dedicated is not part of the state's distributable surplus pool.
+(e) Each state tax abolished by Section 1-m(c) of this article that is dedicated by
+general law to a particular fund, agency, or purpose continues to fund that same fund, agency, or
+purpose on and after the Implementation Date, from the net revenue derived from the sales and use tax
+imposed on the transactions formerly subject to the abolished tax.
+The comptroller shall separately
+account for and report those collections, and the Legislature shall conform each statutory dedication
+accordingly.
+This subsection does not create a constitutional dedication where none existed before the
+Implementation Date, and the Legislature may modify a statutory dedication in the same manner as before
+that date.
+SECTION 2.03.
+APPROPRIATIONS GROWTH LIMIT.
+Section 22, Article VIII, Texas Constitution, is amended by adding Subsections (a-2)
+and (a-3) to read as follows:
+(a-2) On and after the Implementation Date established under Section 1-n of this
+article, appropriations from Tier 1 sales and use tax revenue for the maintenance and operations of
+state government are additionally subject to the Total Budget Cap and the Cumulative Budget Growth Cap
+established by Section 1-n(f) of this article.
+Where the limitation of Subsection (a) of this section
+and the limitation of Section 1-n(f) of this article both apply, the more restrictive limitation
+controls.
+(a-3) Subsection (a-1) of this section has no application on or after the
+Implementation Date, ad valorem taxation having been abolished by Section 1-e of this article.
+ARTICLE 3.
+AMENDMENTS TO ARTICLE III
+SECTION 3.01.
+THE TPTRP TRANSITION FUND.
+Article III, Texas Constitution, is amended by adding Section 49-r to read as
+follows:
+Sec. 49-r.
+TPTRP TRANSITION FUND.
+(a) The TPTRP Transition Fund is created as a special fund in the state treasury
+outside the general revenue fund.
+The Fund is established to ensure fiscal continuity for taxing
+entities during the transition from ad valorem taxation to the sales and use tax system established by
+this constitution.
+For purposes of Section 22, Article VIII, of this constitution, money in the Fund is
+dedicated by this constitution.
+(b) The Fund consists of:
+(1) appropriations made by the Legislature for transition purposes authorized by this
+section, including appropriations for the operating budgets of the three appointed Board members and
+their support staffs, as established by general law;
+(2) surplus collections during the transition period, as determined by general law
+and subject to the limits of this section:
+(A) in Transition Year One, all collections above
+each taxing entity's Comptroller-certified final-year combined property tax and sales tax revenue,
+and all other Comptroller-certified final-year tax revenue for the State of Texas, shall be transferred
+to the Fund at each quarterly distribution;
+(B) in Transition Year Two, the Transition Board
+shall determine, not later than the 90th day before the end of Transition Year One and based on
+Comptroller-certified quarterly distribution data from the first three quarters of that year, whether to
+activate a capture of up to 50 percent of each entity's above-baseline surplus, to waive that
+capture in whole or in part, or to activate the capture on a tier-selective basis; and
+(C) beginning with Transition Year Three, no
+collections shall be transferred to the Fund under this subdivision;
+(3) civil penalties collected under the general laws implementing this section and
+the related transition-board provisions of this constitution;
+(4) interest, investment earnings, loan repayments, and all other returns on Fund
+balances or Fund-authorized assistance; and
+(5) money transferred or deposited to the credit of the Fund as authorized by general
+law consistent with this section.
+(c) Money in the Fund may be used only for:
+(1) Board operating expenses authorized by general law;
+(2) supplemental assistance, including low-interest loans and similar financial
+assistance authorized by general law, to eligible taxing entities whose voter-approved rate at the
+Constitutional Cap Rate applicable to the entity's tier remains insufficient to produce the entity's
+Comptroller-certified Final Year Baseline or other constitutionally authorized operating threshold
+during the transition period;
+(3) structural self-sufficiency investments, including development financing and
+related transition assistance authorized by general law, for eligible taxing entities; and
+(4) repayment, administration, monitoring, and closeout activities authorized by
+general law and directly related to the purposes of this section.
+(d) The Legislature may not appropriate, transfer, lend, sweep, temporarily borrow,
+or otherwise divert money in the Fund for any purpose other than a purpose expressly authorized by this
+section.
+No money in the Fund may be transferred to the general revenue fund or used for cash-flow
+management, budget execution, certification support, emergency deficit coverage, or any other
+governmental purpose not expressly authorized by this section.
+This subsection controls over any
+contrary general law.
+(e) Assistance and investments made from the Fund must serve a public purpose,
+provide a clear public benefit consisting of continuity of essential governmental services and
+transition to permanent revenue self-sufficiency, and be subject to conditions, limitations, reporting,
+and repayment controls provided by general law sufficient to ensure that the public purpose is
+accomplished and the public benefit is protected.
+(f) Nothing in this section impairs, supersedes, or diminishes any constitutional or
+contractual protection applicable to bond obligations.
+The Legislature shall provide by general law for
+coordination between the Fund and the bond-protection provisions of this constitution.
+The Transition
+Board may coordinate assistance to ensure that bond service is properly supported during the transition
+period, but money in the Fund may not be construed to replace, narrow, or weaken any separate
+constitutional bond guarantee.
+(g) The Fund terminates not later than the sixth anniversary of the date the Board is constituted.
+On termination of the Fund, any unexpended and unobligated balance remaining in the Fund shall be
+transferred to the economic stabilization fund under Section 49-g of this article.
+The Legislature may
+by general law provide for the administration after that date of specific obligations lawfully incurred
+before termination, but the Fund itself may not be continued beyond that date.
+(h) This section expires on the sixth anniversary of the date the Board is constituted, except
+that:
+(1) Subsection (g) of this section continues in effect for the limited purpose of
+completing the transfer required by that subsection and administering specific obligations lawfully
+incurred before termination as authorized by general law; and
+(2) the expiration of this section does not affect rights or duties fixed before
+expiration.
+SECTION 3.02.
+THE ECONOMIC STABILIZATION FUND AS THE STATE STABILIZATION FUND.
+Section 49-g, Article III, Texas Constitution, is amended by adding Subsection (r) to
+read as follows:
+Sec. 49-g(r).
+TPTRP CONFORMING STANDARDS — STATE ECONOMIC STABILIZATION FUND.
+On and after the effective date of the Texas Property Tax Replacement Plan
+constitutional amendment to Article VIII of this Constitution, the Economic Stabilization Fund
+established by this section shall serve as the Stabilization Fund of the State of Texas for all purposes
+of the TPTRP Fund System established by Article VIII, Section 1-s, and the TPTRP Surplus Waterfall
+established by Article VIII, Section 1-t, of this Constitution.
+To the extent of any conflict between
+this section and Article VIII, Section 1-s or 1-t, Article VIII controls.
+Notwithstanding any other provision of this section:
+(a) the minimum balance of the Economic Stabilization Fund shall be no less than six
+months (50%) of the State's Full Budget Funding Amount as defined by Article VIII, Section 1-s;
+(b) the maximum balance of the Economic Stabilization Fund shall be no more than one
+year (100%) of the State's Full Budget Funding Amount, subject to the
+ten-percent-of-general-revenue cap established by subsection (g) of this section, whichever is lower;
+(c) the ESF is a primary capitalization target at Level 1 of the TPTRP Waterfall for
+the State's surplus, consistent with the waterfall sequence established by Article VIII, Section
+1-t of this Constitution;
+(d) the ESF participates as Tier 3 of the tiered disaster cascade established by
+Article VIII, Section 1-s(h), and is subject to the use-of-funds priority sequence established by
+Article VIII, Section 1-s(h-1), and may be drawn upon for disaster response as provided by that cascade
+in addition to the appropriation authority otherwise established by this section;
+(e) the State's Infrastructure Fund, First Responder Fund, I&S Reserve
+Fund, and Citizen Dividend Fund established by Article VIII, Section 1-s(m), (n), (o), and (p) are
+separate and distinct from the Economic Stabilization Fund and are not governed by this section;
+(f) the investment earnings and interest of the ESF, after any appropriation to the
+Texas University Fund under subsections (p) and (q) of this section, shall be credited to the ESF
+balance, shall carry forward without lapsing consistent with Article VIII, Section 1-s(c)(4), and shall
+be applied toward the minimum balance requirement; and
+(g) the oil and gas production tax transfer mechanism established by Subsections (b)
+through (e) of this section ceases to operate on the Implementation Date, the taxes on the production of
+oil, gas, and condensate having been abolished by Article VIII, Section 1-m(c) of this Constitution.
+Beginning on that date, the Economic Stabilization Fund is capitalized from: (1) Level 1 of the TPTRP
+Surplus Waterfall for the State under Article VIII, Section 1-t of this Constitution; (2) direct
+appropriation by the Legislature; (3) the biennium transfer of unencumbered general revenue balances as
+provided by this section; and (4) investment earnings credited under Paragraph (f) of this subsection.
+A
+transfer made under Subsections (b) through (e) of this section before the Implementation Date is not
+affected;
+(h) the fund may be appropriated, in addition to every other use authorized by this
+section, for post-transition assistance to a taxing entity as provided by Article VIII, Section 1-u(h)
+of this Constitution, including assistance to an independent school district under Article VIII, Section
+1-n(k)(7), and for economic development undertaken to bring a taxing entity to revenue self-sufficiency.
+An appropriation under this paragraph is subject to the vote requirements otherwise applicable to an
+appropriation from the fund and may not reduce the fund below its Six-Month Minimum Balance except as
+provided by Article VIII, Section 1-s; and
+(i) all other provisions of this section — including the three-fifths and two-thirds
+vote appropriation rules and the General Appropriations Act provisions — remain in full force and effect
+and are not modified by this subsection.
+SECTION 3.03.
+STATE DEBT LIMIT; STATEWIDE VOTER APPROVAL OF STATE DEBT.
+Section 49-j, Article III, Texas Constitution, is amended by adding Subsections (e)
+and (f) to read as follows:
+(e) For purposes of calculating the constitutional debt limit ratio under this
+section, the Bond Service Levy collected and applied under Article VIII, Section 1-o shall be treated as
+a dedicated fund, and bond debt service paid from the Bond Service Levy shall not be counted as "debt
+service payable from the General Revenue Fund." This ensures that the State's guarantee of
+Pre-Abolition Bonds under Article VIII, Section 1-o does not reduce the State's capacity to issue
+state bonds for other constitutional purposes authorized by voter approval under Article VIII, Section
+1-n(i).
+(f) Notwithstanding any other provision of this section, the State of Texas may not
+issue new general obligation bonds, certificates of obligation, or any other obligation payable from
+public revenue without prior approval by a majority of Texas voters at a statewide election, as required
+by Article VIII, Section 1-n(i) of this Constitution.
+This requirement is in addition to and not in
+substitution for the debt limit ratio of this section.
+SECTION 3.04.
+SPECIAL DISTRICT AND ROAD DISTRICT TAXING AUTHORITY.
+(a) Section 48-e, Article III, Texas Constitution, is amended by adding the
+following at the end of the section:
+On and after the Implementation Date established under Section 1-n, Article VIII, of
+this constitution, an emergency services district may not levy, assess, or collect an ad valorem tax.
+The authority granted by this section to levy a tax not exceeding ten cents on the one hundred dollars
+valuation of property expires on that date.
+An emergency services district is a Tier 5 taxing entity
+under Section 1-n, Article VIII, of this constitution and is funded from its Tier 5 sales and use tax
+allocation, and is subject to Sections 1-m through 1-w of that article, including the First Responder
+Fund requirement of Section 1-s(n).
+(b) Section 48-f, Article III, Texas Constitution, is amended by adding the
+following at the end of the section:
+On and after the Implementation Date established under Section 1-n, Article VIII, of
+this constitution, a jail district may not levy, assess, or collect an ad valorem tax.
+A jail district
+is a Tier 5 taxing entity under Section 1-n, Article VIII, of this constitution and is funded from its
+Tier 5 sales and use tax allocation.
+(c) Section 52d, Article III, Texas Constitution, is amended by adding the following
+at the end of the section:
+On and after the Implementation Date established under Section 1-n, Article VIII, of
+this constitution, no county or road district may levy the annual ad valorem tax authorized by this
+section.
+Road and bridge funding formerly provided by that tax is provided from the county's Tier 2
+sales and use tax allocation and from the county's Infrastructure Fund established by Section
+1-s(m), Article VIII, of this constitution.
+This section continues to apply to the payment of principal
+and interest on obligations outstanding on the Implementation Date, which are paid as provided by
+Section 1-o, Article VIII, of this constitution.
+(d) Section 52, Article III, Texas Constitution, and Section 52k, Article III, Texas
+Constitution, are amended by adding to each the following:
+An obligation authorized by this section and issued on or after the Implementation
+Date established under Section 1-n, Article VIII, of this constitution may not be payable from ad
+valorem taxes, is payable only as provided by Section 1-o, Article VIII, of this constitution, and is
+subject to the voter-approval requirement of Section 1-n(i) and the Citizens First Bond Sale Requirement
+of Section 1-o(d) of that article.
+An obligation outstanding on the Implementation Date is guaranteed
+and serviced as provided by Section 1-o of that article.
+(e) Section 52-a, Article III, Texas Constitution, is amended by adding the
+following at the end of the section:
+A program or loan or grant of public money authorized by this section may not be
+funded by, secured by, or repaid from an ad valorem tax on or after the Implementation Date established
+under Section 1-n, Article VIII, of this constitution.
+A tax increment, tax abatement, or ad
+valorem-based economic development incentive authorized under this section or under general law
+terminates on the Implementation Date, except that an obligation issued before that date in reliance on
+a tax increment pledge is protected as a Pre-Abolition Bond under Section 1-o, Article VIII, of this
+constitution and is serviced from the issuing entity's Bond Service Levy.
+ARTICLE 4.
+AMENDMENTS TO ARTICLE VII — PUBLIC FREE SCHOOLS
+SECTION 4.01.
+THE EFFICIENT SYSTEM OF PUBLIC FREE SCHOOLS.
+Section 1, Article VII, Texas Constitution, is amended to read as follows:
+Sec. 1.
+SUPPORT AND MAINTENANCE OF SYSTEM OF PUBLIC FREE SCHOOLS.
+A
+general diffusion of knowledge being essential to the preservation of the liberties and rights of the
+people, it shall be the duty of the Legislature of the State to establish and make suitable provision
+for the support and maintenance of an efficient system of public free schools.
+On and after the
+Implementation Date established under Section 1-n, Article VIII, of this constitution, the Legislature
+satisfies that duty by:
+(1) establishing and maintaining the Tier 4 sales and use tax structure of Section
+1-n of Article VIII, under which each school district funds its own maintenance, operations, and bond
+debt service from its own rate, set by its own board of trustees and its own voters, within a
+Constitutional Cap Rate uniform to all districts;
+(2) guaranteeing to every school district access to assistance sufficient to fund the
+general diffusion of knowledge when the district's collections at the Tier 4 Constitutional Cap
+Rate, approved by the district's voters, are insufficient to do so, provided from the TPTRP
+Transition Fund during the transition period and thereafter from the economic stabilization fund through
+the TPTRP Transition Monitoring Division, as provided by Section 1-n(k)(7), Section 1-u(b-1), and
+Section 1-u(h) of Article VIII and by Section 49-g(r) and Section 49-r of Article III of this
+constitution.
+A district whose voters have declined to approve a rate increase is not entitled to
+assistance under this subdivision, the level of funding the district's voters have authorized being
+the level the district shall operate within; and
+(3) providing, through that same assistance framework, the economic development
+support necessary to bring a district's own transaction base to the level at which the district is
+self-sustaining.
+A system meeting the requirements of Subdivisions (1), (2), and (3) of this section
+is an efficient system of public free schools within the meaning of this section.
+The efficiency
+required by this section is measured by equal access to a uniform maximum rate and by the guaranteed
+sufficiency of funding for the general diffusion of knowledge, and is not measured by equality of
+taxable transaction base, of collections per student, or of expenditures per student among districts.
+No
+court may order, and the Legislature may not enact, a remedy under this section that requires one school
+district to remit any portion of its collections to the State, to another district, or to any
+equalization or redistribution fund.
+This section is the constitutional response to the equity
+standard articulated in the Edgewood line of cases.
+It defines efficiency in terms of equal rate access
+plus a guaranteed funding floor delivered through the assistance framework, rather than in terms of
+comparable revenue per student at comparable tax effort, and it forecloses recapture as a judicial
+remedy.
+It should be reviewed by counsel experienced in Texas school finance litigation before filing.
+SECTION 4.02.
+SCHOOL DISTRICT TAXATION.
+Section 3, Article VII, Texas Constitution, is amended by amending Subsection (a) and
+adding Subsection (f) to read as follows:
+(a) One-fourth of the revenue derived from the State occupation taxes shall be set
+apart annually for the benefit of the public free schools.
+On and after the Implementation Date
+established under Section 1-n, Article VIII, of this constitution, this subsection has no further
+application, the occupation taxes to which it referred having been abolished or limited by Section 1-m
+of that article, and the public free schools are funded as provided by Subsection (e) of this section
+and by Section 1-n(k), Article VIII, of this constitution.
+(f) No school district may levy, assess, or collect an ad valorem tax on or after
+the Implementation Date established under Section 1-n, Article VIII, of this constitution.
+Each school
+district is funded from its own Tier 4 sales and use tax rate as provided by Section 1-n(k) of that
+article, and the Foundation School Program and the excess local revenue recapture system are repealed as
+provided by that subsection.
+SECTION 4.03.
+TIER 4 FUNDING OF SCHOOL DISTRICT MAINTENANCE, OPERATIONS, AND BOND DEBT SERVICE.
+Section 3(e), Article VII, Texas Constitution, is amended to read as follows:
+(e) The Legislature shall provide for the levy and collection within Tier 4 of the
+sales and use tax established by Article VIII, Section 1-n of this Constitution for the maintenance,
+operation, and bond debt service of each school district.
+Each district's rate is set by the
+district under Article VIII, Section 1-n(c) and (d), and the collections sourced to a district under
+Article VIII, Section 1-p are remitted to that district by the Texas Comptroller of Public Accounts.
+No
+portion of a district's collections may be allocated, equalized, weighted, or redistributed by the
+State, and no distribution to a district may be based on student enrollment, attendance, or property
+wealth.
+The ad valorem taxing authority for school districts previously authorized by this subsection is
+hereby superseded by the Tier 4 mechanism, and the Legislature shall not thereafter authorize any ad
+valorem tax for any school district purpose.
+SECTION 4.04.
+INDEPENDENT SCHOOL DISTRICT AND JUNIOR COLLEGE DISTRICT TAXES.
+Section 3-b, Article VII, Texas Constitution, is amended by adding the following at
+the end of the section:
+On and after the Implementation Date established under Section 1-n, Article VIII, of
+this constitution, no independent school district and no junior college district may levy, assess, or
+collect an ad valorem tax, and no election held under this section may authorize an ad valorem tax.
+Bonds and other obligations of an independent school district or junior college district outstanding on
+the Implementation Date remain valid and enforceable and are paid as provided by Section 1-o, Article
+VIII, of this constitution, and the change of the revenue source pledged to those obligations does not
+require a new election, a new pledge, or an amendment of any bond resolution.
+A junior college or
+community college district is a Tier 5 taxing entity under Section 1-n, Article VIII, of this
+constitution, and may not be classified within Tier 4.
+Where the territory of such a district is
+substantially coextensive with the territory of a county, the TPTRP Transition Board, and after its
+termination the TPTRP Transition Monitoring Division, shall evaluate and may propose the absorption of
+the district by the county under Section 1-u, Article VIII, of this constitution.
+An absorption under
+this section takes effect only on approval by a majority of the qualified voters of each affected
+jurisdiction voting at a lawfully conducted election.
+On absorption, the district's apportioned
+share of the Tier 5 aggregate cap is extinguished, the county assumes the district's functions, and
+the district's outstanding obligations transfer to the county and are serviced as provided by
+Section 1-o(g) of that article.
+A junior college or community college district that funds its operations
+from tuition, fees, and its own revenues takes no apportioned share of the Tier 5 aggregate cap, as
+provided by Section 1-n(b)(5) of that article.
+SECTION 4.05.
+PERMANENT SCHOOL FUND BOND GUARANTEE.
+Section 5, Article VII, Texas Constitution, is amended by adding Subsections (h) and
+(i) to read as follows:
+(h) ISD Bonds Guaranteed by PSF.
+The Permanent School Fund's guarantee of bonds
+issued by school districts under this section is not affected by the abolition of ad valorem taxation
+under Article VIII, Section 1-e.
+The Bond Service Levy established by Article VIII, Section 1-o
+substitutes as the revenue source supporting the PSF-guaranteed bonds.
+Each ISD with PSF-guaranteed
+bonds remains the primary obligor on those bonds in accordance with Article VIII, Section 1-o(b).
+The
+State Board of Education shall certify to the Comptroller of Public Accounts all bonds guaranteed by the
+Permanent School Fund.
+The PSF guarantee is primary with respect to PSF-guaranteed ISD bonds; the State's
+guarantee under Article VIII, Section 1-o(b)(5) is secondary to the PSF guarantee for those bonds and
+becomes effective only when the PSF guarantee is invoked and the PSF draw does not fully satisfy the
+payment obligation.
+(i) Charter School PSF-Guaranteed Bonds—Direct State Co-Guarantee.
+Open-enrollment
+charter schools are not taxing entities and do not collect the Bond Service Levy.
+For bonds issued by
+open-enrollment charter schools and guaranteed by the Permanent School Fund under this section:
+(A) The PSF guarantee is the primary payment mechanism.
+Upon any draw on the PSF
+guarantee by a charter school bondholder, the State of Texas simultaneously co-guarantees the same
+payment obligation through the Bond Service Levy and the State Economic Stabilization Fund under Article
+III, Section 49-g.
+The co-guarantee is automatic and self-executing.
+(B) Charter school bonds covered by the PSF guarantee shall be included in the
+Comptroller's statewide bond registry.
+(C) Charter schools are not subject to the entity-level I&S Reserve Fund
+requirement of Article VIII, Section 1-o(a)(3) and (e)(1).
+The PSF guarantee and the State co-guarantee
+under this subsection together constitute the equivalent protection for charter school bondholders.
+(D) The PSF's subrogation rights against a charter school upon a guarantee
+draw are preserved and unaffected by this section.
+(E) The Legislature shall by law establish the charter school bond framework
+consistent with this subsection.
+ARTICLE 5.
+AMENDMENTS TO ARTICLE XI — MUNICIPAL CORPORATIONS
+SECTION 5.01.
+CITIES AND TOWNS OF 5,000 OR FEWER INHABITANTS.
+Section 4, Article XI, Texas Constitution, is amended by adding the following at the
+end of the section:
+On and after the Implementation Date established under Section 1-n, Article VIII, of
+this constitution, a city or town chartered under this section may not levy, assess, or collect an ad
+valorem tax, and the limitation stated in this section by reference to a percentage of the taxable
+property of the city has no further application.
+A city or town is a Tier 3 taxing entity under Section
+1-n, Article VIII, of this constitution, its total rate may not exceed the Tier 3 Constitutional Cap
+Rate, and it is subject to Sections 1-m through 1-w of that article.
+SECTION 5.02.
+HOME-RULE CITIES; MUNICIPAL TAXES AND DEBT.
+Section 5, Article XI, Texas Constitution, is amended by amending Subsection (a) and
+adding Subsection (d) to read as follows:
+(a) Cities having more than five thousand (5,000) inhabitants may, by a majority
+vote of the qualified voters of said city, at an election held for that purpose, adopt or amend their
+charters.
+If the number of inhabitants of cities that have adopted or amended their charters under this
+section is reduced to five thousand (5,000) or fewer, the cities still may amend their charters by a
+majority vote of the qualified voters of said city at an election held for that purpose.
+The adoption or
+amendment of charters is subject to such limitations as may be prescribed by the Legislature, and no
+charter or any ordinance passed under said charter shall contain any provision inconsistent with the
+Constitution of the State, or of the general laws enacted by the Legislature of this State.
+On and after
+the Implementation Date established under Section 1-n, Article VIII, of this constitution, no city may
+levy, assess, or collect an ad valorem tax; a city is a Tier 3 taxing entity under Section 1-n of that
+article; a city's total rate may not exceed the Tier 3 Constitutional Cap Rate; and the limitation
+stated in this section by reference to a percentage of the taxable property of the city, and the
+requirement of this section that a city provide for the annual assessment and collection of a sufficient
+sum to pay interest and create a sinking fund, are satisfied by compliance with Section 1-n(h) and
+Section 1-o of that article.
+Furthermore, no city charter shall be altered, amended or repealed oftener
+than every two years.
+(d) Notwithstanding any other provision of this section, no home-rule city may issue
+general obligation bonds or any other obligation of any kind payable from public revenue without prior
+approval by a majority of the qualified voters of the city's jurisdiction at a duly called
+election, as required by Article VIII, Section 1-n(i) of this Constitution.
+After the effective date of
+Article VIII, Section 1-e, no home-rule city may issue any obligation payable from ad valorem taxes.
+All
+general obligation bonds issued by a home-rule city after that date shall be subject to Article VIII,
+Section 1-o of this Constitution in its entirety, including the Citizens First Bond Sale Requirement of
+Article VIII, Section 1-o(d) and the CCR compliance certification requirement of Article VIII, Section
+1-n(i)(3).
+Subsection (a) is restated in full above with the new
+language integrated so the Council can mark the added text.
+Subsection (b) of the existing section,
+governing interlocal contracts, and Subsection (c), if any, are unchanged and are not restated here.
+SECTION 5.03.
+COASTAL SEA WALL TAXES.
+Section 7, Article XI, Texas Constitution, is amended by adding the following at the
+end of the section:
+On and after the Implementation Date established under Section 1-n, Article VIII, of
+this constitution, no county or city bordering on the coast of the Gulf of Mexico may levy, assess, or
+collect an ad valorem tax under this section.
+Sea walls, breakwaters, and sanitation measures authorized
+by this section are funded from the entity's Infrastructure Fund established by Section 1-s(m),
+Article VIII, of this constitution, from its Tier 2 or Tier 3 allocation, and from bonds issued in
+compliance with Sections 1-n(i) and 1-o of that article.
+An obligation outstanding on the Implementation
+Date is guaranteed and serviced as provided by Section 1-o of that article.
+ARTICLE 6.
+AMENDMENTS TO ARTICLE IX — COUNTIES
+SECTION 6.01.
+HOSPITAL DISTRICTS AND AIRPORT AUTHORITIES.
+(a) Sections 4, 5, 8, 9, and 11, Article IX, Texas Constitution, are amended by
+adding to each section the following:
+On and after the Implementation Date established under Section 1-n, Article VIII, of
+this constitution, a hospital district created under or governed by this section may not levy, assess,
+or collect an ad valorem tax, and each provision of this section stating a maximum tax rate by reference
+to a valuation of property has no further application.
+A hospital district is a Tier 5 taxing entity
+under Section 1-n, Article VIII, of this constitution and is funded from its Tier 5 sales and use tax
+allocation, subject to Sections 1-m through 1-w of that article.
+The obligation of a hospital district
+to furnish medical aid and hospital care to the indigent and needy persons residing in the district is
+not diminished by this paragraph.
+Bonds and other obligations of a hospital district outstanding on the
+Implementation Date remain valid and enforceable and are paid as provided by Section 1-o of that
+article.
+(b) Section 12, Article IX, Texas Constitution, is amended by adding the following
+at the end of the section:
+On and after the Implementation Date established under Section 1-n, Article VIII, of
+this constitution, an airport authority created under this section may not levy, assess, or collect an
+ad valorem tax, and each provision of this section stating a maximum tax rate by reference to a
+valuation of property has no further application.
+An airport authority is a Tier 5 taxing entity under
+Section 1-n of that article.
+Bonds and other obligations of an airport authority outstanding on the
+Implementation Date remain valid and enforceable and are paid as provided by Section 1-o of that
+article.
+(c) Section 13, Article IX, Texas Constitution, is amended by adding the following
+at the end of the section:
+On and after the Implementation Date established under Section 1-n, Article VIII, of
+this constitution, participation by a municipality or other political subdivision in a district or
+authority under this section may not be funded by an ad valorem tax.
+ARTICLE 7.
+AMENDMENT TO ARTICLE XVI — CONSERVATION AND RECLAMATION DISTRICTS
+SECTION 7.01.
+CONSERVATION AND RECLAMATION DISTRICTS.
+Section 59, Article XVI, Texas Constitution, is amended by adding Subsection (i) to
+read as follows:
+(i) On and after the Implementation Date established under Section 1-n, Article
+VIII, of this constitution:
+(1) a conservation and reclamation district created under this section, including a
+municipal utility district, a water control and improvement district, a fresh water supply district, a
+drainage or levee improvement district, a groundwater conservation district, and a river authority, may
+not levy, assess, or collect an ad valorem tax, and no election held under this section may authorize an
+ad valorem tax;
+(2) a district described by Subdivision (1) of this subsection is a Tier 5 taxing
+entity under Section 1-n, Article VIII, of this constitution, is funded from its Tier 5 sales and use
+tax allocation, and is subject to Sections 1-m through 1-w of that article, including the Infrastructure
+Fund requirement of Section 1-s(m);
+(3) indebtedness of a district described by Subdivision (1) of this subsection that
+is outstanding on the Implementation Date remains valid and enforceable, is guaranteed and serviced as
+provided by Section 1-o of that article, and the change of the revenue source pledged to that
+indebtedness does not require a new election or an amendment of any bond resolution; and
+(4) a district described by Subdivision (1) of this subsection may continue to charge
+and collect rates, fees, and charges for the actual, metered, or contracted delivery of water,
+wastewater, drainage, or other utility service furnished to a customer.
+Such a rate, fee, or charge is a
+charge for a specific, voluntarily used service and is not a prohibited circumvention under Section
+1-m(e) of that article, provided it is set at an amount reasonably related to the cost of providing the
+service and is not used to supplement general revenues.
+Such a rate, fee, or charge is also not a tax
+prohibited by Section 1-m(b)(3) of that article.
+SECTION 7.02.
+THE OFFICE OF COUNTY ASSESSOR-COLLECTOR AND RELATED PROVISIONS.
+(a) Sections 61 and 65, Article XVI, Texas Constitution, are amended by adding to
+each section the following:
+A reference in this section to the county assessor-collector, or to the assessor and
+collector of taxes, applies only for so long as that office continues in existence under the temporary
+provision adopted by the joint resolution proposing the Texas Property Tax Replacement Plan amendment.
+On the abolition of that office, this section has no further application to it, and the Legislature
+shall provide by general law for the transfer of each remaining function of the office, including motor
+vehicle registration and title functions, to another county officer.
+(b) Section 20, Article III, Texas Constitution, is amended by adding the following
+at the end of the section:
+This section continues to apply to a collector of taxes for so long as that office
+continues in existence, and applies to any officer entrusted with the collection of public money under
+this constitution or under general law.
+(c) The provisions of this constitution establishing, conditioning, or referring to
+the assessment and collection of taxes on a valuation of property have no application on or after the
+Implementation Date established under Section 1-n, Article VIII, of this constitution, except as
+necessary to complete the collection of a tax lawfully assessed before that date as provided by the
+temporary provision adopted by Section 9.02 of this resolution.
+ARTICLE 8.
+REPEALER
+SECTION 8.01.
+PROVISIONS REPEALED AS RENDERED INOPERATIVE BY THE ABOLITION OF AD VALOREM TAXATION.
+The following provisions of the Texas Constitution are repealed effective on the
+Implementation Date established under Section 1-n, Article VIII, of this constitution:
+(a) Article VIII — provisions authorizing, limiting, or exempting property
+from taxation in proportion to value:
+(1) Section 1, Subsections (d), (e), (f), (g), (h), (i), (j), and (n) — exemptions
+from and limitations on ad valorem taxation of personal property, residence homesteads, and appraised
+values;
+(2) Section 1-a — county ad valorem tax levy for roads and flood control;
+(3) Section 1-b — residence homestead tax exemptions and limitations, including every
+school district, county, municipal, and special district homestead exemption and every limitation on the
+ad valorem taxes of an elderly or disabled person;
+(4) Section 1-d — assessment for tax purposes of lands designated for agricultural
+use;
+(5) Section 1-d-1 — taxation of certain open-space land;
+(6) Section 1-f — ad valorem tax relief;
+(7) Section 1-g — development or redevelopment of property; ad valorem tax relief and
+tax increment financing;
+(8) Section 1-h — validation of assessment ratio;
+(9) Section 1-i — mobile marine drilling equipment; ad valorem tax relief;
+(10) Section 1-j — exemption from ad valorem taxation of certain tangible personal
+property temporarily located in this state (freeport property);
+(11) Section 1-k — exemption from ad valorem taxation of property used to provide
+certain low-income housing;
+(12) Section 1-l — exemption from ad valorem taxation of property used for control of
+air, water, or land pollution;
+(13) Section 1-m — property on which a water conservation initiative has been
+implemented;
+(14) Section 1-n — exemption from ad valorem taxation of raw cocoa and green coffee
+held in Harris County;
+(15) Section 1-n — exemption from ad valorem taxation of tangible personal property
+held temporarily at certain locations (goods-in-transit);
+(16) Section 1-o — rural economic development; limitation on ad valorem tax
+increases;
+(17) Section 1-p — exemption from ad valorem taxation of precious metals held in a
+precious metal depository;
+(18) Section 1-r — exemption from ad valorem taxation by a county or municipality of
+a portion of the appraised value of a residence homestead;
+(19) Section 1-s — exemption from ad valorem taxation of animal feed held for retail
+sale;
+(20) Section 1-x — exemption from ad valorem taxation of certain tangible personal
+property used for the production of income;
+(21) Section 1-y — exemption from ad valorem taxation of value arising from certain
+improvements;
+(22) Section 8 — assessment and collection of taxes on property of railroad
+companies;
+(23) Section 9 — maximum county, city, and town ad valorem tax rates; county funds;
+local road laws;
+(24) Section 11 — place of assessment of property for taxation and value of property
+not rendered;
+(25) Section 13 — sales of lands and other property for unpaid ad valorem taxes and
+redemption;
+(26) Section 14 — county assessor-collector of taxes;
+(27) Section 15 — lien of assessment and seizure and sale of property for delinquent
+ad valorem taxes;
+(28) Section 18 — equalization of property valuations for taxation and appraisal
+districts;
+(29) Section 19 — exemption from ad valorem taxation of farm products, livestock,
+poultry, and family supplies;
+(30) Section 19a — exemption from ad valorem taxation of implements of husbandry;
+(31) Section 20 — prohibition on ad valorem taxation of property at a value exceeding
+fair cash market value;
+(32) Section 21 — notice and hearing requirements for an increase in the total amount
+of property taxes imposed; and
+(33) Section 23 — prohibition on statewide appraisal of real property for ad valorem
+tax purposes and enforcement of appraisal standards.
+(b) Article VII: Section 6b — reduction of a county permanent
+school fund ad valorem tax.
+(b-1) Article III, Section 49-g, Subsections (b), (c), (d), and (e)
+— the transfer to the economic stabilization fund of revenue from the taxes on oil and gas production,
+those taxes having been abolished by Section 1-m(c), Article VIII, of this constitution.
+The fund is
+capitalized as provided by Section 49-g(r) of that article.
+A transfer made before the Implementation
+Date is not affected.
+(c) Article VIII, Section 2, Subsection (b) — the authority of the
+Legislature to exempt property from ad valorem taxation by general law, to the extent that subsection
+relates to property taxation.
+The authority of Section 2 governing the equality and uniformity of
+occupation taxes is retained as limited by Section 1-m of that article.
+Two distinct sections of Article VIII are presently
+designated "Section 1-n" and are separately listed above.
+The Council should confirm the
+current designation of each ad valorem exemption section against the latest published constitution
+before filing, as the November 2025 amendments added exemption sections and the lettering in Article
+VIII is not sequential.
+This repealer is intended to reach every provision of this constitution that
+authorizes, limits, exempts property from, or governs the administration of taxation in proportion to
+value, whether or not specifically enumerated, and Section 8.02 of this article provides the general
+repeal necessary to accomplish that intent.
+SECTION 8.02.
+GENERAL REPEAL.
+Every provision of this constitution that authorizes, requires, limits, or governs
+the levy, assessment, appraisal, equalization, collection, or enforcement of a tax measured by the value
+or ownership of property, or that authorizes a tax measured by revenue, gross receipts, margin, profit,
+or business activity, is repealed to the extent of its conflict with Sections 1-e and 1-m through 1-w,
+Article VIII, of this constitution, effective on the Implementation Date.
+A provision so repealed
+continues in effect after the Implementation Date only to the extent necessary to complete the
+collection of a tax lawfully assessed before that date and the resolution of a protest, appeal, or suit
+pending on that date, as provided by the temporary provision adopted by Section 9.02 of this resolution.
+ARTICLE 9.
+TEMPORARY PROVISIONS
+SECTION 9.01.
+EFFECTIVE DATE; IMPLEMENTATION DATE; SEVERABILITY; CONSTRUCTION.
+(a) This amendment takes effect January 1, 2028, for the purpose of authorizing and
+requiring the Legislature to enact the general laws necessary to implement it.
+(b) The Implementation Date is April 1, 2028.
+On the Implementation Date:
+(1) collection of the sales and use tax under the tiered rate structure established
+by Section 1-n, Article VIII, of this constitution begins;
+(2) the prohibition established by Section 1-e of that article takes effect and no
+taxing entity may thereafter levy, assess, or collect an ad valorem tax for any period beginning on or
+after that date;
+(3) the state taxes abolished by Section 1-m(c) of that article are abolished; and
+(4) each local sales and use tax imposed under general law before that date is
+superseded by, and its rate is absorbed into, the tier rate of the entity that imposed it, so that no
+transaction is subject to both a superseded local sales tax and the tax established by this amendment.
+(c) The final tax year in which an ad valorem tax may be levied and assessed is the 2027 tax year.
+(d) Sections 1-e and 1-m through 1-w, Article VIII, of this constitution shall be
+construed together as a single, integrated constitutional framework known as the Texas Property Tax
+Replacement Plan.
+A reference in any of those sections to "this Article," to "the
+waterfall," to "the surplus waterfall," or to "the TPTRP waterfall" is a
+reference to that framework and, in the case of the waterfall, to Section 1-t.
+(e) If any provision of this amendment or its application to any person or
+circumstance is held invalid, the invalidity does not affect any other provision or application that can
+be given effect without the invalid provision, and to that end the provisions of this amendment are
+severable.
+The abolition of ad valorem taxation effected by Section 1-e and the state guarantee of
+outstanding bond obligations established by Section 1-o are not severable from one another; if the
+guarantee is held invalid, the abolition does not take effect until the Legislature has provided an
+equivalent guarantee.
+(f) To the extent of any conflict between this amendment and any other provision of
+this constitution, this amendment controls.
+SECTION 9.02.
+TEMPORARY PROVISION.
+The following temporary provision is added to the Texas Constitution:
+TEMPORARY PROVISION.
+TEXAS PROPERTY TAX REPLACEMENT PLAN; IMPLEMENTATION AND
+TRANSITION.
+(a) Application.
+This temporary provision applies to the constitutional
+amendment proposed by the 90th Legislature, Regular Session, 2027, known as the Texas Property Tax
+Replacement Plan, abolishing ad valorem taxation and the other taxes described by Section 1-m(c),
+Article VIII, of this constitution and establishing a sales and use tax as the sole form of taxation any
+taxing entity of this state may impose as a matter of right.
+(b) The Legislature shall enact the general laws implementing this amendment during
+the regular session convening in 2027, to take effect not later than the Implementation Date.
+If the
+Legislature fails to enact implementing legislation before the Implementation Date, the tier rates
+certified by the comptroller under Subsection (c) of this temporary provision take effect on that date
+by operation of this constitution, and Sections 1-e and 1-m through 1-w, Article VIII, of this
+constitution are self-executing to the extent necessary to give this amendment effect.
+(c) Not later than March 1, 2028, the comptroller
+shall certify and publish, for every taxing entity in this state: the entity's Final Year Baseline
+as defined by Section 1-n(a)(15), Article VIII, of this constitution; the entity's Total
+Replacement Obligation; the entity's tier classification; the entity's initial I&S rate
+and initial M&O rate; the entity's Full Budget Funding Amount, Six-Month Minimum Balance, and
+One-Year Maximum Balance; and the initial rate for each tier.
+The Final Year Baseline certified under this subsection is computed on the entity's ad valorem tax collections for the 2027 tax year and the entity's final-year collections of every other tax abolished or superseded by this amendment, on collections received through January 31, 2028.
+Not later than the first distribution date occurring after the Implementation Date, the comptroller shall issue a true-up certification for every taxing entity adjusting the Final Year Baseline for payments, refunds, and delinquency resolutions received after that cutoff.
+A contest of a certification issued under this subsection does not stay the Implementation Date, does not suspend collection of the tax, and does not delay any distribution; a corrected certification applies retroactively.
+(d) Transition Period.
+(1) The Transition Period begins on January 2, 2028, the date the TPTRP Transition Board is constituted, and ends on the sixth anniversary of that date.
+In this subsection, “Transition Year One” means the twelve-month period beginning on the Implementation Date; “Transition Year Two” means the twelve-month period beginning on the first anniversary of the Implementation Date; and each subsequent Transition Year means the twelve-month period beginning on the corresponding anniversary of the Implementation Date.
+(2) During Transition Year One, all collections of a
+taxing entity above its Final Year Baseline are transferred to the TPTRP Transition Fund at each
+quarterly distribution, as provided by Section 49-r(b)(2)(A), Article III, of this constitution.
+(3) During Transition Year Two, the capture of
+above-baseline surplus is governed by Section 49-r(b)(2)(B), Article III, of this constitution, and may
+not exceed 50 percent of an entity's above-baseline surplus.
+(4) Beginning with Transition Year Three, no
+collections are transferred to the TPTRP Transition Fund, and the full waterfall sequence established by
+Section 1-t, Article VIII, of this constitution governs all surplus of every taxing entity.
+(5) The Citizen Dividend guarantee established by Section 1-t(e), Article VIII, of
+this constitution applies from the first fiscal period in which a taxing entity has a distributable
+surplus pool, including a fiscal period occurring during the Transition Period, to the extent provided
+by general law.
+(6) No taxing entity may be placed in financial exigency solely as a result of the
+transition effected by this amendment if the entity has timely applied for available transition
+assistance and is cooperating with lawful restructuring recommendations issued under general law.
+(7) Assistance to a taxing entity during the Transition Period, including assistance
+to an independent school district, is governed by the Assistance Eligibility Standard of Section
+1-u(b-1), Article VIII, of this constitution.
+An entity is assisted only if its voters have approved a
+rate at the Constitutional Cap Rate applicable to the entity and its collections at that rate remain
+insufficient to produce its Final Year Baseline.
+An entity whose voters have rejected a proposed rate
+increase shall reduce its budget under Section 1-n(e) of that article and is ineligible for assistance.
+The same standard governs assistance provided after the Transition Period by the TPTRP Transition
+Monitoring Division under Section 1-u(h) of that article and Section 49-g(r)(h), Article III, of this
+constitution.
+(8) The Foundation School Program and the excess local revenue recapture system are
+superseded and have no further force or effect on and after the Implementation Date.
+A recapture payment
+attributable to a tax year ending before the Implementation Date remains due and is administered under
+prior law.
+(e) Wind-down of ad valorem administration.
+(1) An ad valorem tax lawfully assessed for a tax year ending before the
+Implementation Date remains due, collectible, and enforceable, together with any penalty and interest,
+and an existing tax lien securing that tax remains valid until the tax is paid or otherwise discharged.
+(2) An appraisal district, appraisal review board, and county assessor-collector
+continues in existence after the Implementation Date only for the period, not to exceed three years,
+necessary to complete the collection of taxes described by Subdivision (1) of this subsection and to
+resolve every protest, appeal, and suit pending on that date.
+Each appraisal district is abolished on
+the third anniversary of the Implementation Date, and the Legislature shall provide by general law for
+the disposition of its records, assets, liabilities, and employees.
+(2-a) A tax abolished by Section 1-m(c), Article VIII, of this constitution that was
+lawfully imposed for a period ending before the Implementation Date remains due, collectible, and
+enforceable, together with any penalty and interest, and the collecting entity shall continue to
+administer that collection until it is complete.
+An obligation secured by such a tax is protected as
+provided by Section 1-o(g-1) of that article.
+(3) No ad valorem tax may be levied or assessed for any period beginning on or after
+the Implementation Date.
+A tax lawfully assessed for the final ad valorem tax year remains collectible
+as provided by Subdivision (1) of this subsection until it is paid, discharged, or otherwise resolved.
+(4) The payment of bond debt service by a taxing entity does not depend on, and may
+not be conditioned on, the collection of any delinquent ad valorem tax.
+Beginning on the Implementation
+Date, bond debt service is funded from the entity's Bond Service Levy under Section 1-n(h), Article
+VIII, of this constitution, secured by the I&S Reserve Fund, the shortfall backstop cascade, and the
+guarantee of the State of Texas under Section 1-o of that article.
+No bondholder interest is impaired by
+the abatement or discharge of a delinquent ad valorem tax.
+(5) Because no bondholder interest depends on their collection, the Legislature may
+provide by general law for the abatement, discharge, compromise, or continued collection of delinquent
+ad valorem taxes, penalties, and interest outstanding on the Implementation Date, and for the release of
+the tax liens securing them, including liens on residence homesteads.
+A discharge under this subsection
+does not entitle any person to a refund of an ad valorem tax already paid.
+(f) Expiration.
+This temporary provision expires on the sixth anniversary of the date the TPTRP Transition Board is constituted.
+The
+expiration of this temporary provision does not affect a right or duty that matured, a penalty that was
+incurred, or a proceeding that was begun before the date of expiration.
+ARTICLE 10.
+SUBMISSION TO THE VOTERS
+SECTION 10.01.
+EXPLANATORY STATEMENT.
+The explanatory statement prepared and published for this amendment under general law
+shall state that the amendment:
+abolishes every ad valorem property tax in this state at every level of government
+and prohibits its return; abolishes the franchise tax and every tax measured by revenue, gross receipts,
+margin, profit, or business activity; abolishes the state taxes on motor fuels, oil and gas production,
+motor vehicle sales, insurance premiums, hotel occupancy, alcoholic beverages, tobacco, utility gross
+receipts, and coin-operated machines, together with the local hotel occupancy, venue project, rental
+car, and beverage taxes, as duplicative second sales taxes; replaces all of them with a single sales and
+use tax applied uniformly to all transactions, without exemption except for the cost-of-living
+exemptions the Legislature may enact under the Cost of Living Standard; caps the total tax rate at six
+percent at any location in this state and writes that cap into the constitution; lets each city, county,
+school district, and special district set its own rate below that cap rather than being assigned one;
+requires voter approval before any government in Texas may raise its rate, impose any new tax or
+mandatory fee, or borrow money; makes a vote against a rate increase binding, so that a government whose
+voters say no must reduce its budget and may not be made whole by the state; guarantees payment of every
+outstanding government bond and gives Texas citizens the first right to purchase the bonds their taxes
+repay; requires every government in Texas to maintain a stabilization reserve, an infrastructure fund, a
+first responder fund, and a bond reserve fund; ends the Foundation School Program and Robin Hood
+recapture and funds each school district from its own rate with a guaranteed funding floor; returns
+surplus tax collections to citizens as a citizen dividend; creates a temporary transition board and
+transition fund, and a permanent successor within the office of the comptroller, to protect essential
+services during the change and to bring every taxing entity to revenue self-sufficiency; and gives every
+Texas citizen standing to enforce these protections in court with attorney's fees against a
+government that violates them.
+SECTION 10.02.
+BALLOT PROPOSITION; SUBMISSION TO THE VOTERS.
+This proposed constitutional amendment shall be submitted to the voters at an
+election to be held November 2, 2027.
+The ballot shall be printed to permit voting for or against the
+proposition:
+“The constitutional amendment known as the Texas Property Tax Replacement Plan: abolishing all
+property taxes and the franchise tax in Texas, abolishing the state and local taxes on fuel, vehicles,
+insurance, hotels, beverages, tobacco, and utilities, and replacing all of them with a single sales and
+use tax capped at six percent; requiring voter approval before any government in Texas may raise its
+rate, impose any new tax, or borrow money; guaranteeing every outstanding government bond; requiring
+reserve, infrastructure, and first responder funds; and returning surplus collections to citizens.”

@@ -1,0 +1,47 @@
+Dan on the Issues
+Education
+“We must set our public schools as our state’s top public policy priority.
+That means we stop giving corporate titans and millionaires tax breaks and invest that money in our classroom teachers and students – ensuring our children get the education they need to excel in a 21st century economy.”
+SUPPORTING OUR PUBLIC SCHOOLS
+Dan Blue is a major champion for public education in North Carolina.
+As our State Senator, Dan Blue has advocated for our public education institutions:
+- Supports meaningful pay raises for educators
+- Keep public funding in public classrooms
+- Improve classroom and school security
+- Increase the number of school nurses, social workers, and psychologists
+- Invest in our community colleges and workforce training programs
+- Invest in our state’s HBCUs
+Jobs & Community
+“I know that the first step to keeping existing jobs here in North Carolina, and to bring jobs to our state, is to invest in our schools — because businesses are looking for an educated workforce that is ready for the job.”
+Creating Opportunities for Families
+Senator Blue knows we must invest in our communities to help us keep and recruit businesses to North Carolina.
+Dan supports initiatives that will strengthen communities and create good jobs:
+- Expand workforce training and apprenticeship programs
+- Combat inflation and ensure working North Carolinians are paid a living wage
+- Restore the state’s Earned Income and Childcare Tax Credits
+- Stabilize the state’s childcare industry to address affordability and support working families
+Public Safety
+“We all deserve the freedom to live in safe, welcoming communities.
+Going to school, attending church, shopping for groceries, doing your job, or — as we saw in my neighborhood of Hedingham — running on a greenway trail should not be a death sentence.”
+Building Safer, Healthier Communities
+Senator Dan Blue knows first-hand the devastating impact the national gun epidemic has on our communities.
+Dan supports common-sense public safety policies:
+- Universal background checks on gun purchases
+- Support law enforcement training for handling mental health crises
+- Invest in student and adult mental health services
+- Implement “red flag” laws to keep guns out of the hands of dangerous people
+Defend Our Democracy
+“The rise of Donald Trump and authoritarianism in the US is a reminder that our democracy is fragile — but we are stronger.
+Our system of government works best when more people get involved because power comes from the people.”
+Protecting Our Freedoms
+As an American, Senator Dan Blue is deeply concerned with the rising corruption and tyrannical behavior from the GOP and extremist groups.
+He believes in protecting, and expanding your rights.
+As a state Senator and leader in the North Carolina legislature, Dan believes in protecting our democracy:
+- Make it easier to vote in person or by mail
+- Establish independent redistricting so the people choose their representative — not the other way around
+- Restore nonpartisan judicial and school board elections
+- Protect women’s reproductive freedoms by codifying Roe v.
+Wade
+- Protect election workers, volunteers, and voters from intimidation
+Paid for by Citizens for Dan Blue
+Post Office Box 287, Raleigh NC 27602

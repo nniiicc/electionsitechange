@@ -1,0 +1,3 @@
+NYT/SIENA: Hinojosa Ahead of Abbott One Month from Election Day
+Press Release
+Abbott losing three independent polls with only two weeks until Early Vote polls open AUSTIN, TX – A new NYT/Siena poll shows Gina Hinojosa up 4 points in the Texas Governor’s race (49-46%, using the candidates’ …

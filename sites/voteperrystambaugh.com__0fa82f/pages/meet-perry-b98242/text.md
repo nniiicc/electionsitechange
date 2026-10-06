@@ -1,0 +1,31 @@
+Meet Perry
+Growing Up
+The sixth generation to grow up on his family’s farm in Green Park, Tyrone Township, Perry County, Perry was raised with a strong respect and concern for community.
+His early years were filled with busy days of farm chores and activities involving church, school, family, 4-H, and Boy Scouts.
+Those experiences, including earning the rank of Eagle Scout, instilled in Perry the importance of hard work, financial responsibility, helping others and living an ordered life.
+They also prepared him for a career as a tireless advocate for rural residents and the rural way of life.
+After graduating from West Perry High School and then Penn State University, he began a career in rural and community journalism, covering local, statewide and national issues.
+Successful career
+Perry started out as associate editor of Pennsylvania Farmer, a business-of-farming magazine based in Camp Hill, where he spent seven years visiting extensively with farmers and agribusinesses throughout the Mid-Atlantic region, before being named as managing editor of the Perry County Times, Duncannon Record, and News-Sun, a group of weekly newspapers headquartered in New Bloomfield.
+In 1989, he joined the Pennsylvania Rural Electric Association, the service arm of not-for-profit, consumer-owned electric cooperatives in Pennsylvania and New Jersey, and its sister power supply organization, Allegheny Electric Cooperative, both based in Harrisburg.
+Within a year he was promoted to editor of Penn Lines, a consumer magazine that reaches more than 200,000 rural households in the Keystone State each month.
+He was also responsible for all other corporate communication duties for both organizations, as well as direct outreach with state officials and lawmakers.
+Seventeen years later, Perry was chosen from a nationwide search to serve as senior director & editor of RE Magazine, the acclaimed flagship publication of the National Rural Electric Cooperative Association (NRECA), based in Arlington, Virginia, that reaches electric cooperative leaders and employees across the United States each month.
+In late 2013, the Dulles, Virginia-based National Rural Utilities Cooperative Finance Corporation—the private market lender to the nation’s 900-plus electric cooperatives—asked Perry to come aboard as director of corporate relations and later as director of member communications.
+His tenure at both positions took him to most of rural America, where he found that many of the issues facing those who live in the 86th District are similar to those in small towns everywhere.
+Just as he did during his 30-plus years in the electric cooperative program, Perry today resides in a Civil War-era farmhouse built by his great-great grandfather where he operates Green Pastures Farms, a 200-acre bicentennial family farm.
+community service
+He has been politically active most of his life, serving as a Tyrone Township Republican Committeeperson since 1990, chairman of the Perry County Republican Committee from 2002-2008 and a member of Republican State Committee from 1996-2010 and 2012-2014.
+Perry is a member of the:
+- Perry County Bicentennial Committee
+- Perry County Chamber of Commerce
+- Perry County Farm Bureau
+- Perry County Friends of Scouting Breakfast Committee
+- Tressler Memorial Free Lutheran Church, Loysville (and former council president)
+- Madison Grange No. 2064
+- Perry-Juniata Counties Penn State Alumni Association
+- Sons of the American Legion Post 177, Newport
+- Sons of the American Revolution, Harris Ferry Chapter
+He is also a life member of the National Rifle Association, Historical Society of Perry County, Newport Social Order of Owls and The Perry Historians.
+A widower, Perry has two adult sons and five grandchildren.
+His oldest son, daughter-in-law and their children also live on the family farm — the seventh and eighth generations to do so.

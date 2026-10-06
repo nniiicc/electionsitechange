@@ -1,0 +1,36 @@
+January 27, 2016
+In response to your memorandum of January 7, 2016 the following is a list of issues that the Public Safety and Livable Neighborhoods (PS&LN) Committee should consider this coming year:
+• Implementation of Police Department Five Year Plan and Increasing Civilian Staffing Levels: The City must continue to implement the Police Department's Five Year Plan.
+To support our sworn officers, it is critical that the City have adequate staffing of civilian positions.
+The elimination of these positions over the years has resulted in slower police non-emergency response times, additional overtime costs, decreased revenues from permit and fee collections, case backlogs and other impacts.
+The restoration of civilian staff will allow existing sworn officers to return to patrol duties.
+The Committee should review staffing levels of civilian positions, including 911 and non-emergency dispatch positions, in the Police Department and recommend a strategy to ramp up staffing levels.
+• Community Oriented Policing: The recent events across the nation have brought new focus on the need to improve law enforcement's interaction with the public it serves.
+In San Diego, Community Oriented Policing efforts have proven to be effective.
+The Committee should explore ways to expand Community Oriented Policing in order to continue to build the trust and relationship between our residents and police officers.
+• Police Recruitment and Retention: Nearly 300 officers hired since 2005 have left the department for other agencies at great expense to San Diego taxpayers.
+Total attrition numbers have risen through week 30 ofFY16 to 91 officers (as compared with 82 in FY15 and 58 in FY14).
+The City must prioritize the recruitment and retention of police officers in the next year and beyond.
+The Committee should discuss how the San Diego Police Department's salary and benefits compare with other law enforcement agencies and recommend an effective strategy to prevent continued high attrition numbers in coming years.
+• Citygate Implementation Plan Monitoring: Continuing to build the fire station facilities as identified in the Citygate report is critical to ensuring communities throughout San Diego have adequate fire and life safety services.
+The Committee should review updates from the Fire-Rescue Department on the Citygate plan implementation and make recommendations regarding continued fire station prioritization efforts for the next 5 years.
+• Policies and Procedures regarding Electronic Surveillance Equipment: The San Diego Police Department utilizes electronic surveillance equipment, known as a Stingray, that collects data on criminals, but also collects data of phones carried by members of the public not involved in non-criminal activity.
+There are significant privacy issues to consider in the use of this type of surveillance equipment.
+The Committee should review the City's usage and privacy policy on this matter and recommend any revisions to the City Council that would allow greater transparency in how the equipment is used and how private citizens are protected from inappropriate monitoring by the Police Department.
+• Authority in Release of Information in Future Police Officer Involved Incidents: In December, the U.S.
+District Court ruled regarding the release of surveillance video of a police officer related incident clearly shows that there is a lack of clarity in the City's procedures in release of such information.
+In order to provide the greatest level of openness and transparency as possible to the public, it is critical that the City develop clear cut guidelines for the release of video and other information for future incidents.
+The Committee should consider revising the appropriate codes and policies that govern the release of video and other information related to police related incidents for Council consideration in 2016.
+I look forward to the work of the PS&LN committee in 2016 to ensure that the City develops policies and procedures that keep our citizens safe and provides equally high levels of City services to all neighborhoods throughout San Diego.
+NEWSLETTER
+Sign up to stay up to date on legislation news, events, volunteer opportunity, and town halls.
+Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+By submitting this form and signing up for texts, you consent to informational messages from David Alvarez.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy&Terms

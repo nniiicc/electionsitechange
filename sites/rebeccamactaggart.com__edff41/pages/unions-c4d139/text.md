@@ -1,0 +1,51 @@
+Labor unions built the modern American workplace.
+The 40-hour week.
+Overtime pay.
+An end to child labor.
+Safety rules that let people go home in one piece at the end of a shift.
+Health insurance and a pension.
+None of it was handed over.
+Workers organized and stuck together, knowing that their solidarity would pay off for everyone.
+When unions are strong, pay and conditions get better for everyone.
+And when the work itself changes, unions are the ones at the table making sure the people doing the job are not left behind.
+Labor Unions
+Union Directory
+If you are looking to learn a trade, organize your workplace, or just find out who represents people doing the job you do, start here.
+If a local does not maintain a website, they will be listed with a phone number instead.
+- AFM Local 592, Tri-County Federation of Musicians: https://www.afmlocal592.org
+- AFSCME Local 2106 (state trades, labor and clerical employees): https://afscmeatwork.org/local-2106
+- Boilermakers Local 154: https://boilermakerslocal154.com
+- Bricklayers and Allied Craftworkers Local 9 PA: https://www.local9pa.com
+- Carpenters Local 432: https://www.local432.org
+- Cement Masons and Plasterers (OPCMIA) Local 526: https://www.opcmia526.org
+- Communications Workers of America Local 13500: https://www.cwalocal13500.com
+- Elevator Constructors (IUEC) Local 6: https://www.local6iuec.com
+- Heat and Frost Insulators Local 2: https://www.insulators2.org
+- IATSE Local 3 (stagehands and theatrical stage employees): https://iatse3.org
+- IATSE Local 489 (studio mechanics, film and television crew): https://www.iatse489.org
+- International Brotherhood of Electrical Workers Local 5: https://ibew5.org
+- Iron Workers Local Union No. 3: https://www.iwlocal3.com
+- Laborers' District Council of Western Pennsylvania: http://www.laborpa.org
+- Laborers Local 373 (building construction): https://www.local373.org
+- Laborers Local 1058 (heavy and highway work): 412-281-2640
+- Millwrights and Pile Drivers Local 2235: http://www.ubc2235.com
+- Newspaper Guild of Pittsburgh, TNG-CWA Local 38061 (journalists and university faculty): https://pghguild.com
+- Operating Engineers (IUOE) Local 66: https://iuoe66.org
+- Painters, Drywall Finishers and Glaziers (IUPAT) District Council 57: http://iupatdc57.org
+- Pennsylvania State Education Association (PSEA): https://www.psea.org
+- Plasterers Local 31: 412-464-2851
+- Plumbers Local 27: https://ua27.org
+- Plumbers and Pipefitters Local 354: https://www.lu354.com
+- Roofers and Waterproofers Local 37: https://www.pittsburghunionroofers.com
+- Service Employees International Union, Healthcare, Pennsylvania: https://seiuhcpa.org
+- Service Employees International Union (SEIU) Local 668 (public and human services): https://www.seiu668.org
+- Sheet Metal Workers Local 12: http://www.smlocal12.org
+- Sprinkler Fitters Local 542: https://www.sprinklerfitters542.org
+- Steamfitters Local 449: https://www.ua449.com
+- Teamsters Joint Council No. 40: https://teamstersjc40.com
+- Teamsters Local 585, Washington: https://teamster.org/locals/local-585
+- UAW Region 9: https://region9.uaw.org
+- UFCW Local 1776 Keystone State: https://www.ufcw1776.org
+- UNITE HERE Local 57: https://www.unitehere57.org
+- United Mine Workers of America District 2: https://umwa.org/about/district-2/
+- United Steelworkers District 10: https://usw.org/districts/district-10/

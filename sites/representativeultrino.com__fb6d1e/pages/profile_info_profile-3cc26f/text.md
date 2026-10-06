@@ -1,0 +1,27 @@
+top of page
+Profile
+Join date: Feb 14, 2020
+Posts (169)
+Jul 14, 2026 ∙ 3 min
+MALDEN DELEGATION SUPPORTS HOUSE ECONOMIC DEVELOPMENT BILL TO DRIVE GROWTH ACROSS THE COMMONWEALTH
+BOSTON – Tuesday, July 14, 2026 – Last Wednesday, State Representatives Paul Donato, Kate Lipper-Garabedian, and Steven Ultrino joined their colleagues in the Massachusetts House of Representatives in passing H.5562, An Act relative to economic development in the Commonwealth, a $561 million economic development bond bill that creates strategic investments to strengthen the state's economy, support innovation, expand housing opportunities, and help communities and businesses thrive.
+The...
+May 4, 2026 ∙ 4 min
+Malden House Delegation Votes to Pass FY27 Budget
+BOSTON - Thursday, April 30, 2026 - This Wednesday, the Massachusetts House of Representatives passed H.5500, the Fiscal Year 2027 (FY27) budget.
+Funded at $63.41 billion, the House’s FY27 budget addresses the critical needs of families and residents across the Commonwealth while dedicating funding to making our communities and state more affordable, livable, and equitable.
+While taking into consideration the uncertainty of federal cutbacks, this spending bill provides for many critical...
+Oct 22, 2025 ∙ 4 min
+MASSACHUSETTS LEADING MANUFACTURERS HONORED BY LEGISLATORS AT 10TH ANNUAL MANUFACTURING AWARDS CEREMONY AT GILLETTE STADIUM
+MASSACHUSETTS LEADING MANUFACTURERS HONORED BY LEGISLATORS AT 10TH ANNUAL MANUFACTURING AWARDS CEREMONY AT GILLETTE STADIUM FOXBOROUGH, MA – State Representative Steven Ultrino (D-Malden) is honored to announce that Malden’s Alsym Energy is a 2025 recipient of the "Manufacturer of the Year” Award presented by the Massachusetts Legislative Manufacturing Caucus.
+This award is given in recognition of outstanding leadership skills in the manufacturing industry.
+The company was presented...
+Steven Ultrino
+Admin
+Followers
+Following
+Follow
+Tel: (617) 722-2877
+Email: Steven.Ultrino@MAhouse.gov
+State House, Room 174, Boston, MA 02133
+bottom of page

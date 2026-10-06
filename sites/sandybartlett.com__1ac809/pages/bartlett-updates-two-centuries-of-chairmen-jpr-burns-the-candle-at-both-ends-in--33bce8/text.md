@@ -1,0 +1,2 @@
+The piece also discusses broader changes and activity within the Maryland General Assembly, including developments in the Senate Judicial Proceedings Committee and the priorities lawmakers are focusing on during the session.The piece also discusses broader changes and activity within the Maryland General Assembly, including developments in the Senate Judicial Proceedings Committee and the priorities lawmakers are focusing on during the session.
+To read the full coverage, visit the original article published by Maryland Matters:

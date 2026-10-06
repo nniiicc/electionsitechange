@@ -1,0 +1,32 @@
+Leaders that Endorse Beth
+Eric Holder, former U.S.
+Attorney General
+State Senator Josh McLaurin
+State Representative Omari Crawford
+State Senator Kim Jackson
+State Senator RaShaun Kemp
+State Representative Stacey Evans
+State Representative Sam Park
+State Representative Mary Margaret Oliver
+State Representative Bryce Berry
+State Representative Shea Roberts
+Susie Greenberg, Fmr Candidate for HD 53
+Organizations that Endorse Beth
+Necessary Trouble Georgia
+DLCC
+Georgia Conservation Voters
+Reproductive Freedom for All
+Indivisible North Metro Atlanta
+The First Ask
+Emily’s List
+Red Clay Democrats
+Fair Fight Action
+314 Action Fund
+GA WIN List
+Georgia AFL-CIO
+United for GA Women
+Vote Mama PAC
+The PAC for Georgia’s Youth
+National Democratic Redistricting Committee
+Southern Regional Council of Carpenters
+Human Rights Campaign PAC

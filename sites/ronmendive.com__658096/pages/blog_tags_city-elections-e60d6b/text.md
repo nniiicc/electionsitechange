@@ -1,0 +1,333 @@
+top of page
+Idaho State Representative
+District 5
+Ron Mendive
+VOTE
+HOME
+BLOG
+MEET RON
+VALUES
+More
+Use tab to navigate through the menu items.
+Why Idaho Democrats Love City Elections!
+Featured Posts
+Clip of Ron Mendive Speaking at Kootenai County Legislator Town Hall
+Idaho Freedom Foundation Scorecard
+Recent Posts
+Clip of Ron Mendive Speaking at Kootenai County Legislator Town Hall
+Idaho Freedom Foundation Scorecard
+Two Town Halls This Weekend
+Idaho Farm Bureau - Friend of Agriculture Award
+Kootenai County Legislator Town Hall, Feb. 2024
+Conservative Excellence Award
+Testimony on Mandatory Minimum Sentencing for Fentanyl
+Conservative Excellence
+Champion of Limited Government Award
+February Town Hall 2023
+Archive
+March 2025
+(1)
+1 post
+April 2024
+(3)
+3 posts
+February 2024
+(2)
+2 posts
+January 2024
+(2)
+2 posts
+December 2023
+(1)
+1 post
+February 2023
+(1)
+1 post
+April 2022
+(1)
+1 post
+March 2022
+(1)
+1 post
+February 2022
+(1)
+1 post
+January 2022
+(1)
+1 post
+November 2021
+(1)
+1 post
+May 2021
+(7)
+7 posts
+March 2021
+(2)
+2 posts
+February 2021
+(10)
+10 posts
+January 2021
+(9)
+9 posts
+October 2020
+(6)
+6 posts
+September 2020
+(5)
+5 posts
+April 2020
+(1)
+1 post
+February 2020
+(1)
+1 post
+January 2020
+(4)
+4 posts
+January 2018
+(1)
+1 post
+April 2015
+(2)
+2 posts
+October 2014
+(1)
+1 post
+May 2014
+(1)
+1 post
+April 2014
+(1)
+1 post
+March 2014
+(1)
+1 post
+Search By Tags
+2nd amendment
+(1)
+1 post
+AHRA
+(1)
+1 post
+CPAC
+(2)
+2 posts
+Candlelight Christian fellowship
+(1)
+1 post
+HB215
+(1)
+1 post
+HB419
+(1)
+1 post
+HB73
+(1)
+1 post
+HCR2
+(1)
+1 post
+HJR 2
+(2)
+2 posts
+Idaho Constitutional Amendment
+(1)
+1 post
+Idaho birdges
+(1)
+1 post
+Idaho freedom foundation
+(2)
+2 posts
+Ron mendive
+(1)
+1 post
+S1067
+(1)
+1 post
+SB 1322
+(1)
+1 post
+TECM
+(1)
+1 post
+abortion
+(3)
+3 posts
+agriculture
+(1)
+1 post
+all lives matter
+(1)
+1 post
+balance of power
+(1)
+1 post
+ballot initiatives
+(1)
+1 post
+basque
+(1)
+1 post
+bureau of indian affairs
+(1)
+1 post
+campus carry
+(1)
+1 post
+cannot object to foreign orders
+(1)
+1 post
+cda tribe
+(1)
+1 post
+city elections
+(1)
+1 post
+coeur d alene
+(1)
+1 post
+conservative
+(5)
+5 posts
+coronavirus
+(1)
+1 post
+covid
+(2)
+2 posts
+cse
+(1)
+1 post
+education
+(4)
+4 posts
+education in idaho
+(1)
+1 post
+education savings account
+(2)
+2 posts
+election integrity
+(1)
+1 post
+emergency orders
+(1)
+1 post
+federal government
+(2)
+2 posts
+fentanyl
+(1)
+1 post
+freedom
+(3)
+3 posts
+gemstatepartriot.com
+(1)
+1 post
+global data sharing
+(1)
+1 post
+government oppresion
+(1)
+1 post
+government powers
+(1)
+1 post
+grocery tax
+(1)
+1 post
+highway funding
+(1)
+1 post
+idaho
+(4)
+4 posts
+idaho board of health
+(1)
+1 post
+idaho farm bureau
+(1)
+1 post
+idaho freedom index
+(1)
+1 post
+idaho grocery tax
+(1)
+1 post
+idaho house republican caucus
+(2)
+2 posts
+idaho income tax
+(1)
+1 post
+idaho politics
+(3)
+3 posts
+idaho refugees
+(1)
+1 post
+idaho roads
+(1)
+1 post
+idaho state Representative
+(41)
+41 posts
+idaho will still enforce child support
+(1)
+1 post
+idgop
+(11)
+11 posts
+idleg
+(2)
+2 posts
+idpol
+(11)
+11 posts
+infrastructure
+(1)
+1 post
+institute of legislative analysis
+(1)
+1 post
+kcrcc
+(4)
+4 posts
+kootenai county
+(4)
+4 posts
+kootenai county politics
+(6)
+6 posts
+less taxes
+(1)
+1 post
+liberty
+(1)
+1 post
+life
+(1)
+1 post
+limit government
+(2)
+2 posts
+lincoln day
+(1)
+1 post
+mandatory mimimums
+(1)
+1 post
+marijuana
+(2)
+2 posts
+mary souza
+(1)
+1 post
+mask mandate
+(1)
+1 post
+Follow Me
+bottom of page

@@ -1,0 +1,10 @@
+Derek
+Before moving to Wauwatosa the summer of 2010, I never paid much attention to local politics … I never paid much attention to community issues.
+Then again, I never lived anywhere previously I would call a community.
+Small businesses account for nearly half of all private employees in the state of Wisconsin, and healthcare suffers from increasing affordability and accessibility challenges.
+Taking care of our local economy, and the health and well being of our neighbors, are both foundational to a flourishing community.
+As an employee of a small business here in Wisconsin, and having worked in the healthcare industry for nearly 20 years, both of these issues are near and dear to me.
+And they help highlight why Robyn Vining is the right person for our community today.
+Robyn has been an inspiration to my family; having inspired both my wife and my oldest daughter to get involved with the community, advocate for those in need, and ultimately support Robyn’s campaign.
+Robyn’s ability to inspire others to action and bring people together to address challenges they could not take on alone is incredible.
+Robyn has shown through her actions and results that she is deeply principled, willing to fight for what she believes, and focused on the things needed for this community to thrive. -Derek

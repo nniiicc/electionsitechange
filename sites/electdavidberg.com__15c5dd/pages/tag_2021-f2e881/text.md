@@ -1,0 +1,9 @@
+I have loved seeing all the different, amazingly creative, ways that PTAs and Booster Clubs have found to show their appreciation for teachers this week.
+I’ve also loved the notes from teachers asking parents to update them on how the…
+Read More
+We like to think about Puyallup as a small town, right up until the time that we’re stuck in traffic on Meridian, on 94th, or on Shaw Road.
+We also like to think about our school district as being small,…
+Read More
+The past few years have been challenging for our school community and it’s time to rebuild the relationships that allow us to work together to best serve each of our kids.
+I want to hear what you want to see…
+Read More

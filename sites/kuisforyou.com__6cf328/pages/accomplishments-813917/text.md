@@ -1,0 +1,24 @@
+Accomplishments
+In Newtown and Connecticut:
+- Newtown Legislative Council (2021-2023)
+- Workspace Advisory Committee (2021-2025)
+- Newtown Board of Education (2013-2021, Chair 2017-2021)
+- Connecticut Association of Boards of Education, Board of Directors (2013-2021)
+- EdAdvance Regional Education Service Center, Board of Directors (2013-2020, President 2020, Vice President 2018-19)
+- Representative to CSDE/RESC Alliance Regional Advisory Team to examine return to school during COVID (2020)
+- Co-Chair of the State of Connecticut General Assembly’s Task Force to Study Life-Threatening Food Allergies in Schools (2016)
+- Member of Newtown Charter Revision Commission (2012)
+- Newtown Volunteer Task Force / United Way (2012-2013)
+- Middle Gate PTA – Library Volunteer Coordinator (2010-2015)
+- Connecticut Association of Boards of Education, State Government Relations Chair
+- Two years on the Board of Selectmen
+- Two years on the Legislative Council (currently serving)
+- Eight years on the Board of Education (4 years as Chair)
+- One year on a Charter Revision Commission
+Professional Experience
+- Regulatory Submissions Scientist (current)
+- Adjunct Professor, Brown University
+- Research Fellow, Rhode Island Hospital
+Education
+- Brown University, PhD in Biology
+- Cornell University, BS in Animal Sciences

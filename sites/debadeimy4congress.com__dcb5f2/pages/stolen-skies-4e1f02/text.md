@@ -1,0 +1,22 @@
+Stolen Skies and West Palm Beach’s Margin Call
+“Be first, be smarter or cheat!” The pay-to-play Palm Beach County 2009 scandals resulted in Grand Jury reports and Court demands Yet, the unpretentious, free-spirited sister of Palm Beach island was still stared at for years, West Palm Beach was always vulnerable.
+Long time residents and Voters protected her strong, authentic beauty, knowing she will grow up just fine.
+The buildings at her special edge were carefully planned, spaced to never take away from citizens the unique water access, wide open skies and not to be a typical skyline interrupted by several high-rises.
+Her defining palm trees against sunrise, combined with sunset views from Palm Beach, connected the island-water sisters and personify West Palm Beach.
+But often he demanded “I want her, just One time” and reliably WPB Voters replied no, aware of what he really wanted.
+Then abruptly, new Commissioners overrode the Voters in 2018 and gave her up, triggering the “Flagler One time” domino for him and friends to conquer West Palm Beach, as we feared.
+Next playbook step; lobby to change zoning and Florida rules so those pesky voters won’t get in the way anymore – better yet, they leave.
+The prior decade’s related scandal was falsely sealed until April 2026 when Deborah Adeimy petitioned the 15th Circuit Court.
+Those days of basic shell games are now far more sophisticated as local City and County Commissioners face high-stakes decisions, affecting generations not born yet, and failure devastating.
+His omnipotent “reimagined model city” was never asked for – yet he forced himself, refusing to take no for an answer.
+His prior fantasy templates divided communities, drained budgets for public services causing financial damage to much bigger cities than West Palm Beach – such as Detroit and billions in miscalculated debt burdens NYC Hudson Yards.
+Erasing a City’s heritage is routine, historic churches, synagogues and cemeteries be damned.
+The indicative aversion to low income groups and public schools pale compared to his notorious antics to not pay taxes.
+The world is now aware West Palm Beach is a cheap giveaway of $10 deed promises, County convoluted TIFs and CRA combos for all.
+Where is the expertise help for the Commissioners to deal with strategies involving layered hidden owners, maze of Private Equity, foreign banks, abused EB-5 immigrant investors, risky future leveraged TIFs and 4D tax chess games, creating blurry projections that a Wall Street expert would pause to carefully analyze.
+These global players take advantage of WPB mismanagement, shocking chaotic bookkeeping of CRA assets and commingling noted by a recent Auditor, lingering bad reputation and no accountability – not even to the FBI.
+The Live Local Act trickery and Legislators’ weakening the sacred self governance of “Home Rule” is wreaking havoc across Florida, and now has caused another American City’s looming catastrophe
+Those of us working at Wall Street firms for clients, and lived through economic crashes from the Savings & Loan, tech bubble, 9/11, global financial crisis, housing mortgage crisis, know the eerie feeling before a dreaded margin call.
+I was there when the worst CEO Chuck Prince said, keep dancing, just before the crash.
+Also recently when my boss Jamie Dimon of JP Morgan rescued and stabilized the banking system due to Government bad monetary and fiscal decisions …again.
+The missing potential impact scenarios with financial projections, and continual reckless, fast pace demanded by global developers taking advantage of local Government, is an alarming red flag for West Palm Beach’s impending margin call. – Deborah Adeimy

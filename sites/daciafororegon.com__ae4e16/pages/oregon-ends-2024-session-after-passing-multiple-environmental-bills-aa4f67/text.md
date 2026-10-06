@@ -1,0 +1,6 @@
+On March 7, Oregon’s legislative session adjourned on March 7.
+During the 30-day session, the legislature considered multiple environmental bills that were a priority for the Environmental Caucus…
+Skip to content
+Oregon Ends 2024 Session After Passing Multiple Environmental Bills
+On March 7, Oregon’s legislative session adjourned on March 7.
+During the 30-day session, the legislature considered multiple environmental bills that were a priority for the Environmental Caucus…

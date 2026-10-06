@@ -1,0 +1,3 @@
+Donna Miller Receives Endorsement from Elect Democratic Women
+Cook County Commissioner Donna Miller, who is running to represent the 2nd Congressional District, is proud to receive the endorsement of Elect Democratic Women.
+This political action committee is made up of current members of Congress who know the leadership qualities needed to serve the people in their respective districts and working families nationwide…

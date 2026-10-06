@@ -1,0 +1,23 @@
+Endorsements
+THE FOLLOWING INDIVIDUALS & ORGANIZATIONS ENDORSE REP.
+AJ LOUDERBACK FOR RE-ELECTION:
+President Donald Trump
+Senator Ted Cruz
+Governor Greg Abbott
+OUR SUPPORTERS
+Hear from those Standing with AJ
+Dawn Buckingham
+Texas Land Commissioner
+Sid Miller
+Texas Agriculture Commissioner
+Greg Abbott
+Texas Governor
+“There is no other candidate more prepared for the job of representing House District 30 in the Texas Legislature than Sheriff AJ Louderback.
+Whether it’s his decades-long service as Jackson County Sheriff, or his tireless advocacy at Texas Capitol for public safety and border security, Sheriff Louderback has the experience and the knowledge to hit the ground running on day one.
+I wholeheartedly endorse AJ Louderback for HD 30 and I implore voters to join me in sending a true lawman to the Texas House.”
+“With forty years in law enforcement including five terms as Sheriff in Jackson County, Sheriff AJ Louderback is a no nonsense, Christ-following conservative and a 5th generation Texan.
+He has led the fight to secure our border and he'll do a great job representing the voters of HD 30.”
+“As a long-time defender of the freedoms we hold dear and a proven public servant, AJ Louderback has been a strong advocate for law enforcement for years.
+As a Sheriff, he has continually fought to defend our southern border from the Biden-Harris Administration’s dangerous open border policies.
+AJ will work with me to cut property taxes, empower parents and students in the Coastal Bend with the opportunity to choose their own school, and secure our border.
+Together, we will build a better and brighter future for generations to come.”

@@ -1,0 +1,33 @@
+KEY ISSUES AND PRIORITIES
+Utah County has been one of the fastest-growing counties in the state over the past decade.
+Population projections show the county will double in size over the next 30 years, the majority of which will be our children and grandchildren.
+We have a responsibility right now to plan for our future.
+How we choose to manage our growth will determine the future of our valley’s economic prosperity and quality of life.
+Here’s my plan:
+PLAN FOR PROSPERITY
+Prioritize and promote policies that benefit employers, employees, and families.
+Encourage innovation and adaptation by improving or eliminating regulations that hinder business growth.
+Business Environment
+Provide a diversified supply of affordable and accessible housing that meets the needs and dignity of all people in our vibrant, growing communities.
+Attainable Housing
+Advocate policies and programs that support responsible use, preservation, and protection of public lands, rivers, lakes, reservoirs, clean air, open spaces, and renewable energy in conjunction with continued sensible support of fossil fuels.
+Natural Resources
+Education and Workforce Development
+Adjust and adapt K-12 curriculum regularly to better prepare our children to seek higher or technical education to meet workforce needs and instill value in lifelong learning in the workplace.
+Promote healthy physical and mental wellness while simultaneously reforming healthcare systems to improve affordability, transparency, and access to quality care by all in our growing communities.
+Healthcare
+Support a variety of affordable, convenient, and efficient transportation and technological options that allow all people, regardless of social or economic circumstances, to easily access the places where they live, learn, work, and play.
+Transportation and Infrastructure
+MAP OF HOUSE DISTRICT 63
+To find out if you are in Representative Whyte’s House District, click here: https://le.utah.gov/GIS/findDistrict.jsp
+LEGISLATIVE COMMITTEES
+Current:
+- Public Education Appropriations (Chair)
+- Business, Labor and Commerce
+- Law Enforcement and Criminal Justice
+Previous:
+- Business, Economic Development, and Labor
+- Higher Education Appropriations
+- Commission on Housing Affordability (Co-Chair, 2022-2025)
+Housing Attainability
+Prioritizing Education

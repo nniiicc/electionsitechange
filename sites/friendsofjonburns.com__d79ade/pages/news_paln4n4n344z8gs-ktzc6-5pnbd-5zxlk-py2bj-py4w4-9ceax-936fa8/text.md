@@ -1,0 +1,37 @@
+Legislative Homestretch
+The 2026 Legislative Session is quickly coming to an end, with just two legislative days left until Sine Die on Thursday, April 2nd.
+The Georgia House has been laser-focused on delivering strong, commonsense policy that makes a difference in the lives of our neighbors across the state.
+Whether it’s literacy, education, public safety, healthcare, or tax relief, we’re committed to getting the job done and getting these priorities across the finish line.
+Here are just a few of the bills that have passed both chambers and are headed to Governor Kemp’s desk so far:
+HB 1000 - Income Tax Rebate
+House Bill 1000 puts over $1 billion back into the pockets of hardworking Georgians with a fourth one-time tax rebate for our state’s taxpayers.
+SB 59 - Forestry Industry Relief
+Senate Bill 59 reiterates the General Assembly’s commitment to supporting our state’s timber growers as the forestry industry continues to recover from Hurricane Helene by allowing growers who replant or restore lost timber to receive a state income tax credit equal to 100% of their timber loss from Hurricane Helene.
+HB 1199 - 60-Day Suspension of Georgia’s Gas Tax
+House Bill 1199 will save Georgia drivers and businesses nearly $400 million by suspending the state Gas tax for 60 days as global oil markets stabilize.
+HB 1009 - Removes Cellphones from High School Classrooms
+House Bill 1009 mandates distraction-free, cellphone-free classrooms in grades 9-12, helping our students focus on learning and prioritize face time over screen time.
+SB 452 - Supporting Retired State Law Enforcement Heroes
+Senate Bill 452 is another step the General Assembly has taken to support our state law enforcement heroes in their retirement by increasing the state’s contributions to their 401(k) retirement accounts.
+HB 1123 - Expands After-School Care for Early Learners
+House Bill 1123 supports working families by increasing access to after-school care for pre-K students by requiring public schools that operate after-school programs to allow pre-K students to participate.
+HB 1118 - Increases Paid Maternal Birth Leave for State Employees
+There is no more important time for mothers and families than the first few weeks with a newborn.
+That’s why the House was proud to pass HB 1118, increasing paid maternal birth leave for state-employed birth mothers from 6 to 9 weeks.
+HB 117 - Seafood Origin Disclosure Act
+Georgia’s shrimping industry is the lifeblood of our coastal communities.
+We were proud to pass House Bill 117, which will protect Georgia’s shrimping industry and native shrimp by requiring restaurants to clearly label menu items containing foreign imported shrimp.
+HB 1247 - Georgia Bureaucratic Deference Elimination Act
+House Bill 1247 strengthens legislative intent and restores balance between the branches of government by preventing courts and administrative officers from deferring to state agency interpretations when interpreting Georgia's Constitution, statutes, or regulations.
+SB 444 - Medical Insurance Accountability and Transparency
+Georgia’s patients and policyholders deserve the utmost transparency and reliability from their insurers.
+Senate Bill 444 will prevent artificial intelligence from denying medical coverage and require a qualified human to be involved in the decision-making process.
+SB 523 - Strengthening Antisemitism and Discrimination Protections
+As instances of antisemitic discrimination become more frequent across the country, the House was proud to take proactive action to strengthen protections for our Jewish neighbors.
+Senate Bill 523 prohibits religious discrimination in all public K-12 and postsecondary institutions in the state that receive state or federal funds.
+This is just a glance at the policies the House has championed to uplift communities, citizens, families, and businesses across Georgia.
+We will continue working over the next week to pass a strong, fiscally balanced budget, get the Georgia Early Literacy Act of 2026 across the finish line, lower income taxes, and provide immediate, meaningful property tax relief for homeowners.
+Friends and Constituents at the Capitol
+I hope everyone has a great weekend, and I look forward to hearing from each of you soon.
+My best,
+Speaker Jon Burns

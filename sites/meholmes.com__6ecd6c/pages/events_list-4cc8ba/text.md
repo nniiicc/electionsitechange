@@ -1,0 +1,2 @@
+Presentation on Reserve Studies for CCOC
+What you need to know about the new Reserve Study RequirementsWhen:Tue Jun 22, 2021 6:30pm – 9:30pm Eastern Time - New YorkWhere:https://us02web.zoom.us/w/86853871366?tk=9oE_3DF7kAuVutPP5j2_FI8umnpkW5O1xUryofrtRec.DQIAAAAUOOTnBhZ4bGVKczk3ZFJUNjRqR1ZjU0lYa1l3AAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=dXZucm5wNWEyNjJ3dHZpejhqOTNwQT09&uuid=WN_orjkf7FvQ6CZwU-fdf6ItA (map) Who:holmesdelegate23@gmail.com - Organizer Join from a PC, Mac, […]

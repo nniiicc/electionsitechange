@@ -1,0 +1,42 @@
+- Amalgamated Transit Union
+- National Security Leaders for America
+- Ohio Patrolmen’s Benevolent Association
+- Upper Ohio Valley Building and Construction Trades Council
+- Bricklayers and Allied Craftworkers Local 23
+- Ohio Association of Professional Fire Fighters
+- Ohio Iron Workers Association
+- Ohio Environmental Council Action Fund
+- Ohio State Council of Machinists
+- Greater Cincinnati Building and Construction Trades Council
+- Lima Building and Construction Trades Council
+- United Steelworkers District 1
+- Western Reserve Building Trades Council
+- North Central Ohio Building and Construction Trades Council
+- Columbus/Central Ohio Building and Construction Trades Council
+- Dayton Building and Constructions Trades Council
+- Ohio State Association of Letter Carriers
+- United Food and Commercial Workers International Union (UFCW)
+- Ohio Nurses Association
+- United Auto Workers (UAW)
+- United Mine Workers of America (UMWA)
+- Industrial Division of the Communications Workers of America (IUE-CWA)
+- International Union of Painters & Allied Trades District 6 (IUPAT)
+- The International Brotherhood of Electrical Workers (IBEW)
+- The American Federation of Government Employees (AFGE)
+- Ohio Education Association
+- Ohio AFL-CIO
+- The Communications Workers of America District 4
+- American Federation of State, County and Municipal Employees (AFSCME) Council 8
+- Ohio Civil Service Employees Association (OCSEA)
+- Ohio Association of Public School Employees (OAPSE)
+- Ohio Federation of Teachers (OFT)
+- Ohio Postal Workers Union (OPWU)
+- American Federation of State, County and Municipal Employees (AFSCME) Retirees Chapter 1184
+- Planned Parenthood of Greater Ohio
+- Service Employees International Union (SEIU)
+- Service Employees International Union (SEIU) District 1199
+- Service Employees International Union (SEIU) Local 1
+- EMILYs List
+- 314 Action Fund
+- Nurses for America
+- The Ohio Conference of the American Association of University Professors (OCAAUP)

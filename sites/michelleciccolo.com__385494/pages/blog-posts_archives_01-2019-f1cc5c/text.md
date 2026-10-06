@@ -1,0 +1,2 @@
+| Last Wednesday, I officially took my seat as a member of the 191st Massachusetts General Court., surrounded by my family and many supporters and friends, I took the oath of office, swearing to uphold the Constitution of the State of Massachusetts and the United States.
+It was an exciting day as my fellow legislators and I affirmed our collective commitment to improving the lives of all residents of our state. | Archives Categories All Announcement Donate Endorse/Endorsement Event News Press Support |

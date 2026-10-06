@@ -1,0 +1,1 @@
+Priorities for Apple Valley and Minnesota Making Quality Healthcare Affordable and Accessible Fiscal Responsibility and a Balanced Budget Fair Policies Supporting Small Businesses Investing in Quality Education for Every Minnesotan Sustainable Energy and Protecting Our Environment School Safety and Gun Violence

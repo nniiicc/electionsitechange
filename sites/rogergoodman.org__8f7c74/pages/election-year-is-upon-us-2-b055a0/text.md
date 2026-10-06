@@ -1,0 +1,8 @@
+Speaking of politics, campaign season is well underway and I am seeking re-election to another term in the State House.
+I hope to earn your support.
+I want to continue my legislative work to strengthen families and protect children, to keep our communities safe and to promote a more just society.
+With the pandemic finally waning, I am going back into the neighborhoods once again to meet you and other voters.
+Listening to you helps ensure that I’m in tune with your values and your priorities and lets me keep my finger on the pulse of our community, so I can represent you more effectively in the Legislature.
+I need to hear from you.
+Please sign up for our mailing list.
+Let’s stay in touch, and I hope we cross paths!

@@ -1,0 +1,26 @@
+Home
+Statewide House Webpage
+Bio
+Score Cards
+Capital Report
+2026 Legislative Session
+School Visits
+Missouri SOS Office
+Voter Info
+2026 Ballot Measures
+Missouri Freedom Caucus
+Missouri Attorney General
+Burt’s MO State Website
+MISSOURI HOUSE OF REPRESENTATIVES
+Republican State Representative
+Burt Whaley
+District 138
+201 West Capitol Ave | Jefferson City, MO 65101
+(573) 751-3851
+|
+Burt.Whaley@house.mo.gov
+For school Visits, Contact Us
+– Amy Volkart –
+Legislative Assistant
+(573) 751-3851
+Amy.volkart@house.mo.gov

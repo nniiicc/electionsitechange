@@ -1,0 +1,3 @@
+VIDEO: Abdul El-Sayed Marks Save a Life Day at Detroit Recovery Project
+Press Release
+As a public health official, Abdul expanded access to lifesaving naloxone and helped put overdose prevention tools directly into Michigan communities Mike Rogers spent years in Congress pushing to expand access to opioids while taking more …

@@ -1,0 +1,35 @@
+Mission One: Lowering the Cost of Living on Long Island
+Before I left for my last deployment, one hundred dollars could fill an entire shopping cart.
+Today, I am lucky if it covers a couple of bags.
+Life on Long Island has become unaffordable.
+Health care feels out of reach, education is harder to access, and childcare costs are through the roof.
+Too many young people are told that higher education is the path to opportunity, only to graduate buried in debt with fewer chances to get ahead.
+I am still paying off my own student loans, and I know how hard it is to build a future when debt follows you long after graduation.
+That pressure makes it even harder for young people to stay on Long Island and put down roots.
+I saw the cost of living take its toll early in my life.
+When I was growing up, my family felt the impact of Long Island’s rising costs firsthand, as we were forced to leave because staying was no longer affordable.
+That experience stayed with me.
+No one should have to choose between staying close to family and being able to afford a decent life.
+Long Islanders are working harder than ever and still falling further behind.
+Affordability is about fairness, opportunity, and respect for the people who make this region work.
+I will fight to make Long Island a place where working families, young people, and seniors can not only stay, but build a real future.
+Objective:
+Lower the cost of living so Long Island families can stay here, raise their children here, and give the next generation a real chance to buy a home in the communities they grew up in.
+For too many young people, the Long Island dream feels out of reach.
+Families are being squeezed by high taxes, rising grocery prices, expensive childcare, prescription drug costs, and housing prices that make it nearly impossible for our children to build a future here.
+Chris Gallant believes the next generation should not have to leave Long Island just to afford a life.
+Congressional Action Plan:
+- Fight to expand SALT deductions so Long Island homeowners can keep more of what they earn.
+- Support legislation that lowers prescription drug costs and reduces the burden on families, seniors, and veterans.
+- Advocate for expanded Child Tax Credits to help working parents manage everyday expenses.
+- Push for affordable childcare tax incentives so parents are not forced to choose between their careers and caring for their children.
+- Support efforts to stop corporate price gouging on groceries, gas, and basic necessities.
+- Secure federal housing grants to increase workforce housing, starter homes, and attainable housing options for young professionals, first responders, teachers, nurses, veterans, and working families.
+- Bring federal resources back to Suffolk County to strengthen infrastructure, support small businesses, and reduce the local tax burden on homeowners.
+Mission Success Metrics:
+✅ Lower federal tax burden for Long Island homeowners
+✅ More money back in the pockets of working families
+✅ Expanded housing opportunities for young people and first-time homebuyers
+✅ Greater support for parents raising children on Long Island
+✅ A future where our children can afford to live, work, and buy homes here
+✅ Long Island remains a place families can grow, not a place they are forced to leave

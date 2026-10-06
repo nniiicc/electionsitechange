@@ -1,0 +1,3 @@
+Release: Association of Flight Attendants Endorses Sarah McBride for Congress
+Press Release
+Wilmington, DE — Congressional candidate for Delaware’s at-large district and State Senator Sarah McBride announced today that she has earned the endorsement of the Association of Flight Attendants (AFA), a flight attendant union representing nearly 50,000 …

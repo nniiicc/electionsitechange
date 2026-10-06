@@ -1,0 +1,39 @@
+As your State Senator I am:
+• Fighting against Washington DC Overreach
+• Championing Pro-Life & Pro-Second Amendment Legislation
+• Defending ALL of our Constitutional Freedoms
+• Protecting Farms, Ranches and Small Business
+• Demanding Government Transparency
+• Building our Infrastructure & Support Economic Opportunities
+PLATFORM
+Fight Against Washington, DC Overreach
+Our state politicians and leaders have a duty to defend our values against the whims of the federal government or other parts of the country that seek to forcefully change our economy, our culture, our freedoms, and our community.
+As the federal government and other parts of the country continue to clamp down on our freedoms, I will be a strong voice at the state Capitol against any forces that try to do the same to our beloved state, and will work to ensure our police, fire, and first responders are funded.
+I will fight against voter fraud by working to ensure voter integrity, defend the free market and promote policies to grow our economy, increase freedom and limit government.
+champion pro-life & pro-second Amendment legislation
+As a certified NRA instructor, I understand and respect the constitutional rights guaranteed that the freedom to “Keep and Bear Arms” shall not be infringed.
+I believe that life begins at conception, and the ability to preserve life and protect life is paramount to our basic freedoms outlined in the constitution - without life there is no liberty and no opportunity to pursue happiness.
+defend all our constitutional freedoms
+Every right guaranteed by our Founders was carefully crafted to ensure that our personal freedoms were protected and maximized, while the government’s abilities were to be ‘few and defined.” I will seek to respect our Founder’s Intent in decisions to support or reject the bills that are presented for legislative action.
+Enforcing laws ensures individual rights, which is essential to a free society.
+I am wholly in support of law enforcement and will fight any attempts by political activists to defund law enforcement.
+protect farms, ranches, and promote small businesses
+Family farms, ranches, and small businesses are under attack more than ever before.
+Uncertainties in the economy, rising inflation, tax hike discussions, a shrinking and stressed labor force as government bureaucrats and DC lawmakers work to expand the reach into every facet of activities for employers.
+Our economy cannot recover until government is limited and the free market is able to flourish again.
+I will work to expand freedom, limit regulations, and stand against federal overreach that threatens the livelihood and ability for Oklahomans to prosper.
+demand government transparency
+The growing disconnect between Washington DC and the people of our state is becoming even more evident as federal mandates grow, tax codes become more complicated, laws are exploding on the books, and the administrative bureaucracy seeks to control even into our schools and personal life decisions.
+Oklahoma can lead the nation if we follow the constitutional framework our founders intended.
+We already have made strides by ensuring voter integrity and addressing voter fraud.
+We are seeking efficiencies and growing our economy by enacting business and family friendly policy.
+But we have more to do - we must be ever vigilant, and continue to be Oklahomans first - holding government accountable to be transparent with tax dollars, processes, and ensuring that everything is done to protect and advance life, liberty and opportunity for Oklahomans.
+Build our infrastructure &
+support economic opportunities
+We must focus on construction projects, not social reconstruction activities.
+Oklahoma has made great strides on bridges, now ranking top 10 in the nation in bridge conditions, but we have a long way to go in ensuring roads overall are in good condition, water lines are maintained, broadband access is available, and our power grid is dependable.
+I look forward to working to improve the quality of life for Oklahomans by upgrading our infrastructure across the state.
+Southern Oklahoma’s economy predominantly rests on the hardworking shoulders of the men and women in oil and gas and agricultural industries.
+Growing markets such as aerospace development, defense initiatives, tech and manufacturing industries are quickly growing their footprint across our state as well.
+As with all other businesses, these industries need as little disruption from government as possible to thrive to their potential.
+I will be an advocate for innovation and opportunity to ensure we can reach for every economic success in our state.

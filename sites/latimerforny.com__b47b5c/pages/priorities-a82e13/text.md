@@ -1,0 +1,90 @@
+Priorities for New York Families
+UPLIFTING ALL COMMUNITIES
+George Latimer believes it is a moral obligation to ensure equitable access to resources, opportunities, and support systems for every individual, regardless of race, gender, or background.
+As County Executive, George fought to build a more inclusive economy where all communities could thrive.
+This resulted in:
+- Development of free entrepreneurship and job training programs
+- Over $250 Million in grants to Minority and Women-owned businesses
+- Free bus rides during the summer and holiday seasons for all residents throughout Westchester
+- Targeted workforce development initiatives for formerly-incarcerated job seekers and individuals with intellectual or developmental disabilities
+- Investment of millions of dollars towards the revitalization of our community’s downtown areas most impacted by the pandemic.
+George accomplished all this without raising County taxes for 5 years straight.
+Throughout this, Latimer also recognizes affordable housing as a fundamental human right and a cornerstone of what makes a stable, thriving community possible.
+That’s why addressing the availability of affordable housing has been and will continue to remain a top priority – having pushed to create over 2,500 new affordable housing units since 2018 with 4,000 more in the pipeline.
+In Congress, Latimer will maintain his commitment to push for the implementation of policies that address the root causes of the housing crisis, which includes incentivizing the construction of affordable housing units – which he was able to achieve here in Westchester with the Affordable Housing Investment Flex Fund – as well as protecting renters’ rights, and expanding access to homeownership opportunities for low and middle-income families.
+As he has demonstrated throughout his three-plus decades in public office, George Latimer understands it is only by lifting each other up that we all rise together.
+That is the path forward, which George believes is imperative to the future of NY-16, where all communities are seen, heard, and can rise together.
+DEFENDING DEMOCRACY
+Like many in New York and throughout this country, George Latimer is concerned about the state of American democracy and the unprecedented threats to its very integrity and stability.
+Just as he signed into law the Truthful Disclosure Bill as County Executive to improve transparency and prevent fraud in politics – in Congress, Latimer will continue to support policies and find actionable ways to restore public trust in our democratic institutions and to combat corruption, promote transparency, protect the right for workers to collectively bargain, and ensure equal representation for all citizens.
+George is running because he believes in the promise of America, and knows that protecting the future of our democracy together is a principal worth fighting for.
+America needs leaders committed to lifting up the democratic voices of the people and breaking down barriers to voting.
+In Congress, George will prioritize safeguarding our democratic institutions by protecting election workers from harassment and intimidation, expanding voting access through initiatives such as early voting, mail-in ballots, and awareness campaigns, and upholding the independence and integrity of our judiciary.
+Additionally, Latimer is committed to honoring election results and promoting a peaceful transition of power, which is essential to preserving our democracy, fostering trust in our electoral process, and setting an example for future generations and other nations.
+PROTECTING REPRODUCTIVE FREEDOMS
+George Latimer staunchly supports protecting reproductive freedoms and believes it is a vested right for all individuals to be able to make their own healthcare decisions.
+Latimer has taken action on this support by signing into law the Reproductive Health Care Facilities Access Act, protecting access to reproductive health clinics in Westchester County.
+George is committed to ensuring clinic access and defending healthcare providers who offer reproductive services, and if elected will seek to secure these rights and protections by voting for the Women’s Health Protection Act.
+Additionally, in Congress, George will fight back against any efforts to pass a national abortion ban, he will advocate for expanding access to contraception and preserving options such as in vitro fertilization (IVF) to empower individuals in family planning decisions, ensuring access to reproductive technologies that will help individuals build families according to their desires and medical needs.
+INVESTING IN INFRASTRUCTURE
+Infrastructure projects are priority opportunities.
+Investing in roads, bridges, parks, storm mitigation efforts, mass transit, water mains, and sewers helps keep a community’s many gears moving forward and in unison – while also creating hundreds of good-paying union jobs and serving as a cornerstone for continued economic growth.
+When George first came into office as County Executive, he saw it as an imperative to clear the backlog of outstanding infrastructure projects in Westchester and has moved hundreds of such projects to completion.
+To spur new project development, Latimer put forth new legislation to eliminate the bond cap, which limited the potential for developers to invest in large-scale projects.
+And to save significant tax dollars and streamline project efficiency he also pushed for the development of a Bundled Project approach initiative.
+George also supported the establishment of the On-Call Construction Consultants Program bringing a new level of expertise to call upon when needed, which has worked to increase the overall success rate of each project, while enhancing its quality.
+As a candidate for Congress, Latimer will continue to firmly advocate for investing in infrastructure, recognizing it as a critical driver of economic growth, job creation, and national competitiveness.
+George will prioritize funding for the repair and modernization of roads, bridges, and mass transit systems to ensure safe and efficient transportation networks for all residents and visitors.
+Additionally, he will continue to address the pressing need for resilient stormwater and sewer systems, safeguarding communities from the impacts of climate change, flooding and promoting environmental sustainability.
+KEEPING OUR COMMUNITIES SAFE
+George firmly believes that even one death or injury that could have been avoided is not acceptable.
+His commitment to keeping all community members safe as County Executive has been unwavering.
+Having significantly increased the funding for Public Safety, George was able to significantly reduce violent crime in Westchester to record lows year after year.
+As a candidate for Congress, Latimer will continue to prioritize keeping our communities safe by advocating for common-sense gun reform including an assault weapons ban and universal background checks.
+And he will continue to look for opportunities to address the root cause of gun violence and invest in violence prevention programs, similar to the Westchester Gun Violence Prevention Task-force that he started as County Executive as a proactive way to prevent gun violence and to promote a safer, more equitable society for all.
+George will also support the implementation of Extreme Risk Protection Orders (ERPOs) to temporarily restrict access to firearms for individuals in crisis, while also advocating for enhanced police accountability measures to build trust and transparency between law enforcement and the communities they serve.
+STANDING WITH OUR ALLIES ABROAD
+Just as he has denounced hate and bigotry in all its forms throughout his tenure as an elected official, George Latimer firmly believes that standing shoulder-to-shoulder with our international allies in an increasingly interconnected world is paramount for America’s security and prosperity.
+Strengthening alliances bolsters our diplomatic leverage, amplifies our voice on the global stage, and enables America to address shared challenges more effectively.
+Defending democracy at home must be accompanied by defending democracies worldwide.
+In Congress, Latimer will continue to fight worldwide against racism, anti-semitism and all other forms of hate.
+George stands with Ukraine, and will advocate for more aid as long as Ukraine faces aggression that terrorizes its people and challenges its very sovereignty.
+George will continue to stand with Israel and support its rights of existence, stability, self-defense, and peace – and will advocate for a two-state solution among Israelis and Palestinians.
+George will also recognize and fully support the critical role of NATO in defending global security, and will support America’s long and successful commitment to this alliance.
+George also recognizes the impact of China on America’s economic and defense policy both now and in the future, and the potential dangers to world stability posed by a more nationalistic and militaristic leadership in China.
+In Congress, George will be committed to protecting the security of our Pacific allies, the right to free navigation in international waters, and the lowering of military and economic tensions with the Chinese government, all without sacrificing America’s own security interests and democratic principles.
+SAFEGUARDING OUR ENVIRONMENT
+Climate change is an urgent threat with long-term repercussions, which demands immediate and decisive action to safeguard our future.
+As County Executive, George:
+- Pushed for the electrification of the entire County car fleet – including our buses and police cars
+- Introduced new and innovative recycling initiatives
+- Authorized the investment of over $20 million towards expanding electric-vehicle charging infrastructure
+- Signed several new laws to reduce restaurant waste
+- Encourage renewable energy use County-wide, and
+- Promoted environmental equity for all communities.
+These efforts underscore George’s commitment to sustainability and how in Congress he will be an advocate for combating climate change, investing in renewable energy sources to transition away from fossil fuels, and creating sustainable green jobs.
+As George believes it is our shared responsibility to preserve the planet for future generations, he will support passing a Green New Deal to enact comprehensive policies that address environmental degradation, promote conservation efforts, and mitigate the impacts of climate change on communities across the nation.
+SUPPORTING COMPREHENSIVE IMMIGRATION REFORM
+We are a nation of immigrants, and George is the proud son of two immigrant families of Italian and Irish descent who settled in Mount Vernon, NY and picked that place as the starting point for George to go out and find the great American Dream.
+While the dream may seem different depending on who you ask, and while Westchester’s neighboring counties refused to take in immigrants bused from overflowing NYC, George was the only County Executive with the courage and compassion to step up and help find asylum seekers a place of respite and a path forward.
+He has also been pushing at the State and Federal level to setup an immigration court dedicated to asylum seekers here in Westchester that would be able to expedite the legal intake and processing of asylum cases – helping to clear a backlog of cases, save tax payer’s dollars, and provide better support to those coming to America seeking freedom.
+As a candidate for Congress, Latimer firmly advocates for supporting comprehensive immigration reform to address the challenges facing our immigration system.
+George will prioritize accelerating work permits for immigrants to contribute to our economy while creating a fair and accessible path to citizenship.
+Additionally, George is committed to ensuring that immigrants have access to public safety and emergency services to promote the well-being and safety of all individuals in our communities as reflected in the passage of the Immigrant Protection Act.
+PROTECTING MEDICARE AND SOCIAL SECURITY
+There is a growing crisis for seniors who face financial insecurity, inadequate healthcare access and social isolation.
+As County Executive, George has worked to combat this head-on with expanded initiatives and resources for seniors, creating groundbreaking new caregiver programs, expanded healthcare access, educational workshops, and investing millions into affordable housing support for seniors as well.
+As a candidate for Congress, George is deeply committed to continue these efforts and can assure you that he will protect Medicare and Social Security from being dismantled.
+George recognizes these as vital lifelines for millions of Americans.
+He will oppose any attempts to privatize or reimagine these essential programs, ensuring they remain solvent and accessible for current and future generations.
+Additionally, George will advocate for measures to strengthen and expand Medicare and Social Security benefits, guaranteeing financial security and healthcare coverage for our nation’s seniors.
+MAKING SURE CHILDREN CAN THRIVE
+Ensuring children are given the opportunity to live up to their full potential is paramount; as a County Executive, George Latimer has expanded funding for youth services and organizations year after year.
+As a candidate for Congress, his commitment to youth and their well-being will only increase.
+George believes it is essential to prioritize school funding to ensure every child has access to a quality education.
+He will support initiatives for affordable and accessible child care, easing the burden on families.
+Additionally, George will promote programs that guarantee access to nutritious meals for children – fostering healthy development.
+George will implement strategies to address youth homelessness and provide support services for at-risk youth.
+He will strengthen and advocate for laws and resources that protect children from online exploitation and abuse as a top priority.
+And he will advocate for policies to address racial disparities in maternal health care to help improve outcomes for black mothers and infants, building on the $1 million Black Maternal Child Health Initiative he launched as County Executive.
+George believes NY-16 deserves a future where every child has the opportunity to thrive and will work tirelessly to support our community’s next generation of leaders.

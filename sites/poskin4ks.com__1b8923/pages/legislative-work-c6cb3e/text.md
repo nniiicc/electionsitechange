@@ -1,0 +1,10 @@
+In Topeka
+In the Kansas House of Representatives, Mari-Lynn serves on the following committees:
+- K-12 Budget
+- Commerce, Labor & Economic Development
+- Financial Institutions & Pensions
+- Veterans & Military
+She is also the Johnson County Delegation Chair, elected by the 36 State Senators and Representatives whose districts include any part of the county, regardless of party.
+Mari-Lynn has worked across the aisle to pass legislation to benefit everyone in Kansas.
+The Council of State Governments named her a BILLD (Bowhay Institute for Legislative Leadership Development) Fellow in 2022, which annually recognizes promising legislative leaders in the Midwest, and a Henry Toll Fellow in 2023, the nation’s premier leadership development program for state government officials.
+To see her voting record and a full list of sponsored bills and resolutions, please visit her page on the official Kansas Legislature website by clicking below.

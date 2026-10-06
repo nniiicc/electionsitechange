@@ -1,0 +1,13 @@
+Women's Rights
+With the Supreme Court’s Dobbs v.
+Jackson Women’s Health Organization decision, we face the most serious threat in decades to women’s reproductive freedom.
+Gender equality does not exist without bodily autonomy, women must be able to make the family planning decisions that work best for them and their families.
+Reproductive care and abortion rights are essential health care, and I have voted repeatedly for the Women’s Health Protection Act to enshrine that right in federal law.
+I have also been an intentional advocate for economic empowerment of women.
+Working women make up almost half of the American labor force; yet gender pay gaps remain.Women must be able to make their own economic decisions, including whether and when to have children.
+This is possible only with affordable child care, workplace flexibility, paid family and medical leave, and reliable health care.
+Today, the United States is one of only two nations that does not guarantee paid parental leave.
+It is past time to give working women and families this critical tool, and I have been heavily involved in legislative efforts to guarantee universal paid and family leave to every American worker in federal law.
+I introduced the Comprehensive Paid Leave for Federal Employees Act to guarantee 12 weeks of paid family leave for federal employees in all instances covered by the Family and Medical Leave Act, and I secured a provision in the most recent defense bill that allowed federal employee veterans to count their years in service towards time in federal employment to avoid delays in eligibility for FMLA.
+While progress in this area has been far too slow, I am also proud to have helped pass the Pregnant Workers Fairness Act in 2022.
+This landmark reform requires employers to provide workers reasonable accommodations for pregnancy, childbirth, or related medical conditions.

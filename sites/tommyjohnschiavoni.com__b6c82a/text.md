@@ -1,8 +1,4 @@
-Working for the
-East End of Long Island
-Re-elect Tommy John Schiavoni for
-New York State Assembly
-Skip navigation menu
+Re-elect Tommy John Schiavoni for New York State Assembly
 Re-elect Your Representative in Albany
 I have prioritized the East End's needs in Albany, delivering key funding and making the East End a more sustainable place to live.
 In my first term representing the First Assembly District, I have partnered with state, local, and federal leaders to tackle the issues that matter most to our communities.

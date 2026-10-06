@@ -1,0 +1,3 @@
+Add your promotional text...
+If you want to fight back against this extremist Republican agenda and elect a Representative that truly gives a voice to the people, please donate to Matt Ferry for State House District 48 in 2026.
+Paid for by the Campaign to Elect Matt Ferry Veronica Bosnak, Treasurer

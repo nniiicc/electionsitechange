@@ -1,0 +1,2 @@
+| Bans all flavored tobacco products, taxes vaping products Nov. 15, 2019 – BOSTON – This week, Representative Michelle Ciccolo (D-Lexington), along with her colleagues in the House of Representatives, passed legislation to ban all flavored tobacco products and tax vaping products in an effort to protect young people from the harmful effects of tobacco use.
+Read Full Press Release Here | Archives Categories All Announcement Donate Endorse/Endorsement Event News Press Support |

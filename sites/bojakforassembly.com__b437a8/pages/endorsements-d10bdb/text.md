@@ -1,0 +1,63 @@
+Endorsements
+Adam is proud to be endorsed by a broad coalition of unions and community organizations who’ve seen firsthand what the working class of Western New York needs.
+He is also excited to work with local and state-level elected officials who share his vision for Western New York—one that puts everyday people over profits.
+Union Endorsements
+- New York State AFL-CIO
+- WNY Area Labor Federation
+- 1199SEIU United Healthcare Workers East
+- Buffalo Teachers Federation
+- CSEA Region 6, Local 1000
+- IATSE Local 10
+- IBEW Local 2104
+- Ironworkers Local 6
+- IUPAT District Council 4
+- New York State Nurses Association
+- NYSUT
+- Public Employees Federation
+- SMART Local 71
+- Teamsters Local #449
+- UAW Region 9
+- UFCW Local One
+- Workers United RRJB
+- WNY CWA Council
+Civic, Community, and Political Organization Endorsements
+- Democratic Socialists of America
+- New York Working Families Party
+- Our Revolution
+- Buffalo DSA
+- Caring Majority Rising
+- Citizen Action of New York
+- Erie County Federation of Democratic Women
+- Lead Locally
+- New York Progressive Victory
+- New York League of Conservation Voters
+- New York State Tenant Bloc
+- NYC-DSA
+- NYIC Action
+- NY Progressive Action Network
+- Our City Action Buffalo
+- Planned Parenthood Empire State Votes
+- Sierra Club
+- Streets PAC
+- Tenants PAC
+- Voters for Animal Rights
+- VOCAL Action Fund
+Endorsements From Elected Officials
+- Senator Bernie Sanders
+- NYS Assembly Member Jon Rivera
+- NYS Senator April Baskin
+- City of Buffalo Mayor Sean Ryan
+- Buffalo Common Council Member David Rivera
+- NYC Councilmember Chi Ossé
+- NYS Senator Jabari Brisport
+- NYS Assembly Member Emily Gallagher
+- NYS Assembly Member Phara Souffrant Forrest
+- NYS Assembly Member Diana Moreno
+- NYS Assembly Member Sarahana Shrestha
+- Cheektowaga Supervisor Brian Nowak
+- Former U.S.
+Rep.
+Jamaal Bowman
+Special Campaign Designations (Non-Endorsing)
+- Campaign for New York Health: New York Health Act Champion
+- Moms Demand Action Gun Sense Candidate

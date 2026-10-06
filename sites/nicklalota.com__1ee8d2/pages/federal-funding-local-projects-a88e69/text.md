@@ -1,0 +1,22 @@
+Federal Funding for Local Projects
+Securing Federal Funds for Long Island Projects
+Long Islanders pay some of the highest taxes in America and deserve to see more of those dollars invested back home.
+That’s why I’ve partnered with local leaders in every town across New York’s First Congressional District—Republicans and Democrats alike—to secure over $41.3 million in discretionary federal funding for critical infrastructure, public safety, clean water, jobs and downtown revitalization.
+Long Islanders Deserve a Better Return on Their Tax Dollars
+For too long, Long Island taxpayers have subsidized Albany and Washington while our roads, water infrastructure, public safety needs, and downtowns compete for a fraction of those dollars back.
+In 2022, a Long Island Regional Planning Council study found Long Island received less than 40 cents back for every tax dollar we send to Albany and just 62 cents for every dollar sent to Washington.* Meanwhile, Albany pours our tax dollars into New York City, bailing out Mayor Mamdani’s migrant crisis and mismanaged agencies like the MTA, while many other states receive more federal investments from Washington than they pay in.
+I’ve made it my mission to right that wrong—pressuring Governor Hochul for a fairer investment in Long Island’s infrastructure and using my seat on the House Appropriations Committee to bring more of our federal tax dollars home.
+Delivering Results Across Suffolk County
+Working with our local partners, I’ve secured over $41.3 million in federal investments for projects in every town in the district through the Community Project Funding process, including:
+- $13.5 million for road repaving: repaving roads and rebuilding storm-damaged road infrastructure.
+- $5.25 million for Law Enforcement: vehicles, equipment, communications, and technology for Suffolk County, incorporated village, and East End town Law Enforcement.
+- $5.84 million for clean, safe drinking water: public water mains for PFAS-impacted communities.
+- $7.5 million for clean groundwater and surface waters: sewer, wastewater and septic system infrastructure expansion and upgrades.
+- $2.63 million for stormwater infrastructure: drainage and flood-mitigation projects protecting homes, downtown business districts, and reducing contaminated runoff into our waterways.
+- $6.6 million for downtown revitalization: additional investments in marine and harbor infrastructure, historic preservation, brownfield remediation, and public spaces that support small businesses and local jobs.
+I’m proud to report that the $27.1 million in Community Project Funding earmarks I brought home for Long Island priorities in 2026 alone is higher than the federal funding 23 of the 25 other New York Members of Congress brought home to their districts.
+Bringing Our Tax Dollars Home
+These investments weren’t dreamed up by bureaucrats in Washington.
+They were identified with the local leaders who know their communities best and address real needs here on Long Island.
+I’ll keep fighting to bring our tax dollars home, invest them responsibly, and deliver results that make Long Island a safer, more affordable and resilient place to live and work.
+*https://lirpc.org/taxation/long-island-balance-of-payments-study/

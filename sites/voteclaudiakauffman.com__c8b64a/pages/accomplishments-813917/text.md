@@ -1,0 +1,39 @@
+Accomplishments
+Delivering Results for the 47th District
+Over the past four years, Senator Claudia Kauffman has led through some of the most uncertain times our state has faced, from the pandemic to rising costs of living and rapid regional growth.
+Through it all, she has remained grounded in the values of service, community, and accountability.
+Her guiding question in Olympia has always been simple: How will this help the people I represent?
+Claudia knows that leadership is about showing up, listening, and delivering results that make a difference in people’s daily lives.
+She has kept a laser focus on the needs of the 47th Legislative District, from Kent and Auburn to Covington, securing funding for safer roads, better schools, stronger families, and more vibrant local communities.
+Her work reflects the heart of South King County: hardworking families, small businesses, and diverse neighborhoods that deserve real representation and results.
+Whether it is investing in transportation safety, strengthening foster care systems, protecting Indigenous communities, or securing millions in local capital projects, Claudia has proven time and again that she is working for and with the people of the 47th District.
+- Claudia believes our government should protect our most vulnerable and give every family the opportunity to thrive.
+She has led on legislation improving foster care, supporting caregivers, and ensuring safer homes for children.
+Key Legislation:
+- SB 5683 – Supporting Tribal Foster Children: Strengthens coordination between the state and Tribal governments to better serve Native children in foster care.
+- SB 5811 – Expanding Long-Term Caregiver Support: Expands the definition of eligible caregivers to include family members related through marriage, ensuring families can care for loved ones without barriers.
+- SB 6125 – Preserving Developmental Disability Care Records: Protects the historical records of Lakeland Village, preserving the legacy of care for people with developmental disabilities.
+- SB 5494 – Safer Homes, Healthier Families: Improves training and standards for removing lead-based paint, reducing health risks for children and families.
+- Claudia has secured millions in state capital investments that strengthen neighborhoods, create community gathering spaces, and preserve the cultural and environmental treasures that make South King County unique.
+Key Investments:
+- $2 Million – Auburn Theater Renovation: Restores a historic local landmark for arts, culture, and community events.
+- $2.7 Million – Indian American Community Center (Kent): Supports construction of a vibrant new space for cultural programs and community gatherings.
+- $2 Million – Soos Creek Hatchery (Auburn): Supports sustainable salmon recovery and environmental education.
+- $500,000 – Jenkins Creek Park (Covington): Expands recreation access and habitat restoration.
+- $155,000 – Meridian Grange Hall Repairs (Kent): Preserves a cherished historic site and community meeting place.
+- $900,000 – SoCo Park Improvements (Covington): Funds new amenities and upgrades to improve accessibility and public safety.
+- Claudia has championed major investments to improve safety, reduce congestion, and strengthen South King County’s infrastructure, helping residents get where they need to go safely and efficiently.
+Key Legislation and Investments:
+- SB 5342 – Streamlining Bus Purchases: Simplifies how Washington transit agencies purchase buses from out of state, helping them modernize fleets faster and save taxpayer dollars.
+- SB 5236 – Strengthening Transportation Programs: Establishes transportation grant programs permanently in state law, ensuring stable and fair funding for local projects.
+- $800,000 – SR 516 Pedestrian Overpass Study (Covington): Funds a study for a new overpass to improve pedestrian safety and reduce collisions.
+- $5 Million – SR 516 Expansion to Jenkins Park (Covington): Expands road capacity to ease traffic and support local growth.
+- $1.5 Million – SR 167 Corridor Plan (Kent and Auburn): Advances planning to relieve congestion and support economic development.
+- $1.5 Million – SR 164 Safety Vision Plan (Auburn): Creates a plan to improve safety on one of the region’s most dangerous corridors.
+- $15 Million – Highway 18 Upgrades: Continues funding for critical safety and capacity improvements on Highway 18, one of South King County’s busiest routes.
+- As the first Native American woman ever elected to the Washington State Senate, Claudia has made it her mission to elevate Native voices, honor history, and ensure justice for Indigenous people and all communities.
+Key Initiatives:
+- $250,000 – Missing and Murdered Indigenous Women Task Force: Funds continued work to bring attention, accountability, and justice to the epidemic of violence against Indigenous women.
+- $206,000 – African American Museum Pre-Development: Supports planning for a new museum dedicated to celebrating Black history and contributions in Washington.
+- $600,000 – United Indians of All Tribes Foundation: Provides facility upgrades that expand services for Native families and youth.
+- $400,000 – Burke Museum Artifact Preservation: Helps safeguard priceless cultural artifacts for future generations.

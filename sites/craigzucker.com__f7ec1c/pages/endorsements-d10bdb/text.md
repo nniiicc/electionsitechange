@@ -1,0 +1,47 @@
+Meet Craig
+Issues
+Endorsements
+Scholarship
+Voter FAQ
+Contribute
+Meet Craig
+Issues
+Endorsements
+Scholarship
+Voter FAQ
+Contribute
+2026 Endorsements
+Proudly endorsed by leaders, advocates, and organizations
+in District 14 and across Maryland
+Angela Alsobrooks
+U.S.
+Senator
+Jamie Raskin
+Congressman
+Bill Ferguson
+Maryland Senate President
+Joseline Peña-Melnyk
+Speaker of the
+Maryland House of Delegates
+Isiah “Ike” Leggett
+Former Montgomery
+County Executive
+MCEA
+AFL-CIO
+ATU LOCAL 689
+UFCW Local 1994 MCGEO
+SEIU Local 500
+Mid-Atlantic
+Pipe Trades
+Association
+Montgomery County
+Career Fire Fighters
+Local
+1664
+Sierra Club
+Maryland League of
+Conservation Voters
+Coalition of Asian Pacific American
+Democrats of Maryland
+Maryland Farm Bureau
+CASA in Action

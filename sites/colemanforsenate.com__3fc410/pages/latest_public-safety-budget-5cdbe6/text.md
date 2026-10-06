@@ -1,0 +1,45 @@
+Coleman Votes for Public Safety Budget to Hold Criminals Accountable
+Today, the Senate passed a comprehensive public safety bill, which provides critical funding to hold criminals accountable.
+ST.
+PAUL, MN – Today, the Senate passed a comprehensive public safety bill, which provides critical funding to hold criminals accountable and keep Minnesota’s communities safe.
+It focuses on all aspects of the criminal justice system and courts, including youth intervention, criminal laws, sentencing guidelines, police, prosecutors, public defenders, judges, prisons, and probation.
+There are three main objectives in the bill: provide support for law enforcement recruitment and retention; toughen penalties for criminal activity; and increase transparency and accountability in judicial and prosecutorial actions.
+Included in this legislation is a bill authored by Senator Coleman to create a new penalty for recklessly endangering the public while fleeing a peace officer in a motor vehicle.
+Coleman, who has been working with law enforcement officials since elected to help reduce crime, discovered a gap in statute after her family was caught in the middle of a police chase earlier last year.
+While there are penalties for fleeing peace officers and hurting members of the public, there are no explicit penalties for recklessly endangering the public while fleeing a peace officer.
+“There is a fundamental difference between fleeing in a vehicle without putting others at a large risk and fleeing with a reckless disregard for others,” Coleman said.
+“The new four-year penalty in my bill is necessary to properly sentence those who carelessly put the public at risk.”
+Actions covered under this statute could include:
+- Reaching speeds of 100 or 120 miles per hour on a freeway
+- Going the wrong way on a freeway
+- Running red lights
+- Using dangerous speeds in residential neighborhoods
+- Placing people in harm’s way in crowded parking lots
+Support for law enforcement
+Included in the bill are provisions to address the central issues currently facing Minnesota’s law enforcement officers: recruitment, retention, education and training, and equipment.
+“As the daughter of a law enforcement officer, I personally know we must do more to recruit new officers and retain the ones we have,” Coleman said.
+“The Senate Republican’s comprehensive public safety bill accomplishes both objectives and sends a clear message that we support our law enforcement officers.”
+The bill includes two provisions already passed by the Senate this year.
+The first is funding to the Department of Public Safety to develop and conduct an advertising campaign to elevate the law enforcement profession.
+This campaign will highlight law enforcement as an honorable career and the good work officers do every day to keep our communities safe.
+The idea was brought forward by law enforcement professionals who are dealing with more openings than applicants across the state.
+The second provision contains funding for the award-winning Pathways to Policing Program to support non-traditional candidates for law enforcement who already have at least an associate’s degree in another discipline.
+To retain current law enforcement officers, the bill provides $3,000 in one-time bonuses to all licensed police officers and an additional incentive of $7,000 to officers nearing retirement who choose to continue serving.
+Holding criminals accountable for their crimes
+Minnesota is experiencing a dangerous increase in violent crime across our state because criminals are not being held accountable for their crimes.
+To address this, the Judiciary & Public Safety Committee adopted several “tough on crime” provisions into the comprehensive public safety bill that increase penalties for repeat offenders, carjackers, and violent criminals using firearms.
+There is also enhanced support for the Violent Crime Enforcement Teams (VCET), which have been successful at targeting drugs and guns across the state.
+Providing accountability and transparency
+To respond to growing instances of violent criminals becoming repeat offenders and frequent decisions by prosecutors and judges to go easy on criminals, this bill takes several steps to improve transparency for the decisions that lead to early releases and failures to charge to the fullest extent possible.
+This bill includes limited funding for nonprofits.
+There have been recent stories where newly founded nonprofits are unable to prove what their funding is actually going towards.
+Even more alarmingly, in the past two years, there have been reports about violence interrupters tasked to work with law enforcement to de-escalate situations by non-profits who have themselves violently harmed other individuals.
+Youth Intervention Programs, a proven system that requires a local match with accountability to the Department of Public Safety and legislature, receives an additional $3 million in the bill.
+This bill supports Minnesota’s criminal justice system with a $50 million increase in funding for public defenders.
+Recent reports of a strike by public defenders indicate the entire defense process is at risk.
+The majority of people charged with a crime use a public defender and are entitled to a fair and speedy trial with adequate representation for those with low incomes.
+Historically, public defender salaries have not kept up with the salaries of prosecutors, requiring a nearly 8% increase in funding for public defenders last year and additional investment this year for new employees to lower caseloads.
+Your Involvement Is Important
+We can't do this without you!
+Whether you contribute financially or with your time, you can make a difference.
+Don't sit on the sidelines — get involved today!

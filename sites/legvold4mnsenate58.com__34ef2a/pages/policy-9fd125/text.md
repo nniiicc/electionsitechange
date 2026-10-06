@@ -1,0 +1,50 @@
+Minnesota’s Rural Renaissance
+Senate District 58 is a true transitional zone, where the southern suburbs meet Minnesota’s rural breadbasket.
+For our state to thrive, we need to honor the diverse landscape, nourish the economies we share, and work towards growth and stability throughout the region.
+- Build a strong local economy that supports higher wages across industries
+- Create systems that lower the cost of living, so Minnesotans can afford to live where they work
+- Support programs for unhoused Minnesotans
+- Expand locally-owned affordable housing and childcare for young and growing families
+- Add a new tier of income taxes for millionaires
+- Incentivize small and medium-sized communities to broaden their capacity to provide quality, affordable healthcare
+- Protect women’s health autonomy by upholding the protections codified within current MN Law.
+- Expand access to women’s health and elder care services in Greater MN
+- Guarantee access to long-term care, mental health services, and vital care for disabled Minnesotans
+- Modernize the administration of health and human services, incorporating cost savings without compromising services
+- Protect our public funds by pursuing, prosecuting, and punishing fraudsters
+- Streamline reporting and recording systems for state agencies and whistleblowers for greater transparency
+- Ensure the highest standard of accountability across the government via robust oversight with the Office of Inspector General
+- Protect our taxpayer dollars to make sure that the government will carry it’s weight and match the drive and hard work of every Minnesotan.
+- Increase per pupil funding without increasing the local tax burden
+- Update educational standards and assessments to meet today’s needs
+- Expand career and technical education to build a well-trained workforce
+- Give school districts flexibility in food programs to eliminate waste while helping the most vulnerable
+- Support teacher recruitment and retention programs.
+- Encourage diverse economic growth through small, medium, and large business development and reduce reliance on mega-corporations
+- Invest in affordable, high-quality childcare that meets community needs
+- Streamline taxes and regulations for small businesses
+- Support cooperatives as well as worker owned and locally owned businesses through grants, low interest loans, technical assistance, and mentorship
+- Encourage entrepreneurship programs, focusing on emerging sectors of the economy
+- Support family farm longevity by building a strong agricultural economy
+- Protect farmers from predatory input cost adjustments
+- Increase research and development in large-scale production of sustainable aviation fuels and other domestic markets for commodity crops in Minnesota
+- Enable local food production, processing, and marketing and emphasize locally grown products within the food chain
+- Increase access to sustainable equipment grants, soil and water conservation incentives, and professional development for farmers
+- Incentivize rehabilitation and repurposing of existing buildings
+- Improve local government aid and allow local taxation decisions
+- Partner with small and medium sized communities to protect land and water resources and reduce energy costs
+- Protect our communities and natural resources from the adverse impact of data center development.
+- Increase rural broadband access and affordability
+- Upgrade transit and shipping through improved rail, river, and road infrastructure
+- Encourage multiple sources of power production while keeping water resources safe and secure
+- Weave sustainability into our environmental policy, protecting our land, water, and air for future generations
+- Increase access to housing and food surety programs
+- Protect veterans from predatory benefit scammers
+- Ensure access to mental healthcare and substance abuse providers
+- Refine the property tax exemption for disabled veterans
+- Fund programs proven to reduce suicide rates among service members and veterans
+- Increase grant funding for equipment and training for local police, fire departments, emergency management and emergency medical services (EMS)
+- Improve reimbursement for EMS calls in rural communities
+- Collaborate with law enforcement agencies to standardize and fund basic officer training at the state level
+- Limit federal overreach in community policing by requiring transparency in agreements, investigations and operations
+- Fund programs proven to reduce suicide rates among first responders

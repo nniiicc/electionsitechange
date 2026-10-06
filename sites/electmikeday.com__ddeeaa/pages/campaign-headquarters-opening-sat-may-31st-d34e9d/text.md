@@ -1,0 +1,7 @@
+Campaign Headquarters Opening: Sat., May 31
+Please join us and State Senator Jason Lewis as we officially open our headquarters.
+Bring a friend and help us spread the word about the campaign!
+Saturday, May 31st
+3:00 PM
+632 Main Street, Winchester
+For more information, click here.

@@ -1,0 +1,28 @@
+Johnson leads House effort requiring judges and justices to place financial assets into blind trusts
+WASHINGTON, D.C. — Today, Congressman Hank Johnson (GA-04) introduced The Justice is BLIND Act, which would prevent judicial conflicts of interest by requiring federal judges and Supreme Court justices to place their financial assets into blind trusts.
+Under this bill, all federal judges, Supreme Court justices, magistrate judges, and bankruptcy judges, as well as their spouses and dependent children, must place covered financial interests into a qualified blind trust within 90 days of enactment or being sworn into office.
+Judges must provide a written compliance attestation within 15 days of establishing the trust, which the Administrative Office of the United States Courts will publish on a searchable public database.
+In the Senate, this legislation is led by Sen.
+Adam Schiff (D-CA) and is co-sponsored by Senator Richard Blumenthal (D-Conn.).
+In the House, the bill is cosponsored by Reps.
+Sydney Kamlager-Dove (CA-37), Dan Goldman (NY-10), Eleanor Holmes Norton (DC), and Delia C.
+Ramirez (IL-03).
+“Transparency and accountability are at the heart of the public’s trust in government,” said Rep.
+Johnson, Ranking Member of the Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet.
+“Americans deserve to know that officials in every branch of government — including the judiciary — are acting honorably and in the interest of the people, not their bank accounts.
+The Justice is BLIND Act would go a long way in preventing any conflicts of interest that might arise and help restore trust in our judiciary by requiring judges and justices to place their financial assets in blind trusts.”
+“The federal judicial system is desperately in need of reform to prevent further ethical lapses.
+The Supreme Court, and our federal judiciary at large, must be held to the highest standards, but time after time, judges have engaged in troubling acts, putting personal interests above the law and Constitution.
+I have long called for necessary reforms to regain trust in our system.
+We must hold judges to the same ethical standards as other federal officials, enhance transparency within the court system, and ensure cases are decided based on merit, not profits.
+Americans deserve nothing less,” said Senator Schiff.
+In the wake of an unprecedented Supreme Court term defined by historic rollbacks of the Voting Rights Act and other democratic guardrails, Johnson is supporting a legislative package that includes bills to restore faith in the federal judiciary and address abuses of power, including by Supreme Court Justices.
+The bills would apply conflict of interest ethical standards to federal judges and Justices, and require judges and Justices to place financial assets into blind trusts.
+Background:
+A steady stream of alarming revelations in recent years has severely undermined public faith in the independence and integrity of the federal judiciary, including the U.S.
+Supreme Court.
+Investigative reports have uncovered a pervasive culture of undisclosed luxury gifts and glaring conflicts of interest, all while Justices refuse to recuse themselves from major cases tied directly to their benefactors’ financial or political advantage.
+To regain the American people’s trust in our courts, Congress must pass rigorous, binding statutory guardrails that ensure no federal judge can operate above the ethical standards expected of other public servants.
+Read The Justice is BLIND Act: here
+Ranking member Johnson’s slate of court reform legislation include: The Judiciary Act: Expands SCOTUS to make it more responsive to our growing country; The Supreme Court Ethics Act: Requires justices follow a binding code of ethics; The Judicial Accountability Act: Requires courts to protect their employees from workplace harassment; The 21st Century Courts Act: Enhances accountability & transparency of the federal judiciary by instituting a comprehensive suite of reforms & modernizes our courts for the 21st century; District Court Judgeships Act: Alleviates case backlog by creating 203 new district court judgeships; AMICUS Act: Brings transparency to amicus-based judicial lobbying for the first time; Open Courts Act: Modernizes the federal judiciary’s court records system (called CM/ECF) & makes court records freely available to the public (PACER); The Supreme Court Ethics, Recusal, and Transparency (SCERT) Act: Requires justices of the Supreme Court to adopt and follow a code of ethics, places transparency standards on gifts and travel, codifies recusal standards and requires the court to disclose lobbying and dark money interests before it; The Supreme Court Tenure Establishment and Retirement Modernization (TERM) Act: Would establish term limits for Supreme Court justices while preserving constitutional protections for judicial independence in decision making.
+###

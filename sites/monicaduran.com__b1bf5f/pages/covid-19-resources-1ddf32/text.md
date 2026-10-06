@@ -1,0 +1,36 @@
+Mental Health Resources
+If you or someone you know is in crisis, please call the National Suicide Prevention Lifeline: 1 (800) 273-8255
+Colorado Crisis Services: call 1 (844) 493-8255 or text TALK to 38255
+Domestic Violence Resources:
+National Domestic Violence Hotline: 1 (800) 799-7233
+If you cannot speak safely, visit thehotline.org
+Family Tree Crisis Line: (303) 420-6752
+Zero Tolerance for Domestic Abuse: https://0t4da.org/
+Find additional resources at Violence Free Colorado.
+Housing, Rent, and Mortgage Assistance
+If you need assistance paying your rent or mortgage, you can apply for the Emergency Housing Assistance Program.
+The Colorado Department of Local Affairs has additional housing resources on their website
+Food Resources
+Call the Hunger Free Colorado Food Resource Hotline at 1 (855) 855-4626 or visit their website for additional resources.
+Jeffco Public Schools Remote Meal Service is available for all youth age 1-18 through June 30, 2021.
+More details are available here.
+Utilities
+If you need assistance paying utilities, you may apply for Colorado's Low-Income Energy Assistance Program (LEAP).
+Learn more by calling 1 (866) 432-8435 or visiting https://www.colorado.gov/pacific/cdhs/leap
+.
+Energy Outreach Colorado can provide additional resources and assistance.
+Unemployment
+Colorado Department of Labor has guidance on applying for unemployment benefits as well as other employment resources,
+If you're having issues filing for unemployment or receiving payment, please call (303) 536-5615.
+Left Behind Workers Fund may be able to help if you need assistance but do not qualify for unemployment or federal relief programs.
+Animal Shelters & Other Resources
+If you are considering adopting your next best friend, please consider adopting from one of these shelters:
+Animal Rescue of the Rockies also has a list of resources for pet owners.
+If you need assistance feeding your pet, the Colorado Pet Pantry holds pet food banks all over the state.
+Wildfire Resources
+For help navigating what to do in the face of a wild fire, please see the following resources:
+Rocky Mountain Area Coordination Center
+Colorado Division of Fire Prevention and Control Resources
+West Metro Fire Rescue - Wildfire Safety
+West Metro Fire Rescue - Fire Marshal's Office
+Additional resources can be found at 2-1-1 Colorado or findhelp.org.

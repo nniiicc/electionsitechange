@@ -1,0 +1,1 @@
+Back to All Events Rable Block Walk Sunday, September 6, 2026 2:00 PM 3:00 PM Atkins Middle School 5401 Avenue U Lubbock, Texas, 79412 United States (map) Google Calendar ICS https://www.mobilize.us/texasdemocrats/event/1018382/

@@ -1,0 +1,13 @@
+My name is Judge Christine Walczyk, and I am running for the North Carolina Court of Appeals in 2026.
+I have been serving as a district court trial judge in Wake County for 19 years, and I am running for the North Carolina Court of Appeals in 2026.
+As the most experienced district court judge in Wake County, I have worked hard to safeguard the fundamental rights and liberties of those who appeared in my courtroom with well-reasoned, swift, and nonpartisan decisions.
+I am running for the Court of Appeals because I am increasingly concerned about the public's loss of confidence in the court system, a cornerstone of our democracy.
+My campaign will offer voters an experienced, temperate, and principled candidate dedicated to the rule of law.
+As a trial judge, I was nominated by four chief district court judges (Democrat and Republican) to serve in leadership positions, including Lead Judge in Family Court for many years, and currently as Lead Judge in the general civil court.
+Prior to my service as a judge, I practiced law in Raleigh with Grafstein & Walczyk, P.L.L.C., representing small businesses with their transactional and litigation needs.
+I also represented indigent defendants in criminal cases and juveniles in delinquency matters.
+Born in Raleigh, North Carolina, at the old Rex Hospital, I moved to Florida as a child and returned to North Carolina in 1992.
+I graduated magna cum laude from the Boston College Carroll School of Management and completed my Juris Doctor at the University of North Carolina School of Law at Chapel Hill.
+I am actively involved in the community and the profession as a member of the National Association of Women Judges' Judicial Independence Committee, the North Carolina Bar Association's Women in the Profession Committee, and as Chair of the Judicial Division of the North Carolina Association of Women Attorneys.
+I particularly enjoy mentoring students and teaching.
+I am a former instructor at Meredith College's Paralegal Program and Wake Technical Community College.

@@ -1,0 +1,43 @@
+Accomplishments
+Through her leadership in the Legislature, Rep.
+Yanira Gurrola has delivered real results for Albuquerque’s Westside—lowering costs, expanding access to healthcare, strengthening schools, and investing in safer, stronger communities.
+She has also been a strong advocate for immigrant families and inclusive economic opportunity.
+See Yanira’s session work and investments here: 2024, 2025, and 2026.
+Committee Leadership
+- House Education Committee
+- House Energy, Environment & Natural Resources Committee
+- House Labor, Veterans’ & Military Affairs Committee
+- Vice Chair, Enrolling & Engrossing Committee
+_________________
+Lowering Costs for Families
+- Reduced healthcare costs and protected affordability for working families
+- Invested in affordable housing and first-time homeownership across the Westside
+- Supported food access and economic opportunity programs
+Healthcare
+- Expanded access to care and strengthened the healthcare workforce
+- Invested in mental and behavioral health workforce training and retention
+- Funded behavioral health services for families, including underserved and immigrant communities
+- Supported community clinics and care closer to home
+Housing & Westside Infrastructure
+- Secured major funding for affordable housing in Albuquerque and Bernalillo County
+- Invested in libraries, parks, trails, and community spaces across the Westside
+- Improved water systems, open space, and neighborhood infrastructure
+- Funded emergency housing and services for unhoused residents
+Education & Opportunity
+- Expanded career pathways, workforce training, and youth internship programs
+- Strengthened bilingual and multicultural education and teacher training
+- Passed school safety legislation, including Automated External Defibrillators (AEDs) at school athletic events
+- Invested in classrooms, early childhood education, and after-school programs
+- Supported teacher pay, recruitment, and smaller class sizes
+Public Safety & Community Investment
+- Funded fire stations, police equipment, and emergency response infrastructure
+- Invested in youth programs, community centers, and crime prevention
+- Supported community-based public safety solutions
+Supporting Immigrant Families
+- Passed legislation creating the New Americans Division and co-sponsored the Immigrant Safety Act to better support immigrant communities
+- Expanded access to services, workforce opportunities, and economic inclusion
+- Championed policies that ensure all families are treated with dignity and have a fair shot
+Westside Community Investment
+- Delivered funding for schools, parks, libraries, and neighborhood infrastructure
+- Invested in early childhood facilities, youth programs, and workforce development
+- Supported trails, open space, and quality-of-life improvements across the Westside

@@ -1,0 +1,21 @@
+top of page
+ENDORSEMENTS
+Associated Builders & Contractors of MI (ABC MI)
+The Michigan Freedom Network
+Great Lakes Education Project (GLEP)
+Michigan Farm Bureau
+Michigan Chamber of Commerce
+Monroe County Deputy Sherriff's Association
+Police Officers Association of Michigan
+Michigan Retailers Association
+Michigan Health Choice Alliance
+Michigan Home Builders Association
+Senator Dale Zorn - MI 17th
+Mark Brant: Monroe County Commissioner - Chairman Dist #2
+Randy Richardville: Monroe County Commissioner- Vice Chair Dist #5; Past MI HOR; MI Senate Majority Leader
+Gary Wilmoth: Erie Township Supervisor
+Dave Swartout: Monroe County Commissioner - Dist #9
+Proudly created by WowVault
+Paid for by the: Committee To Elect Will Bruck
+10406 Cemetery Rd Erie, MI 48133
+bottom of page

@@ -1,0 +1,2 @@
+BARNSTABLE – From Barnstable Fire: The Barnstable Fire Department is pleased to announce that it has been awarded a $1,386,845.10 Fiscal Year 2025 Staffing for Adequate Fire and Emergency Response (SAFER) Grant through the Federal Emergency Management Agency (FEMA).
+The three-year grant will provide partial federal funding for the salary and benefits associated with the addition of six career firefighter positions to the Barnstable Fire Department.

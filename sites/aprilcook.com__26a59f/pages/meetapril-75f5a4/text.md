@@ -1,0 +1,21 @@
+Meet April
+About April
+As a proud fourth-generation North Carolinian with family roots in Montgomery County, I have called Concord home for over 30 years.
+I studied business at North Carolina State University and received my MBA from Meredith College in Raleigh.
+I raised my family in Cabarrus County and have spent my life grounded by faith, community, and service.
+For more than two decades, I have put those values into action as Co-Founder and Executive Director of the Lake Norman Community Health Clinic, now the Cook Community Clinic, where I have helped thousands of uninsured North Carolinians access affordable, quality care.
+Today, the clinic continues to grow and adapt to the needs of our neighbors, providing over 6,000 medical appointments for more than 1,600 patients annually with the help of private and community partners.
+We’re also proud to hold a Gold Rating from the National Association of Free and Charitable Clinics Quality Standards Program.
+While leading the clinic, I have also served on the Board of the NC Association of Free and Charitable Clinics (NCAFCC) for 10 years, including two as Board Chair.
+In 2022, I was named CEO of the NCAFCC, where I represent and advocate for all free and charitable clinics across North Carolina—continuing my lifelong mission to ensure that no one goes without care.
+I also chair the Board of Directors for the Translational Health Institute of the Safety Net in North Carolina, a nonprofit research organization focused on advancing health equity across the state.
+I am also passionate about volunteering at local churches, and I’ve led mission trips in Guatemala and Haiti.
+Recognized with honors like the Charlotte Business Journal’s Excellence in Healthcare Award and Business Today’s Top Women in Business, I’ve proven what compassionate, hands-on leadership looks like.
+Now, I’m running for North Carolina Senate District 34 to bring that same effective leadership to Raleigh—because every North Carolinian deserves dignity, opportunity, and access to care.
+For more than two decades, my job was to show up for people who had nowhere else to turn — to listen to them, understand what they needed, and work to meet that need without regard to politics or personal gain.
+That is the same standard I will hold myself to in the North Carolina Senate.
+Too many politicians in Raleigh have lost sight of who they are there to serve, prioritizing partisan battles and their own interests over the everyday concerns of the people who elected them.
+I don't intend to be one of them.
+My role will be to stay grounded in the community I come from, remain accessible and accountable to the people of Cabarrus County, and use my seat to solve real problems.
+Public service should mean exactly that: service to the public, first and always.
+Titles and affiliations of each individual are provided for identification purposes only.

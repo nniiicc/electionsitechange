@@ -1,0 +1,1 @@
+As your State Representative, I will bring an independent perspective, uphold conservative values, and pursue common-sense solutions that strengthen public safety, improve education, protect taxpayers, invest in infrastructure, and support our community.

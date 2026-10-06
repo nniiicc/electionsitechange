@@ -1,0 +1,26 @@
+Skip navigation menu
+Assembly Candidate, Victor Hernandez, Advances to General Election in an Historic Primary Win in Competitive CA AD-59 Primary
+[Brea, California] — July 14, 2026 – Victor Hernandez secured his place in the November 5 general election for California's 59th Assembly District, finishing second in Orange County’s top-two primary behind incumbent Republican Phillip Chen.
+With both candidates moving forward, Orange County voters will decide the seat's future in this important Assembly District’s legislative race.
+Official election results show Hernandez capturing approximately 33.7% of the vote, with more than 126,000 ballots cast across the district.
+This June’s 40.3% turnout among registered voters represents a marked increase from prior primary cycles.
+This is a historic victory for the Green Party.
+Hernandez is only the fourth candidate in the party's history to advance in a primary for higher office.
+Since California switched to top-two ("jungle") primaries in 2010—a reform that ended traditional partisan primaries for state and district offices—critics argue the system has disadvantaged independent candidates and alternative parties with less funding.
+“Now more than ever the impact of corruption is surfacing and folks are clearly seeing the connection between that and local issues we face every day.
+I think that’s what we saw with our historic primary results.
+While I'm grateful for the thousands who believed in our campaign during this primary, the real work begins now," said Hernandez reflecting on his decisive win.
+"Our grassroots campaign challenges the status quo backroom dealings and corporate influence in Sacramento.
+On November 3rd, voters will choose between worsening conditions or real, positive change for working families in our district.”
+The campaign garnered support from large numbers of volunteers and is actively seeking small-dollar donations to enable robust digital and direct mail outreach campaigns heading into the fall season.
+Hernandez and Chen will compete head-to-head in the general election.
+Hernandez is already scheduled to host town halls and various community events throughout August focused on affordable housing costs, universal healthcare, and environmental protection investments for safe and thriving communities across the 59th Assembly District.
+For more information on Victor Hernandez's full platform, visit his website: https://www.victorforassembly.com/
+Support the mission: donate, volunteer, and follow on social media.
+Victor's campaign rejects corporate influence in favor of grassroots power.
+From affordable housing and healthcare-for-all to defending immigrants and our communities, Victor is putting the needs of California’s working families and small businesses above corporate greed.
+PRESS RELEASE
+---
+Contact information:
+https://www.victorforassembly.com/
+@victorforassembly (Instagram/Facebook)

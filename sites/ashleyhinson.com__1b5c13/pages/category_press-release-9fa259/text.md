@@ -1,0 +1,19 @@
+by Addie Lavis | Oct 3, 2026 | Press Release
+Marion, IA – Ashley Hinson launched a new ad for the general election today, “Doug.” The ad is set to air on broadcast, streaming, and digital platforms across Iowa. [Watch Here] “I’ve been a Democrat my entire life, and I’m supporting Ashley Hinson.
+She’s honest, she...
+by Addie Lavis | Oct 2, 2026 | Press Release
+Marion, IA – Ashley Hinson launched a new ad for the general election, “False.” The ad is set to air on broadcast, streaming, and digital platforms across Iowa. [Watch Here] “Josh Turek is lying.
+Ashley Hinson doesn’t own a single share of public stock, and she voted...
+by Addie Lavis | Sep 25, 2026 | Press Release
+Marion, IA – Ashley Hinson today released her policy priorities to quickly lower costs and make life more affordable for hardworking Iowans, outlined below.
+Hinson spoke alongside Story County farmer Dave Struthers and Iowa mom Deb Stoner on the importance of...
+by Addie Lavis | Sep 22, 2026 | Press Release
+Marion, IA – Yesterday, the Iowa Corn Growers Association endorsed Ashley Hinson for U.S.
+Senate pointing to her record of delivering results for Iowa corn farmers and securing House passage of year-round E15.
+“I’m honored to earn the endorsement of the Iowa Corn...
+by Addie Lavis | Sep 21, 2026 | Press Release
+Marion, IA – Today, Ashley Hinson released the following statement outlining efforts to immediately lower gas and diesel prices for Iowans.
+“Iowans are being squeezed and shouldn’t have to foot the bill at the pump or the checkout line for the war in Iran.
+We...
+by Addie Lavis | Sep 18, 2026 | Press Release
+Turek Believes Preventing Tax Hikes on Iowans is a “Threat” Grimes, IA – Yesterday, local leaders and Iowa taxpayers gathered in Grimes to express their support for Iowa Amendment 1 and denounce Josh Turek’s vote to make it easier for politicians to raise their...

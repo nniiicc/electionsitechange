@@ -1,0 +1,15 @@
+Home
+About Me
+Issues
+Endorsements
+PA’s 40th District
+Contact
+Endorsements
+Elected Officials
+Bethany Hallam, Allegheny Council At-Large
+Alex Rose, Allegheny Council At-Large
+Dan Gryzbek, Allegheny County Councilman
+Paid for by Friends of Jon Lloyd
+Contact
+412-346-8143
+hello@jlforpa.com

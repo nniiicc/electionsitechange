@@ -1,0 +1,10 @@
+As organizer of “Citizens for a Better Prince George’s County”, I have been fighting tax rate hikes in Prince George’s County imposed by actions of the County government, which I believe are in violation of the local county charter that requires prior voter approval before any such increase is allowed.
+County property owner see this emerge as an item marked “Supplemental Education” on their bill which adds some 4% to the overall amount.
+Since 2016, this property tax rate increase, imposed without voter approval, exceeds the tax cap and voter referendum requirement set in 1978 by County Charter 812 and 813, known as TRIM.
+In imposing this increase, County Executive Rushan Baker believes that this is permitted under 2012 State Senate Bill 848, “Education – Maintenance of Effort”, which purports to give him the authority to ignore the will of the people and TRIM due to it purports to target county “education” funding.
+In response to this, however, two County homeowners, James Wass and Fred Price, filed a law suit in 2016 to stop this end run around the TRIM provision of the county charter.
+And, soon thereafter, my PG Citizens organization began raising awareness and funds to support this cause of lawful taxation through citizen accountability.
+And, on December 13, 2017, Circuit Judge Dawson heard arguments on this suit in Upper Marlboro by the various county attorneys, as well as the attorney for the home owners, Bruce Johnson, Esq.
+Following the hearing, in January 2018, Judge Dawson issued a brief order in favor of the County, stating that Senate Bill 848 permits the County to override the limitations and referendum requirements under TRIM.
+Happily, the homeowner plaintiffs are now taking appeal to this lower court ruling, to hopefully overturn Judge Dawson’s decision in favor of TRIM as the prevailing authority in this matter.
+And, through Citizens for a Better Prince George’s County, I will continue to lead efforts to raise funds and awareness for this cause to finally restore the necessary restrains on property tax rate increases in the county through enforcement of the local TRIM provision of the county charter.

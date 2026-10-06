@@ -1,0 +1,21 @@
+Van Drew to Allegedly ‘Moderate’ Dems: “WHERE THE HELL HAVE YOU BEEN?”
+April 20, 2022 —
+By United States Congressman Jeff Van Drew (R – South Jersey)
+As Biden’s poll numbers continue to plummet and Election Day nears, I can’t help but ask this group of allegedly ‘moderate’ Democrats suddenly willing to buck their party’s leadership a very simple question – “WHERE THE HELL HAVE YOU BEEN FOR THE LAST FEW YEARS?”
+Where were you during the Summer of 2020 when American cities from Philadelphia to Portland burned and Democrat leaders championed the movement to DeFund the Police?
+Where were you during the Coronavirus Pandemic when Democrat Governors locked down their states shuttering millions of small businesses for good or when Democrat legislators imposed crippling vaccine mandates, databases, and passports?
+Where were you when President Biden canceled the Keystone XL Pipeline, ended American energy independence, and called for the end of fossil fuels driving energy prices to historic highs?
+Where were you when this Administration decided to hand Afghanistan over to the Taliban nearly twenty years to the day the Twin Towers fell on September 11th, 2001?
+Where were you when the votes came on federalizing and using taxpayer dollars to fund elections, beginning to implement the Green New Deal, or on Biden’s Socialist spending spree better known as ‘Build Back Better.’
+And, where have you been as runaway inflation continues to squeeze the middle class making it virtually impossible for working families to make ends meet?
+We all know the answers so while it may be April, the American people are not going to be fooled.
+If these suddenly ‘moderate’ Democrats are serious, it’s time to stop ‘talking the talk’ and ‘start walking the walk.’
+Don’t just talk about securing the border, join us in overriding Speaker Pelosi by finally bringing votes to the House floor on extending Title 42, enshrine the policy of Expedited Removal into law, and finally appropriate the money to complete President Trump’s border wall.
+Don’t just talk about lower gas prices, join us in overriding Speaker Pelosi by passing legislation requiring the Biden Administration to restart construction of the Keystone XL pipeline and finally unleash the power of American Energy both at home and abroad.
+Don’t just talk about supporting our brave men and women in Law Enforcement, join us in overriding Speaker Pelosi and passing legislation to withhold federal funding from Democrat-led cites and other jurisdictions that vote to Abolish Prisons, DeFund the Police, or simply refuse to prosecute and incarcerate violent criminals.
+Don’t just talk about the need to get parents more involved in their kids’ education, join us in overriding Speaker Pelosi and passing the “My Child, My Choice” Act which I’ll be introducing next week to stop the Radical Left from teaching children as young as six years old about ‘gender identity’ and ‘gender change’ without parental consent.
+It’s not too late to change course and join House Republicans in the fight to defend the America we know and love.
+As the saying goes, it’s time for these suddenly ‘moderate’ Democrats to either lead, follow, or get the Hell out of our way come Election Day…
+###
+United States Congressman Jeff Van Drew represents New Jersey’s 2nd Congressional District in Congress and is seeking re-election with the distinction of being New Jersey’s ONLY Trump Endorsed Conservative!
+Jeff was re-elected in 2020 by a 52%-46% margin over Democrat Amy Kennedy after withstanding an unprecedented $12+ Million assault in a district where Democrats had outnumbered Republicans by more than 18,000 voters making him the first and only Republican ever to defeat a Kennedy at the Federal level.

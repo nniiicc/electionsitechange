@@ -1,0 +1,19 @@
+Mustello Announces $1.4 Million PENNVEST Loan for Chicora Borough Waterline Project
+July 15, 2026
+BUTLER – Rep.
+Marci Mustello (R-Butler) on Wednesday announced Chicora Borough Council will receive a $1.4 million low-interest loan from the Pennsylvania Infrastructure Investment Authority (PENNVEST) to support vital water system improvements in Butler County.
+The loan will be used to install 6,000 feet of new waterline of various diameters.
+The project will also include new residential meter pits, meters and service connections; fire hydrant replacements; isolation valves in the work areas; full replacement of the waterline beneath Buffalo Creek; and valve vault modifications at the borough’s water tank site in Donegal Township.
+“This funding will help Chicora Borough make the kinds of water system upgrades that are essential to reliable service and public safety,” said Mustello.
+“Replacing aging waterlines, improving hydrant access and updating service connections will strengthen the system for residents, businesses and emergency responders.”
+PENNVEST provides financial assistance in the form of grants and low-interest loans for the design, engineering and construction of publicly and privately owned drinking water, storm water, and wastewater facilities across Pennsylvania.
+Representative Marci Mustello
+11th Legislative District
+Pennsylvania House of Representatives
+Media Contact: Chris Comisac
+717.772.9845
+ccomisac@pahousegop.com
+RepMustello.com / Facebook.com/RepMustello
+Sign Up to Receive Legislative Email Updates
+Keep up-to-date on the latest legislative and community news.
+Your email address will be used strictly for legislative purposes.

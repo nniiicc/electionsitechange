@@ -1,0 +1,7 @@
+Embedded Files
+My name is Colin Savage, I come from a working-class family in Terra Alta, West Virginia, and I am running for the House of Delegates 84th district.
+I am a lifelong resident of Preston County, and I am running for the House of Delegates because throughout my life and time being an advocate for the common good, I have seen an economy that works for the wealthy few, a state government that acts on behalf of corporate and establishment interests, and the common working people being too often left behind and their interests and needs being ignored.
+The people of Preston County and all of West Virginia deserve leaders who will put West Virginians first, and Washington D.C. last.
+Page updated
+Google Sites
+Report abuse

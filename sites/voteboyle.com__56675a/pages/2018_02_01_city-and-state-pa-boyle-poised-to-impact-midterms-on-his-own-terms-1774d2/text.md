@@ -1,0 +1,54 @@
+Even when US Rep.
+Brendan Boyle has fun with his job, he’s on the job.
+Exhibit A: the Standardizing Testing and Accountability Before Large Elections Giving Electors Necessary Information for Unobstructed Selection Act, which would require “nominees of each political party to file a report with the Federal Election Commission certifying that he or she underwent a medical exam by the Secretary of the Navy,” was arguably the most elaborate anagram to ever throw shade at a president.
+He’s been taking advantage of his beloved Philadelphia Eagles’ Super Bowl run, engaging in the de rigueur regional betting and trash-talking with Joe Kennedy III, the Massachusetts Congressman who delivered the Democratic response to last night’s State of the Union address by President Donald Trump.
+He even participated in a celebratory “E-A-G-L-E-S!” chant at Washington, DC’s only Wawa during the NFC Championship – drawing attention to the regional powerhouse’s southward expansion and the government shutdown at the same time.
+For the Congressman from Pennsylvania’s 13th Congressional District, even the knowledge that he’ll be able to watch the Super Bowl with his wife, Jennifer, their 4-year-old daughter, and family and friends at home in Northeast Philadelphia doesn’t take away the sting of that latest failure of leadership on Capitol Hill – especially since he knows nothing has changed to prevent another shutdown when the current Continuing Resolution expires in a little more than a week.
+“I don’t think it has been resolved – just pushed off,” he said.
+“Unfortunately, the messaging got out that this is all about DACA” – the Deferred Action for Childhood Arrivals program, which Trump canceled, putting almost 700,000 “Dreamers” at risk of deportation – and squarely at the heart of the partisan divide.
+“And DACA is something I’m candid in fighting for – these are our fellow Americans.
+That said, DACA isn’t the only issue.
+Republicans do not have 208 votes to pass a four-year budget.
+And the reality is that CRs cost us money – just ask Secretary of Defense (James) Mattis.
+Republicans were pretty shrewd at saying that Democrats care more about illegals than keeping the government running.
+It wasn’t true, but sometimes they’re more effective at messaging than governing.”
+For someone who has only been an elected official for nine years, Boyle has a wealth of experience dealing with a Republican majority.
+The 40-year-old graduate of Notre Dame and Harvard’s Kennedy School of Government began his career in the GOP-dominated state House in 2009, representing the 170th District on his third attempt to win the seat.
+It was during his time in the General Assembly that Boyle found himself dealing with what would become one of the flashpoint issues of American politics: gerrymandering.
+“I was in the state House when the redistricting lines were drawn and passed,” he recalled.
+“I may be the only legislator in the country who can say he voted against the map that created the district he now represents in Congress.”
+Despite the level of uncertainty introduced by last week’s Pennsylvania Supreme Court ruling that the state’s congressional districts were unconstitutionally gerrymandered and must be redrawn by next month, Boyle wholeheartedly supports redistricting, regardless of its potential impact on his career.
+“This is a gerrymandered map that essentially locks in a 13-5 advantage for Republicans, even though we tend to be a 50-50 state – I hope the US Supreme Court strikes down gerrymandering for the entire country in June.
+As far as what that does for yours truly, my approach has been, ‘just hurry up and tell me where the lines are and I’ll run.’ I’m very proud of my record and I hope that much of my district stays intact.”
+While plans for his own race are up in the air until a resolution is reached on redistricting, Boyle, who has earned a reputation for shoe-leather campaigning, will be doing plenty of stumping for Democratic candidates across the country on behalf of the Democratic National Committee.
+He says that as one of the House’s younger members, he is being sent out to college campuses.
+The DNC also hopes his position as co-founder of the Blue Collar Caucus can help reverse the party’s calamitous loss of that demographic, as well as that of low-income whites, who in 2016 backed the GOP presidential candidate more decisively than wealthier whites for the first time ever.
+“It’s always nice to be asked” to participate in the election process, he said.
+He sees the 2016 election results and the subsequent efforts to reconnect with what had long been a reliable core constituency as validation of his decision to create the caucus in 2016 with Texas Congressman Marc Veasey.
+“There was a policy reason and a political reason to do so – we needed to come up with constructive policies to address really systemic problems we have in our economy that go back 20 years now.
+There were a number of traditionally Democratic areas in Pennsylvania, Michigan, Wisconsin and Iowa that had voted Democratic – for Barack Obama twice – and then voted for Donald Trump.
+I think it would be a mistake to give up on these areas.
+It’s not the right thing to do policy-wise and a mistake politically.
+We need to redouble our efforts in those areas, to show what the GOP really cares about is essentially rewarding billionaires – they just passed a tax plan that is a dramatic giveaway to the 1 percent.
+And now Paul Ryan wants to spend this year cutting Social Security and Medicare to help with the deficit problem that they just created.
+I’m confident that if we talk about issues like that, we can win back parts of Erie County, parts of Northeastern PA that we lost – and there are similar areas like these in Wisconsin and Iowa.
+We need constructive policies to address that and provide political solutions for voters who felt so disaffected that they were willing to give a total con man like Donald Trump their vote.”
+If it seems like Boyle spends a lot of time focused on President Trump and his policies – in print, on the news and most definitely on social media – it’s because he has more reasons than most Democratic lawmakers to push back against the administration’s agenda.
+His father immigrated to America from Ireland in 1970 – a fact that gives Boyle a relatively unique perspective on the immigration debate.
+“I’m one of the few members of Congress who is first-generation American-born,” he explained.
+“Candidly, I think I’m the only white first-generation born member of Congress, so I feel a special responsibility to say that immigrants in this day and age are getting picked on when other groups in the past were also picked on – and then went on to do great things.”
+Both his cultural background and his academic one – Boyle is an avowed student of American history and international affairs and foreign policy – also led him to make common cause with fellow Congressman Brian Fitzpatrick, a Republican, on bringing attention to issues of Irish sovereignty in the wake of Brexit.
+The pair co-authored an op-ed on the need to preserve the strides made in security and borders for Ireland during the negotiations over how the United Kingdom exits the European Union.
+“One of the greatest achievements of American foreign policy over the last 30 years is the Good Friday Agreement, when we worked with the British government, the Irish government and the local parties to forge a peace there, ending a decades-long conflict,” he emphasized.
+“Brexit puts that at risk, and too few on Capitol Hill are paying attention to that risk.
+I always think that – and this runs counter to popular opinion – when the US plays a diplomatic role, it tends to be for the better in the world.
+If we just have this Trumpian view of retreating within our own borders, it’s bad for the United States and it’s bad for the rest of the world.”
+With his progressive bona fides so clearly established, and with a high-profile role in what is sure to be a contentious election season looming, is there any chance of Boyle finding concord with the president like he has with Fitzpatrick – other than the fact that both men have sworn never to eat Oreos again after the chocolate crème cookie-maker’s parent company, Mondelez, pulled out of US production plants in 2015?
+In response, Boyle says he is cautiously optimistic about being able to work together with Trump on infrastructure.
+Rattling off a litany of grim statistics on the parlous state of the country’s infrastructure, including its D+ rating from the American Society of Civil of Engineers, he implies that cooperation isn’t a choice, but a necessity.
+“This is something the country desperately needs, especially in Pennsylvania, where we have more roads and bridges in need of repair than any other state,” he said.
+“So the fact that President Trump, coming from a Republican point of view, would talk about doing infrastructure in a big way, I always said this is an area where we could work together.
+Yet, here we are, a year later, there is still not one infrastructure bill from this administration introduced into Congress.
+It’s an area where, based on what he says, we agree – and if the actions should follow what he’s saying.”
+If not, it’s sure to be an opportunity for Boyle to come up with some creatively named legislation to try to force the issue.
+To read the original article, click here

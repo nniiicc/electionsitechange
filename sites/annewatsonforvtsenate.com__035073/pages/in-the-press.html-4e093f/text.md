@@ -1,0 +1,3 @@
+ANNE IN THE PRESS
+| https://vtdigger.org/election_brief/montpelier-mayor-anne-watson-launches-campaign-for-state-senate/?is_wppwa=true&wpappninja_cache=friendly https://www.timesargus.com/news/local/montpelier-mayor-announces-washington-county-senate-run/article_5ec48c03-8f60-5e7f-bd9c-89e1f3e3e348.html https://vermontbiz.com/news/2022/may/06/montpelier-mayor-anne-watson-run-state-senate https://www.timesargus.com/slider/ticket-to-myride/image_a38b447a-b527-5bf5-829b-07ae780f0215.html | https://montpelierbridge.org/2022/05/montpelier-mayor-anne-watson-announces-run-for-state-senate/ https://sustainablemontpelier.org/sharedmobility/AWatson/MyRideAWatson.mp4 |
+Paid For By Anne Watson For Vermont Senate, PO Box 120, Barre City, VT

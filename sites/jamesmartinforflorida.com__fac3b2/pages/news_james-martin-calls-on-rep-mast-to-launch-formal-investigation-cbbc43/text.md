@@ -1,0 +1,16 @@
+PRESS RELEASE
+James Martin Calls On Rep.
+Mast, House Foreign Affairs Committee Chair, to Launch Formal Investigation Into Hegseth’s Illegal Airstrikes on Venezuelan Vessels
+HOBE SOUND, FL — James Martin, national security expert, U.S.
+Coast Guard veteran, and Democratic candidate for Florida’s 21st Congressional District, is calling on Rep.
+Brian Mast to hold hearings or direct a formal investigation into the illegal airstrikes conducted in September.
+While on Fox’s Life, Liberty & Levin, Brian Mast claimed that Venezuela is an “imminent, proven, pervasive threat” when it comes to narcotics trafficking in the Caribbean.
+Yet according to the 2025 National Drug Threat Assessment, Mexico-based transnational criminal organizations remain the primary suppliers of illicit drugs, including fentanyl, for the U.S. market.
+Instead of focusing on root causes, Rep.
+Mast is supporting a dangerous regime change agenda that could embroil the United States in another foreign conflict for years to come.
+“The American people deserve to know why taxpayer dollars are being spent on reckless strikes on alleged drug trafficking vessels and potential military action against Venezuela while Florida families are facing underfunded schools, crumbling infrastructure, and rising costs,” said James Martin.
+“Rep.
+Mast, Chair of the Foreign Affairs Committee, has chosen to parrot partisan talking points instead of demanding accountability for these unlawful airstrikes.”
+Martin is the only candidate in the FL-21 race with national security policy experience, and is committed to bringing accountability, transparency, and a public-servant’s focus back to Washington on behalf of Florida’s 21st Congressional District.
+With proven leadership and a mission focused mindset that puts country over party, Martin is running for Florida’s 21st congressional district to lower the cost of living, fix the Treasure Coast’s clean water crisis, and strengthen the economy for everyone, no matter their politics.
+###

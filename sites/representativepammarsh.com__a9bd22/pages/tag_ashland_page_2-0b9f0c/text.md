@@ -1,0 +1,3 @@
+Millions coming for local solar projects through Rep.
+Marsh-sponsored legislation
+By MORGAN ROTHBORNE Rogue Valley Times Jun 8, 2023 Renewable energy projects throughout the state have been awarded millions in grant funding — and seven of the projects are in…

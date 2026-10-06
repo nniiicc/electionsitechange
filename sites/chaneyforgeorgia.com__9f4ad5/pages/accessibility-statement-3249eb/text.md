@@ -1,0 +1,26 @@
+At Chaney for Georgia, we are committed to ensuring that our website is accessible to people of all abilities.
+We strive to make our site user-friendly for everyone, including those with disabilities.
+If you encounter any accessibility barriers on our site or have any suggestions to improve accessibility, please contact us.
+Accessibility Statement
+This statement was last updated on [enter relevant date].
+We at Chaney for Georgia are dedicated to providing a website that is inclusive and accessible to all, including individuals with disabilities.
+What web accessibility is
+Web accessibility ensures that people with disabilities can perceive, understand, navigate, and interact with the web, and that they can contribute to the web.
+It also benefits others, including older people with changing abilities due to aging.
+Accessibility adjustments on this site
+We have designed this site with accessibility in mind, following the Web Content Accessibility Guidelines (WCAG).
+Our goal is to meet the AA level of conformance, making the site perceivable, operable, understandable, and robust for all users.
+We have incorporated various features to enhance accessibility, including:
+- - Providing alternative text for images
+- Ensuring color contrast for legibility
+- Limiting the use of motion on the site
+- Making audio and video content accessible
+- Structuring content with clear headings
+- Enabling keyboard navigation
+- Implementing a responsive design for various devices
+Contact Us
+If you encounter any accessibility issues while using our website, or if you have any suggestions to improve accessibility, please contact our accessibility coordinator:
+- [Name of the accessibility coordinator]
+- [Telephone number of the accessibility coordinator]
+- [Email address of the accessibility coordinator]
+- [Additional contact details if relevant / available]

@@ -1,0 +1,4 @@
+Mina Morita
+Former member of the Hawaiʻi House of Representatives and former chair of the PUC
+Talking story with Luke and reading his blog and articles has shown me several key qualities that would make Luke an excellent Kauai County Council member: his ability to analyze and discuss civilly complex issues, his thoughtfulness to look and understand at all sides, and his experience as a young small business owner, husband and father plus his concern for many young adults struggling to raise their families on Kauai.
+Luke is the next generation of Kauai leadership to give us a hopeful future.

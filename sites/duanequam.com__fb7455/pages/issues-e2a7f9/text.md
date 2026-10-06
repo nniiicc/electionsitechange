@@ -1,0 +1,27 @@
+Duane stands on a platform of:
+* Limited, Sensible Government
+* Fiscal Responsibility
+* Personal Responsibility
+* Free Enterprise
+These principles guide his legislative initiatives and votes.
+Public Safety
+Duane believes that the most fundamental function of government is keeping citizens and our property secure.
+Civil Rights and Rule of Law
+Duane defends the right to life, protects religious, political and economic liberties, and respects personal privacy and property to preserve civil rights and ensure that government treats all of its citizens equally under the law.
+Education
+Duane believes that parents are responsible for their children’s education and that parents, teachers and local school boards can make the best decisions about our children’s education.
+Families and Communities
+Duane recognizes the blessings that God has bestowed on this great Nation, the sanctity of human life, and the central role of the traditional family in our society.
+Duane works to defend those values in order to strengthen our families and communities.
+Natural Resources
+Duane believes that proper stewardship of our natural resources and agricultural lands is best achieved through sound science and adherence to property rights.
+State Budget
+For Minnesota’s budget, we should come together, set priorities, and not shirk from the hard work required.
+The only way to solve the budget is to:
+* fund the constitutionally defined responsibilities of the government
+* fund the needs of our state based on priority
+* fund core education equally for each student (with special or additional programs funded on their merits, separately and with a fixed expiration date)
+* stop spending when the money runs out
+Contribute your ideas on Duane’s Facebook page.
+Promote Economic Prosperity
+Duane believes in reducing the tax burden, exercising spending restraint, and creating and maintaining a fair, honest and competitive business environment to promote economic prosperity and once again make Minnesota the economic engine of the Upper Midwest.

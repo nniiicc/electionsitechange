@@ -1,0 +1,17 @@
+LEGISLATIVE DISTRICT 4, Ariz. — June 23, 2026 — Turning Point Action, the national grassroots organization founded by Charlie Kirk, has endorsed Representative Pamela Carter in her campaign for re-election to the Arizona House of Representatives in Legislative District 4.
+The endorsement adds one of the most active conservative grassroots organizations in the country to a coalition that already includes Arizona's leading law-enforcement organizations and elected officials.
+"I'm very grateful for the endorsement of Turning Point Action and to Charlie and Erika Kirk for building a coalition of strong communities, families, and American faith-based values." — Representative Pamela Carter
+A national movement behind a local mission
+Turning Point Action mobilizes conservative voters across the country through grassroots organizing, voter registration, and get-out-the-vote efforts.
+Its decision to back Representative Carter brings that nationwide network behind her LD4 re-election — boots on the ground, voter contact, and a movement built around faith, family, and community.
+"Thank you, Erika Kirk, for continuing Charlie's legacy into 2026," said Representative Carter.
+"And thank you to my team in LD4 for your unwavering commitment to keep a Republican majority in 2026."
+Shared values: faith, family, and freedom
+The endorsement reflects an alignment on the issues that have defined Representative Carter's first term — secure borders, support for law enforcement, low taxes for working families, parental rights, and a defense of the faith-based values at the heart of Arizona communities.
+One of a growing coalition
+Turning Point Action joins a coalition that already includes the Arizona Conference of Police & Sheriffs (AZCOPS), the Arizona State Troopers Association, Maricopa County Attorney Rachel Mitchell, and Maricopa County Sheriff Jerry Sheridan — a broad base of support spanning law enforcement, small business, and the conservative grassroots.
+About Turning Point Action: Turning Point Action is a national grassroots organization founded by Charlie Kirk that mobilizes conservative voters through community organizing, voter registration, and get-out-the-vote efforts.
+Learn more at tpaction.com.
+About Pamela Carter: Pamela Carter represents Legislative District 4 in the Arizona House of Representatives, where she serves as Vice Chair of the Public Safety Committee.
+A former Scottsdale small-business owner, she ran on a platform of secure borders, support for law enforcement, low taxes, and parental rights.
+Learn more at pamelacarter.com.

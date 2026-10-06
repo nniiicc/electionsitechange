@@ -1,0 +1,444 @@
+ENDORSEMENTS
+Add paragraph text.
+Click “Edit Text” to update the font, size and more.
+To change and reuse text themes, go to Site Styles.
+California Professional Firefighters
+“California’s emergency responders need leaders who understand that strong public safety starts with investing in the people who protect our communities.
+Paul Seo has shown throughout his career that he is committed to keeping families safe, and in the State Assembly he will fight to ensure firefighters, paramedics, and lifeguards have the resources they need to do their jobs safely and effectively.
+He understands the importance of emergency preparedness, disaster response, and partnering with local public safety professionals.
+California Professional Firefighters is proud to endorse Paul Seo for State Assembly because we know he will be a steadfast advocate for our members and the communities they serve.”
+United Nurses Associations of California / Union of Health Care Professionals
+“Nurses and frontline healthcare professionals support Paul Seo because he has a proven record of delivering results as an Army veteran, a corruption prosecutor, and Mayor.
+In the Assembly, we know that Paul will be the champion for quality, affordable healthcare that our patients deserve, and he will be a strong partner and advocate for healthcare professionals across California.
+United Nurses Associations of California/Union of Health Care Professionals is proud to endorse Paul Seo for State Assembly.”
+Planned Parenthood Advocacy Project LA County Action Fund
+"At a moment when reproductive freedom is under attack across the country, California needs leaders who will stand up and fight back to protect access to abortion, contraception, and all essential care.
+Planned Parenthood Advocacy Project Los Angeles County Action Fund is proud to endorse Paul Seo for Assembly because he understands the importance of high quality, affordable, and compassionate reproductive health care, particularly in underserved communities.
+Paul has dedicated his life to serving his country, his state, and his community, and we know he will bring that same commitment to the fight for reproductive freedom for all."
+Sierra Club
+"Paul has demonstrated a true commitment to environmental protection, and we are pleased to endorse his candidacy for the California State Assembly.
+We trust that he will continue to help protect California's air, water, and wild places."
+California Federation of Labor Unions
+“The California Federation of Labor Unions is proud to endorse Mayor Paul Seo for State Assembly because he understands that a strong economy is built by working people.
+As a son of immigrants, Paul knows firsthand the dignity of hard work and the importance of creating pathways into the middle class.
+He will fight to expand good union jobs, protect workers' rights, lower the cost of living, and ensure California's economy creates opportunity for everyone.”
+Association for Los Angeles Deputy Sheriffs
+"L.A.
+County’s Deputy Sheriffs proudly support Paul Seo for Assembly because we trust him to keep our families safe.
+As a City Councilmember and Deputy Attorney General, Paul has demonstrated an unwavering commitment to public safety and the employees that perform these duties 24/7, as exampled by his commitment to a fair bargaining process for ALADS members.
+"Paul is committed to improving public safety, strengthening emergency response, and ensuring justice for survivors and their families.
+We know that Paul will continue to be a champion for safer communities and a strong partner to local law enforcement in the Assembly."
+Los Angeles Police Protective League
+“Public safety is the foundation of strong communities, and Paul Seo has the experience and judgment to deliver results.
+As a West Point graduate, U.S.
+Army veteran, and prosecutor, Paul understands what it takes to create safer neighborhoods, support neighborhoods, and hold violent offenders accountable.
+The Los Angeles Police Protective League is proud to endorse Paul Seo for State Assembly because we know he will be a reliable partner in Sacramento — focused on recruitment and retention, common-sense reforms, and safer streets for the families of the 66th District.”
+Los Angeles County Professional Peace Officers Association
+"Paul Seo understands what it takes to keep our neighborhoods safe and ensure law enforcement has the tools and resources needed to protect our communities.
+His record of service as a West Point graduate, U.S.
+Army veteran, prosecutor, and community leader shows his commitment to public safety and to working in partnership with peace officers.
+The Los Angeles County Professional Peace Officers Association is proud to endorse Paul Seo for State Assembly because we know he will stand with law enforcement and prioritize policies that strengthen community safety."
+Asian Democrats of Los Angeles County
+“Paul Seo has spent his career holding powerful interests accountable and fighting to restore trust in government.
+At a time when our communities are facing rising anti-Asian hate and growing attacks on vulnerable families, that kind of leadership matters.
+The Asian Democrats of Los Angeles County is proud to endorse Paul for Assembly because we know he will fight for justice and make sure our community has a strong voice in Sacramento.”
+Los Angeles County Young Democrats
+"The next generation of Californians needs leaders who will fight for their future.
+Paul Seo is that leader.
+He has dedicated his life to public service and holding the powerful accountable.
+Paul understands the issues young people care about most: affordable housing, good-paying jobs, a clean environment, and a democracy worth fighting for.
+The LA County Young Democrats are proud to endorse Paul Seo for the 66th Assembly District, and we look forward to working alongside him to build a California that works for all of us."
+Stonewall Young Democrats
+“Paul Seo has spent his career standing up for justice and fighting corruption, and that’s exactly the kind of leadership our generation wants representing us in Sacramento.
+As a prosecutor, Paul has worked to hold the powerful accountable and protect vulnerable communities, and we know he will bring that same integrity and commitment to the State Assembly.
+The Stonewall Young Democrats are proud to endorse Paul Seo for the 66th Assembly District and look forward to working with him to advance equality, defend LGBTQ+ rights, and build a more inclusive future for all Californians.”
+California State Treasurer Fiona Ma
+"Paul Seo has a long history of standing up for what’s right — holding corporate polluters accountable and delivering results that improve quality of life for all Californians.
+As Mayor Pro Tem of Rancho Palos Verdes, he’s brought principled, effective leadership to the community he proudly calls home.
+I’m confident Paul will continue to fight for working families and California's future in the State Assembly, and I’m proud to support his campaign for the 66th Assembly District."
+Los Angeles County Supervisor Janice Hahn
+“I know Paul Seo and I believe he will be an effective member of the State Assembly.
+As Rancho Palos Verdes Mayor, a Deputy Attorney General, and an Army veteran, Paul has dedicated his life to giving back.
+He will bring both common sense and tirelessly work ethic to Sacramento.
+I am proud to endorse Paul Seo for State Assembly.”
+Assemblymember Al Muratsuchi
+"I endorse Paul Seo for State Assembly.
+Having represented the South Bay for 12 years, I believe Paul will continue to fight for South Bay priorities like good jobs, good public schools, safe neighborhoods, and clean air and water.
+As an Army veteran and an anti-corruption prosecutor, Paul will serve with integrity.
+I trust Paul to deliver for our South Bay communities as our next Assemblymember."
+Former Assemblymember George Nakano
+“Paul’s deep roots in the South Bay and commitment to public service stand out and will make him an exceptional Assemblymember.
+He knows what our communities deserve and will work hard to deliver the results we need.
+As a former member of the Assembly who proudly represented the South Bay, I’m excited to support Paul Seo for State Assembly.”
+Service Employees International Union (SEIU) California
+"SEIU California is proud to endorse Paul Seo for State Assembly.
+Paul grew up in a hard working immigrant family, served his country in the U.S.
+Army, and has dedicated his life to public service.
+He understands the challenges working families face because he has lived them.
+Paul is committed to expanding economic opportunity, strengthening union jobs, and investing in communities that are too often overlooked.
+In the Assembly, he will be a strong and reliable champion for the working class and a leader who never forgets where he comes from."
+International Alliance of Theatrical Stage Employees (IATSE)
+"IATSE is proud to endorse Paul Seo for State Assembly because he understands what it takes to protect and grow good-paying union jobs in California’s entertainment industry.
+At a time when our industry is facing serious challenges, Paul has shown a real commitment to keep production in California, strengthen labor standards, and ensure working families can continue to build careers with dignity.
+We’re confident Paul Seo will be a strong partner for IATSE members and for the future of union jobs in our state."
+Teamsters Joint Council 42
+“Raised in a working-class family that taught him the value of hard work and community, Paul Seo’s proven commitment to creating well-paying union jobs and building a stronger middle class makes him the clear choice for working families in Assembly District 66.
+From day one, he will tackle California’s biggest challenges with tenacity and expertise, expanding affordable housing, keeping our communities safe, and investing in a stronger economy that works for all Californians.
+Paul is the leader we deserve fighting for us in the State Assembly, and Teamsters Joint Council 42 is proud to endorse his campaign.”
+IBEW Local 40
+"IBEW Local 40 is proud to endorse Paul Seo for State Assembly in the 66th District.
+Paul has a proven record of standing up for working families and protecting good-paying union jobs.
+He understands the challenges faced by skilled trades workers and will be a strong voice for labor in Sacramento.
+We are confident Paul will fight tirelessly for the communities of the 66th District and the hardworking men and women who power them."
+Painters and Allied Trades District Council 36
+"As the son of Korean immigrants and an electrician who found opportunity at a union shipyard, Paul Seo understands the power of standing with workers.
+He’s committed to ensuring others have that same shot at the American Dream by fighting for investments in apprenticeship programs, fair wages, and good-paying local jobs that strengthen every community.
+The Painters and Allied Trades District Council 36 proudly endorses Paul Seo for State Assembly because we know he’ll be a relentless champion for working families."
+United Steelworkers Local 675
+"We need more leaders who will fight for working people in the State Assembly.
+That's why the United Steelworkers Local 675 is proudly endorsing Paul Seo for State Assembly District 66.
+Paul will advance a pro-worker and pro-jobs agenda in the state legislature.
+We know he will be a strong partner with our members and working women and men across the 66th District."
+IAM District 947
+“IAM District 947 is proud to endorse Paul Seo for State Assembly.
+Paul has been a trusted ally to working people and understands the importance of protecting and expanding good union jobs.
+He has the integrity and leadership we need in the Assembly and we look forward to working with him to build a stronger future for all Californians."
+California Asian American & Pacific Islander (AAPI) Legislative Caucus
+“The California Asian American & Pacific Islander (AAPI) Legislative Caucus is proud to endorse Paul Seo for State Assembly.
+Paul has been a steadfast advocate for AAPI communities and he will fight to make life more affordable for working families, protect our neighborhoods, and ensure that the voices of our communities are heard and respected.
+We are confident that Paul will work tirelessly to create a better future for all Californians.”
+Association of Deputy District Attorneys of Los Angeles County
+“Paul Seo is one of us, a public servant who has dedicated his life to keeping our communities safe.
+As a deputy district attorney, Paul stood on the front lines against gang violence, gun crimes, and burglaries, working closely with local law enforcement to improve public safety and protect the neighborhoods we call home.
+"A US Army Veteran and now as a deputy Attorney General — Paul has a vast set of public safety experiences and we know he is the best choice for Assembly District 66.
+We urge voters to join the Association for Deputy District Attorneys — and support Paul Seo for State Assembly.”
+Long Beach Police Officers Association
+“The Long Beach Police Officers Association is proud to endorse Paul Seo for State Assembly.
+As a Deputy Attorney General and prosecutor, Paul has worked on the front lines to protect communities like Long Beach and understands the public safety challenges facing our neighborhoods and small businesses.
+He knows what it takes to address retail theft and gun violence that impact Long Beach residents every day.
+We trust Paul Seo to be a strong advocate for Long Beach and the 66th District, and a reliable partner in Sacramento who will keep our communities safe.”
+California Association of Highway Patrolmen
+"We need more public safety leaders in the State Assembly.
+That's why the California Association of Highway Patrolmen (CAHP) is proud to announce our endorsement of prosecutor Paul Seo for State Assembly District 66.
+Paul has dedicated his life to public service.
+A US Army veteran, former prosecutor in the Los Angeles County District Attorney's office and now as a deputy Attorney General, Paul is a law enforcement leader who has proven himself as a leader who can partner with local and state police.
+We know he will be a champion for public safety in the legislature."
+California Narcotic Officers’ Association
+“Paul Seo has dedicated his life’s work to protecting our communities and our nation.
+A US Army veteran, career-long prosecutor as a deputy district attorney and deputy attorney general, as well as a local elected leader, Paul Seo has always prioritized public safety.
+That’s why the California Narcotics Officers Association is proud to endorse Paul Seo for State Assembly.
+We know he will be a partner with us in the legislature to ensure our communities are safe and secure.”
+U.S.
+Senator Adam Schiff
+"With a proven track record of service — as a councilman, a veteran, and a deputy attorney general--Paul has consistently fought for our communities, protected individual rights, took on corporations, and led with integrity.
+His unwavering commitment to doing what's right and delivering results for people make him the best choice for State Assembly."
+California State Attorney General Rob Bonta
+“I’m proud to endorse Paul Seo for State Assembly.
+At the Department of Justice, Paul and I have worked side by side to keep our communities safe, combat gun violence, and hold those who abuse their power accountable.
+Paul understands that public safety means standing up to corruption, protecting civil rights, and defending the rule of law, especially in the face of the Trump Administration’s lawless attacks on our communities and our democracy.
+He brings integrity, toughness, and a deep commitment to justice to everything he does, and I know he’ll be a powerful advocate for the people in the Assembly.”
+U.S.
+Senator Andy Kim
+"Paul and I have been blessed with achieving the American dream, because we have a shared American story: immigrant parents who worked tirelessly so that their kids could have a better life.
+Paul has embodied public service as a way of life and has been paying it forward by ensuring the American Dream is within reach for all families.
+Throughout his years of service as a U.S.
+Army Veteran and prosecutor targeting corporate fraud and political corruption, he has a proven record of taking on tough fights, delivering real solutions, and serving California with honesty and integrity.
+I look forward to his campaign's success and I'm excited to endorse him for State Assembly."
+Congresswoman Judy Chu
+"When I first ran for office, it was to ensure that all voices in our community could be heard and represented.
+Paul Seo carries that same spirit of service.
+He has worn our nation’s uniform, protected our neighborhoods, and earned the trust of those he serves.
+At a time when our future depends on leaders who are both honest and effective, Paul represents what is possible when integrity guides action.
+I believe he will not only represent us well, but inspire hope and deliver results for a stronger, safer, and more united California."
+Congressman Dave Min
+"I’m proud to endorse Paul Seo for California’s 66th Assembly District.
+His journey is a story of service and the pursuit of the American Dream.
+From the Army to the courtroom, and to city council, Paul has earned the respect of his community through leadership and integrity.
+Paul Seo is the person I trust to champion small businesses, protect our environment, and defend our values.
+His voice in the State Assembly will not only bring much-needed Korean American representation but will also ensure that all communities have a dedicated leader fighting for a stronger, more inclusive California.”
+State Senator Lena Gonzalez, Latino Legislative Caucus Chair
+“We need more leaders like Paul Seo in the state legislature.
+A US Army veteran, deputy district attorney, deputy attorney general, a local mayor pro tem, a father and more, Paul has a dynamic background and a broad set of experiences.
+I know he will be an effective leader for the people of the 66th Assembly District.
+I am proud to endorse Paul Seo for Assembly.”
+Assembly Democratic Caucus Chair Rick Chavez Zbur
+“Paul Seo is exactly the kind of leader we need in the Assembly: a veteran, prosecutor, mayor, father, and son of immigrant small business owners who understands how to get things done for working families.
+Paul has spent his life putting service to country and community before self, and he will bring a results-driven approach to lowering costs, protecting our environment, expanding access to health care, defending our fundamental freedoms, and creating good-paying jobs.
+I am proud to endorse Paul for State Assembly because I know he will be a strong Democratic voice for the South Bay and a committed partner in building a more affordable, more just California.”
+Assembly Majority Whip Mark González
+"Paul Seo has dedicated his life to service--as a veteran, Mayor Pro-Tem, and a Democratic leader.
+He understands the challenges our communities face and will be the bold, compassionate voice we need in the State Assembly.
+With a proven track record of leadership, Paul will fight tirelessly to help working families get ahead, protect our rights and Democratic values, and deliver real results for our community.
+His commitment to public service and ability to bring people together make him the right choice for this moment.
+I am proud to endorse him for Assembly."
+Assembly Assistant Majority Whip Jessica Caloza
+“Paul Seo is a true champion for working families who will fight every day to make California more affordable.
+As an Army veteran and local leader, he’s dedicated his life to public service.
+From keeping our neighborhoods safe as a Deputy Attorney General to helping small businesses grow on the Ranchos Palos Verdes City Council, Paul has always fought to improve our communities.
+Having grown up working in his family’s small business, Paul knows firsthand how hard it is for families to make ends meet.
+He knows that too many Californians are being priced out of the communities they helped build, and he’ll tackle the housing, cost-of-living, and wage challenges head-on.
+That's the kind of leadership we need in Sacramento and that's why I'm proud to support Paul Seo for State Assembly.”
+Assemblymember Mike Fong, AAPI Legislative Caucus Chair
+“Paul Seo has dedicated his career to serving our communities with integrity.
+The son of immigrants and small-business owners, Paul learned early the value of hard work and giving back, lessons he carried with him when he served our country in the U.S.
+Army.
+He understands the economic challenges facing working families and will be a tireless advocate for those who have been impacted the most by grocery and housing prices going up.
+"In the State Assembly, Paul will champion good-paying jobs by working with labor and business to keep middle-class families thriving.
+He will fight inflation by working to lower the costs of housing and food, and he’ll work to keep our communities safe with strong law-enforcement and fire-service support.
+I’m proud to support Paul Seo for the 66th Assembly District because he has the experience, compassion, and determination to deliver real results for our communities.”
+Assemblymember Stephanie Nguyen, AAPI Legislative Caucus Vice Chair
+"Paul Seo understands the unique challenges facing AAPI Californians and has shown a clear commitment to serving our communities.
+As a State Assemblymember, he will champion equity, opportunity, and policies that support working families and strengthen our neighborhoods.
+I am proud to back Paul’s campaign and I look forward to working with him to move California forward."
+Assemblymember Patrick Ahrens
+“I’m proud to support Paul Seo for State Assembly.
+Paul comes from a working-class family and understands that education is the key to opportunity.
+He knows not every path looks the same, and that’s why he’s a strong advocate for career technical education and expanding access for every student.”
+Assemblymember Anamarie Ávila Farías
+“From serving our country in the U.S.
+Army to standing up for justice in the courtroom and leading at the local level, Paul Seo has devoted his life to serving others.
+His commitment, compassion, and results-driven leadership embody the very best of public service.
+I’m proud to endorse Paul Seo for State Assembly.”
+Assemblymember John Harabedian
+“Like Paul, I served as a Deputy District Attorney with a focus on fairness and protecting our communities.
+Paul brings those same values to his work as a public servant and to safeguarding California’s environment now and for future generations.
+From clean air and sustainability to safe neighborhoods, he understands that environmental protections are essential to public safety.
+I look forward to working alongside him in Sacramento to build a safer, more livable California.”
+Assemblymember Blanca Rubio
+“Paul Seo brings the kind of grounded, community-first leadership we need in Sacramento.
+As the son of immigrant small business owners, Paul understands the hard work, sacrifice, and opportunity that power our local economies.
+He will fight to make California more affordable, improve public safety, grow our local economy, and create more opportunities for the next generation.
+I’m proud to endorse Paul because he will listen, lead with purpose, and deliver for the people of Assembly District 66.”
+Assemblymember Nick Schultz
+“With our experience as Deputy District Attorneys and Deputy Attorneys General, Paul Seo and I share a deep commitment to public safety and a justice system that works for everyone.
+Paul has spent his career serving our community and strengthening accountability — from corporate polluters to those who abuse their power.
+I’m supporting Paul Seo for State Assembly because we need leaders like him committed to making California safer for all.”
+Assemblymember José Luis Solache, Jr.
+“Paul Seo’s story is a California story — the son of immigrants, Paul has served our country in uniform, protected the public as a corruption prosecutor, and stepped up to lead his city as mayor.
+That kind of lived experience matters in the Assembly, where the decisions we make affect whether families can afford to stay in their homes, access good jobs, and feel safe in their neighborhoods.
+I’m proud to support Paul because he will bring a deep commitment to service and a strong focus on results to Sacramento.”
+Former California State Treasurer & Attorney General Bill Lockyer
+"Paul Seo doesn’t just talk the talk — he’s delivered results.
+As a former Attorney General and Assemblymember, I’ve seen what it takes to lead effectively, and Paul has it.
+He’s prosecuted corporate crime, protected our environment, and prioritized public safety.
+With his leadership as Deputy Attorney General and Mayor Pro Tem, Paul brings a perspective that’s both principled and practical — and I’m proud to support his campaign for State Assembly."
+Former Assemblymember David Chiu
+“Paul Seo represents precisely the kind of new leadership we need in the State Assembly.
+A lifelong public servant, Paul has served our nation in the US Army — and on the frontlines as a prosecutor where he has worked tirelessly to keep local neighborhoods safe.
+His dynamic background coupled with his deep experience as a local leader make him highly qualified to serve the people of the 66th District.
+I am pleased to give him my wholehearted support.”
+Los Angeles County Assessor Jeff Prang
+“At a time when too many families are being squeezed by rising costs, we need leaders who understand how policy decisions impact people’s everyday lives.
+Paul Seo has spent his career approaching tough problems with seriousness, integrity, and a clear sense of responsibility — as an Army veteran, Deputy Attorney General, and local mayor.
+I know Paul will be a strong voice for LA County in the Assembly, and I’m proud to support his campaign.”
+Redondo Beach City Councilmember Zein Obagi
+"Paul Seo grew up in the South Bay and truly understands what matters to our families.
+He is focused on protecting our coast, supporting small businesses, and creating real opportunities for our communities.
+We share a vision for safe neighborhoods, a healthy environment, empowering local governments to serve residents and a sustainable economy that works for everyone.
+That’s why I’m proud to endorse his campaign for State Assembly."
+Torrance City Councilmember Bridgett Lewis
+"The South Bay needs a champion who will take action to strengthen public safety and protect our environment, which is why I'm proud to endorse Paul Seo for State Assembly.
+His thoughtful approach to public policy and deep commitment to service make him well-prepared to represent us."
+Palos Verdes Unified School District Board Member Eric Alegria
+"I've seen firsthand how Paul has led our community with dedication and purpose on the Rancho Palos Verdes City Council, and I know he will continue to work hard for us in the State Assembly.
+He has a clear vision to support the needs of students, teachers, and families and he will ensure access to career technical education that prepares the next generation for real-world success.
+Please join me in voting for Paul Seo for State Assembly!"
+LACDP Vice Chair Jacob Haik*
+"As a resident of this district and a lifelong Democrat, I'm pleased to endorse Paul Seo for State Assembly.
+Paul is a dynamic public servant who not only knows our community but has been part of the fight to make it better.
+His experience as an Army Veteran, Deputy Attorney General, and Mayor Pro Tem, combined with his work in the Democratic Party and deep roots to the South Bay, make him the best choice for State Assembly."
+Former LACDP Chair Jimmie Woods Gray*
+“Paul Seo has dedicated his life to public service, from defending our communities as a Deputy Attorney General to serving veterans and families as a local leader,” said Woods-Gray.
+“His integrity, experience, and deep commitment to justice make him exactly the kind of leader we need in Sacramento.
+I’m proud to endorse Paul because I know he’ll stand up for working people, protect our civil rights, and deliver results for the South Bay.”
+ENDORSEMENTS LIST
+Organizations
+- California Professional Firefighters
+- Planned Parenthood Advocacy Project Los Angeles County Action Fund
+- Los Angeles County Young Democrats
+- Asian Democrats of Los Angeles County
+- Stonewall Young Democrats
+- Pilipino American Los Angeles Democrats (PALAD)
+- SEIU California
+- International Union of Painters and Allied Trades District Council 36
+- Association of Deputy District Attorneys of Los Angeles County
+- Teamsters Joint Council 42
+- International Brotherhood of Electrical Workers Local 40
+- International Association of Machinists and Aerospace Workers District 947
+- California Narcotic Officers' Association
+- United Steelworkers Local 675
+- California Association of Highway Patrolmen
+- California Asian American & Pacific Islander (AAPI) Legislative Caucus
+- Sheet Metal, Air, Rail, Transportation Workers (SMART) Local Union 105
+- Association for Los Angeles Deputy Sheriffs (ALADS)
+- Los Angeles County Professional Peace Officers Association (PPOA)
+- Los Angeles Police Protective League (LAPPL)
+- Los Angeles School Police Management Association
+- Long Beach Police Officers Association
+- International Alliance of Theatrical Stage Employees (IATSE)
+- California Fraternal Order of Police
+- Laborers’ International Union of North America (LiUNA) Local 1309
+- Torrance Police Officers' Association
+- Pilipino Action Center
+- Asian Americans for Good Government-PAC
+- California State Council of Laborers' International Union of North America (LiUNA)
+- California Police Chiefs Association (CPCA)
+- Inlandboatmen’s Union of the Pacific
+- California Correctional Peace Officers Association (CCPOA)
+- International Longshore and Warehouse Union (ILWU) Local 13
+- International Longshore and Warehouse Union (ILWU) Local 63
+- International Longshore and Warehouse Union (ILWU) Local 94
+- International Longshore and Warehouse Union (ILWU) Southern California District Council
+Federal & State Elected Leaders
+- U.S.
+Senator Adam Schiff
+- U.S.
+Senator Andy Kim
+- Congressmember Judy Chu, Chair Emerita, Congressional Asian Pacific American Caucus
+- Congressmember Dave Min
+- Congressmember Jill Tokuda
+- California Attorney General Rob Bonta
+- California State Treasurer Fiona Ma, CPA
+- California State Attorney General (Ret.) Bill Lockyer
+- State Senator Lena Gonzalez, Latino Legislative Caucus Chair
+- State Senator Christopher Cabaldon
+- Assembly Speaker Robert Rivas
+- Assembly Speaker Pro Tem Josh Lowenthal
+- Assembly Democratic Caucus Chair Rick Chavez Zbur
+- Assembly Majority Whip Mark González
+- Assembly Assistant Majority Whip Jessica Caloza
+- Assemblymember Mike Fong, AAPI Legislative Caucus Chair
+- Assemblymember Stephanie Nguyen, AAPI Legislative Caucus Vice Chair
+- Assemblymember Patrick Ahrens
+- Assemblymember Anamarie Ávila Farías
+- Assemblymember Jesse Gabriel
+- Assemblymember John Harabedian
+- Assemblymember Maggy Krell
+- Assemblymember Al Muratsuchi
+- Assemblymember Blanca Rubio
+- Assemblymember José Luis Solache, Jr.
+- Assemblymember Nick Schultz
+- Assemblymember Lori Wilson
+- Assembly Speaker Emeritus & Senate Majority Leader (ret.) Bob Hertzberg
+- Assemblymember (Ret.) George Nakano
+- Assemblymember (Ret.) Mike Eng
+- Assemblymember (Ret.) Mike Gatto
+- Assemblymember (Ret.) & Former California Asian American & Pacific Islander Legislative Caucus Chair David Chiu
+- Assembly Speaker, LA City Council President (Ret.) Herb Wesson, Jr.
+- Assemblymember (Ret.) Phil Ting
+Local Elected Officials
+- Los Angeles County Supervisor Janice Hahn
+- Los Angeles County Assessor Jeff Prang
+- Los Angeles City Councilmember Tim McOsker
+- Gardena Mayor Tasha Cerda
+- Hermosa Beach Mayor Mike Detoy
+- Hermosa Beach Mayor Pro Tem Michael Keegan
+- Hermosa Beach City Councilmember Ray Jackson
+- Hermosa Beach City School District Board Member Rachel VanLandingham
+- Lomita City Councilmember James Gazeley
+- Lomita City Councilmember Mark Waronek
+- Palos Verdes Estates City Councilmember Derek Lazzaro
+- Palos Verdes Estates Mayor (Ret.) and City Councilmember Kenny Kao
+- Palos Verdes Peninsula Unified School District Board Member Eric Alegria
+- Rancho Palos Verdes City Councilmember Barbara Ferraro
+- Rancho Palos Verdes City Councilmember George Lewis
+- Redondo Beach City Councilmember Scott Behrendt
+- Redondo Beach City Councilmember Zein Obagi, Jr.
+- Redondo Beach City Councilmember Chadwick Castle
+- Redondo Beach Unified School District Board President Byung Cho
+- Redondo Beach Unified School District Board Vice President Raymur Flinn
+- Rolling Hills Estates City Councilmember Pam Brown Schachter
+- Rolling Hills Estates City Councilmember Britt Huff
+- Rolling Hills City Councilmember Leah Mirsch
+- Torrance City Councilmember Bridgett Lewis
+- Torrance City Councilmember Dr.
+Jeremy Gerson
+- Torrance Mayor (Ret.) Patrick Furey
+- Torrance Unified School District Board President and Torrance City Councilmember-Elect Betty Lieu
+- Torrance Unified School District Board Member James Han
+- Torrance Unified School District Board Member Anil Muhammed
+- Torrance Unified School District Board Member Dave Zygielbaum
+- Alhambra Vice Mayor Jeffrey Koji Maloney
+- Buena Park Mayor Joyce Ahn
+- Burbank Mayor (Ret.) Todd Campbell
+- Cerritos Mayor Frank Aurelio Yokoyama
+- Culver City Unified School District School Board Member Lindsay Carlson
+- Diamond Bar Councilmember Andrew Chou
+- Diamond Bar Councilmember Stan Liu
+- Dublin Councilmember John Morada
+- Fullerton Mayor and Councilmember Fred Jung
+- Irvine Mayor and City Councilmember (Ret.) Sukhee Kang
+- Los Angeles City Councilmember John Lee
+- Los Angeles City Councilmember Katy Yaroslavsky
+- Los Angeles City Councilmember (Ret.) David Ryu
+- Los Angeles Community College District Trustee Kelsey Iino
+- Manhattan Beach City Councilmember Nina Tarnay
+- Manhattan Beach City Councilmember Amy Howorth
+- Manhattan Beach Mayor Richard Montgomery (ret.)
+- Manhattan Beach Unified School Board Member Jen Dohner
+- Manhattan Beach Unified School Board Member Tina Shivpuri
+- Manhattan Beach Unified School Board Member Wysh Weinstein
+- Millbrae Mayor Anders Fung
+- Monterey Park City Councilmember Henry Lo
+- Monterey Park City Councilmember Thomas Wong
+- Mountain View Mayor Ellen Kamei
+- Mountain View School District Board Member Cindy Wu
+- Pasadena Area Community College District Board Trustee Alton Wang
+- Pasadena Area Community College District Board Trustee Ryan Liu
+- Pasadena Unified School District Board Member Patrice Marshall McKenzie
+- Pinole Mayor Cameron Sasai
+- San Bernardino Mayor Helen Tran
+- San Leandro Vice Mayor Xouhoa Bowen
+- San Gabriel Councilmember Jorge Herrera Avila
+- San Mateo-Foster City School District Board Trustee Gene Kim
+- Santa Ana Councilmember Thai Viet Phan
+- Santa Clara City Councilmember Kevin Park
+- Saratoga Councilmember and former Mayor Yan Zhao
+- Washington Unified School District Trustee Jackie Thu-Huong Wong
+- Water Replenishment District Director Rob Katherman
+- West Hollywood City Councilmember Danny Hang
+- Ventura Councilmember Ryyn Schumacher
+Community Leaders
+- Jenny Bach, Former Secretary, California Democratic Party (CADEM)*
+- Connie Sullivan, CADEM Regional Director & LACDP 66th AD Chair*
+- Cory Allen, CADEM Regional Director & LACDP Region 7 Vice Chair*
+- Jennifer Kumiyama, CADEM Disability Caucus Vice Chair*
+- Tony Hale, CADEM Executive Board Member, 66th AD*
+- Alton Wang, CADEM Resolutions Committee Member*
+- Jimmie Woods Gray, Former LACDP Chair & LACDP Regional Vice Chair*
+- Assemblymember Mark Gonzalez, Former LACDP Chair*
+- Jacob Haik, LACDP Vice Chair & Committee Co-Chair*
+- Patt Sanders, LACDP Vice Chair*
+- Susan Sheu, LACDP Recording Secretary*
+- Shanna Ingalsbee, LACDP Corresponding Secretary*
+- Suzanne Reina, LACDP Regional Vice Chair*
+- Jane Wishon, LACDP Committee Co-Chair*
+- Patricie Marshall-McKenzie, LACDP 43rd AD Vice Chair & Committee Co-Chair*
+- Joana Reyes, LACDP 41st AD Chair & Committee Co-Chair*
+- Thomas Wong, LACDP 49th AD Chair & Monterey Park Councilmember*
+- Henry Lo, LACDP 49th AD Vice Chair & Monterey Park Councilmember*
+- Steve Kang, LACDP 54th AD Chair*
+- Elizabeth Hennes, Former LACDP Operations Director*
+- Ben Tarzynski, Former LACDP 66th AD Delegate*
+- Dency Nelson, CADEM 66th AD Delegate*
+- Moira Nelson, LACDP Delegate, 66th AD*
+- Tim Dixon, President, Palos Verdes Democrats*
+- Larry Donahue, Membership Chair, Palos Verdes Democrats*
+- Gregory C.
+O’Brien, Chair, Rancho Palos Verdes Civic Center Advisory Committee*
+- John Tye, Member, Rancho Palos Verdes Traffic Safety Committee (Former CHP Officer)*
+- Dr.
+Kit Song, Member, Rancho Palos Verdes Traffic Safety Committee*
+- Raquel Brown, Former Chair, Rancho Palos Verdes Finance Advisory Committee*
+- Linda Cohu, Member, Rancho Palos Verdes Civic Center Advisory Committee*
+- Eric Nulman, Chair, Rancho Palos Verdes Planning Commission*
+- Emile Mack, Former Deputy Chief, Los Angeles Fire Department*
+- Paul Klose, Member, Rancho Palos Verdes Civic Center Advisory Committee*
+- James Powers, Retired Captain, Los Angeles County Sheriff’s Department*
+- Hanley Chan, Commissioner, San Francisco Veterans Affairs Commission*
+- Tim Allison, Executive Director, Oxnard Federation of Teachers and School Employees*
+- James Sprinkel, Chair, Rancho Palos Verdes Emergency Preparedness Committee*
+- Wouter van Biene, Member, Rancho Palos Verdes Emergency Preparedness Committee*
+- Dr.
+Nyree Berry, City of Torrance Environmental Quality and Energy Conservation Commission*
+*Title for identification purposes only

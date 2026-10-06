@@ -1,0 +1,82 @@
+Wendy McNamara Has Spent Her Life Serving Others
+Hoosiers can do great things.
+We need leadership that will focus on individual liberty and a smaller more responsive government.
+Wendy McNamara has spent her life serving others.
+Growing up, Wendy always knew she wanted to help others.
+As an educator, Wendy has made a positive impact on the lives of countless young people here in Southwest Indiana.
+Now Wendy serves as our state representative and is once again making a positive impact for Southwest Indiana.
+Wendy has been an outspoken advocate for smaller and smarter government.
+Wendy believes a limited government focused on empowering the individual will lead to an economic recovery and create private sector jobs for our friends and neighbors.
+Wendy is the conservative leader we need for today and for the next generation.
+Education & Occupation
+Director of Early College High School
+Education:
+Undergrad in Political Science – University of Indianapolis
+Teacher Certification – Valparaiso
+Masters in Educational Leadership – University of Southern Indiana
+Experience:
+Indiana Congressional District 8 We the People: Constitution, Coordinator
+Executive Board Member for the Indiana Association for Supervision and Curriculum Development (IASCD)
+Committee Member for the National Council for the Social Studies (NCSS) Program of Excellence
+Member:
+Association for School Administrators (ASA)
+Indiana Association of Secondary School Principals (IASSP)
+National Association of Secondary School Principals (NASSP)
+Program of Excellence Committee Member
+Posey County Republican Women’s Club
+Policies
+HEA 1416: Credit time & discharge of life long-term inmates 2011
+SEA 465: Department of Child Services 2011
+SEA 286: Department of Child Services 2012
+HEA 1108: Sentencing alternatives for youthful offenders 2013
+HEA 1110: School capital project funds (CPF) 2013
+HEA 1111: Tactical emergency medicine 2013
+HEA 1151: Blue alert program 2013
+HEA 1064: Study of career and technical education programs 2014
+HEA 1141: Methamphetamine lab disclosure in property sales 2014
+HEA 1213: Career and technical education; dual credit courses 2014
+SEA 32: Public official bonding 2014
+HEA 1196: CHINS and deliquent child dual determination 2015
+SEA 289: Confidential victim services requests 2015
+SEA 324: Various child support matters 2015
+SEA 532: Human trafficking, promoting prostitution, and adult entertainment performers 2015
+HEA 1199: Human trafficking 2016
+HEA 1369: Juveile justice 2016
+HEA 1370: Dual credit teachers 2016
+SEA 17: Child abuse prevention fee and domestic violence prevention and treatment fee 2016
+SEA 172: Regulation of private clubs 2016
+SEA 187: Overdose intervention drugs 2016
+SEA 271: Drug enforcement, treatment, and prevention 2016
+HEA 1218: Juvenile justice 2017
+HEA 1396: Teacher licensing for military spouses 2017
+HEA 1535: Study of law enforcement training matters 2017
+SEA 55: Drug or alcohol screening tests 2017
+SEA 323: Animal protective orders and wireless service providers 2017
+HEA 1228: Data concerning youth in adult court 2018
+HEA 1230ss: School safety 2018
+SEA 60: Out of state sex or violent offenders 2018
+SEA 223: Information provided by health practioners 2018
+SEA 233: Foster parent bill of rights 2018
+SEA 402: Juvenile reports 2018
+HEA 1004: School safety 2019
+HEA 1053: Disabled Hoosier veteran license plate 2019
+HEA 1057: Vanderburgh County magistrate 2019
+SEA 110: Drug dealing 2019
+SEA 114: Vanderburgh County magistrate 2019
+SEA 186: Traffic crimes 2019
+SEA 240: Terrorism 2019
+SEA 380: Supported decision making 2019
+SEA 519: Criminal law issues 2019
+SEA 551: Victims of criminal acts 2019
+SEA 631: Drug classifications and drug schedules 2019
+Personal Life
+Currently, she serves as the Director of Early College High School.
+This is a position she has truly been innovative in by developing a model for high school students who simultaneously earn both a high school diploma and an Associate’s degree or two years of college credit toward a Bachelor’s degree.
+She has served as an adjunct professor for World History at the University of Southern Indiana and has taught Political Science and Social Studies Methods at the University of Evansville.
+Wendy served as Constitution Coordinator for the Indiana Congressional District 8 ‘We the People’ and as an Executive Board Member for the Indiana Association for Supervision and Curriculum Development (IASCD).
+Through her dedication and passion for education, she has earned many prestigious awards.
+In 2009, Wendy received the Lawrence Senesh Award for School Administrators from the Indiana Council for Economic Education.
+She has been the Who’s Who Among America’s Teachers for years, 2004, 2005 and 2006.
+She was the nominee for the Evansville Courier and University Evansville High School Teacher of the Year for the 2004-2005 school year and as a finalist for the 2002-2003 school year.
+Wendy was the Bosse Teacher of the Year for the 2001-2002 school year and received the Indiana National Guard Nighthawk Educator Award in 2000 and in 2006.
+Throughout her tenure as a representative, Wendy will continue to advocate for pro-business polices, education and the creation a better Hoosier state.

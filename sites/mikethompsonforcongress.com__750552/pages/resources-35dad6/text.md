@@ -1,0 +1,15 @@
+Last Updated: September 17th, 2026
+Voters especially in the new parts of CD-04 need to see and read that Eric Jones’
+venture capital firm, Dragoneer, profited from companies fined hundreds of millions of
+dollars.
+This includes healthcare companies that repeatedly denied patient coverage,
+including emergency care, violated patient privacy laws, and preyed on seniors by
+illegally running up medical bills.
+These voters also need to hear that Eric Jones lied when he told voters he isn’t a
+venture capitalist and isn’t worth millions of dollars.
+The truth is he was a partner in a
+venture capital firm and had as much as $30 million invested with his company, which
+also paid him $1 million over the past year.
+Jones also reported owning up to a million dollars
+in stocks, and in Congress would have access to government information that he could
+use to enrich himself.

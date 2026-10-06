@@ -1,0 +1,62 @@
+Current or Former Elected Leader Endorsements
+As of October 25, 2020
+- Joe Biden, Vice President of the United States of America
+- Kamala Harris, U.S.
+Senator, California
+- Dana Nessel, Attorney General, Michigan
+- Haley Stevens, U.S.
+Congresswoman, MI-11
+- Kristy Pagan, State Representative HD21 (Incumbent, term limited)
+- Matt Koleszar, State Representative HD20
+- Darrin Camilleri, State Representative HD23
+- Alex Garza, State Representative HD12
+- Dayna Polehanki, State Senator District 7
+- Kevin McNamara, Van Buren Township Supervisor
+- Abdul El-Sayed, Progressive Activist, 2018 Gubernatorial Candidate
+- Melissa Daub, Wayne County Commissioner District 10
+- Al Haidous, Wayne County Commissioner District 11
+- Kelly Bates, Belleville City Council
+- Ken Voigt, Belleville City Council
+- Kevin Martin - Van Buren Township Trustee
+- Leon Wright, Van Buren Township Clerk
+- Anupam Chugh Sidhu, President of Plymouth-Canton Community Schools Board of Education
+- Anil Kumar, Wayne State Board of Governors
+- Dan Centers, Livonia School Board Trustee
+- Madison Bjertness, Livonia Library Commission
+- Sam Singh, Former Minority Leader of the Michigan House of Representatives
+- Tom Smith, Former Belleville City Council
+Labor & Group Endorsements
+As of October 18, 2022
+- United Automobile Workers (UAW) Region 1A
+- Michigan Education Association (MEA)
+- Service Employees International Union (SEIU Michigan)
+- Michigan League of Conservation Voters (Michigan LCV)
+- American Federation of Teachers (AFT) Michigan
+- Michigan Regional Council of Carpenters and Millwrights
+- The Detroit Free Press
+- The Detroit News
+- Michigan AFL-CIO Advocates
+- Planned Parenthood of Michigan
+- Michigan Nurses Association
+- AFSCME Council 25
+- The Sierra Club
+- International Brotherhood of Electrical Workers (IBEW) Local 58
+- The International Union of Bricklayers and Allied Craftworkers Local 2 of Michigan
+- Michigan Building and Construction Trades Council
+- Roofers Union Local No. 149
+- Iron Workers Local Union No. 25
+- Sheet Metal Workers Local 80 (SMART)
+- Michigan Professional Fire Fighters Union
+- Run For Something
+- New American Leaders Action Fund
+- Progressive Caucus of the Michigan Democratic Party
+- Michigan Asian American Progressives
+- Moms Demand Action Gun Sense Candidate Distinction
+- Emgage
+- South Asians for America (SAFA)
+- Small Business Association of Michigan (SBAM)
+- Greater Metropolitan Association of REALTORS® (GMAR)
+- Indian American Impact Fund (IMPACT)
+- LiUNA
+- Equality Michigan Action Network
+- Canton Democratic Club

@@ -1,0 +1,25 @@
+America's City
+I love NYC too much to give up on it
+I believe that New York City is America's city.
+From Seattle to Sarasota, I believe that America has a strategic interest in maintaining the vibrancy of New York City and preserving the Big Apple as the center of global enterprise.
+None of us can afford to write off New York City, and as New Yorkers, we have a duty to preserve New York City as the center of Western civilization.
+I have traveled to all 50 states of our beautiful country and have found that there is much more that unites us than divides us.
+I believe that the vast majority of Americans are focused on providing for their family, protecting their children, and ensuring their children have the opportunity to pursue their version of the American Dream.
+The Goal of Government
+The aim of government should be to empower
+With your support, and as your next Congresswoman, I will:
+Empower people to achieve their fullest potential without government interference
+Create the conditions for people to build wealth and prosperity, essential to enabling freedom and independence
+Protect Americans and their livelihoods from crime, foreign threats, and economic mismanagement
+Stop seizing and redistributing opportunity.
+Government should enable, not control
+Generate an overabundance of opportunity for all New Yorkers and all Americans
+"Together, let us rebuild our city with excellence, accountability, and economic empowerment."
+Caroline Shinkle
+America's City
+The moment of change
+Too many have already lost patience with New York City and have abandoned our city and state for others, taking with them employment opportunities and tax revenues that sustain our community services.
+Throughout history, socialism and collectivism have never led to positive outcomes.
+It is time to stop experimenting with failed ideologies and start betting on ourselves again.
+We are a nation of builders, not dependents.
+Let us rebuild New York.

@@ -1,0 +1,2 @@
+James Marter for Congress, running in Illinois’ 14th Congressional District, visits with Steve Gruber, Host of Real America’s Voice Live, during CPAC 2022.
+Topics covered include the coming Red Wave, the Democrats’ failed energy policies, supply chain problems, overspending and inflation, the border crisis, Adam Kinzinger and the need to replace Lauren Underwood by flipping IL14 and electing another Freedom Caucus Candidate from Illinois: James Marter to Congress.

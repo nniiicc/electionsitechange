@@ -1,0 +1,143 @@
+WHERE DAVE BUSHAW STANDS ON THE ISSUES
+Iowa today looks a lot different than the Iowa that I grew up in.
+Manufacturing was shipped overseas, corporate monopolies bought our farmland and polluted our waters, and billionaire private equity firms turned homeownership into a nightmare.
+Iowa is not hurting because we failed — it’s because Congress serves the Ruling Class while rural working people get sold out — not forgotten, not overlooked: sold out.
+I’m not running for Congress to fit into that system - I’m running to break through it and we’re bringing the whole damn Working Class with us.
+I’m not owned by either of the corrupt parties, their billionaire owners, SuperPACs, and definitely not AIPAC.
+I’m running because nobody should have to leave the place they love just to make a living.
+My only loyalty is to the Working Class and the people who live here — this means that my policies are built with and for you.
+Iowans live these challenges everyday, and I trust Iowans know the solutions.
+I want to hear from you as this campaign grows.
+To share your thoughts, questions, and solutions about these policies, contact us at info@davebushaw.com
+The American Guarantees
+- Private taxes (premiums, copayments, and deductibles) are taxes imposed by private industry on Americans for the healthcare they need to remain healthy and productive members of our society.
+One out of every four Americans, 85 million of our neighbors and family and friends, are either uninsured or underinsured due to prohibitively expensive copayments and deductibles.
+Americans spend more per capita than the rest of the world on healthcare to the tune of $13,000 annually.
+Despite this, the United States ranks 14th in healthcare globally, dead last in healthcare outcomes, and delivers us a lesser life expectancy than most other developed countries.
+In Iowa, more than 150,000 Iowans have no health coverage at all.
+I am committed to fighting for:
+- Eliminating Private Taxes Imposed by the For-Profit Health Insurance Monopolies
+- Abolishing Premiums, Co-Payments, and Deductibles in favor of a payroll tax and publicly accountable papertrail of spending on a Universal Healthcare Program through the Department of Health & Human Services
+- Universal Healthcare/Medicare for All
+- I support and endorse Senator Bernie Sanders’ policy and implementation plan as introduced under the Medicare for All Act in the Senate, alongside the House version sponsored by Representatives Pramila Jayapal and Debbie Dingell
+- We live in a country where, for the last nearly 100 years, labor unions have actively been under attack by the ruling class as well as numerous Federal Administrations.
+While a 2024 Gallup poll showed that 70% of Americans support unions, union membership has been declining since 1954, and with that, the share of the total income generated in this country has become even more consolidated in the hands of a very few rich people.
+The amount of income in working people’s pockets is less, and their opportunities to organize a union to demand better working conditions, wages, and benefits have been diminished.
+America was built by unions, and Americans overwhelmingly want to be in a union.
+In Congress, I will fight for a number of worker protections and changes to outdated and broken labor law including:
+- Substantial penalties for employers that break the law and violate established workers’ rights
+- Ending the ‘Right to Work’ scam that allows non-dues paying members to get all of the benefits of a union-negotiated contracts without contributing their fair union dues
+- Addressing worker misclassification loopholes that allow employers to abuse and deny workers what they are entitled to, including healthcare, benefits, and employee tax filing status
+- Amend the National Labor Relations Act to include federal labor protections for farm workers and all excluded workers to unionize
+- End Federal Road Swaps to ensure labor standards are maintained on federally-funded roads and bridges projects
+- In Iowa, about 1/4 of our state’s population lives in what is referred to as ‘childcare deserts.’ That means that 25% of Iowans live where childcare is unavailable or too expensive to afford.
+This number jumps significantly to 35% when looking specifically at rural Iowa communities.
+In Congress, I will support:
+- expanding early learning and headstart programs for working families, using the existing pre-K infrastructure and expanding resources to meet the needs of working families
+- passing the ‘Head Start for America’s Children Act’ to expand heartstart opportunities for 11 million Americans and allow working families to not have to leave their job to take care of their kids because of prohibitively expensive and unavailable private childcare
+Government Reform & Accountability
+- Twenty-six states have a form of citizen-initiated ballot measures that allow the general public to gather petition signatures and put a voting issue on statewide election ballots.
+In fact, our neighboring states of Nebraska and South Dakota were the first states in the nation to adopt these provisions into their state constitutions In Congress, I will:
+- work to secure legislation that creates citizen ballot referendums at a national level and give Americans the right to decide directly on issues.
+- Under this legislation, if each state collects a required number of signatures from registered citizen voters and submits these to the Federal government, the issue is put on the next general election ballot for all voters to consider and decide upon.
+If passed, our government would then be obligated to enact the will of the People.
+- In the years that immediately followed the pandemic, a foundational aspect to my organizing work was around the $350 billion American Rescue Plan Act (ARPA) State & Local Fiscal Recovery Fund (SLFRF).
+The most emphasized guidance was that this is a cash infusion into the economy for immediate needs, and discouraged spending on new construction that could carry recurring costs in the future.
+Unfortunately, in many cases, local elected decisionmakers across the country – including in Iowa – made spending decisions that one could argue were intended to enrich themselves or their friends rather than supporting frontline workers and emergency services.
+I will work with members of Congress to secure:
+- an independent investigation and audit on the spending of $350 billion in Covid Recovery funding under the ARPA SLFRF
+- Legal consequences for decision makers that were found to be spending taxpayers dollars to enrich themselves and their friends
+- The right to vote in America is something that should be celebrated every Election Day.
+Unfortunately, millions of Americans do not participate due to prohibitive work schedules and other commitments.
+There are mail-in and early voting options, but even those are not guaranteed solutions.
+To maintain a functioning democracy where our citizens can exercise their rights that we’ve fought so hard to win and fight to maintain, we have to make voting in-person as accessible as possible for as many Americans as possible.
+In Washington, I will fight to:
+- Make Election Day a federal holiday to strongly encourage in-person voting as strongly as possible, whenever possible.
+- It’s that simple.
+- In 1929, Iowa had 11 US House Representatives in Congress, with each representing an average of 227,000 Iowans.
+Today, Iowa only has 4 US House Representatives; one per nearly 800,000 Iowans.
+This is a direct diminishment in the political power of everyday Iowans.
+In Congress, I will:
+- Support updating the current congressional member limit to adequately provide accessible and accountable representation to Americans.
+Fighting Corporate Greed
+- Billionaires should not be allowed to exist in a country where 20 million Americans spend half of their income on housing, while a very few rich people at the top continue to scoop up our housing inventory and farmland, trailer parks, and our nursing homes across this country.
+Private equity firms are expected to control 40% of single-family rentals by 2030.
+In the last 20 years, first time home buyer numbers plummeted from 3.2 million in 2004 to 1.14 million in 2024, according to the National Association of Realtors.
+In 2004, the average home price in Iowa was $73,367; in 2024, the average home price in our state has more than doubled to $234,000.
+The median age for a first-time homebuyer is 38 years old right now in this country.
+Housing prices have risen nationally by nearly 50% since 2020 alone while mortgage rates have doubled in cost, and single-family rental cost has also increased by 30%.
+We have to name the enemies wrecking the housing market and driving up costs, we have to take on Wall Street and private equity firms like Blackstone and The Carlyle Group and break them up.
+In Congress, I will work to:
+- Equip the FTC to investigate private equity firm monopolization of housing and rental markets, including nursing homes and trailer parks
+- Pass new legislation to reverse the biggest betrayal of workers from the Clinton Presidency and reinstate a new 21st century Glass-Steegal framework, to separate commercial and investment banking, to protect workers’ wealth and their homes.
+- In the 2024 election, 100 billionaire families together spent a total of $2.6 billion in campaign contributions.
+That is two and a half times MORE than was spent during the 2020 election cycle.
+Overall, large contributions from billionaires has increased 160 times since the 2010 Supreme Court decision on Citizen’s United, allowing unlimited amounts of money to pour into our elections.
+In Congress, to protect our Nation and wrestle American Worker’s electoral power back from the grasp of the Elite Ruling Class, I support the ‘Democracy is for the People Amendment’ to the Constitution which will clarify:
+- the ability to make contributions and expenditures to influence the outcomes of public elections belong only to natural persons [in accordance with this Article.]
+- Lengthy terms and conditions agreements and privacy policies are just part of most of our lives in an era where corporations and businesses rely on legal protection protocols.
+But at the core of this, there is little consideration for the consumer, especially in offering them a digestible format to understand what they are signing off on.
+Corporations rely on inundating consumers with page after page of indecipherable legalize, knowing most of us do not have the time to read through these, and so, most often people don’t bother.
+To ensure the well-being of consumers and equip people with the power of understanding, I am calling for
+- Mandatory common sense disclaimers required for all terms and conditions agreements and privacy policies
+- One-page format, plain language summarization of the content within the full terms and conditions agreements and privacy policies
+- Over the last number of decades, the length of trains have more than doubled in the United States – now in many cases being up to 3 miles long – while the number of railroad employees has decreased by more than 28% from 2011-2021 for the United State’s largest railroad corporations.
+These two factors alone, longer trains and fewer railroad employees, are decisions made by railroad corporations to maximize profit while setting up the conditions for disaster in communities across our country.
+The East Palestine, Ohio disaster is a prime example of the crippling impacts on a community due to corporate greed coupled with outdated or nonexistent railroad regulation.
+Beyond isolated crises, the infrastructure of rail in the United States is diminishing the quality of life, safety, and economic growth for so many towns and cities across the US.
+Often, trains can block commercial and residential traffic for more than 30 minutes and completely block off access to communities, which we see right here in Iowa with Council Bluffs and La Porte City, among others.
+The Federal Railroad Administration does not regulate either train length nor the time a train can block a railroad crossing.
+States like Iowa and Ohio have passed legislation to regulate the time a train can block at-grade crossings, but Federal Preemption says that state law does not supersede the non-existence of federal regulatory measures, making these laws effectively unenforceable.
+In Congress, I will work with my colleagues, the Department of Transportation, and the Federal Railroad Administration to:
+- Apply national standard regulatory policies and enforcement regarding train length
+- Apply national standard regulatory policies and enforcement for the time trains can block at-grade crossings
+- Evaluate national railroad infrastructure, identify key issue areas through evaluation and local reporting mechanism, and invest in modernizing US railroad infrastructure
+- Update the federal definition of a ‘blocked at-grade rail crossing’ to not only include fully stopped trains, but also moving trains that disrupt the flow of commercial traffic for an extended period of time
+- Too often coastal elites have come to our rural communities to be extractive of our resources, and I can see the data centers as another glaring example of rural abuses.
+Recently, the federal administration issued an executive order titled ‘Ensuring a National Policy Framework for Artificial Intelligence’.
+This order blocks states from responding to the damages that careless development of this technology and infrastructure may have on our communities.
+The utility cost increases we are seeing for working families driven by grid upgrades and increasing overall energy consumption needs from data centers gives me pause and reason to look at these data centers more closely to determine who is really benefiting and who is losing with this emerging technology.
+This raises concerns with me about states’ rights and self-determination.
+It also prioritizes corporations and the ultra-wealthy rather than focusing on the needs of working people and Iowa residents, similar to what we’ve seen with the Iowa Utilities Board decisions on the carbon capture pipelines and imminent domain.
+The massive usage of public utilities, primarily water and electricity, with little return in job creation or manufacturing is a concern to me.
+Estimates also show that AI technologies could replace over 100 million jobs in the next decade in occupations ranging from truck drivers, fast food workers to teaching assistants and accountants.
+In Congress, I will:
+- Defend state and local rights to regulation on private expansion of data centers
+- Work with Iowa communities and other Congress members to develop a federal/local regulatory framework guidance
+- Evaluate the impact of emergent AI technology on US workforce and local utilities and gauge the direct benefit to everyday Americans, prioritizing local economic considerations
+Fighting the Wars at Home
+- Our current military budget is nearing $1 TRILLION every single year, three times the amount of China and six times the spending total of Russia, our two largest near-peer adversaries.
+The Pentagon is the only government agency to have successfully failed every independently-facilitated audit and are to this day incapable of accounting for more than $4.126 trillion in assets.
+As of 2024, the imperialist arm of the United States Military Industrial Complex has grown across the world to more than 750 military bases across 80 countries, while domestically 60% of Americans live paycheck to paycheck and 1 in 4 Americans are uninsured or underinsured.
+A significant portion of military spending is also allocated directly to other nations under annual legislation such as the National Defence Authorization Act.
+Most recent examples can be seen in the 2025 fiscal year NDAA funding for Israel, as noted by AIPAC, which provided $500 million for Israel’s Iron Dome, David’s Sling, and Arrow programs and $80 million for their “US-Israel anti-tunnel cooperation.” Here in the United States, one hospital bill can cripple a family financially without health insurance and we are giving American taxpayer dollars to a country – Israel – who guarantees healthcare to all of their citizens.
+I cannot see the logic in this, and is just one example of many where the Military Industrial Complex is directing US tax dollars abroad rather than to the benefit of America’s domestic wellbeing and stability.
+In Congress, I will:
+- work to build a bulwark of America First legislators, regardless of party or affiliation, who have the guts to take on the Military Industrial Complex.
+- Prioritize military spending domestically, on our own borders and territorial waters, rather than imperial conquest across the globe.
+- Critically evaluate the current military budgets, demand transparency and accountability in spending, and work to cut this military budget to strictly prioritize domestic defence.
+- I believe that if we intend to continue the experiment of being a Nation, strong borders are necessary.
+That said, as someone who grew up on Dukes of Hazard and Smokey & the Bandit, something doesn’t sit right with me about federal agents running around Iowa indiscriminately scooping up non-violent, undocumented farmworkers and their families.
+I worked at AgriSar Meat & Poultry in Postville as a teenager, and heard horror stories about the 2008 immigration raid; the largest workforce raid in US history at that time.
+I worked with young people whose parents went to work and never came home to their kids that day.
+We are a country of immigrants. 70% of our farmworkers were not born in the US and more than 42% do not have authorization to work in the US.
+This allows employers to pay these undocumented workers exploitative wages, and drives down wages for all workers in the industry – including American workers.
+Iowa is a state where a significant percentage of our workforce is undocumented: the American Immigration Council estimates that 31% of Iowa’s total immigrant population is undocumented and in critical roles in manufacturing, agriculture, and construction.
+In Congress, rather than funding for indiscriminate immigrant roundups that put our agricultural and manufacturing industries in Iowa at risk.
+As your Representative, I will advocate for:
+- Employ Americans to expand our naturalization programs and work with immigrant-dense communities and move non-criminal undocumented workers through a legal pathway to citizenship
+- This also means funding for programs to teach these community members English, and school programs to support education with bi-lingual student bodies
+- We are a country with guns.
+That is a cultural reality and is not unique to the US alone.
+What does set the United States apart in ways from other developed nations with an armed citizenry is the polarizing positions regarding gun reform that never lead to anything formative actually getting done.
+One side says ban "assault weapons," another says all hands off and individual responsibility.
+I think about this with an approach to tangible action rather than ideological hegemony.
+We are never going to confiscate all the weaponry that exists in our population, and I pray that no government ever successfully does disarm us; I do not think a mass confiscation program would hold up to a 2nd Amendment constitutional challenge.
+As a country with a cultural affinity and enshrined constitutional rights to arm oneself, I think the most realistic and deliverable approach is to ensure all Americans have every opportunity to learn and understand the utility and dangers of firearms.
+In Congress, I will work to guarantee:
+- Universal firearm and hunter safety classes to be an available elective program at all publicly-funded middle and high schools, colleges, and universities
+- Recreational use of marijuana is legal in 24 states, 3 US territories, and Washington D.C. itself (how ironic.) I believe the time has come to not only bring marijuana law at the federal level out of the dark ages, but to prioritize the growth of this industry to support communities most hurt by antiquated criminalization.
+In Washington, I will:
+- Decriminalize marijuana nationwide
+- Advocate for a full record expungement of non-violent marijuana convictions
+- Create a plan focused on supporting the rural and urban communities most impacted and hardest hit by marijuana criminalization

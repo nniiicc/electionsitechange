@@ -1,0 +1,13 @@
+by taylorwright | Aug 6, 2026 | News & Updates
+Free people solve problems, and free markets reward better solutions to save the Great Salt...
+by taylorwright | Apr 27, 2026 | News & Updates
+Three U.S.
+House Congressional District 4 candidates from different party backgrounds–Taylor Wright, Steven Burt and Seth Stewart host a live debate from the Utah Podcast Studio.
+Watch full...
+by taylorwright | Mar 13, 2026 | News & Updates
+I am excited to announce my run for Congress representing the 4th District as a Libertarian.
+Read...
+by taylorwright | Mar 25, 2025 | News & Updates
+Taylor Wright always thought that by now he’d be coaching the Dallas Cowboys.
+But today, he is an elementary physical education teacher at Ridge View Elementary in Herriman, Utah.
+As a nationally certified physical education teacher with a background in coaching...

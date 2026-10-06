@@ -1,0 +1,42 @@
+Past Newsletters
+2026
+2025
+- January 13: Energy Policy
+- January 23: Update from the Clerk
+- January 30: Higher Education Costs
+- February 6: Bills to Protect Minors
+- February 13: The Sky is Falling
+- February 20: School of Intellectual Freedom
+- February 27: The Iowa Constitution
+- March 6: Iowa Bill of Rights Amendments
+- March 13: Iowa Bill of Rights Section 3-6
+- March 20: What is true journalism?
+- March 27: Iowa Bill of Rights Section 7
+- April 3: Rights Protect those Charged with Crime
+- April 10: Iowa Bill of Rights Section 12-15
+- April 17: Property Tax Reform
+- April 21: Reducing Flood Damage in Iowa
+- April 24: The Iowa Legislative Process
+- May 1: Crafting a State Budget
+- May 29: Session End
+- June 26: Iowa Politics Today
+- September 4: DNR Annual Pheasant Survey
+- September 9: Campaign Announcement
+- September 11: Enduring the Triumph of Capitalism
+- September 18: Assasination Culture Emerging on the Left
+- October 2: School Administer License
+- October 16: Good News for State Revenue
+- October 23: Budgeting Prinicples
+- November 6: A Broken Washington DC
+- December 18: Iowa is Fiscally Sound
+- June 6: House Republicans Support Teachers
+- June 10: Help me stop Illegal Immigration
+- June 13: Iowan's Haven't Changed
+- July 3: Honoring the Votes Made
+- August 22: Iowa's Election Laws, Making it Easy to Vote, Hard to Cheat
+- August 29: My Summary of the Presidential Election
+- September 26: Democrats Out of Touch and Childcare
+- October 3: Democrats Propose Out of Touch Priorities
+- November 7: Let's Come Together
+- November 14: Taxpayer Trust Fund
+- November 21: Shop Locally and Support Small Businesses

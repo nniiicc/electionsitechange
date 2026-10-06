@@ -1,0 +1,4 @@
+Stelson is running against Perry for the second consecutive cycle, losing by roughly one percentage point in 2024.
+EMIGSVILLE, Pa. — Janelle Stelson held her first major event of the 2026 election year Tuesday, rallying supporters at an electrical workers union hall in Emigsville and unveiling an agenda she says is aimed at fighting corruption in Washington, D.C.
+The Democratic congressional candidate said the problem is embodied by the man she is running against in Pennsylvania’s 10th Congressional District, Republican Congressman Scott Perry, who she criticized for not holding an in-person town hall in seven years.
+Read the full article here https://www.fox43.com/article/news/local/york-county/janelle-stelson-scott-perry-stock-trading-epstein-citizens-united-term-limits/521-b97a3a2f-44c3-4f2c-bf57-f05d42ab7f0f

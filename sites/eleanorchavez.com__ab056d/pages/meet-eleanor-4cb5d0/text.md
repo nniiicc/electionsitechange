@@ -1,0 +1,22 @@
+MEET ELEANOR: A HISTORY OF LEADERSHIP
+Eleanor has never shied away from courageous leadership.
+She has led a storied career fighting for the rights of women, workers, children, families, and educators.
+Her focused experience is a testament to her dedication to what matters most.
+As a native New Mexican, she has a deep-rooted commitment to working hard towards innovative change that will uplift communities who need it most.
+Eleanor would be proud to represent the community where she raised her kids and work towards progressive change for HD 26.
+Eleanor is a union organizer, a former Public Education Commissioner, and now a Democratic State Legislator representing Albuquerque’s Westside.
+Eleanor Chavez: Experience and Values for Westside Families
+- State Representative, House District 26, 2023-Present
+- State Representative, House District 13, 2009-2012
+- Public Education Commissioner, 2015-2017
+- Bernalillo County Labor Board, 2016-2019
+- Former Executive Director, National Union of Hospital and Healthcare Employees District 1199
+- Former Assistant Director, American Federation of Teachers, Human Rights and Community Relations
+- Field Staff Representative, American Federation of Teachers
+- Organizer, AFSCME
+- Social worker, New Mexico Department of Human Services
+- Education consultant, New Mexico Community Foundation
+- Vice-Chair, Health Security for New Mexicans Campaign
+- Chair, Casa de Salud
+- MSW, University of Washington
+- BA, University of Washington

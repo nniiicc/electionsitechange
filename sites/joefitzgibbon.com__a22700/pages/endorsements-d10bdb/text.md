@@ -1,0 +1,26 @@
+Endorsements
+Elected Officials
+- Sen Emily Alvarado (34)
+- Rep Brianna Thomas (34)
+- Former Senate Majority Leader Sharon Nelson (34)
+- Former Senator Joe Nguyen (34)
+- Former Rep Eileen Cody (34)
+- Former King County Executive Dow Constantine
+- King County Councilmember Teresa Mosqueda
+- Former King County Councilmember Joe McDermott
+- Seattle School Board President Gina Topp
+Organizations
+- 34th District Democrats
+- WEA-PAC
+- SEIU Healthcare 1199NW
+- SEIU 775
+- SEIU 925
+- SEIU 6
+- Washington State Labor Council
+- Washington State Building and Construction Trades Council
+- AFT-Washington
+- Teamsters Local 117
+- WA Realtors
+- Washington Conservation Action
+- Sierra Club of Washington State
+- APRNs of Washington State

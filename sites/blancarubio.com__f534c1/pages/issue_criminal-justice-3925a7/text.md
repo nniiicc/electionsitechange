@@ -1,0 +1,13 @@
+Bail: Supervised Pretrial Release Programs (AB 789)
+Amends current Penal Code to allow judges the option to grant Own Recognizance (OR) release to felony arrestees with three or more Failure to Appears (FTA) without a hearing in open court if they are released into a court-approved pretrial release program.
+In exchange for doing so we would create a more efficient method for processing cases, increase the level of supervision for each case, and reduce the amount of jail overcrowding.
+Human Trafficking: Vertical Prosecution Program (AB 2124)
+Requires the state to allocate and award funds to up to 11 district attorney offices related to human trafficking crimes with a report that describes the counties that received funding, the number of prosecutions for human trafficking cases filed, the number of human trafficking convictions obtained by those counties, and the sentences imposed.
+Criminal Procedure: Protective Orders (AB 1281)
+This bill clarifies the vagueness in existing laws by explicitly allowing a court to dismiss an eligible case in appropriate situations and also keep the validly issued and unexpired 10-year criminal protective order in place until its natural expiration date.
+If, however, the court decides to terminate the protective order early or shorten the length of the order, this bill allows the court to exercise that discretion as well.
+Mandated Reporters: Statute of Limitations (AB 2274)
+This bill extends the statute of limitations to ensure mandated reporters report known or suspected child abuse and neglect seriously, specifically in cases of severe neglect.
+Mandated reporters are aware of their obligations, but because there is little to no enforcement many organizations develop a sense that there are no consequences or there exists a culture wherein the mandated reporting rules can be bent and altered by the specific organization.
+Juveniles: Care and Treatment (AB 866)
+Clarifies that youth in the foster care system, aged 16 and older, who are providing their own consent for medically assisted treatment do not need court approval.

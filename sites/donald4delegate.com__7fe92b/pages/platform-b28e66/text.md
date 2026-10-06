@@ -1,0 +1,41 @@
+DONALD DOES MORE FOR DISTRICT 4
+Platform
+Issue 1: Data Centers
+Jerry has consistently voted against data center expansion.
+He opposes overdevelopment and, as a lifelong resident of Frederick County, wants to preserve our local way of life.
+Learn more about on his position on data centers: https://www.donald4delegate.com/data-centers
+Issue 2: Raising Taxes
+Jerry is against raising taxes and has fought for taxpayer relief during his 12 years on the council.
+See his voting record on taxes: https://www.donald4delegate.com/tax-timeline
+Issue 3: Investing in the District
+In FY 2025, starting July 1, 2024 and concluding on June 30, 2025, the current members of the House of Delegates in District Four only brought back $175,000 to their district.
+In the same year, Delegates for District Three brought back almost $12,868,000 (Source: https://mgaleg.maryland.gov/mgawebsite/Budget/BondInitiatives).
+District Four needs delegates who will fight for their district, not simply show up to clock in at a job.
+Jerry will fight for more funding for District Four's residents.
+These funds will help support critical projects in Frederick County, including the redevelopment of Brunswick High School, followed by new high schools in Middletown and Walkersville.
+To fund these and other key projects for the district, residents need state partners who will do their share.
+Issue 4: Representation That Works for You
+When Jerry ran to join Frederick's first County Council in 2014, he did it because he wanted to help improve his community by investing in schools and parks, building sidewalks, protecting resident health and safety, and protecting our ecosystems.
+He won't compromise his integrity for a campaign - all campaign donations are from individuals, not corporations or PACs.
+Accomplishments
+During his time representing District One on the Frederick County Council, Jerry initiated and supported multiple laws and projects that significantly benefited local residents.
+Now, he's excited to use his experience and leadership to benefit Maryland's District Four.
+LEGISLATION
+- Impact Fee Law: Passed bill that ensures we have enough funding to build schools and libraries.
+- Frederick County Board of Health: Wrote the law that established this new board for Frederick County, helping support improvements in public health and safety.
+- Riparian Buffer Law: Wrote the law that helps clean up streams and rivers in Frederick County.
+PROJECTS
+Jerry has supported the construction of multiple new buildings and public spaces across Frederick County, including:
+Public Buildings
+- Middletown Fire Hall
+- Middletown Library
+Parks and Greenspaces
+- Middletown Park renovation adding new path and skate park
+- Othello Park
+- Ballenger Creek Trail
+- Point of Rocks Community Commons Park
+Schools
+- Sugarloaf Elementary
+- Urbana Elementary
+- Brunswick Elementary
+- Valley Elementary

@@ -1,0 +1,25 @@
+Organized labor support for Bill Hill grows as union representing thousands of grocery and retail workers endorses campaign
+FOR IMMEDIATE RELEASE – June 24, 2026
+The United Food and Commercial Workers Local 1496 (UFCW 1496) has endorsed Bill Hill for Alaska’s seat in the U.S.
+House of Representatives.
+The endorsement adds to a growing coalition of labor organizations supporting Hill’s campaign, including the Alaska AFL-CIO.
+It reflects his longstanding commitment to working people, collective bargaining, and building an economy that works for Alaska families.
+Hill, a lifelong commercial fisherman, 25-year educator, former construction worker, and former union member, said he is honored to earn the support of UFCW 1496 members.
+“Whether they’re stocking grocery store shelves, caring for patients, processing seafood, or helping customers, UFCW members do work that keeps our communities going,” Bill Hill said.
+“These are jobs that deserve fair pay, good benefits, safe workplaces, and respect.
+I’m grateful for this endorsement, and I’ll be a strong voice in Congress for working people across Alaska.”
+UFCW 1496 represents workers in a wide range of industries across the state, including grocery stores, healthcare facilities, food processing operations, retail workplaces, and other essential services.
+Hill said the challenges facing many working families today, including rising costs for groceries, housing, healthcare, and energy, make it more important than ever to have representatives who understand the realities of life in Alaska.
+“Bill Hill has spent his life working in Alaska’s fisheries, classrooms, and construction sites, and he understands the challenges working families face,” said Frank Mutchie, President of UFCW Local 1496.
+“Our members want leaders who will stand up for workers, respect collective bargaining, and fight for good jobs and strong communities.
+We believe Bill Hill will do that, and we’re proud to endorse him for Congress.”
+“I’m running for Congress because too many people feel like Washington is working for powerful interests instead of the people doing the work,” Hill said.
+“UFCW members know the value of hard work and looking out for one another.
+Those are values I share, and they’re the values I’ll bring with me to Congress.”
+About UFCW Local 1496
+UFCW Local 1496 represents thousands of workers across Alaska in grocery, healthcare, retail, food processing, and other essential industries.
+The union advocates for fair wages, strong benefits, safe workplaces, and dignity and respect on the job.
+###
+Media Contact: Kevin Groh, Campaign Manager
+951-203-2287, kevin@billhillforalaskans.com
+Paid for by Bill Hill for Alaskans

@@ -1,0 +1,28 @@
+JOE MORELLE ANNOUNCES CANDIDACY FOR NEW YORK’S 25TH CONGRESSIONAL DISTRICT
+Morelle pledges to pick up Louise Slaughter’s mantle and ensure our community’s values have a strong voice in Congress
+Morelle vows to fight for universal healthcare, protect a woman’s right to choose, fight against the terror of gun violence, expand economic opportunity, address the opioid epidemic, dismantle racial inequalities tearing down our communities
+March 26, 2018 | Press Release
+Rochester, NY - Today, surrounded by family, friends, numerous community leaders, and partners in public service, Democrat Joe Morelle announced his candidacy for New York’s 25th Congressional District.
+In his announcement, Morelle pledged to honor the legacy and continue the work of the late Congresswoman Louise Slaughter.
+“I am inspired by the promise of a future that is as strong, as resilient, and as bold as the people who call this great country home.
+I believe that, together, we can pick up Louise’s mantle and fight to protect the fundamental ideals we all share: the need to ensure universal healthcare for all; to protect a woman’s right to choose; to keep our streets and children safe from the terror of gun violence; and to create stronger economic opportunities for our working families.” said Morelle.
+“We need leaders who will stand up and fight for the hardworking families in our community and ensure that our upstate values have a strong, unrelenting voice in Washington,” Morelle continued.
+“With your help and support, we can build a brighter future for our community and all people who call this great nation home.”
+At his announcement, Morelle was joined by Rochester Mayor Lovely Warren who said, “For over 40 years, Louise Slaughter has been a champion for women and men across Rochester and our nation.
+At this very critical time when Democratic and progressive values like women’s rights and access to health care are being challenged, we need the best candidate that can protect Rochester's interests in Washington.
+That candidate is Joe Morelle.
+Joe has stood up for our community and helped our city move in the right direction.
+I look forward to working with him to create safer more vibrant neighborhoods, jobs, and better educational opportunities for our citizens once he graces the halls of Congress.”
+Monroe County Clerk Adam Bello also voiced his strong support of Morelle and emphasized the importance of Democrats coming together to take back Congress: “Never in recent memory has there been a time when our nation has been more politically divided, and never has there been a time when Democratic Party unity has been more critical to the future of our nation than now.
+That is why it is so important for Democrats to come together and unify with the single purpose of electing Joe Morelle to the House of Representatives,” said Bello.
+“Joe Morelle is a strong leader and a tireless advocate for our community and I am proud to support his candidacy for Congress,” said Assemblymember Harry Bronson.
+"Working with Joe when I was in the County Legislature and currently in the New York State Assembly, I have seen first-hand not only his leadership skills but also his dedication to the residents whom he serves.
+Joe will fight relentlessly to create a better future for the people of the 25th Congressional District.
+I look forward to continuing our partnership and working to advance the interests of our Rochester community.”
+Morelle, who currently serves as a state Assemblymember representing the towns of Brighton, Irondequoit and parts of the city of Rochester, has spent a lifetime in public service working to advance the best interests of our community.
+Over the years, he has championed numerous job creation and economic development initiatives, fought to expand access to healthcare for millions of previously uninsured, worked to pass legislation to ban assault rifles and strengthen gun background checks, and helped make New York State one of the first in the nation to legalize marriage equality.
+Born and raised in Upstate New York, Morelle has lived in the same Irondequoit neighborhood for most of his life.
+As a husband and a father, he understands the struggles facing working families across our nation, and as a former small business owner, he recognizes the challenges our economic climate poses to the business community.
+His experiences make him uniquely positioned to understand the region’s complex needs and represent the values of the 25th District in Washington.
+In closing, Morelle said, “In the coming weeks and months ahead, I look forward to talking to my neighbors, listening to their concerns, and putting my experience to work for the people of the 25th Congressional District.
+I am excited to get started.”

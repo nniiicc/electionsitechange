@@ -1,0 +1,2 @@
+From challenging the status quo in Washington with a bold reform plan on his first day in office, to passing critical legislation to secure our borders and fight back against the opioid epidemic: Brian Fitzpatrick has a proven record of taking on Washington and making a difference for the people of Bucks & Montgomery Counties.
+I’m proud to support Brian because now more than ever, we need leaders with his proven record of taking on Washington and delivering results for our communities.

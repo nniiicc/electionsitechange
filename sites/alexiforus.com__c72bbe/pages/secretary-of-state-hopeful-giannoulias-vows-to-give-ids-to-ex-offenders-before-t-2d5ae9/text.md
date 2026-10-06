@@ -1,0 +1,10 @@
+In an effort to curb recidivism and help returning citizens “reintegrate into society,” Illinois Secretary of State candidate Alexi Giannoulias wants the state to issue ID cards to those ready to be released from prison before they’re let out.
+The state’s current policies are “counterproductive and often create a sense of frustration among people, who more than anything, want to turn their lives around,” Giannoulias said in a statement.
+“We need to do everything we can to provide them with a foundation to make that happen or their chances of returning to jail only increase,” the former state treasurer said.
+“A valid state identification card is just a small but vital first step in providing an opportunity for second chances.”
+If elected to succeed outgoing Democratic incumbent Jesse White, Giannoulias said he pledges to work with the state’s Department of Corrections to coordinate obtaining documents for those soon to be released from prison.
+The former U.S.
+Senate candidate also plans to eliminate the short-term correctional release cards provided to people in prisons and help them get the documents they need — at no cost to them — before their release date.
+Other states — such as Florida, Oklahoma and Missouri — have already streamlined the process for IDs for people awaiting release from prison, according to a news release announcing Giannoulias’ policy proposal.
+Former Gov.
+Bruce Rauner signed legislation into law in late 2016 meant to make it easier for people leaving prisons to get a state identification card, but that process can be harder for those who don’t have access to the required birth certificate or Social Security card.

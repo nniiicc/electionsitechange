@@ -1,0 +1,1 @@
+Why I’m Running – an Interview with Judge Jim Douglas on The Dave Allen Show from 1/9/26 Why I’m Running – Interview Listen below to the Metro News interview with Judge Jim Douglas on The Dave Allen Show from January 9, 2026. https://judgedouglas.com/wp-content/uploads/Jim-Douglas-Midday-Interview-1926.mp3

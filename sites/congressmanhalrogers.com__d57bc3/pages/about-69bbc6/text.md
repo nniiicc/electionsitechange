@@ -1,0 +1,17 @@
+Congressman
+Delivering for Eastern Kentucky Since 1980
+Serving Kentucky’s 5th Congressional District since 1981, Hal Rogers has been elected to 23 consecutive terms representing the people of southern and eastern Kentucky.
+On September 2, 2021, he made history as the longest-serving Member of Congress from Kentucky.
+On March 18, 2022, he became Dean of the U.S.
+House of Representatives, as the longest-serving Member in the House.
+As the Dean, Rogers had the privilege of swearing-in current House Speaker Mike Johnson and former House Speaker Kevin McCarthy.
+Congressman Rogers’ longevity of service is proof that he focuses on economic development, job creation, fighting illegal drug use, preserving the natural treasures of Appalachia, avidly listening to his constituents, advocating for the interests of the region where he was raised.
+Born in rural Kentucky and representing one of the poorest Congressional Districts in the nation, Rogers’ vision for a stronger region spurred some of the greatest success stories in southern and eastern Kentucky.
+Organizations such as Operation UNITE, Southeast Kentucky Economic Development (SKED), The Center for Rural Development, Eastern Kentucky PRIDE and Shaping Our Appalachian Region (SOAR), have brought local communities together by revitalizing the environment, providing hope in the fight against drugs, supporting small business owners, and creating jobs and new innovative opportunities in one of the most beautiful parts of the country.
+Nationally, as Chairman of the powerful House Appropriations Committee from 2011 through 2016, he reduced the size and scope of government by reining in federal spending, conducting rigorous but thoughtful oversight of federal agencies, and restoring fiscal discipline and transparency to our budget process.
+Chairman Rogers led the Congress to reduce discretionary spending by a historic amount, cutting $126 billion in discretionary spending.
+During his tenure, Chairman Rogers led the way for regular order, conducting 650 oversight hearings and considering more than 2,000 amendments to appropriations bills on the floor.
+With 40 years of experience on the Appropriations Committee, he has served on more than ten different subcommittees, including leadership roles as Chairman or Ranking Member of six.
+Notably, Rogers was tapped in 2003 to lead the first Subcommittee on Homeland Security.
+Through this important role, Rogers fought to ensure our first responders received necessary funds to protect against terrorist threats; demanded tough answers from FEMA in the wake of federal responses to wildfires, hurricanes and flash floods; and insisted on enforcement of our country’s immigration laws and stronger border security.
+Whether Rogers is on Capitol Hill ensuring the appropriate use of taxpayer dollars, fighting to secure the homeland, scrutinizing federal government agencies, or home in southern and eastern Kentucky working to make a difference in the lives of the individuals he represents, Rogers remains committed to being a strong voice in Congress for fiscal responsibility, economic development, a strong national defense, and a prosperous future for America.

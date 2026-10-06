@@ -1,0 +1,35 @@
+Endorsements & Legislative Highlights
+Below is a partial list of endorsements received by Rep.
+Leadbeter.
+- Farmer (the political committee of the PA Farm Bureau)
+- National Federation of Independent Businesses (NFIB)
+- PA Chamber of Business and Industry
+- PA Freedom Caucus
+- PA Pro-Life Federation
+- PA Family
+- Students for Life of America
+- National Rifle Association (NRA)
+- Gunowners of America
+- PA Firearms Owners Association
+- Citizens Alliance of Pennsylvania
+- PA Republican Party
+- PA House Republican Campaign Committee
+LEGISLATIVE HIGHLIGHTS
+Since taking office in 2023, State Rep.
+Robert Leadbeter has distinguished himself as a solid conservative and highly effective legislator.
+Among the hundreds of bills he has sponsored or voted on are:
+- Introduced a newly enacted law that provides education of young adults about the threat of human trafficking
+- Secured over $34.5 Million in state funding grants for communities, infrastructure projects, and non-profits throughout Columbia County
+- Over 311 bills sponsored or co-sponsored
+- Voted against all tax increases & co-sponsored many bills that would provide tax cuts for working families, retired seniors, and small businesses
+- Co-sponsored many bills that would restore fiscal discipline to state spending
+- Co-sponsored a bill preventing muncipalities & counties from becoming sanctuaries for illegal immigrants
+- Co-sponsored a bill prohibiting non-citizens for voting in Pennsylvania elections
+- Voted for a bill expanding property tax relief for seniors
+- Voted against a dangerous bill that would allow men & boys to compete in girls’ sports
+- Co-Sponsored the Pro-Life Hearbeat Bill & co-sponsored a bill that prohibiting tax dollars from being used for abortions
+- Co-sponsored the Parental Rights in Education Bill & the Student Freedom Account Act, bills expanding parental rights & school choice
+- On the Judiciary Committee, fought to protect 2nd Amendment rights by opposing numerous anti-gun owner bills & co-sponsored a bill establishing Constitutional carry in Pennsylvania
+- Co-sponsored a bill providing life insurance coverage during activations of the PA National Guard
+- Co-sponsored a bill allowing returning veterans to transfer military certifications for civilian EMT/paramedic service
+- Voted against bills that would increase taxes and place burdensome regulations on local Columbia County communities and businesses

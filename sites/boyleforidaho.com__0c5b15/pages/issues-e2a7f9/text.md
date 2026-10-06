@@ -1,0 +1,18 @@
+Skip to content
+Home
+News & Media
+Issues
+Volunteer
+Menu
+Home
+News & Media
+Issues
+Volunteer
+Donate Here
+On The Issues
+Strong Defender of the 2nd Amendment (A+ Rating from the NRA: Highest Award [Defender of Freedom])
+Pro-Life: Idaho Chooses Life: Lifetime Award
+Strong supporter of School Choice/Parental Choice (Carried the Dyslexia Bill for Kids)
+Strong Defender of Private Property Rights and Property Tax RELIEF
+Responsible growth management: Protect agriculture and water resources
+Medical/Health Freedom

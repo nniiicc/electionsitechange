@@ -1,0 +1,93 @@
+Aloha Neighbor,
+My name is Nadia Alves and I’m running to represent Chinatown, Iwilei, and Mauliola (Sand Island) in the Hawaii State House, District 28, because our community deserves a fresh perspective, someone who will be a fighter for working people, and who will stand up against the influence of big money special interests.
+If elected, I will be a champion for community safety, truly affordable housing, and a more transparent and accountable government that puts the needs of our working families, our keiki, and our kupuna first.
+I am a first-generation immigrant who grew up in a large, working-class, multi-generational family, something that has shaped who I am as a person and which continues to inform the way I look at politics and government today.
+As the oldest of my siblings, it fell to me to help care for them and to support my mom as she worked to put food on our table and clothes on our backs.
+Meet Nadia
+Growing up this way, I learned the values of hard work, responsibility, and the importance of family.
+Something else that I learned is that, unfortunately, for so many people in my community, politics often seem like something that is done to you rather than something we actively participate in and shape for ourselves.
+Our government only seems to work for the rich and powerful, not people like me or my family.
+I believe we can do better.
+We need Representatives who take the lived experience of regular working-class people with them to the legislature.
+My career path in life has taken many turns.
+My first job was making minimum wage as a cashier at a fast-food chain.
+I’ve also worked as a residential supervisor at a school for neurodivergent youths, a kindergarten teacher, a campaign manager of a congressional campaign, a program manager for a leadership training program, and since 2022, I’ve served as an office manager at the Hawaii State House of Representatives.
+In addition, I’ve served in a variety of volunteer positions advocating for the people of Hawaii.
+I’ve served as the organizing director for Wolf-PAC Hawaii, an organization dedicated to overturning the Citizen’s United SCOTUS decision, I was the co-chair of Young Progressives Demanding Action, and I’ve been an officer with the Democratic Party of Hawaii since 2024, where I currently serve as the Region 3 Chair.
+If elected, I will be a champion for community safety, truly affordable housing, a government that puts the needs of our working families, our keiki, and our kupuna first, and I will work to make our government more transparent, more responsive, and more accessible to our community and the people of Hawaii.
+Mahalo,
+Nadia Alves
+Endorsements
+Hard work - Responsibility - Family
+Nadia’s Key Priorities
+- Everyone deserves to feel secure in their own community.
+I live in Chinatown and I know all too well what it is like to not feel safe walking down the street at certain times of the day near my home.
+A big part of the problem is that we still have not truly recovered from the Covid-19 pandemic and the shutdowns that led to so many of our local Mom and Pop stores going out of business.
+We see more boarded-up storefronts, we see homeless people camping out on our sidewalks, and we see even less economic activity as a result.
+Our leaders in the State Legislature have an obligation to devote more resources towards helping our underserved district and to build it into a secure, bustling, and historic community that our residents would be proud to call their home.
+- Create and maintain vibrant public spaces for our neighbors to gather, our keiki to play, and allow our community to take root
+- Work with local business owners, residents, and City and State Officials to find ways to revitalize Downtown and Chinatown in a way that doesn’t push local families and businesses out
+- Investing in wrap-around services to care for our homeless neighbors to give them a genuine chance to get their lives back on track
+- Protecting the most vulnerable in our community, including our kupuna, our immigrant neighbors, and our LGBTQIA+ family and friends
+- Local families deserve a Hawaii where they can afford to live and thrive.
+Like most of us who live in Hawaii, I have struggled to make ends meet.
+Even as someone who is employed as an Office Manager at the State House of Representatives, I have to work a second job in order to afford to pay my bills.
+With the highest cost of living in the country, more and more local families are forced to leave.
+We need to invest in our people and find creative ways to raise the revenue needed to reverse this trend.
+- Exempt basic goods and services our working families rely on, like groceries, medication and medical services from the General Excise Tax
+- Impose higher taxes on homes that have been allowed to sit vacant for extended periods of time
+- Tax the millionaires and billionaires who use Hawaii as their playground but don't contribute to our local economy
+- Support local farmers and food producers so that we can cut the cost and reliance on food importation
+- Establish consumer protections against personalized and dynamic (surge) pricing, an unethical and predatory form of price gouging that is becoming increasingly common
+- We deserve a government that works for us - not out-of-state corporate interests and their lobbyists.
+I have spent years fighting to get big money out of our elections, increase public access and participation in the legislative process, and hold our government accountable for actions that don’t serve the public interest.
+Public trust in our government is being eroded as several high-profile cases of corruption and bribery at the State Legislature have come to light in recent years.
+In order to live by my values and help restore public trust, I've taken a pledge to not accept campaign contributions from corporations, large developers, or their lobbyists because I want to be accountable only to the people of my community.
+- Establish a robust system of public financing for Hawaii elections to reduce the influence of wealthy corporate donors over our public policy
+- Impose term limits on members of the State Senate and State House of Representatives
+- Make our lawmaking process open and transparent to the public by removing the State Legislature’s exemption from the Sunshine Law
+- Our keiki deserve a childhood with proper education and care.
+As an educator, I’ve seen firsthand how much a bit of extra attention, resources and support can contribute to our kids' success.
+The importance of education needs to be reflected in our priorities when we write our State Budget.
+The starting salary for teachers in Hawaii is barely above the national average for the United States, which is not nearly enough for our educators to live comfortably given our highest-in-the-nation cost of living.
+- Pay our educators competitive salaries that allow them to keep up with the rising cost of living
+- Invest in improving our public school infrastructure so every classroom environment is safe, modern and conducive to learning
+- Establish universal Keikicare in Hawaii from ages 0 to 5 to support working families who are struggling to find affordable preschool options
+- Support programs our students are passionate about and which give them opportunities for future career pathways (debate, robotics, agriculture clubs, etc.)
+- Establish universal free school meals to ensure every child walks into the classroom nourished and ready to learn
+- Establish paid family and medical leave so no one has to sacrifice their livelihood to care for the people they love
+- Remove the General Excise Tax on diapers, baby formula, and other childcare essentials
+- Our elders deserve to enjoy their retirement in dignity and comfort.
+Growing up in a multi-generational household, the idea of having the responsibility to respect and care for your elders is a core part of who I am as a person and who I hope to be as a legislator.
+I can think of no greater tribute to my grandma, who passed away about a year ago, than by affirming my commitment to making sure our kupuna are treated with dignity and aloha.
+- Invest in long-term retirement communities and related services for our kupuna
+- Expand qualifications threshold for Med-QUEST
+- Create a paid caregiving program to allow family members to care for their aging loved ones
+- Remove the General Excise Tax from necessary goods like incontinence supplies, non-prescription medications and medical devices and supplies
+- Regulate predatory AI technology that is used in scams targeting our kupuna
+- Every person deserves access to high-quality medical care.
+Like many of our Hawaii families, I've faced the loss of health insurance due to a change in my employment, and the stress of knowing that one medical emergency can put you into crippling financial trouble is a burden that no one should have to put up with.
+Hawaii faces a severe physician shortage, driven in part by the growing administrative burdens and costs associated with our complex insurance system.
+Many residents are uninsured or underinsured, with increasingly expensive co-payments and deductibles.
+Annual increases in premiums translate into increased costs for employers, who already struggle with prohibitively high costs of doing business in Hawaii.
+- Decouple healthcare from employment with a single-payer insurance model, which is significantly better for businesses, care providers, and every individual seeking healthcare, removing the need for private insurance companies to serve as costly intermediaries between patients and care providers.
+- Increase Medicaid reimbursement rates to encourage health provider participation
+- Expand telehealth options and prescription drug affordability programs to allow more people to access critical healthcare services.
+- Every local family deserves a home they can afford and a wage that makes it possible.
+I am a strong believer that housing is a human right, but we're unfortunately heading toward a future where home ownership is a luxury reserved only to the privileged few who can afford it.
+People in my generation are becoming increasingly disillusioned and pessimistic about ever being able to afford to buy a home, at the same time that we're paying higher and higher rents.
+Even those who are fortunate enough to own a home are being hit with skyrocketing homeowners insurance and property taxes that are forcing many to sell cherished family homes.
+We need to do better.
+- Stand up for renters and landlords by strengthening eviction protections, expanding mediation, clarifying repair standards, and addressing housing costs
+- Lower the cost of hurricane and fire insurance premiums by establishing state-backed insurance alternatives
+- Fund programs like Hale Kama'aina that give first-time homebuyers a real shot at owning a home in Hawaiʻi
+- Update our community infrastructure and make sure our neighborhoods are resilient and prepared enough to meet the realities of our changing climate
+- Establish incentives for deed restrictions to promote the sale of homes to local families
+DONATE TO SUPPORT NADIA’S CAMPAIGN
+I’ve signed on to the “Our Hawaii Pledge” to reject big money from those who sell out our islands, and stand with those who live to protect it.
+The success of our campaign depends on contributions from regular people, not corporate special interests.
+If you'd like to see Nadia in the State House, please help by making a donation!
+Donate via ActBlue
+Prefer sending a check?
+Checks made out to “Nadia for Hawaii” can be mailed to:
+Nadia for Hawaii PO Box 37315 Honolulu, HI 96837

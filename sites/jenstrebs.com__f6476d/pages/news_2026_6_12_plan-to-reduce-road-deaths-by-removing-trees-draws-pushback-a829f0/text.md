@@ -1,0 +1,7 @@
+Plan to reduce road deaths by removing trees draws pushback
+Commission Chair Jen Strebs understands the worries over what she said is the loss of 8,000 trees.
+“I think this is an example of how that meaningful dialogue when we develop strategies to address widespread systemic issues really have to include community voice.
+When they do not, which is what appears has occurred in this process, we end up with policies and approaches that can ultimately be harmful in ways we don’t recognize [...],” she said.
+Strebs said county commissioners and members of the road commission have discussed the concerns.
+For her, balancing safety and residents’ desires goes to managing behavior on the road.
+“Understanding our responsibilities as citizens, drivers, community members and residents — that driving is something that has deep responsibility and we have to help connect with people to own that responsibility,” Strebs said.

@@ -1,0 +1,164 @@
+The 2018 legislative session was a paradox of cooperation and tumult.
+It started with the limited legalization of recreational marijuana use, ramped up with gun safety legislation, pursued education financing reform, paid family leave and an increase in the minimum wage, and ended with an extended showdown with the Governor over the use of the budget surplus.
+The Governor vetoed 11 bills in 2018 and let 4 others (including the budget) become law without his signature.
+The legislature was called back to Montpelier in June for a special session to put forward another budget.
+Laws that were passed and will become law:
+Appropriations for government operations, The Budget (H.16 special session).
+- FY 2019 Budget of $5.8 billion is just .5% over current fiscal year.
+- adds beds and housing vouchers for mental health care.
+- increases child care provider reimbursements for infants and toddlers.
+- provides $5 million in revolving state funds for home weatherization.
+- pays down $1.3 billion liability in teacher pension fund by $100 million.
+- pays off the $3.9 million debt of Vermont Life Magazine, now defunct.
+- expands Vermont Earned Income Tax Credit (EITC) from 32% to 36% of federal level.
+- fully funds all fiscal reserve funds anticipating future recession.
+- moves expenses from education fund into general fund (renter rebate, community high school of Vermont, Adult Education, Flexible Pathways).
+- reduces the Property Tax Adjustment for education rates by lowering value of house site for those paying property tax based on income.
+Affects 16,000 households.
+- reduces personal income tax rates by .2%, collapsed top two brackets.
+- creates Vermont standard deductions ($6,000 single, $12,000 joint) and personal exemption of $4,150.
+- creates 5% tax credit on charitable donations (limited to $1,000).
+- Social Security Income for low and moderate income households is exempted from income taxes.
+- establishes statewide bargaining for public school employee’s health care contractwhile reconsitituting the VEHI board that directs it.
+- establishes a commission to study student/staff ratios in public schools.
+- establishes a Vermont Tax Structure Commission to review current funding sources to support state government.
+Miscellaneous Agricultural Bills:
+- create the Outdoor Recreation-Friendly Community Program to help communities develop an outdoor recreation economy.
+- direct the current Commission on Act 250 to evaluate ways to make it easier to plan and implement recreation trails.
+- ease the Act 250 permit process (minor application only) for small forest processing operation.
+- permit farmers to engage in accessory on-farm businesses such as storage but stops short of giving farms blanket approval for creating non-farm related business, such as wedding venues.
+- bring Vermont’s industrial hemp statute into compliance with federal law – allows medical marijuana dispensaries to extract THC from hemp crops with levels over federal regs and return the plants to the farmer for processing the THC free hemp.
+- give forester’s the right to conduct forestry operations without fear of being shut down by neighborhood complaints as long as the forester conducts conventional forestry practices in compliance with the Acceptable Management Practices for Maintaining Water Quality on Logging Jobs per 10 V.S.A.
+Sec.2622.
+Blockchain Technolgy (S. 269) creates two new company structures to better position Vermont as a haven for software companies using Blockchain technology.
+POS Equipment Leases (S.2 Special Session) requires companies to fully disclose the terms of any equipment lease in connection with credit card processing equipment.
+Regulating Transportation Network Companies (TNCs) (H. 10 Special Session) establishes insurance requirements for TNCs like Uber and Lyft to cover drivers and passengers for up to $1 million, plus med pay of $5,000.
+Requires TNCs to vet drivers using background checks and subjects records to inspection by DMV.
+Vermont Fair Repair Act (H.9 Special Session) creates a task force to review the access of consumers to repair consumer electronic devices such as cell phones, tablets and computers, and to recommend legislation, if appropriate, for the 2019 legislative session.
+Insurance and Trust Companies (H. 719) updates regulations for the Captive Insurance industry and creates a new regulatory regime for REINSURANCE companies looking to relocate to the US from foreign locations to avoid the 10% penalty put in place by the December federal Tax Cuts and Jobs Act.
+Simplifying Government for Small Business (S.85) directs the Secretary of State to develop a project scope, design, budget and implementation schedule for a one-stop portal for businesses to interact with the State.
+It would be linked to relevant State websites (i.e.
+DOL, ANR, Agriculture, Taxes).
+Workforce Development (H.919) aims to develop the workforce to meet the current and anticipated needs of employers and employees.
+The bill:
+- strengthens the role of the State Workforce Development Board – the board has 55 members, ½ of which must come from the private sector.
+- extends the use of Career Pathways in workforce development, engaging students as early as 7th grade.
+- establishes 4 pilot projects in Career Technical Education (CTE) settings to model a unified funding and governance structure to streamline and improve delivery of services.
+- strengthens apprenticeship programs in the state, including the establishment of “returnships” to reengage workers who are currently not in the workforce.
+- establishes a system that reviews and elevates the rigor of industry recognized credentials and certificates to create better value and relevance of them to both the recipient and employees.
+- expands the role of the Department of Labor and the Commissioner to recruit workers, including from in-state post-secondary institutions, as well as train workers.
+- authorizes the use of Workforce Education Training (WET) Funds to assist small businesses recruit, relocate and retain workers.
+- develops metrics to measure the relative success of these different efforts to guide decision making in the future.
+Promoting State-Owned Airports (H. 620) directs the Secretary of ACCD to develop an economic development plan for state-owned airports, arguably under-utilized assets of the state.
+Data Brokers (H. 764) provides consumers with greater protection over their personal information by seeking to regulate data brokers - those who buy and sell the personal information of individuals with whom they have no other business relationship by:
+- requiring data brokers to register with the state
+- providing the Attorney General with information about how the nature of the information they collect and how they collect it
+- requiring data brokers to disclose when they experience a breach of personal information.
+Remote Workers (S. 94) contains miscellaneous economic development provisions:
+- allocates $500,000 over three years to fund $10,000 grants to individuals who relocate to Vermont and incur eligible expenses to work for a company located outside of Vermont,
+- establishes grant fund of $150,000 to small businesses for specific purposes such as establishing co-working spaces or aerospace research (requires a 1:1 match)
+- allocates $250,000 to the state’s Economic Development Marketing plan
+- pursues the availability of state-owned buildings as possible locations for co-working spaces.
+- allows funds from the Vermont Wastewater and Potable Water Revolving Loan Fund to be accessed when a designer determines that a system is about to fail instead of waiting for it to fail.
+Consumer Protection (H. 593)
+- requires that contracts of 12 months or more in length and that automatically renew for a period of more than 30 days contain clear and unambiguous language about the contract terms and require a “double opt in” at the beginning of the contract.
+Requires that the seller or lessor provide the consumer with notice of the upcoming renewal within 30-60 days of that renewal.
+- eliminates “retainage” of payments by contractors for materials used in construction that have been delivered by a materialman and accepted by the contractor and are covered by a warranty or meet industry standards.
+- provides a level of protection from identity theft for vulnerable adults and protected persons by allowing such persons or their representatives to put a freeze, and subsequent lifts, on their credit bureau files at no cost.
+- restricts insurance companies from using consumer credit bureau files as the sole determinant of insurance rates and requires full disclosure of the use of such information to the consumer.
+Capital Bill Act 190 (H.923) is a one year adjustment to the two year capital bill.
+- adds $1.4 million for the clean up of Lake Carmi.
+Invests funds in the purchase of equipment to extract phosphorus from manure.
+- expands CWSRF to allow the pairing of natural resources projects with municipal clean water projects and also to allow Federal Funds to be used to make private loans for clean water projects via VEDA.
+- funds expansion of beds for patients awaiting psychiatric evaluation or care: renovation and repurposing of three beds in the Chittenden Corrections Facility, at least ten beds at the Northwest Corrections Facility, renovation and repurposing of units at the Brattleboro Retreat.
+- directs $4 million to school safety grants to plan and implement school security equipment.
+It is expected that the State will be able to access another $1 million in funding from the federal Department of Homeland Security.
+- Medically Assisted Treatments (S.166) provides treatment for offenders in corrections for as long as it is medically necessary.
+- For a complete list of the adjustments in the bill, go to https://legislature.vermont.gov/assets/Documents/2018/Docs/ACTS/ACT190/ACT190%20Act%20Summary.pdf
+Beer Distribution Act 145 (H.710) enables Vermont breweries producing 50,000 or less barrels of beer per year to opt out of contracts with distributors, provided the brewery is less than 3 percent of the distributor’s total sales.
+Creating Flexibility in Special Education (H.897) allows schools to use their allocated state aid for special education dollars in more flexible ways with a goal of educating students who require additional support more effectively and efficiently.
+This is a sweeping reform bill for the delivery and expense of special education.
+Appliance efficiency, energy planning Act 139 (H.410) adds efficiency standards for 16 products to Vermont’s appliance efficiency law, requires the State Comprehensive Energy Plan (CEP) to include recommendations for State agency energy and transportation planning.
+Miscellaneous Energy Subjects Act 163 (H.676) revises the 100 foot setback requirement for solar arrays on parking lot canopies, and sets a standard for ground-mounted solar arrays to qualify for pollinator-friendly certification.
+Energy productivity investments Act 150 (H.739) makes multiple changes to the self-managed energy efficiency program.
+Establishes pilot program in Energy Savings Account (ESA) program to allow large electricity users to use fees normally paid to Efficiency Vermont on own energy efficiency projects.
+Net Neutrality (S.289) requires internet service providers (ISPs) in Vermont to adhere to net neutrality standards.
+Equal Pay (H.294) prohibits employers from requesting a person’s salary history prior to making a job offer, a practice which often leads to unequal pay between genders.
+Employers may still post a salary range, and an applicant may still post salary requirements, but asking for a salary history is now off-limits.
+Voter Checklist Protection (H.624) increases the protection for Vermonter’s personal data contained in the statewide voter checklist by expressly prohibiting public agencies from knowingly disclosing the statewide voter checklist to any foreign government or federal agency or commission.
+Mitigating Systemic Racism in State Government (S. 5, special session) creates a five-member Racial Equity Panel and Executive Director to implement reforms identified after a comprehensive review and advise the Governor on strategies to remediate systemic racial disparities.
+Prescription Drug Transparency (S.92) requires the Department of Health Access to identify annually up to 10 prescription drugs on which the state spends significant health care dollars and where the wholesale cost has increased by 50 percent or more over the past five years or more than 15 percent over the past year.
+The Attorney General will identify the 15 costliest drugs and require the manufacturer to provide a justification for each drug’s increase.
+The lists will be posted on the Green Mountain Care Board and AG’s website.
+Wholesale importation of prescription drugs Act 133 (S.175) directs the Agency of Human Services to design a program to import lower-priced prescription drugs into Vermont from Canada and get federal certification for the program.
+The Agency is charged with establishing a charge per prescription or another method of financial support for the program, subject to legislative approval.
+Breast imaging without cost sharing (H. 639) covers mammograms and 3D mammograms, and when there is dense breast tissue, it will cover the follow-up ultrasound with no cost sharing as well.
+Individual Insurance Mandate Act 182 (H.696) requires Vermont residents to maintain minimum essential health insurance coverage beginning on January 1, 2020 as a way to hold down insurance premiums in response to the removal of the individual mandate at the federal level.
+Requires state agencies to develop an implementation plan.
+Supplemental Nutrition Assistance Program (SNAP) Act 104 (H.271) requires DCF to alert legislature of any substantive changes to the federal program affecting eligibility or access (known as 3 Squares in Vermont).
+Unused Presription Drug Repository Act 114 (S.164) directs the Agency of Human Services (AHS) to evaluate the feasibility of implementing an unused prescription drug repository program in Vermont to accept and dispense certain donated prescription drugs and supplies to Vermont residents who meet certain eligibility standards.
+Reach Up Act 109 (H 673) will help families living in poverty more easily navigate the Reach Up benefits program and participate in the workforce, allowing families to exclude the equity value of one operable motor vehicle for any child of driving age who needs a vehicle to attend school or work.
+Adverse Childhood Experiences (ACEs) (S.261) establishes a public health approach to address childhood adversity where interventions pertaining to the social determinants of health are employed will significantly reduce healthcare costs.
+Nursing Home Sales (H.921) establishes a more efficient and effective way to evaluate a proposed sale of a nursing home to ensure that the new entity has sufficient capital, staffing and experience to provide good care for the residents on a sustainable basis.
+Older Vermonters Working Group (H.608) is established to identify the needs of a growing population in the state and to make recommendations to the legislature to address those needs.
+Extreme Risk Protection Order Act 97 (S.221) allows law enforcement to show a judge that an individual presents an extreme risk of harm to himself, herself or others in order to require the person to relinquish any dangerous weapons.
+Gun Violence Restraining Order Act 92 (H.422), allows law enforcement to temporarily remove firearms from the scene of a domestic violence incident.
+Gun Safety Act 94 (S.55) expands the requirement for background checks to include private sales, places restrictions on the sale of firearms to those under age 21, limits the transfer and possession of high-capacity ammunition magazines, and bans the transfer and possession of bump-fire stocks.
+Domestic Terrorism (H.25) creates a felony if a person takes a substantial step toward violating a criminal law of the State with the intent to cause death or serious bodily injury to multiple persons or the intent to threaten any civilian population with mass destruction, mass killings or kidnapping.
+Also increases the penalty when a person knowingly possesses a firearm or a dangerous or deadly weapon on school property with the intent to injure another person.
+Strengthening Families Through Expanded Parentage (H. 562) eliminates barriers to maintaining stable and loving parent-child relationships by modernizing the legal definition of parentage beyond the biological parents.
+Human Trafficking ( H.603) provides that, in custody disputes, a parent convicted of human trafficking of the other parent will be denied parent-child contact.
+The bill recognizes that victims of human trafficking should be afforded the same rights as victims of sexual assault.
+Also provides that a person’s parental rights can be terminated if the person committed a sexual assault that resulted in the conception of the child.
+Relief From Abuse Orders Act 110 (H.836) will ensure a secure, safe way for the victim to obtain a relief from abuse order.
+It would allow a victim to file a complaint and affidavit electronically if no secure setting is available and to swear or affirm the affidavit over the telephone.
+Testimony and Hearsay of Children in Human Services Board Appeals H.727 aims to protect maltreated children from experiencing the additional trauma of a court process by requiring the hearing officer to determine that the statements made by the child aged 16 or under are admissible only if the time, content, and circumstances of those statements demonstrate that they are trustworthy.
+Legalizing Marijuana Possession (Act 86) removes all civil and criminal penalties for possession of up to one ounce of marijuana and for the growing of two mature and four immature marijuana plants, so long as certain conditions related to growing those plants are met.
+Leaves in place penalties on the possession of marijuana by individuals under 21 years of age and on those who enable minors to consume marijuana.
+Bail Reform (H.728) caps the allowable bail amount at $200.00 for defendants charged with expungable misdemeanors.
+Sentencing Reform (H.660) charges the currently inactive Sentencing Commission with proposing a rational criminal code that would provide more consistent interpretations of our criminal offenses, better notice to citizens and police as to what conduct is prohibited, and greater proportionality between offenses and punishment.
+Expungement (S.173) establishes an expedited procedure for expunging a criminal history record related to a citation or arrest if the court does not find probable cause or dismisses the charge at the time of arraignment.
+The bill also provides for a process for expedited expungement of a criminal record for individuals who are acquitted of their charges or have their charges dismissed with prejudice before trial.
+Finally, the bill would require a report from the Department of State’s Attorneys as to the expansion of the list of qualifying crimes eligible for expungement.
+Juvenile Justice (S.234) protects public safety while also connecting youths and young adults to age-appropriate services that reduce risk of reoffense, and, when appropriate, shield youths from the adverse impact of a criminal record.
+Among other changes, the bill provides a process for automatic expungement of criminal records for qualifying crimes committed by 18- to 21-year-olds; modifies the process for preliminary hearings and risk assessments to ensure that low to moderate risk juvenile offenders are referred to court diversion; starting in 2020, raises the age from 18 to 19 for individuals’ cases to originate in the Family rather than the Criminal Division of the Superior Court; and, starting in 2021, raises the age to 20 for individuals’ cases to originate in the Family division.
+Cases heard in the Family Division are confidential and allow youthful offenders to avoid a public criminal record and its collateral consequences.
+Cleanup of State Waters Act 168 (S.260) enacts or amends multiple provisions related to several environmental programs:
+- renames the Clean Water Fund Board as the Clean Water Board, clarifies that the Board shall be responsible and accountable for planning, coordinating, and financing of the State’s water quality efforts.
+Adds 4 members to the Board appointed by the Governor.
+- directs state agencies to coordinate water quality grant awards to maximize water quality benefit.
+- authorizes ANR to designate a lake as “in crisis” if the lake is: impaired, its condition causes potential harm to public health and risk of environmental damage, and a town reduced valuation of real property due to the lake’s condition.
+ANR shall issue a crisis response plan.
+- designates Lake Carmi as a lake in crisis.
+- extends by 10 years the following programs: the time period in which ANR can authorize payment from the Petroleum Cleanup Fund, repeal of the licensing fee on motor fuel and on heating fuel, kerosene, or dyed diesel, repeal date of underground storage tank assessments.
+- authorizes ANR for one year to approve landfill disposal of mixed paper by a solid waste facility
+Universal Recycling Requirements Act No. 208 (S.285) amends several provisions related to universal recycling or the beverage container redemption system.
+- allows a solid waste facility to accept process residuals without separating 100 percent of the mandated recyclables if ANR approves and the receiving facility has a plan to remove as much mandated recyclables from the process residuals as possible.
+- authorizes a solid waste facility to charge for the collection of mandated recyclables.
+- repeals the requirement that that a commercial solid waste hauler offer collection of leaf and yard residuals.
+T
+- delays the requirement that a hauler offer collection of food residuals until July 1, 2020.
+- haulers operating a bag-drop or fast-trash site at a fixed site is required to offer collection of mandated recyclables, leaf and yard residuals, and food residuals.
+- reclaims unredeemed beverage container deposits (escheats) from distributors and manufacturers and redirects them to the Clean Water Fund.
+Regulation of dams and the testing of groundwater sources Act 161 (H.554). establishes standards for the safety and regulation of dams within the jurisdiction of the Department of Environmental Conservation (DEC), including methods for dam inspection, maintaining an inventory of all known dams in the State, requires land owner, upon request, to submit information about the dam.
+The act requires a new groundwater source to be tested prior to use as a well by the person who owns or controls the groundwater source.
+Stormwater Management Act 181 (H.576) amends requirements for the regulation of stormwater discharges from impervious surfaces, authorizes use of stormwater offsets and stormwater impact fees to permit stormwater discharges to all waters of the State.
+Amends permit deadlines for impervious surfaces of 3 acres or more.
+Requires a person to obtain a stormwater permit for the new construction or redevelopment of one-half acre of impervious surface, instead of the current one acre of impervious surface effective 7/1/2022.
+Coyote Killing Contests (H 636) prohibited coyote killing contests where a financial reward was offered and tightened up VT nuisance animal trapping laws.
+Transportation Bill Act 158 (H. 917) is an omnibus bill that addresses all sectors of transportation:
+- $612 million budget addresses infrastructure improvements including the repair or replacement of more than 100 bridges and culverts along with over 200 miles of new pavement.
+- multi-year projects in Middlebury for a rail tunnel and in North Hero for a drawbridge.
+- large road reconstruction projects of $52 million in Brandon (Rte 7), Burlington (Circ Highway Alternatives) and Cabot/Danville (Rte 2).
+- rail improvements of $29.6 million for track, bridge and crossing upgrades along the Western Corridor between Rutland and Burlington and other rail structural improvements to meet the national 286,000-pound freight industry standard.
+- DMV Inspection Revision would shorten the manual from 600 pages to 200 and narrow the scope of the inspections by creating an “advisory” category that would include items not critical to the safety of the vehicle such as tinted windows.
+The DEC is exploring affordability waivers for owners of cars which fail the emissions tests.
+- For the complete Transportation Bill, click here: https://legislature.vermont.gov/assets/Documents/2018/Docs/ACTS/ACT158/ACT158%20Act%20Summary.pdf
+Some of the Bills that were vetoed by the Governor:
+Paid Family Leave (H. 196) would have established 6 weeks paid Parental and Family Leave to employees who were employed for 30 hours/week in 12 of the last 13 months at a company of 10 or more employees.
+Benefits were equal to 80 percent of employees average weekly wage, capped at $1,401 per week.
+Limits use of benefits to once in a 12 month period, funded by a universal payroll tax of .141% on all employee wages up to $150,000.
+$15/hour Minimum Wage (S. 40) would have increased the minimum wage gradually to $15.00 per hour by January 1, 2024.
+Carved out high school student wages as a training wage of the Minimum Wage less $3.00.
+Standard Form Contracts (S. 105) would have declared certain contract terms to be “unconscionable” and unenforceable if any of the following were required: use of an inconvenient venue to settle disputes, a waiver of the individual’s right to assert claims, seek remedies or seek punitive damages, or limit the time in which a claim could be filed, or imposing fees to file a claim over the cost of the court processing.
+Liability for toxic substance exposures or releases (S.197) would require a “large user of toxic substances” to pay for ongoing medical testing for persons if they were exposed to greater than normal background concentrations, the exposure was the result of “tortuous conduct) and the person has a greater than normal risk of contracting an illness because of that exposure.

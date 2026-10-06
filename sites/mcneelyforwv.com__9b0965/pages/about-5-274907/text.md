@@ -1,0 +1,14 @@
+About Tim McNeely
+Tim McNeely brings a proven record of leadership, public service, and economic development to West Virginia.
+A proud graduate of West Virginia University, Tim earned his undergraduate degree while lettering four years for Coach Gale Catlett’s Mountaineer basketball program—an experience that shaped his lifelong commitment to teamwork, discipline, and accountability.
+He went on to earn his law degree from WVU and began his career practicing law in Charleston at Pullin, Fowler, Flanagan, Brown & Poe, gaining firsthand experience navigating complex regulatory and business environments.
+Tim’s dedication to public service led him to the West Virginia Development Office, where he served as General Counsel and Deputy Director during Governor Bob Wise’s administration.
+In that role, Tim played a key part in advancing statewide economic development initiatives, including helping secure and manage the Pete Dye West Virginia Classic—then the largest event of its kind and a major national showcase for the state, generating jobs, tourism, and economic impact.
+Building on that success, Tim worked closely with West Virginia leaders, including current United States Senator Jim Justice, The Greenbrier, and the PGA TOUR to bring the Greenbrier Classic to the state.
+As the tournament’s first Executive Director, Tim helped position West Virginia on the national stage, earning the PGA TOUR’s highest honor, “Best in Class,” in 2011—recognition of excellence in organization, leadership, and community partnership.
+Tim’s commitment to education and opportunity next led him to Fairmont State University, where he served as Athletic Director and Vice President.
+Under his leadership, Fairmont State athletics was modernized and elevated into one of the nation’s premier Division II programs, culminating in the university’s first-ever appearance in an NCAA national championship title game in 2017.
+Recognized statewide for his leadership and service, Tim is a WVU College of Physical Activity and Sport Sciences Hall of Fame inductee, a West Virginia Executive “Young Gun,” and a member of The State Journal’s “Generation Next – Top 40 Under 40.”
+Today, Tim continues his commitment to strengthening West Virginia communities as a broker with McNeely Realty Group.
+He is proud to work alongside his wife, Sarah, and to apply his experience in law, government, education, and economic development to help families, businesses, and communities thrive.
+Tim currently serves as President of the North Central West Virginia Real Estate Information Network and the West Virginia Golf Association, continuing his lifelong mission of leadership, service, and results for the people of West Virginia.

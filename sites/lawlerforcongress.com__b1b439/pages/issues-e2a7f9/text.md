@@ -1,0 +1,139 @@
+Deliver Real Tax Relief So You Keep More of What You Earn
+While Albany politicians tax, toll, and fee you to death, Congressman Mike Lawler has delivered significant tax relief for Hudson Valley's working families, seniors, and small businesses.
+- Voting for the Working Families Tax Cuts Act that saves the average Hudson Valley family nearly $4,000 this year
+- Taking on his own party to quadruple the SALT deduction cap to $40,000 - delivering thousands of dollars in tax relief to over 90% of Hudson Valley residents
+- Expanding the $2,200 Child Tax Credit, helping 16 million more low-income families with children qualify for real tax relief
+- Eliminating taxes on Social Security income for 88% of Hudson Valley seniors so they can afford to stay in their homes and retire with dignity near loved ones
+- Slashing taxes on tips and overtime pay for workers to improve the cost of living and help people keep more of what they earn
+- Voting for small business tax credits to make childcare accessible and affordable.
+Parents should not have to choose between going to work and taking care of their kids
+- Led the fight against Gov.
+Hochul’s absurd congestion pricing plan - a $5,000/year commuter tax on hardworking Hudson Valley families just trying to get to work
+- Introduced legislation to provide tax credits for school supplies and youth-organized sports equipment to ensure parents are able to provide for their children
+In the New York State Assembly, Lawler built his record fighting for local taxpayers:
+- Established a 10% property tax exemption for volunteer firefighters and EMS personnel
+- Pushed to establish a tax credit to offset utility bill increases
+- Supported eliminating state sales tax on everyday necessities
+- Introduced legislation to double the STAR Property Tax Relief benefit for seniors
+Make Healthcare More Affordable and Accessible
+Mike Lawler has frequently crossed party lines and fought for commonsense measures to make healthcare more affordable and accessible - particularly for the most vulnerable.
+- Took on his own party leadership to force a House vote on extending Affordable Care Act subsidies and prevent premium increases for millions of Americans
+- Secured over $3 billion in federal funding for New York’s most vulnerable hospitals that serve Medicare, Medicaid, and uninsured patients
+- Introduced the IVF Access and Affordability Act (H.R.1878) to establish a tax credit for fertility treatments, like IVF.
+- Advocated for stronger provider access, including opposing cuts to Medicare physician payments and supporting increased residency slots and community health center funding.
+- Introduced the HEAL Act (H.R. 5277) to make veterans' healthcare more affordable by eliminating travel deductibles, increasing mileage reimbursement rates, and funding transportation options—helping patients access care without added financial burden
+- Introduced the Doctors in Our Borders Act (H.R. 1201) to expand the healthcare workforce by allowing more U.S.-trained foreign doctors to stay and practice in underserved communities—improving access where shortages are most severe
+- Introduced the Streamline Emergency Care Act (H.R. 3980) to reduce ER wait times and expand emergency room capacity through targeted federal grants
+- Introduced the Early Access to Screening Act (H.R. 8551) to lower the age at which women can get cost-free annual breast cancer screenings
+Protect Social Security & Medicare; Strengthen Medicaid
+Mike Lawler has worked across party lines to protect Social Security and Medicare, and strengthen Medicaid for those who rely on it.
+- Strengthened the Medicaid program to protect coverage for New York’s most vulnerable residents, including low-income individuals, seniors, and single-parent households
+- Ensured that able-bodied adults without children are required to work, volunteer, or attend school 20 hours per week to qualify for Medicaid, and prevent illegal immigrants from accessing Medicaid benefits they are not eligible to receive
+- Championed and helped deliver passage of the Social Security Fairness Act - increasing retirement benefits for teachers, police officers, firefighters, and other public servants who were being shortchanged by an outdated federal rule.
+This was the biggest expansion of Social Security benefits in decades
+- Eliminated the tax on Social Security benefits for 88% of seniors - a $6,000 deduction for singles and $12,000 for married couples
+Lower Energy Costs and End New York's Energy Crisis
+New York families are paying some of the highest energy bills in the nation — and it is completely the fault of Kathy Hochul and Albany politicians.
+Albany's radical energy mandates, rushed timelines, and ideologically driven decisions, such as closing Indian Point, have spiked costs, destabilized the grid, and driven businesses out of the state.
+Congressman Mike Lawler is fighting back.
+- Advocating to reopen and rebuild the Indian Point Nuclear Energy Center, a clean, reliable, carbon-free source that supplied over 25% of New York City's electricity before Albany politicians shut it down.
+Restarting Indian Point is the fiscally responsible solution to lower electricity prices and improve grid stability for millions of New Yorkers
+- Supporting an all-of-the-above energy strategy that includes natural gas, nuclear, and renewables, because energy independence requires reliable baseload power, not just weather-dependent sources that leave families in the dark
+- Fighting to expand natural gas infrastructure to keep home heating bills affordable.
+Blocking pipeline capacity drives up prices and forces New Yorkers to rely on energy imported from states and countries with lower environmental standards
+- Calling for the repeal or overhaul of New York's CLCPA, a costly, unrealistic mandate that is eliminating reliable energy sources, spiking utility rates, and threatening grid reliability.
+New York's own grid operator, NYISO, has repeatedly warned that the pace of the transition puts the grid at risk
+- Opposing top-down energy mandates, like all-electric building requirements and forced transition timelines, that raise costs on homeowners and small businesses without delivering meaningful results.
+- Supporting federal permitting reform to speed construction of pipelines, transmission lines, and generation facilities Americans need to lower prices and ensure grid reliability.
+Support Law Enforcement, Public Safety, and Crack Down on Crime
+Mike Lawler has been endorsed by law enforcement unions and rank-and-file police officers for his leadership in fighting against the “defund the police” agenda and weak on crime policies.
+- Fought for and delivered tens of millions of dollars in federal funding for Hudson Valley law enforcement and first responders
+- Fighting to repeal dangerous cashless bail laws and instill a dangerousness standard when determining bail or pretrial release to prevent dangerous criminals from repeatedly being allowed to walk free and terrorize innocent people
+- Introduced the Public Service Retirement Tax Relief Act (H.R. 9750) to cap federal income taxes for retirees’ government pensions because police officers, firefighters, and other public servants deserve to keep more of the pensions they worked so hard to earn.
+- Introduced the Public Housing Rent Reduction for First Responders Act (H.R. 7701) to lower how much rent police officers, firefighters, and EMTs pay for public housing.
+- Introduced the Schools Want Accountability for Threats (SWAT) Act (H.R. 5590) to increase penalties for swatting attacks targeting schools
+- Introduced the Housing for Heroes Act (H.R. 7503) to expand access to affordable housing options to law enforcement officers and firefighters
+- Supported the bipartisan Providing Child Care for Police Officers Act (H.R. 3304) to make childcare more accessible to the men and women of law enforcement
+- Prioritized law enforcement during the congressional appropriations process, providing millions of dollars for the Rockland County Sheriff’s Department for Fiscal Year 2026
+Stop Waste, Fraud, Abuse & Out-of-Control Federal Spending
+Mike Lawler has fought to eliminate waste, fraud, and abuse and ensure that government lives within its means just like Hudson Valley families, seniors, and small businesses do.
+- Voted to save taxpayers $2.1 trillion over ten years, cap government spending at 1% annual growth, strengthen work requirements for able-bodied adults, and protect veterans’ services, Social Security, and Medicare
+- Ensured the SALT cap increase delivers relief to the 90%+ of Hudson Valley taxpayers, not Wall Street or the ultra-wealthy
+- Introduced the Fairness for Victims of SNAP Skimming Act (H.R. 3117) to help victims of SNAP fraud recover stolen benefits
+- Supported investigations into alleged financial wrongdoing, including the use of shell companies to hide payments, and supported whistleblower investigations
+Honor and Support Veterans and Their Families
+Mike Lawler has been at the forefront of honoring and supporting our brave veterans and their families throughout his time in Congress and, prior to that, in the State Legislature.
+- Introduced the HEAL Act (H.R. 5277) to make veterans' healthcare more affordable by eliminating travel deductibles, increasing mileage reimbursement rates, and funding transportation options—helping patients access care without added financial burden.
+- Advanced bipartisan legislation to address toxic exposure, including introducing the VET PFAS Act, which targets health risks for veterans and military families exposed to harmful chemicals
+- Consistently voted in support of additional funding for veterans and their families, encompassing both healthcare and other services
+- Assisted countless veterans facing difficulties with VA claims, Social Security, and Medicare issues - and will continue to fight for every veteran to receive their earned benefits
+- Introduced and cosponsored multiple bipartisan pieces of legislation to improve and expand access to benefits for veterans and their families.
+This includes bills to support families of veterans who commit suicide, improve veterans' healthcare transportation benefits, provide more affordable housing options for veterans, and more
+Secure Our Border and Support Immigration Reform
+Mike Lawler has been a commonsense voice in support of secure borders and opposing “Sanctuary” policies for criminal migrants, while calling for bipartisan reforms to the legal immigration system to ensure law-abiding, hard-working people have access to the American Dream.
+- Supported bipartisan efforts to reverse Biden-era policies that allowed for millions of illegal immigrants to cross the border completely unvetted
+- Visited the southern border and spoke directly with Customs and Border Protection agents dealing with a record number of illegal crossings under the Biden Administration
+- Cosponsored the Dignity Act (H.R. 4393) - the first serious, bipartisan immigration reform effort in decades - because the current system is broken for everyone
+- Introduced the Fentanyl Kills Act (H.R. 5023) to charge fentanyl traffickers with attempted murder, because open borders have helped fuel the deadliest drug crisis in American history
+- Led the fight against Governor Hochul and far-left politicians in the Hudson Valley who pushed Sanctuary State, County, and City policies that helped exacerbate the illegal immigration and crime problems in New York
+- Led efforts to enhance legal immigration options tied to U.S. workforce needs.
+This includes expanding the CONRAD 30 program that allows foreign graduates of U.S. medical schools to stay and work in the U.S.
+He also introduced legislation to provide a healthcare workforce exemption to any new H-1B fees
+Improve Housing Affordability and Home Ownership
+Mike Lawler has championed tax relief for homeowners and introduced and authored multiple bills that became law to increase housing supply and lower costs - the first time in a generation that had been accomplished.
+- Introduced the Revitalizing America’s Housing Act (H.R. 4856), a broad package designed to incentivize construction, reduce regulatory barriers, and expand homeownership opportunities
+- Introduced the Public Service Homeownership Assistance Act (H.R.10053) to establish a new home loan program for public servants, ensuring those who give back to our community can more easily afford to buy a home
+- Helped pass the bipartisan 21st Century ROAD to Housing Act (H.R. 6644) in law, which incorporated six of his bills focused on boosting supply, streamlining development, and reducing costs for families
+- Introduced targeted measures like the Choice in Affordable Housing Act (H.R. 1981) to expand access to rental vouchers and attract more landlords, and legislation to identify and remove federal barriers to affordable housing
+- Serves on the Housing and Insurance Subcommittee in the House to ensure that the rising cost of housing in the Hudson Valley is elevated and addressed in national housing conversations
+Maintain a Commonsense, Mainstream Position on Abortion
+Mike Lawler’s clear, commonsense position on abortion and reproductive rights reflects the mainstream of public opinion on abortion and not the extremes of either party.
+- Opposes a federal ban on abortion, and would never force a rape victim or woman facing a serious health issue to continue a pregnancy against their will
+- Supports expectant mothers through increased funding for adoption programs and took on his own party to ensure birth control is accessible and affordable
+- Stood up to his own party to expand access to IVF treatments and maintain accessible and affordable reproductive healthcare, including birth control and mifepristone
+- Sponsored legislation to create a federal tax credit for women and their partners relying on costly fertility treatments to start or grow their family
+- Opposes late-term abortions, sex-selection abortions, and non-doctors performing abortions
+- Supports parental notification for instances when a minor is pregnant and seeking an abortion
+Improve Education and Support Parental Rights
+Mike Lawler believes every child deserves a world-class education and that a child's zip code should never determine the quality of their schooling.
+- Led the charge against Governor Hochul's proposal to spend $2.4 billion on services for undocumented migrants while cutting foundation aid to nearly half the schools in NY-17
+- Cosponsored the Educational Choice for Children Act (H.R. 833) to give parents access to the best educational options for their child - public, private, charter, homeschooling, or religious
+- Supported the Working Families Tax Cuts Act which passed into law critical policies to improve education options in America, including by allowing pell grants to go to students in career and technical education programs.
+- Supported the rights of parents to advocate for age-appropriate school curriculum while ensuring we teach children tolerance and compassion for all
+- Believes American history should be taught honestly - acknowledging our imperfections while affirming that America remains the greatest force for good, freedom, and democracy the world has ever known
+- Introduced the Affordable Loans for Students Act (H.R. 2003) to create a 2% cap on federal student loan interest rates, providing borrowers with the flexibility to seek quality education while providing them with the real ability to pay back their debt
+- Introduced the Professional Student Degree Act (H.R. 6718) to raise the cap on graduate student loans for more professional degree programs that the Department of Education is currently not designating as “professional.” This includes students seeking critical degrees, such as nursing, physical therapy, social work, teaching, and more
+Promote a Balanced, Sensible Approach on Guns
+Mike Lawler supports the constitutional rights of law-abiding Americans to keep and bear arms, while being a leader in promoting gun safety and cracking down on illegal weapons.
+- Successfully led the fight to extend the bipartisan Undetectable Firearms Act - originally signed by President Reagan - making it harder to sneak firearms past metal detectors in stadiums, arenas, and public buildings
+- Supports red flag laws to keep guns out of the hands of those likely to harm themselves or others, so long as full due process is afforded to every individual first
+- Supports prohibiting gun purchases by anyone with an outstanding warrant, and increasing penalties for threats of mass harm
+- Supports the installation of panic alarms in all school safety plans and funding of school resource officers for districts that request them
+- Introduced the Prevent Family Fire Act (H.R. 169), a common-sense bill to incentivize safe storage of firearms
+- Cosponsored the Bipartisan Background Checks Act (H.R. 18) to strengthen existing background check requirements
+Ensure a Strong National Defense and Military Preparedness
+Mike Lawler believes in a foreign policy marked by peace through strength that protects Americans at home and abroad and stands with our democratic allies around the world.
+- Introduced the Indo-Pacific Treaty Alliance Act (H.R. 3721) to study the creation of a NATO-like alliance with our Indo-Pacific allies to deter aggression by communist China and North Korea
+- Stood up to members of his own party to strongly support Ukraine's defense against Vladimir Putin's illegal invasion
+- Introduced and passed into law legislation to improve counterintelligence training for diplomats in high-risk posts
+- Introduced multiple pieces of legislation to expand counterterrorism strategy and effectiveness overseas
+- Has always voted for the National Defense Authorization Act to ensure our troops have the tools they need to keep America safe
+- Introduced the bipartisan Foreign Service Modernization Act (H.R. 9086) to ensure our brave diplomats have the tools and resources to serve our country and support U.S. citizens abroad.
+Defend and Support Our Great Ally – The State of Israel
+Mike Lawler stands firm in his support of our strongest democratic ally in the Middle East.
+He has visited Israel multiple times as part of bipartisan delegations and has never wavered.
+- Serves as the House Foreign Affairs Committee Subcommittee on the Middle East and North Africa Chairman to ensure support for Israel is front and center during Committee operations and holding the State Department accountable to this advocacy as well
+- Passed into law the Special Envoy for the Abraham Accords Act, establishing a dedicated State Department role to advance normalization agreements between Israel and Arab nations on the path to lasting peace in the Middle East
+- Introduced and passed into law multiple pieces of legislation to combat the illicit Iranian oil trade.
+This includes the Stop Harboring Iranian Petroleum Act (SHIP Act) and Iran-China Energy Sanctions Act.
+Also passed the Enhanced Iran Sanctions Act (H.R. 1422) through the House to enhance these efforts
+- Introduced the bipartisan Antisemitism Awareness Act (H.R. 1007), requiring the Department of Education to more rigorously investigate and prosecute antisemitic discrimination on college campuses
+- Introduced the IGO Anti-Boycott Act (H.R. 3016) with Rep.
+Josh Gottheimer to combat antisemitism within international organizations like the UN
+Preserve the Environment and Protect Our Natural Resources
+Mike Lawler believes we have a responsibility to protect our air, water, and natural environment, and that real progress is built on smart policy and realistic solutions, not costly mandates that hurt working families.
+- Introduced the NJ-NY Watershed Protection Act (H.R. 5762), establishing an annual $20 million fund to keep the Hudson River clean for generations to come
+- Supported legislation to improve air quality, reduce emissions, expand recycling and composting, and extend healthcare benefits to veterans and first responders exposed to PFAS contamination
+- Supported New York's Environmental Bond Act — a $4 billion investment in climate resiliency, clean air, clean water, and New York's energy future
+- Serves as Republican Chairman of the Extreme Heat Caucus, raising awareness about the dangers of extreme heat and advancing bipartisan solutions to protect vulnerable communities
+- Introduced the CROP for Farming Act (H.R. 4296) to incentivize farmers to voluntarily reduce emissions and improve environmental stewardship, supporting cleaner air and water across the Hudson Valley.

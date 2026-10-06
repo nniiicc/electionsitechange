@@ -1,0 +1,11 @@
+Tommy is a member of the following organizations:
+- Town Meeting (at large)
+- Town Meeting Recorded Vote Coalition
+- Town Meeting Green Caucus
+- Committee to Commemorate John Wilson
+- Democratic Town Committee (elected)
+- Brookline PAX (board member)
+- Progressive Democrats of Massachusetts (sustaining member)
+- Friends of Hall’s Pond (board member 2014-2019)
+- Friends of the Carlton Street Footbridge (board member 2008-2019)
+- Benevolent and Protective Order of Elks, Lodge #886, Brookline

@@ -1,0 +1,28 @@
+Bernstine, Mustello Highlight Rail Investments Supporting Jobs, Economic Growth in Butler County
+January 23, 2026
+HARRISBURG – Reps.
+Aaron Bernstine (R-Butler/Lawrence) and Marci Mustello (R-Butler) today announced more than $7 million in rail freight investments that will improve transportation infrastructure, strengthen supply chains and support hundreds of family-sustaining jobs in Butler County and across western Pennsylvania.
+“These projects represent a significant commitment to maintaining and modernizing Pennsylvania’s freight rail system,” Bernstine said.
+“As Republican chairman of the House Rail Subcommittee, I see firsthand how strategic rail investments improve safety, strengthen our transportation network and support the industries that drive our regional economy.”
+“Reliable rail infrastructure is essential for local manufacturers and employers who depend on efficient freight movement,” Mustello said.
+“These investments will help sustain jobs, improve safety and ensure Butler County remains a strong place to do business.”
+• Buffalo and Pittsburgh Railroad:
+$4 million to make extensive upgrades across 218 miles of its Main Line and P&W Subdivisions.
+The project includes the replacement of 40 grade crossings, installation of 80,000 feet of rail, replacement of 30,000 ties, and surfacing 48 miles of track to improve safety and reliability.
+• Pittsburgh and Shawmut Railroad:
+$3.1 million to rehabilitate approximately 20 miles of track on the Laurel Subdivision, along with upgrades to an additional six miles of track.
+The project also includes the installation of two switch machines and improvements to a grade crossing in the Butler Yard, a key hub for regional freight movement.
+Funding is awarded through Pennsylvania’s Rail Transportation Assistance Program (RTAP) and Rail Freight Assistance Program (RFAP).
+Pennsylvania has 65 operating railroads and more than 5,600 miles of freight track, the most of any state in the nation.
+The RTAP and RFAP programs are administered by the Pennsylvania Department of Transportation’s Bureau of Rail, Freight, Ports and Waterways and are designed to support public-private partnerships that maintain and enhance the Commonwealth’s rail system.
+Representative Aaron Bernstine
+8th Legislative District
+Representative Marci Mustello
+11th Legislative District
+Pennsylvania House of Representatives
+Media Contact: Rick Leiner
+717.260.6437 (office), 717.497.8478 (cell)
+Rleiner@pahousegop.com
+Sign Up to Receive Legislative Email Updates
+Keep up-to-date on the latest legislative and community news.
+Your email address will be used strictly for legislative purposes.

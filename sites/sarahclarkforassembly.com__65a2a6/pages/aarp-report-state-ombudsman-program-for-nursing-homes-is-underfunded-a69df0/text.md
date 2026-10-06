@@ -1,0 +1,8 @@
+“More than half of the long-term care facilities in New York state did not get a single visit from a state-sponsored ombudsman program during a three-month period in 2022.
+…
+The state’s ombudsman program uses a combination of volunteers and some paid staffers.
+It is administered by non-profit organizations around the state, and in the Rochester area, it is run by the organization Lifespan, whose President and CEO Ann Marie Cook notes that many of the volunteers dropped out of the program during the peak of the pandemic.
+…
+Among the state lawmakers backing AARP’s call for more state funding for the ombudsman program is Assemblymember Sarah Clark, who is a member of the Assembly’s Committee on Aging.
+She said the ombudsman program “simply cannot operate to its potential at the rate of current funding,” and Clark said the proposed additional $15 million in state funding would allow for consistent visits to long-term care facilities across the state.
+“AARP report: State ombudsman program for nursing homes is underfunded,” February 14, 2023, via WXXI News

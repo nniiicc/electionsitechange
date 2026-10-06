@@ -1,0 +1,26 @@
+Embedded Files
+Human Rights
+Disabilities Rights and Veteran Rights Protection
+Education Equality
+Judicial System Reform
+Healthcare Equality and Affordable Healthcare for all
+Elderly Rights
+Rent Control & Tenant rights
+Homelessness & Housing Reform
+Affordable property low income homes
+Gun Control Reform
+Animal Rights Protection
+Climate change and environmental injustice
+Childcare & Foster care Reform
+Small Business Improvement
+Systematic Racism Reform
+Economic Development
+Indigenous peoples Right Protection
+Lower Utilities Bills.
+Consumers deserve fair energy pricing and transparency
+Teachers Right Protection
+End Police Brutalities
+And more.
+Page updated
+Google Sites
+Report abuse

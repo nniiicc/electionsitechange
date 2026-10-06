@@ -1,0 +1,461 @@
+Legislators
+- Karen E.
+Spilka — Senate President
+- Ronald Mariano — Speaker of the House
+- Michael J.
+Moran — House Majority Leader, Eighteenth Suffolk
+- Kate Hogan — House Speaker Pro Tempore, Third Middlesex
+- Alice Hanlon Peisch — House Assistant Majority Leader, Fourteenth Norfolk
+- Frank A.
+Moran — House Second Assistant Majority Leader, Seventeenth Essex
+- Paul J.
+Donato — House Second Assistant Majority Leader, Thirty fifth Middlesex
+- Danielle W.
+Gregoire — House First Division Chair
+- Jeffrey N.
+Roy — House Second Division Chair
+- Carlos González — House Third Division Chair
+- James J.
+O’Day — House Fourth Division Chair
+- Aaron M.
+Michlewitz — Chair, House Ways and Means Committee
+- Cynthia Stone Creem — Senate Majority Leader, Norfolk and Middlesex District
+- William N.
+Brownsberger — Senate President Pro Tempore, Suffolk and Middlesex District
+- Joan B.
+Lovely — Senate Assistant Majority Leader, Second Essex District
+- Michael J.
+Barrett — Senate Assistant Majority Leader, Third Middlesex
+- Sal N.
+DiDomenico — Senate Assistant Majority Leader, Middlesex and Suffolk District
+- Michael F.
+Rush — Senate Majority Whip, Norfolk and Suffolk District
+- Julian Cyr — Senate Assistant Majority Whip, Cape and Islands District
+- Michael J.
+Rodrigues — Chair, Senate Ways and Means Committee
+- Michael Brady — Senator, Second Plymouth and Norfolk
+- Joanne Comerford — Senator, Hampshire, Franklin and Worcester District
+- Nick Collins — Senator, First Suffolk District
+- John Cronin — Senator, Worcester and Middlesex District
+- Brendan Crighton — Senator, Third Essex District
+- William Driscoll — Senator, Norfolk, Plymouth and Bristol District
+- James Eldridge — Senator, Middlesex and Worcester District
+- Lydia Edwards — Senator, Third Suffolk District
+- Paul Feeney — Senator, Bristol and Norfolk District
+- Dylan Fernandes — Senator, Plymouth and Barnstable District
+- Barry Finegold — Senator, Second Essex and Middlesex District
+- Cindy F.
+Friedman — Senator, Fourth Middlesex
+- Adam Gomez — Senator, Hampden
+- Vanna Howard — Senator, Seventeenth Middlesex
+- Pat Jehlen — Senator, Second Middlesex District
+- John Keenan — Senator, Norfolk and Plymouth District
+- Jason Lewis — Senator, Fifth Middlesex District
+- Paul Mark — Senator, Berkshire, Hampden, Franklin and Hampshire District
+- Joan Meschino — Senator, Third Plymouth District
+- Liz Miranda — Senator, Second Suffolk District
+- Mike Moore — Senator, Second Worcester District
+- Jake Oliveira — Senator, Hampden, Hampshire and Worcester District
+- Pavel Payano — Senator, First Essex District
+- Rebecca Rausch — Senator, Norfolk, Worcester and Middlesex District
+- John Velis — Senator, Hampden and Hampshire District
+- James Arena-DeRosa — State Representative, Eighth Middlesex
+- James Arciero — State Representative, Second Middlesex
+- Jennifer Armini — State Representative, Eighth Essex
+- Shirley Arriaga — State Representative, Eighth Hampden
+- Brian Ashe — State Representative, Second Hampden
+- Bruce Ayers — State Representative, First Norfolk
+- Michelle Badger — State Representative, First Plymouth
+- Christine Barber — State Representative, Thirty fourth Middlesex
+- John Barrett III — State Representative, First Berkshire
+- David Biele — State Representative, Fourth Suffolk
+- Hannah Bowen — State Representative, Sixth Essex
+- Antonio F.
+D.
+Cabral — State Representative, Thirteenth Bristol
+- Daniel Cahill — State Representative, Tenth Essex
+- Simon Cataldo — State Representative, Fourteenth Middlesex
+- Tackey Chan — State Representative, Second Norfolk
+- Michelle Ciccolo — State Representative, Fifteenth Middlesex
+- Rob Consalvo — State Representative, Fourteenth Suffolk
+- Mike Connolly — State Representative, Twenty sixth Middlesex
+- Manny Cruz — State Representative, Seventh Essex
+- Mark Cusack — State Representative, Fifth Norfolk
+- Mike Day — State Representative, Thirty first Middlesex
+- Leigh Davis — State Representative, Third Berkshire
+- Marjorie C.
+Decker — State Representative, Twenty fifth Middlesex
+- Kip Diggs — State Representative, Second Barnstable
+- Mindy Domb — State Representative, Third Hampshire
+- Daniel Donahue — State Representative, Sixteenth Worcester
+- Kate Donaghue — State Representative, Nineteenth Worcester
+- Michelle DuBoise — State Representative, Tenth Plymouth
+- Pat Duffy — State Representative, Fifth Hampden
+- Natalie Higgins — State Representative, Fourth Worcester
+- Mike Finn — State Representative, Sixth Hampden
+- Lisa Field — State Representative, Third Bristol
+- Carole Fiola — State Representative, Sixth Bristol
+- Tricia Farley-Bouvier — State Representative, Second Berkshire
+- Sean Garballey — State Representative, Twenty third Middlesex
+- Judith Garcia — State Representative, Eleventh Suffolk
+- Dennis Gallagher — State Representative, Eighth Plymouth
+- William C.
+Galvin — State Representative, Sixth Norfolk
+- Colleen Garry — State Representative, Thirty sixth Middlesex
+- Carmine Gentile — State Representative, Thirteenth Middlesex
+- Jessica Giannino — State Representative, Sixteenth Suffolk
+- Homar Gomez — State Representative, Second Hampshire
+- Ken Gordon — State Representative, Twenty first Middlesex
+- Richard Haggerty — State Representative, Thirtieth Middlesex
+- Ryan Hamilton — State Representative, Fifthteenth Essex
+- Jim Hawkins — State Representative, Second Bristol
+- Christopher Hendricks — State Representative, Eleventh Bristol
+- Tara Hong — State Representative, Eighteenth Middlesex
+- Kevin Honan — State Representative, Seventeenth Suffolk
+- Russell Holmes — State Representative, Sixth Suffolk
+- Daniel Hunt — State Representative, Thirteenth Suffolk
+- Kristin Kassner — State Representative, Second Essex
+- Mary Keefe — State Representative, Fifteenth Worcester
+- Sally Kerans — State Representative, Thirteenth Essex
+- Patrick Kearney — State Representative, Fourth Plymouth
+- Meg Kilcoyne — State Representative, Twelfth Worcester
+- Mike Kushmerek — State Representative, Third Worcester
+- Kathy LaNatra — State Representative, Twelfth Plymouth
+- John Lawn — State Representative, Tenth Middlesex
+- David LeBoeuf — State Representative, Seventeenth Worcester
+- Jack Lewis — State Representative, Seventh Middlesex
+- Kate Lipper-Garabedian — State Representative, Thirty second Middlesex
+- Jay Livingstone — State Representative, Eighth Suffolk
+- David Linsky — State Representative, Fifth Middlesex
+- Hadley Luddy — State Representative, Fourth Barnstable
+- Adrian Madaro — State Representative, First Suffolk
+- William MacGregor — State Representative, Tenth Suffolk
+- John Mahoney — State Representative, Thirteenth Worcester
+- Christopher Markey — State Representative, Ninth Bristol
+- Joseph McGonagle — State Representative, Twenty-eighth Middlesex
+- Paul McMurtry — State Representative, Eleventh Norfolk
+- Rita Medes — State Representative, Eleventh Plymouth
+- Thomas Moakley — State Representative, Barnstable, Dukes and Nantucket
+- Sam Montaño — State Representative, Fifteenth Suffolk
+- John Moran — State Representative, Ninth Suffolk
+- James Murphy — State Representative, Fourth Norfolk
+- Brian Murray — State Representative, Tenth Worcester
+- Tram Nguyen — State Representative, Eighteenth Essex
+- Steven Ouellette — State Representative, Eighth Bristol
+- Steven Owens — State Representative, Twenty-ninth Middlesex
+- Edward Philips — State Representative, Eighth Plymouth
+- Angelo Puppolo — State Representative, Twelfth Hampden
+- Adrianne Ramos — State Representative, Fourteenth Essex
+- Orlando Ramos — State Representative, Ninth Hampden
+- David Rogers — State Representative, Twenty fourth Middlesex
+- John Rogers — State Representative, Twelfth Norfolk
+- Sean Reid — State Representative, Eleventh Essex
+- Estela Reyes — State Representative, Fourth Essex
+- Daniel Ryan — State Representative, Second Suffolk
+- Lindsay Sabadosa — State Representative, First Hampshire
+- Amy Sangiolo — State Representative, Eleventh Middlesex
+- Aaron Saunders — State Representative, Seventh Hampden
+- Margaret Scarsdale — State Representative, First Middlesex
+- Adam Scanlon — State Representative, Fourteenth Bristol
+- Danillo Sena — State Representative, Thirty seventh Middlesex
+- Dawne Shand — State Representative, First Essex
+- Alan Silvia — State Representative, Seventh Bristol
+- Mark Sylvia — State Representative, Tenth Bristol
+- Priscila Sousa — State Representative, Sixth Middlesex
+- Thomas Stanley — State Representative, Ninth Middlesex
+- Andrew “Dru” Tarr — State Representative, Fifth Essex
+- Joshua Tarsky — State Representative, Thirteenth Norfolk
+- Jeffrey Turco — State Representative, Nineteenth Suffolk
+- Chynah Tyler — State Representative, Seventh Suffolk
+- Steven Ultrino — State Representative, Thirty third Middlesex
+- Andy Vargas — State Representative, Third Essex
+- Tommy Vitolo — State Representative, Fifteenth Norfolk
+- Thomas Walsh — State Representative, Twelfth Essex
+- Richard G.
+Wells Jr. — State Representative, Seventh Norfolk
+- Bud Williams — State Representative, Eleventh Hampden
+- Christopher Worrell — State Representative, Fifth Suffolk
+- Jon Zlotnik — State Representative, Second Worcester
+- Marc Pacheco — Former Dean of the Senate, Third Bristol and Plymouth
+- Ruth Balser — Former State Representative, Twelth Middlesex
+- Ed Coppinger — Former State Representative, Tenth Suffolk
+- Denise Garlick — Former State Representative, Thirteenth Norfolk
+- Kay Khan — Former State Representative, Eleventh Middlesex
+- Sarah Peake — Former State Representative, Fourth Barnstable
+- Paul Schmid — Former State Representative, Eighth Bristol
+Mayors
+- David P.
+“D.J.” Beauregard, Jr. — Mayor of Methuen
+- Edward A.
+“Ted” Bettencourt, Jr. — Mayor of Peabody
+- Michael Cahill — Mayor of Beverly
+- Gary Christenson — Mayor of Malden
+- Paul Coogan — Mayor of Fall River
+- Salem Derby — Mayor of Easthampton
+- Virginia Desorgher — Mayor of Greenfield
+- Cathleen DeSimone — Mayor of Attleboro
+- Joshua Garcia — Mayor of Holyoke
+- Erik Gitschier — Mayor of Lowell
+- Jennifer Grigoraitis — Mayor of Melrose
+- Patrick M.
+Keefe, Jr. — Mayor of Revere
+- Thomas P.
+Koch — Mayor of Quincy
+- Marc Laredo — Mayor of Newton
+- Paul Lundberg — Mayor of Gloucester
+- Breanna Lungo-Koehn — Mayor of Medford
+- Jennifer A.
+Macksey — Mayor of North Adams
+- Peter M.
+Marchetti — Mayor of Pittsfield
+- Jeannette A.
+McCarthy — Mayor of Waltham
+- Jon Mitchell — Mayor of New Bedford
+- Michael Molisse — Mayor of Weymouth
+- Jared C.
+Nicholson — Mayor of Lynn
+- Michael J.
+Nicholson — Mayor of Gardner
+- Dominick Pangallo — Mayor of Salem
+- Joseph M.
+Petty — Mayor of Worcester
+- Sean Reardon — Mayor of Newburyport
+- William C.
+Reichelt — Mayor of West Springfield
+- Domenic J.
+Sarno — Mayor of Springfield
+- Gina-Louise Sciarra — Mayor of Northampton
+- Sumbul Siddiqui — Mayor of Cambridge
+- Charlie Sisitsky — Mayor of Framingham
+- Robert Van Campen — Mayor of Everett
+- John L.
+Vieau — Mayor of Chicopee
+- Jake Wilson — Mayor of Somerville
+Governor’s Council
+- Tamisha L.
+Civil — Governor’s Councilor, District Two
+- Paul M.
+DePalo — Governor’s Councilor, District Seven
+- Mara Dolan — Governor’s Councilor, District Three
+- Joseph C.
+Ferreira — Governor’s Councilor, District One
+- Christopher A.
+Iannella — Governor’s Councilor, District Four
+- Terrance W.
+Kennedy — Governor’s Councilor, District Six
+- Tara J.
+Jacobs — Governor’s Councilor, District Eight
+- Eunice D.
+Zeigler — Governor’s Councilor, District Five
+Local Elected Officials
+- Liz Breadon — Council President, Boston
+- Gabriela “Gigi” Coletta Zapata — District 1 City Councilor, Boston
+- Sharon Durkan — District 8 City Councilor, Boston
+- Edward M.
+Flynn — District 2 City Councilor, Boston
+- John FitzGerald — District 3 City Councilor, Boston
+- Ruthzee Louijeune — City Councilor At-Large, Boston
+- Erin J.
+Murphy — City Councilor At-Large, Boston
+- Enrique J.
+Pepén — District 5 City Councilor, Boston
+- Henry Santana — City Councilor At-Large, Boston
+- Benjamin J.
+Weber — District 6 City Councilor, Boston
+- Brian J.
+Worrell — District 4 City Councilor, Boston
+- Carla Darosa — Councilor-at-Large, Brockton
+- Peter Meier — Bourne Select board, Chairman Bourne Democratic Town Committee
+- Burhan Azeem — Vice Mayor, Cambridge
+- Tim Flaherty — City Councilor, Cambridge
+- Marc C.
+McGovern — City Councilor, Cambridge
+- E.
+Denise Simmons — City Councilor, Cambridge
+- Cathie Zusy — City Councilor, Cambridge
+- Tanairi Garcia — Councilor At-Large, Chelsea
+- Leo Robinson — Councilor At-Large, Chelsea
+- Abigail Arriaga — Ward 1 Councilor, Chicopee
+- Douglas Girouard — Ward 8 Councilor, Chicopee
+- Robin Babcock — Everett School Committee, Ward 4
+- Samantha Hurley — Chair, Everett School Committee At-Large
+- Jeanne Cristiano — Everett School Committee, Ward 3
+- Joanna Garren — Everett School Committee, Ward 2
+- Stephanie Martins — Everett City Councilor, Ward 2
+- Juan Anderson-Burgos — Ward 6 Councilor, Holyoke
+- Gregory Del Rosario — District C Councilor, Lawrence
+- Stephany Infante — District E Councilor, Lawrence
+- Ana Levy — Council Vice President, Lawrence
+- Jeovanny A.
+Rodriguez — Council President, Lawrence
+- Brandon Robbins — Councilor At-Large, Leominster
+- Susan Chalifoux Zephir — Councilor At-Large, Leominster
+- Coco Alinsug — Council President & Ward Three Councilor, Lynn
+- Cardeliz Paez — Ward Five Councilor, Lynn
+- Hong Net — Councilor At-Large, Lynn
+- Natasha S.
+Megie-Maddrey — City Councilor, Lynn
+- Ella MacLaren — Central District Councilor, Methuen
+- Shane Burgo — City Councilor At-Large, New Bedford
+- Susan Albright — Councilor At-Large, Newton
+- Richard Ash — Ward 2 Councilor, Quincy
+- Martha Bixby — Ward 6 Councilor, Newton
+- Brittany Hume Charm — Councilor At-Large, Newton
+- Cyrus Dahmubed — Councilor At-Large, Newton
+- Maria Scibelli Greenberg — Ward 1 Councilor, Newton
+- David A.
+Kalis — Council Vice-President, Newton
+- Andrea W.
+Kelley — Councilor At-Large, Newton
+- Alison M.
+Leary — City Councilor, Newton
+- David Micley — Councilor At-Large, Newton
+- Sean Roche — Councilor At-Large, Newton
+- Daniel Carey — Clerk of Courts, Hampshire County
+- David Jacobs — City Councilor, Quincy
+- Ty Hapworth — City Councillor At-Large, Salem
+- Lydia C.
+King — Ward 5 City Councillor, Salem
+- Alice Rose Merkl — City Council President & Councillor At-Large, Salem
+- Andrew Smith — Ward 2 City Councillor, Salem
+- Jason Sydoriak — Ward 3 Councillor, Salem
+- Erin Turowski — Ward 1 Councillor, Salem
+- Andrew W.
+Varela — Ward 7 Councillor, Salem
+- Beth Anne Cornell — Salem School Committee
+- AJ Hoffman — Salem School Committee
+- Megan Stott — Salem School Committee
+- Jesse Clingan — City Councilor, Somerville
+- Lance L.
+Davis — Council President, Somerville
+- Ben Ewen-Campen — City Councilor, Somerville
+- Jon Link — City Councilor At-Large, Somerville
+- Matthew McLaughlin — City Councilor, Somerville
+- Kristen Strezo — City Councilor At-Large, Somerville
+- Ben Wheeler — City Councilor At-Large, Somerville
+- Malo L.
+Brown — Ward 4 Councilor, Springfield
+- Lavar W.
+Click-Bruce — Ward 5 Councilor, Springfield
+- Michael A.
+Fenton, Esq. — Ward 2 City Councilor, Springfield
+- Zaida Govan — Ward 8 Councilor, Springfield
+- Brian Santaniello — Councilor At-Large, Springfield
+- John Beltrandi — Ward 5 Council President, Westfield
+- Justin Evans — Chair, Whitman Select Board
+Community Supporters
+- Nazda Alam — DTC Weston
+- Danielle Allen — DSC Cambridge
+- Vanessa Alvarado — DTC Reading
+- Mabel Amar — DSC Lexington
+- David Ames — DTC Northampton
+- Bradford Amidon — DTC Woburn
+- Bryan Barash — DSC Beverly
+- James Leo Bedard — DTC Somerville
+- Warren Behr — DTC Cambridge
+- Denise Berkley — DTC Taunton
+- Louis Bernazzani — DTC Danvers
+- Sara Blandford — DTC Wellfleet
+- Joanne Breault — DTC Fall River
+- Catherine Brennan — DTC West Tisbury
+- Peter Brock — DTC North Attleboro
+- Tristan Brown — DTC Peabody
+- Joel Buenaventura — DSC Quincy
+- Linda Lu Burciaga — DTC Newburyport
+- Daniel Cadogan — DTC Plympton
+- Janet Cain — DTC Southampton
+- Jim Cantwell — DSC Marshfield
+- Candy Mero-Carlson — DSC Worcester
+- Karen Charles — DTC Boston
+- Matthew Chilliak — DTC Andover
+- Robert Clancy — DTC Rowe
+- Peggy Conlon — DTC Beverly
+- Barry Connell — DTC Newburyport
+- Ruth Crowley — DTC New Bedford
+- Julie Curtis — DSC Danvers
+- Jackie Curtis — DSC Mansfield
+- Paul Dasilva — DTC Fall River
+- Lora Davidson — DTC Bellingham
+- John Deeley — DTC Hingham
+- Mark DiSalvo — DSC North Andover
+- Carol Donovan — DSC Woburn
+- Jay Donovan — DTC Wilmington
+- Melissa Doyle — DTC Fall River
+- Zoe Dzineku — DSC Lowell
+- La Nita Dykes — DSC Amesbury
+- William Eddy — DSC Worcester
+- John Fernandes — DTC New Bedford
+- Marsha Finkelstein — DSC North Andover
+- Owen Fletcher — DSC Osterville
+- Evan Francis — DTC Taunton
+- Christopher Frappier — DTC Attleboro
+- Debra Garland — DTC Brockton
+- Max German — DSC Shrewsbury
+- Stephanie Gertz — DSC Hingham
+- Paul Giorgio — DTC Worcester
+- Candy Glazer — DSC Longmeadow
+- Cecilio Gonzalez — DTC Worcester
+- Jeffrey Gunther — DTC Westfield
+- Daniel Haacker — DTC Quincy
+- Lida Harkins — DSC Needham
+- Jay Harney — DTC Auburndale
+- Lee Harrison — DSC Williamstown
+- Jennifer Heck — DTC Sutton
+- Mary Henry — DSC Peabody
+- Ralph Hicks — DSC Spencer
+- Ronald Iacobucci — DTC Quincy
+- Christopher Iannella — DSC Boston
+- Rani Jacobson — DSC Gloucester
+- Kevin Jones — DTC Norwell
+- Joseph Kaplan — DSC Boston
+- Catherine Kay — DTC Northampton
+- Stephen Kerrigan — DSC Lancaster
+- Patricia Kirwin-Keilty — DSC Lowell
+- Justin Klekota — DTC Somerville
+- Steven Leibowitz — DSC Brewster
+- Meagan Lee — DSC North Attleboro
+- Robert Logan — DTC Waltham
+- Christine Lowe — DSC Fall River
+- Bob Massie — DSC Somerville
+- Nathan Markee — DTC Easthampton
+- Linda Matys — DTC Springfield
+- Susan McAlice — DSC Westborough
+- Molly McCullough — DSC Worcester
+- Thomas McGrath — DSC Pepperell
+- Tanya Neslusan — DTC Sturbridge
+- Timothy Nolan — DTC Waltham
+- Brian O’Connor — DTC Seekonk
+- Stephen O’Leary — DSC North Reading
+- Alan Orth — DTC Weston
+- Marc Pacheco — DSC Taunton
+- Mitchell Paulin — DTC Lowell
+- Diane Parsons — DTC Adams
+- Karen Payne — DTC Boston
+- Jack Perenick — DTC Somerville
+- Diane Phillips — DTC East Bridgewater
+- Rachel Plukas — DTC Franklin
+- Martin Polignone — DTC Somerville
+- Arthur Powell — DSC Beverly
+- Marilyn Powers — DSC Attleboro
+- Sahana Purohit — DTC Acton
+- Mark Reilly — DSC Dedham
+- Ann-Margaret Richard — DTC Fairhaven
+- Ann Roosevelt — DSC Cambridge
+- David Rosenblum — DTC Ashland
+- Drew Russo — DSC Lynn
+- Susan Runne — DTC Pembroke
+- Diego Sanchez — DSC Boston
+- Laurie Sawyer — DTC Attleboro
+- Wes Slate — DTC Beverly
+- Alyson Slutzky — DTC Egremont
+- Ann Stockton — DSC South Hadley
+- Sharon Stout — DTC Newton
+- Paul Sullivan — DTC Boston
+- Stephanie Swanson — DTC Arlington
+- Hanna Switlekowski — DTC Sharon
+- Ken Thompson — DSC Boxford
+- Karen Walton — DTC Chelmsford
+- Patricia Ward — DTC Sterling
+- Thomas Watkins — DTC Lynn
+- Parwez Wahid — DSC Framingham
+- Paul Yorkis — DSC Medway

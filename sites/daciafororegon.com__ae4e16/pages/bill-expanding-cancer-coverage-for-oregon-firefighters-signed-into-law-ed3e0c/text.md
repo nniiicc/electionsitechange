@@ -1,0 +1,3 @@
+House Bill 4113, which expands cancer coverage for firefighters, has been signed into law by Oregon Gov.
+Kate Brown.
+The law expands the list of cancers under state law considered an occupational disease for firefighters; it will now include bladder and gynecologic cancers…

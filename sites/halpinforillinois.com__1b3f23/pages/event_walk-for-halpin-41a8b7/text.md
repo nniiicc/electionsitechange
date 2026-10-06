@@ -1,0 +1,37 @@
+Toggle navigation
+Skip to content
+Take Our Survey
+News
+Get Involved
+Voting Resources
+About Mike
+Issues
+Donate
+Events
+Contact
+« All Events
+This event has passed.
+Walk for Halpin
+February 20, 2016 @ 10:00 am
+-
+2:00 pm
+«
+A fundraiser hosted by the Blackhawk Township Democrats
+Friends and Family Pizza Party
+»
+Add to calendar
+Google Calendar
+iCalendar
+Outlook 365
+Outlook Live
+Details
+Date:
+February 20, 2016
+Time:
+10:00 am - 2:00 pm
+Venue
+Laborers Local 309
+2835 7th Avenue
+Rock Island
+,
++ Google Map

@@ -1,0 +1,1 @@
+Connie's Profile Video on Concord Community TV - 2024 Here is a link to my candidate profile on Concord CCTV: https://youtu.be/utrVSpeAdrk?si=P96LDk6Ki9REWy3a Connie LaneOctober 10, 2024 Facebook0 Twitter LinkedIn0 Reddit Tumblr 0 Likes

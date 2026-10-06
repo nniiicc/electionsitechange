@@ -1,0 +1,15 @@
+Investing in quality education for our children and expanding early childhood access
+Growing up in the City, I believe that every child should have access to the best education.
+Families should be able to access early childhood care and our children should be able to receive a high-quality education through our public schools.
+This is why I have worked on the following:
+Early Education
+- Supporting the investment of $475 million for the Commonwealth Care for Children (C3) Grant Program over the last three years to help families combat rising costs in early education and child care.
+- After the pandemic, the state lost around 37,000 licensed seats for child care due to closures or the downsizing of early childhood centers.
+The C3 grant program increases funding for these centers by decreasing the tuition cost for families while also ensuring that faculty and staff wages are keeping up with rising costs.
+- Supporting Fair Share Investments to go towards supporting the education workforce, including $20 million for rate increases that boost early education providers, as well as $2.47 million for scholarships and loan forgiveness to encourage students to pursue a career in teaching in our public schools.
+- Over the last decade, we have seen firsthand the negative impact of cell phones and social media on our children.
+I supported a bill to make K-12 schools cell phones free, so that we can support our students’ wellbeing by prioritizing learning and interaction with one another during school.
+Community College & Higher Education
+- I also passed legislation to fully fund the MassEducate Program with a $120 million allocation so that students can receive a tuition-free Community College Education.
+- Higher education costs have become a significant burden on our young people.
+At the State House, I supported the establishment of a Student Support Fund to maintain financial aid benefits for students attending public colleges and universities, and in addition, $18.3 million in funding to strengthen student financial aid assistance and maintain existing stipends for students.

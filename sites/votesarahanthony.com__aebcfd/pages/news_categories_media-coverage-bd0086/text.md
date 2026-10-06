@@ -1,0 +1,16 @@
+The Militias Against Masks
+...Protesters had displayed a Confederate flag and a noose.
+The state representative Sarah Anthony, who is African-American and could...
+VP pick Kamala Harris, an AKA and HBCU grad, connects with Black community on many levels
+State Rep.
+Sarah Anthony, a Democrat who represents Michigan's 68th House District, remembers being in the middle of a meeting when she...
+Will Michigan Democrats Really Turn Out After a Virtual Campaign?
+On the afternoon of August 4—primary day in Michigan—Slotkin joined her friend, state Rep.
+Sarah Anthony, on a “contactless canvassing”...
+Rep.
+Sarah Anthony speaks out after recent shooting
+LANSING – A second man has died after a shooting Monday night at a strip mall in south Lansing, his mother said Wednesday.
+"With great...
+Armed citizens escort lawmaker into Michigan State Capitol
+After a horde of armed and angry protesters swarmed Lansing last week, State Rep.
+Sarah Anthony brought some extra protection on her way...

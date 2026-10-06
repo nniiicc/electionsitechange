@@ -1,0 +1,111 @@
+Endorsements
+2026:
+- Vote Mama
+- Moms Demand Action Gun Sense Candidate
+- Equality NC
+- Planned Parenthood
+- Lillian's List
+- NC League of Conservation Voters
+- Pro-Choice NC
+- Inseperable Action Mental Health Candidate
+- North Carolina Asian Americans Together In Action
+- NC NOW (National Organization for Women) PAC
+2024:
+- Planned Parenthood Votes!
+South Atlantic
+- Climate Cabinet
+- Sierra Club
+- Wake County Voter Education Coalition
+- Vote Mama
+- NC-ERA Alliance
+- Mental Health Now
+- Lillian's List
+- Moms Demand Action Gun Sense Candidate
+- Equality NC
+- Pro-Choice NC
+- NC League of Conservation Voters
+- Progressive Change Campaign Committee
+- NC AFL-CIO
+- Wake NCAE
+- MomsRising - Moms' Seal of Approval on Child Care
+- NC National Association of Social Workers
+- Public School Strong Voters
+- Raleigh Wake Citizens Association
+- Progressive Turnout Project
+- State Employees Association of NC
+- Humane Society Legislative Fund
+- INDY Week
+- The News and Observer
+2022:
+- EMILY's List
+- Lillian's List
+- Mom's Demand Action Gun Sense Candidate
+- North Carolina Association of Educators (NCAE)
+- Climate Cabinet
+- Planned Parenthood Votes!
+South Atlantic
+- Sierra Club
+- Equality NC
+- NC National Organization for Women (NOW) PAC
+- The News & Observer
+- North Carolina League of Conservation Voters Conservation PAC (NCLCV)
+- North Carolina AFL-CIO
+- National Association of Social Workers North Carolina Chapter (NASW-NC) Political Action for Candidate Election (PACE) committee
+- Now or Never NC
+- Progressive Turnout Project
+- Pro-Choice North Carolina PAC
+- The National Democratic Redistricting Committee (NDRC)
+- End Citizens United
+- North Carolina Asian Americans Together (NCAAT) in Action
+- Let America Vote
+- Vote Mama
+- Wake County Voter Education Coalition
+- ERA-NC Alliance
+- INDY Week
+- The Network for Public Education Action
+- Muslim American Public Affairs Council (MAPAC)
+- Vote Pro Choice
+- Democracy for America
+2020:
+- North Carolina League of Conservation Voters Conservation PAC (NCLCV)
+- Lillian's List
+- EMILY's List
+- Equality NC
+- Sierra Club
+- Planned Parenthood Votes!
+South Atlantic
+- More Like America
+- North Carolina AFL-CIO
+- Mom's Demand Action Gun Sense Candidate
+- North Carolina Association of Educators (NCAE)
+- North Carolina - National Organization for Women PAC
+- Fight For Reform
+- The Human Rights Campaign
+- The National Association of Social Workers
+- NARAL
+- Fortaleza NC
+- Raleigh Wake Citizens Association (RWCA)
+- Wake County Voter Education Coalition
+- End Citizens United
+- Let America Vote
+2018:
+- Former President Barack Obama
+- Governor Roy Cooper
+- Former Governor Jim Hunt
+- North Carolina Association of Educators (NCAE)
+- North Carolina League of Conservation Voters Conservation PAC (NCLCV)
+- Lillian's List
+- EMILY's List
+- Planned Parenthood
+- North Carolina AFL-CIO
+- Equality NC
+- National Organization for Women
+- Our Shot NC
+- Sierra Club
+- Now or Never NC
+- Mom's Demand Action Gun Sense Candidate
+- INDY Week
+- Democracy for America
+- Bold Progressives
+- Democratic Legislative Campaign Committee
+- National Association of Social Workers

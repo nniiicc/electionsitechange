@@ -1,0 +1,13 @@
+Endorsement List Grows for Speaker Welch State Central Committee Run
+August 1, 2025
+In the wake of Congressman Davis’ retirement announcement, support is swelling for Speaker Welch and the vacated State Central Committee post.
+Congressman Danny Davis (who currently holds the seat) has endorsed Speaker Welch along with a growing list of Illinois Democratic Leaders including: Former Secretary of State Jesse White, Democratic Party of Illinois Chair Lisa Hernandez, DNC member Dan Hynes, Cook County Clerk Monica Gordon, Alderwoman and State Central Committeewoman Emma Mitts, Former State Central Committeewoman Darlena Williams Burnett, River Forest President Cathy Adduci, Westchester President Greg Hribal, Bellwood Mayor Andre Harvey, Hillside Mayor Joe Tamburino, Broadview Mayor Katrina Thompson, Maywood Mayor Nathaniel Booker, 18th Ward Alderman Derrick Curtis, Alderman Walter Burnett, State Representative Jawaharial ‘Omar’ Williams, State Representative Kam Buckner, State Representative La Shawn Ford, and State Representative Aaron Ortiz.
+Speaker Welch shared in a statement yesterday, “Congressman Danny K.
+Davis has served as a role model and mentor to many of us for decades.
+Whether as an Alderman for the City of Chicago, Commissioner for the Cook County Board or a United States Congressman, he has always fought for the little guy and made sure folks had a second chance.
+I’m thankful for his leadership, counsel, and guidance in my role as Speaker.
+We value Congressman Danny Davis’s service as a strong voice for working people and diverse communities in Washington and within our Democratic Party of Illinois as a member of the State Central Committee.
+Those are the same values that have been central to my work as Speaker of the House in Springfield and as the Committeeman of the Democratic Party of Proviso where I’ve worked to bring people together, to increase participation, and to elect strong Democrats up and down the ballot who will fight for us.
+Congressman Davis’ work on behalf of Illinois Democrats must continue.
+The new challenges we face demand strong leadership, winning coalitions, and the will to fight to make people’s lives a little easier.
+It’s my intention to do just that, by seeking to serve as Democratic State Central Committeeman for the 7th District.

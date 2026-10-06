@@ -1,0 +1,10 @@
+ABOUT LORI
+Lori Childs is a lifelong problem-solver who has turned personal challenges into a record of public service and community action.
+Born in Washington, D.C., she worked from a young age, put herself through the University of Maryland, and earned a BA in American Studies before launching a career in advertising and later running her own holistic healing center for 11 years.
+After she and her husband decided she would stay home to raise their four children, Lori sharpened the careful budgeting skills that working families across the South Shore know well.
+Moving to Rockland in 2004, she led a Girl Scout troop for eight years and, after a devastating house fire in 2007, was moved by how neighbors rallied around her family—an experience that deepened her commitment to giving back.
+During COVID, Lori delivered groceries, seeing firsthand how policy decisions affect families day to day.
+Frustrated by rising property taxes, she served three years on the Rockland Finance Committee, then successfully ran for the Board of Selectmen, where her first act was to change the body’s name to the more inclusive Select Board.
+On the Select Board, Lori has helped direct millions in federal funds to critical water, sewer, IT, and downtown improvements, supported the Town Charter update, backed CPA funding for the Bicentennial Track, and advanced a cost-saving plan to relocate the Community Center/Rec Department to the existing Esten School site.
+She has also helped balance town budgets without an operational override, used opioid settlement funds for prevention initiatives, participated in hiring a new police chief, championed wayfinding and sign-and-façade programs for local businesses, and supported landfill redevelopment that is projected to save taxpayers millions while turning a liability into a community asset.
+Now, Lori is running for State Representative to bring that same hands-on, people-first, fiscally responsible approach to Beacon Hill—focused on practical solutions that puts money back in our pockets, keep families safe, communities strong, and government working for the people it serves.

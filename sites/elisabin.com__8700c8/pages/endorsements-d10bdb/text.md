@@ -1,0 +1,56 @@
+Thank you to these community leaders for endorsing our campaign!
+Justin Elicker
+Mayor of New Haven
+Dr.
+Edward Joyner
+Member of the New Haven Board of Education & 92nd District resident
+Jen Quaye-Hudson
+State policy advocate, NHPS parent, & 92nd District resident
+Sue Weisselberg
+Former Chief Counsel for CT House Democrats & 92nd District resident
+Kica Matos
+President of the National Immigration Law Center, former Deputy Mayor, New Havener
+Ernest Pagan
+Chair of the City Plan Commission, union carpenter, construction training coordinator, & 92nd District resident
+Robin Golden
+Former COO of New Haven Public Schools & 92nd District resident
+Ina Silverman
+Former Ward 25 Alder, Ward 25 Democratic Committee member, & 92nd District resident
+Sean Hardy
+Educator at Mauro Sheridan School, Ward 3 Democratic Committee member, & 92nd District resident
+Jim Berger
+Ward 25 Democratic Committee member & 92nd District resident
+Eddie Finlayson
+Pop Smith Little League Coach, Ward 25 Democratic Committee member, & 92nd District resident
+Samaila Adelaiye
+Housing policy researcher & 92nd District resident
+Joseline Tlacomulco
+Organizer, policy advocate, & 92nd District resident
+Kathleen Krolak
+Fmr.
+Ward 25 Ward Committee member & 92nd District resident
+Jeffrey Alpert
+Ward 25 Ward Committee member & 92nd District resident
+Kwesi Osafo
+Financial professional & 92nd District resident
+Delphine Clyburn
+Former Alder and 92nd District resident
+Beth Rosen
+Ward 25 Ward Committee member & 92nd District resident
+John Buell
+Ward 25 Ward Committee member & 92nd District resident
+Rev.
+Stephen Ray
+Senior Minister, United Church on the Green & 92nd District Resident
+Carolyn Baker
+Board member of the Greater New Haven African American Historical Society, Ward 26 Ward Committee Member, and 92nd District resident
+Delzora Bush
+Ward 2 Ward Committee member & 92nd District resident
+Jay Sokolow
+Ward 25 Ward Committee member & 92nd District resident
+Lisa Velasquez-Torres
+Ward 3 Ward Committee Co-Chair & 92nd District resident
+Sandra Pittman
+Ward 3 Ward Committee Co-chair, Next Generation Soul Food Entrepreneur, & 92nd District Resident
+Leslie Radcliffe
+Former Chair, New Haven City Plan Commission

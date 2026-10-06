@@ -1,0 +1,14 @@
+Diana Harshbarger Seeks to Focus on The Economic Impact of The Opioid Crisis in Tennessee
+Kingsport, TN – Diana Harshbarger, Pharmacist, and Republican Nominee for Tennessee’s 1st Congressional District, vows to tackle the Economic Impact of the Opioid Crisis in Tennessee during her first term.
+“While it’s unfortunate to say, we all have seen or heard about someone who has struggled with opioid addiction.
+The pain and suffering of this disease should not go unnoticed.
+But an often overlooked side effect of the opioid crisis, and helping those struggling get back on their feet, is the economic impact this has on our community.” Harshbarger said.
+“An article from the Tennessean in 2017 said substance abuse as a whole costs Tennessee more than $2 billion in economic productivity, with more than half being attributed to lost income due to a lower labor force participation rate.
+Two researchers from the Haslam College of business at the University of Tennessee, Knoxville further support this, arguing a 10% decrease in prescription opioid use would lead to an additional $825 million in personal income.
+But the buck doesn’t stop there.
+Other areas people often overlook is the drain on our healthcare system, with estimates saying those who are opioid dependent roughly cost an additional $15,000 to treat per year, and the hindrance in the formation of education, human capital and children and families.”
+“There isn’t a one size fits all solution.
+As a pharmacist in Tennessee for over 30 years, I have seen the various stages of opioid addiction more times than I care to admit.
+But I believe we can not only save lives and help those who are struggling but curb the economic impact this plague has on our community as well.” Added Harshbarger.
+“I support a three-pronged approach: cracking down on the illegal drugs, specifically heroin and fentanyl, coming across our borders; increasing funding for rehabilitation resources so those seeking help face fewer hurdles when receiving assistance; and holding those responsible for creating this crisis accountable.
+By cutting off the supply, increasing our ability to treat those in need, and preventing a resurgence in the widespread availability of opioids, we can ensure those who need help receive it, and we keep our economy moving in the right direction.”

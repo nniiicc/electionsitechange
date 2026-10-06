@@ -1,0 +1,5 @@
+Rebecca believes that state support for higher education is a wise investment that must be supported in order to assure an educated workforce and the leaders of tomorrow.
+- As a proud alumnus of the CUNY School of Law Rebecca has consistently fought against proposed tuition increases at both SUNY and CUNY institutions to keep the cost of higher education affordable for all New Yorkers.
+- Rebecca has routinely participated in press conferences with faculty, staff, and student organizations to fight for investment in more full time faculty, student services (mental health counselors, disability services, food pantries, veterans services, childcare, and more), as well as improvements to campus facilities and the passage of a New Deal for CUNY and SUNY.
+- Rebecca cosponsored the DREAM ACT which provides for academically eligible undocumented immigrant students the to receive tuition assistance to help pay for the cost of their college education.
+- Rebecca cosponsored “Maintenance of Effort” legislation to require the state to fulfill its funding obligations in support of public higher education.

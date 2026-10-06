@@ -1,0 +1,22 @@
+My Platform
+Creating Government that Works for You
+Cody believes government should be accountable, transparent, and responsive to the people it serves.
+As a member of the House Judiciary and Rules Committees, he works to strengthen accountability in state government and ensure South Carolina’s laws and institutions serve taxpayers effectively.
+Drawing on his experience as an attorney and former municipal judge, Cody has also worked on judicial and magistrate court reforms aimed at strengthening qualifications, improving the selection process, and ensuring South Carolinians can have confidence in their courts.
+Lowering Taxes
+Cody believes hardworking South Carolinians should be able to keep more of the money they earn and that state government must remain responsible with taxpayer dollars.
+Cody helped deliver significant tax relief, including lowering South Carolina’s top income tax rate from 6% to 5.21%and increasing the Homestead Exemption for eligible seniors from $50,000 to $75,000.
+He will continue working to reduce the tax burden on families and businesses while keeping
+South Carolina fiscally responsible.
+Enforcing and protecting our 2nd Amendment rights
+Cody is a strong defender of the Second Amendment and believes the constitutional rights of law-abiding South Carolinians must be protected.
+He co-sponsored the Second Amendment Financial Privacy Act, which protects firearm owners from certain government tracking and recordkeeping involving privately owned firearms.
+Cody will continue standing against efforts that infringe on the rights of responsible gun owners
+Improving our roads and infrastructure to accommodate our growing populations.
+Cody understands that safe, reliable roads and bridges are essential to rural communities, economic growth, and quality of life across District 65.
+Cody helped support $377 million for roads and bridges in the 2026–27 state budget and has backed efforts to strengthen accountability for how transportation projects are managed and funded.
+He will continue fighting to ensure rural South Carolina gets its fair share of infrastructure investment and that taxpayer dollars are used responsibly.
+Bringing economic development to South Carolina to create new jobs and opportunities
+Cody believes a strong economy starts with good-paying jobs, a skilled workforce, and an environment where businesses can grow and succeed.
+He has supported efforts to strengthen South Carolina manufacturing and better prepare students for careers after graduation, including the House-passed Buy American Iron & Steel Act and workforce-readiness legislation.
+Cody will continue working to attract new investment, support existing businesses, and expand opportunities for families throughout District 65 and rural South Carolina

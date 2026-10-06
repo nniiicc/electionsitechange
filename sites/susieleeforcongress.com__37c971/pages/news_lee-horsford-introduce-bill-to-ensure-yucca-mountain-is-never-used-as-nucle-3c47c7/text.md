@@ -1,0 +1,12 @@
+Washington, D.C. – Congresswoman Susie Lee and Congressman Steven Horsford introduced legislation to ensure Yucca Mountain will never be used as a repository for nuclear waste.
+The Jobs, Not Waste Act follows the Trump Administration’s proposal to scrap Yucca Mountain as the nation’s sole nuclear waste repository and instead allow other states to willingly host such facilities.
+“I will continue to work to never let Yucca Mountain become the nation’s dumping ground for nuclear waste.
+Time and time again, Nevadans have clearly opposed storing waste at Yucca Mountain—now we have a chance to make sure Yucca stays dead for good,” said Congresswoman Susie Lee.
+“I’m fighting to pass this bill so we can explore other uses for the site to grow our economy instead of turning it into a nuclear waste dump.”
+“Nevadans have said no to nuclear waste storage at Yucca Mountain for decades, and that answer hasn't changed,” said Congressman Steven Horsford.
+“This fight has shaped the lives of my constituents for a generation; the uncertainty, the threat, the toll it's taken on our communities never went away.
+It's time to end it permanently.
+The Jobs, Not Waste Act closes the door on nuclear waste at Yucca Mountain and opens the door to real jobs and economic opportunity for Southern Nevada instead.
+I'm proud to co-lead this bill for the Nevadans who have carried this fight for far too long.”
+The Jobs, Not Waste Act would repeal the law that established Yucca Mountain as a repository for nuclear waste, require the Department of Energy (DOE) to withdraw and terminate the licensing proceeding for Yucca Mountain at the Nuclear Regulatory Commission, require DOE to reclaim and mitigate any adverse environmental impacts to the site, and require the Office of Management and Budget to determine the viability and benefits of other uses for the site.
+As southern Nevada’s sole representative on the Committee on Appropriations and as co-chair of the House Nuclear Cleanup Caucus, Congresswoman Susie Lee has fought to ensure Yucca Mountain never becomes the nation’s dumping ground for nuclear waste.

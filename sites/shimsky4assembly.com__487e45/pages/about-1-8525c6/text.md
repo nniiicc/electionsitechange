@@ -1,0 +1,20 @@
+Endorsements
+"Assemblymember MaryJane Shimsky — a 2025 NYLCV Rising Star — is one of Albany’s most engaged and forward-looking environmental lawmakers, consistently earning high marks on NYLCV’s Environmental Scorecard since taking office.
+She brings both passion and policy depth to the fight for clean energy, resilient infrastructure, zero waste, and safe drinking water, and her focus on practical, community-based solutions has made her a standout voice in the Assembly.
+For these reasons and more, we are proud to endorse MaryJane Shimsky for reelection.”
+—Julie Tighe, President of the New York League of Conservation Voters (NYLCV)
+LABOR & PROFESSIONAL ORGANIZATIONS:
+1199SEIU United Healthcare Workers East
+Civil Service Employees Association (CSEA) New York
+New York State AFL-CIO
+New York State United Teachers (NYSUT)
+POLITICAL & ADVOCACY ORGANIZATIONS:
+Westchester County Democratic Committee
+Black Democrats of Westchester
+Hispanic Democrats of Westchester
+New York Working Families Party
+Eleanor’s Legacy
+New York League of Conservation Voters
+NON-ENDORSEMENT RATINGS:
+Moms Demand Action 2024 Gun Sense Candidate
+Check back for updates!

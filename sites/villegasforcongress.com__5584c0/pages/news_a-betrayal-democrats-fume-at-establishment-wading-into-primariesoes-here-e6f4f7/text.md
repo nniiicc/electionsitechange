@@ -1,0 +1,49 @@
+- PRESS RELEASE SEIU California Announces Support For Randy Villegas In California’s 22nd Congressional District
+- PRESS RELEASE Congressional Candidate Randy Villegas Calls For A Moratorium On New Data Centers
+- PRESS RELEASE Randy Villegas Holds ‘Guaranteed Healthcare Town Hall’ In CA-22
+- PRESS RELEASE Randy Villegas Challenges David Valadao To Three Public Debates
+- PRESS RELEASE NEW AD: In CA-22, Populist Democrat Randy Villegas Highlights Working Class Upbringing
+- PRESS RELEASE Randy Villegas Leads Republican David Valadao in CA-22 in New Poll
+- PRESS RELEASE Randy Villegas Outraises David Valadao in California’s 22nd Congressional District
+- PRESS RELEASE Randy Villegas Statement On Fatal Shooting of Lorenzo Salgado Araujo
+- PRESS RELEASE Randy Villegas Joins Advocates To Hold Valadao Accountable For Gutting Healthcare
+- PRESS RELEASE Speaker Emerita Pelosi, Sen.
+Schiff, Sen.
+Padilla, Reps.
+Aguilar and Lofgren Endorse Randy Villegas
+- PRESS RELEASE Randy Villegas Added to DCCC’s ‘Red to Blue’ Program On Heels of Primary Victory in CA-22
+- PRESS RELEASE Randy Villegas Advances To General Election To Take On David Valadao
+- News Article A Bernie-Backed Community College Professor Fights for the Soul of the Democratic Party
+- PRESS RELEASE DCCC’s Handpicked Candidate Can’t Be Bothered to Protect Our Communities From ICE Raids
+- PRESS RELEASE ICYMI: Misleading Attack Ads From Bains’ Dark Money Friends Don’t Pass A Fact Check
+- PRESS RELEASE Randy Villegas Responds to Flood of Dark Money Attack Ads
+- PRESS RELEASE Randy Villegas Statement On San Diego Mosque Shooting
+- PRESS RELEASE CA-22 Candidate Randy Villegas Endorsed By Alexandria Ocasio-Cortez
+- PRESS RELEASE New Poll: Randy Villegas Leading Democrat to Take On David Valadao
+- news article Pro-Israel group spends $500,000 to target Randy Villegas in Central Valley race
+- PRESS RELEASE Randy Villegas Surges Following DCCC’s Eleventh Hour Meddling
+- NEWS ARTICLE House Democrats’ Primary Endorsements Divide the Party
+- News Release ‘A betrayal’: Democrats fume at establishment wading into primariesoes Here
+- News Article Local Dems push back on DCCC endorsement in CD22 race
+- News Article House Democrats’ campaign arm takes sides in contentious primaries key to winning midterms
+- PRESS RELEASE Randy Villegas’ Statement on DCCC’s Red to Blue Program
+- NEWS ARTICLE Randy Villegas Endorsed by Indivisible
+- PRESS RELEASE Randy Villegas Remains Top Democratic Fundraiser
+- PRESS RELEASE Democratic Candidate Randy Villegas Launches First TV Ads of the CA-22 Primary Election Cycle
+- PRESS RELEASE Randy Villegas Reels in Over $440,000 in Q1
+- PRESS RELEASE Randy Villegas Challenges David Valadao and Jasmeet Bains to Televised Debate for CA-22 Primary
+- PRESS RELEASE Randy Villegas' Statement on Trump Administration Strikes on Iran Headline Goes Here
+- PRESS RELEASE Randy Villegas Announces Town Hall Tour Through California’s 22nd Congressional District
+- PRESS RELEASE David Valadao Votes Against Bipartisan Measure to Bring Down Costs
+- PRESS RELEASE Randy Villegas Holds Sizable Fundraising Lead in CA-22 Primary
+- PRESS RELEASE Randy Villegas Denounces ICE Killing Of Minneapolis Man
+- PRESS RELEASE Randy Villegas Announces Fourth Quarter Fundraising Haul of Over $370,000
+- PRESS RELEASE Randy Villegas Statement on ACA House Vote
+- PRESS RELEASE 15 California Elected Officials Endorse Randy Villegas for Congress in CA-22
+- PRESS RELEASE Former Congressman Tony Cárdenas (CA-29) + 15 California Elected Officials Endorse Randy Villegas
+- PRESS RELEASE Randy Villegas Launches Against Rep.
+David Valadao to Represent CA-22 testing
+News Release
+‘A betrayal’: Democrats fume at establishment wading into primariesoes Here
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+Lorem Ipsum has b

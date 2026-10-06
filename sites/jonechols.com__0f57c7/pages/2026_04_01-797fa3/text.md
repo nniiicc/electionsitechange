@@ -1,0 +1,3 @@
+Media Advisory: Echols to File for Attorney General
+Contact: Isaac Hadam – isaac@jonechols.com Oklahoma City, OK – The Conservative candidate for Attorney General, Jon Echols, will formally file his paperwork at the State Capitol today.
+“I am the only candidate in this race that has been endorsed by ANY Oklahoma…

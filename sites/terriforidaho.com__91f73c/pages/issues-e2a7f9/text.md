@@ -1,0 +1,69 @@
+Where Does Terri Stand
+on the Issues?
+ECONOMIC GROWTH
+Idaho has shown great potential for growth.
+In order to sustain that growth, focusing on small business and fostering programs for businesses is crucial
+A system that works for everyday Idahoans, not billionaires
+A strong economy relies on quality education and a solid workforce
+Health care must be affordable and accessible to all Idahoans
+To succeed, businesses need a stable tax structure
+Small businesses must be able to compete to succeed
+Fair treatment of employees and paying a living wage is critical
+Workers’ Rights
+Idaho’s economy depends on working people.
+Teachers, nurses, firefighters, public employees, tradespeople, and service workers are the backbone of our communities and our economy
+Strong unions and worker protections help ensure stability, accountability, and continuity in both government and the private sector.
+When political leaders threaten public institutions or undermine workers’ rights, it is working people who keep Idaho moving forward
+Idaho workers deserve fair wages, safe workplaces, and economic security
+The government should work for working families — not just wealthy insiders and corporations
+PUBLIC EDUCATION
+The Fourteenth Amendment to the U.S.
+Constitution requires equal protection under the laws, so when a state provides public education, it must provide equal access to a quality education to all citizens
+Repealing the school voucher scheme
+Better funding for education in Idaho
+Higher teacher salaries to maintain high quality teachers
+Funding rural school districts
+Funding for Pre-K programs across Idaho
+Funding for full time kindergarten
+Funding for post high school programs, community college, and universities
+Access to broadband for all schools and students
+Access to information based on science, truth, and history
+PUBLIC LANDS
+As a member of the Idaho Land Board, the Governor is charged with the very important task of protecting and preserving our great public lands with the state of Idaho
+Public lands must stay in the hands of the public, not privatized
+The wilderness and recreational areas, public lands, rivers, and wildlife define Idaho
+Preserving open space and natural resources is a top priority
+I will fight to maintain access to public lands for recreation, hunting, fishing
+We must protect our Idaho heritage for future generations
+CIVIL RIGHTS
+I believe in protecting civil rights and I will be a champion for citizens, ensuring that all of their rights are protected and every person is entitled to equal justice under the law.
+When we protect our civil rights, we are protecting our freedoms
+Freedom from excessive governmental overreach
+Freedom of speech
+Freedom of privacy
+Freedom of choice and bodily autonomy
+Freedom of and from religion
+Freedom to love and marry whomever we choose
+Freedom from discrimination based on race, color, religion, sex, or national origin
+Freedom for people with disabilities to live, work, and participate fully in their communities without unnecessary barriers
+IMMIGRATION
+We are a country of immigrants
+We should require people entering our country to abide by our laws
+People who enter our country illegally should be treated humanely despite having broken immigration laws
+Violent criminals should be stopped from entering and deported if they succeed in entering our country illegally
+The US needs immigrant workers and we should make sure we have simple and easy ways for them to work here
+We fall short of our democratic ideals when we allow scurrilous politicians to demonize immigrants for political gain
+The public is largely in agreement over issues surrounding immigration.
+It is the politicians who refuse to fix the issue because they would rather have us fighting than working together.
+Shame on those politicians
+REPRODUCTIVE RIGHTS
+Women have a fundamental right to bodily autonomy
+Women, not the government, should be able to make their own choices related to family planning
+The State has no business telling doctors what to do or making decisions for women
+If people have religious objections to a woman making her own healthcare decisions – from fertility treatment, to contraception, to abortion services – those objections can inform their church tenets, not the laws of the land
+Reproductive rights have become a proxy war for those who recklessly envision replacing our democracy with theocracy.
+This is about freedom.
+And women lost a great deal of freedom the day the Idaho Legislature told us that our bodies are the state’s property to do with as the state pleases
+We must reverse dangerous, coercive, and cruel laws.
+And, we must be clear-eyed in our understanding that the State that seeks to control the People will always see freedom as a threat
+With every right that is taken away, the State becomes emboldened and will never rest until all freedom is extinguished

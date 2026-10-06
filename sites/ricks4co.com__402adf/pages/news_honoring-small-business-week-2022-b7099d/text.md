@@ -1,0 +1,1 @@
+In the busy final days of the 2022 Legislative Session, Representative Ricks ensured that small businesses were recognized for their crucial community contributions and hard work by leading a House Tribute in honor of Small Business Week at the Colorado Capitol on May 6, 2022.

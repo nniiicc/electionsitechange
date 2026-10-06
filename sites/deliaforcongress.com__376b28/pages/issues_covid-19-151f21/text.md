@@ -1,0 +1,18 @@
+Covid-19 and Pandemic Prevention
+ROOTED
+The COVID-19 pandemic has had a devastating impact on everything from education to healthcare, from the economy to the social safety net, and it is not over.
+When the COVID-19 pandemic first reached our communities, Delia got to work hosting testing events, and vaccination events.
+Delia helped focus resources to address the public health inequities that we all saw with the pandemic in our communities.
+She helped ensure that important health safety communications and pandemic relief programs were accessible to everyone.
+She also got to work on legislative solutions, helping small businesses survive the pandemic and people stay in their homes.
+READY
+In Congress, Delia continues to advocate for legislative and budgetary priorities that ensure there is a significant investment made in our communities so they can recover and thrive post-pandemic, and better prepare our nation to prevent and confront future biosecurity threats.
+She is a champion for President Biden’s “Build Back Better” agenda, which makes once-in-a-lifetime investments in working and middle-class families to ensure a strong economic recovery.
+With her on-the-ground experience in our communities, Delia supports public investment to prevent the next pandemic, including efforts to develop comprehensive test/trace/isolate programs, improve our health data infrastructure, and accelerate future vaccine development.
+RESULTS
+In Congress, Delia:
+- Voted no on ending the national emergency declaration relating to the COVID-19 pandemic, recognizing that new cases of COVID and long COVID continues to impact our communities
+As IL State Representative, Delia:
+- Chief-sponsored comprehensive emergency housing legislation that has led to over $1 billion in rental and mortgage assistance, reaching over 110,000 homes across the state
+- Hosted over 20 COVID testing events in collaboration with state public health officials and local community healthcare partners
+- Hosted 7 vaccination events where over 1000 community members received their COVID-19 vaccines and boosters

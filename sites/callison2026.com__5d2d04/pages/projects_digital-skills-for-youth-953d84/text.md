@@ -1,0 +1,1 @@
+The program supports delivery organizations that have a strong network of small to medium-sized businesses (under 500 employees) and not-for-profit organizations that can create employment opportunities to help youth build the digital skills needed for the digital economy.

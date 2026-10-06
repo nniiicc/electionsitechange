@@ -1,0 +1,1 @@
+Staci Childs is endorsed by leaders and organizations who believe in strong schools, accountable leadership, and real progress in District 131 Staci Childs is proudly supported by the Texas Trial Lawyers Association PAC

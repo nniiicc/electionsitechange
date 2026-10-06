@@ -1,0 +1,1 @@
+Visit my Campaign Google Calendar Utah Voting Website (Register, Track Your Ballot, More) Text “Voter” to 59798 often to check your voter registration status Find your Utah State Legislators Washington County Democratic Party St George Housing Affordability Initiative My Ballotpedia Profile

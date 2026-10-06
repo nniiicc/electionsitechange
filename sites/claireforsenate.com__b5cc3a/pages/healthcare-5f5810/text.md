@@ -1,0 +1,8 @@
+Affordable Healthcare and Reproductive Rights
+For the last 35 years–from Project Director of WIC in a rural community, to teaching pregnant and parenting teens in Tacoma, to working as a family engagement director and executive director of the state’s largest early learning program, to sitting on the Federal Way School Board–Claire’s focus has always been on providing access, opportunity, and voice to marginalized groups, specifically communities of color, women, and members of the LGBTQ community.
+She uses her privilege every day to make sure that perspectives and voices not at the table find their seat.
+For many years, Claire has heard from families in her community who feel the pressure of rising health care premiums and out of pocket costs.
+Now, with the health and economic stresses of the endemic COVID-19 virus, it has become even more clear that denying some of our neighbors adequate healthcare hurts us all.
+In Olympia, Claire is working to guarantee every family in our region has access to affordable healthcare coverage, fight the Supreme Court’s inhumane attack on the right of people with uteruses to make intimate choices about their reproductive health, and ensure our state is doing its part to control healthcare costs.
+She is fighting to take on the insurance industry to lower healthcare premiums, reduce the cost of prescription drugs, and expand access to preventive care like cancer screenings.
+She is a champion for expanding our healthcare system and making it work for every person in our state, because Claire believes nobody should be afraid to go to the doctor or choose between treatment and feeding their family.

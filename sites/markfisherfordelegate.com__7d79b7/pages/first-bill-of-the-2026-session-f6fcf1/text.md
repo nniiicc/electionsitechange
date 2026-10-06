@@ -1,0 +1,1 @@
+April 29, 2026 Filed Under: Events, News Founding member of the Maryland Freedom Caucus, Delegate Mark Fisher chastises the Maryland General Assembly for making HB488 (the gerrymander Maryland bill) their first bill passage of the session.

@@ -1,0 +1,8 @@
+Marion, IA – Today, Ashley Hinson released the following statement outlining efforts to immediately lower gas and diesel prices for Iowans.
+“Iowans are being squeezed and shouldn’t have to foot the bill at the pump or the checkout line for the war in Iran.
+We need to use every option at our disposal to provide some relief from high prices.
+That includes suspending the gas tax, pausing diesel exports, unleashing E-15 everywhere we can, reinstating the $1/gallon biodiesel tax credit, and creating a diesel relief program to help our farmers and truckers being crushed by the high costs.
+While doing this, we should also ensure our highway trust fund is replenished, so that Iowans don’t suffer from crumbling roads and bridges while relief comes our way now.
+These actions to lower costs are needed ASAP, and the war needs to be brought to a successful and immediate end.
+I am working every day to deliver bipartisan results for Iowans and I will work with anyone who is ready to tackle this challenge immediately.”
+###

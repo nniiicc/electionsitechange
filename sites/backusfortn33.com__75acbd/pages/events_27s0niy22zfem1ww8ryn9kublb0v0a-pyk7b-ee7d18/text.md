@@ -1,0 +1,1 @@
+Back to All Events CANVASS WITH THE BACKUSFORTN33 TEAM Saturday, July 18, 2026 10:45 AM 1:00 PM First Presbyterian Church 1051 Oak Ridge Turnpike Oak Ridge, Tennessee, 37830 United States (map) Google Calendar ICS

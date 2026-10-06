@@ -1,0 +1,4 @@
+Eye On Boise is a widely read blog that recounts daily activities and highlights of the Idaho Legislature and State Government.
+For detailed information regarding educational agencies (including K-12 schools, Just for Kids, Libraries, and School Districts) in the state of Idaho, please visit the official website of the state of Idaho here.
+To read the latest in Idaho Education News, visit the Idaho State Department of Education blog.
+If you’re seeking detailed information on divisions, programs, data collection, communication, resources, or administrator information in Idaho, you’ll find it at the Idaho State Department of Education.

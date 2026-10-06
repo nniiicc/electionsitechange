@@ -1,0 +1,12 @@
+By donating, you certify that you are a U.S. citizen or lawful permanent resident, that this contribution is made from your personal funds, and that it is not made on behalf of a corporation or any another person.
+Political contributions are not tax deductible.
+Please include your full name, address, employer, and occupation for reporting purposes.
+Donate through Zelle
+Open Zelle through your bank’s mobile app or online banking.
+Send your contribution to:
+Zelle email: justin@kumarforil12.com
+Recipient: Kumar for IL 12
+Please confirm the recipient name before sending.
+Zelle contributions are deposited directly into the campaign’s associated Bank of America account.
+We use cookies to analyze website traffic and optimize your website experience.
+By accepting our use of cookies, your data will be aggregated with all other user data.

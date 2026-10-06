@@ -1,0 +1,22 @@
+Legislative Accomplishments
+Look what we’ve done so far!
+- School Aid: More than $32 million
+- Local Projects: $35,425 million
+- Public Safety Aid: More than $2.35 million
+- Total County Aid: More than $47 million
+- Total: More than $116,775 million
+- $20 million for Highway 5 improvements
+- $10 million for County State-Aid Highway 18 improvements
+- $5,425 million City Square West redevelopment project in Chaska
+- ISD 112 Transportation Hub lease levy authorized
+- $300,000 per year to expand international marketing opportunities for farmers and value-added processors
+- A refundable sales tax exemption on materials and supplies used to construct a new city hall and senior center, city council chambers and park amenities for the city of Chanhassen
+- $4 million investment per year for Minnesota’s Regional Public Library system
+- $2.5 million investment over the rest of two years to the Good Food Access Program to increase the availability of affordable and nutritious foods for underserved communities in low- and moderate-income areas of the state.
+- $4 million e-bike tax rebate to improve the health, well-being and mobility needs of our local communities and reduce greenhouse emissions
+- E-bike Regulations and Clarification for Rules of the Road
+- The creation of a new Traffic Safety Council to reduce statewide roadway fatalities
+- $15 million for Solar Schools Program
+- Designation of Prince Rogers Nelson Memorial Highway
+- Free Admission to the Minnesota Landscape Arboretum for Disabled Veterans
+- 75% of Seniors will not pay taxes on their Social Security Income

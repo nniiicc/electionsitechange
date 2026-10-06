@@ -1,0 +1,33 @@
+Our Path Forward
+I’ve talked many times about how important it is to defeat Republicans this year and break the GOP’s supermajority.
+This year is a make or break year for Democrats statewide.…
+Mayfield files for re-election to Senate District 49
+Asheville, NC — North Carolina State Senator Julie Mayfield (D-Buncombe) filed this morning to seek a third term as the Senator for District 49.
+Mayfield, a Democrat, reflected on everything…
+What happens if Republicans take full control?
+Dear Friends, Thank you again for helping me secure the Democratic nomination to continue representing you and District 49 in the North Carolina Senate.
+Now that the challenging part of…
+Let’s be transparent about our donors
+It’s important that voters have the information they need about candidates seeking elected office.
+This includes our records and where we stand on important issues, and especially who has donated…
+Roe v.
+Wade is under attack in North Carolina
+In the wake of the leaked draft decision purporting to overturn Roe v.
+Wade, it is, first, important to remember that this is only a draft decision and that abortion remains…
+Julie Files for Re-election + Maps
+It’s official!
+Today, I filed to run for a second term so that I can continue to represent you as your Senator from District 49.
+I love working for you…
+I will not be bullied.
+I stand in solidarity with LGBTQ North Carolinians
+Dear Friends, On Monday night at the close of our last legislative session for this year, I made a statement in solidarity with LGBTQ North Carolinians in response to Lt.…
+I love working for you.
+I’m running for re-election.
+I am so excited to announce that I am running again to represent you in the North Carolina Senate.
+I am grateful that you gave me this opportunity, and I…
+It’s official.
+I am proud to be your state senator for District 49.
+Hello Friends and Supporters, It is official – I am now your state senator for District 49!
+Thanks to the few people who were able to join Asheville Mayor Esther…
+We did it
+I want to give a huge thank you to the voters of Buncombe County for showing up for me on Election Day and to my supporters and volunteers for all…

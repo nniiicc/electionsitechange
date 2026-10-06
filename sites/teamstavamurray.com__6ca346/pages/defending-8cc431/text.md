@@ -1,0 +1,9 @@
+Defending Our Democracy
+Since first getting elected, I have been committed to listening to the voices of my constituents and being a state rep you can trust.
+I have a clear record for fighting for a more transparent government that works for us, so that we can use our limited resources to fund healthcare, public safety and provide much needed financial relief to homeowners.
+✅ Independent Voice: For too many years, Mike Madigan and other bad actors allowed for corruption and unethical behavior to prevail in Springfield, but I was the only House Democrat to not support Mike Madigan in 2019 and in 2021 banded together with other Democrats to bring in new, principled leadership to Springfield.
+✅ Fair Maps: I helped pass new legislative district maps that adhere to state and federal laws while also reflecting the diversity of Illinois.
+✅ Ethics: Illinoisans deserve to have their elected officials held to the highest standard so they can have confidence in their state government, which is why I helped pass the most comprehensive ethics reform package that our state has ever seen.
+✅ Criminal Justice Reform: We have to build a justice system that truly works for everyone.
+I am working to dismantle systemic racism in the state of Illinois and support legislation to reform pillars of Illinois of government: criminal justice; education and workforce development; economic access, equity, and opportunity; and health care and human services.
+✅ Protecting Voting Rights: To ensure that all voters can make their voices heard, I helped pass a robust elections reform package to make voting more accessible in Illinois, that includes common sense measures like increasing the use of vote-by-mail, expanding opportunities for more centrally located polling locations in communities, and improving election security so that every vote is safety counted.

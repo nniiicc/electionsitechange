@@ -1,0 +1,25 @@
+For immediate release: January 14, 2016
+(BOSTON) – Representative Mark Cusack joined his colleagues in the Massachusetts House of Representatives to pass substance addiction legislation that creates a new standard to evaluate and treat patients who present in emergency rooms with an apparent overdose.
+This new best practice, which will be covered by insurance, is designed to ensure the proper assessment and discharge of patients who seek voluntary treatment.
+The bill limits first-time opiate prescriptions to seven days for adults and all opiate prescriptions for minors to seven days, with exceptions for chronic pain management, cancer, and palliative care.
+Additionally, practitioners must check the prescription monitoring program (PMP) each time they prescribe any opiate and correspondingly note that in the patient’s medical records.
+“Whether it is a family member or a friend, we all know someone who has battled opioid addiction and this legislation will go a long way to strengthen prevention services and deliver the treatment necessary to help those in need,” said Representative Cusack.
+In an effort to build upon current prevention efforts, the legislation updates current law requiring all public schools to have a policy regarding substance abuse education by requiring schools to report their plans to the Department of Elementary and Secondary Education (DESE).
+DESE will then consult with the Department of Public Health (DPH) to provide recommendations that will assist schools and ensure they are providing effective and up-to-date education.
+Additional education materials will be provided to all student-athletes.
+From its discussions with numerous stakeholders and recovery groups, the House recognizes the importance of empowering individuals as they grapple with addiction.
+As a result, this bill establishes a non-opiate directive form, allowing patients to include a notation in their records that they shall not be offered opiates.
+It also requires that patients being discharged from substance addiction programs receive information on all FDA-approved medication-assisted therapies.
+Over the past few years, the House’s efforts related to substance addiction have focused on behavioral health and the prevalence of co-occurring disorders.
+This legislation requires the Health Policy Commission to conduct a study on access to dual-diagnosis treatment in the Commonwealth for children, adolescents and adults.
+To help ensure parity between behavioral and physical health care, the legislation also requires insurance companies to report annually on their denied claims.
+This bill also:
+- Requires that contact information for all insurers be posted on the bed-finder tool website and updates the law to ensure the site is available 24 hours a day;
+- Ends the practice of sending women who are civilly committed for alcohol or substance-use disorders to MCI-Framingham;
+- Ensures civil-liability protection for individuals who administer Narcan;
+- Updates the training guidelines for all practitioners who prescribe controlled substances;
+- Establishes the Massachusetts Council on Substance Use Disorder Prevention and Treatment, which will help the Commonwealth understand and confront addiction in a unified way;
+- Notates Narcan use and overdoses in Electronic Medical Records to prevent prescription of opioids to vulnerable patients.
+This legislation follows a 65.2% increase in substance addiction funding since FY12 and the landmark substance addiction law passed in 2014 which, for the first time, mandated detox and stabilization coverage.
+The two bills are intended to complement each other and reflect a consensus-driven approach.
+###

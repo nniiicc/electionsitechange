@@ -1,0 +1,40 @@
+top of page
+Endorsements
+Community Leaders
+Representative Mike Thompson California Congressional District 4
+Assembly Member Gail Pellerin California State Assembly District 28
+Assembly Member Nick Schultz California State Assembly District 44
+Mayor Kelley Davis City of Auburn
+Vice Mayor Rachel Radell-Harris City of Auburn
+Betty Yee Former California State Controller
+Supervisor Heidi Hall Nevada County Board of Supervisors and 2026 Candidate for Congressional District 3
+Tyler Vandenberg 2026 Candidate for Congressional District 6
+Sara Liebert Auburn Teacher
+Orlando Fuentes California Democratic Party Region 4 Director and former member of the Board of Directors of the Cosumnes Community Services District
+Sean Frame 2026 Candidate for California State Senate District 6
+Supervisor Jaron Brandon Tuolumne County Board of Supervisors and 2026 Candidate for California State Senate District 4
+Amy Slavensky 2026 Candidate for California State Assembly District 7
+Lieutenant Colonel Charlie Brown, USAF, Ret. former Candidate for Congress
+Community Organizations
+Auburn Area Democratic Club
+California Democratic Party
+California High School Democrats
+California Mountain Biking Coalition
+California Peer Watch
+California Teacher's Association
+California Women's List
+California Young Democrats
+Climate Action California
+Democratic Club of Lincoln
+Democratic Legislative Women's Caucus
+Equality California
+Gun Sense Candidate - Moms Demand Action
+National Women's Political Caucus of California
+Placer Action Network
+Placer County Democratic Party
+Placer Women Democrats
+Planned Parenthood Advocates Mar Monte
+Roseville Area Democratic Club
+Sierra Forward
+The Six PAC
+bottom of page

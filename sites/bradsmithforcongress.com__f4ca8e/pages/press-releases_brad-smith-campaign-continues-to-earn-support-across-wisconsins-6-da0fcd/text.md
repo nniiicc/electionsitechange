@@ -1,0 +1,16 @@
+Brad Smith Campaign Continues to Earn Support Across Wisconsin's 6th District
+Mequon, WI - July 2, 2026 — The Brad Smith for Congress campaign continues to build momentum across Wisconsin's 6th Congressional District through grassroots engagement, expanding support from elected leaders, and direct conversations with voters in every corner of the District.
+This week, Wisconsin State Senator Kristin Dassler-Alfheim announced her endorsement of Brad Smith, adding to a growing coalition that includes state senators, state representatives, mayors, county supervisors, local elected officials, and other community leaders across Wisconsin's 6th District.
+"Every endorsement is meaningful because it reflects the trust of leaders who know and understand their communities," Smith said.
+"I'm grateful for Senator Dassler-Alfheim's support and for the expanding network of leaders who believe we can move Wisconsin forward by bringing people together."
+The campaign continues to focus on the work that wins elections.
+Smith continues to travel throughout the District, meeting voters at dairy breakfasts, parades, community events, and on their doorsteps.
+Every stop is an opportunity to listen, learn, and better understand the challenges and priorities facing the people of the District.
+Behind those efforts is a passionate grassroots organization powered by hundreds of volunteers and supporters.
+Across the District, volunteers are organizing, preparing literature, hosting fundraisers, placing yard signs, and knocking on doors to help build the strongest campaign in the race.
+The campaign continues to measure its progress through meaningful engagement with voters, strong grassroots fundraising, and coalition building with community leaders and elected officials.
+Those are the metrics that matter most because they reflect the relationships and trust required to build a successful campaign.
+"One thing we're hearing consistently from voters is that people are ready for practical, compassionate leadership that puts Wisconsin ahead of politics," Smith said.
+"We're hearing from more and more voters that this country is at an important moment in its history, and people are looking for someone who will listen, bring people together, and focus on solving problems.
+We're honored that so many believe our campaign is that opportunity, and we're going to keep earning that trust one conversation at a time."
+Media Contact

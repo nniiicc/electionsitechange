@@ -1,0 +1,12 @@
+Congressman Womack Wins Sixth Term
+For Immediate Release:
+November 3, 2020
+ROGERS, Ark. – Representative Steve Womack (AR-3) today released the following statement after winning reelection to represent the Third District of Arkansas in the U.S.
+House of Representatives for a sixth term:
+“My life’s work has been to serve our community, and it’s an honor and privilege to be re-elected to represent the great people of the Third District in Congress.
+This race was a referendum on two visions for our district – and it’s clear that the extreme ideas espoused by the socialist wing of the Democrat party have been resoundingly rejected.
+Arkansans are united behind the foundational principles that made America great.
+Values like hard work and individual responsibility, the rule of law, unleashing opportunity, smaller government, a strong national defense, protecting individual liberty, and upholding the Constitution.
+Each and every day, I am humbled to fight for these ideals and support the freedom-loving and determined spirit of our community.
+Thank you for your unyielding trust and making your voices heard.”
+###

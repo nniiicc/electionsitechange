@@ -1,0 +1,1 @@
+Last Friday, the day the news of the horrific sniper attack in Dallas woke us from our sleep, I joined Middlesex County Sheriff Peter Koutoujian and Burlington’s assistant police chief Tom Duffy at the graduation of the Sheriff Department’s Youth Public Safety Academy.

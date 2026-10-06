@@ -1,0 +1,23 @@
+As Californians Flee Newsom's Policies, Aaron Ford Campaigns Alongside Him
+FOR IMMEDIATE RELEASE
+July 10, 2026
+Contact: press@joelombardofornv.com
+LAS VEGAS, NV - As Californians continue fleeing their state's affordability crisis for Nevada, Aaron Ford is spending the weekend campaigning with the governor whose policies helped create it.
+This weekend, Aaron Ford is fundraising and campaigning alongside California Governor Gavin Newsom, the poster child for the progressive policies that have driven families and businesses out of California and into Nevada.
+According to an April 2026 Las Vegas Review-Journal report, Nevada remains the “biggest net recipient of Californians in the nation on a per capita basis,” citing Nevada’s affordability as a key driver for families leaving California.
+Under Gavin Newsom, California ranked last on the U-Haul Growth Index for the sixth consecutive year – seeing a larger net loss of one-way moving customers than any other state in 2025.
+Meanwhile under Governor Joe Lombardo, Nevada climbed 15 spots in the U-Haul Growth Index, ranking in the top 20 states for growth.
+It’s no surprise that Californians are fleeing Newsom’s disastrous policies and heading to Nevada for new opportunities.
+Under Governor Lombardo:
+· Nevada leads the nation in post-pandemic small business growth
+· Nevada leads the nation in average wage growth
+· Nevada leads the nation in job growth.
+· Wages are growing faster than rent in Nevada
+· Nevada was ranked among the top states for business strength in the U.S.
+· Nevada was ranked the 9th best state to start a business in 2026, per Wallet Hub
+· Nevada ranked as the safest place to start a business, with an 83% startup survival rate, per Wave Connect
+If Californians are fleeing Gavin Newsom's California for Nevada, why is Aaron Ford spending the weekend campaigning with the man they're trying to escape?
+"Aaron Ford wants Nevada voters toknow exactly who he is, and this weekend he's making sure they do.
+While Governor Lombardo has made Nevada one of the fastest-growing states for jobs, wages, and small businesses, Aaron Ford is campaigning with the governor whose policies have driven Californians to pack up and leave.
+That's not the future Nevadans want." -Halee Dobbins, Lombardo for Governor Spokesperson
+###

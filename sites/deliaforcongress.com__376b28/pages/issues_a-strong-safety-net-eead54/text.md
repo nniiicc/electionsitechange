@@ -1,0 +1,19 @@
+A Strong Safety Net
+ROOTED
+As a former social services administrator, Delia knows firsthand that many families across our community are struggling with food insecurity, housing instability, and lack of healthcare access.
+She knows that a strong social safety net is critical to ensure that the most vulnerable members of our society are protected.
+Programs that are critical for low-income and working families like social security, Medicaid and Medicare, unemployment insurance, Temporary Assistance for Needy Families (TANF), the Child Tax Credit and Earned Income Tax Credit (EITC) must be protected and expanded.
+READY
+Delia believes that in order for us to truly Build Back Better, we need to center women in the path to economic recovery for all.
+We know that millions of women have left the workforce as a result of the pandemic and we must invest in the supports that allow women to return to the workforce, including increasing wages for homecare and childcare workers and making these services available for all who need them.
+Delia champions new and necessary investments into our care economy including universal childcare and pre-K, paid sick leave, long-term care, expanding public housing so that no one experiences housing insecurity, and exploring universal basic income as a pathway to finally eliminating poverty and homelessness.
+RESULTS
+In Congress, Delia has:
+- Continues to oppose efforts to make cuts or create work requirements for SNAP, TANF, Medicare, Medicaid, and other social programs
+- Co-sponsored the SUPPORT For SNAP Act to expand nutrition assistance programs for people experiencing homelessness
+- Co-sponsored the Child Care for Every Community Act to guarantee universal childcare and early learning programs for low-income families
+As IL State Representative, Delia:
+- Wrote and passed a historic expansion to Medicaid in Illinois to extend coverage to undocumented seniors
+- Championed and passed legislation to make Universal Basic Income pilot programs in IL possible without interrupting public aid benefits
+- Supported budget appropriations to strengthen unemployment insurance during the peak of the pandemic when thousands of people lost their jobs
+- Led efforts to expand and increase funding for Illinois homeless prevention program

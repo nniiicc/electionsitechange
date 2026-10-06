@@ -1,0 +1,2 @@
+Coffee Hour at Vo’s Coffee October 20, 2026 | 8:00 AM - 9:30 AM Join me at coffee hour to ask questions, talk politics, or just shoot the breeze!
+Vo’s Coffee 17708 W 13 Mile Rd, Beverly Hills ← Back To Events Other Events Coffee hour Oct 14 2026 Coffee Hour at Sabbath Coffee Roasters Royal Oak 8:00-9:30am See Event Info Coffee hour Oct 12 2026 Coffee Hour at Lucky Detroit Birmingham 8:00-9:30am See Event Info Coffee hour Oct 10 2026 Coffee Hour at Coffee & Bark 8:30-10:00 See Event Info

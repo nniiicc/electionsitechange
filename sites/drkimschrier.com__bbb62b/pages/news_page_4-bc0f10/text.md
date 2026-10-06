@@ -1,0 +1,3 @@
+iFiberOne: President Biden signs off on Chelan County congresswoman’s VA assistance bill
+August 4, 2021 — 8th District Congresswoman Kim Schrier was in the Oval Office during the signing of Major Medical Facility Authorization Act on July 29. ...
+Read more

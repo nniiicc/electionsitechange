@@ -1,0 +1,10 @@
+Contact me
+Get Involved
+There are many ways to join the campaign — and Dave wants to hear from you.
+Volunteer your time, share your feedback and ideas, or invite Dave to a community conversation in your town.
+Ways to Get Involved
+- Volunteer — knock doors, make calls, help with events, or place a yard sign
+- Share Your Ideas — tell Dave what matters to you and your family
+- Host a Community Conversation — bring Dave to your workplace, organization, church, or living room to talk directly about the issues facing Rutland County
+Contact the Campaign
+Email: DaveInVT1976@gmail.com Phone: (802) 417-9013 Mail: 35 Warner Avenue, Proctor, VT 05765

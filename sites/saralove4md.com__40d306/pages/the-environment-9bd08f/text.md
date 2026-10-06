@@ -1,0 +1,55 @@
+Maryland is a beautiful state and we need to continue to prioritize keeping her that way.
+The work to protect our environment include combatting climate change, mitigating stormwater runoff, getting rid of toxic chemicals, reducing single-use plastics, protecting and expanding our forests and trees, ensuring the health of our waters, and managing our aquatic species.
+The Chesapeake Bay is one of Maryland’s most precious natural resources.
+It is of significant importance to District 16, as the Potomac River is a major tributary of the Bay and supplies much of our drinking water.
+I have been an environmental leader in the legislature and am committed to ensuring we have a healthy Bay, clean air and beautiful open spaces for all to enjoy.
+PFAS Mitigation in Biosolids (SB 719/HB 925)(2026) (Senator Love/Delegate Stein) creates restrictions on the land application of sewage sludge containing harmful levels of per- and polyfluoroalkyl substances (PFAS), often referred to as “forever chemicals.” By improving oversight and setting enforceable standards, we can better protect Maryland’s natural resources and limit the spread of chemicals that can enter the water systems and pose risks to our residents.
+Climate Change Adaptation and Mitigation - Total Assessed Cost of Greenhouse Gas Emissions - Study and Reports (SB 149)(2025) directs the Comptroller, in coordination with key state agencies, to study and report the full cost of greenhouse gas emissions in Maryland.
+The Study will quantify the economic and environmental damage caused by climate change — impacts to public health, infrastructure, and agriculture — and assess the costs already borne by the state and its residents (Vetoed by Governor Moore; veto overridden by the General Assembly)
+Chesapeake Bay Legacy Act (HB 506)(2025)
+○ Establishes the Maryland Leaders in Environmentally Engaged Farming (LEEF) program
+○ Protects our waterways that feed the Chesapeake Bay by promoting regenerative farming on public lands—farming practices that restore soil health, reduce nutrient pollution, and sequester carbon
+○ Establishes a comprehensive Water Quality Monitoring Program within the Department of Natural Resources, ensuring our Bay cleanup efforts are guided by strong science and transparent data
+○ Incorporates in large part my Nearshore Farming and Finance Act bill that I sponsored this session
+Packaging and Paper Products - Producer Responsibility Plans (SB 901)(2025) follows legislation Senator Augustine and I sponsored in 2023, creating an advisory committee to conduct a needs assessment and provide advice on establishing a Producer Responsibility Program (PRP).
+SB 901 enacts the PRP, which incentivizes companies to create more sustainable packaging by shifting the burden of packaging waste and disposal costs from the taxpayer to the producer.
+Water Bottle Filling Stations - Requirement (SB 96/HB 277)(2025)
+○ Requires water bottle filling stations to be included in certain new construction projects to reduce single-use plastic pollution
+The Whole Watershed Act (HB 1165/SB 969)(2024)(Senator Elfreth/Delegate Love) incentivizes holistic, watershed restoration by consolidating funding streams and approval pathways for innovative, accelerated watershed projects.
+The Clean Water Justice Act of 2024 (HB 1101/SB 653)(2024)(Senator Augustine/Delegate Love) restores citizens' access to the courts (lost in a recent Supreme Court ruling) by establishing legal standing in state courts crucial to helping communities fight water pollution and state agencies enforce these laws.
+Food Processing Residuals Utilization Permits (HB 991/SB 1074)(2024)(Senator Ready/Delegate Love) establishes a new permitting program and regulations for those who haul, store, and apply sludge in order to control a major community nuisance and protect our environment.
+Protecting State Waters from PFAS Pollution Act (HB 1153/SB 956)(2024)(Senator Hester/Delegate Love) addresses the problem of PFAS (toxic, “forever” chemicals) discharged into our water by trying to identify the industrial source and subsequently developing a plan to mitigate the contamination.
+The Maryland Sustainable Buildings Act of 2023 (HB 6)(2023) requires that the Department of General Services develop and periodically update standards regarding energy conservation in State buildings.
+In addition, newly constructed buildings, buildings that are undergoing major renovations, and buildings that are over 50% state-owned are compliant with LEED (Leadership in Energy and Environmental Design) standards.
+Forest Preservation and Retention (HB 723/SB 526)(2023)(Senator Elfreth/Delegate Love) updates and strengthens our Forest Conservation Act.
+See:
+- Historic Preservation Legislation Approved by Maryland General Assembly
+- Maryland Lawmakers boost offshore wind, forest conservation among flurry of "green" bills.
+Clean Trucks Act of 2023 (HB 230/SB 224)(2023)(Senator Augustine/Delegate Love) establishes requirements for the sale of new zero-emission medium- and heavy-duty vehicles in the State.
+Maryland the Beautiful (SB 470)(2023) sets a goal of preserving 30% of state lands by 2030, and 40% by 2040.
+The George "Walter" Taylor Act (SB 273/HB 275)(2022)(Senator Elfreth/Delegate Love) prohibiting the sale or manufacture of firefighting foam, food packaging, rugs & carpets with intentionally added PFAS; requiring MDE to come up with a PFAS Action Plan.
+“Zombie” Permit Ban (HB 649/SB 492)(2022)(Senator Pinsky/Delegate Love) gives the Maryland Department of the Environment the tools to improve the water pollution inspection process and end “zombie” permits - water discharge permits that have expired but continue to be used.
+Conservation Finance Act (HB 653/SB 348)(2022)(Senator Elfreth/Delegate Love) provides that the Department of Agriculture, the Department of Natural Resources, and the Maryland Environmental Trust allow participants in certain cost-sharing programs to participate in and receive compensation from greenhouse gas markets, carbon credits, or soil carbon programs under certain circumstances; authorizing certain units to enter into pay-for-success contracts with certain aggregators to procure certain environmental outcomes projects or already certified environmental outcomes.
+Oyster Restoration (HB 1228)(2022), provides funding for infrastructure upgrades that will help the state achieve its goal of producing 5 billion baby oysters by 2025.
+The bill also provides economic incentives to retain and reuse oyster shells.
+Clean Cars Act of 2022 (HB 1391), extends the Clean Cars program for zero-emission and fuel cell electric vehicles that cost $50,000 or less.
+This bill is another important step in the right direction to reduce pollution and carbon emissions.
+Climate Solutions Now Act of 2022 (SB 528)
+This landmark legislation strengthens Maryland’s commitment to mitigating the effects of climate change by setting achievable goals to reduce greenhouse gases and meet the goal of net-zero statewide emissions by 2045.
+It includes:
+* Greenhouse Gas Emissions Reduction Targets - requires Maryland to reduce greenhouse gas emissions by 60% from 2006 levels by 2031
+* Environmental Justice - requires the MDE, in coordination with the Commission on Environmental Justice to address issues of climate equity for communities disproportionately affected by climate change and defines in law what it means to be an “overburdened” or “underserved” community.
+* Maryland Commission on Climate Change Working Groups, establishes four workgroups:
+Just Transition Employment and Retraining Work Group, Energy Industry Revitalization Workgroup, Energy Resilience and Efficiency Workgroup; Solar Photovoltaic Systems Recovery, Reuse, and Recycling Workgroup.
+* International Green Construction Code (IGCC) - requires the Department of Labor to adopt the 2018 version of the International Green Construction Code.
+* Building Energy Performance Standards for Existing Buildings - requires MDE to develop building energy performance standards to achieve a 20% reduction in net direct greenhouse gas emissions by 2030 and net-zero direct by 2040.
+* Zero-emission Vehicles promotes the expansion of electric school buses and requires 100% of the passenger car state vehicle fleet to be ZEVs by 2031 and other light-duty vehicles to be ZEVs by 2036.
+* Electric Distribution System Planning - requires the PSC and MEA to assist utility companies in acquiring federal funds under the Infrastructure and Investment Jobs Act for electric grid improvement projects.
+The Great Maryland Outdoors Act (SB 541), corrects decades of underfunding by providing nearly $68M to address backlogged maintenance projects and repairs and new land acquisition to expand parks for better public access, historic preservation, flood mitigation and enhanced staffing.
+It also includes $20M for transportation improvements, parking availability and trail connectivity.
+Additionally, the bill leverages power between county and state parks for better partnerships to create a pipeline to hire and retain diverse staff, improve oversight to the park system and promote our state parks so every Marylander has access to their state parks.
+State Retirement and Pension System - Investment Climate Risk (HB 740)(2022), requires a fiduciary of the State Retirement and Pension System (SRPS), when managing assets of the system and in accordance with statutory fiduciary responsibilities, to consider the potential systemic risks of the impact of climate change on the system’s assets.
+The Clean Water Commerce Act of 2021 (HB 507/SB 119) reauthorizes the Clean Water Commerce Act and allows the use of funds from the Bay Restoration Fund to further our efforts to reduce nitrogen, phosphorus, and sediment flowing into the Chesapeake Bay.
+State Clean Water Act, HB 76/SB 334)(2021) (Senator Carter/Delegate Love) allows citizens to intervene in State Clean Water Act enforcement actions.
+The Tree Solutions Now Act of 2021 (HB 991) establishes a statewide goal of planting 5,000,000 trees, including at least 500,000 in underserved areas; requires a technical study of the forests in Maryland; and addresses forest mitigation banking under the Forest Conservation Act.
+Updating Stormwater Management Data & Regulations (HB 295/SB 227)(2021)(Senator Elfreth/Delegate Love) requires MDE to use updated rainfall data for stormwater regulations.

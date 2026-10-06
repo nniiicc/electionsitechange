@@ -1,0 +1,32 @@
+Planned Parenthood Votes New Mexico (PPVNM) is committed to protecting and expanding New Mexicans' access to reproductive and sexual health care through policy, grassroots organizing, and electing reproductive health care champions across all levels of government.
+Green Vote 2026 is a project of Conservation Voters New Mexico (CVNM) Action Fund, a nonpartisan “coordinated” political action committee (PAC) that works to elect pro-conservation candidates and to defeat anti-conservation candidates at the state level up to the amount allowed by New Mexico campaign finance laws.
+The American Federation of Teachers is a union of professionals that champions fairness; democracy; economic opportunity; and high-quality public education, healthcare and public services for our students, their families and our communities.
+Young Democrats of New Mexico is a youth-led organization that elevates the voices and policy priorities of young New Mexicans while supporting progressive leadership and greater youth representation in government.
+The New Mexico State Council of Machinists and Aerospace Workers represents union members in a variety of fields and industries, from railway workers, airline workers to workers at our National labs.
+They also represent workers in traditionally non-machinist roles, like healthcare workers, professional union staff members, and even NA
+The New Mexico State Council of Machinists and Aerospace Workers represents union members in a variety of fields and industries, from railway workers, airline workers to workers at our National labs.
+They also represent workers in traditionally non-machinist roles, like healthcare workers, professional union staff members, and even NASA.
+Like New Mexico, their membership is diverse and spans the political spectrum.
+Animal Protection Voters was formed in October 2002 in New Mexico.
+One important tool that can be used to reduce animal suffering is passing laws that better protect animals.
+In order to pass local, state and federal laws, it’s necessary to build a force that our lawmakers cannot ignore.
+That is why they are here.
+Albuquerque Teachers Federation, AFT NM Retirees, UAUNM, and Albuquerque Federation of Classified Employees unions of the ATF Unified Committee on Political Education .
+The Albuquerque Teachers Federation (ATF) is committed to improving the conditions of teaching and learning in our public schools while advancing the causes of social jus
+The Albuquerque Teachers Federation (ATF) is committed to improving the conditions of teaching and learning in our public schools while advancing the causes of social justice and democracy for our members, students and the ABQ community.
+The NMVC Action Fund is a new 501(c)4 organization based in New Mexico.
+Their Mission: To advance child and family-centered policies and leadership that support measurable and meaningful improvements in the well-being of New Mexico’s families through policy and electoral advocacy.
+The Rio Grande Chapter of the Sierra Club is a volunteer-led organization representing more than 10,000 members in New Mexico and West Texas.
+Their mission to is to explore, enjoy and protect the planet, and they prioritize protecting our climate, air, water, wildlife and public lands in New Mexico and West Texas.
+The Sierra Clu
+The Sierra Club Rio Grande Chapter endorsement was given after an extensive questionnaire and interview process.
+Our endorsement reflects our confidence in your commitment to public service and to the veterans, service members, military families, and communities you seek to represent.
+Veterans and military families understand that service does not end when the uniform comes off.
+We look for elected leaders who demonstrate integrity, respect for democ
+Veterans and military families understand that service does not end when the uniform comes off.
+We look for elected leaders who demonstrate integrity, respect for democratic institutions, and a willingness to put people and country ahead of political division.
+We believe your candidacy reflects those values.
+As we approach the November election, the VMFC is proud to stand with candidates who will advocate for veterans and military families, protect the benefits they have earned, strengthen our communities, and ensure that those who have served our nation have a voice in the decisions that affect them.
+Copyright © 2026 A New Day For New Mexico - All Rights Reserved.
+Site Creation: Morris Strategies for New Mexico
+Paid for by A New Day For New Mexico

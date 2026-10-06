@@ -1,0 +1,2 @@
+Massachusetts Congressman Stephen Lynch reacts to FTA report on MBTA safety Aug 31, 2022 | 8th Congressional District, Essential Infrastructure, Jobs & Economic Opportunity, News & Updates WCVB-TV BOSTON- The U.S. representative who serves on the House Committee on Transportation and Infrastructure recently said he is in favor of federal authorities taking more direct control over the MBTA.
+Click here to watch interview Share this: Share on Facebook (Opens in new window) Facebook Share on X (Opens in new window) X

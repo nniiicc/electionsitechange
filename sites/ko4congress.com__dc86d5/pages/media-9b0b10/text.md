@@ -1,0 +1,31 @@
+Press Release
+February 25, 2026
+1
+New York, NY – Courage for Democracy PAC and its grassroots advocacy group Citizens’ Impeachment have endorsed more than 100 Courage Candidates, including top midterm House prospects Analilia Mejía (NJ-11), Kat Abughazaleh (IL-09), Chris Ahuja (CA-32), Kate Barr (NC-14), Oliver Larkin (FL-23), and Karen Ortiz (NY-12).
+Read more
+February 26, 2026
+2
+Call for Impeachment| Read more
+March 9, 2026
+3
+coming soon
+4
+EXCLUSIVE INTERVIEW: Pride in Exile, ft.
+Former EEOC Leaders, Chai Feldblum and Judge Karen Ortiz
+Israeli navy attacks Global Sumud Flotilla bound for Gaza
+Meet the Judge Shaking Up NY's 12th District Race - Karen Ortiz
+https://www.youtube.com/watch?v=Q4NudqkhwPA
+HerMoney Podcast Episode 223: What White Women Can Do To Be Allies For Women Of Color - HerMoney
+A judge resisted Trump’s order on gender identity.
+The EEOC just fired her | AP News
+Agency Moves to Fire a Judge Who Rejected a Trump Directive - The New York Times
+She Was Fired for Defying Trump—But She's Coming Back Swinging | Marie Claire
+How Federal Employees Are Fighting Back Against Elon Musk - The New York Times
+Meet the federal worker who went rogue: ‘I hope that it lights a fire under people’ | AP News
+Trans Workers Describe a ‘Betrayal’ by an Agency Meant to Protect Them - The New York Times
+How Americans feel about free speech under Trump : Up First from NPR : NPR
+Judge explains why she spoke out against directive to pause LGBTQ+ cases : NPR
+The EEOC’s Identity Crisis - Reveal
+https://www.hrdive.com/news/eeoc-survey-columbia-barnard-professors-jewish-israeli/746434/
+Judge rejects challenge of EEOC’s disparate-impact nonenforcement | HR Dive
+Video Civil rights agency moves to fire judge fighting President Trump's directives - ABC News

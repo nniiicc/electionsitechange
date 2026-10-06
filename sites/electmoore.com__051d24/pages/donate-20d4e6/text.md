@@ -1,0 +1,12 @@
+Donate to a Movement.
+Every dollar goes to ensuring that northern Utah will be represented by a conservative leader that is focused on making this country the best place in the world to live, work, start a business, and raise a family.
+If you prefer to send a check, send it to :
+Team Moore
+358 S 700 E B505
+SLC, UT 84103
+Team Moore Contribution Limits: The contribution limit for Blake Moore for Congress is $3,500 per person per election phase (convention, primary election, and general election) for a total of $10,500; joint contributors (spouses together) may give $7,000 per election phase (convention, primary election, and general election) for a total of $21,000; multi-candidate federal PACs may give up to $5,000 per election phase (convention, primary election, and general election) for a total of $15,000.
+The contribution limit for the Expect More LPAC is $5,000 per person or multi-candidate federal PAC per year.
+The contribution limit for the National Republican Congressional Committee is $289,100 per person per year.
+Contributions are not deductible for federal income tax purposes.
+Federal law requires us to use our best efforts to collect and report the name, occupation, and employer of individuals whose contributions exceed $200 in an election cycle.
+Contributions from corporations, labor unions, and foreign nationals, and federal government contractors are prohibited.

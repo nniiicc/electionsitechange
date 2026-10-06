@@ -1,0 +1,10 @@
+Latest News
+Health Professionals and Allied Employees (HPAE) Endorses Congressman Rob Menendez for Re-Election in 2024
+NEW JERSEY – Today, Health Professionals and Allied Employees (HPAE) announced their support for Congressman Rob Menendez’s re-election to the U.S.
+House of Representatives in 2024.
+HPAE is the largest union of Registered Nurses and healthcare professionals in New Jersey, supports more than 13,000 members, and is the fastest-growing health care union in the state.
+“Rob Menendez is committed to fighting for the rights of healthcare workers and patients,” said HPAE First Vice President Barbara Rosen, RN.
+“He supports protecting our community members from the high costs of medical care and will work to ensure every New Jerseyan has access to quality, affordable care.
+In the race for New Jersey’s 8th Congressional District, Rob is the advocate we need to ensure working people have a strong voice representing us in Washington D.C.”
+“I will always stand with our frontline workers and I am honored to be endorsed for re-election by our friends at HPAE,” said Congressman Rob Menendez.
+“We will continuously partner to ensure that healthcare professionals receive strong workplace protections, good livable wages, and ample support – while working together to increase affordability and expand quality healthcare access for all our residents.”

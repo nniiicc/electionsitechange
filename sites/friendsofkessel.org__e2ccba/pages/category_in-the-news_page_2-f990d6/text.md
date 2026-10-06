@@ -1,0 +1,3 @@
+May 4, 2018 | In the News
+News & Updates Dickinson City Administrator Kessel to be ND Commerce Deputy Commissioner via KFYR-TV – Dickinson City Administrator Shawn Kessel will be the next deputy commissioner at the North Dakota Department of Commerce.
+Kessel has served as Dickinson’s...

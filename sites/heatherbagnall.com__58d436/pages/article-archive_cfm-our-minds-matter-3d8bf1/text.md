@@ -1,0 +1,1 @@
+Delegate Heather Bagnall November 22, 2019 Our Minds Matter Delegate Heather Bagnall November 22, 2019 OUR MINDS MATTER GAINS MOMENTUM IN ANNE ARUNDEL COUNTY Published - November 22, 2019 Author - Dylan Roche Publication - Chesapeake Family Magazine Whole Article - https://www.chesapeakefamily.com/family/newandnotable/9741-our-minds-matter-gains-momentum-in-anne-arundel-county

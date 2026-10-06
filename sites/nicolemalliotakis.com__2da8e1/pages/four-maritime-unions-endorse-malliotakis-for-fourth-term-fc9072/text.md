@@ -1,0 +1,25 @@
+FOR IMMEDIATE RELEASE — April 20, 2026
+Four Maritime Unions Endorse Malliotakis for Fourth Term
+Unions are “honored to offer our strong, uniformed endorsement”
+Congresswoman Nicole Malliotakis (NY-11, Staten Island-Southern Brooklyn) received the joint endorsement of four maritime unions whose members are active in and around New York Harbor.
+The unions include the American Maritime Officers (AMO), Seafarers International Union of the AFL-CIO (SIU), International Organization of Masters, Mates and Pilots (MMP), and Marine Engineers’ Beneficial Association (MEBA).
+In the joint endorsement letter, the Presidents of the unions; Willie Barrere (AMO), Dave Heindel (SIU), Don Josberger (MMP) and Adam Vokac (MEBA) wrote, “we are honored to offer our strong, unified endorsement of your re-election.”
+The union leaders went on to write, “During your time in Congress, you have been an outspoken champion of organized labor and the U.S.
+Merchant Marine.
+Your tireless efforts continue to advance key policies that strengthen collective bargaining rights for workers, protect strong workplace safety standards, and preserve the job and retirement benefits of American workers.
+“Notably, your congressional district is home to the men and women who crew and operate the Staten Island Ferry — one of the busiest passenger ferry systems in the nation and a lifeline for hundreds of thousands of commuters.
+Your continued support for the ferry system and the workers employed there are a living example of the indispensable role that American mariners play in the daily life of our communities, and their livelihoods depend on elected officials who understand and value the maritime profession.”
+Congresswoman Nicole Malliotakis said, “I want to thank the members and presidents of the American Maritime Officers, Seafarers International Union of the AFL-CIO, the International Organization of Masters, Mates and Pilots, and the Marine Engineers’ Beneficial Association for their unified endorsement.
+“New York Harbor is a massive economic engine for our city and region.
+In 2024, the harbor handled $246 billion in goods and ranks as the largest container port on the East Coast, handling 8.7 million containers.
+In addition, the harbor welcomed 331 cruise vessels carrying nearly 2.4 million passengers.
+“The maritime unions endorsing my re-election represent the men and women who make this economic engine run and ensure that cargo ships, cruise ships, the Staten Island Ferry and other water-borne traffic navigate New York Harbor in a safe and efficient manner.
+They understand my support for their industry by my actions in Congress.
+“In Washington, I secured over $54 million for dredging at Arthur Kill Terminal and Great Kills Harbor, improving navigation, and reducing shoreline flooding.
+In addition, I worked with the National Park Service to remove multiple long abandoned and derelict vessels that obstructed navigation and leaked fuel and other pollutants into Great Kills Harbor.
+“As Co-Chair of the Ferry Caucus, I introduced the bipartisan FERRIES Act to boost federal ferry funding up to $550 million annually; directly supporting the Staten Island Ferry and NYC Ferry systems that NY-11 commuters depend on every day.
+I also secured a $3 million federal grant to rehabilitate the Staten Island Ferry storage facility in Stapleton.
+This grant restores drainage, utilities, and maintenance capacity that were negatively impacted during SuperStorm Sandy.
+“Over the years, I have always been a strong supporter of the U.S.
+Maritime Industry due to the impact it has on the economic well-being of both our region and our nation, not to mention the important role it plays in times of national and international crisis.
+Once again, thank you for your belief in me and your strong support.”

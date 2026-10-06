@@ -1,0 +1,21 @@
+About Rep.
+David Thomas
+Public Service & Leadership
+- Serves the residents of Ashtabula and Trumbull counties, advocating for less government, lower taxes, and accountability in Columbus.
+- Legislative Leadership: Serves as Vice Chair of the House Ways and Means Committee, focusing directly on tax reform, local government spending, and budget oversight.
+- Committee Appointments: Active member of the House Committees on Energy, Public Insurance & Pensions, and Arts, Athletics & Tourism.
+- Ashtabula County Auditor (2019–2025): Transformed county auditor operations by prioritizing transparency, taxpayer customer service, and modern efficiency.
+- Austinburg Township Fiscal Officer (2015–2019): Managed township finances with strict accountability and transparency.
+Started public service early on the Austinburg Township Zoning Board at age 16.
+Core Legislative & Community Priorities
+- Property Tax Reform: Leading the effort in the Statehouse to pass meaningful property tax relief—separating value increases from tax increases, stopping foreclosures on seniors, and easing burdens on working families and farmers.
+Authored 5 Property Tax Reform bills signed into law.
+- Local Government Oversight & Accountability: Partnering directly with local leaders to hold public utilities accountable, reform submetering practices, lower spending, and strengthen regional infrastructure.
+- Accessible Representation: Maintaining continuous, direct contact with constituents through local listening tours, door-to-door outreach, and rapid constituent assistance.
+Education & Professional Background
+- Master of Business Administration (MBA): Baldwin Wallace University (2018).
+- Bachelor’s Degree: Washington and Lee University (2015).
+- Private Sector & Community Career: Served full-time at Grand River Academy and has been actively involved in civic organizations, including past president roles with the Geneva Rotary Club and Conneaut Lions Club.
+Deep Local Roots & Values
+- Family & Heritage: Lifelong resident of the region with deep roots in both Ashtabula and Trumbull counties, coming from a family dedicated to public service, local agriculture, and community leadership.
+- Community Involvement: Active in local 4-H programs and youth mentorship, guided by a strong commitment to family and faith.

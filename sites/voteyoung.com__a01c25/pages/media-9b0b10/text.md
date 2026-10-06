@@ -1,0 +1,11 @@
+MEDIA
+I believe staying connected to the people of Chester and Berks Counties is essential to doing this job the right way.
+This page is where I share updates on what I’m working on, what I’m hearing from neighbors across the district, and how these conversations are being covered by local and national media.
+You’ll find press releases, earned media, interviews, and social media updates that reflect real discussions about the issues facing PA-6.
+That includes national conversations—like my recent discussion on SiriusXM about the Young Americans Healthcare Plan and the need to lower costs for families—as well as local reporting on my background as a West Point graduate, Army veteran, and turnaround executive who has spent a career solving hard problems.
+I don’t believe campaigns should operate behind closed doors.
+I want voters to be able to see what I’m saying, where I’m showing up, and how I’m thinking about the challenges we face as a district.
+Staying engaged means listening, learning, and keeping the conversation going—through town halls, local media, and direct outreach—so that people know their voices are being heard.
+Whether it’s a policy announcement, a community event, or coverage of an issue that matters to your family or business, this page is here to help you stay informed and connected as we work together to move PA-6 forward.
+-
+Marty Young

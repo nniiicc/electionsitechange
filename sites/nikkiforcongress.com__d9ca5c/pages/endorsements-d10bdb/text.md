@@ -1,0 +1,21 @@
+- Planned Parenthood Action Fund
+- LGBTQ Equality PAC
+- LCV Action Fund
+- Citizen Action Illinois
+- NRDC Action Fund
+- Defend the Vote PAC
+- United Auto Workers (UAW) International Executive Board
+- NOW PAC
+- Illinois AFL-CIO
+- Illinois Alliance for Retired Americans
+- AFSCME Council 31
+- United Steel Workers District 7
+- Madison County Democrats
+- Illinois SEIU
+- Associated Fire Fighters of Illinois
+- Mid-America Carpenters Regional Council
+- Illinois Pipe Trades Association Executive Board
+- Ironworkers District Council of St.
+Louis & Vicinity
+- Midwest Region Laborers
+- UFCW Local 881

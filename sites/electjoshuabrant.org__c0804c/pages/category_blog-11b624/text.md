@@ -1,0 +1,34 @@
+Skip to content
+For Indiana State Senate District 23…
+Elect Joshua Brant
+Search
+News
+District Map
+The Candidate
+The Issues
+Current Proposals
+Events
+Get Involved
+Donate
+PAC Transparency
+Communicate
+MERCH
+Category:
+Blog
+A glimpse into the mind of Joshua Brant.
+Prosperity Indiana Candidate Survey
+The Republican Primary Fight Continues
+Hump Day Update (09/09/26)
+Hump Day Update (09/02/26)
+Summit Summation Part 1
+Moto Monday 6
+Hump Day Update (08/26/26)
+Moto Monday 5
+The ICPE Video
+Hump Day Update (08/19/26)
+Next Page
+Loading Comments...
+Write a Comment...
+Email (Required)
+Name (Required)
+Website

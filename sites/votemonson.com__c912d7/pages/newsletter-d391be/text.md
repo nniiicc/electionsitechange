@@ -1,0 +1,117 @@
+0
+Skip to Content
+Home
+Meet Logan
+Legislative Newsletter
+Newsletters
+September 2026 Newsletter
+August 2026 Newsletter
+July 2026 Newsletter
+June 2026 Newsletter
+May 2026 Newsletter
+April 2026 Newsletter
+2026 Session Newsletter - Week 7
+2026 Session Newsletter - Week 6
+2026 Session Newsletter - Week 5
+2026 Session Newsletter - Week 4
+2026 Session Newsletter - Week 3
+2026 Session Newsletter - Week 2
+2026 Session Newsletter - Week 1
+December 2025 Newsletter
+November 2025 Newsletter
+October 2025 Newsletter
+September 2025 Newsletter
+August 2025 Newsletter
+July 2025 Newsletter
+June 2025 Newsletter
+May 2025 Newsletter
+2025 Session Newsletter - Week 7
+2025 Session Newsletter - Week 6
+2025 Session Newsletter - Week 5
+2025 Session Newsletter - Week 4
+2025 Session Newsletter - Week 3
+2025 Session Newsletter - Week 2
+2025 Session Newsletter - Week 1
+My Priorities
+Volunteer
+Contact
+Donate
+Open Menu
+Close Menu
+Home
+Meet Logan
+Legislative Newsletter
+Newsletters
+September 2026 Newsletter
+August 2026 Newsletter
+July 2026 Newsletter
+June 2026 Newsletter
+May 2026 Newsletter
+April 2026 Newsletter
+2026 Session Newsletter - Week 7
+2026 Session Newsletter - Week 6
+2026 Session Newsletter - Week 5
+2026 Session Newsletter - Week 4
+2026 Session Newsletter - Week 3
+2026 Session Newsletter - Week 2
+2026 Session Newsletter - Week 1
+December 2025 Newsletter
+November 2025 Newsletter
+October 2025 Newsletter
+September 2025 Newsletter
+August 2025 Newsletter
+July 2025 Newsletter
+June 2025 Newsletter
+May 2025 Newsletter
+2025 Session Newsletter - Week 7
+2025 Session Newsletter - Week 6
+2025 Session Newsletter - Week 5
+2025 Session Newsletter - Week 4
+2025 Session Newsletter - Week 3
+2025 Session Newsletter - Week 2
+2025 Session Newsletter - Week 1
+My Priorities
+Volunteer
+Contact
+Donate
+Open Menu
+Close Menu
+Home
+Meet Logan
+Legislative Newsletter
+Folder:
+Newsletters
+Back
+September 2026 Newsletter
+August 2026 Newsletter
+July 2026 Newsletter
+June 2026 Newsletter
+May 2026 Newsletter
+April 2026 Newsletter
+2026 Session Newsletter - Week 7
+2026 Session Newsletter - Week 6
+2026 Session Newsletter - Week 5
+2026 Session Newsletter - Week 4
+2026 Session Newsletter - Week 3
+2026 Session Newsletter - Week 2
+2026 Session Newsletter - Week 1
+December 2025 Newsletter
+November 2025 Newsletter
+October 2025 Newsletter
+September 2025 Newsletter
+August 2025 Newsletter
+July 2025 Newsletter
+June 2025 Newsletter
+May 2025 Newsletter
+2025 Session Newsletter - Week 7
+2025 Session Newsletter - Week 6
+2025 Session Newsletter - Week 5
+2025 Session Newsletter - Week 4
+2025 Session Newsletter - Week 3
+2025 Session Newsletter - Week 2
+2025 Session Newsletter - Week 1
+My Priorities
+Volunteer
+Contact
+Donate
+Sign Up For My Legislative Newsletter!

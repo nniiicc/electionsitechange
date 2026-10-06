@@ -1,0 +1,9 @@
+Senator Samuel Carrión regrettably is unable to support the $200,000 allocation request made by Governor Albert Bryan; as the General Fund has severely exceeded its capacity.
+This asks, although well intended, is impractical and fiscally irresponsible, as it would further stretch the finances of the local government.
+“I genuinely sympathize with the urgent need for support and solidarity in the face of the widespread destruction impacting our neighboring Caribbean brothers and sisters.
+However, I also understand, all too well, the frustration and hardship of residents of the Virgin Islands and our Government’s own significant financial shortcomings.” Carrión Said.
+As a local Government, Senator Samuel Carrión firmly believes that our people are our first priority.
+Financially, this includes but is not limited to; ensuring we are able to meet the bi-weekly payroll for all GVI employees, stay current with our obligations to pay GVI operational utilities, continue to make vendor payments for various mission critical services and many other obligations.
+It’s been almost seven years since Hurricanes Irma and Maria and we still have displaced families, blue roofs over homes and an overall infrastructure in need of repairs.
+The relief aide allocation request unfortunately does not align with the current dire needs of the GVI as well as the GVI fiscal capacity.
+“I wholeheartedly encourage and support any community-based recovery efforts that can be coordinated between the private sector, private citizens, community organizations and non-profits that have the interest and financial flexibility to provide humanitarian aide to those affected by the hurricane that are in need, but as a government we just can’t, due to our budget deficit and outstanding obligations, Senator Carrión concluded.”

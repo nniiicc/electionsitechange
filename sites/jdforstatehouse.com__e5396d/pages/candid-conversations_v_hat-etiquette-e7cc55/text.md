@@ -1,0 +1,1 @@
+11/17/25 Hat Etiquette Previous Campaign Shenanigans Next Flexing Political Muscle You Might Also Like Principles Over Politics Not being Crazy Hats off to Hospitals A Thanks to those Involved Income and Expenditures

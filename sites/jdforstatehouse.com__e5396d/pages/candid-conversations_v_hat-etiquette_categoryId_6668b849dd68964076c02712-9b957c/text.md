@@ -1,0 +1,1 @@
+11/17/25 Hat Etiquette Previous Campaign Shenanigans Next Flexing Political Muscle You Might Also Like A Balanced Budget Principles Over Politics Support Core Industries Not being Crazy Thank you to Constituents

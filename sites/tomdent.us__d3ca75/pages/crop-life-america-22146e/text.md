@@ -1,0 +1,19 @@
+Crop-Life America Recognizes Rep.
+Tom Dent’s work on Ag issues
+CropLife America Recognizes State Representative Tom Dent at 2020 Annual Meeting
+WASHINGTON, D.C. – Each year at its Annual Meeting, CropLife America (CLA) recognizes member volunteers and industry allies who are integral to the advancement of the industry and American agriculture.
+CLA recognized Representative Tom Dent for his support of U.S. farmers, ranchers and the pesticide industry during the virtual General Session held on September 29 with the State Leadership Award.
+The State Leadership Award honors an individual who demonstrates outstanding leadership in the area of state legislative or regulatory issues and promotes initiatives that preserve, protect and advance the ability of farmers to provide a safe, affordable and sustainable food supply.
+This state legislator, agricultural commissioner or similar, has performed outstanding service by developing and/or implementing methods, programs or legislation to strengthen and improve the agriculture community.
+State Representative Tom Dent serves as the ranking member on the Rural Development, Agriculture & Natural Resources Committee.
+His legislative priorities include water resource management, promoting increased trade for agricultural products, protecting pesticide use, and preventing wildfires through improving the health of our forest and rangeland.
+In 2018, Tom took the lead on the pesticide application safety work group created by the legislature, and under his guidance, the group shifted from a focus on requiring use reporting and pre-notification of pesticide applications to one focused on better communication and collaboration between agencies.
+The next year, Tom served on a work group on aerial pesticide applications on forestland.
+Once again, his knowledge, leadership and ability to bring opposing sides together turned an adversarial group into a positive working experience.
+Heather Hansen, executive director of Washington Friends of Farms & Forests noted, “Tom has put in hours and hours helping urban legislators gain a better understanding of agriculture and rural life.”
+Tom actively supports 4-H and FFA.
+He cares deeply about providing a safe and positive environment for young people that allows them to grow up and have the same opportunities available to prior generations to become successful.
+Drift management for the aerial application industry is of keen interest to Tom.
+He produced two videos on the subject, one of which has maintained worldwide exposure and been used as a training model in several states.
+Tom also wrote a monthly column for Ag Pilot Magazine and was a charter member of the Association of Washington Aerial Applicators.
+For all these contributions to agriculture and the pesticide industry, we thank Representative Dent for his support.

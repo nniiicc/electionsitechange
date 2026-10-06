@@ -1,0 +1,9 @@
+BLOG
+In Voting to Defund Israel, John Mannion Put Politics Ahead of Principle
+Central New York's community has every right to be angry.
+So am I.
+Congressman John Mannion voted...
+Mannion’s Anti-Energy Affordability Agenda Make Him Vulnerable As Energy & Costs Become Top Issue in Race
+TO: Interested PartiesFROM: Robert Moreno, Campaign ManagerRE: Mannion’s Anti-Energy Affordability...
+CENTRAL NEW YORK DESERVES BETTER AND I’M FIGHTING TO DELIVER IT
+By Kailee Buller, Candidate for Congress (NY-22) I grew up in Auburn, New York, the daughter of a...

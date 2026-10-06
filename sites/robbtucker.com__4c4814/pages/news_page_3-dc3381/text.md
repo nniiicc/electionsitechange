@@ -1,0 +1,3 @@
+Months after winning the Primary Election, Robb Tucker was sworn in to office as District 2 Supervisor on Monday, Jan. 6, alongside his colleagues District 1 Supervisor Heidi Hall and District 5 Supervisor Hardy Bullock.
+Tucker will be replacing Ed Scofield who held the post for 16 years.
+Tucker will be the youngest member on…

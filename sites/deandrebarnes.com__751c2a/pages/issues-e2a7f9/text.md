@@ -1,0 +1,33 @@
+- Prioritizing long-term planning over short-term political wins to ensure Michigan remains competitive for decades.
+- Embracing emerging technologies and innovation to modernize state government and services.
+- Protecting our natural resources and Great Lakes for future generations to enjoy.
+- Supporting small businesses by reducing red tape and providing better access to low-interest capital.
+- Attracting high-tech industries to Michigan to ensure we remain a global leader in manufacturing and innovation.
+- Promoting "Buy Michigan" initiatives to keep local tax dollars circulating within our own communities.
+- Fighting for targeted tax relief for working families and seniors on fixed incomes.
+- Addressing rising utility costs by demanding greater oversight of energy providers.
+- Working to lower the cost of essential goods and services through smarter supply chain policies.
+- Increasing classroom funding to ensure teachers have the tools they need and students have the environment they deserve.
+- Expanding vocational training and trade school partnerships to provide students with diverse career paths.
+- Closing the "digital divide" by ensuring every student has the technological literacy required for the modern workforce.
+- Protecting family farms from over-regulation and ensuring they have access to global markets.
+- Expanding high-speed broadband to every corner of the district to support rural businesses and education.
+- Investing in rural healthcare clinics and mobile services to ensure geography doesn't dictate the quality of care.
+- MEDICARE FOR ALL + : Ensuring all Michiganders have access to primary medical care, dental and vision services, and lowered prescription drug costs.
+- Increasing state funding for mental health professionals in schools and community centers.
+- Combating the opioid epidemic through a balance of robust treatment options and law enforcement support.
+- Ensuring local police, fire, and EMS departments have the equipment and staffing necessary to keep neighborhoods safe.
+- Investing in community-based crime prevention programs that address the root causes of instability.
+- Strengthening judicial accountability to ensure the legal system works fairly for all citizens.
+- Encouraging the development of affordable starter homes to help young families build equity.
+- Advocating for incentives for the rehabilitation of existing housing stock in our older neighborhoods.
+- Protecting renters’ rights while ensuring property owners have a fair and predictable regulatory environment.
+- Accelerating road and bridge repairs using high-quality materials designed to withstand Michigan winters.
+- Modernizing our water and sewer systems to ensure clean drinking water and prevent flooding.
+- Improving regional transit options to better connect workers with high-growth jobs.
+- Advocating for increased transparency in how state tax dollars are spent.
+- Supporting ethics reforms to limit the influence of special interests in Lansing.
+- Making the state government more accessible to constituents through regular town halls and digital outreach.
+- Defending the civil rights and liberties of every Michigander, regardless of their background.
+- Ensuring seniors can age with dignity by protecting home-care services and social safety nets.
+- Fostering a culture of respect and inclusion in our state’s policies and public discourse.

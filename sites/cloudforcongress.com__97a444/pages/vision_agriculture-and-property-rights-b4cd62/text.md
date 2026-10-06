@@ -1,0 +1,3 @@
+Texans are leaders in agriculture and the best stewards of Texas land.
+While on the Agriculture Committee, Michael was the only Republican Member of Congress from Texas and considered it a great honor to make sure our food supply is protected, that trade policies are structured to export more American products, and that the industries that Americans depend on every day flourish.
+Our farmers and ranchers do not need the Environmental Protection Agency (EPA) or other government agencies interfering with property rights, micro-managing water on their land or passing unnecessary, intrusive regulations.

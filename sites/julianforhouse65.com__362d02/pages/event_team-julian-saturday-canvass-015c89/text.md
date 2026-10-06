@@ -1,0 +1,2 @@
+September 12, 2026 | 2:00-4:00 p.m.
+Team Julian Canvass Every Saturday Click here to sign up ← Back To Events Other Events Fundraising October 10, 2026 Joint Fundraising Event with David Hardy 4pm See event info Voter Outreach October 3, 2026 Joint Canvassing with David Hardy for Senate and Jerri Green 10:30am See event info Voter Outreach September 26, 2026 Joint Canvassing with Jerri Green 10:30 am See event info

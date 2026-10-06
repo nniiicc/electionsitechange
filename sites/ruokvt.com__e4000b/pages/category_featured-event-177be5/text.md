@@ -1,0 +1,9 @@
+by suz | Oct 1, 2026 | Featured event, From the Trail, Uncategorized
+Comedy Show “Independently Funny!” A star-studded line up to include a Boston Comedy Stop regular: hilarious comedienne ANNIE POWELL, who will be headlining this show, as well as Julia Colasanti, Jermy Rayburn, King Mecca and your host, Tam Lantz~Open to...
+by admin | Jul 16, 2026 | Featured event, Press
+My first time on the radio as a political candidate AND a comedian… who knew policy and punchlines could mix so well?
+Alison and Elizabeth talk with Suzanne about her campaign to be Vermont’s next representative in the U.S.
+House.
+Suzanne’s website is...
+by admin | Jul 14, 2026 | Featured event, Press
+“Politics Unusual” Campaign Focuses on Listening to Vermonters, Strengthening Communities, and Restoring Trust in Government MONTPELIER, VERMONT — June 28, 2026 — Suzanne “Suz” Seymour, a Colchester small-business owner, massage therapist,...

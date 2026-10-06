@@ -1,0 +1,13 @@
+Claudia TenneyLeads on China, Brindisi Follows
+Brindisi is Nothing But Cheap Counterfeit of the Real Thing
+NY22 — For years, Claudia Tenney has been calling for the US to get tough on China, hold the Chinese Communist Party accountable for their COVID-19 crimes, and restore American self-reliance.
+Anthony Brindisi follows the leader again — in pale imitation.
+FLASHBACK: March 2020 in Syracuse Post-Standard: Claudia Tenney calls for holding the Chinese Communist Party accountable on Covid and re-shoring America’s vital industries.
+“China is a real and present danger to America and Americans…Coronavirus has shown us the Chinese cannot be trusted and they should no longer be relied on – especially for vital medical treatments and supplies.
+It’s not just risky for patients, it’s a threat to national security for China to be able to hold us hostage or worse, poison us … When we come out of this crisis, we must move quickly to restore our industrial base, bring supply chains of national interest back to America, and punish Chinese theft and aggression.
+Breaking China’s grip on our country is essential for our economic survival, military strength, and American’s very health.”
+FLASHBACK: December 2016 on CNN.com: Claudia Tenney demands China stop its cheating and theft: “The US government must act to protect American jobs, innovation and national security against these abuses.
+A good start would be to send a clear signal that there will be real consequences for any entity, state-backed or otherwise, that steals from American companies.
+Beijing must learn that the United States will defend American jobs and businesses from outright theft through cyberattack and industrial espionage, and Donald Trump appears committed to communicating that message as president.
+The damage such crime does to the US economy is real, and Trump is right to focus on it.
+In a world where our second-largest trading partner is stealing from us more than it buys from us, we must be a lot tougher than scolding it for stepping out of line.”

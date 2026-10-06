@@ -1,0 +1,33 @@
+Skip to content
+For Indiana State Senate District 23…
+Elect Joshua Brant
+Search
+News
+District Map
+The Candidate
+The Issues
+Current Proposals
+Events
+Get Involved
+Donate
+PAC Transparency
+Communicate
+MERCH
+Category:
+Announcements
+News & Information
+Early Voting Message to Voters
+Fundraising Launch
+PRESS RELEASE: Ballot Access
+Major Campaign Update
+Community Round Table Cancellation
+Full Round Table Schedule
+Community Round Table Update
+Education Policy Update
+Press Release: Official Announcement
+Hello World!
+Loading Comments...
+Write a Comment...
+Email (Required)
+Name (Required)
+Website

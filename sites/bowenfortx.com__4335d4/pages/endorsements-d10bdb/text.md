@@ -1,0 +1,115 @@
+Conservative Leaders Endorsing Scott for HD 129
+Conservative Leaders Endorsing Scott for HD 129
+TEXAS LEADERS
+Greg Abbott, Texas Governor
+Dr.
+Dawn Buckingham, Texas Land Commissioner
+Sen.
+Mayes Middleton, State Senate District 11
+Rep.
+Terry Wilson, State Representative District 20
+Rep.
+Cody Vasut, State Representative District 25
+Rep.
+Matt Morgan, State Representative District 26
+Rep.
+Mitch Little, State Representative District 65
+Rep.
+Briscoe Cain, State Representative District 128
+Rep.
+Tom Oliverson, State Representative District 130
+Rep.
+Mike Schofield, State Representative District 132
+Rep.
+Valoree Swanson, State Representative District 150
+CONSERVATIVE ORGANIZATIONS
+Texans for Strong Borders
+Texas Right to Life
+Texans for Lawsuit Reform
+Texans for Vaccine Choice (Recommendation)
+Texas Gun Rights
+American Federation for Children Victory Fund
+Young Republicans of Texas
+San Jacinto Conservatives
+True Texas Project
+Grassroots America We The People
+Greater Houston Builders’ Association (HOME PAC)
+Kingwood TEA Party
+Charles Blain, President of Urban Reform Institute
+United Republicans of Harris County
+Protect Texas Children
+Texans for Fiscal Responsibility
+Conservative Coalition of Harris County
+REPUBLICAN PARTY LEADERS
+Dr.
+Robin Armstrong, RNC Committeeman & Galveston County Commissioner
+Debbie Georgatos, RNC Committeewoman
+Matt Rinaldi, Former Republican Party of Texas Chairman & State Representative
+James Dickey, Former Republican Party of Texas Chairman
+Cat Parks, Former Republican Party of Texas Vice Chairman
+EDUCATION LEADERS
+Julie Pickren, State Board of Education District 7
+Audrey Young, State Board of Education District 8
+Jeff Larson, Clear Creek ISD Trustee
+Mason Peres, La Porte ISD Trustee
+Rhonda Lowe, Deer Park ISD Trustee
+LOCAL LEADERS
+Thomas Schoenbein, Mayor of Pasadena
+Rick Helton, Mayor of La Porte
+Phil Johnson, Mayor of Nassau Bay
+Nick Long, Mayor of League City
+Julian Ramirez, Houston City Council At-Large
+Twila Carter, Houston City Council At-Large
+Pastor Willie Davis, Houston City Council At-Large
+Amy Peck, Houston City Council District A
+Fred Flickinger, Houston City Council District E
+Mary Nan Huffman, Houston City Council District G
+Chase Waterwall, Nassau Bay City Councilman
+Michael Ross, Friendswood City Councilman
+Angela Cervantes, Seabrook City Councilwoman
+Brent Erenwert, former Friendswood City Councilman
+Ericka McCrutcheon, Harris Central Appraisal District Board of Directors
+SREC MEMBERS
+Dale Inman, SREC SD 4 Committeeman
+Gwen Withrow, SREC SD 4 Committeewoman
+Dawn McDonald, SREC SD 6 Commiteewoman & Harris County GOP Precinct 996 Chairman
+Deborah Fite, SREC SD 7 Committeewoman
+Ralph Fite, SREC SD 7 Committeeman
+Gaylyn DeVine, SREC SD 11 Committeewoman & Harris County GOP Precinct 537 Chairman
+Ken Moore, SREC SD 11 Committeeman
+Dale Gibble, SREC SD 13 Committeeman
+Milinda Morris, SREC SD 13 Committeewoman
+Rolando Garcia, SREC SD 15 Committeeman
+Brenda Estis, SREC SD 15 CommitteewomanRoman Klein, SREC SD 17 Committeeman
+Cheryl Thompson Draper, SREC SD 18 Committeewoman
+Sakki Joseph, SREC SD 18 Committeeman
+PRECINCT CHAIRS
+Randy Elms, Harris County GOP Precinct 90 Chairman
+James Bowen, Harris County GOP Precinct 91 Chairman
+Glenn Jenkinson, Harris County GOP Precinct 92 Chairman
+Phyllis Tacquard, Harris County GOP Precinct 174 Chairman
+Elizabeth Lauzon, Harris County GOP Precinct 306 Chairman
+Erin Boyd, Harris County GOP Precinct 307 Chairman
+Kelley Hubenak-Flannery, Harris County GOP Precinct 333 Chairman
+Jeffrey Larson, Clear Creek ISD Trustee & Harris County GOP Precinct 349 Chairman
+Stephen Breault, Harris County GOP Precinct 391 Chairman
+Justin Watkins, Harris County GOP Precinct 415 Chairman
+Tiffany Patenaude, Harris County Precinct 470 Chairman
+Marsha Bujnoch, Harris County Precinct 568 Chairman
+Marina Trevino, Harris County GOP Precinct 655 Chairman
+Stephen Molohosky, Harris County GOP Precinct 692 Chairman
+Karen Plante, Harris County GOP Precinct 718 Chairman
+Luke Cowan, Harris County GOP Precinct 721 Chairman
+James Simmons, Harris County GOP Precinct 724 Chairman
+Anna Weller, Harris County GOP Precinct 728 Chairman
+Joe Spence, Harris County GOP Precinct 732 Chairman
+Melissa Conway, Harris County GOP Precinct 742 Chairman
+Mary Corbin, Harris County GOP Precinct 744 Chairman
+Gabriel Gonzales II, Harris County GOP Precinct 745 Chairman
+Maria Garza, Harris County GOP Precinct 762 Chairman
+Aaron Kovach, Harris County GOP Precinct 782 Chairman
+Dawn McDonald, SREC SD 6 Commiteewoman & Harris County GOP Precinct 996 Chairman
+Brian Boznango, Harris County GOP Precinct 1093 Chairman
+Tracy Sonnier, Harris County GOP Precinct 1096 Chairman
+Joseph Gutheinz, Harris County GOP Precinct 1116 Chairman
+Jaclyn Rasco, Harris County GOP Precinct 1144 Chairman

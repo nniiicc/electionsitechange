@@ -1,0 +1,11 @@
+INVERNESS, FL – Businessman, community leader and Republican candidate for the Florida State House of Representatives’ District 23 seat JJ Grow announced today that he has qualified by petition and will be on the August 20th Republican primary ballot.
+“With strong support from the community I have spent most of my life, our campaign has exceeded the petition threshold requirement,” said Grow.
+“I am committed to continuing to work hard, win this race, and give our community the common-sense, conservative leadership they deserve in the State House.”
+Coinciding with his petition submission, Grow also launched the first ad of the campaign, entitled “Conservative Republican.” The direct-to-camera ad highlights Grow’s business expertise and political outsider status, by stating in part:
+“I’m a businessman, not a politician.
+I believe we need more business-minded conservatives in elected office.
+I think it is really important from a conservative standpoint that we don’t spend money that we do not have.”
+The close of the ad summarizes Grow’s conservative bona fides with:
+“JJ Grow: job-creating businessman, strong supporter of our law enforcement, pro-life, and pro-Second Amendment conservative Republican.”
+The ad can be viewed at https://www.youtube.com/watch?v=_lV5uxgw87g.
+# # #

@@ -1,0 +1,81 @@
+General Election Early Voting
+September 18th - october 31st
+Here’s how you can vote:
+Step 1
+Register to vote, update your registration, or request an absentee ballot.
+Step 2
+Find your nearest polling locations by entering your address in the box below.
+Step 3
+Vote Dave Beckwith for Congress!
+Still have questions?
+Visit Virginia Department of Elections for the most up to date information on the 2026 elections.
+find your polling location
+The locations listed are the Registrars’ offices open for early voting in each county.
+To find other early voting locations that may be closer to your home or work, or to verify your election day polling station, type your address in the search box above.
+Loudoun County:
+Location
+750 Miller Dr SE Ste 150
+Leesburg, VA 20175-7618
+Hours
+Monday : 08:30 - 17:00
+Tuesday : 08:30 - 17:00
+Wednesday : 08:30 - 17:00
+Thursday : 08:30 - 17:00
+Friday : 08:30 - 17:00
+Saturday : Closed
+Sunday : Closed
+fauquier County:
+Location
+528 Waterloo Rd Ste 200
+Warrenton, VA 20186-3011
+Hours
+Monday : 08:00 - 16:30
+Tuesday : 08:00 - 16:30
+Wednesday : 08:00 - 16:30
+Thursday : 08:00 - 16:30
+Friday : 08:00 - 16:30
+Saturday : Closed
+Sunday : Closed
+rappahannock County:
+Location
+262A Gay St
+Washington, VA 22747-1981
+Hours
+Monday : 08:00 - 16:00
+Tuesday : 08:00 - 16:00
+Wednesday : 08:00 - 16:00
+Thursday : 08:00 - 16:00
+Friday : 08:00 - 16:00
+Saturday : Closed
+Sunday : Closed
+prince william County:
+Location
+9250 Lee Ave Ste 1
+Manassas, VA 20110-5554
+Hours
+Monday : 08:00 - 16:30
+Tuesday : 08:00 - 16:30
+Wednesday : 08:00 - 16:30
+Thursday : 08:00 - 16:30
+Friday : 08:00 - 16:30
+Saturday : Closed
+Sunday : Closed
+fairfax County:
+Location
+12000 Government Center Pkwy Ste 323 Fairfax, VA 22035-0001
+Hours
+Monday : 08:00 - 16:30
+Tuesday : 08:00 - 16:30
+Wednesday : 08:00 - 16:30
+Thursday : 08:00 - 16:30
+Friday : 08:00 - 16:30
+Saturday : Closed
+Sunday : Closed
+Other voting information
+- For the General Election:
+- Register to vote, update registration, or request an absentee ballot through the Virginia Citizen Portal by October 23rd
+- Vote early in person from September 18th to October 31st.
+- General election date is November 3rd
+You can register or update your existing voter registration through the Virginia Citizen Portal.
+- Not sure if you live in VA-10?
+Look up your info in the Virginia Citizen Portal to view your voter information.

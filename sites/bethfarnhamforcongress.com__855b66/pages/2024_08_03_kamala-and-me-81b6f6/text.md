@@ -1,0 +1,39 @@
+(Originally published by The Gettysburg Connection on July 31, 2024 under the title, “Why I Support Kamala Harris.”)
+With a grace and humility that convicted felon Donald Trump has never known, President Biden ended his campaign to be re-elected, then endorsed Vice President Kamala Harris.
+Vice President Harris brings not only a fresh energy to the top of the Democratic ticket, she brings her whip-smart intellect as a former prosecutor, her electability as a former U.S. senator, and a continuation of the successful Biden administration.
+I can’t think of anyone I would rather see defeat convicted felon Trump than this history-making woman of color.
+Not only did she break the glass ceiling of elected offices held by women in the USA, she broke the 24-hour donation record for ActBlue after the announcement of her candidacy for President of the United States of America.
+The lift the Democratic party has experienced in the aftermath of her announcement is translating into polls that increasingly favor her against Trump.
+I absolutely support and endorse Vice President Kamala Harris for President of the United States, not only for the reasons mentioned above, but because our platforms are well-aligned.
+Fighting for Democracy, Reproductive Freedom, Gun Safety, Public Education, Universal Healthcare, and Immigration Reform, we tackle the issues that are most important to our quality of life in the United States.
+While she counters Trump who said this past Friday, “You won’t even need to vote” threatening our sacred right to vote again, I continue to challenge Representative John Joyce on his abhorrent refusal to certify our valid electoral votes from Pennsylvania in the wee hours of January 7th, 2021, on the backend of Trump’s violent insurrection.
+Representative Joyce is “proud” to be endorsed by that convicted felon and continues to believe his lies of election fraud.
+Recently, Representative Joyce approved the Supreme Court’s disastrous decision to grant convicted felon Trump immunity for his illegal actions as President of the United States.
+The stakes to preserve our precious Democracy have never been higher, yet I trust Vice President Kamala Harris to win the election and sign into federal law more protections for our voting rights so that we never come this close to losing them again.
+In the aftermath of the Dobbs decision which overturned the Supreme Court’s Roe v.
+Wade decision, Trump claimed, “I did that!” and Representative Joyce co-sponsored the egregiously unscientific Life at Conception Act.
+Mercifully, this terrible bill which asserted fetal personhood did not pass the House of Representatives, but Republicans have recently circled back to implementing this awful idea through their Project 2025 plan.
+Representative Joyce has not condemned Project 2025 and continues to have a 100% favorable rating from the National Right to Life Committee whose position against safe and legal abortion is so extreme it wouldn’t condone it for a raped ten year old in 2022.
+Reproductive Freedom not only includes access to safe and legal abortion, but also birth control, In Vitro Fertilization, gender-affirming care, and/or partnering with consenting adults of any gender.
+Vice President Kamala Harris has pledged to “restore Reproductive Freedom” and her campaign recognizes that “Project 2025 will still be on the ballot” even though the original director of it stepped down.
+Only when we can create the families we choose can we truly be free.
+I do however believe in the Right to Life…of our living breathing children whose leading cause of death in Pennsylvania and the United States of America is Gun Violence.
+I advocate safe storage of firearms, reporting of lost or stolen guns, universal background checks for all gun sales, and Extreme Risk Protection Orders or Red Flag Laws for those who present a risk of harm to themselves or others.
+Executive director of Moms Demand Action, Angela Ferrell-Zabala stated, “Throughout her career, Vice President Harris has shaped gun safety policy to protect survivors, invest in communities, and get firearms out of the hands of people who shouldn’t have them.
+Our movement of 11 million is well-prepared to meet this historic moment and elect Vice President Harris as our next president.” In June, I received recognition as a Candidate of Distinction from Moms Demand Action.
+John Feinblatt, president of Everytown for Gun Safety, stated,“Vice President Kamala Harris has helped lead the strongest gun safety administration in American history, with accomplishments that include breaking the 30-year logjam on federal gun safety legislation and taking historic executive actions to combat gun trafficking and ghost guns.”
+Vice President Harris has soundly criticized Project 2025 for its backward policies on Public Education, like dismantling the federal Department of Education, ending student loan forgiveness for public sector workers like teachers, and getting rid of Head Start which provides Early Education to 800,000 low-income families around the country.
+Like me, Vice President Harris recognizes herself as a product of public education and understands the benefits it provides for society as a whole.
+While Project 2025 asserts that the Department of Health and Human Services should be “Biblically-based,” Vice President Harris has an agenda, just like the Revolutionary Founders of this country, that separates Church from State.
+“We can expect her to try to build on the Biden legacy of expanding coverage,” said Sabrina Corlette, a health policy expert and research professor at Georgetown University.
+“And she’s going to have to do something to bring down costs.” “Corlette predicted Harris would look to protect the Affordable Care Act and extend the enhanced subsidies designed to lower costs, which are set to expire at the end of 2025.
+She would also be likely to work with Congress to try to extend Medicaid coverage in the 10 states that haven’t expanded it under the Affordable Care Act.
+And she could carry on Biden’s attempts to expand Medicare to cover dental, vision and hearing benefits for seniors.” Harris to Expand Affordable Care Act.
+Vice President Harris and I agree that the right to healthcare should never depend on one’s economic, marital, or employment status, gender, age, sex, color, race, creed, ethnicity, country of origin, nor their religion.
+As a child of immigrants, Vice President Harris has a full understanding of what immigration does for America – creating American families and workers, for example.
+Like me, she recognizes that clear paths to citizenship are most needed and beneficial to our country.
+“We need the tools in order to have more resources at the border, to have more resources in the states and cities that are supporting migrants, and I believe we need a pathway to citizenship…All of that is part of what we need to do for comprehensive immigration reform.
+Kamala Harris will work with Congress and get that done” – Senator Elizabeth Warren.
+As a high tide lifts all boats, I believe that Vice President Harris will not only win the election, but boost all down ballot Democratic candidates, including me.
+Please vote for her, me, and other Democratic candidates on November 5th.
+Together, we CHOOSE DEMOCRACY

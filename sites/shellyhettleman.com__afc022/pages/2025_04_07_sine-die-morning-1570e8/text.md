@@ -1,0 +1,12 @@
+Dear Friends,
+Today, April 7th, the Maryland General Assembly is going to adjourn “Sine Die,” which is Latin for “without a day.” Colleagues who have served far longer than I have describe this session as the most challenging they have experienced and I would agree that it’s been one for the history books.
+We faced numerous issues, beginning session with a $3 billion deficit and then continuing adversities of having an additional write-down, the Trump Administration’s DOGE effect on our federal workforce and expected impact on our revenues.
+We are compiling our customary End of Session Report that we will send in the next week or so to highlight some of the most important issues before us this session, but I wanted to send a quick newsletter to let you know about how our budget agreement came together and thought you might be interested in knowing what issues we’ve heard about most from the district.
+I’ve had a fantastic team this year – our 3 fabulous interns as well as our fantastic Legislative Liaison, Janet Eckman (learn more about Janet below), and amazing Chief of Staff, Maura Dunnigan.
+I’m sure many of you have spoken with them or been assisted by their incredible constituent service and I’m incredibly grateful for their patience, kindness, and dedication to public service.
+Please be on the lookout for our wrap-up and in the meantime, I look forward to finishing up our 2025 session — and am hoping to get a few bills over the finish line on sine die – drama I always try to avoid but was unable to this year.
+Sincerely,
+Shelly L.
+Hettleman
+Senator, District 11
+Check out the full newsletter here.

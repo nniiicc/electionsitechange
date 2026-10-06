@@ -1,0 +1,29 @@
+CURRENT AND FORMER ENDORSEMENTS
+Congresswoman Debbie Lesko, AZ08
+"Kevin Payne is a Navy veteran, patriot, and family man who supports family values.
+He is also a businessman that understands the harm of burdensome regulations and fights to keep our taxes low.
+That is why I'm supporting Kevin Payne for reelection as a State Representative for Legislative District 21."
+Arizona Chamber of Commerce and Industry.
+Arizona Conference of Police and Sheriffs (AZCOPS)
+Arizona Fraternal Order of Police (AZFOP)
+The Arizona Fraternal Order of Police is an association with 9,000 members
+Arizona Mining Association
+Arizona Multihousing Association (AMA)
+AzNAPAC
+(Arizona Nurses Association Political Action Committee)
+Arizona Police Association - Recognized as their 2020 Legislator of the Year
+The Arizona Police Association (APA) is an association of associations with 12,000 members.
+Arizona REALTORS®
+Arizona Right to Life
+Arizona Rock Products Association (ARPA)
+Arizona State Troopers Association
+Arizona Technology Council
+"Kevin Payne (R) has proven himself to be a strong voice for small business.
+As a small business owner, he understands what the industry needs from government and, more importantly, what the industry doesn't need.
+He has worked to reduce burdensome regulations and has a history of supporting the technology agenda."
+Center for Arizona Policy Action (CAP Action)
+Greater Phoenix Chamber
+Home Builders Association of Central Arizona Political Action Committee (HBACA PAC)
+NFIB Arizona (National Federation of Independent Business)
+NRA - Political Victory Fund
+Surprise Regional Chamber of Commerce

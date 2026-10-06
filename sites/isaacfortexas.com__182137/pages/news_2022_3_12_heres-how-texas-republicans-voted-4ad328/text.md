@@ -1,0 +1,18 @@
+Here's how Texas Republicans voted
+I'm truly honored that over 12,000 conservatives in Comal and Hays counties entrusted me with their vote — and, Lord willing, I'm ready to cross the finish line victorious in May.
+With everything going on in the news, I wanted to make sure you didn't miss the results of the statewide proposition elections.
+While these propositions don't carry the force of law, they play a critical role in shaping future platform decisions for the Republican Party of Texas.
+Here's how Texas Republicans voted:
+- 92% believe Texas should immediately secure the border, enforce immigration laws, and deport illegal aliens since the federal government continues to ignore its duty
+- 76% believe Texas should completely eliminate property taxes — without implementing a state income tax to make up the difference
+- 89% believe Texans should not have to fear losing their jobs for declining to receive the COVID-19 vaccine
+- 91% believe critical race theory, which pits our children against each other based on the color of their skin, deserves no place in Texas schools
+- 83% of Texans believe innocent life should be constitutionally protected from fertilization until natural death
+- 81% believe Democrat legislators should not be awarded committee chairmanships
+- 96% believe in protecting our elections by ensuring all registered voters are citizens, strengthening voter fraud penalties, and fighting federal takeovers
+- 93% believe Texas children should be protected from invasive and medically unnecessary "gender transition" procedures, including chemical castration and genital mutilation
+- 88% believe in parents' right to control their children's education and that funding should follow the student, not the zip code
+- 93% believe our freedom comes from God, not government
+Despite continued efforts from the mainstream media and radical leftist organizations trying to cause division to weaken the Republican Party and turn Texas blue, it's clear that we are united on these critical issues.
+As the only candidate who has signed the pledge to uphold the Republican Party of Texas platform in office, you can trust I'll stand strong for these and other issues.
+Please feel free to forward this page to conservative friends who may be interested in the results, and remind them to mark their calendars for the runoff election on May 24!

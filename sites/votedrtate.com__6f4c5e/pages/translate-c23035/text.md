@@ -1,0 +1,11 @@
+Embedded Files
+If you would like to translate this website to a different language, please use one of the following methods:
+On Desktop (Google Chrome):
+Right-click anywhere on the page and select “Translate to [your language]” (for example, Spanish).
+You can also click the translate icon in the address bar.
+Using Google Translate:
+Go to translate.google.com, paste this website’s URL into the box, and click the translated link.
+On Mobile (Chrome Browser):
+Tap the three-dot menu in the top corner, select “Translate” or “Languages,” and choose your preferred language.
+Page updated
+Report abuse

@@ -1,0 +1,1042 @@
+Truth, Transparency, and Safety for Texans and First Responders
+An explainer of the proposed Critical Incident Truth and First Responder Protection Act.
+How timely evidence, defined safety zones, evidence integrity, and critical-incident surveillance records would protect the public and the people who respond when help is needed.
+Proposed Articles 2B.0354–2B.0356.
+These are publication milestones, not four deadlines for unredacted video.
+Executive summary
+Texas should protect first responders without asking the public to surrender its right to see what happened.
+My proposed Critical Incident Truth and First Responder Protection Act brings those responsibilities together: preserve the evidence, publish verified facts quickly, disclose the full material context, protect people’s privacy, and keep emergency operations safe.
+The proposal establishes four disclosure milestones for qualifying serious incidents: a verified preliminary statement within 24 hours after a participating governmental body first knows of the incident; a public evidence inventory within 72 hours after the incident; a chronological contextual record within seven days; and the complete material agency-controlled record within 30 days, subject to authorized redactions and evidence-specific court orders.
+Each governmental body with relevant participation or evidence control has its own preservation duty, while a designated responsible reporting agency coordinates the preliminary disclosure and inventory.
+The first deadline is not a blanket requirement to upload every video within 24 hours.
+An additional rule accelerates contextual disclosure when government voluntarily shares an early excerpt or substantive characterization beyond the authorized preliminary statement.
+(Proposal, Article 2.)
+For the public, the bill would replace a request-dependent approach for covered incidents with a duty to publish without waiting for someone to ask or pay.
+Existing Texas law already provides public-access rights, but it also restricts release of certain body-camera recordings during criminal and administrative proceedings while allowing an agency to release them for a law-enforcement purpose.
+(Tex.
+Code Crim.
+Proc. arts. 2B.0111–2B.0113, 2025) This proposal would make prompt, contextual publication a legal obligation for covered evidence, rather than relying on that discretion.
+(Proposal, §§ 2.07–2.10.)
+For first responders, the bill creates a defined safety-zone process, strengthens penalties for dangerous interference, protects emergency access and transport, and addresses drone operations that interfere with responders.
+For citizens, it expressly protects criticism, lawful observation, journalism, and noninterfering recording; preserves, inventories, and releases agency-controlled surveillance-system material when it is reasonably related to a covered critical incident; and establishes ways to seek court-ordered compliance.
+General regulation of license-plate readers and other public-surveillance technologies is addressed in a separate proposal, not this Act.
+Federal responders performing authorized duties are included in the safety-zone protection, but the bill does not create independent Texas immigration-arrest authority or compel release of exclusively federal records.
+(Proposal, Articles 1–7.)
+The goal is to reduce the information vacuum in which false accusations, premature official claims, intimidation, and community conflict can grow.
+That is a policy judgment, not a claim that this particular release schedule has been scientifically proved to prevent violence.
+Transparency must reveal evidence that clears an officer and evidence that exposes misconduct on the same terms.
+This is an explainer of proposed legislation for the 90th Legislature, not a description of enacted law.
+References marked “Proposal” identify provisions of the complete bill reproduced below; external citations identify independently checked existing laws, court opinions, and official reviews.
+The bill’s new deadlines, offenses, and remedies would apply only if enacted and according to its effective-date provisions.
+This Act does not establish general rules for license-plate readers or other public-surveillance technologies.
+Those broader rules are addressed in a separate proposal.
+This Act addresses surveillance-system records only when they are agency-controlled and reasonably related to a covered critical incident.
+Why prompt evidence matters
+My starting principle is straightforward: government should not ask families, officers, or the community to accept an unsupported narrative while it controls the underlying evidence.
+A credible transparency system should help the public test claims, not merely distribute a more polished official version of events.
+An official British inspection of the disorder following the 2024 Southport murders found that false and misleading online content contributed to the spread and escalation of disorder, while expressly concluding that its causes were complex and could not be attributed to one factor.
+(His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services [HMICFRS], 2025) The review also documented police attempts to correct false accounts, including the use of CCTV images and direct reporting from locations falsely associated with events.
+(HMICFRS, 2025) This is evidence that misinformation can create public-safety risks, not proof that a Texas body-camera deadline would have prevented that disorder.
+The obligation runs in both directions.
+The U.S.
+Department of Justice’s Uvalde review examined the inaccurate narrative initially delivered after the school shooting, public-communications failures, and the trauma and support needs of victims, families, and responders.
+(U.S.
+Department of Justice, 2025) Its relevance here is not that Uvalde proves a theory about riots; it is that official statements themselves must be checked against the evidence.
+I want to reduce the risk that false accounts contribute to riots, threats, or retaliatory violence against officers, other participants, or a community.
+I also want to prevent officials from using secrecy to shield wrongdoing.
+The proposed answer is authenticated evidence, sufficient context, corrections, and accountability, rather than a government power to declare which political narratives people may express.
+The sources reviewed for this article do not establish a causal percentage reduction in riots, attacks on officers, or false accusations from the proposed 24-hour, 72-hour, seven-day, and 30-day schedule.
+No such effectiveness estimate is presented.
+Public access also does not turn a recording into a verdict: legal responsibility may require additional evidence and a fair adjudicatory process.
+Article 1: Who and what the bill covers
+Article 1 establishes the short title, the protective purposes, and the definitions used throughout the bill.
+It expressly directs a narrow construction that avoids burdening constitutionally protected speech, press, assembly, petition, observation, and recording.
+(Proposal, §§ 1.01–1.03.)
+A critical incident is an event during a law-enforcement or first-responder operation that results in, or is reasonably likely to result in, death or serious bodily injury; an officer’s firearm discharge at or toward a person; an officer’s use of deadly force; a death during arrest, detention, or law-enforcement custody; or a mass-casualty event.
+This is not every arrest, every use of nondeadly force, or every disagreement with an officer.
+Nor does the definition depend on an event first becoming controversial online.
+(Proposed Art. 2B.0351.)
+The evidence definition is broader than body cameras.
+It reaches relevant dashboard-camera recordings; dispatch and 9-1-1 audio; photographs, video, reports, digital communications, and lawfully held medical-response records; unmanned-aircraft recordings and associated imagery, audio, telemetry, and metadata; and records or data generated by a governmental or contractor-operated surveillance system when reasonably related to the critical incident.
+“Agency-controlled” includes records held by contractors for government and records government has a legal or contractual right to obtain; it does not include exclusively federal records merely because a state or local body knows they exist.
+(Proposed Art. 2B.0351.)
+The first-responder definition includes peace officers, firefighters, EMS personnel, authorized emergency employees or volunteers, federal responders performing federally authorized duties, and state or local officers lawfully assisting them.
+These definitions protect more than the uniformed personnel: the bill’s stated purposes also cover people in custody, victims, witnesses, members of the public, and lawful observers.
+(Proposed Art. 2B.0351; § 1.02.)
+The responsible reporting agency coordinates the preliminary statement, public inventory, and chronology.
+That coordinating role does not take away another governmental body’s preservation, custody, authentication, redaction, release, or court-order duties, and it does not turn exclusively federal records into Texas-controlled records.
+(Proposed Arts. 2B.0351(7), 2B.0359.)
+The “contextual incident record” includes the precipitating event, relevant activity before and during the emergency, and enough of the aftermath to explain stabilization, arrest, transport, medical response, or the end of the emergency.
+It is a functional standard tied to understanding the event, not a fixed number of minutes before and after a dramatic moment.
+(Proposed Art. 2B.0351(6).)
+Article 2: Preserve first, then disclose with context
+Article 2 is the center of the transparency framework.
+It establishes preservation, authentication, publication, privacy review, judicial enforcement, contractor duties, joint-operation rules, implementation support, and coordination with the separate public-surveillance proposal when a surveillance record becomes critical-incident evidence.
+(Proposal, §§ 2.01–2.11.)
+Secure the complete evidence record
+As soon as practicable after a governmental body knows that a critical incident occurred in an operation in which it participated, or that it controls evidence of a critical incident, the body must send a written preservation notice to its employees, agents, or contractors reasonably believed to hold that evidence.
+The notice must prohibit deletion, alteration, overwriting, concealment, and destruction; preserve available metadata and audit logs; and identify the coordinating official.
+Each covered body must also promptly request preservation of relevant evidence known to be held by another governmental body or its contractor.
+This duty applies independently of the designation of a responsible reporting agency.
+(Proposed Art. 2B.0352.)
+Critical-incident evidence must remain in its original or a forensically reliable form until the later of the seventh anniversary of the incident or the completion of the proceedings, direct appeals, and applicable limitations periods described in the bill.
+That is a minimum seven-year preservation rule, not a command to delete evidence at seven years, and not a separate guarantee that every public portal file will remain online for seven years.
+(Proposed Art. 2B.0353.)
+The agency must log access, copies, redactions, transfers, and material alterations.
+It must preserve an original-file cryptographic hash, or an equivalent authentication value, and a separate value for each public version.
+In plain terms, the proposal requires a record of what happened to the evidence and identifiers for comparing the original with the released versions; those safeguards do not establish that a camera captured everything or that every statement in a recording is true.
+(Proposed Art. 2B.0353.)
+A record generated by public-surveillance technology remains subject to this Act when it is agency-controlled and reasonably related to a critical incident, even if it is also covered by proposed Government Code Chapter 424.
+The separate surveillance proposal does not authorize destruction, withholding, or nonpreservation of evidence that this Act requires government to preserve, inventory, or release.
+This is a critical-incident evidence rule, not a general regulation of public-surveillance technology within this Act.
+(Proposed Art. 2B.0353(e).)
+Assign responsibility without creating an excuse for delay
+When only one governmental body participated, it is the responsible reporting agency.
+When several participated, they must designate a participating body in writing as soon as practicable and within 12 hours after a participating body first knows a critical incident occurred.
+Until that designation, each participating body must independently publish the verified information required for the preliminary statement and identify the evidence it knows about or controls.
+Disagreement, reassignment, or the absence of a separate website does not reset or extend a deadline.
+The rule also covers governmental fire, EMS, rescue, and other first-responder operations when no law-enforcement agency participated.
+(Proposed Art. 2B.0359.)
+A disclosure schedule that does not wait for a records request
+The responsible reporting agency coordinates the preliminary statement, inventory, and chronology, while each governmental body controlling covered evidence retains its own seven-day and 30-day publication duties.
+A coordinated portal satisfies another body’s duty only when that body’s required material is actually published on time, and the public must receive a unified chronology or conspicuous links to related releases.
+(Proposed Arts. 2B.0354–2B.0356, 2B.0359.)
+| When | What must happen | Responsible body / qualification |
+|---|---|---|
+| 24 hours after participating-body knowledge | Verified preliminary disclosure and evidence-preservation notice | Responsible reporting agency; only verified, legally releasable information; documented omission grounds |
+| 72 hours after incident | Public evidence inventory | Responsible reporting agency; identify known evidence, control, status, missing intervals and equipment failures |
+| Seventh day after incident | Chronological contextual incident record | Each controlling governmental body; coordinated chronology or conspicuous links where practicable |
+| 30th day after incident | Complete material agency-controlled record | Each controlling governmental body; authorized redactions and qualifying court orders |
+| 24 hours after qualifying early sharing | Publish the recordings and communications needed for context | Triggered by voluntary disclosure beyond the authorized preliminary statement before the seven-day deadline |
+| Before any applicable release deadline | Evidence-specific judicial review for temporary withholding | Petition before the applicable deadline; extensions and renewals of no more than 15 days each |
+The 24-hour statement must identify verified, legally releasable essentials: the date, approximate time, general location, type of call or activity, whether someone died or suffered serious bodily injury, whether an officer fired a weapon or used deadly force, the investigating agency, preservation steps, the responsible official, a permanent portal identifier, and instructions for witnesses to submit information.
+It must separate preliminary information from unknown or disputed facts and identify corrections.
+(Proposed Art. 2B.0354.)
+Temporary omissions require a written determination jointly made by the agency chief and the prosecutor reviewing a criminal investigation, under specified safety, privacy, investigative, legal, or court-order grounds.
+If no criminal investigation is open and no prosecutor has undertaken review, the chief and disclosure officer act after consulting legal counsel; if the same person holds both positions, the chief and counsel must jointly approve.
+The alternative does not extend the deadline or add grounds for secrecy.
+Before contextual publication, disputed conclusions about fault, justification, intent, liability, or witness credibility are restricted unless an immediately necessary warning about a specific ongoing threat justifies a documented preliminary statement.
+This is an obligation on officials, not a gag order on citizens or reporters.
+(Proposed Art. 2B.0354(c)–(g).)
+The 72-hour inventory must show what evidence is known, which body or person controls it, its status, and known interruptions, clock differences, failures to activate, or missing intervals.
+Where an exact count is not reasonably ascertainable, the agency must provide its best verified description rather than invent precision.
+An inventory listing does not itself mean an item is publicly releasable in full.
+(Proposed Art. 2B.0355(a).)
+The seven-day contextual release must include the relevant beginning, the complete material encounter, and enough of the aftermath to understand it.
+It includes materially different camera angles, relevant dispatch and radio traffic, medical-response timing, material commands and conduct, and a synchronized index showing overlaps, gaps, withheld evidence, and items not yet obtained or processed.
+The agency cannot satisfy this duty by selecting its preferred angle when another controlled recording materially changes the context.
+(Proposed Art. 2B.0355(b)–(h).)
+By day 30, the proposal requires the complete material agency-controlled record, not just the recordings most convenient to publish.
+That outer milestone does not postpone the seven-day contextual release: delaying otherwise releasable evidence beyond the applicable seven-day, early-disclosure, or 30-day deadline requires an evidence-specific court order, not merely a pending petition.
+Each extension or renewal is limited to 15 days, with independent judicial review of new or updated findings for renewals; the proposal does not impose a fixed total cap on successive qualifying extensions.
+(Proposed Arts. 2B.0355(b), 2B.0356(a)–(e-1).)
+If material evidence first comes under government control after its applicable publication deadline, the body must preserve it, promptly update the inventory, and publish it as soon as practicable and no later than seven days after obtaining control, subject to authorized redaction or a qualifying order.
+This rule cannot restart the clock for evidence already controlled by a covered body or excuse a knowing failure to obtain evidence subject to an existing access right.
+(Proposed Art. 2B.0356(k).)
+No selective early briefing without the missing context
+If government voluntarily shares an excerpt, still image, transcript, or factual characterization beyond the authorized preliminary disclosure before the seven-day deadline, it must publish the agency-controlled recordings and communications reasonably necessary to put that disclosure in context within 24 hours.
+This applies to a public release and to a selective disclosure to a journalist, advocacy organization, employee association, or other nongovernmental person.
+(Proposed Art. 2B.0355(i).)
+Consider a hypothetical agency that releases a short clip suggesting a person ignored a command, while another controlled recording shows a material communication failure.
+The proposed rule requires the contextual record, not punishment of a reporter who questions the agency.
+Conversely, relevant evidence of a threat or dangerous interference cannot be excluded simply because it complicates a claim against the responding officer.
+Protect dignity without erasing material conduct
+The proposal permits necessary protections for children, sexual-offense victims, undercover officers, confidential sources, protected witnesses, uninvolved people in private settings, confidential medical information, privileged communications, and immaterial personal identifiers.
+It also addresses unnecessarily graphic imagery, intimate body areas, and unrelated views into homes, yards, or windows.
+These protections apply to drone footage as well as ground-level recordings.
+(Proposed Art. 2B.0355(e).)
+Blurring, masking, muting, delayed audio, or partial release must be considered before withholding a whole record.
+Redaction may not remove conduct, timing, commands, communications, or context material to evaluating force, interference, emergency care, or an official statement; the withholding and redaction log must identify the affected evidence, legal basis, approving official, decision date, and review or expiration date without exposing the protected information itself.
+(Proposed Arts. 2B.0355(f), 2B.0356(f).)
+The agency must reasonably attempt to notify seriously injured people depicted, authorized representatives of deceased people depicted, and officers whose force is shown, and give them an opportunity to view the proposed release.
+That is advance notice and viewing, not a veto, and it cannot extend the publication deadline.
+(Proposed Art. 2B.0355(j)–(k).)
+A court must see a specific reason for extended secrecy
+A temporary-withholding order requires clear and convincing evidence of a substantial probability of a specified harm, such as danger to an identified person, legally protected privacy, exposure of an undercover identity or confidential technique, or substantial impairment of an identified investigation or proceeding.
+The governmental body must petition before the applicable deadline and explain why narrower measures will not work and why the requested period is the shortest necessary; filing alone does not stop the clock.
+Generalized concerns about publicity, public opinion, or a potential jury pool are insufficient.
+An order covers only the identified evidence, not the preliminary statement, inventory, or unaffected recordings.
+(Proposed Art. 2B.0356(b)–(e-2).)
+An investigation can therefore continue after public release.
+The bill would require evidence access and neutral caveats while leaving culpability to the appropriate process; it does not declare someone guilty or innocent based on a publication deadline.
+Enforce duties while protecting good-faith personnel
+Each covered governmental body must designate a disclosure officer outside the incident’s operational chain of command when practicable, with consultation from a records custodian and privacy reviewer.
+Any person may seek expedited mandamus, declaratory, or injunctive relief: a court order compelling compliance, clarifying the duty, or stopping an unlawful practice.
+A substantially prevailing plaintiff ordinarily receives reasonable attorney’s fees and court costs, subject to the bill’s exception for reasonable reliance on a written court or attorney-general decision.
+(Proposed Art. 2B.0357.)
+A court finding of the specified knowing or bad-faith evidence failures or knowing deadline evasion can produce a $1,000–$10,000 civil penalty per incident against the governmental body, payable to the compensation to victims of crime fund.
+The proposal protects good-faith reporting by employees and contractors and does not create an individual-officer damages claim for good-faith reliance on a facially valid policy or order.
+That limitation is not blanket immunity from other law; existing evidence-tampering prosecution is expressly preserved.
+(Proposed Art. 2B.0357.) Texas already criminalizes specified intentional alteration, concealment, destruction, and fabrication of evidence.
+(Tex.
+Penal Code § 37.09, 2025)
+The new action has a two-year limitations period, preserves independent remedies and their separate prerequisites, prohibits double recovery for the same loss, and does not protect a reporter from an independently justified action that would have occurred anyway.
+Existing Texas Chapter 554 remains a separate public-employee whistleblower framework.
+(Tex.
+Gov’t Code ch. 554, n.d.)
+The bill prohibits retaliation against an employee or contractor who makes a specified good-faith report to an appropriate governmental authority.
+A claimant must prove by a preponderance of the evidence that the report was a but-for cause of the adverse action; the underlying violation need not ultimately be established for the report to have been made in good faith.
+Remedies include appropriate court orders, reasonable fees and costs, reinstatement or lawful restoration, and proven compensation or employment benefits lost because of retaliation, subject to the bill’s limits.
+(Proposed Art. 2B.0357(f)–(f-5).)
+Protect employees and contractors who report evidence suppression
+Help agencies meet the obligation
+Current body-camera grants generally require a 25-percent local match, with an exception for the Department of Public Safety.
+(Tex.
+Code Crim.
+Proc. art. 2B.0102, 2025) The bill adds a no-match category for financially constrained agencies and expands eligible support to cameras, storage, redaction technology, trained evidence-review staff, and public-access portals.
+(Proposal, §§ 2.03–2.04.)
+An agency qualifies under the proposed financial-constraint definition if it serves a municipality with fewer than 25,000 residents or a county with fewer than 100,000; employs fewer than 50 licensed peace officers; or demonstrates that matching funds would materially impair essential services or compliance.
+These are alternative paths, not three cumulative tests.
+Expanded annual grant reporting would identify costs, deadline compliance, redactions, withholdings, and court extensions.
+(Proposal, §§ 2.03–2.05.)
+The proposal does not set a dollar appropriation or guarantee payment of every local expense.
+It also does not impose a universal requirement that every Texas officer or first responder wear a body camera; existing policy and activation rules continue, while the bill adds stronger preservation, publication, and gap-documentation requirements.
+(Proposal, §§ 2.03–2.09.) Existing law already governs camera policies, active-investigation recording, and documented reasons for nonactivation by equipped officers.
+(Tex.
+Code Crim.
+Proc. arts. 2B.0106–2B.0108, 2025)
+Article 3: Safety zones without a ban on recording
+Texas already prohibits interference with specified public duties and already allows reasonable orders to move to prevent obstruction or address dangerous proximity to a fire, riot, or other hazard.
+(Tex.
+Penal Code § 38.15, 2025) (Tex.
+Penal Code § 42.03, 2023) It would therefore be inaccurate to say responders currently have no scene-control authority; this proposal supplies a more detailed zone process and targeted penalty enhancements.
+(Proposal, Article 3.)
+Two kinds of boundary, each tied to an actual need
+An operational safety zone covers the immediate working area around a lawful detention, arrest, search, rescue, medical response, fire operation, evidence collection, or comparable responder activity.
+Ordinarily it may not extend more than 25 feet from the responder or immediate operational area; a larger distance requires documented incident-specific facts showing it is the least restrictive practicable means of addressing a substantial risk.
+(Proposed § 38.153(a)–(b).)
+A hazard perimeter addresses dangers such as fire, hazardous material, collapse, active violence, moving traffic, or aviation activity.
+Its size and duration follow the identified hazard rather than the ordinary operational-zone distance, and either kind of zone must end when its justification ends.
+Twenty-five feet is not a universal public exclusion radius, and being inside that distance does not by itself complete the proposed crime.
+(Proposed § 38.153(a)–(b), (j).)
+What enforcement would require
+The proposed offense requires a lawful duty, an individualized and reasonable content-neutral order, an identified place to move or remain, a specific articulable risk, knowledge or reason to know the responder is acting lawfully, a reasonable opportunity and safe means to comply, the specified intent or substantial objective risk, and knowing refusal or reentry.
+The listed risks include bodily injury, escape, evidence contamination, obstruction of emergency access, impaired emergency communications, and directing a vehicle, drone, or crowd into the operational area.
+(Proposed § 38.153(c).)
+Officers should identify a safe, lawful place from which observation can continue when feasible.
+Tape, cones, vehicles, or audible notice should make boundaries understandable when practicable; failure to identify an alternative observation point is not itself an element of the offense, but may bear on the reasonableness of the order.
+The bill contains a narrow imminent-danger provision concerning immediate movement, not a general permission to ignore its culpability and probable-cause requirements.
+(Proposed § 38.153(h)–(l).)
+The new zone offense starts as a Class C misdemeanor and rises to Class B for listed aggravating conduct, including physical obstruction, substantial injury risk, unauthorized touching, interference with a victim’s access to help, or repeated reentry after removal.
+Separate amendments would raise qualifying existing § 38.15 interference to Class A or a state jail felony, and expand the § 42.03 state-jail-felony rule for intentional blocking or material delay after a reasonable order in specified emergency and custody-transport circumstances.
+Those amendments still require the underlying offense; they do not make every bystander delay a felony.
+(Proposal, §§ 3.01–3.03.)
+| Provision | Qualifying conduct | Proposed grade |
+|---|---|---|
+| § 38.153(c)–(d) | Knowing refusal or reentry after the required order, opportunity to comply, and intent or substantial-risk conditions | Class C misdemeanor; Class B for listed aggravating conduct |
+| § 38.15(b-1)–(b-2) | Existing interference offense plus listed knowing conduct; or interference causing serious bodily injury or materially facilitating escape | Class A misdemeanor; state jail felony for the specified injury or escape |
+| § 42.03(c-1)(3) | Underlying obstruction offense plus intentional prevention or material delay of specified transport, scene access, or emergency assistance after a reasonable order | State jail felony |
+| § 37.091(b) | Knowingly presenting materially deceptive media as genuine evidence with the required investigative or adjudicatory impairment intent | State jail felony |
+| § 37.091(c) | Public servant’s knowingly deceptive official release with intent to deceive, under color of office | Third-degree felony |
+| § 423.0047(b)–(c) | Drone interference, delay or collision risk after warning or actual FAA restriction notice | Class B; Class A for specified aircraft disruption; state jail felony for bodily injury |
+An escort is not an arrest merely for relocation
+The bill permits objectively reasonable, nonpunitive physical guidance to the nearest safe and lawful location outside the zone after noncompliance.
+When practicable, the officer must identify the boundary and risk, give an alternative location and opportunity to comply, and record the warning and escort on body camera.
+The escort ends at that location unless there is a separate lawful basis for detention or arrest.
+(Proposed § 38.153(k)–(l).)
+Investigative detention requires reasonable suspicion, and a custodial arrest requires probable cause for every applicable offense element.
+The proposal does not authorize taking someone into custody solely to relocate them or holding them longer than the lawful basis permits.
+Nor does it require that every qualifying Class C violation be handled only by citation.
+(Proposed § 38.153(l).)
+Criticism and noninterfering recording remain protected
+The bill expressly excepts conduct consisting only of criticism, profanity, questioning, verbal challenge, lawful reporting or recording, refusal to stop recording, or refusal to answer when no independent legal duty requires an answer.
+It also addresses lawful private-property presence, authorized entry, and emergency aid, with the stated safety and compliance conditions.
+An order cannot be based on viewpoint, affiliation, anticipated publication, or the fact that a person is recording.
+(Proposed § 38.153(f)–(g).)
+These safeguards reflect real constitutional constraints.
+The Supreme Court invalidated Houston’s broad police-interruption ordinance because it swept protected verbal criticism into criminal enforcement, and the Fifth Circuit recognizes a right to record police subject to reasonable time, place, and manner restrictions.
+(City of Houston v.
+Hill, 1987) (Turner v.
+Driver, 2017) Neither decision is a judicial approval of this unfiled bill.
+The existing speech-only defense in § 38.15 remains, but the proposal adds language concerning true threats, intentional and likely incitement of imminent lawless action, and knowing use of amplified sound that prevents emergency communications after a reasonable order and opportunity to comply.
+(Proposal, § 3.02.) The incitement language follows the distinction between protected advocacy and incitement directed to, and likely to produce, imminent lawless action.
+(Brandenburg v.
+Ohio, 1969)
+Article 4: Punish fabricated evidence, not unpopular opinions
+Article 4 addresses technically created or materially altered images, audio, or video that would make a reasonable person believe someone said or did something they did not, or that a materially different event occurred.
+It excludes a merely shortened recording that is not represented as complete and does not materially misrepresent the event.
+(Proposed § 37.091(a).)
+The first offense requires knowing creation, alteration, or presentation of such media as authentic critical-incident evidence, an intent to impair an official investigation or proceeding, and submission to government as genuine evidence or through specified legal process.
+It is proposed as a state jail felony.
+A separate third-degree-felony provision applies when a public servant, acting under color of office with intent to deceive, knowingly releases or directs release of materially deceptive media as an authentic or complete official record.
+(Proposed § 37.091(b)–(d).)
+An ordinary disagreement about what a real recording means does not satisfy those elements.
+The proposal excludes protected commentary, criticism, parody or satire not represented as authentic evidence; nondeceptive technical processing; good-faith exposure of manipulation; and specified reporting, research, legal, or educational uses.
+Conspicuous labeling as altered, reenacted, simulated, satirical, or incomplete supplies an affirmative defense under the drafted text, which is not the same procedural protection as excluding conduct from the offense altogether.
+(Proposed § 37.091(e)–(f).)
+Texas’s existing evidence-tampering statute already reaches certain fabricated records and intentional interference with evidence.
+(Tex.
+Penal Code § 37.09, 2025) Article 4 adds a defined media-specific framework and a distinct official-release offense, while prohibiting duplicate punishment for the same conduct under its overlap rule; it should not be advertised as uniformly increasing every existing tampering penalty.
+(Proposed § 37.091(g).)
+The distinction between evidence fraud and general false speech is important.
+In United States v.
+Alvarez, the Supreme Court invalidated the Stolen Valor Act’s broad criminalization of false medal claims, with differing opinions explaining why that statute failed First Amendment review.
+(United States v.
+Alvarez, 2012) This proposal is not a general crime of “misinformation,” a prohibition on biased reporting, or a power to punish a critical social-media post simply for being wrong.
+Article 5: Keep dangerous drone operations out of emergency work
+Texas already has a chapter governing unmanned aircraft, including image-collection rules and provisions concerning critical infrastructure and sports venues.
+(Tex.
+Gov’t Code ch. 423, 2025) Article 5 proposes a separate offense focused on interference with first-responder operations, while Article 2 makes government-controlled drone recordings and associated imagery, audio, telemetry, and metadata part of the critical-incident evidence framework when materially related to the incident.
+That means authorized public-safety drone material may be operational evidence subject to preservation, inventory, and publication duties.
+(Proposal, §§ 2.01–2.02, 5.01.)
+The defined operational area is immediately above and within 400 feet horizontally of specified active emergency operations where an authorized public-safety drone or manned aircraft is operating or reasonably expected.
+A qualifying offense requires intentional or knowing operation after an individualized warning to land or leave, or actual notice of an FAA restriction, and interference, delay, or substantial collision risk.
+It is not a blanket 400-foot altitude rule or a prohibition triggered by the camera’s mere presence.
+(Proposed § 423.0047(a)–(b).)
+The proposed grade is Class B, rising to Class A when a responder aircraft must change course, abort a mission, or suspend operations, and to a state jail felony when the drone operation causes bodily injury.
+Exceptions cover government-directed response, action necessary to prevent imminent death or serious injury, authorized incident-command operations complying with federal law, and lawful noninterfering newsgathering or other use outside restricted airspace.
+(Proposed § 423.0047(c)–(d).)
+The FAA distinguishes federal airspace restrictions from local restrictions on drone takeoffs and landings.
+(Federal Aviation Administration, n.d.) The proposal expressly disclaims regulation of federally preempted aviation fields and limits this section to interference with state and local responder operations; it does not authorize shooting down drones, jamming radio signals, or Texas control of navigable airspace.
+(Proposed § 423.0047(a), (e).)
+Article 6: Train for the limits and report the results
+Article 6 directs TCOLE, in consultation with specified state agencies and representatives of responders, prosecutors, defense attorneys, civil-liberties groups, and news organizations, to develop model policies and training.
+The subjects include recording rights, de-escalation, objective safety zones, evidence preservation and release, deceptive media, escorts versus detentions or arrests, drone evidence, and state-federal operations.
+The model materials are due December 1, 2027, and covered governmental bodies must adopt substantially compliant policies by January 1, 2028.
+(Proposal, § 5.01.)
+Training must distinguish an instruction to move from physical escort, investigative detention, citation, and arrest.
+Documentation topics include warnings, zone size and duration, justification beyond the ordinary 25-foot limit, physical guidance, reentry, and arrest; the purpose is to make both the operational authority and its boundaries understandable to the people using it.
+(Proposal, § 5.01.)
+DPS must publish an aggregate implementation report by December 1 of each even-numbered year, with the first report due December 1, 2028.
+It must cover available enforcement information, disclosure performance, recording gaps and equipment failures, redactions and extensions, and recommendations, with lawful and statistically reliable disaggregation.
+Planning information collected before January 1, 2028 must be identified separately and may not be reported as a violation of a duty or offense not yet in effect.
+(Proposal, § 6.02(a), (c).)
+Periodic independent public compliance audits would examine a representative sample of covered governmental bodies, including preservation, inventory completeness, authentication, vendor performance affecting critical-incident evidence, release timing, redactions, extensions, and contextual disclosure after early sharing.
+These are not a requirement to audit every agency every year.
+(Proposal, § 6.02(b).)
+Article 7: Effective dates and transition rules
+Sections 2.03, 2.04, and 6.01 take effect September 1, 2027, allowing grant preparation, implementation assistance, model-policy development, and training preparation to begin.
+The bill itself makes no appropriation; early assistance must use money lawfully available for that purpose.
+(Proposal, §§ 6.01(d), 7.04(b).)
+The rest of the Act takes effect January 1, 2028.
+Article 2’s preservation, inventory, disclosure, and enforcement framework applies to critical incidents occurring on or after that date.
+A governmental body may use the procedures for an earlier incident where other law allows, but doing so does not authorize a new penalty or monetary remedy for that earlier incident.
+(Proposal, §§ 7.03–7.04.)
+The first biennial implementation report is due December 1, 2028.
+New or changed criminal provisions in Articles 3, 4, and 5 apply prospectively to offenses committed on or after the applicable effective date.
+(Proposal, §§ 6.02(c), 7.02.)
+Severability instructs courts to preserve provisions and applications that can operate lawfully if another portion is invalidated, including by confining an unconstitutional application affecting speech or newsgathering to a constitutional application to nonexpressive conduct where possible.
+It is a preservation instruction, not a guarantee that every provision will survive challenge.
+(Proposal, § 6.01.)
+Federal partners and the people this bill protects
+The bill includes federal officers and other federal responders performing legally authorized duties in its first-responder definition, and expressly permits safety-zone protection for them.
+That includes a lawful federal immigration operation, but the protected activity must be authorized: the proposal does not create a new state power to arrest someone merely for suspected unlawful presence or to decide removability.
+(Proposed Art. 2B.0351(3); § 38.153(m).)
+Federalism matters here.
+In Arizona v.
+United States, the Supreme Court invalidated several state immigration provisions as preempted, including a state-created warrantless-arrest power, while declining to enjoin a status-check provision at that preliminary stage and leaving room for later challenges.
+(Arizona v.
+United States, 2012) This article is not a statement that every form of state-federal cooperation is unlawful; it explains why the proposed scene-safety authority does not purport to create immigration powers of its own.
+In joint operations, Texas and local agencies must preserve, inventory, and release records they control, including their recordings, dispatch communications, and drone evidence.
+Known material federal-only records must be identified as outside state control, and renewed or new agreements should protect local access and prevent custody transfers from becoming an evasion device to the extent federal law permits.
+Texas law would not compel the federal agency itself to publish exclusively federal records.
+(Proposed Art. 2B.0358.)
+The federal extension is clearest in the safety-zone section, not every provision of the bill.
+Article 5, for example, expressly concerns interference with state and local responder operations; Article 2 reaches records controlled by covered Texas governmental bodies and does not compel a federal agency to publish exclusively federal records.
+(Proposed §§ 38.153(m), 423.0047(e); Art. 2B.0358.)
+| People affected | Protection the proposal adds | Boundary |
+|---|---|---|
+| Members of the public | Automatic publication, inventory, context, correction history, court-enforcement route | Protected information may be redacted or lawfully withheld |
+| Depicted injured people and families | Reasonable advance notice/viewing; privacy protections; preserved evidence | No veto or deadline extension |
+| People detained or accused | Access to contextual evidence, including material commands and medical-response timing | Public release is not a substitute for discovery or a judicial finding |
+| Peace officers | Complete context, preservation, safer working zones, grant support, limits on specified individual damages claims | No blanket immunity or suppression of adverse evidence |
+| Firefighters, EMS and rescue personnel | Scene access, hazard perimeters, anti-interference rules, covered government evidence | Fire/EMS-only incidents use the same responsible-reporting framework; no deadline resets for coordination disputes |
+| Observers, journalists and legal monitors | Recording, criticism, viewpoint neutrality, feasible alternative observation locations | No right to physically obstruct or create a substantial safety risk |
+| Federal responders | Safety-zone protection during authorized federal duties | No new state immigration authority; no compelled release of federal-only records |
+| Employees reporting suppression | Protection against retaliation for specified good-faith reports to appropriate authorities | Not a general license to leak protected evidence |
+| Local agencies | Implementation grants, no-match eligibility for financially constrained agencies | No specific appropriation or guarantee of full reimbursement |
+What changes, what does not, and what implementation must address
+This proposal builds on existing law rather than pretending Texas starts without public-information rights, evidence protections, or laws against interference.
+The comparison below separates existing authority from the new duties and remedies being proposed.
+| Existing provision | Current baseline | What this bill would change |
+|---|---|---|
+| CCP art. 2B.0102 | Generally 25% grant match; DPS exception.
+(Tex.
+Code Crim.
+Proc., 2025) | Add financially constrained agency exception and defined eligibility (§ 2.03) |
+| CCP arts. 2B.0103–2B.0104 | Storage grants and annual grant-recipient cost reporting.
+(Tex.
+Code Crim.
+Proc., 2025) | Expand eligible support and report disclosure compliance, review, redaction and portal costs (§§ 2.04–2.05) |
+| CCP art. 2B.0106 | Camera policy includes at least 90 days’ retention, access, security and officer review.
+(Tex.
+Code Crim.
+Proc., 2025) | Add critical-incident retention, publication, authentication and gap-documentation procedures (§ 2.06) |
+| CCP art. 2B.0110 | Unauthorized employee release of body-camera recording is an offense.
+(Tex.
+Code Crim.
+Proc., 2025) | Treat releases required by the new subchapter as authorized (§ 2.07) |
+| CCP art. 2B.0111 | Qualifying recordings generally held until proceedings conclude; agency may release for a law-enforcement purpose.
+(Tex.
+Code Crim.
+Proc., 2025) | Require preservation and release under the new critical-incident subchapter (§ 2.08) |
+| CCP arts. 2B.0112–2B.0113 | Request conditions, confidentiality rules, and special 20/25-business-day AG procedures.
+(Tex.
+Code Crim.
+Proc., 2025) | Add request-free, fee-free affirmative publication for covered evidence; no direct amendment of 2B.0113 (§ 2.09) |
+| Gov’t Code § 552.108 | Investigative exceptions subject to existing limits, including basic information and (c-1).
+(Tex.
+Gov’t Code, 2025) | Add specific critical-incident override, subject to the new subchapter’s safeguards (§ 2.10) |
+| Penal Code § 38.15 | Interference offense; Class B baseline; speech-only defense and other existing provisions.
+(Tex.
+Penal Code, 2025) | Add conduct/harm enhancements and speech-related limits; separately create zone offense (§§ 3.01–3.02) |
+| Penal Code § 42.03 | Obstruction and reasonable movement orders; specified emergency-access felony provisions.
+(Tex.
+Penal Code, 2023) | Add specified transport, scene-access and emergency-assistance obstruction enhancement (§ 3.03) |
+| Penal Code § 37.09 | Existing evidence-tampering and fabrication offense.
+(Tex.
+Penal Code, 2025) | Add media-specific § 37.091 and preserve existing prosecution, with no duplicate punishment under the new section (§ 4.01) |
+| Government Code ch. 423 | Existing drone image, privacy, operational and reporting provisions.
+(Tex.
+Gov’t Code, 2025) | Add § 423.0047 emergency-interference offense; preserve federal aviation limits (§ 5.01) |
+Boundaries that should remain explicit
+- No presumption that officers are always right: The same publication duties apply whether evidence supports an officer, a complainant, a defendant, or none of the early accounts.
+The bill protects access to the record, not a preferred conclusion.
+(Proposal, Arts. 2B.0354–2B.0356.)
+- No wholesale criminalization of protest: Criticism and noninterfering recording remain expressly protected, while the criminal provisions turn on their stated elements.
+The proposal does not declare every protest a riot or every obstruction allegation proved.
+(Proposal, § 38.153; Article 4.)
+- What this bill does not regulate: The Act does not establish general collection, query, retention, sharing, contracting, or remedies rules for license-plate readers or other public-surveillance technology.
+Those broader rules belong to a separate proposal.
+This Act reaches surveillance-system records only when they are agency-controlled and reasonably related to a covered critical incident; in that event, Article 2’s preservation, inventory, and release duties apply.
+(Proposed Arts. 2B.0351(2), 2B.0353(e).)
+- No automatic funding or universal camera mandate: The bill expands support and reporting without setting an appropriation or requiring a camera on every responder.
+A fiscal estimate and workable agency implementation plan still matter.
+(Proposal, §§ 2.03–2.06.)
+Implementation questions that deserve continued review
+First, test staffing, storage, redaction, portal, authentication, and multiagency coordination costs.
+Fiscal and operational review should examine small-agency capacity, contractor performance, court-order workflows, records schedules, and grant administration without weakening the substantive deadlines.
+Second, validate the responsible-reporting procedures through fire, EMS, rescue, law-enforcement, and joint state-federal scenarios.
+Agencies should test 12-hour designation, interim independent duties, shared portals, late-obtained evidence, and transfers involving contractors or federal partners.
+Third, prepare role-specific training before operative duties begin.
+Personnel need practical instruction on preservation notices, preliminary disclosures, inventories, contextual publication, redaction logs, safety-zone orders, escorts versus detention or arrest, deceptive media, drone evidence, and constitutionally protected observation and criticism.
+Fourth, maintain careful constitutional and procedural review.
+Legislative counsel, courts, prosecutors, defense counsel, civil-liberties organizations, news organizations, first responders, and local governments should continue testing the bill’s speech protections, privacy safeguards, remedies, offense classifications, federal-law limitations, and due-process procedures before filing and during implementation.
+My objective is a durable law that earns trust through equal treatment of the facts.
+First responders should have room to do lawful work safely; citizens should retain the right to observe, criticize, and test official accounts; and agencies should have clear, funded, reviewable procedures for meeting the law’s duties.
+Read the proposed legislation
+The complete bill is reproduced below.
+It is a working proposal for the 90th Legislature, not filed or enacted; the explainer summarizes the proposal, but the bill text controls if a description differs.
+By: CampbellH.B.
+No. _____
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS:
+ARTICLE 1.
+SHORT TITLE, PURPOSE, AND DEFINITIONS
+SECTION 1.01.
+SHORT TITLE.
+This Act may be cited as the Critical Incident Truth and First Responder Protection Act.
+SECTION 1.02.
+PURPOSE AND CONSTRUCTION.
+(a) The purposes of this Act are to:
+(1) protect peace officers, firefighters, emergency medical services personnel, persons in custody, victims, witnesses, members of the public, and lawful observers during a critical incident;
+(2) deter physical interference with an arrest, rescue, emergency response, fire suppression operation, or other lawful public duty;
+(3) preserve reliable evidence and promote timely, accurate public information concerning a critical incident; and
+(4) protect the rights to observe, record, report, criticize, and petition regarding official conduct.
+(b) This Act must be construed narrowly to avoid burdening speech, press, assembly, petition, lawful observation, or lawful recording protected by the United States Constitution or the Texas Constitution.
+SECTION 1.03.
+DEFINITIONS.
+Chapter 2B, Code of Criminal Procedure, is amended by adding Subchapter H to read as follows:
+SUBCHAPTER H.
+CRITICAL INCIDENT EVIDENCE AND PUBLIC INFORMATION
+Art. 2B.0351.
+DEFINITIONS.
+In this subchapter:
+(1) "Critical incident" means an event occurring in the course of a law enforcement or first responder operation that results in or is reasonably likely to result in:
+(A) the death of or serious bodily injury to a person;
+(B) the discharge of a firearm by a peace officer at or in the direction of a person;
+(C) the use of deadly force by a peace officer;
+(D) the death of a person while under arrest, detained, or otherwise in the custody of a law enforcement agency; or
+(E) a mass-casualty event.
+(2) "Critical incident evidence" means a body worn camera recording, dashboard camera recording, dispatch recording, 9-1-1 recording, unmanned aircraft recording or associated imagery, audio, telemetry, and metadata, photograph, video recording, audio recording, a recording, image, data record, metadata, or other information generated by a governmental or contractor-operated surveillance system, digital communication, use-of-force report, incident report, medical-response record lawfully held by a governmental body, or other record reasonably related to a critical incident.
+(3) "First responder" means:
+(A) a peace officer;
+(B) a firefighter;
+(C) emergency medical services personnel as defined by Section 773.003, Health and Safety Code;
+(D) another public employee or volunteer authorized to provide emergency assistance; or
+(E) a federal law enforcement officer or other federal first responder performing a duty authorized by federal law, and a state or local officer lawfully assisting that federal officer or responder.
+(4) "Independent investigating agency" means a law enforcement agency, prosecutor, special prosecutor, or other governmental entity that is not the employer of a peace officer whose use of force is a subject of the investigation and that is authorized by law to investigate the incident.
+(5) "Agency-controlled" means possessed by a governmental body or by an officer, employee, agent, or contractor on behalf of a governmental body, or subject to a governmental body's contractual or other legal right to obtain, preserve, or control.
+The term does not include a record controlled exclusively by a federal agency merely because a state or local governmental body knows that the record exists.
+(6) "Contextual incident record" means the agency-controlled recordings and communications reasonably necessary to present the chronological and factual context of a critical incident, including the precipitating event, the material events before and during the incident, and the stabilization, arrest, transport, medical response, or termination of the emergency after the incident.
+(7) "Responsible reporting agency" means the governmental body responsible under Article 2B.0359 for coordinating the preliminary disclosure, public evidence inventory, and chronological publication concerning a critical incident.
+ARTICLE 2.
+CRITICAL INCIDENT EVIDENCE AND PUBLIC ACCOUNTABILITY
+SECTION 2.01.
+PRESERVATION NOTICE AND RETENTION.
+Subchapter H, Chapter 2B, Code of Criminal Procedure, as added by this Act, is amended by adding Articles 2B.0352 and 2B.0353 to read as follows:
+Art. 2B.0352.
+CRITICAL INCIDENT PRESERVATION NOTICE.
+(a) As soon as practicable after a governmental body knows that a critical incident has occurred in an operation in which the body participated or that the body controls critical incident evidence, the body shall issue a written preservation notice to each of its employees, agents, or contractors reasonably believed to possess that evidence.
+This duty applies independently of the designation of a responsible reporting agency.
+(b) A preservation notice must:
+(1) identify the incident with reasonable specificity;
+(2) direct the recipient not to delete, alter, overwrite, destroy, conceal, or permit the destruction of critical incident evidence;
+(3) require preservation of available metadata and audit logs; and
+(4) identify the official responsible for coordinating preservation.
+(c) Each governmental body subject to Subsection (a) shall promptly request preservation of relevant evidence known to be held by another governmental body or a private contractor acting on behalf of a governmental body.
+A contract concerning the creation, storage, processing, or custody of critical incident evidence must require the contractor to preserve the evidence, provide it promptly to the governmental body, and refrain from deleting, withholding, selling, independently using, or asserting proprietary control over the evidence.
+(d) Failure to issue a notice under this article does not authorize destruction or alteration of evidence otherwise required to be preserved by law.
+Art. 2B.0353.
+RETENTION AND CHAIN OF CUSTODY.
+(a) Notwithstanding another retention period provided by law, a governmental body shall preserve critical incident evidence in its original or a forensically reliable form until the later of:
+(1) the final disposition of every criminal prosecution, civil action, administrative investigation, and grievance known to arise from the incident, including direct appeal and the expiration of any applicable limitations period; or
+(2) the seventh anniversary of the incident.
+(b) A governmental body shall maintain an auditable record of each access to, copy of, redaction of, transfer of, or material alteration to critical incident evidence.
+The record must identify the person performing the action, the date and time of the action, and the stated purpose of the action.
+The governmental body shall preserve an original-file cryptographic hash or functionally equivalent authentication value and shall create a separate authentication value for each publicly released version.
+(c) This article does not require preservation of a duplicate copy if an authentic master copy and its associated metadata are preserved in compliance with this article.
+(d) This article does not authorize withholding information that is public under Chapter 552, Government Code, or other law.
+(e) A record generated by public surveillance technology that is agency-controlled and reasonably related to a critical incident remains subject to this subchapter regardless of whether the record is also subject to Chapter 424, Government Code.
+Nothing in Chapter 424, Government Code, authorizes the destruction, withholding, or nonpreservation of critical incident evidence required to be preserved, inventoried, or released under this subchapter.
+SECTION 2.02.
+PRELIMINARY DISCLOSURE, EVIDENCE INVENTORY, AND PUBLIC RELEASE.
+Subchapter H, Chapter 2B, Code of Criminal Procedure, as added by this Act, is amended by adding Articles 2B.0354 through 2B.0359 to read as follows:
+Art. 2B.0354.
+VERIFIED PRELIMINARY DISCLOSURE AND EVIDENCE-PRESERVATION NOTICE.
+(a) Not later than 24 hours after a governmental body participating in the operation first knows that a critical incident has occurred, the responsible reporting agency shall publish on its publicly accessible Internet website or the portal provided under Article 2B.0359 an official verified preliminary disclosure and evidence-preservation notice containing, to the extent then verified and legally releasable:
+(1) the date, approximate time, and general location of the incident;
+(2) the general nature of the call for service or official activity;
+(3) whether a person died or suffered serious bodily injury;
+(4) whether a peace officer discharged a firearm or used deadly force;
+(5) the identity of the agency conducting the investigation;
+(6) a statement identifying the preservation notices issued under Article 2B.0352 and confirming that participating governmental bodies are preserving material agency-controlled body worn camera, dashboard camera, dispatch, 9-1-1, unmanned aircraft, surveillance, audio, video, photographic, and related evidence;
+(7) the name or office of the official responsible for evidence custody and public disclosure;
+(8) a permanent public portal identifier for the incident; and
+(9) instructions for submitting recordings, photographs, or witness information.
+(b) The disclosure must clearly identify information that is preliminary, material facts that remain unknown or disputed, and any correction to a prior statement.
+(c) The agency may temporarily omit information if the chief executive of the agency and the prosecutor with jurisdiction over a criminal investigation arising from the incident jointly determine in writing that publication would:
+(1) create a specific and articulable threat to the safety of a person;
+(2) reveal the identity of a child, victim of a sexual offense, confidential informant, undercover officer, or protected witness;
+(3) materially compromise an active criminal investigation by revealing a confidential investigative technique, unexecuted warrant, or nonpublic information known only to a suspect; or
+(4) violate state or federal law or a court order.
+(d) A written determination under Subsection (c) must identify the applicable ground without disclosing the protected information and must be published with the preliminary disclosure.
+The agency shall publish omitted information when the ground no longer applies.
+(e) This article does not require the agency to express an opinion on criminal culpability, civil liability, or disputed motive.
+(f) Before the agency has published the contextual incident record required by Article 2B.0355, an official disclosure may not state a disputed conclusion concerning fault, justification, intent, criminal liability, or witness credibility unless the chief executive of the agency determines in writing that the statement is immediately necessary to warn the public of a specific and ongoing threat.
+The agency shall identify the statement as preliminary and state the verified facts supporting the warning.
+(g) If no criminal investigation has been opened and no prosecutor has undertaken review of the incident, the chief executive and the critical incident disclosure officer designated under Article 2B.0357 may make a determination under Subsection (c), after consultation with the agency's legal counsel.
+The determination must state those circumstances.
+If the chief executive also serves as disclosure officer, the determination must instead be approved jointly by the chief executive and the agency's legal counsel.
+This subsection does not extend a deadline or authorize a ground for omission not stated in Subsection (c).
+Art. 2B.0355.
+PUBLIC EVIDENCE INVENTORY; SEVEN-DAY CONTEXTUAL RELEASE.
+(a) Not later than 72 hours after a critical incident, the responsible reporting agency shall publish and thereafter reasonably update a public evidence inventory that:
+(1) identifies by category and unique evidence identifier, to the extent known, each body worn camera recording, dashboard or in-vehicle recording, dispatch recording, computer-aided-dispatch record, 9-1-1 recording, fixed surveillance recording, photograph, scene scan, other audio or video recording, digital communication, use-of-force report, incident report, medical-response record, and recording or associated imagery, audio, telemetry, or metadata created by an unmanned aircraft, helicopter, airplane, or contractor acting for a governmental body;
+(2) states the number of known items in each category or, if a final count is not yet reasonably ascertainable, provides the best verified description then available;
+(3) states whether each identified item is controlled by the agency, another governmental body, a federal agency, or a known private person or contractor;
+(4) states whether each agency-controlled item is secured, under review, released, redacted, withheld, outside the agency's control, unavailable because of a documented equipment failure or failure to activate equipment, or believed not to exist;
+(5) identifies each known recording interruption, clock offset, equipment malfunction, failure to activate, or missing interval;
+(6) identifies known evidence held by another governmental body or private person and describes the agency's effort to preserve or obtain the evidence; and
+(7) identifies any item withheld from the inventory under Article 2B.0354(c) and the specific legal ground for withholding, without disclosing the protected information.
+(b) Except for a redaction authorized by Subsection (e) and a temporary withholding expressly authorized by a court order under Article 2B.0356, not later than the seventh day after a critical incident, each governmental body that controls critical incident evidence shall publish on a publicly accessible Internet portal the contextual incident record in chronological sequence.
+The 30-day deadline in Article 2B.0356 does not postpone this seven-day duty.
+(c) The contextual incident record must include, to the extent agency-controlled and existent:
+(1) every recording depicting the precipitating event;
+(2) the period reasonably necessary before the first physical contact, detention, pursuit, use of force, or emergency intervention to understand why the contact or intervention occurred;
+(3) the complete period of any pursuit, detention, force, restraint, arrest, rescue, evacuation, fire suppression, or emergency medical treatment material to the critical incident;
+(4) the period after the critical incident reasonably necessary to show stabilization, arrest, transport, medical response, evacuation, or termination of the immediate emergency;
+(5) relevant dispatch, radio, 9-1-1, and computer-aided-dispatch communications before and during the incident;
+(6) each materially different camera angle, including body worn camera, dashboard camera, fixed surveillance, and governmental or contractor-operated unmanned aircraft or other aircraft footage;
+(7) footage and communications showing material officer commands, conduct by a person in custody, bystander conduct affecting the incident, medical-response timing, or an equipment deactivation, interruption, or failure; and
+(8) a synchronized chronological index identifying overlapping recordings, clock offsets, gaps, evidence not yet obtained or processed, and evidence withheld or redacted.
+(d) If evidence controlled by more than one governmental body is material to the same chronology, the responsible reporting agency shall coordinate, to the extent practicable, a unified chronological publication or provide conspicuous links to each related release.
+(e) Evidence released under this article may be redacted only to the extent reasonably necessary to:
+(1) protect the identity or privacy of a child, victim of a sexual offense, confidential informant, undercover officer, protected witness, or uninvolved person in a private setting;
+(2) avoid displaying a deceased person's body, a person's intimate body area, graphic medical treatment, or an exposed body area when display is not necessary to understand the material events;
+(3) protect confidential medical information, privileged communication, the precise location of a protected victim, or the interior of a private residence, private yard, or window that is not material to understanding the incident;
+(4) protect biometric identifiers, license plate information not material to the incident, personal contact information, access credentials, or other information made confidential by state or federal law;
+(5) protect a confidential investigative technique, tactical capability, confidential source, or undercover identity if disclosure would create a specific, articulable, and substantial operational or safety risk;
+(6) comply with federal law or a court order;
+(7) prevent a specific and articulable risk to an active investigation or witness safety that cannot reasonably be prevented through a less restrictive redaction; or
+(8) comply with a state law that expressly makes the particular information confidential or prohibits its disclosure, other than a restriction expressly displaced by this subchapter or Section 423.005(c), Government Code.
+An exception that merely permits withholding under Chapter 552, Government Code, is not, by itself, a mandatory confidentiality restriction for purposes of this subdivision.
+(f) Except to the minimum extent necessary to comply with a mandatory confidentiality restriction preserved by Subsection (e)(6) or (8), redaction may not remove or obscure conduct, timing, commands, communications, or context material to evaluating force, interference, emergency care, the sequence of events, or the accuracy of an official statement.
+A governmental body shall use blurring, masking, muting, delayed audio, partial release, or another less restrictive measure before withholding an entire record.
+If a mandatory confidentiality restriction prevents disclosure of material context, the body shall publish every lawfully releasable portion, identify the nature of the omitted context and the specific restriction in the withholding and redaction log without revealing protected information, and provide a nonmisleading description of the omitted context to the extent legally permitted.
+A disputed claim that a restriction requires withholding the entire record is subject to expedited judicial review under Article 2B.0357.
+(g) A release under this article must:
+(1) identify each material redaction or omitted interval;
+(2) include sufficient context to avoid creating a materially misleading account of the sequence of events;
+(3) be accompanied by a statement that the investigation is ongoing and additional evidence may alter the preliminary understanding of the incident;
+(4) identify each public file as native, transcoded, clipped, redacted, synchronized, or condensed and publish its authentication value, creation date, publication date, start and stop timestamps, known clock offset, and version history;
+(5) visibly identify each shortened recording and each removed or muted interval and cite the statutory basis for the change; and
+(6) provide downloadable public-access files and, when practicable, captions or transcripts.
+(h) A governmental body may not select only a preferred recording or angle for release if another agency-controlled recording materially contradicts, qualifies, or contextualizes the released evidence.
+(i) If a governmental body, before the deadline under Subsection (b), voluntarily discloses or provides to a nongovernmental person any recording, excerpt, still image, transcript, or factual characterization beyond the verified preliminary disclosure authorized by Article 2B.0354, the governmental body shall, not later than 24 hours after the disclosure, publish all agency-controlled recordings and communications reasonably necessary to place the disclosed material in chronological and factual context, subject to a redaction authorized by Subsection (e) or an evidence-specific court order under Article 2B.0356.
+This subsection applies without regard to whether the disclosure was public or was made to a journalist, media organization, advocacy organization, employee association, or other nongovernmental person, except as provided by Subsection (l).
+(j) Before public release, the agency shall make a reasonable effort to provide advance notice and an opportunity to view the proposed release to:
+(1) a person who suffered serious bodily injury and is depicted in the recording;
+(2) the authorized representative of a deceased person depicted in the recording; and
+(3) each peace officer whose use of force is depicted.
+(k) The duty to provide advance notice under Subsection (j) does not extend a deadline imposed by this article and does not confer a right to prevent release required by this subchapter.
+(l) A controlled advance viewing conducted solely to comply with Subsection (j), including participation by the person's attorney or authorized representative, does not trigger Subsection (i).
+The agency must document the date, participants, and purpose of the viewing and may not provide a copy or permit duplication of material not yet public as part of that viewing.
+Access provided solely as required by a discovery obligation, subpoena, court order, or other law, or an officer's access under Article 2B.0106(b)(4), does not trigger Subsection (i).
+These exceptions do not authorize selective public-relations briefings or voluntary distribution of additional material to an outside recipient and do not restrict a recipient's rights under other law.
+Art. 2B.0356.
+COMPLETE RELEASE; WITHHOLDING, REDACTION, AND COURT-APPROVED EXTENSION.
+(a) Except for a redaction authorized by Article 2B.0355(e) and a temporary withholding expressly authorized under this article, not later than the 30th day after a critical incident, each governmental body that controls critical incident evidence shall publish the complete material agency-controlled record of the incident, including each material recording and record identified in the public evidence inventory.
+The public portal must include a chronological index, withholding and redaction logs, authentication information, correction notices, and version history.
+(b) A governmental body seeking to delay publication of an otherwise releasable item or portion beyond a deadline under Article 2B.0355(b) or (i) or Subsection (a) of this article must obtain an evidence-specific order from a district court described by Article 2B.0357(b) on a petition filed before the applicable deadline.
+The court shall expedite consideration of the petition.
+Filing a petition does not stay a disclosure duty.
+The court may approve an extension not to exceed 15 days beyond the applicable deadline if, after an in camera review when practicable, the governmental body proves by clear and convincing evidence that:
+(1) release would create a substantial probability of a specific harm involving:
+(A) the safety of an identified witness or other person;
+(B) a privacy interest expressly protected by state or federal law;
+(C) the identity of an undercover officer or confidential source;
+(D) a particular confidential investigative technique; or
+(E) substantial impairment of a specifically identified active criminal investigation or adjudicatory proceeding;
+(2) the identified risk cannot reasonably be prevented by redaction, masking, muting, delayed audio, release of an unaffected portion, a protective order, or another less restrictive means;
+(3) the extension is limited to the particular evidence and the shortest period necessary to prevent the identified harm; and
+(4) the court has considered the public interest in prompt disclosure.
+(c) A generalized assertion that release could affect an investigation, influence public opinion, generate publicity, or affect a potential jury pool is insufficient to support an extension under Subsection (b).
+(d) A court may renew an extension for a period not to exceed 15 days only on new or updated findings satisfying Subsection (b).
+Each renewal must receive independent judicial review.
+(e) A court order under Subsection (b) or (d) must identify with specificity:
+(1) each item or portion withheld;
+(2) the legal and factual basis for withholding;
+(3) why a less restrictive means is inadequate; and
+(4) the date on which the order expires.
+(e-1) An order under this article applies only to the identified evidence and does not suspend the preliminary disclosure, public inventory, or release of unaffected evidence.
+On expiration of an order, the governmental body shall release the affected evidence without further delay unless the court has renewed the order under Subsection (d) or a redaction remains authorized by Article 2B.0355(e).
+Each renewed order may extend withholding for not more than 15 days beyond the prior expiration date.
+(e-2) A redaction authorized by Article 2B.0355(e) may remain in a public-access copy while its stated legal and factual basis continues to apply and does not require a new extension order solely because 30 days have elapsed.
+A mandatory confidentiality restriction preserved by Article 2B.0355(e)(6) or (8) does not expire because of a deadline in this subchapter.
+The governmental body shall review a nonmandatory redaction at least every 30 days while it remains in place and shall remove it promptly when its basis ends.
+These provisions do not permit a redaction to be used as a substitute for a court order when otherwise releasable evidence is being temporarily withheld, or excuse publication of lawfully releasable portions and the required log.
+(f) A governmental body shall publish with the evidence inventory a written withholding and redaction log for each decision to withhold or redact critical incident evidence.
+The log must identify:
+(1) the evidence or interval affected, with reasonable specificity;
+(2) the legal authority and factual justification for the decision without disclosing the protected information;
+(3) the name and title of the official approving the decision;
+(4) the date of the decision; and
+(5) the date on which the decision will be reviewed or expires.
+(g) A governmental body that publicly releases an edited or condensed critical incident recording shall retain the unedited recording, clearly label the public recording as edited or condensed, and publish the applicable redaction log on the same Internet page.
+An edited or condensed recording may not be represented as complete or unedited.
+(h) An agency shall promptly correct a material factual assertion in an official statement concerning a critical incident when the agency determines the assertion was erroneous.
+The correction must remain linked to the original statement and the incident's version history.
+(i) A release required by this subchapter:
+(1) is authorized by the applicable law enforcement agency for purposes of Article 2B.0110;
+(2) is not prohibited by Article 2B.0111 or 2B.0112; and
+(3) is not subject to withholding under Section 552.108, Government Code, except to the limited extent incorporated by Subsection (b) or Article 2B.0355(e).
+(j) This subchapter establishes an affirmative-release duty that does not require a request under Chapter 552, Government Code, and does not narrow another right of access under that chapter or other law.
+(k) If material evidence first comes under a governmental body's control after an applicable publication deadline, the body shall preserve the evidence, promptly supplement the inventory, and publish the evidence as soon as practicable and not later than the seventh day after obtaining control, subject to authorized redaction or an order under this article.
+A petition to extend that supplemental deadline must be filed before the supplemental deadline.
+This subsection does not restart a deadline for evidence previously controlled by a governmental body subject to this subchapter or excuse a knowing failure to obtain evidence subject to an existing legal or contractual right of access.
+Art. 2B.0357.
+INDEPENDENT REVIEW; ENFORCEMENT.
+(a) Each governmental body subject to this subchapter shall designate a critical incident disclosure officer who is outside the operational chain of command for the incident when practicable.
+The disclosure officer shall consult the records custodian and a privacy reviewer and shall approve each withholding, redaction, and public release required by this subchapter.
+(b) Each person has a right to the preservation, inventory, and publication required by this subchapter.
+A person denied that right, including a person depicted in critical incident evidence or an authorized representative of a deceased person depicted in the evidence, may bring an action against the governmental body responsible for the alleged violation in a district court in a county in which the incident occurred or the body maintains its principal office.
+The person may seek expedited mandamus, declaratory, or injunctive relief to compel compliance with Articles 2B.0352 through 2B.0356, 2B.0358, and 2B.0359 and Subsection (a) of this article.
+A request under Chapter 552, Government Code, and exhaustion of a procedure under that chapter are not prerequisites to an action to enforce an affirmative duty under this subchapter.
+(c) The court may inspect the evidence in camera and may order release with appropriate redactions.
+In an action under this article, the governmental body bears the burden of proving that a withholding or redaction is authorized.
+(d) A substantially prevailing plaintiff is entitled to reasonable attorney's fees and court costs unless the court finds the governmental body acted in reasonable reliance on a written decision of a court or the attorney general.
+(e) A governmental body is subject to a civil penalty of not less than $1,000 and not more than $10,000 for each incident if the court finds that the body knowingly or in bad faith destroyed, concealed, failed to inventory, or failed to preserve critical incident evidence or knowingly evaded a disclosure deadline.
+A penalty collected under this subsection shall be deposited to the credit of the compensation to victims of crime fund.
+(e-1) A plaintiff in an action properly brought under Subsection (b) may request assessment of the civil penalty under Subsection (e).
+The attorney general or a district attorney, criminal district attorney, or county attorney for a county in which the incident occurred may also bring an action in the name of the state against the governmental body to obtain compliance and assessment of the penalty.
+A public enforcement action may be brought in a district court described by Subsection (b).
+No penalty is payable to a private plaintiff.
+(e-2) The aggregate civil penalty assessed against the same governmental body for the same incident under this article may not exceed $10,000, regardless of the number of plaintiffs, violations, or actions.
+The court shall credit a penalty previously assessed for that body and incident and may consolidate related actions as permitted by procedural rules.
+The governmental body shall pay an assessed penalty to the comptroller for deposit as required by Subsection (e).
+(f) A governmental body may not suspend, terminate, discipline, discriminate against, or otherwise retaliate against an employee or contractor who in good faith reports intentional destruction, concealment, failure to inventory, falsification, or unlawful withholding of critical incident evidence to an appropriate governmental authority.
+(f-1) An employee or contractor subjected to retaliation prohibited by Subsection (f) may sue the governmental body responsible for the retaliation in a district court described by Subsection (b).
+The plaintiff must prove by a preponderance of the evidence that the protected report was a but-for cause of the adverse action.
+An appropriate governmental authority includes an authority the reporting person reasonably and in good faith believes is authorized to investigate, enforce, or correct the reported violation.
+A good-faith report does not require that a violation ultimately be established.
+(f-2) A prevailing plaintiff under Subsection (f-1) is entitled to declaratory and injunctive relief, reasonable attorney's fees, court costs, and, as applicable:
+(1) reinstatement to the same or an equivalent employment position and restoration of lost benefits and seniority;
+(2) restoration of a contract or contracting opportunity withdrawn in retaliation, to the extent lawful and practicable; and
+(3) proven compensation or employment benefits lost as a direct result of the retaliation.
+(f-3) Recovery under Subsection (f-2)(3) is limited to actual losses accrued through judgment and, for a contractor, net compensation the contractor would have earned under an existing contract absent the retaliation.
+Recovery must be reduced by compensation received or losses reasonably avoided through mitigation.
+Recovery may not include speculative profits, anticipated contract renewals, emotional-distress or other noneconomic damages, exemplary damages, or damages against an individual officer or employee.
+(f-4) An action under Subsection (f-1) must be brought not later than the second anniversary of the date the retaliation occurred or was discovered through reasonable diligence.
+No administrative exhaustion requirement applies to an action brought solely under Subsection (f-1).
+This article does not alter a deadline or prerequisite for a separate action under Chapter 554, Government Code, or other law.
+(f-5) Relief under this article is cumulative of relief under other law, but a person may not recover more than once for the same loss.
+A protected report does not immunize the reporting person from an independently justified personnel or contract action that would have occurred in the absence of the report.
+(g) This article does not create a claim for money damages against an individual peace officer who acted in good-faith reliance on a facially valid agency policy or order.
+(h) This article does not limit prosecution under Section 37.09, Penal Code, or another law.
+(i) Sovereign immunity and governmental immunity from suit and liability are waived and abolished solely to the extent necessary to permit an action and the relief expressly authorized by Subsections (b) through (f-5) against a governmental body subject to this subchapter.
+The waiver includes the civil penalty, reasonable attorney's fees and court costs, and the limited compensation authorized by those subsections.
+Except for that limited compensation, this article does not create a right to compensatory damages for a disclosure or preservation violation.
+No immunity is waived for an individual officer or employee, and no exemplary or noneconomic damages are authorized by this article.
+This subsection does not enlarge a waiver or remedy under other law.
+Art. 2B.0358.
+JOINT AND FEDERAL OPERATIONS.
+(a) In a joint operation involving a federal agency, a state or local governmental body shall preserve, inventory, and release under this subchapter each record that is agency-controlled, including recordings created by a state or local officer, state or local dispatch and coordination communications, and state or local unmanned aircraft footage.
+(b) The public evidence inventory must identify each known material federal record not possessed or controlled by the state or local governmental body and state that Texas law does not compel a federal agency to release a federally controlled record.
+(c) A state or local governmental body entering or renewing a memorandum of understanding, task-force agreement, or contract with a federal agency shall, to the extent permitted by federal law, preserve state or local ownership of and access to records created by state or local personnel and prohibit transfer or vendor custody from being used to evade this subchapter.
+(d) This subchapter does not compel a federal agency to release a federally controlled record or restrict the lawful performance of a federal duty.
+Art. 2B.0359.
+RESPONSIBLE REPORTING AGENCY; COORDINATION.
+(a) If one governmental body participated in the operation giving rise to a critical incident, that body is the responsible reporting agency.
+If two or more governmental bodies participated, they shall designate by written agreement a participating body as the responsible reporting agency as soon as practicable and not later than 12 hours after a participating body first knows that a critical incident has occurred.
+The designation must identify the body exercising incident command or primarily responsible for the relevant custody, use of force, or emergency operation and explain the selection if another body is designated.
+(b) Until a designation is made under Subsection (a), each participating governmental body is independently responsible for the preliminary disclosure and inventory of information and evidence known to or controlled by that body.
+A body shall promptly notify the other participating bodies when it knows a critical incident has occurred and provide verified information necessary for coordinated reporting.
+Designation, reassignment, or disagreement among bodies does not extend or restart a deadline.
+(c) Each governmental body controlling material evidence shall timely provide the responsible reporting agency the information needed for the inventory and chronology.
+The responsible reporting agency shall publish the designation and conspicuous links to related releases.
+Publication through a coordinated portal satisfies a participating body's publication duty only to the extent its required information and evidence are actually published on time.
+(d) A governmental body that does not maintain a publicly accessible Internet website shall arrange publication through the website of its supervising political subdivision or another participating governmental body or through a shared publicly accessible portal.
+Lack of a separate agency website does not excuse a deadline.
+(e) This article applies to governmental fire, emergency medical services, rescue, and other first responder operations whether or not a law enforcement agency participated.
+It does not impose a publication duty on a private person acting independently of a governmental body, waive federal immunity, or make exclusively federal records subject to Texas control.
+(f) Designation of a responsible reporting agency does not transfer or diminish another governmental body's duties concerning preservation, custody, authentication, redaction, release, or compliance with a court order.
+SECTION 2.03.
+BODY WORN CAMERA GRANTS AND IMPLEMENTATION SUPPORT.
+Articles 2B.0102(c) and (d), Code of Criminal Procedure, are amended and Article 2B.0102 is amended by adding Subsections (d-1) and (f) to read as follows:
+(c) Except as provided by Subsections [Subsection] (d) and (d-1), the governor's office shall create and implement a matching grant program under which matching funds from federal, state, local, and other funding sources may be required as a condition of the grant.
+A law enforcement agency that receives a grant under this article is required to match 25 percent of the grant money.
+(d) The department is eligible for grants under this subchapter but is not subject to any requirement for matching funds.
+(d-1) A financially constrained law enforcement agency is not subject to any requirement for matching funds for a grant awarded to acquire or replace body worn cameras or dashboard cameras or to pay for data storage, redaction technology, trained evidence-review personnel, or a public-access portal necessary to comply with Subchapter H.
+(f) In this article, "financially constrained law enforcement agency" means a law enforcement agency that:
+(1) serves a municipality with a population of less than 25,000 or a county with a population of less than 100,000;
+(2) employs fewer than 50 licensed peace officers; or
+(3) demonstrates to the governor's office that requiring matching funds would materially impair the agency's ability to provide essential public-safety services or comply with Subchapter H.
+SECTION 2.04.
+GRANTS FOR STORAGE, REDACTION, REVIEW, AND PUBLIC ACCESS.
+Article 2B.0103(a), Code of Criminal Procedure, is amended to read as follows:
+(a) A law enforcement agency in this state that provides body worn cameras to its peace officers may apply to the office of the governor for a grant to defray the cost of body worn cameras, dashboard cameras, data storage for recordings created with the body worn cameras, redaction technology, trained personnel who review and prepare critical incident evidence for disclosure, and a publicly accessible Internet portal required by Subchapter H.[.]
+SECTION 2.05.
+BODY WORN CAMERA PROGRAM REPORTING.
+Article 2B.0104(a), Code of Criminal Procedure, is amended to read as follows:
+(a) As a condition of receiving a grant under this subchapter, a law enforcement agency shall report to the commission annually regarding the costs of implementing a body worn camera program, including all known equipment costs and costs for data storage, redaction technology, trained evidence-review personnel, and operation of a public-access portal.
+The report must also state, for each critical incident during the reporting period, whether the agency met the deadlines prescribed by Articles 2B.0354 through 2B.0356, the number and general nature of redactions and withholdings, and whether a court approved an extension under Article 2B.0356.[.]
+SECTION 2.06.
+BODY WORN CAMERA POLICY.
+Article 2B.0106(b), Code of Criminal Procedure, is amended to read as follows:
+(b) A policy described by Subsection (a) must ensure that a body worn camera is activated only for a law enforcement purpose and must include:
+(1) guidelines for when a peace officer should activate a camera or discontinue a recording currently in progress, considering the need for privacy in certain situations and at certain locations;
+(2) provisions relating to:
+(A) data retention, including a provision requiring the retention of video for at least 90 days and the retention required by Article 2B.0353 for critical incident evidence;
+(B) storage of video and audio;
+(C) creation of backup copies of the video and audio;
+(D) maintenance of data security; and
+(E) the collection of a body worn camera, including the applicable video and audio recorded by the camera, as evidence;
+(3) guidelines for public access, through open records requests, to recordings that are public information and for affirmative release under Articles 2B.0354 through 2B.0356;
+(4) provisions entitling an officer to access any recording of an incident involving the officer before the officer is required to make a statement about the incident;
+(5) procedures for supervisory or internal review; [and]
+(6) provisions for the handling and documenting of equipment and malfunctions of equipment; and[.]
+(7) for critical incident evidence, procedures for documenting failures to activate, interruptions, missing footage, clock offsets, authentication values, vendor custody, redaction history, and compliance with the public inventory and portal requirements of Subchapter H.
+SECTION 2.07.
+AUTHORIZED RELEASE OF BODY WORN CAMERA RECORDINGS.
+Article 2B.0110(a), Code of Criminal Procedure, is amended to read as follows:
+(a) A peace officer or other employee of a law enforcement agency commits an offense if the officer or employee releases a recording created with a body worn camera under this subchapter without permission of the applicable law enforcement agency.
+A release required by Subchapter H is authorized by the agency for purposes of this article.
+SECTION 2.08.
+CRITICAL INCIDENT RECORDINGS AS EVIDENCE.
+Article 2B.0111, Code of Criminal Procedure, is amended by adding Subsection (e) to read as follows:
+(e) Notwithstanding Subsections (a), (c), and (d), a recording that is critical incident evidence as defined by Article 2B.0351 must be preserved and released as required by Subchapter H.
+SECTION 2.09.
+AFFIRMATIVE RELEASE NOT DEPENDENT ON REQUEST.
+Article 2B.0112, Code of Criminal Procedure, is amended by adding Subsection (i) to read as follows:
+(i) Subsections (a) through (h) do not limit or delay the affirmative release of critical incident evidence required by Subchapter H.
+A person is not required to submit a request under this article or Chapter 552, Government Code, or pay a fee to obtain critical incident evidence published under Subchapter H.
+SECTION 2.10.
+PUBLIC INFORMATION EXCEPTION.
+Section 552.108, Government Code, is amended by adding Subsection (k) to read as follows:
+(k) This section does not authorize a governmental body to withhold or delay disclosure of critical incident evidence required to be released under Subchapter H, Chapter 2B, Code of Criminal Procedure, except as expressly authorized by that subchapter.
+SECTION 2.11.
+LAWFULLY CAPTURED INCIDENTAL UNMANNED AIRCRAFT IMAGES.
+Section 423.005, Government Code, is amended by adding Subsection (c) to read as follows:
+(c) Notwithstanding Subsections (a)(2) and (3), an image incidental to the lawful capturing of an image that was not captured in violation of Section 423.003 and that is material agency-controlled critical incident evidence, as defined by Article 2B.0351, Code of Criminal Procedure, is subject to preservation, inventory, judicial inspection, and public release as required by Subchapter H, Chapter 2B, Code of Criminal Procedure, subject to the confidentiality, redaction, and withholding protections of that subchapter.
+This subsection does not authorize unlawful image collection, require public disclosure of an image captured in violation of Section 423.003, or alter the admissibility rule in Subsection (a)(1).
+ARTICLE 3.
+FIRST RESPONDER SAFETY ZONES AND INTERFERENCE
+SECTION 3.01.
+FIRST RESPONDER SAFETY ZONE.
+Chapter 38, Penal Code, is amended by adding Section 38.153 to read as follows:
+Sec. 38.153.
+FAILURE TO COMPLY WITH FIRST RESPONDER SAFETY ZONE.
+(a) In this section:
+(1) "First responder" has the meaning assigned by Article 2B.0351, Code of Criminal Procedure.
+(2) "Operational safety zone" means a temporary, objectively reasonable area immediately surrounding an active arrest, lawful detention, search, rescue, emergency medical response, fire suppression operation, evidence collection, crash investigation, or other first responder operation.
+(3) "Hazard perimeter" means a temporary boundary reasonably necessary to protect persons from a specific and articulable danger arising from fire, explosion, hazardous material, structural collapse, active violence, moving traffic, severe weather, aviation activity, or another comparable hazard.
+(b) A first responder safety zone consists of an operational safety zone or hazard perimeter established under this section.
+An operational safety zone may not ordinarily extend more than 25 feet from a first responder or the immediate operational area.
+A greater operational distance must be based on documented incident-specific facts demonstrating that the greater distance is the least restrictive practicable means of addressing a substantial safety or operational risk.
+A hazard perimeter may extend only as far and for as long as reasonably necessary to address the identified hazard.
+(c) A person commits an offense if:
+(1) a first responder who is lawfully performing an official duty gives the person a clear, individualized, content-neutral, and reasonable order to move to or remain at an identified location outside a first responder safety zone;
+(2) the order states, or the circumstances objectively demonstrate, that the person's location or nonexpressive conduct presents a specific and articulable risk of:
+(A) physical interference with the official duty;
+(B) bodily injury to a first responder, person in custody, victim, patient, witness, or member of the public;
+(C) contamination, removal, concealment, or destruction of evidence;
+(D) obstruction of an emergency vehicle, evacuation route, access to a victim, or access to emergency equipment;
+(E) escape of a person lawfully detained;
+(F) interference with a first responder's ability to hear a command, alarm, radio transmission, or medical instruction; or
+(G) directing a vehicle, unmanned aircraft, or crowd into the operational area;
+(3) the person knows or reasonably should know that the first responder is performing a lawful duty;
+(4) the person has a reasonable opportunity and a reasonably safe means to comply;
+(5) the person intends to materially interfere with the duty or the person's conduct creates an objectively reasonable and substantial risk of interference or harm; and
+(6) the person knowingly refuses to comply or knowingly reenters the zone without authorization before the zone is terminated.
+(d) An offense under this section is a Class C misdemeanor, except that the offense is a Class B misdemeanor if the actor's conduct:
+(1) physically obstructs or delays an arrest, rescue, emergency medical response, fire suppression operation, evidence collection, or evacuation;
+(2) requires a first responder to divert from an active duty to prevent an immediate safety threat;
+(3) creates a substantial risk of bodily injury;
+(4) involves touching a first responder, person in custody, patient, weapon, emergency equipment, or evidence without lawful authority;
+(5) involves throwing an object, attempting to remove a person in custody, or preventing access to a victim; or
+(6) involves repeated reentry after removal.
+(e) Conduct constituting an offense under this section is not justified solely because the actor believed the arrest, search, detention, or other official action was unlawful.
+This subsection does not limit a defense otherwise provided by law.
+(f) It is an exception to the application of this section that the person's conduct consisted only of:
+(1) speech, criticism, profanity, insult, taunt, gesture, questioning, verbal challenge, or verbal encouragement or discouragement;
+(2) observing, photographing, recording, livestreaming, broadcasting, reporting, newsgathering, or legal observation from a location where the person was lawfully present and from which the person did not physically interfere with the official duty or create a substantial safety risk;
+(3) refusing to stop recording;
+(4) refusing to answer a question when the person was not otherwise legally required to answer;
+(5) remaining on private property with lawful authority, unless temporary movement was reasonably necessary to address an imminent danger or exigent operational need;
+(6) approaching solely to request or render emergency aid when a reasonable person would believe immediate aid was necessary and the person complied with a reasonable direction of a first responder; or
+(7) conduct undertaken by a person whom a first responder authorized to enter the zone.
+(g) An order under this section may not be based on the viewpoint expressed, anticipated publication, identity or affiliation of the person, or the fact that a person is recording or reporting.
+(h) If feasible, the first responder shall identify a reasonably safe and lawful location from which observation and recording may continue.
+The location must provide a reasonable opportunity to observe the operation consistent with safety and operational needs.
+Failure to identify a location is not an element of the offense but may be considered in determining whether the order was reasonable.
+(i) When practicable, a safety zone must be communicated by visible markers, police tape, vehicles, cones, repeated audible notice, or another objectively understandable means.
+The individualized order and the reasonable opportunity and reasonably safe means to comply required by Subsection (c) remain elements of an offense.
+Nothing in this section prevents immediate, objectively reasonable protective action otherwise authorized by law to prevent imminent death, bodily injury, escape, evidence destruction, or obstruction of emergency care.
+Emergency movement or escort alone does not establish an offense under this section or dispense with probable cause for each applicable element before a custodial arrest.
+(j) A first responder safety zone terminates when the specific circumstances requiring the zone no longer exist.
+A zone may not be established or maintained to prevent lawful observation, recording, criticism, assembly, or reporting.
+(k) A peace officer may use objectively reasonable, nonpunitive physical guidance to escort a person who has not complied with an order under this section to the nearest reasonably safe and lawful location outside the zone.
+Before doing so, the officer shall, when practicable, identify the boundary, briefly state the conduct or risk requiring movement, direct the person to an alternative location, allow a reasonable opportunity to comply, and record the warning and escort on a body worn camera.
+(l) An escort under Subsection (k) must end when the person reaches the identified location unless the officer has reasonable suspicion to detain the person for investigation of an offense or probable cause to arrest the person.
+A custodial arrest under this section requires probable cause that each applicable element of the offense has occurred.
+This section does not authorize an arrest solely to relocate a person or permit detention longer than reasonably necessary for the lawful basis of the detention.
+(m) An order or enforcement action under this section may protect a federal first responder performing a duty authorized by federal law.
+This section:
+(1) does not confer immigration-enforcement authority not otherwise granted by federal law;
+(2) does not authorize arrest based solely on suspected unlawful presence or require a state or local officer to determine removability;
+(3) does not prevent recording of a federal operation from a lawful location;
+(4) does not compel a federal agency to release evidence controlled exclusively by that agency; and
+(5) does not restrict a federal agency's lawful performance of a duty authorized by federal law.
+(n) If conduct constituting an offense under this section also constitutes an offense under another law, the actor may be prosecuted under either section or under both sections, but may not be punished under both for the same conduct.
+SECTION 3.02.
+INTERFERENCE WITH PUBLIC DUTIES; PENALTY ENHANCEMENT.
+Section 38.15, Penal Code, is amended by amending Subsection (b) and adding Subsections (b-1), (b-2), and (f) to read as follows:
+(b) Except as provided by Subsections (b-1) and (b-2), an [An] offense under this section is a Class B misdemeanor.
+(b-1) An offense under this section is a Class A misdemeanor if, in the course of committing the offense, the actor knowingly:
+(1) touches, grabs, restrains, or attempts to take equipment from a person described by Subsection (a)(1), (2), (3), (6), (7), or (8);
+(2) enters an area marked or identified as restricted because of an active arrest, rescue, emergency medical response, fire, hazardous-material release, crash investigation, or other emergency after receiving a reasonable order to remain outside the area;
+(3) obstructs access to a person requiring emergency care, emergency equipment, an emergency vehicle, or an evacuation route; or
+(4) creates a substantial risk of bodily injury to another.
+(b-2) An offense under this section is a state jail felony if the actor's interference causes serious bodily injury to another or materially facilitates the escape of a person lawfully detained or in custody.
+(f) For purposes of Subsection (d), conduct does not consist of speech only if the actor's conduct includes:
+(1) a true threat, meaning a serious expression of an intent to commit unlawful violence against a particular individual or group of individuals, if the actor is aware of and consciously disregards a substantial risk that the communication will be understood as threatening that violence;
+(2) speech directed to inciting or producing imminent lawless action and likely to incite or produce that action; or
+(3) the use of amplified sound at a volume and in a location that the actor knows prevents a first responder from hearing an emergency communication or warning after the actor receives a reasonable, content-neutral order to reduce the volume or relocate and has a reasonable opportunity to comply.
+SECTION 3.03.
+OBSTRUCTION AFFECTING EMERGENCY OR LAW ENFORCEMENT OPERATIONS.
+Section 42.03(c-1), Penal Code, is amended to read as follows:
+(c-1) An offense under this section is a state jail felony if, in committing the offense, the actor knowingly:
+(1) prevents the passage of an authorized emergency vehicle, as defined by Section 541.201, Transportation Code, that is operating the vehicle's emergency audible or visual signals required by Section 546.003, Transportation Code; [or]
+(2) obstructs access to a hospital licensed under Chapter 241, Health and Safety Code, or other health care facility that provides emergency medical care, as defined by Section 773.003, Health and Safety Code; or[.]
+(3) after receiving a reasonable request or order to move from a person the actor knows to be or is informed is a peace officer or first responder, intentionally prevents or materially delays:
+(A) a vehicle being used to transport a person who is lawfully arrested, detained, rescued, evacuated, or receiving emergency medical care;
+(B) a law enforcement vehicle or first responder vehicle from entering or leaving the scene of an active arrest, detention, search, rescue, fire, hazardous-material response, or other emergency operation; or
+(C) access by a first responder to a person requiring emergency assistance or to equipment reasonably necessary to provide that assistance.
+ARTICLE 4.
+TRUTH AND INTEGRITY OF CRITICAL INCIDENT EVIDENCE
+SECTION 4.01.
+DECEPTIVE MANIPULATION OF CRITICAL INCIDENT EVIDENCE.
+Chapter 37, Penal Code, is amended by adding Section 37.091 to read as follows:
+Sec. 37.091.
+DECEPTIVE MANIPULATION OF CRITICAL INCIDENT EVIDENCE.
+(a) In this section:
+(1) "Critical incident" and "critical incident evidence" have the meanings assigned by Article 2B.0351, Code of Criminal Procedure.
+(2) "Materially deceptive media" means an image, audio recording, or video recording that has been created or materially altered through technical means so that it would cause a reasonable person to believe that a person said or did something the person did not say or do or that a materially different event occurred.
+The term does not include an edit that merely shortens a recording if the edit is not represented as complete and does not materially misrepresent the depicted event.
+(b) A person commits an offense if the person knowingly creates, alters, or presents materially deceptive media purporting to be authentic critical incident evidence and, with intent to impair an official investigation or adjudicatory proceeding, submits or causes the media to be submitted:
+(1) to a law enforcement agency, prosecutor, court, grand jury, administrative tribunal, or other governmental body as genuine evidence; or
+(2) in response to a subpoena, warrant, discovery request, preservation notice, or other legal process.
+(c) A public servant commits an offense if, with intent to deceive and acting under color of office or employment, the public servant knowingly releases or directs the release of materially deceptive media as an authentic or complete official record of a critical incident.
+(d) An offense under Subsection (b) is a state jail felony.
+An offense under Subsection (c) is a felony of the third degree.
+(e) It is a defense to prosecution under Subsection (b) that the person clearly and conspicuously labels the media as materially altered, synthetic, dramatized, or not authentic and does not represent the media to be authentic critical incident evidence.
+(f) A disclaimer or label does not provide a defense under Subsection (e) if the person knows that the label is false, incomplete, obscured, or reasonably likely to be overlooked in the manner in which the media is submitted or presented.
+ARTICLE 5.
+UNMANNED AIRCRAFT AT CRITICAL INCIDENTS
+SECTION 5.01.
+INTERFERENCE WITH FIRST RESPONDER OPERATIONS BY UNMANNED AIRCRAFT.
+Chapter 423, Government Code, is amended by adding Section 423.0047 to read as follows:
+Sec. 423.0047.
+OFFENSE; INTERFERENCE WITH FIRST RESPONDER OPERATION BY UNMANNED AIRCRAFT.
+(a) In this section, "critical incident operational area" means the area immediately above and within 400 feet horizontally of an active fire suppression operation, rescue, emergency medical response, hazardous-material response, law enforcement tactical operation, search for a fleeing suspect, evacuation, or other emergency operation at which an authorized public safety unmanned aircraft or manned aircraft is operating or reasonably expected to operate.
+This definition does not create, designate, or regulate navigable airspace and applies only to conduct subject to the police power of this state that interferes with a first responder operation.
+(b) A person commits an offense if the person intentionally or knowingly operates an unmanned aircraft in a critical incident operational area after:
+(1) receiving an individualized warning from a peace officer, firefighter, emergency management official, or air-traffic authority to land or leave the area; or
+(2) receiving actual notice of a temporary flight restriction or other airspace restriction issued by the Federal Aviation Administration and the operation interferes with, delays, or creates a substantial risk of collision with a first responder operation.
+(c) An offense under this section is a Class B misdemeanor, except that the offense is a Class A misdemeanor if the operation causes a first responder aircraft to alter course, abort a mission, or suspend an operation, and is a state jail felony if the operation causes bodily injury to another.
+(d) It is an exception to the application of this section that the operation was:
+(1) conducted by or at the direction of a governmental entity engaged in the response;
+(2) necessary to prevent imminent death or serious bodily injury;
+(3) conducted under express authorization of the on-scene incident commander and in compliance with applicable federal law; or
+(4) conducted outside restricted airspace for newsgathering or another lawful purpose without interference, delay, or substantial collision risk.
+(e) This section may not be construed to regulate aircraft safety, air navigation, or airspace in a field preempted by federal law.
+The section regulates only conduct causing interference with state and local first responder operations.
+ARTICLE 6.
+TRAINING, POLICIES, AND REPORTING
+SECTION 6.01.
+MODEL POLICIES AND TRAINING.
+(a) Not later than December 1, 2027, the Texas Commission on Law Enforcement, in consultation with the Department of Public Safety, the Office of the Attorney General, the State Fire Marshal, the Department of State Health Services, representatives of law enforcement agencies, firefighters, emergency medical services, prosecutors, criminal defense attorneys, civil-liberties organizations, and news media organizations, shall develop and make available model policies and training materials concerning:
+(1) objective and content-neutral use of first responder safety zones;
+(2) the public's right to observe and record;
+(3) de-escalation and safe crowd management;
+(4) preservation and release of critical incident evidence;
+(5) identification of materially deceptive media;
+(6) the distinction between an order to move, nonpunitive escort, investigative detention, citation, and custodial arrest;
+(7) documentation of warnings, safety-zone size and duration, incident-specific justification for an operational zone exceeding 25 feet, use of physical guidance, reentry, and arrest;
+(8) preservation, authentication, synchronization, redaction, and publication of government-operated and contractor-operated unmanned aircraft evidence; and
+(9) constitutional limits applicable to federal operations and joint state-federal operations.
+(b) Each governmental body subject to Subchapter H, Chapter 2B, Code of Criminal Procedure, shall adopt policies substantially complying with the provisions applicable to the body not later than January 1, 2028.
+The body shall provide role-appropriate implementation instruction to personnel assigned duties under those provisions before the personnel perform those duties on or after that date.
+(c) The commission may adopt rules necessary to implement this section.
+(d) The governor's office may begin preparing and administering implementation assistance under Sections 2.03 and 2.04 of this Act on September 1, 2027, using money lawfully available for that purpose.
+An early grant award does not require disclosure of an incident or impose a criminal offense before the applicable operative date.
+This Act does not itself appropriate money.
+SECTION 6.02.
+BIENNIAL REPORT AND COMPLIANCE AUDIT.
+(a) Not later than December 1 of each even-numbered year, the Department of Public Safety shall publish an aggregated report regarding implementation of this Act.
+The report must include available information concerning:
+(1) prosecutions, citations, escorts, temporary detentions, and arrests under Section 38.153, Penal Code;
+(2) prosecutions under Section 37.091, Penal Code;
+(3) compliance with each disclosure deadline under Articles 2B.0354 through 2B.0356, Code of Criminal Procedure;
+(4) missing recordings and equipment failures;
+(5) redactions, withholdings, and court-approved extensions; and
+(6) recommended statutory changes.
+To the extent permitted by law and statistically reliable, safety-zone enforcement data must be disaggregated by agency, enforcement outcome, and demographic categories without identifying an individual.
+(b) The state auditor or another independent entity designated by the legislature shall conduct periodic public compliance audits of a representative sample of governmental bodies subject to Subchapter H, Chapter 2B, Code of Criminal Procedure.
+An audit must examine preservation, inventory completeness, authentication, vendor compliance, release timeliness, redaction practices, court extensions, and whether voluntary disclosures complied with contextual-parity requirements.
+The report may not disclose personally identifying or confidential investigative information.
+(c) The first report required by Subsection (a) is due December 1, 2028.
+Agencies may collect implementation-planning information before January 1, 2028, but shall separately identify that information and may not report preoperative conduct as a violation of a duty or offense not yet in effect.
+ARTICLE 7.
+SEVERABILITY, TRANSITION, AND EFFECTIVE DATE
+SECTION 7.01.
+SEVERABILITY.
+(a) The legislature declares that each provision and application of this Act is severable.
+(b) If any provision of this Act or its application to any person or circumstance is held invalid, the invalidity does not affect another provision or application that can be given effect without the invalid provision or application.
+(c) If a provision of this Act would be unconstitutional as applied to speech or newsgathering but constitutional as applied to nonexpressive conduct, the provision shall be construed to apply only to the constitutional application.
+SECTION 7.02.
+TRANSITION FOR OFFENSES.
+The changes in law made by Articles 3, 4, and 5 of this Act apply only to an offense committed on or after the effective date of the applicable provision.
+An offense committed before that date is governed by the law in effect when the offense was committed, and the former law is continued in effect for that purpose.
+For purposes of this section, an offense was committed before the applicable effective date if any element of the offense occurred before that date.
+SECTION 7.03.
+TRANSITION FOR EVIDENCE.
+The preservation, inventory, disclosure, and enforcement requirements added by Article 2 of this Act apply to a critical incident occurring on or after January 1, 2028.
+A governmental body may apply the preservation and release procedures to an earlier incident to the extent permitted by law, but that election does not authorize a penalty or new monetary remedy under this Act for an earlier incident.
+Sections 2.03 and 2.04 may be implemented before that date as provided by Sections 6.01 and 7.04.
+SECTION 7.04.
+EFFECTIVE DATE.
+(a) Except as provided by Subsection (b), this Act takes effect January 1, 2028.
+(b) Sections 2.03, 2.04, and 6.01 of this Act take effect September 1, 2027.
+References
+Sources checked September 27, 2026; proposal cross-references refer to the bill reproduced above, not enacted law.
+Texas statutory baseline
+Tex.
+Code Crim.
+Proc. ch. 2B, subch.
+C, arts. 2B.0102–2B.0114 (2025). https://tcss.legis.texas.gov/resources/CR/htm/CR.2B.htm
+This official Texas statutory compilation contains the body-worn-camera program used as the legal baseline for the article, including grants, storage, agency policies, training, activation, evidence preservation, release, and public-request procedures.
+The relevant articles were added through the 2023 recodification with a January 1, 2025 effective date, and the text was accessed on September 20, 2026.
+It supports the distinction between an agency’s existing discretion to release qualifying recordings for a law-enforcement purpose and the proposal’s affirmative publication duties.
+It also establishes the existing 25-percent grant match, 90-day policy minimum, officer-review provision, and special attorney-general request deadlines; those procedural deadlines are not represented as guaranteed public-release dates.
+Tex.
+Gov’t Code ch. 423 (2025). https://tcss.legis.texas.gov/resources/GV/htm/GV.423.htm
+This official chapter supplies the existing Texas unmanned-aircraft framework, including lawful image-capture categories, surveillance-related provisions, infrastructure and sports-venue offenses, reporting, and restrictions involving illegally or incidentally captured images.
+It establishes that Article 5 proposes an additional emergency-interference offense rather than creating Texas drone law from nothing.
+Section 423.005 is especially relevant to the final conforming-review discussion because the proposal’s broad inclusion of drone evidence must be reconciled with other legal restrictions on disclosure.
+The chapter is used for its statutory text, not as a claim that every application of every drone provision has been judicially upheld or that Texas may displace federal airspace authority.
+Tex.
+Gov’t Code §§ 552.108, 552.221 (2025). https://tcss.legis.texas.gov/resources/GV/htm/GV.552.htm
+The official Public Information Act text identifies the law-enforcement withholding grounds and the separate duty to produce public information promptly.
+This article uses the full relevant text, including the basic-information rule and the limitation on the no-conviction exception when the statutory deceased-person, incapacity, or consent conditions apply, rather than presenting Section 552.108 as an unlimited secrecy power.
+The source explains why the proposal adds a specific override for covered critical-incident disclosure instead of simply demanding speed without coordinating existing exceptions.
+The accessed chapter also marks a future April 2027 definitional recodification; that change is not treated as already effective in September 2026.
+Tex.
+Penal Code § 37.09 (2025). https://tcss.legis.texas.gov/resources/PE/htm/PE.37.htm
+Section 37.09 is the existing Texas offense for tampering with or fabricating physical evidence.
+Its text addresses specified alteration, destruction, concealment, or use of false records and things with the required knowledge and intent concerning an investigation or proceeding, and it sets out exceptions, defenses, and penalty classifications.
+The article uses this official source to avoid claiming that fabricated recordings or concealed evidence are wholly unregulated today.
+It also explains why the proposed media-specific section overlaps with existing law and why the bill’s prohibition on duplicate punishment matters.
+Existing tampering classifications and the proposal’s classifications are not interchangeable, so the article does not describe the new section as a uniform penalty increase.
+Tex.
+Penal Code § 38.15 (2025). https://tcss.legis.texas.gov/resources/PE/htm/PE.38.htm
+This official provision establishes the current interference-with-public-duties offense, including its criminal-negligence standard, the listed personnel and activities, its Class B classification, and the speech-only defense.
+The accessed text also contains the personal-information dissemination presumption and its specified media exceptions, preventing reliance on an older version that omitted those provisions.
+The article uses the statute to distinguish existing protection from the proposal’s new safety-zone procedure and conduct-based enhancements.
+It does not suggest that an officer must wait for a riot before addressing unlawful interference, or that the speech-only defense makes every threat or harmful nonexpressive act immune from all other applicable criminal law.
+Tex.
+Penal Code § 42.03 (2023). https://tcss.legis.texas.gov/resources/PE/htm/PE.42.htm
+This official statute defines obstruction of highways and other passageways and includes reasonable orders to move to prevent obstruction or maintain safety near a fire, riot, or other hazard.
+Its existing felony provision addresses passage of emergency vehicles operating the specified signals and access to hospitals or other emergency-care facilities.
+The article uses those elements to explain the proposal’s additional coverage of specified custody transport, scene access, and responder access after a reasonable order.
+The source also contains separate reckless-driving-exhibition provisions and an overlap rule, which remain distinct from the bill’s proposed amendment.
+The reference year reflects the latest amendments listed for the relevant statute, not a claim that the source was last checked in 2023.
+Speech, recording, and federalism
+Arizona v.
+United States, 567 U.S. 387 (2012). https://supreme.justia.com/cases/federal/us/567/387/
+This is a reproduction of the Supreme Court’s opinion hosted by Justia, used for the original judicial text rather than the site’s editorial characterization.
+The Court held several Arizona immigration provisions preempted, including a state-created warrantless-arrest provision, while declining to block the status-check provision at the preliminary stage and preserving later challenges.
+It supports a limited point in this article: protecting lawful federal responders under neutral state scene-safety rules is not the same as creating independent state immigration-arrest authority.
+The official U.S.
+Reports fetch failed during this review, so the readable opinion reproduction was used instead; no claim is made that this one case resolves every subsequent state-federal immigration dispute.
+Brandenburg v.
+Ohio, 395 U.S. 444 (1969). https://www.govinfo.gov/content/pkg/USREPORTS-395/pdf/USREPORTS-395-444.pdf
+The Supreme Court’s official opinion states the constitutional distinction between advocacy and incitement directed to producing imminent lawless action and likely to produce that action.
+The Court reversed a conviction under Ohio’s criminal-syndicalism law because the law and its application failed to draw that distinction.
+This article uses the decision narrowly to explain the formulation incorporated into the proposed amendment to the interference statute, not to suggest that criticism, anger, or an offensive political message becomes criminal merely because police dislike it.
+The decision is also not a complete definition of true threats, a separate constitutional category that requires its own careful drafting and application.
+City of Houston v.
+Hill, 482 U.S. 451 (1987). https://www.govinfo.gov/content/pkg/USREPORTS-482/pdf/USREPORTS-482-451.pdf
+This official Supreme Court opinion invalidated Houston’s broadly worded police-interruption ordinance as substantially overbroad under the First Amendment.
+It explains that a significant amount of verbal criticism and challenge directed at officers is protected, while recognizing room for properly tailored rules addressing physical obstruction, traffic hazards, and valid dispersal orders.
+The article uses the decision as a constitutional boundary for Article 3’s emphasis on objective risks, individualized orders, and express speech exceptions.
+It is not cited as approval of the proposed bill, as an unlimited right to enter a dangerous emergency scene, or as a conclusion that all scene-control measures violate the Constitution.
+Turner v.
+Driver, 848 F.3d 678 (5th Cir. 2017) (revised February 27, 2017). https://www.ca5.uscourts.gov/opinions/pub/16/16-10312-CV0.pdf
+The Fifth Circuit’s published opinion recognizes a First Amendment right to record police, subject to reasonable time, place, and manner restrictions.
+The court separately held that the right had not been clearly established when the plaintiff’s conduct occurred, so the officers received qualified immunity on that First Amendment claim; the opinion also addresses distinct detention and arrest claims.
+The explainer relies on the recording-right discussion without conflating recognition of the right with the disposition of every claim.
+The decision is relevant to Article 3’s alternative-observation and viewpoint-neutrality safeguards, but it does not resolve the constitutionality of the proposal’s particular distance, notice, escort, or penalty provisions.
+United States v.
+Alvarez, 567 U.S. 709 (2012). https://supreme.justia.com/cases/federal/us/567/709/
+The original Supreme Court opinions reproduced on this page concern the Stolen Valor Act’s prohibition on false claims of military honors.
+The judgment invalidated that statute, with the plurality and concurring justices applying different analytical approaches, so the article avoids assigning every proposition of the plurality to a unified majority.
+The decision provides context for why Article 4 is framed around knowingly fabricated evidence and deceptive official records rather than a general ban on false or unfavorable speech.
+It does not immunize fraud, perjury, evidence tampering, or every other false statement from regulation.
+The official U.S.
+Reports fetch failed, and this opinion reproduction was used as the accessible judicial text.
+Public communication and operational context
+Federal Aviation Administration.
+(n.d.).
+No drone zone.
+Retrieved September 20, 2026. https://www.faa.gov/uas/resources/community_engagement/no_drone_zone
+The FAA’s official guidance distinguishes federal airspace restrictions from state, local, territorial, or tribal restrictions on drone takeoffs and landings.
+It explains that local land-use permission and an airspace authorization are different questions, and describes the role of temporary flight restrictions.
+This source helps readers understand why Article 6 disclaims authority over navigable airspace and focuses on interference with emergency operations.
+It is guidance, not a judicial determination that the proposed 400-foot-horizontal definition or every enforcement action would survive preemption review.
+The article therefore presents the bill’s federal-law limitation as a drafting safeguard rather than a guarantee of constitutional validity.
+His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services.
+(2025, May 7).
+An inspection of the police response to the public disorder in July and August 2024: Tranche 2. https://hmicfrs.justiceinspectorates.gov.uk/publication-html/police-response-to-public-disorder-in-july-and-august-2024-tranche-2/
+This official inspection examines intelligence, online content, and investigation during the disorder surrounding the Southport murders and related events in 2024.
+It reports that false and misleading online material contributed to the speed and escalation of disorder, describes actual police communications responses, and expressly rejects a single-factor explanation of the unrest.
+The article relies on those documented findings while declining to import every policy recommendation or the United Kingdom’s legal approach to speech into Texas.
+The report is contextual evidence of misinformation-related public-safety risks; it is not a controlled study of body-camera publication deadlines, and it cannot establish that the proposed Texas schedule would prevent a particular riot or attack.
+U.S.
+Department of Justice.
+(2025, February 6).
+Justice Department releases report on its critical incident review of the response to the mass shooting at Robb Elementary School in Uvalde, Texas [Updated press release]. https://www.justice.gov/archives/opa/pr/justice-department-releases-report-its-critical-incident-review-response-mass-shooting-robb
+This official Department of Justice release summarizes its critical-incident review of the Uvalde school shooting response, including operational failures, the initial inaccurate narrative, public communications, and trauma and support services.
+The date used here is the update date visible in the accessed page, not a claim that the underlying shooting or review began in 2025.
+The article uses the agency’s description to show why official accounts, as well as outside accounts, require scrutiny against evidence.
+It does not treat this summary as a complete reconstruction of the incident or as empirical proof that faster video publication prevents unrest, and it draws no causal estimate from the review.

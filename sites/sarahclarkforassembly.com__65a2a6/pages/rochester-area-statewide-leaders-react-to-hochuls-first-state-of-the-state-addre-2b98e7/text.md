@@ -1,0 +1,2 @@
+“…as the Subcommittee Chair of the Tuition Assistance Program in the Assembly, I am very pleased to see the Governor’s support for greater access to higher education by ensuring that TAP is available to part-time students, acknowledging the reality of many working-class families looking for a pathway to success.“
+“Rochester-area, statewide leaders react to Hochul’s first State of the State address,” January 5, 2022 via Spectrum Local News

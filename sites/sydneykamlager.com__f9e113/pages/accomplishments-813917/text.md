@@ -1,0 +1,32 @@
+- Expanding voting rights
+- Reproductive justice
+- Health care for all
+- Criminal justice reform focused on diversion, redemption, and rehabilitation
+- Job creation to create economic justice and opportunities for all communities
+- Innovative investment in housing
+- A Green New Deal and immediate climate action
+- Investments in education and the arts
+- Got her bill, the CRISES Act (AB 118), signed into law.
+It provides for trained, community-led teams to respond to non-violent 911 calls – instead of police – making communities safer and saving lives.
+- Coauthored AB 1400 – Guaranteed Health Care for All Provide quality, affordable, single-payer health care to every Californian.
+- Worked to establish the California Small Business COVID-19 Relief Grant Program …to help small businesses stay afloat.
+- Steered much-needed investment dollars from California’s budget surplus directly to the communities in her district.
+- Worked to establish an emergency shelter and transitional housing project in Culver City.
+- Reduced prison sentences for survivors of domestic violence and human trafficking.
+- A Green New Deal and immediate climate action
+- Authored the California Abolition Act to end slavery and involuntary servitude.
+- Introduced the Street Medicine Act, to get medical teams and medicine to the street …to shelters, and to transitional housing for people experiencing homelessness.
+- Amended the California State Penal Code (AB 127) to hold police accountable and eliminate barriers in prosecuting acts of crime by members of law enforcement.
+- Coauthored legislation (AB 5) that protects health insurance for freelancers and independent contractors.
+- Fought to pass the COVID-19 eviction moratorium which provided billions in rent relief.
+- Supplied personal protective equipment to frontline workers when COVID-19 hit and PPE was in short supply.
+- Passed AB 987 to bring 30,000 quality jobs to our area.
+- The most transformative probation reform law in the country (AB 1950), which caps probation terms to reasonable limits that will help break the cycle of incarceration.
+- Initiated an audit of the Los Angeles County, Alameda County, and Fresno County sheriffs’ treatment of incarcerated persons.
+- Passed legislation for implicit bias training of health care professionals, law enforcement, and court employees.
+- Coauthored the Plastic Pollution Reduction Act (SB 54/AB 1080), which would reduce single-use plastic packaging in landfills by 75%.
+- Fought for legislation to remove carbon from the atmosphere and to ensure clean air and water for communities across California (Sydney was one of only eight California legislators—out of 120—to receive 100% on the Sierra Club 2020 scorecard).
+- Worked to remove cost as a barrier to abortion and is committed to securing access to abortion care and birth control.
+- Amended the California State Penal Code (AB 127) to hold police accountable and eliminate barriers in prosecuting acts of crime by members of law enforcement.
+- Authored the Affordable Prescription Drug Act to bypass Big Pharma and procure low-cost medicine from Canadian suppliers.
+- Urged California banks to stop lending to gun manufacturers.

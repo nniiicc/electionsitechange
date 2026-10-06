@@ -1,0 +1,1 @@
+Delegate Heather Bagnall August 11, 2020 Binary Thinking Delegate Heather Bagnall August 11, 2020 The Problem With Binary Thinking Published - August 11, 2020 Author - Heather Bagnall Publication - Severna Park Voice Whole Article - https://severnaparkvoice.com/stories/the-problem-with-binary-thinking,31783?

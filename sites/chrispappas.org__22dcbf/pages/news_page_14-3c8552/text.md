@@ -1,0 +1,3 @@
+Statement from Congressman Chris Pappas in Response to Trump-Influenced GOP Redistricting Push in New Hampshire
+Press Release
+MANCHESTER, NH — In response to legislation proposed by State Senator Dan Innis to gerrymander New Hampshire’s congressional districts in favor of Republicans ahead of the midterm election, Congressman Chris Pappas released the following statement: “We …

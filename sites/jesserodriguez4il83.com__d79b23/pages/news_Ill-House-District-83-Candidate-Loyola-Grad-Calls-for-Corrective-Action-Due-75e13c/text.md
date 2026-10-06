@@ -1,0 +1,19 @@
+Sheridan's alleged murder is a Venezuelan migrant who lived in a nearby migrant shelter; the murder suspect, a Jose Medina had been previously arrested for retail theft and released on bond.
+Unfortunately, due to Illinois's refusal to cooperate with federal immigration authorities, federal authorities were not notified of his retail theft arrest, and Medina was allowed to remain in the United States.
+In fact, Medina failed to show up for his scheduled court appearance and a warrant had been issued for his arrest, which was still outstanding at the time of Ms.
+Gorman's murder.
+"Ms.
+Gorman was engaged in normal, campus life activity with her friends at the time of her murder.
+But for the Illinois' policy of non-cooperation with federal immigration authorities per the SAFE-T Act, the alleged gunman should have been deported back to Venezuela and Sheridan Gorman would be alive today and returning home to her family this summer.," Rodriguez stated.
+In January, Governor Pritzker stated that he was open to "tweaking" the SAFE-T Act in response to criticism that the act was putting Illinoisans in harm's way.
+Though the Illinois House and Senate have been in session since January, no revisions to the SAFE-T Act have been proposed.
+At minimum, federal authorities should be notified of migrants that have been arrested for crimes while in custody here in Illinois.
+It is only common sense.
+In fact, Illinois Democrats are doubling down on pro-criminal legislation, with Illinois House District 14 State Representative, Kelly Cassidy's introduction of HB-5521, which would ban the use of facial recognition technology in criminal investigations; the very technology that police used to locate and arrest Sheridan's alleged murderer.
+State Representative Cassidy's 14th District includes Loyola's Rodgers Park campus.
+"What's next, bans on DNA and fingerprints?" Rodriguez asked.
+The tragic death of Sheridan Gorman should be a stark reminder to Governor Pritzker that the SAFE-T Act "tweaks" need to happen before another avoidable tragedy occurs.
+Whatever changes to the SAFE-T Act that occur now, they are too late for Sheridan and her family.
+Instead of finishing her freshman year at Loyola and returning home to New York and family this summer with stories of her incredible freshmen year, she is going home before the end of winter, to a grieving family, in a casket.
+Jesse Rodriguez is the Republican candidate for Illinois House District 83, a Loyola University, Chicago graduate, small business owner, and navy veteran.
+http://jesserodriguez4il83.com

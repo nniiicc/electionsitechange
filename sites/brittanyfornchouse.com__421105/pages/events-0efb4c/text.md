@@ -1,0 +1,81 @@
+top of page
+The Month's Events
+27
+6:00 PM
+Our Kids, Our Schools, Our Future: A Chapel Hill-Carrboro Fundraiser
+28
+4:00 PM
+Door Knocking Day: Whiteville, NC
+29
+11:30 AM
+Small Business Tour Stop 1 - Freeman's Grill: Lunch & Chat with Brittany Newton
+1:00 PM
+Small Business Tour Stop 2 - Penn's Grill: Lunch & Chat with Brittany Newton
+5:00 PM
+Virtual Phone Banking—Volunteers Needed!
+30
+9:00 AM
+Small Business Tour Stop 3 - Ed's Grill: Lunch & Chat with Brittany Newton
+2:00 PM
+Small Business Tour Stop 4 - The Parkton Grill: Lunch & Chat with Brittany Newton
+1
+2
+3
+10:00 AM
+Bolton Pine Tree Festival
+4
+2:00 PM
+Door Knocking Day: Saint Pauls, NC
+5
+6
+5:00 PM
+Virtual Phone Banking—Volunteers Needed!
+7
+8
+9
+10
+11
+12
+4:00 PM
+Door Knocking Day: Whiteville, NC
+13
+5:00 PM
+Virtual Phone Banking—Volunteers Needed!
+14
+15
+16
+7:00 PM
+Columbus County Candidate Forum
+17
+18
+19
+20
+5:30 PM
+Lillian's List Dial for Democracy Phone Banking - Brittany Newton (HD46)
+21
+22
+23
+24
+11:00 AM
+Door Knocking Day: Tabor City, NC
+25
+2:00 PM
+Door Knocking Day: Parkton, NC
+26
+27
+5:00 PM
+Virtual Phone Banking—Volunteers Needed!
+28
+29
+30
+31
+1
+2
+3
+5:00 PM
+Virtual Phone Banking—Volunteers Needed!
+4
+5
+6
+7
+bottom of page

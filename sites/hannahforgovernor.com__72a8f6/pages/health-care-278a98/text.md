@@ -1,0 +1,62 @@
+health care
+plan for Maine
+Health costs are skyrocketing in Maine and the nation.
+Insurance, pharmaceutical, and other health companies continue to ratchet up prices.
+At the same time, President Trump and the Republican-controlled Congress have actively worked to undermine the gains we’ve made in recent years.
+America’s health care system is broken — it prioritizes profits over patients, leaves too many people behind, and fails to deliver the care families need.
+From upending the public health system to attacking reproductive health care to cutting Medicaid and tax credits that lower premiums, Washington’s actions are harming Maine families.
+Congress must reform the health system – we need universal and affordable care for all Americans.
+But states can’t wait for Washington.
+Hannah Pingree will partner with other strong governors to pursue solutions while using the power of state government to start fixing what’s broken and putting patients first.
+Hannah believes that every Mainer should have a provider who cares about their health and our state should be a place where we can start a family, support our loved ones, and age with dignity in the communities we call home.
+She has a bold plan to improve health care in Maine.
+As governor, Hannah will prioritize:
+- Coverage We Can Afford: Create a public health insurance option that answers to Maine people instead of corporations, increase accountability for health care players, and reduce wasteful complexity across the system.
+- Care Where and When We Need It: Incentivize and expand primary, maternity, and reproductive health care, foster new models that make the most of our health care professionals, and continue improving access to mental health and substance use care, especially in rural Maine.
+- Communities that Keep Us Healthy: Strengthen public health and focus on basic needs that form the foundation of healthy lives, like affordable housing, food security, services that support families and aging in place, and a clean environment.
+Coverage We Can Afford
+Coverage We Can Afford
+The high cost of health care and coverage harms Maine’s families, businesses, and economy.
+Hannah will:
+- Launch a Public Health Insurance Option: As Governor, Hannah will create a public health insurance option: a State-backed plan that puts patients before profits.
+This plan won’t replace any other forms of insurance, but it will add a new affordable, reliable alternative that consumers can choose and businesses can offer to their workers.
+Hannah’s plan, developed in partnership with state leaders and residents, will answer to the people of Maine, not corporate shareholders, and help offset the skyrocketing premiums resulting from Republicans’ attack on the Affordable Care Act.
+- Hold the System Accountable: Maine can do more to reduce price gouging, profit skimming, and unnecessary complexity and barriers to coverage and care.
+Hannah’s plan will:
+- Crack down on corporate and private equity buy-outs of health facilities that lead to loss of critical services, gaps in underserved areas, and higher prices;
+- Demand more from health insurers, health systems, and corporations that receive Maine taxpayer dollars or tax breaks, including strong efforts to reduce waste, fraud, and abuse in the system;
+- Make prescription drugs more affordable for Maine families by lowering out of pocket costs and protecting patients from unfair and unpredictable price increases.
+Reduce drug costs by expanding bulk and multi-state purchasing agreements, increasing transparency around drug pricing and rebates, and pursue state-level authority to limit excessive price hikes on essential medications.
+- Leverage the negotiating power of state government, Maine’s largest employer, to reduce prescription drug prices for State workers by capping prices based on Medicare negotiation and other rates and support other large employers to do the same;
+- Reduce paperwork and place limits on prior authorization that put distance between patients and their doctors and waste time and money for both; and
+- Improve the process to enroll in MaineCare and CoverME.gov to maintain the gains Maine has made in getting people covered.
+Care When and Where We Need It
+Care When and Where We Need It
+Maine people often struggle to find a provider, get appointments, and access critical services – especially in rural Maine.
+This will become worse with upcoming massive spending cuts to Medicaid and the Affordable Care Act premium tax credits.
+Hannah will seek to better leverage Maine’s plan for the $190 million Rural Health Transformation grant, a program designed to support rural hospitals and improve access to care, to make sure it serves Maine people effectively.
+Additionally,
+Hannah will:
+- Improve access to primary care by increasing incentives, extending programs to train, recruit, and retain additional health providers including free community college, support expansion of medical education and rural residencies, and expanding technology such as virtual urgent care and connecting local practitioners in real-time to specialists outside their communities;
+- Ensure all Maine people can access and afford the full range of reproductive health care, including maternity and postpartum care especially in rural Maine, through new models for delivering, regulating, and paying for such care;
+- Make better use of health professionals in a variety of settings at every level, such as by supporting community paramedics that can provide home health in rural areas, offering dental services in places like schools, daycares, and nursing facilities, expanding the role of pharmacists, and supporting trained family caregivers for individuals with disabilities and older Mainers;
+- Continue to expand access to mental health care by integrating primary and mental health care, increasing certified community clinics, fully staffing crisis hotlines, establishing crisis receiving centers to avoid unnecessary hospitalizations or incarceration, and deploying mobile crisis teams that provide urgent care directly in homes and communities; and
+- Support a strong network of substance use recovery community centers, recovery coaches, peer-support training, and resources like community liaisons to continue Maine’s progress in saving lives from substance use.
+Communities that Keep Us Healthy
+Communities that Keep Us Healthy
+Federal funding for Maine’s public health system has been cut, and under the Trump Administration, we lost important guidance from the U.S.
+Department of Health and Human Services.
+Rising costs for food and housing, along with increasing storm events and environmental threats, puts the health of people and communities at risk.
+Hannah’s health plan works across her broader agenda to make Maine a safe, healthy, and affordable place to live.
+It will:
+- Support Maine’s public health system and expand engagement with other governors, state officials, and the World Health Organization to fill the leadership gap left at the Federal level in public health guidance, shared resources, and emergency response;
+- Improve housing and food security by supporting programs like home-delivered meals that help older Mainers age in their homes, community health workers and social workers who facilitate connection with resources, and the bold set of actions in Hannah’s housing plan;
+- Increase collaboration with tribal nations and New Mainers to improve access to care in ways informed by their communities;
+- Expand initiatives that strengthen connections for older Mainers to resources, neighbors, transportation and local programs to improve their ability to age well in place;
+- Promote healthy families by giving parents the tools and services to grow and thrive, manage stress and encourage connection through access to local systems of support like school-based health services and mental health care treatment; and
+- Tackle environmental threats to healthy communities like tick-borne diseases, toxins like PFAS, poor air quality, and improve our responses to extreme heat and storm events.
+Hannah developed this plan based on conversations with front-line health care workers, patients, and communities.
+As a mom, a resident of a rural community, and someone who’s worked at the highest levels of state government, she’s seen from every angle the challenges that Maine people face in accessing affordable health care.
+Maine families need a governor who can deliver results immediately, and Hannah is ready to do just that.
+She served as Speaker of the Maine House and chaired the Health and Human Services Committee, where she fought to expand access to care, protect kids from toxic chemicals, lower prescription drug prices, and strengthen rural services.
+Most recently, she led the Governor’s Office of Policy Innovation and the Future where she empowered communities to tackle their most pressing challenges and helped develop the Maine Jobs & Recovery Plan, investing over $1 billion to strengthen our economy, including much-needed investments to bolster our health care workforce.

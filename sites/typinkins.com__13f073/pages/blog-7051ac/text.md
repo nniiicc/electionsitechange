@@ -1,0 +1,24 @@
+top of page
+DONATE
+VOLUNTEER
+HOME
+ABOUT TY
+ISSUES
+FULCRUM
+PRESS RELEASES
+VOTE
+TRANSPARENCY
+Why I’m Leaving the Democratic Party and Running as an Independent
+When the System Fails the People, You Don’t Have to Stay in It For too long, working families in Mississippi—and across this country—have...
+Jul 5, 2025
+Closed Doors, Lost Voices, Greed and Gatekeeping
+How Institutional Power and Political Elitism Are Suffocating Mississippi’s Democratic Future For months, I wrestled with writing this...
+Jul 5, 2025
+“But What About…”: How Whataboutism Is Breaking American Politics
+Why deflection is the enemy of accountability—and how we reclaim the courage to confront hard truths Over the weekend, Donald Trump...
+Jul 5, 2025
+From the Cotton Fields of the Mississippi Delta to the Highest Court in the Land
+My Unforgettable Juneteenth Moment at the U.S.
+Supreme Court I never imagined this moment—not as a boy chopping cotton in the Mississippi...
+Jul 5, 2025
+bottom of page

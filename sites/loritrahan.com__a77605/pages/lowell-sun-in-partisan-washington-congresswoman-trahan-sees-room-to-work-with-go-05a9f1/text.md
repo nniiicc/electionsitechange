@@ -1,0 +1,16 @@
+Lowell Sun: In partisan Washington, Congresswoman Trahan sees room to work with GOP
+ORIGINALLY PUBLISHED IN JAN. 27, 2020 EDITION OF THE LOWELL SUN:
+U.S.
+Rep.
+Lori Trahan’s first year in Congress started with a government shutdown and ended with a vote to impeach the president.
+Amid what the Westford Democrat described Monday as some “divisive waters you have to navigate,” Trahan said she’s still been able to find opportunities for bipartisanship on issues like trade, fighting the opioid crisis — and minor league baseball.
+“Even in these times of division, we have to figure out a way on how we’re going to rebuild the muscle for working together again, and I do think that’s something that’s unique about even this class, because we had so many members of Congress who won in these tough red districts that there is a feeling of looking beyond 2021 and how we’re going to actually make Congress work together,” Trahan said at a New England Council roundtable.
+Elected in 2018 to an open Congressional seat after coming out on top in a 10-way Democratic primary, Trahan said she’s found “you do have to be proactive and scrappy about finding where you can achieve common ground, and with whom.”
+“I know I’ve had to prove to myself that Congress could actually have a future where reasonable Democrats are working with reasonable Republicans to get things done,” Trahan said.
+Trahan said one of the first groups she joined as a new member of Congress was a bipartisan freshmen working group on addiction that meets weekly.
+She said cities in her district, like Lowell, Lawrence, Haverhill and Fitchburg, have been “incredibly hard hit with opioid overdose deaths.” In looking to address that issue, she said she’s “forged some relationships with some pretty unsuspecting colleagues” — including Republican Congressmen Hal Rogers of Kentucky, Buddy Carter of Georgia and Jack Bergman of Michigan — on issues like safe prescribing practices and medication-assisted treatment.
+The recent passage of a U.S.-Canada-Mexico trade deal provides a lesson that’s applicable to efforts to move forward with an infrastructure bill, Trahan said.
+Last week, U.S.
+House Ways and Means Chairman Richard Neal said he thinks it’s “doable” to pass an infrastructure bill this year.
+Trahan said that at town hall meetings she would often field a version of the question, “Why the heck are you going to pass USMCA?
+You’re going to give him a win,” referring to the trade deal and President Donald Trump.

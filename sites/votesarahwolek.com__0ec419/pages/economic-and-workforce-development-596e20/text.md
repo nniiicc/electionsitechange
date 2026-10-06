@@ -1,0 +1,11 @@
+Economic and Workforce Development
+- HB 888 Education - Initial Teacher Certification – Qualifications eases the teacher certification process for aspiring Maryland teachers by altering the qualifications for an initial teacher certificate to include passing a portfolio-based assessment of a nationally accredited teacher preparation program.
+This will eliminate the need for teachers entering the profession to have to take redundant exams and assessments.
+- HB 601/SB 1008 Economic Development - Small Business Guaranty Fund – Alterations empowers Maryland’s Small Business Guaranty Fund by making it easier for small businesses to access the capital they need to grow.
+By expanding how the fund can back loans, the bill gives lenders more flexible, less burdensome options to secure financing—unlocking new opportunities for entrepreneurs who might otherwise be denied credit and making it easier for startups and small firms to secure funding and drive economic growth.
+- HB 500 Procurement Reform Act of 2025 makes reforms to better streamline procurement processes and allow a wider range of businesses to compete fairly and efficiently for state contracts.
+These reforms include more support for small businesses and the promotion of workforce development and good labor practices.
+- HB 502 Office of Disability Employment Advancement and Policy and Maryland as a Model Employer Initiative – Established creates the Office of Disability Employment Advancement and Policy which will support the employment, training, and career-readiness of individuals with disabilities.
+- SB 431 Registered Apprenticeship Investments for a Stronger Economy (RAISE) Act establishes the Maryland Office of Registered Apprenticeship Development to help employers and workers in apprenticeship participation and streamlines licensure for apprentices to expand our state’s registered apprenticeship programs into emerging fields.
+- HB 602 Employment Discrimination – Sexual Orientation expands the State’s Equal Pay for Equal Work law by prohibiting employment discrimination on the basis of sexual orientation.
+- HB 513 Maryland Road Worker Protection Act of 2024 increases the civil penalty for work zone speed camera violations and requires 75% of the revenue from those penalties to be distributed for highway and work zone safety purposes.

@@ -1,0 +1,3 @@
+Campaign Communication Across the Miles
+As I journey across the counties in the 71st District of Tennessee, I am blessed with meeting people that share our conservative, Christian values.
+Since I began this campaign adventure, I have often wondered how David felt as he began his journey to slay the Goliath...

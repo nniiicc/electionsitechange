@@ -1,0 +1,44 @@
+Issues
+TRANSPORTATION
+Move Ahead Washington
+As Chair of the House Transportation Committee, Jake worked with fellow legislators to lead negotiations and pass Move Ahead Washington during the 2022 session.
+This historic 16-year, $16 billion transportation package makes critical investments in our transportation infrastructure while also funding greener and more climate-friendly forms of transportation to invest in our future on this planet.
+This package provides for:
+- Preserving and maintaining infrastructure to address problems before they become serious and creating family-wage construction jobs;
+- $3 billion to increasing transit service, including grants to support unmet needs of underserved communities, green transit grants, and flexible dollars for transit agencies providing free fare to riders 18 and under;
+- Historic $1.2 billion in funding for active transportation options like walking, biking, and skating;
+- Improving and modernizing our state’s high-demand ferry system, including building four new hybrid-electric ferries, converting ferries and infrastructure to zero-emissions operations, preserving and improving existing vessels, providing support to maintain service and staffing, and making fare free for riders under 18;
+- Replacing damaged and deteriorating culverts to aid salmon recovery while also reducing flood risks, mitigating emergency costs, and creating local jobs;
+- And addressing the harm caused by past transportation policies, including through
+- Creating grants for special needs and tribal transit,
+- Funding projects in communities of color as well as low-income and rural areas,
+- Directing 35% of Climate Commitment Act funds to overburdened and historically marginalized communities.
+Connecting Washington
+As a Vice Chair of the House Transportation Committee, Jake was a negotiator for an important transportation package that passed during the 2015 session.
+In addition to funding for important road projects in Pierce County, this historic package included three bills that he sponsored and lobbied for:
+- The ability for local governments to raise additional funds for local transportation projects by increasing vehicle license fees;
+- Bringing light rail to Tacoma;
+- A four-year extension to the sales tax exemption for electric vehicles.
+ENVIRONMENT
+Jake understands the danger of climate change and the need to take more action in fighting climate change and preserving the environment.
+That’s why he has sponsored groundbreaking carbon reduction and clean energy laws including:
+- HB 1050 to reduce greenhouse gas emissions from fluorinated gases and addressing the legacy uses ozone-depleting hydrofluorocarbons.
+- HB 1691 concerning the financial responsibility requirements related to oil spills, holding big polluters accountable.
+EDUCATION
+All children deserve a quality and equitable education, regardless of their race, gender identity, ethnicity, sexual orientation, zip code, or income level.
+However, many students face barriers to getting the best education they can due to any one of these factors.
+There are thousands of students experiencing homelessness or unstable housing in our state, which is why Jake sponsored the 2016 Homeless Student Stability and Opportunity Gap Act to improve educational outcomes for our students in these challenging circumstances.
+This bill — which provides increased identification services, housing support, and school counselors for homeless families — was modeled after a successful demonstration project at McCarver Elementary in Tacoma.
+During the 2021-22 session, Jake sponsored multiple bills regarding education that passed the Legislature and became session law.
+HB 1331, which provides impact fee exemptions for early learning facilities, makes it easier to develop more high quality early learning programs for children from low-income households, bridging the achievement gap by providing more equitable educational opportunities.
+HB 1590 stabilized the enrollment-based funding for schools impacted by COVID-19 temporary enrollment declines, providing vital support so that our schools can maintain their educational services.
+Education is also incredibly valuable past K-12.
+Research shows that postsecondary education in prisons improves safety in the facilities, and this education and training is an effective and evidence-based practice to reduce recidivism.
+That’s why Jake sponsored HB 1044 to create prison to postsecondary education pathways, which research indicates will lead to improvements in public safety, decrease the financial burden to taxpayers, and improve the outcomes of formerly incarcerated people so they can obtain employment and contribute to society when they return to their communities.
+CHILDCARE
+- The cost of childcare has increased drastically in recent years and has become too expensive for many Washingtonians to maintain.
+Jake supports measures to increase access to affordable childcare and support working families.
+- During the 2023-2024 sessions, Jake cosponsored bills to support children and working families, including HB 1477, which made updates to the Working Families’ Tax Credit to allow for more access to the program.
+- In previous sessions, Jake cosponsored bills to expand access to affordable childcare and early childhood development programs (HB 1213, passed as SB 5237, 2021) and increase eligibility for childcare programs for homeless and other vulnerable children (HB 1574, 2019, which unfortunately was not passed).
+- Jake also supports efforts to vote No on I-2109.
+If this initiative passes, it will repeal the capital gains tax and will cause significant cuts to childcare and education funding in Washington.

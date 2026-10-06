@@ -1,0 +1,98 @@
+Bills Initiated by Senator Irene Wrenner, 2023-24
+Each legislator takes a different approach to this work.
+Some folks show up to committees and floor sessions, vote on bills and head home.
+I don't stop there.
+I am pro-active, initiating bills to address topics of concern to constituents.
+While knocking on doors and attending community events, I listen closely to people's impressions of state and local government policies.
+And I seek out suggestions.
+During my first term, I inititated seven bills on behalf of my constituents.
+Three of them were signed into law by the Governor after passing with strong support in both chambers.
+Three Bills Signed into Law in 2024
+Lt.Fortin has been a fixture at Highway Safety booths in Vermont for years.
+He lived to see this new law go into effect before he died at age 61 in February 2025.
+S.187 Act Relating to Car Seat Safety
+incorporated into S.309 (parts 24-25) before passage
+# 1
+The Child Passenger Safety law, effective July 1st, 2024 aims to better protect young lives in collisions.
+It updated the ages at which children may face forward (age 2) and sit in the front seat (age 13), among other changes.
+Existing statutes were NOT keeping our most vulnerable passengers safe.
+In fact, they were 13 years behind manufacturers' recommendations.
+Buckled-in babies were allowed to face forward in their car seats too soon, leading to collision outcomes in which other passengers escaped serious injury, while their infant or toddler died or was seriously injured.
+I met Highway Safety Patrol Lt.
+Allen Fortin at National Night Out in August 2023 in Milton.
+He alerted me to the dangers of these outdated laws.
+I promptly drafted a Child Safety Seat Bill with the encouragement of Senator Ginny Lyons (Chair, Health & Welfare Committee).
+That bill increased the age at which a young child can ride in a forward-facing seat, as well as making other updates.
+With the Governor's signature, this bill became law, thus protecting young lives and reducing the anguish and heartache among first responders and relatives, who would otherwise see worse outcomes from car accidents.
+Vermont's new child passenger safety law proves that the state is serious about protecting its children from tragic and preventable injuries.
+Denise Donaldson, CPST-1
+Publisher/Editor, Safe Ride News Publications
+# 2
+S.206 Act Designating Juneteenth as a State Holiday
+I drafted this bill to build on earlier work -- thanks to Fairfax resident Dr.
+Roy V.
+Hill, Jr and Governor Jim Douglas -- which designated the third Saturday in June as a commemorative holiday in Vermont, starting in 2008.
+Thanks to the suggestion and testimony from a Milton constituent, among others, we upgraded its status to a State Holiday on June 19th in 2024.
+# 3
+S.141 Act to Approve the Charter of Fairfax Fire District No. 1
+The charter and other paperwork that established this water district had been lost over time and due to a flood.
+We re-created the charter for the district after proving its existence.
+FFD#1 can now effectively conduct business again.
+Protecting Transparency
+The following describes 1 of the 9 local issue campaigns that I led and won, on behalf of Westford and Essex residents, before running for State Senate.
+Counting ballots where they are cast is the first school-related campaign that I won in 2017.
+The Legislature negated that victory in 2022; the Education Committees heard no testimony before forcing districts like ours to co-mingle our annual school ballots, which means moving ballots to a central location before tallying them.
+At the encouragement of the three town clerks and poll captains in 2024, I drafted S.283 to reclaim our right to count ballots at each polling place.
+Although this bill wasn't taken up by a committee in a timely manner, I will re-introduce this bill, once re-elected, and resume the fight.
+Voters' Reject "Commingling" of Ballots in 2017 & Keep School Vote Counts & Reports Coming from 3 Polling Places
+Watchdog, Advocate, Convener
+Irene Wrenner has worked for 17 years to foster fairness and transparency in Essex.
+Westford voters have also benefited.
+The Essex Westford School District (EWSD) published an unusually lengthy agenda for its Annual Meeting, April 10, 2017.
+Wrenner noticed a buried article (8th of 10) that proposed “commingling” future ballots, rather than counting them at each polling place.
+That proposal, if approved by voters, would have produced a single district-wide vote total, rather than a total for each town on each article.
+It would have masked the outcomes of the individual populations – in Westford, Essex Junction, and Essex Town – that had recently agreed to merge their finances but agreed not to give up their identities.
+Wrenner rallied voters to attend that meeting in person and speak against the proposed change, citing the benefits of maintaining separate reporting, by polls, of voting results.
+Two poll captains spoke against the proposal to transport uncounted ballots to a single location for tallying.
+School board members, on the other hand, said that combining the ballots before counting them would simplify reporting and show unity.
+The board’s proposal was voted down (31-25), thus preserving the more-detailed format of election results reporting.
+EWSD annual meetings typically attract a handful of attendees.
+Wrenner’s effort to get out the vote for transparency in 2017 was evident in the turnout as well as the outcome.
+Reflecting on that push for transparency, Wrenner notes: “Westford only has one vote out of nine at the school board table.
+“It would have been a profound injustice if Westford’s annual ballot results were obscured by that proposed change.”
+Ultimately, the majority of voters followed Wrenner’s lead and insisted on clarity in reporting of voting results.
+Above are the Westford only voting results from the School Election in 2022.
+Essex and Essex Junction tallies and all candidate totals were cropped for readability.
+Working for Fair Representation
+This section mentions several of the 9 local issue campaigns, which I led and won on behalf of residents before deciding to run for State Senate:
+Three successful votes against unfair merger plans and one to equalize representation on the Selectboard by districts.
+My asking about Fair Representation in 2005 began a 16-year odyssey, which would test anyone's tenacity and creativity.
+We also strived for Fair Taxation along the way.
+The bitter merger fight that began in 1958 took much time and money away from other endeavors in both municipalities for decades.
+It ended with the separation of the Village in 2022.
+Village Trustees Ignore Voters' Will on Equal Representation; Lose Voter's Trust and Support for Merger
+Creative Thinker, Petition Carrier, Video Reporter
+As an appointee to the Merger Task Force in 2005, Irene Wrenner soon realized that every seat on the Selectboard was filled by someone living in the Town.
+She set out to even things up because such lopsided Town representation wasn't fair to friends in the Village, who helped pay the bills but had no one representing their interests on the at-large board.
+Wrenner partnered with FairVote in Washington DC to examine the issue closely and come up with solutions.
+They did a deep dive and published a report about it.
+She then advocated for Proportional Representation as a remedy, but her idea wasn’t included in the 2006 merger plan.
+Eventually, that plan failed at the polls, mainly due to a large projected tax increase on Town residents, who would get nothing in return.
+Fast forward to 2019, when Wrenner realized that equalizing representation might be done through a charter change.
+Around that time period, former Essex Junction Village Trustee Lori Houghton suggested that a fair outcome to the latest merger conversation would be if Village residents got fair taxation while Town residents got fair representation.
+Wrenner and an activist named Ken Signorello canvassed the town and collected enough signatures to put a "3+3" plan – for district representation: 3 Village and 3 Town – on the March 2020 ballot.
+Their proposal was modeled on the merged school district's successful "4+4" district representation (4 Town and 4 Village) model.
+It was a familiar solution to a decades-long problem of lopsided representation on the Town Selectboard.
+Nonetheless, it received pushback from an aspiring politician named Brian Shelden, who berated "3+3" as "gerrymandering." He spent $705 in an unsuccessful campaign to try to convince voters that equal representation was "wrong for Essex." Instead, he urged them to "keep Essex odd."
+The voters passed the "3+3" plan at the polls.
+However, Houghton and other Town and Village State House Representatives worked behind the scenes to ensure it never passed the House Government Operations Committee (HGOC).
+More details about the "3+3" campaign and how it was undermined by elected officials may be found here.
+Meanwhile, Wrenner and Signorello created an award-winning video series to answer the HCGO members' questions.
+Those videos contain snippets which are the only remaining public record of the May 7th HCGO meeting; the meeting video was deleted from YouTube in July 2022.
+Although voters had passed the "3+3" plan townwide in March 2020, Village Trustees declined to include that representation model in the Merger Charter, which was approved in the Village in November 2020.
+Contrary to Houghton's offer of fair representation for fair taxation, the Village Trustees included a "4+3" model.
+That action sent a strong signal to Town voters that the Trustees weren’t willing to share power equally (among two similarly-populated areas) in order to make a Merger happen.
+Town residents, once again, would get nothing in return for a huge tax increase, if the Merger Plan were to pass in 2021.
+Town voters proceeded to vote down Merger twice that year.
+The Village Trustees responded by warning a vote to Separate from the Town and become a City, which passed in November of 2021 and took effect on July 1, 2022.
+At last, both halves of Essex, Town and City, get appropriate taxation AND representation.

@@ -1,0 +1,59 @@
+Setting a Standard for Safer Schools
+Families deserve the peace of mind that comes from knowing every school, public or private, meets the same high standard of safety.
+This proposal creates a consistent, statewide approach to school security, traffic management, and emergency readiness without placing new burdens on local taxpayers.
+1.
+What This Bill Does
+- Places a full‑time, trained School Resource Officer (SRO) in every public school
+- Allows private schools to opt in voluntarily and receive full state support if they follow the same standards
+- Scales staffing based on enrollment so larger schools receive additional coverage
+- Requires active traffic monitoring at every school entrance and exit during drop‑off and pick‑up
+- Establishes uniform statewide SRO training through the POST Board
+- Fully funds the mandate at the state level so districts aren’t forced to raise local taxes
+2.
+Why Minnesota Needs This
+- Traffic congestion and unsafe crossings around schools are increasing
+- Emergency response times vary dramatically across the state
+- SRO coverage is inconsistent and often dependent on local budgets
+- Students and staff deserve a uniform statewide safety standard
+- Parents want reassurance that trained professionals are on site every day
+- Private school families should have access to the same safety opportunities as public school families
+3.
+How Funding Works
+The state provides predictable, stable funding to cover:
+- SRO staffing for public schools and any private schools that opt in
+- Statewide training and certification
+- Traffic‑monitoring equipment and safety tools
+- Additional support for rural and single‑site schools
+This structure ensures no unfunded mandates, protects rural districts, and keeps local levies off the hook.
+4.
+Leveraging Federal Support
+The bill requires Minnesota to aggressively pursue federal programs that can offset state costs, including:
+- Federal SRO staffing grants
+- School safety and violence‑prevention programs
+- Safety equipment and communication systems
+- Traffic‑control and emergency‑response resources
+By prioritizing federal dollars first, the state reduces long‑term costs and builds a sustainable funding model.
+5.
+What This Means for Families
+- Safer school entrances and exits
+- Faster, more reliable emergency response
+- Trained professionals on site every day
+- More support for students experiencing crisis
+- Peace of mind for parents, teachers, and staff
+- Equal safety opportunities for public and private school families
+6.
+What This Means for Districts & Private Schools
+- Predictable, stable state funding
+- Flexibility to hire full‑time or overlapping part‑time SROs
+- No pressure on local levies
+- Clear statewide standards
+- Support for training, equipment, and traffic management
+- Private schools can participate voluntarily without sacrificing autonomy
+This bill is about protecting our kids, supporting our educators, and giving families confidence that Minnesota schools are safe.
+Safety shouldn’t depend on a ZIP code or a local budget.
+This will set a statewide standard so that every child walks into a safe, well‑protected school every single day.
+Andrewformn@gmail.com
+Prepared and paid for by Andrew Hattaway for MN | P.O.
+Box 22414, Eagan, MN 55122
+We use cookies to analyze website traffic and optimize your website experience.
+By accepting our use of cookies, your data will be aggregated with all other user data.

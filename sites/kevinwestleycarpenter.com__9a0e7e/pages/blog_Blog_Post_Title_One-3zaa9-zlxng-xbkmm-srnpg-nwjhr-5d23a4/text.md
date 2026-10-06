@@ -1,0 +1,12 @@
+Listening First: Why Real Representation Starts With the Community
+One of the biggest frustrations people share with me is simple: no one is listening.
+Too often, political decisions are made without meaningful input from the people who live with the consequences.
+That disconnect is especially felt in rural communities like Braxton and Gilmer Counties, where voices can be overlooked or dismissed entirely.
+I believe real representation starts with listening—before policies are written, before votes are cast, and before decisions are finalized.
+As an attorney, listening has always been essential to my work.
+You can’t advocate for someone unless you truly understand their situation.
+That same principle applies to public service.
+Leaders must be present, accessible, and willing to hear concerns even when the answers aren’t easy.
+This campaign is committed to open dialogue with the community.
+Whether you agree with me or not, your perspective matters.
+Government works best when it reflects the real needs and experiences of the people it serves.

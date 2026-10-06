@@ -1,0 +1,33 @@
+The House of Representatives amended, approved, and sent the Senate H.4940, a joint resolution creating a temporary ELECTRICITY MARKET REFORM MEASURES STUDY COMMITTEE to examine whether the legislature should adopt market reform measures affecting the provision of electric service in South Carolina and study the public benefits associated with such measures.
+The legislation provides for the study committee’s membership of six legislators, three members of the House of Representatives, all serving ex officio, appointed by the Chairman of the House Labor, Commerce and Industry Committee and three members of the Senate, all serving ex officio, appointed by the Chairman of the Senate Judiciary Committee.
+The committee includes a non-voting advisory board made up of representatives from the electrical power industry, alternative energy and renewable power developers, consumer groups, pertinent government agencies, economic sectors, and conservation advocates.
+Provisions are made for the study committee to engage third party, independent, expert consultants.
+The legislation sets a deadline of January 12, 2021, for issuing a report to the General Assembly and provides for the study committee to dissolve after making its final report.
+The House returned S.601, a bill SUBJECTING EMPLOYEES OF RESIDENTIAL CHILD CARE FACILITIES TO CRIMINAL BACKGROUND CHECK REQUIREMENTS, to the Senate with amendments.
+The legislation enacts recommendations of the Joint Citizens and Legislative Committee on Children to bring South Carolina into compliance with federal requirements by extending the criminal background checks that are required before the Department of Social Services may place a child in a foster home or adoptive home so that these background checks are also required for employees working in residential facilities, such as child caring institutions, emergency shelters, group homes, and wilderness therapeutic camps.
+The legislation also expands this foster home, adoptive home, and residential facility background screening by requiring a check of the registry of child abuse and neglect in every state where an individual has previously resided, rather than those states where an individual has lived within the past five years.
+The House amended and gave second reading approval to H.4974, a bill providing for ADDITIONAL CIRCUIT COURT AND FAMILY COURT JUDGES.
+The legislation provides for the election of two additional resident circuit court judges: one for the Fourteenth Circuit and one for the Fifteenth Circuit.
+The legislation provides for the election of two additional resident family court judges: one for the First Circuit and one for the Sixteenth Circuit.
+The House amended, approved, and sent the Senate H.3066, a bill making provisions for the DESTRUCTION OF ARREST RECORDS IN CASES OF MISTAKEN IDENTITY.
+This legislation establishes requirements for the destruction of records of those arrested because of mistaken identity, establishing a 180-day deadline following the completion of investigations that prove arrests were due to mistaken identity.
+No investigating authority can charge or collect fees for these arrest record destructions.
+Provisions are included that authorize law enforcement and prosecution agencies to retain arrest and booking records, associated bench warrants, mug shots, and fingerprints under seal so that this information is exempt from disclosure, except by court order.
+The legislation also establishes a protocol for DISMISSING CHARGES FOR CERTAIN OFFENSES LEFT UNRESOLVED for more than five years and destroying records relating to arrests.
+Under the legislation, someone charged with certain listed offenses may petition the county solicitor for dismissal of the alleged offense that has not been adjudicated by trial or guilty plea, or otherwise disposed of or dismissed, after five years.
+If the petitioner has no other pending charges unrelated to the subject charge and no criminal convictions subsequent to the alleged offense, the solicitor must approve the dismissal of the offense charged and must do so within thirty days of receipt of the petition.
+The listed offenses include third degree simple assault and battery, public intoxication, disorderly conduct, breach of trust with fraudulent intent, open containers of alcohol in motor vehicles, trespassing, misdemeanor fraudulent check offenses, misdemeanor shoplifting, driving under suspension, simple possession of controlled substances, and similar local and state offenses that are similar to these listed crimes, in the opinion of the prosecutor.
+Upon dismissal of the offense, the solicitor is required to notify the State Law Enforcement Division and SLED
+2
+is required to remove the pending charge from the petitioner’s criminal record within ten days.
+Additionally, any arrest and booking records, associated bench warrants, mug shots, and fingerprints of the person must be destroyed and no evidence of the record pertaining to the charge or associated bench warrants may be retained by any municipal, county, or state agency.
+An employee who intentionally violates these requirements is guilty of contempt of court.
+The House amended, approved, and sent the Senate to H.5062, a bill that allows the option of obtaining HARD CARD HUNTING AND FISHING LICENSES and other wildlife permits and tags from the Department of Natural Resources that are made of plastic or similar materials so that they will be more durable than paper versions.
+Those who select this option are subject to a six-dollar fee of which the issuing vendor may retain one dollar.
+The House amended, approved, and sent the Senate H.5015, a bill ADDING SCHEDULE IV DRUGS TO THE LIST OF SUBSTANCES THAT THE DEPARTMENT OF NATURAL RESOURCES MAY USE FOR THE CAPTURE AND IMMOBILIZATION OF WILDLIFE.
+The legislation expands this list of tranquilizing agents and other approved substances so that DNR will be able to use a new drug, classified as a Schedule IV controlled substance, that is particularly effective for deer and bear immobilization.
+The House approved and sent the Senate H.4702, a bill restoring AUTHORIZATION FOR THE RICHLAND-LEXINGTON AIRPORT COMMISSION TO OPERATE A FOREIGN TRADE ZONE that was inadvertently removed from statutory language.
+If you have a comment or opinion concerning the matters discussed in this report, or if I may be of assistance to you at any time, please feel free to call your legislative office in Columbia (803-212-6875); my Richland Legislative Delegation Office (803-576-1908); or write P.O.
+Box 292434, Columbia, SC 29229.
+Thank you for the opportunity to serve you in the House of Representatives.
+KHG/jhm

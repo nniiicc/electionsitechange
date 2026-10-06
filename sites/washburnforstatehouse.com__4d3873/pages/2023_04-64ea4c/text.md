@@ -1,0 +1,3 @@
+by Dale Washburn | Apr 4, 2023 | News
+The Georgia General Assembly returned to the State Capitol for the final two days of the 2023 legislative session on Monday, March 27.
+Then, on Wednesday, March 29, the session came to an end as the House and Senate completed Legislative Day 40, which is also known as...

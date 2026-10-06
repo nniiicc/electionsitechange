@@ -1,0 +1,32 @@
+Learn About Leandro
+In April 2026, the Supreme Court dismissed the decades-old Leandro school funding case, ending any possibility of relief for the plaintiffs in the case.
+Justice Anita Earls dissented from this ruling.
+In short, she said providing a sound basic education is a matter of educational rights, not simply education policy, and that it is the solemn duty of the Court to uphold the rights promised to our citizens in the State Constitution, including those rights guaranteed to our children.
+Background
+Over the past thirty years, multiple courts ruled that the state was not fulfilling its constitutional obligation to provide a sound basic education to every North Carolina school child.
+Ultimately an independent consultant was ordered to recommend next steps and create a statewide roadmap for the state to follow to fulfill this obligation.
+They created the Comprehensive Remedial Plan, or the “Leandro Plan,” which concluded that it would cost $5.6 billion over eight years to meet this goal.
+(You can learn more about the timeline of this case by clicking here.)
+In 2022, the Supreme Court ordered that sufficient funds be spent to carry out the Comprehensive Remedial Plan.
+However, with the 2026 dismissal of the Leandro case, the possibility of this funding was eliminated.
+The ruling impacts students, educators, and parents across the state – not only in the counties where the case originated.
+Source: Every Child NC
+Justice Earls’ Dissent
+Justice Earls dissented from the ruling to dismiss the Leandro case.
+Below are key quotes from her dissent.
+You can read the full opinion here.
+(Justice Earls’ dissent begins on page 116)
+- “This case is—and has always been—about the nature of the constitutional right recognized three decades ago in Leandro v.
+State: that the State has a duty to guard and maintain the right of every North Carolina schoolchild to access a sound basic education…The Court today betrays these constitutional commitments.”
+- “The current Court appears unable or unwilling to meaningfully check constitutional rights violations—particularly those originating from the legislature.
+That failure threatens constitutional rights of all stripes, foundational rule of law principles, and our system of government.
+It reflects poorly on our Court as a coequal branch of government entrusted with the solemn responsibility of safeguarding fundamental constitutional rights.”
+- “Allowing the State to escape judicial scrutiny for constitutional rights violations through its behavior during litigation quickly turns constitutional rights into words on paper—morally compelling but functionally useless.”
+- “One result of today’s decision of which we can be certain is the sad stain this Court leaves on its own reputation and the self-inflicted injury it deals to the Court’s standing as a coequal branch of North Carolina’s government.
+It is difficult to estimate the damage this Court has done to its own legitimacy by trying to rewrite a fundamental constitutional guarantee because it no longer comports with the Justices’ individual political preferences—and denying any relief to injured parties who proved in a court of law that the State violated their fundamental education rights.”
+North Carolina Education Statistics:
+- North Carolina’s voucher programs in 2014-15 through the 2024-25 school year, direct payment schools received a total of $1,047,048,488 taxpayer dollars (Source)
+- North Carolina ranks 49th among the 50 states in fiscal effort, which measures the share of a state’s overall resources that are invested directly in public K–12 education.
+(Source)
+- North Carolina ranks 41st in statewide adequacy, a metric that compares actual per-pupil education spending to the estimated funding required to reach a modest benchmark of average U.S. test scores.
+(Source)

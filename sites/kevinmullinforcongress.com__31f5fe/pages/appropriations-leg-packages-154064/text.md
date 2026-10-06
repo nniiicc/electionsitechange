@@ -1,0 +1,26 @@
+Kevin's Accomplishments
+Kevin has fought hard to secure federal funding requests for community projects right here in CA-15 through Congress's annual Appropriations process.
+In 2025, Kevin successfully secured over $14 million for 15 community projects in his Congressional district.
+Kevin also successfully amended several must pass bills in Congress to include his following priorities:
+Declaring that the U.S. military shall not play a role in administering or managing federal elections.
+Requiring the Department of Defense to track the federal costs associated with responding to extreme weather events
+Requiring the Department of Defense to report its green house gas emissions
+Making microgrid clean energy projects eligible for federal funding
+Expanding eligibility of federal funding opportunities for solar energy projects
+Requiring a flood risk management study for the City of San Mateo
+Increasing per-project spending limits for Army Corps programs so that projects can be carried out to completion
+Requesting the expansion of the San Francisco Bay Area study authorization to encompass sea level rise
+News Updates
+Photo: Holly Rush / Daily Journal Staff
+Mullin says Republicans to blame for shutdown
+As hundreds of thousands of federal workers are furloughed and some essential government services are shuttered as part of a government shutdown that began Wednesday at 12:01 a.m., U.S.
+Rep.
+Kevin Mullin, D-South... is maintaining the party line that Republicans are at fault.
+Photo: Melissa Lyttle / Special to The Chronicle
+Bay Area congressman left hospital to vote against GOP budget — with his IV still attached
+San Mateo Democrat Kevin Mullin spent Tuesday morning in a Bay Area hospital, but by evening he was in Washington to vote against a Republican budget resolution that is the centerpiece of President Donald Trump’s agenda.
+Holly Rush / Daily Journal Staff
+Mullin questions data center impact on residential power bills
+Lawmakers including U.S.
+Rep.
+Kevin Mullin, D-San Mateo, are questioning how demands to the electricity grid — caused by the increasing number of data centers powering artificial intelligence technology — will impact Americans’ energy bills.

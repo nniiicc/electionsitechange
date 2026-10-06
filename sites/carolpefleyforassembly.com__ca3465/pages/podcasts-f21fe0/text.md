@@ -1,0 +1,48 @@
+Podcast: California Screamin’
+-
+9/16/26 California Screamin' Episode 2: Scotts Valley's Threat from Sacramento One shot.
+That's all Scotts Valley got to save a prime commercial building from being bulldozed for a project the City Council never even got to vote on.
+On this episode of California Screamin', I sit down with Scotts Valley Vice Mayor Steve Clark, who tells the story firsthand: how state housing mandates let a developer bypass local review entirely, how the city tried to offer an alternative site instead of tearing down a building that provides local jobs, and how state officials threatened to bring "the full force of the Attorney General's office" down on Scotts Valley for simply asking to be heard.
+This is exactly the kind of Sacramento overreach I talk about constantly, cities aren't opposing housing, they're being stripped of any say in how and where it gets built.
+When local leaders can't even bring a project before their own council, that's not housing policy.
+That's a power grab.
+I wrote about this exact pattern happening across our district.
+Read more at, Local control matters.
+Local voices matter.
+It's time Sacramento remembered that. 🎙️ Subscribe, share, and join the movement to bring common sense back to California.
+-
+• 2/17/26 Designed to Explode "They are designed to explode."- Dr.
+Michael Hogan, a Stanford PhD physicist and environmental expert, reveals a shocking truth: lithium-ion batteries are inherently designed to explode.
+With 8 major plant explosions in California last year alone, he explains why this is not an accident, but a feature.
+-
+• 2/15/26 California Screamin' Episode 1: Moss Landing BESS Fire Exposed This episode spotlights the devastating Moss Landing Battery Energy Storage System (BESS) fire and features an exclusive interview with physicist Dr.
+Michael Hogan.
+-
+9/16/26 California Screamin' Episode 2: California Mandates and the Hidden Costs of Sacramento's Plan In this episode, host Carol Pefley, candidate for California State Assembly District 28, sits down with Steve Clark, Vice Mayor of Scotts Valley, to explore how California's aggressive state housing mandates are reshaping small communities across the state, often against the will of local residents and elected officials.
+What You'll Learn The Laws Behind the Chaos Discover how legislation like SB330, AB 2011, and the density bonus law strip cities of local planning authority and force high-density developments regardless of community needs or infrastructure capacity.
+Real-World Impacts Hear directly from a city leader about the concrete consequences: Scotts Valley must add 1,200 housing units, forcing the demolition of commercial properties, loss of tax revenue, and strain on roads, water systems, fire, and police services—all without state funding.
+The Infrastructure Crisis Learn why cities are left holding the bag.
+When affordable housing projects replace commercial properties, municipalities lose property tax revenue while their costs for public safety, infrastructure, and services skyrocket.
+Developer Profits vs.
+Community Needs Explore who's really benefiting from these mandates, builders and unions, and why a one-size-fits-all approach designed for urban centers fails in smaller bedroom communities like Scotts Valley, Morgan Hill, and Willow Glen.
+What Citizens Can Do Get actionable steps to reclaim local control: contact state legislators, research and vote for candidates who defend community values, and help restore balance to California governance.
+This episode reveals the unintended consequences of well-intentioned policy and makes the case for restoring local decision-making power to the communities that know their needs best.
+-
+9/3/26 California Screamin' Episode 3: Campus Violence, Cancel Culture, & the Fight for Free Speech Free speech is under siege on American college campuses, and the stakes have never been higher.
+In this episode of California Screamin', host Carol Pefley sits down with Sean Semanko, founder of Uncensored America, to discuss the alarming rise of campus violence, cancel culture, and the organized efforts to silence dissenting voices.
+Sean shares firsthand accounts of violent disruptions at major universities—from Antifa attacks that forced event cancellations to coordinated efforts by student governments to defund free speech organizations.
+He reveals how censorship drives ideas underground, fueling radicalization and extremism on both sides of the political spectrum.
+But this episode isn't just about the problems.
+Sean discusses how Uncensored America is fighting back by hosting controversial speakers, challenging censorship culture, and building free speech chapters on campuses nationwide.
+He explains why young people are increasingly aware of these threats to freedom and what it will take to restore open dialogue in higher education.
+From the assassination of Charlie Kirk to violent protests at UC Berkeley, we examine how far some will go to suppress speech they disagree with and what that means for democracy.
+Plus, hear about Uncensored America's expansion plans in California and why Sean believes the Golden State is worth fighting for.
+Don't miss this essential conversation about protecting one of America's most fundamental rights.
+-
+10/2/26 California Screamin' Episode 4: Prop 43 Explained, Protect Prop 13 & Stop Local Tax Hikes Can California taxpayers restore the two-thirds vote requirement for local special taxes?
+In Episode 4 of California Screamin, Carol Pefley sits down with Jon Coupal, President of the Howard Jarvis Taxpayers Association, for a timely discussion about Proposition 43, the Local Taxpayer Protection Act—an initiative focused on restoring an important voter safeguard associated with Proposition 13.
+They break down what Prop 43 would do, why the “Upland loophole” matters, how local special taxes can reach the ballot with only a simple majority under current rules, and why the Howard Jarvis Taxpayers Association believes Californians should restore the two-thirds approval threshold for these taxes.
+Carol and Jon also discuss: Why Proposition 43 is different from the original Protect Prop 13 signature initiative The local special-tax loophole and its impact on taxpayers How special-interest-backed citizen initiatives can be used to impose taxes The financial pressure facing California homeowners, families, and small businesses The impact of Proposition 19 on intergenerational property transfers Why many Californians could face reassessment challenges when transferring property to their children The Los Angeles ULA “mansion tax” and broader concerns about real estate transfer taxes Major bond measures, government debt, and the connection between debt and future taxes The importance of voter education, early ballot research, and strong turnout in November Local concerns over costly transit taxes, sales-tax increases, and government spending Proposition 13 has helped millions of California homeowners remain in their homes by limiting property-tax increases.
+But taxpayer protections only work when voters understand what is on the ballot and make their voices heard.
+Carol Pefley is a small-business owner, real-estate broker, mother, and candidate for California State Assembly District 28.
+She is running to fight for lower costs, taxpayer accountability, local control, safer communities, and real checks and balances in Sacramento.

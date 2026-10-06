@@ -1,0 +1,206 @@
+ENDORSEMENTS
+Trent Ashby is endorsed by local leaders from your community
+Texas & Federal Officials
+- Jake Ellzey — U.S.
+Congressman, 6th Congressional District of Texas
+- Lance Gooden — U.S.
+Congressman 5th Congressional District of Texas
+- Dawn Buckingham — Texas Land Commissioner
+- Keith Bell — State Representative HD 4
+- David Cook — State Representative HD 96
+- James White - Former State Representative HD 19
+County Judges
+- Keith Wright — County Judge, Angelina County
+- Chris Davis — County Judge, Cherokee County
+- Jim Lovell — County Judge, Houston County
+- Ronnie Cochran — County Judge, Newton County
+- John Gothia — County Judge, Orange County
+- Sydney Murphy — County Judge, Polk County
+- Jeff Boyd — County Judge, San Augustine County
+- Danny Martin — County Judge, Trinity County
+County Sheriffs
+- Tom Selman — Sheriff, Angelina County
+- Rudy Flores — Sheriff, Anderson County
+- Brent Dickson — Sheriff, Cherokee County
+- Mark Davis — Sheriff, Hardin County
+- Botie Hillhouse — Sheriff, Henderson County
+- Zak Benge — Sheriff, Houston County
+- Chuck Havard — Sheriff, Jasper County
+- Bobby Rader — Sheriff, Liberty County
+- Colton Havard — Sheriff, Newton County
+- Bobby Smith — Sheriff, Orange County
+- Byron Lyons — Sheriff, Polk County
+- George Griffith — Sheriff, Sabine County
+- Robert Cartwright — Sheriff, San Augustine County
+- Woody Wallace — Sheriff, Trinity County
+- Bryan Weatherford — Sheriff, Tyler County
+- Gerald Corbell — Sheriff, Texas Shelby County
+County Commissioners
+- Ken Pelt — County Commissioner, Hardin County
+- Scott Tuley — County Commissioner, Henderson County
+- Willie Stark — County Commissioner, Jasper County
+- Cary Erickson — County Commissioner, Jefferson County
+- Leonard “Bubba” Powell — County Commissioner, Newton County
+- Johnny Trahan — County Commissioner, Orange County
+- Tiger Worsham — Former County Commissioner, Trinity County
+County & Tax Officials
+- Kate Brooks Carroll — Tax Assessor-Collector, Jefferson County
+- Ron Lewis — County Official, Orange County
+- Jimmy Mize — County Official, Nacogdoches County
+- Lisa Mize — County Official, Nacogdoches County
+- Brown Claybar — County Official, Orange County
+- Jonathan Richey — District Attorney, Cherokee County
+- Hon.
+Clyde Herrington – Former Angelina County District Attorney
+- Judge Daryl Melton - Sabine County
+- County Officials Political Action Committee
+Mayors & Municipal Leaders
+- Mark Hicks — Mayor, Lufkin (Angelina County)
+- Ben Middlebrook — Mayor, Rusk (Cherokee County)
+- Randy Teague — Mayor, Mabank (Henderson County)
+- Brian Crull — Mayor, Gun Barrel City (Henderson County)
+- Dustin Shelton — Mayor, Eustace (Henderson County)
+- Cy Ditzler — Mayor, Chandler (Henderson County)
+- Jeff Darby — Mayor, Jefferson County
+- David Rutledge — Mayor, Orange County
+- Judy Cochran — Mayor, Polk County
+- David Chadwick — Mayor, Shelby County
+- Jimmie R.
+Cooley — Former Mayor, Tyler County
+- Cathy Bennett — Former Mayor, Ivanhoe (Tyler County)
+Law Enforcement & City Administration
+- Danny Sullins — Police Chief, Lumberton (Hardin County)
+- Aaron Burleson — Police Chief, Sour Lake (Hardin County)
+- Steve Clark — City Manager, Lumberton (Hardin County)
+Republican Party Leaders
+- Kimberly Aldridge — Republican Precinct Chair, Hardin County
+- Larry Woodall — Republican Precinct Chair, Hardin County
+- J.
+Bradley Reynolds — Republican Leader, Nacogdoches County
+- Paige Reynolds — Republican Leader, Nacogdoches County
+- Former Cherokee County Chairman John Earle, Cherokee County
+East Texas Republicans
+- Rusty Kuciemba
+- Billy Ted Smith
+- Eddie Hopkins
+- Anita and Chris Caraway
+- Emily Whitworth
+- Tara and Brent Watkins
+- Roman Griffin
+- Brandon Prescott
+- Dennis Clifton
+- Lanie Brown
+- Adam Sharp
+- Erin Windham
+- Mark Calicutt
+- Ashley Newell Bartlett
+- Mike Villarreal
+- Kimberly Graham
+- Brenda Crockett
+- David Crochet
+- Terry Camp Jr
+- Steven Jeffries
+- Clyde Herrington
+- Clyde Herrington
+- Debbie Medford
+- Kim Salmon
+- Ross Tarver
+- Rebecca Brightwell
+- Sherri Erwin
+- Mike Terry
+- Jimmie Simms
+- Lane Brock
+- Jane Miguez
+- Sheri Buscher
+- Beverly Hood
+- Shirley McIlvain
+- Charles Kent
+- Kelly Cox
+- Lee Ohl
+- Benita Bennett
+- Ted Watts
+- Tamela Snider
+- Nicole Snider
+- Dawn Jones
+- Roma Orme
+- Betty Christian
+- Robert Jones
+- Elizabeth Holcombe
+- Tyler Reynolds
+- Reid Tipton
+- Richard Gill
+- Felipe Sanchez
+- Paula Moore
+- Jimmy and Tara Boulware
+- John C Wood
+- Fred Smith
+- Marian Corley
+- Amanda Nash
+- Kimberly Aldredge
+- Kathryn Boothe
+- Erica Renee Goats
+- Axel Perez
+- Donald McDaniel
+- Lee McCain Brown
+- Stanley Jacks
+- Asa Patterson
+- Steve Pierson
+- Trudy Napper Autrey
+- Larry Henderson
+- Kellye Marshall
+- Austin Young
+- Angela Williams
+- Steve Presley
+- Angela Williams
+- Alexander Cameron
+- Joe Ballard
+- Robert Lyons
+- Joseph Malley
+- Joseph Malley
+- Lana Procella
+- Ronald Swidersky
+- Thomas Posey
+- Adilson Quintela
+- Gerald Daigle
+- Chuck Spellman
+- Kim Spellman
+- Betty Shinn
+- Murphy Hunt
+- Brandy Bridges
+- Billy Ted Smith
+- Mark Calicutt
+- Ashley Newell Bartlett
+- Erin Windham
+- Chris Caraway
+- Emily Whitworth
+- Stacy Garcia
+- Rocky Chase
+- Cliff Clark
+- John Earle
+- Dennis Clifton
+- Eddie Hopkins
+- Roman Griffin
+- Brandon Prescott
+- Jerry Lightfoot
+- Adam Sharp
+- Nancy Roberts
+- Dr.
+Matt Roberts
+- Rusty Kuciemba
+- Kristi Hughes
+- Paul Wood
+- Robert Fannette
+- Robby Tosh
+- Pamela Grimm
+- John Carroll
+- Jeff Pelletier
+- Cliff Clark
+- Josh Fisher
+- Louis Snyder
+- Lanie Brown
+- Trent Morgan
+- Chris Copenhaver
+- Kathy Starkey
+- Albert Munsinger
+- Cade Leger
+- Tracy Redden

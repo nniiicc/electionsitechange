@@ -1,0 +1,10 @@
+Retzke Campaign Marks America’s Semiquincentennial with Sandusky Community at Stars & Stripes Celebration
+July 4, 2026
+SANDUSKY, Ohio — In celebration of America’s 250th Birthday, campaign representatives and supporters joined local residents at the annual Sandusky Stars & Stripes Celebration today to honor Independence Day and connect directly with voters across Erie County.
+Throughout the festivities, a steady stream of community members visited the campaign booth to pick up official apparel, gather campaign literature, sign up for volunteer opportunities, and discuss pressing local issues.
+Among the many conversations of the day, a long-time resident shared personal observations regarding the noticeable coastal erosion at Sheldon Marsh State Nature Preserve over the years—underscoring the vital importance of protecting local natural resources and Lake Erie’s shoreline.
+“Today, we celebrated not only our nation’s independence, but also the incredible community spirit that makes Sandusky such a special place to live and work,” the candidate stated.
+“This campaign has always been about listening, showing up, and working collaboratively to address real local priorities—from preserving our natural landmarks like Sheldon Marsh to building a stronger economic future for Ohio.
+I’m deeply grateful for every conversation we had today and for everyone who stopped by to share their concerns and ideas with us.”
+The campaign emphasized its ongoing commitment to grassroots engagement, highlighting that direct, face-to-face feedback from area residents remains the cornerstone of its platform heading into the fall.
+The campaign extends its sincere gratitude to the event organizers, volunteers, and all the local families who stopped by to make the day a success, wishing everyone across Sandusky and the surrounding region a safe, fun, and happy Independence Day.

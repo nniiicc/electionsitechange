@@ -1,0 +1,1 @@
+Washington’s Black Members Caucus Hopes To Carry Momentum Into 2022 Legislative Session Team Jamila Dec 7, 2021 1 min read Updated: Apr 11, 2022 https://seattlemedium.com/washingtons-black-members-caucus-hopes-to-carry-momentum-into-2022-legislative-session/

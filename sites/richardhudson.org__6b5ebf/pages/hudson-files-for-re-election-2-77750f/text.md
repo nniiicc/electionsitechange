@@ -1,0 +1,10 @@
+Hudson Files for Re-election
+RALEIGH – U.S.
+Representative Richard Hudson (NC-08), one of the most conservative members of Congress, today officially submitted his paperwork to run for re-election.
+“I’m running for re-election to continue to be a conservative, common sense voice for the people of North Carolina’s 8th District,” said Hudson.
+Hudson continued, “Now more than ever, we need conservative leaders who will stand up to the Washington elites and fight for a smaller, more limited federal government that empowers small businesses to grow and provide good-paying jobs for folks across the state.
+At a time when radical Islamic terrorists and evil regimes are threatening American security, we need leaders who will give the US military the support it needs to keep us safe.
+That’s what I’m fighting for and that’s why I want to continue to be a conservative leader for North Carolina.”
+The 2016 Primary Election date is June 7th and the General Election is November 8th.
+National Journal rated Hudson the 12th most conservative member of the U.S.
+House of Representatives during the 113th Congress.

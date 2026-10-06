@@ -1,0 +1,14 @@
+FOR IMMEDIATE RELEASE: March 27, 2026CONTACT: Campaign@BackNebraska.com
+Backemeyer continues to build support in Nebraska’s First Congressional District
+Lincoln, NE — Today, Democratic candidate for Nebraska’s First Congressional District Chris Backemeyer announced the endorsement of former governor and U.S.
+Senator Ben Nelson.
+“This is a moment that demands Chris’ experience and vision for our state,” said former Senator Ben Nelson.
+“Nebraska deserves a leader who understands what’s at stake, isn’t afraid to hold Washington accountable, and has the experience to deliver when it matters most.
+Chris has built a career tackling tough challenges and is ready to step in on Day One.”
+“Senator Nelson spent his career working tirelessly for the people of Nebraska, and it is a profound honor to have his support,” said Chris Backemeyer.
+“He demonstrated that good leadership means asking the hard questions, listening to different perspectives, and rolling up your sleeves to get things done.
+That’s the same approach I’ll bring to Congress as I fight for the families and communities across the First District.”
+Last month, Chris announced the endorsement of five respected local leaders: Chris Funk, former Executive Director and CEO of Planned Parenthood of Lincoln and Nebraska; Ken Haar, former State Senator and Lincoln City Councilmember; Chuck Hassebrook, former member of the University of Nebraska Board of Regents and former Executive Director of the Center for Rural Affairs; Vince Powers, former Chair of the Nebraska Democratic Party and respected attorney; and Tammy Ward, former Lincoln City Councilmember and community advocate.
+For more than two decades, Chris served at the highest levels of national security and economic policy in the U.S.
+Department of State and the White House National Security Council.
+Now, he’s running for Congress to serve the state that shaped him, fighting for working families, expanding opportunity, and building a better future for all Nebraskans.

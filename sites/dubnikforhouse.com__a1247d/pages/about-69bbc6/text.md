@@ -1,0 +1,41 @@
+Meet Matt
+Born right here in Gainesville, I am a conservative Republican, small business owner, father, husband and someone who is active in my community.
+I have had a desire to serve my community since I was a young boy.
+That’s why my responsibility as a public servant for Gainesville and Hall County is not one I take lightly.
+During my time in office, I have been honored to hold several key leadership roles including:
+- Chairman of the K-12 Education Budget Committee: 2023, 2024, 2025, 2026
+- Chairman of the K-12 Education Policy Committee: 2021 & 2022
+- Secretary of Appropriations: 2020 & 2021
+- Deputy Whip: 2018 & 2019
+- Current member of the following committees: Agriculture & Consumer Affairs; Appropriations; Education; Game, Fish & Parks; Higher Education; Judiciary Juvenile; and Regulated Industries.
+In my current role as Chairman of the K-12 Education Budget Committee, I oversee the largest single line item on the state budget: funding the education of Georgia’s Pre-K students and those in grades K through 12.
+During my time as Chairman, I am proud to have helped secure more funding for preK-12 students than ever before in Georgia’s history.
+In addition, I have championed a variety of issues that improve quality of life for all Georgians including affordability, literacy, and tax cuts.
+A few highlights as Chairman of the House Education Budget Committee over the past term include investing more than $160 million in school safety and security, leading the development of a comprehensive $100M+ plan to address elementary school literacy rates, and promoting enhanced learning by eliminating cell phone usage in the classroom for students in grades K-12.
+Additionally, I have voted in favor of key bills and initiatives that impact quality of life in Georgia including passage of the two largest State income tax cuts in Georgia history, sponsoring a bill to eliminate the homestead property tax statewide, capping property tax increases at 3% per year, passing a bill to require clarity and transparency in healthcare billing, ensuring that mental health is treated the same way as physical health, and expanding medical residency opportunities to ensure doctors who train here, stay here.
+My wife, Katie, and I call Gainesville home.
+We are raising our family here, just as our parents raised us in this community.
+We have strong roots here as we believe it is our job to give back to our community more than it gives to us.
+While in the House of Representatives, I have been recognized by my peers, by “watchdog groups,” and by various industry associations as a leader on sound conservative policy.
+My job is to represent you, and thus, I have put you and your family at the forefront of my mind in each decision I make, bringing a common-sense approach to deliver real results that are felt by all.
+In fact, one of the things that brings me the most joy is the impact I am able to make here in our community.
+A few examples include:
+- Sponsoring legislation to create inclusive playgrounds at elementary schools, making sure students of all abilities can experience play
+- Creating local law enforcement foundations so that you can receive a tax credit for backing the badge
+- Securing funding to expand the Hall County Library System buildings
+- Facilitating Lanier Tech’s expansion to a new campus
+- Securing funding for accountability drug court and veteran court programs
+- Helping domestic violence centers statewide (and in Hall County) receive funding to care for victim
+It has been my honor and privilege to serve the 29th district and I look forward to continuing my service to you under the Gold Dome.
+While I am in my ninth year of service as your Representative, I realize how much more I have to offer the people of Gainesville, Oakwood, and Hall County.
+I have been taught much during my time in office, and I acknowledge the calling to continue to be an advocate for all Georgians on many causes.
+I pledge to continue to work tirelessly as your State Representative, so that all Georgians have the chance to live a happy and fulfilled life.
+About Matt
+Born in Gainesville, Matt is a 1999 graduate of Lakeview Academy and received his Bachelor of Science in management with a minor in information technology from the Georgia Institute of Technology in 2003.
+He serves as the Chief Engagement Officer of Forum Communications, a full-service strategic marketing agency founded by his wife in 2012.
+Matt is a small business owner, father, husband, son and community leader.
+He is a member of the Gainesville Rotary Club and serves on the board of Junior Achievement of Northeast Georgia.
+He is a former Trustee for the Georgia Tech Alumni Association, serves on the Georgia Tech President’s Scholarship selection committee, is a member of Lakeview Academy’s development committee, is a Trustee on the Lakeview Academy board, and chairs the Lakeview Athletic Club.
+He is a former deacon at his church and serves in numerous local, state and national volunteer leadership positions with DU, including Georgia Public Policy chair, past Georgia State chairman and current Senior Vice President of Marketing & Communications on the DU national board.
+He is a 2012 Leadership Hall graduate and a member of the Leadership Georgia Class of 2018 and was recognized by Georgia Trend magazine with their 40 Under 40 award in 2017, honored as the Gainesville Jaycees 2021 Young Man of the Year, and was recognized in February 2024 alongside his wife as the Gus Whalen Rising Star Award winners by Junior Achievement.
+He is a member of First Baptist Church Gainesville and resides in Gainesville with his wife, Katie, and their two sons, James and Davis.

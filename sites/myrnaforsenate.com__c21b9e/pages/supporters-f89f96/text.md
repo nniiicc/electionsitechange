@@ -1,0 +1,234 @@
+“I am humbled and honored to have the backing of so many in our beautiful community.
+This isn’t my campaign for Senate.
+It’s ours!”
+-Myrna Muñoz
+Community Supporters of Myrna’s Campaign!
+Joseph Gallegos 💪 Karen Caudillo ✊ Lyndsie Compton 🔥 Christian Robertson-Lofthouse ❤️ Helena Birecki 🤩 Jennifer Marrinan 😍 PeggyMargaret Harris 💪 Marissa Salgado ✊ Dale Case 🔥 Cesar Salinas ❤️ Helen Krieger 🤩 Eric Stachon 😍 Jacqueline Endicott 💪 Katherine A Watkins ✊ Michael Elliott 🔥 Margot Hackman ❤️ Chelsea Alionar 🤩 Thomas Rogers 😍 Cynthia Branger Munoz 💪 Caleb Hayes ✊ Shannan Bridge 🔥 Chris Batman-Mize ❤️ Maureen Barnhart 🤩 JoDee Clark Lompa 😍 Erin Haag 💪 Krystal Michaels Monroe ✊ Dylan Hinson 🔥 Nick Keough ❤️ Lauren Miller 🤩 Barry Bolding 😍 Joseph Yuhas 💪 Rich Wallick ✊ Alicia Ruiz 🔥 Rebecca Hirsch ❤️ Daniel Edwards 🤩 Denis Berger 😍 Lucy Jordon 💪 Valita Volkman ✊ Lesly Munoz 🔥 Janelle Wetherbee ❤️ Brandon Culbertson 🤩 Graeme Hutchison 😍 Lesly Munoz for Oregon 💪 Jose Munoz ✊ Samuel Diaz 🔥 Iris Hodge ❤️ Rachel Evans 🤩 Tammily Carpenter 😍 Marc Grambo 💪 Crystal Dixson ✊ Eric McGuire 🔥 Pat Mickiewicz ❤️ Friends of Smart Growth 🤩 Jody Wiser 😍 Michelle Barnes 💪 Dale Feik ✊ Jim Gilbert 🔥 John Lenssen ❤️ Raul Garcia 🤩 Jane Weiss 😍 Christine Batman-Mize 💪 Oscar Moreno Gilson ✊ Lynn Weglarz 🔥 Laura Moulton ❤️ Chuck Sheketoff 🤩 Emily McCaffrey 😍 Roberto Escudero 💪 Alma Velazquez ✊ Leif Eccles 🔥 Monica Weathersby ❤️ Annie Naranjo-Rivera 🤩 Victoria Demchak 😍 Katja Freeborn 💪 Kathleen Kuftin ✊ Norma Sanchez 🔥
+Supporter Spotlight
+Oregon Working Families Party
+The Oregon Working Families Party (WFP) is a progressive political organization that works to elect leaders who will fight for working people, economic justice, and strong communities.
+They support candidates who prioritize fair wages, affordable housing, and policies that put everyday Oregonians first.
+WFP is part of a national network that supports candidates who champion inclusive economic growth.
+American Federation of Teachers Oregon
+The American Federation of Teachers Oregon represents thousands of educators and public employees working in schools, colleges, and public institutions across the state.
+The union advocates for strong public education, fair wages and working conditions for educators, and policies that ensure every Oregon student has access to a high quality, well funded education.
+AFT Oregon supports leaders who value educators, strengthen public schools, and invest in opportunities that help students and communities thrive.
+Friends of Smart Growth
+Friends of Smart Growth is a coalition dedicated to promoting thoughtful land use, sustainable development, and strong communities across Oregon.
+The organization supports leaders who believe growth should be planned responsibly to protect farmland, natural resources, and the livability of our towns and cities while ensuring opportunity for future generations.
+United Food and Commercial Workers Local 555
+United Food and Commercial Workers Local 555 represents thousands of grocery, retail, and food processing workers across Oregon and Southwest Washington.
+UFCW 555 advocates for fair wages, strong workplace protections, quality healthcare benefits, and dignity on the job for working families.
+Their endorsement reflects the campaign’s shared commitment to strengthening workers’ rights, supporting union jobs, and building an economy that works for the people who keep our communities running every day.
+Sierra Club Oregon
+The Sierra Club is one of the nation’s oldest and most respected environmental organizations, working for more than a century to protect clean air, clean water, public lands, and a livable climate.
+With members and supporters across Oregon and the country, the Sierra Club advocates for strong environmental protections, responsible land use, and policies that safeguard natural resources for future generations.
+Their endorsement reflects a shared commitment to protecting Oregon’s environment while building a sustainable future for our communities.
+Basic Rights Oregon
+Basic Rights Oregon PAC is one of the state’s leading political organizations dedicated to advancing equality and civil rights for LGBTQ+ Oregonians.
+Through electoral advocacy, candidate endorsements, and grassroots organizing, the PAC works to elect leaders who are committed to protecting LGBTQ+ communities and ensuring Oregon remains a place where everyone can live openly, safely, and with dignity.
+Basic Rights Oregon PAC has played a key role in supporting policies that expand opportunity, strengthen civil rights protections, and build a more inclusive future for all Oregonians.
+Next Up Action Fund
+Next Up Action Fund is the political action arm of Next Up, a statewide organization dedicated to building the political power of young people in Oregon.
+The Action Fund supports candidates who champion youth leadership, expand access to voting, and advance policies that create a more equitable future for the next generation.
+Their endorsement reflects Myrna’s commitment to empowering young people, protecting democratic participation, and ensuring that the voices of Oregon’s next generation are heard in the decisions that shape our communities.
+Oregon AFL-CIO
+Support from Oregon’s largest labor federation reflects strong backing from hundreds of thousands of working people across the state and highlights Myrna’s commitment to standing with workers, strengthening labor rights, and building an economy that works for working families.
+Oregon League of Conservation Voters
+The Oregon League of Conservation Voters (OLCV) is a leading voice for environmental protection in Oregon, working to elect leaders who will fight for clean air, safe water, and a sustainable future.
+OLCV’s endorsement reflects Myrna’s commitment to tackling climate change, protecting natural resources, and advancing environmental justice for communities across the state.
+Imagine Black
+Imagine Black is a Black-led Oregon advocacy organization building Black political power through community organizing, civic engagement, and leadership development.
+One of Oregon’s leading voices for racial and economic justice, Imagine Black works to advance community-rooted leaders and bold policy change.
+Their support for Myrna reflects a shared commitment to equity, accountability, and building a future where working families and historically excluded communities have real power in Oregon politics.
+Communications Workers of America Local 7901
+Communications Workers of America Local 7901 represents telecommunications and technology workers across Oregon who help keep the state connected.
+As part of the broader Communications Workers of America, Local 7901 advocates for fair wages, strong benefits, workplace safety, and the rights of workers in rapidly evolving communications industries.
+CWA Local 7901’s endorsement reflects Myrna’s commitment to standing with working people and supporting policies that strengthen good union jobs, expand opportunity, and build an economy that works for everyone.
+Oregon Education Association
+Oregon Education Association PAC is the political arm of the Oregon Education Association, representing tens of thousands of educators and education professionals across the state.
+The PAC supports candidates who are committed to strengthening Oregon’s public schools, supporting educators, and ensuring every student has access to a high-quality education.
+Their endorsement reflects confidence in Myrna’s commitment to strong public schools, respect for educators, and policies that invest in students, families, and the future of Oregon’s communities.
+Jane Fonda Climate
+The Jane Fonda Climate PAC, founded by longtime actor and activist Jane Fonda, supports candidates who are committed to bold action on climate change and environmental justice.
+The organization works to elect leaders who will stand up to fossil fuel interests and advance policies that protect communities, workers, and the planet for future generations.
+Service Employees International Union Local 503
+One of Oregon’s largest labor unions, representing tens of thousands of public employees and care providers, this organization advocates for fair wages, strong public services, and economic justice.
+Its endorsement reflects Myrna’s commitment to standing with working people, protecting labor rights, and building an economy that works for everyone.
+Lead Locally
+Lead Locally is a national organization dedicated to recruiting, training, and supporting leaders who are ready to step up and serve their communities in public office.
+Founded to help bring new voices into politics, Lead Locally works to identify candidates who reflect the diversity, values, and experiences of the communities they seek to represent.
+Through training, mentorship, and a growing network of public servants, the organization helps equip candidates with the tools they need to run strong, people-focused campaigns and lead effectively once in office.
+Their support reflects a belief in building a new generation of thoughtful, community-driven leadership.
+Mother PAC
+Mother PAC is a grassroots organization focused on electing leaders who stand up for working families and future generations.
+Centered on issues like healthcare, education, and economic stability, the group works to ensure parents and caregivers have a real voice in our political system.
+Their support reflects a commitment to people-first leadership and policies that strengthen families and communities across Oregon.
+PCCFFAP — American Federation of Teachers
+The Portland Community College Federation of Faculty and Academic Professionals represents faculty and academic professionals at Portland Community College.
+The union advocates for strong public higher education, fair working conditions for educators, and the resources needed to support student success.
+PCCFFAP works to ensure community colleges remain accessible, affordable, and responsive to the needs of students and the broader community.
+Save Helvetia!
+Save Helvetia is a community-driven advocacy group committed to protecting farmland, natural resources, and the rural character of Washington County.
+The organization has been a leading voice in pushing back against unchecked development and ensuring that growth decisions reflect the needs and values of local residents.
+Their support reflects a shared commitment to responsible land use, environmental stewardship, and putting community voices at the center of decision-making.
+PSU-AAUP
+PSU-AAUP is the Portland State University chapter of the American Association of University Professors, representing faculty committed to academic freedom, shared governance, and strong public higher education.
+As a leading voice for educators, workers, and students at Portland State, PSU-AAUP advocates for fair working conditions, accessible education, and investment in Oregon’s public universities.
+Myrna stands with PSU-AAUP on protecting public institutions, supporting working families, and building an Oregon where students, workers, and communities can thrive.
+Oregonizers
+Oregonizers is a grassroots digital organizing network built to amplify progressive voices across Oregon through storytelling, social media, and movement-driven communications.
+Rooted in mutual aid and community organizing, Oregonizers helps activists, campaigns, and local leaders reach more people, build momentum, and turn digital engagement into real-world action.
+Their support for Myrna reflects a shared belief in people-powered politics, stronger communities, and building grassroots power from the ground up.
+Fight Like a Girl
+Fight Like a Girl is an Oregon-based grassroots organization founded by Chelsea Alionar that works to empower women to step into leadership, advocacy, and public life.
+The organization focuses on building confidence, political engagement, and community support networks for women who want to make a difference in their communities.
+Through organizing, mentorship, and civic engagement efforts, Fight Like a Girl encourages women to speak up, take action, and lead with strength and purpose.
+Their support reflects a shared commitment to lifting up women’s voices and expanding opportunities for women in public leadership.
+The International Longshore and Warehouse Union (ILWU) is a labor union which primarily represents dock workers on the West Coast of the United States, Hawaii, and in British Columbia, Canada.
+ILWU
+Oregon Federation of Nurses and Health Professionals (OFNHP), AFT Local 5017 is a union of more than 5,000 nurses and health professionals in Oregon and SW Washington.
+We know that when healthcare workers are united across job classifications and disciplines, we become a more powerful voice for our patients, our community, and ourselves.
+OFNHP
+Oregon AFSCME
+Oregon American Federation of State, County and Municipal Employees has been representing civil service workers here in Oregon since 1942, with the mission to bolster and maintain the civil service system, as well as to spread that system all over the nation.
+Pro-Animal Oregon
+Since their launch in 2024, Pro-Animal Oregon is a coalition of voters, volunteers, and small donors fighting for the rights of animals, building toward their ultimate goal to end factory farming in Oregon.
+OCL Action Fund
+The Oregon Consumer League Action Fund works to protect Oregonians’ rights through consumer education, policy development, and advocacy.
+Our organization was founded in 2022 to advance consumer protection in Oregon.
+ONA
+The Oregon Nurse’s Association is an organization who’s primary goal is cultivating and maintaining safe, sustainable working conditions for the nurses who keep the hospitals running in our great State since 1904.
+PPAO
+Planned Parenthood Action Oregon provides resources for people to inform themselves on healthcare, family planning, and their bodily autonomy.
+APC
+The American People’s Compact is an organization who wants us all to know that we have more in common than not, regardless of partisanship.
+APC boasts a platform for policy frameworks that tested positively with 8 in 10 Americans.
+Their ultimate mission is to cultivate a country that cares for its average citizens as opposed to the wealthy few.
+PCUN
+Pineros Y Campesinos Unidos del Noroeste is a union that has been fighting to inform and empower farmworkers since 1985, advocating for fair wages and legal protection for the people who make sure we all get fed.
+Sunrise PDX
+The Sunrise Movement PDX began as a group of youths in Portland who answered the call to create a space for young Americans to advocate for environmental protection through legislation like the Green New Deal, and the removal of fossil fuel companies’ influence in our government, to move toward a future America designed for its people, instead of the pockets of the wealthiest among us.
+Councilor Angelita Morillo
+Angelita Morillo is a Portland City Councilor, policy advocate, and one of Portland’s leading progressive voices on housing, immigrant justice, and accountable local government.
+A longtime advocate for working people and historically excluded communities, she has built her public service around equity, transparency, and community-centered policymaking.
+Her support for Myrna underscores a commitment to bold leadership, economic justice, and building a more inclusive Oregon for working families.
+Former Representative Joe Gallegos
+Joe Gallegos is a longtime Oregon community leader and former Democratic member of the Oregon House of Representatives.
+During his time in office, he worked to strengthen public education, expand economic opportunity, and support working families.
+His endorsement speaks to the value of leadership and community-vetted policies that help Oregon communities grow and thrive.
+Hillsboro City Councilor Kipperlyn Sinclair
+Kipperlyn Sinclair is a community advocate and former candidate for the Oregon Legislature who has worked to advance policies that support working families, strong public schools, and economic opportunity.
+Through her leadership and organizing, she has been a strong voice for equity, community engagement, and building a more inclusive Oregon.
+Her endorsement speaks to a commitment to people-centered leadership and policies that strengthen communities across the state
+Former Representative Teresa Alonso Leon
+Teresa Alonso León is a former Oregon State Representative and a longtime advocate for education, immigrant communities, and working families.
+As one of the first Latina legislators elected to the Oregon Legislature, she focused on expanding opportunity, strengthening public schools, and ensuring more Oregonians have a voice in the decisions that shape their communities.
+Her endorsement reflects a commitment to inclusive leadership and building an Oregon that works for everyone.
+Representative Lesly Muñoz
+Lesly Muñoz is a community advocate and the proud sister of Myrna Muñoz.
+Growing up together working in the fields, their shared experiences shaped a deep sense of resilience, hard work, and commitment to standing up for working families.
+Known for her fearless spirit and strong voice, Lesly has never been afraid to speak up for her community and fight for what is right.
+Her endorsement reflects both a powerful sisterhood and a belief that leaders who understand the struggles of everyday people are the ones who will deliver real change.
+Beaverton School Board Member Syed Qasim
+Syed Qasim is a community advocate and public servant who has demonstrated a strong commitment to education and civic engagement through his service on the local school board.
+In that role, he has worked to support students, families, and educators while helping guide decisions that strengthen public schools and expand opportunity for all.
+Beyond his school board service, Syed has been active in community organizing and coalition-building, with a focus on empowering underrepresented voices and increasing participation in the political process.
+His support reflects a shared commitment to equity, strong public education, and leadership that listens to and delivers for the community.
+Councilor Mitch Green
+Mitch Green is a Portland City Councilor and community advocate known for his leadership on housing, neighborhood stability, and responsive local government.
+With a background in public service and community organizing, he has worked to advance practical solutions that strengthen neighborhoods, support working families, and improve quality of life across Portland.
+His endorsement underscores the importance of grounded leadership and policies that deliver for Oregon communities.
+Representative Travis Nelson
+Travis Nelson comes from a working class family that raised him into the type of person who shows up for his fellow people.
+Nelson has served our state as a nurse, eventually immersing himself into his union, and ultimately being elected as the Sate Representative for Oregon’s 44th district for two terms, going on three this November.
+Representative Mark Gamba
+State Representative Gamba, once Mayor of Milwaukie, has proudly served the people of Oregon House District 41 for 4 years, and he doesn’t plan on stopping there.
+He advocates for a Capitol of collaboration, where lawmakers can come together to further the interests of those who elected them.
+Councilor Tiffany Koyama Lane
+Also know as Teacher Tiffany, Koyama Lane is a District 3 Portland City Councilor who brings a lot to the table; an award-winning educator, from a fourth-generation family of Japanese immigrants, and mother of two.
+With this background, Teacher Tiffany seeks to continue utilizing her position in Portland City Council to bring about safer streets, healthy communities, social + environmental justice, strong labor contracts, and of course, to build a city that works for everyone of all ages, wages, and stages.
+Representative Farrah Chaichi
+This Beaverton-born State Representative began her journey of seeking justice in high school with Amnesty International, and has served the people of Oregon’s 35th district since 2022.
+She continues her lifelong legacy of being a champion for the people, calling for leadership that centers unity, so we can move toward justice, equality, compassion, and solidarity together.
+U.S.
+Senator Jeff Merkley
+Jeff Merkley is an upstanding Oregonian who comes from a family of humble beginnings.
+As one of our U.S.
+Senators, he is known for traveling the state to connect with real, working class Oregonians to be as informed as possible on the will of the people, and applies that knowledge at one of the highest government bodies of our nation.
+Senator Khanh Pham
+State Senator Pham began representing the people of Oregon Senate District 23 in 2021, and has helped deliver key victories in environmental + climate justice, and protect democracy.
+She hopes to continue fighting for economic and social justice in the future.
+More to come…
+Community Supporters
+Chelsea Alionar 💪
+Maureen Barnhart ✊
+Chris Batman-Mize 🔥
+Christine Batman-Mize ❤️
+Denis Berger 🤩
+Helena Birecki 😍
+Barry Bolding 💪
+Shannan Bridge ✊
+Cynthia Branger Munoz 🔥
+Dale Case ❤️
+Karen Caudillo 🤩
+JoDee Clark Lompa 😍
+Brandon Culbertson 💪
+Samuel Diaz ✊
+Crystal Dixson 🔥
+Victoria Demchak ❤️
+Daniel Edwards 🤩
+Leif Eccles 😍
+Jacqueline Endicott 💪
+Michael Elliott ✊
+Roberto Escudero 🔥
+Rachel Evans ❤️
+Dale Feik 🤩
+Katja Freeborn 😍
+Raul Garcia 💪
+Jim Gilbert ✊
+Oscar Moreno Gilson 🔥
+Marc Grambo ❤️
+Margot Hackman 🤩
+Erin Haag 😍
+PeggyMargaret Harris 💪
+Dylan Hinson ✊
+Iris Hodge 🔥
+Rebecca Hirsch ❤️
+Graeme Hutchison 🤩
+Lucy Jordon 😍
+Nick Keough 💪
+Helen Krieger ✊
+Kathleen Kuftin 🔥
+John Lenssen ❤️
+Lauren Miller 🤩
+Krystal Michaels Monroe 😍
+Laura Moulton 💪
+Jose Munoz ✊
+Lesly Munoz 🔥
+Lesly Munoz for Oregon ❤️
+Annie Naranjo-Rivera 🤩
+Joseph Yuhas 😍
+Pat Mickiewicz 💪
+Jennifer Marrinan ✊
+Emily McCaffrey 🔥
+Eric McGuire ❤️
+Michelle Barnes 🤩
+Monica Weathersby 😍
+Janelle Wetherbee 💪
+Jane Weiss ✊
+Rich Wallick 🔥
+Katherine A Watkins ❤️
+Valita Volkman 🤩
+Lynn Weglarz 😍
+Jody Wiser 💪
+Thomas Rogers ✊
+Marissa Salgado 🔥
+Norma Sanchez ❤️
+Eric Stachon 🤩
+Chuck Sheketoff 😍
+And more coming soon…
+Join the list of Supporters!
+Fill out this form to join the list of Myrna supporters!
+Thank you so much for your support.
+We can’t do it without you.

@@ -1,0 +1,14 @@
+SPRINGFIELD — A new law from State Senator Laura Ellman is set to give counties additional tools to support affordable housing development and address growing housing affordability challenges facing working families and middle-income residents.
+“As housing costs continue to rise faster than incomes, more families are finding themselves priced out of the communities they work and live in,” said Ellman (D-Naperville).
+“This law will help local governments create more housing options while supporting mixed-income communities and long-term affordability.”
+House Bill 4571 allows counties with populations between 750,000 and 2 million, as well as counties with executive forms of government and populations between 650,000 and 2 million, to take additional actions to support affordable housing development and preservation.
+Under the law, eligible counties could acquire property, transfer land between units of local government, sell or lease property below market rate and offer financial incentives such as grants, loans and infrastructure improvements to encourage affordable housing construction.
+The law is an initiative of DuPage and Will Counties and is intended to help address housing affordability challenges for residents earning between 80% and 140% of area median income — often referred to as the “missing middle.” Previously, county authority was generally limited to housing serving households earning up to 80% of area median income.
+According to the U.S.
+Department of Housing and Urban Development, housing is considered affordable when households spend no more than 30% of their income on housing costs.
+However, rising rents and limited housing inventory have made affordability increasingly difficult across Illinois and the country.
+A 2025 report from the National Low Income Housing Coalition found Illinois has only 34 affordable and available rental homes for every 100 extremely low-income renter households.
+The report also found the fair market rent for a two-bedroom apartment in Illinois is approximately $1,550 per month — requiring a household income of nearly $62,000 annually to remain affordable under federal standards.
+“Expanding housing options for middle-income earners can also help preserve affordable housing availability overall by reducing pressure across the housing market,” said Ellman.
+“This law is just another step to address the current housing affordability crisis.”
+House Bill 4571 was signed into law Friday and goes into effect immediately.

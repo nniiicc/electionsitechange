@@ -1,0 +1,25 @@
+top of page
+Home
+Why I'm Running
+Get Involved
+DONATE
+Join Our Campaign
+First name
+*
+Last name
+*
+Email
+*
+Phone
+*
+How can you help?
+*
+Host a meet and greet in my area
+Call my neighbors
+Join Jarrod at events
+Help Jarrod knock on doors in your neighborhood
+Text me for updates
+Request a Yard Sign
+Other
+Submit
+bottom of page

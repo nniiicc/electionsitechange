@@ -1,0 +1,19 @@
+Protecting The Innocence Of Children
+Protecting The Innocence Of Children
+· Removing the obscenity exemptions – I sponsored SB 412 and carried its House companion (HB 267) to remove the obscenity exemption from state statute that allowed educators to show harmful material to a minor and allowed certain health professionals to solicit sexual performances of a minor.
+It has been a longstanding campaign of mine to remove this disturbing and deranged language from our Penal Code, which has protected adults who wish to prey on Texas children.
+After several sessions of working on this issue, SB 412 will now protect Texas children from further harm.
+· I joint-sponsored SB 2420, which aims to protect children online by requiring enhanced protections in app stores.
+After the passage of this legislation, app stores will now need to establish an age verification system for all users and have apps go through a rating system to make sure that children do not get their hands on content that is not age appropriate.
+· In the 88th Session, I was a joint author on HB 1181, which requires internet porn websites to verify the age of all of their users.
+This was a landmark piece of legislation that helps protect kids from this obscene content.
+This bill had an immediate effect, as it pushed the largest porn websites out of the state of Texas just days after its passage.
+· After joining with concerned moms across Texas and fighting against sexually explicit materials in schools at the local level, I filed and passed HB 900, The READER Act.
+This bill requires book vendors appropriately rate educational resources sold to districts, bans sexually explicit content and provides greater transparency and parental controls for other relevant materials.
+The READER Act is model legislation for the rest of the nation as we continue to fight against the radical sexualization of our children.
+· Also during the 88th legislative session, I helped pass legislation to ban the practice of mutilating children through so-called “gender reassignment”.
+SB 14 outright bans the use of dangerous drugs and surgeries on minors for this purpose.
+I also backed and helped pass SB 12, which prohibits children from attending sexually explicit drag and other performances.
+· In 2021, I coauthored and helped pass HB 25 to keep boys from playing against girls in middle school and high school UIL sports.
+In 2023, we followed it up by prohibiting men from participating in women’s collegiate sports in our public colleges and universities.
+· I was a joint author of HB 18 during the 88th Texas legislature, known as the SCOPE Act, to protect kids and their data from predatory social media companies and helped pass HB 1181, which requires pornographic websites verify the age of their users.

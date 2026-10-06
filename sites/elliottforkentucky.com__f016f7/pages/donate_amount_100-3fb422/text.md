@@ -1,0 +1,2 @@
+Contributions can be made online below or sent to P.O.
+Box 2082, Danville KY 40423. &amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br /><br /> &amp;amp;lt;iframe src="https://causes.anedot.com/campaigns/elliottforkentucky?embed=true" width="100%" height="600" frameborder="0"&amp;amp;gt;&amp;amp;lt;/iframe&amp;amp;gt;&amp;amp;lt;br /&amp;amp;gt;&amp;lt;br /&amp;gt;&lt;br /&gt;<br /><br />

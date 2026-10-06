@@ -1,0 +1,8 @@
+Matt Bradford proudly represents the citizens of central Montgomery County and serves as Majority Leader.
+He is humbled to have been elected by his peers previously as Chair of the House Appropriations Committee from 2018-2023, ensuring taxpayer dollars were invested and used responsibly in the state budget to provide the best quality of life for all Pennsylvanians.
+Prior to being elected Appropriations Chair, Matt served for two years as chair of the House State Government Committee and spent eight years as a member of the Appropriations Committee, where he fought harsh cuts to public education funding, advocated for good, family-sustaining jobs, and prioritized affordable and accessible health care.
+As a father of school-age children, Matt has seen first-hand the vitally important role a school plays in shaping lives and has dedicated his work as an elected official to ensuring all kids have access to high-quality public schools.
+A life-long resident of southeastern Pennsylvania, Matt earned both his undergraduate and law degree from Villanova University.
+Before he was elected to the legislature in 2009, Governor Ed Rendell appointed Matt to serve as municipal administrator and chief executive officer of Norristown Borough.
+In less than three years, he led the municipality away from bankruptcy, securing public and private investments and overseeing major improvements to public services.
+Matt is an avid Philadelphia sports fan and lives in Worcester Township with his wife, Renee, and their four children.

@@ -18,10 +18,10 @@ Join Our Campaign Today
 [gravityform id="5" title="false" description="false" ajax="true"]
 THE LATEST
 FROM THE CAMPAIGN
-State Representative Mano DeAyala9 minutes agoI’m honored to be endorsed by the HRBC, Houston's Premier Business Coalition in my re-election campaign for District 133.
+State Representative Mano DeAyala2 hours agoI’m honored to be endorsed by the HRBC, Houston's Premier Business Coalition in my re-election campaign for District 133.
 HRBC has long stood for a strong Houston economy and accountable government.
 In the Texas House, I'll keep working to bring property taxes down and keep Texas the best place to build a business and raise a family.
-State Representative Mano DeAyala2 hours agoToday is the last day to register to vote in the Nov. 3 election!
+State Representative Mano DeAyala4 hours agoToday is the last day to register to vote in the Nov. 3 election!
 Every voice matters, so make sure yours is heard.
 Confirm you're registered, or sign up if you're not: https://www.votetexas.gov/register-to-vote/index.html.
 Checking your status takes two minutes.

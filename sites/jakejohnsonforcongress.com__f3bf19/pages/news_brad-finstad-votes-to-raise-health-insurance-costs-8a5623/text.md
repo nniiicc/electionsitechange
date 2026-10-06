@@ -1,0 +1,154 @@
+- PRESS RELEASE Jake Johnson Holds Town Hall in Nicollet County
+- PRESS RELEASE Jake Johnson Holds Town Hall in Brown County
+- PRESS RELEASE Brad Finstad’s Former Campaign Chair Endorses Jake Johnson
+- PRESS RELEASE Jake Johnson Holds Town Hall in Goodhue County
+- PRESS RELEASE Jake Johnson Holds Town Hall in Olmsted County
+- PRESS RELEASE National Farmers Union Political Action Committee endorses Jake Johnson
+- PRESS RELEASE Jake Johnson Launches General Election Campaign In Front of Finstad’s Closed District Office
+- PRESS RELEASE More Votes Cast in Democratic Primary Than Republican Primary in MN-01
+- PRESS RELEASE Jake Johnson Wins DFL Primary in MN-01, Will Take on Brad Finstad in November
+- PRESS RELEASE Jake Johnson Holds Town Hall in Nobles County
+- PRESS RELEASE Jake Johnson Holds Town Hall in Rock County
+- PRESS RELEASE NRDC Action Fund endorses Jake Johnson in MN-01
+- PRESS RELEASE Jake Johnson and Brad Finstad face off at Farmfest Congressional Candidate Forum
+- PRESS RELEASE Jake Johnson Holds Town Hall in Blue Earth County
+- PRESS RELEASE Reproductive Freedom for All endorses Jake Johnson
+- PRESS RELEASE Jake Johnson Holds Town Hall in Faribault County
+- PRESS RELEASE Jake Johnson Holds Town Hall in Fillmore County
+- PRESS RELEASE Jake Johnson Holds Small Business Roundtable in Lanesboro
+- PRESS RELEASE Jake Johnson Holds Town Hall in Mower County
+- PRESS RELEASE Public School Teacher Jake Johnson Raises Over $2 Million Without Corporate PACs
+- PRESS RELEASE Jake Johnson Slams New Tariffs on Prescription Drugs: “It Feels Like Groundhog Day”
+- PRESS RELEASE Math teacher Jake Johnson says new tariffs on Canada don’t add up
+- PRESS RELEASE The Guardian: High school math teacher seeks to win US House seat in Minnesota by emphasizing affordability
+- PRESS RELEASE Jake Johnson Holds Town Hall in Watonwan County
+- PRESS RELEASE Jake Johnson Outraises Brad Finstad — Again
+- PRESS RELEASE Jake Johnson Holds Town Hall in Waseca County
+- PRESS RELEASE Former Republican Gov.
+Arne Carlson Endorses Jake Johnson
+- PRESS RELEASE Jake Johnson Holds Town Hall in Winona County
+- PRESS RELEASE Former National Corn Growers Association President Harold Wolle Hosts Farmer Roundtable with Jake
+- PRESS RELEASE Jake Johnson Raises Over $650K in Second Quarter of 2026
+- PRESS RELEASE Washington Examiner: “Johnson outlined his plan to stop the runaway national debt”
+- PRESS RELEASE Jake Johnson Holds Town Hall in Jackson County
+- PRESS RELEASE One Year Later, Jake Johnson Says Finstad's Vote Is Still Hurting Southern Minnesota sent
+- PRESS RELEASE Brad Finstad is Playing Political Games, Abusing the Power of his Office to Push Lies
+- PRESS RELEASE Senate farm bill fails on year-round E15, cuts conservation funding, and ignores rising input costs
+- PRESS RELEASE Brad Finstad throws a hissy fit about town halls.
+Jake Johnson hosts them.
+- PRESS RELEASE Jake Johnson Holds More Town Hall Meetings than Brad Finstad
+- PRESS RELEASE Cook Political Report Says MN-01 is No Longer a “Safe Republican” District
+- PRESS RELEASE Congressman Pat Ryan endorses Jake Johnson in MN-01
+- PRESS RELEASE Jake hosts roundtable with farmers in Fillmore County, hears how Washington is making farming harder
+- PRESS RELEASE SEIU MN Endorses Jake Johnson in MN-01
+- PRESS RELEASE Jake Johnson Announces 21 In-Person Town Halls Across Southern Minnesota While Brad Finstad Hides
+- PRESS RELEASE Stauber Spoke Up.
+Klobuchar Spoke Up.
+Where Was Finstad?
+- PRESS RELEASE Highest Inflation in Three Years Shows Cost of Finstad's Tariffs and Iran War Support
+- PRESS RELEASE Jake Johnson Slams Brad Finstad for Holding Phony Telephone “Town Halls”
+- PRESS RELEASE Pete Buttigieg Endorses Jake Johnson for Congress in MN-01
+- PRESS RELEASE AFSCME Endorses Jake Johnson
+- PRESS RELEASE Jake Johnson praises accountability for Feeding Our Future founder Aimee Bock
+- PRESS RELEASE Jake Johnson Submits Over 5,000 Signatures, Officially Files to Run for Congress
+- PRESS RELEASE Committee to Protect Health Care endorses Jake Johnson
+- PRESS RELEASE NewDem Action Fund endorses Jake Johnson
+- PRESS RELEASE Brad Finstad sells out to big corporations again, votes to protect donors from liability
+- PRESS RELEASE Sabato’s Crystal Ball Says MN-01 is No Longer a “Safe Republican” District
+- PRESS RELEASE End Citizens United Endorses Jake Johnson
+- PRESS RELEASE Jake Johnson Earns DFL Endorsement
+- PRESS RELEASE ICYMI: Jake Johnson in the New York Times, KARE 11, Faribault Daily News
+- PRESS RELEASE Planned Parenthood Action Fund Endorses Jake Johnson in MN-01
+- PRESS RELEASE Local Newspapers Highlight Problems for Finstad as Johnson Builds Momentum
+- PRESS RELEASE Jake Johnson Outraises Rep.
+Brad Finstad by Over $130K in Q1
+- PRESS RELEASE Brad Finstad Refuses to Answer Minnesotans on Farm Costs.
+Jake Johnson Steps In with Answers.
+- PRESS RELEASE IBEW Local 343 Endorses Jake Johnson in MN-01
+- PRESS RELEASE Jake Johnson Raises Over $470K in the First Quarter of 2026
+- PRESS RELEASE A Year After “Liberation Day,” Brad Finstad’s Tariffs Are a Massive Failure
+- PRESS RELEASE 314 Action Fund endorses Jake Johnson
+- PRESS RELEASE League of Conservation Voters endorses Jake Johnson
+- PRESS RELEASE “RACE TO WATCH”: Jake Johnson in the Mankato Free Press
+- PRESS RELEASE Jake Johnson to CNBC: “A vote for me is a vote to end tariffs, and it’s a vote to end the war”
+- PRESS RELEASE Jake Johnson Raises Over $1 Million in Grassroots Campaign for Congress in MN-01
+- PRESS RELEASE Jake Johnson Criticizes Brad Finstad for Voting for the Iran War
+- PRESS RELEASE Jake Johnson Says We Cannot Afford Another Endless War in the Middle East
+- PRESS RELEASE Jake Johnson Supports Healthcare for Veterans, Kids, and People with Disabilities
+- PRESS RELEASE Defend the Vote Endorses Jake Johnson
+- PRESS RELEASE Education Minnesota Endorses Jake Johnson
+- PRESS RELEASE Jake Johnson Celebrates Relief for Southern Minnesota from Unconstitutional Tariffs that Brad Finstad Supported at Every Opportunity
+- PRESS RELEASE Jake Johnson: “Our guy can’t deliver” on year-round E15
+- PRESS RELEASE Jake Johnson: “The frustration around tariffs is widespread”
+- PRESS RELEASE Brad Finstad Votes for Tariffs Making Life More Expensive in Southern Minnesota
+- PRESS RELEASE New Poll Shows Jake Johnson Within the Margin of Error in MN-01
+- PRESS RELEASE Brotherhood of Locomotive Engineers and Trainmen Endorses Jake Johnson
+- PRESS RELEASE Jake Johnson Supports Amy Klobuchar for Governor
+- PRESS RELEASE Jake Johnson Chooses Grassroots Engagement Over Pay-to-Play Politics
+- PRESS RELEASE Brad Finstad’s Copy-Paste Scandal
+- PRESS RELEASE Finstad fails again on year-round E15, building on his inability to pass a farm bill
+- PRESS RELEASE Jake Johnson Criticizes New Tariffs
+- PRESS RELEASE Jake Johnson Slams USDA Funding Freeze, Warns Cuts Will Threaten Minnesota Families and Farmers
+- PRESS RELEASE Brad Finstad Votes to Raise Health Insurance Costs
+- PRESS RELEASE The Free Press: Politicians and candidates respond to Wednesday's shooting
+- PRESS RELEASE Jake Johnson Raises More than $750K Since Launch
+- PRESS RELEASE Brad Finstad supports regime change in Venezuela
+- PRESS RELEASE Rochester Education Association Endorses Jake Johnson
+- PRESS RELEASE Mankato and Rochester Area State Legislators Endorse Jake Johnson
+- PRESS RELEASE Jake Johnson Named an “Unrig Washington” Candidate
+- PRESS RELEASE National Education Association Supports Jake Johnson
+- PRESS RELEASE Jake Johnson Calls for a Bipartisan Deal to Protect SNAP and Open the Government
+- PRESS RELEASE Jake Johnson Outraises Rep.
+Brad Finstad — Again
+- PRESS RELEASE Jake Johnson: Our Soybean Farmers Deserve Better
+- PRESS RELEASE Jake Johnson Raises Over $240K in Q3, Surpasses Half a Million Raised Total
+- PRESS RELEASE Local Veteran and Small Business Leader Beth Benike Endorses Jake Johnson
+- PRESS RELEASE Defeat Extremists Endorses Jake Johnson
+- PRESS RELEASE Jake Johnson Says Rural Families Deserve Reliable Care, Not Finstad’s Clinic Closures
+- PRESS RELEASE Jake Johnson: Finstad's Medicaid Cuts are Unpopular.
+Here's Why.
+- PRESS RELEASE DFL Rallies Behind Jake Johnson with Provisional Endorsement in MN-01
+- PRESS RELEASE Agweek: Jake Johnson calls out farm struggles including tariffs and lack of representation in rural Minnesota
+- PRESS RELEASE Dan Feehan Endorses Jake Johnson
+- PRESS RELEASE Public School Teacher Outraises Congressman Brad Finstad
+- PRESS RELEASE Jake Johnson Raises $260k by End of First Quarter
+- PRESS RELEASE Local Leaders Endorse Jake Johnson
+- PRESS RELEASE Rochester And Byron Teachers Union Leaders Endorse Jake Johnson
+- PRESS RELEASE Local Teacher's Grassroots Campaign for Congress Raises Over $100K on First Day
+- PRESS RELEASE Jake Johnson Announces Grassroots Campaign for Congress to Fight for Working People and Represent Southern Minnesotans
+- PRESS RELEASE Jake Johnson Releases Plan Calling for Data Center Moratorium
+- PRESS RELEASE Jake Johnson and Simon Glaser host roundtable in Kasson on rural, agriculture, and healthcare issues
+- PRESS RELEASE Jake Johnson Holds Town Hall in Wabasha County
+- PRESS RELEASE Jake Johnson Joins Protest Against Data Center in Pine Island
+- PRESS RELEASE Jake Johnson Holds Town Hall in Steele County
+- PRESS RELEASE Jake Johnson to Debate Congressman Brad Finstad Live on KAAL ABC 6 News
+- PRESS RELEASE Jake Johnson Holds Town Hall in Houston County
+- PRESS RELEASE Jake Johnson Holds Town Hall in Martin County
+- PRESS RELEASE Jake Johnson Completes 21-County Town Hall Tour, Holding One in Every County in Southern Minnesota
+- PRESS RELEASE Brad Finstad held another phony telephone "town hall" tonight.
+Jake just finished 21 real ones.
+- PRESS RELEASE Jake Johnson Holds Community Roundtables in Faribault
+- PRESS RELEASE United Steelworkers District 11 endorses Jake Johnson
+- PRESS RELEASE International Association of Machinists & Aerospace Workers MN State Council Endorses Jake Johnson
+- PRESS RELEASE Jake Johnson Launches First TV Ad, "Minivan"
+- PRESS RELEASE Jake Johnson Launches Second TV Ad, "Farmland"
+- PRESS RELEASE Campaign arm of Blue Dog Coalition endorses Jake Johnson in MN-01
+- PRESS RELEASE Jake Johnson Attends Small Business Focused Candidate Forum in Red Wing, Meets with Beth Benike
+- PRESS RELEASE New Poll Shows Jake Johnson Leading Brad Finstad in MN-01
+- PRESS RELEASE Jake Johnson Launches Third TV Ad, "Math Lesson"
+- PRESS RELEASE Jake Johnson featured in Axios on the "growing frustration with both political parties"
+- PRESS RELEASE Jake Johnson Launches Fourth TV Ad, "Anchor"
+- PRESS RELEASE United Auto Workers (UAW) MN State CAP Council Endorses Jake Johnson
+PRESS RELEASE
+Brad Finstad Votes to Raise Health Insurance Costs
+This afternoon, the House of Representatives voted 230-196 to extend the expanded subsidies under the Affordable Care Act (ACA) for another three years, with 17 Republicans joining all Democrats in supporting the bill.
+Congressman Brad Finstad voted no.
+“Congressman Finstad just voted against lowering health insurance costs for over 10,000 people in southern Minnesota,” said Jake Johnson, candidate for Minnesota’s 1st Congressional District.
+“While I’m hearing about high costs on the campaign trail everywhere I go, Congressman Finstad is in Washington voting for MNSure premiums to be $240 per month higher on average.
+Many families will now have to pay twice as much for health insurance this year compared to what they paid last year.”
+Jake believes southern Minnesotans deserve a representative who fights for them and lowers their healthcare costs.
+If elected to Congress, Jake will never stop doing that.
+On the other hand, Finstad has a track record of voting to make healthcare less affordable and less accessible.
+This summer, he voted for the “Big Beautiful Bill” which took nearly $100 billion out of rural healthcare across the country, which was shortly followed by the Mayo Clinic closing four rural clinics in Minnesota’s first congressional district.
+Finstad has also supported legislation that would allow insurance companies to provide stripped-down plans that do not meet the ACA essential benefits requirements, taking care away from those with pre-existing conditions and chronic conditions.
+###

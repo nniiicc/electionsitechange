@@ -1,0 +1,42 @@
+Federal
+Dave McCormick, United States Senator
+Ryan Mackenzie, United States Representative, PA-07
+State
+Kim Ward, Senate President Pro Tempore, 39th District
+Joe Pittman, Senate Majority Leader, 41st District
+Scott Martin, State Senator, 13th District
+Greg Rothman, State Senator, 34th District
+Donna Scheuren, State Representative, 147th District
+Milou Mackenzie, State Representative, 131st District
+Local
+Christian Leinbach, Berks County Commissioner
+Michael Rivera, Berks County Commissioner
+Tom DiBello, Montgomery County Commissioner
+Mandy Miller, Berks County Sheriff
+Jonathan Del Collo, Berks County Prothonotary
+John Membrino, Hereford Township Supervisor
+David Schott, Bally Borough Mayor
+Lori Carnes, Boyertown Borough Mayor
+Christine Neiman, Boyertown Area School Board Member
+Jim Brophy, Boyertown Area School Board Member
+Joshua Stouch, Douglass Township Supervisor
+Brian Carpenter, Green Lane Borough Council
+Donald Hickman, Longswamp Township Supervisor
+Dave Scheuren, Lower Salford Township Supervisor
+Keith Bergman, Lower Salford Township Supervisor
+Marie Livelsberger, New Hanover Township Supervisor
+Kurt Zebrowski, New Hanover Township Supervisor
+William Hurst, Marlborough Township Supervisor
+Ericka Thomas-Ernst, Rockland Township Supervisor
+Keith Goodwin, Pennsburg Borough Council
+Patrick Suter, Pennsburg Borough Council
+Barbara McGinnis, Skippack Township Supervisor
+Bob Rau, Skippack Township Supervisor
+Guy Miller, Topton Borough Mayor
+Kristin Warner, Towamencin Township Supervisor
+Steve Rothenberger, Upper Hanover Township Supervisor
+Cathy Paretti, Upper Pottsgrove Township Commissioner
+Dave Waldt, Upper Pottsgrove Township Commissioner
+Richard Sacks, Upper Salford Township Supervisor
+Theodore Poatsy, Upper Salford Township Supervisor
+Kevin O’Donnell, Upper Salford Township Supervisor

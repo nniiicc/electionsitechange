@@ -1,0 +1,13 @@
+Governor Kotek: “I have been standing alongside Oregonians and fellow advocates for years to protect people and our state when cuts threaten health and safety”
+PORTLAND, OR – Last weekend, Governor Tina Kotek gathered SNAP recipients, workers, farmers, food security advocates and community leaders to discuss the impacts of Trump’s HR1, new eligibility requirements, and how Oregon will continue to support food access across the state.
+“Governor Kotek understands that these programs aren’t handouts – they are lifelines,” said Federico Araujo, communications director for Tina for Oregon.
+“From her work with Oregon Food Bank to her hunger emergency declaration during Trump’s federal shutdown, Governor Kotek has consistently fought to ensure Oregonians have the access to the assistance they need.”
+Last year, when President Trump’s federal shutdown threatened to cut SNAP benefits, Governor Kotek declared a hunger emergency and moved emergency money to food banks.
+When the courts ordered the Trump administration to restore SNAP benefits, her team worked through the night to get benefits back into Oregonians’ accounts.
+###
+ABOUT GOVERNOR KOTEK
+Governor Tina Kotek has spent her career making history and fighting for others.
+Over the last three years, Governor Kotek has expanded access to affordable childcare, created thousands of new shelter beds, protected abortion access and vote-by-mail, and funded early literacy and summer learning programs.
+She has also been a national leader in pushing back against Donald Trump’s attacks on our communities, our healthcare, and our rights by blocking his illegal attempts to deploy the Oregon National Guard in our communities and working through the night to reverse his decision to strip food assistance from Oregonians by taking away SNAP benefits.
+Governor Kotek is running for reelection to continue defending Oregon values and tackling the state’s biggest challenges – lowering costs, reducing homelessness, strengthening schools, expanding mental health and addiction care, and bringing affordable childcare to every corner of the state.
+###

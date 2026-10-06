@@ -1,0 +1,16 @@
+top of page
+You scanned it.
+You’re in.
+Thanks for being curious.
+I’m Hillary, The congressional candidate for NEw Jersey's 6th district.
+These aren’t ads.
+They’re living comics
+about the fight we’re in.
+Glad you showed up.
+Start any video below.
+Explore Generational Change
+I explain serious issues in
+a new way
+with comics, humor,
+and common sense.
+bottom of page

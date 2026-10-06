@@ -1,0 +1,1 @@
+| With the Sept. 4 primary election behind us, I want to extend my deepest gratitude to my supporters - friends, family and the wonderful residents of Lexington and Woburn - for your support throughout the campaign and at the polls. | Archives Categories All Announcement Donate Endorse/Endorsement Event News Press Support |

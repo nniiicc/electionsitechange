@@ -1,0 +1,18 @@
+Amanda Hollowell for Congress Looks Forward to Runoff Election
+Hollowell Campaign Advances to Democratic Runoff in Georgia’s 1st Congressional District
+SAVANNAH, GA (May 19, 2026) — As of this evening, Amanda Hollowell advanced to the Democratic runoff in Georgia’s 1st Congressional District, a campaign driven by grassroots organizing, coalition building, and strong community support throughout Coastal and South Georgia.
+She will face off with Joyce Griggs, in the June 16th election.
+The Hollowell campaign built momentum by engaging voters directly and focusing on healthcare, voting rights, economic opportunity, and the daily challenges facing working families in the district.
+“This campaign has always been about people” said Hollowell.
+“The families working hard to make ends meet, the young people fighting for their future, the seniors who deserve dignity, and the communities too often overlooked by politics as usual.
+We are incredibly proud of what we built together in this first phase of the race, and we are ready to continue this movement into the runoff.”
+Hollowell expressed gratitude to her supporters, volunteers, staff, endorsers, and coalition partners for driving the campaign’s momentum into the next stage of the election.
+“I am deeply grateful to every person who knocked doors, made calls, donated, hosted conversations, and shared our vision for what leadership can look like in Georgia’s First District,” Hollowell added.
+“This runoff is an opportunity to continue connecting directly with voters and building the broad coalition needed to win in November.”
+Hollowell also recognized the other candidates and stressed the importance of unity as the campaign moves forward.
+“This district deserves leadership focused on bringing people together and delivering real results.
+Over the coming weeks, we will continue having conversations in every corner of the district about the future we can build together.”
+The campaign moves into the runoff with support from a broad coalition of community leaders, organizers, and elected officials, including endorsements from The Collective PAC, Higher Heights for America PAC, Working Families Party, Black Voters Matter Action PAC, The PAC for Georgia’s Youth, and Political Revolution as well as Savannah Mayor Van R.
+Johnson, II; State Senator Derek Mallow; State Representatives Anne Allen Westbrook, Edna Jackson, and Ruwa Romman; and former Savannah Mayor Hon.
+Otis S.
+Johnson.

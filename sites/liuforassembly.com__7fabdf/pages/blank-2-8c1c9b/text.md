@@ -1,0 +1,7 @@
+Temas
+Mike “Yes-Man” Fong
+El mandato de Mike Fong en la Asamblea del Estado de California desde 2022 se ha caracterizado por un historial de votaciones sorprendentemente uniforme: nunca ha emitido un solo voto en contra en ninguna ley de fondo, sino que ha votado a favor más de 9.300 veces en miles de ocasiones.
+Esto pone de manifiesto una actitud resignada ante el ejercicio del poder, en la que los proyectos de ley pasan por su aprobación sin un escrutinio ni una oposición aparentes, incluso cuando estos configuran políticas fundamentales que afectan a los residentes del Distrito 49.
+Esta afirmación generalizada pone de manifiesto una falta crítica de compromiso activo y a un representante apático, totalmente alejado de las dificultades cotidianas de sus electores, que antepone la política partidista a la defensa enérgica de sus intereses.
+En nuestro distrito, que se enfrenta a problemas como la falta de vivienda, los altos impuestos y las preocupaciones por la seguridad pública, esa resignación a votar a favor de todo, independientemente de las implicaciones, ha dado lugar a una gestión ineficaz que no aborda los problemas de raíz de manera efectiva.
+Ustedes se merecen un liderazgo que sopese cuidadosamente las decisiones en lugar de limitarse a aprobarlas por defecto, garantizando que las políticas sirvan verdaderamente al bienestar de la comunidad en lugar de perpetuar ineficiencias sistémicas.

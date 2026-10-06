@@ -1,0 +1,36 @@
+NEWS: N.C.
+General Assembly Passes 2026 State Budget, Lazzara Secures Funding for Local Projects
+RALEIGH, N.C. — On Thursday, the North Carolina General Assembly ratified the 2026 State Budget (SB 257), which passed 35-10 in the Senate and 88-21 in the House on third reading.
+This spending plan features major investments statewide, including:
+· Personal Income Tax rate reductions, guaranteeing a rate of 2.99% by 2033, with additional quarter-percent rate reductions based on revenue triggers, to reach a 2.49% rate.
+· Average 8% raise for teachers and bonuses based on years of service.
+· 3% raise for all state employees and a bonus based on their salary.
+· 13% raise for other law enforcement officers across state government — including State Capitol Police.
+· Average 17.7% raise for State Highway Patrol officers and up to 11.5% for State Highway Patrol civilian personnel.
+· Average 15.4% raise for correctional officers, with step increases.
+· $1,750 one-time bonus for local law enforcement officers across the state.
+· Funds new Driver License Examiner positions to provide enhanced service at the DMV.
+· $700 million for Hurricane Helene relief.
+· Provides funds for the DHHS to partner with our state’s Government Data Analytics Center to enhance technology for Medicaid fraud, waste, and abuse prevention and to support recovery efforts.
+· Increases funding for Farmland Preservation by $48.9 million, including a $2 million increase in recurring funds.
+“These line items aren't just numbers on a spreadsheet, they represent safer neighborhoods, better resources for our kids, improved infrastructure, and a more efficient local court system,” said Lazzara.
+“It is an honor to bring your hard-earned tax dollars back home to work for Onslow County.”
+State Senator Michael Lazzara (R – Onslow) announced several local initiatives that are set to receive funding in this latest round of state appropriations.
+Public Safety & Emergency Response:
+· $220,000 for Hubert Volunteer Fire Department equipment upgrades and replacements.
+· $245,000 for Town of Swansboro split to support both the Police and Fire Departments.
+· $105,000 to Jacksonville Fire Department for purchasing and/or upgrading water rescue equipment.
+· $100,000 to Piney Green Volunteer Fire Department for equipment upgrades and purchases.
+· $25,000 to Onslow Amateur Radio Club for a new emergency response trailer and specialized equipment.
+· $225,000 to the North Carolina for Military Employment a public-private partnership that assists veterans and transitioning service members find jobs in the state.
+Youth & Community Services:
+· $800,000 for Boys & Girls Clubs of Southeastern NC to establish a new teenage learning center in Onslow County, plus an additional $500,000 for a building purchase dedicated to community service activities.
+· $100,000 to Sneads Ferry Community Council for vital electrical system upgrades at the community building and event grounds.
+· $250,000 to One Place in Jacksonville to advance its mission of preventing child abuse and providing critical support to children and families.
+Infrastructure & Education:
+· $200,000 for the Town of Richlands to tackle critical local stormwater and drainage needs.
+· $100,000 to East Carolina University for a specialized scholarship program assisting Eastern NC students, with priority given to Onslow County students pursuing degrees in Finance and Artificial Intelligence.
+Strengthening Our Legal & Court Systems:
+· 12 new Deputy Clerk positions allocated specifically to Onslow County to improve courthouse efficiency.
+Funding to create District Court 5B solely for Onslow County, which includes funding for a Chief District Court Judge position (effective January 1, 2027).
+###

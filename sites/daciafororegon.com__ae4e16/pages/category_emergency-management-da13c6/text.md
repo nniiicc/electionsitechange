@@ -1,0 +1,3 @@
+As Oregon cleans up from deadly storm, the state is still ‘awakening’ to extreme weather and natural disasters
+There are a lot of uncertainties when it comes to catastrophic weather events or natural disasters.
+But there are also a few certitudes: More are coming, and Oregon is not ready…

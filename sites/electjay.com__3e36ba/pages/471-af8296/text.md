@@ -1,0 +1,18 @@
+Published July 12, 2016
+VICTORVILLE — When California added $2 billion to its so-called rainy day fund in this fiscal year’s budget, it got it right, according to Republican Assemblyman Jay Obernolte.
+But simultaneously, continued spending increases has the lawmaker uneasy about the shape of the state in the event of the next recession.
+“I’ll tell you my biggest complaint about our current budget is that we are increasing state spending by 6 percent this year compared to last year,” Obernolte said Tuesday during a Victorville Rotary Club meeting.
+Spending last year increased 7 percent over the year prior, he said in an address partially focused on the state’s spending plan signed late last month by Gov.
+Jerry Brown.
+To put the 6- and 7-percent boosts in perspective, he drew a parallel between that spending and the rate of inflation which hovers around 2 percent, saying spending is tantamount to the size of state government growing at three times the rate of inflation.
+“It doesn’t take anymore than basic arithmetic to prove that is an unsustainable rate of increase,” he said.
+Obernolte, R-Hesperia, would rather state lawmakers adopt the position of cutting down spending during relatively plump economic times in order to have more stimulus money when the next inevitable recession strikes.
+He also isn’t a fan of what he called a “disproportionate” reliance on income tax for state revenue or a “destructive” commitment to new programs that require on-going spending versus one-time investments with financing needs that won’t carry over to the next year.
+In March, Obernolte was named vice-chairman of the Assembly Budget Committee, a role that should give him a larger podium to voice such concerns, revealing Tuesday it could be the biggest in his tenure in Sacramento.
+“I’m more convinced now than ever that as a member of a minority party,” he said, “my best chance at having an impact on the future of the state is as vice chair of the budget committee.”
+Although he found other positives in this year’s budget, like the substantial investment in all levels of education, he reiterated that the readiness for an unpredictably arriving recession isn’t there.
+Brown, in a statement last month, insisted that “this solid budget makes responsible investments in California and sets aside billions of dollars to prepare for the next recession.” The state’s reserve fund has nearly hit $7 billion or 54 percent of its goal, he said.
+Yet Obernolte, citing state Department of Finance projections, dismissed that fund balance as “woefully inadequate” in the event of even a “mild recession,” where he said an expected $8 billion rainy day fund by 2019-20 would be no match against an estimated $43 billion deficit.
+He said he fears two outcomes during the next recession on the current path: “Crippling” cuts in state services or “crippling” taxes.
+“I have to be honest with you: A lot of times it feels like the few of us that are saying this, we’re the adults in the room in the candy store,” he said, “and we’re telling our own kids, ‘Don’t eat that, you’re going to get a stomach ache,’ and no one listens.
+It can be very frustrating.”

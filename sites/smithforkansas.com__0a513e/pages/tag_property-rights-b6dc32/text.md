@@ -1,0 +1,1 @@
+News Story Proposed Transmission Line Public MeetingProposed Transmission Line Public Meeting September 29, 2026 11:22 AM The Kansas Corporation Commission (KCC) has is holding an important public hearing on September 29th in Colby to provide Sunflower[...] Read MoreRead More

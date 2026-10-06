@@ -1,0 +1,81 @@
+In The News
+Catch up on the latest content from Aaron Flint.
+October 2, 2026
+Flathead County Sheriff Heino, Lt.
+Col Aaron Flint join locals to support law enforcement, expose Portland lobbyist Sam Forstag’s pro-Illegal Alien, anti-Law Enforcement Record
+WHITEFISH, MT – Flathead County Sheriff Brian Heino and retired Army Lt.
+Colonel Aaron Flint joined dozens of local residents in Whitefish...
+Read More
+October 1, 2026
+SALES TAX SAM FORSTAG
+Flint Outlines Tax Relief Plan, Exposes Forstag’s Record of Lobbying for a Sales Tax and Higher Property Taxes Missoula, MT – At...
+Read More
+September 24, 2026
+Flint Releases New Ad Featuring Montana Senior Concerned About Forstag’s Social Security Tax Hike
+Watch the ad here KALISPELL, MT — Today, Aaron Flint’s campaign released a new ad featuring Tammy Hall, a senior living on a...
+Read More
+September 23, 2026
+Where is the lie, Sam?
+Kalispell, MT – Today, lobbyist and former part-time smokejumper Sam Forstag launched a new ad campaign called “Pure Lies,” where his campaign repeats tired...
+Read More
+September 21, 2026
+FOLLOW THE MONEY: Public Records Reveal Phony Firefighter and Champagne Socialist Sam Forstag Billed Over a Quarter Million Dollars Lobbying
+Kalispell, MT – A new website launched today exposes Sam Forstag's long and lucrative career as a radical left-wing lobbyist from Portland.
+Phony Forstag and his cringe consultants...
+Read More
+September 16, 2026
+NEW FLINT AD: Forstag Lobbied to put Men in Girls’ Sports and Bathrooms “That’s Not Right, Safe, or Fair”
+Montana mother and daughter athletes call out Sam Forstag’s lobbying record opposing bills protecting women's sports Watch the ad here Kalispell, MT. –...
+Read More
+September 9, 2026
+Mom has entered the chat: New Flint Ad Highlights Working Class Roots and Affordability
+Flint’s mother Karen shares how he went to work at a young age to help their family Kalispell, MT — Today, Republican congressional...
+Read More
+August 31, 2026
+Aaron Flint Launches First Ad of the General Election
+Promotes trade education, union endorsement, hard work Kalispell, MT — Republican congressional candidate Aaron Flint released his first campaign advertisement of the general...
+Read More
+August 13, 2026
+Republican Aaron Flint Earns Key Trade Union Support for Congress
+Flint is campaigning on a platform of expanded trades education and opportunity along with making Montana affordable again Butte, Montana – Today, Montana’s...
+Read More
+June 30, 2026
+Forstag lobbied against level playing field and opportunity for Montana’s female athletes
+Kalispell, Mont. — Today, following the landmark U.S.
+Supreme Court decision upholding state laws that protect girls' and women's sports, Republican nominee for...
+Read More
+April 22, 2026
+Aaron Flint Wins MT GOP Primary Debate for Western District
+Christi Jacobsen, afraid to defend her terrible record as Secretary of State, a no-show Al Olszewski was there Bozeman, MT – This...
+Read More
+March 17, 2026
+Republican U.S.
+House candidate Aaron Flint discusses run for Montana’s 1st district
+MISSOULA, Mont. — This election season, NBC Montana is looking beyond the podium and interviewing the candidates hoping to represent Montana in Washington,...
+Read More
+March 12, 2026
+Aaron Flint challenges opponents to 16 debates across Western Montana
+MONTANA — Aaron Flint, a candidate for Montana's first congressional district, has issued a challenge to his Republican primary opponents.
+Flint has...
+Read More
+March 3, 2026
+Trump endorses Aaron Flint in U.S.
+House race
+KALISPELL, Mont. — Combat veteran and local broadcaster Aaron Flint received an endorsement from President Donald Trump.
+Flint is running for U.S.
+House...
+Read More
+March 3, 2026
+PRESIDENT TRUMP ENDORSES AARON FLINT FOR MONTANA’S FIRST DISTRICT
+In first 24 hours Flint sweeps endorsements from Trump, Zinke, Sheehy, Gianforte, Downing, Knudsen, Brown, Ler, Galt, other Montana Leaders Raises more...
+Read More
+March 2, 2026
+Retired Lt.
+Colonel and Host of “Montana Talks” Aaron Flint Launches Campaign for Congress in MT-01
+Endorsed by Montana Leadership: Ryan Zinke, Greg Gianforte, Tim Sheehy, Troy Downing, Austin Knudsen WATCH: LAUNCH VIDEO (KALISPELL, MT) Today, retired Lieutenant...
+Read More
+March 2, 2026
+Conservative radio host Aaron Flint to run for Congress in Montana’s first district
+KALISPELL, Mont. - Aaron Flint announced he plans to run for Congress Ryan Zinke’s, open seat.
+Zinke announced his retirement early Monday...
+Read More

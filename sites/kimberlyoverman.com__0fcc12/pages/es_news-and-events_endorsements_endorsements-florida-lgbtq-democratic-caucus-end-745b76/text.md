@@ -1,0 +1,26 @@
+Kimberly Overman: «
+» para el Congreso
+Distrito 12 de Florida
+Recomendación
+Inicio » Noticias y eventos » Respaldos » Respaldos: El Grupo Demócrata LGBTQ+ de Florida respalda a Kimberly Overman para el 12.º distrito electoral de Florida
+Respaldado por el Grupo Demócrata LGBTQ+ de Florida
+Kimberly Overman ha obtenido el respaldo del Comité Demócrata LGBTQ+ de Florida , un reconocimiento que se otorga a los candidatos que defienden la igualdad y se comprometen a gobernar teniendo en cuenta la plena dignidad y los derechos de los floridanos LGBTQ+.
+Defender a todos y cada uno de los miembros de nuestra comunidad es un valor fundamental de la campaña de Kimberly.
+Ella cree en la construcción de una Florida en la que los residentes LGBTQ+ puedan vivir, trabajar y formar una familia sin sufrir discriminación, y donde sus derechos estén protegidos en lugar de ser tratados como moneda de cambio política.
+Eso significa escuchar a las familias, a los jóvenes y a los vecinos de todo el 12.º distrito congresional de Florida que luchan por la igualdad de protección ante la ley, y llevar sus voces a Washington.
+El respaldo del Caucus es una señal para los votantes, los voluntarios y los simpatizantes de que Kimberly está del lado de la comunidad LGBTQ+ en la lucha por la igualdad y la seguridad.
+Es una responsabilidad que se toma muy en serio y un compromiso que mantendrá una vez que asuma el cargo.
+###
+Contacto para los medios de comunicación:
+Overman para el Congreso – Distrito 12 de Florida
+813-720-7719
+4610 N Central Avenue
+Tampa, FL 33603
+Vote@kimberlyoverman.com
+Impulsa una campaña que se nutra de la gente, no de intereses particulares.
+Tu apoyo nos ayuda a conectar con los votantes, hacer crecer nuestro movimiento y lograr un cambio real.
+Haz tu donación hoy mismo para ayudar a Kimberly a luchar por las familias y el futuro de Florida.
+Este movimiento comienza
+contigo.
+Tanto si puedes ir de puerta en puerta, hacer llamadas o difundir nuestro mensaje por Internet, hay un lugar para ti en el Equipo Overman.
+Inscríbete y ayúdanos a devolver la integridad y los resultados al Congreso.

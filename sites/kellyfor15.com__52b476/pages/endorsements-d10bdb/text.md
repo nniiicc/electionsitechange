@@ -1,0 +1,33 @@
+MIKE KELLY'S
+ENDORSEMENTS
+A FIREFIGHTER FIGHTING FOR US
+- 39th Ward Dems
+- 41st Ward Dems
+- 50th Ward Dems
+- Alderman Deb Silverstein
+- Alderman Sam Nugent
+- Alderman Anthony Napolitano
+- Alderman Nick Sposato
+- Congressman Mike Quigley
+- Governor JB Prtizker
+- Lt.
+Gov.
+Juliana Stratton
+- LiUNA!
+- Chicago Federation of Labor
+- AFL-CIO
+- AFSCME
+- Associated Builders & Contractors
+- Gun Violence Prevention PAC
+- Planned Parenthood
+- Personal PAC
+- Regional Council of Carpenters
+- Chicago Firefighters Union Local 2
+- Associated Firefighters of IL
+- Equality IL
+- International Association of Iron Workers
+- Local 130
+- Local 150
+- SEIU Local 1
+- Illinois Federation of Teachers
+- Local 399

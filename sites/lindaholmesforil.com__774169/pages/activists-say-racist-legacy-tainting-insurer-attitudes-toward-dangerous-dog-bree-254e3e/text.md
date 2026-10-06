@@ -1,0 +1,3 @@
+Insurance carriers’ rules about dog breeds have pulled the industry into a new twist in the national debate over racial equity.
+Animal rights advocates say the assumption that particular dog breeds are inherently more dangerous is often driven by racial or class animus that associates certain kinds of dogs with certain kinds of people.
+They have dragged insurers into a political dog fight that forces them to defend exclusionary policies in statehouses across the United States…

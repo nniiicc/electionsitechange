@@ -1,0 +1,19 @@
+Matching Funds Program
+Much of my work has been about promoting grassroots participation in democracy, so it’s important to me to build a strong grassroots campaign powered by small-dollar donations.
+I am proud to take part in New York State’s matching funds program, which is designed to strengthen local participation in elections by amplifying support from in-district donors.
+If you live in Port Washington, Manhasset, Great Neck, Herricks, North New Hyde Park, Roslyn Estates, Roslyn Heights, Williston Park, or anywhere in between, your contribution will be matched up to twelve times by New York:
+$5 becomes $65
+$10 becomes $130
+$25 becomes $325
+$50 becomes $650
+$100 becomes $1150
+$250 becomes $2,550
+This year, you can contribute up to $1,050, and the first $250 will be eligible for matching.
+None of this is possible without you, and I’m honored to have your support in this race.
+Thank you,
+PS.
+If you prefer to mail a check, please send to:
+Kim Keiserman for Assembly
+c/o Allison Romer
+PO Box 4771
+Sunnyside, NY 11104

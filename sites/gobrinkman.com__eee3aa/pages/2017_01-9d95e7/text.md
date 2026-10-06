@@ -1,0 +1,1 @@
+Brinkman Gets Sworn-in for Another Term as State Representative Posted on January 5, 2017 by admin Speaker Cliff Rosenberger administers the oath of office to State Representative Tom Brinkman with his wife, Cathy, holding the Bible.

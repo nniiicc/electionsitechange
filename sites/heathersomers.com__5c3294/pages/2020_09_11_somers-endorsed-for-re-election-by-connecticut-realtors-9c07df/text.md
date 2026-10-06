@@ -1,0 +1,7 @@
+GROTON — State Senator Heather Somers of Groton received the endorsement of the Connecticut REALTORS on Friday for the November election.
+“In the state senate, I fight tirelessly to reduce the punitive nature of Connecticut’s high property taxes, attract and retain good paying jobs, strengthen our schools and communities and create the conditions for all eastern Connecticut families and small businesses to grow and succeed,” Somers said.
+“I am honored to have the support of the Connecticut REALTORS, and will continue to deliver results for our communities if given the honor of representing the 18th district for another term.”
+In a letter informing Somers of the REALTORS’ endorsement, Joanne Breen, president, and James Heckman, general counsel, wrote “On behalf of Connecticut REALTORS®, which represents 17,000 members involved in all aspects of real estate in Connecticut, we are pleased to relay our Association has voted to endorse your candidacy for Connecticut’s State Senate District 18.”
+“The Association carefully evaluates candidates in determining who may best ensure there is a positive environment for living in or transferring property in Connecticut,” the letter continues.
+“Real estate is essential to economic recovery and stability in the state and helps to build communities.”
+###

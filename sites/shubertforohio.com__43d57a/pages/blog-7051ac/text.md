@@ -1,0 +1,52 @@
+top of page
+Shubert for Ohio Newsletter - Latest Campaign Updates
+Who is Craig Shubert?
+Candidate for Ohio State Representative, District 34
+Craig Shubert is running for the Ohio House of Representative in District 34 with a focus on creating jobs and bigger paychecks, reducing income and property taxes, advocating for world-class education, and driving critically-needed infrastructure projects.
+Shubert for OhioMay 162 min read
+9/11: Flight 93 – A Personal Story
+On September 11, 2001, what began as a beautiful morning in the Hamptons quickly became a day that changed America forever.
+From witnessing the second plane strike the World Trade Center to learning that United Airlines Flight 93 had crashed in Pennsylvania, this is a deeply personal account of that tragic morning—and of the connection to Linda Gronlund, the daughter of a close family friend who was among the passengers who perished aboard Flight 93.
+Shubert for OhioSep 112 min read
+Statement on Tuesday’s Law Enforcement Activity in Hudson and Stow
+Following Tuesday evening's attempted murder manhunt and high-speed pursuit through Hudson and Stow, we extend our heartfelt gratitude to the law enforcement officers, firefighters, and EMS personnel whose courage, professionalism, and swift response helped bring a dangerous situation to a close.
+We also continue to keep those injured and all those affected by these events in our thoughts.
+Shubert for OhioJul 81 min read
+Flag Day and Ohio's Place in the Story of the Stars and Stripes
+Discover the history of Flag Day, Ohio's place as the 17th star on the American flag, and the connections between the Stars and Stripes and the communities of Ohio's 34th District.
+Shubert for OhioJun 144 min read
+D-Day: 82 Years Later, Remembering Those Who Fought and Died to End Tyranny
+Eighty-two years after D-Day, we honor the courage and sacrifice of the Allied troops who stormed the beaches of Normandy and helped secure freedom for future generations.
+Shubert for OhioJun 62 min read
+Craig Shubert joins Sen.
+Jon Husted, Treasurer Robert Sprague, others for 93rd Annual Lincoln Day Event
+Former Hudson Mayor Craig Shubert joined U.S.
+Senator Jon Husted, Ohio Treasurer Robert Sprague, and other Republican leaders at the 93rd Lincoln Day Luncheon in Akron.
+Husted highlighted the impact of federal regulations on small businesses, while Shubert emphasized the need to reduce government burdens, strengthen job growth, and support policies that help Ohio families and businesses thrive.
+Shubert for OhioMay 271 min read
+Remembering Those Who Served and Gave Their Life for Freedom and Liberty
+Today, we pause to remember and honor the men and women of the United States Armed Forces who have served to protect and defend our country, as well as coming to the defense of millions across the globe to fight tyranny.
+Shubert for OhioMay 252 min read
+Mayor Craig Shubert goes to Washington to see the Ohio Congressional Delegation
+Former Hudson Mayor Craig Shubert visited Capitol Hill Tuesday, meeting with members of Ohio’s congressional delegation and their staffs.
+The GOP nominee for Ohio House District 34 met with U.S.
+Senators Jon Husted and Bernie Moreno, along with Representatives Max Miller and Michael Rulli, among others.
+Shubert for OhioMay 191 min read
+Craig Shubert wins GOP nomination for the Ohio House 34th District race
+Former Hudson Mayor Craig Shubert is the Republican nominee for Ohio’s 34th House District seat.
+Shubert for OhioMay 62 min read
+Tallmadge Schools seek 5.6-mill levy increase; Taxpayers say ‘No’; New funding plan needed
+Former Hudson Mayor Craig Shubert says Ohio schools will need a new funding model after Tallmadge voters rejected a 5.6-mill levy increase, arguing districts must become leaner as taxpayer resistance grows.
+Shubert for OhioApr 292 min read
+Craig Shubert & Carey Coleman Address The Hudson Republican Club Members
+Craig Shubert and Carey Coleman address the Hudson Republican Club, sharing their vision for Ohio’s future, economic growth, and key issues in the 34th District.
+Shubert for OhioApr 221 min read
+Craig Shubert Announces Run for the Ohio House of Representatives - 34th District
+Craig Shubert has officially announced his campaign for the Ohio House of Representatives in the 34th District, marking the next big step in a career defined by public service and leadership.
+Shubert for OhioApr 92 min read
+ORP Chair Encourages Craig Shubert, Candidates, and Republican Voters to ‘Rise and Rally’ in 2026
+Ohio Republican Party Chairman Alex Triantafilou recently joined Craig Shubert and fellow Republican candidates from across Ohio to deliver a clear message ahead of the 2026 election cycle: it is time for conservatives across the Buckeye State to “Rise and Rally.”
+Shubert for OhioApr 82 min read
+Newsletter
+Be the first to know
+bottom of page

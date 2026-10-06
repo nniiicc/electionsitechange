@@ -1,0 +1,16 @@
+These community leaders are proud to support Michael Finch
+- Ben McAdams
+- Liz Weight Former State House Representative
+- Jeanetta Williams Community Leader
+- AFL-CIO Description goes here
+- Stewardship Utah
+- IBEW #354
+- Teamsters #222
+- UA #140
+- IBEW #57
+- UPEA Utah Public Employees Association
+- Better Boundaries Better Boundaries Accountability PAC
+- Carol Spackman Moss State House of Representatives
+- OE3 Operating Engineers
+- UEA PAC The teachers and educators of the Utah and Granite Education Association
+- Equality Utah PAC Description goes here

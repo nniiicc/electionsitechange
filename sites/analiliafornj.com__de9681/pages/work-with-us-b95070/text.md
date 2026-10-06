@@ -1,0 +1,38 @@
+Be The Change You Believe In
+Analilia Mejia for Congress: Finance Director
+Location: Montclair, NJ
+Employment Type: Full-time, Hybrid, Campaign
+Department: Finance
+Description
+Analilia Mejia seeks a Finance Director to lead fundraising for her re-election campaign.
+This is a senior, full-time role based in Montclair, NJ, working as a strategy partner and detail-oriented executor alongside Analilia, the campaign manager, and consultants to set, track, and hit ambitious fundraising goals.
+Core Duties
+- Develop and maintain a campaign budget and fundraising plan with measurable goals
+- Track and report progress toward goals and adapt strategy as needed
+- Develop and steward a network of individual and institutional donors, including Analilia's existing finance network, to fundraise on behalf of the campaign
+- Identify and cultivate new donor prospects
+- Staff and direct call time for Analilia, coordinated around her congressional voting schedule, committee obligations, and travel
+- Plan virtual and in-person fundraising events in DC, the district, and across the country
+- Coordinate with any affiliated leadership PAC or joint fundraising committee, where applicable
+- Ensure accurate donor records, bookkeeping, and financial reporting, with a strong focus on FEC compliance for incumbent officeholders
+- Manage thank-you letter and donor follow-up programs
+- Build and manage a team of finance staff, vendors, and consultants to support all of the above
+Required Qualifications
+- Performed in a mid- to senior-level finance role during at least 2 campaigns and been part of political campaigns for at least 3 cycles, or bring equivalent experience from high-stakes roles in politics, advocacy, or organizing
+- Strong working knowledge of NGP VAN, ActBlue, and other digital finance and project management tools
+- Agility and discipline in strategic planning
+- Strong copywriting and professional correspondence skills
+- Sound data management and analysis skills
+- An eye for detail and a passion for efficient workflows
+- Professional integrity, discretion, manners, and grace — fundraising is all about trust, reputation, and relationships
+- Comfort working within the compliance and scheduling constraints of a sitting Member of Congress
+Desired Qualifications
+- Prior experience fundraising for an incumbent Member of Congress or similarly high-profile officeholder
+- Familiarity with NJ and national finance networks, PAC fundraising, and leadership PAC compliance
+- Comfort with occasional lightweight graphic design for smaller projects (invitations, event promotion); major projects are handled by paid communications staff
+Term
+Full-time through the primary election, with the opportunity to continue through the general election if the campaign advances.
+To Apply
+Please send a resume and three references to jobs@newdealstrategies.com with the subject line "Finance Director- Analilia Mejia." Applications will be reviewed on a rolling basis starting immediately; apply as soon as possible for priority consideration.
+Analilia Mejia for Congress is an equal opportunity employer and is committed to representing the values and diversity of the district.
+We invite people with a wide range of experiences to apply and bring their perspectives to our campaign.

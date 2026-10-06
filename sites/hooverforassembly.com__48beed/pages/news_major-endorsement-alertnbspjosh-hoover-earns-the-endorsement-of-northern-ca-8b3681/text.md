@@ -1,0 +1,9 @@
+MAJOR ENDORSEMENT ALERT: Josh Hoover Earns the Endorsement of Northern California’s Largest Public Safety Organization
+Folsom, Calif. -- Today, Josh Hoover announced receiving the endorsement of the Sacramento County Deputy Sheriffs' Association (SCDSA) in his campaign for the newly drawn 7th Assembly District.
+The SCDSA is the largest law enforcement organization in Sacramento County with more than 1,500 members representing the proud men and women who protect the County of Sacramento.
+“I’m honored to have the support of the men and women who work to keep us safe,” said Josh Hoover.
+“The State Legislature has taken a dramatic shift in the last few years that has made the job of protecting the public more dangerous by embracing policies that allow violent criminals back onto our streets.
+As a school board member, I fought back against efforts to defund the police and remove officers from our campuses.
+I plan to continue that record in the State Legislature.”
+The newly drawn 7th Assembly District includes the communities of Carmichael, Citrus Heights, Fair Oaks, Folsom, Foothill Farms, Gold River, North Highlands, Orangevale, Rancho Cordova, and Rosemont.
+For more information please visit www.HooverforAssembly.com.

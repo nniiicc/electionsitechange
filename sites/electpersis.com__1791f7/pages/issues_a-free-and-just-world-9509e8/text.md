@@ -1,0 +1,51 @@
+Persis is fighting for
+A Free and Just World
+A real democracy welcomes every voice and expands freedom for all.
+Fighting Authoritarianism
+Authoritarianism thrives when power goes unchecked and voices are silenced.
+We see this across the Trump Administration and his corruption of the entire federal government.
+We see this as President Trump tries to silence critics, from deporting activists to calling for comedians to be taken off the air.
+But we can fight back by defending democratic norms, confronting extremism, and ensuring our state government is working for the people, not for special interests.
+As senator, Persis will:
+- Safeguard democratic institutions by protecting election workers, independent courts and judges, and ensuring a peaceful transition of power
+- Counter hate speech and disinformation by supporting community-based prevention and promoting media literacy and fact checking
+- Ensure the Attorney General has the staff and resources to defend Massachusetts against retaliation and corruption
+Building a Better Democracy at Home
+Our democracy is stronger when voters are informed and engaged, and our elected leaders are supported by a true majority.
+The Massachusetts legislature is ranked the least effective and least transparent in the country.
+In order to effectively fight authoritarianism, we need to shore up our democracy at home.
+As senator, Persis will:
+- Bring ranked choice voting to communities across Massachusetts to end the problem of vote splitting, and ensure that our elected officials truly reflect the vibrancy and diversity of our community and our elections better represent the true wishes of the citizens
+- Fight for transparency and stipend reform in the legislature so that we can hold our elected officials accountable for their votes
+- Protect the right of all people in the Commonwealth to vote by fighting for same-day voter registration, multi-lingual ballots, and aggressive enforcement against voting rights violations
+Ensuring Choice and Bodily Autonomy
+Freedom means having the choice to make decisions for your body and your future.
+That requires more than access to a single procedure.
+People deserve comprehensive, stigma-free care throughout their lifetime, from early and honest health education, to mental health support, to culturally competent public services that meet people where they are.
+As senator, Persis will:
+- Protect abortion access on all fronts, by stabilizing support for clinics and expanding clinic capacity, safeguarding medication abortion access, and ensuring healthcare coverage without stigma
+- Protect personal health and safety by banning the sale or disclosure of personal health care data and shielding everyone involved in abortion care or gender-affirming care, from patient to provider
+- Ensuring comprehensive healthcare coverage, including contraception, maternal health, and community-based touchpoints that respect the complexities of gender, culture, and family planning
+Racial and Economic Justice
+Access to a job, education, and a safe and healthy environment should never be determined by a person’s skin color or zip code.
+But staggering wealth disparities and systemic racism are driving unequal outcomes for Black and brown families across the greater Boston area.
+Across the board, Massachusetts must address systemic inequities in order to build a truly fair and inclusive economy.
+As senator, Persis will:
+- Protect efforts to advance racial equity from the Trump Administration’s attack on DEI
+- Improve access to health care in communities of color and tackle disparities in health outcomes—particularly maternal and mental health
+- Strengthen protections to ensure that law enforcement who violate civil rights are held accountable
+LGBTQ+ Rights
+Everyone deserves to live openly and freely.
+And yet, the rights, safety, and dignity of queer and trans kids are under threat.
+As senator, Persis will:
+- Establish clear protections in housing, employment, healthcare, education, and public accommodations—and real enforcement when rights are violated
+- Enact strong anti-bullying enforcement; inclusive curricula; name/pronoun respect; access to facilities that match students’ gender identity; staff training so every classroom is a safe classroom; confidential, trauma-informed protocols for student support; and prohibit policies that out students to unsupportive environments
+- Fight for streamlined ID changes for minors with parental/guardian support, protections for trans youth in foster care and shelters, and safe access to sports consistent with medical and civil-rights guidance
+Immigrant Justice
+Our communities and country were built by immigrants and we are all better because of their contributions.
+Unfortunately, aggressive attacks by the Trump Administration have threatened the lives and livelihoods of our neighbors.
+Massachusetts must be a champion for immigrant safety, dignity, and opportunity.
+As senator, Persis will:
+- Fight for the fundamental right to due process by ensuring language access and competent legal defense for immigrants targeted by the Trump Administration
+- Ensure strict firewalls between state services and federal agencies so no immigrant needs to fear for their safety when accessing public benefits
+- Aggressively pursue violations of wage-theft and worker exploitation, and protect whistleblowers who raise the alarm about employers violating the law

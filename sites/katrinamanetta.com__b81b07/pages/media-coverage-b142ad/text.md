@@ -1,0 +1,288 @@
+Skip to content
+English
+Shqip
+(
+Albanian
+)
+العربية
+(
+Arabic
+)
+বাংলা
+(
+Bengali
+)
+Bosanski
+(
+Bosnian
+)
+简体中文
+(
+Chinese (Simplified)
+)
+繁體中文
+(
+Chinese (Traditional)
+)
+Hrvatski
+(
+Croatian
+)
+Français
+(
+French
+)
+Deutsch
+(
+German
+)
+Ελληνικά
+(
+Greek
+)
+ગુજરાતી
+(
+Gujarati
+)
+हिन्दी
+(
+Hindi
+)
+Hmoob
+(
+Hmong
+)
+Italiano
+(
+Italian
+)
+日本語
+(
+Japanese
+)
+한국어
+(
+Korean
+)
+Македонски
+(
+Macedonian
+)
+Polski
+(
+Polish
+)
+Português (Brasil)
+(
+Portuguese (Brazil)
+)
+Português (Portugal)
+(
+Portuguese (Portugal)
+)
+ਪੰਜਾਬੀ
+(
+Punjabi
+)
+Română
+(
+Romanian
+)
+Русский
+(
+Russian
+)
+Српски
+(
+Serbian
+)
+Español
+(
+Spanish
+)
+Tagalog
+தமிழ்
+(
+Tamil
+)
+Українська
+(
+Ukrainian
+)
+اردو
+(
+Urdu
+)
+Tiếng Việt
+(
+Vietnamese
+)
+کوردی (سۆرانی)
+(
+Kurdish (Sorani)
+)
+Malti
+(
+Maltese
+)
+فارسی
+(
+Persian
+)
+Soomaali
+(
+Somali
+)
+Türkçe
+(
+Turkish
+)
+Čeština
+(
+Czech
+)
+دری
+(
+Dari
+)
+پښتو
+(
+Pashto
+)
+Slovenčina
+(
+Slovak
+)
+Kiswahili
+(
+Swahili
+)
+አማርኛ
+(
+Amharic
+)
+Ikinyarwanda
+(
+Kinyarwanda
+)
+Kurdî (Kurmancî)
+(
+Kurdish (Kurmanji)
+)
+मराठी
+(
+Marathi
+)
+سنڌي
+(
+Sindhi
+)
+తెలుగు
+(
+Telugu
+)
+ትግርኛ
+(
+Tigrinya
+)
+Home
+About
+Issues
+Endorsements
+Vote
+Updates
+News
+Media Coverage
+Subscribe
+Get Involved
+Events
+Volunteer
+Subscribe
+Contact
+Store
+Home
+About
+Issues
+Endorsements
+Vote
+Updates
+News
+Media Coverage
+Subscribe
+Get Involved
+Events
+Volunteer
+Subscribe
+Contact
+Store
+Donate
+Home
+About
+Issues
+Endorsements
+Vote
+Updates
+News
+Media Coverage
+Subscribe
+Get Involved
+Events
+Volunteer
+Subscribe
+Contact
+Store
+Donate
+Media Coverage
+LWD Candidates: General Election Voting Guide 2026
+September 29, 2026
+View
+Michigan House candidate Katrina Manetta talks about healthcare access and affordability
+September 4, 2026
+View
+General Election Overview: 58th House District
+September 9, 2026
+View
+Campaign 2026 announcements and endorsements for the week of Aug. 24, 2026
+August 28, 2026
+View
+Campaign 2026 announcements and endorsements for the week of Aug. 17, 2026
+August 21, 2026
+View
+Target Race Launch: DLCC Announces Next Slate of Targets in Michigan
+August 19, 2026
+View
+Macomb County Aug. 4, 2026 election results
+August 5, 2026
+View
+Michigan Primary Live Results
+August 4, 2026
+View
+Candidate Profile: Katrina Manetta
+August 4, 2026
+View
+Michigan Primary Election Results
+August 4, 2026
+View
+No more posts to show.
+Stay Up-to-Date
+Subscribe to Our Newsletter
+First Name
+Last Name
+ZIP Code
+Email
+Cell Phone Number
+By providing your information, you agree to receive communications from the Committee to Elect Katrina Manetta by email and text message, including campaign updates, fundraising messages, event invitations and reminders, election notifications, endorsement announcements, and other campaign-related information.
+Message and data rates may apply.
+Message frequency may vary.
+Reply STOP to opt out or HELP for help.
+Consent is not a condition of any purchase.
+Review our
+Privacy Policy
+,
+Terms & Conditions
+, and
+Cookie Policy
+for more information.
+Acceptance
+Accept
+Subscribe

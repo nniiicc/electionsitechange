@@ -1,0 +1,10 @@
+HARTFORD, CT — Following the news that Ned Lamont’s Deputy Budget Director Kosta Diamantis has fled to Greece ahead of his sentencing on federal corruption charges, Republican and Independent Party nominee for governor Senator Ryan Fazio said the development underscores the serious failures of accountability and judgment within the Lamont administration.
+Diamantis, who served as the state’s top school construction official and later as a deputy budget director in the Lamont administration, was convicted on 21 federal counts, including bribery, extortion, conspiracy and lying to investigators.
+He was scheduled to be sentenced today, but his attorney informed prosecutors and the court that Diamantis had fled to Greece.
+“When Governor Lamont promoted Kosta Diamantis and put him in a position of enormous authority over taxpayer dollars, he was putting his trust in him to safeguard the public’s money,” said Senator Ryan Fazio.
+“That decision ended with Diamantis convicted on federal corruption charges, and now he has fled the country rather than face sentencing.
+The taxpayers deserve accountability for the judgment and failures that allowed this to happen.”
+Diamantis was promoted during Lamont’s first term to serve as a deputy at the Office of Policy and Management while continuing to oversee the state’s school construction program, which distributed hundreds of millions of dollars annually.
+“Last week, I stood at the Capitol and called for answers about the corruption scandals that have occurred under this administration.
+Today, one of Governor Lamont’s former top budget officials is a convicted felon who fled the country rather than face the consequences,” Fazio said.
+“In my administration, the buck will stop with me.”

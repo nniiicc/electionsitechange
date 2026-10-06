@@ -1,0 +1,35 @@
+May 27, 2020
+“All voters who are concerned with the right to life and with the protection of the most vulnerable members of the human family should vote to return [David Kustoff] to the U.S.
+House, so that you can continue to work to advance vital pro-life public policies.”
+July 27, 2018
+“Congressman David Kustoff has been a champion for the Trump Agenda – I greatly appreciate his support.
+David is strong on crime and borders, loves our Military, Vets and Second Amendment.
+Get out and vote for David on Thursday, August 2nd.
+He has my full and total Endorsement!” – President Trump
+July 11, 2018
+GERMANTOWN, Tennessee – The National Rifle Association announced their endorsement of Congressman David Kustoff in Tennessee’s 8th Congressional District.
+“On behalf of our six million members across the country, the National Rifle Association Political Victory Fund (NRA-PVF) is proud to endorse your candidacy for the U.S.
+House of Representatives in the August 2, 2018 Republican […]
+June 28, 2018
+NFIB, the nation’s leading small business group, is endorsing Rep.
+David Kustoff (TN-08) for re-election to the U.S.
+House of Representatives.
+NFIB cited Congressman Kustoff’s support of small business in its endorsement.
+June 5, 2018
+GERMANTOWN, Tennessee – Congressman David Kustoff (TN-08) has received the endorsement of a majority of state legislators from across West Tennessee.
+“These public servants work hard every day to improve the lives of West Tennesseans, and I’m honored to have their backing.” said Congressman Kustoff.
+“I will continue working alongside these great men and women […]
+May 14, 2018
+Congressman David Kustoff (TN-08) today announced his law and order coalition, featuring more than 40 prominent members of the West Tennessee law enforcement community.
+December 2, 2016
+GERMANTOWN, TN – Congressman-elect David Kustoff’s transition chairman, Chip Saltsman, today announced Kustoff’s first hires for his congressional office, which will open January 3rd, 2017 following his swearing-in.
+“The Congressman-elect has tasked me with putting together an elite team that will allow him to hit the ground running when he’s sworn in on January 3rd. […]
+November 9, 2016
+GERMANTOWN, TN – The Congressman-elect for Tennessee’s 8th Congressional District, David Kustoff, released the following statement regarding the victory of President-elect Donald J.
+Trump: “I want to congratulate President-elect Trump on an amazing victory last night.
+It is my hope we can work together towards shaping a country that is once again strong – both […]
+November 8, 2016
+GERMANTOWN, TN – Congressman-elect for Tennessee’s 8th Congressional District, David Kustoff, released the following statement after his victory tonight: “It is an honor to be the Congressman-elect for the Eighth District of Tennessee.
+Roberta and I are thankful for all of the support and help we have received over these last nine months,” Kustoff said. […]
+November 3, 2016
+Tour will stop in Alamo, Brownsville, Camden, Dyersburg, Germantown, Huntingdon, Jackson, Martin, Milan, Munford, Paris, Ripley, Somerville, Tiptonville, and Union City GERMANTOWN, TN – The 8th Congressional District Republican nominee, David Kustoff, announced today he will be once again traveling across all 15 counties for a Get Out The Vote Tour, beginning Friday, November 4th. […]

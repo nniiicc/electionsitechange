@@ -1,0 +1,15 @@
+- Manage the phone calls, emails for the legislative office while providing pertinent information when needed.
+- Maintain office calendar and assist with scheduling meetings and coordinating interoffice events and committee meetings.
+- Coordinate legislative material for preparing information packets.
+- Assist with planning legislative committee meetings, also include logistics, scheduling, and catering.
+- Manage correspondence and assist with mass notifications, social media, radio media, print media.
+- Serve as lead team keeper maintain time records for the legislative staff.
+- Assist in researching and tracking legislative issues.
+- Managing the preparation of meeting rooms including setting up conference phones, screens, projectors, and presentations.
+- Assist legislative and other staff with the project when needed.
+- Assist staff with IT equipment needs as assigned.
+- Assist Chief of Staff and other employees when needed.
+- Help Manage office supplies and common work areas.
+- Greet visitors and maintain security and COVID19 procedures for access to the office.
+- Public Affairs and Liaison related responsibilities
+- Graphic Art and Social Media

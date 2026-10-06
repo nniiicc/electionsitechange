@@ -1,0 +1,201 @@
+Endorsements
+Key Endorsements
+President Donald Trump
+"I'm proud to endorse Andy Biggs for Governor of Arizona.
+Andy is a good man and a steadfast Trump ally who cares deeply about the people of Arizona.
+He is a proven warrior when it comes to election integrity, deporting illegal immigrants, and ending the devisive DEI indoctrination in our schools, government, and military.
+It was an honor to work with him when I was a Senator, and I know he will continue to serve Arizona as Governor"
+- Vice President JD Vance
+"To secure President Trump’s legacy, we need to win in 2028.
+To do that, we need to lock down Arizona, and doing that starts with taking down Katie Hobbs and winning back the governor’s mansion.
+And nobody is better-equipped to do that than Rep.
+Andy Biggs."
+- Charlie Kirk
+"We need someone who is bold, who is convicted, who is not just going to talk about the Arizona values that all of you know of, but actually fight for them… I’m proud to be able to say that, as a family, we are supporting Andy Biggs for the next Governor of Arizona.”
+- Erika Kirk
+"Arizona is in desperate need of a strong, steady leader as our state tries to climb out of the hole Katie Hobbs has recklessly led us into.
+I know Andy Biggs is the right man for the task and I urge every Arizonan to join me in supporting him.
+When Andy served as Senate President during my time as Governor, we had our disagreements but I always knew he deeply believed in his principles and wanted the best for every Arizonan.
+We worked together to get our state’s economy booming after the Great Recession and Andy has the experience to do it again.
+Andy Biggs is a problem solver and a leader.
+He will make a great Governor of Arizona.”
+- Jan Brewer
+“2026 is an important election for our state and our nation.
+I’ve spent much of my time in public service fighting for freedom and free enterprise.
+Today, there’s a starker contrast than I’ve ever seen in the public square between common sense and people running under the banner of Socialism and many other bad ideas.
+I encourage everyone who has supported me over the years and cares about the future of Arizona to vote for our Republican ticket up and down the entire ballot, starting with Andy Biggs for Governor and Warren Petersen for Attorney General.
+Make sure to vote your whole ballot — the control of Congress and our Legislature is vital, and we need to win those races, too.
+In the words of Ronald Reagan: ‘Freedom is a fragile thing and it’s never more than one generation away from extinction.’ Vote.”
+- Doug Ducey
+National Endorsements
+Senator
+Mike Lee
+Congressman
+Eli Crane
+Congressman
+Abe Hamadeh
+Congressman
+Paul Gosar
+Congresswoman
+Anna Paulina Luna
+Congressman
+Burgess Owens
+Congressman
+Byron Donalds
+Congressman
+Chip Roy
+Congressman
+Jim Jordan
+Congresswoman
+Lauren Boebert
+Congressman
+Tom Emmer
+Former Congressman
+John Shadegg
+Former Congressman
+Matt Gaetz
+Turning Point Action
+Gun Owners of America
+LEXIT
+Moms For America Action
+Texas Governor
+Greg Abbott
+Louisiana Governor
+Jeff Landry
+State Endorsements
+Senate President
+Warren Petersen
+State Senate President Pro Tempore
+T.J.
+Shope
+Senator
+Jake Hoffman
+Senator
+David Farnsworth
+Senator
+Mark Finchem
+Senator
+John Kavanaugh
+Senator
+Janae Shamp
+Senator
+Wendy Rogers
+Senator
+Hildy Angius
+Representative
+Alex Kolodin
+Representative
+Beverly Pingerelli
+Representative
+David Marshall
+Representative
+Gail Griffin
+Representative
+Justin Olson
+Representative
+Joseph Chaplik
+Representative
+Laurin Hendrix
+Representative
+Michele Peña
+Representative
+Leo Biasiucci
+Representative
+Michael Way
+Representative
+Ralph Heap
+Representative
+Rachel Keshel
+Representative
+Cody Reim
+Representative
+Teresa Martinez
+Representative
+David Livingston
+Representative
+Nick Kupper
+Representative
+Chris Lopez
+Representative
+Quang Nguyen
+Representative
+Selina Bliss
+Representative
+Lisa Fink
+Arizona House Majority Leader
+Michael Carbone
+Former Senator
+Anthony Kern
+Former Senator
+Nancy Barto
+Former Senator
+Justine Wadsack
+Former Representative
+Barbara Parker
+Former Representative
+Cory McGarr
+Former Representative
+Jackie Parker
+Former Representative
+Travis Grantham
+Former Congressman, Arizona’s 3rd Congressional District
+Ben Quayle
+Local Endorsements
+Maricopa County Sheriff
+Jerry Sheridan
+Cochise County Supervisor
+Frank Antenori
+Maricopa County Attorney
+Rachel Mitchell
+Gilbert Councilman
+Monte Lyons
+Fountain Hills Councilman
+Allen Skillicorn
+Maricopa County Recorder
+Justin Heap
+Maricopa County Supervisor
+Mark Stewart
+Maricopa County Superintendent
+Shelli Boggs
+Mohave County Supervisor
+Rich Lettman
+Mohave County Supervisor
+Sonny Borrelli
+Mohave County Supervisor
+Travis Lingenfelter
+Peoria School Board President
+Heather Rooks
+Pinal County Attorney
+Brad Miller
+Queen Creek Councilwoman
+Leah Martineau
+Queen Creek Town Councilman
+Travis Padilla
+Former Gilbert Councilwoman
+Aimee Yentes
+Former Fountain Hills Mayor
+Linda Kavanaugh
+Former Maricopa County Sheriff
+Joe Arpaio
+Former Pinal County Sheriff
+Mark Lamb
+Scottsdale Vice Mayor
+Adam Kwasman
+Former Congresswoman, Maricopa County Supervisor
+Debbie Lesko
+Carefree Councilmember
+Colleen Rose-Scurti
+GOP & Other Endorsements
+Fraternal Order of Police Arizona State Lodge
+Read More →
+Arizona Conference of Police and Sheriffs
+Read More →
+MAHA Action
+Arizona Freedom Club PAC
+Mother of Navy SEAL Marc Lee
+Debbie Lee
+Council of Prisons Local 2313 – Safford
+Council of Prisons Local 3954 – Phoenix
+Council of Prisons Local 3955 – Tucson
+Arizona Law Enforcement Association
+Talk Radio Host

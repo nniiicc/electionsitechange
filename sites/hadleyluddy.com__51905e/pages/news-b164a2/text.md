@@ -1,0 +1,5 @@
+Samuel Spiegel 2/12/26 Samuel Spiegel 2/12/26 Despite improvement, Mass. unemployment system remains one of the worst in the country by some measures Read More Samuel Spiegel 8/27/25 Samuel Spiegel 8/27/25 Cape lawmakers weigh in on MA bill to eliminate addresses from ballots Read More Samuel Spiegel 8/27/25 Samuel Spiegel 8/27/25 New ADA-accessible trail opens at Orleans’ Window on the Bay.
+It's part of a bigger plan.
+Read More Samuel Spiegel 8/27/25 Samuel Spiegel 8/27/25 Green Crab Removal Gets Boost in Wellfleet Harbor Read More Samuel Spiegel 8/27/25 Samuel Spiegel 8/27/25 Cape Cod family pushing for mandatory short-term rental inspections following Airbnb tragedy Read More Samuel Spiegel 4/5/24 Samuel Spiegel 4/5/24 Outgoing state Rep.
+Sarah Peake is backing Hadley Luddy to succeed her Read More Samuel Spiegel 4/3/24 Samuel Spiegel 4/3/24 Two Candidates Leap Into State House Race Read More Samuel Spiegel 4/3/24 Samuel Spiegel 4/3/24 Luddy Joins Herman As State Rep.
+Candidate Read More

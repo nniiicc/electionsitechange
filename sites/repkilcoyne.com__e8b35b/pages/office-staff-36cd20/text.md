@@ -1,0 +1,7 @@
+Emily Rosenthal
+Email: Emily.Rosenthal@mahouse.gov
+Emily joined the team as Legislative Aide to Representative Kilcoyne in June 2026.
+In this role, Emily manages all aspects of the legislative process, addresses constituent inquiries and concerns, and oversees daily office operations.
+She holds a degree in Public Policy and Data Science from William & Mary.
+During college, Emily worked as a research assistant studying public health disparities in the Caribbean and interned for Representative Katherine Clark and the Massachusetts Executive Office of Aging and Independence.
+She is excited to serve the residents of the 12th Worcester District!

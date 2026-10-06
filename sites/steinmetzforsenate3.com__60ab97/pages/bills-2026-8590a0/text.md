@@ -1,0 +1,40 @@
+The Wyoming Legislature Citizen Guidebook is available on the Legislature’s Website.
+You are welcome to share this useful tool with your constituents as we approach the session.
+Hard copies of this guidebook will be available in the LSO as well as throughout the Jonah Business Center just prior to the legislative session.
+The guidebook can be viewed here: https://www.wyoleg.gov/docs/CitizenGuidebook.pdf.
+Sponsored / Co-Sponsored Bills:
+Sponsored and co-sponsored bills are posted here under the Sponsored Bills Tab for the 2026 Session.
+I appreciate your input on Legislative issues as your Representative: If there are bills during the Budget Sessions that are important to you, please let me know your thoughts and/or concerns.
+Contact me
+Learn more about Cheri’s Sponsored Bills and Committees:
+Senate District 03: Senator Cheri Steinmetz
+Check in here for updates about the session and any news from the Wyoming Legislative Majority.
+More information will also be available on Twitter at www.twitter.com/wyolegmajority and on our blog at wyolegmajority.blogspot.com.
+The Wyoming Legislature’s website is also a great resource for schedules, bill status and legislator contact information and can be found at www.wyoleg.gov
+2026 Budget Session Recap: Key Legislation and Challenges for Wyoming Legislative Update from Senator Cheri Steinmetz
+The Wyoming Legislature concluded its work for the 2026 Budget Session on March 11, when lawmakers returned to consider potential veto overrides.
+While several bills were vetoed by the governor, none of the vetoes were overridden by the Legislature, except for some of the line items on the budget bill.
+The governor’s budget was basically unaltered in the end with additions from the Legislature in funding for senior centers and developmental disability waivers.
+This session was one of the most hectic legislative sessions I have been a part of.
+Throughout the session, numerous ancillary issues arose that complicated the legislative process and consumed a great deal of time and attention.
+Unfortunately, the Senate’s handling of the final day of Committee of the Whole was particularly disappointing.
+Rather than working through the final measures efficiently, the Senate took extended breaks and ultimately failed to address approximately 10 remaining bills before adjournment…read more
+Senator Steinmetz issues first legislative update for 2026 budget session
+The 2026 Budget Session is now underway in Cheyenne, and Wyoming citizens deserve a clear update on where the process stands, what decisions lie ahead, and what these decisions mean for taxpayers, families, and communities across the state.
+The session began with the Republican caucus, where legislators heard from Wyoming’s statewide elected officials and discussed priorities for the session.
+The Legislature formally convened the following morning and immediately began reviewing major issues, including education recalibration and the state budget.
+Because this is a budget session, the rules governing legislation are different from a general session.
+Any bill that is not directly related to the budget must receive a two-thirds vote simply to be introduced and referred to committee.
+That higher threshold reflects the constitutional intent that budget sessions remain focused primarily on the finances of the state…read more
+The Hidden Price of Tax Relief: What Every Wyoming Citizen Should Know
+By Senators Cheri Steinmetz
+“Before tearing down a fence, we should first understand why it was built.”
+That simple wisdom fits Wyoming’s property tax debate because the choices before us are not small repairs—they are foundational changes to tax policy and structure.
+And the discussion is urgent.
+Wyoming citizens are being asked to consider measures that could reshape local control, community services, and the long-term stability of our state.
+In 2026, taxpayers will vote on a ballot initiative to reduce residential property taxes by 50 percent through a homeowner’s exemption.
+During the 2026 Budget Session, legislators will be asked to vote on a bill from the Joint Revenue Committee that would eliminate residential property taxes entirely through a constitutional amendment…learn more
+The Right to Life Is Not “Health Care” By Senators Cheri Steinmetz
+Wyoming’s Declaration of Rights begins with the enduring truth stated in Article 1, Section 2: “In their inherent right to life, liberty and the pursuit of happiness, all members of the human race are equal.” From this truth flows the first duty of government is to safeguard the life, health, and safety of every person, especially an innocent child developing in the womb. ….read article
+Like this:
+Like Loading...

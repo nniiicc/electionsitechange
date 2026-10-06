@@ -1,0 +1,2 @@
+Kimberly Overman ha obtenido el respaldo del Grupo de Veteranos Demócratas de Florida, que se concede a los candidatos que se toman en serio las cuestiones relacionadas con los veteranos.
+El 12.º distrito electoral de Florida cuenta con más de 68.000 veteranos: personas que prestaron servicio, regresaron a casa y, con demasiada frecuencia, tienen que luchar por segunda vez por lo que se les prometió.

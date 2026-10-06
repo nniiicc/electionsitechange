@@ -1,0 +1,54 @@
+Education & Opportunity
+Education and opportunity go hand in hand, and both are essential to building strong families and communities.
+I’m running for the Utah House to expand access to quality education and create real pathways to good-paying jobs, because when people have the chance to learn, grow, and build skills, they have a fair shot at success.
+That means investing in strong public schools, supporting working families facing rising costs, and making sure our economy works for everyday Utahns.
+I’ll focus on practical, real-world solutions that strengthen economic stability, expand opportunity, and ensure every voice is part of the decisions shaping our future.
+Education:
+Every Path Should Be Within Reach
+Education changed my life—and it should be a real, achievable pathway for every person in our community.
+Whether that’s learning early, going to college, or starting over later in life, opportunity should always be within reach.
+A student’s future shouldn’t be limited by cost, access, or lack of guidance.
+Right now, too many people feel like the system only works at one stage of life.
+I believe it should work for all of them.
+Education isn’t one path—it’s many.
+Whether it’s college, a certification, or going back to school later in life, every person deserves a real chance to build a future.
+What I’ll Work On
+Invest where it matters most
+- Increase per-student funding in Utah classrooms
+- Ensure resources reach teachers and students—not just administration
+- Support and retain great teachers with competitive pay
+- Reduce classroom overload and burnout
+- I will work to protect funding for public schools and oppose efforts that divert resources away from the classrooms serving the vast majority of Utah students.
+Make education after high school achievable
+- Protect affordable in-state tuition
+- Expand need-based scholarships and financial aid
+- Improve awareness so families actually know what support exists
+Create clear pathways from school to career
+- Expand career and technical education alongside college prep
+- Strengthen counseling so students understand all their options early
+- Make it easier to transfer credits between institutions.
+Opportunity:
+Hard Work Should Pay Off
+In our community, people want to work, build, and provide—but too many are hitting unnecessary barriers.
+Opportunity shouldn’t depend on who you know—it should come from your willingness to work for it.
+Opportunity also means that hard work actually leads somewhere—whether that’s starting a business, learning a trade, or providing for your family.
+Education doesn’t stop at age 22.
+People’s lives evolve—our education system should evolve with them.
+What I’ll Work On:
+Workforce & skills training
+- Expand technical education, apprenticeships, and certifications
+- Build partnerships with local employers to connect people to real jobs
+Support for small businesses
+- Cut unnecessary red tape
+- Make it easier to start and grow a local business
+Childcare solutions
+- Incentivize affordable childcare options
+- Support employer-based childcare to help working parents
+Support career transitions
+- Expand continuing education for adults re-entering or changing careers
+- Partner with employers to offer skill-building and retraining programs
+Flexible, real-life learning options
+- Support part-time, online, and evening programs
+- Remove barriers for working parents and mid-career adults
+Stackable credentials
+- Promote short-term certifications that build toward long-term degrees

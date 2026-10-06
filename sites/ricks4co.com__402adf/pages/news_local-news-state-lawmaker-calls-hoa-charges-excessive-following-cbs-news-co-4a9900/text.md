@@ -1,0 +1,1 @@
+A new law intended to protect HOA residents in Colorado may need some revisions or clarifications according to the sponsor, after a CBS News Colorado investigation revealed one management company charging high fees to send certified letters to HOA residents.

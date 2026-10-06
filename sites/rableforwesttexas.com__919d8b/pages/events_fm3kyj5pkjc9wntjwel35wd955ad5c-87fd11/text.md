@@ -1,0 +1,1 @@
+Back to All Events Rable Block Walk Saturday, September 19, 2026 10:00 AM 11:00 AM Mackenzie Middle School 5402 12th Street Lubbock, Texas, 79416 United States (map) Google Calendar ICS https://www.mobilize.us/texasdemocrats/event/1018387/

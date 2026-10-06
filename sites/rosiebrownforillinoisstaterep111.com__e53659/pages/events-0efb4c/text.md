@@ -1,0 +1,194 @@
+INTERFAITH PRAISE SERVICE & PASTORAL BREAKFAST
+INTERFAITH PRAISE SERVICE & PASTORAL BREAKFAST
+Interfaith Praise Service
+A Morning of Unity, Worship & Community
+As we honor Juneteenth, we gather in faith and unity.
+Join us for a meaningful morning of worship, reflection, and fellowship at our Interfaith Praise Service, bringing together faith leaders and community members from across Illinois House District 111.
+Friday, June 19, 2026 (Juneteenth)
+Interfaith Praise Service begins at 9:00 AM (open to all)
+Pastoral Breakfast immediately following (pastors only)
+Monroe Memorial Church 1901 Belle Street, Alton, IL 62002
+“How good and pleasant it is when God’s people live together in unity.” — Psalm 133:1
+This gathering is centered on unity, gratitude, and shared responsibility, honoring the vital role faith communities play in guiding, supporting, and strengthening our neighborhoods.
+Pastors are invited to remain after worship for a private Pastoral Breakfast, offering dedicated time for fellowship, reflection, and conversation among faith leaders.
+Register here: forms.gle/Tf16AkJt2AFD1X9N7
+Donate here: secure.actblue.com/donate/friendsofrosettabrown
+We look forward to gathering together in praise and fellowship centered on unity, gratitude, and shared responsibility, honoring the vital role faith communities play in guiding, supporting, and strengthening our neighborhoods.
+Union Strong - Post - Blitz to the Primaries
+Union Strong - Post - Blitz to the Primaries
+Rosetta Brown will host a community "Union Strong – Building Forward Together,” labor appreciation event supported by the Greater Madison County Federation of Labor AFL-CIO.
+This evening is dedicated to honoring union members, families, friends, and retirees across Madison County.
+Thursday, June 11, 2026
+6:00 PM – 9:00 PM
+Machinists Union Hall – 161 N.
+Shamrock St., East Alton, IL
+This event will include food, drinks, music, recognition of local union members, and space for conversations focused on working families and the issues that matter most to them.
+Sponsorship Levels:
+- $1,000 – Solidarity Sponsor
+Includes 6 wristbands, food/drinks, and program recognition
+- $500 – Union Strong Sponsor
+Includes 4 wristbands, food/drinks, and program recognition
+- $250 – Working Families Sponsor
+Includes 2 wristbands, food/drinks, and program recognition
+General Admission:
+$35 (includes entry and meal)
+Donations can be made to:
+https://square.link/u/uSD8U5Cz
+https://secure.actblue.com/donate/union-strong-post-blitz-to-the-primaries
+(Checks payable to Friends of Rosetta Brown
+This gathering is part of a regional effort to highlight the needs and voices of working people in Madison County.
+Union members and supporters are encouraged to attend to stay engaged with labor‑focused conversations happening locally.
+Hosted by:
+The RIFL Act Advocacy Day
+The RIFL Act is landmark legislation that aligns the financial interests of gun manufacturers with prevention.
+Its passage would make Illinois the first state in the nation to require firearm manufacturers to share the public costs that their products generate with taxpayers — while directly supporting survivors and community violence intervention efforts that are already saving lives across the country.
+This is a crucial moment for this effort!
+Showing up matters.
+On May 26th, we need to send a resounding message to our state legislature that taxpayers and victims won't foot the bill for gun injuries any longer!
+RSVP TODAY and SAVE-THE-DATE BELOW:
+When: Tuesday, May 26
+Where: Illinois State Capitol Steps by the Lincoln Statue Springfield, Illinois
+Let’s make history in Springfield!
+Gun violence is the #1 killer of children and teens in America.
+Illinois has a chance to lead the nation.
+For too long, gun manufacturers have profited while our communities pay the price.
+It’s time to change the equation.
+The RIFL Act (HB3320/SB2279) ensures that manufacturers share the public costs their products generate, aligning their bottom line with safety and prevention.
+Help Illinois lead the nation in gun violence reduction.
+Join the RIFL Act Coalition on May 26 to advocate for the RIFL Act.
+Transportation is available and lunch is included!
+Register now: https://secure.numero.ai/.../RIFL-Act-Advocacy-Day-May-26th
+THE 159TH ALTON MEMORIAL DAY PARADE
+MEET US AT THE 159TH ALTON MEMORIAL DAY PARADE
+We’re honored to be part of one of the longest‑running Memorial Day traditions in the country — a 159‑year legacy right here in Alton.
+📅 Monday, May 25, 2026
+⏰ Parade starts at 10:00 AM
+📍 College Avenue through Upper Alton
+Since 1868, this parade has stood as a powerful reminder to honor those who served and sacrificed, and to bring the community together in reflection and unity. 🇺🇸
+👋 COME CONNECT WITH US
+The Madison County (IL) Democratic Party will be out along the route — come by, say hello, and connect with community members and local leaders.
+✅ Meet neighbors, organizers, and candidates.
+✅ Learn about upcoming events and ways to get involved
+✅ Grab information on community safety, prevention, and local initiatives
+🏘 SAFE STREETS.
+STRONG NEIGHBORHOODS.
+This Memorial Day, we reflect not only on service — but on our shared responsibility to show up for our communities today.
+🎯 Look for us along the parade route — we’d love to connect with you.
+💬 Honoring the past.
+Showing up in the present.
+Building a stronger future — together.
+#MemorialDay #AltonIL #159YearsStrong #District111 #MadisonCountyDemocrats #CommunityFirst #MetroEastIL
+#SafeStreetsStrongNeighborhoods #SafeIllinois
+FROM COMMUNITY TO CAPITOL: DISTRICT 111 ADVOCACY IN ACTION TOWN HALL
+Reimagining Public Safety in Illinois
+The Responsibility in Firearm Legislation (RIFL) Act would make Illinois the first state in the nation to require gun manufacturers to share in the public costs of gun violence directing resources toward survivors and community‑based violence prevention.
+Join us for a #District111 #TownHall conversation on community safety, prevention, and responsibility hosted in collaboration with Metro East Organizing Coalition -MEOC, Collinsville Community Collective, SAFE Illinois - Safe Access For Everyone and members of the RIFL Act Coalition.
+Building toward Advocacy Day in Springfield
+Sunday, May 24, 2026
+3:00 PM – 6:00 PM
+Riverbend Axe Throwing - East Alton
+Open to the public, this townhall marks the first of a series inviting advocacy groups, community leaders, and residents to discuss the real issues affecting Illinois starting with safety and prevention.
+These town hall's creates space for education, dialogue, and preparation as Illinois considers solutions that invest in communities and prioritize communities in Illinois.
+Food provided
+Community activities available
+Interactive space & conversation
+Local advocates, survivors, manufacturers, gun owners, and organizers from across the Metro East are encouraged to attend.
+This May 24 town hall builds toward RIFL Act Advocacy Day at the Illinois State Capitol:
+Tuesday, May 26, 2026
+Springfield, IL
+#FREE transportation available
+Register now for Advocacy Day (May 26):
+https://secure.numero.ai/.../RIFL-Act-Advocacy-Day-May-26th
+This is about prevention, relationships, accountability, and support systems, not just response after harm occurs.
+What does a safe community look like to you?
+Let’s come together, learn together, and move forward together from community to Capitol.
+Phone Bank Blitz to the Primaries — Community Call Night
+Phone Bank Blitz to the Primaries — Community Call Night
+Monday, March 16, 2026, • 5:30–8:00 PM (CT)
+Link opens at 5:30 PM for setup & training
+Calling from 6:00–8:00 PM
+We’re bringing neighbors together from Granite City, Alton, Collinsville, Wood River, and Edwardsville for an evening of community calls.
+Scripts provided and support on standby —jump in at any experience level!
+Join the Google Meet (for training & coordination):
+https://meet.google.com/knh-svib-pof
+Pro tip for smooth calling:
+- Use a laptop or tablet for the Google Meet
+- Use your phone separately to place calls
+- Keep the script handy and mute yourself on Meet when dialing
+Phone‑banking assistance provided:
+We’ll walk through the script, FAQs, and best practices at 5:30 PM.
+Live helpers will be available throughout.
+Want a reminder before Monday?
+Email: rosie@rosiebrownforillinoisstaterep111.com and we’ll send you a quick nudge with the link and tips.
+Let’s connect with our community and keep participation strong across Madison County!
+#PhoneBankBlitz #CommunityCallNight #MadisonCountyIL #GraniteCity #Alton #Collinsville #WoodRiver #Edwardsville #NeighborsHelpingNeighbors #VolunteerTogether
+FAMILY BOWLING NIGHT!
+Blitz to the Primaries
+A Community Night of Fun, Energy, & Democracy in Motion!
+Saturday, March 14, 2026
+5:00 PM – 8:00 PM
+Bowl Haven Lanes — 3003 Washington Ave, Alton, IL
+Roll into the 2026 Primary Season with an exciting night of bowling, community spirit, and face‑to‑face conversations with Rosetta “Rosie” Brown and fellow local candidates!
+GENERAL ADMISSION: $30
+Includes event entry + bowling access
+SPONSOR A BOWL!
+$250 – Community Supporter
+$500 – Lane Leader Sponsor
+$1,000 – Strike Sponsor
+Donations can be made to:
+https://square.link/u/uSD8U5Cz
+https://secure.actblue.com/donate/friendsofrosettabrown
+(Checks payable to Friends of Rosetta Brown)
+WHAT TO EXPECT
+- Family‑friendly bowling
+- Meet‑and‑greet with Rosie & regional candidates
+- High‑energy, community‑focused atmosphere
+- A powerful GOTV push heading into the March 17 Primary!
+Let’s come together for a fun and meaningful night as we build momentum for 2026.
+Bring your family, bring your energy, and let’s bowl our way to the polls!
+Learn more: www.RosieBrownForIllinoisStateRep111.com
+Illinois Candidate Conversations – WWBW IL x Sisters Lead Sisters Vote
+You’re Invited: Illinois Candidate Conversations – WWBW IL x Sisters Lead Sisters Vote
+Join Win With Black Women (WWBW IL) and Sisters Lead Sisters Vote (SLSV) for a special statewide virtual event highlighting Black women running for office in Illinois.
+This conversation series provides space to hear directly from women leaders about their perspectives, priorities, and the issues shaping communities across the state.
+Monday, February 16, 2026
+7 PM ET / 6 PM CT
+Virtual Event (Livestream)
+REGISTER HERE (Public Link): https://bit.ly/ILCandidateConversationsPrimary2026
+This link is open to the public — feel free to share it widely.
+How to Watch You can tune in live or view the replay at:
+- Sisters Lead Sisters Vote – Facebook & YouTube
+- Win With Black Women – YouTube
+Rosie Brown’s Campaign Kickoff!
+Let’s Kick Off This Campaign Together
+Let’s show up, stand together, and launch this campaign with purpose and excitement.
+A night dedicated to community, hope, and a shared belief that District 111 deserves leadership rooted in service, unity, and real progress.
+Here is everything you can expect at the official kickoff celebration!
+RSVP / DONATE Online:
+https://square.link/u/FvFHrFqN
+ActBlue: https://secure.actblue.com/donate/friendsofrosettabrown
+What Your Donation Includes
+$35 Donation
+Entry to the event
+Heavy hors d’oeuvres from NickyG's Italian Eats
+1 drink ticket (good for any cocktail, mocktail, wine, or beer)
+$100 Early Support + Recognition
+Entry for you + 1 guest
+1 drink ticket each
+Early Supporter Recognition the night of the event
+Accepted at the event:
+Checks #preferred → Payable to: Friends of Rosetta Brown
+Debit/Credit Cards #preferred → Cash bar available all evening
+QR code payments available at check-in
+NickyG's Italian Eats and Distryb are proudly shaping a menu that pairs beautifully with the evening’s cocktail program.
+Let’s turn this around with Rosetta “Rosie” Brown!
+Rosie Cares District 111: Socks for Tots Fundraiser
+The Rosie Cares District 111 campaign introduces Rosie's Socks for Tots Fundraiser, running from November 1 through December 31, 2025.
+This initiative, in partnership with Next Step Forward and Brand New Village, aims to provide warmth and dignity to children in need during the winter season while advancing Rosie Brown's platform of community care, education, and neighborhood revitalization.
+Why It Matters
+Every child deserves warm socks during cold months.
+This initiative reflects Rosie’s commitment to meeting essential needs as a foundation for learning, opportunity, and unity.
+It aligns with Rosie’s broader vision: reviving the American Dream and restoring democracy through community-driven action.
+Rosie’s Socks for Tots is more than a holiday drive, it’s a movement of care and community solidarity.
+Rosie's First $100 Campaign
+Rosetta “Rosie” Brown is running for Illinois State Representative District 111 to bring real change to our community.

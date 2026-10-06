@@ -1,0 +1,12 @@
+Kevin Moynihan is a community leader, public servant, and member of the Aberdeen City Council, where he works to strengthen his community and improve local government.
+Kevin believes government should work for the people it serves, not powerful interests or political insiders.
+On the Aberdeen City Council, Kevin has focused on practical solutions that improve daily life for local residents: strengthening infrastructure, supporting economic development, and ensuring city government is responsive to the community.
+Kevin knows what it means to live and work on the Washington coast.
+Like many families here, he understands the challenges facing our communities: rising costs, limited economic opportunity, and a political system that too often overlooks rural Washington.
+That’s why Kevin is stepping up to run for state representative.
+Because the people of the 19th District deserve a leader who will:
+• Fight for working families
+• Invest in local communities
+• Stand up to corporate power
+• Deliver real results
+Kevin is running to bring honest, hardworking leadership to Olympia — and to make sure the voices of the 19th District are heard loud and clear.

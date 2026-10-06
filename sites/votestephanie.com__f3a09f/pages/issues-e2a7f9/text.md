@@ -1,0 +1,24 @@
+Meet Stephanie
+Issues
+Endorsements
+Volunteer
+Connect
+Meet Stephanie
+Issues
+Endorsements
+Volunteer
+Connect
+Make A Donation
+Facebook
+The Issues
+Stephanie Borowicz is a woman of her word.
+She promised she would fight for us and as our State Representative Stephanie Borowicz has delivered.
+Protecting our lives and livelihoods during these uncertain times
+Standing up to Governor Wolf’s socialist policies and massive tax increases
+Restarting our economy and getting people safely back to work
+Securing funding and resources for our first responders and frontline workers
+Reducing the amount of government intrusion in our daily lives
+Cutting wasteful spending and lowering taxes
+Improving our education system to fully empower tomorrow’s workforce
+Working with providers and victims to treat narcotic and health issues
+Protecting our agricultural heritage and family farms

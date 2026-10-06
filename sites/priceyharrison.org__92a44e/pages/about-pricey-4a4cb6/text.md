@@ -1,0 +1,21 @@
+Meet Pricey
+Pricey Harrison was first elected to the North Carolina House of Representatives in 2004.
+She is a graduate of Duke University and the UNC School of Law.
+She currently currently serves on the following House Standing and Select Committees:
+- Agriculture and Environment
+- Appropriations
+- Appropriations for Agriculture and Natural and Economic Resources
+- Election Law
+- Energy and Public Utilities
+- House Select Committee on North Carolina's Transportation Future
+- House Select Committee on Redistricting
+- Judiciary I
+- Regulatory Reform
+She also serves on the following Non-Standing Committees:
+- Joint Legislative Oversight Committee on AgNER
+- Joint Legislative Commission on Energy Policy
+- Joint Legislative Elections Oversight Committee
+- Environmental Review Commission
+She has served on a number of boards including the EDF (National and Southeast), Environmental Grantmakers, National Caucus of Environmental Legislators (former Board Chair), Nature Conservancy-NC Chapter, NC Coastal Federation, Southern Environmental Law Center, Conservation Trust for NC, Piedmont Land Conservancy, NC Coastal Land Trust, Marine Science Boards at Duke University and the University of North Carolina, NC, and others.
+She previously served on the Coastal Resources Commission.
+She has received legislative awards from NCLCV, NC Sustainable Energy Association, SELC, American Lung Association, NC Common Cause, NC Justice Center, Appalachian Voices, and others.

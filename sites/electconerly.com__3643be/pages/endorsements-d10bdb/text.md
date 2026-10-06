@@ -1,0 +1,19 @@
+Endorsements
+- Manatee Sheriff Rick Wells
+- Sarasota Sheriff Kurt Hoffman
+- Florida Agriculture Commissioner Wilton Simpson
+- Florida’s Chief Financial Officer Blaise Ingoglia
+- Florida’s Attorney General James Uthmeier
+- Congressman Greg Steube
+- Senator Ashley Moody
+- Senator President Designate Jim Boyd
+- Speaker Designate Sam Garrison
+- Mayor Gene Brown
+- International Association of Fire Fighters – Suncoast 2546 Fire Fighters & Paramedics
+- Florida State Fraternal Order of Police (FOP)
+- Police Benevolent Association
+- Florida Chamber
+- Florida Associated Industries
+- National Rifle Association (NRA)
+- Christian Family Coalition
+- Florida Family Action

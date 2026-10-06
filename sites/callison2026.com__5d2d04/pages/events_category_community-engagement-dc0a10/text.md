@@ -1,0 +1,2 @@
+Community Engagement November 24 @ 8:00 am - 5:00 pm Community Town Hall Join us for an open forum to share your concerns, ask questions, and help shape our campaign’s vision for real change. view details
+Community Engagement November 10 @ 8:00 am - 5:00 pm Justice & Equity Listening Session A community dialogue on criminal justice reform, public safety, and restoring trust between citizens and institutions. view details

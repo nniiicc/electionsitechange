@@ -1,0 +1,7 @@
+Senator Bo Watson Kicks Off 2026 Campaign
+State Senator Bo Watson officially kicked off his re-election campaign for Tennessee State Senate District 11 Thursday at Greenway Farm Conference Center in Hixson, with more than 100 supporters, elected officials and community leaders in attendance.
+Among those in attendance were Senator Marsha Blackburn, Senator Todd Gardenhire, Senator Ken Yager, Representative Greg Martin, Sherriff Austin Garrett, Commissioner Steve Highlander, DA Coty Wamp, Young Republican Chair Mary Francis Hoots, HCGOP Chair Gail Greene, along with dozens of Hamilton County community supporters.
+During the event, Senator Watson outlined his priorities for another term, including continuing efforts to lower property taxes, put more money back into the pockets of Tennessee taxpayers, expand school choice, invest in roads and infrastructure and ensure Hamilton County remains one of the best places in Tennessee to live, work and raise a family.
+“I am incredibly humbled and grateful for your support,” Senator Watson said.
+“I am running for re-election because of you.
+My work isn’t over, and I’m here to make sure I keep fighting for my constituents for another four years.”

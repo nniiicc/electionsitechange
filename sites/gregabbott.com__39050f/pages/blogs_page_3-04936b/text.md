@@ -1,0 +1,34 @@
+Governor Abbott Is Not Messing Around on Property Taxes
+Governor Abbott is taking radical steps to reduce your property taxes.
+Throughout his gubernatorial tenure, Governor Abbott has signed sweeping property tax reforms.
+Besides delivering the largest property tax cut in Texas history — $18 billion — the Governor...
+Conservative Policies Drive Surge in Prosperity Per Resident in Texas
+Texas is sweeping the competition when it comes to overall economic growth – and prosperity per resident.
+Fox News reports that Texas saw an impressive “10.1% increase in economic output on a per-capita basis from 2021 to 2024, based on calculations using Bureau of...
+Texas Dominates as America’s #1 Jobs Creator
+Leads Nation for 2025 Job Gains Texas is shattering records when it comes to job creation and job growth throughout the state.
+Newly released figures from the U.S.
+Bureau of Labor Statistics further underscore what Texans already know to be true: Texas is the...
+Texas Feeds the World: How the Lone Star State Powers America’s Food Supply
+When America sits down to eat, there's a good chance Texas put it on the table.
+From the cotton in your shirt to the beef on your plate, the Lone Star State is an agricultural powerhouse, with an economic impact of $860.8 billion and 4.5 million jobs supported...
+Governor Abbott Preserves Religious Freedom in Texas
+250 years ago, the United States of America was founded as a Christian nation on a core foundation of freedom of speech, expression, and religion.
+It is this heritage that Governor Abbott has defended for over twenty years.
+Two decades ago, on June 27, 2005, Governor...
+The Texas Grid Is Ready for Wintry Weather – Make Sure You Are, Too
+Since Winter Storm Uri hit all 254 Texas counties in February 2021, Texas has added a total of nearly 40,000 MW of power – enough to power more than eight million homes across the state.
+Weather experts predict the State of Texas will face its first strong winter...
+Under Governor Greg Abbott’s Leadership, Texas Stops the Spread of Sharia Law
+Texas Governor Greg Abbott is making his mission clear that Sharia law has no place in Texas — and he has taken decisive action to turn that mission into reality.
+In March 2025, Governor Abbott announced on X that numerous state agencies were investigating potential...
+Governor Abbott: A True Champion of Texas Values
+Governor Greg Abbott has always ensured that Texas is a pro-life and pro-religious freedom state.
+Texas defends these rights unconditionally.
+Governor Abbott’s commitment to life and freedom of religion is exemplified by his actions throughout his time in office....
+Six Legislative Wins for Texas Veterans Under Governor Abbott in 2025
+In 2025, Governor Greg Abbott followed through on his commitment to Texas veterans with concrete legislation, record funding, and expanded access to services across the state. 1.
+Property Tax Relief for Veterans In June, Governor Abbott signed HB 2508 into law,...
+Texas Stands Unapologetically with Law Enforcement
+Democratic states like California, New York, and Minnesota have made law enforcement a political target, reinforcing the narrative that defying men and women in uniform – and sacrificing public safety – is the fashionable thing to do.
+Minnesota Governor Tim Walz has...

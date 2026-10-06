@@ -1,0 +1,1 @@
+Skip to Videos All | Campaign Videos | Street Interviews | Fun Videos | Fun Videos, • 9/22/25 History Trivia at the Italian Festival I hit the Italian Festival with just a few bucks and a microphone; we challenged random people to answer 5 history questions for $1 each! 🇮🇹💰 Some people crushed it… others didn’t 😂

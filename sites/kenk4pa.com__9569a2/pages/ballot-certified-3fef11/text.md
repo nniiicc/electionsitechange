@@ -1,0 +1,28 @@
+HARRISBURG, Pa. – The Pennsylvania Department of State has certified Libertarian candidates Ken Krawchuk for Governor and John Thomas for Lieutenant Governor, officially placing the ticket on the November 2026 general election ballot.
+The Krawchuk/Thomas campaign submitted 5,649 signatures from registered Pennsylvania voters, well above the 5,000 required to qualify for the statewide ballot.
+“This is a great day for all Pennsylvanians,” Krawchuk said.
+“Now the fun begins.”
+With ballot access secured, Krawchuk is now turning his attention to a statewide media and campaign tour, including radio, television, podcast, and community appearances across Pennsylvania.
+The campaign says its message will focus on eliminating Pennsylvania’s property tax, improving educational outcomes, and protecting taxpayers by opposing tax increases and government waste.
+“This is a great day for anyone who hates property tax,” Krawchuk said.
+“A great day for seniors in fear of being tossed out of their homes because of it, for young families who can’t afford their first house because of it, for those with kids in private schools where parents pay double for education, and for all of us who just don’t want to throw thousands of dollars year after year into a failed education system.”
+Krawchuk also emphasized education reform.
+“This is a great day for the children of Pennsylvania,” he said.
+“They now have a champion on the ballot who will directly address the abysmal state of affairs where more than half our kids cannot read or do math at grade level.”
+Running mate John Thomas said securing ballot access marks the beginning of the campaign’s next phase.
+“By securing ballot access we give Pennsylvanians an option that is not the same old empty promises of the Democrats and Republicans,” Thomas said.
+“Our great campaign team earned ballot access.
+Now we will work just as hard to earn your votes.”
+Krawchuk, an information technology entrepreneur, patented inventor, author, award-winning Toastmaster, and Philadelphia talk show host, has previously appeared on Pennsylvania’s gubernatorial ballot three times, setting Libertarian Party records for vote totals in each campaign.
+Thomas is a cyber school educator and was the Libertarian Party nominee for U.S.
+Senate in 2024, helping the party regain political party status in Pennsylvania through his statewide vote total.
+The campaign says it will spend the coming months traveling across Pennsylvania to present what it describes as a fiscally responsible alternative to the nominees of the two old parties.
+Media Contact
+Krawchuk/Thomas Campaign
+Campaign@KenK4Pa.com
+(224) KRAWCHUK (224-572-9248)
+KenK4Pa.com
+About the Libertarian Party
+Founded in 1971, the Libertarian Party is the third-largest political party in Pennsylvania and the United States.
+In Pennsylvania, more than 200 Libertarians currently serve in elected and appointed offices.
+The party advocates for individual liberty, limited government, and personal responsibility.

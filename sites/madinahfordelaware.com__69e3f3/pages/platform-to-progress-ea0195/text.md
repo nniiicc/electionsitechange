@@ -1,0 +1,72 @@
+Platform to Progress
+Since taking office, Madinah has worked tirelessly to fight for the legislative priorities described in her platform, and make them a reality.
+- Education
+- Healthcare
+- Criminal Justice
+- Working Families Plan
+- Housing
+- Economic Justice
+- Green New Deal
+- Worker Power
+Education
+As a product of both public and charter schools, education was one of Madinah’s biggest issues heading into her first session.
+She was excited to introduce three and pass two education bills in her first session creating more protections for both current and former students and adding more equity to our charter system.
+Next session, Madinah is excited to do more work to ensure that our funding system is updated to match the needs of all students.
+- HB 481 – increases consumer protections for students involved in private post-secondary institutions as it relates to student loans and predatory practices
+- HB 353 – takes a new look at modifications and approvals for new charter schools to make them more equitable and better integrated
+- HB 238 (co) – restricts preferential admissions to charter school
+- HB 123 (co) – gives children who have spent their teen years in foster homes a waiver for tuition, fees, and room and board for any university or college in Delaware
+- HB 163 – requires a school excuse absences for religious holidays
+Healthcare
+Health care remains one of the biggest costs for working families in this district and across the state.
+This year the legislature was able to make huge strides forward in maternal health care, and next session Madinah is excited to do more to push for more affordable and equitable health care for all.
+- HB 343 (co) – requires that the Division of Medicaid and Medical Assistance present a report to allow for the funding of doula services under Medicaid providers
+- HB 334 (co) – allows providers licensed outside of Delaware to provide telemedicine and telehealth care if a relationship has been established
+- HB 334 (co) – expands cultural bias training for healthcare employers in the state of Delaware
+- HB 234 (co) – expands medicare or medicaid coverage for women to provide care for up to 12 months after giving birth
+- HB 157 – expands access to prescription medication under Delaware law
+Criminal Justice
+Coming out of the historic 2020 protests, Madinah was excited to help pass a slate of criminal justice reforms to ensure that Black lives truly mattered in Delaware.
+The legislature was able to get some big wins around use of force and body cameras, but refused to pass real deep reforms to police accountability.
+Madinah is excited to fight for them again next session.
+- SB 147 (co) – creating a reasonableness requirement for use of force
+- SB 148 (co) – expands oversight of deadly use of force cases by law enforcement
+- SB 149 (co) – opening up misconduct records for law enforcement and creating community review boards across the state
+- HB 243 (co) – prohibits law enforcement from releasing the name or photo of a juvenile with exceptions for protecting public safety or from violence
+- HB 244 (co) – protects defendants from unfair fines and procedures around fines
+Working Families Plan
+This year saw the passage of a huge Paid Family and Medical Leave program that Madinah is excited to see our communities use soon.
+In the coming session, she is excited to do more to reduce the cost of other important services like child care and health care.
+- SS 2 for SB 1 (co) – creates a state-wide paid family leave insurance program that allots 12 weeks in qualifying situations
+- HB 409 (co) – requires employees receive one hour of paid sick leave for every 30 hours worked
+Housing
+Housing is unfortunately still not equitable in the 26th District.
+In her first session, Madinah introduced a series of bills addressing issues in manufactured housing and rental communities, and is excited to do more in the next session to make sure that people have affordable rent and strong protections from abuse.
+- HB 374 – extends protections to homeowners in manufactured home communities whose homes do not qualify as manufactured homes
+- HB 349 (co) – allows landlords to offer a series of payments rather than a security deposit, allowing for those who cannot afford a security deposit to find rentals
+- SB 101 (co) – gives tenants the right to legal counsel for eviction proceedings or any other tenant-landlord proceedings
+- HB 180 – adds disclosure agreements for any transfers relating to manufactured home communities
+Economic Justice
+In the wake of a pandemic and rising inflation, the legislature was still able to get some wins for working people in Delaware, from an increased minimum wage to protections from discrimination.
+Unfortunately, a fairer tax system and equitable reassessment were left on the table, but Madinah plans to fight for them again next year.
+- SB 15 (co) – raising the minimum wage to $15/hr by 2025
+- HB 88 (co) – removing the “youth and training” sub-minimum wage for young and seasonal workers
+- HB 252 – requires homes to be assessed by counties regularly to reflect their true value
+- HB 256 (co) – lowering taxes for those making fewer than $60k a year while increasing the tax brackets for those making more than $125k and $250k a year
+- SB 231 (co) – prevents using gender, gender identity, or sex as a rating factor in applying for auto insurance
+- HB 235 (co) – creating a homeless bill of rights which ensures that all are given equal opportunity to housing
+Green New Deal for Delaware
+As the lowest-lying state in the country, Delaware has a special interest in the environment and climate change.
+This year, Madinah introduced a Green Amendment to ensure every Delawarean had a right to clean air, pure water, and a healthy environment.
+She also worked to ensure that our climate policies help the most vulnerable in the state, and is excited to continue that work next session.
+- HB 466 (co) – protects overburdened environmental justice communities from further development or expansion of harmful industries
+- HB 220 – green amendment to the Delaware constitution that ensures clean air and water is a right
+- SB 305 (co) – codifies the governor’s climate action plan
+- HCR 40 (co) – creates a committee to study and present solutions to issues relating to environmental justice in the state
+- SB 2 (co) – establishes consumer protections for solar energy and eliminates other barriers faced by solar customers
+Worker Power
+With worker organizing on the rise across the country, Madinah was working in the state legislature to make sure that there were more opportunities for well-paying jobs with strong protections in Delaware.
+Next year she is excited to get bills like the Community Workforce Agreement Act over the finish line.
+- HB 435 (co) – requires that all public works projects using more than $3 million in state funds must have a community workforce agreement ensuring a certain rate of local, union, and minority hires
+- SS1 to SB208 (co) – requires that employers are liable to an employee if they fail to make wages available on the next payday after an employee exits the employer, regardless of circumstance
+- HS1 to HB94 (co) – ensures that those who work for tips or gratuities receive a wage increase when their employer is directed to increase minimum wage

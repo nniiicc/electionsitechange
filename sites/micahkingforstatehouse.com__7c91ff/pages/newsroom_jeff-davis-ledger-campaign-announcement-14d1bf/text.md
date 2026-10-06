@@ -1,0 +1,52 @@
+Jeff Davis Ledger Features Micah King's Vision for District 157
+When we launched this campaign for Georgia State House District 157, we didn’t do it with a flashy corporate press conference in Atlanta.
+We did it right here at home, focusing on the real issues facing Tattnall, Evans, Jeff Davis, and Appling counties.
+That choice was not a matter of scheduling convenience.
+It was a statement about where this campaign believes accountability actually starts.
+We are incredibly grateful to the Jeff Davis Ledger, Jeff Davis County’s only newspaper, for covering our announcement and highlighting exactly what this campaign is about: practical solutions, economic opportunity, and strong support for our rural communities.
+Why This Announcement Started at Home
+There is a reason campaigns for statewide or high-profile offices tend to launch in Atlanta, in front of television cameras and wire service reporters.
+That is not how representation is supposed to work for a district like ours.
+District 157 is defined by Vidalia onion fields, timber tracts, poultry operations, and small Main Street businesses in Hazlehurst, Reidsville, Baxley, and Claxton, not by what plays well in a thirty-second Atlanta news clip.
+Announcing this campaign through the Jeff Davis Ledger, rather than around it, was a way of making clear from day one that this campaign answers to the people who actually live here.
+Here is a quick excerpt from their coverage:
+“King, a lifelong advocate for working families and small businesses, says his campaign will focus on bringing steady, commonsense leadership to the State Capitol… ‘Families in our district want safe neighborhoods, good schools, strong local businesses, and leaders who will work across the aisle, and with them, to get results.’”
+Why Local Journalism Still Matters Here
+It is worth pausing on why a feature in a small county newspaper carries real weight, beyond sentiment.
+Local journalism in rural America is disappearing at an alarming rate, and Georgia sits at the center of that crisis.
+Research from Northwestern University’s Medill Local News Initiative found that Georgia has more residents living in news desert counties, roughly 5 million people, than any other state in the country, ahead of Texas, North Carolina, and Kentucky.
+Nationally, the same research identified 213 counties with no local news source at all as of 2025, and another 1,524 counties left with only a single remaining outlet, typically a weekly newspaper, a pattern that disproportionately affects poorer, more rural counties with smaller economic output, exactly the kind of communities that make up District 157.
+That makes an outlet like the Jeff Davis Ledger far more than a place to run a campaign announcement.
+It is one of the last remaining institutions in this district with the standing and the local knowledge to hold elected officials accountable, cover a county commission meeting, or explain a hospital board’s budget decision to the people it actually affects.
+When local newspapers disappear, researchers have found that oversight of local government weakens, public costs tend to creep upward, and fewer residents participate in local democracy.
+Supporting outlets like the Ledger is not nostalgia.
+It is a practical part of keeping local government honest.
+What the Ledger Got Right: The Platform Behind the Headline
+The article correctly highlighted the core pillars of our platform, and each one deserves more explanation than a single newspaper quote can provide.
+Supporting Farmers and Strengthening the Agricultural Economy
+Agriculture is not one issue among many in this district, it is the foundation underneath most of the others.
+Tattnall County anchors one of the most productive Vidalia onion growing regions in the country, and timber, poultry, and row crops round out an agricultural economy that touches nearly every family here, directly or indirectly through the businesses and jobs it supports.
+Protecting that economy means fighting for fair property tax treatment for working farmland, defending farm families against rising utility costs tied to unrelated industrial growth elsewhere in the state, and making sure family land can be passed down without being lost to legal complications or predatory development pressure.
+For the full breakdown of that plan, read our agriculture and farm policy platform.
+Helping Small Businesses Grow
+The small businesses that line Main Street in Hazlehurst and Baxley do not have corporate lobbyists in Atlanta.
+They need a state government that keeps regulatory and tax burdens predictable, invests in the roads and infrastructure that let goods move efficiently, and does not let large out-of-state developments quietly shift costs onto smaller local operators, whether through utility rates or property assessments.
+Addressing Affordability Challenges Facing Families
+Median household incomes across this district run well below the statewide average, which means every dollar added to a grocery bill, a power bill, or a health insurance premium lands harder here than it does in metro Atlanta.
+Real affordability policy means looking honestly at who actually benefits from state tax decisions, not just touting a headline rate cut.
+For the full picture, read our cost of living and economy platform.
+Investing in Workforce Development and Education
+A rural economy built on agriculture, timber, and small manufacturing needs a workforce pipeline that matches those industries, technical training, apprenticeships, and strong local schools, not a one-size-fits-all approach designed around a metro Atlanta labor market.
+Preserving Natural Resources and Our Rural Character
+The land, rivers, and forests of this district are not just scenery, they are the working infrastructure of our agricultural economy and the reason families choose to stay and raise the next generation here.
+Preserving that character means resisting outside development pressure that treats rural Georgia as an afterthought rather than a place people have chosen to call home for generations.
+A Message That Starts With What Unites Us
+As Micah told the Ledger, “This campaign is about putting people first and focusing on what unites us.” That is not a slogan chosen for a headline.
+It reflects a specific belief about how representation should work in a rural district like this one: that the people of Tattnall, Jeff Davis, Appling, and Evans counties have far more in common with each other than the loudest voices in state politics would have them believe, and that a representative’s job is to find that common ground and act on it, not to import outside fights that have little to do with daily life here.
+Support Local Journalism
+We highly encourage everyone in the district to support local journalism.
+Outlets like the Jeff Davis Ledger are increasingly rare, and in a state where millions of residents already live without reliable local news coverage, every subscription, every letter to the editor, and every local advertisement helps keep that watchdog function alive for this district specifically.
+You can read the full feature story, including additional context and quotes from the announcement, over at the Jeff Davis Ledger’s website:
+Read the full article: King announces candidacy at the Jeff Davis Ledger
+Micah King Campaign
+Candidate for Georgia House of Representatives District 157 representing Tattnall, Jeff Davis, Appling, and Evans counties.

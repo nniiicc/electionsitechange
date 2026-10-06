@@ -1,0 +1,30 @@
+GET INVOLVED
+Join Vanessa at an upcoming event or sign up to volunteer:
+Meet the Candidate Coffee:
+- Saturday, October 3rd at 3pm
+Location: Evergreen Blendz Coffee, 11811 NE 128th St, Kirkland, WA 98034
+- Wednesday, October 7th at 3pm
+Location: Cypress Coffee Company, 22310 NE Marketplace Dr #102, Redmond, WA 98053
+- Monday, October 19th at 10am
+Location: In Duvall, coming soon!
+- Sunday, October 25th at 9am
+Location: Farine Bakery & Café, 14381 Woodinville Redmond Rd NE, Woodinville, WA 98072
+- Wednesday, October 28th at 9am
+Location: Sammamish Cafe & Spirits, 22850 NE 8th St, Sammamish, WA 98074
+Get Out the Vote Events:
+- Doorbell on Sunday, October 4th at 10am
+- GOTV Rally and Canvass with Washington Conservation Action on Saturday, October 10th at 1pm
+- 45th/5th/41st GOTV Rally and Canvass with Representatives Hall, Callan, Zahn, Thai and Vanessa Kritzer on Sunday, October 18th at 11am
+- GOTV Rally and Canvass with 45th LD Dems on Saturday, October 24th at 1pm
+- Doorbell on Sunday, November 1st at 11am
+- Phonebank on Wednesday, October 14th at 5pm - virtual!
+- Phonebank on Wednesday, October 21st at 5pm - virtual!
+- Phonebank on Tuesday, October 27th at 5pm - virtual!
+RSVP here: https://forms.gle/ZduNTu7QWtnChCFy5
+Huskies for Kritzer House Party:
+Hosted by:
+Rep.
+Osman Salahuddin, Dow Constantine, Kiana Scott, Ben Golden, Kesley Knowles, Amy Goodloe, Becka Johnson, and Alison Driver
+Thursday, October 8th
+5:30 - 7:00pm
+Big Time Brewing & Ale House (4133 University Wy NE, Seattle)

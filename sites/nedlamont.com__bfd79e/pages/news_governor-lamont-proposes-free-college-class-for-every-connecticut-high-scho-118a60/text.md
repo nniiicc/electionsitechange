@@ -1,0 +1,23 @@
+press release
+Jun 29, 2026
+GOVERNOR LAMONT PROPOSES FREE COLLEGE CLASS FOR EVERY CONNECTICUT HIGH SCHOOL SENIOR
+New Initiative Builds on Dual Credit Expansion, Guarantees College Access for All Seniors Regardless of School District or Circumstance
+Middletown, Conn. – Governor Ned Lamont today announced a bold new education proposal that would enable every Connecticut high school senior to have access to at least one free college class before they graduate, no matter where they live, what school they attend, or what their family can afford.
+Building on Connecticut’s successful and rapidly expanding dual credit programs, the proposal would guarantee that every senior can access college-level coursework through one of two pathways.
+For most students, that means a dual credit class, either a concurrent enrollment course taught on their high school campus by a credentialed instructor, or a dual enrollment course taken directly on a college campus.
+For students attending schools where neither option is available or practical, the state would provide access to a free course through Charter Oak State College, Connecticut’s accredited public online college, ensuring no senior is left without an opportunity.
+“Every Connecticut high school student deserves a running start toward college and we’re going to make sure they get one,” said Governor Ned Lamont.
+“No matter where you attend high school, this proposal means that by the time you walk across the stage at graduation, you can already have your first college credits under your belt – for free.
+That’s how we make higher education more accessible, more affordable, and more attainable for every family in this state.”
+To make those credits count, Governor Lamont would also require all public colleges and universities in Connecticut to enter into matriculation agreements with Charter Oak College, guaranteeing that credits earned transfer seamlessly.
+That way, students aren’t just earning credits on paper, but getting a real head start on a degree.
+The proposal builds directly on Connecticut’s record investment in dual credit programs.
+In 2024-25, more than 24,700 high school juniors and seniors enrolled in college-level courses, which was an increase from 17,500 students just three years prior, representing roughly 30% of all high school juniors and seniors across the state.
+Governor Lamont’s most recent budget includes $6 million in annual funding to offset the cost of dual credit courses for school districts, building on $9 million previously invested through federal ARPA funds.
+Both concurrent enrollment, where a college course is taught at the high school by a credentialed high school teacher, and dual enrollment, where students attend courses directly on a college campus, are eligible pathways under the program.
+“I’m proud that we’ve made community college free, reduced student debt, and expanded automatic admission into Connecticut’s public colleges and universities.
+But there’s more to do to bring down the cost of higher education, and when we invest in dual credit programs, students respond,” said Governor Lamont.
+“Now we’re going to make sure every single senior has that opportunity — and that the credits they earn mean something when they get to college.”
+Research has consistently found that dual credit courses positively affect students’ college access and enrollment, credit accumulation, and college degree attainment — making this proposal both an affordability measure and a college completion strategy.
+By guaranteeing transfer through mandatory matriculation agreements, the Lamont administration is closing the loophole that has allowed students to earn credits that don’t follow them to their next institution.
+Governor Lamont will continue to roll-out his policy agenda for his next term, focused on his continued commitment to making Connecticut a more affordable state with a nationally-recognized public education system.

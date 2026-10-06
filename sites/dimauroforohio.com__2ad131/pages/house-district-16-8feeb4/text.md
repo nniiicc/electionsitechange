@@ -1,0 +1,1 @@
+About House District 16 Ohio House District 16 includes the following proud communities: Bay Village Cleveland - West Park (part) Fairview Park Rocky River Westlake Click here to verify if you live in the district: https://findmydistrict.ohiosos.gov/

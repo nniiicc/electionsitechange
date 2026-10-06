@@ -1,0 +1,74 @@
+Illinois Democratic Leaders to Host House Speaker Emanuel “Chris” Welch’s State Central Fundraiser and 55th Birthday Celebration
+CHICAGO — Illinois Democratic leaders will host a milestone birthday celebration honoring Speaker of the Illinois House and 7th District State Central Committeeperson candidate Emanuel “Chris” Welch on Friday, February 6.
+The Harlem Renaissance–themed evening will celebrate Speaker Welch’s 55th birthday while energizing his campaign for State Central Committeeman and honoring Black American progress, leadership, and cultural legacy.
+Inspired by the elegance and power of the early 20th-century Harlem Renaissance, the event will uplift themes of unity, resilience, and collective progress—values that continue to shape Speaker Welch’s leadership and public service.
+“The Harlem Renaissance showed us the strength of diversity and the power of unity,” said Welch.
+“As the first Black Speaker of the Illinois House, I have seen how far our state and our country have come in the fight for equality—but I also know how much work remains.
+I am committed to continuing that fight and building a more just and inclusive future for every community.”
+The celebration will be hosted by Governor JB Pritzker, Attorney General Kwame Raoul, Senate President Don Harmon, Chicago Mayor Brandon Johnson, and Cook County Board President Toni Preckwinkle, with a special appearance by Lieutenant Governor Juliana Stratton.
+The event will take place Friday, February 6, from 6:00 p.m. to 9:00 p.m. at the Chicago Athletic Association’s White City Ballroom.
+Guests are encouraged to dress in black and/or gold and embrace classic Harlem Renaissance style, including 1920s-era elegance and glamour—fedoras, feathers, pearls, tuxedos, and vintage flair.
+Tickets and sponsorship opportunities are available at:
+secure.actblue.com/donate/happybirthdayspeaker
+RSVP: admin@hdemsIL.com
+Note: This event is closed to the press.
+Broad Coalition of Support
+Speaker Welch has received endorsements from more than 55 Democratic leaders across the 7th District and beyond, reflecting broad confidence in his leadership and vision.
+Endorsers include:
+Congressman Danny K.
+Davis
+Cook County Board President Toni Preckwinkle
+Former Secretary of State Jesse White
+Democratic Party of Illinois Chair Lisa Hernandez
+Cook County Clerk Monica Gordon
+Bellwood Mayor Andre Harvey
+Broadview Mayor Katrina Thompson
+Hillside Mayor Joe Tamburino
+Maywood Mayor Nathaniel Booker
+River Forest Village President & Committeeperson Cathy Adduci
+Westchester Village President Greg Hribal
+State Representative Kam Buckner
+State Representative Lisa Davis
+State Representative Michael Crawford
+State Representative Margaret Croke
+State Representative Kelly Cassidy
+State Representative Kimberly DuBuclet
+State Representative Eva-Dina Delgado
+State Representative Marcus Evans
+State Representative La Shawn Ford
+State Representative Edgar Gonzalez
+State Representative Norma Hernandez
+State Representative Lilian Jiménez
+State Representative Theresa Mah
+State Representative Debbie Meyers-Martin
+State Representative Yolonda Morris
+State Representative & Committeeperson Aarón Ortíz
+State Representative Jawaharial “Omar” Williams
+State Representative Sonya Harper
+State Representative Justin Slaughter
+1st Ward Committeeperson Laura Yepez
+2nd Ward Committeeperson Tim Egan
+3rd Ward Alderman & Committeeperson Pat Dowell
+4th Ward Alderman Lamont Robinson
+11th Ward Alderman Nicole Lee
+14th Ward Alderman Jeylú Gutiérrez
+15th Ward Alderman & Committeeperson Ray Lopez
+16th Ward Alderman & Committeeperson Stephanie Coleman
+18th Ward Alderman Derrick Curtis
+24th Ward Alderman & Committeeperson Monique Scott
+25th Ward Alderman & Committeeperson Byron Sigcho-Lopez
+26th Ward Alderperson Jessie Fuentes
+27th Ward Alderman Walter Burnett
+36th Ward Alderman & Committeeperson Gilbert Villegas
+37th Ward Alderwoman & State Central Committeewoman Emma Mitts
+42nd Ward Alderman & Committeeperson Brendan Reilly
+43rd Ward Alderman Timmy Knudsen
+43rd Ward Committeeperson Lucy Moog
+MWRD President Kari Steele
+MWRD Commissioner Precious Brady-Davis
+Cicero Township President & Committeeperson Larry Dominick
+Cook County Commissioner & 11th Ward Committeeperson John Daley
+DNC Member Dan Hynes
+Former State Central Committeewoman Darlena Williams-Burnett
+Chicago LGBTQ Hall of Famer & Former Personal PAC President Terry Cosgrove
+###

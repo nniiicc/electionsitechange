@@ -1,0 +1,34 @@
+I know it’s Friday the 13th, which can bring a bit of extra worry, but I truly hope everything is going well for you today.
+Things continue to speed up as we work our way through the session.
+We are a little over two weeks from the Veto Break and a little over a month […]
+Erika’s Update March 9, 2026
+Things have picked up with the session.
+Today is day 43, which means we have just 17 legislative days until sine die.
+This year, we have had over 900 bills filed in the House and over 350 in the Senate.
+The big fight remains over the budget, which is now in the Senate.
+The Senate […]
+Erika’s Update for Week 7 of KYGA26
+HB 500 I empathize with the frustration that many of you have expressed through your phone calls and emails.
+I understand that our concerns are shared and that tensions are rising.
+On Friday, I took steps to address these issues by filing Amendments 1 and 2 to HB 500.
+Amendment 1 aims to fully fund […]
+Bills That Passed the House the Week of February 16
+House Bill 3: Medicaid and KCHIP would be required to comply with certain pharmacy reimbursement requirements under this bill.
+House Bill 4: This bill would criminalize conduct with a minor with the intent to manipulate the child into engaging in sexual conduct, a practice also known as grooming.
+There would be enhanced penalties for grooming […]
+Erika’s Update: February 16, 2026
+Happy President’s Day!
+There is no session today, but things resume tomorrow.
+I hope you all had a great Valentine’s Weekend.
+Things are picking up as we work our way through the 60-day session.
+The budget remains a major question mark, but I am keeping a close eye on developments.
+Erika HB 500 Like you, […]
+Erika’s Update: February 9, 2026
+Another week of the 2026 Session of the Kentucky General Assembly is in the books.
+I want to express my gratitude to everyone who called or emailed during the session.
+This week alone, I returned over 150 calls, primarily regarding the Cost of Living Adjustment (COLA) or the 13th paycheck for retirees.
+While I doubt […]
+New laws that take effect tomorrow
+During the 2025 Legislative Session, over 1,100 bills were filed, and approximately 140 of them were enacted into law.
+Most of these new laws will take effect tomorrow, Friday, June 27.
+Some of these measures received unanimous support or had broad bipartisan backing, while others sparked intense debate and division both within the legislature and […]

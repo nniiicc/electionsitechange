@@ -1,0 +1,40 @@
+2026 New Mexico House District 41
+Issues & Support at a Glance
+Yolanda Jaramillo vs.
+Debbie Rodella
+Affordability / Cost of living/ Payday Loans
+Yolanda Jaramillo: Yolanda will fight to protect the 36% cap on predatory lending —stopping high-cost loan traps—and ensure New Mexicans are never pushed back into those debt traps.
+She will also fight for affordable housing, good-paying jobs, and lower everyday costs for working families.
+————-
+Debbie Rodella: For years, multiple efforts to cap predatory lending rates from 300% to over 1,000% died in Rodella’s committee with the support of Republicans, while the payday industry contributed tens of thousands to her campaigns.
+Healthcare
+Yolanda Jaramillo:Yolanda supports affordable, accessible healthcare at every stage of life—protecting Medicaid, lowering costs, expanding mental health services, and bringing more providers to our region.
+————-
+Debbie Rodella: In 2013, Rodella voted with Republicans against the health insurance exchange, opposing expanded access to affordable coverage—especially for rural New Mexicans—and missing an opportunity to lower costs and protect consumers
+Education
+Yolanda Jaramillo: Yolanda supports strong rural schools, investing in teachers, and creating pathways to college and trades through partnerships with Northern New Mexico College.
+————-
+Debbie Rodella: Rodella voted with Republicans and Gov.
+Susana Martinez to require third-grade retention for students not reading at grade level, overriding concerns from parents and educators.
+Water, environment, and climate
+Yolanda Jaramillo:As an acequia leader, Yolanda has secured funding for acequia infrastructure and will continue protecting our water and communities—supporting clean drinking water, traditional uses, Mutual Domestic Water Associations, the Rio Chama aquifer project, and strong climate policy.
+————-
+Debbie Rodella: Rodella earned a lifetime “D” grade from Conservation Voters New Mexico.
+In 2017, she also introduced Republican -backed legislation that would have made it harder for local solar providers to operate— slowing clean energy growth in NM.
+In 2011, Rodella voted against a bill to strengthen enforcement against livestock theft and animal cruelty.
+Immigration
+Yolanda Jaramillo:Yolanda values the contributions immigrants make to our communities and stands with immigrant families.
+She rejects ICE’s masked agents and Trump’s effort to divide our communities.
+————-
+Debbie Rodella: In 2011 and 2012, Rodella joined Republican Gov.
+Susana Martinez’ anti-immigrant efforts to repeal New Mexico’s driver’s license law for undocumented immigrants, backing measures that would have taken licenses away from immigrant families.
+Alignment with Democratic values (abortion access, LGBTQ protections, gun safety, voter access)
+Yolanda Jaramillo:Yolanda is pro-choice and will always respect a woman's personal healthcare decisions without government interference.
+She supports LGBTQ+ New Mexicans, common-sense gun safety legislation, and expanding and protecting voter access.
+————-
+Debbie Rodella: Rodella has repeatedly sided with Republicans—voting to limit abortion access, opposing same sex marriage, earning an A+ rating from the NRA while voting against basic gun safety, supporting efforts to restrict voter registration, and against reducing criminal penalties for marijuana.
+Trump
+Yolanda Jaramillo:Yolanda believes all candidates and President Donald Trump should disclose their financial interests and potential conflicts, and she strongly supports transparency and ethical leadership.
+————-
+Debbie Rodella: In 2017, Rodella sided with Republicans to block a bill requiring Donald Trump to release his tax returns—standing against transparency.
+This year, she also failed to disclose work she did in 2025 as a lobbyist on her required candidate financial disclosure form.

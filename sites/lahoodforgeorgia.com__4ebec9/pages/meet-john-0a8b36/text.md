@@ -1,0 +1,40 @@
+“My whole life has revolved around faith, family, work, and stewardship.
+Being raised in a family of entrepreneurs with a mix in the agriculture, healthcare, and hospitality industries gave me a sense of purpose and responsibility at a young age.
+As a third generation owner and operator of senior living communities, I am thankful for the experience and wisdom gained from spending time with some of the finest members of the Greatest Generation.
+Bridging this traditional wisdom with an awareness of Georgia’s current challenges and opportunities is something I am passionate about.
+I believe to whom much is given, much is required.
+I feel very humbled and excited about the opportunities on the horizon to impact the families and businesses of Georgia in a positive way.”
+John LaHood is best known as a family man, an entrepreneur, a job creator, and a public servant.
+As President of Fellowship Senior Living, Inc., a provider of senior housing and care, he is responsible for business development, strategic management, and general oversight of several communities throughout Georgia and in Florida, serving approximately 500 older adults and employing 300 people.
+Beginning his full-time senior living career in 1997, he has a proven business acumen and a record of effective leadership in the industry.
+He was recognized in 2004 and 2006 for Best Practices in Personal Care Homes & Assisted Living Communities by the Georgia Department of Community Health and several other state associations.
+He served as President of the Assisted Living Association of Georgia from 2010-2013 during a period of major transition in the legislative and regulatory environment.
+He was an advisory workgroup member hosted by the Department of Community Health in 2011-2012 that influenced the rules and regulations for Georgia’s Assisted Living Community licensure and he continues to be on a first name basis with many DCH officials.
+He currently serves on the Georgia Senior Living Association board.
+He is a Registered Nurse and holds many other certifications that support him in his role as President/CEO of Fellowship Senior Living.
+John is currently the incumbent candidate for State House Representative District 175 in the Primary election that will be held on May 24, 2022.
+The 2022 Mid-term election will be on November 8, 2022.
+Since being elected to the Georgia State House in 2018, John has been the leader on legislation for older adults and has been a champion for lowering taxes, protecting the unborn, protecting students from indoctrination, defending the 2nd Amendment, standing up for our farmers, election integrity, and much more.
+A South Georgia native, John lives in Brooks County on a third-generation family farm where he raises cattle with his father and other members of the family.
+He is married to his wife Crystal of 26 years.
+John and Crystal have four children; George (wife Haley), Anna, Jackson, and Brown, and three grandchildren, Langley, Hadleigh, and Mary.
+In addition to running his business, John finds time to remain actively involved in his community and in numerous civic and business organizations such as Leadership Georgia (Class of 2015), Georgia Senior Living Association, Assisted Living Association of Georgia (Past President), and the Boys & Girls Club of Brooks County.
+John enjoys spending time outdoors on his family farm, flying, and being with family and friends.
+PROFESSIONAL CERTIFICATIONS AND MISCELLANEOUS CREDENTIALS:
+- Registered Professional Nurse (ABAC 1998-2001)
+- Georgia Wastewater Operator Class 3
+- Georgia Water Operator Class 4
+- Private Pilot-Instrument Rated
+MEMBERSHIPS AND BOARD AFFILIATIONS:
+- Valdosta Rotary Club – Past Board member
+- Assisted Living Association of Georgia – Past President/Current Board member
+- Georgia Senior Living Association – Board Member
+- Valdosta/Lowndes County Chamber of Commerce – Past Governmental Affairs Committee Chair
+- Quitman/Brooks County Chamber of Commerce – Past Board Member
+- Highland Christian Academy – Past Board Chairman
+- Brooks County Boys & Girls Club – Board Member
+- My Friend’s House Alzheimer’s Day Care Program – Past Board Member
+- Wiregrass Technical College Certified Nurse Aide Program – Past Advisory Board Member
+- Leadership Brooks Class of 2007
+- Leadership Georgia Class of 2015
+- Georgia Aviation Hall of Fame – Board Member

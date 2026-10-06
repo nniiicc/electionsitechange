@@ -1,0 +1,74 @@
+Press Release
+Sarah Rascón Announces Campaign for California State Senate District 26
+Experienced coalition builder will use her vast public service experience to advance economic opportunity, housing affordability, and environmental justice
+Los Angeles, CA — A dedicated public servant with 15 years of experience directly serving the Northeast Los Angeles communities, Sarah Rascón is launching her campaign for California State Senate District 26.
+Raised by her immigrant grandmother in El Sereno, Rascón relied on public elementary schools and social services to give her a strong start in life.
+She went on to be the first generation in her family to graduate from college, and through internship opportunities, embarked on a career to help deliver resources and advance justice for Angelenos.
+Rascón is running for State Senate because she believes California needs to help lift up families who are experiencing the brunt of our economic, housing, and environmental crises.
+“Too many Angelenos are stretched thin.
+We’re working long hours, caring for our families, and contributing to our community’s well-being, yet no matter our income, we struggle with the rising costs of housing and health care.
+I’ve spent my career building coalitions and turning ideas from community members into projects that have improved community safety, climate resilience, and educational outcomes.
+As your State Senator, I’ll be a champion for amplifying the voices of working families and uplifting our underserved communities,” stated Rascón.
+Rascón’s experience includes serving as the Director of County and Regional Affairs for Mayor Karen Bass, the Deputy Executive Director for Environmental Equity with the Mountains Recreation and Conservation Authority (MRCA), and a Field Representative for then-Assemblymember Jimmy Gomez.
+In the State Senate, Rascón will use her experience to ensure community members are heard and their ideas are translated into tangible solutions.
+“Working together, we can help advance economic equity and social justice.
+In the State Senate, I'll prioritize advancing policies that improve workforce development, housing affordability, environmental justice, educational opportunity, small business assistance, and support for our entertainment industry workers,” stated Rascón.
+The 26th State Senate District is represented by Senator Maria Elena Durazo, who announced her candidacy for Los Angeles County Supervisor and will not seek re-election to the Legislature.
+Senate District 26 includes the Los Angeles communities of Atwater Village, Boyle Heights, Chinatown, City Terrace, Cypress Park, Downtown LA, Eagle Rock, East Hollywood, Echo Park, El Sereno, Elysian Valley, Glassell Park, Hancock Park, Highland Park, Historic Filipinotown, Hollywood, Koreatown, Larchmont, Lincoln Heights, Little Armenia, Los Feliz, Montecito Heights, Monterey Hills, Mt.
+Washington, Pico-Union, Silver Lake, Thai Town, Westlake-MacArthur Park, Wilshire Center, Unincorporated East Los Angeles, and the City of Vernon.
+The Primary Election will take place on Tuesday, June 2, 2026.
+About Sarah Rascón
+Sarah Rascón is a native Angeleno from El Sereno, raised by her immigrant grandmother and proudly shaped by the public school and social services system.
+A first-generation college graduate from UC Merced, Rascón’s dedication to serving her community began early while interning for the Hispanic College Fund and working on voter education with the Southwest Voter Registration Education Project, where she worked to increase Latino voter participation.
+After finishing college, Rascón became a Community Development Organizer and developed STEM programming and career curriculum for Northeast LA youth alongside the late Antonio Gonzalez.
+She went on to serve as a field representative in the California State Assembly for then-Assemblymember Jimmy Gomez, focusing on issues concerning the Latino and LGBTQ+ communities, as well as environmental policy, particularly in affected neighborhoods such as Lincoln Heights, El Sereno, Highland Park, Silver Lake, and East LA.
+Rascón’s dedication to sustainability and environmental justice led her to serve as the inaugural Urban River Program Officer before becoming the Deputy Executive Officer of Environmental Equity for the Mountains Recreation & Conservation Authority (MRCA).
+She spearheaded state legislation that resulted in the Upper LA River and Tributaries Revitalization Plan, helping establish new natural parks and recreational opportunities with a prioritization for marginalized communities.
+She developed an LA River workforce program and secured federal funding for an environmental protection ranger program at Elephant Hill in El Sereno.
+Rascón also launched environmental and tribal equity initiatives that increased representation for historically underrepresented groups.
+Rascón recently completed her role as Director of County and Regional Affairs for Mayor Karen Bass.
+She brought together elected leaders from throughout the county, including the Board of Supervisors and 87 neighboring cities, strengthening relationships across the region.
+Her efforts included collaborating with the LA Unified School District and the City of Los Angeles to establish shared priorities, including student safety and addressing homelessness.
+Her achievements as Director include strengthening relationships between the City and the County on areas of homelessness, wildfire recovery coordination, mental health efforts including expanding infrastructure for new facilities, housing veterans, expediting 100% affordable housing and shelter projects, while also improving traffic safety around schools like deploying crossing guards across the city, and expanding community school parks.
+She also led the first Los Angeles Foster Youth Shadow Day at City Hall in the Mayor's office, where foster youth delegates successfully advocated for policy changes and explored career pathway opportunities.
+Rascón’s civic work has included serving on the East LA Area Planning Commission, being a board member for a local nonprofit that creates open street activations throughout diverse communities in LA, and representing her community as an elected delegate to the California Democratic Party.
+She and her husband currently live in Glassell Park.
+Together, they enjoy meeting local vendors at their neighborhood farmers' market, learning about environmental sustainability, hiking, and spending time in LA’s vibrant public parks.
+Learn more at RasconforSenate.com
+En Español
+Líder Comunitaria Rascón Anuncia su Candidatura para el Distrito 26 en el Senado Estatal de California
+Rascón busca llevar a las comunidades de Los Ángeles hacia un futuro con justicia ambiental, viviendas dignas e accesibles, y más oportunidades económicas para las familias trabajadoras
+Los Ángeles, CA (4 de Junio, 2025)— Con más de 15 años sirviendo directamente a las comunidades de Los Ángeles, Sarah Rascón anuncia oficialmente su campaña para representar al Distrito 26 en el Senado Estatal de California.
+Criada por su abuelita inmigrante en El Sereno, Rascón se apoyó en las escuelas públicas y programas sociales para salir adelante en su carrera para servir al público y su comunidad.
+Fue la primera de su familia en graduarse de la universidad, sobresaliendo en su carrera dedicada a llevar recursos y justicia a las familias más necesitadas de Los Ángeles.
+“Estamos haciendo todo lo posible para salir adelante: trabajamos largas horas, cuidamos a nuestras familias y apoyamos nuestras comunidades con lo que tenemos.
+Aún así, enfrentamos el alto costo de las viviendas, la atención médica y los servicios básicos,” señaló Rascón.
+“A lo largo de mi carrera, he formado alianzas y transformado las ideas de nuestra gente en proyectos reales que han mejorado la seguridad, la resiliencia climática y las oportunidades educativas en nuestras comunidades.
+Como Senadora Estatal, seré una voz firme para nuestras familias trabajadoras y comunidades que han sido históricamente olvidadas.”
+La experiencia de Rascón incluye haber servido como Directora de Asuntos Regionales y del Condado en la Oficina de la Alcaldesa Karen Bass, Subdirectora Ejecutiva de Equidad Ambiental en la Agencia de la Autoridad de las Montañas Recreación y Conservación (MRCA, por sus siglas en inglés), y Representante en la Asamblea Estatal de California para el entonces Asambleísta Jimmy Gomez.
+En el Senado Estatal, Rascón usará esta experiencia para asegurar que las voces de las comunidad en el Distrito 26 sean escuchadas y que sus ideas se conviertan en soluciones reales.
+“Cuando trabajamos juntos, podemos avanzar la equidad económica y la justicia social", afirmó Rascón.
+“En el Senado de California, me comprometo a priorizar políticas que fortalezcan el desarrollo laboral, las viviendas asequible, la justicia ambiental, la educación , el apoyo a pequeñas empresas, y la protección de trabajadores de la industria del entretenimiento en Los Ángeles.”
+El Distrito 26 del Senado Estatal está actualmente representado por la Senadora María Elena Durazo, quien anunció su candidatura para la Junta de Supervisores del Condado de Los Ángeles y no buscará la reelección.
+El Distrito 26 incluye comunidades de Los Ángeles como Atwater Village, Boyle Heights, Chinatown, Cypress Park, el centro de Los Ángeles, Eagle Rock, East Hollywood, Echo Park, El Sereno, Elysian Valley, Glassell Park, Hancock Park, Highland Park, Historic Filipinotown, Little Armenia, Thai Town, Larchmont, Koreatown, Lincoln Heights, Los Feliz, Montecito Heights, Monterey Hills, Mt.
+Washington, Pico-Union, Silver Lake, Westlake-MacArthur Park, Wilshire Center, City Terrace, el Este de Los Ángeles y la Ciudad de Vernon.
+Más información: RasconforSenate.com
+Sobre Sarah Rascón
+Sarah Rascón es originaria de El Sereno, criada por su abuelita inmigrante y orgullosamente criada en el sistema de escuelas públicas y programas sociales.
+Es la primera en su familia en graduarse de la universidad, obteniendo su licenciatura en UC Merced.
+Su compromiso al servicio comunitario comenzó desde joven en una organización sin fines de lucro dedicada a apoyar a estudiantes latinos en los Estados Unidos, Hispanic College Fund, y participando en el proyecto de Southwest Voter Registration Education Project, por su nombre en inglés, donde trabajó para aumentar la participación electoral de la comunidad latina.
+Después de graduarse, Rascón se convirtió en Organizadora de Desarrollo Comunitario, donde desarrolló programas de ciencias , tecnología y matemáticas, y currículos de carreras para jóvenes en el Noreste de Los Ángeles, en colaboración con el fallecido líder Antonio González.
+Además, Rascon se desempeñó como representante de distrito en la Asamblea Estatal de California para el entonces Asambleísta Jimmy Gómez, enfocándose en temas relacionados con las comunidades latinas y LGBTQ+, así como en políticas ambientales que afectan directamente a vecindarios como Lincoln Heights, El Sereno, Highland Park, Silverlake y el Este de Los Ángeles.
+Su dedicación a la sostenibilidad y la justicia ambiental la llevó a convertirse en la primera oficial del Programa de Ríos Urbanos antes de asumir el cargo de Subdirectora Ejecutiva de Equidad Ambiental en la Mountains Recreation & Conservation Authority (MRCA por sus siglas en inglés).
+Rascón lideró legislación estatal que resultó en el Plan de Revitalización del Alto Río de Los Ángeles y sus Afluentes, ayudando a establecer nuevos parques naturales y espacios recreativos con un enfoque en comunidades marginadas a lo largo del Los Angeles River Greenway.
+Rascon también desarrolló un programa laboral vinculado al río, y aseguró fondos federales para crear un programa de guardabosques enfocado en la protección ambiental en Elephant Hill.
+Además, lanzó iniciativas de equidad ambiental y tribal que ampliaron la representación de comunidades históricamente excluidas.
+Más recientemente, Rascón sirvió como Directora de Asuntos Regionales y del Condado en la Oficina de la Alcaldesa Karen Bass.
+En ese rol, fortaleció relaciones entre líderes electos del condado, incluyendo la Junta de Supervisores y representantes de las 87 ciudades en la región.
+Entre sus logros se destacan la coordinación con el Distrito Escolar Unificado de Los Ángeles y la Ciudad para establecer prioridades compartidas en temas como seguridad estudiantil y personas sin hogar.
+También lideró esfuerzos de alivio de deudas médicas, recuperación tras incendios forestales, salud mental (incluyendo la implementación de nueva legislación estatal), y la expansión de infraestructura para una nueva instalación de vivienda para veteranos.
+Cabe mencionar que Rascon aceleró proyectos de vivienda, mejoró la seguridad vial en zonas escolares, desplegó guardias de cruce en toda la ciudad, amplió parques escolares comunitarios y renovó el acuerdo de Prevención de Pandillas y Desarrollo Juvenil.
+Asimismo, lideró el primer Foster Youth Shadow Day en el Ayuntamiento de Los Ángeles, donde jóvenes en cuidado tutelar abogaron exitosamente por cambios de política, aprendieron sobre incidencia política y exploraron trayectorias profesionales.
+Rascón ha sido comisionada en la East LA Area Planning Commission, miembro de juntas directivas de organizaciones sin fines de lucro locales, y delegada del Partido Demócrata de California.
+Actualmente vive con su esposo en Glassell Park.
+Juntos disfrutan visitar a vendedores locales en el mercado de agricultores de su vecindario, aprender sobre sostenibilidad ambiental, y pasar tiempo en los vibrantes parques públicos de Los Ángeles.

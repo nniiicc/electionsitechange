@@ -1,0 +1,3 @@
+Combat Veteran, Former Prosecutor & Lifelong Resident Asks Voters for the Opportunity to Serve Spartanburg, SC – Travis Moore, a local attorney and combat veteran, announced his candidacy today for South Carolina State House District 33.
+Moore will file this …
+Continue reading

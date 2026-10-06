@@ -1,0 +1,32 @@
+Rep.
+Scott joins progressive leaders and organizations such as Councilmember Alexis Mercedes Rinck and the Working Families Party in supporting Sabio-Howell’s grassroots campaign and vision of an affordable Washington
+Seattle, WA – State Representative Shaun Scott of the 43rd Legislative District (LD) has endorsed Hannah Sabio-Howell, former Communications Director at Working Washington, in her candidacy for state Senate in Washington’s 43rd LD, which spans neighborhoods such as Capitol Hill, First Hill, the University District, Fremont, Belltown, Downtown, Montlake, Eastlake and Laurelhurst.
+She is challenging Senate Majority Leader Jamie Pedersen, a 20-year incumbent and corporate attorney.
+“I’m proud to endorse Hannah Sabio-Howell for State Senate in Washington’s 43rd district,” said Scott.
+“It has never been more important to have fighters in Olympia ready to take on corporate interests and work with laser-focused urgency to address Washington’s affordability crisis, something we feel particularly acutely here in the 43rd.
+“Hannah knows we don’t need to entertain false choices between funding our K-12 schools or investing in affordable childcare for working families, strengthening our higher education system or ensuring everyday people can afford healthcare.
+A better Washington is possible, and it starts by sending progressive leaders like Hannah to Olympia to organize alongside us to get it done.”
+“Washington state could be the best place in the nation to build a life if people can afford to do that—but that’s not the Washington we live in right now,” Sabio-Howell said.
+“I am honored to have Rep.
+Scott’s support in this fight to deliver on affordability and uplift our district’s visionary values together.”
+“What we know here in the 43rd is that we can build more housing and bring rents down, win transformative social safety net programs like universal childcare, and raise taxes on ultra-wealthy corporations to truly invest in the future we deserve.
+But we need fighters alongside us and working for us both in Olympia and here at home, which I look forward to doing in partnership with Rep.
+Scott and grassroots organizers like the Working Families Party.”
+The campaign has also begun signature-gathering to waive the filing fee, and has collected over 200 signatures in just 6 hours with the help of nearly 20 volunteers—many of whom are first-time supporters of any campaign.
+What people are saying: Sabio-Howell’s campaign is backed by other progressive leaders and community organizers that share a commitment to a Washington we can all afford.
+- “Hannah understands that the affordability crisis isn’t abstract, it’s something working people are living every day.
+She’s spent her career standing with workers and fighting for policies that make our communities more fair, more stable and more hopeful.
+I’m proud to endorse Hannah because she brings the courage, values and organizing spirit we need in Olympia to make Washington work for everyone.” – Seattle City Councilmember Alexis Mercedes Rinck
+- “One of the most progressive districts in the state deserves a progressive leader like Hannah Sabio-Howell to challenge the status quo and support policies that will benefit everyone in the state.
+Shaped by the labor movement and deeply rooted in her community, she will fight for an affordable future, center worker power and create a Washington that allows everyone to live with dignity.
+I loudly and proudly endorse her run for the State Senate.” – Seattle Port Commissioner Toshiko Hasegawa
+- “The cost of housing has doubled over the last 20 years, and solving that challenge will require leaders we can trust to stand up to powerful corporate lobbies that oppose progress; leaders who are ready to act.
+Hannah Sabio-Howell understands that we need to build more, and faster, and ensure our communities are livable for all of us—and that can’t happen without the courage to tax the wealthiest tech corporations in our state that have built their wealth at our expense.
+We’re proud to endorse Hannah because she brings the urgency, thoughtfulness and courage needed to make real progress on affordability.” – Tech4Housing
+- “We are so proud to endorse Hannah Sabio-Howell for LD 43 State Senate.
+Hannah is a fighter for working people in Washington who has helped win the Domestic Workers’ Bill of Rights, protect fair pay for gig workers and win taxes on the rich.
+She’s challenging a Democratic incumbent who has slowed progress on housing bills and carved out tax cuts for the super-rich.
+It’s time for change.
+Vote Hannah.
+Vote WFP.” – Working Families Party
+More information: Sabio-Howell’s campaign platform and other details are available at hannahforwashington.com and @hannahsabiohowell across Facebook, Instagram, Bluesky, TikTok and YouTube.

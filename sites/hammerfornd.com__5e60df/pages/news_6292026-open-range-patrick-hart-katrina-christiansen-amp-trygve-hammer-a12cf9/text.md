@@ -1,0 +1,1 @@
+6.29.2026 Open Range: Patrick Hart talks with Katrina Christiansen & Trygve Hammer Jun 30 Written By Nicole DesRosier June 29, 2026 Trygve Hammer, Katrina Christiansen, and Patrick Hart on BEK-TV+ watch Nicole DesRosier

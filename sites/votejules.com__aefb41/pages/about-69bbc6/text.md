@@ -1,0 +1,25 @@
+Jules lives in West Linn with her husband, Joe.
+They have four children and are active in their community, contributing to public schools, arts, library and small businesses.
+Ensuring that our community is welcoming and inclusive is important and personal for Jules, who has kids in the LGBTQ+ community.
+As state representative, Jules has made connections and passed meaningful legislation on health care, addiction treatment and recovery, supporting workers, and helping Oregonians thrive.
+As mayor, she pushed for an equity audit to better inform inclusive city policy, and established the first Pride Proclamations in city history.
+She has a background in communications and journalism, is pursuing a master’s degree, and is a proud Oregon Duck.
+Elected Leadership
+Jules will continue to work tirelessly for all of HD 37.
+- Chair, House Committee on Early Childhood
+- Vice-chair, House Committee on Revenue
+- Member, House Committee on Commerce and Consumer Protection
+- Chair, Childcare Caucus
+- Leader, Measures 5/50 Study Group
+Current and Past Community Involvement
+- I205 Tolling Diversion Policy Committee - Member
+- Willamette Falls Locks Authority - Member
+- Community Living Above - Coalition Member
+- Metro Mayors’ Consortium - Executive Committee Member
+- Clackamas County Childcare Task Force - Liason
+- West Linn Historic Review Board - Liason
+- Economic Development Committee - Liason
+- West Linn Youth Advisory Council - Liason
+- WLWV Education Foundation - Past President
+- West Linn Softball Association - Past Board Member
+- Girl Scouts USA - Former Troop Leader

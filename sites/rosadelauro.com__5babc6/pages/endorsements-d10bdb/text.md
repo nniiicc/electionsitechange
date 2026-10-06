@@ -1,0 +1,13 @@
+Latest Endorsements
+- SEIU Connecticut 1199NE
+- Connecticut AFL-CIO
+- Connecticut Laborers’ District Council
+- Connecticut Building Trades
+- CSEA.SEIU 2001
+- Sierra Club
+- National Organization for Women NOW
+- NRDC
+- Planned Parenthood
+- Professional Aviation Safety Specialists
+- Reproductive Freedom
+- Defend the Vote

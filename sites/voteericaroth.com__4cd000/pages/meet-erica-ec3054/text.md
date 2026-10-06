@@ -1,0 +1,22 @@
+Assemblymember for District 24
+Meet Erica
+Assemblymember for District 24
+Meet Erica
+I grew up in Northern Nevada where my father, an elementary school teacher, and my mother, a member of United Scenic Artists local 829 IATSE, instilled in me the importance of collective action and service to others.
+While I dreamed as a little girl of being a professional soccer player, that dream shifted over time and I became a civil rights attorney, fighting for those same values instilled in me at a young age by advocating to protect working families, seniors, and vulnerable members of our community.
+Erica’s candidacy is built on the work she’s done in her community, centering the voices of impacted people and speaking truth to power.
+Photo: Erica’s Dad teaching
+As an attorney, I’ve fought to protect consumers from predatory corporations, tenants from unjust treatment, and our neighbors experiencing mental illness in need of comprehensive care.
+One of my proudest moments came in 2022, when the Supreme Court overturned Roe v.
+Wade.
+I was working as Governor Sisolak’s Deputy General Counsel, and within hours of the decision coming down, I had drafted the Executive Order protecting providers and patients seeking essential and lifesaving care in this state from criminal prosecution.
+Now, I will represent District 24 with these same principles.
+Photo: Erica’s Dad teaching
+Outside of work, I enjoy all the natural beauty that Northern Nevada has to offer with my faithful rescue dog, Noah, by my side.
+A true champion for the underdog, I’m proud to have dedicated my time fostering over 10 rescue dogs set for euthanasia.
+I know that policy must be created by and for the people it impacts, and I will continue to champion:
+- Housing as a Human Right
+- Criminal Justice Reform and Evidence-Based Public Safety
+- Union Protections
+- Environmental Justice
+- Reproductive Freedom for All

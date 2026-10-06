@@ -1,0 +1,12 @@
+I am the first and only pediatrician in Congress and was diagnosed with type 1 diabetes when I was 16 years old.
+Both as a patient and a community pediatrician for nearly 20 years, I know how important it is to make health care, along with other everyday costs, more affordable for middle-class families.
+I have worked to get bills passed into law to end surprise medical billing, prevent Medicare cuts, and make healthcare more affordable by shoring up the ACA.
+I know firsthand what is wrong with our current system.
+I have comforted mothers crying in my office because their costs and deductibles are skyrocketing, that’s why this year I re-introduced the Helping Families Access Pediatric Care Act (HR 8573) that will ensure children and families can access necessary, affordable care.
+I’ve helped pass laws to actually bring down the cost of lifesaving prescription drugs, like insulin.
+I will work to make healthcare and other everyday costs more affordable for middle-class families.
+As a doctor, I will always fight to protect a woman’s right to choose and to keep politicians out of private decisions between a woman and her doctor.
+- I introduced a bill, signed into law by President Trump, to speed up getting generic insulin to market, to bring down costs.
+- I have stood up to price gouging by prescription drug companies and voted to finally give Medicare the power to negotiate prescription drug costs and cap insulin at $35/month for seniors.
+- Re-introduced the Helping Families Access Pediatric Care Act (HR 8573) that will ensure children and families can access necessary, affordable care.
+- I have helped save 8th District families up to $2,800/year on their health insurance

@@ -1,0 +1,35 @@
+0
+Skip to Content
+State Senator Barry Finegold
+About Barry
+Meet Barry
+Stay Connected
+In the News
+Contribute
+Donate
+Open Menu
+Close Menu
+State Senator Barry Finegold
+About Barry
+Meet Barry
+Stay Connected
+In the News
+Contribute
+Donate
+Open Menu
+Close Menu
+Folder:
+About Barry
+Back
+Meet Barry
+Folder:
+Stay Connected
+Back
+In the News
+Folder:
+Contribute
+Back
+Donate
+Make an Impact Today
+Every dollar counts
+Donate

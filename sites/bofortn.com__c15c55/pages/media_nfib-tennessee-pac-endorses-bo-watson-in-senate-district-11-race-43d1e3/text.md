@@ -1,0 +1,8 @@
+NFIB Tennessee PAC Endorses Bo Watson In Senate District 11 Race
+The NFIB Tennessee PAC, the political action committee of the state’s leading small business advocacy organization, has endorsed Senator Bo Watson in the Senate District 11 race.
+The NFIB Tennessee PAC is comprised exclusively of NFIB members.
+"Our members support the candidates who demonstrate they will support small business consistently, and Senator Watson has shown us that he understands the significant challenges for small businesses," said Jim Brown, the National Federation of Independent Business' state director for Tennessee.
+"Senator Watson is committed to building and maintaining a pro-small business environment in his district and across Tennessee.”
+“Earning the endorsement of the NFIB Tennessee PAC is a great honor,” said Senator Watson.
+“Small businesses are the backbone of our communities and drive a large part of our state’s economy.
+I’m proud to stand with Tennessee’s small business owners and grateful for the NFIB Tennessee PAC’s support in this upcoming election.”

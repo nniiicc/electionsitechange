@@ -1,0 +1,345 @@
+top of page
+Dear Neighbor,
+The 2026 Legislative Session has adjourned Sine Die, marking my eighth year representing
+District 9B in the House of Delegates.
+Maryland’s 448th legislative session was defined by
+another difficult budget year.
+We continue to feel the effects of federal actions which have
+reduced funding for critical programs and created economic uncertainty for families across our
+state.
+In this letter you will find a list of select legislation passed this year, both statewide and
+specifically affecting Howard County.
+For a comprehensive list of bills grouped by major policy
+areas, I encourage you to review the 90 Day Report on the Maryland General Assembly website
+(mgaleg.maryland.gov/mgawebsite/).
+If you have specific questions, please feel free to contact
+my office.
+This session I was honored to continue my work chairing the Transportation & Environment
+Subcommittee of Appropriations.
+I chaired budget hearings with 23 agencies and we made
+changes to each agency budget as necessary.
+I am pleased to share that the final budget was
+adopted on a bipartisan basis and signed into law by Governor Moore without raising taxes on
+Maryland families.
+Funding For Howard County
+Through my work on the Appropriations Committee, and with the help of the entire delegation, I
+was positioned to bring some funding to Howard County - both in my district, and countywide.
+The funding awards for initiatives of District 9 are listed below as well as selected items of the
+countywide funding These state awards are critical to our county government and nonprofit
+partners.
+I am especially pleased with the $6 million that is new this year for Ellicott City’s
+Safe and Sound program bringing the total state funding since I have been your state
+delegate to more than $70 million.
+District Nine
+● $300,000 for Font Hill Pathway Paving and Pedestrian Bridge Replacement
+● $650,000 for High Ridge Head Start and ADA Restroom Renovation
+● $350,000 for the Howard County Conservancy Playground
+● $250,000 for a new Agricultural Center at West Friendship Park
+● $190,000 for VFW Post 7472 Renovation
+● $450,000 for Gentle Giants Draft Horse Rescue
+● $550,000 for the Historic Jail Renovation through Preservation Maryland
+● $65,000 Fund for Art in Ellicott City
+● $250,000 Agricultural Center at West Friendship Park
+Additional Selected Howard County Awards
+$100,000 - NeighborRide
+$1,200,000 - Friends of Patapsco Valley State Park- Whiting Property
+$220,000 - Residences at Vantage Point
+$5,000,000 - New Howard County Library Complex
+$450,000 - NonProfit Collaborative of Howard County
+Selected Local Howard County Legislation Highlights
+HB0456 - Howard County - Alcoholic Beverages - Gift Basket Permit Ho.
+Co. 2-26
+HB405 establishes a gift basket permit that authorizes a permit holder to sell and deliver gift
+baskets containing beer, wine, or liquor to certain individuals under certain circumstances;
+providing that certain distance requirements do not apply to the issuance of the permit; and
+providing a gift basket permit fee of $100.
+HB0590 - Howard County - Transfer Tax - Use of Proceeds Ho.
+Co. 12-16
+HB0590 alters the name of the Howard County Agricultural Land Preservation Fund to be the
+Howard County Agricultural Preservation and Innovation Fund; and specifies that certain
+transfer tax proceeds that are distributed to the Fund are to be used to support the Agricultural
+Land Preservation Program and other programs, services, or initiatives to enhance the
+commercial viability or environmental sustainability of agriculture in the County.
+HB1171 - Howard County Board of Education - Student Member - Voting Ho.
+Co. 7-26
+HB1171 expands the matters on which the student member of the Howard County Board of
+Education can vote on to include 1) geographical attendance areas; (2) acquisition and
+disposition of real property and matters relating to school construction; (3) donations;
+(4) condemnation; (5) consolidation of schools and transportation of students;
+(6) budgetary matters; and (7) student suspension and expulsion.
+HB1176 - Howard County - Board of Education Budget - Percentage of County General
+Fund Revenue Ho.
+Co. 10-26
+HB1176 requires, in the submission of the annual budget to the Howard County Council, the
+Howard County Executive to include the percentage of the county’s general fund revenue,
+excluding onetime expenses, that is allocated to the operating budget of the Howard County
+Board of Education and operating costs associated with the Howard County school system;
+requires that a copy of the budget be placed on the county board’s public-facing website, in an
+easily identifiable location; etc.
+Selected Statewide Legislation Highlights
+ENERGY
+HB 1532 Utility RELIEF (Reducing Energy Load Inflation for Everyday Families) Act
+(The Speaker)
+HB 1532 is bipartisan legislation that builds on the progress of the 2025 Next Generation Energy
+Act to further protect ratepayers, ensure reliability while responding to rising energy demand
+(especially from data center growth), continue to advance clean energy, and preserve programs
+that reduce energy costs over time.
+HB 1 Investor-Owned Electric, Gas, and Gas and Electric Companies - Cost Recovery –
+Limitations (Crosby)
+HB1 is consumer protection legislation ensuring that Maryland’s ratepayers do not pay for the
+bonus compensation of top wage-earners at investor–owned gas and electric companies.
+While
+ratepayers have seen their costs rise, shareholders of investor–owned utilities have seen their
+profits soar; HB1 bans taxpayers from footing the bill for utility CEO bonuses.
+OPPORTUNITY/ECONOMIC DEVELOPMENT
+HB168 Housing and Community Development - Affordable Housing - Educator Workforce
+Housing and Municipal Corporations (Vogel)
+HB 168 expands opportunities for county and municipal governments to build and operate
+affordable housing for teachers and other public school employees in partnership with local
+school districts.
+It unlocks financial tools to lower the cost of development and encourage
+educator workforce housing projects near schools.
+HB 730 Business Regulation - Maryland Franchise Registration and Disclosure Law -
+Alterations (Franchise Reform Act) (Korman)
+HB 730 is bipartisan legislation to increase economic franchise development in Maryland by
+updating Maryland franchise laws to make the registration process easier and ensure the process
+is less burdensome for those seeking to grow their franchises throughout the state.
+ACCOUNTABILITY
+HB 1369 Department of Budget and Management - Audit and Finance Compliance Unit –
+Establishment (Solomon)
+HB 1369 is unanimous bipartisan legislation to ensure taxpayer dollars are managed responsibly
+and agencies operate more effectively.
+It strengthens accountability and follow-through within
+State government while increasing transparency, establishing a new Audit and Finance
+Compliance Unit within SBM to monitor how Executive Branch agencies correct audit findings
+from the Office of Legislative Audits (OLA).
+HB 1372 Public Health - Office of Health Care Quality Information and Maryland Health
+Centralization Commission (Solomon)
+HB 1372 is bipartisan legislation that ensures patients and families have access to transparent
+information about health care facility inspections and quality.
+Stronger oversight will help ensure
+that state licensing boards operate efficiently, process applications timely, and resolve audit
+findings.
+HB 945 Nursing Homes and Assisted Living Facilities - Notification of Investigations and
+Establishment of the Health Care Quality Improvement Initiative (Sample Hughes)
+HB 945 strengthens oversight by requiring the Maryland Department of Health to notify and
+work with local health departments on nursing home complaints.
+It also establishes a Health
+Care Quality Improvement Initiative to advance transparency, accountability, and care in assisted
+living facilities.
+HB 671 Office of the Long-Term Care Ombudsman - Mandatory Appropriation (Shetty)
+HB 671 proposes a modest, targeted budget reform to allocate funding to the Office of the
+Long-Term Care Ombudsman, which protects the health, safety, dignity, and autonomy of older
+adults and individuals with disabilities who live in nursing homes, assisted living facilities, and
+other long-term care settings.
+PUBLIC HEALTH
+HB 1559 Children in Unlicensed Settings and Pediatric Hospital Overstay Patients –
+Placement (The Speaker)
+HB 1559 is unanimous bipartisan legislation to move Maryland toward a more stable, licensed,
+and trauma-informed system of care for children and families.
+It ensures that vulnerable children
+are not housed in inappropriate, unlicensed environments in Maryland.
+It reduces prolonged
+hospital stays for youth who are medically cleared but lack safe placement options and
+strengthens coordination across agencies to address placement shortages and behavioral health
+needs.
+HB 1181 Family Law - Children in Out-of-Home Placement - Voluntary Placement
+Agreements (Bagnall)
+HB 1181 streamlines the Voluntary Placement Agreement process and increases transparency in
+order to address delays which can often lead to pediatric overstay cases.
+A voluntary placement
+agreement (VPA) temporarily places a child in the physical (not legal) custody of the Department
+of Human Services so they can receive out-of-home care.
+VPAs allow children desperately in
+need of care access to residential treatment centers when their families cannot afford it
+HB 1563 Emergency Room Services and Post-Acute Care - Coverage and Facility Studies
+(The Speaker)
+HB 1563 is unanimous bipartisan legislation to protect patients in emergencies and help
+Maryland plan smarter for emergency hospital and post-acute care needs, The studies will focus
+on hospital and post-acute bed capacity and fulfill the state’s need for clear data on insurance
+denials and hospital capacity to fix system bottlenecks.
+It will also examine how to improve
+hospital discharges and look at ways to move patients safely and efficiently from hospitals to
+appropriate follow-up care.
+HB 280 Health Insurance - Mental Health and Substance Use Disorders - Codification of
+Federal Requirements (Chair, Health Committee)
+HB 280 will save families and individuals from the burden of expensive out–of–pocket costs for
+the treatment of mental health and substance use disorders.
+As the federal government has
+announced they would no longer enforce the federal rule on mental health parity and addiction
+equity or pursue enforcement on failure to comply, codifying these rules in state law allows the
+Maryland Insurance Administration to enforce these provisions regardless of whether the federal
+government revises or rescinds the policy.
+EDUCATION
+HB 535 Maryland Phone-Free Schools Act (Boafo)
+HB 535 ensures that Maryland classrooms are distraction-free environments where students can
+stay focused, engaged, and set up for success.
+It requires each county to develop and adopt a
+policy that prohibits the use of electronic devices during the academic school day, allowing
+exceptions for medical, educational, and disability accommodations.
+HB 828 State Board of Education - Membership - Employee of a County Board of
+Education (Ebersole)
+HB828 expands the ability for an Educational Support Personnel to become a member of the
+State Board of Education.
+HB 358 Sales and Use Tax - Elementary or Secondary School Book Fairs – Exemption
+(Palakovich Carr)
+HB 358 clarifies that school book fairs are exempt from sales tax.
+Many school PTAs hold book
+fairs to promote student reading and to raise money for school activities.
+Even though these are
+fundraisers held by a non-profit (the PTA), state law still requires sales tax to be collected.
+The
+bill ensures that PTAs can focus on promoting reading rather than navigating state tax law.
+TRANSPORTATION
+HB 1504 Highways - Sidewalks and Bicycle Pathways - Construction and Reconstruction
+(The Honorable Anne Healey Pedestrian Safety Act of 2026) (Healey)
+HB1504 is unanimous bipartisan legislation to meet the goal of Vision Zero, the plan to make
+roadways safer for drivers and passengers of motor vehicles, bicyclists, and pedestrians and to
+have zero vehicle-related deaths or serious injuries on roadways by 2030.
+This bill prioritizes
+funding for the construction and reconstruction of sidewalks and bicycle pathways to sidewalks
+and bicycle pathways that are, or are adjacent to, highways that are subject to a Vision Zero
+program.
+HB 474 Vehicle Laws - Dangerous Accumulations of Snow and Ice - Removal From
+Exposed Vehicle Surfaces (Clear Before You Drive Act) (Patterson)
+HB 474 requires drivers to remove snow and ice from their vehicles before driving to prevent
+debris from injuring others or causing crashes.
+The law applies to both commercial and
+non-commercial vehicles and is enforced only when damage occurs or as a secondary offense,
+with graduated fines to promote safety without over-penalization.
+ENVIRONMENT
+HB 925 Sewage Sludge - Per- and Polyfluoroalkyl Substances – Regulation (Stein)
+HB 925 is bipartisan legislation to reduce the amount of PFAS making its way into our air, water,
+land, and food.
+The bill will establish reasonable evidence-based limits for certain PFAS in
+biosolids, which will also activate pretreatment authorities to address PFAS under the Clean
+Water Act of 2025 to limit PFAS content in biosolids from wastewater treatment plants that have
+land applications.
+HB 578 Fish and Wildlife - Endangered and Threatened Species and Migratory Birds -
+Regulations, Lists, Petitions, Essential Habitats, and Takings (Palakovich Carr)
+HB 578 enshrined into state law federal Endangered Species Act protections to ensure that
+Maryland continues to provide the same level of protection for rare species as the entire country
+did for years.
+At a time when the Trump Administration is actively rolling back federal
+protections for endangered and threatened species, it’s more important than ever that Maryland
+have strong environmental protection laws.
+SENIORS
+HB 945 Nursing Homes - Complaints - Notification and Consultation (Sample-Hughes)
+HB 945 is a unanimous bipartisan public health and accountability legislation that requires the
+Maryland Department of Health to consult with the local county health department within 24
+hours if the Department initiates an investigation of a nursing home alleging actual harm.
+HB 278 Human Services - Department of Aging and Commission on Aging (The Longevity
+Ready Maryland Act)
+The Longevity Ready Maryland Act is a bipartisan bill to help seniors better navigate the state
+health care and housing systems.
+It codifies the Longevity Ready Maryland Act, a
+comprehensive plan to elevate the needs of Maryland’s seniors and empower them to thrive, as
+the number of Maryland residents over age 60 is projected to surpass a quarter of the state's
+population in the next ten years.
+JUDICIARY
+HB 634 Police Training - Autism and Dementia (LEAD Act of 2026) (Kaufman)
+HB 634 strengthens Maryland’s emergency response to wandering and elopement incidents
+involving individuals with autism and other intellectual and developmental disabilities by
+standardizing disability-informed training across law enforcement, EMS, and 9-1-1 dispatch and
+improving coordination during time-critical emergencies.
+This legislation improves coordination
+across first responders and ensures safer, more effective responses during time-sensitive
+emergencies.
+HB 687/SB 475 Criminal Procedure - Evidence - Protecting Artists' Creative Expression
+(PACE Act) (Amprey)
+This bill establishes clear guidelines for when artistic expression can be admitted in court,
+ensuring that creative works are not misinterpreted as fact or weaponized against artists.
+It
+protects free expression while maintaining fairness in the legal process, reinforcing that
+Maryland values both justice and creativity.
+The bill requires the court to apply certain clear
+evidentiary standards before admitting evidence, strengthening the integrity of the judicial
+process while preserving both public safety and constitutional protections.
+IMMIGRATION
+HB 1341 Enforcement - Expanding Sensitive Locations, Notification, and Guidance
+(Maryland Values Act of 2026) (Ebersole)
+This bill updates current Maryland law by including courthouses to the list of sensitive locations
+to ensure that the areas past security are off limits for federal immigration enforcement.
+Additionally, it expands sensitive locations to include school bus stops, school buses, and food
+distribution sites.
+It also prevents education personnel from sharing information and data
+(whether data or anecdotal) with Immigration and Customs Enforcement.
+HB 1017 Correctional Services - Private Immigration Detention Facilities - Zoning
+Requirement (Wells)
+HB 1017 is a zoning transparency bill which demands honest language in land-use decisions.
+It
+creates a clear statewide rule instead of county-by-county guesswork to ensure that a private
+detention facility can’t be approved unless the zoning code explicitly allows it.
+Requires explicit
+zoning authorization for a private immigration detention facility – broad, inclusive phrases won’t
+work.
+CONSUMER PROTECTION
+HB 711 Data Privacy - Consumer Data, Public Records, and Message Switching System
+(Data Privacy Act) (Charkoudian)
+HB 711 will ensure that Marylanders’ sensitive data is shielded from unwarranted federal
+surveillance and misuse.
+It ensures that Maryland’s counties, state agencies, and public servants
+who have access to private data can only share it under a judicial warrant or for reasons under the
+Private Information Act.
+This prohibits both sharing private data for civil immigration
+enforcement purposes and the selling of private data by data broker companies to the federal
+government.
+HB 895 Food Retailers and Third-Party Delivery Service Providers - Dynamic Pricing and
+Personal Data (Protection From Predatory Pricing Act) (Speaker)
+HB 895 is consumer protection legislation to keep grocery prices affordable and predictable,
+ensuring the need for price transparency over using algorithms to determine how much a
+customer might be willing to pay.
+The bill bans food retailers from using dynamic and
+surveillance pricing, a cost-setting method where prices are inflated based on time of day,
+weather conditions and personal data,
+HB 306 Vehicle Laws - Manufacturers and Dealers - Prices Listed on Dealer Websites (Jack
+Fitzgerald Price Transparency Act) (Qi)
+HB 306 is bipartisan consumer protection and transparency legislation which ensures that the
+price listed on dealers’ website accurately discloses that the price at the dealership may actually
+be lower.
+The bill reflects modern consumer behaviors and ensures that consumers who shop
+online are given accurate information on possible cost savings.
+ELECTIONS
+HB 350/SB 255 Voting Rights Act of 2026 - Counties and Municipal Corporations (Wims)
+This bill enacts strong protections to ensure Black voters, other voters of color, and all
+Marylanders with disabilities can fully participate in the electoral process free from
+discrimination.
+HB 182 Election Law - Presidential Electors - Selection and Voting (Stein)
+HB 182 establishes procedures to prevent “faithless” presidential electors—electors who cast
+ballots for candidates other than those they were pledged to support.
+Maryland currently lacks an
+enforceable mechanism to address a situation in which an elector fails to vote for the presidential
+or vice-presidential candidate of the party that nominated them.
+House Bill 182 addresses this
+gap by providing that an elector who fails to cast the required vote is deemed to have vacated the
+office.
+COMMEMORATIVE LEGISLATION
+HB 661 - Muslim American Heritage and Jewish American Heritage Months (Wolek)
+HB 661 encourages inclusion and public awareness as it requires the Governor to proclaim
+January as Muslim American Heritage month and May as Jewish American Heritage month.
+HB 770 Korean American Day (Watson)
+HB 770 requires the Governor annually to proclaim January 13th as Korean American Day and
+requires the proclamation to urge educational and cultural organizations to observe Korean
+American Day properly with appropriate programs, ceremonies, and activities.
+Thank you for your interest in my work in the House of Delegates.
+It is an honor to represent you
+in Annapolis.
+Please join me and the other District 9 representatives: Senator Katie Fry Hester,
+Delegates Chao Wu and Natalie Ziegler, for an in-person End of Session Wrap Up Community
+Meeting at 7:00 PM on May 5th at the Capitoline Center (8360 Court Avenue).
+RSVP at this
+link: bit.ly/MD9RSVP
+In closing, I express my gratitude to all of you for your feedback on the issues throughout the
+session, and to our District 9B support staff: Livi Carey and Abigail Furman.
+I hope you will join us on May 5th, , visit us at the district office on Main Street, or see us
+around town this summer.
+As always, please feel free to contact me with questions or feedback at
+Courtney.Watson@house.maryland.gov or (410) 841-3077.
+Sincerely,
+Delegate Courtney Watson
+Howard County, District 9B
+End of Session Letter
+2026 Maryland General Assembly Regular Session
+April 20, 2026
+By Authority: Friends of Courtney Watson, Cindy Ardinger, Treasurer
+bottom of page

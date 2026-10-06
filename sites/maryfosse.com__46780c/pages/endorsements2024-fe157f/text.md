@@ -1,0 +1,68 @@
+2024 Endorsements
+ORGANIZATONAL ENDORSEMENTS
+Mary is endorsed by a growing coalition of labor and women’s groups, Democratic and environmental organizations.
+If you’d like to add your name to her growing list of endorsements, please click here.
+- Snohomish County Democratic Central Committee
+- 38th District Democrats
+- Washington State Labor Council
+- Snohomish & Island County Labor Council
+- Washington State Building and Construction Trades Council
+- Washington Federation of State Employees
+- Tulalip Tribes
+- Washington Conservation Voters
+- Sierra Club
+- Pro-Choice Washington
+- Planned Parenthood Alliance Advocates
+- Alliance for Gun Responsibility Victory Fund PAC
+- Snohomish County Indivisible
+- American Federation of Teachers Washington
+- IAFF Local 46
+- IAFF Local 3219
+- International Association of Machinists & Aerospace Workers District Lodge 751
+- IBEW Local 46
+- Int'l Brotherhood of Electrical Workers Local 77
+- Int'l Brotherhood of Electrical Workers Local 191
+- International Union of Painters and Allied Trades District Council 5
+- IUOE 302
+- Laborers Local 292
+- Western States Regional Council of Carpenters
+- Public School Employees of Washington
+- Retired Public Employees Council
+- SEIU Local 775
+- SEIU Local 925
+- SEIU 1199NW
+- Sheet Metal Workers Local Union 66
+- Teamsters Local 117
+- UFCW 3000
+- Washington Education Association PAC
+- Washington State Council of Fire Fighters
+- Washington State Nurses Association
+- Washington State School Retirees' Association
+- Washington State NOW PAC
+- National Women's Political Caucus (NWPC-WA)
+- National Women's Political Caucus (NWPC-WA)
+- IBEW Local 48
+- Iron Workers Local 86
+- UA Local 598
+- National Association of Social Workers – Washington Chapter
+- Humane Voters of Washington
+- Win with Women
+- Equal Rights Washington
+- DD ALLY
+- UA Local 32
+- UAW Region 6
+- Children's Campaign Fund
+- ARNPs United of Washington State
+People
+- Bob Ferguson Washington Attorney General
+- Rick Larsen U.S.
+Representative (2nd CD)
+- Megan Dunn Snohomish County Councilmember
+- June Robinson State Senator (38th LD)
+- Mike Sells Former State Representative (38th LD)
+- Julio Cortes State Representative (38th LD)
+- Brandy Donaghy State Representative (44th LD)
+- Lillian Ortiz-Self State Representative (21st LD)
+- Strom Peterson State Representative (21st LD)
+- Paula Rhyne Everett City Councilmember
+- David Simpson Everett Port Comissioner

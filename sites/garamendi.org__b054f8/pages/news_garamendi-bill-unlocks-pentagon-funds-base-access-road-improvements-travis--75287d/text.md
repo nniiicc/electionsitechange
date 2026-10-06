@@ -1,0 +1,20 @@
+February 16, 2022
+Garamendi Bill Unlocks Pentagon Funds for Base Access Road Improvements at Travis and Beale Air Force Bases
+WASHINGTON, DC – Today, Congressman John Garamendi (D-CA) introduced legislation (H.R.6607) that would designate vital roadways leading to the gates at Travis and Beale Air Force Bases as “Defense Access Roads,” with Congressman Doug LaMalfa (R-CA) as the bill’s original cosponsor.
+This designation would make projects to reduce traffic congestion or otherwise improve these roads automatically eligible for funding under the U.S.
+Department of Defense and Federal Highway Administration’s joint Defense Access Road Program.
+Each year, Congress funds a handful of defense access road projects.
+As Chair of the House Armed Services Subcommittee on Readiness, Congressman Garamendi oversees all U.S. military installations and military construction, including the Defense Access Road Program.
+“The communities surrounding Travis and Beale do so much to support the bases,” said Congressman John Garamendi (D-CA).
+“As these areas continue to grow, the military should pay its fair share for roadway improvements that allow for greater base access and reduce traffic congestion.
+As Chair of the Readiness Subcommittee, I will always work to secure forward-looking investments to expand Travis and Beale, while ensuring that the Air Force remains a good neighbor to its surrounding communities.”
+Congressman Garamendi’s legislation (H.R.6607) would designate 9 additional roadways under the Defense Access Road program, including:
+- At Travis Air Force Base:
+- Air Base Parkway (Main Visitor Center/Hospital Gate)
+- Canon Road, Gate/North Gate Road, Vanden Road (North Gate)
+- Petersen Road (South/Commercial Truck Gate)
+- At Beale Air Force Base:
+- Chuck Yeager Road (Grass Valley Gate)
+- North Beale Road (Schneider Gate)
+- Spenceville Road/Camp Beale Highway (Vassar Lake Gate)
+- South Beale Road (Wheatland Gate)

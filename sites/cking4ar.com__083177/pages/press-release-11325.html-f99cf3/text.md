@@ -1,0 +1,27 @@
+FOR IMMEDIATE RELEASE
+November 3, 2025
+Courtney King Files for Arkansas House District 25, Launches ‘Homegrown Hope’ Grassroots Campaign
+Little Rock, AR — Courtney King, a community advocate, artist, and founder of the nonprofit NatureSTEAM, officially filed her paperwork to run for Arkansas House District 25 in Little Rock on Monday, November 3.
+King qualified for the ballot after gathering approximately 200 signatures from district residents, allowing her to waive the $700 filing fee required of candidates.
+“This campaign is already about people power, rooted in Arkansas values,” said King.
+“Neighbors, friends, and volunteers came together to make this possible.
+That’s exactly the kind of energy I want to bring to the State Capitol.”
+A proud native Arkansan raised in the River Valley and now rooted in Northwest Arkansas, King is a non-traditional senior at the University of Arkansas Fulbright College of Arts and Sciences, completing a degree in Studio Arts.
+Her work as an Art Therapy Practitioner and community educator has centered on the connection between creativity, healing, and civic engagement.
+King’s nonprofit, NatureSTEAM,blends science, technology, engineering, arts, and math through nature-based learning.
+Running as an independent voice for the people, King says her campaign will focus on inclusive
+representation, creative problem-solving, and sustainable community growth.
+“This isn’t just my campaign—it’s our campaign,” said King.
+“Homegrown Hope is about neighbors lifting each other up and building something lasting together.”
+About Courtney King
+Courtney King is a multimedia artist, educator, and community builder with a passion for using art and nature to strengthen Arkansas communities.
+She has worked in classrooms, state parks, and outdoor learning spaces across the state, helping families connect with creativity and the environment.
+Her work has always centered on healing and connection—values now at the heart of Homegrown Hope’s mission to bring inclusive, creative leadership to Little Rock.
+Join the Movement Homegrown Hope is powered by everyday Arkansans who believe in a better future.
+Whether you can knock doors, make phone calls, host a house party, or contribute financially, your support fuels this grassroots campaign.
+Volunteer or donate today at www.cking4ar.com and help grow hope from the ground up.
+Media Contact:
+Courtney King for Arkansas House District 25
+Email: [email protected]
+Phone: 479-502-7422
+Website: www.cking4ar.com

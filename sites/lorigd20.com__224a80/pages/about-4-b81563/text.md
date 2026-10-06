@@ -1,0 +1,44 @@
+Acerca de
+About Lorig
+ENDORSEMENTS
+Click here to see who has endorsed Lorig!
+Experienced, Effective, And Respected
+First elected to the Maryland House of Delegates in 2018, Lorig took her years of community activism and legislative know-how and hit the ground running.
+She has since worked on dozens of successful initiatives in Annapolis and her district.
+Lorig currently serves as Vice-Chair of the House Economic Matters Committee and chairs its Unemployment Insurance Subcommittee.
+She is also the Co-Chair of the Maryland Transit Caucus and a member of the Latino Legislative Caucus and the Women's Caucus.
+She does not accept contributions from for-profit corporations, their registered Maryland lobbyists, or their PACs.
+Her problem-solving approach and championing of larger policy issues remains grounded in a deep desire to improve people's lives by building a more just and inclusive world.
+Her record on:
+30+ Years of Community Service
+Lorig takes her role as a public servant to heart and is committed to going above and beyond to provide excellent constituent services.
+This caring builds on the decades she has devoted to improving the quality of life for people across our community, including:
+- As Executive Director of Community Mediation Maryland since 2002, Lorig advances the use of affordable, community mediation services and collaborative conflict resolution throughout the state and around the country.
+This work includes using mediation and restorative approaches to disrupt the system of mass incarceration.
+- As President of the Boards of both the Crossroads Community Food Network and TPSS Coop, she expanded access to healthy food to low-income individuals.
+- Led the campaign to open the TPSS Community Kitchen, a shared-use commercial kitchen that helps micro-entrepreneurs launch food-based businesses.
+- Served as a member of Maryland's School to Prison Pipeline and Restorative Practices Commission.
+Lorig lives in Takoma Park and has two adult children.
+She has a B.A. in Mathematical Economics from Pomona College and received her Ph.D. in Economics from Johns Hopkins University.
+Achievements and Awards
+- League of Conservation Voters' Changemakers-Climate Champion Award, 2023
+- Washington Area Bicyclist Association's Public Leadership Award, 2023
+- Sligo Seventh-day Adventist Church Caring Heart Award, 2023
+- National Conference of Environmental Legislators, Leon G.
+Billings Environmental Achievement Award, 2023
+- Maryland Teachers of English to Speakers of Other Languages' Ann Beausch Distinguished Services Award, 2023
+- Champion Our Cause Award from Rainbow Community Development Center, 2022
+- Maryland Consumer Rights Coalition's Consumer Advocate of the Year, 2022
+- Maryland Consumer Rights Coalition "Up and Coming" Legislator of the Year, 2019
+- Maryland DC Virginia Solar Industries Association Solar Champion, 2019
+- Community Leadership Award, Maryland State Chapter of the National Organization for Women, 2017
+- Judge Robert M.
+Bell Award, MSBA Dispute Resolution Section, Maryland State Bar Association, 2017
+- Emerge Maryland, Class of 2017
+- Mary Parker Follett Award, Association for Conflict Resolution, 2016
+- Takoma Foundation Azalea Award, 2012
+- Daily Record Maryland’s Top 100 Women (three-time winner) and Circle of Excellence member
+- Leadership Maryland, Class of 2011
+What's with the little bird?
+Lorig is proud of her Armenian heritage.
+In Armenian, Lorig means "little quail."

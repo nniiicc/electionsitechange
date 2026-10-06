@@ -1,0 +1,28 @@
+Vote Nic Cravillion for Wisconsin on November 3, 2026!
+“I will be voting for Nic Cravillion as our next State Senator, because I have seen firsthand that he has the best training for the battles that lie ahead.”
+- Sen.Jacque
+The NRA - National Rifle Association defines an AQ rated candidate as “a pro gun candidate whose rating is based solely on the candidate's responses to the NRA PVF Candidate Questionnaire and who does not have a voting record on Second Amendment issues.”
+- Former State Senator Alan Lasee, Senate District 1
+- Former State Representative Garey Bies, Assembly District 1
+- New Holstein Mayor and former Police Captain Jeffrey Hebl
+- Brown County Supervisor Norbert Dantinne, Jr.
+- Kewaunee County Supervisor Aaron Augustian
+- Town of Ahnapee Chairman Tom Stoller
+- Town of Ahnapee Clerk Phil Steffen
+- Town of Carlton Chairman David Hardtke
+- Town of Green Bay Chairman Matt Bosman
+- Town of Green Bay Supervisor Ryan DeBroux, New Franken Fire Chief
+- Town of Green Bay Supervisor Mike Pribyl
+- Town of Humboldt Supervisor Wesley Dorner
+- Town of Lincoln Chairman Jesse Jerabek
+- Town of Luxemburg Treasurer Gerald Zellner
+- Town of Scott Chairman Mike VanLanen
+- Town of Union Chairman Bruce Alberts
+- Town of West Kewaunee Chairman Dan Kassner
+- Former Village of Luxemburg President Dan Porath
+- Former Chilton Chief of Police Larry Seipel
+Paid for by Nic Cravillion for Wisconsin
+Use of military rank, job titles, uniforms, and photographs in this campaign is for identification purposes only and does not imply endorsement by the Department of Defense, the United States Army, or the Wisconsin Army National Guard.
+Copyright © 2026 Nic Cravillion for Wisconsin - All Rights Reserved.
+We use cookies to analyze website traffic and optimize your website experience.
+By accepting our use of cookies, your data will be aggregated with all other user data.

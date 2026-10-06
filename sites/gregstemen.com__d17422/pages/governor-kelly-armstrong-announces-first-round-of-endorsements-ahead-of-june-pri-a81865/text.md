@@ -1,0 +1,53 @@
+NEWS &
+UPDATES
+Governor Kelly Armstrong Announces First Round of Endorsements Ahead of June Primary
+BISMARCK, ND – Governor Kelly Armstrong today announced his first round of endorsements ahead of the June 9th Republican Primary, emphasizing the importance of electing conservative leaders committed to cutting property taxes, growing the economy, and protecting North Dakota’s way of life.
+“By working together and focusing on the issues that matter to North Dakota families, our conservative legislators have delivered meaningful, results-driven policies for our state,” Governor Armstrong said.
+“They passed historic property tax relief, eliminated sixteen boards and commissions to reduce wasteful spending, and prioritized education, including implementing cell phone-free schools.
+They continue to stand strong for our business community and the energy and agriculture industries that power our state.
+As these proven leaders seek reelection, I’m confident they will continue to deliver and protect our way of life.”
+“I’m also encouraged by a new generation of conservative candidates stepping forward to serve,” Armstrong added.
+“They are committed to lowering property taxes, growing our economy, and reducing government spending.
+I’m proud to support this slate of candidates and encourage North Dakotans to join me in supporting them on June 9.”
+Governor Armstrong Endorsements:
+District 3
+- Blaine DesLauriers
+- Tim Mihalick
+District 7
+- Senator Michelle Axtman
+- Steve Sauter
+- Greg Vetter
+District 13
+- Senator Judy Lee
+- Representative Austen Schauer
+- Representative Jim Jonas
+District 23
+- Corey Johnson
+District 25
+- Terry Goerger
+District 27
+- Senator Kristin Roers
+- Representative Greg Stemen
+- Shawn Kessel
+District 31
+- Senator Don Schaible
+District 33
+- Representative Anna Novak
+- Mike Heger
+District 42
+- Representative Dustin McNally
+District 43
+Mike Holmes
+“By working together and focusing on the issues that matter to North Dakota families, our conservative legislators have delivered meaningful, results-driven policies for our state.
+They passed historic property tax relief, eliminated sixteen boards and commissions to reduce wasteful spending, and prioritized education, including implementing cell phone-free schools.
+They continue to stand strong for our business community and the energy and agriculture industries that power our state.
+As these proven leaders seek reelection, I’m confident they will continue to deliver and protect our way of life.”
+More News
+Armstrong signs property tax relief and reform package for ND homeowners
+NEWS & UPDATES Follow Follow By Ethan Kramer, | Published on Valley News Live: May 3, 2025 at 4:40 PM CDT BISMARCK, N.D.
+(Valley News Live) – On Saturday, May 3, Governor Kelly Armstrong joined bill sponsors and other legislators as he signed a property tax…
+Rep.
+Stemen steps in to chair PERS board meeting
+NEWS & UPDATES Follow Follow By: Jeff Beach, North Dakota Monitor – March 12, 2024 State Rep.
+Greg Stemen acted as the volunteer vice chair when the North Dakota Public Employee Retirement System board met Tuesday.
+Stemen chaired the meeting, the first since…

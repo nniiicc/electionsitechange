@@ -1,0 +1,7 @@
+Join My Campaign Today!
+Email This field is for validation purposes and should be left unchanged.
+Select an option below to make a donation to my campaign for South Dakota House District 13.
+Choose Amount(Required) $25 $50 $100 $150 $250 $500 $1,000 (Max Individual) $2,000 (Max Couple) Other Other Amount(Required) Email(Required) Phone(Required) Name(Required) First Last Second Person's Name(Required) First Last Campaign finance regulations require that we ask for your employer and occupation.
+If you are unemployed, simply enter "Unemployed" and "N/A".
+Employer(Required) Occupation(Required) Second Person's Employer(Required) Second Person's Occupation(Required) Address(Required) Street Address Address Line 2 City StateAlabamaAlaskaAmerican SamoaArizonaArkansasCaliforniaColoradoConnecticutDelawareDistrict of ColumbiaFloridaGeorgiaGuamHawaiiIdahoIllinoisIndianaIowaKansasKentuckyLouisianaMaineMarylandMassachusettsMichiganMinnesotaMississippiMissouriMontanaNebraskaNevadaNew HampshireNew JerseyNew MexicoNew YorkNorth CarolinaNorth DakotaNorthern Mariana IslandsOhioOklahomaOregonPennsylvaniaPuerto RicoRhode IslandSouth CarolinaSouth DakotaTennesseeTexasUtahU.S.
+Virgin IslandsVermontVirginiaWashingtonWest VirginiaWisconsinWyomingArmed Forces AmericasArmed Forces EuropeArmed Forces Pacific State ZIP Code Total Credit Card(Required)

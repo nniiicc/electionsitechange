@@ -1,0 +1,75 @@
+ENDORSEMENTS
+organizations supportING Gabe
+ACC Action
+The Libre Initiative
+AFP Action
+Log Cabin Republicans
+America First Works
+National Federation of Independent Business
+NRA Political Victory Fund
+Colorado State Shooting Association
+Citizens for Responsible Energy Solutions
+Rocky Mountain Farmers Union Rural PAC
+Colorado State Lodge Fraternal Order of Police
+Republican Jewish Coalition
+Denver Gazette
+Colorado Young Republicans
+US Chamber of Commerce
+Elected & COMMUNITY LEADERS supportING Gabe
+Federal & Statewide Leaders
+MIKE JOHNSON
+Speaker of the U.S
+House of Representatives
+Majority Leader of the U.S
+House of Representatives
+STEVE SCALISE
+TOM EMMER
+Majority Whip of the U.S
+House of Representatives
+LISA MCCLAIN
+U.S Congresswoman, Chair of the House Republican Conference
+Bill Owens
+Former Governor of Colorado
+Richard Hudson
+NRCC Chairman
+Current State Legislators
+Rod Pelton
+Colorado State Senator, SD-35
+Carlos Barron
+Colorado State Representative,
+HD-48
+Scott Bright
+Colorado State Senator, SD-13
+Dan Woog
+Colorado State Representative,
+HD-19
+BYRON Pelton
+Colorado State Senator, SD-1
+Scott James
+Current County Commissioners
+Weld County District 2 Commissioner
+Perry Buck
+Weld County Commissioner At-Large
+Kevin Ross
+Weld County Commissioner At-Large
+Current & Former Local Elected Leaders
+DALE HALL
+Mayor of Greeley
+Michael Cowper
+Mayor of Platteville
+Jan KuLmann
+Mayor of Thornton
+Mark Clark
+Mayor of Evans
+Mark VanDriel
+University of Colorado Regent, CD-8
+Laura Garcia-Pascoe
+Chair of Adams County
+Republican Party
+Adrienne Sandoval
+Former Mayor of Platteville and
+Chair of Weld County Republican Party
+John gates
+Former Mayor of Greeley
+Steve Reams
+Weld County Sheriff

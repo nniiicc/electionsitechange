@@ -1,0 +1,18 @@
+KNOW YOUR RIGHTS
+Know Your Rights Landing Page from National Immigration Law Center (NILC)
+This compilation of Know Your Rights resources from NILC includes guidance for employers on what to do if ICE comes to your
+workplace, guidance for healthcare providers on protecting patients’ rights, guidance for immigrants attending protests, and more.
+This resource explains immigrants' rights and is available in 17 languages.
+Know Your Rights Red Cards from Immigrant Legal Resource Center (ILRC)
+These business-card sized materials describe immigrants’ rights in 4 sentences and are available to print free at home in 16 languages.
+Family Preparedness Plan from Immigrant Legal Resource Center (ILRC)
+This comprehensive guide walks families through creating a Family Preparedness Plan that goes into detail about different childcare options in case of an absent parent, where to find trusted immigration services, and more.
+Resources for Schools and Providers
+Guidance of Immigration Issues from National Education Association (NEA)
+Intended for teachers and school staff, this landing page from NEA offers guidance on how teachers and school leaders can make their school environment a safe place for immigrant students and families.
+A Guide to Creating “Safe Space” Policies for Early Childcare Programs from CLASP
+This guide, updated to reflect 2025 changes, provides practitioners, advocates, and policymakers with information and resources to design and implement “safe space” policies that safeguard early childhood programs against immigration enforcement.
+15 Things (and more) Educators Can Do to Protect Immigrant Students from AFT
+This toolkit from AFT provides educators guidance on how they can protect immigrant students and families at their schools.
+Safe Schools Resolution Guide from NEA
+This guide from NEA – including FAQs, a model resolution, & more – provides resources on how schools can protect immigrant families.

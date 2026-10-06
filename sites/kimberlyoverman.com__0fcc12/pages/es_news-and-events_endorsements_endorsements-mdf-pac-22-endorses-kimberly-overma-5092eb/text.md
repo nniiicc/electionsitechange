@@ -1,0 +1,26 @@
+Kimberly Overman: «
+» para el Congreso
+Distrito 12 de Florida
+Recomendación
+Inicio » Noticias y eventos » Respaldos » Respaldos: El MDF-PAC 22 respalda a Kimberly Overman
+Musulmanes por la Democracia y la Equidad (MDF PAC 22)
+Kimberly Overman ha recibido el respaldo de «Musulmanes por la Democracia y la Equidad» (MDF PAC 22), un comité de acción política de Tampa Bay creado en 2018 para defender los intereses de las comunidades minoritarias del área metropolitana de Tampa Bay.
+Los respaldos de MDF se basan en el compromiso de los candidatos con las comunidades minoritarias, su trayectoria en materia de inclusión y su sintonía con las preocupaciones de los electores locales.
+En su respaldo, el MDF PAC 22 reconoció la implicación de Kimberly en los temas más importantes para la comunidad musulmana y su compromiso con la diversidad y la inclusión, al tiempo que trabaja para satisfacer las necesidades de sus electores.
+Ese reconocimiento se basa en su trayectoria: como consejera del condado, trabajó para garantizar que los servicios públicos y la toma de decisiones fueran accesibles para todas las comunidades, y lleva mucho tiempo colaborando con organizaciones religiosas y culturales de toda la región.
+Tal y como escribió Gamal Gasser, presidente de MDF, la organización confía en que Kimberly «impulsará el progreso y el cambio que nuestra comunidad necesita», y espera seguir colaborando con ella para lograr la equidad en el conjunto de la comunidad.
+Se trata de una colaboración que Kimberly valora y que llevará consigo en el ejercicio de su cargo.
+###
+Contacto para los medios de comunicación:
+Overman para el Congreso – Distrito 12 de Florida
+813-720-7719
+4610 N Central Avenue
+Tampa, FL 33603
+Vote@kimberlyoverman.com
+Impulsa una campaña que se nutra de la gente, no de intereses particulares.
+Tu apoyo nos ayuda a conectar con los votantes, hacer crecer nuestro movimiento y lograr un cambio real.
+Haz tu donación hoy mismo para ayudar a Kimberly a luchar por las familias y el futuro de Florida.
+Este movimiento comienza
+contigo.
+Tanto si puedes ir de puerta en puerta, hacer llamadas o difundir nuestro mensaje por Internet, hay un lugar para ti en el Equipo Overman.
+Inscríbete y ayúdanos a devolver la integridad y los resultados al Congreso.

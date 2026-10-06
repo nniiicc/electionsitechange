@@ -1,0 +1,31 @@
+The House on Monday voted to unwind an unprecedented spending surge at IRS and Republicans promised more such efforts are on the way.
+By Eric Katz, Government Executive
+House Republicans are pledging to use their new majority to identify agencies at which to slash budgets, pointing to their vote Monday to do so at the Internal Revenue Service as a launching pad.
+As its first legislative act in the 118th Congress, the House on Monday in a party-line vote approved a repeal of $71 billion in IRS funding.
+The Family and Small Business Taxpayer Protection Act (H.R. 23) would claw back most of the money Democrats provided in the last Congress as part of the Inflation Reduction Act, which Republican leadership said on Tuesday was the first step in identifying places to cut across government.
+The funding, scheduled to be disbursed over 10 years, is set to boost enforcement and customer service efforts after massive hiring surges at the agency.
+The inflation reduction law restricts enforcement efforts to high earners and corporations, though Republicans have insisted it will lead to the agency harassing low and middle-income Americans.
+During floor debate Monday night and again on Tuesday, Republicans argued that the 87,000 employees IRS could wind up hiring with the money would be a misallocation of federal resources that would cause undue burdens on taxpayers.
+The agency will net a much lower total of employees after accounting for existing vacancies, attrition and retirement, particularly in customer service and IT modernization.
+Democrats, for their part, repeated their longstanding argument that ramped up enforcement will help close the annual tax gap of at least several hundred billion dollars, especially by targeting high-income tax cheats.
+The Congressional Budget Office on Monday found repealing the funding would reduce federal revenue by $186 billion, leading to a net deficit increase of $115 billion.
+With Democrats remaining in control of the Senate and President Biden opposed to any reduction for IRS funding, the bill has virtually no chance of becoming law.
+“With their first economic legislation of the new Congress, House Republicans are making clear that their top economic priority is to allow the rich and multi-billion dollar corporations to skip out on their taxes, while making life harder for ordinary, middle-class families that pay the taxes they owe,” the White House said in announcing Biden would veto the bill if it ever reached his desk.
+The measure does send a signal, however, of how House Republicans plan to focus their attention in the new Congress.
+The new majority is going to bring “accountability on spending in every federal agency,” House Majority Leader Steve Scalise, R-La., said on Tuesday.
+“If there’s waste fraud and abuse in any federal agency it’s got to be rooted out…and it started with the IRS bill last night.”
+As part of a deal to win over members of his caucus to secure his new position, House Speaker Kevin McCarthy, R-Calif., has agreed to only bring up fiscal 2024 spending bills that could cut non-defense agency funding by more than 20%.
+Scalise confirmed Republicans will also use the upcoming need to raise the nation’s debt ceiling as leverage to bring about spending cuts.
+“We have to sit down and say, ‘Why are we hitting the limit?’” the majority leader said.
+“Before we hit that limit, shouldn’t we have an honest conversation about how to start living within our means?” He added Republicans would push to “put mechanisms in place” to “control the spending problem.”
+Republicans left the door open to providing some resources for IRS to boost customer service, with Rep.
+Adrian Smith, R-Neb., who introduced the funding repeal bill, saying Tuesday there was bipartisan agreement on the need for improvement.
+The Republican bill left untouched some money included in the Inflation Reduction Act for taxpayer services.
+Still, Democrats said on Tuesday the Republican focus on slashing agency budgets was setting Congress up for a series of crises.
+“They are laying the groundwork for dysfunction, default and, possibly, a government shutdown,” said Rep.
+Pete Aguilar, D-Calif., who chairs the House Democratic Caucus.
+On the Senate side, which requires bipartisan support for spending legislaiton, Sens.
+Patty Murray, D-Wash., and Susan Collins, R-Maine, the top Democrat and Republican, respectively, on the Senate Appropriations Committee, pushed back on the partisan rhetoric coming from the House over the funding battles to come.
+In a joint statement, the chairman and ranking member said they take their “responsibility to govern seriously” and pledged to working “in a bipartisan way” to find common ground.
+“This starts with funding the government in a responsible and bipartisan manner,” Murray and Collins said.
+“That means marking up our appropriations bills and bringing them to the floor in a timely way.”

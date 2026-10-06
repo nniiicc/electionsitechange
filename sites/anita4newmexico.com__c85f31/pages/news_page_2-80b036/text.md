@@ -1,0 +1,15 @@
+Legislative Round Up-HJM 5
+03/12/2025 | Santa Fe New Mexican – House Joint Memorial 5, sponsored by Rep.
+Anita Gonzales, D-Las Vegas, would support federal administrative action to withdraw certain lands from mining and mineral leasing and call on Congress to pass the Pecos Watershed Protection Act to protect portions of the area.
+Legislative Round Up-HB 405
+03/07/2025 | Santa Fe New Mexican – House Bill 405 would require employers to provide employees who are volunteer firefighters leave for training and service calls.
+House measure would support mining, leasing halt in Upper Pecos watershed
+02/20/2025 | Santa Fe New Mexican – Lawmakers moved one step closer to calling for long-term protections for the Upper Pecos River watershed.
+“As a community, we’re coming together, just to show support for the land.”-Gonzales
+AG, lawmakers propose constitutional amendment to tighten higher-ed oversight
+02/04/2025 | Source NM – Attorney General Raúl Torrez and state lawmakers introduced a proposed constitutional amendment this week designed to create more accountability for university boards of regents and administrators.
+Bill would let New Mexico counties temporarily halt issuing new cannabis producer licenses
+01/28/2025 | KRQE – SB 152 which would give county governments a say in pausing cannabis grower licenses.
+“This bill would allow counties to petition the Regulation and Licensing Department for a two-year moratorium on cannabis grow permits in their counties.”
+Freshmen, but experienced: Two dozen new lawmakers have deep ties to communities
+01/19/2025 | Santa Fe New Mexican – “I’m very proud to be what I would call pure San Miguel County,” said Gonzales, a Democrat who will begin to represent House District 70.

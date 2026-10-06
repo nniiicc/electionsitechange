@@ -1,0 +1,16 @@
+press release
+Jan 23, 2026
+College Democrats of Connecticut Endorse Governor Ned Lamont
+Lamont earns endorsement for championing student issues
+Storrs, CT – The College Democrats of Connecticut (CDCT) today announced their endorsement of Governor Ned Lamont for re-election, citing his record of lowering costs for students and families, making smart fiscal choices, and protecting fundamental freedoms.
+Representing thousands of students across Connecticut’s colleges and universities, the organization pointed to Lamont’s leadership on affordability, gun safety, and reproductive freedom as central to their support.
+For the students of Connecticut, Governor Lamont’s steady leadership and fiscal responsibility have meant more predictable funding for higher education, a growing job market for graduates, and a safer state.
+“Our young people are the best barometer for whether we’re getting it right, and I’m honored to have Connecticut’s College Democrats on our team,” said Governor Lamont.
+“We’re focused on affordability and opportunity, and making sure that whether you’re looking for a job, starting a business, or buying your first home, Connecticut is a place you can build your future now and for generations to come.”
+As the 2026 campaign cycle begins, the College Democrats of Connecticut will mobilize chapters at UConn, Yale, Central Connecticut State University, and campuses across the state to engage young voters in this year’s statewide election.
+“The College Democrats of Connecticut are proud to continue our work organizing and advocating for a better Connecticut for everyone.
+We’re excited to do that alongside our proven, time-tested leader, Governor Ned Lamont,” said CDCT President Ryan Rosario.
+“Together, we’re committed to protecting reproductive rights, making our state more affordable, and ensuring young people have a real seat at the table to shape Connecticut’s future at the State Capitol,” concluded Rosario.
+About the College Democrats of Connecticut
+The College Democrats of Connecticut is the official youth wing of the Connecticut Democratic Party on college campuses.
+We represent students from every corner of the state, working to elect Democrats at all levels of government and advocating for the progressive values that matter most to our generation.

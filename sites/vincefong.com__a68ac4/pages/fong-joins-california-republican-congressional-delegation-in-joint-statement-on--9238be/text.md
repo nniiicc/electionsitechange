@@ -1,0 +1,22 @@
+Press Release
+Fong Joins California Republican Congressional Delegation in Joint Statement on Newsom’s Redistricting Power Grab
+July 26, 2025
+Bakersfield, CA – Congressman Vince Fong, joined by his fellow members of the California Republican Congressional Delegation, issued the following joint statement yesterday:
+“In 2010, California voters passed the VOTERS FIRST Act by over 20 points, giving the independent California Citizens Redistricting Commission the sole authority of drawing California’s congressional districts.
+Today, Governor Newsom, flanked by Texas Democrats, announced that he stands ready to take power away from the Citizens Commission and place it back into the hands of Sacramento politicians to further his left-wing political agenda.
+The Commission received feedback from tens of thousands of Californians as to their communities of interest which shaped the current set of congressional districts.
+Districts that represent the local communities that they live in rather than the whims of one political party.
+A partisan political gerrymander is NOT what the voters of California want as they clearly stated when they passed the VOTERS FIRST Act and participated in the Citizens Redistricting Commission process.
+As it stands, Republicans only hold nine congressional seats out of 52 despite winning 38% of the vote statewide.
+It’s a shame that Governor Newsom and the radical Left in Sacramento are willing to spend $200 million on a statewide special election, while running a deficit of $20 billion, in order to silence the opposition in our state.
+As a Delegation we will fight any attempt to disenfranchise California voters by whatever means necessary to ensure the will of the people continues to be reflected in redistricting and in our elections.”
+Congressman Vince Fong, 20th District
+Congressman Ken Calvert, 41st District
+Congressman Darrell Issa, 48th District
+Congressman Kevin Kiley, 3rd District
+Congresswoman Young Kim, 40th District
+Congressman Doug LaMalfa, 1st District
+Congressman Tom McClintock, 5th District
+Congressman Jay Obernolte, 23rd District
+Congressman David Valadao, 22nd District
+###

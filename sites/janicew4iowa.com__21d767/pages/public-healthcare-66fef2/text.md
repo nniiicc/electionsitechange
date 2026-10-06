@@ -1,0 +1,13 @@
+PUBLIC HEALTHCARE
+Throughout this pandemic, we have seen how hard public health professionals work, as well as the constraints under which they work and the limits of their reach.
+Their jobs have been made so much harder by the unnecessary and damaging injection of politics.
+Their job is prevention, education, and the creation of a healthier community for all residents.
+We need to recognize and support the incredibly important role of public health.
+This pandemic won’t be the last public health emergency – and there are smaller, significant tasks that they perform every day for the common good.
+They are an essential part of the backbone of our community.
+- Fully fund and staff public health; include robust funding for public education.
+- Ensure that public health professionals are free from political pressures/constraints so they can actually provide the public with unvarnished public health advice and education (i.e., stop the political gaslighting and anti-science pressures that have cost so many lives).
+- Use the expertise available – in particular, tap into the public health expertise available at the Regents’ universities (a revenue neutral resource); again, politics should not prevent this from happening – leverage our excellent resources to the benefit of all.
+- Coordinate among local, state and federal levels.
+- Ensure a coordinated outreach strategy tailored to different segments of society.
+- Ensure robust STEM education in the state (math, science, statistics) so the population has the foundation to be receptive to public health advice.

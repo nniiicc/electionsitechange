@@ -1,0 +1,57 @@
+ACCOMPLISHMENTS
+Nicole Malliotakis has always fought for Staten Island and Brooklyn.
+Here are a few of the many accomplishments Nicole achieved for her constituents:
+In Congress:
+- As a member of the House Ways and Means Committee, Nicole delivered major tax relief for New Yorkers quadrupling the State and Local Tax (SALT) deduction enabling 98% of households in NY-11 to fully deduct their state, local income and property taxes.
+- Nicole delivered relief for seniors by creating a new bonus tax deduction effectively refunding the taxes paid on Social Security benefits for most seniors, with an estimated 88% (51 million seniors) paying no tax on their benefits.
+- Nicole delivered a larger standard deduction for American families, raising it to $15,750 for individuals and $31,500 for married couples, ensuring more families can keep more of what they earn.
+- Nicole delivered meaningful tax relief for service industry workers by securing a deduction of up to $25,000 for tipped income, helping restaurant workers and other tipped employees keep more of their earnings.
+- Nicole helped workers keep more of their hard-earned pay by enabling them deduct overtime wages, up to $12,500 for individuals and $25,000 for couples.
+- Nicole expanded the Child Tax Credit to $2,200 per child, creating “Trump Accounts” with a $1,000 federal contribution for every child born between 2025 and 2028, and expanding 529 education savings accounts to help families save for their children’s future.
+- Nicole passed the law requiring full, lifetime funding for the World Trade Center Health Program, ensuring permanent certainty of care for 9/11 responders and survivors.
+- This year, Nicole delivered $1 million in funding she earmarked for New York law enforcement providing critical support for the New York Police Department and the New York City Department of Correction which includes $460,500 for NYPD camera safety upgrades, $180,000 for NYPD license plate reader systems to target car thieves, and $359,421 for safety and security upgrades for the New York City Department of Correction.
+- This year, Nicole secured over $9 million for FDNY in both Staten Island & Brooklyn including: $5 million will be used to develop a building on Staten Island that will be used for EMS classroom training, ensuring first responders receive high-quality instruction close to home. $2 million for FDNY Squad 8 Firehouse renovations, supporting essential improvements to the borough’s only Squad company so firefighters can safely respond to fire and medical emergencies. $1 million was secured for FDNY Engine 155/Ladder 78 Generator Improvements, helping ensure continuous operations so first responders can protect residents when they are needed most.
+In Brooklyn, $1.23 million for FDNY Engine 284/Ladder 149/Satellite 3 will be used for generator upgrades to strengthen emergency readiness during major storms and power outages.
+- Nicole voted for H.R.6703 – Lower Health Care Premiums for All Americans Act, which is expected to lower healthcare premiums by 11% for all Americans, expand access for employees of small businesses & force PBMs to be more transparent.
+- Nicole successfully advocated for reining in predatory pharmacy benefit managers to lower prescription drug costs.
+This will have a positive impact on lowering drug prices, especially for all Americans, and especially for seniors who receive their drug coverage on Medicare.
+These reforms will help bring down the price of medications for high blood pressure, high cholesterol, diabetes, heart disease, pain management, and mental health conditions.
+- Nicole introduced H.R.6501- Bipartisan Health Insurance Affordability Act which would extend the Enhanced Premium Tax Credit for two additional years and includes several commonsense reforms to crack down on fraud and abuse.
+- Nicole got $100 million restored for NYPD Counterterrorism Operations
+- Nicole passed the SAVE America Act to require voter ID and prevent non-citizens from registering to vote.
+- In Congress, Nicole has secured over $66 million in funding to support local sewer infrastructure projects, educational initiatives, and community organizations, including the NYPD, St.
+George’s Theatre and area hospitals.
+This includes millions for Richmond University Medical Center, Staten Island University Hospital, Maimonides Medical Center, and NYU Langone Health.
+- Nicole has helped over 24,000 constituents resolve complex cases, cut through government bureaucracy, and return over $65 million in funding owed from federal agencies.
+She has also expedited nearly 2,000 passport applications and sworn in 240 new American citizens.
+- Nicole is leading the effort to establish the Smithsonian American Women’s History Museum on the National Mall in Washington, D.C.
+- As a former member of the House Committee on Transportation and Infrastructure, Nicole was able to get the East Shore Seawall project back on track and ensure it will be fully funded to completion after years of delays and cost increases under her predecessor.
+- Nicole voted for bipartisan infrastructure legislation that included more than $2.3 billion for New York City to expand our sewer system, upgrade the Staten Island Ferry and subway stations, rehabilitate local bridges and expressways, harbor dredging and shoreline protection and purchase new school buses.
+- Nicole helped deliver over $54 million in federal funding for dredging projects in Staten Island’s Arthur Kill Terminal and Great Kills Harbor to support an offshore wind staging and assembly facility, improve boat safety and reduce shoreline flooding.
+- Nicole secured $42.7 million in federal funding for base operations support services at Fort Hamilton Army Base, $27 million for a state-of-the-art Information Systems Node Facility and $30 million for a new Child Development Center.
+She also delivered the funding to expand and renovate the parking facilities at Fort Hamilton.
+- Nicole successfully stopped House Democrats from passing legislation to pack the U.S.
+Supreme Court.
+- Nicole led the successful legal challenge that blocked New York City from implementing non-citizen voting law.
+She also joined winning efforts to block New York City’s vaccine passports and overturn Biden’s private-sector vaccine mandate.
+- Nicole secured $1.2 million for U.S.
+Coast Guard Sector New York to make repairs to the base’s waterfront and $5 million to upgrade 154 legacy housing units.
+In addition, Nicole delivered the remaining funding needed to construct a state-of-the-art senior center in Bay Ridge, Brooklyn.
+- Nicole delivered $8.1 million in federal funding of the NYPD, including $350,000 for new critical response command K9 training and equipment, $550,000 for personal protective gear, $2 million for forensic equipment, $1 million for patrol response vehicles, $2 million for fixed plate reader systems and $2.2 million for belt-worn trauma kits and tasers.
+- Nicole saved the Brooklyn VA Medical Center from its proposed closure by the Biden Administration.
+- Nicole drafted legislation to hold states with lax bail laws accountable and give judges the ability to consider dangerousness when setting bail.
+- Nicole passed bipartisan legislation to cancel the migrant shelter at Brooklyn’s Floyd Bennett Field, led efforts to close the St.
+John’s Villa and Canterbury House migrant shelters, and has called on the city to restore cooperation with federal immigration officials to immediately deport criminal illegal aliens residing in New York City.
+In the State Assembly:
+- Helped countless families recover after Superstorm Sandy
+- Delivered over 100,000 PPE during the COVID epidemic
+- Stopped Mayor de Blasio from putting heroin injection centers throughout our city
+- Got the Mayor to agree to deport illegal immigrant convicted of sex crimes from our city
+- Helped deliver 151 Million Dollars in State funding for the East Shore Seawall
+- In her first term in the Assembly, Nicole restored local and express bus service that was lost under her predecessor
+- She was a leader in the public fight to get the Verrazano toll to $5.50 for residents in 2015 and it hasn’t increased since
+- She sued the Port Authority to force them to release records that showed they were greatly profiting from our 3 Staten Island Bridges, leading to a permanent discount plan which eventually led to the 3 trip discount plan
+- Successfully pushed back Mayor de Blasio when he tried to dismantle Specialty High Schools and Gifted and Talented Programs
+- At different times she fought to fight the closing of various Senior Centers and Fire Houses
+- Led the fight that eventually led to stripping the pensions of Elected Officials convicted of crimes
+- Fought for the permanent elimination of sales tax on clothing under $100.00 and won

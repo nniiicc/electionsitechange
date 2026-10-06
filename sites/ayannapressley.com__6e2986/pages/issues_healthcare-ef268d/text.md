@@ -1,0 +1,5 @@
+Addressing the Impact of Violence and Trauma
+As a survivor of sexual violence, Ayanna understands, on a personal level, the lasting challenges associated with trauma.
+For communities disproportionately impacted by violence – including Black, brown, Latinx, and Indigenous communities, women and girls, the LGBTQIA+ community, and immigrant families – the collective impact of violence-related trauma can lead to severe inequities in health outcomes, educational progress, and economic opportunity.
+We must be intentional about shining a light on the experiences that lead to trauma and the ongoing challenges it creates, and about pursuing specific policies that address its root causes and create pathways to justice and healing.
+Ayanna convened the first ever Oversight hearing in Congress about childhood trauma and worked to successfully pass legislation to support trauma survivors – from surviving family members of homicide victims, to those impacted by horrific violent events like the Boston Marathon attack.

@@ -1,0 +1,55 @@
+LIST OF ISSUES
+PUBLIC SAFETY
+Fully fund police departments and support law enforcement resources.
+Repeal or roll back cashless bail laws and changes to criminal discovery rules.
+Advance stricter measures and penalties targeting hate crimes and
+antisemitism, including campus safety rules and mask bans to prevent
+anonymous loitering.
+Prohibit public funding for groups associated with terrorist organizations.
+ENERGY
+It is time New York State listens to experts and not activists!
+Enact common sense.
+Energy policies to make home heating and gas prices
+affordable.
+Enact a one-year tax and surcharge holiday on utility bills.
+Return the $2.4 billion unspent green energy funds from New York State.
+Energy Research and Development Authority directly back to utility ratepayers.
+Repeal or delay strict energy mandates under the Climate Leadership and
+Community Protection Act (CLCPA), including electric vehicle and school bus
+mandates.
+EDUCATION
+Restore family-driven curriculum in our taxpayer-funded schools.
+Protect local school district resources and oppose mandated regionalization
+frameworks.
+Strengthen transparency policies and defend parental involvement in student
+education.
+Enact statewide voter ID requirements.
+Impose term limits for elected state politicians.
+Implement regulatory reform requiring agencies to cut old administrative rules
+when adding new ones
+ZONING
+Safeguard local zoning laws, defending property values from overreaching State
+mandates.
+TAXES
+Keep government lean, accountable, and focused on serving the people.
+Cut personal income taxes for state residents.
+Implement a three-year freeze on real property taxes and cap property taxes for
+seniors over 70.
+Eliminate state income tax on the 1st $50,000 for single filers and the 1st
+$100,000 for joint filers.
+Implement a 10% income tax cut for individuals earning under $250,000.
+Eliminate state income taxes on tips and overtime pay.
+ECONOMIC GROWTH
+Inflation Relief - Enact the "Inflation Relief & Consumer Assistance Plan" to reduce the costs on everyday items and ease the burden on consumers
+Tax Simplification and Reduction - Reduce taxes on overburdened employers and study simplifying the State tax system
+Elimination of Burdensome Regulations - Establish the Division of Regulatory Review and Economic Growth (D-RREG) and the Legislative O ce of Fiscal Transparency to eliminate or prevent burdensome regulations that negatively impact the economy
+SUPPORT FOR SMALL BUSINESS
+Shop Local - Support local businesses by offering financial support to advertise and emphasize the importance of shopping local
+Small Business Tax Cuts - Reduce the burden on the small businesses that employ over 4.2 million New Yorkers
+Emergency Relief - Authorize the Governor to repurpose certain monies as needed for the Restart New York Grant Relief Program
+Minimum Wage Assistance - Expand eligibility in order for employers to receive reimbursement credits, expand/restructure the State Earned Income Tax Credit to reduce the reliance on the minimum wage for increasing take-home pay, require legislative approval for Wage Board orders
+LEARNING FOR WORK
+Youth Apprenticeship Programs - Provide career-focused curriculum in our high schools by combining academic classroom coursework with mentored on-the-job training in a specific occupational area
+Enhanced Professional High School Diploma - Offer a degree with a designation in a career field of a student's choice
+Youth Apprenticeship Tax Credits - Establish a per apprentice tax credit for businesses that take part in the Youth Apprenticeship Program
+Sector Partnerships - Support industry clusters that partner with local education, workforce development, not-for-profit, and similar entities to address industry skill needs and other priorities

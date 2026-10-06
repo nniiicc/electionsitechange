@@ -1,0 +1,3 @@
+Thank you for you interest in Tavia Galonski's campaign!
+If you have a question for Tavia, would like to volunteer in support of her campaign, would like a yard sign, or have any other inquiry, please fill out the form below.
+A representative of the campaign will respond as soon as possible.

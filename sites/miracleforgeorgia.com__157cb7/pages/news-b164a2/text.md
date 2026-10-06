@@ -1,0 +1,3 @@
+February 24, 2026
+Jen Jordan and Miracle Rankin Announce Campaigns for the Supreme Court of Georgia Rooted in Values of Democracy, Reproductive Freedom for All Georgians
+Today, attorneys Jen Jordan and Miracle Rankin announced their campaigns for the Supreme Court of Georgia, pledging to uphold the rights and freedoms of all Georgians under the Georgia Constitution, protect equal justice under the law, and ensure the Court remains independent and accountable to the people of this state. […]

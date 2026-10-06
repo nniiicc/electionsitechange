@@ -1,0 +1,27 @@
+Accomplisments
+I was first elected in 2022 and re-elected in 2024 because I believe government should protect our families, support our police and first responders, and keep taxes low…no sales tax, no income tax, and common-sense policies that put you first.
+In the House, I’ve served on the Criminal Justice and Public Safety Committee and now serve as Vice Chair of the Judiciary Committee.
+I don’t just vote…I fight for results.
+I have a strong conservative voting record this term, with high attendance and party unity:
+- 100% session days attended
+- 94% party unity
+- 100% roll call participation
+- Prime sponsor of 3 bills and 1 CACR… 2 became law and one was passed and will appear on the November ballot as a constitutional amendment (HB 59, HB 109, and CACR 13.)
+As prime sponsor of HB 59, I led the charge to make assaults on firefighters, emergency medical providers, and law enforcement officers a felony.
+This important law strengthens protections for the brave men and women who run toward danger to keep us safe—and it passed and became law.
+I’ve championed legislation to protect our Second Amendment rights, election integrity, parental rights in schools, and free speech.
+I supported criminal justice reforms that passed the House, including measures to restore our bail laws and common-sense tools for self-defense.
+This year I also co-sponsored and fought for legislation to help eliminate illicit massage businesses involved in human trafficking right here in New Hampshire, including some in Salem.
+HB 1469 is on its way to the governor’s desk.
+These aren’t just bills—they’re about keeping our streets safe, holding criminals accountable, and backing the heroes in uniform.
+If re-elected, I will continue to:
+- Support our police and first responders
+- Fight for lower taxes and less regulation so hardworking families and small businesses can thrive
+- Protect parental rights and ensure our schools focus on education, not indoctrination
+- Defend our constitutional rights, including the right to keep and bear arms
+- Promote election integrity and transparent government
+After a career protecting our communities, I know what works: tough, smart policies rooted in reality, not ideology.
+I’ve delivered results with a strong conservative voting record, and I’ll keep delivering for you.
+I humbly ask for your continued support and your vote.
+Together, we’ll keep Salem and New Hampshire safe, prosperous, and true to our “Live Free or Die” values.
+Prime Sponsored Legislaion

@@ -1,0 +1,14 @@
+Support Continues to Build as Adrian Boafo Picks Up Endorsements From Anne Arundel County and Prince George’s County Leaders
+Apr 24, 2026
+BOWIE, MD – Today, Delegate Adrian Boafo announced alongside Congressman Steny Hoyer and Congresswoman Sarah Elfreth nine new endorsements across Anne Arundel and Prince George's Counties in his campaign for Maryland's 5th Congressional District.
+These endorsements represent elected officials and community leaders from across the political spectrum who recognize the urgency of this moment in history, the need to elect a new generation of leadership, and the imperative to fight back against the Trump Administration's egregious and unconstitutional actions harming Marylanders.
+The full list is included below.
+Anne Arundel County Leaders: Senator Dawn Gile, District 33; Senator Pam Beidle, District 32; Delegate Dylan Behler, District 30A; Delegate Mark Chang, District 32
+Prince George's County Leaders: Senator Nick Charles, District 25; Delegate Kent Roberson, District 25; Delegate Denise Roberts, District 25; Rep.
+Albert Wynn, Former Congressman, Maryland's 4th Congressional District; Yvette Lewis, Former Chair, Maryland Democratic Party
+"It is an honor to have the support of these elected officials and community leaders," said Delegate Adrian Boafo.
+"Their support is a testament to the growing movement we are building, one that centers our federal workers, our unions, and our working families in every corner of this district.
+These are leaders who know that I stand firm on my values and will be a strong advocate who delivers results and holds this administration accountable."
+The Democratic Primary Election is June 23, 2026.
+To learn more about Adrian, visit adrianboafo.com.
+###

@@ -1,0 +1,5 @@
+RALEIGH – Today, Michael Whatley released the following statement celebrating the one year anniversary of the landmark Working Families Tax Cuts being signed into law.
+Marking a year of North Carolina families saving $5,700 in taxes, a secure border, American energy dominance, and policies that put money back into North Carolinians pockets such as No tax on tips, overtime, and Social Security.
+“The Working Families Tax Cuts have put money back into the pockets of North Carolina families, protected our nation, and helped to preserve the American Dream for generations to come.
+While North Carolina families saved $5,700 on taxes this past April, and millions of North Carolinians benefitted from the no tax on tips, overtime, and Social Security policies, my opponent Roy Cooper still opposes this monumental legislation.
+While he remains committed to higher taxes and prices for you and your family, I will always work to enact policies like the Working Families Tax Cuts which allow you to make more and keep more of your money,” said Michael Whatley.

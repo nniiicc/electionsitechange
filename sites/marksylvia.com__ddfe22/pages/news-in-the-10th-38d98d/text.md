@@ -1,0 +1,47 @@
+NEWS IN THE 10TH
+2026
+__________________________________________________________________________________________________
+28 to be given Portuguese Heritage awards at MA Statehouse →
+Herald News, June 4, 2026
+__________________________________________________________________________________________________
+Marion's oldest resident Will Wingate honored with Boston Post Cane →
+South Coast Today, June 3, 2026
+__________________________________________________________________________________________________
+Mattapoisett veteran Colonel Nancy Souza honored at military event in Boston →
+Sippican, May 27, 2026
+__________________________________________________________________________________________________
+Marion, Mattapoisett hold Memorial Day ceremonies →
+Sippican, May 25, 2026
+__________________________________________________________________________________________________
+2025
+__________________________________________________________________________________________________
+Old Rochester begins improvements on athletic fields, gymnasium →
+Sippican, November 24th, 2025
+__________________________________________________________________________________________________
+Village Signs of Mattapoisett honored as a Massachusetts Manufacturer of the Year →
+South Coast Today, November 5th, 2025
+__________________________________________________________________________________________________
+Mattapoisett Town Band celebrates 125th anniversary →
+Sippican, July 30th, 2025
+__________________________________________________________________________________________________
+Sylvia eager to work on green issues and cost of living →
+New Bedford Light, April 3rd, 2025
+__________________________________________________________________________________________________
+Healey-Driscoll Administration, MassDOT, MBTA Celebrate Launch of South Coast Rail →
+Mass.gov, March 24th, 2025
+__________________________________________________________________________________________________
+Get to know Tri-Town’s new State Rep.
+Mark Sylvia →
+Sippican, March 5th, 2025
+__________________________________________________________________________________________________
+Mark Sylvia sworn in as state rep →
+Fairhaven Neighborhood News, January 15th, 2025
+__________________________________________________________________________________________________
+__________________________________________________________________________________________________
+Beacon Hill Report: Mark Sylvia →
+The Beacon Hill Report, July, 2026
+2024
+__________________________________________________________________________________________________
+Grand re-opening of Mattapoisett Bogs attracts crowd →
+State Rep Mark Sylvia, November 25th, 2024
+__________________________________________________________________________________________________

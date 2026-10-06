@@ -1,0 +1,10 @@
+FOR IMMEDIATE RELEASE
+June 1, 2026
+Contact: press@whatleyforsenate.com
+CRAVEN COUNTY – Today, Michael Whatley welcomed federal and state agriculture and labor officials to Eastern North Carolina to discuss how agriculture drives the North Carolina economy.
+Whatley, US Agriculture Secretary Brooke Rollins, Acting US Labor Secretary Keith Sonderling, NC Commissioner of Agriculture Steve Troxler, NC Commissioner of Labor Luke Farley, and North Carolina family farmers gathered in New Bern.
+Click HERE to view more pictures
+Click HERE to Watch
+“I was honored to welcome Secretary Rollins, Acting-Secretary Sonderling to New Bern today alongside Agriculture Commissioner Troxler to visit with family farmers and agricultural leaders.
+NC farms add more than $111 billion annually to our state’s economy.
+In the US Senate, I will fight for tax, trade, and regulatory policies that will help NC farm families,” said Michael Whatley.

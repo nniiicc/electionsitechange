@@ -1,0 +1,15 @@
+top of page
+A proven record as our
+State Representative:
+Voted for the two largest income tax reductions in state history
+Sponsored legislation to allow public access to criminal background records
+Fought and voted against the implementation of Obamacare in Arkansas
+Supported every Pro-Life measure to come before the State House
+Has a 100% Pro-Gun and 2nd Amendment record
+Passed a bill to protect our kids from predators while at school
+Passed legislation to remove burdensome licensing restrictions on entrepreneurs
+Expanded workforce & skills training in local schools
+Gave parents more options for improving their children’s education
+PAID FOR BY CITIZENS FOR WOMACK.
+866 North 12th Street, Arkadelphia, AR 71923
+bottom of page

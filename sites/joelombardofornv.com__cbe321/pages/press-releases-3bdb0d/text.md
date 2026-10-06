@@ -1,0 +1,86 @@
+Press Releases
+- October 4, 2026 - Nevada's "Top Cop" and Chair of the State's Domestic Violence Committee Admits He Doesn't Know What Coercive Control Is
+- September 30, 2026 - FACT CHECK: Ford Campaign Tries to Dismiss Aaron Ford's Role in Sponsoring a Criminal
+- September 28, 2026 - Governor Lombardo Launches "Faith Leaders for Lombardo" at Pastors and Faith Leaders Luncheon
+- September 22, 2026 - ICYMI: Aaron Ford Refuses to Answer Why he Sponsored Commutation for Killer of Pregnant Woman and Her Unborn Child
+- September 18, 2026 - Lombardo Campaign Launches Latinos Con Lombardo
+- September 3, 2026 - Governor Lombardo Announces “Nevadans Working Together” Plan
+- August 27, 2026 - Lombardo Campaign Releases Statement Following Aaron Ford's IndyTalks
+- August 21, 2026 - ICYMI: Latin Chamber of Commerce Endorses Governor Lombardo for Re-election
+- August 21, 2026 - ICYMI - NAPO Endorses Governor Lombardo for Re-election
+- August 14, 2026 - Asian Chamber Endorses Governor Lombardo for Re-election
+- August 13, 2026 - NAPSO Endorses Governor Lombardo for Re-election
+- August 10, 2026 - ICYMI WITH VIDEO: Nevada Law Enforcement Sends Cease-and-Desist Letter Over Aaron Ford's False Endorsement Ad
+- August 8, 2026 - BREAKING: Nevada Law Enforcement Sends Cease-and-Desist Letter Over Aaron Ford's False Endorsement Ad
+- August 5, 2026 - NEW: Nevada Teachers Have a Message for Aaron Ford
+- August 4, 2026 - NEW: Lombardo Campaign Launches UnafFORDable Website
+- July 23, 2026 - NEW REPORT: Aaron Ford’s Plan Would Cost $18 Billion
+- July 20, 2026 - ICYMI: Governor Lombardo's New Op-Ed on Election Integrity
+- July 17, 2026 - Aaron Ford's Out-of-State Travel Pays Off: Majority of Campaign Money Comes From Outside Nevada
+- July 14, 2026 - Governor Lombardo Announces $13.6 Million in the Second Quarter
+- July 11, 2026 - Aaron Ford Refused to Sue Gavin Newsom Over Gas Prices.
+This Weekend, Nevadans Learned Why.
+- July 10, 2026 - Aaron Ford Refuses to Answer Why He Doesn’t Prosecute the Majority of Medicaid Fraud Cases
+- July 10, 2026 - Boys Weekend: Newsom and Ford Hit Las Vegas Together
+- July 10, 2026 - As Californians Flee Newsom's Policies, Aaron Ford Campaigns Alongside Him
+- July 9, 2026 - BREAKING: New State Findings Raise Serious Questions About Aaron Ford's Medicaid Fraud Prosecutions and Recovery Claims
+- June 26, 2026 - Aaron Ford Refuses to Say if He Would Support Defunding the Police and Abolishing Prisons
+- June 25, 2026 - Aaron Ford Jetted Out of State...Again, While Governor Lombardo Continues Delivering for Nevada
+- June 10, 2026 - Team Lombardo Update - Governor Lombardo Officially our Leader for November!
+- June 09, 2026 - Governor Joe Lombardo Statement Following the Gubernatorial Primary Election Results
+- June 03, 2026 - Aaron Ford Skips White House Roundtable on Fighting Fraud
+- May 13, 2026 - Governor Lombardo Releases Television Ad "Doers"
+- May 12, 2026 - Nevada Rural County Sheriffs Endorse Governor Joe Lombardo for Re-Election
+- May 08, 2026 - Governor Lombardo Celebrates Nevada Teachers During Visit to Mountain View Elementary School, Praises State Progress in Education
+- May 07, 2026 - Sheriff Kevin McMahill Endorses Governor Lombardo for Reelection
+- April 21, 2026 - Vegas Chamber Endorses Governor Joe Lombardo for Re-Election
+- April 21, 2026 - NEW: Multiple Nevada Cities Listed as Best Places to Start a Business
+- April 17, 2026 - Nevada Economy Continues to Move in the Right Direction with Nation-Leading Job Growth
+- April 17, 2026 - Washoe County Sheriff Darin Balaam Endorses Governor Lombardo for Reelection
+- April 15, 2026 - Governor Joe Lombardo Reaffirms Commitment to Not Raise Taxes for Nevadans on Tax Day
+- April 14, 2026 - Carson City Sheriff Ken Furlong Endorses Governor Lombardo for Reelection
+- April 02, 2026 - Governor Lombardo Delivers Reliable Energy and New Solar Projects, Strengthens Nevada’s Fuel Supply
+- March 30, 2026 - ICYMI: U.S.
+Oil and Gas Association Says What Aaron Ford Won’t About Gas Prices
+- March 24, 2026 - Nevada REALTORS Endorse Governor Joe Lombardo for Re-Election
+- March 21, 2026 - ICYMI: Nevada Trucking Association Endorses Governor Joe Lombardo
+- March 11, 2026 - Governor Lombardo Releases First Television Ad "Together"
+- March 9, 2026 - Western States Regional Council of Carpenters Endorses Governor Joe Lombardo for Re-Election
+- March 4, 2026 - Aaron Ford Stands with Gavin Newsom as California Policies Drive Up Gas Prices for Nevada Families
+- February 12, 2026 - Governor Joe Lombardo has Delivered Historic Progress on Health Care Access, Affordability, and Workforce Development for Nevadans
+- 12 de enero de 2026 - El Gobernador Lombardo Anuncia Una Cifra Récord De $15 Millones En Efectivo Disponible, Superando A Todas Las Campañas Para Gobernador Anteriores
+- January 13, 2026 - Governor Lombardo Announces Record-Breaking $15 Million Cash-on-Hand, Surpassing All Previous Gubernatorial Campaigns
+- January 7, 2026 - ICYMI: Governor Lombardo Announces Protect Girls’ Sports Initiative
+- January 1, 2026 - ICYMI: Governor Lombardo Delivers Year of Results for Nevada in 2025
+- November 16, 2022 - Governor-Elect Lombardo Announces Transition Team, Working Committees
+- September 27, 2022 - A note from Joe Lombardo
+- September 8, 2022 - Lombardo Calls for a Raise for Nevada State Police
+- September 6, 2022 - Lombardo Calls for Improvements to Nevada’s Failing Education System
+- July 19, 2022 - Lombardo Campaign Statement on Sisolak’s 2022 State of the State (Campaign) Update
+- July 19, 2022 - 10 Questions You Should Ask Steve Sisolak Today
+- July 13, 2022 - ICYMI: Steve Biden’s Inflation Crisis
+- July 5, 2022 - ICYMI: Here’s A #SisolakFactCheck On Sisolak’s New Ad
+- May 26, 2022 - Secretary Pompeo Endorses Joe Lombardo for Governor
+- May 26, 2022 - ICYMI: “For All Practical Purposes, This Primary Is Over”
+- May 20, 2022 - ICYMI: Las Vegas Police Protective Association Endorses Sheriff Joe Lombardo for Governor
+- May 19, 2022 - Las Vegas Police Protective Association Civilian Employees, Inc.
+Endorses Sheriff Joe Lombardo for Governor
+- May 18, 2022 - ICYMI: Poll: Lombardo still holds sizable lead over GOP governor opponents
+- May 18, 2022 - Nevada Association of Public Safety Officers Endorses Sheriff Joe Lombardo for Governor
+- May 17, 2022 - ICYMI: Democratic Groups Spend Millions To Meddle In GOP Governor Primary
+- May 17, 2022 - Lombardo Statement On Viral Video From Recent CCSD School Board Meeting
+- May 17, 2022 - Carson City Sheriff Ken Furlong Endorses Sheriff Joe Lombardo for Governor
+- May 17, 2022 - ICYMI: 5 Questions Steve Sisolak Has To Answer About Yesterday’s Bombshell Report
+- May 16, 2022 - Public Safety Alliance of Nevada Endorses Sheriff Joe Lombardo for Governor
+- May 16, 2022 - Washoe County Sheriff Darin Balaam Endorses Sheriff Joe Lombardo for Governor
+- May 13, 2022 - Lombardo for Governor Releases New Television Ad
+- May 2, 2022 - Sparks Mayor Ed Lawson Endorses Sheriff Joe Lombardo for Governor
+- April 27, 2022 - President Donald Trump Announces Endorsement of Sheriff Joe Lombardo for Governor
+- April 25, 2022 - Lombardo for Governor Releases First Television Ad
+- April 20, 2022 - Lombardo Demands Legislative Action on School Violence
+- April 6, 2022 - ICYMI: Lombardo for Governor Campaign Hosts First Faith Leaders for Lombardo Breakfast
+- March 21, 2022 - Nevada Chapter of the National Latino Peace Officers Association Advocacy Committee Endorses Sheriff Joe Lombardo for Governor
+- March 14, 2022 - Sheriff Joe Lombardo Files To Run For Governor At Nevada State Capitol
+- February 9, 2022 - Sheriff Joe Lombardo Again Calls on Governor Sisolak to Remove Nevada’s Mask Mandate
+- January 14, 2022 - ICYMI: Lombardo Joins “Fox & Friends” To Discuss His Campaign and Record-Breaking Fundraising
+- January 11, 2022 - Lombardo Announces Record-Setting Fundraising Haul, Raising Over $3.1 Million To Date In Nevada Governor’s Race

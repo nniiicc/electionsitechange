@@ -1,0 +1,30 @@
+For immediate release: July 14, 2015
+BOSTON – State Representative Mark J.
+Cusack (D-Braintree), Senator Brian A.
+Joyce (D-Milton), and Senator John F.
+Keenan (D-Quincy) are pleased to announce that the town of Braintree received $150,000 for public safety improvements and $200,000 for the expansion of the Department of Elder Affairs in the FY16 state budget that was recently passed by the Massachusetts House of Representatives and Senate.
+Braintree can anticipate receiving $20,916,176 from the state in FY16.
+In addition to the $350,000 stated above, the budget includes $15,291,040 for the school system in Chapter 70 funding and $5,275,136 in Unrestricted General Government Aid.
+“I am very pleased with the FY16 state budget.
+It delicately balances the need for investment in important areas, such as opiate treatment and the transportation system, without overburdening the citizens of the Commonwealth with new taxes,” said Representative Cusack.
+“Braintree did very well in the budget, and the additional funding we receive from the state will go a long way to make Braintree an even better place for all who live in and visit our community.”
+“I am glad to have worked with Representative Cusack and Senator Keenan to secure critical funding for Braintree, including the expansion of the senior center,” said Senator Joyce.
+“This year’s state budget was crafted in a bipartisan fashion and includes strategic investments in areas such as local aid, early education, jobs training, substance abuse treatment, and economic development.”
+Keenan described the budget as “very strong for our community.
+We were able to support public services, and also increase funding to some of the resources that build vibrant communities, such as schools, public safety, transportation, libraries, councils on aging, and the community preservation trust.”
+“This state budget is a good one for Braintree and our legislative team deserves our applause for their efforts,” remarked Mayor Joseph Sullivan.
+In addition to local funding for Braintree, the FY16 budget targets the opioid crisis, strengthening the behavioral health efforts enacted in last year’s budget and the landmark substance addiction law, also passed last year.
+Many of the programs focus on co-occurring disorders and finding sustainable ways to aid in both prevention and recovery including:
+- $3 million for new clinical stabilization beds to provide for treatment after detoxification;
+- A municipal Naloxone bulk purchasing program to authorize the Department of Public Health to buy and distribute this critical intervention to first responders;
+- A task force to study the feasibility of a prescription drug disposal program;
+- $2.5 million to expand patient access to Vivitrol, a non-narcotic drug that blocks the effect of opiates or alcohol for a period of 30 days;
+- $1.5 million to expand opioid prevention grants;
+- $3.1 million for a new line item for Recovery High Schools, including $1 million to establish two new programs;
+- More than $375 million for Adult Community Mental Health Services, $87 million for Child and Adolescent Mental Health Services, and an additional $4 million for the Department of Mental Health to annualize and expand community placements to free up beds in the DMH pipeline.
+“Massachusetts and our region are in the throes of an opiate epidemic.
+Too many families have lost loved ones to this terrible disease and many more are in the midst of trying to save a loved one or friend,” said Representative Cusack.
+“This new money and additional funding for other current recovery efforts will help save lives, but there is no doubt that we have a long way to go.
+We must continue to provide support for those battling and their families by focusing on treatment and continue working with our partners in government, healthcare and public safety to save lives and prevent future generations from succumbing to this crisis.”
+The budget now heads to Governor Baker’s desk for his action.
+####

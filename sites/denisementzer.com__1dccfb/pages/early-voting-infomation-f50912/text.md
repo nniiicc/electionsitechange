@@ -1,0 +1,41 @@
+Mount Clemens City Hall
+ONE Crocker Blvd, Mt Clemens, MI 48043
+8:30 a.m. – 4:30 p.m.
+Saturday, October 24 - Sunday, November 1
+OPEN EVERY DAY
+Faith Baptist Church
+34590 Little Mack Ave, Clinton Twp, MI 48035
+Oct. 24 - Nov. 1, 8:30 am - 4:30 pm &
+Sundays 12 pm - 8 pm
+Clinton Township Civic Center,
+40700 Romeo Plank Rd, Clinton Twp, MI 48038
+Kensington Church
+25000 Hall Rd, Clinton Twp, MI 48036
+VIctory Church
+42850 Hayes Rd, Clinton Twp, MI 48036
+Sterling Heights Community Center
+40250 Dodge Park Road
+Sterling Heights, MI 48313
+(use side entrance of the Community Center)
+9 a.m. and 5 p.m.
+Chaldean Community Foundation
+3601 15 Mile Rd.
+Sterling Heights, MI 48310
+(use back entrance of the building)
+9 a.m. and 5 p.m.
+Saturday, October 26 - Sunday, November 3
+YOU CAN REGISTER ONLINE UNTIL OCTOBER 21ST
+If you’re still not registered come Election Day and want to vote on Tuesday, November 5th, you must register in person at your city or township clerk’s office by 8 p.m.
+After registering, you can vote an absent voter ballot at the city or township clerk’s office.
+Proof of residency:
+You must show proof of where you live when using this option.
+Documents must have your name and current address.
+You can show a digital copy of documents.
+Acceptable documents include:
+- Michigan driver’s license, state ID, or tribal ID.
+- Current utility bill
+- Bank statement
+- Paycheck or government check
+- Other government document, college or university records
+Contact Us: info@denisementzer.com
+Paid for by Denise Mentzer for State Representative, 1399 Kingsley St., Mount Clemens MI 48043

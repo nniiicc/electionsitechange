@@ -1,0 +1,11 @@
+Donate
+Donations Via Check See Below
+Contributions from Individuals up to $2000 may be made via check to:
+Citizens to Elect Michael Todd
+635 SW Gateway Court
+Grain Valley, MO 64029
+Business Contributions of any amount or Individual Contributions over $2000 via check may be made to:
+Citizens for a Better Grain Valley
+635 SW Gateway Court
+Grain Valley, MO 64029
+Paid for by Citizens to Elect Michael Todd-Tosha Todd, Treasurer

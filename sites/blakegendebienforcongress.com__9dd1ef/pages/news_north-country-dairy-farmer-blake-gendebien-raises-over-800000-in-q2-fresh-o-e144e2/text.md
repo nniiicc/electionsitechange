@@ -1,0 +1,17 @@
+North Country Dairy Farmer Blake Gendebien Raises Over $800,000 in Q2, Fresh Off Democratic Primary Win
+July 15, 2026
+FOR IMMEDIATE RELEASE
+CONTACT
+press@blakeforny.com
+North Country Dairy Farmer Blake Gendebien Raises Over $800,000 in Q2, Fresh Off Democratic Primary Win
+The fundraising total comes on the heels of Gendebien’s decisive June 23rd win in the Democratic primary, and in the middle of one of the most demanding stretches of the farming calendar.
+The strong quarter arrives as new polling shows Gendebien surging in a district Donald Trump carried by 20 points in 2024.
+The survey found Gendebien in a dead heat with his Republican opponent.
+“I spent this quarter the same way I’ve spent my whole life — up before sunrise, working the farm, and listening to my neighbors,” said Blake Gendebien.
+“The fact that we raised what we did, during our busiest season of the year, tells me people here are done waiting on Washington and ready for someone who actually gets it.
+Every contribution is somebody betting on this campaign, and I’m not going to let them down.”
+###
+Born and raised on a farm in the North Country, Blake and his wife Carmen have raised their three sons on the Twin Mill Farm in Lisbon, growing the farm to 500 head of cattle.
+Blake and Carmen also started The Jules of Life Foundation, which provides resources and support to North Country families battling pediatric cancer.
+For the past 10 years, Blake has served as the Vice Chair of the Cooperative Board of Agri-Mark where he represented the interests of farmers from across the region.
+He is a former member of the Lisbon Central School Board, and was a longtime junior varsity basketball coach.

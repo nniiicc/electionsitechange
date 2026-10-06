@@ -1,0 +1,23 @@
+From the start of my campaign, I’ve said that we need to get Harrisburg working again, because our elected officials have lost sight of the very people that sent them there.
+I truly believe that the way we pick our legislators, and the way they seem to pick us, their voters, is a major factor.
+Fortunately, our district boundaries do make sense, but we’re surrounded by districts that look like they were drawn by puppies with pencils when in fact they were drawn by politicians eager to pick the specific neighborhoods and even the streets they want in their district and get rid of the one’s they’d rather not have to answer to.
+It’s called Gerrymandering.
+That’s why I’ve proudly had a Fair Districts sign planted in my front lawn.
+I strongly support this organization’s goal of bringing Pennsylvania fair, contiguous legislative districts, drawn by independent commissions.
+I don’t trust the Republicans to continue drawing maps and I don’t trust the Democrats to resist the urge to swing the pendulum in the opposite direction in an effort to exact political revenge.
+An Independent commission that draws legislative districts is a crucial step to allowing each voice to be heard and everyone knows it, even though some don’t have the political backbone to support it.
+In fact, I would take it a step further and argue that district boundaries (and census counts) need to consider the community of origin for incarcerated individuals and we need to restore voting rights for residents of our society that commit not-voting-related crimes.
+If prisoners are afforded their rights to legal defense, the right to an education, the right to health care, and the right to protection, why are we denying them the right to vote and have their communities receive the resources that come with being appropriately counted.
+I am thrilled that Fair Districts is an ally in the fight against Prison Gerrymandering and want you to know that Fair Districts has an ally in me!
+I will fight to protect the right of all citizens to exercise their franchise in every election and reap the rewards of proper representation.
+In my platform on Restoring Good Government I promise to support:
+- Early voting, automatic registration, vote by mail, and the mailing of voting reminders
+- Restore voting rights for incarcerated citizens convicted of non-voting-related crimes
+- Reform the redistricting process with an independent citizens commission implementing a transparent framework
+- Establish a co-sponsor threshold for legislation that would trigger a guaranteed floor vote
+- Provide financial support to sustain public media outlets critical for government accountability
+- Reform our campaign finance laws
+As your State Representative, I will champion your right to vote and the integrity of elected office.
+In the meantime, I encourage every eligible voter in the 154th district to register to vote, verify your registration and make a plan to vote.
+We use cookies to analyze website traffic and optimize your website experience.
+By accepting our use of cookies, your data will be aggregated with all other user data.

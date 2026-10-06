@@ -1,0 +1,111 @@
+Jimmy’s a tireless fighter for our communities because his values and priorities are rooted in his working class immigrant experience.
+He worked minimum wage jobs without health insurance, like his parents did.
+That’s why he spent nearly a decade as a union organizer fighting for economic fairness, higher wages and better jobs with benefits for local workers.
+Jimmy’s not afraid to take on the establishment in Congress and make sure that the wealthy pay their fair share of taxes.
+Everyday he fights to help working families by reducing inflation and making LA more affordable.
+Jimmy’s a champion to ensure everyone has access to healthcare, making housing more affordable, addressing climate change and protecting reproductive rights.
+Jimmy fights for the people, and does not accept corporate pac money.
+Here’s more on what he stands for:
+Healthcare and Medicare for All
+Jimmy grew up without health insurance and his family nearly went bankrupt after he got sick with pneumonia as a child and spent a week in the hospital.
+That’s why he fights to pass Medicare for All, so no one goes without health care.
+Jimmy Gomez has been a cosponsor of the Medicare for All Act since he was first elected, and he is a founding member of the Medicare for All Caucus.
+Jimmy, Senator Bernie Sanders and the Progressive Caucus are fighting to make Medicare for All a reality.
+- Founding member of the Medicare for All Caucus
+- Original cosponsor of the Medicare for All Act
+- Introduced the Choose Medicare Act to require the establishment of public health insurance plans with high quality coverage, including reproductive care
+Jimmy fights for Medicare for All so that no child will have to experience growing up without healthcare.
+Abortion and Reproductive Rights
+Abortion is a fundamental right.
+Jimmy trusts women to decide what they do with their own bodies.
+Jimmy will continue to fight to ensure that once again access to an abortion is the law of the land.
+Jimmy cosponsored and voted to pass the Women’s Health Protection Act to codify Roe v.
+Wade in federal statutes, thus ensuring a right to an abortion nationwide.
+Jimmy opposed the Supreme Court of the United States effort to overturn Roe V.
+Wade as the law of the land, which also undermines the right to privacy of women and all other Americans.
+Jimmy is an original cosponsor of the Ensuring Women’s Right to Reproductive Freedom Act which would prohibit state restrictions on their citizens accessing abortion healthcare in another state, the Reproductive Health Travel Fund Act which would create grants to pay for travel related expenses and logistical support for accessing abortion care, and the Right to Contraception Act.
+Jimmy is the ONLY candidate in 34th Congressional District endorsed and approved by the Planned Parenthood Action Fund because of his unwavering commitment to women’s reproductive rights and gender equality.
+Jimmy received the Champion of Choice Award from Planned Parenthood for his legislative accomplishments on protecting access to abortion and reproductive rights in California.
+Housing Affordability and Renters Rights
+Jimmy leads that fight to make housing more affordable, protect renters, keep people securely housed and off the streets, and to provide the opportunity and help for anyone who wants to buy a house.
+The cost of rent is skyrocketing, and working people in Los Angeles and across the U.S. need a fierce champion like Jimmy in Congress who will tackle this problem.
+That’s why Jimmy Gomez created the first-ever Congressional Renters Caucus to fight for affordable living and bring renters’ concerns directly to the halls of Congress, and he is a leader in the fight to build more housing that’s affordable, and help people experiencing homelessness get the services they need.
+From leading the charge on the Rent Relief Act that will put monthly payments directly in the pockets of renters and introducing legislation to end rental junk fees, to demanding the White House prioritize housing policy and protesting on the Capitol steps to successfully extend the eviction moratorium with Reps.
+Cori Bush, Alexandria Ocasio-Cortez and Ayanna Pressley, Jimmy puts renters and working families first.
+- Founded and chairs the first ever Congressional Renters Caucus to increase rental assistance, boost the supply of rental housing, and remove discriminatory barriers to rental housing
+- Introduced the Revitalization Downtown and Main Streets Act to convert empty and underutilized office and commercial building to new housing units
+- Principal architect of the Rent Relief Act to provide monthly payments to rent burdened low- and middle-income households
+- Introduced the End Junk Fees for Renters Act to help end hidden application fees, late fees, and other junk fees that add to the skyrocketing cost of renting
+- Introduced the Affordable Housing Equity Act to direct a portion of the low income housing tax credit toward building rental units that serve extremely low income Americans living at or below the poverty line
+- Proposing legislation to increase the supply of housing that is affordable, including building new affordable starter homes to buy, and provide down payment assistance of up to $50,000 to first-time home buyers
+Child Care and Paid Family Leave
+Jimmy understands how expensive it is to raise a family, that’s why he fights for working families by championing legislation that will lower costs, including affordable childcare, paid family leave and the enhanced child tax credit.
+Jimmy is a national champion on Paid Family Leave, making change for families in Los Angeles and across the nation.
+He authored and passed the landmark California Assembly Bill 908, the nation’s most progressive expansion of Paid Family Leave that President Obama hailed as a model for Congress.
+He has led his colleagues to call for an extension of paid sick days for workers in California and, through his creation of the Dads Caucus, Jimmy is continuing to bring the concerns of working families to the forefront.
+- Founded the Congressional Dad’s Caucus to guarantee paid family and sick leave, expand the child tax credit, and drastically lower child care costs
+- Original cosponsor of the American Family Act to create a higher value, fully refundable child tax credit, with monthly advanced payments directly to families
+- Leader on Child Care Stabilization Act to help re-establish the essential child care funding that Republicans allowed to expire
+Working Families and Union Jobs
+Jimmy believes the government should work for the people—not for big corporations or special interests.
+As a former labor organizer, Jimmy continues the fight against income inequality and is committed to raising the minimum wage and securing worker and union protections that are under attack.
+When Los Angeles unions went on strike in 2023 for better working conditions, Jimmy picketed alongside them for fairer wages and just treatment.
+And, as your representative, he continues to stand up with workers against corporate interests, and is leading the charge for family friendly policies like paid leave and a robust social safety net.
+He knows that to accomplish this goal we must ensure billionaires pay their fair share in taxes, that’s why Jimmy sponsored the For the 99.8% Act, with Senator Bernie Sanders.
+- Sponsored the For the 99.5% Act with Senator Bernie Sanders to ensure billionaires can’t pass their money onto their children tax-free, raising nearly $550 Billion over 10 years.
+- Original Cosponsor of the Protecting the Right to Organize (PRO) Act to defend and expand workers right to organize, free of corporate interference.
+- Original Cosponsor of the Empowering Striking Workers Act to give striking workers access to unemployment benefits and level the playing field by preventing employers from starving out strikes.
+- Active member of the Congressional Labor Caucus.
+Green New Deal and Combating Climate Change
+Jimmy knows that climate change poses an existential threat to humanity, and that bold legislative action is needed to reverse the environmental, health and economic damage to communities before it’s too late.
+Jimmy is a cosponsor of the Green New Deal with Rep.
+Alexandria Ocasio-Cortez, and his three bills to increase green energy efficiency in homes and on the road have become law.
+Additionally, in Congress, Jimmy helped secure over $300 million to clean up a polluted river in California and sponsored bills to reduce greenhouse gas emissions and transition to a 100 percent renewable energy future by 2035.
+Jimmy is an environmental champion who received the Green Leadership Award for “bold environmental leadership” from Green California, a coalition of over 100 environmental organizations, and he is endorsed by the Sierra Club.
+- Original cosponsor of the Green New Deal and the Climate Emergency Resolution
+- Authored and secured passage of key climate provisions in the Inflation Reduction Act, including a Used Clean Vehicle Tax Credit of $4000 dollars and tax credits to improve energy efficiency in both new and existing homes
+Debt Free College, Quality Education and Student Loan Cancelation
+Jimmy Gomez is a fierce advocate for canceling student debt, and he believes every student should have the opportunity to attend college without taking on debt.
+Jimmy is the beneficiary of a public education who attended community college and UCLA, and graduated with student loan debt himself.
+He knows firsthand the pressure graduates face when trying to start their lives and careers as they pay off debt, and he believes a good education can transform a person’s life if they are not burdened by hundreds of thousands of dollars in student loans.
+That’s why, in addition to fighting for student debt cancellation, Jimmy passed his bill into law that makes years of student loan forgiveness tax-free, and he has introduced further legislation to make this tax exemption permanent.
+- Passed his law that made student loan debt relief tax free
+- Introduced the Student Loan Tax Relief Act to make that law permanent
+- Introduced the EATS Act to remove barriers to SNAP nutrition assistance and help ensure college students don’t go hungry
+- Led colleagues in push to increase funding for School Based Health Centers in K-12 schools for healthier students and families
+Campaign Finance Reform
+Jimmy Gomez does not accept corporate PAC money, and he has been a champion of campaign finance reform in the Assembly and in Congress.
+Jimmy was the principal author of the California DISCLOSE Act, which expanded campaign reform and disclosures in California.
+He supports the overturn of Citizens United with the goal of public financing of elections.
+As your representative, Jimmy is the cosponsor of a bill to ban members of Congress from trading stocks, and he helped pass the For the People Act—the most comprehensive anti-corruption and democracy reform bill to pass the House since Watergate.
+- Endorsed by End Citizens United as a pro-democracy candidate who is committed to getting big corporate money out of politics
+- Wrote and passed the California DISCLOSE Act to increase election transparency in the state
+- Cosponsor of the congressional DISCLOSE Act to strengthen campaign finance disclosure laws, especially for prohibited foreign money
+- Consistent cosponsor of the constitutional amendment to overturn Citizens United
+- Cosponsor of the Freedom to Vote Act to expand voting registration and access, enhance election security and strengthen campaign finance rules
+Criminal Justice Reform and Ending Police Brutality
+Jimmy Gomez believes criminal justice reform and ending police brutality must be a top priority for Congress.
+Jimmy is a cosponsor of the George Floyd Justice in Policing Act to hold police officers and departments accountable, increase transparency, make structural changes to our justice system, ban chokeholds and eliminate qualified immunity as we know it.
+Additionally, Jimmy has voted to pass legislation to federally decriminalize marijuana and address the outsized damage to Black and Brown communities from the so-called “War on Drugs.”
+- Original cosponsor of the Ending Qualified Immunity Act to end qualified immunity for police officers and ensure they are held accountable if they violate the law, including civil rights violations and police brutality
+- Cosponsor of the MORE Act to deschedule marijuana as a controlled substance and provide financial and business support for those affected by the war on drugs
+- Original cosponsor of the George Floyd Justice in Policing Act to limit use of force, restrict no-knock warrants and prevent racial profiling in policing at every level of law enforcement
+Immigration Reform
+As the son of immigrants, Jimmy Gomez knows that immigration and diversity contribute to the fabric of our country and make us all better off.
+That’s why Jimmy introduced legislation to protect immigrant youth, and why he fights against anti-immigrant efforts each time they arise in Congress.
+Jimmy has voted to block efforts to ban immigrants based on religion, was one of only 19 Democrats to vote against funding Trump’s border wall, and has been a staunch advocate for prohibiting ICE from using for-profit, private detention centers since he came to Congress.
+He is working to implement comprehensive immigration reform, and has cosponsored legislation to end family separation at the border, increase family- and employment-based visas, and he continues to fight for our communities and bring undocumented people out of the shadows through the passage of the Dream and Promise Act.
+- Introduced the Protect Vulnerable Immigrant Youth Act to exempt abused, abandoned and neglected immigrants 21 and under from restrictive visa caps
+- Successfully led colleagues in fight to increase funding by more than 250% for Citizenship Integration Grants, which help support and prepare immigrants for the naturalization process
+- Original cosponsor of the Citizenship Act to provide a pathway to citizenship for many undocumented individuals
+- Cosponsor of the American Dream and Promise Act to give a pathway to residency for Dreamers who came to the U.S. as minors
+- Original cosponsor of the Dignity for Detained Immigrants Act to overhaul and provide much-needed oversight and restrictions on the detention of refugees and immigrants
+- Original cosponsor of the Reuniting Families Act to overhaul the U.S. family visa system with an emphasis on family reunification, and deal with the aftermath of Trump’s Muslim bans
+LGBTQ+ Rights
+Jimmy experienced discrimination targeted at the LGBTQIA community at an early age, when he witnessed verbal attacks on his brother growing up.
+That’s why Jimmy is a staunch ally and advocate of the LGBTQIA community, and will never stop fighting for full equality.
+- Original Cosponsor of the Equality Act, which would prohibit discrimination on sexual orientation or gender identity when it comes to housing, employment and federal funding
+- Secured $750,000 of federal funding for the TransLatin@ Coalition to provide a wide array of workforce training and support services to transgender, gender nonconforming and intersexed individuals in LA
+- Original Cosponsor of the Transgender Bill of Rights legislation
+- Original Cosponsor of the Pride in Mental Health Act which would provide grants for mental health services for LGBTQ+ youth
+- Jimmy is the only candidate endorsed by the Stonewall Democratic Club, the oldest LGBTQ+ club in Los Angeles

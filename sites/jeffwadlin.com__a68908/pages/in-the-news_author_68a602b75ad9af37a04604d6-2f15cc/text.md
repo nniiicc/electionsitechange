@@ -1,0 +1,4 @@
+Annette Magnus-Marquart 8/24/26 Annette Magnus-Marquart 8/24/26 Jeff Wadlin Continues Statewide "New Revolution Tour" Across Southeast Arkansas; Details ForWeek 4 Schedule Read More Annette Magnus-Marquart 8/20/26 Annette Magnus-Marquart 8/20/26 CANDIDATE JEFF WADLIN INCLUDED IN UPCOMING U.S.
+SENATE DEBATES Read More Annette Magnus-Marquart 8/17/26 Annette Magnus-Marquart 8/17/26 NEW REVOLUTION TOUR: U.S.
+Senate Candidate Jeff Wadlin Heads into Week 3 of Statewide Campaign Tour Read More Annette Magnus-Marquart 8/11/26 Annette Magnus-Marquart 8/11/26 Libertarian U.S.
+Senate Candidate Jeff Wadlin Continues Statewide Tour Stops August 11–16 Read More Annette Magnus-Marquart 8/4/26 Annette Magnus-Marquart 8/4/26 Jeff Wadlin Kicks Off Statewide Campaign Tour Across Arkansas Read More

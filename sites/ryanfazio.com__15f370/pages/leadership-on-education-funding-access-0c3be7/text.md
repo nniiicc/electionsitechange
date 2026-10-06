@@ -1,0 +1,47 @@
+ZIP CODE SHOULD NOT DETERMINE A STUDENT’S DESTINY IN CONNECTICUT
+The Status Quo Under Lamont:
+- Connecticut has the second-largest black-white achievement gap in the country
+- Test scores have fallen over the last eight years—and by more than the national average
+- The Lamont Administration has done nothing to reform failing systems and has blocked access for families in need
+An Education Governorship Under Fazio:
+- High standards and rigorous literacy and math education
+- Invest in teacher development and recruitment
+- No more Waiting Lists: Double down on success and choice
+- Adequate, transparent, student-centered funding
+High Standards: Every Kid Can Succeed
+- High standards for literacy education: Every Connecticut student should be able to read by 3rd grade
+- Materials must be oriented around proven Science of Reading
+- Curriculum
+- Teacher Development
+- Teacher Schools (Undergraduate and graduate)
+- High standards for math education: Explore proper standards like every student being fluent in arithmetic and fractions by 6th grade and being Algebra-ready by 9th grade
+- No more social promotion: High schools cannot graduate students without teaching them how to read
+- Ensure students receive adequate instruction time for literacy and math
+- High-dosage tutoring for students who fall behind as a systematic intervention
+- No smartphones in classrooms
+- Invest in Teacher Development and Recruitment
+- Make it easier for talented aspiring teachers and experienced teachers to work in Connecticut
+- Recognize licenses for credential, experienced teachers in good standing in other states
+- Explore better and easier pathways for “second-career” professionals to become teachers
+- Eliminate licensing fees for teachers
+- Support the development of great teachers:
+- Make sure all teacher programs (undergraduate and graduate) and teacher development materials are based in Science of Learning and, especially, Science of Reading (currently several CT public colleges and universities still teach out-dated reading pedagogy)
+- Do not overburden teachers with development requirements that are not integral to teaching
+- No More Waiting Lists: Double Down on Success
+- End Waiting Lists for high-demand public charter and magnet schools
+- Allow all high-demand public charter and magnet schools to expand to the physical capacity of their buildings so that no family needs to depend on a lottery
+- Fund approved public charter schools as a matter of course
+- Double down on success: Use success stories like Capitol Prep and Stamford Excellence that have closed the black-white achievement gap as models and push them to expand (Lamont has not permitted expansion of either)
+- Opt into the Federal Education Tax Credit, which is free (federally-financed) money for kids’ education in private or public settings
+- Online curriculum transparency for families so they can engage and understand materials
+- End Lamont’s antagonistic policies toward homeschoolers
+- State Funding and Support for School Districts
+- The state should make education funding fair, transparent, and more student-centered.
+Connecticut currently has 10 different school funding formulas.
+They should be re-assessed and simplified, and districts should count on adequate, transparent, and predictable funding for their needs.
+- Increase funding with costs so municipalities have predictability.
+- Mandate Relief: The state must roll back or eliminate dozens or hundreds of unnecessary and costly unfunded mandates on school districts that both cost money and distract principals and teachers from their priorities.
+BOTTOM LINE: Under Governor Fazio, Connecticut will no longer accept the second-highest black-white achievement gap in the country and will aim for every child to have access to the best public education in the nation.
+Connecticut has among the five most-educated adult populations and is among the five highest-spending states on public education in the country, but our reading achievement has fallen and our math achievement is barely above-average.
+With the right reform, Connecticut can have the best schools of any state in the nation for every child regardless of zip code.
+Our kids deserve the best.

@@ -1,0 +1,31 @@
+“I’m grateful that the Zalik Foundation is reaching out to meet our critical needs and I look forward to more news from Children’s about intensive psychiatric services for children,” said Rep.
+Mary Margaret Oliver, D-Decatur, a co-sponsor of a mental health reform bill approved by the Georgia General Assembly this year.
+By Carrie Teegardin, The Atlanta Journal-Constitution
+Amid a record number of child suicides and skyrocketing cases of depression and anxiety, Children’s Healthcare of Atlanta on Wednesday announced a major real estate gift that it will use to open a new center for mental health services.
+The Children’s Healthcare of Atlanta Zalik Behavioral and Mental Health Center will be established on a 10-acre site donated by David and Helen Zalik and The Zalik Foundation.
+Children’s said the center will house a “comprehensive program” focused on prevention, early intervention and outpatient services
+However, the new center will not provide inpatient crisis care for children, who will continue to be sent outside of the Children’s system to psychiatric hospitals, often on involuntary commitments.
+Advocates and policymakers have urged Children’s to provide more mental health services that would include inpatient care.
+Across Georgia, children and teens in crisis routinely wait for hours or days in ERs waiting for placement in psychiatric hospitals, the Atlanta Journal-Constitution reported in its “Children in Crisis” investigation published this month.
+The AJC exposed a wide range of critical shortcomings and a lack of oversight at psychiatric hospitals that admit children for inpatient care in Georgia.
+Georgia families also struggle to find critical outpatient services for children who need mental health care, often waiting months for appointments, the AJC reported.
+Other pediatric hospitals across the country are expanding both inpatient and outpatient services for children to try to provide a continuum of care to meet the growing need for services, the newspaper’s investigation found.
+Children’s said in its announcement Wednesday that in “dovetailing” its new services with care already available from other healthcare providers, it has a goal of helping to build a full continuum of care for children who need mental and behavioral health services.
+The plan for new services at Children’s was developed by Dr.
+John Constantino, the system’s first chief of behavioral and mental Health.
+A child psychiatrist and researcher, Constantino was hired by Children’s this summer and charged with creating a plan for the system to provide more services related to mental health.
+The new center will serve as a “home base” for in-person and virtual care to be delivered throughout Georgia, Constantino said in a news release.
+Constantino also said Children’s has contacted inpatient providers to establish strong relationships and will work to partner with the facilities to try to improve the quality of care.
+The 10-acre site where the center will be housed includes two office buildings, located along the I-85 northbound access road near the Children’s Healthcare of Atlanta North Druid Hills campus.
+Children’s said the property being donated by the Zalik family and their foundation is worth more than $34 million and credited the gift with being a critical element of the system’s ability to change the way behavioral and mental health services are delivered.
+David Zalik is a founder of GreenSky, a financial technology company.
+In addition to providing outpatient services, Children’s said the new center would be a “venue for active collaboration with community partners, as well as research, teaching and family education.”
+The new center is expected to open early next year.
+Constantino’s plan will initially focus on establishing a prevention program that would include the needs of parents, doing more to meet the mental health needs of children already receiving medical care at Children’s, and developing an outpatient program to serve children immediately after they are released from crisis stays at psychiatric hospitals.
+Children’s said its new robust outpatient services could prevent many children from getting to a crisis point that would require inpatient care.
+Since 2015, Children’s said, the number of children visiting its emergency departments for behavioral or emotional crises has doubled, currently reaching over 4,000 per year with an average age of just 9 years old.
+Kevin Tanner, a former state legislator who is chairman of the Georgia Behavioral Health Reform and Innovation Commission, said Wednesday’s announcement shows the widespread interest in trying to improve mental health services.
+Tanner said there are a lot of pieces to the puzzle when it comes to building out a system of care and that Children’s will fill important gaps with its new services.
+“The direction Children’s is going with bringing in someone who is nationally recognized, by having a private family donate this campus and committing to hiring the number of people they’re going to hire for outpatient — I think this is a big piece of that puzzle,” Tanner said.
+If you or someone you know is struggling or in crisis, help is available.
+Call or text 988 or chat 988lifeline.org.

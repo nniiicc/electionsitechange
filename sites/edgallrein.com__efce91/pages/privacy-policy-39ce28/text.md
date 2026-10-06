@@ -1,0 +1,86 @@
+Privacy Policy
+Effective Date: 10/21/2025
+Ed Gallrein for Congress (“Campaign,” “we,” “our,” or “us”) provides this privacy notice to describe how we collect, use, and share the information of individuals who visit our website located at www.edgallrein.com and other online properties that link to this privacy notice (collectively, the “Site”).
+Information Collection
+When using our Site, you may provide information about yourself, such as your name, address, email address, phone number, and any other information you choose to provide.
+If you make a donation or purchase, we will collect payment information and other details needed for the transaction, such as billing and shipping information.
+We collect this information when you subscribe to our mailing list, make a donation or purchase, contact us through the Site, volunteer for the Campaign, or interact with us for any other purpose.
+We may also collect information about you from other individuals and organizations, and we may combine this information with any information that you provide to us.
+We (or authorized third parties on the Site) collect information relating to your interactions with us and our Site, including your IP address, browser type, domain names, access times and referring website addresses and other information we collect through the use of cookies and similar technology.
+See the Digital Advertising & Analytics section of this privacy notice to learn more about the use of this information and the choices available to you.
+We may combine any information that we collect, including device information, with any information that you choose to provide to us.
+Information Use
+We may use your information for any lawful purpose, including the following:
+• To respond to your inquiries;
+• To provide the products or information that you request;
+• To operate, personalize, and improve the Site, including for analytics purposes;
+• To send Campaign updates and other communications that may be of interest to you;
+• To comply with the law and to maintain the security of our Site; or
+• With your consent, or as otherwise disclosed at the time information is collected.
+Information Sharing
+We may share the information we collect with other parties, including the following:
+• Candidates, organizations, campaigns, groups, or causes that we believe have similar political viewpoints, principles, or objectives or share similar goals and with organizations that facilitate communications and information sharing among such groups;
+• Service providers or agents that perform activities for us, such as those for statistical analysis, payment processing, or sending you email or postal mail;
+• As part of a change of corporate control or other transfer of all or part of our assets, including as part of a bankruptcy proceeding;
+• Pursuant to a subpoena, court order, governmental inquiry, or other legal process or as otherwise required by law, or when needed in our judgment to protect our rights or the rights of third parties or for safety or security reasons;
+• With your consent or as otherwise disclosed at the time of data collection or sharing.
+We may share information that has been anonymized or aggregated, without limitation.
+Digital Advertising & Analytics
+We may partner with ad networks and other ad serving providers (“Advertising Providers”) that serve ads on behalf of us and others on non-affiliated platforms.
+Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information Advertising Providers collect about your use of the Site and other sites or apps over time, including information about relationships among different browsers and devices.
+This type of advertising is known as interest-based advertising.
+You may visit the DAA Webchoices tool at www.aboutads.info to learn more about this type of advertising and how to opt out of this advertising on websites by companies participating in the DAA self-regulatory program.
+If you delete your cookies or use a different browser or mobile device, you will need to renew your opt-out choices exercised through the DAA Webchoices tool.
+Note that electing to opt out will not stop advertising from appearing in your browser or applications.
+It may make the ads you see less relevant to your interests.
+Additionally, your browser may offer tools to limit the use of cookies or to delete cookies; however, if you use these tools, our Site may not function as intended.
+We may also work with third parties that collect data about your use of the Site and other sites or apps over time for non-advertising purposes.
+The Campaign uses Google Analytics and other third-party services to improve the performance of the Site and for analytics and marketing purposes.
+For more information about how Google Analytics collects and uses data when you use our Site, visit https://www.google.com/policies/privacy/partners/, and to opt out of Google Analytics, visit https://tools.google.com/dlpage/gaoptout/.
+Third-Party Links and Tools
+The Site may provide links to third-party websites or apps, including our social media pages.
+We do not control the privacy practices of those websites or apps, and they are not covered by this privacy notice.
+You should review the privacy notices of other websites or apps that you use to learn about their data practices.
+The Site may also include integrated social media tools or “plug-ins,” such as social networking tools offered by third parties.
+If you use these tools to share personal information or you otherwise interact with these features on the Site, those companies may collect information about you and may use and share such information in accordance with your account settings, including by sharing such information with the general public.
+Your interactions with third-party companies and your use of their features are governed by the privacy notices of the companies that provide those features.
+We encourage you to carefully read the privacy notices of any accounts you create and use.
+Your Choices
+To opt out of our email Campaign updates and donation requests, you can use the link provided at the bottom of each message.
+You may also opt out or unsubscribe from future emails by sending a request to hello@edgallrein.com using the subject line “Unsubscribe from email communications.” To ensure your opt-out request is properly processed, be sure to send your message using the same email account to which we sent our correspondence.
+Security
+We employ and maintain technology and security measures designed to protect your personal information.
+However, no data transmission over the Internet can be guaranteed as 100% secure.
+As a result, while we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us or receive from us.
+We are not responsible for circumvention of any privacy settings or security measures contained on the Site.
+Your California Privacy Rights and Do-Not-Track Disclosures
+California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes.
+To make such a request, please send an e-mail to hello@edgallrein.com .
+Like many other websites and online services, Ed Gallrein for Congress does not currently alter its practices when it receives Do Not Track signals because there is no consensus among industry participants as to what “Do Not Track” means in this context.
+To find out more about “Do Not Track,” you may wish to visit http://www.allaboutdnt.com.
+Children
+We strongly encourage parents and guardians to regularly monitor and supervise their children’s online activities.
+Our Site is not intended for children under 13 years of age.
+No one under age 13 may provide any personal information to or on the Site.
+We do not knowingly collect personal information from children under 13.
+If you are under 13, do not use or provide any information on this Site or on or through any of its features/register on the Site, make any purchases through the Site, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use.
+If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information as soon as reasonably possible.
+If you believe we might have any information from or about a child under 13, please contact us at hello@edgallrein.com
+Visiting Our Site from Outside the United States
+If you are visiting our Site from outside of the United States of America, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated.
+The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy.
+By using our Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
+Changes to Our Privacy Notice
+If our information practices change materially, we will post an updated version of this privacy notice.
+We encourage you to visit this page periodically to learn of any updates.
+SMS/MMS terms
+By entering your phone number and checking the box, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information.
+By participating, you agree to the terms & privacy policy for auto dialed messages from Ed Gallrein to the phone number you provide.
+Message frequency may vary.
+Msg&data rates may apply.
+Reply HELP for help or STOP to opt out at any time.
+SMS information is not rented, sold, or shared.
+View Terms& Conditions and Privacy Policy.
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+Contact
+If you have questions, comments, or concerns about this privacy notice, please contact us at hello@edgallrein.com PO Box: Gallrein for Congress PO 1059 Shelbyville, Kentucky 40066

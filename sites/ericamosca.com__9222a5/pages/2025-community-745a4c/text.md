@@ -1,0 +1,37 @@
+top of page
+EN ESPAÑOL & SA TAGALOG
+SA TAGALOG
+ABOUT ERICA
+MY WHY
+BILLS
+LEGISLATIVE AWARDS & WORK
+GET INVOLVED
+DONATE
+MEDIA & NEWS
+2025 COMMUNITY
+ENDORSEMENTS
+CONTACT
+MORE
+Use tab to navigate through the menu items.
+2025
+press to zoom
+press to zoom
+press to zoom
+press to zoom
+press to zoom
+press to zoom
+press to zoom
+press to zoom
+press to zoom
+1/2
+press to zoom
+press to zoom
+press to zoom
+press to zoom
+press to zoom
+press to zoom
+press to zoom
+press to zoom
+press to zoom
+1/2
+bottom of page

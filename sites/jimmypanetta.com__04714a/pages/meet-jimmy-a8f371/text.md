@@ -1,0 +1,22 @@
+MEET JIMMY
+From an early age, Jimmy Panetta was instilled with the value of service and the importance of giving back to our community and country.
+Jimmy was elected to represent the 20th Congressional District in 2016.
+After redistricting, the new 19th Congressional District stretches from south San Jose in Santa Clara County, over the hills into Santa Cruz County, down the coastline of Monterey County, and into northern San Luis Obispo County.
+In Congress, Jimmy serves on the House Committee on Ways and Means, and the House Committee on Budget.
+Jimmy Co-Chairs the Agriculture Research Caucus, For Country Caucus, Naval Education Caucus, Sportsmen’s Caucus, Cut Flowers Caucus, Physical Activity Caucus, Advanced Air Mobility Caucus, America’s Languages Caucus, Service Organization Caucus, Golf Caucus, Explosive Ordnance Caucus, Offshore Wind Caucus, Agriculture Workforce Caucus, and Future Farmers of America and also serves on the following Caucuses: Asian Pacific American Caucus, Bus Caucus, California Aerospace Caucus, Cannabis Caucus, Cybersecurity Caucus, Diabetes Caucus, Endangered Species Act Caucus, Equality Caucus, Friends of Australia Caucus, Gun Violence Prevention Task Force Caucus, Kazakhstan Caucus, Land-Grant and Public, Research Universities Caucus,
+Medicare for All Caucus, Military Mental Health Caucus, National Service Congressional Caucus, Navy Marine Corps Caucus, Oceans Caucus, Organic Caucus, Pro-Choice Caucus, Quiet Skies Caucus, Travel & Tourism Caucus, U.S.-Russia Joint Commission on Prisoners of War and Missing in Action, Wine Caucus, Work for Warriors Caucus, Abraham Accords Caucus, and Ethiopia Caucus.
+He is also a member of the California Democratic Congressional Delegation.
+Jimmy began his legal career in 1996 as a prosecutor for the Alameda County District Attorney’s Office.
+Based on his experience in the criminal justice system — pursuing justice for victims, protecting families and making communities safer — Jimmy was appointed to the California Councils on Criminal and Juvenile Justice, which provided guidance to the Governor’s Office on critical criminal justice programs.
+Prior to being elected to Congress, Jimmy served as a Deputy District Attorney in Monterey County, where he was assigned to the Gang Team in Salinas, responsible for prosecuting violent gang members.
+In 2003, Jimmy was commissioned as an Intelligence Officer with the United States Navy Reserve and served on active duty with a Special Operations task force deployed to Afghanistan.
+Based on his meritorious service in a combat zone, Jimmy was awarded the Bronze Star.
+After returning home, Jimmy served as a board member of the Veterans Transition Center where he worked to address veterans’ homelessness and pushed for the opening of Monterey County’s first Veterans Treatment Court, and along with local leaders and fellow veterans, worked to establish the Central Coast Veterans Cemetery.
+Based on his work, Jimmy was named a Monterey County Veteran of the Year in 2015.
+Jimmy has also served on the Boards of Rancho Cielo Youth Campus, a non-profit that assists at-risk youth with job training and placement, Community Foundation for Monterey County, and the National Steinbeck Center.
+He also served as Chair of the Monterey Peninsula College Citizens Bond Oversight Committee and as a Trustee on the Foundation for the University of California at Santa Cruz.
+Jimmy received his law degree from Santa Clara University and his undergraduate degree in International Relations from the University of California at Davis.
+Prior to attending UC Davis, Jimmy attended Monterey Peninsula College.
+Jimmy is married to Carrie McIntyre Panetta, and they have two daughters, Siri and Gia.
+Subscribe to
+Jimmy's newsletter

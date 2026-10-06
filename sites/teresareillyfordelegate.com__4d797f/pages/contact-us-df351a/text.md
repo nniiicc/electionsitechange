@@ -1,0 +1,20 @@
+Delegate Teresa Reilly
+325 Lowe House Office Building
+6 Bladen Street
+Annapolis, MD 21401
+(410) 841-3278, (301) 858-3278
+1-800-492-7122 Ext. 3278 (toll-free)
+e-mail: Teresa.Reilly@house.state.md.us
+fax: (410) 841-3190, (301) 858-3190
+Legislative Staff:
+Chief of Staff – James Reed Teresa.Reilly@house.state.md.us
+(410) 841-3278
+District Legislative Aide – Sharon Vanden Eynden
+Harford County Delegation Secretary – Harfordco.delegation@mlis.state.md.us
+410-841-3560
+Political and campaign-related information can be emailed to:
+Campaign Manager – Carol Kiple CarolKiple@comcast.net or ReillyTeresa@verizon.net
+or mailed to:
+2051 Whiteford Road
+Whiteford, MD 21160
+Facebook responses:Please contact the Annapolis Office at 410-841-3278 or Teresa.Reilly@house.state.md.us for responses to constituent matters and comments.

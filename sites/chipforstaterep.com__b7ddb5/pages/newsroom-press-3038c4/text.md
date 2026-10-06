@@ -1,0 +1,6 @@
+Update: This meeting has been postponed.
+I will continue to speak to those within the 118th District regarding these potential movements.
+It has been brought…
+Come join us at Alto Vinyards on June 26th for some trivia!
+Tickets are $20 a person and $160 a table.
+Charcuterie boards will provided…

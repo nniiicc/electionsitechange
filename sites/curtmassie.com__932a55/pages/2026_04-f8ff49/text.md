@@ -1,0 +1,3 @@
+Dusty Johnson’s roundtable discussion on his Safer South Dakota initiative
+State Representative Curt Massie from District 33, attended GOP candidate for governor Dusty Johnson’s roundtable discussion on his Safer South Dakota initiative.
+A plan that focuses on saving lives by holding offenders accountable, increasing penalties for fentanyl and meth dealers, strengthening law enforcement tools,…

@@ -1,0 +1,1 @@
+Back to All Events Listening & Talking with Voters at the Barre Town Transfer Station Saturday, August 6, 2022 10:00 AM 12:00 PM Wilson Depot 109 Pitman Road Barre, VT, 05641 United States (map) Google Calendar ICS

@@ -1,0 +1,3 @@
+Utah Congressional District 4 Candidates Debate by taylorwright | Apr 27, 2026 | News & Updates | 0 comments Three U.S.
+House Congressional District 4 candidates from different party backgrounds–Taylor Wright, Steven Burt and Seth Stewart host a live debate from the Utah Podcast Studio.
+Watch full debate...

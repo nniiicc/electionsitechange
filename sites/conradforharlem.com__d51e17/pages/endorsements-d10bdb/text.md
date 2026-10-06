@@ -1,0 +1,1 @@
+Proudly Endorsed By US Senator Bernie Sanders City Council Members Alexa Avilés Tiffany Caban Shahana Hanif Chi Ossé State Assembly Members Phara Souffrant Forrest Emily Gallagher Diana Moreno State Senators Sarahana Shrestha Claire Valdez Jabari Brisport Julia Salazar District Leaders Hawk Newsome Edafe Okporo Luis Ordoñez Maria Ordoñez Community Leaders

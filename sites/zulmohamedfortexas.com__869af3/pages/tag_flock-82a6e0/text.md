@@ -1,0 +1,3 @@
+As a candidate for the United States Senate from Texas, I believe public safety is a fundamental responsibility of government.
+But protecting Texans from crime does not require building a system capable of recording and searching the movements of millions of people who have done nothing wrong.
+That is why I support Texas cities and...

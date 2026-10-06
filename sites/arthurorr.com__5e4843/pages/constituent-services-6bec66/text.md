@@ -1,0 +1,55 @@
+Tours of Alabama’s historical Capitol building and the State Senate provide an excellent educational experience for students and other groups.
+Contact one of the following for further information and assistance:
+State House Tour 334-242-7095
+Capitol Tour 334-242-2441
+Tunnel Use 334-242-0347
+Historic Capitol Tour 334-242-3188
+Archives Tour 334-242-4364
+Civil Rights Museum Tour 334-956-8200
+Dexter Avenue Church Tour 334-263-3970
+First White House of the Confederacy Tour 334-242-1861
+Governor’s Mansion Tour 334-834-3022
+Judicial Building Tour 334-242-4347
+Montgomery Museum 334-244-5700
+Planetarium 334-241-4799
+Old Alabama Town 334-240-4517
+Oak Park 334-241-2300
+Museum 334-265-8090
+Montgomery Zoo 334-240-4900
+Rosa Parks Museum 334-241-8661
+RSA Plaza Cafeteria 334-269-0222
+Serving as a Page
+Working as a page is an excellent way for students to learn more about the legislative process.
+To help interested and deserving young men and ladies from District 3 to have the opportunity to serve as pages, Senator Orr will submit names for consideration.
+Please keep in mind that page slots fill up quickly, and requests should be made as far in advance as possible.
+Pages must be at least 12 years of age and no older than 18.
+Please provide us with the following information:
+Name of the individual interested in serving as a Page
+Age and school grade
+Name of school
+Name and telephone of teacher or principal that can provide information about the applicant
+Parent’s name, home address and daytime phone number
+Applicant’s activities and honors
+Brief description (50 words or less) of why applicant is interested in serving as a Page in the Alabama Senate
+Send the information via US Mail to:
+In the District: P.O.
+Box 305 Decatur, AL 35602 (256) 260-2147 – Decatur (256) 539-5441 – Huntsville (256) 262-9038 – Athens
+In Montgomery: 11 S Union St Suite 730 Montgomery, AL 36130 (334) 261-0758
+Arranging a Classroom Visit
+It is imperative that our children understand and appreciate how our government works.
+To that end, Senator Orr would be glad to make a personal visit to classrooms in Morgan, Madison and Limestone Counties to discuss and explain the state legislative process, why he decided to get involved and answer any question the students may have.
+To arrange for Senator Orr to be a guest speaker in your school, please provide us with the following information:
+School name
+Classroom grade level
+Number of students in the class
+Preferred date(s) and time(s)
+Brief background of how much the students (if any) have been taught about the Alabama legislature prior to the visit
+Any other information that Senator Orr will need to know in preparing for his visit
+Teacher’s name and phone number
+Assistance with State Agencies
+If you need assistance with an Alabama State agency or have another state-government related question or problem, Senator Orr wants to hear from you.
+Please provide a brief overview of the problem that you need assistance with along with the names and positions of officials that you have had any previous contact with concerning this matter.
+Contact our office
+In the District: P.O.
+Box 305 Decatur, AL 35602 (256) 260-2147 – Decatur (256) 539-5441 – Huntsville (256) 262-9038 – Athens
+In Montgomery: 11 S Union St Suite 730 Montgomery, AL 36130 (334) 261-0758

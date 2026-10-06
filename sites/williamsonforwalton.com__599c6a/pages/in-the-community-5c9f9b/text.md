@@ -1,0 +1,3 @@
+In the Community Representative Williamson works for Walton County!
+He supports many important educational, historic and community organizations and events throughout the year.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...

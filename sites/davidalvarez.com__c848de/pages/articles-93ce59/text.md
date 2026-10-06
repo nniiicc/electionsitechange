@@ -1,0 +1,440 @@
+October 16, 2023
+Read More
+October 23, 2023
+Read More
+February 8, 2023
+Read More
+February 9, 2023
+Read More
+February 7, 2023
+Some of the bills introduced at Tuesday night's meeting range from rental protection to improving college education for binational residents.
+Read More
+December 5, 2018
+San Diego City Councilman David Alvarez is leaving his job representing southern communities such as Barrio Logan and San Ysidro after eight years.
+On a rainy morning last week, Alvarez's office was a mess.
+He had pulled everything down off the bookshelves, and it was now covering his desk.
+He and his staff worked to box up the documents that had passed through their office in the past eight years to all be archived by the City Clerk.
+Alvarez took a break from packing for this exit interview.
+Read More
+March 10, 2014
+Otay Mesa wants to be a big part of the solution to San Diego’s housing crisis.
+Its new community plan – which is up for a City Council vote Tuesday – aims to make the area a manufacturing jobs center, and to provide thousands of new homes to help meet the city’s shortage.
+“This plan creates a middle-class job center for the region, and from my standpoint and a general plan standpoint, that’s the priority of the plan,” said Councilman David Alvarez, who represents the area.
+Read More
+November 4, 2018
+Efforts to make Otay Mesa’s Brown Field an economic catalyst took a step forward recently when San Diego approved plans for three dozen new hangars, two hotels and 1.5 million square feet of retail and industrial buildings.
+The project will boost the cross-border economy, said Councilman David Alvarez of Logan Heights, whose district includes the city’s border communities.
+Read More
+June 18, 2014
+City Councilman David Alvarez called them together Wednesday afternoon to announce the city finally had all the money it needed to build a sidewalk on the hill between San Ysidro High School and San Ysidro Middle School.
+“This sidewalk is extremely important to the many students of San Ysidro who use it to go to and from school,” Alvarez said.
+“And obviously, just as important to the parents, the grandparents and those who care for those kids.”
+Read More
+March 11, 2014
+Once again, Councilman David Alvarez has negotiated a compromise on a contentious land use decision in his district.
+The City Council on Tuesday approved a new community plan for Otay Mesa.
+Alvarez orchestrated a last-minute change to address the biggest outstanding dispute over the plan.
+Read More
+March 1, 2018
+The San Diego City Council will seek an explanation from law enforcement officials on why thousands of dollars from public funds were invested into the protection of the construction zone of the border wall prototypes.
+“They took resources that could have been used in our communities,” the councilman Alvarez criticized.
+“Obviously we have to be careful, but I think it was done in a very exaggerated way,” he added.
+Read More
+October 31, 2015
+While Trump and other GOP presidential candidates push for a giant wall between the United States and Mexico, San Diego is literally building a bridge.
+In San Diego, Alvarez said, Republicans have changed.
+Although he is frequently critical of Sanders’s mayoral tenure and unsuccessfully ran against Faulconer for mayor, Alvarez agrees with their stances on the border.
+“We have a common goal,” he said.
+Read More
+October 8, 2013
+The son of Mexican immigrants, David Alvarez, a first-term San Diego Councilman, is shaking things up in the race to replace former Mayor Bob Filner, who resigned Aug. 30 amid a sexual harassment scandal.
+Although other mayoral candidates have more political experience, Alvarez’s campaign has gained momentum lately as he secures endorsements from heavy hitters in San Diego, including the San Diego County Democratic Party, the San Diego Democrats for Equality and the San Diego County Labor Council.
+Read More
+September 26, 2017
+Construction began in San Diego Tuesday on prototypes for a new border wall between the United States and Mexico.
+"The border wall is a stupid idea," Councilman David Alvarez said.
+"The border can become efficient and safe with investments in infrastructure and technology instead of wasting billions of taxpayer dollars for a wall, which will accomplish nothing."
+Read More
+September 19, 2017
+The San Diego City Council approved a resolution on Tuesday opposing President Trump’s enhanced border wall and seeking disclosure of all companies involved in financing or construction of the proposed project.
+Councilman David Alvarez said it was sad that the council and the country even need to have a conversation about such a “stupid” idea, but he agreed it was important for San Diego to take a stand and lobby against the wall.
+Read More
+October 4, 2017
+The San Diego City Council has announced plans Wednesday to sue the federal government over millions of gallons of raw sewage that poured into the Tijuana River.
+City Councilmember David Alvarez said that the City of San Diego will join forces with the cities of Chula Vista and Imperial Beach, along with the Port of San Diego, in taking the first step to prevent sewage spills in the future.
+Read More
+October 27, 2016
+San Diego’s landmark water recycling system took several key steps forward this week when the City Council approved an accelerated timeline and a comprehensive environmental analysis.
+“The honest truth is the cost of water has gone up and will continue to go up regardless of whether we do this or not,” said Councilman David Alvarez, touting the program as a chance for San Diego to control its own destiny.
+“These are all the steps that need to be taken to ensure that Pure Water is a reality.”
+Read More
+October 25, 2016
+The San Diego City Council voted unanimously Tuesday to certify an environmental impact report for the city's nearly $3 billion plan to recycle wastewater into drinking water, and approved the plan itself.
+Councilman David Alvarez, who heads the panel's Environment Committee, said "sustainability, an ability to control our own destiny a little bit better, to be less harmful and impactful on the environment through discharge -- for many reasons -- this program makes sense."
+Read More
+July 18, 2018
+San Diego approved this week a 50-unit apartment complex in San Ysidro for formerly homeless senior citizens that will include on-site counseling for mental health problems, drug addiction and other challenges.
+Councilman David Alvarez of Logan Heights, whose district includes San Ysidro, hailed the project as a model when the council unanimously approved it on Tuesday.
+“This is how we solve the homelessness problem,” he said.
+“These are going to be units for people who are in shelters and need support systems in order to be successful and get out of homelessness.”
+Read More
+November 6, 2017
+San Diego City Council members David Alvarez and Lorie Zapf called on the city Monday morning to convert the old Chargers headquarters on Murphy Canyon Road into temporary housing for homeless people, including a growing number who are camping along the nearby San Diego River.
+Read More
+June 21, 2018
+The San Diego City Council’s Environment Committee Thursday unanimously approved a strategic implementation plan for the city’s current Bicycle Master Plan, adopted in 2013.
+“San Diego has what it takes to become a city where bicycles are used for everyday transportation, recreation and general mobility,” said Councilman David Alvarez.
+Read More
+November 17, 2017
+Councilman Alvarez talks about making San Diego housing more affordable.
+“In order to get ourselves out of this we need more units.
+That’s the bottom line.
+I want to make it clear to everyone it’s not because there’s more people coming to San Diego at a disproportionate number, this is coming from growth within our own community.
+San Diego needs more housing due to our families growing, and for them to have a place to call home in San Diego we have to make more units available.”
+Read More
+January 12, 2018
+City officials broke ground Friday on a library in San Ysidro, following more than two decades of discussion and planning.
+Councilman David Alvarez, who represents San Ysidro, spearheaded fundraising efforts for the library, which is expected to open in 2019, the mayor said.
+Alvarez said building a new library was one of his top priorities upon being elected.
+Read More
+January 22, 2018
+City and community leaders recently broke ground on a highly anticipated library in San Ysidro.
+Councilman David Alvarez, whose district includes San Ysidro, said the project has been a “top priority” of his since he was elected in 2010.
+“I was proud to work with the community to secure the site and funding for this long-awaited project,” he said in a statement.
+Read More
+November 22, 2017
+A new plan could help solve San Diego’s housing shortage and reduce a rash of vacant storefronts in buildings that were intended to have ground-floor commercial tenants operating below multiple stories of housing.
+“While the development overall is great, the opportunity lost in terms of space because the commercial uses aren’t being maximized has been a concern of mine for some time,” Alvarez said.
+“It’s sometimes a blight in a community when there are vacant spaces.”
+Read More
+October 15, 2018
+Three apartment buildings expected to open in Otay Mesa next July will provide some relief for area families in need of affordable housing and also answer a pressing need to help people with mental health issues live independently.
+Read More
+August 7, 2018
+The San Diego City Council Tuesday unanimously approved a 20-year lease that will pave the way for a museum and community center at a city-owned property adjacent to Chicano Park.
+“I want to thank you for saying ‘yes’ to the community this time because this community has heard ‘no’ a lot more than it has heard ‘yes’ over the years,” he told his colleagues.
+“Chicano Park is what it is today because of the community… The museum and cultural center will be successful because of the community.”
+Read More
+May 23, 2018
+The San Diego City Council’s Infrastructure Committee voted Wednesday to move forward with budget adjustments that would fund renovations to the city-leased 101 Ash Street office building, which has been the subject of delays and tens of millions of dollars in projected cost overruns.
+The committee vote was 3-1, with Councilman David Alvarez casting the dissenting vote.
+“We were told we were getting something that we did not get or come close to getting.
+Now I’m supposed to trust we’re supposed to get this other thing for this cost, and I have a hard time actually believing that,” he said.
+Read More
+August 1, 2018
+San Diego is cracking down on income discrimination by landlords with a new policy prohibiting the rejection of potential tenants based on their use of federal housing vouchers.
+“This is long overdue,” City Councilman David Alvarez of Logan Heights said on Tuesday before the council voted 6-1 to adopt the policy.
+“Allowing people to discriminate based on income is a way of continuing to segregate our community.”
+Read More
+June 19, 2018
+World-famous luchador and South Bay resident was honored Tuesday when the San Diego City Council proclaimed it to be Rey Mysterio Day.
+Councilman David Alvarez presented Mysterio with the proclamation citing his work in the community where he has organized and participated in “various charity events, educational campaigns and wrestling matches at schools and community centers.”
+Read More
+June 26, 2018
+Community leaders pursuing a Chicano Park museum took a key step forward this week when San Diego officials agreed to lease an empty building in the park to them for 20 years so they can begin fundraising for renovations.
+Alvarez said previous success by community leaders in creating the park and turning it into something special are a strong indication that they will successfully make the museum happen.
+“The community built this park,” he said.
+“So we know that the museum and cultural center will be built.”
+Read More
+March 20, 2018
+San Diego City Councilmember David Alvarez is holding a public meeting in San Diego Tuesday afternoon to oppose a proposal from Mayor Kevin Faulconer.
+Alvarez opposes the idea, saying the area is within close proximity to a school, about 15-20 feet away.
+He added a residential neighborhood in the area is already experiencing issues with public safety and quality-of-life.
+Read More
+January 18, 2017
+San Diego City Councilman David Alvarez announced Wednesday that he will run for county supervisor in 2020, when longtime supervisor Greg Cox is termed out of office.
+Read More
+April 16, 2015
+Alvarez’s office said residents have been waiting for a park with facilities since the neighborhood was built.
+Development began in the late 1990s.
+Parks have become a priority for the councilman, who said his district lacks sufficient park space.
+“Residents are tired of waiting for improvements in their neighborhood,” Alvarez said.
+“Currently, park deficiencies across the city is one of the best examples of our lack of equity in every community.”
+Read More
+September 25, 2018
+The 15-acre Cesar Solis Park, off Del Sol Boulevard, is the result of more than a decade’s work.
+“It actually feels a little bit unbelievable,” Councilman David Alvarez said of the park’s opening.
+“It’s one of the most satisfying days of the eight years on the council.” Alvarez, whose district includes Ocean View Hills, was instrumental over the years in pushing for funding for the roughly $17 million park.
+Read More
+An aquatic safety center proposed for Mission Bay Bark won’t be on the November ballot based on concerns that supporters haven’t conducted enough community outreach.
+Councilman David Alvarez of Logan Heights said the aquatic center is a worthy project that would bolster the city’s nonprofit junior lifeguard program, but voted against placing it on the ballot because he said the community needs more information.
+Read More
+May 22, 2018
+The San Diego City Council, also operating as the Housing Authority, Tuesday renewed operating and oversight agreements for the city’s three temporary tent shelters for the homeless over the objections of Councilman David Alvarez, who called the shelters a “complete failure.” “It’s been a tremendous, tremendous waste of money,” said Alvarez, who cast the lone dissenting vote against renewal.
+“At the path we’re going, we’re going to continue spending millions and millions of dollars to not get people housed.”
+Read More
+September 17, 2018
+San Ysidro is home to a new center that offers free services to residents who are on the hunt for a job.
+Councilman David Alvarez, whose district includes the low-income community, said he was excited to welcome the center to San Ysidro.
+“This employment center will help enrich our community’s workforce and overall bring new opportunities,” Alvarez said.
+Read More
+October 29, 2016
+Students of San Diego High School hosted a rally Saturday to save their school by supporting Measure I on the November ballot.
+Both councilmembers Alvarez — a former SDHS alumni — and Todd Gloria back Measure I, calling it a no-brainer.
+They said if it doesn’t pass, it comes with an additional cost.
+Read More
+June 14, 2016
+The San Diego City Council on Tuesday directed the city attorney's office to draft ballot measure language that would allow San Diego High School to continue operating at the current Park Boulevard location after its lease runs out in 2024."It might seem like a long time until 2024, but if you have a child entering first grade and we do nothing to continue the operations of the school, then that child will not be able to enter (San Diego) High School by that year," said Councilman David Alvarez, who represents an area that sends numerous students to the school.
+Read More
+November 18, 2013
+The 33-year-old Democrat has spent much of his adult life fighting for social, economic and environmental justice and began his career as a social services worker and after-school teacher.
+"San Diego has a bright future.
+In the next decade, I believe that we have the opportunity to invest more heavily in our neighborhoods and communities that have been neglected for years in favor of large downtown projects and special interests," Alvarez said.
+Read More
+November 13, 2013
+"I've always been about putting neighborhoods first.
+When I ran for Council four years ago, that was what my campaign was about.
+We have underinvested in neighborhoods and put all of our money downtown.
+It is time to focus our attention on putting money back into neighborhoods," Councilmember Alvarez said.
+Read More
+November 4, 2013
+"I’m the first one of my family to graduate high school, go to college.
+I’m a native San Diegan, born and raised—San Diego High School, San Diego State University.
+I’m raising my family now in the community where I grew up here in San Diego.
+We want to give back.
+My wife is an educator; we’re all about service to others and I think that’s a value that often times gets overlooked in our leaders.
+Everybody really wants to do something for the community."
+Read More
+May 6, 2017
+City councilmember David Alvarez met with more than 100 cycling enthusiasts assembled by the San Diego Bike Coalition on Thursday afternoon to lead a ride through his native Barrio Logan.
+"When you're on a bike, it makes a world of difference to help understand what's happening in the community," said Alvarez, who told the group he commutes by bike two to three times a week.
+Read More
+May 29, 2018
+San Diego Councilman David Alvarez is barred by term limits from running for re-election this year, but he’s not done with local politics.
+Read More
+August 31, 2017
+San Diego City Councilmember David Alvarez called on Mayor Kevin Faulconer Thursday to declare a state of emergency over the city's homeless crisis.
+"I am extremely concerned that our homeless population has continued to grow and the city still isn't providing sufficient shelter beds," Alvarez's memo to Mayor Faulconer read.
+Read More
+April 29, 2017
+Thousands of San Diegans are set to hit the streets Saturday in support of climate marches across the country.
+Assemblymember Lorena Gonzalez Fletcher, councilmember David Alvarez, and Jeffrey Severinghaus, a professor at the Scripps Institution of Oceanography, are set to speak before demonstrators.
+Read More
+May 30, 2017
+Less than seven months after San Diegans overwhelmingly decided to hold elections when the most people could participate, Mayor Kevin Faulconer is pushing the City Council to schedule a special off-year election for two ballot initiatives.
+Read More
+April 14, 2017
+In the last couple of weeks, the buzz on some of the San Diego street-threads is on the subject of sidewalks.
+Some residents say that they have to split the expense with the city.
+Councilmember David Alvarez wants the City of San Diego to foot the bill 100%.
+Last month he proposed to “determine best how best to revise Council Policy 200-12, the Sidewalk Maintenance Policy.”
+Read More
+June 12, 2017
+The City Council Monday rejected a plan to conduct a special election for this fall that potentially would have included Mayor Kevin Faulconer's plan to expand the San Diego Convention Center.
+"This isn't ready to come forward, it just really isn't," Councilman David Alvarez said about the convention center proposal.
+"Shovels can't be ready, and cranes can't be ready, because the land doesn't belong to the city."
+Read More
+March 1, 2017
+Councilmember David Alvarez—who sits on the MTS board—vented frustration in dealing with MTS.
+“What I see around trolley stations is not homes, not development that’s transit oriented,” he said, instead “a lot of industrial” or “nothing.”
+Read More
+January 18, 2014
+Now Alvarez is running to become San Diego’s first Latino mayor and its youngest mayor in more than a century.
+Backed by the San Diego and Imperial Counties Labor Council, he is the surprise contender in Feb. 11’s special election, facing off against Republican and fellow Councilman Kevin Faulconer.
+Read More
+September 26, 2013
+In nearly three years on the City Council, mayoral candidate David Alvarez has pushed for a foreclosure registry, consistently opposed downtown interests and brokered a last-minute tourism marketing deal.
+Read More
+June 3, 2015
+Councilman David Alvarez called Wednesday on Mayor Kevin Faulconer to add $1 million to support San Diego's arts and culture programs in his budget proposal, which will be considered for adoption by the City Council next week.
+Read More
+May 10, 2017
+Hundreds of people, in fact, and of all artistic stripes—from gallery owners and curators, to theatre directors and choreographers—came out to the council’s city budget hearing to voice their concerns with the cuts.
+They were joined outside by City Council members David Alvarez, Lorie Zapf and Chris Ward, all of whom expressed their support for finding a way to keep the city’s arts funding at its current levels.
+Read More
+August 8, 2018
+To make matters worse, the city council on Monday voted 5-2 to kill Councilmember David Alvarez’s hotel tax measure (an increase of 1 percent) where the money would have gone directly to homeless programs.
+The measure was seen as a longshot to make the ballot since the mayor’s convention center bill had already been approved for the ballot, but it stings nonetheless.
+Read More
+April 26, 2017
+City Council Members David Alvarez and Lori Zapf have shown great support for the arts and culture community and the commission’s budget in recent years.
+I trust that again they will provide leadership for an increase to the Mayor’s proposed 30 percent cut to the budget of the Commission for Arts and Culture and that the Mayor will again show his support for arts and culture in San Diego by not using his veto power.
+Read More
+January 12, 2017
+City Councilmember David Alvarez responded to Falconers speech with a statement that reads, in part: "The City is experiencing an explosion in the homeless.
+The Mayor must create new shelter space downtown near existing service providers to allow for people to sleep indoors rather than camp on the street.
+If he does not do this, the homeless population will continue to grow in downtown and throughout the City."
+Read More
+January 6, 2014
+City Councilman David Alvarez, a mayoral candidate, said he believes the department has racially profiled recently, too.
+He cited the lawsuit over the 2010 City Heights traffic stop during a debate in the fall.
+Alvarez wants to see the department take profiling issues more seriously.
+Read More
+February 27, 2017
+Councilman David Alvarez criticized his colleagues for not being more aggressive in the face of the SDSU report, which showed that blacks and Hispanics are significantly more likely to be searched and questioned in the field after being stopped by police.
+"I'm not seeing us take any real action," said Alvarez, urging his colleagues to be more bold.
+“The City of San Diego needs to accept this uncomfortable reality and must address it with swift and decisive action.”
+Read More
+June 13, 2017
+An effort to overturn San Diego Mayor Kevin Faulconer’s budget veto failed to win support Tuesday, despite strong criticism from angry Democrats on the council.
+Councilmember David Alvarez called the mayor’s action to slash district funds ‘shameful’, and criticized the mayor for “failing to show his face here.”
+Read More
+May 17, 2017
+Councilmember David Alvarez of San Diego was the most prominent elected official to express early support for the accusers.
+Kasparian was once a strong political ally of Councilmember Alvarez, having endorsed Alvarez and spending millions to support his campaign for Mayor in 2013.
+However, their relationship began to deteriorate in 2016 as Alvarez says he began to experience the same type of bullying behavior and intimidation tactics that former employees of Kasparian have reported.
+Read More
+January 5, 2018
+The first step in fixing our sidewalks is taking responsibility for all of them.
+We must do everything we can to fix them before the next major accident results in serious injury to a resident and costs the city millions of dollars in a settlement.
+Read More
+April 13, 2016
+In an effort to address the retention problem San Diego police departments are facing, Councilman David Alvarez proposed further pay increases and better training programs for officers.
+The city has spent or committed $140 million over four years, only to see more officers leave the police department, Alvarez, who represents San Diego’s District 8, said.
+Read More
+November 2, 2013
+"I think it's time for us to start growing this city in a way that is good for everybody," said Alvarez, standing by the weedy lot.
+"And I think there are a lot of people north of Interstate 8 that feel the same way."
+Read More
+June 15, 2016
+NBC 7 has learned the motive for placing rocks below an underpass near downtown San Diego may have been to clear the area of homeless people before Padres games at Petco Park this season.
+City Councilmember David Alvarez for District 8 said his office was never notified of this project and no lights were ever installed.
+“The unfortunate thing about this project is, while the rocks were installed, there were no lights.
+So what the community was actually asking for has not occurred,” Alvarez said.
+Read More
+March 15, 2014
+Last November, in partnership with Californians Aware, an open government advocacy nonprofit, I proposed amendments to our City Charter that would have made San Diego a leader in open government.
+It would have allowed the voting public, not the government or its agencies, to decide how open their government should be.
+Read More
+June 2, 2016
+“The District’s partnership with Junior Achievement will help us ensure all of our students have access to the highest quality curriculum so they can succeed in today’s global economy,” said Councilmember David Alvarez, District 8.
+Read More
+February 25, 2016
+Councilman David Alvarez announced Thursday the formation and composition of a working group that will help the city of San Diego implement the provisions of its plan to address climate change.
+"We worked closely with the mayor's office to structure the group in a way that will be useful both to this committee and to the work that city staff is conducting," Alvarez said as he opened a meeting of the council's environment committee.
+Read More
+October 30, 2016
+On October 24, the city council voted 7-1 in favor of amending the Land Development Code to get developers in line with the intent of 1972's Proposition D.
+Councilmember David Alvarez was the dissenting vote.
+After questioning Development Services Department director Robert Vacchi and a senior planner, Alvarez said, “I still don’t have clarity.
+I’m not sure if you’re telling me when the 30 foot [limit] applies and when it doesn’t.”
+Read More
+September 14, 2016
+Officials broke ground on a project that will bring two new playgrounds, accessibility upgrades and more to a San Ysidro playground.
+Read More
+January 28, 2018
+San Diego is facing decreased funding for infrastructure combined with a longer list of needed projects.
+Councilman David Alvarez of Logan Heights said he’s troubled that the city isn’t seeing a downward trend in infrastructure needs, despite sharply increasing capital expenditures on projects in recent years.
+Read More
+June 26, 2017
+The city of San Diego is creating the county’s first donation program to help low-income people pay their water and sewer bills, which have risen rapidly in recent years.
+“I’m so pleased that this program that I have strongly advocated for over the last few years will finally be made available to the public,” Councilman David Alvarez said.
+Read More
+March 15, 2016
+Four months after increasing water rates, the San Diego City Council on Tuesday approved a program to help poor water customers pay their bills.
+"Water is a human right," Councilman David Alvarez said.
+"We need to be focused on providing this ... to every person, so that everybody can have access to it and everybody can afford it."
+Read More
+September 18, 2014
+In this first of two parts Councilman David Alvarez discusses the minimum wage, upgrades to Chicano Park, Barrio Art Crawl and creating a place to be on Sunday afternoons in Barrio Logan.
+Read More
+March 16, 2016
+South and Central San Diego residents gathered with their City councilmember Wednesday, pressing the City to fix what they called dangerous and hazardous cracked sidewalks in their neighborhoods.
+"Sidewalks have often been forgotten," Councilmember David Alvarez said.
+"We are standing at what I would consider one of the worst sidewalk issues here, and this community actually has a sidewalk.
+There are a whole bunch of communities that don't have sidewalks.
+And that's also a problem."
+Read More
+November 30, 2015
+Members of the City Council’s environment committee unanimously approved the proposed Climate Action Plan.
+The city intends to form a working group that would report to the environment committee on how to put the plan into action, said Councilman David Alvarez, who chairs the committee.
+Read More
+July 14, 2015
+Even as the San Diego City Council authorized on Tuesday a controversial $2.1 million environmental impact report on a proposed $1.1 billion plus Mission Valley stadium, there were further signs that even the city’s political leaders are resigned to the Chargers relocating to Carson.
+Councilmember David Alvarez, citing the business acumen of NFL owners, said “business people do not make rushed decisions.
+Clearly here we don’t have a full plan.
+Read More
+February 19, 2015
+San Diego City Councilman David Alvarez has asked Mayor Kevin Faulconer to boost code compliance funding this year so the department can proactively address substandard housing.
+He also asked the council's land use committee to explore a program that would put liens on properties until the owners clean them up.
+Read More
+February 20, 2015
+In my district, and across the city, too many of our residents are living without running water or heat.
+Many have to raise their children in homes with bug or rat infestations, dangerous electrical wiring and crumbling lead paint.
+My staff and I proactively reach out to constituents to find and fix these problems.
+We build trust with residents, take down their concerns, and pass them on to the city’s Neighborhood Code Compliance Division.
+Read More
+December 1, 2015
+San Diego has cleared six sediment-choked flood channels over the past year or so within its 133-mile network, while work continues in the Tijuana River Valley.
+However, San Diego Councilman David Alvarez said 25 channels are still at risk of flooding.
+The worst, according to a list provided by his office, are along Via de la Bandola in San Ysidro, Engineer Road in Kearny Mesa, Pomerado Road in Rancho Bernardo, and Washington Street in Hillcrest and Little Italy.
+Read More
+October 16, 2013
+As a teenager, David Alvarez once heard another student ask of Barrio Logan, “Why would anyone want to live here?” Soon after, he attended his first community meeting.
+“I just felt like there was something really wrong and nobody was fixing the wrong,” Alvarez said.
+Read More
+February 8, 2014
+President Barack Obama weighed in on the San Diego mayor's race Saturday, endorsing fellow Democrat David Alvarez.
+"As a native San Diegan, David Alvarez has been a fierce advocate for his city, and on the Council, has led efforts to build a strong middle class, put neighborhoods first and expand opportunities for kids in and out of school," Obama said in a statement.
+Read More
+October 3, 2013
+We will be speaking with each San Diego Mayoral candidates starting today with San Diego City Councilman David Alvarez.
+Alvarez has been representing District 8 on the City Council since 2010.
+The candidacy of this first-term councilman has been endorsed by a number of notable organizations including the Democratic Party of San Diego County and the San Diego and Imperial Counties Labor Council.
+Read More
+July 11, 2018
+The San Diego City Council's Rules Committee advanced a proposal from Councilman David Alvarez to increase the city's hotel tax by one cent in order to fund homelessness services.
+"To me there's a very clear nexus between promoting San Diego as a destination and making sure we have programs in place to ensure we don't have outbreaks, such as hepatitis A, or other dangerous pathogens," Alvarez said.
+Read More
+A plan to slash the city of San Diego’s carbon emissions in half in 20 years took another step closer to adoption Monday when the City Council’s Environment Committee voted unanimously to forward it to the full City Council.
+City Councilman David Alvarez, who chairs the environment committee, said the plan is legally binding, but also called for establishment of a working group to monitor the city's progress.
+Read More
+March 13, 2015
+If you’ve been ticketed recently for parking on the street during street sweeping hours, you may get a refund.
+That’s because the city hasn’t been doing it’s part when it comes to keeping San Diego’s streets clean.
+“The problem appears to be that the vehicles that are meant to go and sweep are non-functioning,” said City Councilman David Alvarez, who chairs the Environmental Committee.
+Read More
+Starting April 1st, Uber and Lyft will be allowed to pick up passengers at San Diego International Airport as a part of a pilot program, a San Diego City Councilman announced.
+Councilman David Alvarez said city officials approved a pilot program Thursday to allow drivers of ride-sharing services to pick up passengers who contact them through their app.
+Read More
+October 28, 2014
+An old landfill in the northern Mexican border city of Tijuana continues drawing binational scrutiny.
+In a recent meeting, San Diego City Councilman David Alvarez expressed concern to a Mexican counterpart that the closed El Jibarito dump site could endanger public health on both sides of the border.
+Read More
+April 16, 2014
+There was some interesting analysis of the recent special election offered by some sharp political minds, but Spin Cycle also wanted to see how City Councilmember David Alvarez, Faulconer's narrowly defeated mayoral opponent, was handling the loss.
+"When I first got into the race," Alvarez told the crowd, "the first poll, there was 4 percent of the people in the entire city of San Diego who knew who I was—4 percent of the people!" A poll he saw a month ago, Alvarez added, put that number at 92 percent of the electorate.
+"I hope that you all see this experience as I do," he said.
+"It was such a positive, well-run campaign."
+Read More
+June 27, 2014
+The community of San Ysidro is celebrating –albeit with some reservations—the announcement of the securing of the final funding needed to complete a sidewalk that would connect San Ysidro with its high school.
+“A sidewalk in this location is vital to the students that use this route to go to and from school,” Alvarez said.
+“The community has been advocating for the construction of this sidewalk for far too long.
+For the entire time I have been in office, this has been and continues to be one of my top priorities.”
+Read More
+Now as voters prepare to elect Mr.
+Filner’s successor on Tuesday, the city is engaged in a fierce ideological battle: Will it elect David Alvarez, a Democrat and first-term city councilor who is championing a minimum-wage increase, or Kevin Faulconer, a Republican councilor who argues that the city must keep pensions down and attract new businesses?
+Read More
+October 9, 2014
+With his back against the wall, and a community within his district upset with the continued siting of the winter shelter in their neighborhood and the negative impact it brings, Councilmember David Alvarez stepped up and brokered a compromise.
+Read More
+President Barack Obama weighed in on San Diego’s competitive mayoral election Saturday, throwing his support behind David Alvarez to become the city’s first Hispanic mayor.
+“Today, with the city’s economy and neighborhoods poised to make progress there is no question that David is the right choice to be San Diego’s next mayor,” Obama said in a statement released by the Alvarez campaign.
+Read More
+October 21, 2013
+Two-thirds of San Diego's public school children qualify for the free and reduced lunch program, meaning they live in poverty, and 5,000 of the district's students are homeless.
+Monday morning, members of the San Diego school board, several parents and an elected county education official endorsed Councilman David Alvarez for mayor, saying his pro-neighborhood focus will help improve opportunities and outcomes for San Diego's most vulnerable children.
+Read More
+Last weekend, hundreds of San Diego residents picked up shovels and paint brushes to successfully beautify and activate four alleyways in North Park and Logan Heights.
+Councilmember David Alvarez made an appearance and Radio Pulso del Barrio, the new grassroots community radio station, came with microphones and a recorder to collect stories from all the participants.
+Each site had at least ten different projects/activities happening at any given moment, too many things to list in this article.
+Read More
+May 23, 2014
+Pedestrians who cross the border into and out of San Ysidro will have a new alternative in a couple of years.
+The San Ysidro PedWest is scheduled to be completed in the spring of 2016.
+“We all agree we have an inefficient border,” said San Diego Councilmember David Alvarez, who represents San Ysidro.
+“We all hope to have a more efficient border.”
+Read More
+NEWSLETTER
+Sign up to stay up to date on legislation news, events, volunteer opportunity, and town halls.
+Thank you!
+Your submission has been received!
+Oops!
+Something went wrong while submitting the form.
+By submitting this form and signing up for texts, you consent to informational messages from David Alvarez.
+Msg & data rates may apply.
+Msg frequency varies.
+Unsubscribe at any time by replying STOP.
+Reply HELP for help.
+Privacy Policy&Terms

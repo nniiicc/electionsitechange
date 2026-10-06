@@ -1,0 +1,1 @@
+Welcome to Bozangeles!2025-03-272025-03-27https://weberforhd19.com/new/wp-content/uploads/2026/02/w419-reelect-logo.pngWeber for House District 19https://weberforhd19.com/new/wp-content/uploads/2025/03/screen-shot-2025-03-27-at-1.18.01-pm.png200px200px

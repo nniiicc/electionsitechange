@@ -1,0 +1,12 @@
+Several local labor union leaders and elected officials came together on Tuesday to voice their support for Democratic State Representative candidate Michael Halpin, citing his strong support of working men and women in the Quad Cities.
+“As a former aid to Lane Evans, I saw firsthand how important it is to stand with local workers to insure fair wages, safe work environments and policies that create jobs here at home,” Halpin said.
+“I’m honored to receive the support of so many in organized labor because they share my values and consistently put the welfare of people above corporate proffits.
+Governor Bruce Rauner and his Tea Party allies are waging war on the middle class and I think that’s wrong.”
+Halpin, an advocate for injured workers in the Quad Cities region, supports increasing the minimum wage and resisting Rauner’s anti-worker agenda, which would drive down wages and send injured workers to the emergency room.
+“Mike Halpin is the person we need fighting for middle class families,” Brad Long, business manager for Laborers Local 309 said, “Mike is someone we can trust because he doesn’t just talk about helping the middle class, he does it every day.
+Working families are under assault by the Governor and we need leaders like Mike Halpin to stop him from destroying our economy and the economic security of the middle class.”
+Halpin has a particular focus on combatting the outsourcing of jobs, a problem that has plagued the Quad Cities over the past several decades.
+He supports holding corporations accountable when they accept taxpayer funded incentives to stay in Illinois, but ultimately ship jobs out of state.
+“When corporate CEOs earning millions of dollars a year ask for the state government to bail them out, that troubles me greatly,” Halpin added.
+“If a company takes an incentive paid for by tax dollars, and then puts Illinois workers on the unemployment line, that is something that must be stopped.”
+Organizations at the press conference included Laborers Local 309, AFSCME District Council 31, UFCW Local 431, Sheet Metal Workers Local 91, Teamsters Local 371 and several community leaders, including county board officials, countywide officers and Democratic Party officials.

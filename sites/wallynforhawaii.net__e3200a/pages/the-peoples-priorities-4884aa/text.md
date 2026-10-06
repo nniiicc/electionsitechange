@@ -1,0 +1,10 @@
+The Bottom Line: Working together with law enforcement and community partners to make our neighborhoods and public spaces safer, so everyone in Hawaiʻi can live, walk, and feel secure with confidence and peace of mind.
+KEEPING FAMILIES IN HAWAI’I
+The Bottom Line: Lowering the cost of living so families can better afford housing, food, utilities, transportation, and healthcare.
+This includes easing taxes, providing tax credits for small businesses, and expanding solutions that make housing more affordable.
+By helping working families keep more of their hard-earned money and giving small businesses a better opportunity to succeed, we can help keep Hawaiʻi's families living, working, and thriving here.
+THE RIGHTS OF EVERY PERSON
+The Bottom Line: Protecting the basic rights that come from our Creator.
+These rights belong to every person from the moment of their existence—they are not granted by government and cannot be taken away or surrendered.
+The Constitution exists to safeguard these freedoms, ensuring fair treatment for all and preventing those in power from violating them.
+By preserving these rights, we protect the foundation of a free and just society for everyone.

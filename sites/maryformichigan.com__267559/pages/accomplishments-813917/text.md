@@ -1,0 +1,15 @@
+As a member of the Senate Appropriations Committee, and Chair of the Budget Subcommittees for Labor and Economic Development, Licensing and Regulatory Affairs, and Insurance and Financial Services, I fought hard to ensure state investments were made right here in District 6, including:
+- $6.5 million to Detroit Right to Counsel
+- $5.8 million for infrastructure projects in Redford Township
+- $2.5 million to Detroit Blight Busters
+- $2.5 million+ to Concert of Colors
+- $2 million to the Redford Wellness Center
+- $2 million for Senior Housing
+- $2.2 million to L!FE Leaders
+- $1.6 million for the North Rosedale Community House
+- $1.5 million to the Wilson-Clark Detroit Health and Healing Center
+- $1 million to Developing KIDS
+- $1 million to support housing in Grandmont-Rosedale
+- $300,000 to Brightmoor Connections Food Pantry
+- $100,000 to Kristen’s Touch
+- & more!

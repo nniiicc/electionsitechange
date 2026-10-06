@@ -1,0 +1,31 @@
+top of page
+Affordability
+Ideology Over Pro-Growth Economics California's unaffordability is strangling all of its residents.
+While voters have identified the cost of living crisis, lack of economic opportunity, and rising prices consistently among their greatest concerns, the ruling democratic status quo has only exacerbated the issue due to the absolute absence of accountability at every level.
+Mike Fong has never voted ‘No’ on any substantive legislation that has come across his desk.
+He has voted
+Long Liu OfficeApr 63 min read
+Homelessness
+Billions Spent, Crisis Unchanged Mike Fong identified reducing homelessness as a key priority, yet despite billions in statewide investments, including tens of billions over recent years, California's homelessness crisis persists with immeasurable progress.
+Rates have remained stubbornly high or shown negligible declines.
+This process has been plagued by over-bureaucratization of the system, making necessary reforms inefficient, unnecessarily expensive, and slow to deliver
+Long Liu OfficeApr 23 min read
+Election Integrity
+Access Without Safeguards Mike Fong has consistently supported expansions in voting access, such as satellite voting locations and early voting options, without advocating for voter ID requirements, which entirely undermines the integrity of elections by allowing undocumented individuals to vote for a system they can easily take advantage of.
+This approach is impractical and entirely undemocratic, as it dilutes the votes of responsible citizens who follow the rules and cont
+Long Liu OfficeApr 22 min read
+Taxes
+Billions Ventured, Nothing Gained Mike Fong has voted in favor of environmental and regulatory mandates, such as aggressive greenhouse gas reduction targets, which impose significant costs on businesses and consumers without ever delivering proportional economic benefits.
+These policies have contributed to California's high tax burden, exacerbating the exodus of jobs and companies from the state while straining family budgets.
+This approach is impractical, hinders growth, a
+Long Liu OfficeApr 22 min read
+Parental Rights
+Hijacking the Family Structure With Government Overreach Mike Fong has voted in favor of legislation like AB 1955, which prohibits schools from notifying parents about their child's gender identity or sexual orientation changes without the student's consent, effectively allowing secret transitions behind parents' backs and prioritizing bureaucratic discretion over family involvement.
+Additionally, he has supported initiatives that undermine merit-based standards by emphasiz
+Long Liu OfficeApr 22 min read
+Public Safety
+Constricting Rights and Empowering Criminals Mike Fong has consistently restricted your 2nd Amendment rights while actively attempting to diminish law enforcement.
+Surprisingly, these policies have not stemmed the tide of rising crime rates, as California continues to grapple with lenient sentencing and unpunished offenses.
+Mike Fong’s approach has relied heavily on regulatory frameworks that are slow, inefficient, antithetical, harmful, and insufficient in protecting publi
+Long Liu OfficeApr 22 min read
+bottom of page

@@ -1,0 +1,69 @@
+The following organizations, which represent a broad spectrum of grassroots support, have endorsed Scott’s candidacy because they know he is an effective leader who represents them well in Congress:
+Past and current endorsements:
+- American Ethiopian Political Action Committee
+- American Federation of Government Employees
+- American Nurses Association
+- Animal Wellness Action
+- Asian American Pacific Islander (AAPI) Democratic Club
+- Brady Campaign to Prevent Gun Violence
+- California Association of Highway Patrolmen
+- California Environmental Voters (formerly California League of Conservation Voters)
+- California Labor Federation
+- California Medical Association PAC
+- California State Association of Letter Carriers
+- California Teachers Association
+- California Young Democrats
+- Chicano Democratic Association
+- Democratic Congressional Campaign Committee
+- Deputy Sheriffs Association
+- Downtown San Diego Partnership
+- End Citizens United
+- Engage San Diego Action Fund
+- Equality California
+- ERA Coalition Certified
+- Escondido Democratic Club
+- Everytown for Gun Safety
+- Giffords
+- Human Rights Campaign (HRC)
+- International Association of Fire Fighters
+- International Franchise Association
+- International Longshore & Warehouse Union, Southern California District Council
+- JStreetPAC
+- Laborers’ International Union of North America (LiUNA)
+- League of Conservation Voters
+- Mexican American Business and Professional Association
+- Moms Demand Action Gun Sense Candidate Distinction
+- National Association of Social Workers-Political Action for Candidate Election
+- National Education Association
+- National Organization for Women PAC
+- Newtown Action Alliance
+- New Democrat Coalition
+- North County Young Democrats (San Diego County)
+- Ocean Champions
+- Peace Officers Research Association of California
+- Planned Parenthood Action Fund
+- Population Connection Action Fund
+- Progressive Turnout Project
+- Rancho Peñasquitos Democratic Club
+- Reproductive Freedom for All (formerly NARAL Pro-Choice America)
+- San Diego Building Trades Council
+- San Diego County Democratic Party
+- San Diego County Young Democrats
+- San Diego Democrats for Equality
+- San Diego Jewish World
+- San Diego Municipal Employees Association
+- San Diego Police Officers Association
+- San Diego State University (SDSU) Democrats
+- San Diego Union-Tribune
+- San Diego Regional Chamber of Commerce
+- San Marcos Democratic Club
+- Safer CA PAC
+- Triton Democrats at UC San Diego
+- University City Democratic Club
+- U.S.
+Chamber of Commerce
+- US Campaign
+- UAW Western States
+- Voice and Viewpoint
+- YIMBY Democrats of San Diego County
+- YIMBY Action

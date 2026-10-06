@@ -1,0 +1,110 @@
+• Passed the largest income tax cut in South Carolina history — from 7% down to 5.29%, with triggers already in place to take it to 1.99%, and a goal of getting to zero, responsibly
+• Unemployment at an all-time low
+• This year directed $344 million in surplus funds to fix roads and rebuild bridges across the state
+• Helped make South Carolina the most competitive state in the Southeast to raise a family and keep what you earn
+• $1.4 billion invested across Sumter County
+• 1,600 new industrial jobs
+• $90+ million invested in healthcare for Sumter families and veterans, including a new mental health crisis unit in the ER
+• $403 million invested in local roads and bridges
+• 38% increase in average income for Sumter County taxpayers
+• Ranked the 5th best place to live in South Carolina by U.S.
+News & World Report
+• Helped build "Team Sumter" — the city, county, and legislative delegation working together, regardless of party
+• South Carolina ranked the #1 state in America for military retirees - three years running
+• South Carolina ranked #1 in the nation for veteran-owned businesses
+• South Carolina ranked in the top 5 nationally for VA hospital quality
+• Passed a law fully exempting military retirement pay from South Carolina's income tax
+As your Representative and Speaker of the House, I’ve worked to put Sumter families first by strengthening our schools, supporting teachers, and empowering parents.
+From securing teacher pay raises to expanding school choice and workforce training, my goal is to ensure every student—from Wilson Hall to Sumter High to Central Carolina Technical College—has the tools to succeed.
+I’ll continue to fight for higher education and technical schools that prepare our citizens for careers tied to our growing economy and to Shaw Air Force Base, while keeping parents in the driver’s seat of their children’s education.
+A strong Sumter also depends on safe roads, thriving businesses, and a vibrant local economy.
+That’s why I’ve championed investments in infrastructure, like the Miller to Morgan Avenue stormwater project, to reduce flooding, repair roads, and support our military community at Shaw.
+By cutting red tape, lowering taxes, and directing resources to Sumter’s most pressing needs, we’ve attracted industries like Continental Tire and eVAC Magnetics, supported small businesses, and created new job opportunities.
+I’ll keep working to ease the burden of inflation with responsible budgeting and pro-business policies that grow our economy, empower farmers, and keep more money in taxpayers’ pockets.
+Sumter’s future also rests on protecting what makes our community unique: our military families, our natural resources, and our values.
+Shaw Air Force Base generates a $2.4 billion economic impact and supports nearly 17,000 jobs, with veterans making up more than 13% of our county—the highest in the state.
+I will always defend Shaw’s mission, stand with our veterans, and support policies that strengthen our military families.
+At the same time, I’ll continue to safeguard our Second Amendment rights, uphold the sanctity of life, and ensure moms and families have the resources they need to thrive.
+Whether it’s defending our hunters and outdoorsmen, protecting farmland, or getting tougher on crime—especially juvenile crime—I’ll always fight for a safer, stronger Sumter that leads the way for South Carolina.
+Speaker Murrell Smith
+o Every child in Sumter deserves a top-notch education that sets them up for success.
+As your Representative and Speaker of the House, I’ve worked tirelessly to strengthen our schools, support our teachers, and empower parents in House District 67.
+From securing funding for teacher pay raises to sponsoring legislation for school choice, I’m dedicated to ensuring students at schools like Wilson Hall, Sumter High, and Central Carolina Technical College have the opportunities they need to thrive.
+o My commitment is to keep parents in the driver’s seat of their children’s education, boost teacher salaries to attract the best educators, and invest in workforce training programs that prepare our students for Sumter’s growing economy, including jobs tied to Shaw Air Force Base.
+I’ll continue fighting in Columbia to direct state resources toward our schools, ensuring Sumter’s next generation is equipped to lead with strong academics and practical skills.
+o Safe, reliable infrastructure is the foundation of a thriving Sumter.
+As your Representative and Speaker of the House, I’ve worked to ensure our roads and bridges support families, businesses, and our military community at Shaw Air Force Base.
+From fixing potholes to improving highways, strong transportation networks reduce traffic, enhance safety, and drive economic growth in House District 67.
+o My commitment is to responsibly direct state resources to Sumter’s most pressing needs—whether it’s upgrading roads to support local industries or addressing flooding that threatens our community.
+I’ve fought for projects like the Miller to Morgan Avenue Stormwater Improvements to protect our neighborhoods and keep traffic moving.
+As your voice in Columbia, I’ll continue advocating for efficient, taxpayer-funded investments that help Sumter not just grow, but lead the way for South Carolina.
+o Families in House District 67 feel the strain of rising costs at the grocery store, gas pump, and beyond.
+As your Representative and Speaker of the House, I’ve fought to ease this burden by championing lower taxes and responsible budgeting in Columbia.
+My work on tax cuts and economic development, like supporting Sumter’s industries and Shaw Air Force Base, has helped keep our local economy strong.
+o Inflation hits hardest when government overspends, and I’m committed to reining in waste to protect hardworking South Carolinians.
+By prioritizing lower taxes and common-sense policies, I’ll ensure more money stays in your pocket, helping Sumter families thrive and our businesses grow
+o Creating good-paying jobs and a thriving economy is my top priority for House District 67.
+As your Representative and Speaker of the House, I’ve championed policies that support small businesses, attracting and supporting industries like Continental Tire and eVAC Magnetics, and strengthen our military hub at Shaw Air Force Base.
+By cutting red tape and investing in workforce training at places like Central Carolina Technical College, we’re preparing Sumter’s citizens for the careers of today and tomorrow.
+o Built new teaching facilities at Central Carolina Tech, Morris College and USC-Sumter to provide for new nursing programs, science programs and cyber security programs to prepare students for a modern day workforce.
+o I’m committed to keeping Sumter competitive with lower taxes and responsible budgeting that puts taxpayers first.
+My work in Columbia will ensure our community draws new businesses and creates opportunities, so every family in District 67 can prosper.
+o Shaw Air Force Base is not only a source of pride for Sumter—it is one of the pillars of our local economy and way of life.
+According to a 2022 Department of Veterans Affairs economic impact study, Shaw contributes an annual economic impact of $2.4 billion, supports nearly 16,916 jobs, and generates over $1.1 billion in labor income.
+More than 13% of Sumter County’s residents are veterans, the highest percentage of South Carolina’s 46 counties.
+I will always stand with the men and women who serve, as well as their families, by protecting Shaw’s mission, strengthening resources for veterans, and ensuring our military community has the support it deserves.
+When Shaw is strong, Sumter is strong.
+o Affordable, reliable healthcare is vital for House District 67’s families, seniors, and veterans.
+As your Representative and Speaker of the House, I’ve worked to strengthen healthcare access by securing funding for providers like Prisma Health Tuomey and supporting our military community at Shaw Air Force Base.
+I’m committed to lowering costs, expanding patient choice, and ensuring decisions stay with you and your doctor—not government bureaucrats.
+o I helped secure funding for a new $9.1 Million behavioral health emergency center at Tuomey Hospital.
+o I helped secure funding for a new $71 Million nursing home for Veterans in Sumter.
+o I helped bring a new heart catheterization lab to town, a diagnostic tool now available for the first time ever in Sumter.
+o My focus is on practical, conservative solutions: strengthening rural healthcare, encouraging innovation, and protecting taxpayer dollars to deliver quality care.
+I’ll keep fighting in Columbia to support our hospitals, veterans’ services, and working families, so Sumter’s healthcare system meets the needs of every resident.
+o Agriculture drives Sumter County’s economy and way of life, putting food on our tables and sustaining our rural communities.
+As your Representative and Speaker of the House, I’ve stood with our farmers by supporting policies that protect family farms and boost local markets, like those in House District 67.
+My work on flood mitigation projects, such as the Miller to Morgan Avenue improvements, helps safeguard farmland from costly damage.
+o We elevated water towers for cleaner water.
+During the great flood, clean water issues became problematic in rural areas of Sumter.
+I got to work to bringing cleaner drinking water that remains to this day.
+o I helped preserve farmland from over-development.
+o I’m committed to keeping Sumter’s agricultural heritage strong by cutting burdensome regulations, expanding opportunities for South Carolina-grown products, and using taxpayer dollars wisely.
+I’ll fight in Columbia to ensure our farmers have the tools they need to thrive, preserving jobs, traditions, and a prosperous future for our rural communities.
+o Growing our economy means making Sumter a hub where businesses thrive and families prosper.
+As your Representative and Speaker of the House, I’ve championed lower taxes and pro-business policies that have attracted industries like Continental Tire and strengthened our military hub at Shaw Air Force Base.
+By cutting red tape and supporting workforce training at Central Carolina Technical College, we’re creating good-paying jobs for House District 67.
+o I’m committed to keeping Sumter competitive with responsible budgeting and taxpayer-friendly policies.
+My work in Columbia will draw new industries, empower small businesses, and ensure every family in our community enjoys the opportunities of a stronger economy.
+o South Carolina’s natural resources are a treasure that support our economy, our quality of life, and our future.
+From our farmlands to our forests and waterways, we must be good stewards of what God has given us.
+I will support policies that protect clean air and water, promote conservation, and ensure responsible growth that preserves our outdoor heritage.
+This includes standing with outdoorsmen by protecting the traditions of hunting and fishing, and promoting outdoor recreation that strengthens families and fuels our local economy.
+By safeguarding our natural resources, we protect jobs, recreation, and a way of life that makes Sumter and South Carolina special.
+o Growing our economy means making Sumter a place where businesses thrive and families prosper.
+As your Representative and Speaker of the House, I’ve championed lower taxes and pro-business policies that support our local industries and create good-paying jobs.
+By cutting red tape and investing in workforce training at our technical colleges, we’re preparing House District 67’s citizens for the careers of today and tomorrow.
+o I’m committed to keeping Sumter competitive with responsible budgeting and taxpayer-friendly policies.
+My work in Columbia will draw new businesses, empower small entrepreneurs, and ensure every family in our community enjoys the opportunities of a stronger, more vibrant economy.
+o The Second Amendment is a cornerstone of our freedom, and I’ll always stand up for the right of House District 67’s law-abiding citizens to keep and bear arms.
+As your Representative and Speaker of the House, I’ve fought to protect this constitutional right, ensuring Sumter’s hunters, sportsmen, and families can defend themselves and preserve our proud heritage of responsible gun ownership.
+o My commitment is to oppose any restrictions on these freedoms, especially federal overreach that threatens our way of life.
+By safeguarding the Second Amendment with unwavering resolve, I’ll keep Sumter a place where our traditions of hunting, sport shooting, and personal safety thrive for generations.
+o Every life is a precious gift, and I’m committed to protecting the unborn in House District 67.
+As your Representative and Speaker of the House, I’ve supported policies that uphold the sanctity of life while helping Sumter’s families thrive.
+Being pro-life means standing for our values and ensuring moms, dads, and children have the support they need through accessible childcare, adoption opportunities, and community resources.
+o My focus is on compassionate, practical solutions that strengthen families and build a culture of life.
+I’ll work in Columbia to promote policies that make it easier for Sumter’s parents to raise their children, ensuring our community remains a place where every family is valued and supported.
+o Every family deserves to feel safe in their home, their neighborhood, and their community.
+I will always stand with law enforcement and first responders who put their lives on the line to protect us.
+That means giving them the tools, training, and resources they need to do their jobs effectively.
+We must also get tougher on juvenile crime, making sure young offenders are held accountable while also expanding opportunities that steer them away from violence and toward a better path.
+By cracking down on violent crime and supporting prevention efforts, we can keep Sumter strong and our communities secure.
+Sumter has received more than $1.4 billion in investments since 2016, creating thousands of jobs.
+In 2025, Sumter received over $20 million in private investments and $8.5 million in public funds for city projects.
+SCDOT anticipates an investment of $325,378,800 between 2017-2028 in Sumter County.
+By providing your phone number, you are consenting to receive text message updates, including automated text messages (updates, marketing, polling/surveys, and possible donation solicitations) to that number from Murrell Smith for House.
+Message & Data rates may apply, and message frequency may vary over time.
+Reply "STOP" to opt out of these text message updates.
+Reply HELP for help.
+Privacy Policy.

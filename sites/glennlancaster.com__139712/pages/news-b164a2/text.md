@@ -1,0 +1,1 @@
+News from the desk of Glenn Lancaster Glenn Lancaster Files for Oregon Senate District 13 Glenn Lancaster January 29, 2026 Published on WilsonvilleSpokesman.com Glenn Lancaster has officially filed to run for Oregon Senate District 13 and is currently the only Republican candidate

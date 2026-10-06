@@ -1,0 +1,3 @@
+Glenn County Sheriff Justin Gibbs Endorses Belza For Assembly
+Glenn County, Calif. – Today, Dom Belza announced that he has received the endorsement of Sheriff Justin Gibbs of Glenn County in his campaign for the State Assembly.
+The 3rd Assembly District…

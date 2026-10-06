@@ -1,0 +1,9 @@
+- Official 2026 Campaign Statement (Read above*)
+- First Campaign Video “How to Run for Office.” April 21st, 2026 Here is my first campaign video “How to Run for Office,” a fun, lighthearted take on the complexities of running for office,…
+- Tax Day Message!
+April 15th, 2026 What better day to bring awareness to bottom-up tax cuts than today?
+Happy Tax Day!
+- Interview with Larry Sharpe!
+March 20th, 2026 On March 19th, 2026, Larry Sharpe, a well-known Libertarian podcaster and commentator, and current gubernatorial candidate for the Libertarian Party in New…
+- Independence Party Nominates Andrew Cottingham as Candidate!
+March 3rd, 2026 During the Independence Party’s monthly meeting, held on February 24th, 2026; Rich Whitney, the Party Chair, made an announcement to the Steering…

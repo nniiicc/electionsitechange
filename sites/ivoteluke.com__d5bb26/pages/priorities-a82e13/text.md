@@ -1,0 +1,57 @@
+Priorities
+Healthcare should be simple, affordable, and there when people need it.
+Luke supports MiCare because no one should have to choose between getting care and paying their bills.
+- Lower healthcare costs for families and workers
+- Protect people from medical debt
+- Make sure care is based on need, not income
+- Support doctors, nurses, and local healthcare providers
+- Build a system that works for Michigan families, not insurance company profits
+I Support MiCare
+Make Life Affordable Again
+People in our communities are working hard, doing their part, and still feeling squeezed.
+It is time to lower everyday costs, invest in our neighborhoods, and make sure families can afford to build a life right here at home.
+- Expand access to affordable childcare so parents can work, families can breathe, and kids can thrive
+- Lower everyday costs for working families, seniors, and young people trying to build a life here
+- Support programs like Going PRO that train the next generation of skilled workers and connect people to good-paying careers
+- Invest in housing, infrastructure, and local projects that make our communities more affordable and livable
+- Help young people afford to stay, work, buy homes, and raise families in the communities that raised them
+Our small businesses, downtowns, farms, and main streets are more than buildings and storefronts.
+They are where we buy our first bike, grab coffee with a neighbor, watch parades, meet friends after school, and build the memories that make a place feel like home.
+Luke believes rural communities deserve real investment, not to be overlooked or left behind.
+He will fight to help local businesses grow, bring life back to our downtowns, and give communities the tools they need to build a stronger future.
+- Support small businesses, family-owned shops, and local entrepreneurs
+- Invest in downtown revitalization and main street development
+- Expand access to grants, technical assistance, and business resources
+- Help rural communities repair infrastructure, attract investment, and grow responsibly
+- Build local economies that keep people rooted in the places they love
+INVEST IN THE PLACES THAT BUILT US.
+Protect the Communities Our Children Inherit
+Our kids deserve clean water, safe land, and communities that are protected for the future.
+Luke will fight for real action that holds polluters accountable and makes sure growth protects the people who live here.
+- Fight for full cleanup and justice for the Veliscol burn pit in St.
+Louis
+- Protect local rivers, drinking water, farmland, and soil
+- Hold polluters accountable when they harm our communities
+- Support stronger environmental review for large developments
+- Push for responsible rules on data centers to protect water, energy, and utility costs
+- Invest in infrastructure that supports growth without sacrificing local resources
+Everyone deserves a safe, affordable place to live in the community they love.
+Luke will fight for practical housing solutions that respect local residents, strengthen neighborhoods, and make it easier for families, workers, and young people to stay here.
+- Support mixed-use development so downtowns can have housing, shops, and services close together
+- Invest in water, sewer, energy, roads, and broadband so communities can build the housing they need
+- Streamline approval processes while keeping local voices and neighborhood needs at the center
+- Expand middle-housing options like duplexes, townhomes, courtyard apartments, and condominiums
+- Help create more starter homes and affordable housing near jobs, schools, and downtown
+A Home Should Be Within Reach
+Michigan has the artists, crews, production companies, small businesses, and talent to compete in a world that runs on video, media, and storytelling.
+Luke strongly supports legislation that brings film and media investment back to Michigan while putting Michigan workers, Michigan artists, and Michigan production companies first.
+- Support a strong, accountable film and media incentive that invests in Michigan talent
+- Prioritize Michigan artists, crews, production companies, and creative small businesses
+- Incentivize projects that spend money with local businesses, hotels, restaurants, downtowns, and vendors
+- Prioritize rural communities and underserved areas so creative investment helps revive the places too often left behind
+- Require transparency, accountability, and measurable economic impact so public investment delivers real results
+Invest in Michigan’s Creative Economy
+There Is Work to Do
+The future we deserve will not build itself.
+It starts with neighbors showing up for neighbors.
+Please consider doing one of the following:

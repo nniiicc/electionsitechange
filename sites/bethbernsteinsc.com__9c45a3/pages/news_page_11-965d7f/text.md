@@ -1,0 +1,19 @@
+End of Session Legislative Update 2014
+Dear Friends and Neighbors, Here is my year-end Legislative Update for 2014.
+The last several weeks have been busy.
+We approved a...
+May Legislative Update 2014
+Dear Friends and Neighbors: Here is my Legislative Update for May.
+This month, the House overwhelmingly passed an Ethics Bill 110-0, and...
+April Legislative Update 2014
+Dear Friends and Neighbors: This is my Legislative Update for April.
+Although we were furloughed for 2 weeks this month, we were able to...
+March Legislative Update 2014
+Dear Friends and Neighbors: This is my Legislative Update for March.
+The House passed a Budget this month and it is now in the Senate...
+Legislative Update for February 2014
+Dear Friends and Neighbors: This is my Legislative Update for the month of February.
+The House addressed a number of important issues. ...
+1st Legislative Update in 2014
+Dear Friends and Neighbors: Here is my first Legislative Update for 2014.
+My goal is to continue to keep you informed about the latest...

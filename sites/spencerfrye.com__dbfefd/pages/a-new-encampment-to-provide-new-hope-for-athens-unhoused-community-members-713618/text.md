@@ -1,0 +1,30 @@
+A New Encampment to Provide New Hope for Athens’ Unhoused Community Members
+Growing up in Athens, it was not unusual to pass tents when driving near the 10 Loop and Highway 78.
+We always called it “Tent City.” It has been years since I have seen tents pitched on that hill.
+Recently, I heard this name again as it was mentioned by a friend.
+I was unaware that the homeless camp just two streets over from my apartment was the new “Tent City,” more formally referred to by residents as Cooterville.[1] Now that I am a 4th-year student at the University of Georgia, I have seen the homeless camps shift around, and I pass heartbreaking cardboard signs as I walk to class on a campus with $1.3 billion in assets.[2] As UGA’s and Athens’ infrastructure increases, the homeless population is displaced and forced to move their camps.
+One of these forced moves is coming in November 2021; however, this time, there are plans for a safe relocation.
+According to the Point-in-Time Count collected by the Athens Homeless Coalition, there are roughly 210 unhoused individuals in Athens-Clarke County but only 189 emergency beds.[3] These 210 people, however, are only the ones accounted for.
+When interviewed, one unhoused woman stated, “I don’t really think that Athens has a clue how many people are really in the woods out here,” and mentioned that she believes there are “well over two or three hundred” people in the woods.[4] Cooterville is a popular and tight-knit community where people reside underneath a CSX railway on Willow St.
+Other nearby communities include campsites along Dr.
+Martin Luther King Jr Pkwy and North Ave.
+With complaints from nearby residents, CSX was prompted to remove these residents and they were given a deadline of November 2021.
+Austin, Texas is facing a similar problem but on a much larger scale.
+According to the Texas Tribune, there are roughly 3,000 unhoused people in Austin and only around 1,800 shelter beds and housing units available.[5],[6] In the city of Austin and in varying cities across the state, homelessness has exploded leaving displaced people to set up camp on highway medians, public parks, in the streets of downtown areas, etc., making it harder to control and harder to keep areas safe and clean.
+In September 2021, HB 1925, which passed the Texas Legislature earlier that year, went into effect, placing a statewide ban on camping in unapproved public places.[7] This bill makes living in homeless camps on public grounds a misdemeanor that can result in a fine of up to $500 or jail time.
+The Austin City Council has tried to combat homelessness by renting or buying out hotels to house those who are stuck on the streets.
+Aside from this less permanent but faster fix, “local officials have embarked on a $306 million goal to build 3,000 dwelling units for people experiencing homelessness” that would not be complete until 2024.
+Because there are no state laws against homeless camps in Georgia, Athens-Clarke County is working to get ahead of the issue of overcrowded street corners by creating an encampment at the former North Athens School.
+The encampment is planning to operate until summer 2023.
+It will include sanitation services (i.e., toilets, sinks, and garbage collection) as well as “food, case management, safety, and security for residents on-site.”[8] There will also be fewer barriers for entry like drug tests, income requirements, or background checks.
+While there is some hesitation from the homeless community that currently resides under the railway, the new encampment should provide a safer environment for Athens residents experiencing homelessness.
+Each resident of Cooterville and other camps in Athens, Austin and across the United States has a story that led them to be unhoused.
+In Austin, fines and jail time will further prevent individuals from escaping homelessness through work or gaining affordable housing, There is hope, however, that with a city-provided space in Athens, the unhoused population can work to better their lives in a safe and healthy environment.
+[1] https://www.usnews.com/news/best-states/georgia/articles/2021-09-22/some-homeless-skeptical-of-government-sanctioned-encampment
+[2] https://president.uga.edu/ar/2018/uga-foundation.php
+[3] https://endathenshomelessness.com/impact
+[4]https://www.fox5atlanta.com/news/georgia-county-builds-a-government-sanctioned-encampment-for-homeless
+[5] https://www.texastribune.org/2021/08/09/austin-texas-camping-ban/
+[6] https://www.texastribune.org/2021/10/06/austin-camping-ban-homeless/
+[7] https://legiscan.com/TX/bill/HB1925/2021
+[8]https://www.onlineathens.com/story/news/local/2021/09/14/athens-government-sanctioned-homeless-site-faq/5715680001/

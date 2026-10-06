@@ -1,0 +1,42 @@
+Become a Precinct Official
+Precinct officials are the volunteer grassroots organizers of the Democratic Party.
+A precinct covers all the households who vote at your local polling place.
+Precinct officials register and welcome new voters, educate residents about candidates and issues during primary and general elections, distribute Democratic Party materials at their polling place, and assist with fundraising.
+The Montgomery County Democratic Central Committee is revitalizing the precinct organization in advance of the 2024 election.
+Not sure what precinct you live in?
+You can find out here.
+Ready to put your hat into the ring?
+Here are the official duties and application.
+Here is a list of current precinct Chairs and Vice-Chairs.
+Vacancies are noted in bold.
+As you can see, opportunities to get involved abound!
+05-03 Francis Scott Key Middle School: Joe Kirchner, Chair; Vice-Chair = vacant
+05-05 Springbrook High School: Chair and Vice-Chair = vacant
+05-06 Jackson Road Elementary School: Fran Kelleher, Chair; Troy Morgan, Vice-Chair
+05-10 Cresthaven Elementary School: Chair and Vice-Chair = vacant
+05-11 Cannon Road Elementary School: Chair and Vice-Chair = vacant
+05-13 White Oak Community Recreation Center: Chair and Vice-Chair = vacant
+05-14 Joann Leleck Elementary School At Broad Acres: Chair and Vice-Chair = vacant
+05-22 Springbrook High School: Lisa Kingsley, Chair; Vice-Chair = vacant
+13-04 Takoma Park Elementary School: Milford Sprecher, Chair; Vice-Chair = vacant
+13-05 Silver Spring Civic Building: Chair and Vice-Chair = vacant
+13-06 Piney Branch Elementary School: Chair and Vice-Chair = vacant
+13-08 East Silver Spring Elementary School: Edmundo Vasquez, Chair; Vice-Chair = vacant
+13-10 Silver Spring Civic Building: Chair and Vice-Chair = vacant
+13-13 Highland View Elementary School: Emily Ackerman, Chair; Donna Graham, Vice-Chair
+13-14 St.
+Luke Lutheran Church: Chair and Vice-Chair = vacant
+13-15 Eastern Middle School: Sam Agger, Chair; Vice-Chair = vacant
+13-18 Oak View Elementary School: Scott Schneider, Chair; Vice-Chair = vacant
+13-19 Margaret Schweinhaut Senior Center: Betsy Devlin-Foltz, Chair; David Devlin-Foltz, Vice-Chair
+13-21 Takoma Park Middle School: Marc Sklar, Chair; Vice-Chair = vacant
+13-22 Rolling Terrace Elementary School: Chair and Vice-Chair = vacant
+13-23 Pine Crest Elementary School: Michael Kanick, Chair; Tracy DuVemoy, Vice-Chair
+13-42 The Arc Montgomery County Karasik Center: Sanjinda Rangwala, Chair; Linda Parker, Vice-Chair
+13-47 Montgomery College Cultural Arts Center: Chair and Vice-Chair = vacant
+13-50 Sligo Creek Elementary School: Alan, Bowser, Chair; Vice-Chair, vacant
+13-65 Gwendolyn E.
+Coffield Community Recreation Center: Chair and Vice-Chair = vacant
+13-67 Don Bosco Cristo Rey High School: Jean Capps, Chair; Vice-Chair = vacant
+13-68 Takoma Park Recreation Center: Chair and Vice-Chair = vacant
+*Fatmata Barrie and Roger Kingsley act as Area Coordinators and oversee several precincts .

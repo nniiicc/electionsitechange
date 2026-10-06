@@ -1,0 +1,2 @@
+It took political capital and courage to make the costly but necessary investments in infrastructure to help seed housing starts like Cote Village and the mixed-use project now rising from the old parking lot next to the trolley station in Mattapan Square.
+Thankfully, there are partners in the development community whose mission and purpose align to make difficult projects like Cote Village possible.

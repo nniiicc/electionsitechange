@@ -1,0 +1,49 @@
+Putting income tax ban into the Constitution gets airing on federal tax filing day
+April 15, 2026
+On the final day to file federal income taxes, New Hampshire lawmakers aired a proposal to write an income tax ban into the state Constitution, the New Hampshire Union Leader Read More
+NHGOP Using Tax Day to Set Income Tax Trap for Dems.
+It Appears to Be Working.
+April 14, 2026
+House Republicans scheduled a Tax Day Ways and Means Committee hearing on their “New Hampshire Advantage Amendment,” CACR 12, which would put a ballot question to voters on banning a Read More
+Bill stiffening penalty for refusal to consent to drunk-driving test easily clears House
+April 9, 2026
+A bill stiffening the penalty for refusing a drunk-driving test cleared the New Hampshire House by a wide margin, the New Hampshire Union Leader reported.
+The Senate sponsor thanked House Read More
+SCHNELLER: Income Tax Vote Exposes Clear Divide in Concord
+March 30, 2026
+In an op-ed, Bedford Rep.
+John Schneller wrote that the March 5 vote on a constitutional amendment to permanently ban a state income tax exposed the clearest distinction between the Read More
+Amid appeal, NH seeks vendor for state car inspections
+March 26, 2026
+Amid its ongoing appeal, New Hampshire moved to seek a vendor for state car inspections, the New Hampshire Union Leader reported.
+House Majority Leader Jason Osborne (R-Auburn) called the step Read More
+Rep.
+Jason Osborne: We have a choice: reform or an income tax
+March 23, 2026
+This column by New Hampshire House Majority Leader Jason Osborne originally appeared in the New Hampshire Union Leader on March 23, 2026.
+Read it at unionleader.com.
+Two weeks ago, several Read More
+In Win for NHGOP, EPA’s Zeldin Pledges Swift Review of Vehicle Mandate Case
+March 23, 2026
+The Environmental Protection Agency said it would move quickly to review New Hampshire’s petitions tied to its repeal of the vehicle inspection mandate, expecting a proposed decision by early summer Read More
+Judge asked to fine, hold New Hampshire in contempt over ending car inspections
+March 16, 2026
+A judge was asked to fine and hold New Hampshire in contempt over ending car inspections, the New Hampshire Union Leader reported.
+House Majority Leader Jason Osborne (R-Auburn) responded with Read More
+Inspect This!
+Osborne Says NH Should ‘Kick Gordon-Darby to the Curb’
+March 16, 2026
+After vehicle inspection vendor Gordon-Darby asked a federal judge to hold New Hampshire officials in contempt and impose fines, House Republicans said they would not back down and urged other Read More
+Mandatory vote to cap property taxes for local schools advances
+March 11, 2026
+A mandatory vote to cap property taxes for local schools advanced in the New Hampshire House, the New Hampshire Union Leader reported.
+The outlet described the outcome as a major Read More
+House GOP Wants to Ban Future State Taxes.
+Will ‘Anti-Tax’ Democrats Join In?
+March 4, 2026
+House Republicans advanced CACR 10, a constitutional amendment requiring a two-thirds supermajority to establish or increase a state-imposed tax, a change that would make creating a sales or income tax Read More
+Start a Conversation?
+Volinsky’s Income Tax Plan Starts a Firestorm
+March 3, 2026
+Former Executive Councilor Andru Volinsky and allies held a press conference promoting a state income tax to fund education spending, saying they hoped to start a conversation.
+As reported by Read More

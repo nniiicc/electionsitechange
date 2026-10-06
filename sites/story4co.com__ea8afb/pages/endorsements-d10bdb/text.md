@@ -1,0 +1,95 @@
+Endorsements
+I’m proud to be endorsed by organizations and leaders that reflect my values.
+Thank you to the individuals and organizations who are supporting me in my race for re-election of Colorado State House District 25!
+Elected Officials
+Jennifer Bacon, State House Assistant Majority Leader (HD-07)
+Andrew Boesenecker, State House Speaker Pro Tempore (HD-53)
+Kyle Brown, State Representative (HD-12)
+Chad Clifford, State Representative (HD-37)
+Meg Froelich, State Representative (HD-03)
+Lorena Garcia, State Representative (HD-35)
+Lindsay Gilchrist, State Representative (HD-08)
+Lori Goldstein, State Representative (HD-29)
+Eliza Hamrick, State Representative (HD-61)
+Jamie Jackson, State Representative (HD-41)
+Sheila Lieder, State Representative (HD-28)
+Mandy Lindsay, State Representative (HD-42)
+Javier Mabrey, State Representative (HD-01)
+Kenny Nguyen, State Representative (HD-33)
+Emily Sirota, State Representative (HD-09)
+Brianna Titone, State Representative (HD-27)
+Elizabeth Velasco, State Representative (HD-57)
+Jenny Willford, State Representative (HD-34)
+Yara Zokaie, State Representative (HD-52)
+Matt Ball, State Senator (SD-31)
+Jessie Danielson, State Senator (SD-22)
+Iman Jodeh, State Senator (SD-29)
+Chris Kolker, State Senator (SD-16)
+Katie Wallace, State Senator (SD-17)
+Mike Weissman, State Senator (SD-28)
+Phil Weiser, Colorado Attorney General
+Karla Esser, Colorado State Board of Education
+Michael Dougherty, Boulder County District Attorney
+Reggie Marinelli, Jefferson County Sheriff
+Annette Cannon, Jefferson County Coroner
+Jerry DiTullio, Jefferson County Treasurer
+Scot Kersgaard, Jefferson County Assessor
+Paul Weissmann, Boulder County Treasurer
+Aaron Brockett, Mayor of Boulder
+Mark Lacis, Mayor of Superior
+Honorable Jeanne Nicholson, Former State Senator
+Honorable Chris deGruy Kennedy, Former House Speaker Pro Tempore
+Nick Lobello, Candidate for Jefferson County Coroner
+Community Members
+Kristin Andersen
+Bruce Atchison
+Jessica Batts
+Rueben Cásarez
+Lara Center
+Jen Clanahan
+Diane Conaway
+Gerald Dahl
+Steve Dahl
+Jim Dale
+Magda DeForest
+Lisa Delfino
+Rhonda Dern
+Jamie Eickhoff
+Sue Flageolle
+Sara Gagliardi
+Allyson Gottsman
+Carl Hamm
+Jim Hiner
+Bill Horger
+Carole Horger
+Delly Ingersoll
+Scott Jones
+John Lewis
+Kallie Leyba
+Daryls Lopez
+Karen Mather
+Hailey McMoore
+Ron Meehan
+Skip Miller
+Cathy Morgan
+Jeff Nesheim
+Angela Oliver Reed
+Janice Olson
+Paul Olson
+Mary Peckham
+Jennifer Prange
+Janice Pryor
+Mike Pryor
+Fayre Ruszczyk
+Lucinda Schneller
+Rebecca Shelp
+Aliza Sodos
+Manuel Solano
+Randy Stafford
+Kimberly Taylor
+Ann Thomas
+Chip Verrill
+Liz Verrill
+Yuri Weydling
+Bill Whelchel
+Claudia Zundel

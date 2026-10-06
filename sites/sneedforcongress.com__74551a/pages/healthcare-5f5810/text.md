@@ -1,0 +1,13 @@
+top of page
+HEALTHCARE
+Affordable | Reliable | Secure
+OUR PRIORITIES
+BRING DOWN COSTS, EXPAND ACCESS
+Expand Medicaid availability
+Negotiate prescription drug costs
+Regulate for-profit insurance companies
+INVEST IN PREVENTATIVE CARE AND COMMUNITY WELLNESS
+MITIGATE THE THREAT OF THE "ONE BIG BEAUTIFUL BILL"
+KEEP RURAL HOSPITALS OPEN
+RECRUIT AND RETAIN MEDICAL SPECIALISTS
+bottom of page

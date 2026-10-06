@@ -1,0 +1,1 @@
+Campaign Smith Releases Property Tax Relief PlanSmith Releases Property Tax Relief Plan July 20, 2026 1:14 AM Monday, July 20, 2026 WESKAN – State Representative Adam Smith, chair of the House Taxation Committee, unveiled his comprehensive plan[...] Read MoreRead More

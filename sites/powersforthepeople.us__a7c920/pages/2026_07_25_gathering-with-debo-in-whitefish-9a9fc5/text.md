@@ -1,0 +1,1 @@
+Summer evening gathering of Debo-supporters in Jan’s beautiful yard in Whitefish for “Happy Hour with Debo,” Supporters heard about how Democrats worked with moderate Republicans in the 2025 legislative session to continue Medicaid, increase funding for public schools, keep judicial elections nonpartisan, and lower residential property taxes.

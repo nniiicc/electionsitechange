@@ -1,0 +1,34 @@
+Donate
+Connect with Brenna
+News
+Donate
+Attorney General Brenna Bird
+In The News
+July 6, 2026
+Iowa attorney general sues Temu, alleging deceptive sales, data theft
+July 5, 2026
+Iowa AG Bird scores win against ad giants in Texas court
+June 23, 2026
+Attorney General Brenna Bird discusses recent lawsuits, 2026 reelection bid
+June 10, 2026
+Iowans gets share of $5 million settlement for overpriced COVID tests
+May 26, 2026
+Iowa AG Bird meets with VP Vance, 14 other attorneys general on fraud prevention
+May 13, 2026
+Iowa Cold Case Unit works to solve homicides, bring hope to families
+May 8, 2026
+Iowa AG wins $2.5 million fraud judgment against stem cell company
+March 19, 2026
+Group of GOP state attorneys general backs SAVE America Act
+March 18, 2026
+Iowa AG Brenna Bird on arrest in Ashley Okland case: ‘Today is why we created the Iowa ColdCase Unit’
+March 2, 2026
+Millions in Opioid Crisis Grants now available through Iowa Attorney General’s Office
+Prev
+1
+2
+3
+4
+…
+7
+Next

@@ -1,0 +1,18 @@
+Last night, the updated text of the “Mega Projects” bill was finally released, yes, as a shell bill, and this morning, I watched the House Revenue and Finance Committee hearing in which they passed through committee the “Mega Projects” bill that the Bears and local civic leaders have been asking for.
+I’ve been skeptical of many elements of it in the past but there’s one key provision that had wholly escaped my notice until watching the hearing today: even aside from the risk that PILOT payments would be insufficient, simply due to the nature of the bill and the way current tax caps work, a designation of a “mega project” would explode the property taxes of everyone else in the school districts where the project is located.
+Here’s a simplified hypothetical example to explain this: say a school district has property worth $10 billion in total.
+Then a mega project is built, worth $5 billion.
+That additional $5 billion would be considered as “new property” which is a part of the exceptions to the usual tax cap and would allow the district to increase the levy by 50%.
+But the mega project assessment is frozen at the level before the construction began, so the increased levy is paid for by the property taxes for everyone else in the district increasing instead.
+Remember that usually school districts are limited in terms of how much they can increase spending, to the lesser of 5% or the rate of inflation.
+There’s already a loophole for TIFs that I called for reforming in a proposal back in January.
+And school districts, without fail, increase their levies by the maximum they possibly can, year in and year out.
+They see it as “leaving money on the table” if they don’t do so.
+It would take a lot of determination to go against the grain for school board members to choose not to take advantage of this, especially districts which are discussing or trying to get bonds approved.
+And, again, I watched the hearing.
+Brian Costin of Americans for Prosperity raised the issue as a witness at the hearing, but it’s not just him; various legislators in their own comments affirmed he was right.
+And I checked: it’s right there in Section 10-1060 on page 35 of the bill: “Projects to which an assessment freeze applies pursuant to this Division shall be valued at their fair cash value for purposes of calculating a municipality’s general obligation bond limits and a taxing district’s limitation on tax extensions.” And there’s another wrinkle, too: school districts which receive significant state funding under the Evidence Based Funding provisions based on the low levels of assessed value in the district, would be at risk of losing those additional funds, without actually benefitting from additional taxes from the new construction.
+The bill’s proponents didn’t have an answer for that.
+I don’t know what the right technical language “fix” for this is – well, other than reforming property taxes so that large, capital intensive businesses aren’t disproportionately impacted by property taxes, as I’ve called for before.
+But this issue makes it clear: despite the fact that it was first introduced three years ago, the bill is not ready for Prime Time.
+I don’t know whether this has been overlooked by key decision-makers or if everyone’s assuming it’ll get fixed in the end, or if it’s not actually a bug at all but a feature – but it’s still very worrisome and a bad sign for the success of the effort to come up with a fair and well-designed bill, which in turn is another example of the way that our legislators in Springfield are not governing in the way we, their constituents, deserve.

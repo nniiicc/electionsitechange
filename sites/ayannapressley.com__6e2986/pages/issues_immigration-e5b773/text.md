@@ -1,0 +1,3 @@
+A Just and Humane Immigration System
+Ayanna is working with urgency to create an immigration system grounded in the dignity and humanity of all people who come to our country seeking refuge, to be reunited with their family, or simply in search of greater opportunity.
+We must continue to advocate for an immigration system that centers compassion and empathy, and support for our immigrant communities that goes beyond immigration status – including more inclusive and accessible public institutions, healthcare and education systems to foster safer and healthier communities, and greater opportunity for all.

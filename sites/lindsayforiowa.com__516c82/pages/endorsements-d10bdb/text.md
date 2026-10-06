@@ -1,0 +1,77 @@
+Skip navigation menu
+We are strongly supporting
+Lindsay James for Congress
+Lindsay has earned endorsements from dozens of organizations and leaders!
+Current and Former Elected Officials
+U.S.
+Senator Elissa Slotkin
+Former Congressman Dave Loebsack
+Former Congresswoman Abby Finkenauer
+Former Lieutenant Governor Sally Pederson
+State Senator Tom Townsend
+State Senator Bill Dotzler
+State Senator Liz Bennett
+State Senator Molly Donahue
+State Representative Aime Wichtendahl
+State Representative Angel Ramirez
+State Representative Bob Kressig
+State Representative Jerome Amos Jr
+State Representative Timi Brown-Powers
+State Representative Jeff Cooling
+Retired State Senator Pam Jochum
+Retired State Senator Bruce Bearinger
+Former State Representative Chuck Isenhart
+Retired State Representative Dave Williams
+Retired State Representative Pat Murphy
+Retired State Representative Sharon Steckman
+Former State Representative, Floyd County Attorney Todd Prichard
+Linn County Supervisor Sami Scheetz
+Marion City Councilman Gage Miskimen
+Dubuque City Councilwoman Katy Wethal
+Dubuque City Councilman Danny Sprank
+Dubuque Mayor Brad Cavanagh
+Dubuque School Board Member Dirk Hamel
+Former Dubuque County Auditor Denise Dolan
+Former Dubuque Mayor Roy Buol
+The longest serving non-partisan Mayor of Dubuque, whose platform, Sustainable Dubuque, was heralded locally, regionally, nationally and internationally
+Labor Unions
+American Federation of Government Employees
+United Assocation of Plumbers & Pipefitters
+National Assocation of Letter Carriers
+National Education Assocation
+Mid-America Carpenters Regional Council
+Iowa State Building & Construction Trades Council
+Laborers' International Union of North America
+Iowa Federation of Labor AFL-CIO
+Iowa International Brotherhood of Electrical Workers
+Iowa State Council of Machinists
+Iowa Teamsters
+AFSCME Council 61
+International Brotherhood of Boilermakers Local 83
+International Union of Operating Engineers Local 150
+Organizations
+End Citizens United
+Social Security Works PAC
+Campaign for Family Friendly Economy PAC
+Vote Common Good
+Everytown for Gun Safety Action Fund
+Alliance for Retired Americans Action Fund
+MoveOn Political Action
+Patriotic Millionaires
+Giffords PAC
+League of Conservation Voters Action Fund
+New Dems Action Fund
+Defend the Vote
+Planned Parenthood Action Fund
+EMILY's LIST
+Elect Democratic Women
+Ob-GynPAC
+Women's Political Committee
+Future Forum PAC
+Her Bold Move
+Square One
+American Association of Justice PAC
+Democrats Work for America
+Vote Mama
+Iowa Unity Coalition
+Indivisible Dubuque

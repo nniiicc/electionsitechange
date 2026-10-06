@@ -1,0 +1,46 @@
+Absentee ballot request form
+- August 25th: First day to request absentee ballot for general election
+- October 14th: First day of early voting, and first day absentee ballots can be sent out
+- October 19th: Deadline to request absentee ballot for the general election, and last day to register to vote.
+- November 3rd: General election; polls are open from 7am to 8pm.
+You can register to vote by submitting a voter registration form to your county auditor at least 15 days before the election (October 19th).
+Voter registration form: https://bit.ly/4uNdVfk
+OR
+You can register to vote online on the DOT website if you have a drivers license or nonoperator ID: https://mymvd.iowadot.gov/Account/Login?ReturnUrl=%2fVoterRegistration
+You can register to vote on election day at your polling location.
+You will need to provide photo ID and proof of residency.
+- If you plan on voting by mail, request an absentee ballot from your county auditor as soon as possible
+- Once you receive your absentee ballot, follow all of the instructions very carefully
+- Mail your completed absentee ballot as soon as possible
+- If it is less than a week before the election, do not risk mailing it.
+Either return it in person to your county auditor’s office, or vote on Election Day, and bring your absentee ballot materials with you to surrender.
+- Ballots that are not military/overseas and not received by 8pm on election day will not count
+- You can track your absentee ballot here: https://bit.ly/4bJEslf
+- You must present a valid ID to vote.
+This includes
+- Iowa driver’s license
+- Iowa nonoperator license
+- Iowa Voter Identification Card
+- US Military or veteran ID
+- US Passport
+- Employer ID
+- Student ID issued by an Iowa high school or college
+- Tribal ID Card
+- If your ID does not have your current address, you must provide proof of residence with a document that has your name and current address, such as a lease, utility bill, paycheck, or tax/bank statement.
+- If you did not bring a valid form of ID to vote, or you have your eligibility challenged your polling location, you have the right to fill out a provisional ballot, and then return with a valid ID to your polling place before polls close on Election Day, or your county auditor’s office by noon on the Monday after Election Day.
+- You can register to vote, and vote in a primary election if you are 17 years old as long as you will be 18 on or before election day (November 3rd)
+- You can find your polling location by going to your county auditor’s website.
+- As long as you are in line by the time polls close at 8pm you have the right to vote!
+- Prior to 2026, a voter in your precinct could attest that you are a registered voter in the precinct if you did not have proper identification.
+However, following the passage and signing of HF2501 this year, that attestation ability has been revoked.
+If you do not have a valid form of identification, you will have to fill out a provisional ballot.
+- If you are an active service member, a member of their family, or a citizen residing outside the United States, you can return this form to register to vote and request an absentee ballot: https://www.fvap.gov/uploads/FVAP/Forms/fpca2013.pdf
+- Ballot requests can be received by mailed to your county auditor, emailed to uocava@sos.iowa.gov, or faxed.
+- You can return completed ballots by mail to your county auditor where you claim Iowa residence.
+As of now, these ballots can still be counted so long as they are postmarked by the Monday before election day, and received by the county auditor by noon on the Monday after Election Day.
+However, there is current litigation regarding this, and it could be further restricted.
+If you are serving in an imminent danger pay area: https://www.dfas.mil/militarymembers/payentitlements/Pay-Tables/IDP-Areas/ you may email or fax your ballot to your county auditor.
+These must be received by 8pm on Election Day
+Ryan Peterman is a former member of the United States Navy.
+Use of his military rank, job titles, and photographs in uniform does not imply endorsement by the U.S.
+Department of the Navy or the Department of Defense or any other department, agency or service of the United States Government.

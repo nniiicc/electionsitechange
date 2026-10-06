@@ -1,0 +1,9 @@
+SUMMARY OF ISSUES FACING MILWAUKEE DISTRICT 12
+In an expanded summary, Russell Antonio Goodwin, Sr. is a proven leader focused on building on the progress made during his first term and continuing to address the critical issues facing Milwaukee through a variety of initiatives.
+As a champion of public safety, Goodwin remains committed to prioritizing community collaboration and transparency in policing to create safer neighborhoods and address ongoing concerns such as reckless driving.
+He continues to advocate for Milwaukee Public Schools by pushing for increased and equitable funding to support existing programs, while also working to fix the school funding formula to relieve homeowners of excessive property tax burdens and ensure every student has access to a quality education.
+Goodwin is also focused on improving infrastructure by aggressively addressing potholes and enhancing road safety to improve the overall quality of life for residents.
+He remains committed to bringing family wage-sustaining jobs to Milwaukee, protecting residents’ paychecks, and strengthening the local economy in the face of ongoing economic challenges.
+In addition, Goodwin continues to support small businesses by streamlining access to resources and expanding mentorship opportunities, helping entrepreneurs grow and succeed.
+On housing, he advocates for fair and reasonable property taxes while working to expand minority homeownership and build generational wealth within the community.
+Overall, Russell Goodwin is focused on continuing to deliver results and building a safer, stronger, and more prosperous Milwaukee for all residents, and he invites the community to join him in moving the city forward.

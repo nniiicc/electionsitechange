@@ -1,0 +1,48 @@
+top of page
+Donations by mail can be sent to:
+DiPietro For You
+PO Box 700, E.
+Aurora, NY 14052
+DONATE
+All donations amounts, whether it's $10 or $100, are greatly appreciated
+HOME
+THE SHOWS
+The David DiPietro Show
+Silent Majority Speaks Podcast
+ABOUT DAVE
+LATEST NEWS
+THE ISSUES
+GET INVOLVED
+OPERATION GIFT CERTIFICATE
+POWERFUL PARTNERSHIP
+More
+Use tab to navigate through the menu items.
+All Posts
+Latest Political News
+Culture and Opinions
+Events
+Your Community
+Vaccines & Health
+Search
+Assemblyman DiPietro Celebrates Holland CSD’s Outstanding Educators
+Assemblyman DiPietro presents Teacher of the Year Award to Andrew Ranic (Science).
+Assemblyman DiPietro presents Teacher of the Year...
+David Dipietro
+Jun 23, 2025
+DiPietro Blasts Hochul for Shielding Criminals and Ignoring Victims
+Hochul’s failed leadership exposed in today’s testimony.
+Assemblyman David DiPietro (R,C-East Aurora) expressed his dismay over Gov....
+David Dipietro
+Jun 12, 2025
+DiPietro Leads Ceremony to Memorialize Local WWII Hero
+State Route 19 Dedicated to WWII Hero T Sgt.
+Walter W.
+Shearing Assemblyman David DiPietro (R,C-East Aurora), Sen.
+George Borrello...
+David Dipietro
+May 11, 2025
+DiPietro Calls on Local Governments to Stand with Correctional Officers
+Marilla town hall highlights urgent need for statewide action As violence and chaos escalate in New York’s correctional facilities,...
+David Dipietro
+Feb 27, 2025
+bottom of page

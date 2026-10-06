@@ -1,0 +1,15 @@
+NEWS & UPDATES
+Follow the campaign for the latest updates, community events, issue discussions, and news from Ronnie Oakley’s campaign for West Virginia House District 39.
+Latest Campaign Updates
+- Why CPS Reform and Family Accountability Matter West Virginia’s child welfare system has one of the most serious responsibilities government can carry: protecting children while making decisions that can permanently change families.
+That responsibility demands fairness, transparency, strong oversight, and meaningful accountability.
+CPS reform is one of the issues Ronnie believes deserves serious attention in Charleston, not to weaken child protection, but…
+- Getting to Know West Virginia House District 39 West Virginia House District 39 is more than a line on a map.
+It is made up of communities, families, small businesses, schools, roads, water systems, and everyday people whose concerns deserve to be heard in Charleston.
+Throughout this campaign, Ronnie Oakley is focused on learning from the people who live across the district and…
+- Why Ronnie Oakley Is Running for House District 39 I’m running for the West Virginia House of Delegates in District 39 because I believe government should be practical, accountable, and connected to the people it serves.
+Too often, decisions are made in Charleston without enough attention to how they affect the people who actually have to live with the consequences.
+I want to bring…
+- Ronnie Oakley Campaign Website Now Live Ronnie Oakley’s campaign website for West Virginia House District 39 is now live at RonnieOakley.us.
+The site gives voters one place to learn more about Ronnie, read where he stands on the issues, understand District 39, find important election dates, get involved with the campaign, contact the team, and make a secure contribution.
+The campaign…

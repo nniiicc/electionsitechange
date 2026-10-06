@@ -1,0 +1,34 @@
+PROUDLY ENDORSED BY
+- Tina Polsky
+- Mack Bernard
+- Anne Gannon
+- Erica Whitfield
+- Eric Jablin
+- Kelly Skidmore
+- Stephen Gaskill
+- Rob Long
+- Lori Berman
+- Lois Frankel
+- 3.14 Action fund
+- Florida AFL-CIO
+- Treasure Coast AFL-CIO
+- Democratic Women's Club
+- Engage Y'all
+- Equality Florida
+- Florida College Dems
+- Florida Leadership Council
+- LGBTQ+ Democratic Caucus of Palm Beach County
+- March On PAC
+- Mom's Fed Up
+- National Organization For Women
+- Palm Beach County Human Rights Council
+- Run For Something
+- Ruth's List Florida
+- SEIU
+- Vote Mama
+- Vote Vets
+- Women's Issues Now
+- Palm Beach County Democratic Black Caucus
+- Moms' Seal of Approval on Child Care
+- NorthPac
+- Sierra Club

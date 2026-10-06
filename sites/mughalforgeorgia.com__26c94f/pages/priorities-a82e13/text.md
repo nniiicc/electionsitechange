@@ -1,0 +1,47 @@
+My Priorities
+01
+ECONOMY
+I support economic development strategies focused on long-term growth and stability.
+We must ensure Georgia's economy is creating good jobs that support families, and make our state stronger by building up our
+workforce to meet the needs of the future.
+I will fight to lower inflation and taxes to reduce the cost of gas, groceries, and other essentials.
+We need to make sure our economy works for everyone.
+03
+SMALL BUSINESS
+Throughout America’s history and today, small business-led entrepreneurship and innovation have been powerful economic forces that propel the nation and our small businesses forward.
+Our retailers, entrepreneurs, and small business owners are the heart and soul of the American economy.
+The global pandemic has also excessively impacted minority retailers, small business owners, and entrepreneurs.
+When I am in the office, I will advocate for our workers’ rights, protect the community, support retailers and small businesses, and continue to incentivize the free enterprise and entrepreneurship that has been a key driver of growth for the State of Georgia.
+06
+EDUCATION
+I am committed to working to achieve that access for every child in Georgia, regardless of their zip code, ethnic background, race, religion, and disability.
+I support collaborating with our schools, teachers, administrators, and parent communities to improve student achievement through a variety of initiatives.
+I will also push for mental health initiatives.
+As a father, the quality of education is extremely important to me.
+07
+PROTECTING REPRODUCTIVE CHOICE
+I support freedom for Georgia women to control their own bodies and access reproductive healthcare, Republican efforts to completely ban abortion puts Georgia women in danger and will make our maternal healthcare crisis even worse.
+02
+LOWER TAXES
+At a time of economic hardship and rising costs, the government should be putting money back in your pocket.
+I will work to lower property and income taxes so that you can keep more of your hard-earned money and our businesses and families can thrive.
+With property valuations at record highs, I support expanding the homestead exemption and value offset exemption in Gwinnett to lower property taxes and an income tax rebate of at least $500.
+04
+PUBLIC SAFETY
+I believe we should invest significantly in measures to improve and maintain public safety to keep our communities safe.
+As long as there is crime and danger within our communities, there will be a need for additional public safety professionals.
+We need to invest in public safety and mental health initiatives.
+I have spent several years with federal and local law enforcement officials to enhance public safety initiatives.
+Gwinnett is diverse and we need to hire a more diverse public safety work force.
+05
+VOTING RIGHTS
+I believe we should make it easier to vote, not harder.
+Our democracy is stronger when everyone has a voice.
+07
+HEALTHCARE
+I believe that healthcare must be affordable and accessible for every individual.
+We need to:
+- Expanding Medicaid
+- Focus on Mental Health
+- Addressing racial and ethnic disparities
+- Reduce the Insulin Cost

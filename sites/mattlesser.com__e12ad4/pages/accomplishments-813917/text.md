@@ -1,0 +1,58 @@
+Accomplishments
+Matt Lesser fights for his district
+- Matt has brought back over $400 million to our district in the past two years.
+- Matt secured funding for Macdonough School renovation at the highest reimbursement rate in state history - winning $42 million - to meet young learners' needs and spare local taxpayers from additional property tax (2025)
+- Matt has championed historic education funding increases—$4 million more per year into our schools, for a total of $109 million coming back
+to Middletown schools over the next two years.
+- Matt has secured funding in the past two years Middletown projects and organizations including MacDonough school transportation, Middlesex Hospital's ambulance service, the Middlesex Chamber of Commerce rehabilitation, Middletown's emergency services dock, the YMCA overhaul, Oddfellows Playhouse, the GIFTS Girls reading program run through the Middlesex NAACP, upgrades to the Middletown Senior Center, and upgrades to the Community Health Center.
+- In the midst of federal cuts to nutrition programs, Matt is ensuring seniors stay healthy through securing funding for Middletown and Cromwell Meals on Wheels and meals at the senior center.
+- To ensure that Connecticut residents keep food on their tables, Matt is fighting for our state to offset federal cuts to SNAP.
+(2026)
+Matt Lesser fights for better healthcare for all
+- Matt is fighting for Connecticut Affordable Health Insurance Trust Fund and a state-designed health plan that will lower costs (2026)
+- Matt passed the strongest prescription drug law in the country, preventing annual price increases for generic drugs (2025)
+- Matt expanded reproductive freedom and created the Safe Harbor Fund so everyone can access the care they need (2025)
+- Matt has a strong record of taking on the insurance industry.
+Matt has been the lead sponsor in the fight for a public option (2019-present).
+- Led the fight to pass legislation to get moms access to prenatal care and health care for kids up to age 12, regardless of immigration status (2021-2022)
+- Passed legislation on screening for breast and ovarian cancer to support early detection and to make it accessible to those who need it most (2022)
+- Fought to save hospital access in rural Connecticut, working with supporters of Windham and Sharon Hospitals (2022)
+- Passed legislation that extends dental and vision coverage for young adults on parents’ insurance plans until age 26 (2021)
+- Wrote the telehealth law to expand access to health care during the COVID pandemic and beyond (2020-2021)
+- Passed the strongest cap on insulin in the country, capping the price at $25 a month (2020)
+- Wrote the Mental Health Parity Law (2019)
+- Worked with advocates to write and pass Paid Family & Medical Leave (2015-2019)
+- A cancer survivor, he led the fight to allow young people with cancer to preserve eggs before cancer treatment (2017)
+Matt Lesser fights for civil rights
+- In 2026, Matt is the lead sponsor of SB 397: legislation holding ICE accountable by allowing lawsuits against ICE agents, directing CT prosecutors to prosecute ICE agents who unlawfully harm or kill CT residents, and ensuring our private data cannot be misused.
+- Working with the NAACP Legal Defense Fund, Matt is the lead sponsor of the CT Voting Rights Act.
+As federal courts have gutted the federal Voting Rights Act, Matt is working to protect the right to vote across all 169 towns, provide election information in foreign languages and strengthen local redistricting (2021, 2022)
+- Matt led the fight to protect the right to vote in Newington when Republicans tried to close 5 of 8 local polling places (2022)
+- Worked to pass automatic voter registration (2021)
+- Introduced bill to eliminate prohibition of people with court fines from voting (2019)
+- Led passage of the National Popular Vote compact (2018)
+- With Denise Merrill, wrote and passed the legislation allowing for election day registration and online voter registration (2012)
+- With Denise Merrill, led the push to make voter intimidation & suppression a felony (2012)
+- Has consistently introduced bills to increase youth voting by allowing 16 year olds to preregister to vote
+- Has been a strong champion of Connecticut’s Citizen’s Election Program.
+Matt has defended the Connecticut system for 14 years and has been a spokesman for campaign finance reform around the country
+Matt Lesser fights for workers’ rights
+- Led the fight to ensure that essential workers qualify for workers' compensation insurance coverage in Connecticut if they contract COVID-19 (2020)
+- Fought to expand prevailing wage (2019)
+- Protected teacher’s retirement accounts from excessive fees (2017)
+- Led the fight against the tax on teachers (2017)
+- Introduced a bill to prohibit wage theft (2015)
+Matt Lesser fights for the LGBTQ+ community
+- Introduced bill to protect intersex people from discrimination on the basis of sex and to allow them to identify as intersex on birth certificates (2021)
+- Eliminated discrimination against LGBTQ+ people in life insurance (2021)
+- Passed legislation that provides nonbinary options on driver’s licenses and identification cards (2019)
+- Passed gender identity and expression protections (2011)
+Other legislative work
+- Wrote and passed the first law in the country to get insurance regulators to incorporate climate change standards (2021)
+- Led the fight to protect people from debt collectors and save the foreclosure mediation program (2016-2019)
+- Worked with a broad coalition to restrict civil asset forfeiture (2017)
+- Outlawed discrimination in lending by auto dealers based on race or gender (2017)
+- Outlawed payday lending (2015)
+- Wrote and passed the first Student Loan Bill of Rights in the country (2015)
+- Introduced the bill banning fracking waste in Connecticut (2014)
+- Banned the use of credit histories in employment decisions (2009)

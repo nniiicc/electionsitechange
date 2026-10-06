@@ -1,0 +1,46 @@
+Organizations
+- Mesquite Nevada Conservatives
+- Nevada Veterans Association
+- Nye County Law Enforcement Association
+- Veterans in Politics
+- Hispanics in Politics
+Local Leaders
+- Bevan Lister, President of the Nevada Farm Bureau
+- Jesse Whipple, Mesquite Mayor
+- George “Tommy” Rowe, Caliente City Councilmember
+- Joni Eastley, Nye County Commissioner (fmr.)
+- Cameron McRae, Nye County Commissioner (fmr.)
+- Kenny Taylor, Henderson Township Constable
+- George Rowe, Caliente Fire Chief
+- Kerry Lee, Lincoln County Sheriff (ret.)
+- Ken Elgan, Esmeralda County Sheriff (ret.)
+- Dahl Bradfield, Lincoln County Sheriff (ret.)
+- Joe Szalay, Mesquite Deputy Chief (ret.)
+- Tony Grady, Lieutenant Colonel, Air Force (ret.)
+- Frank Jarvis, Nye County Sheriff’s Lieutenant (ret.)
+- Bob Combs, Nevada Agricultural Leader and Businessman
+- Jacob D.
+“Jay” Bingham, former firefighter and Clark County Commissioner
+- Don Anhder, High School Teacher and Coach
+- Joe W.
+Brown, Local Business Leader
+- Alex Garza, Las Vegas area REALTOR and business leader
+- Aaron Hill, Businessman and Military Veteran
+- Shawn Davis, Legendary Hall of Famer and 3x World Champion Bronc Rider
+State and National Elected Officials
+- Stavros Anthony, Nevada Lieutenant Governor
+- Burgess Owens, Congressman
+- Celeste Maloy, Congresswoman
+- Cresent Hardy, Congressman (fmr.)
+- Robin Titus, Senate Republican Leader
+- Steve Largent, Congressman (fmr.) and NFL Hall of Famer
+- Gregory Hafen II, GOP Floor Leader Assemblyman
+- Lorraine Hunt-Bono, Nevada Lieutenant Governor (fmr.)
+- Jeff Stone, State Senator
+- Bert Gurr, State Assemblyman
+- John Lee, State Senator (fmr.), State Assemblyman (fmr.), and North Las Vegas Mayor (fmr.)
+- Edwin Goedhart, State Assemblyman (fmr.)
+Grassroots
+- Bud Foster, Virginia Tech Football Defensive Coordinator (ret.)
+- Billy Hite, Virginia Tech Football Associate Head Coach (ret.)
+- Jeffrey Bevino, Milford Academy Head Coach (ret.)

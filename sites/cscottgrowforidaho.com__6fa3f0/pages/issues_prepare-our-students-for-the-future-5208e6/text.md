@@ -1,0 +1,3 @@
+Scott Grow has been fighting for Idaho’s students and parents since before he came to the Legislature — serving two terms on the West Ada School Board, the largest district in the state, while sending his own children through public school, private school, and homeschool.
+In the Legislature, Scott has worked to protect parental rights, oppose curriculum overreach from outside Idaho, and increase funding for career technical training and community colleges.
+He has consistently backed strong education funding through his role on JFAC while drawing a hard line against political agendas in the classroom.

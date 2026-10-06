@@ -1,0 +1,71 @@
+Release: Sarah McBride Raises Over $625,000 in Q1
+The most money raised in a quarter by any candidate for an open House seat in Delaware history
+This quarter is McBride’s best quarter yet and marks the most amount of money raised in a single quarter by any candidate for an open Congressional seat in Delaware history.
+“I could not be more humbled by the outpouring of support that our campaign has received this quarter,” said Senator McBride in response to the news.
+“From unions to small business owners, statewide elected officials to small town mayors, I am confident we are building the diverse coalition of supporters necessary to win this fall.
+This campaign’s growing momentum is because Delawareans know that we need a proven and effective changemaker in Washington to deliver for workers and families across our state.”
+McBride has maintained historic fundraising since launching her race in June of 2023.
+This news follows McBride raising $1M faster than any other Delaware congressional candidate in their respective first campaigns in December of 2023 and having raised more money from Delawareans than any other federal candidate in Delaware since their launch this cycle, according to FEC filings.
+A 2023 poll commissioned by Human Rights Campaign Equality Votes PAC showed McBride with a substantial lead, leading the primary with 44% of the vote among likely Democratic voters.
+McBride has been endorsed by more than twenty Delaware unions, Delaware statewide elected officials, 21 of her colleagues in the General Assembly, community organizers, and national advocacy organizations.
+She has also been endorsed by caucuses representing nearly every Democrat in the U.S.
+House of Representatives, including both the Congressional Progressive Caucus and the moderate NewDems Coalition caucus.
+Leaders and organizations that have announced their support of Senator McBride include:
+- Attorney General Kathy Jennings
+- State Treasurer Colleen Davis
+- State Auditor Lydia York
+- Insurance Commissioner Trinidad Navarro
+- More than twenty state legislators
+- Planned Parenthood Action Fund
+- UFCW Local 27
+- AFSCME Council 81
+- Teamsters Local 326
+- Delaware Building and Construction Trades
+- International Brotherhood of Electrical Workers Local 313
+- United Association Plumbers and Steamfitters of the United States and Canada Local Union 74
+- Delaware Laborers Local 199
+- International Union of Elevator Constructors Local 5
+- International Union of Elevator Constructors Local 7
+- UA Sprinkler Fitters Local 669
+- International Union of Bricklayers and Allied Craftworkers Local 1
+- International Association of Bridge, Structural, Ornamental and Reinforcing Ironworkers Local 451
+- Millwright and Machinery Erectors Local 219
+- Eastern Atlantic States Regional Council of Carpenters Local 255
+- Piledrivers & Divers Local #474
+- IUPAT District Council 21
+- Boilermakers Local 13
+- Cement Masons Local 592
+- Sheet Metal Workers Local 19
+- United Telephone Workers of Delaware/CWA Local 13101
+- Heat & Frost Insulators Local 42
+- Roofers Local 30
+- International Union of Operating Engineers Local 542
+- Amalgamated Transit Union (ATU)
+- Association of Flight Attendants
+- Reproductive Freedom for All
+- EMILYs List
+- Elect Democratic Women (EDW)
+- Congressional Progressive Caucus
+- New Democrat Coalition Action Fund
+- Congressional Equality PAC
+- Shore Democrats
+- Delaware Stonewall PAC
+- NOW PAC
+- End Citizens United / Let America Vote
+- Human Rights Campaign
+- LPAC
+- Victory Fund
+- Next50
+ABOUT SARAH MCBRIDE
+Sarah McBride represents roughly 50,000 Delawareans in the First State Senate District, which includes parts of Wilmington and Brandywine Hundred.
+Sarah grew up in Wilmington and has been advocating for her community for decades.
+She worked for former Governor Jack Markell, the late Attorney General Beau Biden, and served in the Obama White House.
+Most recently, she served as the national spokesperson for the Human Rights Campaign, the nation’s largest LGBTQ equal rights organization.
+When McBride was elected in November 2020, she became the first openly transgender state senator in American history.
+In just her first term, McBride passed the landmark Healthy Delaware Families Act, providing paid family and medical leave to workers throughout the First State and marking the largest expansion of Delaware’s social safety net in decades.
+She also passed legislation expanding access to health care, requiring mental health and media literacy education in public schools, promoting green technologies, preventing lead poisoning in youth, and protecting workers and families.
+McBride currently serves as chair of the Senate Health & Social Services Committee and is a member of the Senate’s Judiciary Committee, Education Committee, Banking, Business, Insurance, and Technology Committee, and Executive Committee.
+Sarah married her late husband Andrew Cray in 2014 and is the proud aunt of seven.
+She is a graduate of Cab Calloway School of the Arts and American University.
+McBride has taught public policy at the University of Delaware and is the author of the 2018 memoir, “Tomorrow Will Be Different,” which includes a foreword from President Joe Biden.
+###

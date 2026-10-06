@@ -1,0 +1,17 @@
+Arciero supports bill restricting youth social media, school cell phone use
+Published on April 24, 2026 by WestfordCAT
+BOSTON — Westford’s state representative Jim Arciero recently joined the majority of his colleagues in the Massachusetts House of Representatives in passing a bill which would establish age requirements for children using social media and prohibit the use of cell phones by students while school is in session.
+The bill, H.5366, was approved on Wednesday, April 8 with 129 votes to 25.
+“This legislation takes an important step toward protecting the well-being of our children both online and in the classroom,” Arciero said.
+“By setting age-appropriate safeguards for social media use and limiting distractions during the school day, we are helping students stay focused, build healthier relationships with technology, and create stronger learning environments.”
+Supporters of the bill said the legislation was built on research conducted on the negative impact that social medea has on the development of children and young adults.
+As a result of this research, the bill will require social media companies in Massachusetts to implement an age verification system and will prohibit children under the age of 14 from accessing social media platforms at all.
+The bill will also require children who are 14 or 15 years old to get verified parental permission before creating a social media account, holding companies who fail to comply with this accountable with civil penalties.
+The bill will also ban social media platforms from sharing sensitive information about users under 18 years old, including information relating to their LGBTQ+ status or other characteristics protected under Massachusetts state law.
+Additionally, the bill will make it a requirement for school districts to teach students about the negative impact of social media, particularly bullying and the harm it can have on mental health.
+Students will also be taught about the responsibility they have when using social media, based on guidance from the Department of Elementary and Secondary Education in partnership with the Attorney General’s Office and the Department of Public Health, the bill stated.
+In addition to establishing clear guidelines regarding social media usage among children, the bill also addresses cell phone usage in schools, an issue that has previously received support from the Massachusetts Senate.
+Although the bill does require public school districts across the state to ensure that parents can still keep in touch with their children when necessary and provide appropriate accommodations for students with medical, educational, or accessibility needs, the bill will require schools to adopt a bell-to-bell cellphone use restriction policy for all students throughout the day while school is in session.
+Supporters of the bill said there are resources included to support districts in implementing the changes, including a model policy, reporting requirements and a pilot program allowing up to ten districts to test technology that limits cell phone use during school hours while maintaining emergency communication capabilities.
+While supporters argue that technology plays an important role as a powerful tool in schools across the state, they believe that studies show the cell phone use in schools and particularly social media use among children and young adults has an overall negative impact.
+Having been approved in the House and approved in the Senate already, the bill will now have to go back to the Senate to be considered again.

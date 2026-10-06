@@ -1,0 +1,89 @@
+ENDORSEMENTS
+State Officials
+Governor Pete Wilson (ret.)
+Congressman Kevin Kiley
+Congressman Doug Ose (ret.)
+Board of Equalization Member Ted Gaines
+Senator Roger Niello
+Assemblyman Heath Flora
+Assemblyman James Gallagher
+Assemblyman Joe Patterson
+Assemblywoman Beth Gaines (ret.)
+State Controller Candidate Lanhee Chen (2022)
+County Officials
+Sacramento County Supervisor Rich Desmond
+Sacramento County Supervisor Sue Frost
+Sacramento County Supervisor Pat Hume
+Sacramento County Supervisor-Elect Rosario Rodriguez
+Sacramento County Supervisor Roberta MacGlashan (ret.)
+Sacramento County Supervisor Susan Peters (ret.)
+Sacramento County Supervisor Sandy Smoley (ret.)
+Sacramento County Sheriff John McGinness (ret.)
+Sacramento County Sheriff Scott Jones (ret.)
+City Officials
+Citrus Heights Mayor Jayna Karpinski-Costa
+Citrus Heights Vice Mayor MariJane Lopez-Taff
+Citrus Heights City Councilmember Tim Schaefer
+Citrus Heights City Councilmember Bret Daniels (ret.)
+Folsom Mayor Mike Kozlowski
+Folsom Vice Mayor Sarah Aquino
+Folsom City Councilmember Anna Rohrbough
+Rancho Cordova Mayor David Sander
+Rancho Cordova City Councilmember Linda Budge
+Citrus Heights Water Board Member Ray Riehle
+School Officials
+FCUSD Vice President Jen Laret
+FCUSD Board Member David Reid
+SJUSD Vice President Saul Hernandez
+SJUSD Board Member Ben Avey
+SJUSD Board Member Tanya Kravchuk
+SJUSD Board Member Manuel Perez
+TRUSD Board Member Michael Baker
+TRUSD Board Member Michelle Rivas (ret.)
+NUSD Board Member Micah Grant
+SCOE Board Member Paul Keefer
+PCOE Board Member David Patterson
+PCOE Board Member Jan Pinney
+PCOE Board Member Sergey Terebkov
+Los Rios Community College District Trustee John Knight
+Sierra Community College District Trustee Jerry Simmons (ret.)
+Organizations
+Howard Jarvis Taxpayers Association
+Crime Victims United
+California Coalition of Law Enforcement Associations
+California Police Chiefs Association
+Peace Officers Research Association of California
+California Correctional Peace Officers Association
+California Association of Highway Patrolmen
+Sacramento County Deputy Sheriffs Association
+Folsom Police Officers Association
+Folsom Police Middle Management Association
+Sacramento Police Officers Association
+California Republican Party
+Sacramento County Republican Party
+Sacramento Republican Assembly
+Capital Lincoln Club
+Young Republicans of Greater Sacramento
+American Independent Party
+California Professional Firefighters Association
+Sacramento Area Firefighters Local 522
+CAL FIRE Local 2881
+NorCal Carpenters Union
+Sheet Metal Workers Local Union No. 104
+Northern California District Council of Laborers Local 185
+Professional Engineers in California Government
+Sacramento Regional Builders Exchange
+Association of California State Supervisors
+Sacramento Metro Chamber of Commerce
+Folsom Chamber of Commerce
+Rancho Cordova Chamber of Commerce
+California Hispanic Chamber of Commerce
+Sacramento Hispanic Chamber of Commerce
+California Rifle & Pistol Association
+National Rifle Association
+Empower PAC
+CalAsian PAC
+California Nations Indian Gaming Association
+California Women’s Leadership Association
+California Parents United
+California YIMBY

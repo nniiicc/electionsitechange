@@ -1,0 +1,2 @@
+Macy is among a small number of candidates trying to prove that Democrats can win back the House not just by contesting swing districts in the nation’s suburbs and industrial cities but by talking and listening to the rural voters who have bolted the party over the last 25 years.
+Read the full article here: https://www.nytimes.com/2026/07/14/us/politics/rural-democrats-midterms.html?unlocked_article_code=1.xlA.7zC_.xsMz_h0E49pT&smid=url-share

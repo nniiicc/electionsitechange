@@ -1,0 +1,255 @@
+Endorsements
+State Senator Angela Paxton
+State Senator Bob Hall
+State Senator Mayes Middleton
+State Representative Brian Harrison
+State Representative Nate Schatzline
+State Representative Steve Toth
+Former State Senator Don Huffines
+State Representative Tony Tinderholt
+Matt Rinaldi, Chair of the Republican Party of Texas
+Sid Miller, Commissioner of Agriculture
+Cindi Castilla, President of Texas Eagle Forum
+JoAnn Fleming, Executive Director of Grassroots America
+Ted Nugent
+- John and Aaron Adel
+- Layne and Rebekah Alvarado
+- Daniel Amaya
+- Jose Amaya
+- Matt and Shanna Anderson
+- Paul and Karen Armstrong
+- Al Atkins
+- Bill and Jill Baker
+- Geoff and Christine Baker
+- Brandon and Ericha Barker
+- Morris and Kendra Beene
+- Adam and Laura Beene
+- Shellie Bjork
+- Emily Blankinship
+- Robert and Leanne Bledsoe
+- Nathan and Shayna Boatman
+- Wade and Julie Boggs
+- Alex and Cara Boles
+- Jason and Stacy Brantner
+- Matt Bray
+- Cherry Brown
+- Wes Brumit
+- Rebecca Budjenska
+- Mario and Kimberly Bueso
+- Carol Burchfield
+- Zach Burgin
+- Lori Butler
+- Brad and Lindsay Byers
+- Mike and Linda Cardwell
+- Kyle and Lindsey Carlson
+- Chasen Carpenter
+- Jane Carrier
+- Gary and Carol Carroll
+- Phillip and Emma “Casselton” Cummins
+- Justin and Sonya Cathey
+- Ethan and Sarah Childress
+- Mark and Jennifer Christopher
+- Dave and Dina Claude
+- Aaron and Britny Cleveland
+- Ben and Angela Collins, Gracie and Owen
+- CJ and Haley Cottey
+- Jesse and Adalyn Crabtree
+- Charmin Cranfill
+- Manning “Buddy” Crump
+- Don and Jennifer Crump
+- Colton and Caroline Cummings
+- Gary and Tonya Cummings
+- Lynn and Cam Daniel
+- Charles and Catherine Davidson
+- Hugh and Betty Davis
+- Joe and Lexi Dean
+- Daken and Dennisha Denney
+- Joel and Sally Derrough
+- Bryce Dodd and Kaylyn Wolfe
+- Daniel and Leann Donaldson
+- Dave and Toni Dreiling
+- Lonnie Duke
+- Rev.
+Phillip Dukes
+- Jimmy El Zorkani and Mandy Stewart
+- Scott and Jamie Ellis
+- Roger England
+- James Evans
+- Brandon and Raigan Fauley
+- David and Whittney Ferguson
+- Greg and Tracey Fields
+- Kenneth and Jennifer Fifield
+- Cody Flora
+- Brad and Erin Galyean
+- Duane and Lynne Garcia
+- Duane and Stephanie Gaulden
+- Suenan Gober
+- Jim and JoAnn Goddard
+- Trevor and Jenny Goodman
+- Bubba and Misty Goodwin
+- John and Holly Gotcher
+- Aaron and Stephanie Hamilton
+- Elaine Hamilton
+- Alex and Francesca Hammons
+- Tracy and Ashley Hammons
+- Mary Harris
+- Cody and Sarah Helm
+- Patty Hendricks
+- Cheston Henry
+- John and Nancy Henson
+- Jon and Ali Herbert
+- Kathy Hobbs
+- Kent and Sherry Holland
+- RW and Christina Holleman and Mally
+- Cole and Mhairi Holleman
+- Elisha and Hannah Hollis
+- Ray and Andrea Howell
+- Stephen and Lori Howell
+- BJ Hudson
+- Audra Huie
+- Josh and Katie Hull
+- Jeff and Debbie Jones
+- Danny and Chelle Jones
+- Lanny and Allison Jones
+- Charles and Laura Kennemer
+- Jim and Retha Kilgore
+- Steve and Barbara Knox
+- Matthew and Ashleigh LaBrot
+- Doug and Sherry Latimer
+- Nathan Layman
+- Ryan and Alisha Litchfield
+- Siri Livengood
+- Ron Livingston
+- Adam and Carrie Luna
+- Kenny and Abby Luna
+- John and Jeni Lynch
+- Annette Mahan
+- Sandra Marak
+- Keith and Tracey Marble
+- Chase and Laci Martin
+- Dennis and Viola Mathis
+- Phillip and Gail May
+- Landon and Arian May
+- Jordan and Ali May
+- Dr.
+Michelle McCarthy
+- Cory and Valerie McClendon
+- Emma McClendon
+- Larry and Carolyn McCullough
+- Alan and Jessica McDonald
+- Ashton McGee
+- Dave and Rae McIlrath
+- Todd and Dawnel McNellis
+- Matt and Dr.
+Jennifer McWhorter
+- Fabian and Sarah Mendoza
+- Josh and Catherine Miller
+- Tony Miramontes
+- Ken and Mitzi Money
+- Dale and Cecilia Money
+- Daniel and Chris Money
+- Mitchell and Laura Money
+- Curtis and Dawn Money and Colten
+- Aaron and Cassidy Money
+- Patrick and Kristin Money
+- Timothy Money
+- Brent and Heidi Money and Andrew
+- Daren and Angelia Money
+- Jeffrey Money
+- Kevin and Sarah Money
+- Terry Money
+- Cody and Mason Morgan
+- Franky and Gina Morgan
+- Gerry and Mary Jane Morris
+- Jim and Jean Morris
+- Wayne and Maria Morris
+- Chuck and Marilyn Morrow
+- Dwain and Melanie Moyer
+- Dr.
+Jeff and Beth Nelson
+- Kyle and Kaci Nelson
+- Zach and Chandler Nichols
+- Joseph and Sarah Northcutt
+- Tom and Sharon Oliver
+- Kevin and DJ Ortman
+- Tom and Laura Osteen
+- Jeff and Ginevera Ott
+- Lesley Overstreet
+- Buddy and Correne Oxford
+- Gary and Dede Oxley
+- Troy and Alice Parsons
+- Susan Partridge-Metz
+- Neil and Lauren Payne
+- Clay and Corrie Petzold
+- Jeff and Melinda Phillips
+- Brad and Allison Pletcher
+- Levi and Jessica Pope
+- Ashton Porter
+- Scott and Polly Potter
+- Travis and Andrea Potter
+- Austin Rachel
+- Tony and Debbie Ramey
+- Victoria Ramirez
+- Juan Ramos
+- Kasey Raulston
+- David and Kristi Renshaw
+- Ron Rogers
+- Jeff and Krisha Rogerson
+- Joy Romo
+- Zach Romo
+- Jan Rosenbalm
+- Klint and Jennifer Rybicki
+- Dr.
+Terry and Threesa Sadler, Kaitlyn and Sidney
+- Patrice Salazar
+- Christopher and Jennifer Samples
+- Dr.
+Jim and Fran Sandin
+- Brian and Leah Sandlin
+- Lonny “Lonny J” Schonfeld
+- Carolyn Scott
+- John and Laura Selph
+- Aaron and Christa Sherman
+- Tom and Kathy Shirey
+- Cliff Shomette
+- Jeff and Pam Simmons
+- Adam Slaughter
+- Joshua and Sara Slinkard
+- Alanna Smith
+- Blaine and Pat Smith
+- Pat Smith
+- Eulus Smith
+- Scott Smith
+- James and Jennifer Snyder
+- Mike Southerland
+- Doug and Karen Speed
+- Chad and Samantha Speir
+- Jeff and Robin Stevens
+- Daniel and Heather Stovall
+- Robert and Verna Stutzman
+- Randy and Paula Talley
+- Randy and Judy Tarpley
+- Don Tarrant
+- Daniel and Shaquetta Taylor
+- Barbara Thomas
+- Joe and Karen Thomason
+- Kevin and Audra Tibboel
+- Alan and Barbara Timberlake
+- Matthew and Amy Timberlake
+- Shelby and Melanie Tippit
+- Sam and Chelsey Tippit
+- Will and Brandy Traverse
+- Barbara Underwood
+- Steve and Kathryn Vaughn
+- Beni and Susan Vega
+- Cody and Gwen Wacasey
+- Jeff and Amy Wade
+- Mike and Amanda Wallis
+- Carole Watson
+- Tom and Nancy Wensel
+- Eric and Mary Wesson
+- Johnny Willaby and Amy Learned
+- Tracy and Teri Willaby
+- Zane and Laci Willhite
+- Jeffrie and Brittany Wilson
+- Ronald and Jacque Wimberley

@@ -1,0 +1,123 @@
+Endorsements
+FEATURED ENDORSEMENTS
+COMMUNITY ENDORSEMENTS
+- Phil Rockefeller WA State Senator & State Rep (Fmr)
+- Julius "Doc" Blackwell Founder, DocLuvTheKids
+- Judge Jay Roof Kitsap Superior Court Judge (Ret)
+- Joan Hanten President, Olympic College (Fmr)
+- Capt.
+Tom Zwolfer U.S.
+Navy (ret), Former Commander Naval Base Kitsap
+- Gary McVey Poulsbo City Councilmember
+- Kirstin Hytopoulos Deputy Mayor & Councilmember, Former Mayor, Bainbridge Island
+- Patty Lent Bremerton Mayor & Kitsap County Commissioner (Fmr)
+- Denita Holmes Community Leader
+- Doug Newell Poulsbo City Councilmember
+- Anne Blair Bainbridge Island Mayor & City Councilmember (Fmr)
+- John Morrissey Mayor Pro Tem & Port Orchard City Councilmember
+- Meredith Green Kitsap County Treasurer (Fmr)
+- Ed Wolfe Kitsap County Commissioner (Fmr)
+- Alanna Imbach Community Leader & Business Owner
+- James Kennedy Jefferson County Prosecuting Attorney
+- Jewel Shepherd Sampson Community Leader & Business Owner
+- David Emmons Kitsap Business Leader
+- Irene Moyer Community Leader
+- Gary Simpson Kitsap County Sheriff (Fmr)
+- Shirah Dedman Port Orchard City Councilmember
+- Rick Eckert Poulsbo City Councilmember
+- Doug Taber Poulsbo City Councilmember
+- Aljolynn Sperber Tourism Leader
+- Dan Weedin Community Leader
+- James Weaver Community Leader
+- Curtis Vincent Community Leader
+- Jeff Ozimek Poulsbo Civic Leader
+- Dr.
+John Gibbons President, WA Dental Association (Fmr)
+- Wayne R Gulla Chief of Patrol, Kitsap County Sheriffs Office (ret)
+- Miranda Smallwood Community Leader
+- Harlan Harris Community Leader
+- Jon Rose KEDA Board Member
+- Laura Heft Community Leader
+- Danielle Turner Community Leader
+- Alanna Imbach, Community Leader & Business Owner
+- Aljolynn Sperber, Tourism Leader
+- Ardis Morrow, Poulsbo Community Icon
+- Branden Doyle, CEO Violett
+- Carol Kowalski, Community Leader
+- Charles Keating, Community Leader
+- Cheryl Harris, Community Leader
+- Chris Endresen Scott, Kitsap County Commissioner & Poulsbo City Councilmember (Fmr)
+- Cindy Garfein, Community Leader
+- Clint Boxman, Kingston Community Leader
+- Curtis Vincent, Poulsbo Community Leader
+- Dan Weedin, Community Leader
+- Danielle Turner, Community Leader
+- Darren Smith, Community Member
+- David Emmons, President & CEO Greater Kitsap Chamber (Fmr)
+- David Hedderly-Smith, Community Leader
+- Denita Holmes, Community Leader
+- Dianna Riggins, Owner Riggins Enterprises
+- Dr.
+Steve Lordon, Community Leader
+- Doña Keating, Community Leader
+- Doug Newell, Poulsbo City Council
+- Doug Taber, Poulsbo City Council
+- Ed Stern, Mayor of Poulsbo
+- Ed Wolfe, Kitsap County Commissioner (Fmr)
+- Eldon Johansen, Community Member
+- Gary Simpson, Kitsap County Sheriff (Fmr)
+- Harlan Harris, Community Leader
+- Irene Moyer, Community Business Leader
+- James Kennedy, Jefferson County Prosecuting Attorney
+- James Weaver, Community Leader
+- Jay Roof, Kitsap Superior Court Judge (Ret)
+- Jeff Ozimek, Poulsbo Civic Leader
+- Jeffrey Menge, Law Enforcement & Fmr.
+President of Leadership Kitsap
+- Jen Markaryan, Community Leader
+- Jerry Deeter, Community Leader
+- Jerry Hebert, WA.
+State Human Rights Commissioner (Fmr)
+- Jewel Shepard Sampson, Community Leader & Business Owner
+- Jim Schlachter, Community Leader
+- Joan Hanten, President of Olympic College (Fmr)
+- Joe Hulsey, Community Leader
+- Joey Holmes, Native American Advocate
+- John Altman, Community Member
+- John Willett, Community Leader, Sports Safety and Education Association
+- John Butler, Community Leader
+- Dr.
+John Gibbons, President WA State Dental Association (Fmr)
+- Julius “Doc” Blackwell, DocLuvTheKids Founder
+- Justin Black, Poulsbo Police Officer
+- Kerrie Houston Reightley, Community Member
+- Kevin Campbell, Small Business Owner
+- KJ Lange, Greater Kitsap Chamber of Commerce Member
+- Laura Gronnvoll, Kingston Community Leader
+- Laura Heft, Community Member
+- Leah Persinger, Small Business Owner
+- Les Williams, Community Member
+- Margene Smaaladen, Community Leader
+- Mary Gorman, Community Leader
+- Megan Boxman, Community Leader
+- Merrill Keating, Startup Co-Founder & Youth Leader
+- Michael Grant, Kitsap County Sheriff's Detective (ret)
+- Mike Perry, Marine Veteran & Small Business Owner
+- Miranda Smallwood, Community & Education Leader
+- Nick Johnson, Creative Producer - Libro.fm
+- Nicolas Duchastel de Montrouge, Community Member
+- Pat VanDeist, Community Leader
+- Phil Rockefeller, WA State Senator & State Rep (Fmr)
+- Rand Hillier, Community Icon
+- Ron Erickson, Bainbridge Community Member
+- Ruth Gordon, Jefferson County Clerk (Ret)
+- Ryan Snook, Lifelong Bremerton Resident
+- Siri Bjarnson Reinbold, NKSD Teacher
+- Skylar Olsen, Chief Economist, Frolic
+- Steve Garfein, Community Leader
+- Suzanne Eckmann, Community Leader
+- Tiffany Attrill, 2024 Candidate for State Representative for Legislative District 23
+- Tommy Debord, Founder, Tommy’s Story Hour
+- Tom Eckmann, Community Leader
+- Tom O’Hare, Poulsbo Rotary Charter Member
+- Tom Wolfe, Bremerton Community Leader

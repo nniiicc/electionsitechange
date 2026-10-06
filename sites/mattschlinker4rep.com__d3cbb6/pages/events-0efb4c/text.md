@@ -1,0 +1,2 @@
+Events Join us!
+Voter Outreach June 3, 2026 Davison Festival of Flags 12:00pm See event info Voter Outreach June 5, 2026 Back to the Bricks Promotional Tour 5PM See event info Voter Outreach June 11, 2026 Genesee County Democratic Party Meeting 6PM See event info Voter Outreach June 26, 2026 Cruisin’ Main Street Davison 6-8pm See event info Voter Outreach July 9, 2026 Genesee Democrats Barbeque Fundraiser 6PM See event info FUNDRAISER July 15, 2026 Fundraiser at Tia Helita’s 5PM - 7 PM See event info

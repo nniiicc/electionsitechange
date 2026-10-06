@@ -1,0 +1,12 @@
+Meet Carolann
+"I am running because I believe this moment calls for leadership that brings people together, not divides them further."
+Carolann Reid is a proven advocate for working families with more than 20 years of experience strengthening local economies and expanding opportunity.
+A respected leader in workforce development, she has dedicated her career to building bridges between people and opportunity and delivering real, measurable results for the communities she serves.
+Carolann believes a strong workforce is the foundation of thriving communities.
+She has worked with local businesses, schools, and community organizations to ensure residents have access to the skills, training, and support they need to succeed in a changing economy.
+As she often says, “I’m a Democrat who believes progress happens when we listen to each other and work together, no matter our party.” Her approach is practical and collaborative, focused on accountability, economic growth, and ensuring that no one is left behind as our communities move forward.
+Carolann is committed to creating clear pathways to success for residents of Monroe, Seymour, Shelton, and Stratford.
+Her work focuses on connecting families to quality careers, strengthening partnerships between education and industry, and helping residents gain the tools they need to build stable and prosperous futures.
+She holds a Master of Social Work from Fordham University, a background that informs her people-first approach to leadership.
+Carolann brings professional expertise, common sense, and a deep commitment to community to the work of building a stronger future for every family in the district.
+"I am running to restore trust in local leadership and to ensure that Monroe, Seymour, Shelton, and Stratford move forward together."

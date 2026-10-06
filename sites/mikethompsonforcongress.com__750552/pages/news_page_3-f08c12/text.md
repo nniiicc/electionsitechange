@@ -1,0 +1,1 @@
+Davis, CA – Today, Congressman Mike Thompson’s campaign rolled out its first TV ad with a districtwide buy including broadcast, cable, and streaming services with a focus on his work to stand up to Donald Trump and to lower costs for working families and farmers.

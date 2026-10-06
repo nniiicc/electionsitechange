@@ -1,0 +1,12 @@
+Carson City Sheriff Ken Furlong Endorses Sheriff Joe Lombardo for Governor
+May 17, 2022
+CARSON CITY, NV – Today, Carson City Sheriff Ken Furlong announced his endorsement of Sheriff Joe Lombardo for Nevada governor.
+"As the Sheriff of Carson City, I can tell you that we would benefit from having another sheriff in town – and that's Sheriff Joe Lombardo in the governor's office,” said Sheriff Furlong.
+“Sheriff Lombardo is a time-tested leader and dedicated law enforcement officer.
+There is no one better equipped to lead our state than Sheriff Lombardo, and I'm proud to stand by him.
+I'm excited to endorse Sheriff Lombardo to be our next governor, and I hope he's with me in Carson City next year."
+“I’m grateful to receive Sheriff Furlong’s endorsement today,” said Sheriff Lombardo.
+“A veteran and a sheriff of nearly 20 years, Sheriff Furlong understands the pressing challenges facing our state and law enforcement today, and I’m thankful for his confidence in my ability to bring a clear vision and new direction to Carson City.
+Nevadans are eager for reliable leadership that can protect our families and better our communities, and I’m ready to do just that as governor.”
+Nevadans can learn more about Joe at www.joelombardofornv.com and by following him on Facebook, Twitter, Instagram, and YouTube.
+###

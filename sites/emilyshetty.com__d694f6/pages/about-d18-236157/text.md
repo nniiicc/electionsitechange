@@ -1,0 +1,4 @@
+About District 18
+District 18 is a vibrant, diverse suburban community within Montgomery County that borders Washington, DC, and contains over 121,000 residents in nine incorporated towns and villages and many vibrant communities and neighborhoods.
+We are also fortunate to be among the most diverse communities in the state, with a large Latino immigrant community composing over 24% of our district.
+The district includes the towns of Chevy Chase, Chevy Chase View, Chevy Chase Village, Garrett Park, and Kensington, and the Villages of Chevy Chase Section Five, Chevy Chase Section Three, Martin’s Additions, and North Chevy Chase, as well as portions of Wheaton, Lyttonsville, Rosemary Hills, Bethesda, Chevy Chase, Forest Glen, Glenmont, Kemp Mill, North Bethesda, North Kensington, Silver Spring, and South Kensington.

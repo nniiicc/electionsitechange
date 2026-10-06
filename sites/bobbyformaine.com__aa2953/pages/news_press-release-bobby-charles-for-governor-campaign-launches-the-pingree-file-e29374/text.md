@@ -1,0 +1,16 @@
+PRESS RELEASE: Bobby Charles for Governor Campaign Launches “The Pingree Files” to Expose Hannah Pingree’s Failed Record as an Augusta Insider
+New Website -- The Pingree Files -- Launches to Hold Pingree Accountable
+AUGUSTA, ME — Today, the Bobby Charles for Governor campaign announced the official launch of a new accountability website, ThePingreeFiles.com.
+The platform is designed to provide Maine voters with an unfiltered look at the disappointing political record of Augusta insider Hannah Pingree as she asks voters for a promotion to the state's highest office.
+At the center of the new website is a glaring example of political cronyism: a new office that former Governor Janet Mills specifically built for Pingree, which paid her more than $600,000 while she was there at a cost to taxpayers of $14 million to run.
+Despite the exorbitant cost to hardworking Maine taxpayers, Pingree’s tenure in this position delivered zero measurable results.
+"The Pingree Files" aims to peel back the curtain on this waste and hold Pingree accountable for her long track record as a failed Augusta insider.
+"Mainers are tired of the same old political games where well-connected insiders get rewarded with cushy, taxpayer-funded jobs while everyday families struggle to make ends meet," said Bobby Charles.
+"Hannah Pingree wants to be Maine's next governor, but her record proves she is exactly what is wrong with Augusta politics.
+We launched ThePingreeFiles.com because the voters of this state deserve total transparency.
+Before anyone considers electing her, they need to look closely at the $600,000 boondoggle she presided over with absolutely nothing to show for it."
+The newly unveiled website will serve as a living repository of public records and factual analysis documenting Pingree’s tenure.
+The Charles campaign encourages all voters, government watchdogs, and members of the press to visit the site and review the facts for themselves.
+As the race for governor heats up, the Bobby Charles campaign remains committed to bringing genuine, results-driven leadership to Maine, ending the era of insider back-scratching, and ensuring that taxpayer dollars are treated with the respect they deserve.
+For more information, to read the complete record, and to review the facts,
+please visit https://ThePingreeFiles.com/.

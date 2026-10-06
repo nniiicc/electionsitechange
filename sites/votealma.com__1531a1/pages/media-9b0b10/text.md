@@ -1,0 +1,12 @@
+NEWS ARTICLES
+Good Morning Wilton – Alma Sarelli, a member of Westport’s Representative Town Meeting (RTM)…………Read More
+Oculus News – A powerful new chapter begins — one that resonates far beyond local politics and……………...Read More
+Patch – Alma Sarelli, a member of Westport’s Representative Town Meeting, has…………...Read More
+Dan Woog’s 06880 – Alma Sarelli has joined the race to succeed Ceci Maher, as state senator from…………...Read More
+NewsBreak – Alma Sarelli, a member of Westport’s Representative Town Meeting (RTM), today……..Read More
+September 14, 2026: Good Morning Wilton - Wilton State Senate Debate Canceled; League Says Candidate Never Responded to Invitations......Read More
+PRESS RELEASES
+September 15, 2026 - Independent Party Endorses Alma Sarelli for Connecticut State Senate........Read More
+September 15, 2026 - Sarelli Responds to Good Morning Wilton Article on Debate Cancellation.........Read More
+RADIO
+Lisa Wexler Show – Click to Listen

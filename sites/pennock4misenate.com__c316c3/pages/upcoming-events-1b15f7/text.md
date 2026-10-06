@@ -1,0 +1,75 @@
+Upcoming Events
+Political Trivia Night
+Think you know your politics?
+Put your knowledge to the test while supporting a great cause!
+Join us for Political Trivia Night, a fun evening of friendly competition, great prizes, and community—all while helping elect Anthony Pennock to the Michigan State Senate.
+Saturday, September 26
+5:30–7:30 PM
+Barry County Democratic Office
+123 W.
+State St., Unit C, Hastings, MI 49058
+$20 suggested donation
+Bring your friends, form a team (or come solo!), enjoy food and drinks, compete for prizes, and support a campaign focused on real leadership for working people.
+Every dollar raised helps us reach more voters across Southwest Michigan as we continue building momentum for November.
+Battle Creek Pride Festival
+The celebration continues!
+Following the energy of Friday night's parade, Anthony and Team Pennock are heading over to the Leila Arboretum on Saturday for the annual Battle Creek Pride Festival.
+We want you, your family, and your friends to come out and spend the day with us!
+Battle Creek Pride Parade
+There is nothing quite like the energy of our hometown coming together in unity, color, and joy!
+Anthony and Team Pennock are absolutely thrilled to be marching in the annual Battle Creek Pride Parade, and we want you to grab a shirt, grab a flag, and walk right alongside us through the heart of downtown!
+Want to walk with Anthony, wave to neighbors, and help pass out Team Pennock materials?
+We want a big, energetic crew!
+Sign up below to get the exact staging area details and lineup times.
+Battle Creek Juneteenth Celebration
+Juneteenth is a powerful celebration of freedom, resilience, and the rich history of our community.
+Battle Creek has a deep legacy of standing up for human dignity—from our roots on the Underground Railroad to the generations of advocates who shape our city today.
+Anthony is thrilled to join neighbors, local families, and organizers for the annual Juneteenth Family Day celebration at Claude Evans Park, and he wants you there celebrating alongside him!
+Kalamazoo County Democratic Party Monthly Meeting
+Grassroots energy is what drives real structural reform, and that energy starts right here in our local party rooms.
+Anthony is headed to the Kalamazoo County Democratic Party meeting on June 17th, and he wants you there standing with him!
+Barry County Chamber and Economic Development Alliance Forum
+A strong local economy is built on accountability, smart systems, and community-led collaboration.
+That is why Anthony is headed to the Barry County Chamber and Economic Development Alliance Forum on June 15th—and he wants you to join him in the room!
+Marshall Pride
+A thriving community is one where every single neighbor—no matter who you are or who you love—feels safe, valued, and welcome.
+That is why Anthony and the team are so excited to head out to the Marshall Pride Festival, and we want you to come walk, celebrate, and stand with us!
+We’ll have a Team Pennock campaign table set up all day!
+Swing by to talk policy, grab some campaign gear, or just catch up with Anthony.
+Lowell Pride
+Building a stronger, fairer Michigan means ensuring that every single community—from our largest cities to our cherished small towns—is a place where everyone can live authentically, safely, and with dignity.
+That is why Anthony and the team are kicking off June by heading over to the 6th Annual Lowell Pride Festival, and we want you there standing proud with us!
+Candidate Meet and Greet
+We’re bringing the campaign to New Holland Brewing in Battle Creek!
+Whether you have a specific question about the economy, education, or government accountability or just want to see if Anthony is the right fit for your vote, stop by on May 9th from 1:00PM-4:00PM.
+Sometimes the best conversations are over a pint!
+Parent Choice Drag Story Hour Fundraiser
+Across our Senate District, we take pride in our independence.
+We believe that parents, not politicians or outside agitators, are the best ones to decide what experiences, stories, and values are right for their own children.
+That is why our campaign is hosting a Parent Choice Drag Story Hour with Meet and Greet.
+This event is about more than just an afternoon of reading and costumes.
+It’s about a fundamental value: The freedom of choice.
+Lately, we’ve seen a rise in "government-knows-best" politics - people who want to ban books, restrict libraries, and tell you how to raise your family.
+I’m running for State Senate because I believe in a different path.
+I believe in a community that offers a seat at the table for everyone, and then trusts you to decide which seat your family takes.
+When you donate to this event, you are showing your support for a candidate who will fight for a parent's right to choose inclusive, joyful education for their kids.
+We Care Lowell: Education Solutions in MI
+Join Dr.
+Anthony Pennock as he addresses We Care of Lowell Indivisible for a conversation about the future of education in Michigan.
+As a researcher, special educator, and union leader, Anthony brings a unique perspective on our current educational climate and the hard reality of the data.
+He will discuss how we move forward by prioritizing support for students and educators, rather than the 'high-stakes accountability' measures that have left our schools underfunded and our teachers overextended.
+Kent County Democratic Party Social Hour
+Are you a member of the Kent County Democratic Party?
+If so, then join Anthony on Wednesday, April 8th from 6:00pm - 7:00pm for a Social Hour before the KCDP business meeting!
+Calhoun County Coffee Hour - Battle Creek
+Join Anthony at the Calhoun County Coffee Hour at the Columbia Avenue Biggby in Battle Creek!
+Share your concerns, learn about the campaign, and join our movement for all working people!
+Barry County Coffee Hour - Delton
+Join Anthony at the Barry County Coffee Hour at The Local Grind in Delton!
+Share your concerns, learn about the campaign, and join our movement for all working people!
+Battle Creek Coffee Hour with Jim Haadsma
+Join Anthony and Jim at Mr.
+Don’s in Battle Creek for an update on the campaign and to share your concerns as well as ask the candidates questions.
+Kent County Coffee Hour - Caledonia
+Join Anthony at the Kent County Coffee Hour at the Caledonia Biggby, 6426 100th St SE!
+Share your concerns, learn about the campaign, and join our movement for all working people!

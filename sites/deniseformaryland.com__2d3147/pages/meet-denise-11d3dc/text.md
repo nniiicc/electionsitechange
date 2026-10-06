@@ -1,0 +1,85 @@
+MEET DENISE ROBERTS
+Deputy Majority Whip | District 25 | Economic Matters Committee
+1st Vice President, Women Legislators of Maryland | Co-Chair, Black Wealth Committee, Legislative Black Caucus of Maryland
+WHY I'M RUNNING
+I am running for my 1st term election because District 25 deserves a leader who does not just show up — she shows out.
+A leader who understands that real change requires more than good intentions.
+It takes grit, strategy, and relentless follow-through.
+In three legislative sessions in Annapolis I have passed bills, secured budget funding, stopped harmful legislation, and built coalitions that deliver results for this community.
+I am not getting started.
+I am hitting my stride.
+I am fighting for small businesses that power our economy, students who deserve world-class education, families navigating a broken housing system, and communities that need economic opportunity — not empty promises.
+This is a movement.
+And we're building better together.
+WHO I AM
+Denise G.
+Roberts was sworn into the Maryland House of Delegates on January 8, 2024, representing District 25 — Kettering, Largo, Mitchellville, Upper Marlboro, District Heights, Capitol Heights, Suitland, Morningside, Clinton, and Temple Hills.
+Appointed to fill the House seat of Senator Nick Charles when he moved to the Maryland Senate, Denise hit the ground running and earned leadership roles as Deputy Majority Whip, 1st Vice President of the Women Legislators of Maryland, and Founder of the B-Real Caucus — a coalition of Black women legislators in real estate and collectively review housing legislation to ensure their votes come from real experience, not just talking points.
+A lifelong Prince Georgian and proud graduate of Suitland High School, Denise earned her B.A. in Communications from Howard University — where she was later honored with the 2024 Howard University Leadership and Service Award and appointed to the Howard University Graduate School Board of Visitors in 2026 — and her M.A. in Public Relations from American University.
+EXPERIENCE THAT DELIVERS
+Denise brings over 25 years of public service, entrepreneurship, and community advocacy to everything she does in Annapolis.
+Her 21 years in Prince George's County government include serving as Communications Director in the Office of the State's Attorney, Outreach and Training Manager for the Supplier Diversity Office where she trained over 16,000 businesses and increased the county's customer base by 30 percent during tough economic times, and Press Information Officer in the Office of the County Executive.
+As Founder and CEO of D.Geneva Photography LLC and D.Geneva Consulting LLC, she is a small business executive who does not just champion entrepreneurs — she is one.
+Denise currently hosts "Community Uplift," a community-based television show sponsored by the Gamma Pi Chapter of Omega Psi Phi Fraternity Inc.
+She is also the host of "Level Up," a business show for entrepreneurs, and "Standing on Business with Denise Roberts," a podcast bringing together influential voices in business, finance, and politics for real conversations on issues affecting minority and small businesses.
+She serves on the Board of Directors for The Arc of Prince George's County, advocating for individuals with intellectual and developmental disabilities, and on the Board of Directors for Creative Solutions 4 Youth, a nonprofit dedicated to youth development and student safety.
+She also serves on the Howard University Graduate School's Board of Visitors, Women of Prince George's Advisory Board and is a member of Leadership Prince George's and an active member of Delta Sigma Theta Sorority Inc.
+Denise resides in Upper Marlboro, Maryland, and is a devoted mother of two.
+She and her family are members of Kingdom Fellowship AME Church, formerly Reid Temple North.
+SERVING WITH PURPOSE
+IN ANNAPOLIS
+A Complete Legislative Record
+2024 Legislative Session
+Passed HB1076 — Textbook Equity for Blind and Low Vision Students.
+Ensures that blind, low vision, and all students with learning plans receive accessible instructional materials on time, just like their peers.
+This bill earned Delegate Roberts the National Federation for the Blind's 2025 Legislator of the Year award.
+Passed HB1503 — Campaign Finance Reform.
+Election law legislation addressing state treasurer fundraising restrictions, strengthening accountability in Maryland campaign finance.
+$125,000 Budget Allocation — Food is Medicine Program.
+Secured a one-time $125,000 budget investment for the University of Maryland Capital Region Medical Center's Food is Medicine program, delivering critical nutrition support to patients managing chronic illness.
+Accomplished through the budget process — because results do not always require a bill number.
+2025 Legislative Session
+Sponsored and Advanced HB1527 — Illegal Dumping Enforcement for Prince George's County.
+Now law.
+Our county is now able to reward residents who submit video evidence of illegal dumping with up to 50 percent of the collected fine if the footage results in a conviction.
+A direct community incentive for keeping Prince George's County clean.
+Sponsored and Advanced HB1057 — Department of Human Services Study on Private Treatment Foster Care Homes.
+The Senate cross-file passed and was sent to the Governor's desk, ensuring private treatment foster care providers receive fair and equitable support, accomplished through the budget process, not through legislation, demonstrating that results do not require a bill number.
+2026 Legislative Session
+Passed HB1029 — Residential Real Estate Contract Contingency Clauses.
+Passed the full House of Delegates 126 to 0.
+Unanimous.
+Protects homebuyers' rights during real estate transactions across Maryland.
+$100,000 Legislative Appropriation — Level Up Small Business Technical Assistance Program.
+Secured a $100,000 legislative appropriation to support the implementation and expansion of the Level Up Small Business Technical Assistance Program, administered by FSC First.
+This investment strengthens capital readiness, technical assistance, and business development services for small businesses and entrepreneurs in Prince George's County.
+It expands outreach and engagement, increases staff capacity, improves program delivery and operational infrastructure, and promotes long-term economic mobility and resilience within our small business community.
+This is economic development that reaches our community, not just happens near it.
+Carried HB1097 — Sports Injury Recordkeeping.
+Passed the House of Delegates 118 to 18.
+Strengthens protections for student athletes through improved injury documentation and reporting standards.
+Advanced HB1445 — Continuity of Care for Seniors legislation.
+Although introduced as a standalone bill, its provisions were absorbed into SB742, which passed and was sent to the Governor's desk.
+The policy goal was achieved.
+BUILDING BETTER TOGETHER
+CORE VALUES AND ACCOMPLISHMENTS
+Denise is an accomplished leader who rolls up her sleeves and gets results.
+She's bold, compassionate, and doesn't stop until the work is done.
+Her track record speaks for itself:
+Deputy Majority Whip — House floor leadership under the new Speaker
+1st Vice President, Women Legislators of Maryland — Representing the collective voice of Maryland's women legislators
+Founder, B-Real Caucus — Leading balanced, experience-based housing policy conversations in Annapolis
+National Federation for the Blind 2025 Legislator of the Year
+Howard University 2024 Leadership and Service Award
+Appointed to the Howard University Graduate School Board of Visitors — 2026
+Six pieces of legislation passed or advanced across three legislative sessions
+$125,000 secured in the state budget for community health outside the bill process
+Secured $100,000 legislative appropriation for the Level Up Small Business Technical Assistance Program administered by FSC First, delivering capital readiness and business development resources to Prince George's County entrepreneurs.
+Over $140,000 in District 25 college scholarships awarded to students in our community
+Launched Hustle HQ — A first-in-the-region initiative equipping student-athletes and families with straight-talk guidance on NIL rights, compliance, and college prep
+Hosted the College Trunk Event in 2025 — Serving 50 first-time college students with resources, supplies, and support as they headed to campus
+Created Speak Up — A comprehensive public speaking program helping school-aged children develop strong communication skills and build confidence
+Trained over 16,000 small businesses — Increased Prince George's County's Supplier Diversity customer base by 30 percent during tough economic times
+Serves on the Board of Directors for The Arc of Prince George's County and Creative Solutions 4 Youth
+“WE HAVE TO REALIZE WE’RE BUILDING A MOVEMENT!”
+DOROTHY HEIGHT

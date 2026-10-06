@@ -1,0 +1,18 @@
+Illegal Drugs/Drug Abuse
+As a “law and order” candidate, my position on illegal drugs is summed up in the word “Illegal.” However, that doesn’t mean we should not deal with the issue with compassion.
+Beyond the fact that, by definition, illegal drugs are illegal, we know that drug abuse has both social and economic consequences.
+Drug abuse on the job–and off the job–can be lethal, not only to the individual using the drugs, but to others as well.
+There are many reasons why people abuse drugs–everything from addiction due to medication and self-medication, to escape stress, to peer pressure and influence, and more.
+The issue I have with drug abuse is how destructive it is to individuals and families directly and indirectly.
+Further, the problem with drug abuse is that it frequently is complicated with other socioeconomic issues, such as increases in crime and health care costs; not to mention it is a major source of income for many crime cartels.
+If you haven’t heard the 2015 Gov.
+Chris Christie interview about addiction, take the five minutes to do so now: https://www.youtube.com/watch?v=9WziMYBeEuI .
+The illegal drug issue needs to be addressed from several angles.
+Three of the aspects of this issue that I would like to address are:
+- Regular education of our youth about drug abuse as early as possible
+- Destigmatizing drug addiction so that people who need help get the help they need
+- Prevention of the overuse/prescription of opiates
+The battle against drug abuse could be won if:
+- Our education of young people was so effective that they never abused drugs
+- As a society, we compassionately helped those who have become addicted to drug abuse
+- The healthcare industry and our healthcare providers were sufficiently empowered to safely prescribe only the amount of medication required to best help their patients.

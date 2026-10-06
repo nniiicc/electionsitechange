@@ -1,0 +1,11 @@
+Former Coachella Mayor Larry Salas Endorses Assemblyman Jeff Gonzalez for Re-Election
+INDIO, CA —The Gonzalez for Assembly campaign announced today the endorsement of Former Coachella Mayor Larry Salas, a longtime community leader and Democrat, has announced his endorsement of Assemblyman Jeff Gonzalez, highlighting Gonzalez’s commitment to putting people over party and delivering results for local students and families.
+“I’ve worked with a lot of elected officials over the years, and Jeff stands out because he shows up for our community,” said former Mayor Larry Salas.
+“He has demonstrated firsthand that he cares about our students, our families, and our future.
+Jeff doesn’t get caught up in party labels—he puts politics aside and focuses on getting the job done for the people of the Coachella Valley.”
+Assemblyman Gonzalez welcomed the endorsement and emphasized his approach to bipartisan problem-solving.
+“I’m honored to have the support of former Coachella Mayor Larry Salas,” said Assemblyman Jeff Gonzalez.
+“Larry has dedicated years of service to Coachella, and I deeply respect his leadership.
+I will always work with anyone, regardless of party to improve outcomes for our students, strengthen our communities, and make sure the Coachella Valley has a strong voice in Sacramento.”
+To learn more about Assemblyman Jeff Gonzalez and his re-election campaign, please visit www.Gonzalez4Assembly.com.
+###

@@ -1,0 +1,34 @@
+top of page
+Legislative Wins
+H.4554 An Act prohibiting discrimination based on natural hairstyles (The CROWN Act)
+Bill combats hair discrimination in Massachusetts by defining natural hairstyles in statute and prohibiting discrimination based on natural hairstyles in schools, businesses, and other public spaces in the Commonwealth.
+H.4646 An Act requiring accountability for inequities in suspension and expulsion (The RAISE Act)
+Bill addresses in-school disciplinary action that is disproportionately experienced by students of color by requiring all schools to document and attempt alternative methods before suspending or expelling students while also introducing narrower parameters for both expulsion and suspension.
+194th Legislative Session
+39
+Sponsored Legislation
+158
+Cosponsored Legislation
+H4683 An Act relative to teacher preparation and student literacy
+Bill defines evidence-based early literacy as grounded in scientific research methods, and demonstrated to produce significant and positive effects on student learning outcomes.
+H4670 An Act relative to personal financial literacy education
+Bill creates a Financial Literacy Trust Fund for educating middle- and high-school students on personal financial literacy.
+H4646 An Act enhancing child welfare protections
+Bill modernizes the Department of Children and Families’ (DCF) statutory reporting, clarifies the independence of the Office of the Child Advocate (OCA), improves educational stability for children in care, and updates the state’s child fatality review process.
+193rd Legislative Session
+H4890 An Act relative to salary range transparency
+Bill Increases equity and transparency in pay through salary range disclosure.
+It works to eliminate the gender and racial wealth gap in the Commonwealth, by requiring employers to post full salary ranges for open positions and report their demographic data to the state, so that we can accurately measure gender and race gaps by industry.
+H4672 An Act to ensure legal parentage equality
+Bill Provides a legal pathway for parentage for LGBTQ+ families and families using assisted reproduction and provides necessary updates to the legal definition of "parentage" and ensures that LGBTQ+ families and families conceived through assisted reproduction are awarded the same parental rights as any other family in the Commonwealth.
+H5033 An Act to improve quality and oversight of long-term care
+Bill reforms the long term care and assisted living sectors to deliver high quality and safe care for older residents across the commonwealth
+to provide safe and high-quality care for some of the Commonwealth's most vulnerable populations.
+192nd Legislative Session
+H5090 An Act expanding protections for reproductive and gender-affirming care
+Bill Provides legal protection to abortion providers/out-of-state patients/providers, expands access to contraceptives, and helps ensure women 24+ weeks pregnant are not forced to leave MA to access reproductive health care services
+H4805 An Act relative to work and family mobility
+Bill Allows individuals without status to acquire a driver's license after completing all required training and obtaining auto insurance and removes barriers to receiving medical care, obtaining employment, and even accessing basic necessities
+H4554 An Act prohibiting discrimination based on natural and protective hairstyles
+Bill also known as the CROWN (Creating a Respectful and Open World for Natural Hair) Act prohibits schools or athletic event discrimination based on hairstyles
+bottom of page

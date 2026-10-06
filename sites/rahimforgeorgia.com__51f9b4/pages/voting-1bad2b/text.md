@@ -1,0 +1,72 @@
+top of page
+Election Schedule
+November 3
+General Election
+Voter Activity
+Date
+Voter Registration Deadline
+October 5
+Absentee Voting/Application Period
+August 17 – October 23
+Advance Voting
+October 13 – 30 | 7:00am – 7:00pm
+Absentee Voting/Voted Ballot Deadline
+November 3 by 7:00pm
+Election Day
+November 3 | 7:00am – 7:00pm
+Advance Voting Locations
+Location
+Access to Drop Box
+Mountain Park Activity Building
+1063 Rockbridge Road, Stone Mountain
+Five Forks Branch of the Gwinnett County Public Library
+2780 Five Forks Trickum Road Southwest, Lawrenceville
+Lucky Shoals Park Community Recreation Center
+4651 Britt Road, Norcross
+Gwinnett Community Resource Center at Bethany Church Road
+Formerly OneStop Centerville
+3025 Bethany Church Road, Snellville
+Gwinnett County Voter Registrations and Elections Beauty P.
+Baldwin Building
+455 Grayson Highway, Suite 200, Lawrenceville
+Rhodes Jordan Park Community Recreation Center
+100 East Crogan Street, Lawrenceville
+Bogan Park Community Recreation Center
+2723 North Bogan Road, Buford
+Collins Hill Branch of the Gwinnett County Public Library
+455 Camp Perrin Road Northeast, Lawrenceville
+Dacula Park Activity Building
+2735 Auburn Avenue, Dacula
+George Pierce Park Recreation Center
+55 Buford Highway, Suwanee
+Gwinnett Fire Station 30
+1052 Ozora Road, Loganville
+Pinckneyville Park Community Recreation Center
+4650 Peachtree Industrial Boulevard, Berkeley Lake
+Shorty Howell Park Activity Building
+2750 Pleasant Hill Road, Duluth
+Locations
+Access to Drop Box
+Gwinnett County Board of Voter Registrations and Elections
+Beauty P.
+Baldwin Building
+455 Grayson Highway, Suite 200, Lawrenceville
+Bogan Park Community Recreation Center
+2723 North Bogan Road, Buford
+Dacula Park Activity Building
+2735 Auburn Avenue, Dacula
+George Pierce Park Community Recreation Center
+55 Buford Highway, Suwanee
+Lenora Park Gym
+4515 Lenora Church Road, Snellville
+Lucky Shoals Park Gym
+4651 Britt Road, Norcross
+Mountain Park Activity Building
+1063 Rockbridge Road, Stone Mountain
+Pinckneyville Park Community Recreation Center
+4650 Peachtree Industrial Boulevard, Berkeley Lake
+Rhodes Jordan Park Community Recreation Center
+100 E Crogan Street, Lawrenceville
+Shorty Howell Park Activity Building
+2750 Pleasant Hill Road, Duluth
+bottom of page

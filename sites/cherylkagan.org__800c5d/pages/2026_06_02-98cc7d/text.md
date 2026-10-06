@@ -1,0 +1,3 @@
+June 2, 2026 WMAR By: Taylor Epps ANNAPOLIS, Md. — Maryland public school students will soon have a new opportunity to show their achievements after Governor Wes Moore signed the Maryland Civic Excellence Program bill.
+The program allows public school …
+Continue Reading

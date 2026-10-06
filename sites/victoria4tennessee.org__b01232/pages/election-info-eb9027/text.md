@@ -1,0 +1,31 @@
+Skip navigation menu
+early voting october 14-29 | election day november 3
+Home
+About
+Issues
+Volunteer
+Events
+Voting
+Shop
+Donate
+Home
+About
+Issues
+Volunteer
+Events
+Voting
+Shop
+Donate
+voting resources
+make a plan to vote in november
+Early Voting
+October 14–29, 2026
+Election Day
+November 3, 2026
+Mail-in Voting
+must request by October 24, 2026
+Check if you're registered to vote
+Register to vote
+Request a mail ballot
+Early voting locations
+You need to enable JavaScript to run this app.

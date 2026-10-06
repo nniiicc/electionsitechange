@@ -1,0 +1,53 @@
+Where Jahnelle Stands
+HEALTHCARE
+She's Not Just Talking About It.
+She's Lived It.
+Jahnelle Garcia has spent her career in healthcare—not reading about the system, but working inside it.
+As a nurse practitioner and founder of two healthcare organizations, she has seen what works, what fails, and what families are going through when they're at their most vulnerable.
+In Santa Fe, she'll fight to:
+- Lower the cost of healthcare for working families and small businesses by reducing regulations that drive up premiums without improving care
+- Stop legislation like the 2021 Medical Malpractice law--which drove hundreds of doctors out of New Mexico--and keep the trial lawyer lobby out of our healthcare policy
+- Protect patient choice.
+New Mexicans deserve the right to choose their doctors, their providers, and their care without government interference
+- Expand access to home healthcare and preventive services, so families can keep loved ones healthy and independent longer
+- Support our healthcare workforce: nurses, nurse practitioners, home health aides, and caregivers who are the backbone of our system and are being stretched to the breaking point
+"I've held patients' hands in their hardest moments.
+I know what's broken — and I know how to fix it."
+SMALL BUSINESS & ECONOMY
+She Didn't Inherit a Business.
+She Built One.
+Twice.
+Jahnelle Garcia knows what it takes to start a business in New Mexico.
+She knows what it means to make payroll, manage employees, navigate regulations, and keep the doors open when everything is working against you.
+She's done it—and she's done it twice.
+In Santa Fe, she'll fight to:
+- Cut the red tape strangling New Mexico small businesses: fewer unnecessary regulations, faster licensing, and a state government that treats entrepreneurs like partners, not problems
+- Keep taxes competitive so New Mexico businesses can grow, hire, and thrive without watching jobs and talent leave the state
+- Support working families with real economic relief—from reducing grocery taxes to fighting the inflationary policies that are draining family budgets
+- Champion workforce development that connects New Mexicans with the skills and jobs of tomorrow
+"I've created jobs.
+I've met payroll.
+I understand what it costs to build something in this state — and I'll fight to make it easier for every business owner who comes after me."
+FAMILIES & COMMUNITY
+She's Not Just Advocating for Families.
+She Is Fighting For Her Own.
+As a mother, Jahnelle Garcia understands exactly what's on the line.
+She's navigating the same schools, the same neighborhoods, and the same costs that every family in District 27 faces.
+She doesn't need to be briefed on what families are going through: she lives it.
+In Santa Fe, she'll fight to:
+- Partner with parents on their children's education — Jahnelle believes schools and families do their best work together, and she'll make sure parents have a real voice in decisions that affect their kids
+- Invest in safe, strong neighborhoods — support the police and first responders who keep our communities safe, and make sure every family feels secure in their home
+- Protect New Mexico's most vulnerable — the elderly, the disabled, and children deserve a state government that takes its responsibility to them seriously
+- Support the community organizations doing the real work — from faith communities to nonprofits to neighborhood groups, they're stretched thin, and they deserve a partner in state government
+"My children are my reason for running.
+I want them to grow up in a New Mexico that works — and I'm willing to fight for it."
+PUBLIC SAFETY
+Safe Communities Are the Foundation of Everything Else.
+You can't build strong families, thriving businesses, or healthy communities in neighborhoods where people don't feel safe.
+Jahnelle Garcia believes in law enforcement, believes in accountability, and believes District 27 deserves leadership that takes public safety seriously.
+In Santa Fe, she'll fight to:
+- Back the badge — support adequate funding, training, and resources for law enforcement officers who put their lives on the line every day
+- Hold criminals accountable — oppose policies that put repeat offenders back on the street and leave victims without justice
+- Address the root causes of crime — mental health, addiction, and poverty feed crime.
+Real solutions attack the problem from every angle.
+- Protect Second Amendment rights — law-abiding New Mexicans have the right to protect themselves and their families, period.

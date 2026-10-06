@@ -1,0 +1,56 @@
+PUBLIC SAFETY
+Click on Public Law to View
+PL 31-4 An act to add a new §4128 to Article 1, Chapter 4 of Title 4, Guam Code Annotated, relative to authorizing the granting of administrative leave for volunteer sign language and foreign language interpreters
+PL 31-26 An act to amend Section 20 of Chapter XIII of Public Law 30-196 (The General Appropriations Act of 2011), relative to requiring all government of Guam agencies to comply with the staffing pattern disclosure mandates, inclusive of the fourth quarter of Fiscal Year 2010
+PL 31-30 An act to add a new §3347 to Article 3, Chapter 3, of Title 16, Guam Code Annotated, relative to penalties for moving violations involving large vehicles
+PL 31-34 An act to amend §33111 of Chapter 33 of Title 7, Guam Code Annotated, relative to Mechanics' Liens
+PL 31-47 An act to add new subsections (y) and (z) to §89.01, a new subsection (i) to §89.03, and new subsections (g), (h), (i) to §89.05, all of Chapter 89 of Title 9, Guam Code Annotated, relative to limiting access and regulating the use of social networking websites, instant messaging and chat rooms by registered sex offenders
+PL 31-48 An act to add a new §89.14 to Chapter 89 of Title 9, Guam Code Annotated, relative to the e-mail addresses of registered sex offenders
+PL 31-109 An act to amend §40105(b) of Chapter 40, Title 7, Guam Code Annotated; and to repeal and reenact §§30.80 through 30.80.5 of Chapter 30, Title 9, Guam Code Annotated, relative to differed pleas of domestic violence abusers
+PL 31-149 An act to add a new Article 7 to Chapter 4 of Title 4, Guam Code Annotated, relative to sexual harassment complaints
+PL 31-171 An act to add a new Article 3 to Chapter 120 of Title 8, Guam Code Annotated, relative to requiring convicted sex offenders, Inter Alios, to submit to DNA profiling
+PL 32-029 An act to amend §§6602 and 6603; to re-codify §6603 as §6121; and to add a new §6703, all of Chapter 6 of Title 17, Guam Code Annotated, relative to protection of student information
+PL 32-047 An act to amend the Title of Chapter 37, and to add a new Article 2 to Chapter 37 of Title 9, Guam Code Annotated, relative to Home Invasion
+PL 32-111 An act to add new §§ 37.70, 37.71, 37.72, and 37.73 to Chapter 37 and to amend §7.86(b)(2)(A) of Chapter 7 of Title 9, Guam Code Annotated, relative to granting immunity from criminal prosecution or civil action to a persion who uses force intended or likely to cause death or serious bodily injury to someone who unlawfully or forcibly enters a residence, vehicle or business; to be known as the "Castle Doctrine Act"
+PL 32-116 An act to add new §§ 37.50 to 37.55 to Chapter 37 of Title 9.
+Guam Code Annotated, relative to carjacking
+PL 32-213 An act to amdend Paragraph (i) of § 3109 of Article 1, Chapter 3 of Title 16, Guam Code Annotated, relative to Motorcycle License Road Exams
+PL 33-126 An act to repeal and reenact § 90113 of Chapter 90, Title 18, Guam Code Annotated, Relative to parental liability for willful acts of minor children
+PL 33-134 An act to amend § 60108(b)(2) and § 60109.1(b)(1) of Chapter 60 of Title 10, Guam Code Annotated, Relative to possession of firearms by aliens
+PL 33-169 An act to amend § 60109.1(b)(8) of chapter 60 of title 10, Guam Code Annotated, relative to training requirements for concealed firearms licenses
+PL 36-17 An act to add a new § 80.39.2(d) of Article 2, Chapter 80, Title 9, Guam Code Annotated, relative to excluding individuals convicted of first or second degree criminal sexual conduct from the sentencing reductions of the justice safety valve act.
+BUSINESS
+PL 36-20 An act § 58110(d) of Article 1, Chapter 58, Title 12, Guam Code Annotated, relative to expansion of the public investments options for qualifying certificate holders to include municipal programs and projects.
+EDUCATION
+PL 31-38 An act to add a new §4125 to Chapter 4 of Title 17, Guam Code Annotated, relative to encompassing internet safety in public education curricula
+PL 31-91 An act to amend §3103(16) of Article 1 of Chapter 3, Title 17, Guam Code Annotated, relative to Department of Education Management Assessments
+PL 31-201 An act to add a new Article 6 to Chapter 6 of Title 17, Guam Code Annotated, relative to protection of minors' and students' rights
+PL 31-202 An act to add a new Article 7 to Chapter 6 of Title 17, Guam Code Annotated, relative to protection of minor's and students' rights
+GOVERNMENT TRANSPARENCY
+PL 31-34 An act to amend §33111 of Chapter 33 of Title 7, Guam Code Annotated, relative to Mechanics' Liens
+PL 31-52 An act to amend §8103 of Chapter 8, Title 5, Guam Code Annotated, relative to allowing the recording of open meetings
+PL 31-91 An act to amend §3103(16) of Article 1 of Chapter 3, Title 17, Guam Code Annotated, relative to Department of Education Management Assessments
+PL 31-138 An act to amend §4502(d), and to add new §§4504.1 and 4508 to Chapter 4 of Title 4, Guam Code Annotated, relative to expanding Whistle-Blower Protection to all employees of the Government of Guam
+PL 31-114 An act to add a new §23112 to Chapter 23 of Title 5, Guam Code Annotated, relative to requiring the posting of non-employee travel justification reports on an agency's website
+PL 31-228 An act to add a new §5220 to part B of article 3, chapter 5 of title 5, Guam Code Annotated, relative to posting invitations for bid (IFBs) and requesting for proposals (RFPs) Online
+PL 31-256 An act to amend §§1103.1 and 1103.3 of Chapter 1 of Title 4, Guam Code Annotated, relative to exempting certain government vehicles from logo requirements
+PL 36-30 An act to amend § 9117 to Article 1 of Chapter 9, Title 12, Guam Code Annotated, relative to transferring control of the Tourist Attraction Fund Grants Program to the Guam Visitors Bureau
+PUBLIC WORKS
+PL 36-130 An act to add a new § 849.16 to Article 1 of Chapter 8, Title 1, Guam Code Annotated, relative to designating a portion of Route 4 as 'Seven Heroes of Malesso' Highway.
+HEALTHCARE
+PL 31-184 An act to require the Department of Public Health and Social Services to conduct a feasibility study on providing after-hour urgent care services at the Public Health Centers
+CONSUMER PROTECTION
+PL 31-85 An act to add new §§ 54106, 54107 and 54108 to Article 1 of Chapter 54, Title 5, Guam Code Annotated, relative to allocating federal funds for mitigation and utilities relocation costs; and to amend §§ 53101, 53103 and 53104, and add new §§53102(a)(5) and 53109 all of Chapter 53 of Title 5, Guam Code Annotated, relative to defining utilities as Permitted Encroachments
+PL 31-242 An act to add a new subsection (a)(4) to §3601 or Article 6, Chapter 3 of Title 16, Guam Code Annotated, relative to vehicle safety inspections
+PL 31-248 An act to add a new §89.15 to Chapter 89 of Title 9, Guam Code Annotated, relative to employment limitations on convicted sex offenders
+PL 31-257 An act to add a new §70.44.3 to Article 1 of Chapter 70 of Title 9, Guam Code Annotated, relative to blacklisting
+PL 32-004 An act to add a subsection (d) to §7105 of Chapter 7 of Title 16, Guam Code Annotated, relative to requiring proof of use tax payment as a condition of registration for vehicles acquired off-island
+PL 32-015 An act to add a new §5132 to Part D of Article 2, Chapter 5 of Title 5, Guam Code Annotated, relative to the retention of procurement-related electronic mail (email) correspondences
+PL 32-016 An act to add a new subsection (e) to §5008 of Part A, Article 1 of Chapter 5 of Title 5, Guam Code Annotated, relative to prohibiting government of Guam branches, departments, agencies and instrumentalities from excluding local businesses from the procurement process
+PL 32-033 An act to add new §§2228 and 2229 to Chapter 22 of Title 15, Guam Code Annotated, relative to including digital assets in a decedent's estate
+PL 32-108 An act to add a new Article 8 to Chapter 32 of Title 5, Guam Code Annotated, Relative to Gift Cards and Gift Certificates.
+PL 32-109 An act to repeal paragraph (34) of §26203(k) of Chapter 26 of Title 11, Guam Code Annotated, relative to business privilege tax exemptions
+PL 32-139 An act to add a new Article 5 to Chapter 3 of Title 22, Guam Code Annotated, relative to privacy of employees' personal information
+PL 32-156 An act to add new §§ 7178 and 7179 to Chapter 7 of Title 16, Guam Code Annotated, relative to vehicle registrations
+PL 33-69 An act to amend § 7117 of chapter 7 of title 16, Guam Code Annotated, relative to requiring the issue of salvage title certificates of ownership for vehicles transferred to insurance companies as a result of payment of claims for total loss
+PL 33-234 An act to amend § 7117 of Chapter 7, Title 16, Guam Code Annotated, relative to requiring the issuance of salvage title certificates of ownership for vehicles transferred to insurance companies as a result of payment of claims for total loss

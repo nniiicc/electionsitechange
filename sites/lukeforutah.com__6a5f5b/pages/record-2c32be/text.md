@@ -1,0 +1,24 @@
+A Proven Record For The Wasatch Back
+- Voted against the sales tax increase for transit due to cost-of-living concerns
+- Helped stop multiple property tax increases during the budget process
+- Championed raising the income limit for low-income senior property tax relief so more residents could qualify
+- Successfully pushed for a public, transparent budget software system so residents can see how dollars are spent
+- Consistently asked for clearer explanations and accountability around county spending decisions
+- Advocated for using transportation tax dollars outside the transit zone to improve roads and connectivity
+- Supported the creation of a county road plan
+- Backed increased investment in road maintenance to reduce future overhaul costs and prevent disrepair
+- Served as a Parks and Recreation Board member and supported a new master plan focused on strengthening existing resources and adapting strategically to a growing, family-focused community
+- Pushed for a dedicated budget item to complete “trails to nowhere” and improve countywide trail connectivity
+- Wasatch County is updating its General Plan for the first time in nearly 25 years, and it is crucial that we decide together how our future will look
+- Land use decisions were evaluated based on countywide impact and long-term benefit
+- Helped organize and participate in five or more listening town halls across Wasatch County
+- Sent quarterly newsletters and used active social media to keep residents informed on council actions and issues
+- Made regular local radio appearances on KTMP to explain county decisions and answer questions
+- Worked with multiple local nonprofits on community events and efforts to support residents
+- Focused on advocacy and coordination rather than government takeover
+- Attended interlocal and other local entity meetings to improve coordination and collaboration
+- Worked to reduce duplication and improve outcomes across jurisdictions
+- Tracked legislation impacting Wasatch County and the state as a whole
+- Worked with organizations and spoke in committee meetings on bills affecting our county
+- Advocated against SB 197 and supported the Governor’s veto due to its potential local impact
+- Sponsored Constitution Month for Wasatch County with outreach and educational efforts

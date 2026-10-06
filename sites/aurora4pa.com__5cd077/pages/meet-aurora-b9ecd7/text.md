@@ -1,0 +1,97 @@
+Meet Aurora Stuski
+West Norriton resident.
+Business owner.
+Advocate for families, seniors, and taxpayers.
+For over 35 years, Aurora Stuski has called West Norriton home.
+She is a local business owner, a mother of three, and a committed advocate for the people of this community—fighting to protect taxpayers, preserve green space, and ensure government works for residents, not the other way around.
+35 Years of Community, Family, and Commitment
+Aurora Stuski has been a proud West Norriton resident for over three decades.
+After moving from Philadelphia in 1987, she built her life, raised her family, and established deep roots in Montgomery County.
+She raised three children here—instilling values of hard work, integrity, and service.
+She often describes herself as a “fierce Mamabear patriot,” driven by a commitment to protect families and future generations.
+Aurora understands firsthand the challenges facing local residents—especially seniors on fixed incomes and families trying to build a stable future in an increasingly expensive region.
+The bigger the government, the smaller the citizen.
+Aurora believes in limited government, personal responsibility, and putting the residents of PA’s 4th Congressional District first.
+A Proven Professional with Decades of Experience
+Aurora is the Founder and Owner of AAS Appraisal Lab, serving Montgomery County since 1989.
+As a Graduate Gemologist and jewelry expert, she provides:
+- Appraisal services for jewelry, coins, and collectibles
+- Expert witness testimony
+- Estate valuation and liquidation services
+- Insurance claim arbitration and consumer advocacy
+Her work often places her directly between clients and insurance companies—where she fights to ensure fair outcomes and protect individuals during complex and high-stakes situations.
+Earlier in her career, Aurora worked in the architectural field, contributing to proposal development and managing accounts receivable for a national firm building hospitals and healthcare facilities.
+Aurora is a gem.
+Fighting for Those Who Need It Most
+Aurora has long been a voice for children, families, and the elderly.
+Her advocacy is deeply personal.
+She speaks openly about the challenges she faced growing up in Philadelphia, and how those experiences shaped her commitment to helping others.
+She is especially focused on:
+- Reducing the tax burden on homeowners
+- Protecting seniors from being forced out of their homes
+- Preserving green space in West Norriton
+- Supporting strong, community-centered education
+As a board member of West Norriton United, she works across political lines to protect the township’s future and quality of life.
+A Record of Action and Leadership
+Aurora has consistently stepped forward to serve her community and engage in the political process at every level.
+Leadership & Roles:
+- MCRC Area 8 Vice Chair (2024–Present)
+- West Norriton Republican Committee Chair (2024–Present)
+- West Norriton 4-1 Committee Person (2022–Present)
+- Candidate for GOP State Committee
+- Elected Delegate to the Republican National Convention (CD-4)
+- Candidate for Montgomery County Commissioner and West Norriton Commissioner
+Decades of Grassroots Engagement
+Early Political Involvement (1973–1983)
+Aurora began her political journey working on the Charles F.
+Dougherty congressional campaign—canvassing, preparing mailings, and supporting outreach efforts.
+1987
+Moved from Philadelphia to Montgomery County, where she would build her life and career.
+1989–1995
+Volunteered for the Ernie Preate campaign for Attorney General and remained active in community initiatives.
+2005–2018
+Focused on raising her three children while continuing community service, including:
+- Homeroom Mom leadership
+- Volunteer work in soup kitchens
+- Organizing donation drives for families in need
+2019–2021
+Volunteered for Kathy Barnette’s congressional and Senate campaigns, contributing to grassroots outreach and voter engagement across Pennsylvania.
+2020–2022
+Re-entered political activism in response to COVID-era policies affecting families:
+- Census Worker in Montgomery County
+- Advocate for in-person education
+- Active in parent-led education groups
+- Poll watcher and election integrity volunteer
+- Organized drop-box monitoring efforts
+- Ran a successful write-in campaign for Committee Person (115 votes)
+- Canvassed over 1,400 households for multiple campaigns
+2022–Present
+Expanded leadership roles and regional influence:
+- Vice Chair → Chair of West Norriton Republican Committee
+- Vice Chair of MCRC Area 8
+- Trump Force Captain
+- Delegate to the Republican National Convention
+Education & Professional Training
+- Bachelor of Fine Arts — Arcadia University
+- Minor in Business Administration — Arcadia University
+- Graduate Gemologist — Gemological Institute of America
+Stand with Aurora
+Aurora Stuski is committed to protecting families, lowering taxes, and preserving the values that make Montgomery and Berks Counties strong.
+My Plan to Support Aging Adults With Disabilities and Their Families
+Purpose Create a national framework ensuring that an adult with lifelong intellectual or developmental disabilities and significant mental-health or behavioral needs does not lose housing, care, benefits, or community placement simply because an aging parent can no…
+My Plan to Address the Student Loan Crisis and Make College More Affordable
+Purpose Create a student-loan system in which borrowers have an affordable path to repayment, borrowers in serious distress can return to good standing, and colleges have greater responsibility for the financial outcomes associated with the programs they offer.
+The…
+Safer Food, Stronger Farms, Healthier Families
+American families deserve food that is safe, nutritious, honestly labeled, and produced here at home.
+Recent federal food-safety initiatives are working to remove harmful artificial dyes, strengthen inspections, improve infant-formula safety, promote healthier foods,…
+🚨 The Academy of Natural Sciences Closure: Coincidence, Crisis — or Political Opportunity for Shapiro?
+FOLLOW THE 2026 TIMELINE.
+I’m not claiming that Governor Josh Shapiro caused the Academy of Natural Sciences’ financial problems.
+I’m not claiming the museum’s closure was fabricated.
+And I’m not claiming we currently have proof that the Governor’s office staged the…
+Shapiro Lies and Scare Tactics to Take Away Our Freedom
+Pennsylvania, we must reject Regulation 10-242 as written.
+Public health must be protected, but no agency should receive open-ended power to restrict liberty, bypass parents, obtain sensitive medical records, or impose sweeping mandates without clear statutory limits, meaningful due process, and direct accountability to the people.
+A Platform for Strong Families, Safe Communities, and Responsible Growth
+I believe government works best when it protects vulnerable people, removes barriers to opportunity, and spends taxpayer dollars preventing problems instead of paying for them after they become crises.

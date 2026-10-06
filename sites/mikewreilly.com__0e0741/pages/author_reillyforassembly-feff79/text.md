@@ -1,0 +1,62 @@
+Port Authority Acts on Reilly-Lanza Legislation to Study Alignment of Aging Outerbridge Crossing with $8.3 Million Commitment
+At a meeting on September 21st, PANYNJ Commissioners approved $8.3 million in spending to commence a feasibility study examining the structural modifications and potential property acquisitions, among other costs, to widen the bridge to current federal standards.
+READ MORE
+Statement from Assemblymember Reilly regarding plan to house illegal migrants in houses of worship throughout NYC
+“Following conversations with city officials today, I can confirm that the report is incorrect — while there is, in fact, a new citywide initiative to address the migrant crisis using houses of worship, no locations have been selected yet.
+This process is application based and, at this time, no applications have been received from houses of worship on Staten Island.”
+READ MORE
+Reilly’s Public Safety Proposals Sidelined by Assembly Democrats in Committee
+Little explanation was offered as to why the bills were held, and though this practice is common for bills carried by members of the Minority, Reilly contends that given their intention to restore public safety, they should have been given greater consideration.
+READ MORE
+Statement from Assemblymember Reilly on New York City’s response to the migrant crisis
+“This is a frustrating reminder of how, less than one year ago, City Hall blindsided communities throughout the city, especially on Staten Island, where migrants were warehoused in hotels by the hundreds.
+Then, just like now, city officials insisted that it would be temporary and non-intrusive.
+In time we learned that was a lie — and so we should know better than to believe it this time.”
+READ MORE
+Reilly Recognizes Students From Pathways to Graduation-Staten Island on the Floor of State Assembly to Highlight College and Career Readiness Programs Offered by NYC Public Schools
+Statement from Assemblymember Reilly on the passage of an amendment to exempt certain retired peace officers from the state’s sensitive location law
+“We cannot forget that agents of some of our state’s most critical law enforcement agencies fall under this specific peace officer status, such as Correction Officers and Court Officers.
+These retired law enforcement officers are granted a concealed carry license because during their careers they may have received threats due to their work and those potential threats extend into their retirement.”
+READ MORE
+Amid 4/20 Enforcement Crackdown, Reilly Renews Call for Expanded LEO Training to Combat Drug-Impaired Driving
+While supportive of the enforcement blitz, Reilly remains concerned over the lack of a field test to aid law enforcement in the detection of marijuana-impaired driving.
+No such test exists at this time and though there are several being developed by the private sector, none are near ready for wider field implementation.
+Even then, state law prohibits the odor of marijuana alone from being used as a way to identify drug-impaired driving.
+READ MORE
+AM Reilly & SEN Gallivan introduce legislation to expand types of evidence accepted by the state police forensic investigation center
+The FIC performs forensic DNA analysis for more than 500 law enforcement agencies, developing DNA profiles from biological evidence to use for comparison purposes, such as to generate investigative leads, identify perpetrators, and exonerate the innocent.
+Should a suitable DNA profile be developed from crime scene evidence, it may be entered into the Combined DNA Index System (CODIS), which is administered by the Federal Bureau of Investigation (FBI) for searching at the local, state, and/or national levels.
+READ MORE
+Reilly and Assembly Minority Conference release final report from Tash Force on School Safety & Security
+The task force hosted five regional forums focused on legislative solutions to ensure the safety of students and school personnel.
+Discussions attempted to examine methods to increase the security presence on school grounds, as well as efforts to establish greater access to mental health services for students.
+READ MORE
+Assemblymember Reilly reacts to denial of parole for convicted cop killer Shatiek Johnson, assassin of NYPD housing cop and Staten Island community leader Gerard Carter
+“Make no mistake, this fight is far from over.
+While the parole board made the right decision this time, they often have not in the past, and Officer Carter’s family will be forced to do as many others have, reliving this trauma on replay every two years for the foreseeable future.
+I have and will continue to call for reforms to be made to the state parole board so that it treats crime victims and their families, not murderers and other violent criminals, with greater compassion and empathy.”
+READ MORE
+-
+03.20.26
+Reilly Introduces Bill to Cap E-ZPass Penalties and Strengthe...
+Read More >
+-
+03.07.26
+Take Action: Sign the Petition Against the Proposed Homeless ...
+Read More >
+-
+09.22.23
+Port Authority Acts on Reilly-Lanza Legislation to Study Alig...
+Read More >
+-
+06.06.23
+Statement from Assemblymember Reilly regarding plan to house ...
+Read More >
+-
+05.23.23
+Reilly’s Public Safety Proposals Sidelined by Assembly ...
+Read More >
+-
+05.15.23
+Statement from Assemblymember Reilly on New York City’s...
+Read More >

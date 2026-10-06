@@ -1,0 +1,1 @@
+News from the campaign Media inquiries can be sent to media@shoffnerforarkansas.com News 7/10/26 News 7/10/26 Hallie Shoffner Announces Arkansas Voices, a Statewide Listening and Engagement Tour Read More

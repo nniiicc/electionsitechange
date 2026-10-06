@@ -1,0 +1,22 @@
+Congressman Johnson Hosts Two Panels at CBCF ALC 55
+WASHINGTON, D.C. — At the Congressional Black Caucus Foundation’s 55th Annual Legislative Conference, Congressman Hank Johnson (GA-04) held two panel discussions.
+His first panel, “Protect The Culture: Stopping the Assault on Black Voices, Talent, and Influence”, explored legislative pathways and industry strategies to end targeted assaults on Black voices, ensuring Black journalists can report freely,
+AJC: What to know about voting by mail after the U.S.
+Supreme Court’s decision
+From the Atlanta Journal-Constitution Here are the details for voting absentee in Georgia.
+The U.S.
+Supreme Court on Monday rejected the efforts by President Donald Trump’s administration to put new restrictions on voting by mail in this year’s midterms.
+The administration sought to require states to adopt a special, uniform envelope style for absentee ballots
+Congressman Johnson Introduces Historic Bill To Prevent Judges, Justices From Trading Stocks
+Johnson leads House effort requiring judges and justices to place financial assets into blind trusts WASHINGTON, D.C. — Today, Congressman Hank Johnson (GA-04) introduced The Justice is BLIND Act, which would prevent judicial conflicts of interest by requiring federal judges and Supreme Court justices to place their financial assets into blind trusts.
+Under this bill, all
+Hank Leads CPC, CBC, CHC, CAPAC To Reveal Roadmap To Strengthen, Restore Democracy
+WASHINGTON, D.C. — In June, Rep.
+Hank Johnson (GA-04), Ranking Member of the House Judiciary Subcommittee over Federal Courts, joined leaders of the Congressional Progressive Caucus (CPC), Congressional Black Caucus (CBC), Congressional Hispanic Caucus (CHC), and the Congressional Asian Pacific American Caucus (CAPAC) in announcing a new House resolution calling for reforms to restore voting
+Congressman Johnson Aces League of Conservation Voters 2025 National Environmental Report Card
+Congressman Scores 100% – Top in GA Delegation – Highest Lifetime Score of 97% Congressman Hank Johnson (GA-04) announced he earned a perfect 100 percent from The League of Conservation Voters (LCV) on their 2025 National Environmental Scorecard, which tallies the performance of every member of Congress every year on key environmental votes.
+Rep.
+Johnson’s
+Congressman Johnson Secures More Than $11 Million For Local Projects
+Congressman Hank Johnson (GA-04) announced today that more than $11 million in Community Project Funding he secured for Georgia’s 4th District is in the final FY2026 spending bills approved by Congress and signed into law by the president this week.
+The funding will directly address some of the most pressing needs across the district, which

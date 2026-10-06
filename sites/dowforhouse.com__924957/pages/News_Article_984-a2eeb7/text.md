@@ -1,0 +1,19 @@
+NM budget concerns skyrocket amidst steep oil price drop
+FOR IMMEDIATE RELEASE
+March 9, 2020
+Contact: Matt Garcia-Sierra, m.garciasierra@nmlegis.gov, 505-205-5486 (cell)
+NM budget concerns skyrocket amidst steep oil price drop
+Santa Fe, NM– With just days remaining for the New Mexico budget to be signed and approved by the Governor, today’s news headlines showing plunging oil prices and large losses on Wall Street indicate major concerns for the New Mexico budget which heavily relies on oil and gas revenues.
+Oil prices have declined to less than $35 per barrel today and such dramatic cuts will most certainly adversely affect both state revenues, and oil producers who have operations in the Permian Basin in southeastern New Mexico.
+“During the session, we consistently raised the alarm that it was inevitable a bust in oil prices would occur.
+Unfortunately, Santa Fe progressives refused to listen and spent without any restraint and raised taxes as if the oil boom would last forever,” said House Republican Leader Jim Townsend (R-Artesia), “House Republicans produced a budget alternative that would have provided a cushion against economic uncertainty, however we were completely shut out and accused of ‘not understanding’ the budget.”
+The Governor has until Wednesday to sign the state’s operating budget for the upcoming fiscal year.
+It is a state constitutional requirement that New Mexico have a balanced budget.
+In addition to signing off on the spending plan, the Governor has line-item veto power in bills that have appropriations.
+“The budget that was passed speculated oil prices would be somewhere around $50 a barrel, yet the oil market is now in a global upheaval,” said Representative Rebecca Dow (R-T or C), “I wish the progressives had been more conscientious in protecting our reserve funds and been more cautious in how they spent the surplus.
+No one in this state looks forward to re-living the budget nightmare we had just a few years ago when declining oil prices ended with our schools suffering the most in spending cuts.”
+The news of instability in the oil markets arrives on the heels of several years of fierce campaigning from New Mexico Democrats to dismantle the oil and gas industry.
+Yet, in the past two years, this important industry has delivered historic surplus revenues to the New Mexico state budget and now accounts for 45 percent of total state revenues.
+“The Governor and her allies in the legislature are dangerously walking New Mexico towards another round of serious budget problems,” said House Republican Whip Rod Montoya (R-Farmington), “New Mexicans are questioning how Democrats could spend the entire surplus, raise taxes, and dip into state reserves while forgetting about the boom and bust cycles.”
+NM House Republicans have not heard from the Governor regarding what budget items might be vetoed and expect to see the final budget when it is released to the general public.
+###

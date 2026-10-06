@@ -1,0 +1,33 @@
+Nunn Campaign Reserves More Than 13,000 Rating Points Across Iowa Airwaves Through Election Day
+Seven-figure reservation runs from July 31 to Election Day Des Moines, IA — Combat aviator and U.S.
+Representative Zach Nunn has reserved seven figures of Iowa television time that will keep him on the air from July 31 through Election Day.
+The reservation is the largest any candidate in Iowa’s Third Congressional District has ever […]
+Combat Aviator and Congressman for Iowa’s Third Congressional District Zach Nunn Tops $1.1 Million Raised in Second Quarter of 2026
+Nunn Maintains Strong Financial Position Ahead of 2026 Election Des Moines, IA – Congressman Zach Nunn, a combat aviator and Representative for Iowa’s Third Congressional District, announced more than $1.1 million raised across his campaign committees during the second quarter of 2026.
+The campaign has also received contributions from all 21 counties in Iowa’s Third […]
+Combat Aviator and Congressman for Iowa’s Third Congressional District Zach Nunn Brings in Over $1.2 Million to Campaign in First Quarter of 2026
+Nunn Reinforces Campaign War Chest for 2026 Des Moines, IA – Congressman Zach Nunn, a combat aviator and Representative for Iowa’s Third Congressional District, announced significant financial support across all campaign committees in the first quarter of 2026, signaling strong continued momentum in one of the nation’s most competitive House races.
+As part of a […]
+Nunn Kicks Off Reelection Campaign with Massive Support from Every Corner of IA-03
+Nunn Files for Reelection as Support Builds Across Urban and Rural Iowa Des Moines, IA – Combat Aviator and U.S.
+Representative for Iowa’s Third Congressional District, Zach Nunn officially filed for reelection in Iowa’s Third Congressional District on the first day candidates were eligible to do so.
+Nunn enters the 2026 cycle with a broad […]
+Combat Aviator and Congressman For Iowa’s Third Congressional District Zach Nunn Raises Over $3.5 Million in 2025
+Nunn Amasses War Chest Ahead of 2026 Showdown Des Moines, IA – Congressman Zach Nunn, a combat aviator and Republican Representative for Iowa’s Third Congressional District, announced raising more than $3.5 million in 2025, including over $750,000 across all campaign committees in the fourth quarter of 2025.
+With more than $2.3 million cash on hand, Nunn […]
+Combat Aviator and Congressman For Iowa’s Third Congressional District Zach Nunn Raises Over $700,000 Across All Campaign Committees in Third Quarter
+With $1.6 Million Banked, Nunn is Poised for 2026 Showdown Des Moines, IA – Congressman Zach Nunn, a combat aviator and Republican Representative for Iowa’s Third Congressional District, announced raising more than $700,000 across all campaign committees in the third quarter of 2025.
+With more than $1.6 million cash on hand, Nunn heads into one […]
+Nunn Calls on Sarah Trone Garriott and Jennifer Konfrst to Denounce Political Violence
+DES MOINES — Combat aviator and U.S.
+Representative Zach Nunn released the following statement on Democrat Candidate Xavier Carrigan’s dangerous and disgusting rhetoric.
+“Last week, our country was shaken by horrific political violence that left a woman without a husband and two young children without a father.
+In moments like these, we must stand united, […]
+Combat Aviator and Congressman for Iowa’s Third Congressional District, Zach Nunn Raises Over $1.1 Million into Campaign Committees in Second Quarter
+Nunn Finished with Over $1.2 Million Cash on Hand in Campaign Committee Des Moines, IA – Combat aviator Zach Nunn, Republican Congressman in Iowa’s Third Congressional District, announced raising over $1,100,000 across all campaign committees in the second quarter of 2025.
+Nunn also finishes off the second quarter with over $1,200,000 cash on hand in […]
+Combat Aviator and Congressman for Iowa’s Third Congressional District, Zach Nunn Achieves Strongest Odd-Year First Quarter Fundraising
+Nunn Raises Over $900,000 into Campaign Committees in First Quarter, Most Raised Ever for a IA-03 Republican in First Quarter Non-Election Year Des Moines, I.A. – Combat aviator Zach Nunn, Republican Congressman in Iowa’s Third Congressional District, announced the strongest fundraising performance in an off-year quarter for any GOP candidate for the seat in history. […]
+Nunn Reacts to Democrat Interference in Iowa Third District Election
+DES MOINES – Combat veteran, father, and U.S.
+Representative Zach Nunn (IA-03) released the following statement after a scathing report showed the Democrat Party attempted to manipulate the election in the Iowa Third Congressional District:

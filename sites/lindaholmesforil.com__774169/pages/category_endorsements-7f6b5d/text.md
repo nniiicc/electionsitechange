@@ -1,0 +1,1 @@
+Endorsements Equality Illinois Endorses Linda Holmes CHICAGO—The Equality Illinois PAC is endorsing 32 incumbent legislators in its first round of endorsements as the state heads into the 2018 election cycle, the Read More » October 16, 2017 No Comments

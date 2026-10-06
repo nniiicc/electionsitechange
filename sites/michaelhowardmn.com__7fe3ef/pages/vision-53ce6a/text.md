@@ -1,0 +1,42 @@
+Together, we are a positive force for good.
+As your state representative, I will always strive to tear down barriers and build a future where everyone has the opportunity to succeed.
+Make LiFE MORE AFFORDABLE
+- Crack down on corporate greed that drives up prices and makes families pay more for the essentials
+- Stop corporations from using AI surveillance to artificially raise prices on everything from food to your rent
+- Cap the cost of prescription drugs and ban health insurance companies from using AI and other tools to deny care
+HEALTH CARE FOR ALL
+- Make health care more affordable by creating Minnesota-Care for All, an affordable option for health care for every Minnesotan
+- Fight back against “Big Pharma” by capping the cost of life-saving drugs
+- Ban health insurance companies from using AI tools to deny coverage
+GUN VIOLENCE PREVENTION
+- Prohibit sale of military-style assault weapons and high capacity magazines
+- Pass a Safe Storage Law to prevent gun violence and keep our kids safe
+- Increase school-based mental health resources
+HOUSING FOR ALL
+- Build more homes - especially that are affordable - by eliminating exclusionary zoning so that more Minnesotans have an opportunity to buy a starter home or afford a quality home to rent.
+- Create a dedicated revenue source to supercharge our home building across the state
+- Ban large private equity firms from buying up single-family homes
+REIN in ICE
+- Ban ICE from entering our schools, places of worship, and child care centers
+- No secret police - ban masks and unmarked vehicles
+- Hold ICE officers accountable when they violate constitutional rights
+PROTECT OUR ENVIRONMENT
+- Protect the Boundary Water Canoe Area
+- Create stronger protections, transparency, and permitting rules regarding data center construction
+- Continue to move Minnesota on path to reach 100% clean energy by 2040
+ECONOMIC SECURITY FOR WORKERS
+- Raise the statewide minimum wage
+- Implement our statewide paid parental leave policy to provide parents with the opportunity to bond with their children without risk of their job
+- Always stand up for workers and their right to organize and collectively bargain
+IMPROVE QUALITY OF LIFE FOR PEOPLE WITH DISABILITIES
+- Fight back against Trump Administration efforts to cut funding and care from our most vulnerable
+- Address our workforce shortage of home and health care workers for Minnesotans with disabilities by increasing funding to increase pay for those that provide vital care for our loved ones
+- Provide greater economic security to people with disabilities and their families through better access to good-paying jobs, transportation, and housing and preserve vital funding for disability services.
+- Fully fund special education and provide greater support to teacher and paraprofessionals that help improve the lives of children with disabilities
+FIGHT FOR OUR DEMOCRACY
+- Pass campaign finance reform that adds accountability and transparency to the huge sums of special interest spending dominating our campaigns
+- Fight back against Trump Administration efforts to disenfranchise Minnesotans and discredit Minnesota’s strong election system
+CLOSING OUR OPPORTUNITY GAP
+- Make strong investments in pre-K education so that all students are better prepared to learn by kindergarten
+- Invest in housing, health and economic security for families - all essential for our kids to be best ready to learn and succeed
+- Reform standardized testing and offer more support for our teachers, who each day inspire students to learn, grow and succeed

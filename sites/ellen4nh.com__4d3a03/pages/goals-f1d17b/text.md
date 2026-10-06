@@ -1,0 +1,19 @@
+Bills I plan introduce in 2023-2024
+PEOPLE
+- Prime sponsoring 5 bills to systemically address the root causes of the housing crisis
+- A statewide, modest, rent-stabilization bill
+- An enabling bill to allow towns to enact rent control measures
+- A bill expanding the right-of-first-refusal to multifamily houses, assisting them in going co-op
+- Resubmitting my bill to reduce restrictions that currently prevent homeowners from adding apartments on their homes; this helps the owner buy/stay in their home while increasing the supply of high quality affordable units, all without changing rural character
+- Re-submitting my bill to enable towns to adopt a revenue neutral policy that would make home-buying vastly more affordable for the working class
+- Submitting a bill protecting everyone’s right to medical treatments that impact fertility (many doctors will especially deny women medically necessary treatments on the basis of “they’ll change their minds and want babies later”),
+- Cosponsoring bills to enshrine Roe v Wade in law and the NH Constitution
+PLANET
+- Extended Producer Responsibility (making producers of single use items and packaging pay to properly dispose of the waste they create, incentivizing them to use better and safer materials)
+- Cosponsoring any and all bills that move us to a clean energy future
+- Banning cruel horse practices
+PRINCIPLES
+- Election Day Holiday (will be my 4th prime-sponsored bill for this)
+- Ranked Choice Voting (will be my 5th prime sponsored bill on this)
+- National Popular Vote (interstate compact that effectively undoes the Electoral College, this will be my 3rd time prime sponsoring this)
+- Regulating Corporate political donations to the same standard as unions (will be my 4th time prime sponsoring this)

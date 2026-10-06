@@ -1,0 +1,11 @@
+My Story
+Casey For the People of District Two
+Born the daughter of a truck driver, I saw more of this country at a young age than most… oceans, deserts, mountains, and the people who make up every corner of it.
+What stayed with me most wasn’t just the landscape, but the stories.
+At truck stops, and even picking up a few hitchhikers along the way, I learned that every person has a story worth hearing.
+I also saw how the trucking community showed up for one another, always willing to help, always having each other’s backs.
+That’s where I learned a lasting lesson: no matter who you are or where you are, there will always be someone who needs help.
+For the past fifteen years, I’ve worked in rural healthcare, serving communities across Iowa, Kansas, and Missouri.
+I’ve seen firsthand the gaps in access to care, and I’ve worked to find solutions, expanding services so patients didn’t have to travel hours just to get the care they need.
+No one asked me to take on those challenges, but I did.
+And I learned that problem solving, and showing up when it matters, is one of my greatest strengths.

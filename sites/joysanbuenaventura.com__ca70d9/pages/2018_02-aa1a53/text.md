@@ -1,0 +1,3 @@
+ALS ambulance
+https://www.capitol.hawaii.gov/measure_indiv.aspx?billtype=HB&billnumber=837HB1616 appropriates funds for one advanced life support ambulance to be based in Puna.
+Unlike other similar bills, my version specifies that the advanced life support ambulance will be based…

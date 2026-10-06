@@ -1,0 +1,11 @@
+No one is working harder than Kate Klunk to make our community a better place to live, work, and raise a family.
+- Committed to lowering taxes, reducing health care costs, and making life more affordable for families and seniors
+- Fighting to cut wasteful spending policies that have increased costs and affordability
+- Supported pro-growth policies and regulatory reforms that have enabled the private sector to protect and create family sustaining jobs
+- Voted for the largest tax cut in Pennsylvania history this year that would significantly lower households’ energy bills
+- Worked to harness our abundant natural resources to make America and Pennsylvania more energy independent
+- Worked to protect our agricultural heritage and family farms
+- Implemented Pennsylvania’s first ever child care tax credit to help working families
+- Authored 14 bills to improve affordability, expand access, and support childcare providers and families
+- Secured additional resources for our police, fire and other first responders who are putting their lives on the line to protect us
+- Secured funding for roads, bridges, and infrastructure projects throughout the 169th distric

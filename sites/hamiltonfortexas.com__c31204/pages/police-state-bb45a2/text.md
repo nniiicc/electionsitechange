@@ -1,0 +1,21 @@
+Pushing an Authoritarian Police State
+On Wednesday (31-Jan-2024), Texas Attorney General Ken Paxton brought a lawsuit against 5 Texas cities (including Denton) over their common policy of decriminalizing cannabis.
+The charge toward these cities is for "instructing police not to enforce Texas drug laws concerning possession and distribution of marijuana" citing that the drug "is one that psychologists have increasingly linked to psychosis and other negative consequences." Now, to be clear, this is not about legalization - which would allow the drug to be bought and sold openly - but rather their lowering of the priority of pressing charges against people holding small amounts of cannabis.
+"I will not stand idly by as cities run by pro-crime extremists deliberately violate Texas law and promote the use of illicit drugs that harm our communities," Paxton said in a statement.
+"And the things that we fear are a weapon to be held against us."
+So, can someone please explain to me how this is NOT about pushing an authoritarian police state?
+I challenge Mr.
+Paxton's assertion that lowering the priority of these prosecutions harms our communities.
+Based on his fear-mongering rhetoric, it would seem that Mr.
+Paxton and his ilk believe that anyone who possesses (not uses, just physically holds) even the smallest quantities of this drug is some hard-core addict who is going to invade our homes and kill us in ways too macabre to relate to a good, Christian audience.
+This is about as foolish of an idea as the psychological operation conspiracy theory suggested recently by Fox News correspondent Jesse Watters that Taylor Swift could be part of a Pentagon operation that leverages her large online following to combat misinformation and to elevate Democrats’ political aims.
+"They shout out loud, but when push comes to shove they look for things they're afraid of."
+As I have related before regarding on this specific topic (see the link below), I have two points toward decriminalizing drug use, and neither of them is an attempt to make drugs into "a good thing".
+The first point is that police and other authorities should be prioritizing prevention of crimes like human trafficking, domestic violence/child abuse, and identity theft, all of which are arguably far more insidious to our cities and communities.
+The second (and probably more widely discussed) point is that we should not be trying to control anyone's personal choices and decisions through law.
+That's been tried before (i.e., the 18th Amendment) and it failed spectacularly.
+Until an ACTUAL crime is committed - one in which someone OTHER than the perpetrator is physically harmed, it seems to me that prohibition laws like this one only serve to empower an authoritarian police state.
+"And the knowledge that they fear is a weapon to be used against them."
+[Article Link] Decriminalizing Cannabis (and Other Drugs)
+[News Link] Texas AG Paxton Sues Cities Over Marijuana Decriminalization
+[News Link] Jesse Watters Airs Truly Bonkers Taylor Swift Conspiracy Theory

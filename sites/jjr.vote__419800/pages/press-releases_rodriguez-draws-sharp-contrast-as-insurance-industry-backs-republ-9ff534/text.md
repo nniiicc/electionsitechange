@@ -1,0 +1,15 @@
+FOR IMMEDIATE RELEASE
+February 10, 2026
+Contact: press@jjr.vote, 786-683-8781
+Miami, FL.- The Associated Industries of Florida (AIF), a powerful business lobbying group that represents Florida’s insurance and corporate interests, announced this week its endorsement of Republican Attorney General James Uthmeier.
+With legislative leaders already signaling that no meaningful property insurance reforms are expected this year, Floridians are being told to wait - again - while costs continue to rise.
+At moments like this, consumers should be able to rely on an Attorney General to enforce the law and hold insurance companies accountable.
+Instead, Florida has an Attorney General who sides with corporate and insurance interests rather than using the full authority of the office to protect families and homeowners.
+José Javier Rodríguez, Democratic candidate for Florida Attorney General, said the endorsement underscores a clear choice facing voters this November.
+“There is a clear difference between my opponent and me,” said Rodríguez.
+“While my opponent is being endorsed by insurance and corporate interests, I am committed to representing Florida families and workers.
+When the Legislature won’t act and powerful interests are calling the shots, the Attorney General has a responsibility to step up, not protect powerful industries, but hold them accountable and stand up for people who don’t have an army of lobbyists working on their behalf.”
+Rodríguez has made consumer protection, accountability, and affordability central to his campaign, emphasizing that too often powerful interests, including insurance companies and utilities, have gone unchecked while costs for everyday Floridians continue to rise.
+In recent weeks, Rodríguez has earned the support of a growing list of respected leaders known for enforcing the law and protecting consumers, including former Florida Attorney General Bob Butterworth, former U.S.
+Senator Bill Nelson, former Palm Beach County State Attorney Dave Aronberg, former Miami Beach Mayor Dan Gelber, former Florida Chief Financial Officer Alex Sink, and former state legislator and former Florida Attorney General candidate Sean Shaw.
+###

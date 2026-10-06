@@ -1,0 +1,14 @@
+A Philadelphia congressman is pushing a piece of legislation with a painstakingly crafted title that challenges President Donald Trump’s mental fitness for office.
+U.S.
+Rep.
+Brendan Boyle, a Democrat who represents parts of Northeast Philadelphia and Montgomery County, announced Tuesday the introduction of the “Standardizing Testing and Accountability Before Large Elections Giving Electors Necessary Information for Unobstructed Selection Act,” otherwise known as the “STABLE GENIUS Act.”
+Under the legislation, presidential candidates would have to undergo a medical examination that would be publicly disclosed before the election.
+Nominees with political parties would have to undergo the examination by the Secretary of the Navy and file the results with the Federal Election Commission.
+The bill, a direct shot at President Donald Trump, is aimed at his recent Twitter outburst after some questioned his mental stability, particularly after the release of “Fire and Fury,” a scathing book that chronicles author Michael Wolff’s year in the White House but has faced scrutiny for allegedly fabricated parts and lapses in journalistic ethics.
+Trump and his aides have publicly denied accusations that he is mentally unstable, with the president calling himself a “stable genius.”
+“The President believes he is a ‘stable genius.’ I do not,” Boyle said in a statement.
+The congressman said he believes the president’s “reckless, erratic behavior” has exposed a problem with the election process.
+“Before voting for the highest office in the land, Americans have a right to know whether an individual has the physical and mental fitness to serve as President of the United States,” Boyle said.
+Such a gaudily named bill specifically targeting a GOP president has basically zero chance of passing in a Republican Congress, something Boyle likely knows, suggesting this is as much a political statement as it is a true legislative effort.
+But Boyle insists that it would be a “proactive” step and a “safeguard” to ensure future presidential candidates “meet the standards of a proper, standardized medical examination” before voters take to the polls.
+Read the original article here

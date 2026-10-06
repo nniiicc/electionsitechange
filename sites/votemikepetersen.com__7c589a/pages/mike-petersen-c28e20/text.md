@@ -1,0 +1,40 @@
+Mike Petersen is the Vice President of LetterPress Software, a Utah based, instructional design and training development firm.
+Launched in 1997, LetterPress has been honored with the Best of State award, and has created training solutions for countless organizations including Ernst & Young, Kaplan, Inc, the 4H and many more.
+Mike and his wife Sallie moved to North Logan in 1990 so Mike could attend graduate school at Utah State University.
+Sallie is a speech pathologist for the Cache County School District.
+Their 41 years of marriage has blessed them with 4 children and 10 grandchildren.
+Most of the Petersen family calls Cache Valley their home.
+Qualifications
+Utah State Legislature
+- Member, Utah House of Representatives (January 2021 - Current)
+- Criminal Justice Appropriations Subcommittee, Chair
+- Government Operations Interim Committee
+- House Government Operations Committee
+- House Transportation Committee
+- Transportation Interim Committee
+- Federalism Commission
+GOP Service
+- Precinct Chair (2016 - 2020)
+- State Delegate at GOP State Convention (2016 & 2020)
+InTech Collegiate High School
+- President, Board of Governors (2011 - 2017)
+- Member, Board of Governors (2009 – 2017)
+Greenville Elementary School
+- President, Community Council 2012 -2013
+- Member, Community Council 2010 – 2013
+Cache Valley Transit District (CVTD)
+- President, Board of Directors 2006 - 2008
+- Secretary, Board of Directors 2001 - 2002
+- Member, Board of Directors 2001 - 2008
+Miscellaneous
+- High School Counselor (2000 -2006)
+- Scoutmaster, Boy Scouts of America, 2010-2016
+- District Award of Merit, Boy Scouts of America
+- Eagle Scout recipient
+- Member of American Festival Chorus, 2010-2012 and 2016-2018
+- Avid bicyclist, sailor, hiker, and downhill skier
+- Missionary (Church of Jesus Christ of Latter-day Saints) Japan, 1982 – 1984
+Education
+- Ph.D. in Instructional Design and Learning Sciences from Utah State University
+- M.Ed. in Educational Psychology from Brigham Young University
+- B.S. in General Psychology from Brigham Young University

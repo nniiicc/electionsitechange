@@ -1,0 +1,23 @@
+Skip navigation menu
+Civil rights advocate, youngest woman dean of an accredited law school in American history, Michigan's Secretary of State, military spouse, and mother – Jocelyn Benson is running for governor to make Michigan the best place to be a kid, raise a kid, and call home.
+Her career has been defined by fearless public service and transformational leadership.
+The daughter of two special education teachers, Jocelyn was raised in a middle class family that instilled the values of hard work, opportunity, and serving others.
+From a young age, she knew she wanted to fight for justice and make a difference.
+As a student at Wellesley College, she became the first college student ever elected to the governing body for the town of Wellesley, Massachusetts.
+After college, Jocelyn dedicated herself to investigating threats to democracy and civil rights.
+She went undercover in Alabama to investigate domestic terrorist cells that emerged following the Oklahoma City bombing, then traveled to the United Kingdom to study the international links of modern white supremacists and neo-Nazi movements.
+She brought this same commitment to protecting and defending people’s rights and freedoms to Detroit, where she served as a law clerk to the Honorable Damon J.
+Keith, continuing her work in service and civil rights.
+Jocelyn made history when she was appointed dean of Wayne State University Law School at age 35.
+As the youngest woman to lead an accredited law school in American history, Jocelyn built a team rooted in honesty, integrity, and service.
+She raised significant funds to ensure all students could afford their education, froze tuition, and expanded scholarships to lower costs for families.
+Under her leadership, Wayne Law became one of the country's leading law schools.
+When Jocelyn became Michigan's Secretary of State in 2019, she got to work on day one to make life easier for every Michigander.
+She transformed Michigan's motor vehicle department from having some of the longest wait times in the country into a national model for government efficiency.
+Jocelyn eliminated wait times, created over 150 self-service stations to serve Michiganders in every corner of the state, and implemented initiatives to make Michigan's elections the most secure and accessible in the nation.
+In the face of threats to both herself and her colleagues, Jocelyn oversaw two of the highest turnout and most transparent elections in the state's history.
+Those results led to a 14-point victory in 2022, leading the ticket and winning counties no other Democrat had.
+WHAT SHE DID
+As a mom, Jocelyn’s north star in this election is making sure Michigan is affordable for everyone so our young people, seniors, and everyone in between can stay and thrive in Michigan.
+She knows firsthand that government works best when it’s there when you need it, and gets out of the way when you don’t.
+The cost of living is crushing Michiganders but Jocelyn believes that government can make life easier with the right leader as governor who will use every tool available to expand rural healthcare options, build more housing, take on the utility companies who raise our rates, make childcare free, and ensure our agencies work, so anyone can afford to live in the best place to call home.

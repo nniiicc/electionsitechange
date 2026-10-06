@@ -1,0 +1,56 @@
+Voting Information
+Early Voting
+Saturday Aug 22nd - Friday Aug 28th
+Primary Election
+Tuesday, September 1st
+BELMONT
+EARLY VOTING POLLING LOCATION:
+BELMONT TOWN HALL
+SCHEDULE
+Aug 22: 10 AM - 2 PM
+Aug 23: 10 AM - 2 PM
+Aug 24: 8 AM - 7 PM
+Aug 25: 8 AM - 4 PM
+Aug 26: 8 AM - 4 PM
+Aug 27: 8 AM - 4 PM
+Aug 28: 8 AM - Noon
+SEPTEMBER 1ST POLLING LOCATIONS:
+PRECINCT 1: Belmont Memorial Library (336 Concord Ave)
+PRECINCT 2: Belmont Town Hall (455 Concord Ave)
+PRECINCT 3: Beech Street Center (266 Beech St)
+PRECINCT 4: Daniel Butler School (90 White St)
+PRECINCT 5:Beech Street Center (266 Beech St)
+PRECINCT 6: Belmont Fire HQ (299 Trapelo Rd)
+PRECINCT 7: Mary Lee Burbank School (266 School St)
+PRECINCT 8: Winn Brook School (97 Waterhouse Rd)
+ARLINGTON
+EARLY VOTING POLLING LOCATION:
+ARLINGTON TOWN HALL
+SCHEDULE
+Aug 22: 1 PM - 6 PM
+Aug 23: 1 PM - 6 PM
+Aug 24: 8 AM - 4 PM
+Aug 25: 8 AM - 4 PM
+Aug 26: 8 AM - 4 PM
+Aug 27: 8 AM - 7 PM
+Aug 28: 8 AM - Noon
+SEPTEMBER 1ST POLLING LOCATIONS:
+Precinct 2 & 4: Hardy School, 52 Lake Street (Entrance on Brooks Avenue)
+Precinct 8 & 10: Town Hall, 730 Massachusetts Ave.
+Precinct 12: Brackett School, 66 Eastern Ave.
+CAMBRIDGE
+EARLY VOTING POLLING LOCATIONS:
+Moses Youth Center, 243 Harvard Street
+Cambridge Water Department, 250 Fresh Pond Parkway
+Valente Library, 826 Cambridge Street
+SCHEDULE
+Aug 22: 2 PM - 8 PM
+Aug 23: 9 AM - 3 PM
+Aug 24: 9:30 AM - 5 PM
+Aug 25: 9:30 AM - 5 PM
+Aug 26: 9:30 AM - 5 PM
+Aug 27: 9:30 AM - 5 PM
+Aug 28: 9:30 AM - 5 PM
+SEPTEMBER 1ST POLLING LOCATIONS:
+Ward 11-1: Reservoir Church, Rear Entrance, 170 Rindge Ave
+Ward 11-3: St John the Evangelist Church, Side Entrance, 2254 Massachusetts Ave

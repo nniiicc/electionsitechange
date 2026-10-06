@@ -1,0 +1,38 @@
+The Common Sense Plan: Detailed Solutions
+Andrew's Commitment:
+The grit and independence of the Lone Star State aren't slogans, they're how I was raised and how I've served.
+From the FFA barn to the battlefield, from cancer treatment to the classroom where my wife teaches, I've learned that real leadership means serving the least of these.
+Austin has failed rural Texas long enough.
+It's time to rebuild the ladder to the middle class, restore local control, and remember that when politicians are quick to send us to war, it's the people of rural Texas who have our backs.
+Now it's our turn to have theirs.
+- Texas Heroes & Families Care Plan
+- Rural hospital restoration
+- Level 2 NICUs in every nonprofit hospital by 2030
+- End voucher schemes draining rural schools
+- Title 1 School Transformation Grants
+- Texas Future Partnership with universities and trade schools
+- Texas First Procurement Rule
+- Property tax relief for working families
+- Support for small businesses and family ranches
+- Fully funded rape kit testing
+- Practical gun safety training
+- Vocational programs for inmates
+1.
+Healthcare Investments That Reduce Emergency Costs
+- Current System: Uninsured Texans use ERs for basic care—the most expensive option costing taxpayers billions
+- Our Solution: Preventive care through expanded coverage reduces ER visits by 40%
+- Savings: $3.2 billion annually in uncompensated care costs
+- Cost: $2.1 billion in strategic Medicaid expansion
+- Net Gain: $1.1 billion saved + healthier communities
+2.
+Education Partnerships That Build Workforce
+- Current System: High school graduates without skills cost Texas in welfare and lost productivity
+- Our Solution: Graduates with 30+ college credits or trade certifications earn $15,000 more annually
+- Return: Every $1 invested in early college/trade programs yields $3 in economic growth
+- Funding Source: Redirected administrative waste from education bureaucracy
+3.
+Criminal Justice Reforms That Cut Recidivism
+- Current System: Incarcerating one inmate costs Texas $45,000/year
+- Our Solution: Vocational training reduces recidivism by 25%
+- Savings: $11,250 per inmate annually
+- Scale: Applied to 10,000 inmates = $112.5 million saved

@@ -1,0 +1,48 @@
+2026 Campaign Endorsements
+- Wisconsin Conservation Voters, Conservation Champion
+- Wisconsin Education Association Council (WEAC)
+- National Association of Social Workers, Wisconsin Chapter
+- WI Bricklayers and Allied Craftworkers
+- Sierra Club
+- Committee to Protect Health Care
+- Moms Demand Action for Gun Sense, Gun Sense Candidate Distinction
+- Wisconsin Progress
+- Clean Wisconsin Action Fund
+- Everytown for Gun Safety
+- Northern Midwest Regional Council of Carpenters
+2024 Campaign Endorsements
+- Wisconsin Conservation Voters, Conservation Champion and Honor Roll
+- Planned Parenthood Action of Wisconsin
+- Moms Demand Action for Gun Sense, Gun Sense Candidate Distinction
+- Everytown for Gun Safety
+- Wisconsin Education Association Council (WEAC)
+- National Association of Social Workers, Wisconsin Chapter
+- American Federation of State, County and Municipal Employees (AFSCME)
+- Service Employees International Union (SEIU)
+- Wisconsin Troopers Association
+- Clean Wisconsin
+- Sierra Club
+- Care for WI
+- AFT Wisconsin
+- Wisconsin Progress
+- National Democratic Redistricting Committee
+- Teamsters Local 344
+- Wisconsin Sheet Metal, Air, Rail and Transportation Workers Union (SMART)
+- Fair Wisconsin
+Legislative Awards
+- Champion of Commerce, Metropolitan Milwaukee Association of Commerce, 2026
+- Conservation Champion, Wisconsin Conservation Voters, 2026
+- Legislator of the Year, Wisconsin Historical Society, 2026
+- Friend of Family Medicine, Wisconsin Academy of Family Physicians, 2024
+- Friend of Home Health Care, Wisconsin Association for Home Health Care, 2024
+- Life Saver Award, Early Detection Saves Lives Coalition (Breast Cancer Awareness), 2023-2024
+- Conservation Champion and Honor Roll, Wisconsin Conservation Voters, 2024
+- Wisconsin Legislator of the Year - American College of Physicians Wisconsin Chapter, 2023
+- Milwaukee County Legislative Champion, County Executive David Crowley, 2023
+- Champion of Commerce, Metropolitan Milwaukee Association of Commerce, 2022
+- Wisconsin Legislator of the Year, Mothers Against Drunk Driving, 2022
+- Conservation Champion, Wisconsin Conservation Voters, 2022
+Interested in learning more about Rep.
+Deb Andraca’s accomplishments
+in the Wisconsin State Assembly?
+Visit www.RepAndraca.com

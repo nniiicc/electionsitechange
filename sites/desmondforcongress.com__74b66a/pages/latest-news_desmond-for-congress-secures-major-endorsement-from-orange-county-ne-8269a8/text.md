@@ -1,0 +1,16 @@
+Desmond for Congress Secures Major Endorsement from Orange County New Majority—Uniting OC and San Diego Leaders Behind His Campaign
+In a major show of strength, the New Majority of Orange County has officially endorsed Supervisor Jim Desmond for Congress in California’s 49th District.
+This endorsement follows the earlier support of the New Majority of San Diego County, uniting both chapters of one of the most influential political and business networks in California behind Desmond’s campaign.
+Joe Stapleton, Chairman of the Orange County New Majority, said:
+"The New Majority is proud to stand united behind Jim Desmond.
+Jim has spent years fighting for lower taxes, safer communities, and accountable government.
+His leadership is exactly what’s needed in Congress to stand up for Southern California families, protect our communities, and bring much-needed balance to Washington."
+Greg Lansing, Chairman of the San Diego County New Majority, echoed that support:
+"Jim Desmond is the clear choice to represent the 49th District in Congress.
+His proven record as a County Supervisor, his dedication to common sense leadership, and his commitment to bringing real results for the people of Southern California are exactly what we need in Washington.
+Jim understands the unique challenges facing both San Diego and Orange Counties—and he has the experience, integrity, and vision to get things done."
+Supervisor Desmond expressed his deep gratitude for the endorsement:
+"I’m honored to have the endorsement of both the Orange County and San Diego County New Majority.
+These are leaders who understand the importance of strong, common-sense leadership, and I’m grateful for their confidence in me.
+Together, we’ll fight for a safer, more affordable, and more prosperous future for every family in the 49th District."
+With this united backing, Desmond continues to build strong momentum as the leading Republican candidate to flip the 49th Congressional District.

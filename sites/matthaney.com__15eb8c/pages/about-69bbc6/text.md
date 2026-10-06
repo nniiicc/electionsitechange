@@ -1,0 +1,22 @@
+Skip navigation menu
+An effective, progressive leader with a proven track record
+Assemblymember Matt Haney proudly represents California’s 17th Assembly District encompassing the eastern side of San Francisco.
+Haney serves as Chair of the Committee on Housing and Community Development and Chair of the Legislative Renters’ Caucus, where he is one of the few renters in the Legislature.
+He also chairs the Committee on Downtown Recovery and serves on the Committees on Natural Resources, Public Safety, Business and Professions, and Budget Subcommittee 5 on State Administration.
+He also serves as Chair of the California Legislative Irish Caucus, and Chair of the Select Committee on Fentanyl, Opioid Addiction, and Overdose Prevention.
+Previously, he held leadership roles as Assistant Majority Whip, and Assistant Majority Leader for Policy and Research.
+In the Assembly, Haney has prioritized expanding access to housing, creating high paying jobs and supporting small businesses, ensuring greater access to health care, confronting the fentanyl and opioid crisis, and supporting the economic recovery of California’s downtowns.
+He has championed legislation to accelerate housing construction and enforcement, improve workplace safety and fairness, expand access to lifesaving addiction treatment, and strengthen California’s cultural and economic hubs so that urban cores can rebound from the pandemic.
+“Being a leader means stepping up when your constituents need help and doing whatever it takes to support them.”
+Matt has delivered real results on some of the biggest challenges facing San Francisco with determined, innovative leadership.
+Before joining the Assembly, Haney served on the San Francisco Board of Supervisors, representing District 6 which includes San Francisco’s downtown neighborhoods, he led efforts to build over 5,000 units of new housing, expand tenant protections, improve mental health services, create more affordable housing, and support workers and small businesses.
+Haney began his public service on the San Francisco Board of Education, where he was twice elected citywide.
+As School Board President, he worked to expand access to technology, support educators, and strengthen services for students with disabilities and those experiencing homelessness.
+Haney was the only candidate for any office in San Francisco and only incumbent school board member in the country ever to be endorsed by former President Barack Obama.
+“Matt is an extraordinary leader...I believe Matt represents the passion, commitment and vision that we need in our elected leaders.”
+Haney is a former Adjunct Faculty Member at the Stanford Design School, and taught Education Law at the JFK School of Law, and Sociology at Palo Alto University.
+Matt is the former Executive Director of the UC Student Association, California Youth Vote Director for Obama for America 2008, and formerly worked in Bosnia as part of the Domestic War Crimes court tribunal.
+Haney lives in San Francisco’s Tenderloin neighborhood.
+He earned a B.A. from the University of California, Berkeley; a Master’s in Human Rights from the National University of Ireland; and both a Master’s degree and a J.D. from Stanford University.
+California’s 17th Assembly District includes the eastern side of San Francisco, including the downtown core, Tenderloin, Union Square, North Beach, Mission, Bayview, Castro, Noe Valley, SoMa, Hayes Valley, Potrero Hill, Excelsior, and Chinatown.
+– President Barack Obama

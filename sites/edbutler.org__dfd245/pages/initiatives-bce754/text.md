@@ -1,0 +1,27 @@
+VOTE ED BUTLER FOR TENNESSEE HOUSE REPRESENTATIVE DISTRICT 41
+Signed in as:
+filler@godaddy.com
+I want to focus on the things I can offer District 41: innovative & fresh ideas, a new view of the challenges coupled with fresh solutions to solve them.
+My experience and service has prepared me to seek solutions to our current challenges and promote our District, to help secure a prosperous future for our children.
+I do not have all the solutions and will certainly not pretend I do; however, I will apply the same passion, determination, dedication and hard work while seeking the best solutions that will serve you and District 41.
+Relative to the registration and licensing of motor vehicles, this bill requires that upon the death of a person who owns and operates a freight motor vehicle registered as weighing 26,001-80,000 pounds, or who operates a freight motor vehicle registered as weighing 26,001-80,000 pounds and who owns 51 percent or more of the stock in the entity that owns the freight motor vehicle ("eligible operator"), in order to secure a refund of the unused portion of the registration fee paid, the certificate of registration and related license plate must be surrendered to, and a copy of the death certificate of the deceased eligible operator must be submitted to the department of revenue ("department").
+To view the video migrate to 6:30 from Feb 7, 2024 please click here.
+Disabled Persons - Amends TCA Title 8; Title 39; Title 44 and Title 62, Chapter 7, Part 1.
+As enacted, authorizes an employee of a public accommodation to ask for certain information about a dog guide in training; specifies that an individual utilizing a service animal or training a service animal in training is liable for damages to the same extent that an individual whose pet causes damages to a public accommodation is; makes other related changes to service animals and service animals in training.
+To view the video migrate to 20:00 from Mar 14, 2023 please click here.
+Adoption - As enacted, authorizes a court to waive certain waiting periods and expedite certain proceedings relative to the adoption of children abandoned or voluntarily left at a facility or in a newborn safety device if certain conditions are met. - Amends TCA Title 36, Chapter 1; Title 37, Chapter 5 and Title 68, Chapter 11.
+To view the video migrate to 25:30 from March 29, 2023 please click here.
+Adoption - As enacted, revises the definition of abandonment for purposes of termination of parental rights to include circumstances where the parent or guardian fails to visit or support the child for a period of three consecutive months if the child is less than four years of age. - Amends TCA Title 36, Chapter 1; Title 37, Chapter 5 and Title 68, Chapter 11.
+To view the video migrate to March 7, 2023 please click here.
+Historical Sites and Preservation - As enacted, creates the Tennessee monuments and memorials commission, which is required to study, hear, and resolve petitions for waiver under the Tennessee heritage protection act. - Amends TCA Section 4-1-412.
+To view the video migrate to 55:08 from April 5, 2023 please click here.
+Scholarships and Financial Aid - As enacted, clarifies when a student must be enrolled in an eligible postsecondary program to be eligible to receive a Tennessee Promise scholarship. - Amends TCA Title 49, Chapter 4.
+To view the video migrate to 25:30 from Jan 29, 2024 please click here.
+Children's Services, Dept. of - As introduced, requires that a newborn safety device be installed in each county in this state. - Amends TCA Title 36 and Title 68.
+To view the video migrate to 25:30 from Feb 28, 2024 please click here.
+By adding your email to our mailing list we will keep you up-to-date on events and topics affecting our community and our families.
+Copyright © 2024 Ed Butler - All Rights Reserved.
+PAID FOR BY THE CANDIDATE.
+Designed and Managed by Sonia Krahnert, owner Creative Court East. www.creativecourteast.com
+We use cookies to analyze website traffic and optimize your website experience.
+By accepting our use of cookies, your data will be aggregated with all other user data.

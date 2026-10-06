@@ -1,0 +1,19 @@
+Home
+VOTING
+CONTACT
+VOTING
+I would be honored to earn your vote on November 3rd.
+REGISTER TO VOTE
+FIND MY POLLING LOCATION
+ABSENTEE VOTING
+ALABAMA SENATE DISTRICT 28
+Russell County
+Alabama Senate District 28
+Alabama Senate District 28
+Alabama Senate District 28
+Alabama Senate District 28
+Alabama Senate District 28
+Houston County
+Alabama Senate District 28
+Houston County
+Paid for by Committee to Elect Brent Comer, PO Box 128, Pittsview, AL 36871

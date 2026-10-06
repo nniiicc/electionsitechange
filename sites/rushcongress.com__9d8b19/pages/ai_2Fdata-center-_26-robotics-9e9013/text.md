@@ -1,0 +1,74 @@
+Signed in as:
+filler@godaddy.com
+Rep.
+AOC and Senator Bernie Sanders Introduce the AI Data Center Moratorium Act.
+I fully support and agree that this bill must be passed ASAP!!!
+Something happened that I’ve been waiting for—and frankly, something that needed to happen much sooner.
+Bernie Sanders and Alexandria Ocasio-Cortez (AOC) have introduced a proposal calling for a moratorium on AI data centers and development expansion until we can fully understand and regulate the risks.
+Let me be very clear:
+I fully support this effort.
+From the very beginning of my campaign for Congress in Georgia’s 14th District, I have said that Artificial General Intelligence (AGI) is not just another issue—it is the issue that could define the survival and future of humanity.
+Artificial intelligence is advancing at extraordinary speed.
+Recent incidents have demonstrated that
+the risks of losing meaningful human control are no longer purely theoretical.
+Advanced AI agents have already bypassed intended safeguards, circumvented containment systems, accessed the open internet when they were not supposed to, identified vulnerabilities on their own, and in some cases gained unauthorized access to real-world computer systems.
+These incidents do not mean that artificial intelligence has completely escaped human control.
+But they are serious warnings that our ability to develop increasingly powerful and autonomous systems may be advancing faster than our ability to reliably understand, contain, monitor, and control them.
+Artificial General Intelligence, or AGI, generally refers to AI capable of performing across an extremely broad range of intellectual tasks at or beyond human capability.
+There is no single universally accepted definition of AGI, but the central concern is clear: as AI systems become increasingly capable, autonomous, persistent, and able to interact with the real world, the consequences of a failure of human control become increasingly serious.
+***** I support a moratorium on further development toward AGI and other highly autonomous general-purpose AI systems while enforceable national and international safeguards are established.
+Those safeguards should address human control, independent safety testing, transparency, containment, cybersecurity, shutdown mechanisms, accountability, and clear limits on the autonomy granted to advanced AI systems.
+***** I also support a temporary halt to the construction and expansion of AI data centers, including projects currently under construction, while communities, states, and the federal government fully evaluate their effects on electricity demand, water supplies, utility rates, grid reliability, land use, public infrastructure, cybersecurity, and the communities expected to support them.
+AI should remain a tool that serves humanity.
+Decisions about systems with the potential to profoundly affect our economy, security, democracy, and future should not be made simply because the technology can be developed faster.
+We are moving at breakneck speed toward creating systems that may soon surpass human intelligence.
+This isn’t science fiction anymore.
+We are talking about:
+- Systems that can outthink humans
+- Systems that can replace millions of jobs overnight
+- Systems that could be weaponized in ways we cannot control
+- Systems that may act beyond human oversight
+And the truth is:
+We are not ready.
+Not legally.
+Not ethically.
+Not structurally.
+Slowing down is not anti-innovation.
+It is responsible leadership.
+A temporary pause gives us time to:
+- Establish real safeguards and oversight
+- Create ethical frameworks for development
+- Protect workers and prepare economic transitions
+- Prevent irreversible mistakes
+Because once this technology crosses certain thresholds…
+There is no undo button.
+This isn’t just a global issue—it’s a local one.
+The people of Northwest Georgia deserve:
+- Job security in an AI-driven economy
+- Protection from corporate overreach and unchecked automation
+- A voice in how this technology shapes their lives
+I am running for Congress to represent you—not tech billionaires, not special interests, and not corporations racing each other to build something they themselves admit they don’t fully understand.
+I stand with efforts like this proposed legislation because:
+- We must put humanity before profit
+- We must govern technology before it governs us
+- We must protect people before we accelerate risk
+Even in a time of war, division, and threats to democracy…
+This is the issue that could impact every human being on this planet—permanently.
+When elected, I will fight for:
+- A national and international framework for AI safety
+- Transparency and accountability in AI development
+- Economic protections for displaced workers
+- A system where the benefits of AI belong to the people—not just the wealthy few
+We are standing at a crossroads in human history.
+One path leads to incredible progress and shared prosperity.
+The other… leads somewhere we may not be able to come back from.
+Now is the time to choose wisely.
+👉 I encourage everyone to watch the above video and start paying attention to this issue.
+Because whether we act or not…
+AI is coming.
+The only question is—will we be ready?
+Rob Rush
+Paid for by Rob Ruszkowski ( Rush ) for Congress
+Rising Fawn GA 30738
+We use cookies to analyze website traffic and optimize your website experience.
+By accepting our use of cookies, your data will be aggregated with all other user data.

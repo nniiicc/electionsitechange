@@ -1,0 +1,30 @@
+At an award ceremony held at the Robert Wood Johnson Barnabas Health (RWJBH) Medical Center in Toms River, NJ, Rep.
+Chris Smith (R-NJ) announced the winners of his 2026 Congressional Art Competition, which drew submissions from 60 high school students across New Jersey’s Fourth Congressional District.
+“Thank you to all the students participating in the art show.
+Your commitment, discipline and creative talent have produced impressive works of art, that over the past several weeks, have been marveled at and enjoyed by thousands of people—including patients, doctors, nurses, hospital staff and visitors,” Smith told guests at Friday’s reception.
+Since during first term in Congress in 1982, Smith has held the annual contest, which recognizes, fosters, and celebrates the artistic talent of local high school students.
+Visit Smith’s 2026 Virtual Art Gallery to view all entries for this year, or here to view the judges’ 2026 top selections.
+“This year, as we celebrate the 250th anniversary of the signing of the Declaration of Independence on July 4, we rely upon artistic depictions of the time to understand and appreciate the sacrifices made to establish the United States of America,” Smith continued.
+“George Washington would certainly have approved of the congressional art show.
+He once said, ‘To encourage literature and the arts is a duty which every good citizen owes to his country.’”
+Aaron F.
+Hajart, MS, ATC, FACHE, President and CEO of Community Medical Center, also spoke at the reception and joined Smith to present the winners with their ribbons and congressional certificates.
+“We were honored to once again host the annual Congressional Art Competition and exhibition,” said President and CEO Hajart.
+“Hospital staff, patients, and visitors have greatly enjoyed seeing artwork from these talented local high school students within our medical center.
+We thank Representative Chris Smith and his team for sharing this opportunity to connect with our community members in this creative way.”
+Throughout the award ceremony, Smith congratulated all of the student artists, especially and including “Best in Show” winner Julia Ahlfeld of Wall High School for her painting, “End of an Era,” completed in oil on Masonite, which will be displayed within the U.S.
+Capitol over the next.
+All artwork submitted to the competition had been on display at RWJBH Community Medical Center since April 2, culminating in this past weekend’s award ceremony.
+The complete list of winners selected by Smith’s panel of judges—comprised of local artists Debbie Jencsik, Jim Inzero and Rich Thompson—includes:
+- Best in Show: Julia Ahlfeld’s “End of an Era,” done in oil on Masonite, from Wall High School (Grade 12);
+- First Place Runner-up: Megan Farrell’s “Puppy in Contrast,” done in charcoal, from Wall High School (Garde 11);
+- Second Place Runner-up: Hazel Stockton’s “Barefoot Summer Nights,” done in charcoal on black paper, from Wall High School (Grade 11);
+- Third Place Runner-up: Clarisa Herrera’s “Heart String,” done in colored pencil, from Wall High School (Grade 12);
+- Fourth Place Runner-up: Abigail Buechler’s “The Silent Goodbye,” done in colored pencil, from Wall High School (Grade 12);
+- Fifth Place Runner-up: Danice Alameda-Munoz’s “Education is Everything,” done with Computer Graphics, from The Rugby School (Grade 11);
+- Honorable Mention: Anthony Garcia’s “Kenny the Frog,” done in Acrylic Paint, from Ocean Academy Charter High School (Grade 10);
+- Honorable Mention: Kiley Knueppel’s “Tamed, not Changed,” done in colored pencil, from Wall High School (Grade 12);
+- Honorable Mention: Luna Montague’s “Double Trouble,” done in ebony pencil, from Red Bank Regional High School (Grade 11); and
+- Honorable Mention: Alivia Czerwinski’s “Winter Watcher,” done in oil on Masonite, from Wall High School (Grade 12).
+Closing out his remarks, Smith said, “Although only one artwork can be selected by our judges to hang in the U.S.
+Capitol—where it will be seen along with submissions from every participating congressional district in America, by an estimated half-million people—I thank each of you for taking the time and the effort to share with us your inspiring creations.”

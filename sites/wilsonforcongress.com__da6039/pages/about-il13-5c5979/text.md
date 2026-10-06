@@ -1,0 +1,21 @@
+top of page
+Common Sense - Not Nonsense
+Life, Liberty, and the Pursuit of Happiness
+ENDORSEMENTS
+Illinois Family Action
+Illinois College Republicans
+Illinois Republican Party Chairman Kathy Salvi
+Congressman Mike Bost (IL-12)
+Congressional Republican Organization of IL
+Illinois RNC Committeeman Dean White
+Illinois RNC Committeewoman Rhonda Belford
+Champaign County Republican Women
+Illinois State Senator Chapin Rose
+13th District State Central Committeewoman Cindy Lamar
+Macoupin County GOP Chair Kristi Dunnagan
+Piatt County GOP Chair Jim Ayers
+Sangamon County GOP Chair Dianne Hardwick
+Champaign County GOP Chair Jeff Brownfield
+Madison County Treasurer Michael Babcock
+Illinois Citizens for Life, PAC
+bottom of page

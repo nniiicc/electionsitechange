@@ -1,0 +1,3 @@
+For all you small business owners out there in need to build back a strong workplace to grow economically and mentally healthy in the post pandemic era, state leaders have some crucial information thanks to new bills put into law.
+A town hall was hosted by Senator Samra Brouk and Assembly Woman Sarah Clark to give those who own and work at small businesses across the area firsthand knowledge with how getting themselves and their workers back on their feet is possible.
+“Financial, mental health resources available for New York small businesses,” June 29, 2021 via Rochester First

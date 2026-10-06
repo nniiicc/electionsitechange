@@ -1,0 +1,54 @@
+DeWine signs budget bill providing millions to the Valley
+(WKBN) – Ohio Governor Mike DeWine signed a $4.2 billion two-year construction budget Friday for capital projects throughout the state.
+The bill was approved by the House on Wednesday.
+Substitute House Bill 2 will provide funding for many local community projects, according to press releases from several state representatives.
+“We have people who are helping to grow this economy, who also want to enjoy the fruits of their labors, meaning they need a place to recreate to enjoy a place to call home; to enjoy their passions near their homes, whether that’s hiking, fishing, hunting, sports.
+The arts communities across the state will receive a substantial amount of money to improve the quality of life in their communities,” said Lt.
+Gov.
+Jon Husted.
+Local investments in Mahoning County included (A spokesperson for Al Cutrona said some of these amounts also include dollars from the Strategic Community Investment Fund, or SCIF, one-time funding included in the bill):
+- $1,500,000 for the Animal Charity of Ohio Infrastructure Expansion
+- $1,000,000 for the Community Learning Center
+- $875,000 for the West Branch Regional Community Education and Wellness Training Center in Mahoning County
+- $750,000 for the expansion and improvement of the Mahoning Valley Historical Society
+- $660,000 for the Campbell access and safety project
+- $650,000 for the Mahoning County Veterans Center
+- $600,000 for Salem Airpark improvements
+- $300,000 to complete the Salem City Village Green Lincoln Plaza
+- $501,389 for the Youngstown area Jewish Federation Building expansion
+- $450,000 for the Mahoning Valley Regional Multi-Jurisdictional Infrastructure Initiative
+- $300,000 for the Boys and Girls Club of Youngstown
+- $338,00 for the Youngstown Playhouse roof ($238,000 from SCIF, plus $100,000 from 2-year budget)
+- $292,000 for the Sheridan Road multi-use trail ($185,000 from SCIF (one-time money), plus $107,000 from 2-year budget)
+- $159,131 for the Boys and Girls Club of Oak Hill
+- $103,150 for the City of Struthers Mauthe Park Splash Pad
+- $100,000 for the Rich Center for Autism Building for Tomorrow Phase II
+- $93,000 for the OCCHA Renovado Capital Campaign
+- $60,000 for the Canfields Police Department Drone Program
+- $60,000 for the War Veteran Museum Facility and Program Improvement Project
+- $50,000 for the Austintown 911 Memorial Park
+- $14,480 for the VFW roof repairs for Ellsworth Post 9571
+State Rep.
+Al Cutrona’s office also cited the following investments in Mahoning County and the surrounding area:
+- $600,000 to replace the roofing system and install a comprehensive fire and intrusion prevention system at the Mahoning Valley Historical Society
+- $450,000 for the Rich Center for Autism Building for Tomorrow to renovate its current space, upgrade facilities, and expand reach throughout the Youngstown community.
+Phase 2 includes the construction of a Professional Development Center, therapy wings, and making repairs to the HVAC system
+- $700,000 to support the Penguin City Brewing Company Upgrade Project which includes finishing paving the parking lot, adding solar panels and outside electrical outlets for food trucks, new restrooms for banquet center window replacement, etc.
+- $200,000 for the Butler Institute of Art Studio Maker Space including Renovations to Butler North Education Center, turning the gym, kitchen and stage into a flex area for traditional mediums like oil, sculpture, metalworking and 3D printing.
+Other renovations include new security and IT systems, lighting, restrooms and kitchen.
+- $100,000 for Youngstown Playhouse upgrades
+Also, more than $12 million will go to Youngstown State University.
+“Today we approved millions of dollars’ worth of funds to support and enhance Mahoning County and the surrounding area,” said State Rep.
+Al Cutrona (R-Canfield).
+“I’m excited for these investments to help the region continue to grow and thrive.”
+Funding in Columbiana County includes the following:
+- $1,000,000 for the East Palestine Village Safety Complex
+- $2,900,000 for the Columbiana County Annex
+- $150,000 to dredge the Wellsville Marina, ensuring its use by the vibrant community
+- $157,011 for the Little Beaver Creek Greenway Trail Culvert replacement project
+Also in Trumbull County, State Representative Nick Santucci (R-Howland Twp.) helped secure:
+- $500,000 to update Eastwood Field, home of the Mahoning Valley Scrappers.
+These funds will replace the field with turf, enclose the batting cages, and upgrade the lighting across the stadium.
+- $250,000 to renovate the grandstands at the Trumbull County Fairgrounds.
+- $83,000 to renovate the Copper Penny Building in Vienna as a part of the Vienna Historical Society.
+Governor Mike DeWine signed the bill Friday.

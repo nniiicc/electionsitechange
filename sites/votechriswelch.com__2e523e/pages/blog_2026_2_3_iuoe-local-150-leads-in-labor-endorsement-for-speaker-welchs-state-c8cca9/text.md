@@ -1,0 +1,70 @@
+IUOE Local 150 Leads in Labor Endorsement for Speaker Welch’s State Central Run
+CHICAGO— The International Union of Operating Engineers (IUOE) Local 150 today announced its endorsement of Illinois House Speaker Emanuel Chris Welch for 7th District State Central Committeeperson, citing his strong record of standing with working families and organized labor.
+As Speaker of the Illinois House, Welch has been a consistent and reliable partner to labor, advancing policies that protect job standards, expand workforce training opportunities, and ensure union voices are heard in Springfield.
+His leadership has helped grow Illinois’ economy while strengthening protections for workers across the state.
+“Chris Welch has proven time and again that he understands what it takes to protect working families and grow Illinois’ economy,” said Jim Sweeney.
+“As Speaker, he has stood shoulder to shoulder with labor to strengthen job standards, expand workforce training, and ensure union members have a seat at the table.
+IUOE Local 150 proudly endorses Chris Welch for 7th District State Central Committeeperson.”
+IUOE Local 150 represents thousands of skilled operating engineers across Illinois and is committed to supporting leaders who share its values of fairness, opportunity, and economic growth for working people.
+As Congressman Danny Davis prepares to retire from public service, a broad and diverse group of leaders is now calling for Welch to represent the diverse 7th District on the Democratic Party of Illinois’ State Central Committee.
+Welch’s full endorsement list includes:
+- Congressman Danny K.
+Davis
+- Former Secretary of State Jesse White
+- Democratic Party of Illinois Chair Lisa Hernandez
+- Cook County Clerk Monica Gordon
+- Bellwood Mayor Andre Harvey
+- Broadview Mayor Katrina Thompson
+- Hillside Mayor Joe Tamburino
+- Maywood Mayor Nathaniel Booker
+- River Forest President and Committeeperson Cathy Adduci
+- Westchester President Greg Hribal
+- State Representative Kam Buckner
+- State Representative Lisa Davis
+- State Representative Michael Crawford
+- State Representative Margaret Croke
+- State Representative Kelly Cassidy
+- State Representative Kimberly DuBuclet
+- State Representative Eva-Dina Delgado
+- State Representative Marcus Evans
+- State Representative La Shawn Ford
+- State Representative Edgar Gonzalez
+- State Representative Norma Hernandez
+- State Representative Lilian Jiménez
+- State Representative Theresa Mah
+- State Representative Debbie Meyers-Martin
+- State Representative Yolonda Morris
+- State Representative and Committeeperson Aarón Ortíz
+- State Representative Jawaharial “Omar” Williams
+- State Representative Sonya Harper
+- State Representative Justin Slaughter
+- State Representative Anne Williams
+- 1st Ward Committeeperson Laura Yepez
+- 2nd Ward Committeeperson Tim Egan
+- 3rd Ward Alderwoman and Committeeperson Pat Dowell
+- 4th Ward Alderman Lamont Robinson
+- 11th Ward Alderwoman Nicole Lee
+- 14th Ward Alderwoman Jeylú Gutiérrez
+- 15th Ward Alderman and Committeeperson Ray Lopez
+- 16th Ward Alderwoman and Committeeperson Stephanie Coleman
+- 18th Ward Alderman Derrick Curtis
+- 20th Ward Alderwoman Jeanette Taylor
+- 22nd Ward Alderman Mike Rodriguez
+- 24th Ward Alderwoman and Committeeperson Monique Scott
+- 25th Ward Alderwoman and Committeeperson Byron Sigcho-Lopez
+- 26th Ward Alderperson Jessie Fuentes
+- 27th Ward Alderman Walter Burnett
+- 34th Ward Alderman Bill Coway
+- 36th Ward Alderman and Committeeperson Gilbert Villegas
+- 37th Ward Alderwoman and State Central Committeewoman Emma Mitts
+- 42nd Ward Alderman and Committeeperson Brendan Reilly
+- 43rd Ward Alderman Timmy Knudsen
+- 43rd Ward Committeeperson Lucy Moog
+- Cook County Commissioner Scott
+- MWRD President Kari Steele
+- Cicero Township Village President and Committeeperson Larry Dominick
+- Cook County Commissioner and 11th Ward Committeeperson John Daley
+- DNC member Dan Hynes
+- Former State Central Committeewoman Darlena Williams Burnett
+- Chicago LGBTQ Hall of Famer and Former Personal PAC President Terry Cosgrove
+- IUOE Local 150

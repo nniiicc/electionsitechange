@@ -1,0 +1,63 @@
+As a passionate veteran, STE(A)M professional and educator,
+I have a strong desire to use my knowledge, skills and abilities
+to perpetually learn, lead, mentor, manage and innovate!
+Lt Col Matthew R.
+Buehler, USAF (Retired) was commissioned through the ROTC Program at Arizona State University in December 1992.
+His father served more than 27 years as a Navy test pilot.
+Lt Col Buehler spent his childhood following his father to assignments in Maryland, California, Virginia and New York, as well as overseas in Tehran, Iran.
+His two older brothers were also military officers in the Army and Marine Corps.
+Together they served 59 years as commissioned officers in the four major branches of our Nation’s military.
+While stationed in Las Vegas during his third Air Force assignment, Lt Col Buehler met and married his wife, the former Ms.
+Susan Rebecca Dempsey of Simi Valley, CA.
+POST-MILITARY CIVILIAN EMPLOYMENT
+ASVAB Test Administrator, Sacramento MEPS, Northern NV (12/2015 – 10/2019)
+Administer the ASVAB examination to high school students and prospective military enlistees.
+Long-Term Substitute Science & Math Teacher/Rifle Coach, WCSD, NV (8/2014 – 12/2015)
+Instructed/mentored 300+ students in Algebra I/II, Geometry, and Physical Science at North Valleys and
+Damonte Ranch High Schools.
+Proctored ACT and state competency examinations.
+ACTIVE-DUTY MILITARY CAREER (Lt Col, USAF, Retired)
+Professor of Aerospace Studies/Air Force ROTC Commander, CSU – Fresno (6/2012 – 5/2014)
+Led “High Flight” (Best in SW Region) Detachment of three officers, two enlisted and 100+ cadets in teaching and developing future officers and leaders of character for the US Air Force.
+Member of Faculty Senate and Council of Chairs; and Faculty Advisor to the University’s Tau Beta Pi Engineering Honor Society.
+Assistant Prof of Biology/Deputy for Manpower, US Air Force Academy, CO (6/2009 – 5/2012)
+Taught Cell and Molecular Biology Course (Course Director; 2 Semesters), Introductory Core
+(Human) Biology (Course Manager; 5 Semesters) and Independent Study (1 Semester).
+Academic advisor to 30+ cadets majoring in Biology.
+Managed Department’s faculty pipeline program, coordinated AF’s Biomedical Sciences Corps
+application process and oversaw Academy’s Pre-Health Professions Program.
+Bi-monthly duty as Academy Officer In-Charge, responsible for the safety and security of 4,400-member Cadet Wing; Dep Commander for Global Engagement Summer Training Program.
+USAF Academy Faculty Pipeline Program, AFIT-CI, Wright-Patterson AFB OH (7/2007 – 5/2009)
+Defense: A proposed mechanism for autism: an aberrant neuroimmune response manifested as a psychiatric disorder (Medical Hypotheses: 76 (2011) 863-870), 98 citations.
+Air and Cyberspace Analyst/Chief of Security, HQ USAF/A9, The Pentagon (7/2004 – 6/2007)
+Led analyses of key AF programs using vital computer-model simulation/optimization studies, which impacted over 30 percent of the Air Force budget.
+Managed security programs and clearances.
+Chaired Building Security Working Group, making key decisions for physical security of off-site building with 1,200+ DoD/contractor employees.
+Executive Assistant to SES civilian charged with stand-up of new Air Force Cyber Command.
+Director of Operations/Project Engineer, AFOTEC/OL-NN, Las Vegas, NV (4/2000 – 6/2004)
+Managed support for AFOTEC operational test and evaluation (OT&E) programs worth over $100B at key operating location providing classified testing of high-priority weapon systems.
+Responsible for scoping, budgeting, planning, designing, executing, data collection/analysis and reporting on multiple, concurrent electronic warfare system tests for conventional/LO platforms.
+Formulated/coordinated Air Force Operational Test and Evaluation Center’s inputs to Nevada Test and Training Range long-range strategic plan for infrastructure upgrade requirements.
+Flight Test Engineer and Analyst, 422nd Test and Eval Sq, Nellis AFB NV (4/1996 – 3/2000)
+Planned, provisioned, executed, collected/analyzed data and reported on operational tests and tactics development and evaluations to enhance the operational effectiveness of combat aircraft.
+Lead test engineer for the Combat Air Force’s $350M+ HH-60G Self-Protection System program geared toward integrating and enhancing the aircraft’s defensive systems capabilities.
+Program Manager, Explosives Development, AF Research Labs, Eglin AFB FL (4/1994 – 3/1996)
+Employed techniques of analytical chemistry to characterize components of and formulate new, composite high-energy explosives as a replacement for TNT in future munitions.
+Managed contracts and led Small Business Innovative Research proposal evaluation team to develop unique additives to explosives to enhance blast energy of weapons.
+SIGNIFICANT PRE-MILITARY EMPLOYMENT
+Admissions Coordinator, Undergraduate Admissions, Arizona State University (1/1994 – 4/1994)
+Student Assistant, Student Health Center, Arizona State University (8/1990 – 5/1992)
+Resident Assistant, Residence Life, Arizona State University (8/1989 – 8/1990; 8/1992 – 5/1993)
+Campaign Volunteer for Senator Bob Dole Presidential Campaign at Washington, DC HQ (1987-88)
+United States Senate Republican Page (1986)
+POST-SECONDARY ACADEMIC EDUCATION
+M.S. in Biology (Psychoneuroimmunology), University of Nevada - Reno, Reno, NV (2009)
+M.B.A.
+(Information Systems), University of Nevada - Las Vegas, Las Vegas, NV (2004)
+B.S.E. in Bioengineering (Chemical Engineering), Arizona State University, Tempe, AZ (1992)
+SIGNIFICANT CURRENT COMMUNITY INVOLVEMENT
+Military Officer’s Association of America (MOAA), Sierra Nevada Chapter, VP
+United States Air Force Academy (USAFA) Academy Liaison Officer (ALO) for Northern Nevada
+WC Audit Committee; Citizens Advisory Board; and Sewage, Wastewater and Sanitation Board
+Kerry Blue Terrier Foundation (KBTF) Rescue Coordinator, Nevada and Northern CA
+Reno Central Rotary Club

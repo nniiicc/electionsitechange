@@ -1,0 +1,79 @@
+La plataforma completa de Brian
+La postura de Brian.
+Siete temas.
+Posturas concretas.
+Sin promesas vagas: solo aquello por lo que Brian luchará en Phoenix.
+Tema
+Empleos y economía
+Salarios dignos y buenos empleos para cada habitante de Arizona
+Arizona cuenta con talento de primer nivel en ingeniería, tecnología e innovación.
+Brian cree que podemos construir una economía que mantenga ese talento aquí y, al mismo tiempo, abra caminos reales para que cada habitante de Arizona participe, no solo unos cuantos afortunados.
+- ✓ Apoyar a las pequeñas empresas y a los emprendedores locales reduciendo las trabas regulatorias
+- ✓ Invertir en el desarrollo de la fuerza laboral y en capacitación alineada con las necesidades de la industria
+- ✓ Defender salarios dignos que sigan el ritmo del creciente costo de vida en Arizona
+- ✓ Atraer empleadores de alta calidad y, a la vez, proteger los derechos y las prestaciones de los trabajadores
+Tema
+Educación
+Escuelas con financiamiento completo y salarios justos para los maestros
+Un estado que no financia bien sus escuelas está tomando prestado de su futuro.
+Arizona se ha ubicado constantemente entre los últimos lugares en gasto por alumno.
+Eso se acaba.
+Brian luchará por financiar por completo las aulas y pagar a los maestros lo que merecen.
+- ✓ Financiar por completo las escuelas públicas K-12 para cumplir con los requisitos constitucionales
+- ✓ Aumentar el salario de los maestros a niveles competitivos para reclutar y retener a grandes educadores
+- ✓ Ampliar la formación vocacional y técnica para los empleos del mañana
+- ✓ Garantizar que cada niño tenga acceso a una educación de calidad en la primera infancia
+Tema
+Salud
+Atención médica asequible y de calidad para las familias de Arizona
+Los costos de la atención médica están asfixiando a las familias de Arizona.
+Nadie debería tener que elegir entre atenderse y pagar la luz.
+Brian luchará por políticas que hagan que la atención médica de calidad sea accesible para cada habitante de Arizona.
+- ✓ Proteger y ampliar la cobertura de Medicaid (AHCCCS) para las familias de Arizona
+- ✓ Reducir el costo de los medicamentos recetados mediante precios transparentes y compras al por mayor
+- ✓ Apoyar el acceso a la atención médica en zonas rurales y los centros de salud comunitarios
+- ✓ Dar a la salud mental la misma prioridad que a la salud física en cobertura y financiamiento
+Tema
+Vivienda asequible
+Hogares seguros y al alcance de todos en todo el estado
+Arizona está creciendo rápido y el costo de la vivienda supera el ritmo de los salarios.
+El ingeniero que Brian lleva dentro ve esto como un problema de sistemas con soluciones reales; solo necesitamos líderes dispuestos a mirar de verdad y actuar.
+- ✓ Eliminar las barreras a la construcción de nuevas viviendas y recortar la burocracia innecesaria
+- ✓ Ampliar los programas de vivienda asequible y fortalecer las protecciones para inquilinos
+- ✓ Apoyar la asistencia para compradores de primera vivienda de familias trabajadoras
+- ✓ Atender la falta de vivienda con soluciones de vivienda primero que produzcan resultados medibles
+Tema
+Agricultura y agua
+Proteger a los agricultores de Arizona y nuestro suministro de agua
+El agua es el recurso más valioso de Arizona.
+Nuestros agricultores construyeron este estado.
+Brian defenderá a ambos frente a políticas cortoplacistas y abusos corporativos, porque sin agua ni seguridad alimentaria, nada más importa.
+- ✓ Proteger los derechos de agua de Arizona y hacer cumplir políticas de uso sostenible de las aguas subterráneas
+- ✓ Apoyar a los agricultores familiares con acceso justo al mercado y orientación sobre los programas federales
+- ✓ Invertir en infraestructura hídrica y tecnología de conservación
+- ✓ Exigir cuentas a las corporaciones por la extracción excesiva de aguas subterráneas
+Tema
+Comunidades seguras
+Familias y vecindarios fuertes en todo Arizona
+La seguridad es más que vigilancia policial.
+Significa escuelas fuertes, buenos empleos, recursos de salud mental y vecinos que se cuidan entre sí.
+Brian está comprometido con un enfoque integral que realmente reduzca la delincuencia.
+- ✓ Apoyar a las fuerzas del orden con capacitación y recursos adecuados, y con medidas de rendición de cuentas
+- ✓ Invertir en programas comunitarios de prevención de la violencia y en organizaciones juveniles
+- ✓ Ampliar la respuesta a crisis de salud mental como complemento de la labor policial tradicional
+- ✓ Proteger las medidas de seguridad pública que han demostrado funcionar, respetando los derechos constitucionales
+Tema
+Seguridad económica
+Protección económica y estabilidad financiera para todos
+Una factura médica.
+Un despido.
+Una emergencia.
+No debería bastar un solo golpe de mala suerte para destruir el futuro financiero de una familia.
+Brian luchará por las redes de protección y las políticas que den a los habitantes de Arizona la estabilidad para capear el temporal.
+- ✓ Fortalecer el seguro de desempleo y las protecciones para los trabajadores frente a la pérdida repentina del empleo
+- ✓ Proteger el Seguro Social y la seguridad en la jubilación de los adultos mayores de Arizona
+- ✓ Ampliar el acceso a apoyos para el cuidado infantil para que los padres puedan trabajar y progresar
+- ✓ Combatir los préstamos abusivos y la explotación financiera dirigida a las familias trabajadoras
+¿Quiere hacer esto realidad?
+Brian no puede lograrlo sin usted.
+Cada hora de voluntariado y cada dólar nos acercan más a noviembre.

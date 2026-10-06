@@ -1,0 +1,44 @@
+Title Insurance and the Free Market Free markets are stifled when the government controls price and/or product.
+American is the world economic leader because of our free market policies.
+When the government controls price and/or product the free market is destroyed.
+The good news is that consumers are the principle benefactors of free market competition….
+Read more
+News
+Capitol Hall Report – August 8, 2016 – Are Gun Free Zones Safe?
+Gun Free Zones Safe?
+Gun-free zones have become hunting preserves for Islamic terrorists and psychopathic murderers, who have declared open season on innocent civilians.
+As I have articulated before, it is no surprise that terrorists and criminals seeking to commit mass murder target gun-free zones.
+Businesses that establish themselves as “gun-free” provide a guaranteed path… Read more
+Capitol Hall Report – June 30, 2016 – Title Insurance and the Free Market
+Title Insurance and the Free Market Competition is always good for consumers but in Texas the highly regulated Title Insurance business is stifling competition.
+Free market competition was a key element in making America great.
+America was founded on competition.
+When a marketplace is allowed to be a free market, our economy thrives.
+So why then… Read more
+Capitol Hall Report – June 24, 2016 -Intelligent Ramp Metering to Assist with Road Travel Woes?
+Intelligent Ramp Metering to Assist with Road Travel Woes?
+Part One Imagine a freeway system with no tolls, a 50+ percent reduction in peak hour travel times, 50 percent fewer accidents, a reasonable time for commuting to work, and more consistent mainline speeds during peak periods.
+Also, imagine a 17 percent reduction in harmful environmental… Read more
+Editorial: Women and Children’s Protection and Safe Spaces Act
+Women and Children’s Protection and Safe Spaces Act It is time to address this so called “transgender bathroom” issue and discuss the consequences that the backers and media do not want you to know.
+Warning.
+This is a very frank article describing the reality of the recently created issue that is being mislabeled as “transgender… Read more
+Capitol Hall Report – May 26, 2016
+On Friday, May 13th, the Republican Party of Texas overwhelmingly voted to include in its platform several key conservative positions.
+I am supportive of and personally committed to bringing these platform items to fruition during the next legislative session.
+These new planks in the Texas Republican Party Platform touch on all aspects of Texan’s lives,… Read more
+Capitol Hall Report – May 3, 2016
+Enough is enough….
+The recent brutal beating death of 4-year-old Leiliana Wright of Grand Prairie is a painful reminder of the consequences that accompany the state’s failure to protect our most vulnerable Texans: abused and neglected children.
+According to the Texas Department of Family and Protective Services, in 2015 alone, a total of 66,721 children… Read more
+Capitol Hall Report- March 30, 2016
+Time to audit unaccountable transportation agencies Texas’ first public-private toll road on SH 130 recently went bankrupt.
+However, rather than be released from the controversial public private partnership contract, the Texas taxpayers are being asked to endure the possibility of yet another private entity taking over the debt-laden project.
+Many Texans were hoping to finally… Read more
+Capitol Hall Report – March 17, 2016
+Validity and Integrity of Texas Elections is Being Compromised Texas election laws are not being followed in many counties.
+Without this consistency, and with the “it’s the way we do it” attitude, this has greatly opened the door to fraud.
+The true intent of the Legislature was to ensure voter integrity at the highest expectation is… Read more
+Texas Deserves a Secure Electric Grid: Part 4
+Texas Deserves a Secure Electric Grid: Part 4 In previous “Texas Deserves a Secure Electric Grid” Capitol Hall Reports, I addressed the clear and present danger of the electromagnetic pulse (EMP) threat to the state of Texas.
+In these articles I highlighted how our Texas electrical grid infrastructure is vulnerable to an EMP attack or… Read more

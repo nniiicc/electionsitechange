@@ -1,0 +1,1 @@
+Video Interview: Kate for the People’s Candidates of Our Dreams Interview Jun 22 Written By Joe Tache See full interview here: https://kateforthepeople.substack.com/p/candidates-of-our-dreams-joe-tache Joe Tache

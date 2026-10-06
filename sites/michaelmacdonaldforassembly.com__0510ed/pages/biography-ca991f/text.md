@@ -1,0 +1,26 @@
+Michael MacDonald’s life has been shaped by resilience, public service, and a deep commitment to community.
+Michael’s story is rooted in hard work, public service, and community.
+His great-grandparents immigrated to the United States from Italy in search of opportunity, eventually building a family restaurant and banquet hall that became a gathering place for the community.
+From an early age, Michael learned that strong communities are built when people show up for one another.
+Ventura County has always been home.
+Michael attended Pierpont Elementary, spent his summers here growing up, and ultimately returned to build his life and career in the community that shaped him.
+Like many Californians, his journey was not handed to him.
+He worked in restaurants while putting himself through school, earned his degree in Political Science from California State University Channel Islands, and is currently completing his MBA at CSUCI.
+Today, Michael and his husband have planted their roots in Ventura County because they believe in the future of this community — and in the people who make it special.
+Michael’s career has been defined by fighting for transparency, stronger communities, and government that actually works for people.
+His experience includes:
+- Ventura City Clerk leading elections, public records, transparency, and government modernization
+- Senior Advisor to Regional Government Services (RGS), working with California cities and agencies on transparency, governance, and organizational reform
+- Office Manager to Senator Fran Pavley
+- District Representative to Senators Hannah-Beth Jackson and Scott Wiener
+- Former Assistant City Clerk for the Cities of Berkeley and Port Hueneme
+- Former Chair of the Oakland Public Ethics Commission
+- Board Member of the California Municipal Clerks Association
+- Policy leadership with the League of California Cities on public safety, transparency, and governance reform
+- Co-founder and Board Member of Diversity Collective Ventura County
+- Former Treasurer of the Ventura County Young Democrats and recipient of the 2017 Young Democrat of the Year Award
+- Lead trainer for California’s municipal clerk certification program through the University of California Riverside
+- Recipient of the 2025 President’s Legislative Award from the California Municipal Clerks Association for legislative reform work in Ventura
+- Recipient of the 2018 Community Hero Award
+- Holder of both the Master Municipal Clerk (MMC) designation and the California Professional Municipal Clerk (CPMC) designation.
+From working in restaurants to putting himself through college, from helping residents solve problems in local communities to leading transparency and governance reforms, Michael's story reflects the experiences of many Californians who have worked hard, overcome challenges, and still believe in the promise of a better future.

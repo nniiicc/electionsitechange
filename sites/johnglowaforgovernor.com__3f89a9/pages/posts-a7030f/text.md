@@ -1,0 +1,22 @@
+ICE and the Federal Government
+ICE stands for Immigration and Customs Enforcement.
+Unfortunately, it has become Donald Trump’s personal gestapo.
+No governor of a state should ever be put in the position of having to
+I supported the Pine Tree Power referendum to purchase Central Maine Power and Versant. https://www.maine.gov/meopa/electricity/utilities I still support purchasing these two entities and forming a customer owned non-profit. https://ctmirror.org/2023/11/11/maine-public-power-company-referendum-vote/ For
+https://www.yahoo.com/news/articles/retired-dep-employee-third-independent-210034712.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHHIKqa2oaR66omnPzRkf0U2ySfTltMnShPJn3MfAKCXPDeND_xqKHqAOsKTdMZyJ14UOB9mM_VVyo3vex8s4hjMn2PrfWcHmzNhKEME-yW_Q_W8UbGrr_8WQHlN08_zhjZMWAvRtXWLvad9i8E1ujyaHz-EwSwfwjmMHMXqlvRH
+https://mainemorningstar.com/briefs/retired-dep-employee-is-third-independent-to-join-the-race-for-governor
+https://spectrumlocalnews.com/me/maine/politics/2025/08/07/retired-maine-state-worker-announces-run-for-governor-in-2026
+FOR IMMEDIATE RELEASE August 6, 2025 John M.
+Glowa, Sr. announces an independent bid for governor of Maine State retiree and longtime environmental and wildlife advocate John M.
+Glowa, Sr.
+A vote for me is a vote for you.
+If you want more of the same from Maine’s government, vote for anyone but me.
+If you want a democracy; if
+Something stinks and it’s not rotten food.
+It’s Maine politics.
+I’ve had a number of people tell me they are concerned that a “spoiler” in the gubernatorial race might give
+Today I attended the Pride Portland parade and festival.
+It was one of the most satisfying and enriching days of my life.
+I met and spoke with many wonderful folks
+I had the pleasure today of being one of a thousand or so people who rallied at the State House against the Trump regime.
+Like the rally I attended in

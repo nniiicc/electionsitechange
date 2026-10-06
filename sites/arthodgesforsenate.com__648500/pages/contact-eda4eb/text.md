@@ -1,0 +1,2 @@
+Get Involved Join us and help our campaign!
+JOIN THE PRAYER ZOOM CALL JOIN THE ZOOM CALL HERE LATEST NEWS Featured September 20, 2026 Art Hodges Visits Ocean View Church in San Diego September 20, 2026 Read more → September 20, 2026 September 13, 2026 Chula Vista Celebrates El Grito - Heritage, Family and the Cry for a Better Future September 13, 2026 Read more → September 13, 2026 September 12, 2026 Honored to address the SoCal IRONMEN Conference — 600 strong September 12, 2026 Read more → September 12, 2026 Join Us on Social Media FAITH FAMILY FREEDOM FUTURE

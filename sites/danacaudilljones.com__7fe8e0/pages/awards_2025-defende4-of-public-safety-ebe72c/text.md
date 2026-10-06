@@ -1,0 +1,9 @@
+The North Carolina Sheriffs’ Association recognizeS SENATOR DANA JONES WITH DEFENDER OF PUBLIC SAFETY AWARD
+Raleigh, NC — The North Carolina Sheriffs’ Association (NCSA) has recognized Senator Dana Jones as a 2025 Defender of Public Safety for the important work done during the 2025 legislative session to protect public safety in North Carolina.
+During a session that saw a heavy concentration of law enforcement and public safety-related bills, Senator Jones dedicated time and effort advocating for law enforcement issues important to the Association, which impact the Office of Sheriff, local communities, and the state.
+“Senator Jones has been a valuable partner in the recent legislative session, supporting the legislative priorities of the North Carolina Sheriffs’ Association, which is a voice for all 100 sheriffs of the state,” said Sheriff Ricky T.
+Buchanan, President of the Association.
+“As a result, our sheriffs will be able to see harsher punishments for criminals who poison our communities with fentanyl and for felons who flaunt the law and continue to commit crimes with firearms that it is already illegal for them to possess.
+In addition, thanks to the leadership and support of legislators like Senator Jones, sheriffs also saw the passage of a bill this session resulting in law enforcement officers no longer being forced to choose between continuing to work and serve the communities they love, and losing a retirement benefit they worked a whole career to earn.”
+During the 2025 legislative session, the General Assembly considered hundreds of bills and enacted dozens of laws that had a direct impact on law enforcement and public safety in North Carolina.
+The 2026 session is expected to begin in April and will likely see many additional law enforcement and public safety-related bills.

@@ -1,0 +1,40 @@
+Healthcare
+Affordable & Accessible Healthcare
+Arizona continues to face major gaps in healthcare access, especially in rural communities where hospitals and providers are increasingly difficult to access.
+At the same time, healthcare costs continue rising faster than wages.
+I support:
+- Expanding access to affordable healthcare
+- Lowering prescription drug costs
+- Expanding preventative and primary care services
+- Increasing access to rural healthcare providers
+- Protecting and strengthening Medicaid
+- Expanding dental and vision coverage
+Dental and vision care are healthcare — not luxury add-ons.
+Too many people are forced to live with chronic dental pain, untreated vision problems, or massive out-of-pocket costs because these services are treated like optional coverage when they directly impact quality of life, education, and the ability to work.
+My long-term goal is a healthcare system where everyone has access to care regardless of income, employment, or background.
+I believe expanding affordable healthcare coverage and strengthening programs like Medicaid are important first steps toward a universal system.
+Healthcare should focus on keeping people healthy — not just treating people once they are already in crisis.
+Mental Health
+Arizona is facing a growing mental health crisis, especially among young people and families are struggling to find affordable counseling, crisis support, or long-term treatment options.
+Mental health affects every part of society — education, public safety, addiction, homelessness, family stability, and economic opportunity.
+Ignoring it only creates larger problems later.
+I support:
+- Expanding school-based mental health services
+- Increasing access to counselors and crisis intervention programs
+- Investing in youth mental, behavioral and developmental health support and diagnostic services
+- Expanding community-based treatment programs
+- Reducing barriers to mental healthcare access
+People should be able to ask for help before reaching a breaking point.
+Reproductive Freedom & Bodily Autonomy
+I believe personal healthcare decisions belong between individuals and their doctors
+I support protecting reproductive freedom, access to contraception, prenatal care, maternal healthcare, and abortion access.
+Reproductive justice also means making sure people have the resources, education, and healthcare access needed to make informed decisions about their own lives and futures.
+No one should lose access to healthcare because of their income, location, identity, or background.
+LGBTQ+ Healthcare & Equality
+Every person deserves to be treated with dignity and have equal access to healthcare and public services.
+I support:
+- Protecting access to gender-affirming healthcare
+- Expanding nondiscrimination protections
+- Supporting LGBTQ+ youth mental health resources
+- Ensuring people are treated respectfully and fairly within healthcare systems
+Healthcare should be centered on compassion, science, and patient well-being

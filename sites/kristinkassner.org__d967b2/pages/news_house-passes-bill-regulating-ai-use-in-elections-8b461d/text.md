@@ -1,0 +1,19 @@
+House Passes Bill Regulating AI Use in Elections
+BOSTON, MA – The Massachusetts House of Representatives has passed bills regulating the use of artificial intelligence in political advertisements.
+The bills would require the disclosure of AI use in political advertisements and would ban deceptive communications about a candidate or about the electoral process within three months of an election.
+“Creating and spreading false information about an election undermines the foundation of our democracy by denying people the ability to make informed choices.
+Emerging technologies now make it alarmingly easy to fabricate voices and images, accelerating the spread of election misinformation, said Representative Kristin E.
+Kassner (D-Hamilton).
+“The use of AI-generated deepfakes for the purposes of manipulating voters and disrupting elections is an attack on democracy,” said Representative Tricia Farley-Bouvier, House Chair on the Joint Committee on Advanced Information Technology, the Internet and Cybersecurity.
+“As technology advances at a rapid pace, voters should not have to wade through maliciously altered or AI-generated content to get the facts about an election.
+The House is taking reasonable and timely steps to mitigate any possible negative outcomes and preserve election integrity.”
+An Act to Protect against Election Misinformation prohibits the distribution of deceptive communications within 90 days of an election, which includes:
+· Audio or visual media which depicts a candidate with intent to injure their reputation or deceive a voter into voting for or against them.
+· Media that concerns the safety or regular operations of an election with intent to disrupt the integrity of the electoral process.
+· Content with the intent to mislead voters as to the date and time of an election; the requirements, methods, or deadlines to vote; the certification of an election; and the express endorsement of a candidate or ballot initiative by a political party, elected official, nonprofit organization, or another person.
+The bill authorizes a political candidate whose voice or likeness appears in a materially deceptive audio or visual media to seek injunctive or other equitable relief prohibiting the distribution of the media, or to bring an action for damages and attorney’s fees against the party that distributed the media.
+Exemptions for the 90-day prohibition include: media outlets who air the ads or report on the ads as part of a newscast as long as they clearly acknowledge that there are questions about its authenticity; websites, newspapers, magazines and periodicals; and satire and parody.
+An Act enhancing disclosure requirements says failure to disclose AI generated materials are punishable by a fine of not more than $1,000.
+An Act to Protect against Election Misinformation passed the House by a vote of 154-3.
+An Act enhancing disclosure requirements for synthetic media in political advertising passed the House by a vote of 157-0.
+Both bills now go to the Senate for consideration.

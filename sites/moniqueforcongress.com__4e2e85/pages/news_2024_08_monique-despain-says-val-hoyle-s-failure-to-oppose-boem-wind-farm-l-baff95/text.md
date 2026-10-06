@@ -1,0 +1,29 @@
+Hoyle Ignores Local Opposition and Impact on Coastal Economy and Ocean Habitat, District Has No Voice in D.C.
+Eugene, OR – Today, Monique DeSpain reacted to Val Hoyle’s complete failure to listen to and advocate for coastal constituents following the very disappointing announcement by the federal Bureau of Ocean Energy Management (BOEM) of their decision to move forward with leasing the Offshore Windfarms, despite overwhelming vehement local opposition from fishing and tourism-based businesses and residents.
+Congresswoman Hoyle has failed to voice any opposition to the projects, only requesting more feedback sessions like the ones that have so far appeared to have been ignored - a request that was rejected by BOEM earlier this summer.
+“BOEM just gave a giant middle finger to the people of Coos, Curry, Douglas, and Lincoln Counties with this atrocious decision to move ahead over the vocal and well-founded opposition of our vital fishing and tourism industries, tribes, local elected officials, and desperately concerned coastal citizens,” stated DeSpain.
+“The silence of our federal elected representative, Val Hoyle, is deafening.
+It is stunning how ineffective she is at fighting on behalf of Fourth District constituents on the Oregon Coast against a rogue Federal agency like BOEM.”
+BOEM announced that their “environmental analysis” for issuing the leases found “no significant impacts,” contrary to testimony and public statements by opponents, which have cited many severe negative impacts on coastal businesses, pristine natural habitats, and sea life.
+BOEM is preparing a final sale notice and inviting qualified participants to a lease auction of the proposed areas in mid-October.
+Any leases issued would give the participant the right to submit wind farm project proposals for the specific portion of the 195,000 acres being auctioned.
+This would be followed by a comprehensive environmental review under the National Environmental Policy Act.
+“Right now, our District’s coastal communities have no voice at the policy and federal funding tables in Washington, D.C.
+I oppose these proposed windmill farms off the coast of Oregon because the people who live and work in the profoundly affected communities overwhelmingly object to these experimental proposals that promise to deliver relatively little clean energy at enormous cost to the people and our precious coastal ecosystems,” said DeSpain.
+Earlier wind farm projects on the East Coast have experienced catastrophic technical failures and massive bankruptcies, leading to a significant political backlash by members of Congress there.
+Coastal elected officials, tribal interests, and representatives of the seafood and tourism industries on the 4th District coast have warned of dire consequences for these vital economic sectors and pristine ocean habitats.
+Feedback in hearings held by BOEM has been reported as overwhelmingly against wind farms.
+This fall, coastal voters will be asked, in a non-binding advisory question on the November ballot, if they want their counties to work in opposition to the offshore wind energy projects.
+“Shame on Congresswoman Val Hoyle for ignoring what representative government means while her coastal constituents get clobbered by the Biden Administration and Big Wind.
+This is yet another vivid example of how career politician Val Hoyle isn’t listening or taking action, as she only represents D.C., not the 4th District,” added DeSpain.
+This past March, DeSpain called out Congresswoman Val Hoyle’s weak request to the Bureau of Ocean Energy Management (BOEM) to allow more community input, which failed to accomplish any delay or halt to the imminent offshore wind project along the coast near Coos and Curry Counties.
+“As a retired Air Force Colonel, a fighter for crime victims, and the mother of twin sons, I will replace Val Hoyle’s failure with leadership that listens and takes action on behalf of the voiceless in Congress.
+Deploy me to Congress, and let’s make it happen.”
+This past May, the Democratic Congressional Campaign Committee moved Val Hoyle to its “Frontline” list of vulnerable incumbents, a powerful sign of Hoyle’s weakness versus the strong challenge being offered by GOP nominee DeSpain.
+Last week, the National Republican Congressional Committee (NRCC) named Monique DeSpain to their Young Guns Program, recognizing her campaign as one of the best and strongest in the country and making OR-04 a key flip opportunity for national Republicans.
+DeSpain has challenged Hoyle to six debates in six counties in the 4th District, to which Hoyle has so far failed to agree.
+Monique DeSpain is a retired U.S.
+Air Force Colonel, mother of twin boys, and public policy advocate who resides in Eugene, Oregon.
+She is the Republican nominee for Oregon’s 4th Congressional District, running to unseat incumbent Congresswoman Val Hoyle in 2024 and bring about a safer, more prosperous Oregon.
+Her campaign website is www.MoniqueForCongress.com
+To arrange a candidate interview or obtain additional information about her campaign, please contact the Communications Director, Kevin Hoar, at press@moniqueforcongress.com or call 541-321-6095.

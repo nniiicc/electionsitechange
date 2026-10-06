@@ -1,0 +1,16 @@
+Embedded Files
+Let me know how I can best represent Legislative District 1
+Email Contact: SelinaSBliss@gmail.com
+Phone: 1-480-788-5110
+Mail:
+PO Box 11297
+Prescott, AZ 86304
+Let's connect!
+LinkedIn - Click here to join me on LinkedIn
+Twitter/X - Click here to join me on Twitter/X or go to @SelinaBliss
+Facebook - Click here to Like and Follow my campaign page on Facebook or go to @SelinaBlissLD1
+Instagram - Click here to follow my campaign on Instagram or go to SelinaBlissforLD1
+Paid for by the Committee to Elect Selina Bliss for State Representative – District 1.
+Authorized by Selina Bliss.
+Google Sites
+Report abuse

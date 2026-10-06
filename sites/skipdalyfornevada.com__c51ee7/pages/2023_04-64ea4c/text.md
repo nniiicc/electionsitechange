@@ -1,0 +1,3 @@
+This was published on the Las Vegas Review Journal on April 12, 2023.
+Voting along party lines, the Senate Committee on Commerce and Labor passed a heavily amended bill Wednesday that will make significant changes to the workers’ compensation system.
+Senate Bill 274,...

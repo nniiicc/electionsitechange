@@ -1,0 +1,46 @@
+Senator Daphne Campbell — Monthly Newsletter Florida State Senate | Working for the People of Senate District 38
+Message from Senator Campbell
+Dear Friends and Neighbors,
+As many of you are aware, the 2018 Legislative session concluded in March.
+I would like to share with you the incredible work that was accomplished on your behalf in Tallahassee, which I believe will bring much needed jobs and economic development to Senate District 38.
+This session I sponsored numerous Appropriations Project requests and I am pleased to share that I have secured $3.7 million dollars in local project funding for cities and businesses in District 38.
+In addition, I was also instrumental in helping secure over $125 million dollars for Miami Dade College.
+In total, this adds up to more than $128.7 million dollars in state funding for District 38 this legislative session.
+2018–2019 State Budget Projects
+Here are the projects that made it into the 2018–2019 State budget:
+- City of North Miami Beach — Master Force Main (Senate Form 1899) — $400,000
+- Aventura — NE 183rd St Seawall Restoration (Senate Form 1586) — $200,000
+- North Miami Arch Creek North/South Drainage (Senate Form 1900) — $496,750
+- Holocaust Memorial Miami Beach (Senate Form 2018) — $333,499
+- Jesus Christ Angels Liberty Square Program (Senate Form 2283) — $100,000
+- Poinciana Park Intermodal Logistic Center (Senate Form 1203) — $2,000,000
+- No One Left Behind (Senate Form 1615) — $150,000
+- Project Be Strong — Teen Pregnancy Prevention Program (Senate Form 1907) — $50,000
+I look forward to continuing to deliver for the residents of District 38.
+For more information on all of the projects sponsored by Senator Campbell, please visit the Florida Senate website at www.flsenate.gov.
+Thank you for the opportunity to serve you.
+Daphne Campbell State Senator, District 38
+Committee Assignments
+- Children, Families & Elder Affairs
+- Communication, Energy & Public Utilities
+- Community Affairs
+- Appropriations Subcommittee on Finance & Tax
+- Appropriations Subcommittee on General Government
+Contact Information
+District Office633 N.E. 167th Street, Suite 1101 North Miami Beach, FL 33162 (305) 493-6009
+Capitol Office218 Senate Office Building 404 South Monroe Street Tallahassee, FL 32399-1100 (850) 487-5038
+Staff:
+- Latoya Sheals, Legislative Assistant
+- Marie Elancey, Legislative Assistant
+Highlights From the Session
+- Presented an award for outstanding service at the First Annual Jewish Heritage Week, sponsored by Senator Campbell
+- Met with a local Rabbi in Tallahassee following floor session
+- Stood strong with students from Marjory Stoneman Douglas High School in support of common sense gun reform
+- Presented a check to the Holocaust Memorial of Miami Beach, securing critical state funding for the Memorial
+- Joined gun control advocates from across the state calling for the passage of common sense gun legislation following the tragic shooting at Marjory Stoneman Douglas High School
+- Met with Indian Americans from District 38 following the passage of Senator Campbell's historic Indian Heritage Resolution
+- Presented a check to the Mayor and City Commission of the City of North Miami for a city drainage project, securing state funding in this year's state budget
+Reach Out
+Have any questions or ideas you need to run by me, or just want to chat?
+Reach out and I'll respond as soon as I can!
+I'm excited to hear from you.

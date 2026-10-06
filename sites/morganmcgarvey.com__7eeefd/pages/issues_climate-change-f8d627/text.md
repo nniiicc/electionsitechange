@@ -1,0 +1,5 @@
+I am running to address the existential threat of climate change so that future generations have a livable planet and aren’t constantly dealing with natural disasters like last December’s tornadoes that devastated entire communities in Western Kentucky or regular extreme flooding in Eastern Kentucky.
+We must act now.
+I support federal spending and tax incentives to dramatically expand renewable energy buildout in the United States, infrastructure spending to speed the deployment of electric vehicles, and tax incentives for consumer purchase of union-made and American-made electric vehicles.
+I support a federal clean energy standard that incentivizes investor-owned electric utilities to achieve greenhouse gas emissions reductions while creating millions of good-paying jobs to build the clean energy infrastructure necessary to make this transition.
+And I will fight for federal spending to incentivize rural electric cooperatives to transition to clean, renewable energy by relieving debt associated with coal-fired power plants, and conditioning such relief upon the coop’s investment in a clean energy transition.

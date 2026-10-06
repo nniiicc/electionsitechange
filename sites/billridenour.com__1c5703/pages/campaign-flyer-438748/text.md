@@ -1,0 +1,80 @@
+0
+Skip to Content
+About Bill
+Campaign Resources
+Campaign Positions
+Campaign Flyer
+Debates
+Opposition to MARL Public Comment
+Steps to Deal with Powerline Personnel
+Voter Info
+Register to Vote
+Find Polling Place
+Sample Ballot - District 100
+Jefferson County Polling Places
+WV Voter Map
+Map of District 100
+WV Motor Vehicle Tax Adjustment Form
+Legislation
+My Bills
+My Recent Sponsored Legislation
+Search Bills and Resolutions Sponsored
+Blog
+Contact
+Donate
+Open Menu
+Close Menu
+About Bill
+Campaign Resources
+Campaign Positions
+Campaign Flyer
+Debates
+Opposition to MARL Public Comment
+Steps to Deal with Powerline Personnel
+Voter Info
+Register to Vote
+Find Polling Place
+Sample Ballot - District 100
+Jefferson County Polling Places
+WV Voter Map
+Map of District 100
+WV Motor Vehicle Tax Adjustment Form
+Legislation
+My Bills
+My Recent Sponsored Legislation
+Search Bills and Resolutions Sponsored
+Blog
+Contact
+Donate
+Open Menu
+Close Menu
+About Bill
+Folder:
+Campaign Resources
+Back
+Campaign Positions
+Campaign Flyer
+Debates
+Opposition to MARL Public Comment
+Steps to Deal with Powerline Personnel
+Folder:
+Voter Info
+Back
+Register to Vote
+Find Polling Place
+Sample Ballot - District 100
+Jefferson County Polling Places
+WV Voter Map
+Map of District 100
+WV Motor Vehicle Tax Adjustment Form
+Folder:
+Legislation
+Back
+My Bills
+My Recent Sponsored Legislation
+Search Bills and Resolutions Sponsored
+Blog
+Contact
+Donate
+Campaign Flyer
+Download Campaign Flyer

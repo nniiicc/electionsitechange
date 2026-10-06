@@ -1,0 +1,2 @@
+Stay in touch with Sen.
+Perchlik By subscribing to email updates → Check his blog for news and updates Following him on Facebook LATEST BLOG UPDATES Featured May 30, 2022 TAX CREDITS FOR VT FAMILIES May 30, 2022 Read more → May 30, 2022 April 10, 2022 VERMONT SENATE VOTES UNANIMOUSLY TO PROTECT PUBLIC EMPLOYEE PENSIONS April 10, 2022 Read more → April 10, 2022 DONATE

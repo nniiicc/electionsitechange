@@ -1,0 +1,54 @@
+STEVE ON THE ISSUES
+End All Fraud in Government Programs
+Reign In Government Spending
+Stop Overreaching Government Mandates
+Defend Greater Minnesota Values
+ACCOUNTABILITY: Stop the fraud in public programs
+Minnesota has watched billions of taxpayer dollars walk out the door through fraudulent claims, program after program.
+That money belongs to the people who earned it, and to the Minnesotans who actually need the help.
+I've pushed for stronger oversight and transparency in every budget I've voted on, and I'll keep pushing until the state catches fraud on the front end instead of chasing it years later.
+My priorities:
+• Stronger front-end oversight in every state program that pays out taxpayer money
+• Independent audits and public reporting
+• Coordination between agencies to discover fraud faster
+• Full recovery of stolen funds and real consequences for the people responsible
+AFFORDABILITY: Lower taxes and rein in spending
+Rising costs have made life harder for families across the Second District.
+Groceries, fuel, property taxes, and heating bills keep climbing while paychecks don't.
+My job in St.
+Paul is to hold the line on spending, cut taxes for the people who earned the money in the first place, and stop the mandates that keep driving up the cost of living.
+My priorities:
+• Lower taxes on working families, farmers, and small businesses
+• Rein in wasteful state spending and address looming budget deficits
+OPPOSE NEW MANDATES: Cut the regulations holding back Greater Minnesota
+Every new fee, permit delay, and environmental mandate hits Greater Minnesota harder than anywhere else, because up here we don't have the margin to absorb it.
+I will push back against DNR overreach and one-size-fits-all rules written for the metro.
+I'll be an advocate for permitting reform and policies that let the north work.
+My priorities:
+• Common-sense permitting reforms that support jobs and protect natural resources
+• Rolling back environmental regulations that punish farmers and small businesses
+• Reliable, affordable energy that keeps electricity bills down across the north
+FAMILIES: Protecting parents and kids
+The decisions that shape a child's life belong to parents.
+When the state tries to override a parent's judgment, or open girls' sports to boys, those calls step way beyond the role of any legislator or bureaucrat in St.
+Paul.
+I'll fight for parents and I'll always vote to protect our kids.
+My priorities:
+• Keep girls' sports for girls
+• Protect parents' authority over their children's education and health care
+• Support policies that make it easier to raise a family in Greater Minnesota, like making child care and health insurance more affordable.
+PUBLIC SAFETY: Support law enforcement and safer communities
+Crime doesn't stay in the metro.
+When Minneapolis and St.
+Paul spiral, our local deputies get pulled south to help, and families up here lose the coverage they were promised.
+I support the men and women who wear the badge, and I'll keep working to give them the resources, the recruitment pipeline, and the political backing they need to do the job.
+My priorities:
+• Full support for local sheriffs and law enforcement
+• Recruitment and retention funding for rural departments
+• Stronger consequences for violent and repeat offenders
+SENIORS: Protect long-term care and rural health
+Nursing homes and long-term care facilities across the district are closing because the state won't fund them, while it keeps creating new government programs.
+I've voted against budgets that hurt our seniors, and I'll keep fighting for the seniors and the caregivers who need quality care.
+My priorities:
+• Full funding for nursing homes and long-term care in Greater Minnesota
+• Support for rural hospitals and clinics

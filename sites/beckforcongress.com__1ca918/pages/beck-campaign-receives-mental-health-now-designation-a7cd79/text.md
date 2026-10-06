@@ -1,0 +1,30 @@
+Beck Campaign Receives Mental Health Now Designation
+Democratic Candidate commits to govern with Mental Health in Mind
+West Bend, WI - July 22, 2026
+Andy Beck, Candidate for Wisconsin’s 5th Congressional District, has received the Mental Health Now designation from Inseparable Action, an advocacy campaign working to ensure that mental health is at the forefront of policy in this nation.
+The program recognizes Beck as a candidate who commits to supporting policies that:
+- Increase Access to Mental Health Care
+- Expand Youth Mental Health Services
+- Improve Crisis Response
+- Strengthen the Mental Health Workforce
+“Mental health is health,” stated Beck.
+“I will promote and support mental health as a national priority.
+By prioritizing federal support for improved mental health, we can address several root causes of many of challenges facing American families and communities today - including drug abuse, physical abuse, and rising crime rates.”
+Andy Beck’s platform for Wisconsin includes a strong position on Mental Health as a National Priority.
+Beck has committed to focus on prevention, support, and acceptance through:
+- Congressional Leadership to pass meaningful legislation focusing on treatment over punishment
+- National Exposure & PSA Campaigns
+- Expanded Access to Care
+- Integration into Everyday Systems
+About Mental Health Now
+Mental health now is a statement of support signed by candidates, not an endorsement or scorecard.
+Candidates who sign the statement of support may not agree with each other or with Inseparable on each policy solution.
+They have agreed to do their part to bring mental health to the forefront of the policy conversation and advance access to care, crisis services, youth mental health, and the mental health workforce.
+About Andy Beck
+Andy Beck is the Democratic Candidate on the ballot for Wisconsin’s 5th Congressional District in November.
+Born and raised in Milwaukee, his family roots run deep in Wisconsin’s working-class community.
+He is a proud graduate of Milwaukee Public Schools and comes from a family of union members, including his father, grandfather, and uncle.
+Andy earned his undergraduate degree from UW Stout and later completed graduate studies at Cardinal Stritch University.
+His career spans hospitality management, healthcare, and product development at GE Healthcare, giving him experience across service, clinical, and corporate environments.
+Throughout his life, Andy has remained committed to the rights of working people and the role of unions in building fair and equitable workplaces.
+He is running for Congress to fight corruption and champion the needs of Wisconsin residents.

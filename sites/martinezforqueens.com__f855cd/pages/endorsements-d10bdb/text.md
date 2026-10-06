@@ -1,0 +1,33 @@
+Endorsements
+- Nydia Velazquez Congress Member
+- CATALINA CRUZ Assembly Member
+- Jimmy Van Bramer Fmr.
+Council Member
+- Danny Dromm Fmr.
+Council Member
+- 32bj
+- Hotel And Gaming Trades Council
+- DC37
+- NYC Carpenters
+- LIUNA Laborers Local 79
+- Mason Tenders District Council
+- IBEW Local 3
+- Building and Construction Trades Council
+- Stonewall Democratic Club
+- Amalgamated Transit Union
+- Council of School Supervisors and Administrators
+- District Council 9 Painters
+- New York State American Federation of Labor and Congress of Industrial Organizations
+- Sheet Metal Workers (SMART) Local 28 Union of NYC
+- Transport Workers Union (TWU) Local 100
+- New York State United Teachers (NYSUT)
+- Local 372 NYC Board of Education Employees
+- Bricklayers and Allied Craftworkers Local Union #1
+- BAC Local Union #7 (Tile, Marble and Terrazzo)
+- Uniformed Fire Officers Association (UFOA)
+- Jim Owles Liberal Democratic Club
+- Citizens Union
+- Hindus for Human Rights Action
+- New York League of Conservation Voters
+- Latino Democrats of NYC
+- StreetsPAC

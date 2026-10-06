@@ -1,5 +1,7 @@
-Fiona Ma on KCRA: Listening to California and Delivering Solutions from the Ground Up
-California State Treasurer and candidate for Lieutenant Governor Fiona Ma
+U.S.
+Senators Adam Schiff and Alex Padilla Endorse Fiona Ma for Lieutenant Governor
+U.S.
+Senators Adam Schiff and Alex Padilla are supporting Fiona Ma for California Lieutenant Governor.
 California
 Lieutenant Governor
 Principled
@@ -74,15 +76,16 @@ Fiona has fought to strengthen retirement security, protect survivor benefits, a
 Firefighters know Fiona Ma stands with us, and we are proud to stand with her.” - Brian K.
 Rice, President, California Professional Firefighters.
 California Professional Firefighters
-August 30, 2026
-California’s Opportunity Zones are entering a new chapter! 📍 With
-July 31, 2026
-Fiona Ma was pleased to meet with the Executive Committee
-July 29, 2026
-Fiona Ma began her public service as President of the
-As we wrap up CFEE’s 8th Garbage & Recycling Tour
-July 24, 2026
-Fiona Ma the State Treasurer of California and candidate for
+September 29, 2026
+SEIU 1021 endorses Fiona Ma for California Lieutenant Governor in the November 3 General Election.
+September 28, 2026
+California Medical Association endorses Fiona Ma for Lieutenant Governor, citing her record on healthcare financing and access to care.
+September 9, 2026
+Fiona Ma joined the California Community Colleges Futures Summit to discuss education, technology, workforce needs and economic mobility.
+FOX 5 San Diego and KUSI News covered Fiona Ma’s visit with California State Retirees in San Diego.
+September 3, 2026
+Fiona Ma joined First 5 California’s Their Futures First Summit for a conversation on childcare, education, healthcare and affordability.
+August 31, 2026
 Scroll to Top
 Endorsements
 News

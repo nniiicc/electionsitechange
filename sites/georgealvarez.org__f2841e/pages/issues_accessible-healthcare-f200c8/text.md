@@ -1,0 +1,23 @@
+Skip navigation menu
+George Alvarez wants
+Accessible Healthcare
+A $140 Million Investment in St.
+Barnabas Hospital
+George Alvarez, alongside Governor Kathy Hochul and other elected officials invested $140 million in state funding to increase emergency department capacity, upgrade equipment and expand community health partnerships in St.Barnabas Hospital.
+George has since vowed to continue to solidify investments for the 160 year old institution.
+Protecting Access to Medical Transportation
+Reliable and affordable transportation to healthcare centers is essential for ensuring that people are getting the healthcare they need at the exact time they need it.
+George Alvarez introduced bill A03898, which if passed will help ensure that providers of non-emergency medical transportation are not unfairly penalized for errors committed during Medicaid audits.
+This legislation aims to protect transportation providers that connect patients to critical medical appointments.
+Expanding Accountability in Correctional Healthcare
+George Alvarez introduced bill A07576A, which intends to improve health transparency within the prison system by requiring correctional facilities to notify incarcerated people’s emergency contacts if they experience a medical crisis.
+The bill will also expand access to medical records and establish an annual report on medical incidents and response times.
+If passed, this bill will strengthen accountability in correctional facilities and ensure that incarcerated people’s families and loved ones are informed during medical emergencies.
+Supporting Families and Caregivers
+George Alvarez introduced bill A07583 which establishes a program that allows family members of children and young adults with developmental disabilities to be trained and paid to provide care and specialized in-home care services.
+With this bill, George wants to ensure that individuals with complex medical needs can receive services in a familiar and comfortable environment.
+He also wants to make in-home care more accessible to all families
+Strengthening Healthcare Access for Dominican Seniors
+As an Afro-Dominican and strong advocate for New York's Dominican community, George Alvarez introduced the New York–Dominican Health Partnership Act (A09169B).
+This legislation establishes a partnership between New York State and the Dominican Republic that would allow eligible seniors and individuals with disabilities who reside part-time in the Dominican Republic to access certain state-funded healthcare services.
+The bill also explores broader healthcare collaboration between New York and the Dominican Republic, helping ensure continuity of care for New Yorkers with deep ties to both communities.

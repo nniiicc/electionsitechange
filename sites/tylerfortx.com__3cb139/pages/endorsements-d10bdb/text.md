@@ -1,0 +1,28 @@
+Skip to content
+What I’m Fighting For
+Endorsements
+Hamburger Toggle Menu
+Facebook
+X-twitter
+Instagram
+donate
+Endorsements
+Planned Parenthood Texas Votes
+Texas AFL-CIO COPE
+Everytown for Gun Safety
+Area 5 Democrats
+Texas Gulf Coast Area Labor Federation AFL-CIO
+Houston Federation of Teachers
+Future Dems
+Texas Democratic Veterans
+Houston Black American Democrats
+Texas Coalition of Black Democrats – Harris County
+Leaders We Deserve
+Harris County Young Democrats
+Texas State Teachers Association
+Teamsters Local 988
+State Senator Borris Miles
+State Representative Gene Wu
+State Representative Alma Allen
+State Representative Christina Morales
+State Representative Ron Reynolds

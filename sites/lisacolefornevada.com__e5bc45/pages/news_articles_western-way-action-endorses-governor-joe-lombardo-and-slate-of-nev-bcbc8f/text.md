@@ -1,0 +1,34 @@
+WESTERN WAY ACTION ENDORSES GOVERNOR JOE LOMBARDO AND SLATE OF NEVADA REPUBLICAN CANDIDATES FOR 2026
+Western Way Action today announced its endorsement of Governor Joe Lombardo and the slate of Nevada Republican candidates running alongside him in 2026.
+The endorsement recognizes Governor Lombardo’s leadership on energy policy and his unwavering commitment to balancing environmental stewardship with the market-based, common-sense solutions that drive economic growth and protect Nevada families.
+Under Governor Lombardo’s leadership, Nevada has made meaningful progress on energy policy, demonstrating that protecting the environment and strengthening the economy are not competing priorities, but complementary ones.
+His vision for a stronger, more prosperous Nevada is exactly the kind of leadership the West needs.
+Western Way Action supports candidates dedicated to implementing common-sense environmental policies that maintain a balance between protecting the environment and adopting market-based approaches that promote economic vitality.
+Western Way Action’s 2026 endorsed slate includes:
+Statewide & Federal Candidates
+• Joe Lombardo — Governor
+• Stavros Anthony — Lieutenant Governor
+• Andy Matthews — Controller
+• Adriana Guzmán Fralick — Attorney General
+• Shirley Folkins-Roberts — Secretary of State
+Assembly Candidates & Caucus Members
+• Gregory Hafen — Assembly District 36 (Minority Leader)
+• Melissa Hardy — Assembly District 22
+• Dr.
+Greg Koenig — Assembly District 38
+• Brian Hibbetts — Assembly District 13
+• Lisa Cole — Assembly District 4
+• Drew Teitelbaum — Assembly District 2
+• Erica Neely — Assembly District 9
+• Jason Patchett — Assembly District 19
+• Denise Fanning — Assembly District 23
+• Mike Ginsburg — Assembly District 25
+• Rich DeLong — Assembly District 26
+• Jill Dickman — Assembly District 31
+• Alexis Hansen — Assembly District 32
+• Bert Gurr — Assembly District 33
+• Rebecca Edgeworth — Assembly District 35
+• Jill Douglass — Assembly District 37
+• Blayne Osborn — Assembly District 39
+• Julie Butler — Assembly District 40
+• Kelly Chapman — Assembly District 41

@@ -1,0 +1,16 @@
+Strengthen Our Communities
+Infrastructure
+Create Infrastructure for the Future
+- Invest in reliable roads
+- Maintain and improve clean water systems
+- Expand high-speed internet in underserved rural areas
+- Ensure every community has the resources to compete and grow
+Reliable high-speed internet is no longer a luxury - it's essential infrastructure for our families, farms, schools, and small businesses.
+Spectrum's recent fiber expansion in northern Kent County, including Courtland Township where I serve as Trustee, will connect approximately 850 additional homes and businesses.
+However, thousands of rural households are still estimated to lack reliable broadband access, particularly in our northern HD90 townships.
+For many small businesses, unreliable internet means lost sales, fewer online opportunities, barriers to using modern technology, and a harder path to growth and competition in today’s economy.
+As your next State House Representative, I will support continued investments in rural broadband and legislation that strengthens House Bill 4287 by adding provisions that address affordability and permit streamlining.
+Every family deserves access to telehealth, online learning, and remote work opportunities.
+Every entrepreneur, farmer, and small business deserves the tools to succeed, regardless of their ZIP code.
+Broadband isn't just about internet access - it's about economic development, educational opportunity, and keeping northern Kent County connected for generations to come.
+I’ll work to make sure all our neighbors, farmers, and small businesses have access to the tools and resources they need.

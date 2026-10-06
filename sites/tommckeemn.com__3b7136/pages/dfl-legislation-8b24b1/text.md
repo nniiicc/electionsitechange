@@ -1,0 +1,79 @@
+Signed in as:
+filler@godaddy.com
+In recent legislative sessions under DFL Control, Minnesota enacted major changes affecting taxes and fees, state spending, schools, government oversight, immigration-related benefits, public safety, and other issues.
+Here are several of the most significant actions taken at the Capitol.
+Higher Taxes, Fees & Everyday Costs
+Transportation Taxes and Fees - HF 2887
+The 2023 transportation bill made several changes affecting Minnesota families and drivers:
+- Changed the vehicle registration-tax formula and depreciation schedule in a way to significantly increase registration-tax revenue.
+In 2025, Minnesota collected over $1 Billion in personal vehicle registration fees - up 33% annually from before the legislation.
+In 2026, GOP legislators were able to negotiate a 1 year reprieve in last minute negotiations to set fees back to pre-2024 levels - saving Minnesotans a projected $257 Million in 2027.
+The DFL has publicly stated they want the increase back in effect for 2028.
+(Pioneer Press)
+- Increased the motor vehicle sales tax from 6.5% to 6.875%, among the highest in the nation.
+- Indexed Minnesota’s gasoline tax to the Minnesota Highway Construction Cost Index, allowing the tax to increase automatically in future years, subject to an annual cap.
+- Created a new 0.75% sales tax throughout the seven-county Twin Cities metropolitan area.
+- Created a 50-cent retail delivery fee on qualifying deliveries of purchases totaling $100 or more, subject to exemptions.
+(Minnesota House of Representatives)
+Higher Outdoor Recreation Fees — HF 2310
+The 2023 environment and natural resources legislation substantially increased a number of licenses and watercraft fees.
+Among the changes:
+- Registration for watercraft 40 feet or longer increased from $90 to $209.
+- Watercraft between 26 and 40 feet increased from $67.50 to $164.
+- Watercraft between 19 and 26 feet increased from $45 to $113.
+- A standard resident fishing license increased from $25 to $30 — a 20% increase.
+- Numerous other fishing, sporting, watercraft and recreation fees also increased.
+(Revisor MN)
+A Much Larger State Budget
+Minnesota’s enacted General Fund budget for the 2022-23 biennium was approximately $52.4 billion.
+State spending grew to roughly $69 billion for the 2024-25 biennium, representing a major increase in the size of the state budget.
+(Legislature of Minnesota)
+The then DFL controlled Legislature also moved forward with the renovation and expansion of the State Office Building.
+Minnesota Management and Budget financing information cited by legislators put the total cost of financing the project at approximately $730 million, including roughly $275 million in interest.
+(Minnesota House of Representatives)
+Fraud Prevention & Government Oversight
+Fraud prevention became an increasingly prominent issue at the Capitol.
+In 2025, nearly all House DFL members opposed suspending House rules to immediately consider SF 856, legislation establishing an independent Office of the Inspector General.
+That procedural motion failed.
+Debate over the proposal continued into 2026.
+(Minnesota House of Representatives)
+The Legislature ultimately reached bipartisan agreement in 2026.
+SF 856 passed the House under Speaker Demuth's leadership 127-5 and became law, creating a statewide Office of the Inspector General with authority to investigate fraud and misuse of public funds, a huge step in the right direction towards identifying and eliminating fraud - despite continued DFL opposition and delay tactics.
+(Minnesota House of Representatives)
+Immigration-Related State Benefits
+Minnesota enacted several significant changes involving residents without lawful immigration status.
+Driver’s Licenses — HF 4 "Drivers Licenses for All"
+HF 4 eliminated the requirement that an applicant demonstrate lawful presence in the United States in order to obtain a Minnesota driver’s license or state identification card.
+(Minnesota House of Representatives)
+MinnesotaCare
+Legislation enacted in 2023 expanded MinnesotaCare eligibility to undocumented residents who otherwise met the program’s requirements.
+(Minnesota House of Representatives)
+That policy was subsequently changed.
+Under legislation enacted in 2025, undocumented adults were removed from MinnesotaCare eligibility after December 31, 2025, while eligibility rules for children differed.
+(Minnesota House of Representatives)
+North Star Promise / College Tuition
+The 2023 Legislature created the North Star Promise program, which covers remaining tuition and fees at Minnesota public colleges and universities for qualifying students from households earning less than $80,000.
+Minnesota’s eligibility laws also allowed certain undocumented Minnesota students who qualify for resident tuition under state law to participate in the program.
+(Minnesota House of Representatives)
+New Requirements on Minnesota Schools
+The 2023 education finance law — HF 2497 — increased state education funding while also making dozens of policy changes affecting Minnesota school districts.
+(Minnesota House of Representatives).
+While money was spent, results in Minnesota schools have continued to decline in nearly every measurable category.
+Republican legislators and school mandate-relief proposals subsequently pointed out that the 2023-24 biennium as imposing more than 65 new mandates or requirements on schools, including many that increased administrative obligations and costs for local districts.
+(Minnesota House of Representatives)
+Girls’ and Women’s Sports
+The Legislature considered the Preserving Girls’ Sports Act — HF 12, which would have limited participation on elementary and secondary school teams designated for girls and women to students meeting the bill’s definition of female.
+The proposal failed to receive the votes necessary for passage due to DFL opposition.
+(Minnesota House of Representatives)
+Changes to Minnesota’s Human Rights Act
+During consideration of the 2023 judiciary and public safety legislation, lawmakers debated language in Minnesota’s statutory definition of sexual orientation.
+Previous state law expressly stated that the definition of sexual orientation “does not include a physical or sexual attachment to children by an adult.” Legislation removed that sentence as part of a broader rewrite of the definition.
+(Minnesota House of Representatives)
+During House debate, an amendment was adopted 126-0 adding separate language stating that an adult’s physical or sexual attachment to children is not a protected class under the Minnesota Human Rights Act.
+That language was later omitted from the conference committee agreement.
+(Minnesota House of Representatives)
+Prosecutor-Initiated Sentence Adjustments
+The 2023 public safety legislation, SF 2909, also created a procedure allowing the attorney general, county attorneys and city attorneys responsible for a prosecution to petition a court for a reduction or other adjustment to an individual’s sentence after the original sentencing.
+(Revisor MN)
+Prepared and paid for by
+The Tom McKee for House Committee

@@ -1,0 +1,57 @@
+Pennsylvania 139
+PA’s 139th District includes portions of Pike and Wayne Counties.
+The municipalities within Pike and Wayne Counties are listed below.
+Pike County
+- Hemlock Farms
+- Lords Valley
+- Conashaugh Lakes
+- Gold Key Lake
+- Pocono Mountain Woodland Lakes
+- Sunrise Lakes https://www.dingmantownship.org/
+- The Escape
+- Greentown
+- Panther
+- Tranquility Falls
+- Blue Heron Woods
+- Fawn Lake Forest
+- Greeley
+- Masthope
+- Tink Wig
+- Westcolang
+- Belle Reve Senior Living
+- Hickory Hills
+- Green Acres
+- Moon Valley Falls
+- Paupack
+- Tafton
+- Wilsonville
+- Hinkel Estates
+- PA Lakeshores
+- Sagamore Estates
+- Trails End
+- Walker Lake Estates
+- Delaware Valley Skilled Nursing
+- Green Acres
+- Heritage Point
+- Milford Landing
+- Millrift
+- Paddlers Point
+- Rivers Edge
+- Riverside
+Wayne County
+- Newfoundland
+- The Hideout
+- Lake Ariel
+- Gouldsboro
+- Pocono Springs
+- Milestone Estates
+- Starlight View
+- Wallenpaupack Estates
+- Woodledge Village
+- Tanglewood Lakes
+- Wallenpaupack Lake Estates
+- Indian Rocks
+- Lakeville
+- Hamlin
+- The Hideout
+- Indian Rocks

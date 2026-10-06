@@ -1,0 +1,3 @@
+Point of View: New Florida allows for domestic violence injunctions to protect pets July 18, 2020/in News/by David Silvers Domestic violence takes on many ugly forms and is almost always considered a serious criminal offense.
+Improving mental health for minors remains a top priority Another viewpoint October 16, 2019/in News/by David Silvers Nearly three years ago, my sister, a child psychologist, brought a story to my attention about a 6-year-old boy, Nicholas, who threw a temper tantrum at his elementary school in Jacksonville.
+Medical amnesty bill could save lives of Fla. students July 7, 2019/in News/by David Silvers When I was enrolled at the University of Florida, there was a tragedy that involved a student who died from alcohol poisoning.

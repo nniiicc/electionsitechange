@@ -1,0 +1,3 @@
+Interview Interview – Now is the Time to Talk February 13, 2026 Tom Mannion Leave a comment Jessie and I discuss foreign policy, military service during the Global War on Terror, and Defend the Guard.
+Share this: Share on X (Opens in new window) X Share on Facebook (Opens in new window) Facebook Like Loading...
+Related

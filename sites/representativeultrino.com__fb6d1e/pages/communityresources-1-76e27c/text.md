@@ -1,0 +1,114 @@
+Community Resources
+Learn more about community resources available in Malden!
+If you can't find what you need, our office is always open for any questions you have.
+Reach out to us at 617-722-2070 or claudia.chung@mahouse.gov.
+You can also download our full resource packet with useful contacts and links!
+我們的辦公室能夠提供中文翻譯服務，以便您明白社區内的不同資訊。如有任何問題，歡迎致電我們辦公室或以電郵聯絡我們。
+電話：617-722-2070
+鍾汶淇, 議員助理：claudia.chung@mahouse.gov.
+您亦可以下載我們的莫頓社區資源及服務指南！
+Housing & Rental Assistance
+Are you having trouble finding affordable housing and need help paying rent?
+Are you in facing eviction?
+Our office can answer your housing questions and refer you to local organizations that provide housing assistance.
+The Department of Housing and Community Development has a guide to obtaining housing assistance with more details and information.
+For Malden Residents
+Local organizations also offer homelessness prevention and rental assistance programs for Malden residents in need.
+Housing Families
+(781) 322-9119 | info@housingfamilies.org
+Specializes in holistic assistance programs and include legal assistance, tutoring, counseling, food pantry access as well as emergency/temporary shelter and permanent affordable housing.
+Serves Greater Malden area.
+Action for Boston Community Development (ABCD)
+(617) 348-6329 | abcdconnect@bostonabcd.org
+Provides free consultation to help with Section 8 Voucher applications, RAFT applications, and other questions regarding search for affordable housing and rental assistance.
+Serves Greater Boston area.
+Malden Warming Center
+(781)-324-4230 | sharing@maldenwarmingcenter.org
+Temporary shelter located at 529 Eastern Ave, Malden, offering pantry services as well as some toiletries and basic need amenities.
+Serves Greater Malden area.
+YWCA Malden
+(781) 322-3760 | empowerment@ywcamalden.org
+YMCA Malden
+(978)-564-3460
+Learn more from the flyers or download the PDF resource packet!
+Unemployment Assistance
+You may be eligible for Unemployment Insurance (UI) benefits if you recently lost your job or had your hours reduced significantly.
+The Department of Unemployment Assistance (DUA) works with MA residents to evaluate their benefits levels.
+Unemployment cases are one of the most common constituent cases we receive.
+If you have not heard from your case manager, or need help appealing a decision, our office is happy to follow up on your case with DUA.
+Please email claudia.chung@mahouse.gov or call us at 617-722-2070.
+For Malden Residents
+Triangle, Inc | 781-388-4326
+Triangle provides assessments, job placement, and ongoing employment supports to both youth and adults.
+The organization works with referrals from the Massachusetts Rehabilitation Commission (MRC), Department of Transitional Assistance (DTA), and Department of Developmental Services (DDS).
+Employment Specialists work one-to-one and in small group settings to help each person identify and pursue their short-term and long-term career goals.
+You can also find more information at the following websites:
+- Unemployment Benefits Application: www.mass.gov/how-to/apply-for-unemployment-benefits
+Voter Resources
+We will be having elections this fall and you can find some important details and deadlines below.
+If you would like to either register to vote in Massachusetts, or update your voter registration information, you can visit the Secretary of State’s website.
+You can also visit their website to register online to vote in-person, or to vote-by-mail.
+For Malden residents, you can also choose to visit the City Clerk’s Office in City Hall in-person:
+CITY CLERK'S OFFICE
+2nd Floor, Malden City Hall,
+215 Pleasant Street,
+Malden, MA 02148
+More information can be found in the flyers below!
+今年麻州将会举行全州初选及选举。若您希望在本州登记成为选民或更新您的选民登记地址，您可以选择到国务卿的网站进行网上登记或到访莫顿市书记处更新选民资料或登记成为选民:
+麻州莫顿市 215 Pleasant St
+市政厅二楼
+市书记处
+如有任何其他疑问，请联络议员助理钟汶淇 617-722-2070或发电邮至Claudia.Chung@mahouse.gov.
+Food Assistance
+Massachusetts provides several food security programs dedicated to providing health and nutritious food to lower income households.
+SNAP or Supplemental Nutritional Assistance Program is one of the best known programs and is administered by the Department of Transitional Assistance (DTA).
+SNAP benefits include:
+- Monthly funds on an EBT card for buying food
+- $40, $60 or $80/month reimbursed to your EBT card when you use your funds to buy local produce through the Healthy Incentives Program (HIP)
+- Referrals to other kinds of help, like utility discounts, free school meals and discounted admissions to museums and cultural institutions via EBT Card to Culture program
+The Women, Infants, & Children (WIC) Nutrition Program keeps pregnant and breastfeeding women and kids under 5 years old healthy.
+You can participate in WIC REGARDLESS OF IMMIGRATION OR CITIZENSHIP STATUS.
+If you:
+- Live in Massachusetts
+- Have a nutritional need (WIC Staff can help determine this)
+- Are a child under 5 years old, a new mom, or pregnant/breastfeeding
+- Meet the family income of WIC guidelines
+For Malden Residents
+Bread of Life | 781-397-0404 | info@breadoflifemalden.org
+Bread of Life is a non-profit organization offering a wide variety of nutritional services including free evening meals, a grocery delivery program, meals for homeless individuals, and a food pantry located at 109 Madison St, Malden, MA.
+Malden YMCA Food Market | 781-324-7880 |
+The Malden YMCA Food Market provides free food for individuals and families that need it.
+One registration per household is allowed and the food pantry located at 99 Dartmouth St, Malden, MA.
+Hours of operation are available on the Mystic Valley YMCA website.
+More local, Malden community organizations are listed in the flyers below and in the downloadable resource packet.
+Medicare Savings Program
+Starting January 2023, Massachusetts will expand eligibility for the Medicare Savings Program from 165% of the Federal Poverty Level (FPL) to 225%.
+Over 45,000 seniors will get MSP benefits and qualify for the first time, while over 23,000 low-income seniors will see even further cost relief for their healthcare needs.
+You can check your eligibility using the chart below!
+For Malden Residents
+Mass Senior Action Council - Malden Chapter | (617) 284-1275 | cvillers@MassSeniorAction.org
+Massachusetts Senior Action Council (MSAC) is a statewide, grassroots, senior-led organization that empowers its members to use their own voices to address key public policy and community issues that affect their health and well-being.
+They have long advocated for better benefits, programs, and healthcare for seniors across the Commonwealth.
+How to Apply
+You can learn more about MassHealth programs and eligibility here.
+More information on how to apply for MSP benefits online, via telephone or by fax can be found here.
+If you are already eligible for Medicare, you can simply fill out the application and mail it to the following address:
+MassHealth Enrollment Center
+PO Box 290794
+Charlestown, MA 02129-0214
+Fuel Assistance & Utilities
+Massachusetts' Fuel Assistance program, also called the Low Income Home Energy Assistance Program (LIHEAP) provides eligible households with help in paying a portion of winter heating bills.
+Attorney General's Office has FAQs and additional tips and information about fuel and energy assistance programs in Massachusetts.
+You can call their consumer hotline: (617) 727-8400 from Monday-Friday, 8 a.m. - 4 p.m.
+The Department of Housing and Community Development handles applications for heating and energy assistance.
+You can apply in person or by phone for LIHEAP.
+Malden Residents
+If you qualify for LIHEAP, Action for Boston Community Development (ABCD) helps pay your winter heating bill by working directly with vendors, and also offers other free assistance services.
+LIHEAP eligibility is based on your annual income and how many people are in your family.
+The program is available to homeowners and renters even if you live in non-subsidized housing with heat included in your rent.
+Your gross family income must be at or below 60% of the Massachusetts median income.
+The ABCD Home Energy Assistance Program, also known as Fuel Assistance, is now accepting new applications for assistance with heating bills for those households who have not applied in the past.
+You now may apply online by following this link: toapply.org/MassLIHEAP
+New applicants who live in Malden, Medford, Melrose, Everett, Winchester Woburn or Stoneham, may also choose to apply via telephone.
+New applicants please call (781) 322-6284.
+Learn more about ABCD's fuel assistance program from the flyers below or at: https://bostonabcd.org/service/fuel-assistance-2/

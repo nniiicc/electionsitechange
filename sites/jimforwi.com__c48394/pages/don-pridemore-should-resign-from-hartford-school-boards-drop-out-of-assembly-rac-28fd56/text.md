@@ -1,0 +1,20 @@
+His vote to force Biden’s “gender identity” language on elementary schools is disqualifying.
+Town of Erin – Assembly candidate Jim Piwowarczyk said Wednesday that his primary opponent, Don Pridemore, should resign immediately from the two Hartford area school boards he serves on after Pridemore’s indefensible July 23 vote to force elementary and middle school students to adhere to Joe Biden’s radical “gender identity” revisions to Title IX policies.
+Piwowarczyk, a Republican and former police sergeant, said Pridemore’s outrageous vote – and later revelations in the Washington County Daily News that Pridemore, 78, WAS informed about the plan – should also disqualify him from serving in the state Legislature.
+Although Pridemore and another member claimed they were “misled” into approving the Biden administration’s Title IX language and want a re-vote, HJ#1 School District Superintendent Tara Villalobos told The Daily News she met with Pridemore THE MORNING of the vote and spoke with him that afternoon.
+Daily News reported that the board received a Title IX informational update twice, including on the day of the vote, and the minutes bear this out.
+Villalobos gave board members a detailed summary.
+Pridemore didn’t ask a single question at the meeting.
+“All board members who voted to pass this rule change are unfit for the position,” Piwowarczyk said.
+“As a Board member, Pridemore had ONE job – to protect school kids and get his vote right the first time,” Piwowarcyk said.
+“Now it appears that in addition to siding with Joe Biden’s radical agenda on Title IX, he’s being dishonest about what he was told.
+Don Pridemore has had a long life of public service.
+But it’s time for him to pass the torch to people who won’t fail our kids.”
+“Conservatives, like the Moms for Liberty, the Wisconsin Institute for Law and Liberty (WILL), and local parents, have been fighting hard against these rule changes, and we expect supposedly conservative board members not to drop the ball.
+When it was time for Don Pridemore to take the ball into the end zone, he dropped it.
+I take this personally because I am the father of an athlete in this district.”
+According to the Washington County Daily News, Biden’s revised definition of sex discrimination includes “discrimination based on sex stereotypes, sex characteristics, pregnancy or related conditions, sexual orientation, and gender identity.” The Board covers Lincoln Elementary, Rossman Elementary, and Central Middle.
+The Daily News reported that the separate Hartford Union High School Board tabled it due to lack of a second with Pridemore absent.
+Piwowarczyk, 54, and Pridemore, are squaring off in the Aug. 13 primary for the 98th Assembly District seat.
+For more information, see jimforwi.com.
+Paid for by Jim for Wisconsin.

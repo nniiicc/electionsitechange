@@ -1,0 +1,19 @@
+ABOUT GREG SCHWARTZ
+My name is Greg Schwartz, and I am honored to serve as your State Representative.
+I grew up in New York, where my parents instilled in me the values of public service and compassion.
+My father was an early leader in the New York Reform Democratic movement that wrested control from the old-line city boss machine in the 1950s.
+I am told I was present (in a baby carriage) when they campaigned (successfully) against an ill-conceived Robert Moses-inspired plan to replace Riverside Park with an 8-lane superhighway along the West Side of Manhattan.
+After graduating from Harvard College with a major in Government, I spent a one-year fellowship working for a member of parliament in London, which gave me the opportunity to see the comparative advantages of the US political system.
+I moved to Washington DC, and after a year with a public interest group advocating tobacco control policies, I took a job working for Congressman Jim Scheuer (D-NY) as a legislative aide, responding to constituent concerns and analyzing legislation.
+These experiences showed me that I wanted to be in a career where I could be helping people directly (medicine) while also having a say in the laws and policies affecting public health (law).
+I decided to pursue both, attending Yale University where I earned both my MD and my JD in 1998.
+I met my wife in law school and, after living in Brookline and Jamaica Plain, we moved to Newton Highlands to raise our children here.
+I have served as a primary care physician for nearly 25 years at Mass General and the Brigham and Women's hospital.
+As an attending physician, I have provided primary care to my patients in the clinic and in the hospital, taught residents and medical students, and served on committees in the hospital advocating for my patients.
+In 2009, I ran for the Newton Board of Alderman (now the City Council), because I was alarmed at the state of our roads, sidewalks, and our school buildings.
+I was humbled by the experience of representing the voters of Newton for eight years, including in a leadership position as the chair of the Land Use Committee.
+As a city councilor, I strongly supported clean energy initiatives, the preservation of open space at Webster Woods, the approval of senior housing projects, and the ordinance raising the tobacco age to 19.
+Advocacy is a central part of my role as a physician.
+I advocated for healthcare reform as a member of the Massachusetts Medical Society's House of Delegates and Public Health Committee, and I helped lead an effort to amend the state constitution to establish a right to health insurance.
+Following the COVID-19 pandemic, I engaged in the American College of Physicians' advocacy days in both Massachusetts and Washington DC.
+I am the proud dad of two daughters who have gone through Newton Public Schools their entire lives.

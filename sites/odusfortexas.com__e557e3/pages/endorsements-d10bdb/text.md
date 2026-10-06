@@ -1,0 +1,141 @@
+Our Supporters
+- Lizzie Fletcher United States Congresswoman, TX-7
+- Greg Casar United States Congressman, TX-35
+- Julie Johnson United States Congresswoman, TX-32
+- Christian Menefee United States Congressman, TX-18
+- Borris Miles Texas State Senator
+- Carol Alvarado Texas State Senator
+- Sarah Eckhardt Texas State Senator
+- Senfronia Thompson Texas State Representative, Dean of the House
+- Harold Dutton Texas State Representative
+- Alma Allen Texas State Representative
+- Hubert Vo Texas State Representative
+- Ana Hernandez Texas State Representative
+- Donna Howard Texas State Representative, Texas Women’s Health Caucus, Chair
+- Armando Walle Texas State Representative, Legislative Study Group (LSG), Chair
+- Ron Reynolds Texas State Representative
+- Joe Moody Texas State Representative, Speaker Pro Tem
+- Chris Turner Texas State Representative
+- Nicole Collier Texas State Representative
+- Toni Rose Texas State Representative
+- Ramon Romero, Jr.
+Texas State Representative, Mexican American Legislative Caucus (MALC), Chair
+- Barbara Gervin-Hawkins Texas State Representative, Texas Legislative Black Caucus (TLBC), Chair
+- Gina Hinojosa Texas State Representative
+- James Talarico Texas State Representative
+- John Bucy Texas State Representative
+- Jon Rosenthal Texas State Representative
+- Rhetta Bowers Texas State Representative
+- Jessica Gonzalez Texas State Representative, LGBTQ Caucus, Chair
+- Sheryl Cole Texas State Representative
+- Terry Meza Texas State Representative
+- Erin Zwiener Texas State Representative
+- Vikki Goodwin Texas State Representative
+- Ann Johnson Texas State Representative
+- Josey Garcia Texas State Representative
+- Venton Jones Texas State Representative
+- Christian Manuel Texas State Representative
+- Mihaela Plesa Texas State Representative
+- Cassandra Garcia Hernandez Texas State Representative
+- Linda Garcia Texas State Representative
+- Lauren Ashley Simmons Texas State Representative, Labor and Workforce Caucus, Chair
+- Vince Perez Texas State Representative
+- Charlene Ward Johnson Texas State Representative
+- Aicha Davis Texas State Representative
+- Lina Hidalgo County Judge
+- Sean Teare Harris County District Attorney
+- Jonathan Fombonne Harris County Attorney
+- Annette Ramirez Harris County Tax Assessor-Collector & Voter Registrar
+- Rodney Ellis Harris County Commissioner
+- Adrian Garcia Harris County Commissioner
+- Lesley Briones Harris County Commissioner
+- Dexter L.
+McCoy Fort Bend County Commissioner
+- Chris Hollins Houston City Controller
+- Martha Castex-Tatum City of Houston Council Member, Mayor Pro Tem
+- Tiffany D.
+Thomas City of Houston Council Member
+- Abbie Kamin City of Houston Council Member
+- Mario Castillo City of Houston Council Member
+- Ed Pollard City of Houston Council Member
+- Andrea Duhon Harris County Dept. of Education Board Trustee, Campaign Chair
+- Silky Joshi Malik Harris County Dept. of Education Board Trustee
+- Ieshia Wilson Lone Star College Board Trustee
+- Lesely Guilmart CFISD Board Trustee
+- Dr.
+Cleveland Lane Jr.
+CFISD Board Trustee
+- Kendra Camarena CFISD Board Trustee
+Texas House District 135 Precinct Chairs
+- Mohammad Baqa Precinct 1138
+- Amatullah Contractor Precinct 1137
+- Warren Geary Precinct 616
+- Babalola Goodrich Precinct 598
+- Ronda Gray Precinct 875
+- Trae Lewis Precinct 882
+- Monica McCoy Precinct 796
+- Amaury Mercado Precinct 804
+- Asim Sultan Precinct 521
+- Gustave Thomas Precinct 553
+- Angela Williams Precinct 881
+- Jeremy Eugene Precinct 712
+- Genevieve Williams Precinct 643
+Congressional District Chairs
+- Dwight Ford District 8
+- Rod Jennings District 38
+State Democratic Executive Committee (SDEC) Leadership
+- Angela Williams (Committeewoman) District 8
+- Chris Powell (Committeeman) District 8
+- Mohammad “Jazz” Aijaz (Committeeman) District 22
+- Glenn Etienne (Committeeman) District 38
+Area Clubs & Organizations Leadership
+- Gina Dutton Cy-Fair Area Democratic Club, President
+- Jennifer Lorenz Cypress-Tomball Democrats, President
+- Nikki Cowart Cy-Fair American Federation of Teachers (AFT), President
+- Danielle Cockrelle Cy-Fair American Federation of Teachers (AFT), Vice President
+Organizations
+- Cy-Fair American Federation of Teachers (AFT)
+- Run For Something (RFS)
+- Plumbers Local 68 Union
+- Pipefitters Local 211 Union
+- Latino Labor Leadership Council
+- Teamsters Local 988 Union
+- International Brotherhood of Electrical Workers 716 (IBEW)
+- Transport Workers AFLCIO Local 260 Union
+- Greater Houston Builders Association
+- International Association of Machinists and Aerospace Workers Lodge 811
+- LiUNA Local 350
+- Southwest Laborers District Council
+- Communications Workers of America Local 6154 Union (CWA)
+- Seafarers International Union
+- Center for Freethought Equality PAC
+- International Association of Machinists
+& Aerospace Workers Union (IAM Union)
+- International Association of Machinists
+& Aerospace Workers Local 2340 Union (IAM)
+- International Association of Machinists
+& Aerospace Workers Local 2916 Union (IAM)
+- Houston Federation of Teachers (HFT)
+- Houston Association of Realtors
+- Unite Here!
+Local 23 Union
+- Texas State Employees Union (TSEU), Communications Workers of America (CWA) Local 6186
+- Texas Association of Builders
+- Houston Black American Democrats (HBAD)
+- Texas American Federation of Labor and Congress of Industrial Organizations Committee on Political Education (Texas AFL-CIO COPE)
+- Gulf Coast American Federation of Labor and Congress of Industrial Organizations (Gulf Coast AFL-CIO)
+- Harris County Young Democrats
+- Texas American Federation of Teachers (AFT)
+- Area 5 Democrats
+- Secular Houston
+- Texas State Teachers Association
+- Texas Democratic Veterans Caucus
+- Asian Texans for Justice
+- Asian American Democrats of Texas
+- Texas Medical Association Political Action Committee (TEXPAC)
+- The Collective PAC
+- Brotherhood of Locomotive Engineers and Trainmen (BLET)
+- Moms Demand Action Gun Sense Candidate
+- New Politics
+- Harris County Deputies’ Organization, FOP Lodge 39
+- Planned Parenthood Texas Votes

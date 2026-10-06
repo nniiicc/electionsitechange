@@ -1,0 +1,21 @@
+Oil and Gas Industry
+We are literally sitting on the biggest potential for job growth and business development in Pennsylvania's history.
+However, for far too long the solution in Harrisburg has been, “tax the gas industry.” That is not the answer.
+While I believe this industry needs to help us protect our wildlife and natural resources through safe gas exploration, we need to make it work for them as well as the landowners.
+I will support the landowner first in this discussion.
+I will always be looking for ways to use common sense and balance that helps our PA economy as well as our residents.
+$14.1 Million in Natural Gas Impact Fees Coming Back to the District
+In early June 2018, while serving as your current PA State Representative, it was announced that $14,144,685 in impact fees from the natural gas drilling industry are coming back to the counties and communities that make up the 68th Legislative District.
+Since 2012, impact fee revenues have topped $1.5 billion, and the statewide figures for 2017 represent a 21 percent increase over the previous year’s distribution dollars.
+Impact fee revenues for 2017 resulted in the following disbursements: Bradford County will receive $5,051,257.31 and Bradford County municipalities in the 68th District will receive $2,715,421.55; Potter County will receive $359,070.33 and Potter County municipalities in the 68th District will receive $15,137.84; Tioga County will receive $3,020,364.28 and Tioga County municipalities will receive $2,983,433.70.
+Bradford County is the third and Tioga County the sixth top-producing natural gas drilling counties in the state.
+The money we receive from the impact fees goes a long way in helping our communities address costly projects without having to implement additional taxes on area residents.
+Fees are collected from the drilling companies with 60 percent returned to benefit our counties and local municipalities affected by drilling.
+The rest of the money goes into a Marcellus Shale Legacy Fund administered by the state to be used for emergency response planning, training and other activities; water, storm water, and sewer system construction and repair; infrastructure maintenance and repair; as well as statewide environmental initiatives.
+For more information, including a breakdown of municipality impact fee totals, click here.
+Facts about the Gas Industry in PA:
+- Estimated Value of Natural Gas in PA is $1.64 Trillion. https://www.philadelphiafed.org/community-development/publications/cascade/77/01_economic-implications-of-gas-drilling-in-marcellus-shale
+- Landowners will receive 1/8th of the total value of the Natural Gas. http://www.pacourts.us/assets/opinions/Supreme/out/j-78-2009mo.pdf
+- Supported 178,100 or 3.1 percent of jobs in the state. http://www.pamanufacturers.org/pma-bulletin/state-government-leaders-back-harrisburg-rummaging-funds
+- 12.9 Full time jobs are required per well.
+- https://www.philadelphiafed.org/community-development/publications/cascade/77/01_economic-implications-of-gas-drilling-in-marcellus-shale

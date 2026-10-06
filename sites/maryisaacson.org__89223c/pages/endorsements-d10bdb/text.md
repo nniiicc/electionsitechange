@@ -1,0 +1,26 @@
+I have previously been endorsed by
+- Emily’s List
+- Represent PA
+- Pennsylvania NOW
+- Planned Parenthood
+- Sierra Club
+- PennEnvironment
+- Clean Water Action
+- Conservation Voters of PA
+- PFT
+- AFL-CIO
+- AFSCME
+- HumanePA
+- 18th Ward Democrats
+- 5th Ward Democrats
+- Philadelphia Democratic City Committee
+- LEAP FORWARD
+- IBEW
+- Sheetmetal Workers
+- Transportation Workers
+- Firefighters Local 22
+- UFCW 1776
+- Liberty City
+- PGN
+- Mom’s Demand Action
+- Governor Tom Wolf

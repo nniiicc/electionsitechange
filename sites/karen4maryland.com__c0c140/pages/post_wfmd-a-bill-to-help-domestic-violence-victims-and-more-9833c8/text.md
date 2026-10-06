@@ -1,0 +1,1 @@
+WFMD A Bill to Help Domestic Violence Victims and More Karen Simpson Apr 22, 2023 1 min read “It’s important for victims to help them move to being a victim to being a survivor; to increase that communication to have that understanding of what is happening,” ~Delegate Simpson 2/17/2023

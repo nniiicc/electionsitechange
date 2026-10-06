@@ -1,0 +1,2 @@
+5/2/26 Portland City Councilors Being Investigated for Breaking OR Law & Legislature Supermajority Dazed Previous Ciatta For Oregon House of Representative District 33 Kickoff Speech Next Ciatta Thompson on Fixing Portland's Problems, Sanctuary Cities, LGBT Community You Might Also Like Ciatta For Oregon House of Representative District 33 Kickoff Speech Man films attendees, campaign launch targeted — political intimidation in downtown Portland?
+Ciatta Thompson on Fixing Portland's Problems, Sanctuary Cities, LGBT Community

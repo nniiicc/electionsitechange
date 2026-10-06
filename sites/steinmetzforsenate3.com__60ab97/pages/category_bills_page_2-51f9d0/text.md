@@ -1,0 +1,3 @@
+Sponsored / Co-Sponsored Bills: The following are sponsored and co-sponsored bills for the 2017 Legislative Session.
+I appreciate your input on Legislative issues as your Representative: If there are bills during the Legislative Sessions that are important to you, please let me know your thoughts and/or concerns.
+Contact me...

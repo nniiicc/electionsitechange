@@ -1,0 +1,5 @@
+[
+"https://alaniformt.com/{{ al.href }}",
+"https://alaniformt.com/{{ card.moreUrl }}",
+"https://alaniformt.com/{{ cc.href }}"
+]

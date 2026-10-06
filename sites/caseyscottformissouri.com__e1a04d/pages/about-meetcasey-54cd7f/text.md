@@ -1,0 +1,13 @@
+Meet Casey
+Casey For the People of District Two
+Casey Scott is a Northwest Missouri native, healthcare professional, and community advocate who has built her career around one core belief: where a person lives should not determine whether they can access the care they need.
+Her work is rooted in a deep commitment to strengthening rural healthcare, supporting working families, and ensuring communities like hers are seen, heard, and supported.
+Casey earned her Associate of Arts degree from North Central Missouri College before completing her radiologic technology training at Hillyard Technical Center.
+She went on to obtain advanced certifications in computed tomography (CT), magnetic resonance imaging (MRI), and MRI safety, continually expanding her expertise to better serve patients.
+Her career began in rural hospitals across Missouri, Iowa, and Kansas, where she quickly recognized critical gaps in access to specialized imaging—gaps that often forced patients to travel long distances, delay care, or go without it entirely.
+While serving as Lead MRI Technologist at Harrison County Community Hospital, Casey saw firsthand how limited resources and safety concerns prevented patients with complex implant conditions from receiving necessary scans locally.
+Determined to change that, she pursued advanced MRI safety training and helped expand access to services like pacemaker imaging—bringing critical care closer to home for rural patients.
+Her leadership extends beyond the workplace; she has held multiple roles within the Missouri Society of Radiologic Technologists, including Parliamentarian, Secretary, Exhibits Chair, and Vice President, where she has championed collaboration and professional development.
+Outside of her healthcare career, Casey is deeply involved in her community.
+She has organized local fundraising efforts to support animal shelters and other causes, reflecting her belief that strong communities are built through service and connection.
+She is also a proud mother of two daughters, whom she is raising with the same values of resilience, compassion, and commitment to others that guide her work every day.

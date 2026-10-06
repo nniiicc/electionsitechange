@@ -1,0 +1,2 @@
+Silver City resident, Susie Conner Trujillo, receives NMPHA Public Health Advocate award 040518
+Photos Courtesy of Rebecca Dow Submitted by Chris DeBolt, MA, New Mexico Alliance of Health Councils Partnerships Manager Public Health is everybody’s business and that important issue was front and center at the New Mexico Public Health Association’ s annual conference last week in Albuquerque, as a part of the celebration of National Public

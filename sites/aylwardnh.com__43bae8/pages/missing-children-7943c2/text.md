@@ -1,0 +1,4 @@
+In 1994, Deborah Aylward boldly went where few women had gone before, and entered the male-dominated occupation of private investigations, becoming a registered private investigator and owner of a licensed private detective agency in the District of Columbia, Virginia and New Hampshire.
+Specializing in family law investigations, she became a high specialist in missing children cases, and subsequently founded ‘HomeFires, LLC”, a 501(c)(3) charitable nonprofit dedicated to providing pro bono investigative assistance to parents of parentally abducted and kidnapped children.
+The highly successful organization was in operation for 10 years and had upwards of 100 volunteer investigators nationwide, with a 98% locate rate.
+Volunteers were the ‘missing link’ between parents and law enforcement who safely recovered the children once located.

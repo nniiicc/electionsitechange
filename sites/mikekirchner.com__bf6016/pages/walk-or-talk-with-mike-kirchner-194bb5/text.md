@@ -1,0 +1,39 @@
+Skip to content
+Mike Kirchner
+About
+OAS Paper
+Walk or Talk with Mike Kirchner
+Walk or Talk with Mike Kirchner
+Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+Name
+*
+First
+Last
+Email
+*
+or if walk
+Phone Number
+Would you like a sign in your yard?
+Please provide address in comment if you do.
+Yes
+No
+Comment or Message
+Please choose a day you would like to walk or talk with Mike Kirchner
+Saturday October 3, 9:30am, North Chagrin Nature Center
+Sunday October 4, 11:00am, Euclid Creek Welsh Picnic Area
+Monday October 5, 5:30pm, 30 minutes before Beachwood City Council meeting
+Tuesday October 6, 5:30pm, 30 minutes before Newburgh Heights City Council meeting
+Tuesday October 6, 6:30pm, 30 minutes before Bedford Hts.
+City Council meeting
+Wednesday October 7,6:30pm, 30 minutes before Maple Hts.
+City Council meeting
+Saturday October 10, 11:00am, Kehres Stadium parking lot, Alliance Ohio
+Monday October 12, 7:00pm, 30 minutes before Chagrin Falls City Council meeting
+Wednesday October 14, 5:45pm, 30 minutes before Orange Finance Committee meeting
+Wednesday October 14, 6:30pm, 30 minutes before Moreland Hills City Council meeting
+Monday October 19, 4:00 Niagra Falls Goat Island
+Tuesday October 20, Niagra on the Lake
+Wednesday October 21, 6:00pm, 30 minutes before Bratenahl City Council meeting
+Tuesday October 27, 7:00pm, 30 minutes prior to Highland Heights City Council meeting
+Submit

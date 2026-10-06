@@ -1,0 +1,32 @@
+top of page
+PRIVACY POLICY
+Privacy Policy
+Jennifer Massey for Florida State House District 84
+Effective Date: 5/10/26
+Jennifer Massey for Florida State House District 84 (“Campaign,” “we,” “our,” or “us”) respects your privacy and is committed to protecting the personal information you share through our website, elizabethholmesforflorida.com.
+This Privacy Policy explains how we collect, use, and safeguard your information.
+We may collect personal information that you voluntarily provide when interacting with our website, including your name, email address, phone number, mailing address, employer and occupation (as required for certain political contributions), and any information you submit through forms, event sign-ups, or volunteer registrations.
+We may also automatically collect certain information about your device and browsing activity, including your IP address, browser type, device information, pages visited, time spent on the site, and referral sources.
+We may use cookies and similar technologies to improve website performance and user experience.
+We use the information we collect to provide campaign updates, newsletters, and event invitations, to process donations and comply with applicable campaign finance laws, to respond to your inquiries and requests, to organize volunteer and outreach efforts, and to improve the functionality and effectiveness of our website.
+By providing your email address or phone number, you consent to receive communications from the Campaign.
+Message frequency may vary and message and data rates may apply.
+You may opt out at any time by clicking the unsubscribe link in any email or by replying STOP to any text message.
+We do not sell your personal information.
+We may share your information with trusted vendors and service providers who assist with campaign operations, including payment processors such as ActBlue, email platforms, and website hosting services.
+We may also share information with government agencies as required to comply with campaign finance laws or with law enforcement when required by law.
+Donations made through our website are processed securely through third-party platforms.
+The Campaign does not store full credit card numbers.
+Florida law may require us to collect and report donor information, including name, address, occupation, and employer.
+We use reasonable administrative, technical, and physical safeguards to protect your personal information, but no method of transmission over the internet or electronic storage is completely secure.
+Our website may contain links to third-party websites.
+We are not responsible for the privacy practices or content of those sites.
+This website is not intended for children under the age of 13, and we do not knowingly collect personal information from children.
+You may opt out of receiving emails at any time, adjust your browser settings to refuse cookies, or contact us to update or request removal of your personal information where applicable.
+We may update this Privacy Policy from time to time.
+Any changes will be posted on this page with an updated effective date.
+If you have any questions about this Privacy Policy, please contact Jennifer Massey for Florida State House District 84 at info@jennifermasseyforflorida.com
+Paid for by Jennifer Massey, Democrat, for Florida State House District 94.
+We may use third-party tools such as Google Analytics and platforms operated by Meta to better understand website usage and improve outreach.
+These tools may use cookies or similar technologies.
+bottom of page

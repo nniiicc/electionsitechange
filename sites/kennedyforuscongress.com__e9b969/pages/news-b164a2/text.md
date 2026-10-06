@@ -1,0 +1,135 @@
+Featured News
+Rep.
+Tim Kennedy pushes for 3 bills to address food insecurity
+WIVB
+Leader Hakeem Jeffries rallies against Medicaid cuts from One Big Beautiful Bill Act in Buffalo
+WKBW
+Federal funding set to support job training, affordable housing in Buffalo
+WIVB
+Rep.
+Kennedy pushes for passage of legislation making travel between N.Y. and Canada easier
+Spectrum Local News
+Rep.
+Tim Kennedy introduces DHS Release Transparency Act
+WIVB
+Rep.
+Tim Kennedy on the Iran War and Congressional News of the Week
+C-SPAN
+American Flood Coalition recognizes Rep.
+Kennedy as a Federal Champion
+Amherst Bee
+Rep.
+Kennedy seeks impeachment of Kristi Noem
+WGRZ
+Congressman Tim Kennedy pushes to pass LEAP Act
+WGRZ
+Kennedy talks future with refugee, immigration service groups
+BTPM
+WKBW
+Cancel Cuts: Democrats & health providers urge GOP to stop proposed health care cuts
+WKBW
+Congressman Tim Kennedy calls for reversal of Medicaid cuts
+WGRZ
+Rep.
+Tim Kennedy pushes legislation to lift tariffs on baby products
+Spectrum Local News
+New York State lawmakers respond to redistricting issue in Texas
+WIVB
+Battle Over Future of Social Security
+WGRZ
+‘Those in power don’t want accountability’: Kennedy calls out colleagues for public media cuts
+BTPM
+U.S.
+Rep.
+Tim Kennedy reacts to the passage of One Big Beautiful Bill
+WGRZ-TV
+Buffalo to revamp Seneca Street: A $23M transformation project kicks off next month
+WGRZ
+Buffalo Naval Park honors sacrifice in combat and at home
+BTPM
+Congressman Kennedy re-introduces body armor bill in honor of fallen hero
+WGRZ
+Congressmen Kennedy demanding a stop to Trump’s executive order to Museums and Libraries
+WBEN
+Local leaders speak out against $880 billion in Medicaid cuts
+WBFO
+Interview: Congressman Tim Kennedy says federal funding cuts are hurting Americans
+WIVB
+Congressman Tim Kennedy vows to combat President Trump’s “wrongful termination” of federal employees
+WBFO
+Rep.
+Kennedy warns of dire impacts new tariffs on Canada will bring to regional economy
+WBEN
+Roswell Park receives $7.7M for biobank
+The Cancer Letter
+Press Release
+Buffalo will receive $17 million in state infrastructure funding for city roads
+WGRZ
+Sen.
+Tim Kennedy on how to make the way we travel greener
+Spectrum News
+Kennedy visits family of contaminated Niagara Falls home, joins call for relocation
+BTPM
+Kennedy: Family travel is hard enough, red tape shouldn’t make it harder
+Cheektowaga Bee
+Jeffries, Kennedy bring attention to federal healthcare cuts
+WIVB
+Congressman Kennedy calls on House to pass NEXUS card legislation
+BTPM
+Rep.
+Kennedy to introduce “DHS Release Transparency Act”
+WGRZ
+Kennedy announces $850,000 for City of Tonawanda pool overhaul
+BTPM
+Kennedy secures $1M for UB center to boost US-Canada trade
+BTPM
+Kennedy, other local leaders call for ICE to leave U.S. cities
+WBEN
+Interview: U.S.
+Congressman Tim Kennedy
+WIVBT
+Bipartisan legislation seeks to strengthen federal port infrastructure investment
+Transportation Today
+‘I lose sleep at night’: Early intervention providers fear impact of proposed funding cuts
+WKBW
+Tim Kennedy might be new to Congress – but he’s not shy about it
+Buffalo News
+Cheektowaga fire companies awarded $240K grant for new safety equipment
+WGRZ
+Wheatfield neighborhood left without mailboxes, forced to rely on PO boxes
+WKBW
+Hochul, state leaders rally against federal cuts
+Spectrum Local News
+Congressman Tim Kennedy calls for cancellation of SNAP cuts
+WIVB
+Rep.
+Kennedy says Medicaid cuts will ‘devastate’ Western N.Y. nursing homes
+Spectrum News
+The Fly-In | Episode 11 | “Cabin Pressure” with Special Guest Rep.
+Tim Kennedy
+The Fly-In Podcast
+Kennedy, others protest proposed passport office move
+Buffalo News
+Rep.
+Tim Kennedy on Los Angeles Protests and Trump Deportation Policies
+C-SPAN
+Buffalo leaders defend $102M for Bailey Avenue transit amid funding fears
+WGRZ
+Kennedy: Halt on student visas would be ‘catastrophic’ for UB
+WIVB
+Kennedy urges strengthening FEMA as climate change fuels more disasters
+WGRZ
+Now is not time for complacency, lawmaker says
+Buffalo News
+‘My bill changes the rules’: Congressman Kennedy proposes SNOW Act for federal help in snowstorms
+WKBW Buffalo
+Community Health Center of Buffalo to receive more than $1.7 million in new funding
+Spectrum News
+Tim Kennedy: From South Buffalo roots to Albany power broker
+Buffalo News
+Higgins, Kennedy push for infrastructure investments in Western New York
+Spectrum News
+Tim Kennedy’s bills would force new rules on Western Region OTB
+Buffalo News
+$47.5 million in funding to connect South Buffalo to Outer Harbor
+WKBW

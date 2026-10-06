@@ -1,0 +1,9 @@
+Protecting the Environment
+Lisa is dedicated to fighting climate change, including through a shift toward renewable energy sources.
+As a Radnor Commissioner, she supported Township participation in the Sierra Club’s Ready for 100% commitment to clean, renewable energy, fought for open space preservation, and helped protect the community’s natural resources.
+Since joining the legislature she has worked on issues which will make a small and large impact.
+Her “Right to Dry” legislation would prevent HOA’s from restricting residents from installing clotheslines on their property.
+She has also introduced comprehensive e-recycling legislation in collaboration with a bipartisan effort in the senate to create a program for the commonwealth to make it easier and more cost effective for residents to recycle electronic waste.
+Most pressing in this legislature is the increase in the number of data centers proposed for development across the commonwealth.
+It is important we develop strong legislation to put guardrails around the development and provide local communities the tools they need to be prepared to make decisions regarding development which best suit the needs of their community.
+Lisa has cosponsored multiple pieces of legislation to regulate the industry including repealing the Data Center Sales Tax Exemption, allowing municipalities to enact a six-month pause on Data Center applications, and GRID certification to protect energy affordability, meet transparency standards, engage local communities, and use advanced technology to minimize water and energy use while preventing pollution and environmental impacts.

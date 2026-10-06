@@ -1,0 +1,13 @@
+top of page
+News
+Successor to District 25 Rep becomes the youngest female state legislator
+Rep.
+Parajón was appointed to fill the District 25 seat in the NM House of Representatives and is now the youngest female state legislator.
+Aug 11, 2023
+40 Under 40: Meet Cristina Parajon
+By Craig Landes Jun 22, 2023 Original article from Albuquerque Business First Journal If you are ever feeling uncertain about New...
+Jun 22, 2023
+Gibson Gateway Center moving forward to help homeless
+By Stephanie Muñiz Nov 9, 2021 Original article on KOAT News ALBUQUERQUE, N.M. — Housing the homeless has been a goal for city leaders...
+Nov 9, 2021
+bottom of page

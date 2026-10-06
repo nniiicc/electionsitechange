@@ -1,0 +1,109 @@
+REPRESENTING YOU
+Co-Authored Legislation
+2025 Co-Authored Proposals
+I have shown my support for many proposed bills this past session.
+I've second authored these proposals because I believe in the benefits they offer my friends and neighbors in the 70th Assembly District, along with citizens across Wisconsin.
+These Assembly and Senate Bills prioritize changes that need to be addressed in many areas that affect our day to day life.
+- Senate Bill 190 (Respiratory Care Interstate Compact)
+Ratifies the multi-state Respiratory Care Interstate Compact within Wisconsin, allowing practitioners with out-of-state licensing in good standing to seamlessly practice locally.
+Signed into Law: April 7, 2026 (Enacted as 2025 Wisconsin Act 76)
+- 1/30/2026: 2025 Assembly Bill 992
+Relating to: requirements for proposed administrative rules that impose costs.
+(FE)
+- 1/30/2026: 2025 Assembly Bill 990
+Relating to: personal financial literacy high school graduation requirement.
+- 1/29/2026: 2025 Assembly Joint Resolution 133
+Relating to: legislative suspension of rules promulgated by state agencies (first consideration).
+- 1/29/2026: 2025 Assembly Bill 955
+Relating to: the rule-making authority of agencies.
+(FE)
+- 1/23/2026: 2025 Assembly Bill 900
+Relating to: eligibility for farmland preservation tax credits.
+(FE)
+- 1/6/2026: 2025 Assembly Bill 819
+Relating to: allowing discounts for prompt payment of health care fees.
+- 12/3/2025: 2025 Assembly Bill 704
+Relating to: fees for snowmobile registration and trail use stickers.
+(FE)
+- 11/7/2025: 2025 Assembly Bill 627
+Relating to: fees related to animal markets, animal dealers, animal truckers, and animal transport vehicles.
+(FE)
+- 10/9/2025: 2025 Assembly Bill 492
+Relating to: music therapists, the practice of music therapy, and providing a penalty.
+(FE)
+- 10/3/2025: 2025 Assembly Joint Resolution 96
+Relating to: proclaiming the months of October 2025 and October 2026 as Breast Cancer Awareness Months.
+- 9/26/2025: 2025 Assembly Bill 458
+Relating to: admissibility of expert witness testimony.
+- 9/19/2025: 2025 Assembly Bill 445
+Relating to: registers of deeds, transportation project plats, and providing a penalty.
+(FE)
+- 9/19/2025: 2025 Assembly Bill 439
+Relating to: eligibility of a highway for an agricultural roads improvement program grant.
+(FE)
+- 9/15/2025: 2025 Assembly Joint Resolution 91
+Relating to: recognizing the United States Navy’s 250th birthday.
+- 7/17/2025: 2025 Assembly Bill 372
+Relating to: identification of the Brooklyn Area Veterans Memorial on state highway maps.
+(FE)
+- 7/17/2025: 2025 Assembly Bill 369
+Relating to: a tax credit for employer-provided child care.
+(FE)
+- 7/8/2025: 2025 Assembly Bill 318
+Relating to: a requirement for fair organizations that seek state aid.
+- 6/9/2025: 2025 Assembly Bill 315
+Relating to: the Warren Knowles-Gaylord Nelson stewardship 2000 program and a major land acquisitions program.
+(FE)
+- 6/6/2025: 2025 Assembly Bill 308
+Relating to: prohibiting funding for health services for unlawfully present individuals.
+(FE)
+- 5/30/2025: 2025 Assembly Bill 280
+Relating to: workforce housing and childcare awards under the business development tax credit.
+(FE)
+- 5/30/2025: 2025 Assembly Joint Resolution 59
+Relating to: proclaiming June as Dairy Month in Wisconsin.
+- 5/19/2025: 2025 Assembly Bill 265
+Relating to: human trafficking and trafficking of a child and providing a penalty.
+- 5/8/2025: 2025 Assembly Joint Resolution 55
+Relating to: designating May as Mental Health Awareness Month in Wisconsin.
+- 5/7/2025: 2025 Assembly Joint Resolution 50
+Relating to: recognizing the United States Army’s 250th birthday.
+- 4/23/2025: 2025 Assembly Bill 216
+Relating to: the amount and distribution of the real estate transfer fee, grants under the land information program, real property recording notification systems, and making an appropriation.
+(FE)
+- 4/23/2025: 2025 Assembly Bill 217
+Relating to: local government competitive bidding thresholds.
+(FE)
+- 4/23/2025: 2025 Assembly Bill 214
+Relating to: town clerk and treasurer appointments, publication requirements for proposed budget summary and notice of public hearing, and discontinuance of highways.
+(FE)
+- 4/23/2025: 2025 Assembly Bill 208
+Relating to: an income and franchise tax exemption for broadband expansion grants and for federal high-cost program funding for broadband expansion.
+(FE)
+- 4/15/2025: 2025 Assembly Bill 198
+Relating to: emergency medical services education, tuition and materials reimbursement for emergency medical responders and emergency medical services practitioners, and a live 911 pilot program.
+(FE)
+- 4/15/2025: 2025 Assembly Bill 197
+Relating to: a levy limit exemption for regional emergency medical systems and eligibility for the expenditure restraint incentive program.
+(FE).
+- 4/15/2025: 2025 Assembly Bill 199
+Relating to: reimbursement of emergency services under the Medical Assistance program when a patient is not transported, reporting on changes to the scope of practice of emergency medical responders and emergency medical services practitioners, and eligibility for the expenditure restraint incentive program.
+(FE)
+- 4/15/2025: 2025 Assembly Bill 181
+Relating to: county forest administration grant eligibility.
+- 4/2/2025: 2025 Assembly Bill 154
+Relating to: use of certified seed potatoes in planting potatoes and providing a penalty.
+(FE)
+- 3/11/2025: 2025 Assembly Joint Resolution 12
+Relating to: honoring the life and public service of Assembly Chief Clerk Patrick Fuller.
+- 3/3/2025: 2025 Assembly Bill 100
+Relating to: designating athletic sports and teams operated or sponsored by public schools or private schools participating in a parental choice program based on the sex of the participants.
+- 3/3/2025: 2025 Assembly Bill 102
+Relating to: designating University of Wisconsin and technical college sports and athletic teams based on the sex of the participants.
+- 2/17/2025: 2025 Assembly Joint Resolution 6
+Relating to: recognizing that the Wisconsin State Legislature supports nuclear power and fusion energy as clean energy sources that are critical to safely meeting Wisconsin’s growing energy demands and declaring the legislature’s commitment to the continuation and expansion of nuclear power and nuclear technologies, the development of nuclear technologies and fusion energy, and employing the leadership and resources necessary to support the development of and investment in nuclear power, fusion energy, and related technologies in the state.
+- 2/10/2025: 2025 Assembly Joint Resolution 4
+Relating to: honoring the life and public service of Justice David T.
+Prosser Jr.
+- 1/6/2025: 2025 Assembly Joint Resolution 1
+Relating to: requiring photographic identification to vote in any election (second consideration).

@@ -1,0 +1,13 @@
+From the office of Senator Aric Putnam
+Senators Push State to Allow MN Producers to Use Lower-Taxed Type of Diesel on Public Highways, Not Just in the Field
+SAINT PAUL, MN – Minnesota Senate Agriculture Committee Chair Aric Putnam (DFL-St.
+Cloud), and Vice Chair Rob Kupec (DFL-Moorhead) are pressing Governor Walz to help ease the economic pain for farmers who have been hit hard by the record-breaking rise in the cost of diesel fuel caused by President Donald Trump’s war in Iran.
+The Senators said the war has pushed up diesel prices in Minnesota to an average of $6.25 per gallon, up nearly 80 cents from last month, and far above the $3.59-per-gallon price farmers and truckers were paying a year ago.
+The two Senators are calling on Governor Walz to quickly provide relief by temporarily allowing farmers to use the lower-taxed red dye diesel on public highways and not just in the field.
+Minnesota exempts red dye diesel from taxes, but strictly prohibits its use off the farm.
+Temporarily allowing it to be used by farmers to move crops like sugar beets, corn and soybeans to market would save them 32 cents per gallon and make a huge difference in their bottom line, the Senators said.
+“Farmers in Minnesota have already been rocked by a chaotic tariff policy coming out of Washington, D.C, and now the President’s war in Iran has almost doubled the cost of their diesel fuel since it began,” Senator Putnam and Kupec said in a statement.
+“Minnesota farmers have always been resilient, but the cost of federal policies is crushing too many of them.
+It’s now harvest time, when diesel consumption is at its highest, and they need relief.
+That’s why we are asking Governor Walz and other state officials to take action in Minnesota by temporarily allowing farmers to use the lower-taxed red-dye diesel to cut the cost of getting their goods to market.
+It will give thousands of farmers across the state some much-needed financial breathing room to get them through what has been a very challenging year.”

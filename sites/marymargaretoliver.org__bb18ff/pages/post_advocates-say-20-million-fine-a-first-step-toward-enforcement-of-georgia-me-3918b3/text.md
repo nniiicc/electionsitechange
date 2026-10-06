@@ -1,0 +1,27 @@
+Georgia state Rep.
+Mary Margaret Oliver, a Decatur Democrat who was a co-sponsor of the 2022 measure and who attended Monday’s parity rally, said she hopes to pass additional legislation aimed at closing the gaps in enforcement when the Legislature reconvenes in January.
+By Maya Homan, Georgia Recorder
+Mental health advocates gathered at the state Capitol in Atlanta to urge Georgia Insurance Commissioner John King to step up enforcement of the state’s mental health parity laws just a few days after King’s office announced it would fine health insurance companies $20 million for failing to comply.
+The fines, announced Friday, mark the first major instance of the state enforcing a 2022 law aimed at ensuring that insurers cover mental health care alongside its coverage for physical health.
+Georgia residents have long faced barriers when it comes to seeking mental health treatment.
+The state ranks 47th in the nation for access to mental health care, according to an annual report from Mental Health America, and nearly 35% of adults with frequent mental distress said they could not seek care because of the cost – with Georgia ranking last on that metric.
+King’s office, which is tasked with ensuring that insurance companies comply with Georgia regulations, said it found over 6,000 violations involving 22 different insurance providers.
+Companies can be fined up to $2,000 for every violation, or up to $5,000 per violation if they knew or reasonably could have known they were violating the law.
+“The time to get in compliance with the law was yesterday,” King said in a statement Friday.
+“Today, we are taking decisive action to hold those who think they can skirt the law accountable.”
+A spokesperson for the Office of Insurance and Safety Fire declined to name which insurers had received fines, saying that more information would become available once the final orders had been issued.
+Georgia’s Mental Health Parity Act was signed into law in 2022, and was aimed at improving enforcement of a 2008 federal law requiring health insurance companies to treat behavioral health benefits on par with physical care, meaning that deductibles, co-pays or limits on the number of visits or days of hospitalization should be the same for both mental and physical services.
+The law also mandates that Georgia’s Office of Insurance and Safety Fire conduct an in-depth review of insurer data and submit an annual report to the governor, lieutenant governor and speaker of the House of Representatives every August.
+This year’s report has not yet been publicly posted.
+At a rally for mental health parity outside King’s office Monday, advocates called for greater enforcement of Georgia’s existing parity law and urged King to uphold other aspects of the legislation, including a requirement that the commissioner’s office establish a separate portal for parity-related complaints.
+“It’s the parity law, not the parity recommendation or suggestion,” said Jeff Breedlove, the strategic policy advisor for the Georgia Council for Recovery.
+“It is a privilege for an insurance company to do business in the state of Georgia and serve Georgia families, not a right.
+And if you want to profit off of Georgians, then you need to at the very least follow our laws.”
+And while mental health advocates said they were excited by King’s announcement, many also expressed disappointment in the outcome.
+“I’m a little underwhelmed by it,” said Roland Behm, one of the co-founders of the Georgia Mental Health Policy Partnership, adding that the $20 million fines will be split between the numerous insurance companies who failed to comply with the law.
+“We’re looking at individual insurers bearing a cost of about a million dollars,” Behm said.
+“And once again, while more than I have in my checking account, it’s not really a lot of money in the context of insurers who might begin to think that the best thing for them to do is to not comply with the parity act and then just pay whatever fines might be assessed.”
+House Bill 612, which was introduced by Rome Republican Katie Dempsey, would create a formal mechanism to review and address parity complaints by establishing a parity compliance review panel.
+It would require health care providers to report suspected violations by health insurers.
+The bill stalled in the Senate insurance committee, but could be picked up again in 2026.
+“I am grateful that we are having some demonstrable evidence from the commissioner today that we’re moving forward, but there is much more to do,” Oliver said.

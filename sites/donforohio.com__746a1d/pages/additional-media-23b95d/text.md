@@ -1,0 +1,18 @@
+ADDITIONAL MEDIA RESOURCES
+September 21, 2026
+Mike Carey is a DC swamp creature.
+As both a corporate lobbyist and DC politician, Mike Carey has spent his career selling out the working people of Ohio for powerful corporate interests.
+Don Leonard is a dad and educator who is running to break the corrupting influence of special interests driving up costs.
+Starting as soon as possible, persuadable voters district wide - especially women, non-college educated voters, unaffiliated voters, voters under 50, and voters in the Columbus media market - should receive mail, see broadcast and cable TV ads, and see digital ads, especially on OTT/CTV, about how there is a clear contrast between Mike Carey and Don Leonard when it comes to who they are fighting for and why:
+- Mike Carey spent more than twenty years as a registered corporate lobbyist - putting corporate interests ahead of working Ohioans.
+He was the top lobbyist for a company involved in the $61 million bribery scheme that forced Ohioans to pay for a billion-dollar bailout and raised their utility costs.
+In Congress, Carey still rakes in energy industry cash and sides with corporate interests by voting for tax breaks for data center developers, raising energy bills for Ohio families.
+Even a fellow Ohio Republican called Mike Carey “literally [...] the swampiest swamp creature around.”
+- Raised through tough times by a hardworking single mother, Don Leonard is a dad and educator at The Ohio State University who is fed up with how Washington D.C. has failed ordinary Americans.
+He supports banning members of Congress from trading stocks and doesn’t take a dime of corporate PAC money because he believes members of Congress should always fight for the people ahead of their corporate donor’s interests.
+Don will put Ohio families first by lowering costs, getting money out of politics, and taking on data center developers to prevent higher energy costs.
+After persuadable voters have seen, heard and read the messages above, the final message persuadable voters district wide - especially women, non-college educated voters, unaffiliated voters, voters under 50, and voters in the Columbus media market - should hear in mail, see in broadcast and cable TV ads, and see in digital ads, especially on OTT/CTV, is about how Mike Carey and Donal Trump’s failed policies are making life more expensive for Ohioans:
+- Mike Carey has been in Washington, DC voting in favor of reckless spending on Trump's Iran war, in favor of Trump's plan to take away healthcare coverage from three hundred thousand people in Ohio and in favor of Trump's tariffs, which are making everything more expensive as the price of gas, housing, groceries, and healthcare has skyrocketed here in Ohio
+ADDITIONAL RESOURCES
+[Media]
+[Backup]

@@ -1,0 +1,33 @@
+The 2025 Legislative Session
+Kathleen’s Legislation for 2025
+Bills Signed Into Law
+HB8- Criminal Competency & Treatment
+HB137- Strategic Water Supply Act
+HB233- Diabetic Foot Ulcer Equipment Coverage
+HB212- Per- & Poly-Fluoroalkyl Protection Act
+HB192- Digital Trunked Radio System Subscriber Fees
+HB131- Prosthetic & Custom Orthotic Device Coverage
+HB41- Public Project Fund Appropriations
+SB16- Non-Major Party Voters In Primary Elections
+All Bills
+Explore all the bills introduced or supported by Representative Cates and how they fared in the rough-and-tumble of the legislative process: https://legiscan.com/NM/people/kathleen-cates/id/24782
+Background to 2025 Legislation
+Below are bills Kathleen sponsored or supported
+Here is Kathleen’s contact information at the Legislature.
+Keep up with the NM State Legislature Here.
+- Recruit and retain healthcare workers by providing housing subsidies
+- Restrict ticket scalping to maintain reasonable prices for ticket resales
+- Library Protection
+- Require landlords to count housing vouchers in determining prospective tenants’ income
+- Require condominium associations to maintain a ratio of owner-occupancy of 55% so that federally backed mortgages can be issued
+- Clarify Property Tax Assessments to protect farmers from egregious tax increases due to drought and other natural disasters
+- Require hospitals to create committees that would determine minimum staffing levels
+- Permit state contractors to adjust their rates when laws change that increase costs for the contractors
+- Lower the number of petition signatures required for independent candidates
+- Create non-partisan redistricting commissions for county redistricting
+- Prohibit non-functioning turf at all NM government owned buildings
+- Outlaw weapon modification
+- Require Juvenile Crimes be disclosed when an individual applies for a Firearm Permit
+- Increasing the Alcohol Tax and dedicate the tax revenues to addiction programs
+- Provide loans to certain water projects and local water authorities
+- Enact safety measures for motor carriers involved with transporting railroad workers

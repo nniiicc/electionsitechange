@@ -1,0 +1,19 @@
+Independent Matt Baker qualifies for VA-2 November ballot
+Marine Corps veteran collects more than 2,500 signatures in roughly one month, more than double the state requirement, to give Hampton Roads voters an independent choice
+September 1st, 2026
+Norfolk, Virginia - Hampton Roads voters will have a genuine third choice on the ballot this November.
+Matt Baker, a 28-year Marine Corps veteran who is currently the Senior Vice President for Grid Modernization at Typhoon HIL Inc, qualified for the Virginia 2nd Congressional District House of Representatives general election.
+His campaign collected more than 2,200 signatures from district voters in roughly one month — more than double the 1,000 verified signatures required by the Commonwealth of Virginia.
+Baker's qualification adds a substantive independent option to a race getting national attention, one that Speaker Johnson said, "will determine the fate of the country…" He is running against two established party candidates: the Republican incumbent finishing her second term in office and the Democratic candidate who served two terms in the seat previously.
+"What impressed me the most during my signature drive to get on the ballot was the willingness of just about everyone to speak with me, because I'm an independent," said Baker.
+"Folks from Virginia Beach, Suffolk, Chesapeake and the Eastern Shore signed the petition and explained they were willing to do so because they are tired of the dysfunction and name calling on both sides.
+The idea of being able to pick a candidate that was best for the job of representing them, instead of the lesser of two bad choices really resonated."
+Baker's independent campaign emphasizes the district, indeed the country, is the priority, not the Republican Party and not the Democratic Party.
+His campaign foundations are defending the constitution, fixing what is broken, building the future, and delivering for Hampton Roads — where military readiness, economic opportunity, mitigating sea-level rise, and educating our kids are paramount.
+"I'm running to represent this district — the whole district — not one set of party beliefs or worse, special interests and billionaires with big pockets.
+I appreciate local jobs and businesses, and I understand what it means to serve in harm's way," said Baker.
+"This campaign belongs to the people of the 2nd District, not a party." When asked about his chances, Baker explained "Neither party can win without independents.
+My aim is to unify people like me and convince a few from each party that are tired of the polarization and name calling to join us.
+Imagine, VA02 sending a message to Washington that the United States of America, not the parties, is the priority… That may well be something that determines the fate of the country."
+###
+Contact: media@mattbakerindependent.com

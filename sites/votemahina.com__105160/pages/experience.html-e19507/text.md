@@ -1,0 +1,43 @@
+Small Business
+Owned and operated Malama Surf Shop on Molokai
+Non-Profit and Conservation Work
+Molokai Maui Invasive Species Committee — Outreach Assistant
+'Aina Momona — Project Coordinator
+Hawksbill Turtle Project — Field Coordinator, Molokai
+Government
+County of Maui — Legislative Analyst for County Council Vice-Chair Keani Rawlins-Fernandez
+State of Hawaii — State House Representative, District 13
+'Aha Kiole — Mana'e Moku Member
+Traditional Native Hawaiian resource management
+Maui County Conservation Planning Committee — Member
+Advise the Mayor and Council on land acquisition of open space and create and monitor implementation of a Greenprint Conservation Plan
+Hoahu Energy Cooperative — Community participant
+Community owned renewable and culturally appropriate energy projects
+Kia'i Kanaloa — Marine mammal response
+Protection, advocacy, and response for marine mammals
+Kua‘āina Ulu Auamo — Community participant
+Community empowerment through stewardship of ecological and cultural resources
+Kupeke Ahupua'a — Co-Founder
+Traditional ahupua’a management
+Molokai Community Health Center — Board Vice-President and Policy Committee Chairperson
+Providing comprehensive and affordable healthcare
+Molokai Solid Waste Taskforce — Community Participant
+Developing solutions for solid waste issues
+Office of Hawaiian Affairs — Grant Reviewer
+Review and score OHA grant applications
+Pane Huli Au — Molokai Climate Change Taskforce
+2019 Molokai Climate Resiliency Summit
+Sustainable Coastlines — Volunteer
+Beach clean-up events
+The Nature Conservancy — Volunteer
+'Ua'u kani (wedgetail shearwater) bird banding and data recording
+GO Gorilla Ogo Hui — Volunteer
+Invasive limu removal
+Molokai Planning Commission — attendee and testifier
+Molokai Burial Council — attendee and testifier
+Commission On Water Resources Management — attendee and testifier
+Division of Aquatic Resources — attendee and testifier
+Maui County Council — attendee and testifier
+Authored Multiple Petitions — including "ZERO Short Term Vacation Rentals On Molokai" and "Oppose U.S.
+Navy Training Exercises In The Nearshore Waters Of Molokai"
+Paid for by Vote Mahina PO Box 1687, Kaunakakai, HI 96748

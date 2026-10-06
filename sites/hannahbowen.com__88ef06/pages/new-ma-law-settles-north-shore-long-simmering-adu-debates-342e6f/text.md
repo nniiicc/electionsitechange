@@ -1,0 +1,10 @@
+Following years of often-heated debates across the North Shore about the allowance of accessory-dwelling units — or so-called “in-law apartments” — and what stipulations to put on the creation of them, the state essentially made those discussions moot earlier this month when Gov.
+Maura Healey signed the Affordable Homes Act that allows ADUs “by-right” in all communities across the Commonwealth in neighborhoods zoned for single-family housing.
+…
+Beverly also worked through a long process to expand ADUs in that city over the past two years after a previous ordinance allowed them only on a temporary basis for family members.
+City Councilor Hannah Bowen championed that process that led to a new ordinance that required the owner to live in either the main dwelling area or the ADU itself on any property, and be in line with city bylaws banning short-term, or transient, rentals.
+“I’m thrilled with it,” Bowen told Patch of the statewide provision on Thursday.
+“The work we did to pass a strong ADU ordinance helped to build the case for this policy, and I am proud that we were part of that.
+“One of the criticisms I heard during our process was essentially: ‘Sure, this policy makes sense.
+But doesn’t it hurt Beverly if we increase/adapt our housing supply and none of our neighbors do?’ By enacting this policy statewide, we all benefit.”
+Read the full article: https://patch.com/massachusetts/salem/new-ma-law-settles-north-shore-long-simmering-adu-debates

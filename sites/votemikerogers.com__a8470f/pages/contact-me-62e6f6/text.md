@@ -1,0 +1,19 @@
+Home
+Current Situation
+My Philosophy
+Contact
+Back
+Education
+Economics
+Community
+Country
+Home
+Current Situation
+My Philosophy
+Education
+Economics
+Community
+Country
+Contact
+Veteran | PTSA President | Pop Warner Football Coach | Community Advocate
+Contact Delegate Mike Rogers

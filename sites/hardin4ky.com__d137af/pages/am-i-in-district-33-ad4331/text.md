@@ -1,0 +1,80 @@
+0
+Skip to Content
+About
+Endorsements
+Personal Endorsements
+Issues
+Data Centers
+Fair Wages, Unions & Workplace Safety
+Healthcare & Medicaid
+Education
+Building a Kentucky You Can Afford
+Clean Water, Clean Air & Responsible Growth
+Veterans & Military Families
+Transparency & Accountability
+Attainable Housing
+Ballotpedia
+Am I in District 33?
+Volunteer
+Donations
+Donation Transparency
+Voter Pledge Form
+Get Involved
+Yard Signs
+Contact
+Donate
+Open Menu
+Close Menu
+Open Menu
+Close Menu
+Donate
+About
+Endorsements
+Personal Endorsements
+Issues
+Data Centers
+Fair Wages, Unions & Workplace Safety
+Healthcare & Medicaid
+Education
+Building a Kentucky You Can Afford
+Clean Water, Clean Air & Responsible Growth
+Veterans & Military Families
+Transparency & Accountability
+Attainable Housing
+Ballotpedia
+Am I in District 33?
+Volunteer
+Donations
+Donation Transparency
+Voter Pledge Form
+Get Involved
+Yard Signs
+Contact
+About
+Endorsements
+Personal Endorsements
+Folder:
+Issues
+Back
+Data Centers
+Fair Wages, Unions & Workplace Safety
+Healthcare & Medicaid
+Education
+Building a Kentucky You Can Afford
+Clean Water, Clean Air & Responsible Growth
+Veterans & Military Families
+Transparency & Accountability
+Attainable Housing
+Ballotpedia
+Am I in District 33?
+Folder:
+Volunteer
+Back
+Donations
+Donation Transparency
+Voter Pledge Form
+Get Involved
+Yard Signs
+Contact
+Donate
+Find My Legislator!

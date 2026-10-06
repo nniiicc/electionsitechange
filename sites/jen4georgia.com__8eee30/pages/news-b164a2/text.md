@@ -1,0 +1,1 @@
+April 28, 2026 Senator Jon Ossoff Endorses Jen Jordan for Georgia Supreme Court Read more April 14, 2026 Jen Jordan and Miracle Rankin Launch Statewide TV Ad Campaign Read more February 24, 2026 Jen Jordan and Miracle Rankin Announce Campaigns for the Supreme Court of Georgia Rooted in Values of Democracy, Reproductive Freedom for All Georgians Read more

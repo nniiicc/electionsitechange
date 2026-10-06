@@ -1,0 +1,1 @@
+Jim in the Legislature Jim’s Committees: Water (Meets Daily at 9:00 am in Room 281-N) Transportation (Meets Daily at 1:30 pm in Room 582-S) Agriculture (Meets Daily at 3:30 pm in Room 112-N) Legislation Sponsored: 2021-2022 Legislative Session Bills Sponsored Resolutions Sponsored Concurrent Resolutions Sponsored Voting Record: 2022 Session 2021 Session

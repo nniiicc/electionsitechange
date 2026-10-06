@@ -1,0 +1,227 @@
+LEGislation mentioned on campaign literature
+- Fought the rising cost of living
+- HF1938 Tax finance and policy bill (stand alone bill)
+- This bill enacted the largest child tax credit in the country, increased property tax refunds, and eliminated social security taxes on more than 75% of seniors.
+- Protected working families
+- HF6 Ban on price gouging (standalone bill)
+- This bill prohibits selling any essential consumer goods or services at unconscionably prices during a declared emergency, and specifies penalties for alleged violations.
+- HF3438 Ban on junk fees (standalone bill)
+- This bill provides an economy wide prohibition against junk fees in Minnesota and requires that a stated price include all mandatory fees and surcharges when the price first appears.
+- HF17 Cracking down on Big Pharma (standalone bill)
+- This bill creates the Prescription Drug Affordability Board and prohibits price gouging on prescription drugs, aimed at lowering the cost of critical pharmaceuticals.
+- Looked out for public safety
+- HF1938 Tax finance and policy bill (stand alone bill)
+- This bill increased aid to the Anoka and Coon Rapids Police Departments, delivering $3.4 million in new funding.
+- HF3255 Funding for the Commerce Fraud Bureau (stand alone bill)
+- This bill delivered landmark funding for the Commerce Fraud Bureau, the state's premier law enforcement agency targeting wage theft and insurance fraud.
+- HF30 Fighting catalytic converter theft (stand alone bill)
+- This bill implemented regulations governing the purchase and sale of catalytic converters, leading to a marked decrease in thefts.
+- Gave Anoka and Coon Rapids a seat at the table
+- HF2497 Education finance and policy bill (stand alone)
+- This bill secured a record $74 million in new funding for Anoka Hennepin Schools.
+- HF1472 Fixing Highway 10 (omnibus transportation bill)
+- This bill funded removal of the stoplights at Ramsey Blvd and Sunfish Blvd on Highway 10 in Ramsey.
+Highway 10 is one of the busiest roads in the Twin Cities, carrying more traffic than 35W, for example.
+- SF3008 Anoka Social District (liquor omnibus bill)
+- This bill authorized creation of the Anoka Social District, and authorized breweries and distilleries expanded options for off-sale products.
+- Worked to keep the government out of your personal life
+- HF1 Protect Reproductive Options Act (standalone bill)
+- This bill codified reproductive rights in state law and protects a person's right to bodily autonomy.
+- HF100 Legalizing adult-use cannabis (standalone bill)
+- This bill legalized adult-use cannabis products and facilitated expungement of certain cannabis related crimes.
+notable legislation
+- HF15 Marital Rape Exception Repeal (stand alone bill)
+- Before this bill passed, Minnesota law prevented rapists from being prosecuted in certain instances if they were married to their victim at the time of the attack.
+After passage of this bill, rapists can be prosecuted regardless of whether they were married to their victim.
+- HF944 Mississippi Point Park (bonding bill)
+- This bill secured $3 million in funding to rebuild Mississippi Point Park, along the Mississippi River in Champlin.
+The funding was for municipal docks, an amphitheater, and a park pavilion.
+- HF3124 Coon Rapids Recycling Center (bonding bill)
+- This bill secured $300,000 in funding to expand the Coon Rapids Recycling Center.
+- HF164 Energy Conservation and Optimization (ECO) Act (stand alone bill)
+- This bill makes Minnesota a national leader in energy conservation.
+It gave utilities new tools to help consumers save energy, including the option to switch from more expensive fossil energy to cheaper clean energy sources.
+In addition, the bill more than doubled funding for low-income weatherization assistance programs, expanding access to energy conservation.
+- HF239 Natural Gas Innovation Act (omnibus commerce bill)
+- This bill addressed the need to decarbonize the home heating sector in Minnesota.
+It also gave natural gas utilities new tools to develop energy sources right here in Minnesota.
+It authorizes a natural gas utility to file a plan with the Public Utilities Commission to obtain innovative resources that displace conventional natural gas, including renewable natural gas, power-to-hydrogen, power-to-ammonia, carbon dioxide capture, strategic electrification, and others.
+- HF1493 Student Borrowers Bill of Rights (omnibus commerce bill)
+- This bill curtailed the worst abuses of the student loan industry.
+It required student loan servicers to be licensed by the Department of Commerce, follow certain procedures relating to the servicing of loans, and outlines misconduct.
+This bill allows the commissioner to examine student loan servicers, revoke licenses, and issue civil penalties.
+- HF3488 Kidfluencers Bill (standalone bill)
+- This bill implemented labor protections for children appearing in their parent's 'influencer' social media posts.
+The act requires a certain portion of revenue generated be placed in a trust fund for that child (modeled after California's Coogan Law for child actors).
+In addition, parents must remove content of the child upon request by the child.
+- HF4400 Social Media Transparency(commerce policy bill)
+- This bill implements transparency requirements for social media companies operating in Minnesota.
+The companies must disclose how they evaluate user preferences and behavior, how their algorithms operate in suggesting content, and percentile statistics on user activity.
+In addition, the platform must disclose all product experiments being conducted on users.
+- HF117 Ban on political activities by foreign-influenced corporations (omnibus democracy package)
+- This bill prohibits candidates from accepting campaign contributions from foreign-influenced corporations, and prohibits like donations to political funds or PACs.
+The bill imposes penalties for violations of this act.
+- HF1370 Prohibition on dissemination of non-consensual deepfakes (omnibus elections bill)
+- This bill prohibits the dissemination of non-consensual deepfakes used for revenge pornography or to influence the outcome of an election.
+This act is nation-leading, and imposes strict penalties for knowing violations.
+OTHER LEGISLATION
+2024
+- SF2219 Ban on historical horse racing (standalone bill)
+- This bill bans 'historical horse racing,' betting terminals used at racetracks that emulate slot machines.
+- HF3346 Anoka Jail (judiciary bill)
+- This bill authorizes Anoka County to build a jail and criminal justice center to replace the jail located in the City of Anoka.
+- HF3506 Collateral source modifications (judiciary bill)
+- This bill amends several statutes regarding how a successful plaintiff's damage award is calculated in the context of a civil lawsuit, and how that plaintiff may recover money when there is more than one liable defendant.
+- HF3606 Board of AELSLAGID renewal notice (commerce policy bill)
+- This bill requires the Board of Architecture, Engineering, Land Surveying, Landscape Architecture, Geoscience, and Interior Design to provide notice by email to license and certificate holders whose license or certificate is about to expire.
+- HF3625 Deepfakes update (elections omnibus bill)
+- This bill updates the deepfakes bill passed in 2023 to specify that a person convicted under this statute now forfeits the right to be a candidate for elected office.
+- HF4053 Abortion health mandate (health bill)
+- This bill requires health insurance plans cover abortion services on all plans.
+- HF4081 Corrections pension plan (pensions omnibus bill)
+- This bill modified retirement contributions by correctional workers and employers and increased the annuity amount for correctional workers.
+- SF4097 Commerce policy bill (standalone bill)
+- This bill was the primary vehicle to pass legislation covering commerce policy.
+Bills on this list, designated in parenthetical with commerce policy bill, were included in this omnibus legislation but also include a variety of bills from other legislators.
+- HF4726 Student Borrowers Bill of Rights Update (commerce finance bill)
+- This bill placed regulations on student loan servicers.
+Included are a registry system for servicers, requirements for reporting on student loans, and requirements for transparent communication with recipients of loans.
+The bill also creates a private right of action for citizens against their student loan servicers.
+- HF4377 Cannabis packaging bill (cannabis policy bill)
+- This bill bans the sale of empty packaging for cannabis products that violate advertising restrictions.
+- HF4423 Natural Gas Innovation Act Update (climate and energy bill)
+- This bill updates the Natural Gas Innovation Act to require innovation plans include at least five pilot projects to develop geothermal networks.
+In addition, the commission must support development of thermal energy networks.
+The bill also requires the Department of Commerce conduct a study to determine the optimal capacity of thermal energy networks located in Minnesota.
+- HF4574 ECO Act Update (climate and energy bill)
+- This bill updates and makes technical changes to the ECO Act, which governs energy conservation programs financed and implemented by public and consumer owned utilities.
+- HF4706 Stay of adjudication (judiciary bill)
+- This bill clarifies the definition of 'stay' in statute with reference to a stay of adjudication.
+- HF4757 Updates to cannabis statutes and commerce finance bill (standalone bill)
+- This bill contains updates to the cannabis statute passed in 2023, with various changes to industry regulations, social equity applicants, and early cultivation.
+The bill also contains the supplemental budget for the Department of Commerce and Office of Cannabis Management.
+- HF4761 Ramsey Pedestrian Overpass (transportation bill)
+- This bill appropriates funds for grants to the city of Ramsey to design and construct the Mississippi Skyway Trail Bridge for pedestrians across Highway 10 and Highway 169.
+- HF4983 Maximum charge for medical records (health bill)
+- This bill implements a maximum charge for medical records by type and length of record.
+- HF5031 Updates to cannabis testing laws (cannabis policy bill)
+- This bill makes technical updates to the statutes governing workplace testing for cannabis.
+2023
+- HF35 Requiring state budget forecast to account for inflation (standalone bill)
+- This bill mandates that inflation be considered for expenditures as well as revenues in the annual budget forecast.
+Including inflation gives us a more accurate estimate of available state funds, reducing risk and chances of a budget deficit.
+- HF149 Hope 4 Youth (bonding bill)
+- This bill appropriates money to the commissioner of human services for a grant to HOPE 4 Youth to acquire property, predesign, design, construct, furnish, and equip a youth homeless drop-in center in Anoka County.
+- HF185 Third lane on Highway 10 (omnibus transportation bill)
+- This bill appropriates funds to construct a third lane in both directions on Highway 10 between Hanson Boulevard and Round Lake Boulevard in Coon Rapids.
+- HF312 Trespass burglary (omnibus public safety bill)
+- This bill amends burglary statutes to include situations in which a person enters a building that is open to the public with intent to steal.
+Previously, this was not considered burglary because that crime requires the building be one the person is not allowed to enter.
+- HF393 Public Utilities Commission appeals bill (omnibus environment bill)
+- This bill clarifies the process for residential customers to file a complaint with the Public Utilities Commission and establishes a process for residential customers to file an appeal in district court.
+- HF394 Muzzleloaders provision (omnibus environment bill)
+- This bill clarifies parameters which specify that a muzzle-loading firearm is unloaded.
+- HF413 Electric vehicle omnibus bill (omnibus environment bill)
+- This bill incentivizes the state of Minnesota to purchase electric vehicles.
+First, it creates a new standard within the Department of Administration when the state purchases vehicles for its fleet.
+The new standard creates a preference for zero- and low-emission vehicles over gasoline and diesel powered vehicles.
+- HF450 Organized retail crime (omnibus public safety bill)
+- This bill establishes the crime of organized retail theft and introduces penalties.
+Organized retail theft is the large-scale theft of retail merchandise with the intent to resell the items for financial gain.
+- HF451 Ballot ordering bill (omnibus elections bill)
+- This bill requires that major party candidates be rotated on ballots so that each candidate's name appears a substantially equal number of times at the top, middle, and bottom of the ballot.
+Currently, positioning is determined by vote share int the previous general election.
+- HF736 Non-campaign disbursement for lost/damaged property (omnibus elections bill)
+- This bill provides that funds used to replaced lost or damaged campaign property, such as lawn signs, do not contribute to the spending limits for state campaigns.
+- HF1935 Review of previously enacted health mandates (omnibus commerce bill)
+- This bill requires the Commissioner of Commerce to review previously enacted health insurance mandates to deduce their cost to insurers, those insured, and the state.
+- HF2132 Ramsey Gateway Modification (bonding bill)
+- This bill modifies language in the bonding bill to provide funds for the Ramsey Gateway be used for construction, in addition to engineering and design.
+- HF2169 Rum River Dam Study (omnibus environment bill)
+- This bill appropriates funds to the commissioner of natural resources for a grant to the City of Anoka for feasibility studies and design, engineering, and environmental analysis related to the repair and reconstruction of the Rum River Dam.
+- HF2249 Familial exclusions in boat insurance contracts (omnibus commerce bill)
+- This bill eliminates 'family exclusions' in boat insurance contracts that prohibit claims in the event the family member of the insured is injured in an accident relating to the boat.
+- HF2300 Strengthen Minnesota Homes (omnibus commerce bill)
+- This bill creates a regulatory program whereby consumers can are eligible for discounts on their homeowners insurance if they fortify their roofs for extreme weather events.
+- HF2388 Upper Sioux Agency State Park transfer (omnibus environment bill)
+- This bill facilitated the transfer of Upper Sioux Agency State Park back to the Upper Sioux Indigenous Community.
+- SF2744 Department of Commerce budget bill (standalone bill)
+- This bill set the biennial budget for the Minnesota Department of Commerce, and enacted a wide array of policy proposals, many of which are described on this page.
+- HF2772 Department of Health Addiction and Recovery Office (omnibus human services bill)
+- This bill creates the Office of Addiction and Recovery within the Department of Health, specifically geared towards treating substance use disorders.
+- HF3003 ECO low-income definitions modified (omnibus environment bill)
+- This bill modifies the definition of 'low-income' within the ECO Act to be 80 percent or less of the area median household income, as calculated by the federal Department of Housing and Urban Development.
+- HF3290 Anoka Ice Arena (bonding bill)
+- This bill modifies appropriates funds to the Anoka Area Ice Arena for capital improvements.
+2022
+- HF3086 Codification of Behavioral Health Executive Order (omnibus health and human services bill)
+- This bill restructured the state's approach to behavioral health issues, including mental health and substance use disorders.
+It created a position of a "Recovery Director" to be the point person on behavioral health.
+It also created a new sub-cabinet, linking the various agencies that work on these issues together.
+Finally, it hired an outside consultant to review the structure of the Department of Human Services and recommend changes.
+- HF3254 No Venue Clauses in Sales Contracts (stand alone bill)
+- This bill prohibits manufacturers, wholesalers, assemblers, or importers from including in contracts with sales representatives a provision that allows the choice of venue for filing suit to be any other state.
+- HF3403 Pre-licensure Application Bill (omnibus commerce bill)
+- This bill creates a process for applicants to determine if they are eligible for a professional license before paying fees and enrolling in the required licensing courses.
+The bill reduces burden and uncertainty on those with a criminal record.
+- SF4191 Auto-dealer Franchise on Electric Vehicles Bill (omnibus commerce bill)
+- This bill regulates and restrains unfair practices by auto manufacturers, distributors, and factory branches.
+In particular, it requires that if an auto manufacturer sells electric vehicles in Minnesota, that they offer the electric vehicles to all of their dealerships, instead of exclusively offering them to a handful.
+This will allow all parts of the state to have access to electric vehicles.
+2021 special session
+- HF327 Shared Work Eligibility (omnibus jobs bill)
+- This bill modifies the length of employment requirement to participate in a shared work plan from 12 months to three months.
+A shared work plan is an alternative to layoffs.
+Participating employees work reduced hours for their employer and are eligible for partial unemployment insurance benefits.
+They also continue to receive health and pension benefits.
+This bill made the change permanently, after an earlier bill Rep.
+Stephenson authorized made a temporary change to the program.
+- HF1153 Reinsurance Re-authorization Bill(omnibus health and human services bill)
+- This bill reauthorized the reinsurance program in Minnesota for 2022.
+Reinsurance is a program that lowers health insurance premiums by further distributing risk among the insured pool.
+- HF1658 Unemployment Insurance Tax Conformity (omnibus tax bill)
+- This bill provides for tax conformity with federal law regarding unemployment insurance claims received during the COVID-19 pandemic.
+Without this bill, people who received unemployment insurance payments during the pandemic would have to have paid unexpected Minnesota income tax.
+- HF2024 Commerce Technical Bill (omnibus commerce bill)
+- This bill provides for technical changes to the underlying statute governing the Department of Commerce.
+2021
+- HF713 MFIP Modifications by Phone (omnibus health and human services bill)
+- This bill, suggested by Anoka County during the COVID-19 pandemic, allows county agencies to obtain information by phone or written communication to complete MFIP household report forms.
+2020 Special session
+- HF5 Small Business Grants (stand alone bill)
+- This bill created a $60 million grant program to rescue small businesses impacted by the COVID-19 pandemic, including restaurants, salons, theaters and more.
+- HF63 Shared Work Eligibility (stand alone bill)
+- This bill responded to a constituent’s concern.
+The “Shared Work” program allows businesses to reduce employees hours instead of laying them off.
+The state’s unemployment insurance program they pays the employee a portion of their lost wages.
+Before this bill, however, an employee had to be with a business for a year before they could participate in this program.
+This bill shortened that time period to 3 months, which is in line with other states.
+This bill sunset at the end of 2020, but was later made permanent by HF327, another bill Rep.
+Stephenson carried.
+- HF3308 Anoka Ramsey Community College (bonding bill)
+- This bill secured $16,282,000 in funding to design, renovate, and equip the business and nursing building at Anoka-Ramsey Community College, Coon Rapids campus.
+2020
+- HF4531 Small Business Loan Guarantee Program (COVID Response Bill)
+- This bill created a loan guarantee program designed to help small businesses survive the early stages of the COVID-19 pandemic.
+The bill authorized banks to loan money to the small businesses hurt most by the pandemic, with the understanding that the loans would be guaranteed by the state.
+- HF4531 MIF Terms Changed (COVID Response Bill)
+- This bill temporarily changed the eligibility requirements for the Minnesota Investment Fund, allowing the program to make loans to restaurants and other businesses hit hard by the early stages of the COVID-19 pandemic.
+2019
+- HF176 Champlin TIF (omnibus tax bill)
+- This bill allowed the city of Champlin to develop the Mississippi Crossings Project along the riverfront in Champlin, which includes a new apartment building, a new restaurant, amphitheater and more.
+- HF360 Mississippi River Crossing Study (omnibus transportation bill)
+- This bill represents the first progress towards building a new river crossing between Dayton and Ramsey in 20 years.
+It required MNDOT to do an analysis of river crossings in the northern suburbs and assess the viability of a new crossing.
+The study concluded that a new crossing is needed, and is most feasible between Dayton and Ramsey.
+The study also identified the next steps necessary to build the crossing.'
+- HF474 Funding for Anoka County Mental Health Probation (omnibus health and human services bill)
+- The bill provided funding for two new probation officers in Anoka County with expertise in mental health issues.
+- HF851 R!SE Funding (omnibus jobs bill)
+- This bill provided $1.6 million in funding over two years for Twin Cities R!SE, a non-profit focusing on moving people out of poverty by giving them job training.
+The money in this bill was specifically targeted to hard to train individuals.
+- HF892 Baxter Pharma Bill (stand alone bill)
+- This bill removed a redundant requirement in Minnesota law that required a licenced pharmacist to inspect sealed and packaged dialysis equipment (when a licensed pharmacist had already inspected the equipment before it was sealed and packaged).
+In essence the requirement that this bill removed required companies to hire pharmacists to look at closed cardboard boxes.
+Removing this requirement reduced the cost of kidney dialysis equipment.
+- HF1186 Minnesota Investment Fund Funding (omnibus jobs bill)
+- This bill provided grants and loans to support private-sector job creation and retention.

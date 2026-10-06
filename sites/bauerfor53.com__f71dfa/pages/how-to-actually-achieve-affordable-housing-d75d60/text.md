@@ -1,0 +1,36 @@
+This blog post is what I’ll ambitiously call the “first of a series” — because I want to demonstrate that we can, and must, move past the old, stale answers that demand government spending as the solution to every problem Illinois faces.
+Everyone wants “affordable housing.” But for too many politicians, “affordable” means “subsidized” — government-owned housing, vouchers, or housing managed by charities or private companies but funded through government grant money, allocated to residents based on income requirements and waitlists.
+What’s more, these “affordable housing” developments have eye-watering price tags, upwards of $750,000 per apartment.
+Block Club Chicago did an analysis this past summer and explained that a huge driver of the cost is the tremendous burden of complying with extensive regulations that explode when a project is “affordable.”
+But we need to think about housing costs differently.
+I’ve been following the topic for a long time — believe it or not, my first attempt to get involved in the community was applying, decades ago, for the local Housing Commission.
+There are decisions made at the state and local level which drive up costs of housing, and a different set of decisions which would reduce costs, without requiring special government subsidies.
+First, there are regulations made for reasons of “safety” which push up housing costs.
+Here are some examples:
+In most of the U.S., multifamily housing with more than three stories requires two separate staircases.
+This is meant to ensure that everyone can escape in the event of a fire, but, in fact, the risk of a fire is far smaller than it had been in the past, and some US cities have recognized this and reformed their building codes.
+This dual staircase mandate not only increases apartment construction cost (eliminating the mandate can save 6 – 13%) but it forces floor plans with apartments stretching across long corridors with all windows facing a single direction, and it makes it difficult to design family-friendly apartments.
+In contrast, a single-stair design makes it much more feasible to build apartments which are family friendly, with more “home-like” floor plans and less of a trudge through a hallway from entrance to apartment.
+In my experience in Germany, single-stair units make it possible to have as few as two units per stairwell, and more “natural” layouts with windows on two sides.
+Various cities and in the US have reformed their building codes, such as California, Tennessee, Seattle, and New York City, but the closest Illinois has come was a stalled proposal in Chicago.
+People who have travelled in Europe will also likely have seen apartment buildings with very narrow elevators, even in historic buildings where there was just enough space to carve out a small elevator.
+In the U.S., it is far more costly or unfeasible to retrofit buildings with elevators, or to build elevators in new buildings, because of a mandate placed into the building code that requires that all elevators be wide enough to accommodate a 7 foot long stretcher.
+In some states, but not (yet, at least) in Illinois, a new addition to the building code, the FARS, or Firefighter Air Replenishment System, is driving up per-unit housing cost for midrise buildings by as much as $4,000 per unit by one estimate or $7,000 in another for a system that has no demonstrated effectiveness in saving lives, especially in comparison with simpler systems.
+But even beyond the question of whether promised safety improvements are worth the trade-offs, there are other ways that towns drive up housing costs.
+It doesn’t take a genius to know that the more demands a town makes of a developer, for a new development to be “luxury” or “upscale” in order to be approved, the more expensive it will be, and any proposed development invariably requires some sort of code waiver that means the planning commission gets to weight in.
+It also goes without saying that limiting the number of units or stories in a proposed building also limits the profitability of the building and drives up costs.
+And that’s not even addressing the built-in higher costs of housing in American suburbs which mandate large lot sizes and restrict the ability of developers to build family-friendly apartments, rowhouses, or duplexes.
+Historically, zoning codes have deemed multifamily housing as appropriate only as “buffers” to busy thoroughfares and segregated from single-family homes.
+More recently, it’s popular for towns to specifically strive for new housing (apartments/townhomes or 55+ restricted single family) to be designed to attract young/childless and empty-nester residents, but that doesn’t help young families trying to find homes.
+For decades or even generations, young families could afford starter homes by driving further and further out from the city center but the growing cost of construction and the burden of ever-growing commute times mean that’s no longer a feasible solution for most people.
+Here in Illinois, HB1814, the Missing Middle Housing Act, would have enabled developers to build four-flats, duplexes, or rowhouses to increase the availability of family-friendly housing at more affordable pricepoints, but despite support from a diverse range of groups such as the conservative Illinois Policy Institute as well as the affordable housing activist group Abundant Housing Illinois, the House Democrats never brought it for a vote.
+And while that bill is too focused on a heavy-handed “top down” solution, any community would do well to consider how a thoughtfully-implemented increase in smaller-scale multifamily like duplexes or rowhouses can be a meaningful replacement for the starter homes that the towns in our district 53 have lost as small 50s ranch houses are torn down or simply turned into larger homes with additions.
+Lastly, we need to take seriously all the “ancillary” housing costs.
+This includes utilities costs, where every “green mandate” drive up the cost of electricity.
+It includes the cost of inclusionary set-asides of certain apartments in a complex for “affordable housing” which are not “free” because the rest of the tenants pay higher rents than they otherwise would.
+And it includes property taxes, which goes without saying, but something few people consider is that almost always, when a new TIF district is added, it drives up the costs for everyone else.
+In addition to subsidizing private sector development, unless an area designated for a TIF is truly blighted, TIFs are a form of double-dipping for school districts and other property tax recipients, because, during the course of the TIF, any tax revenue that’s “lost” by the TIF properties’ incremental taxes going to the TIF fund, are made up for by every other taxpayer paying more.
+The school district itself doesn’t lose any money when a TIF is declared.
+Then, at the end of the TIF period, new revenue from the higher assessment value doesn’t reduce everyone else’s tax bills but just allows the districts to increase their tax levies.
+None of these reforms require more government subsidies.
+All of them require that we be willing to think about trade-offs and recognize that we cannot simply substitute a spigot of government cash for sound policies on housing costs.

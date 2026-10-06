@@ -1,0 +1,1 @@
+Donations and Merchandise Donations and Merchandise DONATIONS: Donations can be made via ActBlue or by check to: Ripley County Democrats PO Box 45 Batesville, Indiana 47006 MERCHANDISE: Shop coming soon!

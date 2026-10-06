@@ -1,0 +1,30 @@
+New Hampshire Carroll County District 8 is comprised of eight towns in what is uniquely referred to as a "floterial" district.
+This is effectively an "overlay" district designed to compensate for the small populations in many of the towns.
+Brookfield
+Population 800
+Registered Voters 614
+Eaton
+Population 428
+Registered Voters 377
+Effingham
+Population 1,795
+Registered Voters 1,164
+Freedom
+Population 1,716
+Registered Voters 1,322
+Madison
+Population 2,725
+Registered Voters 2,104
+Moultonborough
+Population 5,243
+Registered Voters 4,570
+Tamworth
+Population 2,902
+Registered Voters 2,151
+Wakefield
+Population 5,508
+Registered Voters 4,125
+Note that population numbers are constantly changing, and may be different depending on the source consulted.
+Map from Ballotpedia
+The meandering shape of this voting district is often questioned.
+I leave it to the reader to determine how much of this is the result of the majority party drawing the lines when the census comes around every ten years, and how much is influenced by any effort to provide equal representation!

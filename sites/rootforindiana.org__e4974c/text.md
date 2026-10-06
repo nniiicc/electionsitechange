@@ -1,5 +1,6 @@
-Meet Kirsten
-Your Democratic Candidate for IN Senate District 21
+It shouldn’t be so hard
+just to get by
+Kirsten Root is running to put Hoosiers’ priorities first
 Public Servant | Social Worker | Lifelong Indiana Resident
 Kirsten Root was raised in a working-class family in LaPorte and Rochester, where hard work, responsibility, and taking care of your neighbors were part of everyday life.
 She worked full-time through college to make ends meet and became the first person in her family to earn a master’s degree in Social Work.

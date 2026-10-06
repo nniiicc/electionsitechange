@@ -1,0 +1,16 @@
+Signed in as:
+filler@godaddy.com
+Pell City Rec Center
+Event Details
+The St.
+Clair County Democratic Committee monthly meeting where Alan will be a guest speaker, introducing himself, as well as Democratic can...
+We encourage all Alabamians to participate in following along with their perspective candidates finance reports as a measure of fiscal respo...
+Alan plans to attend Rep.
+Rafferty's re-election campaign kickoff event, supporting his efforts to continue working for the people of Alabam...
+Birmingham Public Library Central Branch
+Hosted by Mothers United Against Gun Violence, Alan plans to attend this forum, participate as a panelist, and listen to what the mothers in...
+Come out and get active!
+Join with fellow voters to make your voice heard and meet with Alan to discuss how, together, we can keep Alabama a...
+More Events
+We use cookies to analyze website traffic and optimize your website experience.
+By accepting our use of cookies, your data will be aggregated with all other user data.

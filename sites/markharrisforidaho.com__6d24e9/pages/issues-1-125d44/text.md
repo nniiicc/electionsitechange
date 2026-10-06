@@ -1,0 +1,13 @@
+pro-growth
+Conservative policies have made Idaho one of the fastest-growing states in the nation.
+But economic growth must match population growth.
+Cutting regulations can help Idaho attract high-paying jobs that help support our economic growth.
+pro-education
+Idaho’s children deserve a quality education that will set them up for success, including school choice, and access to college or technical education.
+I believe parents should be actively involved in their children’s education, and we as a state should support our teachers so they are equipped to educate future generations of Idahoans.
+pro-family
+Strong families are the foundation of a well-functioning society, and I support policies that strengthen our states’ families and honor parents’ role in raising their children.
+That includes supporting parents’ rights and protecting the right to life.
+pro-idaho
+Idaho’s values that go back generations have made it the best state to live, and the place I call home.
+As Idaho grows and attracts new industries, I’m committed to maintaining our values of hard work, independence, and personal responsibility that have made Idaho the great state it is.

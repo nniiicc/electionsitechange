@@ -1,0 +1,43 @@
+On the Issues
+Housing
+We all need and deserve safe, secure, and affordable housing.
+I primarily favor supply-side solutions that promote diverse and abundant housing supply, and the preservation of existing affordable units.
+I've sponsored and co-sponsored legislation that cuts red tape to permit more missing middle housing.
+The state also plays a vital role in establishing balanced landlord-tenant law that gives both parties a fair process when resolving disputes.
+Unsafe living conditions and evictions have serious long-term consequences for our entire community, and can be deeply traumatic or even deadly for vulnerable individuals.
+I've supported legislation to require just cause for eviction, guarantee pre-trial mediation for select tenants.
+I’ve been very impressed by the Fourth Judicial District’s eviction diversion and recovery efforts, and support securing permanent funding and applying its principles beyond our district.
+Transportation
+Transportation planning is inextricably linked to housing issues, and we must address the two in tandem.
+Expanding transportation choice is key to reducing traffic, improving air quality, and assuring safe, convenient travel for everyone.
+It’s why I’ve brought more funding to Mountain Metropolitan Transit for Zero Fare during the summer, and supported legislation to improve safety for cyclists and pedestrians.
+When a highway project near HD-16 caused the closure of Sinton Trail and cut off cycling constituents from a frequently used path, I worked with the Colorado Department of Transportation to get the trail re-opened.
+With once-in-a-lifetime federal funds coming down from the bipartisan infrastructure bill, and a deal with the oil and gas industry that will put badly needed funding into transit, it is a brand new day for transportation planning in Colorado!
+I am committed to working closely with the administration, my legislative colleagues, and our local government leaders to make sure Colorado Springs and the Pikes Peak Region see transit dollars invested here in our community.
+Energy & Environment
+Climate change is not a tomorrow problem, it is a today problem, and the drought, heatwaves, and more frequent wildfires we’re experiencing demand our attention in both the short and long term.
+I accept the scientific consensus on man made climate change and I’m proud that Colorado is a national leader in pursuing a just and equitable transition to all-renewable energy.
+Our state is too beautiful, and too precious, to give our future away to short-term gains largely enjoyed by oil and gas investors, and that provide diminishing returns for hardworking Colorado families.
+As a freshman legislator, I sponsored a nation-leading bill that set a high bar for tax credits for clean hydrogen, and will ensure that we only incentivize truly clean energy choices.
+Clean energy tax credits are meant to reduce emissions and fight climate change, not to reward Wall Street with even more of our money.
+Labor & Employment
+Working people are the true source of our nation’s prosperity.
+The upward redistribution of wealth into the non-laboring investor class has dealt a terrible blow to working families, with $50 trillion moving from the bottom 90% to the top 1% over the last forty years.
+Attacks on organized labor have played a big hand in this, as well as corporate power in politics and government affairs, and working people are feeling the squeeze.
+I support a living minimum wage and robust enforcement of Colorado's labor laws.
+I also support the repeal of the confusing second election required by Colorado’s Labor Peace Act in order for organizing workers to form a collective bargaining unit.
+The way we work is also changing rapidly, with more and more work opportunities becoming remote and app-based.
+The future of work will require us to think creatively and establish a good system of checks and balances to protect workers, consumers, and honest businesses.
+In 2024, I prime sponsored one of a pair of bills that will begin to rein in the worst excesses of app-based delivery and ride share companies.
+Education
+Every child deserves a world-class education, and teachers should be compensated and respected as the valued professionals that they are.
+While we have finally paid down the budget stabilization factor, we are still frighteningly close to the bottom as a state in terms of school funding, and Colorado's unique fiscal constraints (TABOR) make it extremely difficult to meet our current educational needs.
+School choice can be really powerful for families in need of high-quality options, especially for children with unique needs, but it is also vital that we preserve neighborhood schools, and ensure we're using public dollars for public education, not for political agendas.
+Any institution that receives public education dollars, including charters, must meet public education standards, and refrain from discrimination based on identity, religion, or ability.
+I also support revising our approach to teacher evaluations to reduce administrative burden, and focus on meaningful, long-term academic development, rather than fixating on short-term metrics.
+Civil Rights
+Self-determination is a basic human right and a core Colorado value.
+It is essential that we protect our Colorado way of life against Federal overreach, especially in this dangerous time.
+This means defending the will of Colorado voters in codifying the right to a safe and legal abortion, marriage equality, access to gender-affiring care, and Constitutional due process under the law for all -- citizen and immigrant alike.
+The atrocity at Club Q in November 2022, right here in HD-16, only further galvanized my commitment to protect the LGBTQ+ community against politicized attacks, marginalization, and violence.
+We must stand firm in our values to protect our individual liberties, and promote safe and healthy communities for all of our neighbors.

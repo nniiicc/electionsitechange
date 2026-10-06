@@ -1,0 +1,7 @@
+AUSTIN, Texas — Speaker of the Texas House Dustin Burrows and Lieutenant Governor Dan Patrick today issued the following joint statement:
+“The Texas Legislature’s comprehensive camp safety act, passed in response to last summer’s tragic flooding disaster, has strengthened safety standards for camps statewide.
+These reforms establish a more rigorous approach to preparedness, including long-overdue requirements such as comprehensive emergency planning and training and redundant internet access.
+We recognize that some camps have been unable to meet the redundant internet requirement because the law requires camps to install new fiber-optic internet infrastructure.
+We also recognize that there may be means other than fiber to provide reliable redundant internet access, which would satisfy the purpose and spirit of the law.
+“We, the leadership of the Texas House and Texas Senate, support allowing camps to qualify for licensure through the Department of State Health Services to operate for the summer 2026 season if they have submitted a sufficient emergency action plan, meet all other safety requirements, and maintain a reliable communication system capable of operating during an emergency.
+The upcoming 90th Legislative Session will provide an opportunity to further strengthen camp safety standards while ensuring camps operating in good faith under these new requirements can continue to serve Texas children and families.”

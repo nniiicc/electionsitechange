@@ -1,0 +1,2 @@
+(Pomona, CA)- Michelle Rodriguez, candidate for California’s 53rd Assembly District, announced today an endorsement from the California Correctional Peace Officers Association (CCPOA) in her campaign for the 53rd Assembly District.
+This endorsement reflects Michelle’s commitment to protecting neighborhoods, kids, and families and that she will bring the effective, compassionate leadership the 53rd District needs.

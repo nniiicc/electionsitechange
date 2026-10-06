@@ -1,0 +1,11 @@
+Congresista cubanomaericana María Elvira Salazar calificó de “error histórico” al nuevo conjunto de medidas anunciadas este 16 de mayo por la administración demócrata de Joe Biden, que flexibilizan la política hacia Cuba.
+Según la representante por el distrito 27 de la Florida, el cambio de rumbo en el trato con el régimen de La Habana llega en el peor momento y además se incumplen las promesas hechas por los funcionarios de la administración demócrata, como el secretario de Estado, Anthony Blinken.
+“La Administración Biden está cometiendo un error histórico al volver a la fallida política de Obama hacia Cuba.
+El secretario Blinken me prometió – y quedó registrado – que aplicarían la Ley Helms-Burton y consultarían a la comunidad cubana en el exilio antes de normalizar las relaciones con el régimen”, explica Salazar para exponer que la promesa fue incumplida.
+La también periodista, que durante su carrera profesional ha cubierto el tema Cuba y las aspiraciones de la comunidad cubanoamercina en EEUU de ver a su Isla en libertad, afirma que el veterano presidente de 78 años de edad se muestra débil y con el salvavidas económico lanzado le da poder a un régimen que encarcela y mata.
+“Biden ha fracasado oficialmente.
+Al hacer negocios con la dictadura cubana, un presidente débil está dando poder a un régimen fracasado que mata de hambre, oprime y asesina a su pueblo”, explica Salazar en un comunicado difundido a solo minutos de anunciarse las nuevas medidas de EEUU hacia Cuba.
+En su declaración, la Casa Blanca justifica el cambio de enfoque hacia Cuba como una oportunidad para apoyar “las aspiraciones de libertad y mayores oportunidades económicas de los cubanos para que puedan llevar una vida exitosa en su hogar”.
+Al parecer, la visión de los demócratas es que haciendo concesiones con el régimen castrista, las autoridades de la Isla detendrán el flujo migratorio de cubanos hacia EEUU que propiciaron en contubernio con su aliado Daniel Ortega de Nicaragua.
+Sin embargo, al Ministerio de Relaciones Exteriores (Minrex) le parecieron “limitadas” las medidas anunciadas este lunes y exigieron más cambios.
+El Minrex se queja del mantenimiento del “bloqueo”, pero ve como algo “positivo” la nueva estrategia demócrata, pero de alcance “muy limitado”.

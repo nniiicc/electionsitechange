@@ -1,0 +1,66 @@
+RELEASE: Representative Greg Smith calls for Emergency Special Session as wildfires burn across District 57
+RELEASE: Smith calls for Wildfire Special Session
+The Honorable Gregory Smith
+Oregon House of Representatives
+District 57
+FOR IMMEDIATE RELEASE:
+July 20, 2026
+REPRESENTATIVE GREG SMITH CALLS FOR EMERGENCY SPECIAL SESSION
+AS WILDFIRES BURN ACROSS DISTRICT 57
+HEPPNER, OR – As wildfires continue to burn across Oregon and throughout House District 57, Representative Gregory Smith (R-Heppner) has called on the Oregon Legislature to convene an emergency special session to respond to the crisis.
+Smith urged legislative leadership and his colleagues in both chambers to return to Salem immediately rather than wait until the next regular session in January.
+More than 200,000 acres are burning statewide after more than 8,000 lightning strikes in recent days sparked dozens of new fires.
+Governor Tina Kotek has invoked the state Conflagration Act, but the Oregon Department of Forestry reports that it has no remaining available complex incident management teams.
+Local crews and volunteers are stretched thin, and many fires remain at zero or low containment.
+“District 57 is at the center of this disaster, with communities across Gilliam, Wheeler, Wasco, Jefferson, and Umatilla counties under evacuation and families losing their homes,” said Representative Smith.
+He continued, “We cannot wait months for the next regular session while homes are burning this week.
+A special session would allow us to appropriate emergency funding, strengthen firefighting resources, and provide real support to the residents, farmers, ranchers, and businesses that have suffered devastating losses.”
+FIRES BURNING IN DISTRICT 57
+Gilliam and Wheeler counties have been hit especially hard.
+The following fires are active in or threatening District 57 as of July 20, 2026:
+• Rowe Creek Complex – Approximately 126,000 acres and 0% contained in Wheeler and Wasco counties.
+The complex includes the Crosswhite Fire and several merged fires and is threatening Fossil and Richmond.
+Level 1, 2, and 3 evacuations are in place, and Highway 218 is closed.
+• Hoag Fire – Approximately 50,400 acres and 55% contained in Gilliam County south of Arlington.
+Level 3 “Go Now” orders remain in effect, and multiple homes have been destroyed along French Charlie Road.
+• Hopkins Fire – Burning in Gilliam County north of Condon.
+Level 3 “Go Now” orders are in effect near the airbase off Richmond Lane, with Level 1 “Be Ready” orders south of Condon.
+Highway 19 near Gwendolen has been impacted.
+• Akawa Butte Fire – Approximately 5,000 acres and 3% contained in Jefferson County near Sisters.
+• Zen Fire – Approximately 1,500 acres in Wasco County south of Clarno.
+• Brewer Fire – Burning east of Madras in Jefferson County and managed by the Oregon Department of Forestry.
+• Hagen Fire – Burning in Umatilla County, where evacuations have been upgraded to Level 3 “Go Now.”
+• Lower Dry Creek Fire – Near Weston and Milton-Freewater in Umatilla County.
+The fire destroyed several homes before crews reached containment and evacuation orders were lifted.
+These fires, along with many others burning across Oregon, continue to spread while firefighting resources remain under significant strain.
+THE NEED FOR A SPECIAL SESSION
+Representative Smith is calling on the Legislature to:
+• Appropriate emergency funding for wildfire suppression, recovery, and rebuilding
+efforts.
+• Strengthen firefighting operations through additional personnel, mutual aid, and incident
+management resources.
+• Provide direct assistance to displaced residents, farmers, ranchers, and agricultural
+producers affected by wildfire losses.
+• Ensure the Oregon Department of Forestry has the personnel and resources necessary so
+that no region of the state is left without support during fire season.
+“Our ranchers, first responders, volunteers, and local communities are carrying an extraordinary
+burden,” Smith said.
+“The Legislature has both the responsibility and the constitutional authority
+to act immediately.
+Oregonians deserve action now, not months from now.”
+CONSTITUTIONAL AUTHORITY
+The Legislature does not have to wait for the Governor to convene a special session.
+Under Article IV, Section 10a of the Oregon Constitution and ORS 171.015, legislators may call themselves into a special session.
+The process begins when members of each chamber file a written request with the Legislative Administrator.
+Ballots are then sent to every legislator, and if a majority of members in both the House and Senate approve, the presiding officers must issue a proclamation convening the Legislature within five days.
+Representative Smith said this constitutional authority provides lawmakers with a direct path to respond to Oregon’s wildfire emergency without unnecessary delay.
+LOOKING AHEAD
+Representative Smith said his immediate focus remains on protecting the people and communities of District 57 and ensuring they receive the support needed to recover.
+He pledged to work with members of both parties to pass emergency wildfire legislation as soon as the Legislature convenes.
+Representative Greg Smith is a Republican representing House District 57, which includes all of Morrow, Gilliam, Sherman, and Wheeler counties, and portions of Clackamas, Jefferson, Marion, Wasco, and Umatilla counties.
+CONTACT INFORMATION:
+Representative Greg Smith
+rep.gregsmith@oregonlegislature.gov
+(541) 993-5236
+——————————————-
+###

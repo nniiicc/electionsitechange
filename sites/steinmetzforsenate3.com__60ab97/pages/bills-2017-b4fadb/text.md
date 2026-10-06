@@ -1,0 +1,70 @@
+Sponsored / Co-Sponsored Bills:
+The following are sponsored and co-sponsored bills for the 2017 Legislative Session.
+I appreciate your input on Legislative issues as your Representative: If there are bills during the Legislative Sessions that are important to you, please let me know your thoughts and/or concerns.
+Contact me
+HB0048 – Fiscal information in legislation.
+Sponsored By: – Steinmetz
+…Introduced:
+…Digest:
+AN ACT relating to the legislature; providing for an indication of local government costs in fiscal notes as specified; and providing for an effective date.
+… Bill Status: H No report prior to CoW Cutoff
+HB0073 – Interference with a person providing emergency services.
+Sponsored By: – Steinmetz
+…Introduced:
+…Digest:
+AN ACT relating to crimes and offenses; establishing the crime of interference with a person providing emergency services; providing penalties; and providing for an effective date.
+… Bill Status: H 3rd Reading:Passed 34-25-1-0-0 — S Did Not Consider for Introduction
+HB0061 – Collection of antlers and horns.
+Sponsored By: – Clausen | Co-Sponsor: Steinmetz
+…Introduced:
+…Digest:
+AN ACT relating to game and fish; prohibiting collection of antlers and horns on private property as specified; providing a penalty; and providing for an effective date.
+… Bill Status: H 3rd Reading:Passed 58 – 2 – 0 – 0 – 0 — S President Signed HEA No. 0068 — Governor Signed HEA No. 0068
+HB0115 – Attorneys fees awarded to prevailing party.
+Sponsored By: – Steinmetz
+…Introduced:
+…Digest:
+AN ACT relating to civil procedure; allowing for the award of reasonable costs and attorney’s fees in civil actions or appeals brought by government entities as specified; providing applicability; and providing for an effective date.
+… Bill Status: H No report prior to CoW Cutoff
+HB0116 – Abortion amendments.
+Sponsored By: – Steinmetz
+…Introduced:
+…Digest:
+AN ACT relating to abortions; amending the definition of “viability” to include the ability to feel pain; prohibiting the sale or transfer of any aborted child or cells or tissue from an aborted child for experimentation; and providing for an effective date.
+… Bill Status: H 3rd Reading:Passed 48 – 11 – 1 – 0 – 0 — S President Signed HEA No. 0094 — Assigned Chapter Number — CH0186 03/09/2017 07/01/2017
+HB0117 – Operation of motorboat while intoxicated.
+Sponsored By: – Steinmetz
+…Introduced:
+…Digest:
+AN ACT relating to watercraft; amending the alcohol concentration level that constitutes operation of a motorboat by an intoxicated person; specifying the alcohol concentration levels applicable to the operation of all other watercraft; and providing for an effective date.
+… Bill Status: H 3rd Reading:Passed 47-10-3-0-0 — S Did Not Consider for Introduction
+HB0126 – Elementary school foreign language requirement.
+Sponsored By: – Piiparinen | Co-Sponsor: Steinmetz
+…Introduced:
+…Digest:
+AN ACT relating to education; making permissive the requirement that school districts provide foreign language instruction to students in kindergarten through second grade; and providing for an effective date.
+… Bill Status: 1/11/2017 – H 3rd Reading:Passed 56-2-2-0-0 — S President Signed HEA No. 0102 — Governor Vetoed HEA No. 0102
+HB0132 – Reporting of abortions.
+Sponsored By: – Clem| Co-Sponsor: Steinmetz
+…Introduced:
+…Digest:
+AN ACT relating to abortions; establishing additional requirements for abortion reporting; providing for a public report of abortion statistics; providing penalties for failure to report as required; specifying acts not meeting reporting requirements are acts of unprofessional conduct; and providing for an effective date.
+… Bill Status: H No report prior to CoW Cutoff
+HB0135 – Government Nondiscrimination Act.
+Sponsored By: – Steinmetz
+…Introduced:
+…Digest:
+AN ACT relating to the administration of government; establishing the Government Nondiscrimination Act; providing for the protection of the free exercise of religious beliefs and moral convictions; providing for judicial relief; amending the Wyoming Governmental Claims Act; and providing for an effective date.
+… Bill Status: Withdrawn — H Did Not Consider in CoW
+HB0147 – Release of arrested persons under the influence..
+Sponsored By: – Gray – Co-Sponsor: Steinmetz
+…Introduced:
+…Digest:
+AN ACT relating to criminal procedure; specifying when persons arrested for driving under the influence of alcohol may be released; amending related statutes pertaining to bail; and providing for an effective date.
+… Bill Status: H COW:Failed 14 – 45 – 1 – 0 – 0
+HB0153 – Parental rights.
+Sponsored By: – Jennings – Co-Sponsor: Steinmetz
+…Introduced:
+…Digest:
+AN ACT relating to parents; providing for a parental right to direct the upbringing, education and care of a child; providing applicability; and providing for an effective date.
+… Bill Status: H 3rd Reading:Passed 50 – 7 – 3 – 0 – 0 — S President Signed HEA No. 0096 — Assigned Chapter Number — CH0188 03/09/2017 07/01/2017

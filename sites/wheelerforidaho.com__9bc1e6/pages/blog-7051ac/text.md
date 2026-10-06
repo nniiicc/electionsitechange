@@ -1,0 +1,54 @@
+Legislative Session 2025 Week #12
+Reflecting on the wins, lessons, and areas for growth from this year’s legislative session
+March 31, 2025
+Local Reps Mickelsen and Wheeler Talk Legislature at Virtual Town Hall
+POST REGISTER
+March 25, 2025
+Opinion: Handling growth in Idaho takes listening, hard work
+POST REGISTER
+FEBRUARY 1, 2025
+Leveling the Playing Field
+Using abilities rather than degrees in the hiring process opens up jobs to those from all backgrounds
+August 23, 2024
+Remembering D-Day: Never forget lessons learned
+Honoring our fallen troops on Memorial Day
+June 5, 2024
+2024 Legislative Recap
+What we accomplished during the 2024 legislative session
+April 29, 2024
+Upholding Republican Values
+Rejecting racism and bigotry
+April 18, 2024
+Major Votes and Policies Shaping Idaho's Future
+Wrapping up a successful legislative session
+April 1, 2024
+Securing the Border
+Naysayers calling Idaho’s efforts to support Texas in securing the border “pointless” are willfully missing the point.
+October 12, 2023
+Press Release
+Josh Wheeler Intends to Run for Re-Election to House Seat 35B
+October 12, 2023
+Opinion: Finding success through collaborating with fellow legislators
+THE JEFFERSON STAR
+JULY 12, 2023
+East Idaho Credit Union breaks ground on new branch in Driggs
+POST REGISTER
+JUNE 11, 2023
+Local legislators grade 2023 legislative session
+POST REGISTER
+MAY 16, 2023
+Opinion: Cutting Funding to medical education would hurt Idaho families
+POST REGISTER
+MAY 6, 2023
+In their own words: Rep Josh Wheeler
+POST REGISTER
+APRIL 15, 2023
+How two incoming lawmakers are preparing for their first Legislative session
+East Idaho News
+January 4, 2023
+New Idaho House representatives fill committee rosters leading up to session
+Idaho Capital Sun
+December 2, 2022
+Inside the battle to make Idaho more conservative
+Deseret News
+Aug 15, 2022

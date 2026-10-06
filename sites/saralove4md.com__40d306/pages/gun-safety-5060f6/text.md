@@ -1,0 +1,15 @@
+Maryland is a leader in gun safety.
+We have passed many laws over the years working to reduce the incidents of gun violence and protect our residents.
+In 2013, Maryland passed what was then one of the strongest gun-safety laws in America, sponsored by former Attorney General/District 16 Senator/District 16 Delegate, Brian Frosh.
+That law bans assault weapons, requires fingerprinting and licensing of all handgun buyers, increases the penalties for using "cop killer" bullets in a crime of violence, and regulates firearm dealers' licensing and record-keeping.
+In addition, we have passed legislation to:
+* ensure convicted domestic abusers give up their firearms (2018)
+* institute a "red flag" or "extreme risk protective order" law.
+(2018)
+* require background checks for all sales and transfers of rifles and shotguns [(HB 4/SB 208 (2020)] (and overrode Governor Hogan's veto in 2021)
+* ban "Ghost Guns" [(HB 425/SB 387 (2022)]
+In 2023, after the Supreme Court's Bruen decision, which struck down Maryland's requirement that concealed carry permits could only be obtained by individuals with a special safety need, we passed legislation to tighten the rules around who could obtain a handgun permit (not including: a person younger than 21, a person who suffers from a mental disorder and has a history of violent behavior, or a person who has been involuntarily admitted for more than 30 consecutive days to a facility for treatment of a mental disorder) and increased the training requirements before one could obtain a license dan increased the fees. [HB 824 (2023)]
+That year, we also passed the Gun Safety Act of 2023, which prohibits individuals from carrying a firearm onto private property without consent, and prohibits guns in certain locations, including hospitals, schools, and courthouses. [SB 1 (2023)]
+In 2026, I sponsored and the General Assembly passed legislation to prohibit the sale or manufacture of certain semi-automatic pistols that can be easily converted into machine guns, using common household tools. [SB 334/HB 577 (2026)]
+Moms Demand Action for Gun Sense in America is a grassroots movement of Americans fighting for new and stronger solutions to lax gun laws and loopholes.
+Since its inception after the tragedy at Sandy Hook School, Moms Demand Action has established a chapter in every state of the country and, along with Mayors Against Illegal Guns and the Everytown Survivor Network, is part of Everytown for Gun Safety, the largest gun violence prevention organization in the country with more than four million supporters.

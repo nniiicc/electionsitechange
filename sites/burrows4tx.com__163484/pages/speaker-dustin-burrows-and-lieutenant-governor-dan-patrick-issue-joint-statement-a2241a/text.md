@@ -1,0 +1,4 @@
+AUSTIN, Texas — Speaker of the Texas House Dustin Burrows and Lieutenant Governor Dan Patrick today issued the following joint statement:
+“Last session, the testimony from wounded soldiers, including former Navy SEAL Marcus Luttrell and others, on the positive impact of Ibogaine for people suffering from PTSD and brain injuries, convinced Speaker Burrows and me to allocate $50 million toward research on the plant drug Ibogaine.
+Following yesterday’s announcement by the Texas Health and Human Services Commission (HHSC) that no drug company, including the most recent applicant, has yet submitted a proposal that meets the law’s requirements and standards to receive state funds and begin clinical trials, Texas will proceed with our own research program.
+We intend to fully fund this program, and will work in partnership with our great medical research teams in Texas to conduct the research.”

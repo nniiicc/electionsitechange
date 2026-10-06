@@ -1,0 +1,47 @@
+Search this site
+Embedded Files
+Skip to main content
+Skip to navigation
+Muriel Hall for NH
+Home
+About Muriel
+Priorities
+Donate
+Endorsements/Recommendations
+Election Results
+2026 Election Photos
+2024 Election Photos
+2022 Election Photos
+2021 Special Election Photos-1
+2021 Special Election Photos-2
+Muriel Hall for NH
+Home
+About Muriel
+Priorities
+Donate
+Endorsements/Recommendations
+Election Results
+2026 Election Photos
+2024 Election Photos
+2022 Election Photos
+2021 Special Election Photos-1
+2021 Special Election Photos-2
+More
+Home
+About Muriel
+Priorities
+Donate
+Endorsements/Recommendations
+Election Results
+2026 Election Photos
+2024 Election Photos
+2022 Election Photos
+2021 Special Election Photos-1
+2021 Special Election Photos-2
+2022
+“Somewhere inside of all of us is the power to change the world.”
+— Roald Dahl
+Google Sites
+Report abuse
+Google Sites
+Report abuse

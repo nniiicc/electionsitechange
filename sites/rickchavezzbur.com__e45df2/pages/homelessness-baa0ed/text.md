@@ -1,0 +1,29 @@
+ADDRESSING HOMELESSNESS WITH URGENCY
+HOMELESSNESS
+THE PROBLEM
+For over a decade, California has faced a housing and homelessness crisis that reached devastating new lows during the pandemic.
+We clearly need a much more proactive approach to addressing this crisis.
+Rick believes that it is unacceptable to allow people to live on the streets for years, and that we need new approaches to helping the homeless rebuild their lives.
+Unfortunately, this crisis is a complex regional and statewide issue not confined to city borders.
+Local, state, and federal entities need to work collaboratively to urgently get people living on sidewalks and in parks into shelters with wrap-around mental health and substance services, and ultimately into permanent housing.
+Our government has failed to address this issue, in large part because the crisis is complex, solutions lack consensus and are expensive, and because local governments lack the authority and resources to solve what is essentially a regional, statewide, and even national problem.
+With 88 jurisdictions, 15 Los Angeles City Council Districts, and 5 Supervisorial Districts in Los Angeles County, efforts to tackle homelessness lack coordination and a clear strategy, regional accountability, and sufficient funding, and often local cities work at cross purposes, moving unhoused people from neighborhood to neighborhood, or allowing folks to remain on the streets for months or years.
+This is neither compassionate nor respectful to the unhoused or to the residents of our neighborhoods who are also experiencing this heartbreaking crisis.
+Rick will work with the Governor, the new Mayor of Los Angeles, other local mayors, and with elected officials across the County to advocate for government reform, and to assure that our region has the resources it needs to tackle this crisis with urgency.
+RICK'S IDEAS TO REDUCE HOMELESSNESS
+Creating real solutions to a problem this complex requires consensus building in our communities, in the State Legislature, and at every level of government.
+Rick has decades of experience uniting coalitions to take on difficult issues and he knows the first steps to addressing homelessness include:
+Reforming our government to assure accountability and tackle this crisis quickly with a coordinated regional strategy
+Establishing clear goals and deadlines to move people into shelters and housing, with wrap around services to help people get back on their feet
+Advancing less expensive housing options like tiny homes, and expanding programs like Project Roomkey and Project Homekey
+Supporting the Governor's CARE (Community Assistance, Recovery and Empowerment) Court mental health and addiction plan
+Creating a California Housing Corps
+The California Housing Corps that would deploy recent college graduates to homeless encampments to help the unhoused obtain social and mental health services and build a pathway to housing, employment, and productive lives.
+Tackling the root issues that contribute to the pipeline of homelessness
+There are numerous factors that contribute to homelessness.
+From poverty and racial and LGBTQ+ discrimination, to lack of mental health and substance use services, to our broken foster care system (where nearly 25% of foster youth experience homelessness after they age out of foster care).
+Every person experiencing homelessness has a different story and needs unique services and support to help them move forward.
+Utilizing vacant government owned buildings to provide shelter and housing
+Expanding first and last month rent vouchers and rent subsidies
+Building more affordable housing
+We must reduce the rising costs of rent, make homeownership more affordable, and ensure new units are actually getting built in our communities if we're going to permanently reduce homelessness in California.

@@ -1,0 +1,6 @@
+I Want to hear from you!
+Being a public servant means I'm here to listen to your concerns, comments, and suggestions.
+There is no issue we cannot overcome together, and I value any feedback you can give me.
+Your concerns are my concerns, and I am committed to working alongside you to build people power so we can achieve results that improve the lives of Minnesotans.
+Please contact me with anything that's on your mind, or if you'd like to get involved in building our vision for Minnesota.
+If you'd prefer to receive a phone call, please include your number in the message box, as well as a convenient time for me to contact you to discuss the issues you care about.

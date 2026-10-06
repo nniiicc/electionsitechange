@@ -1,0 +1,3 @@
+by Natalie Murdock | Aug 6, 2020 | Education
+Natalie Murdock Endorsed by Educators in Durham County for N.C.
+Senate District 20 Legislative Seat RALEIGH, N.C. – Educators in Durham County who are members of the Durham Association of Educators, an affiliate of the North Carolina Association of Educators, have...

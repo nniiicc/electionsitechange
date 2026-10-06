@@ -1,0 +1,9 @@
+March Update
+Dear Friends and Neighbors: This is my Legislative Update for March.
+The House passed a Budget this month and it is now in the Senate...
+February's Legislative Update
+Dear Friends and Neighbors: Here is my Legislative Update for the month of February.
+The House made progress on a number of important...
+1st Legislative Update
+Dear Friends and Neighbors: Here is my first Legislative Update.
+My goal is to keep you informed about the latest issues currently being...

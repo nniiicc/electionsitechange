@@ -1,0 +1,3 @@
+Tina Kotek Promised More Time in the Classroom. 75% of Oregon Students Won’t Get a Single Minute More.
+WILSONVILLE, Ore. – Governor Tina Kotek promised to address Oregon’s instructional time crisis.
+New reporting shows her executive order will leave the vast majority of Oregon students right…

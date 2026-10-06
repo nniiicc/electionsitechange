@@ -1,0 +1,1 @@
+Bad Rock Canyon Wildlife Crossing Proposed Posted on September 25, 2025 by Debo Powers Rep Powers flew in a small plane with Peter Metcalf, Executive Director for Glacier Two Medicine Alliance, on EcoFlight to view a potential location for a Wildlife Crossing over Highway 2 in Bad Rock Canyon boarding House District 3.

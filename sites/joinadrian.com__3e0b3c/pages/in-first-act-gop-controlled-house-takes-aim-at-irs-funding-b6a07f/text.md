@@ -1,0 +1,32 @@
+GOP demand could emerge again later this year to address debt limit and government funding
+By Laura Weiss, Roll Call
+The new Republican-controlled House passed a bill to claw back $71.5 billion in funding for the IRS that was part of Democrats’ climate, tax and health care reconciliation law last year.
+The party-line 221-210 vote was the first legislative act of the new Congress, showing Republicans’ interest in proving their opposition to Democrats’ effort to boost tax code enforcement and crack down on tax avoidance.
+Republicans’ bill doesn’t appear to have a path to becoming law with Democrats still in control of the Senate and White House and supportive of the IRS funding.
+Senate Finance Chair Ron Wyden, D-Ore., said in a statement Monday that the bill would aid “wealthy tax cheats” and Senate Democrats “will not entertain it.”
+But with deadlines coming later this year to address the debt limit and fund the government for fiscal 2024, the issue could arise as a GOP demand in negotiations.
+Republican Rep.
+Dan Bishop of North Carolina acknowledged that reality during an appearance on “The Glenn Beck Program,” saying the bill is unlikely to clear the Senate “unless you use the Holman rule to put something in a bigger appropriations bill.” Bishop was referring to a provision in the new rules package allowing amendments to spending bills that Republicans could use to fire or cut pay to specific employees.
+Democrats’ budget reconciliation law included almost $80 billion in mandatory funding for the IRS over the next decade.
+Democrats argued it would help force wealthy taxpayers to pay what they owe, and it was part of a package of offsets that funded clean energy and health care investments.
+Republicans’ bill to rescind much of that funding would cost the federal government $114 billion over the next decade, according to the Congressional Budget Office.
+Treasury Secretary Janet L.
+Yellen directed the IRS not to use any of the money to increase audits of households or small businesses making under $400,000 per year, after President Joe Biden pledged not to raise taxes on people with income below that threshold.
+“House Republicans’ legislation would allow wealthy and corporate tax evaders to continue avoiding taxes owed, increasing the burden on honest, hardworking families who pay their taxes with every paycheck,” a Treasury spokesperson said in a statement, citing a plunge in IRS audits of millionaires over the last decade and the need for the funding to narrow the gap between taxes owed and paid to the federal government.
+In a separate statement of administration policy, the White House said Biden would veto the bill if it somehow made it to his desk.
+Republicans have decried Democrats’ IRS funding, saying it would still lead to more enforcement against everyday Americans and small businesses.
+House Ways and Means Committee member Adrian Smith of Nebraska introduced Republicans’ bill last Congress.
+He said in a statement at the time that the IRS had lost touch with its mission of serving taxpayers.
+“American families don’t need more audits and red tape, and this bill will help ensure hardworking taxpayers receive satisfactory customer service without having to fear a supercharged IRS,” Smith said.
+When asked whether rescinding much of the $80 billion could be a GOP demand in fiscal negotiations this year, Smith said constituents are frustrated with IRS operations, so Republicans “need to be diligent in our efforts to bring about positive change at the IRS.”
+The legislation would leave in place almost $3.2 billion for taxpayer services and over $4.7 billion for modernizing the IRS’s dated systems and technology.
+Both are typically accounts with bipartisan backing and help fund initiatives to improve customer service.
+The bill would rescind unobligated balances including $45.6 billion devoted to enforcement and $25.3 billion for operations support.
+Other smaller targets include the following:
+- $15 million for a task force to design a free IRS-run online tax filing system.
+- $403 million for the Treasury inspector general for tax administration.
+- $104 million for Treasury’s office of tax policy.
+- $153 million for the U.S. tax court.
+- $50 million for Treasury to oversee and support the IRS as it rolls out the new mandatory funding.
+Lindsey McPherson contributed to this report.
+Read more — https://rollcall.com/2023/01/10/in-first-act-gop-controlled-house-takes-aim-at-irs-funding/

@@ -1,0 +1,117 @@
+Privacy Policy
+We make every effort to ensure the privacy and security of information that you share with us online.
+This Privacy Policy explains how information about you is collected, used and disclosed by Friends of Rob Wagner (the “Campaign”).
+This Privacy Policy applies to information we collect when you use our website and other online services that link to this Privacy Policy (collectively, the “Site”) or when you otherwise interact with us.
+We may change this Privacy Policy from time to time.
+If we make changes, we will notify you by revising the date at the bottom of the policy and, in some cases, we may provide you with additional notice, such as adding a statement to our homepage or sending you an email notification.
+We encourage you to review this Privacy Policy whenever you access the Site to stay informed about our information practices and the ways you can help protect your privacy.
+The purpose of this website is to share information about important political and policy issues and encourage individuals to participate in elections and the electoral process.
+Therefore, the petitions, surveys, and forms on this website may be limited to residents of the United States with a valid U.S.
+ZIP code.
+COLLECTION OF INFORMATION
+Information You Provide to Us
+We collect information you provide directly to us.
+For example, we collect information when you fill out a form, make a donation, send us an email, sign up to receive email updates, sign a petition, sign up as a volunteer, schedule a meeting or other event, participate in a contest or promotion, make a purchase, communicate with us via third-party social media sites, request information, or otherwise communicate with us.
+The types of information we may collect include your name, email address, postal address, phone number, mobile number, payment information, occupation, employer, and other contact or identifying information you choose to provide.
+Oregon election law requires the Campaign to collect and report certain information about contributors.
+When an individual’s aggregate contributions exceed $100 in a calendar year, campaign finance reports generally disclose the contributor’s name, address, and occupational information.
+If the contributor is employed, employer information may also be required.
+Campaign finance reports filed with the Oregon Secretary of State are generally available to the public.
+Donations made through the Site are processed by third-party payment processors, such as ActBlue.
+We do not store your credit card information under any circumstances.
+Information We Collect Automatically When You Use the Site
+When you access or use our Site, we may automatically collect information about you, including:
+LOG INFORMATION:
+We may log information about your use of the Site, including the type of browser you use, access times, pages viewed, your IP address, and the page you visited before navigating to our Site.
+DEVICE INFORMATION:
+We may collect information about the computer or mobile device you use to access our Site, including the hardware model, operating system and version, device identifiers, and mobile network information.
+INFORMATION COLLECTED BY COOKIES AND OTHER TRACKING TECHNOLOGIES:
+We use various technologies to collect information, which may include cookies or similar technologies.
+Cookies are small data files stored on your computer or mobile device that can help us improve our Site and your experience, understand which areas and features of our Site are popular, and count visits.
+We may also collect information using web beacons, pixels, or similar technologies.
+These technologies may be used on our Site or in emails to measure visits, understand usage and campaign effectiveness, and determine whether an email has been opened or acted upon.
+For more information about cookies and your choices, please see “Your Choices” below.
+Information We Collect From Other Sources
+We may also obtain information from other sources and combine that information with information we collect through our Site.
+For example, if you create or log into an account through a social media site, we may have access to certain information from that site in accordance with the authorization procedures established by the social media service.
+We may also receive information from political, voter, fundraising, or other data sources and use such information for purposes such as list matching, communications, organizing, and advertising.
+Use of Information
+We may use information about you for various purposes, including to:
+- Provide, maintain, and improve our Site;
+- Provide and deliver the information you request, process contributions and transactions, and send you related information;
+- Send you confirmations, technical notices, updates, security alerts, support and administrative messages, and provide technical support;
+- Request feedback and otherwise contact you about your use of the Site;
+- Respond to your emails, submissions, comments, questions, and requests;
+- Send you newsletters, alerts, campaign updates, and other information or services that you request or that we think may be of interest to you;
+- Help connect you with other supporters and solicit volunteers, donations, and support for candidates, people, issues, and organizations that we support;
+- Remind you to vote or register to vote and assist you in finding voting information and campaign events;
+- Contact you if applicable election laws require us to request additional information from you;
+- Monitor and analyze trends, usage, and activities in connection with our Site;
+- Personalize and improve the Site and provide advertisements, content, or features that match user profiles or interests;
+- Process and deliver contest entries and rewards;
+- Link or combine information we receive from others with information we collect to help us better understand and communicate with our supporters; and
+- Carry out any other purpose for which the information was collected.
+Sharing of Information
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+- With vendors, consultants, volunteers, and other service providers who need access to such information to carry out work on our behalf;
+- With organizations, candidates, campaigns, political committees, media organizations, charities, nonprofits, groups, causes, co-ops, or other entities that we believe have similar political viewpoints or principles or share similar goals or objectives, and with organizations that facilitate communications and information sharing among such groups;
+- To report information required by Oregon election law to the Oregon Secretary of State Elections Division, including contributor information required to be disclosed in campaign finance reports (for more information, visit the Elections Division website);
+- In response to a request for information if we believe disclosure is in accordance with any applicable law, regulation, or legal process, or as otherwise required by applicable law, rule, or regulation;
+- If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property, and safety of Friends of Rob Wagner, its employees, volunteers, supporters, or others; and
+- With your consent or at your direction, including when we notify you through our Site that the information you provide will be shared in a particular manner and you provide such information.
+Text messaging originator opt-in data and consent will not be shared with third parties for their own marketing or promotional purposes.
+This restriction does not apply to sharing with vendors, consultants, and other service providers who need access to such information to provide services on our behalf and who will not use such information for their own purposes, or when disclosure is required by applicable law, rule, regulation, law-enforcement request, or legal process.
+We may also share aggregated or anonymized information that does not directly identify you.
+Links to Other Websites
+The Site may contain links to other websites.
+For example, we may link to third-party sites to facilitate donations, purchases, voter registration, or other campaign activities.
+We may link to third-party sites to share news and information with you.
+Any personal information you provide on such linked pages is provided directly to that third party and is subject to that third party’s privacy policy, and not this Privacy Policy.
+We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
+Online Petitions
+If you sign an online petition, you understand that the petition may be treated as public information and that we may make the petition, your name, city, state, and any comments provided in connection with it publicly available.
+In addition, we may provide such petitions or compilations thereof, including your comments, name, city, and state, to national, state, or local leaders or to the press.
+Social Sharing Features
+The Site may offer social sharing features and other integrated tools that let you share actions you take on our Site with other media, and vice versa.
+The use of such features may enable the sharing of information with your friends or the public, depending on the settings you establish with the entity providing the social sharing feature.
+For more information about the purpose and scope of data collection and processing associated with social sharing features, please review the privacy policies of the entities that provide those features.
+Advertising and Analytics Services Provided by Others
+We may allow third parties to use cookies, pixels, or similar technologies to provide analytics services, measure campaign activity, or help us advertise on other websites and online services.
+These entities may collect information about your use of the Site and other websites or services, including information such as your IP address, browser information, pages viewed, time spent on pages, links clicked, and conversion information.
+This information may be used by Friends of Rob Wagner and others to analyze and track data, determine the popularity and effectiveness of content and advertising, deliver advertising and content that may be relevant to your interests, and better understand online activity.
+For example, we may use Google Analytics, Google advertising services, social media advertising platforms, or similar analytics and advertising tools.
+These services may use cookies or other identifiers to measure activity and, where permitted, provide advertising based on prior visits or interactions.
+The providers of these services generally offer their own privacy controls and advertising preferences.
+For more information about choices regarding interest-based advertising, you may visit YourAdChoices.
+Google users may also manage personalized advertising preferences through Google My Ad Center.
+Transfer of Information to the U.S.
+Friends of Rob Wagner is based in the United States and the information we collect is governed by U.S. law.
+Information we collect may be processed and stored in the United States or other countries in which our service providers operate.
+By accessing or using the Site or otherwise providing information to us, you understand that your information may be processed in jurisdictions outside the jurisdiction in which you reside.
+Protection of Information
+We take reasonable administrative, technical, and physical measures designed to help protect information under our control from loss, misuse, unauthorized access, disclosure, alteration, or destruction.
+Access to systems containing personal information is limited to persons and organizations that require access for legitimate campaign or operational purposes.
+Where appropriate, information transmitted through the Site is protected using encryption technologies such as Transport Layer Security (TLS).
+No method of transmitting information over the Internet or storing information electronically is completely secure, however, and we cannot guarantee absolute security.
+Information on Children
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Protection Act of 1998 (COPPA).
+COPPA and its accompanying FTC regulations establish United States federal law that protects the privacy of children using the Internet.
+Therefore, this website is not directed to children under 13, and we do not knowingly collect personal information from children under 13.
+We comply with applicable requirements of the Children’s Online Privacy Protection Act (“COPPA”) and other applicable laws concerning children’s personal information.
+Parents or guardians with questions may contact us directly.
+Your Choices
+Cookies
+Most web browsers are set to accept cookies by default.
+Depending on your browser, you may be able to remove or reject browser cookies, block certain tracking technologies, or otherwise manage your privacy preferences.
+Please note that removing or rejecting cookies may affect the availability or functionality of portions of our Site.
+You can also review choices regarding interest-based advertising at YourAdChoices.
+Unsubscribing from Email Communications
+You may unsubscribe from campaign email communications by clicking the unsubscribe link at the bottom of any email we send you.
+You may also contact us if you have difficulty unsubscribing.
+Certain records, including contributor records that we are legally required to retain, will not be deleted or altered as a result of an email unsubscribe request.
+Contact Us
+If you have any questions about this Privacy Policy, please contact us electronically, or write to us at:
+Friends of Rob Wagner
+PO Box 1893
+Lake Grove, OR 97035
+Last updated: September 4, 2026

@@ -1,0 +1,17 @@
+Senator George Borrello Recognized as One of New York State’s Most Effective Republican Legislator
+ALBANY—State Senator George Borrello has been ranked one of the most effective Republican legislators in the New York State Senate, according to the latest Legislative Effectiveness Scores released by the Center for Effective Lawmaking.
+The analysis placed Senator Borrello first among Senate Republicans for the 246th Legislative Session, based on a detailed review of sponsored bills, committee actions, and measures signed into law.
+Senator Borrello said the rating is the result of his commitment to representing the people of the 57th District and working to advance policies that strengthen rural communities.
+“Public service is about delivering results for the people you represent, and that has always been my focus,” Senator Borrello said.
+“I’m grateful for this recognition, but what matters most is ensuring the voices of my constituents are heard and that we keep pushing for policies that allow New York to thrive.
+Too many harmful, misguided decisions have driven people and businesses away.
+My work has been, and continues to be, about fighting for common sense, accountability and opportunity.”
+The Center for Effective Lawmaking bases its rankings on fifteen indicators, including how far a legislator’s proposals advance and the significance of their policy impact.
+In the 2023–24 term, Senator Borrello sponsored 125 bills, with 19 passing the Senate and 17 becoming law, which is a high rate for a minority-party legislator.
+Senator Borrello emphasized that effective lawmaking requires persistence, cooperation, and a willingness to challenge policies that undermine New York’s future.
+“At a time when many New Yorkers are losing confidence in state government, I believe it is more important than ever to pursue practical solutions and to work across the aisle wherever possible,” he said.
+“My goal is always to make state government work better for the people it serves.
+I will continue advocating for policies that support our farms, small businesses, first responders, families, and all who want to see our state move in the right direction.”
+He added that the ranking reinforces the importance of the work ahead.
+“New York has enormous potential, but we need to reverse the policies that have held us back,” Senator Borrello said.
+“I’m proud to be an effective voice for my district, and I remain committed to fighting for a stronger, more prosperous future for all New Yorkers.”

@@ -1,0 +1,10 @@
+A MAN OF THE PEOPLE
+MEET JEFF
+Jeff Backer is a dedicated public servant and entrepreneur deeply rooted in West-Central Minnesota.
+Born and raised in Browns Valley with his identical twin brother, Jay, Jeff's early years were spent working in his father's independent mechanic shop and with local farmers, experiences that instilled in him a strong work ethic.
+Together, he and Jay started a lawn business in high school and later founded BW Inc., a company that has weathered the fluctuating challenges typical of small businesses in greater Minnesota that now employs nearly two dozen.
+A 1991 graduate of St.
+Cloud State University with degrees in Chemistry and Public Administration, Jeff married Judy Gnifkowski in 1993 and they have one daughter, Brittany.
+Since 1995, he has volunteered as an EMT for the Browns Valley Ambulance Service, and for over sixteen years, has taught Bible study to local youth.
+His public service experience includes roles as a city council member and three-term mayor where he led significant initiatives like the Westside Floodway Diversion project, and as a member of various local boards.
+Currently serving as a state representative, where Jeff tirelessly advocates for the families, businesses, and communities of West-Central Minnesota, championing a commonsense conservative approach to government that prioritizes effective spending and individual liberties.

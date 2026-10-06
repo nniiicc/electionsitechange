@@ -1,0 +1,2 @@
+Skip to Videos All | Campaign Kickoff | NW Fresh | Campaign Kickoff, • 5/2/26 Man films attendees, campaign launch targeted — political intimidation in downtown Portland?
+Campaign Kickoff, • 5/2/26 Ciatta For Oregon House of Representative District 33 Kickoff Speech 5/2/26 Portland City Councilors Being Investigated for Breaking OR Law & Legislature Supermajority Dazed 5/2/26 Ciatta Thompson on Fixing Portland's Problems, Sanctuary Cities, LGBT Community

@@ -1,0 +1,16 @@
+Donate Today!
+Make a Monetary Donation via:
+CREDIT or DEBIT CARD
+Note: the maximum donation Sandy can accept is $1,290.
+Pledge Your Vote.
+Not Your Money.
+- Your voice, not your money is needed in Montpelier and Sandy is your candidate to take it there.
+- Your vote is your power.
+If you believe we need proven governing experience in the House, positive change, and a renewed sense of balance in the legislature, we want to hear more from you.
+Other Ways YOU Can Make a Difference
+- Get the Word Out!
+- Volunteer with Sandy’s Campaign
+- Let Us Place a Sign on Your Property
+- Sign Up for Our Mailing List
+- Host an Event
+- Like, Follow, Comment, and Share Our Social Media posts

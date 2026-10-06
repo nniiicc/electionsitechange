@@ -1,0 +1,14 @@
+Education
+Equity
+Education is a human right and everyone deserves access to an affordable, quality, and equitable education.
+Equitable access to high quality education is foundational to addressing inequities in our communities and closing persistent opportunity gaps.
+Supporting Youth and Adult Learners.
+From early education through higher education, continuing and adult education, an affordable, quality education system helps reduce poverty and improve public health.
+Career readiness, not just high school graduation, should be prioritized through higher education, CTE, STEM, or other trade opportunities.
+Now is the time to strengthen Oregon’s education system and make it more affordable to all, so that students are prepared for jobs in a 21st century economy without the immense burden of student loan debt.
+We Belong Here.
+HB 4099: Racial Equity and Justice Youth Collaborative
+One of my chief sponsored bills for the 2022 legislative session, HB 4099 establishes this collaborative at the Oregon Department of Education to ensure that our Black, Indigenous, AAPI, Latine, youth of color, queer, disabled, emerging multilingual, and/or youth navigating poverty are represented in policy making processes that directly impact them.
+Newberg Rally Against Hate
+My daughter, Rosalía, and I joined community members and colleagues in Newberg to protest the school board’s decision to ban Black Lives Matter and Pride flags from school grounds despite the clear harm this would create for our students, youth, and faculty.
+Young people deserve to be able to express their authentic selves in affirming education environments.

@@ -1,0 +1,19 @@
+Environment
+As climate change accelerates, its impacts are becoming more immediate and disruptive to our health, food systems, transportation, economy and everyday lives.
+Nabeela knows that our future generations will bear the brunt of these climate crises and she’s taking action now to build a safer, more sustainable Illinois.
+Nabeela believes:
+- Illinois must lead the way in achieving 100% clean, renewable energy while building a resilient, job-creating green economy
+- Clean air and water are not privileges; they are basic human rights that should be accessible to every community, especially those historically overburdened by pollution
+- Climate policy must be intersectional.
+It must include voices from immigrant communities, labor unions, housing advocates and environmental justice organizations
+- We must modernize transportation systems to be cleaner, more accessible, reliable and built for the future
+- Illinois must act now to prepare for extreme weather events that disproportionately affect vulnerable populations
+- Harmful chemicals like PFAS, also known as “forever chemicals,” have no place in the products we use daily and we must protect people from exposure
+Legislative wins:
+- Supported implementation of the Climate & Equitable Jobs Act (CEJA) to put Illinois on a path to 100% clean energy by 2050, while also creating good-paying union jobs
+- Co-sponsored legislation that bans PFAS chemicals in everyday products like cosmetics, menstrual products and children’s clothing
+- Co-sponsored legislation that establishes the Climate Displacement Task Force that will ensure Illinois is prepared to support displaced communities from extreme weather events and the impacts of climate change
+- Advocated for clean, affordable water access and meaningful infrastructure investments
+- Championed clean transportation solutions by advocating for electrification, expanded public transit and safer walking and biking infrastructure
+Representative Syed’s approach to climate policy is rooted in science, equity and economic opportunity.
+As she works to build a more sustainable, greener economy, she is also ensuring that Illinois leads the way in resilience and economic justice.

@@ -1,0 +1,3 @@
+Gina Hinojosa Visits 9 Cities in 7 Days to Kick Off New Year
+Press Release
+Austin, TX — Gina Hinojosa has been out in full force across Texas, meeting with local leaders, firing up supporters, and getting the word out about her agenda of lowering costs, defending public schools, and rooting out …

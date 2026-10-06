@@ -1,0 +1,7 @@
+County code changes could expand access to child care
+Seeking to expand access to child care, Clatsop County commissioners are considering changes to the development code that would add standards for family child care homes and child care centers in two dozen zoning districts.
+The county is considered a child care desert for infants and toddlers.
+The Astorian has reported that the county lost over half of its licensed child care capacity since 2017 — more than 1,000 slots at licensed care centers, care homes and family homes.
+Using money from the federal American Rescue Plan Act and contributions from Providence Seaside Hospital and Columbia Memorial Hospital in Astoria, the county is providing grants and business advice to providers in the hopes of creating more child care slots.
+“While I understand the expressed concerns of my neighbors, I would say that real-life experience is that this Fire Mountain School center is a beloved community institution in our neighborhood and points to the fact that our neighborhood can and does want (child care),” she said.
+Commissioner Courtney Bangs, a preschool teacher, cited the need for child care in rural neighborhoods.

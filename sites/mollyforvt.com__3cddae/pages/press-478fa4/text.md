@@ -1,0 +1,191 @@
+Explore recent media coverage featuring Molly and her vision for Vermont.
+If you are a member of the press or media and have an inquiry please email us at info@mollyforvt.com.
+Browse coverage by month.
+September 28, 2026 - Vermont Public
+Vermont Public 2026 Poll: Full results
+September 28, 2026 - Vermont Public
+Poll shows Molly Gray leading Lt.
+Gov.
+John Rodgers
+September 24, 2026 - WCAX
+Poll shows Molly Gray leading Lt.
+Gov. race, Balint with commanding lead in House race
+September 23, 2026 - Seven Days
+Is Rural Vermont Rising or Falling Short?
+September 16, 2026 - WCAX
+Campaign Countdown: The candidates for Vermont lieutenant governor
+September 10, 2026 - Brattleboro Reformer
+Lieutenant governor candidates discuss economic issues in Southern Vermont
+September
+August
+August 11, 2026 - WCAX
+Molly Gray tells supporters why she ran for Vt. lieutenant governor again
+August 11, 2026 - Vermont Public
+Molly Gray wins Democratic primary for lieutenant governor
+August 11, 2026 - Seven Days
+Democrat Molly Gray Bests Two Opponents in Primary for Lieutenant Governor
+August 11, 2026 - WCAX
+Gray takes Democratic primary for Vt. lieutenant governor
+August 5, 2026 - Mountain Times
+Endorsing Molly Gray for Lt.
+Governor
+August 4, 2026 - Brattleboro Reformer
+Letter to the Editor: Richards for governor, Gray for lieutenant governor
+July 31, 2026 - Bennington Banner
+Letter to the Editor: Brian Campion | In support of Molly Gray
+July 31, 2026 - Bennington Banner
+Howard Dean: Molly Gray for lieutenant governor
+July 30, 2026 - The Valley Reporter
+Letter to the Editor: Return Gray to Office
+July 29, 2026 - WCAX
+WCAX Debate: Vt.
+Democratic Candidates for lieutenant governor
+July 29, 2026 - Shelburne News
+Letter to the Editor: Molly Gray is ready to work
+July 29, 2026 - Vermont Public
+A former lieutenant governor wants the job back.
+Can the other candidates break through?
+July 28, 2026 - Seven Days
+Q&A: 2026 Democratic Candidates for Lieutenant Governor
+July 24, 2026 - Molly Gray For Vermont
+Molly Gray: An Open Letter to Vermont’s Indivisible Groups
+July 24, 2026 - St.
+Albans Messenger
+Molly Gray uniquely qualified to be Vt.’s Lt.
+Gov.
+July 23, 2026 - Addison County Independent
+Molly Gray, candidate for lieutenant governor, is an avid defender of Vermonters’ rights
+July 22, 2026 - Vermont Public
+Vermont Public’s 2026 Democratic primary debate for lieutenant governor
+July 21, 2026 - Brattleboro Reformer
+Letter to the Editor: Molly Gray for lieutenant governor
+July 20, 2026 - VT Digger
+July 17, 2026 - Bennington Banner
+Letter to the Editor: Bob Stannard, In Support of Molly Gray
+July 16, 2026 - Addison County Independent
+Letter to the Editor: Senator Hardy says Molly Gray has the skills and a proven record
+July 16, 2026 - WCAX
+Democratic candidates debate Vermont housing crisis at public forum
+July 16, 2026 - Rutland Herald
+Letter to the Editor: Endorsing Gray
+July 14, 2026 - WCAX
+Campaign Countdown: Vermont Democrats for lieutenant governor
+July 14, 2026 - NBC 5
+Democratic candidates for Vermont Lt.
+Gov push for nomination one month before primary
+July 8, 2026 - Waterbury Roundabout
+Letter to the Editor: Molly Gray for lieutenant governor
+July 7, 2026 - Bennington Banner
+Letter to the Editor: In Support of Molly Gray
+July 6, 2026 - Brattleboro Reformer
+Commentary | Molly Gray: Building the housing Vermont needs
+July 2, 2026 - VTDigger
+Candidates for Vermont governor and lieutenant governor report large fundraising hauls
+July 2, 2026 - WCAX
+This could be the year Democrats unseat Gov.
+Scott, pollster says
+July 2, 2026 - The Citizen
+Letter to the Editor: Molly Gray will fight for communities’ needs
+July 2, 2026 - Bennington Banner
+Letter to the Editor: In Support of Molly Gray
+July 2, 2026 - Addison County Independent
+Letter to the Editor: As Lt.
+Gov., Molly Gray would fight ICE
+July 2, 2026 - Vermont Political Observer
+July
+June 30, 2026 - Brattleboro Reformer
+Letter to the Editor: Molly Gray for lieutenant governor
+June 25, 2026 - The Other Paper
+Letter to the Editor: Molly Gray is an accomplished woman of character
+June 25, 2026 - Vermont Community Newspaper Group
+A New Molly Gray Is Back On The Ballot
+June 24, 2026 - Mountain Times
+Gray: Building the housing Vermont needs
+June 24, 2026 - Manchester Journal
+Gray kicks off local campaign for Lt.
+Gov.
+June 22, 2026 - Yahoo!
+News
+Former VT Gov.
+Kunin endorses Gray in Lt.
+Gov.'s race
+June 18, 2026 - Addison Independent
+Letter to the Editor: Molly Gray understands her constituents
+June 18, 2026 - Addison Independent
+Letter to the Editor: Molly Gray understands Vermont’s education issues
+June 16, 2026 - Bennington Banner
+Letter to the Editor: In Support of Molly Gray
+June 11, 2026 - Shelburne News
+Letter to the Editor: Supporting Molly Gray for Lieutenant Governor
+June 9, 2026 - WCAX 3
+802 News: Molly Gray wants her old job back
+June 9, 2026 - 802 News
+Molly Gray Wants Her Old Job Back
+June 9, 2026 - Barre Montpelier Times-Argus
+Letter to the Editor: Endorsing Gray
+June 9, 2026 - Valley New
+Letter to the Editor: Molly Gray, The Fighter We Need
+June 6, 2026 - St.
+Albans Messenger
+Letter to the Editor: Why I support Molly Gray For Lt.
+Gov.
+June 2, 2026 - Waterbury Roundabout
+Letter to the Editor: Molly Gray is a progressive leader
+June 2, 2026 - The Commons
+Gray makes case in Brattleboro for her lieutenant governor bid
+June
+May 26, 2026 - Brattleboro Reformer
+Democrat lieutenant governor candidates hold forum
+May 15, 2026 - Waterbury Roundabout
+May
+April 29, 2026 - Milton Independent
+‘No more ceremonial positions;’ Gray wants back in as Lt.
+Gov.
+April 27, 2026 - Democracy Dispatch
+Podcast: The 2026 Democratic Candidates for Lieutenant Governor
+April 24, 2026 - Brattleboro Reformer
+Molly Gray: It’s Time to Invest in Vermont
+April 22, 2026 - WAMC Northeast Public Radio
+A look at Vermont Democratic Lieutenant Governor primary candidates
+April 13, 2026 - NBC 5
+Democratic candidates for Lieutenant Governor meet with voters in Rutland
+April 13, 2026 - WVMT
+Molly Gray: The Morning Drive
+April
+March 20, 2026 - gnat.tv
+The News Project: In Studio – A Conversation With Molly Gray
+March
+February 27, 2026 - Brattleboro Reformer
+Lt.
+Gov. candidate Molly Gray revisits her roots in Brattleboro
+February 19, 2026 - WAMC
+Democratic Vermont lieutenant governor candidates take questions in Middlebury
+February 18, 2026 - myChamplainValley
+Meet the Democratic candidates for Vermont’s Lt.
+Governor
+February 10, 2026 - The Vermont Political Observer
+Blog: So… Molly Gray Is the… Outsider?
+February 3, 2026 - The Commons
+Getting ready for the worst
+February
+January 19, 2026 - PodBean
+Podcast: Previewing the 2026 Election After One Year of Trump
+January 18, 2026 - Conflict of Interest
+Podcast: Molly Gray Feels Liberated
+January 6, 2026 - WAMC
+Molly Gray discusses why she is again running for Vermont lieutenant governor
+January 6, 2026 - Burlington Free Press
+Former Lt.
+Gov.
+Molly Gray wants her old job back.
+Here's why
+January 5, 2026 - VT Digger
+Molly Gray is running for Vermont lieutenant governor — again
+January 5, 2026 - WCAX 3
+Molly Gray launches campaign to reclaim Vt. lieutenant governor seat
+January 5, 2026 - NBC 5
+Molly Gray announces run for Vermont lieutenant governor
+January 5, 2026 - Vermont Biz
+Gray announces key hires for lieutenant governor campaign
+January
+Preferred Headshot for Press Inquiries

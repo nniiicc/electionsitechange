@@ -1,0 +1,13 @@
+Legal (Lawful Permanent Residency)
+Enforce the border
+The U.S. annually admits approximately 1,000,000 lawful permanent residents (LPRs)
+Family chain migration needs to be reasonably reduced, to not allow parents absent significant need or significant hardship abroad that cannot be remedied (including by moving to another country other than the U.S.)
+Let many more ordinary (vetted) working people become LPRs annually (100,000 more), so that the overall LPR annual limit on workers increases from 140,000 to 240,000; in addition, increase the limit on underrepresented countries from 55,000 to 100,000
+Replace the 7% per country limit with pro rata based on world population (from each country)
+Those who come in will not be eligible for day-to-day entitlements, such as SNAP (food stamps), refundable tax credits and Medicaid
+Illegal (people now here illegally)
+The punishment should fit the crime
+Enforce the border and those coming illegally hereafter should be immediately deported
+Dreamers and others brought to the U.S. as a child at any time should be entitled to a path to citizenship, as long as they maintain a clean record; they should be granted LPR status with a 5-year potential path to citizenship
+Those who have committed a felony in the U.S. or a heinous act abroad should be deported
+Others should be allowed to stay with a temporary work permit to last up to seven (7) years, beginning with USCIS registration, and have the ability to remain, provided their record remains clean (i.e., free of a felony conviction) and they agree not to be eligible for day-to-day entitlements (including Medicaid) and refundable tax credits and begin receiving Social Security and Medicare benefits three (3) years after the Social Security ordinary retirement age, with a Social Security earnings record to begin (regardless of the past) once they report to USCIS; they would be eligible for LPR status after seven (7) years, assuming a clean record; all those described above who can stay must report to USCIS for the above provisions to apply; failure to do so will result in deportation upon discovery absent impossibility

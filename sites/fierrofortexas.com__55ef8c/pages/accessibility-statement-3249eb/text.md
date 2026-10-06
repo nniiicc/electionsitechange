@@ -1,0 +1,18 @@
+top of page
+Accessibility Statement
+The Fierro for Congress campaign is committed to ensuring that our website is accessible to all visitors, including individuals with disabilities.
+We strive to provide a user-friendly experience that meets or exceeds accessibility standards and allows everyone to access our content, information, and services.
+Our website incorporates accessibility features such as:
+- Clear and consistent navigation
+- Alternative text for images
+- Keyboard-friendly controls
+- Compatibility with screen readers and assistive technologies
+We are continually working to improve accessibility and welcome feedback from our users.
+If you encounter any accessibility barriers or need assistance accessing our website, please contact us at:
+Email: info@fierroforcongress.com
+Phone: (832) 647 - 0226
+Your feedback helps us make our digital presence more accessible for everyone.
+What web accessibility is
+An accessible site allows visitors with disabilities to browse the site with the same or a similar level of ease and enjoyment as other visitors.
+This can be achieved with the capabilities of the system on which the site is operating, and through assistive technologies.
+bottom of page

@@ -1,0 +1,3 @@
+Dr.
+Fatima La’Juan Muse is a medical family therapist, educator, small-business owner, and community advocate running for Texas House District 2.
+Born and raised in New Orleans, Louisiana, Fatima earned her bachelor’s degree in Speech Communications and Theater …

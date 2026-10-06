@@ -1,0 +1,20 @@
+Green Agenda Propels E-Bike-Riding 36th District State House Candidate
+Image via Julia Reed campaign website.
+by Leo Brine
+Earlier this year, after Seattle state Sen.
+Reuven Carlyle (D-36) announced he wouldn’t seek re-election to his northwest Seattle seat and Rep.
+Noel Frame (D-36) announced she’d run for the promotion, the musical chairs led first-time candidate Julia Reed, the chair of the 36th District Executive Board, to throw her bike helmet in the ring.
+Reed only has one opponent so far—longtime 36th District Board Member and current political director Jeff Manson.
+Reed filled us in on her priorities over the phone after biking from her job as a consulting manager for Kinetic West in Pioneer Square to her Lower Queen Anne condo.
+Reed said she uses her electric bike to commute to and from work when the weather permits.
+The electric motor is “a little bit of a cheat,” she said, but it’s “essential” for getting around hilly Seattle.
+Reed, who worked in Obama’s State Department in the office of the special envoy for Middle East peace and as a policy advisor to former mayor Durkan, is running on a green urbanist platform.
+Reed wants to advance climate legislation to reduce the state’s greenhouse gas emissions, fund affordable housing, and change the state’s car-centric transportation infrastructure.
+“I think electric bikes are an amazing mobility tool and I wish they were in reach for more people,” she said.
+(Josh agrees.) “Where are the electric bike subsidies?” in the legislature’s transportation package, she asks.
+Reed is biracial—her father is Black, and her mother is white—and said she knows from experience riding a bike is different for Black and brown people than it is for white people.
+“Biking has a bad rap as something that rich white guys in spandex do,” Reed said.
+She wants to help change that and diversify the biking community by making it more affordable for people of color, who are typically in the state’s lowest income brackets.
+In addition to getting more people on bikes, Reed wants the state to help cities and jurisdictions retrofit commercial buildings to make them hospitable during Washington’s extreme weather seasons, like adding air filtration and air conditioning to public buildings so people can use them as smoke shelters and cooling centers during the state’s wildfire season and record-breaking hot summers.
+Reed said cities should also retrofit their apartment buildings, condos and homes.
+To address Washington’s affordable housing crisis, Reed said every part of the state “needs to think seriously about how they’re going to be a part of the collective solution to housing.” Toeing the YIMBY (Yes In My Backyard) line, she says the best way to create and provide enough housing is by having the state and the private sector work together to increase the overall housing supply while also putting renter protections in place and creating “social housing”—a term that includes various kinds of affordable housing, including public housing and housing owned and operated by nonprofits.

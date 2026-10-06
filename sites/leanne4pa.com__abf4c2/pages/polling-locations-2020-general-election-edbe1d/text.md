@@ -1,0 +1,46 @@
+Are you planning to vote in person on Tuesday, November 3rd?
+Check to see if your polling location in HD161 has changed.
+| Precinct | Location |
+| Aston 1 | Aston Twp Community Center |
+| Aston 2 | PHCC of PA |
+| Aston 3 | Aston Elementary School |
+| Aston 4 | Pennell Elementary School |
+| Aston 5 | Aston Twp Community Center |
+| Aston 6 | Northley Middle School |
+| Aston 7 | Sun Valley High School |
+| Brookhaven 1 | Brookhaven Municipal Center |
+| Brookhaven 2 | Our Lady of Charity Church |
+| Brookhaven 3 | Full Gospel Assembly |
+| Brookhaven 4 | Brookhaven Municipal Center |
+| Brookhaven 5 | Brookhaven Municipal Center |
+| Brookhaven 6 | Brookhaven Municipal Center |
+| Nether Providence 1-1 | Strath Haven High School |
+| Nether Providence 1-2 | Strath Haven High School |
+| Nether Providence 2-1 | Strath Haven Middle School |
+| Nether Providence 2-2 | Strath Haven Middle School |
+| Nether Providence 3 | Strath Haven High School |
+| Nether Providence 4-1 | Media Shopping Center |
+| Nether Providence 4-2 | Media Shopping Center |
+| Nether Providence 5-1 | Garden City Fire Co 1 |
+| Nether Providence 5-2 | Garden City Fire Co 1 |
+| Nether Providence 6-1 | Nether Providence Elementary School |
+| Nether Providence 6-2 | Nether Providence Elementary School |
+| Nether Providence 7-1 | Nether Providence Elementary School |
+| Nether Providence 7-2 | Nether Providence Elementary School |
+| Ridley 1-3 | Knights of Columbus |
+| Ridley 2-1 | Grace Park School |
+| Ridley 2-3 | Grace Park School |
+| Ridley 3-1 | Ridley Community Center |
+| Ridley 3-2 | Ridley Community Center |
+| Ridley 5-1 | Ridley Creekside Center |
+| Ridley 5-2 | Milmont Fire Co |
+| Ridley 7-1 | Woodlyn Elementary School |
+| Ridley 7-2 | Woodlyn Fire Company |
+| Ridley 8-1 | Folsom Fire Co 1 |
+| Ridley 8-2 | Church of Christ |
+| Rose Valley | The Old Mill |
+| Rutledge | Rutledge Community Center |
+| Springfield 3-2 | Public Works Bldg |
+| Swarthmore E | Swarthmore Borough Hall |
+| Swarthmore N | Swarthmore-Rutledge School |
+| Swarthmore W | CADES |

@@ -1,0 +1,16 @@
+Resources
+- Jefferson County Food Assistance
+- Texas 211
+- Texas State Agency Departments
+- Texas Health & Human Services
+- Texas Division of Emergency Management
+- Texas Secretary of State
+- Texas Commission on Environmental Quality
+- Texas Veterans Commission
+- Texas Council of Developmental Disabilities
+- Legal Services Referral Directory
+- Texas Law Help
+- Who Represents Me?
+- The Legislative Process in Texas
+- TEXAS LEGISLATIVE REFERENCE LIBRARY
+- Texas Legislature Online

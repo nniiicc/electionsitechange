@@ -1,0 +1,3 @@
+To contact Representative Cates by mail, phone, or in person, please see the information on the Contact page.
+Representative Cates Supports Amendments
+This...

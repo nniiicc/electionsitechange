@@ -1,0 +1,23 @@
+As a working mom of twin toddlers, I don't have to imagine what rising costs are doing to Oregon's families—I live it.
+Groceries, utilities, childcare, transportation, healthcare, and housing are consuming more and more of our budgets, while paychecks simply aren't keeping up.
+Making Oregon affordable again requires us to attack the problem from both directions: lowering the cost of the things families need and making sure working people bring home enough to afford them.
+I will fight corporate practices that unnecessarily drive up prices, invest in services that lower household expenses, and stand with workers organizing for better wages, benefits, and working conditions.
+That means:
+- Making childcare affordable and accessible: Childcare isn't a luxury—it's essential economic infrastructure.
+I will fight for sustainable, dedicated childcare funding that reduces what families pay while ensuring providers can earn a living wage and stay in the profession.
+Oregon should develop a solution that works for Oregon families and makes quality childcare something working parents can actually afford, and I want to be part of that effort in Salem.
+- Increasing workers' bargaining power: Lowering costs matters, but so does increasing what working people bring home.
+I will protect collective bargaining rights, make it easier for workers to organize, defend prevailing wage and strong labor standards, and oppose efforts to undermine unions.
+When workers can bargain together for better wages, healthcare, retirement, and working conditions, families have more power to keep up with the cost of living.
+- Taking on price gouging and excessive pricing: Oregon currently prohibits excessive price increases for essential goods and services during declared market disruptions, but families can face exploitative pricing outside emergencies too.
+I support exploring stronger protections against price gouging and other abusive pricing practices in markets for essential goods and services where consumers have little practical ability to shop around.
+- Protecting Oregonians from hidden fees and predatory practices: The price you see should be the price you actually pay.
+Oregon has taken steps toward requiring upfront disclosure of mandatory fees in online transactions, and I will support building on those protections and strengthening enforcement against deceptive fees, misleading pricing, predatory contracts, and other practices designed to squeeze additional dollars out of working people.
+- Holding corporations accountable when markets aren't working: When a handful of companies dominate a market, families can end up paying more while small businesses, workers, farmers, and consumers have fewer choices.
+I will support stronger enforcement of Oregon's consumer protection and competition laws and greater scrutiny of corporate practices that reduce competition or unfairly shift costs onto working people.
+- Lowering the cost of everyday necessities: I will look across state government for practical opportunities to reduce the expenses families can't avoid—from housing, healthcare, prescription drugs, and childcare to transportation, utilities, groceries, and education.
+Affordability should be a test we apply to every major policy decision: will this make it easier or harder for working Oregonians to make ends meet?
+For too long, we've treated affordability as though families just need to budget their way out of a structural problem.
+You can't budget your way out of rent, childcare, healthcare, and groceries rising faster than your paycheck.
+I'll fight to lower the costs families face, protect Oregonians from predatory practices, and strengthen the power of working people to negotiate for a fair share of the wealth they create.
+Because a strong economy isn't one where corporations are doing well on paper—it's one where working people can afford a home, raise a family, save for the future, and have something left over at the end of the month.

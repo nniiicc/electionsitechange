@@ -1,0 +1,14 @@
+Hilda Solis recognizes the importance of a strong workforce as she served as the
+Secretary of Labor under President Obama.
+Establishing New Department of Workforce
+and Economic Development
+Hilda Solis quickly identified how the COVID-19 pandemic affected the economy and workforce, which led her to author a motion to establish a new department of workforce and economic development with the aim to better train and equip our workforce for long and successful careers.
+Apprenticeship programs to Promote Equity in the Workforce
+Hilda Solis demanded the County to develop a plan to create a network of apprenticeship programs.
+The aim of this was to provide more hands-on training programs in robust industries for those facing barriers to employment, including formerly incarcerated individuals, youth transitioning out of foster care, and people experiencing homelessness.
+Innovative Programs to Support Small Businesses
+Hilda Solis established innovative programs to support small businesses in the First District.
+Those programs provided First District small businesses microloans and other needed services with the aim to prevent displacement, and ensured that local dollars stayed local.
+Employment Program to Help Women, Communities of Color
+and Disadvantaged Populations
+Hilda Solis created a pilot program with Women in Non Traditional Employment Roles to help facilitate a high quality training program for women seeking opportunities related to crafts and apprenticeship positions.

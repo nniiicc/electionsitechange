@@ -1,0 +1,8 @@
+Oregon to share in federal broadband boost
+Oregon is set to receive $688.9 million from the National Telecommunications and Information Administration to help improve access to affordable, high-speed and reliable internet service in underserved communities across the state.
+Clatsop County leaders are hopeful that the investment, which is part of President Joe Biden’s $42.5 billion high-speed internet grant program, will address gaps in rural parts of the county.
+“Access to quality internet in 2023 is critical to a community’s local economy,” Gov.
+Tina Kotek said in a statement Monday.
+“This substantial investment in Oregon’s broadband infrastructure will help to remedy the digital divide in rural, unserved and underserved communities across the state, ensuring that Oregonians are able to access telehealth, business opportunities, education and so much more.”
+“It was an issue identified and amplified by the (coronavirus) pandemic,” Bangs said in a statement.
+“Our rural constituents often face equity issues and I’m thankful that broadband service access, a service many take for granted, will soon hopefully be a concern of the past for our rural communities.”

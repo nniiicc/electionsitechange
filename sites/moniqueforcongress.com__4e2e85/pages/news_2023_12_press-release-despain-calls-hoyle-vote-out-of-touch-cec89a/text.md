@@ -1,0 +1,16 @@
+Eugene, OR – Today, 4th Congressional District Candidate Monique DeSpain responded to Congresswoman Val Hoyle’s support for housing illegal immigrants in Oregon’s national parks and public lands with her vote yesterday against HR 5283 Protecting our Communities from Failure to Secure the Border Act of 2023.
+“Val Hoyle’s vote against the Protecting Our Communities from Failure to Secure the Border Act of 2023 is completely out of touch with what voters are expecting from our elected officials.
+Her support for turning our national parks into massive migrant camps is outright shocking.
+Val Hoyle chose the most fringe and extreme elements of her party over delivering results for the people of the 4th district,” said Monique DeSpain.
+“As crime skyrockets and fentanyl floods the streets of our communities, Val Hoyle should be fighting every day to solve the problem of our open southern border.
+Instead, she continues to pander to party bosses and play politics with the lives of Oregonians.”
+“Val Hoyle’s vote is a crystal clear example of why I’m asking the people of the 4th Congressional District to deploy me to Washington, D.C.
+We cannot continue to send the same corrupt career politicians to Washington and expect different results.
+I am an outsider who will work with anyone from any party in Congress to fight for commonsense policies to solve these crucial issues facing our state,” DeSpain added.
+Monique DeSpain is a retired U.S.
+Air Force Colonel, mother of twin boys, and public policy advocate who resides in Eugene, Oregon.
+She is a candidate for the Republican nomination for Oregon’s 4th Congressional District in a bid to unseat incumbent Congresswoman Val Hoyle in 2024 and bring about a safer, more prosperous Oregon.
+Her campaign website is www.MoniqueForCongress.com
+To arrange a candidate interview or obtain additional information about her campaign launch, please contact the Communications Director, Kevin Hoar, at press@moniqueforcongress.com or call 541-321-6095.
+Download an MSWord version of this release HERE => https://docs.google.com/document/d/1UIipis7zu0Nin_FqOvwHQt9F7Cw523Rt/edit?usp=sharing&ouid=116994791059487260171&rtpof=true&sd=true
+Download a PDF version of this release HERE => https://tinyurl.com/MoniqueForCongressPR20231201

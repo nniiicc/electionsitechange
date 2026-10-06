@@ -1,0 +1,15 @@
+Terri Sewell successful in securing critical HBCU funding
+Congresswoman Terri Sewell has been a consistent champion for Historically Black Colleges and Universities (HBCUs) throughout her time in congress.
+Today, she announced that the efforts she led to provide valuable funding for HBCUs was included in the “Departments of Labor, Health and Human Services, and Education and Related Agencies Appropriations, Act 2020” (H.R. 2740) that passed the House.
+There are a total of 107 HBCUs in the U.S.
+Sewell has seven out of fourteen of Alabama’s qualified schools in her district.
+In a statement Sewell said, “The seven HBCUs in Alabama’s 7th Congressional District are built upon rich legacies that continue to leave a lasting impact on the world around us, preparing graduates for competitive jobs in our 21st century economy.
+The bill passed today provides over $50 million to our nation’s HBCUs for the repair and renovation of facilities and $20 million to ease the financial burdens of our most vulnerable institutions, like Stillman College, by allowing these historic institutions to continue providing students with high-quality educational opportunities.”
+In March, Sewell led a group of her colleagues in a letter urging House appropriators to provide robust funding in Fiscal Year 2020 for the HBCU Capital Financing Loan Program deferment authority.
+The Department of Education outlines the types of expenditures allowed under the Capital Financing Loan Program.
+Specifically according to their website, “the program provides HBCUs with access to capital financing or refinancing for the repair, renovation, and construction of classrooms, libraries, laboratories, dormitories, instructional equipment, and research instrumentation.”
+Sewell’s office said in a statement that “Loan deferment is invaluable to HBCUs that have demonstrated significant financial constraints as a result of the 2008 economic recession.”
+Sewell’s office noted that “The funding bill passed today includes $50,484,000 for the HBCU Capital Financing program – $10 million more than fiscal year 2019 funding – and $20 million for the deferment of loans made under the HBCU Capital Loan Financing Program for certain private and public HBCUs, including Stillman College, that struggle financially.”
+They pointed out that, “Sewell has led the effort in successfully securing deferment language and funding for the past three fiscal years on behalf of HBCUs.”
+According to the Department of Education, “The Higher Education Act of 1965, as amended, said “…any historically black college or university that was established prior to 1964, whose principal mission was, and is, the education of black Americans, and that is accredited by a nationally recognized accrediting agency or association determined by the Secretary [of Education]to be a reliable authority as to the quality of training offered or is, according to such an agency or association, making reasonable progress toward accreditation.”
+https://altoday.com/archives/29422-terri-sewell-successful-in-securing-critical-hbcu-funding

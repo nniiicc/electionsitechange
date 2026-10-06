@@ -1,0 +1,34 @@
+Election Information & Resources
+Building Tomorrow, Today
+Frequently Asked Questions
+- Yes!
+If you have not voted by mail before you will need to request a mail ballot here:
+https://elections.maricopa.gov/voting/request-mail-ballot.html
+- You need a valid government issued ID that includes your name, photo and the address where you are registered to vote (List #1).
+If that ID does not match your voter record, you need two forms of ID (List #2 or #3).
+(A.R.S. § 16-579) LIST #1 PHOTO IDENTIFICATION WITH NAME AND ADDRESS — ONE REQUIRED Acceptable forms of identification with photograph, name, and address of the elector — if the address on the ID does NOT match the address in the Signature Roster, the voter must vote a regular provisional ballot and does NOT have to return.
+OR, SEE LIST #3.
+- Valid Arizona driver license
+- Valid Arizona non-operating identification license
+- Tribal enrollment card or other form of tribal identification
+- Valid United States federal, state, or local government issued identification
+An identification is “valid” unless it can be determined on its face that it has expired.
+LIST #2 NON-PHOTO IDENTIFICATION (NAME AND ADDRESS ONLY) — TWO REQUIRED Acceptable forms of identification without a photograph that bear the name and address of the elector — if the address on the ID does NOT match the address in the Signature Roster, the voter must vote a regular provisional ballot and does NOT have to return.
+- Utility bill of the elector that is dated within ninety days of the date of the election.
+A utility bill may be for electric, gas, water, solid waste, sewer, telephone, cellular phone, or cable television
+- Bank or credit union statement that is dated within 90 days of the date of the election
+- Valid Arizona Vehicle Registration
+- Indian census card
+- Property tax statement of the elector’s residence
+- Tribal enrollment card or other form of tribal identification
+- Vehicle insurance card
+- Valid United States federal, state, or local government issued identification
+- Voter Registration Card / Recorder’s Certification
+- Any “Official Election Material” mailing bearing your name and address
+LIST #3 MIX AND MATCH FROM LISTS #1 AND #2
+- Any Valid Picture ID from List #1 with an address that does NOT match the Precinct Register WITH a non-photo ID from List #2 with an address that DOES match the Precinct Register.
+- U.S.
+PASSPORT and one item from List #2
+- U.S.
+MILITARY ID and one item from List #2
+- Yes, you request an accommodation by emailing SEB@maricopa.gov or calling 602-506-1511

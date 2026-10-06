@@ -1,0 +1,10 @@
+As we head toward the close of session, things are moving quickly at the Capitol to finalize legislation and wrap up the year’s work.
+This week, we continued advancing measures focused on protecting Tennessee families, strengthening public safety, and ensuring government remains accountable.
+On this Good Friday heading into Easter weekend, I hope you and your family have a chance to slow down and reflect on the blessings of this season and the sacrifice of our Savior.
+This week at the Capitol we received significant news as Lt.
+Governor Randy McNally announced he will not seek re-election to the State Senate in 2026.
+As we move closer to the end of session, things are picking up quickly at the Capitol.
+This week, I was proud to see two pieces of legislation I sponsored move forward – both focused on protecting Tennesseans and reinforcing common-sense principles.
+This week at the Capitol we received significant news as Lt.
+Governor Randy McNally announced he will not seek re-election to the State Senate in 2026.
+We had a strong week in the Senate advancing legislation that protects first responders, supports volunteer firefighters, and holds violent offenders accountable.

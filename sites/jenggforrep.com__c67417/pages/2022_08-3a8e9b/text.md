@@ -1,0 +1,2 @@
+Speaker Emanuel “Chris” Welch and President Don Harmon invite you to support Asian American Legislative members and candidates on Thursday August 25th from 5:30pm to 7:30pm at New Furama Restaurant, 2828 S Wentworth Ave, Chicago.
+Theresa Mah, 24th House District Friends of Theresa Mah 3500 N Lakewood Avenue #3 – S Chicago, IL 60657-1488 contribute online www.theresamah.com Azam Nizamuddin, 48th House District Friends of

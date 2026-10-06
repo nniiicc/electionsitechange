@@ -1,0 +1,59 @@
+News
+October 1, 2026
+Senate DFLers want Walz to allow Red Dye Diesel use on MN roads
+“pressing Governor Tim Walz to help ease the economic pain for farmers”
+— KWLM Radio Willmar
+October 1, 2026
+Minnesota Senators Pushing Governor for Diesel Fuel Tax Relief
+“calling on the governor to quickly provide relief”
+— Minnesota News Network
+September 30, 2026
+Senator Putnam Calls for Diesel Tax Holiday for Farmers
+“We gotta do something to help out Minnesota farmers.”
+— KNSI
+July 31, 2026
+St.
+Cloud Live: “Putnam named to commission to identify candidates for Inspector General”
+“the state’s new independent watchdog agency tasked with rooting out fraud”
+— St.
+Cloud Live
+June 19, 2026
+St.
+Cloud Times: “St.
+Cloud gets $12.4 million for city improvements”
+“For far too long SCSU and downtown St.
+Cloud have been separated.”
+— Aric Putnam, in the St.
+Cloud Times
+June 3, 2026
+MPR News: Minnesota lawmakers boost a tax credit that helps young farmers
+“a tax credit aimed at helping newer farmers ran out in one day”
+— MPR News
+May 11, 2026
+KNSI: Minnesota Office of Inspector General Bill Advances to Governor’s Desk
+“This is a historic step toward securing Minnesota’s taxpayer dollars from fraud.”
+— Aric Putnam, to KNSI
+April 16, 2026
+KNSI: Putnam Bill Would Create Task Force To Study Minnesota Property Taxes
+“has not had a serious review in more than 25 years”
+— KNSI
+March 31, 2026
+STC Live: St.
+Cloud youth push for greater role in civic life at community gathering
+“young people are asking for more opportunities to speak”
+— St.
+Cloud LIVE
+March 16, 2026
+MinnPost: Minnesota farmers need stability before it’s too late
+“our farmers need stability and security, and they need it now”
+— Aric Putnam, in MinnPost
+April 15, 2022
+SC Times: St.
+Cloud officials talk public safety, law enforcement challenges during panel
+“About 75 people gathered in the Great River Regional Library”
+— St.
+Cloud Times
+March 25, 2022
+Bring Me the News: Farm employees “afraid to go to work” as ICE stretches into Greater Minnesota
+“People are genuinely experiencing this anxiety and this fear.”
+— Aric Putnam, to Bring Me the News

@@ -1,0 +1,1 @@
+I am honored to have the endorsement of the Vermont AFL-CIO, Vermont-NEA Vermont Conservation Voters, Planned Parenthood, Vermont Public Interest Research Group (VPIRG) and the Vermont State Employees Association.

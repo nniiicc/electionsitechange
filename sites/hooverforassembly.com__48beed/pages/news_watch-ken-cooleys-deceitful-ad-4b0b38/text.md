@@ -1,0 +1,56 @@
+Skip to Content
+Open Menu
+Close Menu
+ABOUT
+ISSUES
+ENDORSEMENTS
+AD 7
+MEDIA
+PODCAST
+NEWS
+YARD SIGN
+VOLUNTEER
+EVENTS
+CONTACT
+0
+0
+DONATE
+ABOUT
+ISSUES
+ENDORSEMENTS
+AD 7
+MEDIA
+PODCAST
+NEWS
+YARD SIGN
+VOLUNTEER
+EVENTS
+CONTACT
+0
+0
+DONATE
+Open Menu
+Close Menu
+ABOUT
+ISSUES
+ENDORSEMENTS
+AD 7
+MEDIA
+PODCAST
+NEWS
+YARD SIGN
+VOLUNTEER
+EVENTS
+CONTACT
+DONATE
+Watch Ken Cooley’s deceitful ad
+Sep 5
+Written By
+Mike Foster
+Mike Foster
+Previous
+Previous
+Josh Hoover Moves on to November Election in Strong Position to Win Assembly District 7
+Next
+Next
+California Coalition of Law Enforcement Association Endorses Josh Hoover for State Assembly

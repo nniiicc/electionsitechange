@@ -1,0 +1,182 @@
+- PRESS RELEASE ICYMI: AG Ford Holds Data Center Town Hall in Ruby Red Boulder City
+- PRESS RELEASE NEW: Ford to Introduce Legislation to Crack Down on Dark Money in Politics
+- PRESS RELEASE Attorney General Ford Slams Lombardo For Helping Trump Suppress Nevadans’ Votes
+- PRESS RELEASE Aaron Ford Launches Spanish Language Website to Speak Directly to Nevada’s Latino Community
+- PRESS RELEASE After Lombardo Declined to Debate, Ford Agrees to Empty Podium Debate
+- PRESS RELEASE Attorney General Aaron Ford Releases Statement on the Ninth Anniversary of the 1 October Shooting
+- PRESS RELEASE ICYMI: Ford Shares Plans to End Lombardo-Trump Affordability Crisis on The Breakfast Club & More
+- PRESS RELEASE ICYMI: Ford Talks Cutting Costs And Creating Opportunity At Fifth Town Hall
+- PRESS RELEASE Ford Statement On 19th Straight Month of Tourism Decline Caused by Lombardo-Trump Tariffs
+- PRESS RELEASE WATCH: Ford Corrects The Record On Lombardo’s Latest Ad Full Of Lies
+- PRESS RELEASE FACT CHECK: Lombardo PAC is Lying – AG Ford Did Not Ask For Norman Smith To Be Released Early
+- PRESS RELEASE ICYMI: Ford Shares Plan to Lower Costs at UNLV Town Hall
+- PRESS RELEASE NEW: Crystal Ball and Silver Bulletin Move Nevada Governor’s Race To Toss-Up
+- PRESS RELEASE ICYMI: Ford Speaks Out on Record-High Diesel And Crushing Gas Prices in Nevada
+- PRESS RELEASE Aaron Ford Slams Lombardo’s Weak Data Center Executive Order, Reaffirms His Commitment to Halting Tax Breaks And Prioritizing Community Input
+- PRESS RELEASE FACT CHECK: Lombardo Ad Full Of Lies Debunked Over A Month Ago
+- PRESS RELEASE Retail Association Endorses Aaron Ford Citing His Fight Against Trump’s Tariffs Tax
+- PRESS RELEASE DURING HISPANIC HERITAGE MONTH, AARON FORD LAUNCHES SPANISH LANGUAGE WEBSITE TO SPEAK DIRECTLY TO NEVADA’S LATINO COMMUNITY
+- PRESS RELEASE Attorney General Aaron Ford Accepts Debates While Lombardo Continues to Duck Reporters
+- PRESS RELEASE Aaron Ford Statement On Gas Prices Once Again Surpassing $5 A Gallon
+- PRESS RELEASE New Poll: Ford Takes Lead in NV Gov Race Even After Lombardo’s “Billionaire Friends” Blew $20 Million
+- PRESS RELEASE Aaron Ford Blasts Lombardo Saying Workers Are Asking For Handouts
+- PRESS RELEASE NEW: Ford to Introduce Legislation to Expand PUCN, Protect Consumers From Data Center Electricity Price Hikes
+- PRESS RELEASE WATCH: On MS Now Ford Talks Affordability, Joe Lombardo’s Data Centers, and Fighting for Nevada’s Working Families
+- PRESS RELEASE Ford Rallies Workers at Reno LaborFest
+- PRESS RELEASE Las Vegas Sun: Lombardo Calls Data Centers "Gold Rush" While Ford Calls Them 'Threat to Wallets and Water’
+- PRESS RELEASE Aaron Ford Blasts Lombardo For Supporting Trump War Causing Record High Gas Prices on Labor Day
+- PRESS RELEASE WATCH: Ford Goes On ‘Pod Save America’ To Talk About How He’ll Fight For Nevadans
+- PRESS RELEASE Aaron Ford Slams Lombardo’s Pathetic Data Center Giveaway Masked As A Second Term Agenda
+- PRESS RELEASE WATCH: Ford Slams Lombardo Being Bought And Paid For By Data Centers In New TV Ads
+- PRESS RELEASE ICYMI: Ford Holds Town Hall On Data Centers, Rising Electricity Costs At Teamsters Local 14
+- PRESS RELEASE NEW REPORT: Lombardo Uses Vetoes to Take Care Of His “Billionaire Friends” At Nevadans’ Expense
+- PRESS RELEASE Ford Slams Lombardo, Trump for Cheerleading Data Centers
+- PRESS RELEASE ICYMI: Ford Proposes Data Center Restrictions
+- PRESS RELEASE Aaron Ford Statement On Flock Cameras
+- PRESS RELEASE WATCH: Ford Launches New TV AD Focused on Resilience, Lowering Costs for Nevadans
+- PRESS RELEASE NEW: Lombardo Takes Data Centers’ Cash While Ford Outlines How He’ll Crack Down On Them
+- PRESS RELEASE Lombardo Calls Data Centers a “Gold Rush” as Nevada Faces Water Shortage Fueled by Data Centers
+- PRESS RELEASE Ford Slams New Lombardo-Trump Tariffs On Basic Necessities
+- PRESS RELEASE WHAT THEY'RE SAYING: Ford Announces Plan to Pause New Tax Abatements for Data Centers
+- PRESS RELEASE Aaron Ford Statement On Trump and Lombardo Being in Lockstep On Data Centers
+- PRESS RELEASE NEW: Aaron Ford Announces Plan To Pause Tax Breaks For Data Centers
+- PRESS RELEASE Ford Slams Lombardo-appointed PUCN For Keeping Nevadans In The Dark On Rising Energy Costs
+- PRESS RELEASE Lombardo’s Former Deputy Police Chief Backs Ford for Governor
+- PRESS RELEASE WATCH: Ford Commits To Declare Affordability State Of Emergency On Day One In New TV Ad
+- PRESS RELEASE FACT CHECK: The Nevada Independent Rips Apart Lombardo Campaign’s Latest Lies
+- PRESS RELEASE Ford Campaigns On Cutting Costs In Reno As Part Of Statewide ‘Stuff Costs Too Much’ Tour
+- PRESS RELEASE FACT CHECK: Lombardo Spews Lies, Brags About Raising Costs While Taking Orders from Donald Trump
+- PRESS RELEASE WATCH: Ford Launches New TV Ad Featuring Lombardo in His Own Words Saying His Top Priority is Taking Care of Trump’s “Billionaire Friends”
+- PRESS RELEASE Ford Campaign Statement on Donald Trump and Joe Lombardo Campaigning Together in Las Vegas
+- PRESS RELEASE Lombardo Says He’s Powerless to Address Affordability After Making it His Entire Campaign in 2022
+- PRESS RELEASE NEW: As Gas Prices Skyrocket, Lombardo Doubles Down on Support of Trump’s Iran War
+- PRESS RELEASE WATCH: Ford Launches First TV Ad of Cycle Focused on Lombardo-Trump Cost-of-Living Crisis
+- PRESS RELEASE Ford Slams Lombardo For Supporting Price-Raising Demand Charge, Shares Plan To Stop It
+- PRESS RELEASE Polling Shows Tied Race, Ford Gaining Momentum As Lombardo Remains “Concerned” About Re-Election
+- PRESS RELEASE ICYMI: Ford Talks Cutting Costs and Creating Jobs On Small Business Tour
+- PRESS RELEASE LEAKED AUDIO: Lombardo Calls Trump His ‘Commanding Officer’ In Regards to Dealing with ICE
+- PRESS RELEASE AG Ford Drops "I'm Joe Lombardo" for a Free Ticket at the Beverly Theater
+- PRESS RELEASE Lying Lombardo Strikes Again: Debunking The Latest BS Pro-Lombardo Ad
+- PRESS RELEASE Attorney General Ford Statement on Attempted ICE Arrest at Harry Reid International Airport
+- PRESS RELEASE NEW: Lombardo Caught Lying Again, “Dems for Lombardo” Member Supports Aaron Ford
+- PRESS RELEASE BREAKING: Ford Campaign Blasts Lombardo For Using Taxpayer Resources To Launch Baseless Political Smears
+- PRESS RELEASE ICYMI: Ford Highlights How Trump Ripped Away Food And Health Care With Joe Lombardo’s Support
+- PRESS RELEASE Attorney General Ford Statement on One Year Impacts of One Big Beautiful Bill
+- PRESS RELEASE Nevada Solar Association Endorses Aaron Ford for Governor
+- PRESS RELEASE Las Vegas Sun: Ford’s plan targets NV Energy fees, prescription costs, corporate landlords
+- PRESS RELEASE Aaron Ford Unveils ‘Workers First’ Economic Development Plan
+- PRESS RELEASE Attorney General Ford Slams Donald Trump For Refusing to Sign Bipartisan Bill to Lower Housing Costs
+- PRESS RELEASE BREAKING: Lombardo Attack Ad "False", Allies Paid Workers to Lie; Worker Actually Voted for Ford
+- PRESS RELEASE Attorney General Aaron Ford Challenges Joe Lombardo to Debates
+- PRESS RELEASE Aaron Ford Slams Lombardo’s PUCN For Keeping Nevadans In The Dark About The Demand Charge
+- PRESS RELEASE ‘‘Not going to back down’: Ford targets vulnerable Lombardo in Nevada governor’s race’”
+- PRESS RELEASE Ford Campaign Statement On Aaron Ford Winning Nevada Democratic Gubernatorial Primary
+- PRESS RELEASE North Las Vegas Mayor Pam Goynes Endorse Attorney General Aaron Ford’s Campaign for Governor
+- PRESS RELEASE Attorney General Ford Slams Lombardo For Playing Politics With Dying Nevadans’ Health Care
+- PRESS RELEASE Attorney General Ford: “Lombardo Wants To Give Money to ICE While Nevadans Can’t Afford to Live”
+- PRESS RELEASE Nevada Independent: ‘Ford focuses on affordability, slams 'Lombardo-Trump economy'’
+- PRESS RELEASE Attorney General Aaron Ford Will Take His Fight To Block Demand Charge To The Supreme Court
+- PRESS RELEASE ICYMI: As Early Voting Starts, Ford Hammers Lombardo-Trump Economy
+- PRESS RELEASE ICYMI: Ford Reaffirms Commitment to Being Most Pro-Worker Governor in Nevada History If Elected
+- PRESS RELEASE ICYMI: Joe Lombardo is Right to Be “Concerned” About Defending His Failing Record
+- PRESS RELEASE ICYMI: AFL-CIO Endorses Aaron Ford for Governor
+- PRESS RELEASE In Latest Act of Corruption, Lombardo Fires Regulator Then Receives $500k from Nevada Gold Mines
+- PRESS RELEASE ICYMI: Ford launches Education Plan to Set Nevada Students up for Success
+- PRESS RELEASE Aaron Ford Unveils ‘Student Success’ Agenda To Promote Educational Opportunity in Nevada
+- PRESS RELEASE Utility Companies Back Lombardo As Ford Fights to Stop Their Demand Charge Price Hike
+- PRESS RELEASE Attorney General Aaron Ford Slams Supreme Court Gutting the Voting Rights Act
+- PRESS RELEASE Attorney General Aaron Ford on Trump Once Again Failing to Refund Nevadans for Illegal Tariffs Tax
+- PRESS RELEASE Nevada Conservation League Endorses Aaron Ford For Governor
+- PRESS RELEASE Attorney General Aaron Ford Sets The Record Straight On Failing Lombardo-Trump Economy
+- PRESS RELEASE REMINDER: On Tax Day, Joe Lombardo Still Supports Trump’s $1,700 Illegal Tariffs Tax
+- PRESS RELEASE AG Aaron Ford Statement on Soaring Inflation Caused By Trump’s Iran War, Supported by Joe Lombardo
+- PRESS RELEASE Amid Skyrocketing Gas Prices, Aaron Ford Slams Joe Lombardo for Supporting Trump’s Iran War
+- PRESS RELEASE Ford Raises Record Breaking $1.5 Million In Q1, Historic Haul for Non-Incumbent Candidate
+- PRESS RELEASE Ford Energy Plan Will Halt Demand Charge, Battle Trump Policies
+- PRESS RELEASE Aaron Ford Unveils Energy Plan as Third Plank of ‘Affordable Nevada’ Platform
+- PRESS RELEASE Statement on Anniversary of Trump’s So-Called “Liberation Day”
+- PRESS RELEASE NEW POLLS: Ford Has The Momentum In Extremely Tight NV Gov Race
+- PRESS RELEASE SEIU Local 1107 Endorses Aaron Ford for Governor
+- PRESS RELEASE Aaron Ford Holds Education Roundtable with Southern Nevada Educators, Parents, and Students
+- PRESS RELEASE Bricklayers Local 13 Endorses Aaron Ford for Governor
+- PRESS RELEASE What They’re Saying: Attorney General Ford, Retail Association Blast Lombardo-Trump Tariffs
+- PRESS RELEASE Ford Statement on Senate Passage of ROAD to Housing Act
+- PRESS RELEASE Under Joe Lombardo, “Nevada has become a symbol of America's struggle with high costs”
+- PRESS RELEASE Ford Campaign Statement on Soaring Gas Prices Caused By Lombardo’s Ally, Trump
+- PRESS RELEASE Ironworkers Local 433 Endorses Aaron Ford for Governor
+- PRESS RELEASE Ford Campaign Statement on Joe Lombardo Filing for Re-election
+- PRESS RELEASE Aaron Ford Files to Run for Governor, Launches Campaign Focused on Making Nevada More Affordable
+- PRESS RELEASE AFSCME Local 4041 Endorses Aaron Ford for Governor
+- PRESS RELEASE Attorney General Ford Statement on “Disastrous” January Gaming Control Board Report
+- PRESS RELEASE Attorney General Ford Statement on President Trump’s Latest Attempts to Federalize Nevada’s Elections
+- PRESS RELEASE WATCH: Ford Fights Trump’s Tariff Tax As Lombardo Fully Embraces Them
+- PRESS RELEASE Aaron Ford Slams Lombardo-Trump Tariffs for “Pain” Inflicted on Nevada’s Economy
+- PRESS RELEASE Attorney General Ford Responds to President Trump’s State of The Union Address
+- PRESS RELEASE WATCH: Ford Slams Lombardo-Trump Economy After Trump Unveiled New Tariffs Alongside Lombardo
+- PRESS RELEASE Attorney General Ford Defeats Trump’s Tariffs After Lombardo Said Nevadans Should “Feel A Little Pain” From Them
+- PRESS RELEASE Aaron Ford Unveils Second Plank of ‘Affordable Nevada’ Agenda: Health Care
+- PRESS RELEASE Defend The Vote Endorses Aaron Ford for Governor
+- PRESS RELEASE Ford Campaign Statement on Lombardo’s Desperate Attempt to Distract from Abysmal Economic Record
+- PRESS RELEASE Laborers’ Union Local 169 Endorses Aaron Ford for Governor
+- PRESS RELEASE Nevada NOW Endorses Aaron Ford for Governor
+- PRESS RELEASE IBEW Local 357 Endorses Aaron Ford for Governor
+- PRESS RELEASE Aaron Ford Statement on ICE’s Federal Overreach Across The Nation
+- PRESS RELEASE Operating Engineers Local 3 Endorses Aaron Ford for Governor
+- PRESS RELEASE Lombardo-Trump Economy: High Inflation Cost Nevada Families Nearly $1,600 Last Year
+- PRESS RELEASE Aaron Ford Unveils First Plank of ‘Affordable Nevada’ Agenda: Housing
+- PRESS RELEASE Ford Raises More Than $2.7 Million In 5 Months, Historic Grassroot Support Across Nevada
+- PRESS RELEASE UAW Region 6 Endorses Aaron Ford for Governor
+- PRESS RELEASE After Lombardo Vetoed Legislation to Limit Corporate Homeownership, Trump Sides with Ford on the Issue
+- PRESS RELEASE FORD: “I’m Going To Be The Most Pro-Labor Governor This State Has Ever Seen”
+- PRESS RELEASE IBEW Local 401 Endorses Aaron Ford for Governor
+- PRESS RELEASE Rural Elko County Leaders Endorse Aaron Ford for Governor
+- PRESS RELEASE Mesa Valley Progress: “Attorney General [Ford] reiterate[d] his core agenda: making Nevada more affordable for working families”
+- PRESS RELEASE Attorney General Ford Demands Lombardo Sign Legislation to Limit Corporate Homeownership
+- PRESS RELEASE Ford Concludes Working Class First Tour With Swing Through Ely, Mesquite, and West Wendover
+- PRESS RELEASE Ford Focuses On Affordability In Virginia City, Fallon, Battle Mountain, and Elko on Working Class First Tour
+- PRESS RELEASE Ford Talks Affordability In Carson City, Reno, and Sparks On Working Class First Tour
+- PRESS RELEASE Ford Hosts Packed Town Halls In Dayton and Gardnerville On Working Class First Tour
+- PRESS RELEASE Aaron Ford Launches Statewide Working Class First Tour
+- PRESS RELEASE ICYMI: Ford Slams Lombardo-Trump Economy After Trump Endorses Lombardo
+- PRESS RELEASE Ford Campaign Statement on Joe Lombardo Embracing Trump Endorsement
+- PRESS RELEASE Lombardo is About to ‘Feel a Little Pain’; Most Vulnerable GOP Gov Faces a Hurricane of Voter Anger
+- PRESS RELEASE Las Vegas Sun: Aaron Ford: Fight to protect SNAP benefits for Nevadans is personal
+- PRESS RELEASE WATCH: Ford Sues Trump Administration to Protect Nevadans’ SNAP Benefits
+- PRESS RELEASE End Citizens United Endorses Aaron Ford for Governor
+- PRESS RELEASE Nevada State Education Association Endorses Aaron Ford for Governor
+- PRESS RELEASE Ford Continues Fighting to Lower Housing Costs After Lombardo Vetoed Affordability for Working Families
+- PRESS RELEASE Attorney General Aaron Ford Statement on National School Lunch Week
+- PRESS RELEASE Ford Discusses Strengthening Schools, Lombardo Disregards Nearly 80% of Students
+- PRESS RELEASE Aaron Ford Discusses Strengthening Schools, Making Nevada More Affordable in Rural Mesquite
+- PRESS RELEASE Ford Announced "First-of-its-Kind" RealPage Settlement, Continues Fighting to Lower Housing Costs
+- PRESS RELEASE Planned Parenthood Advocates Mar Monte Endorses Attorney General Aaron Ford for Governor
+- PRESS RELEASE WATCH: Ford Exposes Lombardo’s Failure To Lower Costs, Promises to Prioritize Nevada Families
+- PRESS RELEASE Ford Campaign Statement on Joe Lombardo Launching Re-Election Campaign
+- PRESS RELEASE Ford Secures a Majority of State Legislators' Endorsements in Gubernatorial Bid
+- PRESS RELEASE Washoe County Leaders Endorse Aaron Ford for Governor
+- PRESS RELEASE Ford Breaks Fundraising Record, Raises More Than Any Non-Incumbent Democrat In Nevada History
+- PRESS RELEASE Ford Announces $1.1 Million Raised For Launch, Record First Month Haul
+- PRESS RELEASE Reproductive Freedom For All Endorses Attorney General Aaron Ford for Governor
+- PRESS RELEASE Ford Continues to Restore Millions in Funds to Nevada After Lombardo Called Lawsuits ‘Unfortunate’
+- Press release Las Vegas Review-Journal: Ford says Lombardo ‘afraid to stand up to Trump’
+- press release Las Vegas Sun: Aaron Ford: Our economy is suffering; it’s time to move Nevada forward
+- press release Attorney General Ford Hosts Campaign Launch Event in Reno
+- press release WATCH: Attorney General Ford Slams Lombardo and Trump Over July’s Disastrous Jobs Report
+- PRESS RELEASE Attorney General Ford Announces State Legislator Endorsements
+- PRESS RELEASE Attorney General Aaron Ford Launches Campaign for Governor, Secures Key Endorsements
+- Press release U.S.
+Reps Titus, Horsford and Lee Endorse Attorney General Aaron Ford’s Campaign for Governor
+- Press release Attorney General Aaron Ford Launches Campaign for Governor
+- Press release U.S.
+Senator Jacky Rosen Endorses Attorney General Aaron Ford for Governor
+- Press Release U.S.
+Senator Catherine Cortez Masto Endorses Attorney General Aaron Ford for Governor
+PRESS RELEASE
+AG Ford Drops "I'm Joe Lombardo" for a Free Ticket at the Beverly Theater
+Unless you’ve been living under a rock, you’ve seen this viral video of Joe Lombardo abusing his title to evade a traffic ticket:
+People have been having a field day online with Lombardo’s pathetic attempt at rule-breaking, and Las Vegas’s Beverly Theater got in on the fun – last night, they let patrons dodge paying for a ticket by saying “I’m Joe Lombardo.”
+Their offer got many takers, including from a certain Attorney General of Nevada.
+See for yourself:
+Attorney General Ford is running for Governor to make life affordable for everyday Nevadans who work hard and play by the rules.
+Unlike Joe Lombardo and his friend Donald Trump, Ford knows that no one is above the law, and he’s spent his career taking on the big corporations and corrupt politicians making life harder and more expensive for working Nevadans.
+As Governor, he will lead Nevada out of the failing Lombardo-Trump economy and stand up to Donald Trump instead of folding like Joe Lombardo does.

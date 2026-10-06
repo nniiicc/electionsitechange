@@ -1,0 +1,4 @@
+House Minority Leader Tony McCombie (Savanna) and members of the Illinois House Republican Caucus hosted 50 women leaders from across the state on Tuesday to recognize the difference they are making in communities throughout Illinois in their chosen fields of education, business, social services, health care, volunteerism and a wide range of other areas.
+The event included brunch featuring a keynote address by Illinois Supreme Court Justice Lisa Holder White; a Listening Session with Leader McCombie.
+The event included special guest Illinois Lieutenant Governor Julianna Stratton; recognition during session of the House of Representatives from the Speaker’s Gallery; and a tour of the Illinois Capitol with the Architect of the Capitol Andrea Aggertt.
+See the full article at nrgmediadixon.com

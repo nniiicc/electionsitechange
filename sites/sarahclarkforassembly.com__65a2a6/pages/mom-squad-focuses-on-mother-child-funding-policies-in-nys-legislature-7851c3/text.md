@@ -1,0 +1,12 @@
+The Mom Squad is a loosely aligned group of 10 to 15 mothers with young children who are emerging leaders in the Senate and Assembly during what Albany veterans say is the largest contingent of young mothers in the State Legislature ever.
+…
+“We put so much more attention to issues that didn’t always get attention,” said Assemb.
+Sarah Clark (D-Rochester), a mother of three who unveiled the “Mom Squad” in a tweet in January.
+“We were again and again just bringing it up.
+Even when discussing economic development, we raise our hands and say, ‘What about child care?’ We’re bringing issues that haven’t always been in the limelight.”
+…
+One bill would create a pilot program called the Mothers and Infants Lasting Chance, or MILC.
+It would provide guaranteed income to women in poverty for the last three months of pregnancy and the first months of a child’s life.
+The experiment would serve 10,000 New York City and another 5,000 in rural parts of the state and cost the state $247.5 million, according to the bill.
+In all, a mother and her child would receive $16,500 in payments over 21 months for health care, housing and food.
+“‘Mom Squad’ focuses on mother/child funding, policies in NYS legislature,” February 4, 2024, via Newsday

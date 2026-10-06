@@ -1,0 +1,13 @@
+Category: Facebook Post
+Reception Fundraiser Tuesday, July 28, 2026
+Read More...
+Posted on 14 Jul 2026, 23:05 - Category: Facebook Post
+Governor Pritzker’s BUILD Proposal Sidelines Local Voices
+Read More...
+Posted on 22 May 2026, 19:35 - Category: Facebook Post
+SB 1560: Illinois’ Costly Mental Health Screening Mandate Threatens Classrooms and Parental Rights
+Read More...
+Posted on 22 May 2026, 19:29 - Category: Facebook Post
+For Pritzker and Springfield Democrats, Illinois’ Own Kids Come Last
+Read More...
+Posted on 22 May 2026, 19:25 - Category: Facebook Post

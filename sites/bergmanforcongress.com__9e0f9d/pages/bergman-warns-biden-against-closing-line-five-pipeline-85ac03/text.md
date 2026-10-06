@@ -1,0 +1,25 @@
+Bergman Warns Biden Against Closing Line Five Pipeline
+Radio Results Network - Congressmen Jack Bergman (R-MI01), Bob Latta (R-OH5), Tim Walberg (R-MI07), and 10 additional House Members, sent a letter to President Biden
+Congressmen Jack Bergman (R-MI01), Bob Latta (R-OH5), Tim Walberg (R-MI07), and 10 additional House Members, sent a letter to President Biden regarding reports of the Biden Administration exploring the possibility of taking action to terminate the Enbridge’s Line 5 Pipeline.
+“Reports that the Biden Administration is seeking to shut down Line 5 are extremely concerning for Michigan families,” said Rep.
+Bergman.
+“As energy prices skyrocket across the nation due to Biden’s dangerous energy policies, shutting down Line 5 would saddle constituents with unaffordable heating costs and propane shortages as we head into the winter months.
+If these reports are true, the Biden Administration must end this terrible policy and immediately put the needs of Michiganders first.”
+“The devastating consequences of shutting down Line 5 cannot be overstated,” said rep, Latta.
+“The pipeline is essential to the lifeblood of the Midwest.
+Should the Biden Administration move forward to shut down Line 5 tens of thousands of jobs would be lost across Ohio, Michigan, Wisconsin, and the region; billions of dollars in economy activity would be in jeopardy; and the environment would be at greater risk due to additional trucks operating on roadways and railroads carrying hazardous materials where that is even possible.
+The closure of Line 5 would cause uncertainty over the delivery of energy products, which would result in spikes in consumers’ energy bills and experience difficulties in powering their homes and businesses due to propane and other energy shortages.
+As the current supply chain is already struggling, this would be an added hardship on the people in the Midwest that is not necessary.”
+“Every family in Michigan and throughout the Midwest should be deeply troubled by this new report that the Biden Administration is actively exploring shutting down Line 5,” said Rep.
+Walberg.
+“Halting operations of this energy pipeline would hurt our economy and cause home heating costs to rise even higher right as we enter the winter months.
+This irresponsible action will hurt farmers, businesses, and families.
+President Biden has already done enough to weaken America’s energy security and international alliances, and the consequences of terminating Line 5 would only heighten these growing challenges.”
+Background:
+In light of the Administration’s decision to revoke the Keystone XL pipeline, earlier this year in March, Latta, Bergman, and Walberg led 11 House members in sending President Biden a letter to express their deep concerns regarding reports of pressure campaigns from pipeline opponents to shut down additional petroleum and natural gas pipelines.
+No response was received from the President.
+Last year, Latta, Bergman, and Walberg, led a letter with seven other House colleagues to the Pipeline and Hazardous Materials Safety Administration (PHMSA) asking them to confirm that Line 5 is structurally sound and does not manifest an unsafe condition or constitute an imminent hazard that would warrant its closure for safety reasons.
+PHMSA replied in January of this year confirming that “there are presently no integrity concerns” with the pipeline based on inspection data.
+Along with the lack of safety concerns, any efforts to terminate the pipeline would trigger an international standoff with the United States’ closest ally and economic partner, Canada.
+The 1977 Transit Pipelines Treaty between the U.S. and Canada has ensured the uninterrupted transportation of energy products across the border for decades.
+The complete text of the letter can be found here

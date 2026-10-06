@@ -1,0 +1,15 @@
+ORLANDO, Fla. — Republican congressional candidate and military veteran Dan Green emphasized his experience in federal defense policy on Thursday, positioning his campaign for Florida’s 9th Congressional District as a direct conduit for the White House’s “America First” agenda.
+Speaking on Florida’s Voice Radio with host Brendon Leslie, Green—a 23-year member of the Navy Reserve—vowed to bring his leadership background and institutional experience to Capitol Hill to help implement structural changes in Washington.
+“So I think across the range of issues, I’ve got the energy and the drive and the right priorities,” Green said.
+“But most importantly, having been a Trump appointee, I understand what the President wants.”
+Green focused on the economic pressures squeezing Central Florida families, identifying the surging costs of groceries, gasoline, and property insurance as top voter concerns.
+To combat economic overreach, Green proposed a strict regulatory rule: sunsetting at least two existing federal regulations for every new one introduced by administrative bureaucracies.
+A central pillar of Green’s platform is his extensive national security resume.
+At 25 years old, the Navy intelligence officer was working at the Pentagon when American Airlines Flight 77 struck the building during the terrorist attacks of Sept. 11, 2001.
+The event prompted him to volunteer for five subsequent military deployments to Iraq and Afghanistan, which included two deployments alongside Navy SEAL teams in Fallujah and southern Afghanistan.
+Green later served for nearly two years during the first Trump administration as the deputy assistant secretary of defense for strategy and force development.
+In that role, Green said he worked to pivot the Department of Defense toward prioritizing the long-term threat of Communist China through a doctrine of “peace through strength.
+“You can’t have deterrence unless you have a war-winning capability as well,” Green said, noting that his experience navigating the federal apparatus allows him to understand how to deliver results against what he described as entrenched federal bureaucracies.
+On domestic policy and governance, Green threw his full support behind the federal Save America Act, which would require proof of citizenship and identification to vote in federal elections.
+Pointing to his personal experience assisting with the 2000 Florida presidential recount, Green emphasized that safeguarding the integrity of the electoral system remains a paramount priority for defending the republic.
+Florida’s 9th Congressional District, currently represented by incumbent Democrat Darren Soto, covers parts of Orange and Osceola counties.

@@ -1,0 +1,65 @@
+Endorsements
+Grateful for support from trusted Republican leaders and organizations.
+Governor Abbott
+Governor Greg Abbott has endorsed Jorge Borrego, the Republican candidate for Texas House District 118.
+State Senator Middleton
+State Senator Mayes Middleton endorses Jorge Borrego for House District 118.
+Elected Officials
+Helen Kerwin
+State Representative
+Texas House District 58
+Briscoe Cain
+State Representative
+Texas House District 128
+Carrie Isaac
+State Representative
+Texas House District 73
+Shelley Luther
+State Representative
+Texas House District 62
+Joanne Shofner
+State Representative
+Texas House District 11
+Cody Vasut
+State Representative
+Texas House District 25
+Wes Virdell
+State Representative
+Texas House District 53
+Brent Money
+State Representative
+Texas House District 2
+Mike Olcott
+State Representative
+Texas House District 60
+J.M.
+Lozano
+State Representative
+Texas House District 43
+Hillary Hickland
+State Representative
+Texas House District 55
+Don McLaughlin
+State Representative
+Texas House District 80
+Alan Schoolcraft
+State Representative
+Texas House District 44
+Valoree Swanson
+State Representative
+Texas House District 123
+Terri Leo-Wilson
+State Representative
+Texas House District 23
+Daniel Alders
+State Representative
+Texas House District 6
+Walter West
+SREC Member
+Senate District 19
+Kelly Perry
+SREC Member
+Senate District 19
+James Dickey
+Former RPT Chairman
+Republican Party of Texas

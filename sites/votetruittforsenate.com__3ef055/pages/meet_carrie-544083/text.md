@@ -1,0 +1,7 @@
+Meet Carrie
+Raised on a small dairy and tobacco farm in Marion County, Carrie Truitt learned the values of hard work and community early in life.
+A proud graduate of Marion County High School, she went on to earn degrees from the University of Kentucky and Campbellsville University, building a career devoted entirely to serving others through nonprofit work.
+From the Lexington Philharmonic to Hosparus Health, and now Leadership Kentucky, she has spent decades raising funds and resources for organizations that strengthen communities.
+Closer to home, Carrie chairs the Marion County Board of Education, founded and leads the Marion County Education Foundation, and volunteers with the Marion County Youth Soccer Association.
+She and her husband Michael, married since 2002, are raising their three children — Jackson, Samuel, and Eleanor — right here in the community she loves and has always called home.
+Now, Carrie is running for State Senate to fight for strong and safe schools, affordable housing and food security, and accessible healthcare for every family in the district.

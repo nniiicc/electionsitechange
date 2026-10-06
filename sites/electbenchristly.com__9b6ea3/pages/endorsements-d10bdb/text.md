@@ -1,0 +1,79 @@
+OUR SUPPORTERS
+Endorsements
+- VoteVets
+- Clark County Democrats
+- Klickitat County Democrats
+- Skamania County Democrats
+- Washington Conservation Action
+- American Federation of Teachers
+- IBEW Local 48
+- Washington Education Association PAC
+- Washington State Labor Council
+- Washington State Nurses Association PAC
+- Advanced Registered Nurse Practitioners
+- Adrian Cortes State Senator, LD 18
+- Monica Stonier State Representative, LD 49
+- Wil Fuentes Clark County Councilor
+- Sue Marshall Clark County Councilor
+- Anne McEnerny-Ogle Mayor of Vancouver
+- Kim Harless Vancouver City Councilor
+- Erik Paulsen Vancouver City Councilor
+- Don Orange Vancouver Port Commissioner
+- Eric LaBrant Vancouver Port Commission
+- Carolyn Long Former Democratic Nominee for Congress
+- Patrick Adigweme Clark County Charter Review Commissioner
+- Terri Niles Chair, 17th LD Democrats
+- Tim Probst Fmr.
+State Representative, 17th LD
+- Mike Pond Union Organizer
+- Nan Henriksen Former Camas Mayor
+- Betty Sue Morris Fmr.
+State Representative, 18th LD and Fmr.
+Clark County Commissioner
+- Children's Campaign Fund
+- Alliance for Gun Responsibility
+- FairVote Washington
+- Planned Parenthood Alliance Advocates
+- 3.14 Action Fund
+- Sheet Metal Workers Local Union 55
+- Retired Public Employees Council of Washington
+- Pro-Choice Washington
+Add your name to our growing list of endorsers!
+Community Members:
+Jess Durfee, 49th LD Democrat Chair
+LaDonna Fitzpatrick, 18th LD Democrat Chair
+Ginger Hartnett, Klickitat County Democrats Chair
+Joe Kear, Skamania County Democrats Chair
+Peter Aller
+Donald Auguston
+Emily Borden
+Justin Boyd
+Charity Brooks
+Edward Brooks
+Bob Carrol
+Caitlin Christly
+Gary Corbin
+Jeremy Day
+Rhonda Day
+Addison Dillon
+Matt Dittrich
+Matt Driggers
+Bentley Freville
+Didi Gray
+Karla Hawley
+Rex Harold
+Shawn Kevernen
+Sue Kusch
+Beth Lamie
+Janet Landesberg
+Phil Landesberg
+Jacqueline Lane
+Marsha Manning
+Adrienne Mason
+Mark Sampath
+Catherine Silzle
+Paul Speer
+Ellen Sward
+Joshua Ward
+Lisa Kwietniak
+Erika Cox

@@ -1,0 +1,19 @@
+'Affordability;' Suhas for Virginia releases first campaign commercial of the general election
+“Together, we’re going to protect the rights and livelihoods of future generations—because it’s personal to me and my family.”
+Ashburn, VA - Today, the Suhas for Virginia campaign announced the release of ‘Affordability;’ the first television advertisement of the general election in Virginia’s 10th Congressional District.
+The ad showcases Senator Suhas Subramanyam's bipartisan record of delivering real results to bring down costs for Virginians as a state legislator.
+The bills referenced are:
+- HB 528: Refunded over $300 Million to Virginia ratepayers in overcharges by the electric utility corporation (Chief Patron)
+- HB 1832: Prevented a 40% toll hike on the Dulles Greenway Toll Road (Chief Patron)
+- HB 2007: Requires transparency in drug pricing (Chief Co-Patron)
+Senator Subramanyam shared his personal stake in increasing affordability—his family.
+In Congress, Subramanyam will continue to fight to make Virginia a more affordable place to live, work, and raise a family.
+“I have made affordability a top priority in the General Assembly.
+In Congress, I will continue to deliver real results for working families,” said Senator Subramanyam.
+You can watch the ad here.
+###
+Senator Suhas Subramanyam is the Democratic nominee for Congress in Virginia’s 10th Congressional District to replace outgoing Congresswoman Jennifer Wexton.
+Suhas has dedicated his life to public service as a State Senator, Obama White House advisor, Capitol Hill staffer, and as a Loudoun volunteer firefighter/EMT.
+In Richmond, he has worked across the aisle to pass gun violence prevention bills, protect democracy, and defend abortion rights.
+He will continue to create bipartisan legislation in Congress.
+Suhas resides in Ashburn, Virginia (in VA-10) with his wife, Miranda, and their two daughters

@@ -1,0 +1,56 @@
+- U.S.
+Senator Alex Padilla
+- Congressman Brad Sherman
+- Congressman Jimmy Gomez
+- Governor Gavin Newsom
+- Lieutenant Governor Eleni Kounalakis
+- California Attorney General Rob Bonta
+- Secretary of State Shirley Weber
+- State Controller Betty Yee
+- State Treasurer Fiona Ma
+- State Insurance Commissioner Ricardo Lara
+- State Superintendent of Public Instruction Tony Thurmond
+- Los Angeles County Supervisor (Ret.) Zev Yaroslavsky
+- Los Angeles Mayor Eric Garcetti
+- Los Angeles City Controller Ron Galperin
+- Los Angeles City Controller (Ret.) Wendy Greuel
+- LAUSD Board Member Nick Melvoin
+- LAUSD Board Member Kelly Gonez
+- Los Angeles Community College District Trustee Andra Hoffman
+- LVUSD Member Kate Vadehra
+- LVUSD Board Member (Ret.) Mathy Wasserman
+- LVUSD Board Member (Ret.) Jill Gaines
+- Agoura Hills Mayor Deborah Klein Lopez
+- Calabasas Mayor Mary Sue Maurer
+- Hidden Hills Mayor Laura McCorkindale
+- Hidden Hills City Councilmember Stuart Siegel
+- Calabasas Mayor Pro Tem David Shapiro
+- Calabasas City Councilmember Alicia Weintraub
+- Calabasas City Councilmember Peter Kraut
+- California Democratic Party
+- Los Angeles County Democratic Party
+- Ventura County Democratic Party
+- Democratic Party of the San Fernando Valley (DPSFV)
+- San Fernando Valley Young Democrats (SFVYD)
+- North Valley Democratic Club Stonewall Democratic Club
+- Southern California Armenian Democrats (SCAD)
+- Democrats for Israel – Los Angeles (DFI – LA)
+- Sierra Club California
+- California Environmental Voters
+- Equality California
+- California State Retirees
+- California Labor Federation
+- Los Angeles County Federation of Labor, AFL-CIO
+- California Teachers Association (CTA)
+- California Federation of Teachers (CFT)
+- California Nurses Association (CNA)
+- California Professional Firefighters (CPF)
+- California Correctional Peace Officers Association
+- Service Employees International Union (SEIU) California
+- Armenian National Committee of America - Western Region
+- Planned Parenthood
+- Stonewall Young Democrats
+Copyright © 2023 Jesse Gabriel for Assembly 2026 - FPPC ID No. 1476845 All Rights Reserved.
+Contact Us.
+P.O.
+Box 260861 ∙ Encino, California 91426

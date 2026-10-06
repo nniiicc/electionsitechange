@@ -1,0 +1,28 @@
+Policy Platform rollout plus stops in Mohave, Pinal, and Maricopa Counties as GOP ticket picks up momentum and earned media
+MEDIA HIGHLIGHTS FROM THE CAMPAIGN TRAIL
+Monday, September 21
+Andy Biggs Defends School Choice and Arizona’s ESA Program– “I’ve always been a supporter of school choice and our ESA program to put parents and students in charge of their education.
+Katie Hobbs has tried to destroy school choice in Arizona and even vetoed a school choice tax credit to help families.Parents have a clear choice in this election.”
+KYMA- Arizona Farm Bureau supports Andy Biggs’s Colorado River Basin Water Security and Infrastructure Act: “Arizona Farm Bureau (AZFB) announced their support for the Colorado River Basin Water Security and Infrastructure Act.
+Rep.
+Andy Biggs (R-Ariz.) introduced the bill last week to help keep the Colorado River Basin from shrinking, and this will authorize $19 billion to increase the water supply available to the Basin.”
+Your Valley Independent- Rep.
+Lisa Fink Makes Case for Andy Biggs as Governor: “Arizona has a once-in-a-generation opportunity to elect a conservative governor who will fight for our values in the West Valley and deliver results for our entire state.
+Andy Biggs has shown he has the experience, the character and the vision to Restore the American Dream in our state and help Arizona reach its full potential.”
+Tuesday, September 22
+Biggs/Kerr Campaign Releases Policy Platform– “The Biggs/Kerr for Arizona campaign today released their Policy Platform for Arizona voters to see exactly how they’ll work to improve the lives of Arizonans from Day One of their administration.”
+Havasu News- Andy Biggs outlines Arizona governor agenda on taxes, school choice, and energy: “Biggs vowed to totally eliminate tax incentives for data centers, allow Arizona restaurants to serve raw milk, limit the number of short-term rentals that can be owned by investors, support more nuclear power in Arizona, and limit the use of food stamps to purchase “junk food” and soda.”
+ABC15- Biggs lays out campaign platform: “Congressman Andy Biggs, the Republican nominee for Arizona governor, has released a platform with policies on affordability, public safety, education, election laws and health.”
+12News- Rep.
+Biggs shares plan to fix education as Governor: “Early ballots go out in about two weeks and Andy Biggs, the Republican candidate for governor, made his pitch this morning.”
+KJZZ- Biggs says eliminating individual income tax will ultimately boost tax revenue for Arizona: “Biggs’ comments on Tuesday were part of a broader unveiling of what he intends to do if elected in his first 100 days in office.
+His other fiscal promises include eliminating tax breaks for data centers and altering the state’s universal private school voucher program to give more to certain students.”
+KTAR- Biggs lays out Day One Priorities: “Arizona Republican congressman and gubernatorial nominee Andy Biggs, joined by his running mate Sine Kerr, outlined his policy goals as the start of early voting nears with an attempt to focus on optimism.”
+Wednesday, September 23
+Arizona Loses 4,100 Jobs in August Under Katie Hobbs
+Sine Kerr Opens Up Cattle Auction at Marana Stockyards in Pinal County
+Andy Biggs Heads to Mohave County for Meet and Greet + Tour of Jerry Ambrose Veterans Council
+Thursday, September 24
+Townhall– The Sunshine Scandal Deserves Sunlight, Not a Sham Report: “Thanks in large part to media reporting, we now know that more than $580,000 in political contributions from Sunshine Residential Homes and individuals connected to the company benefited Katie Hobbs and Democratic organizations.
+Then, the Hobbs Administration approved rate increases that made Sunshine Arizona’s highest-paid group home provider per child.
+Internal messages uncovered over the past two years referenced Sunshine’s political connections and even discussed keeping its special arrangement quiet from competitors.”

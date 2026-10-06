@@ -1,0 +1,22 @@
+LET US KNOW WHAT ARE THE MOST IMPORTANT ISSUES TO YOU & YOUR FAMILY
+Please email your top four issues to wade4okcd2@yahoo.com
+- Clean water
+- Climate Change
+- Economy / Jobs
+- Freedom of the Press / Media
+- Gun Reform
+- Healthcare / Medicare and Medicaid
+- Inflation / Rising cost of living
+- Immigration
+- LGBTQ+ Rights
+- Prescription Drugs
+- Protecting our Democracy
+- Public Education
+- Reproductive Rights
+- Social Security
+- Student Loan Debt
+- Taxes
+- Tribal Sovereignty
+- Veterans
+- Voter Rights
+- Other

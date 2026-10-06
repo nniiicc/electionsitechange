@@ -1,0 +1,121 @@
+IMMIGRATION
+Mosaic Family Services
+Phone: (214) 821-5393
+Address: 12225 Greenville Avenue, Suite 600, Dallas, TX 75243
+Biography: Assists with domestic violence, human trafficking, and refugees who face persecution.
+The organization is based in North Texas and provides legal assistance to refugees and immigrants who are victims of human trafficking and is passionate about survivors of human rights abuses.
+Tahirih Justice Center
+Phone: (713) 496-0100
+Address: 1717 Saint James Place #450, Houston, TX 77056
+Biography: National nonprofit that offers legal and social services to immigrants dealing with gender-based violence.
+The organization is based in Houston, but can assist with services for those in DFW.
+RAICES (Refugees and Immigrant Center for Education and Legal Services)
+Phone: (833) 372-4237
+Address: 1420 W Mockingbird Ln #840 Dallas, TX 75247
+Biography: RAICES provides administrative and in-court legal services in supporting immigrants, refugees, and asylum-seeking communities.
+American Gateways
+Phone: (512) 478-0546
+Address: 314 E.
+Highland Mall Blvd Ste. 501 Austin, TX 78752
+Biography: Champions the dignity and human rights of immigrants, refugees and survivors of persecution, torture, conflict and human trafficking through exceptional immigration legal services at no or low cost, education and advocacy.
+HEALTHCARE
+Parkland Healthcare
+Phone: (214) 590-8000
+Address: 5200 Harry Hines Blvd, Dallas, TX 75235
+Biography: Provides medical care for all types of treatment regardless of legal status for Dallas County residents.
+This service operates for all Texans, even those who are fearful because of undocumented status.
+Los Barrios Unidos Community Clinic
+Phone: (214) 540-0300
+Address: 809 Singleton Blvd, Dallas, TX 75212
+Biography: Provides quality primary healthcare to families in need throughout North Texas on a sliding fee scale.
+They accept Medicaid, CHIP, and Medicare, and offer prenatal services.
+Bilingual services are also available, especially granting access for undocumented immigrants.
+2-1-1 Texas
+Phone: 2-1-1 / (877) 541-7905
+Biography: Call 2-1-1 for health-related information and referrals to local resources, including food, housing, employment, healthcare, and counseling.
+The call is confidential and free.
+Agape Clinic
+Phone: (972) 707-7782
+Address: 4104 Junius St, Dallas, TX 75246
+Biography: Offers affordable services to Dallas and Fort Worth patients of all ages, including medical and dental services, with programs to support long-term health and wellness
+Primary Care Clinic of Texas
+Phone: (214) 78-6005 / (817) 225-3246
+Address: 719 North Fielder Rd.
+Arlington, Texas 76012
+Biography: Provides quality personalized primary and rheumatology care at an affordable cost for uninsured or underinsured adults, 13 years and above without regard to income, residency, or background.
+EDUCATION
+Dallas Education Foundation
+Phone: (972) 925-3225
+Address: 9400 N Central Expy, Dallas, TX 75231
+Biography: The nonprofit philanthropic partner of Dallas ISD, it supports over 140,000 students through career-connected learning, college-access programs, early literacy initiatives, and efforts to bring books into students' homes.
+Teach for America Dallas-Fort Worth
+Phone: (214) 754-7104
+Address: 3000 Pegasus Park Dr, Dallas, TX 75247
+Biography: One of the largest TFA regions in the nation, it places members across 90 schools that assist more than 90,000 students, supported by a network of 1,400 local alumni.
+The group works with Dallas ISD, Fort Worth ISD, IDEA Tarrant County, Uplift Education, KIPP DFW, and Richardson ISD.
+Boys & Girls Clubs of Greater Dallas
+Phone: (214) 372-4661
+Address: 2907 Linfield Rd, Dallas, TX 75216
+Biography: For 60 years, Boys & Girls Clubs of Greater Dallas has opened doors of opportunity for young people who need us most.
+Established in 1965, our mission is to enable all youth to reach their full potential as productive, caring, responsible citizens.
+Every day, nearly 1,000 children and teens walk into one of our 11 Club locations and find a safe place to learn, grow, and belong.
+Big Thought
+Phone: (214) 520-0023
+Address: 1409 Botham Jean Blvd.
+Suite #1015, Dallas, TX 75215
+Biography: Big Thought is a national leader in arts education, out-of-school time programming, social emotional learning, youth justice, and learning systems.
+For over three decades, we’ve been empowering and equipping youth with the skills and tools to create their best lives and world.
+HOUSING
+Salvation Army of North Texas
+Phone: (817) 860-1836
+Address: 712 W.
+Abram St.
+Arlington, TX 76013
+Biography: Their Home Sweet Home Program helps prevent evictions through financial education, case management, and 1–6 months of financial assistance.
+They also operate the Catherine and Evangeline Booth Friendship Houses in Fort Worth, providing housing for low-income seniors 62 and older.
+Catholic Charities Fort Worth
+Phone: (817) 534-0814
+Address: 249 Thornhill Dr, Fort Worth, TX 76115
+Biography: Offers 39+ programs addressing housing insecurity, food insecurity, legal services, refugee resettlement, and more, serving a wide range of populations.
+Housing Assistance Office in Tarrant County: Their mission is to provide safe, decent and affordable housing for extremely low, very low and low-income families, and to manage resources effectively.
+https://www.tarrantcountytx.gov/en/housing-assistance-office.html
+Texas Housers: Texas Housers is a statewide advocacy organization that works with low-income communities in their efforts to live in dignified, safe, affordable homes in a quality neighborhood of their choosing.
+https://texashousers.org/general-resources/
+Texas Department of Housing and Community Affairs: Provides data on Vacancy Clearinghouse in the area that is needed, and is a tool to find affordable housing near their area.
+https://hrc-ic.tdhca.state.tx.us/hrc/VacancyClearinghouseSearch.m
+U.S.
+Department of Housing and Urban Development: Check if your apartment is covered under the CARES Act eviction moratorium, which provides a temporary moratorium on eviction filings as well as other protections for tenants in certain rental properties with federal assistance or federally related financing.
+https://www.hud.gov/hud-partners/multifamily-property-search
+List of Housing Authorities and their contact information in Texas: List of Housing Authorities and their contact information in Texas who can administer federal housing programs such as public housing and Housing Choice Vouchers (rental assistance). https://www.hud.gov/sites/dfiles/PIH/documents/PHA_Contact_Report_TX.pdf
+Housing and Urban Development (HUD) Exchange: List of Homelessness Assistance throughout Texas cities.
+Listed is their contact information, provider, and continuum of care (CoC).
+https://www.hudexchange.info/housing-and-homeless-assistance/homeless-help/?params=%7B%22limit%22%3A20%2C%22newSearch%22%3Atrue%2C%22homelessPOCsOnly%22%3Atrue%2C%22state%22%3A%22TX%22%7D##granteeSearch
+Help for Texans: Provides data on reduced rent apartments, eviction help, and other resources like legal aid.
+https://www.tdhca.texas.gov/help-for-texans
+Arlington Housing Authority: Local Resources for Rental Assistance.
+Public housing authorities may provide rental assistance through Section 8 Housing Choice Vouchers and/or public housing units. https://hrc-ic.tdhca.state.tx.us/hrc/GetDetails.m?assistanceType=TBRA¤tOrgId=18&city=Fort%20Worth&county=
+Arlington Urban Ministries: Provides financial assistance for utilities, rent and food for those in crisis in Arlington.
+https://arlingtonurbanministries.org/
+211 Texas Health and Human Services: An introduction to the full range of subsidized housing options available across the state of Texas, and is intended to assist in navigating housing options through 2-1-1.
+https://www.211texas.org/housing-choices-finding-a-place-to-live/
+FOOD ASSISTANCE
+Inspired Vision Compassion Center
+Phone: (214) 484-6393
+Address: 2019 N Masters Dr, Dallas, TX 75217
+Biography: Provides access to food, clothing, furniture, hygiene products, and other basic needs in a grocery store format, open Monday–Friday with no appointment required.
+MLK Fresh Produce Distribution Center
+Phone: (214) 670-8418
+Address: 2922 Martin Luther King Jr Blvd, Dallas, TX 75215
+Biography: Located in South Dallas, it distributes free fresh fruits, vegetables, and dry goods to the community while supplies last.
+LEGAL AID
+Inspired Vision Compassion Center
+Address: 2019 N Masters Dr, Dallas, TX 75217
+Biography: Our mission is to change the mental, emotional, and educational brokenness in our community and stop the cycle of poverty in the City of Dallas, and surrounding areas.
+We strive to be a transformative organization that helps reshape our community into one that rises above the inequities that have trapped families in poverty for generations.
+Legal Aid of Northwest Texas
+Muslim Legal Fund of America
+Address: 100 N Central Expy #1010, Richardson, TX 75080
+Phone: (972) 331-9021
+Biography: a 501(c)(3) non-profit organization dedicated to defending the civil rights and liberties of American Muslims.
+It acts as a legal defense fund focused on combating injustice, unfair scrutiny, and government overreach against Muslims in American courtrooms, prisons, and communities
+Texas Legal Services Center

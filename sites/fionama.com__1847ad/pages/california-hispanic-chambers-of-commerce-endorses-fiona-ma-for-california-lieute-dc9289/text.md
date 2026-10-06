@@ -1,0 +1,3 @@
+Fiona Ma began her public service as President of the Asian Business Association and as a CPA working with small businesses, so she is proud to earn the endorsement of the California Hispanic Chambers of Commerce (CHCC), California’s statewide Hispanic business organization.
+Through a network of more than 125 local Hispanic chambers and business associations, CHCC represents the interests of more than 815,000 Hispanic-owned businesses across California.
+Fiona has spent her career supporting entrepreneurs and small businesses, and she looks forward to continuing that work as California’s next Lieutenant Governor.

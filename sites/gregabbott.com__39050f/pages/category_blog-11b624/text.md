@@ -1,0 +1,19 @@
+It’s back-to-school time in Texas, and kids are already benefiting from Texas’ historic rollout of Texas Education Freedom Accounts (TEFA).
+According to the Texas Comptroller of Public Accounts, over 85,000 students received TEFA funds this year, 80% of whom come from...
+In Texas, opportunity abounds.
+For Houston native Violeta Nuñez, such an opportunity presented itself after leaving the U.S.
+Air Force — when she took a leap of faith and used the GI Bill to go to welding school.
+Nuñez joined the Air Force in 2001.
+After...
+Texas didn’t become the powerhouse it is today by dawdling about; real, commonsense solutions that prioritize Texans’ quality of life have given the Lone Star State its competitive edge.
+Governor Greg Abbott’s work never stops to ensure that Texas remains the greatest...
+Create Our Ad.
+Keep Texas Red.
+Do you have what it takes to make the next great campaign ad?
+Submit your’s here.
+We’re inviting supporters to create and submit original campaign ads or videos promoting Governor Abbott, conservative values, and the future of...
+Teachers play a vital role in inspiring the next generation of Texas leaders.
+That’s why Governor Greg Abbott has made it a top priority to ensure that those exemplary educators making a profound investment in the future of the Lone Star State are rewarded properly....
+Governor Abbott — and his five-ton friend — call on the delegates representing millions of Republicans across the state to unite to keep Texas red.
+This is a pivotal moment — not only for the future of the Republican Party but for the Texas of tomorrow.
+Socialist...

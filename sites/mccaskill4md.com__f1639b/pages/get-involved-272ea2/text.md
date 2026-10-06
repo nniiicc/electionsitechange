@@ -1,0 +1,19 @@
+top of page
+Here's an opportunity to do something that will impact the community.
+Help Aletheia continue to make a difference.
+There are many ways to volunteer, from walking door to door, sign waving, joining me at a corner conversation, to hosting fundraising events.
+Let us know how you can help:
+VOLUNTEER
+Our strength is amplified with collective action, and you can help make a difference with Delegate Aletheia McCaskill right now!
+The support we receive is a huge driver of the good work we do in addressing some of our district's most challenging problems.
+Get in touch today and join our volunteer community in making a lasting impact.
+HOST A HOUSE PARTY or JOIN ME IN A CORNER CONVERSATION
+A house party is a great way to raise consciousness about the issues that are important to us all.
+Here we can discuss your cares in a more intimate setting.
+Let's talk about issues most pressing to you.
+MAKE A DONATION
+Every person has the chance to make a change for good — no matter how big or small.
+Whatever amount you can give, or time you are willing to dedicate, know that your contribution makes a difference in this campaign.
+Your donation, together with those of our other supporters, brings us ever closer to our goals.
+TO FIND OUT MORE, FILL THE FORM BELOW:
+bottom of page

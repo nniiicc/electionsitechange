@@ -1,0 +1,29 @@
+NEWS
+From NFL Kicker to Congressional Candidate in Arizona | Jay Feely on 13th & Park
+Now he is running for Congress in Arizona's 1st Congressional District, one of the most competitive seats in the country.
+On 13th and Park, Feely sits down with Adam Goodman for a wide-ranging conversation about what a life lived under pressure actually teaches you about leadership.
+How CD1 candidate Jay Feely plans to work across the aisle in Congress
+Jay Feely, a candidate for Arizona's 1st Congressional District, joined The Mike Broomhead Show to talk about how he plans to reach Independent voters in the district.
+From locker rooms to Congress: Jay Feely latest athlete seeking to take lessons in leadership to Capitol Hill
+The former NFL kicker says handling pressure and failure on the field prepared him for the political arena
+Trump-Backed Former NFL Kicker Jay Feely Will Face Former New York Jets Doctor in Arizona Primary
+Feely is running for a House seat against Democratic nominee Amish Shah, a physician who worked for the New York Jets when Feely played for the team
+Former Jets colleagues Feely and Shah to face off in Arizona election
+Two former NFL colleagues will be facing off in the political arena.
+Former NFL player gets funding from sports notables, including Roger Goodell, for AZ primary race
+Jay Feely defeats two opponents in the race covering parts of Phoenix and most of Scottsdale.
+Amish Shah leads Dems in CD 1 while Jay Feely wins easily for GOP
+Former Arizona Cardinals kicker Jay Feely won the Republican nomination for Arizona’s 1st Congressional District after early results gave him nearly half the vote.
+Ex-NFL star backed by Trump wins battleground state primary: 'True America First Conservative'
+Ex-NFL kicker Jay Feely wins primary race in bid to replace outgoing Rep David Schweikert
+Amish Shah wins Democratic primary for CD1, will face ex-Cardinals kicker Jay Feely
+Feely easily won the Republican primary.
+The race was called minutes after the first batch of results were released.
+NFL kicker's Trump and Goodell-backed Congress bid heads to primary: What to know
+From the gridiron to the United States Capitol?
+That's what former NFL kicker Jay Feely hopes is in his future this November.
+Arizona Power Rankings show which figures have highest profile in state politics
+Arizona Power Rankings rates the 50 most powerful people in state politics.
+Find out who tops the list.
+EXCLUSIVE: New poll shows strong support for Jay Feely in Arizona’s 1st District
+Jay Feely starts off in a strong position in both a primary and general election in the swing-y 1st District of Arizona, according to a new poll obtained exclusively by the Washington Reporter.

@@ -1,0 +1,8 @@
+| | Priorities Hearing from constituents is the most important part of my job as your representative.
+When it comes time to vote on legislation, I consider all constituent input I have received so I can vote in the best interest of Wisconsinites.
+Thank you to everyone who has taken the time to reach out to me and fill out surveys my office sends out.
+I am grateful for the opportunity to be your voice in Madison, and I appreciate hearing from you.
+This has been a very busy session for me.
+During the session, I: held 25 public hearings as Chair of the Assembly Health Committee attended over 55 additional public hearings for my other committee assignments received over 3,000 contacts from constituents Provided the opportunity for over 20,000 of my constituency to give their input on the state’s biennial budget.
+Sent out over 50 e-update newsletters, keeping you in the district informed on current legislation Drove over 25,000 miles around the District and down to Madison Co-sponsored over 100 pieces of legislation Authored 25 bills |
+| Session Highlights Some highlights from the most recent legislative session include: Lab-grown meat bill received hearing in Assembly Kaitie Leising Memorial Highway Transparency of DNR funds was signed by Governor AB 1076 -informed consent for medical research AB 1033 -digital interactive media tax credit received hearing in both assembly and senate AB 1008 -reducing or eliminating coinsurance and deductibles for health care expenses AB 860 -Farm Bureau Health insurance bill received hearing in both assembly and senate Chippewa Valley Refugee resettlement and assistance bill | |

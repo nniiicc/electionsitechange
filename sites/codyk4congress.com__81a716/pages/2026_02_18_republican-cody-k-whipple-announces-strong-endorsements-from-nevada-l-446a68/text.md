@@ -1,0 +1,23 @@
+HIKO, NV — Cody K Whipple, Republican candidate for Congress, today announced the endorsement of a respected group of retired Nevada law enforcement leaders who are uniting behind his commitment to public safety and support for those who serve.
+The following retired law enforcement professionals have endorsed Whipple’s campaign:
+- Kerry Lee, Lincoln County Sheriff (ret.)
+- Ken Elgan, Esmeralda County Sheriff (ret.)
+- Dahl Bradfield, Lincoln County Sheriff (ret.)
+- Joe Szalay, Mesquite Deputy Chief (ret.)
+- Frank Jarvis, Nye County Sheriff’s Lieutenant (ret.)
+These leaders cite Whipple’s longstanding work with law enforcement, his understanding of the challenges facing officers, and his commitment to strengthening public safety policies.
+Dahl Bradfield, Retired Lincoln County Sheriff, said:
+“I spent decades in uniform, and I know what real public safety leadership looks like.
+Cody K Whipple has consistently worked with law enforcement through his business to provide the tools and resources we need in Nevada.
+Cody understands the challenges we face on the ground and will support policies that strengthen our ability to put the bad guys behind bars and keep our communities safe.
+He respects the badge and those who wear it.”
+Joe Szalay, Retired Mesquite Deputy Chief, added:
+“Public safety requires leadership that values accountability, resources, and partnership with local agencies.
+Cody K Whipple has demonstrated a clear commitment to working alongside law enforcement for decades.
+He understands that backing our officers also means investing in the tools and policies that prevent crime and protect families.
+I trust him to prioritize public safety in Congress.”
+Cody K Whipple emphasized that public safety remains a top priority for Nevada families.
+“Our law enforcement officers put their lives on the line every day to protect our communities,” said Cody K Whipple.
+“I am honored to have the support of these respected leaders.
+In Congress, I will always stand with those who wear the badge and work to ensure they have the resources, training, and support they need to keep Nevada safe.”
+The campaign noted that these endorsements reflect growing momentum and broad support across Nevada’s 4th District and the local law enforcement community.

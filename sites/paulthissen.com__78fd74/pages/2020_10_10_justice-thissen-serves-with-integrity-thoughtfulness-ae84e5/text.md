@@ -1,0 +1,3 @@
+Oct 10, 2020 | News
+Read full article here:
+https://www.mankatofreepress.com/opinion/letters_to_the_editor/justice-thissen-serves-with-integrity-thoughtfulness/article_1e5b7e76-073e-11eb-a90e-1799c28ea2ce.html

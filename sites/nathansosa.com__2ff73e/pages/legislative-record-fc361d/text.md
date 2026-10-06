@@ -1,0 +1,35 @@
+Legislative Record
+Over the past few legislative sessions, I worked on numerous pieces of legislation that passed.
+2026
+Bills I Championed
+- HB4116: stops predatory loans by closing a federal loophole that out-of-state lenders were using to charge Oregon consumers triple-digit interest, in violation of our state's interest rate cap.
+- HB4024: ends deceptive and fraudulent sales tactics in regard to event tickets by requiring the sellers to actually possess the tickets before listing them for sale.
+2025
+Bills I Championed
+- HB3178: cracks down on bait-and-switch financing tactics used by automotive dealers.
+- HB3179, the FAIR Energy Act: limits the rise of residential gas and electrical bills by overhauling the rate-setting process to prioritize the interests of consumers rather than utility investors.
+- HB3187: addresses age discrimination in the hiring process by prohibiting an employer from asking an applicant’s date of birth or date of graduation.
+- HB3865, the Telemarketing Modernization Act: adds text messaging to existing robocall and telemarketing laws, prohibits solicitations late in the evening, and bans solicitors from contacting someone more than three times in 24 hours.
+- SB430: eliminates hidden “junk fees” online by requiring vendors to list the full price of goods and services.
+- SB605: removes medical debt from consumer credit reports.
+Community Investments
+- Washington County - $1.25 million for the design and planning of a new courthouse.
+- Small Businesses: $4.8 million for technical assistance grants.
+- Higher Education: $314,806 for work study programs to connect college students with local non-profits.
+2024
+Bills I Championed
+- SB 1595, the Family Financial Protection Act: updates and overhauls our debt collection laws to provide more protection for those struggling to get back on their feet while also cracking down on illegal debt collection tactics.
+- HB 4154: cultivates and expands our semiconductor workforce by funding tech-related career pathway programs from elementary school through college.
+- HB 4041 (funded by SB 5701): replenishes the Economic Equity Investment Program which helps people in economically disadvantaged communities buy a home, start a business, or grow an existing business.
+Community Investments
+- Hillsboro Baseball Stadium - $15 million to the City of Hillsboro to help construct a new baseball stadium that hosts the Hillsboro Hops.
+- Washington County's Center for Addictions Triage and Treatment (CATT) – an additional $8.9 million to Washington County to expand addiction treatment services.
+2023
+Bills I Championed
+- HB 2802: establishes pilot work-study programs at Portland State University and Eastern Oregon University where students receive 20% off their tuition for every semester they work at a small, non-profit in their community.
+- HB 2805: strengthens and updates our public meetings laws to promote governmental transparency while requiring training for most elected officials.
+- HB 2806: allows public bodies to discuss cybersecurity and safety protocols in private “executive sessions."
+Community Investments
+- Children’s Cancer Therapy Development Institute - $1 million to help with the development of life-saving treatments for rare forms of childhood cancer.
+- Washington County's Center for Addictions Triage and Treatment (CATT) - $5 million for the addition of 86 treatment beds along with peer mentoring and outpatient care.
+- Oregon Food Bank for Washington County - $1.6 million to upgrade facilities and expand the purchase of locally-grown foods.

@@ -1,0 +1,18 @@
+Published in the Victor Valley Daily Press: http://www.vvdailypress.com/news/20180812/no-dmv-audit-disappoints-obernolte-who-questions-funding-uses
+The DMV field office in Victorville is one of 60 statewide now open on Saturdays as officials seek a remedy to frustratingly long wait times seemingly hitting a crescendo in recent months.
+Assemblyman Jay Obernolte, the Republican lawmaker who represents the High Desert, recently said the problem must be fixed “immediately.”
+Obernolte, a member of the Joint Legislative Audit Committee (JLAC), backed a proposed audit into the DMV to identify potential solutions, saying it shouldn’t be viewed, per se, as a punitive measure.
+But that plan was killed by three Democratic committee members when they did not vote.
+Obernolte on Wednesday via Twitter said he was “extremely disappointed” that the audit was rejected.
+That same day, lawmakers approved $16.6 million to the DMV to hire 230 new employees at field offices across the state in hopes of alleviating congestion.
+During a committee hearing on Aug. 7 to consider the audit, DMV Director Jean Shiomoto told lawmakers wait times spiked several months ago as Californians update their licenses to meet new federal security standards known as Real ID.
+The agency underestimated how long it would take to explain the new requirements to customers and ensure they have necessary documents, Shiomoto said.
+Obernolte pointed to $70 million allocated to the department last year to prepare for the increased workload expected specifically due to Real ID customers.
+The funds were meant to hire hundreds of new workers and launch Saturday office hours in 60 offices across California beginning in January.
+But Shiomoto acknowledged Wednesday, during the second day of committee hearings, that Saturday operations were stopped early in the year when officials did not see the demand and only in June did they return to 40 offices and then all 60 just this month.
+“We recognize that we should not have reduced those hours or stopped those hours,” Shiomoto told Obernolte in an answer to his inquiry, as she also pledged to improve services.
+The Assemblyman said he found the stoppage “a little disturbing” because it appeared to conflict with a purpose of the $70 million allocation, which has since been depleted, according to Shiomoto, and diverted to fund overtime pay for DMV employees.
+“Maybe that would have made this problem a little bit less severe,” Obernolte said. ”(Californians) are coloring their perceptions of our entire state government by their experiences at the DMV and right now those experiences are not giving them a very positive view of the way that their government is serving them.”
+— The Associated Press contributed to this report.
+Shea Johnson can be reached at 760-955-5368 or SJohnson@VVDailyPress.com.
+Follow him on Twitter at @DP_Shea.

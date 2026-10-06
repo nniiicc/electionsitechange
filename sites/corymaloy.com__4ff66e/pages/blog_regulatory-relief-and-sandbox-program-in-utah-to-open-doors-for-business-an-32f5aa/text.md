@@ -1,0 +1,1 @@
+Utah’s regulatory relief and sandbox bill will greatly enhance economic development while opening doors and new opportunities for businesses and entrepreneurs. https://www.msn.com/en-us/money/smallbusiness/will-the-next-uber-or-airbnb-want-to-launch-in-utah-thanks-to-this-new-business-sandbox/ar-BB1du2pL

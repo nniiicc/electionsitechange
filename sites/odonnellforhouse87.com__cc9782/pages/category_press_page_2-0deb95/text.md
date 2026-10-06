@@ -1,0 +1,3 @@
+by amandac | Dec 22, 2025 | Press
+A southeast Iowa man announced his candidacy for the Iowa House.
+Tom O’Donnell, a resident of Keosauqua, will be running for the House seat in District 87 which covers Van Buren County and parts of Henry and Jefferson counties, including Mount Pleasant and Fairfield....

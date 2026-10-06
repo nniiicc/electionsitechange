@@ -1,0 +1,58 @@
+Jones Bringing Resources For Our Community
+Since day one of serving as your State Representative, securing resources for our community has always been a priority.
+Generating employment opportunities, ensuring our children have access to education, and financing our infrastructure is a commitment to you.
+Throughout the 29th legislative district, we have delivered the necessary dollars to sustain, enhance and support the creation of innovative programs to our various local governments, schools, and social services.
+It is an honor to serve as your State Representative and I will always deliver results.
+Below is a summary of resources secured for the 29th district.
+South Suburban College
+$3.1 million Capital bond refinancing project
+$225,000 IL Community College Board grant award (2011)
+$225,000 IL Community College Board grant award (2013)
+$437,000 reapportionment of funds
+$1.5 million for new diversity program
+Thornton Township
+$2.1 million Capital bond refinancing project
+$2 Million Dollars for STEM program
+500,000 for Food Pantry expansion
+$2 Million for afterschool funding
+Prairie State/Governor’s State
+$3.1 million Capital bond refinancing project
+$225,000 IL Community College Board grant award (2011)
+$225,000 IL Community College Board grant award (2013)
+$437,000 reapportionment of funds
+$58 Million for new Allied health center
+$1.5 million for new diversity program
+Social Service Agencies
+500,000 to Support Group
+$500,000 to Aids Foundation of Chicago
+$500,000 to Chicago Homeless coalition
+$7.1 million to TCA Health
+$14.1 Million to Larger than life organization
+SD205, SD 215, SD149
+$1.8 Million to TF North for property tax relief
+$2.3 Million to SD 205
+$1.8 Million to SD205 for afterschool programming
+$1.3 Million to Ford Heights SD 169 for afterschool
+$500,000 to Ford Heights for Boiler construction
+Local Municipalities
+$2.8 Million to Dolton Park District for new Banquet hall
+$5 Million Dollars to Calumet City for street repair (2017)
+$200,000 Glenwood
+$1.7 Million to Calumet City for Road Repair
+$250,000 to Roseland Youth Baseball
+$1 Million to Calumet Memorial Park District
+$500,000 to Support Group
+$2 Million to Thornton Township for STEM program
+$200,000 Village of Dolton
+$25,000 computer grant to village of Ford Heights
+$175,000 grant to Thornton Township
+$2.1 million for IDOT road improvements
+$250,000 to Village of South Holland Veterans Memorial Park reconstruction
+$175,000 to Village of Lynwood for Emergency backup power generator for the 911 system
+$107,000 to Village of Burnham for general infrastructure improvements on 143rd Street from Marquette Avenue to Manistee Avenue.
+IL Transportation Enhancement Program grant for $175,000 to Village of Crete
+IL Transportation Enhancement Program grant for $175,000 grant to Village of Dolton
+IL Transportation Enhancement Program grant for $175,000 to Village of Calumet City
+$75,000 IDNR grant to Village of Crete for park improvements.
+$750,000 IDNR grant to Calumet City for park improvements.
+$444, 968 grant from the Capital Development Board (CDB) for the construction of a one-story, 4-classroom addition at Wolcott Elementary School.

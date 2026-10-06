@@ -1,0 +1,11 @@
+Community Resources
+- Summer Meals for Kids
+- Find a Food Pantry Near You
+- Madison Elementary Feeding Program (must be logged into ParentSquare)
+- Nutrition Assistance / SNAP
+- Arizona is Home (Down Payment Assistance)
+- City of Phoenix Housing Communities
+- Find Lost Pets
+- Eviction Resources
+- APS Assistance Programs (for APS customers)
+- LIHEAP / Power AZ (all utilities)

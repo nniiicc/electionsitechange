@@ -1,0 +1,15 @@
+Priorities page 2.
+4.
+Veterans & Seniors
+Increase support and funding for VFWs and veteran service organizations
+Expand senior services, including transportation, home‑care support, and community programs
+5.
+Cannabis Policy & Public Safety
+Repeal or reduce the marijuana excise tax that is hurting legal businesses
+Work with credit unions to expand safe banking access for cannabis businesses
+Support policies that reduce cash‑only operations and improve safety for workers and customers
+6.
+Jobs, Workforce, and Economic Mobility
+Partner with nonprofits and workforce organizations to help people get good‑paying jobs
+Encourage companies to offer sign‑on bonuses and training incentives
+Support small businesses and reduce barriers that make it hard for them to grow

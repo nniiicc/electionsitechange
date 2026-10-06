@@ -1,0 +1,15 @@
+2026 Endorsements
+- SEIU 200UNITED
+- NYS AFL-CIO
+- NYS Federation of Democratic Women
+- Public Employees Federation
+- New York State Nurses Association
+- New York State United Teachers
+- Planned Parenthood Empire State Votes PAC
+- Family Planning Action Fund of South Central NY
+- Eleanor's Legacy
+- Delaware Democratic Committee
+- Sullivan County Democratic Committee
+- Ulster County Democratic Committee
+- New York Working Families Party
+- 2024 Endorsements

@@ -1,0 +1,6 @@
+Jan 23, 2020
+Article Link: “Idaho legislators introduce ‘Clean Slate’ bill” Excerpt: “The idea here is to let people get their lives back on track, so they can get jobs and get housing and move forward in a constructive way,” Rep.
+Rubel...
+Mar 24, 2019
+Date: May 6, 2019 Time: 6:00 PM – 9:00 PM Place: Locavore (3110 S Bown Way – Boise, Idaho 83706) Facebook Event Page Join Idaho District 18 Democrats for the ever-popular Wine Event on Monday, May 6, 2019 at Locavore (3110 S.
+Bown Way at Bown Crossing)....

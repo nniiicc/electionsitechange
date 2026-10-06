@@ -1,0 +1,14 @@
+Our nation faces critical challenges.
+The key to rising to the challenges before us is to focus on priorities like keeping our families safe and putting the American Dream back on track.
+In Congress, I am fighting to protect our families and communities from threats here and abroad.
+In response to the COVID-19 pandemic, I introduced the bipartisan Never Again International Outbreak Prevention Act to provide accountability with respect to international reporting and monitoring of outbreaks of novel viruses and diseases, sanction bad actors, and review the actions of the World Health Organization (WHO).
+In response to the drug epidemic in our country, I authored the INTERDICT Act signed into law by the President, providing greater resources to law enforcement to stop the flow of deadly fentanyl from Mexico into communities such as our own.
+I have also supported $25 billion in securing the border through a physical barrier, aerial surveillance, and an enhanced human intelligence program.
+As a country that values the rule of law, I have voted for tougher penalties for repeat criminal illegal immigrants and illegal immigrants who are members of a criminal gang and voted to crackdown on sanctuary cities.
+In Congress, I am also fighting for enhanced criminal penalties for stalkers of minors and an evaluation of Federal, State, and local efforts to enforce laws relating to stalking and identify elements of these enforcement efforts that constitute best practices.
+My Combat Online Predators Act, would ensure those who target our children receive the punishment they deserve.
+Through my work on the Foreign Affairs Committee, I have advocated for standing up for American values and our allies abroad.
+I have supported tougher sanctions on Iran’s illegal ballistic missile program as well as standing up to Iranian aggression targeting Israel and all of our allies in the Middle East.
+I also have opposed the one-sided resolutions targeting our ally, Israel at the United Nations, as well as support efforts to achieve justice for American victims of Palestinian terrorism.
+As Co-Chair of the Congressional Ukraine Caucus, I have cosponsored numerous measures standing up to Russian aggression in Europe against our allies.
+Furthermore, I have supported tougher sanctions on North Korea to cut off the flow of money to this human rights violator and state sponsor of terrorism, and holding the Chinese Communist Party accountable for its role in the COVID-19 pandemic, aggressive territorial actions against its neighbors, and human rights abuses.

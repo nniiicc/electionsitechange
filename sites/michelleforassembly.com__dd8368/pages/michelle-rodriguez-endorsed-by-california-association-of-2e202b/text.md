@@ -1,0 +1,1 @@
+(Pomona, CA) The California Association of Highway Patrolmen, representing the men and women officers keeping the people of our state safe, announced today that they have endorsed Michelle Rodriguez for the 53rd State Assembly seat, on the border of Los Angeles and San Bernardino Counties.

@@ -1,0 +1,23 @@
+FOR IMMEDIATE RELEASE
+June 2, 2025
+Contact: press@jjr.vote, 786-683-8781
+Vows to take on corruption and high prices, and serve as the People’s Lawyer
+MIAMI, FL.- Today, workers’ rights attorney and former State Senator Jose Javier Rodriguez officially launched his campaign for Florida Attorney General, committing to fight corruption and special interests, and protect everyday Floridians from fraud and high prices.
+A lifelong champion for working families, Rodriguez has spent his career standing up to powerful interests and holding bad actors accountable.
+“For decades, powerful interests have rigged the system to serve themselves while everyday working Floridians are left paying more but getting less,” said Jose Javier Rodriguez.
+“I’m running to be the People’s Lawyer to keep us safe, root out corruption, and go after those who make backroom deals in Tallahassee to pass costs onto us; I’m running to give families, workers and homeowners some relief.”
+I’ve never been afraid to take on tough fights, whether it’s holding powerful corporations accountable, challenging broken systems, or defending everyday Floridians.
+The law should protect people, not the powerful.
+So let me be clear: as the People’s Lawyer, if you’re dangerous or scamming Floridians, no matter how powerful you are, I’m coming for you.”
+Rodríguez brings a personal commitment to justice and American democracy.
+His father left communism in Cuba.
+Growing up in Florida, faith and community were central to the way his mother and father raised him -- and these guided his life and career.
+As an attorney, he fought for workers and homeowners in the courtroom; and as State Senator, he fought for everyday families in Tallahassee.
+He stood up to powerful interests, battling for-profit colleges that preyed on students and condominium associations that took advantage of homeowners.
+Most recently, as Assistant Secretary at the U.S.
+Department of Labor, he worked to expand access to good-paying jobs.
+His announcement comes as the Florida Republican Attorney General faces serious accusations of involvement in money laundering and wire fraud, and could be held in contempt for defying a court order.
+As Attorney General, José Javier Rodríguez will restore integrity to the office and use its full power to hold powerful interests accountable, defend our Constitution, protect vulnerable communities, and ensure justice works for everyone.
+Watch launch video here: José Javier Rodríguez for Florida Attorney General
+More information about Jose Javier Rodriguez can be found on his website: https://www.jjr.vote/
+###

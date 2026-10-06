@@ -1,0 +1,33 @@
+Pooja’s Priorities
+Fully fund public education.
+1
+- Fully fund neighborhood schools to stop closures and overcrowding
+- Fix the broken recapture system that drains money from our classrooms
+- Raise teacher pay and invest in counselors, nurses, and special education
+- Keep politics out of the classroom and let educators do their jobs
+Family-first neighborhood safety.
+2
+- Crack down on illegal street racing and reckless driving
+- Work with TXDot to improve school zones, crosswalks, and intersection safety
+- Support mental health crisis teams to respond before emergencies escalate
+- Pass commonsense gun safety laws: universal background checks, safe storage, and red flag laws
+- Keep guns out of schools and out of the hands of domestic abusers
+Your right to timely healthcare.
+3
+- Expand access to medical providers to reduce wait times
+- Protect reproductive rights, including IVF, abortion, and contraception
+- Expand Medicaid and improve maternal and postpartum care
+- Increase access to mental health and preventive services
+Tackling the climate crisis.
+4
+- Invest in grid infrastructure and reliability
+- Lower energy bills by increasing oversight and reducing blackouts
+- Fund wildfire prevention and mitigation efforts
+- Hold polluters accountable and support clean energy solutions
+- Confront water scarcity head-on by protecting and preserving Texas water supplies
+- Strengthen drought planning, conservation, and water infrastructure
+Defend our democracy & local control.
+5
+- Expand early voting and protect vote-by-mail
+- End gerrymandering and restore fair representation
+- Block state takeovers of local elections and school boards

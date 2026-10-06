@@ -1,0 +1,76 @@
+Respaldos
+Conoce quién apoya a Alex
+Alex Kolodin cuenta con el respaldo
+de Turning Point Action de Charlie Kirk
+Funcionarios electorales
+Secretario de Estado de Wyoming Chuck Grey
+Registrador del Condado de Maricopa Justin Heap
+Registrador del Condado de Yuma David Lara
+Registrador del Condado de Navajo David Marshall
+Registrador Adjunto del Condado de Navajo James Vance
+Funcionarios federales
+Congresista por el CD2 de Arizona Eli Crane
+Congresista por el CD8 de Arizona Abe Hamadeh
+Congresista por el CD9 de Arizona Paul Gosar
+Legisladores estatales
+Representante del LD3 Cody Reim
+Senador del LD3 John Kavanagh
+Representante del LD10 Justin Olson
+Representante del LD14 Laurin Hendrix
+Representante del LD14 Khyl Powell
+Senador del LD15 Jake Hoffman
+Representante del LD16 Teresa Martinez
+Representante del LD17 Rachel Keshel
+Representante del LD27 Lisa Fink
+Representante del LD29 John Gillette
+Exrepresentante del LD3 Joseph Chaplik
+Exrepresentante del LD13 Liz Harris
+Exrepresentante del LD10 Barbara Parker
+Exsenadora del LD15 Nancy Barto
+Exrepresentante del LD17 Cory McGarr
+Exsenadora del LD17 Justine Wadsack
+Funcionarios de condados y municipios
+Alcaldesa de Scottsdale Lisa Borowsky
+Concejala de Scottsdale Jan Dubauskas
+Concejal de Scottsdale Adam Kwasman
+Concejal de Scottsdale Barry Graham
+Alcalde de Payson Steve Otto
+Alcalde de Fountain Hills Gerry Friedel
+Concejal de Fountain Hills Allen Skillicorn
+Exconcejal de Phoenix Sal DiCiccio
+Superintendente del Condado de Maricopa Shelli Boggs
+Fiscal del Condado de Pinal Brad Miller
+Presidenta de la Junta Escolar de Peoria Heather Rooks
+Activistas comunitarios
+Fundadora de Election Integrity Network Cleta Mitchell
+Candidato republicano a Secretario de Estado en 2018 Steve Gaynor
+Expresidente estatal del Partido Libertario de Arizona Michael Kielsky: "Alex is not only a valued friend, trusted colleague, but an advocate for Liberty, individual rights, and fair elections.
+I endorse him and his candidacy without reservation."
+Fundador de Early Vote Action Scott Presler
+Fundadora de Health Freedom Defense Fund Leslie Manookian
+Locutor de radio Garrett Lewis
+Cofundadora de We The People USA Alliance Shelby Busch
+Presidenta del Partido Republicano del Condado de Pima Kathleen Winn
+Fundadora de EZAZ Merissa Caldwell
+Copresidente de Arizona Young Republicans Tex Polesky
+Presidente de Arizona Tea Party Dan Farley
+Presidente de NicoPAC Nico Delgado
+Miembro general del CD5 Trevor Cook
+Organizaciones
+Turning Point Action
+Maricopa County Colleges Police Officers Association
+Arizona Freedom Club PAC
+Stand For Health Freedom
+Latinos United for Conservative Action
+Arizona Fraternal Order of Police
+America First Insight
+Republicans for National Renewal
+Crimson Saguaro
+Conservative Coalition of America
+Cochise County Conservatives
+Republican Liberty Caucus
+iVote Arizona!
+LD3 Republican Committee
+LD4 Republican Committee
+LD15 Republican Committee
+Politics Uncorked

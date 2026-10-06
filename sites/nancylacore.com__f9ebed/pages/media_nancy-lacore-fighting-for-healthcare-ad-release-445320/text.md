@@ -1,0 +1,27 @@
+Rear Admiral (Ret.) Nancy Lacore Centers Family Health Care Struggle in New Ad on Costs, Corruption
+Press Release | September 22, 2026CONTACT:
+Kaylie Haberstroh | kaylie@nancylacore.com
+Mount Pleasant, SC – Today, Nancy Lacore, candidate for Congress in SC-01, released her newest general election ad, ‘Fighting for Healthcare,’ which centers her family’s experience navigating a costly healthcare system amid her daughter’s battle with cancer to highlight the affordable healthcare crisis facing hard working families across South Carolina.
+The spot is the second in a seven-figure ad run announced earlier this month, and will air on television and digital platforms throughout South Carolina’s first district in the weeks leading up to Election Day.
+‘Fighting for Healthcare’ shares the story of Nancy’s daughter’s battle with cancer, which brought Nancy home from her deployment in Afghanistan to be with her family.
+In the ad, the mom of six calls attention to the fact that while her family was fortunate enough to have the resources to address her daughter’s diagnosis, rising costs are increasingly a barrier for South Carolinians to access the treatment and care they need to stay healthy – a problem that corrupt politicians in Washington are incentivized against fixing.
+Nancy’s face-to-face encounter with a broken system has made the fight for quality, affordable healthcare personal, making her the candidate who will push back against party politics, stand up to price-gouging drug and insurance companies, and work with the urgency necessary to lower the cost of care for every family in SC-01.
+Nancy’s decades-long record of servant leadership as a Navy Admiral, paired with a firsthand perspective on and pragmatic approach to the issues facing South Carolina families, has helped earn her bipartisan support from over 40 local and national leaders and organizations.
+With six weeks until the election, Nancy remains poised as a competitive Democratic candidate ready to shake up Washington politics as usual and flip SC-01 blue.
+‘Fighting for Healthcare’ will air on television and digital platforms beginning today, September 22, 2026.
+AD TRANSCRIPT:
+I’m Nancy Lacore.
+Each day I was deployed overseas, my kids had a handwritten letter from me.
+And then, I got a call.
+My daughter was diagnosed with cancer, and I raced home from a warzone.
+We were lucky, but too many families aren’t.
+Healthcare is too expensive, driving families into debt, and politicians are too corrupt to fix it.
+I’m running for Congress to stand up to both parties, and the drug and insurance companies jacking up healthcare costs.
+I’m Nancy Lacore, and I approve this message.
+Nancy Lacore served our nation for 35 years in the Navy, a career that began as a helicopter pilot and culminated as a three star admiral and the Chief of Navy Reserve where she was entrusted to lead more than 60,000 sailors.
+She spent her career juggling her military service with raising her six children, eventually moving from active duty to the Navy Reserve where she was deployed twice – to Afghanistan in 2011, and to Djibouti in 2017.
+When Pete Hegseth removed her from her post without explanation in 2025, she decided to continue her service to our country in Congress.
+A commitment to service, family, and country has shaped every chapter of Nancy’s life, and it continues to guide what comes next.
+Nancy wore the uniform for 35 years, but her dedication to this country and its people didn’t end when she took it off.
+In this next chapter, Nancy is ready to put her experience, her values, and her voice to work for every family in South Carolina’s first congressional district.
+###

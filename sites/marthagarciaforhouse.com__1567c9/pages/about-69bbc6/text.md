@@ -1,0 +1,31 @@
+ABOUT MARTHA GARCIA
+Martha Garcia is a lifelong public servant, rancher, and dedicated community leader with more than 50 years of experience serving Cibola County and the Ramah Navajo community.
+A Navajo woman from Pine Hill, she proudly represents New Mexico House District 6 following her appointment by Governor Michelle Lujan Grisham after the passing of Representative Eliseo Lee Alcon.
+Martha previously served as a Cibola County Commissioner (2016–2025), where she strengthened fiscal accountability, improved essential services, and helped guide the county through financial challenges.
+She also dedicated more than 40 years to the Ramah Navajo School Board, including serving as President, helping build one of the nation’s leading models of Indian self-determination in education.
+Throughout her career, Martha has worked across tribal, county, state, and national levels to secure resources, improve infrastructure, and deliver results for rural and tribal communities.
+She lives on a working ranch with her husband, Roy Garcia, where they raise livestock and care for animals—shaping her deep commitment to stewardship, agriculture, and rural values.
+A mother of five and grandmother, Martha remains focused on strengthening healthcare access, improving education, investing in infrastructure, and expanding economic opportunity for families across District 6.
+Throughout her career, Martha has worked across tribal, county, state, and national levels to secure resources, improve infrastructure, and deliver results for rural and tribal communities.
+Martha’s Record of Service
+WORK EXPERIENCE
+- Cibola County Commissioner, District 5, 2016 – 2025
+- President & Board Member, Ramah Navajo School Board, 1976 – 2025
+- Legislative Analyst, Cibola County Formation, 1980s
+LEADERSHIP & COMMUNITY SERVICE
+- New Mexico State Representative, House District 6, 2024 – Present
+- Chairperson, Northwest New Mexico Council of Governments
+- President, Ramah Navajo Chapter, January 2025–Present (previously served as Vice President and Secretary/Treasurer in various terms since 1968)
+- President, Eastern Navajo Agency Council, one term
+- Chair & Vice Chair, Navajo Housing Authority Board of Commissioners
+ADVOCACY & PUBLIC SERVICE
+- Advocate for Ramah Navajo community at the national level, including participation in U.S.
+Supreme Court cases benefiting Indigenous communities
+- Led efforts to expand education, healthcare, and community services in rural and tribal communities
+- Advanced fiscal accountability, transparency, and infrastructure investment at the county level
+EDUCATION
+- Fort Lewis College, Durango, CO (coursework)
+- University of New Mexico, Albuquerque, NM (coursework)
+PERSONAL
+- Martha has been married to Roy Garcia for 52 years, and together they have five children and six grandchildren.
+Four of their children are graduates of New Mexico State University, and two grandchildren are currently students—making Martha a proud Aggie wife, mom, and grandma.

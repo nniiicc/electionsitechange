@@ -1,0 +1,14 @@
+NEWS & PROGRESS
+District 42 Updates
+Illinois’ unpaid bill backlog is now down 80% in the last 4 years
+Illinois’ unpaid bill has gone from $17 billion to $3 Billion
+SB1667
+Provides that the purpose of the Act is to regulate the protection, control, possession, and propagation of herptiles in this State.
+Reinserts the definition of “herpetoculture” and inserts the definitions “hybrid”, “intergrade”, “morphological variation”, and “propagation” into the Act.
+Modifies
+SB154
+Amends the Housing Authorities Act.
+In provisions concerning the duties of a Housing Authority concerning rentals and tenant selection, provides that a Housing Authority shall not restrict any tenant from owning or maintaining one or more common household pets regardless
+Holmes’ unemployment security reforms pass the Illinois Senate, addressing flaws after claims skyrocketed during pandemic
+SPRINGFIELD – After an unprecedented 14 months for the Illinois Department of Employment Security with thousands of residents out of work due to the COVID-19 pandemic, bipartisan support for major reforms produced House Bill 2643.
+Sponsored by Assistant Senate Majority Leader

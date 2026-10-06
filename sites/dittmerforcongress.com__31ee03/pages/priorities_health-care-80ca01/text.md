@@ -1,0 +1,16 @@
+THE PEOPLE’S AGENDA
+Quality Health Care You Can Count On
+We the People need consistent access to quality healthcare we can afford.
+I will fight so every American has consistent access to quality health care at a price they can afford — without fear, confusion, or surprise bills.
+Health care should work for patients, not insurance companies or corporate shareholders.
+I’ll focus on lowering costs, expanding access — especially in rural communities — and ensuring care decisions are made by patients and doctors, not politicians.
+This administration promised lower costs, but instead, GOP policies raised prices and increased the costs of insurance premiums and healthcare, all to give another tax break to billionaires.
+As your Congresswoman, I will always put you, your family, and your confidence in health care quality, availability, and affordability first.
+Priorities:
+- Lower costs on insurance premiums, prescription drugs, and out-of-pocket costs
+- Protect coverage by improving the Affordable Care Act (ACA) and reversing dangerous cuts to ACA subsidies, Medicare, and Medicaid
+- Reform insurance pre-authorization to ensure that insurance companies do not deny patients necessary medication and treatments
+- Save rural hospitals and expand mental healthcare access state and nationwide
+- Improve health care quality that puts patients over corporate profits
+- Ensure patient and parent rights to keep politics out of the doctor’s office to ensure accurate, scientific standards of care
+- End crippling medical debt for the 1 in 4 South Carolinians who are struggling to pay their medical bills

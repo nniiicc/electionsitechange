@@ -1,0 +1,2 @@
+Priorities Restoring Democracy to the People Protecting Essential Services and Programs Increasing Program Integrity and Fighting Corporate Fraud Tackling the Affordability Crisis Uplifting Children and Families Holding Big Tech and AI Accountable Protecting Rights and Expanding Freedoms Sign Up for Campaign Updates Stay in Touch!
+DONATE VOLUNTEER Name Email Address Phone Message Send Prepared and paid for by the Erin Maye Quade for Senate committee

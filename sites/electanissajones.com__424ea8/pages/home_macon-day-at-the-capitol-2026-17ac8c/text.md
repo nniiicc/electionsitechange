@@ -1,0 +1,18 @@
+Business leaders, educators, nonprofit organizations, faith leaders, and community advocates from Macon-Bibb County filled the halls of the State Capitol to celebrate our city’s progress and advocate for continued partnership with the state.
+Macon Day serves several important purposes:
+- Showcasing economic development initiatives
+- Highlighting educational and workforce programs
+- Strengthening relationships between state agencies and local leaders
+- Elevating Middle Georgia’s priorities in infrastructure, healthcare, and business investment
+Representative Jones spent time meeting with constituents, local officials, and advocacy groups to ensure that Macon’s needs, from neighborhood revitalization to healthcare access, remain a priority in legislative discussions.
+The presence of Macon leaders reinforced a core truth: meaningful progress happens when state and local partnerships work in alignment.
+Looking Ahead
+As the session moves forward, attention will continue to focus on:
+- Budget negotiations
+- Healthcare access
+- Education funding
+- Energy and utility regulation
+- Public safety policy
+Representative Jones remains committed to delivering practical solutions, maintaining transparency, and ensuring that House District 143 continues to have a strong and effective voice under the Gold Dome.
+If you have questions about these bills or any issue affecting House District 143, please do not hesitate to contact my office.
+It is an honor to serve you at the Capitol.

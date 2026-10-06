@@ -1,0 +1,108 @@
+Building a Better Alaska
+for All Alaskans
+Lowering Costs for Alaska’s Families
+The cost of living is felt by every Alaskan.
+Politicians talk about cost of living, but most don’t know the first thing about how to address it.
+The difference is, Nick is focused on results, not rhetoric.
+He works across the partisan divide where it helps Alaska, without ever forfeiting his Alaska first principles.
+Nick is fighting to bring costs down by attacking the problem at its source: energy, transportation, infrastructure, taxes, and federal red tape.
+He helped pass major tax relief for working Alaskans, including no taxes on tips, no taxes on overtime, historic tax relief for seniors, and permanent relief for small businesses.
+These policies put more money back in the pockets of working families, reward hard work, and help small businesses grow.
+But lowering costs in Alaska also means producing more energy at home, strengthening supply chains, building better infrastructure, and ending the federal policies that make it harder and more expensive to live, work, and raise a family in our state.
+Nick is focused on real solutions that make everyday life more affordable for Alaskans.
+Unlocking Alaska’s Resources
+Nick helped secure the most significant federal resource wins for Alaska in a generation.
+Through the Working Families Tax Cuts Act, Congress reopened major opportunities for responsible energy development in the National Petroleum Reserve-Alaska, Coastal Plains, Cook Inlet, and other resource areas critical to Alaska’s future.
+That means more jobs, more investment, more energy production, and a stronger foundation for Alaska’s economy.
+Nick also secured the best ever long-term deal for Alaska by increasing the state’s share of major new federal resource revenues from 50 percent to 70 percent.
+This is a generational win that means more of Alaska’s resource wealth stays with Alaskans, helping support larger long-term PFDs, classrooms, roads, public safety, and essential services across the state.
+As a businessman, Nick does not believe Alaskans should have to ask D.C. bureaucrats for permission to use the resources beneath our feet.
+His next fights are clear: advance Alaska North Slope gas production, end the regulatory chokehold, and build a generation of high-paying jobs that keeps our kids and grandkids in Alaska.
+Building the Infrastructure Alaska Needs
+Ports, airports, roads, tunnels, pipelines, the Marine Highway System, and rail are the backbone of our economy and the lifelines that connect our communities.
+Nick is fighting for major infrastructure improvements that connect communities, lower the cost of goods, strengthen public safety, support resource development, and improve quality of life across the state.
+In his first term, Nick has helped bring serious federal investment into Alaska to build stronger, safer, and more resilient infrastructure.
+That means investing in ports that support commerce, fishing, energy, defense, and coastal communities.
+It means improving airports that serve as critical links for rural Alaska.
+It means roads and tunnels that move people and goods safely.
+It means modernizing the infrastructure that keeps Alaska open for business.
+Nick helped secure key community project funding for Alaska ports, harbors, freight systems, road improvements, and coastal protection, including investments in every corner of Alaska.
+He also secured House passage of the Airport Regulatory Relief Act to cut red tape for small and rural airports and lower the cost of critical airfield improvements.
+Nick is also thinking bigger.
+He is working to bring public and private partners together to advance transformational projects, including expanded rail across Alaska, stronger connections between communities, and long-term infrastructure solutions that match the scale of our state.
+For years, Alaska has been told to just be thankful for what we have.
+Nick believes Alaska should think bigger, build smarter, and demand the infrastructure needed to unlock our full potential.
+Creating Jobs and Opportunity
+Nick believes Alaska should be a place where people can build, work, raise a family, and stay for generations.
+That starts with creating good-paying jobs and opening the door to real economic growth.
+From energy development on the North Slope to LNG, mining, timber, aviation, infrastructure, fisheries, and emerging technologies, Nick is fighting for an Alaska economy built on production, innovation, and self-determination.
+He helped pass the SPEED Act out of the House to modernize federal permitting, establish clearer timelines, reduce endless delays, and create a pro-growth regulatory environment that lets America build again.
+The first major NPR-A lease sale under the new law showed exactly what happens when federal barriers come down: stronger industry interest, renewed investment, and proof that Alaska is ready to lead again.
+This historic lease sale would not have happened without a Republican-led Congress willing to stand with Nick in support of Alaska.
+Securing the Border and Protecting Kids
+Before Nick Begich ever set foot in Washington, he sat down with Alaska parents like Athena Fulton, who lost her 20-year-old son Braeden to fentanyl in 2021, and gave them his word that he would fight to stem the flow of deadly drugs into our communities.
+He kept that promise.
+Nick co-sponsored and helped pass the HALT Fentanyl Act to permanently classify fentanyl-related substances as Schedule I drugs and increase penalties on the traffickers behind them.
+He voted to secure the border at the source and stop the flow of this poison into our state.
+And when President Trump addressed Congress, Nick brought Athena to Washington as his guest so an Alaska mother, and every family like hers, would know that they are not just seen – they are heard.
+Nick is still in this fight, backing prevention, standing with Alaska law enforcement, and keeping the promise, he made to every parent who has lost a child.
+Standing Up for Alaska Native Communities
+Nick Begich has brought rural Alaska’s voice to Congress and delivered real results.
+His first two bills, the Alaska Native Settlement Trust Eligibility Act and the Alaska Native Village Municipal Lands Restoration Act, were signed into law by President Trump after being introduced on his first day in office.
+These laws protect Alaska Native elders and vulnerable Alaskans from being penalized for receiving settlement trust benefits, restore local control over lands, and help more than 80 villages move forward with housing, infrastructure, economic development, and self-determination.
+Nick also led the Cape Fox Land Entitlement Finalization Act, which was signed into law to resolve a long-standing ANCSA land issue in Southeast Alaska and open the door to new opportunity for Cape Fox Corporation and the Native Village of Saxman.
+He passed the Chugach Alaska Land Exchange and Oil Spill Recovery Act through the House, advancing a long-overdue land exchange to restore value to Native shareholders and support better local land management in the Chugach region.
+Nick has continued the fight for Southeast Alaska Native communities through the Unrecognized Southeast Alaska Native Communities Recognition and Compensation Act, legislation to address the decades-long omission of landless communities in Haines, Ketchikan, Petersburg, Tenakee, and Wrangell.
+Despite being introduced in 10 previous Congresses, Nick was able to pass this legislation for the first time out of the House of Representatives.
+Fighting for Veterans and Keeping Promises
+Nick has worked to honor the promises made to Alaska Native Vietnam-era veterans by advancing H.R. 410, the Alaska Native Vietnam Era Veterans Land Allotment Extension Act of 2025, to extend land allotment opportunities for those who served our nation.
+This legislation gives eligible Alaska Native Vietnam-era veterans and their families more time to apply for the land they were promised.
+Nick has also backed legislation to improve the lives of veterans.
+He co-sponsored the Veterans’ ACCESS Act of 2025 to expand health care options, reduce wait times, and improve service availability for veterans.
+He also co-sponsored the Disabled Veterans Housing Support Act, which protects disabled veterans by excluding service-connected disability compensation when determining eligibility for certain housing assistance programs.
+From the very beginning, Nick added a member to his team dedicated to serving veterans, handling VA cases, and ensuring Alaska veterans have an advocate who can open doors and cut through the bureaucracy.
+The office has successfully closed hundreds of veteran cases, delivering results for Alaska’s veterans.
+Lowering Health Care Costs and Expanding Access
+Nick helped advance the largest rural health investment in American history, with Alaska receiving major new opportunities to strengthen rural health care access, support providers, and deliver care in communities that face some of the toughest health care challenges in the country.
+For Alaska, health care cannot be one-size-fits-all.
+Rural communities need telemedicine, mobile health clinics, stronger provider recruitment and retention, better digital tools, and care models designed for the realities of distance, weather, and limited access.
+Nick is fighting for solutions that use technology to drive down costs, expand access, and bring care closer to every community across Alaska.
+Nick supported the Lower Health Care Premiums for All Americans Act to expand affordable options for small businesses and workers, reduce premiums in the individual market, and bring more transparency to the prescription drug supply chain.
+He also introduced the bipartisan Youth Suicide Prevention Research Act to strengthen federal research and expand resources aimed at preventing youth suicide.
+Nick has also advanced the Southcentral Foundation Land Transfer Act, legislation to transfer land and the Quyana Clubhouse facility in Anchorage to Southcentral Foundation so it can make long-needed improvements and expand mental health, health and social services.
+Crucially, Nick is helping start a larger conversation about health, not just health care.
+It is about longevity, prevention, personal responsibility, innovation, and giving families better choices so we can bring down costs by curing diseases and living healthier lives.
+Working for Coastal Communities
+Alaska’s coastal communities are central to who we are as a state.
+Our fishermen, processors, mariners, shipyards, ports, harbors, Coast Guard families, and coastal villages keep Alaska moving and help feed, supply, and defend the nation.
+Nick is fighting for the people and industries that depend on Alaska’s waters.
+He supported the largest investment in the history of the U.S.
+Coast Guard, including 16 new icebreakers and major upgrades to Alaska ports and facilities, strengthening America’s Arctic presence while bringing new jobs, infrastructure, and opportunity to coastal communities.
+Nick has also co-led the FISH Act to combat foreign illegal, unreported, and unregulated fishing that undercuts Alaska fishermen and threatens the health of our fisheries.
+He joined the Alaska delegation in introducing the Bycatch Reduction and Research Act to improve data, expand monitoring, advance technology, and reduce bycatch while protecting marine habitat.
+He is fighting to train the next generation of Alaska fishermen by co-leading legislation to reauthorize the Young Fishermen’s Development Act, helping young people gain the skills and support they need to carry Alaska’s fishing legacy forward.
+Nick knows fisheries policy is about restoring abundance, protecting the resource, holding all users to the highest standard, and making sure every Alaskan who depends on our fisheries has a seat at the table.
+Defending Alaska’s Strategic Role
+Alaska is America’s Arctic frontier, and Nick has fought to make sure Washington finally treats it that way.
+From supporting Arctic defense and Coast Guard investments to backing icebreaker homeporting in Alaska, Nick is working to strengthen national security, protect our waters, support coastal communities, and ensure America leads in the Arctic.
+Nick understands that investing in America’s national security brings resources and investment to our local communities – including the more than $11 billion coming to support Alaska’s role in the defense of America.
+Creating indirect jobs and opportunities for hardworking Alaska families.
+Delivering Directly for Alaskans
+Nick’s office has returned more than $2.5 million to Alaskans through federal casework, helping constituents cut through red tape, recover benefits, resolve Social Security and VA issues, and get answers from federal agencies.
+That work is done by a hardworking team focused on helping everyday Alaskans receive what is already theirs.
+When federal bureaucracy gets in the way, Nick’s office opens doors, demands answers, and advocates for Alaskans when they need help most.
+An Alaska-Sized Record
+Nick Begich is setting a new standard for what an effective member of Congress should be.
+In his first term, he has passed more bills than any other freshman and had more legislation signed by President Trump than any other member of the House or Senate.
+For Alaska, that means results.
+His legislative production in his first term is historic.
+No other freshman member in the House, in the history of the United States, has passed more legislation or had legislation signed into law than Nick Begich.
+This happened because Nick came to Congress ready to work, because Nick has ensured the Republican majority understands Alaska’s importance to America’s future, and because President Trump has been willing to support Alaska, as we chart our own course.
+Nick’s legislative production in his first term in Congress is historic.
+Just Getting Started
+Nick Begich is delivering because he understands what is at stake.
+Alaska’s future will not be built by bureaucrats, lower 48 activists, or politicians who talk a big game but fail to produce.
+It will be built by Alaskans.
+Nick is fighting to lower costs, unlock Alaska, grow our economy, protect our communities, defend our freedoms, and make sure the next generation inherits a state with more opportunity.
+In his first term, Nick has delivered objectively historic results.
+And he is just getting started.

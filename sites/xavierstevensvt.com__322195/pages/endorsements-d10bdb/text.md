@@ -1,0 +1,38 @@
+Linda Daybell, Newport Resident
+“As a native Vermonter who left and joyfully returned after a short time, Xavier's love for the area is obvious and he is knowledgeable about the problems and issues we grapple with.
+He has the intelligence to understand their complexities and the determination and energy to work hard for solutions.
+I am voting for a strong, vibrant Newport, I am voting for Xavier Stevens.”
+“314 Action is the only organization dedicated to recruiting, training, and electing Democratic scientists to public office.
+With nationwide grassroots-driven support, we have helped elect scientists to the U.S.
+House of Representatives, U.S.
+Senate, and state and local offices across the country since our founding.”
+State Level & Municipal Endorsements - 3.14 Action
+“We are neighbors from different backgrounds and generations in rural, northern NEK (VT's Orleans & Essex Counties).
+We are volunteers committed to defending democracy and promoting human rights like health care, housing, food, education and civil rights, locally and nationally.
+We connect and collaborate respectfully to take strategic action in community.”
+NEK North Indivisible Principles
+“VPIRG Votes’ mission is to support and elect public interest champions who will promote and protect the health of Vermont’s people, environment, and locally-based economy.”
+2026 Endorsements — VPIRG Votes
+“We are one of nearly 500 state and local labor councils of the AFL-CIO and are the heart of the labor movement.
+We are democratically elected bodies dedicated to represent the interests of working people at the state and local level.
+We mobilize our members and community partners to advocate for social and economic justice and we strive daily to vanquish oppression and make our communities better for all people—regardless of race, color, gender, religion, age, sexual orientation, or ethnic or national origin.”
+Vermont State Labor Council, AFL-CIO
+“Planned Parenthood of Northern New England (PPNNE) is the largest reproductive health care and sexuality education provider and advocate in northern New England with health centers across Maine, New Hampshire and Vermont.
+Our Mission is to provide, promote, and protect access to reproductive health care and sexuality education so that all people can make voluntary choices about their reproductive and sexual health.”
+Vermont
+Conservation Voters
+“Working to elect pro-democracy and environmentally-friendly candidates to public office, and then holding elected officials accountable for the decisions they make affecting our air, water, wildlife, land, communities, and democracy.”
+Endorsements - Vermont Conservation Voters
+*recommendation
+“The Vermont-National Education Association is the union of Vermont educators, 13,000 professionals who teach the state's children every day.
+As the state's largest union, Vermont-NEA is proud to represent the people who make a difference in the lives of students in classrooms across Vermont.”
+Vermont-NEA (VT-NEA) | Vermont-NEA
+“Let’s Grow Kids Action Network (LGKAN) is a social welfare organization focused on building the political will necessary to pass laws that fund and support a sustainable and equitable child care system in Vermont.
+As a 501(c)(4) organization, Let’s Grow Kids Action Network can engage in political and electoral advocacy and lobbying.
+LGKAN works with statewide partners to advance our collective policy agenda both in Vermont communities and in the State House.
+As a 501(c)(4) organization, LGKAN is well-suited—legally and financially—to organize communities to support, endorse, and hold accountable policymakers to ensure all of Vermont’s children have access to quality, affordable child care.”
+Let's Grow Kids - Action Network
+The Sierra Club
+“The Sierra Club is the most enduring and influential grassroots environmental organization in the United States.
+We amplify the power of our millions of members and supporters to defend everyone’s right to a healthy world.”
+Sierra Club

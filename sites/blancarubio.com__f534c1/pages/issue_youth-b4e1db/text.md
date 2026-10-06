@@ -1,0 +1,29 @@
+Mental Health Consultations for Pre-school Students (AB 2698)
+Enables children in the California State Preschool Program (CSPP), infants and toddlers in general child care and development programs, and children 0 to 5 years of age served in family child care home networks to benefit from early childhood mental health consultation.
+The bill will authorize providers to utilize subsidized childcare funds to provide these valuable services which can improve outcomes for children and help prevent expulsions.
+Resource Family Plan for Foster Youth (AB 507)
+Elevates the importance of training while supporting resource families in a dynamic way.
+The goal is to empower resource families in the foster care system by redirecting current training requirements to most effectively benefit foster youth outcomes.
+Prohibiting Preschool Expulsions (AB 752)
+Adds a provision to the Education Code to create a process for addressing serious and challenging behavior exhibited by children enrolled in a California State Preschool Program.
+The goal is to establish a process modeled after the US Department of Health and Human Services’ guidelines to prevent children from being unnecessarily expelled or unenrolled.
+Student Support Services: Dream Resource Liaisons (AB 2477)
+Will require high schools, community colleges and universities to have a dedicated person on campus to provide undocumented students with adequate support and resources needed to navigate the education system.
+Child Abuse or Neglect: Foster Children (AB 2323)
+Will require the state to complete investigations of abuse or neglect of foster children within 30 days of an allegation being made.
+Newborns and Infants: Hearing Screening (AB 612)
+Strengthens state reporting requirements for newborns and infants tested for hearing loss and would require general acute care hospitals to maintain a newborn and infant data management system.
+Foster Care: Resource Family (AB 2183)
+Creates an immediate source of funding for resource families who take in a child on an emergency basis.
+School Breakfast Week (ACR 38)
+This resolution proclaims March 8, 2021, to March 12, 2021, inclusive, as School Breakfast Week and recognizes the importance of school nutrition programs and school nutrition staff in addressing the needs of the state’s pupils.
+Child Custody: Allegations of Abuse: Report (AB 1179)
+Requires that a child custody evaluation, investigation, or assessment ordered by the court where the court determines that there is a serious allegation of child sexual abuse, must, beginning January 1, 2021, be completed on a form developed by Judicial Council.
+Children’s Advocacy Centers (AB 2741)
+This bill authorizes counties to create Child Advocacy Centers (CAC) to implement a coordinated multidisciplinary approach to investigative reports of child abuse.
+Foster Youth: Placement of Siblings (AB 366)
+Strengthens the statutory protections that keep siblings together by specifying that an approved resource family shall be presumed to have the size and space to place siblings together unless there is a safety risk.
+Child Abuse Multidisciplinary Personnel Team: Children’s Advocacy Centers (AB 477)
+Provides that if a county utilizes a child advocacy center to implement their local multidisciplinary response to investigate reports of child abuse or neglect, the child advocacy center must be included in the county child abuse multidisciplinary personnel team (MDT) and makes technical changes.
+Pupils with Exceptional Needs: Individualized Education Programs: Postsecondary Goals and Transition Services (AB 438)
+Updates the required transition planning start age from 16 years old to when entering the ninth grade in an individualized education program (IEP) for children with special needs.

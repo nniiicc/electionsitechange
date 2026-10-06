@@ -1,0 +1,25 @@
+Robyn Vining was named a top 10 most effective Democratic legislator for 4 years in a row by the Center for Effective Lawmaking.
+Awards
+Robyn Vining was named a top 10 most effective Democratic legislator for 4 years in a row by the Center for Effective Lawmaking.
+She has also received the following awards:
+Gaylord Nelson Award
+The 2025 Gaylord Nelson award from WISCAP recognizes a lawmaker for outstanding support of Community Action and low-income families.
+I am honored to work alongside partners like WISCAP to reduce poverty and promote economic opportunity for all Wisconsinites.
+School Nurses Advocacy Award
+The School Nurses Advocacy Award is presented by the Wisconsin Association of School Nurses for advancing policies that support student health and school nurses.
+I authored several bills to support schools, nurses, and student health, including a bill to increase the percentage of Medicaid funds going back to schools.
+Change Maker Award
+Presented by Alaafia for my “dedication, leadership, and impactful contributions to advancing Legislative Advocacy for Sickle Cell Families”.
+Alaafia’s mission is to ensure that every African immigrant and Sickle Cell person has access to the necessary services and personal development tools within their community.
+Early Life Saver Award
+Presented by the Early Detection Saves Lives Coalition for my exemplary leadership and dedication in promoting policy that enhances access to supplemental and diagnostic breast examination for those at increased risk of cancer.
+Wisconsin Dermatology Society’s Legislative Award
+At the end of each legislative session, the Wisconsin Dermatology Society gives legislative awards to state lawmakers to recognize their policy leadership and work in the legislature.
+I am honored to be recipient of the Wisconsin Dermatology Society’s Legislative Award for my policy leadership and work in the legislature.
+Friend of Family Medicine Award
+Presented by the Wisconsin Academy of Family Physicians for going above and beyond to promote effective healthcare policy and support family medicine in Wisconsin.
+Wisconsin Conservation Voters 100% Score
+I received a 100% score in the 2025-2026 legislative session voting to protect Wisconsin’s air, water, land, and democracy.
+Sierra Club Environmental Champion
+The Sierra Club Environmental Champion distinction is awarded to election officials who receive 100% on Sierra Club’s legislative scorecard.
+I am honored to receive this distinction for my work protecting the environment in the state legislature.

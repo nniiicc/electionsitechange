@@ -1,0 +1,7 @@
+Affordability
+Families across Alabama are feeling the strain of rising prices, from groceries and utility bills to the cost of finding an affordable place to live.
+Working families shouldn’t have to choose between paying the power bill, putting food on the table, or saving for the future.
+The rising cost of everyday necessities has made it harder for many households to plan ahead, and too many families are living paycheck to paycheck despite working hard and doing everything right.
+As your State Senator, Katie Kramer will support practical, responsible solutions that help lower everyday costs for Alabama families.
+That includes working to increase housing affordability, addressing rising utility and energy prices, and supporting meaningful tax relief for working families.
+Alabama’s economy should work for the people who power it, and Katie will always fight to make sure families can keep more of what they earn and build a more secure future.

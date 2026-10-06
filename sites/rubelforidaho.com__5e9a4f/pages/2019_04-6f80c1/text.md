@@ -1,0 +1,9 @@
+Apr 5, 2019
+Article Link: “House sticks with Medicaid work requirements” Excerpt: “I am beyond disappointed to be in the situation we’re in today,” Rubel said.
+“I feel like, after an entire session of bouncing around, we’ve really landed in the worst possible world....
+Apr 5, 2019
+Article Link: “Idaho House alters bill to remove people from Medicaid” Excerpt: “The only thing that’s in this bill is the part where we hire an enforcement squad to chase down the poorest people in the state and kick them off Medicaid,” said Democratic...
+Apr 5, 2019
+Article Link: “Medicaid, Citizen Initiatives, And Two-Headed Camels” About: It’s been a wild session and an even wilder week.
+Medicaid expansion sideboards and citizen initiative bills were the headliners.
+Lawmakers talked about everything from two-headed camels to...

@@ -1,0 +1,15 @@
+Labor support for Bill Hill continues to grow
+FOR IMMEDIATE RELEASE – July 6, 2026
+The United Auto Workers (UAW) has endorsed Bill Hill for Alaska’s seat in the U.S.
+House of Representatives, backing Hill’s campaign to strengthen workers’ rights and stand up for working families across Alaska.
+While widely known for representing workers in the auto industry, the UAW also represents more than 100,000 academic workers across the country, including graduate student employees at the University of Alaska through UAW Local 1907.
+In recent months, University of Alaska staff also voted to organize with UAW, expanding the union’s presence on Alaska’s campuses.
+Hill, a lifelong commercial fisherman, and former educator and construction worker, said he is honored to receive the UAW’s endorsement.
+“As workers at the University of Alaska, we are thrilled to support a pro-higher education, pro-research, and pro-worker candidate for US House of Representatives,” said Kyra Bornong, UAW 1907 President.
+“Our membership wants to send someone to DC who will fight for working Alaskans and a strong education system.
+Bill Hill is that candidate, informing his platforms with lived experience as a union worker, an educator, and a lifelong Alaskan.”
+The endorsement adds to a growing coalition of organized labor supporting Hill’s campaign, including the Alaska AFL-CIO, ASEA/AFSCME Local 52, APEA/AFT, Alaska Professional Fire Fighters, UFCW Local 1496, Plumbers & Steamfitters Local 367, Ironworkers District Council of the Pacific Northwest, and other unions representing tens of thousands of Alaska workers.
+###
+Media Contact: Kevin Groh, Campaign Manager
+951-203-2287, kevin@billhillforalaskans.com
+Paid for by Bill Hill for Alaskans

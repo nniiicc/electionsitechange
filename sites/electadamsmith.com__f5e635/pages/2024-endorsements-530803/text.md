@@ -1,0 +1,132 @@
+2024 Endorsements
+Organizations
+5th Legislative District Democrats
+11th Legislative District Democrats
+30th Legislative District Democrats
+37th Legislative District Democrats
+41st Legislative District Democrats
+47th Legislative District Democrats
+48th Legislative District Democrats
+Alliance for Gun Responsibility
+American Federation of Government Employees
+Association of Flight Attendants, AFL-CIO
+Communications Workers of America
+Democrats for Diversity and Inclusion
+Foreign Policy 4 All
+Humane Voters of Washington
+International Association of Machinists, Local 751
+International Longshore and Warehouse Union
+International Brotherhood of Electrical Workers, Local 77
+Ironworkers Local 86
+IUPAT DC 5
+King County Young Democrats
+King County Democrats
+Moms Demand Action Gun Sense Candidate Distinction
+National Education Association/ WA Education Association (NEA/WEA)
+National Sierra Club
+National Association of Social Workers
+Planned Parenthood Action Fund
+Police Leaders for Community Safety
+Retired Public Employees Council of Washington
+Seafarers Union
+Seattle Building Trades
+SEIU International
+Society of Professional Engineering Employees in Aerospace
+Teamsters Joint Council 28
+Washington Bikes
+Washington and Northern Idaho District Council of Laborers – LiUNA
+Washington Building and Construction Trades Council, AFL-CIO
+Washington Federation of State Employees, AFSCME, Council 28
+Washington State Council of Fire Fighters (WSCFF)
+Washington State Labor Council
+Washington State Alliance of Retired Americans, HERO Award
+Western States Regional Council of Carpenters
+Young Democrats of Washington
+Elected Officials
+Federal
+Suzan DelBene
+United States Congresswoman, 1st District
+Rick Larsen
+United States Congressman, 2nd District
+Derek Kilmer
+United States Congressman, 6th District
+Kim Schrier
+United States Congresswoman, 8th District
+County
+Claudia Balducci
+King County Councilmember
+Dave Upthegrove
+King County Council President
+Rod Dembowski
+King County Councilmember
+Sarah Perry
+King County Councilmember
+Joe McDermott
+Former King County Councilmember
+State
+Jay Inslee
+WA State Governor
+Bob Ferguson
+WA State Attorney General
+Claudia Kauffman
+WA State Senator, 47th District
+David Hackney
+WA State Representative, 11th District
+Jamila Taylor
+WA State Representative, 30th District
+Jesse Johnson
+Former WA State Representative, 30th District
+Kristine Reeves
+WA State Representative, 30th District
+Karen Keiser
+WA State Senator, 33rd District
+Lisa Wellman
+WA State Senator, 41st District
+Mia Gregerson
+WA State Representative, 33rd District
+My-Linh Thai
+WA State Representative, 41st District
+Patty Kuderer
+WA State Senator, 48th District
+Steve Bergquist
+WA State Representative, 11th District
+Tina Orwall
+WA State Representative, 33rd District
+Port of Seattle
+Hamdi Mohamed
+Port Commission President, Port of Seattle
+Local
+Jim Ferrell
+Mayor of Federal Way
+Kevin Schilling
+Mayor of Burien
+Lynne Robinson
+Mayor of Bellevue
+Mohamed Egal
+Mayor of SeaTac
+Allan Ekberg
+Former Mayor of Tukwila
+Ed Prince
+Renton City Councilmember
+Hanan Amer
+Auburn City Councilmember
+Janice Zahn
+Bellevue City Councilmember
+Jake Simpson
+Seatac City Council
+Jeremy Barksdale
+Former Bellevue City Councilmember
+Jimmy Matta
+Burien City Councilmember
+Kate Kruller
+Tukwila School District 406 School Board Director and Former Tukwila City Councilmember
+Kim-Khanh Van
+Renton City Councilmember
+Paul Charbonneau
+Newcastle City Councilmember
+Ryan McIrvin
+Renton City Councilmember
+Satwinder Kaur
+Kent City Council President
+Tosh Sharp
+Tukwila City Councilmember

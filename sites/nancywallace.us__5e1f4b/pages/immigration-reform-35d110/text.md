@@ -1,0 +1,17 @@
+The U.S. needs a complete overhaul of our immigration laws, and to stop supported corrupt governments, harmful trade policies, and unsustainable development in sending countries.
+Undocumented immigrants should be granted a legal status which includes the chance to become U.S. citizens, and the horrific human sex trafficking stopped through outreach programs in sending countries, and use of our vaunted national intelligence capability to stop this devastation and slavery.
+The U.S. needs a complete overhaul of our immigration laws coordinated with transformation of our foreign policy.
+Our current situation has created extreme social injustice and untold hidden suffering, both here and abroad.
+Millions of people are living and working in the U.S. with no legal status, making them subject to extreme exploitation and abuse.
+This silent, captive class of low and illegally underpaid workers is however convenient for American corporations.
+The Wall Street Journal has called for completely open borders, to keep wages low and help corporate profits with cheap labor.
+Washington has been more interested in meeting business needs with repeated, very slow amnesties maintaining the powerless underclass, rather than tackling the source of this human crisis in the first place – US-supported corruption, harmful trade policies, and unsustainable economies in developing countries.
+Meanwhile, wives and children back home are prey to abuse, rape and murder as enterprising, responsible young fathers and husbands come to the US simply to earn a living.
+Solving the immigration crisis means a re-orientation of our foreign policy, to focus on helping nations create just, prosperous, and sustainable societies.
+Migration is almost always a second choice to staying in one’s native country, and the silent suffering by individuals is immense.
+Our immigration policy should be a way to address all people's sustainability needs as we undo the damage to local communities worldwide, and chart a course toward sustainable local economies and strong economic partners.
+- Undocumented immigrants already residing and working in the United States should be granted a legal status which includes the chance to become U.S. citizens, as long as they present no danger to other members of society.
+- I call for stiffer, more appropriate policy and laws to deal with human traffickers – primarily women and children who are bought, kidnapped, coerced, brutalized, defrauded, tricked, sold and marketed for forced sex (rape) and prostitution, with an estimated 50,000 trafficked to the U.S.
+We demand that procedures to deport victims before the traffickers are prosecuted must be changed to allow the victims to testify against the traffickers, which plays a major role in bringing these cases to justice and helping stem the tide of this heinous crime.
+- I call for recognition of the sovereignty of indigenous nations whose territories cross national boundaries.
+These indigenous nations have the right to determine the status of their members.

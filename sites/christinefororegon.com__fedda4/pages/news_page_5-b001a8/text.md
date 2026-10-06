@@ -1,0 +1,3 @@
+CHRISTINE DRAZAN ANNOUNCES RUN FOR GOVERNOR
+October 27, 2025
+PORTLAND, Ore. – Today, Senator Christine Drazan (R-Canby) launched her campaign to become Governor of the Great State of Oregon, pledging to restore opportunity, accountability, and prosperity to…

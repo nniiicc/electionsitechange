@@ -1,0 +1,265 @@
+Honorary Campaign Chair
+- The Honorable Roy Romer Former Governor, State of Colorado
+Campaign Co-Chairs
+- Jeni Arndt Former Mayor, City of Fort Collins
+- Omar Montgomery Former mayoral candidate, City of Aurora
+- Meg Porfido Chief of Staff/Chief Legal Counsel, former Governor Roy Romer
+- Ed Perlmutter Former member, U.S.
+House of Representatives
+Honorary Campaign Steering Committee
+- Polly Baca Former State Senator, former State Representative
+- Bernie Buescher Former Secretary of State
+- Terrance Carroll Former Speaker of the House
+- Jeff Chostner Former District Attorney, Pueblo County
+- Lois Court Former State Senator, former State Representative
+- Lisa Cutter State Senator
+- Lucia Guzman Former Senate Democratic Leader
+- Edie Hooton Former State Representative
+- Robert Jackson Sheriff, Alamosa County
+- Barbara McLachlan State Representative
+- Dafna Michaelson Jenet State Senator
+- Steve O’Dorisio Adams County Commissioner
+- Brandon Shaffer Former Senate President
+- Marc Snyder State Senator
+- John Stulp Former Commissioner of Agriculture, former Water Policy Advisor to the Governor, former Prowers County Commissioner
+- Carrie Warren-Gully Arapahoe County Commissioner
+- Rachel Zenzinger Jefferson County Commissioner, former State Senator
+Endorsements
+- Jeffrey Ackermann Former Colorado PUC Chairman
+- Marlo Alston Councilperson, City of Centennial
+- Norma Anderson Former State Senate Majority Leader, Former State Representative
+- Ellen Angeles Former Candidate, State Board of Education
+- Ike Anyanwu-Ebo Adams 12 School Board Member
+- Judy Amabile State Senator
+- Jorge Amaya Former Commissioner, Alamosa County
+- Joe Ayala Mayor, City of La Junta
+- Amira Assad Luca Vice President, Adams 12 School Board
+- Karen Bigelow Mayor Pro Tem City of Thornton
+- Lynn Baca County Commissioner Adams County
+- LeAnn Baca Bartlett Colorado Springs School District 11 School Board Member
+- Bob Bacon Former State Senator
+- Scott Baldermann Former Denver Public Schools Board Member
+- Keith Baker Former County Commissioner Chaffee County
+- Cindy Baroway Former Councilperson, City of Lakewood
+- Steve Barr Mayor Pro Tem, City of Littleton
+- Tara Beiter-Fluhr Mayor, City of Sheridan
+- Kyle Beaulieu Councilmember, City of Lafayette
+- Shannon Bird Former State Representative
+- Erika Brown Vice President of the Durango 9-R Board of Education
+- Kyle Brown State Representative
+- Kristin Bronson Former City Attorney City and County of Denver
+- Bruce Brown Former District Attorney, Summit, Lake, Clear Creek and Eagle Counties
+- Tyler Brown Sheriff, Arapahoe County
+- Betty Boyd Former State Senator
+- Barbara Bynum Former Mayor City of Montrose
+- Bennett Boeschenstein Former Mayor Pro Tem, City of Grand Junction
+- Tom Boyd County Commissioner, Eagle County
+- Mike Callihan Former Lieutenant Governor
+- Melinda Carbajal Councilperson, City of Brighton
+- Guyleen Castriotta Mayor, City and County of Broomfield
+- Jessica Campbell Commissioner, Arapahoe County
+- Sean Camacho State Representative
+- Michael Carrigan Former Chair, Board of Regents, University of Colorado
+- Mike Cerbo Former State Representative
+- Chad Clifford State Representative
+- Morgan Carroll Former President, Colorado Senate; former Chair, CO Democratic Party
+- Claire Carmelia Councilperson, City of Westminster
+- Todd Cohen Councilperson, City and County of Broomfield
+- Stephanie Copeland Former Executive Director Office of Economic Development and International Trade
+- Kathleen Curry Former State Representative
+- Lesley Dahlkemper County Commissioner Jefferson County
+- Lindsey Daugherty State Senator; former State Representative
+- Sharon Davis Councilperson, City of Arvada
+- Kelly Denzler Board Member-elect, Douglas County School Board
+- Jamie Dominguez City Councilperson, City of Alamosa
+- John Doyle Mayor Pro Tem, City of Aspen
+- Jean Dubofsky Former Justice, Colorado Supreme Court
+- Leslie Durgin Former Mayor, City of Boulder
+- Josh Epel Former Chair Public Utilities Commission
+- Lisa Escárcega State Board of Education, Congressional District 1
+- Karla Esser State Board of Education
+- Patty Evans City Councilor, City of Golden
+- Mike Feeley Former Minority Leader, Colorado Senate
+- Rhonda Fields County Commissioner Arapahoe County; Former State Representative; Former State Senator
+- Jill Fellman Former Board Member, Jefferson County Board of Education
+- Ken Fellman Former Mayor, City of Arvada
+- Lisa Feret State Representative
+- Jaime FitzSimons Sheriff Summit County
+- Amber Flenniken Coroner, Summit County
+- Dennis Flores City Councilperson, City of Pueblo
+- Mike Foote Former State Senator, Former State Representative
+- Emily Francis Mayor, City of Fort Collins
+- Rachel Friend Former Councilperson City of Boulder
+- Meg Froelich State Representative
+- Bill Furman Councilperson, City of Lakewood
+- Deb Gardner Former Commissioner, Boulder County; former State Representative
+- Angela Garland Cherry Creek Board of Education Member
+- Hannah Gay Keao Edgewater, Colorado City Councilperson
+- Kathy Gebhardt Colorado State Board of Education Member, 2nd Congressional District
+- Angela Giron Former State Senator
+- Kimberly Gold City Councilperson, City of Colorado Springs
+- Lori Goldstein Board President, Adams 12 Five Star Schools Board
+- John Graham Mayor of Manitou Springs
+- Matt Gray Former State Representative
+- Irene Griego Former Regent–CD 7, University of Colorado
+- Geoffrey Grimmer Councilperson, Town of Eagle
+- Hillary Hall Former Clerk and Recorder Boulder County
+- Chris Hansen Former State Senator; Former State Representative
+- Eliza Hamrick State Representative
+- Josie Heath Former Democratic nominee for U.S.
+Senate; Former Commissioner, Boulder County
+- Nancy Henjum Councilperson City of Colorado Springs
+- Heidi Henkel Councilperson City and County of Broomfield
+- Nicole Hensel Candidate for Jefferson County Clerk & Recorder
+- Abe Herman Mayor City of Grand Junction
+- Ted Hernandez Pueblo City Council Member
+- Bill Holen Former County Commissioner Arapahoe County
+- Dietrich Hoefner Councilperson, City of Louisville
+- Amy Hoeven City Council Member, City of Fort Collins
+- Barbara Holme Former State Senator
+- Sandy Hollingsworth County Commissioner Gilpin County
+- Gianina Horton Councilperson, City of Aurora
+- Alli Jackson Councilperson, City of Aurora
+- William Infante Former Councilperson, Town of Basalt
+- Nancy Jackson Former County Commissioner
+- Ken Jaray Former Mayor Manitou Springs
+- Stan Jezierski Councilperson, City and County of Broomfield
+- Junie Joseph State Representative
+- Josh Joswick Former La Plata County Commissioner
+- Charles Johnson D11 School Board Member
+- PK Kaiser County Assessor Arapahoe County
+- Alexis King District Attorney, Jefferson and Gilpin Counties
+- Andy Kerr Commissioner, Jefferson County; former State Senator; former Assistant House Majority Leader
+- Moe Keller Former State Senator
+- Anne Keke Board Member, Aurora Public Schools
+- Cathy Kipp State Senator
+- Robin Kniech Former Denver City Councilwoman At-large
+- Emily Kurzinski Councilperson, City of Golden
+- Xóchitl Gaytán District 2 Director, DPS Board of Education
+- Amy Klein Molk School Board Member, Denver Public Schools
+- David Knight Mayor, Town of Basalt
+- Tracy Kraft Tharp Former County Commissioner Jefferson County; Former State Representative
+- Chris Kolker Colorado State Senator
+- Jacob LaBure City Councilperson City of Lakewood
+- Mark Lacis Mayor Town of Superior
+- Dottie Lamm Former Democratic nominee for U.S.
+Senate; former First Lady, State of Colorado
+- Kristopher Larsen Former Mayor, Town of Nederland
+- Mandy Lindsay Colorado State Representative
+- Pete Lee Former State Senator, Former State Representative
+- Chris Leh Mayor, City of Louisville
+- Kevin Leung Board Member, South Metro Fire Rescue Fire Protection District
+- Susan Lontine Former State Representative
+- Miles Lucero County Commissioner, Pueblo County
+- Javier Mabrey State Representative
+- Alice Madden Former Colorado House Majority Leader
+- Kathleen MacKenzie Former Councilperson, City and County of Denver
+- Kristin Mallory Aurora School Board Member
+- George Marlin Commissioner, Clear Creek County
+- Liza Marron County Commissioner Saguache County
+- Reggie Marinelli Sheriff, Jefferson County
+- Pastor Thomas Mayes Candidate for City Council City of Aurora
+- Beth McCann Former District Attorney, City and County of Denver; Former State Representative
+- Anne McGihon Former State Representative
+- Gina McCrackin Councilperson, Town of Eagle
+- Gordon McLaughlin District Attorney Larimer and Jackson Counties
+- Sophia Mayott Guerrero City Councilperson City of Lakewood
+- Justin Martinez Councilperson, City of Thornton
+- Tony Martinez Former Chief of Staff Secretary of State’s Office
+- Melanie Potyondy Councilmember City of Fort Collins
+- Kathy Plomer State Board of Education
+- Molly Markert Former City Council Member, City of Aurora
+- Joan May Former San Miguel County Commissioner
+- Pat Meyers Former Chief of Staff Governor’s Office
+- Sean Murray District Attorney Archuleta La Plata San Juan Counties
+- Jill Mihelich Treasurer and Public Trustee, Ouray County
+- Diane Mitsch Bush Former State Representative; Former County Commissioner Routt County
+- Emilie Mitcham Mayor Town of Mountain View
+- Dr.
+Syl Morgan-Smith Colorado Black Hall of Fame Member
+- Peter Monson Former Commissioner, Clear Creek County; Former President, Clear Creek School District Board
+- Jeanne Nicholson Former State Senator
+- Barbara Noseworthy Former Durango Mayo
+- Anthony Nunez Former Commissioner, Pueblo County
+- Linda Olson Former Mayor, City of Englewood
+- Kelly Ohlsen Former Mayor, Former City Councilperson, City of Fort Collins
+- Debbie Ortega Former Councilperson, City and County of Denver
+- David Ortiz Former State Representative
+- Julie Ott Former Colorado Springs District 11 School Board Member
+- Federico Peña Former Mayor of Denver, Former U.S.
+Secretary of Transportation, Former U.S.
+Secretary of Energy
+- Peter Padilla Mayor Pro Tem City of Brighton
+- Pam Patton Former Commissioner, Public Utilities Commission
+- Pat Pascoe Former State Senator
+- Joan Peck Mayor City of Longmont
+- Scott Pearson Mayor of Mountain Village
+- Elizabeth Philbrick La Plata County Commissioner
+- Tamara Pogue County Commissioner, Summit County
+- Laura Puckett Daniels County Commissioner Gunnison County
+- Rachael Richards Mayor, City of Aspen; former Commissioner, Pitkin County
+- Consuelo Redhorse President, Summit School District Board of Education
+- Dave Rein City Councilperson City of Lakewood
+- Jeanne Robb Denver City Councilwoman
+- Gretchen Rydin State Representative
+- Joe Salazar Former State Representative
+- LeRoy Salazar Former Trustee, Adams State University
+- Matt Salka County Commissioner La Plata County
+- Amanda Sawyer Councilperson, City and County of Denver
+- Christine Scanlan Former State Representative
+- Sue Schafer Former State Representative
+- Kyle Schlachter Mayor, City of Littleton
+- David Skaggs Former U.S.
+Congressman
+- Lauren Simpson Mayor City of Arvada
+- Jeslin Shahrezaei Mayor Pro Tem City of Lakewood
+- Richard Skorman Former Councilperson City of Colorado Springs
+- Liz Smith Gunnison County Commissioner
+- Rhonda Solis Former CD-8 Member, State Board of Education
+- Ilana Spiegel Regent–CD 6 University of Colorado
+- Karn Stiegelmeier Former County Commissioner, Summit County
+- Debbie Stafford Former State Representative
+- Rebekah Stewart State Representative; Former Councilperson City of Lakewood
+- Tammy Story State Representative, Former State Senator
+- Tom Sullivan State Senator
+- Judy Solano Former State Representative
+- Mary Beth Susman Former President Denver City Council
+- Penfield Tate Former State Senator Former State Representative
+- Amy Tharp Councilperson, City of Centennial
+- Angela Thomas Former candidate for County Commissioner Douglas County
+- Casey Tighe Former Commissioner, Jefferson County
+- Ben Tisdel Former County Commissioner, Ouray County
+- Brianna Titone State Representative
+- Bob Troyer Former U.S.
+Attorney, District of Colorado
+- Lois Tochtrop Former State Senator
+- Max Tyler Former State Representative
+- Jamie Van Leeuwen Former Deputy Chief of Staff Governor’s Office
+- Stephanie Vigil Former Colorado State Representative
+- John Walsh District Attorney City and County of Denver
+- Nina Waters Summit County Commissioner
+- Lisa Webster Vice President, Summit School District Board of Education
+- Ken Weil Former Director of Policy and Initiatives Governor’s Office
+- Laura Weinberg Mayor, City of Golden
+- Mike Weissman State Senator, former State Representative
+- Joella West Councilperson, City of Steamboat Springs
+- Julie Westendorff Former Commissioner, La Plata County
+- Suzanne Williams Former State Senator
+- Amy Wiles Councilperson, City of Aurora
+- Barry Wilson Former Mayor of Windsor
+- Roger Wilson Former State Representative
+- Tara Winer Councilperson, City of Boulder
+- Tim Wirth Former U.S.
+Senator, former U.S.
+Congressman
+- Chris Wiseman Former Pueblo County Commissioner
+- Dick White Former Mayor of Durango
+- Wally White Former La Plata County Commissioner
+- PT Wood Chaffee County Commissioner
+- Steven Woodrow Colorado State Representative
+- Randy Wheelock County Commissioner, Clear Creek County
+- Ashish Vaidya City Councilperson, City of Centennial
+- Elizabeth Velasco State Representative
+- Bob Yates Former Councilperson, City of Boulder
+- Gilda Yazzie Mayor, City of Durango
+- Joel Zink Councilperson City of Littleton

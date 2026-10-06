@@ -1,0 +1,11 @@
+- Ballot Statement – English Do NOT vote for me if you want: High taxesHigh crimeHigh cost of livingHomeless men, women and children on the streetBoys in girls’ sports and locker rooms Vote for me if you want: Low taxesCriminals off the streetsClean streetsGood jobsTo stop the radical agenda in schools There is a proverb that says, “When the wicked…
+- Ballot Statement – Spanish NO vote por mí si desea: Impuestos altosAlta tasa de criminalidadAlto costo de vidaPersonas sin hogar (hombres, mujeres y niños) en las callesNiños participando en deportes y vestuarios de niñas Vote por mí si desea: Impuestos bajosCriminales fuera de las callesCalles limpiasBuenos empleosDetener la agenda radical en las escuelas Existe un proverbio que dice: “Cuando…
+- Prop’s Matrix to 10/3/2026
+- BBQ-ROOT BEER-BALLOTS
+- 9/11 We pause to honor the nearly 3,000 lives lost on September 11, 2001, and to remember the courage shown by Flight 93 passengers, first responders, service members, and everyday people who stepped forward in the face of that unimaginable tragedy.
+We should reflect on the resilience of our nation, the unity that followed, and the…
+- November 3, 2026 Propositions Finalized
+- K-VON The Cultural Warrior Comedian
+- Speaking at WRW June 4th
+- Save the Date – July 5th!
+- Voter Guide

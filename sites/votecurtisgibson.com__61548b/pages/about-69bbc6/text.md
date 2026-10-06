@@ -1,0 +1,11 @@
+- Property Manager, Eagle Ridge Mall
+- Small Business Owner
+- USPS Letter Carrier (Former)
+- Ramp PA Agent, Lakeland Linder International Airport
+- Former City Commissioner, City of Lake Wales
+- Graduate, Political Leadership Institute (PLI) of Orlando
+- Former Member, Florida League of Cities Planning and Zoning Board
+- Former Member, Florida Black Caucus of Local Elected Officials
+- Member, NAACP and MLK Association
+- Charter Member, Rotary on the Ridge
+Paid for by Curtis Gibson for Congress

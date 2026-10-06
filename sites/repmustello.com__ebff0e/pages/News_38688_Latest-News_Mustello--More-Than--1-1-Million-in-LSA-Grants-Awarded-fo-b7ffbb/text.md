@@ -1,0 +1,28 @@
+Mustello: More Than $1.1 Million in LSA Grants Awarded for Butler County
+September 15, 2026
+BUTLER – Rep.
+Marci Mustello (R-Butler) today announced $1,122,269 in Local Share Account (LSA) grants have been approved by the Commonwealth Financing Authority for eight projects in Butler County.
+“These awards are about giving our municipalities the tools they need to do the job well – reliable equipment, safer facilities and stronger emergency response,” Mustello said.
+“Those practical investments help communities provide better service while making local tax dollars go further.”
+The grants are:
+• Buffalo Township – $250,000 – for municipal building site improvements, including stormwater pipe reconstruction, an ADA-accessible parking area, drainage and grading work, and construction of a 24-by-60-foot police storage garage.
+• Chicora Borough – $73,259 – to purchase a 300-gallon vacuum trailer with valve-operation capability to help identify water service-line materials as required by state and federal rules and to support catch basin and drain maintenance.
+• Clearfield Township – $223,200 – to purchase a wheel loader for road maintenance, material handling and emergency response during severe weather.
+• Donegal Township – $126,627 – to purchase a skid-steer loader and attachments for digging, grading, material handling and snow removal, reducing the need to outsource municipal work.
+• Donegal Township – $90,890 – to purchase a mini excavator for municipal digging work, reducing equipment-rental costs and improving the township’s ability to complete projects with its own equipment.
+• Oakland Township – $234,902 – to purchase a tractor and accessories for roadside landscaping, snow removal, construction and year-round sweeping.
+• Saxonburg Borough – $54,057 – to purchase and install a backup generator at the borough police department so the facility and its communications can remain operational during power outages and support regional emergency responders.
+• Saxonburg Borough – $69,334, in cooperation with Sen.
+Scott Hutchinson (R-21), to purchase and equip a police cruiser replacing an aging vehicle with rising maintenance costs and reliability concerns.
+Local Share Account funds are generated under the PA Race Horse Development and Gaming Act (Act 71 of 2004), which provides for the distribution of gaming revenues through the Commonwealth Financing Authority (CFA) to support projects in the public interest across Pennsylvania.
+The CFA was established in 2004 as an independent agency to administer Pennsylvania economic development programs and investments.
+Representative Marci Mustello
+11th Legislative District
+Pennsylvania House of Representatives
+Media Contact: Chris Comisac
+717-772-9845
+ccomisac@pahousegop.com
+RepMustello.com / Facebook.com/RepMustello
+Sign Up to Receive Legislative Email Updates
+Keep up-to-date on the latest legislative and community news.
+Your email address will be used strictly for legislative purposes.

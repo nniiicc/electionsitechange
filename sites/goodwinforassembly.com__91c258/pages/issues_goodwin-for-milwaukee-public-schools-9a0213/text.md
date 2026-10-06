@@ -1,0 +1,13 @@
+GOODWIN FOR PUBLIC SCHOOLS
+If re-elected to the Wisconsin State Assembly District 12, Russell Antonio Goodwin, Sr. will continue addressing the critical issues facing public schools across the district—including Milwaukee Public Schools (MPS), Brown Deer School District, and Wauwatosa School District—by advocating for increased and more equitable state funding to support essential programs and services.
+Building on his experience in office, Russell will work to reform the school funding formula so districts are less reliant on local referendums and property taxes, easing the burden on homeowners while ensuring schools receive the resources they need to succeed.
+His personal connection to public education continues to drive his commitment to strengthening schools for every student, regardless of zip code.
+Russell Antonio Goodwin, Sr. will continue collaborating with stakeholders, policymakers, educators, and community leaders to address ongoing funding challenges across all districts he represents.
+Drawing from his leadership experience as a former Milwaukee County Supervisor and his legislative record, Russell understands the complexities of budgeting and resource allocation.
+He remains committed to fighting for sustainable funding solutions that support and enhance existing programs while ensuring long-term stability for public schools.
+Russell’s dedication to uplifting and empowering others—demonstrated through his work in youth ministry, mentorship, and community initiatives—continues to guide his efforts to support both students and educators.
+He will advocate not only for fair and adequate funding, but also for protecting teachers, ensuring they are properly supported, fairly compensated, and not pushed out of classrooms when students need them most.
+He will also prioritize modernizing school facilities across the district, investing in updated technology, and ensuring that school infrastructure is safe, functional, and prepared for a 21st-century learning environment.
+As a devoted husband, father, and community leader, Russell Antonio Goodwin, Sr. brings a compassionate and results-driven approach to public service.
+By continuing to unite communities across Milwaukee, Brown Deer, and Wauwatosa, he will work to build a stronger, more resilient educational system that meets the needs of every student.
+Russell Goodwin remains committed to delivering results and creating a brighter future for public education, where every child has the opportunity to thrive and succeed.

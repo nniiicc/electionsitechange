@@ -1,0 +1,11 @@
+Memorial Day
+Today was for reflection, remembrance, and gratitude.
+I was honored to attend Memorial Day ceremonies in the towns of Esopus, LaGrange, and Wappinger as well as the Village of Fishkill parade.
+But the most meaningful part of my day was getting to share it with my niece and nephew.
+Teaching them simple things like flag etiquette, watching them wave their flags with excitement, and hoping they grow up remembering what this day stands for.
+I also had the privilege of passing out flags and putting smiles on faces throughout such a somber and emotional day.
+In moments of reflection, those small acts of patriotism and community felt exceptionally important.
+Today, we remembered.
+We reflected.
+And we carried forward the responsibility to never take their sacrifice for granted.
+19 photos

@@ -1,0 +1,3 @@
+Robert Rivas Join the Campaign There are many ways to get involved in the campaign — please fill out the form below to lend your support to Robert Rivas for Assembly: Please enable JavaScript in your browser to complete this form.
+Please enable JavaScript in your browser to complete this form.
+First Name * Last Name * Street Address * Address Line 2 City * State / Province / Region * ZIP / Postal * Email * Phone * Volunteer Options I would like a yard sign I have a location for a large 4x8 sign I will make calls I will walk a precinct I would like to host an event I endorse Robert Rivas for Assembly Postal / Phone I would like to make a donation Submit “I believe that every Californian deserves a better, more affordable future.” Learn More

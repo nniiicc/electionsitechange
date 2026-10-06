@@ -1,0 +1,4 @@
+- Available prior to general, primary, and special elections
+- See your ballot, ballot is unique to your district and party
+- Check the accessible entrance
+- Look up which districts you are in

@@ -1,0 +1,3 @@
+Miller helps establish task force to reduce violence against women
+Cook County Commissioner Donna Miller led the first meeting of the Chicago-Cook County Task Force to Reduce Violence Against Women on Jan. 7.
+Miller said the task force is an effort to strengthen protections and coordinate solutions for survivors of domestic violence…

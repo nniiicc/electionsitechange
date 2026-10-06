@@ -1,0 +1,486 @@
+WORKING WITH STATE AGENCIES
+There are hundreds of state agencies in the Massachusetts government.
+Below, we have provided a list of the most common requests our office receives.
+If you need additional information, please reach out!
+Attorney General Andrea Campbell
+What does the Attorney General do?
+As the chief lawyer and law enforcement officer of the Commonwealth of Massachusetts, the Attorney General:
+- Protects consumers (offers consumer complaint process);
+- Combats fraud and corruption;
+- Investigates and prosecutes crime;
+- Protects the environment, workers, and civil rights;
+- Is the rate payer advocate;
+- Provides student loan assistance; and
+- Represents the state in court actions.
+Contact the Attorney General
+Boston Office
+1 Ashburton Place
+20th Floor
+Boston, MA 02108
+Call the Boston Attorney General’s Office at (617) 727-2200
+Speak with a Consumer Specialist (617) 727-8400
+Available 8:00 a.m. to 4:00 p.m., Monday through Friday.
+For those who need accessible services, call the Attorney General’s Office via MassRelay at 711
+Website: https://www.mass.gov/orgs/office-of-the-attorney-general
+Western Massachusetts Office
+1441 Main Street
+12th Floor
+Springfield, MA 01103
+Call the Western Massachusetts Attorney General’s Office (413) 784-1240
+Central Massachusetts Office
+10 Mechanic Street
+Suite 301
+Worcester, MA 01608
+Call the Central Massachusetts Attorney General’s Office at (508) 792-7600
+Department of Children and Families (DCF)
+What does DCF do?
+DCF works in partnership with families and communities to keep children safe from abuse and neglect.
+In most cases, DCF is able to provide supports and services to keep children safe with parents or family members.
+When necessary, DCF provides foster care or finds new permanent families for children through kinship, guardianship, or adoption.
+DCF’s main functions and issues it handles are:
+- Child protective services
+- Child abuse investigations
+- Foster Care
+- Transitional age youth supports (ages 18 – 22)
+- Adolescent services
+- Adoption/guardianship services
+- Domestic violence services
+Contact DCF
+Child-at-Risk Hotline, open 24 hours to report child abuse and neglect: (800) 792-5200
+Main Office
+600 Washington Street
+6th Floor
+Boston, MA 02111
+Call the Main Office at (617) 748-2000
+Available 8:45 a.m. to 5:00 p.m., Monday through Friday.
+Call the Auto Attendant for DCF at (617) 748-2400
+Available 8:45 a.m. to 5:00 p.m., Monday through Friday.
+Call the Office of the Ombudsman at (617) 748-2444
+Email: DCFCommissioner@state.ma.us
+Website: https://www.mass.gov/orgs/massachusetts-department-of-children-families
+Greenfield Area Office
+143 Munson Street
+Unit 4
+Greenfield, MA 01301
+Call the Greenfield Area Office at (413) 775-5000
+Department of Conservation and Recreation (DCR)
+What does DCR do?
+DCR manages state parks and oversees more than 450,000 acres of land throughout Massachusetts.
+DCR protects, promotes, and enhances the state’s natural, cultural, and recreational resources.
+DCR is comprised of agencies formerly known as DEM, MDC and Division of Water Supply Protection.
+Some issues and functions under the purview of DCR include:
+- Managing state parks, beaches, and forests
+- Managing accessible ice rinks and pools
+- Management of the Quabbin and Wachusett watersheds
+- Water resource protection programs, including dam maintenance, flood hazard management, lakes and ponds, and well driller registration
+Contact DCR
+Main Office
+State Transportation Building
+10 Park Plaza
+Suite 6620
+Boston, MA 02116
+Call the Main Office at (617) 626-1250
+Available 9:00 a.m. to 5:00 p.m., Monday through Friday.
+Email: mass.parks@mass.gov
+Website: https://www.mass.gov/orgs/department-of-conservation-recreation
+Division of Water Supply Protection – Quabbin Regional Office
+485 Ware Road
+Belchertown, MA 01007
+Call the Quabbin Regional Office at (413) 323-6921
+Connecticut River Valley District Office
+136 Damon Road
+Northampton, MA 01036
+Call the Connecticut River Valley District Office at (413) 586-8706 x 12
+Department of Developmental Services (DDS)
+What does DDS do?
+The Massachusetts Department of Developmental Services (DDS) provides support and services to individuals with intellectual and developmental disabilities, including autism, cerebral palsy, and other related conditions.
+The DDS is dedicated to helping individuals live fulfilling lives in their communities by offering a range of person-centered programs and services, such as:
+- Residential support for independent or assisted living
+- Employment services to help individuals find and maintain jobs
+- Family support services to assist families in caring for loved ones with disabilities
+- Day programs and community-based services for skill-building and social engagement
+- Respite care for families and caregivers
+- Case management to ensure individuals receive appropriate and personalized services
+- Advocacy and legal protections to uphold the rights of individuals with disabilities
+Contact DDS
+Main Office
+1000 Washington Street
+Boston, MA 02118
+Call the Main Office at (617) 727-5608
+Call the Main Office via Videophone (VP) at (857) 366-4179
+Email: DDSInfo@mass.gov
+Website: https://www.mass.gov/orgs/department-of-developmental-services.
+Franklin/Hampshire Area Office
+One Roundhouse Plaza
+Suite 204
+Northampton, MA 01060
+Call the Franklin/Hampshire Area Office at (413) 586-4948
+Franklin/Hampshire Area Office Director: Keri Purcell (keri.purcell@mass.gov)
+Franklin/Hampshire Area Office Assistant Director: Teka Harris (teka.j.harris@mass.gov)
+Department of Mental Health (DMH)
+What does DMH do?
+DMH assures and provides access to services and supports to meet the mental health needs of individuals of all ages.
+DMH’s purview includes:
+- Mental health services for children, adolescents & adults
+- Community services (Clubhouses, ACCS, Respite & PACT) for DMH consumers
+- Continuing care inpatient services
+- Forensic services & jail diversion
+Contact DMH
+Massachusetts Behavioral Health Help Line, available 24/7 via call or text: (833) 773-2445
+Main Office
+25 Staniford Street
+Boston, MA 02114
+Call the Main Office at (617) 626-8000
+Available 9:00 a.m. to 5:00 p.m., Monday through Friday.
+Call the DMH Information Line at (800) 221-0053
+This voicemail box is checked regularly Monday through Friday.
+Calls are returned within 48 hours.
+Website: https://www.mass.gov/orgs/massachusetts-department-of-mental-health
+Western Massachusetts Area Office/Hampshire Site Office
+1 Prince Street
+Northampton, MA 01060
+Call the Western Massachusetts Area Office/Hampshire Site Office at (413) 587-6200
+Website: https://www.mass.gov/info-details/western-massachusetts-area-0
+Franklin County/North Quabbin Office
+13 Prospect Street
+Greenfield, MA 01301
+Call the Franklin/North Quabbin Office at (413) 772-5600
+Department of Revenue (DOR)
+What does DOR do?
+DOR manages:
+- Tax issues
+- Child support issues
+- Local assistance (Cherry sheets)
+- Sales tax
+Contact DOR
+Main Office
+100 Cambridge Street
+Suite 500
+Boston, MA 02114
+Call the Tax Department at (617) 887-6367 or toll free at (800) 392-6089
+Available 9:00 a.m. to 4:00 p.m., Monday through Friday.
+Call the Child Support Services Division (617) 660-1234 or (800) 332-2733
+Available 8:30 a.m. to 4:30 p.m., Monday through Friday.
+Local Child Support Services contacts available at https://www.mass.gov/info-details/contact-dor#-child-support-services-(css)-.
+Call the Division of Local Services at (617) 626-2300
+Call the Commissioner’s Office at (617) 626-2201
+For a full list of contact numbers, visit https://www.mass.gov/guides/who-to-call-at-dor.
+MassTaxConnect is DOR’s online portal to safely register, file, and pay taxes: https://mtc.dor.state.ma.us/mtc/_/.
+Website: https://www.mass.gov/orgs/massachusetts-department-of-revenuewww.dor.state.ma.us
+Department of Transitional Assistance (DTA)
+What does DTA do?
+DTA assists and empowers low-income individuals and families to meet their basic needs, improve their quality of life, and achieve long term economic self-sufficiency.
+DTA serves one in nine residents of the Commonwealth with workforce training opportunities and the following direct economic and food assistance:
+- Economic Assistance
+- Transitional Assistance to Families with Dependent Children (TAFDC)
+- Emergency Aid to the Elderly, Disabled, and Children (EAEDC)
+- Food Assistance
+- Supplemental Nutrition Assistance Program (SNAP)
+Contact DTA
+Main Office
+600 Washington Street
+5th Floor
+Boston, MA
+Call the Main Office at (877) 382-2363
+Available from 8:15 a.m. to 4:45 p.m., Monday through Friday.
+Website: https://www.mass.gov/orgs/department-of-transitional-assistance
+Greenfield Transitional Assistance Office
+298 Federal Street
+Greenfield, MA 01301
+Call the Greenfield Office at (413) 772-3400
+Holyoke Transitional Assistance Office
+72-100 Front Street
+Holyoke, MA 01040
+Call the Holyoke Office at (413) 552-5400
+Department of Unemployment Assistance (DUA)
+The Department of Unemployment Assistance (DUA) in Massachusetts oversees the unemployment insurance (UI) program.
+This program provides temporary income assistance to eligible workers who are unemployed and looking for work.
+Additionally, DUA determines and collects employer contributions to the UI program
+- Unemployment insurance benefits for eligible workers
+- Job search assistance through partnerships with the Department of Career Services (DCS)
+- Employer tax services to fund the UI program
+- Appeals process for denied unemployment claims
+- Training and reemployment programs for displaced workers
+- Fraud prevention and identity verification to maintain program integrity
+Contact DUA
+Main Office
+Boston Re-Employment Center
+2 Avenue de Lafayette
+Boston, MA 02111
+Call DUA at (877) 626-6800
+Available 8:30 a.m. to 4:30 p.m., Monday through Friday.
+Multilingual call agents are available.
+Call the TeleCert Line to request weekly benefits at (617) 626-6338
+Available 6:00 a.m. to 10:00 p.m., daily.
+Call the Payment Status Line at (617) 626-6563
+For those who need accessible services, call DUA via MassRelay at 711
+Make an appointment at the Boston Re-Employment Center at mass.gov/RECappointment.
+Website: https://www.mass.gov/orgs/department-of-unemployment-assistance
+Division of Insurance (DOI)
+What does DOI do?
+The Massachusetts Division of Insurance (DOI) is responsible for regulating the insurance industry in the Commonwealth to protect consumers and ensure the financial stability of insurance companies.
+The DOI oversees various types of insurance, including health, auto, homeowners, and life insurance.
+- Regulating insurance companies
+- Licensing and monitoring insurance agents and brokers
+- Reviewing and approving insurance products
+- Ensures insurance practices comply with state laws
+- Educating the public on insurance rights and best practices
+Contact DOI
+Main Office
+One Federal Street
+Suite 700
+Boston, MA 02110
+Call the Main Office at (617) 521-7794 or toll free at (877) 563-4467
+Available 8:45 a.m. – 5:00 p.m., Monday through Friday.
+Website: https://www.mass.gov/orgs/division-of-insurance
+Division of Occupational Licensure (DOL)
+What does DOL do?
+The Division of Occupational Licensure licenses and regulates individuals and businesses in some 167 trades and professions.
+Some of DOL’s main issues and functions are:
+- Overseeing 26 boards of registration
+- Licensing professionals and tradespeople
+- Investigating complaints against professionals and tradespeople
+- The Office of Public Safety and Inspections: Ensuring compliance with the Massachusetts Building Code.
+- The Office of Private Occupational School Education: Licensing and regulating private occupational schools in Massachusetts.
+Contact DOL
+Main Office
+One Federal Street
+Suite 600
+Boston, MA 02110
+Call the Main Office at (617) 701-8600
+For those who need accessible services, call the Main Office via MassRelay at 711
+Website: https://www.mass.gov/orgs/division-of-occupational-licensure
+Springfield Office
+436 Dwight Street
+Springfield, MA 01103
+Executive Office of Economic Development (EOED)
+What does EOED do?
+The Executive Office of Economic Development (EOED) focuses on fostering a strong economy for Massachusetts by supporting businesses, workers, and communities.
+EOED oversees a variety of initiatives, including:
+- Business development and support
+- Workforce development and training
+- Innovation and entrepreneurship
+- Regional economic growth
+- Industry regulation and consumer protection
+- Tourism and cultural initiatives
+Contact EOED
+Main Office
+1 Ashburton Place
+Room 2101
+Boston, MA 02108
+Call (617) 788-3610
+Available 9:00 a.m. to 5:00 p.m., Monday through Friday.
+Website: www.mass.gov/orgs/executive-office-of-economic-development
+Executive Office of Housing and Livable Communities (EOHLC)
+What does EOHLC do?
+The Executive Office of Housing and Livable Communities (EOHLC) works to ensure that residents across Massachusetts have access to safe, affordable housing and vibrant, sustainable communities.
+EOHLC oversees programs related to:
+- Affordable housing development
+- Emergency Assistance Family Shelter (EA)
+- Apply for RAFT (emergency help for housing costs)
+- Homelessness prevention and services
+- Community development
+- Support for local housing authorities
+- Housing for people with disabilities and seniors
+Contact EOHLC
+Main Office
+100 Cambridge St
+Suite 300
+Boston, MA 02114
+Call EOHLC at (617) 573-1100
+For those who need accessible services, call EOHLC at (617) 573-1140
+Website: https://www.mass.gov/orgs/executive-office-of-housing-and-livable-communities
+Executive Office of Veterans Services (EOVS)
+What does EOVS do?
+EOVS advocates on behalf of all the Commonwealth’s veterans and provides them with support services.
+It also directs an emergency financial assistance program for veterans and their dependents who are in need.
+EOVS’ range of work includes:
+- Administering state and federal Veterans’ benefits
+- Veterans’ Job Programs and Services
+- Contracting for housing, outreach & counseling
+- Advocating through Statewide Advocacy for Veterans’ Empowerment (SAVE) Team for Veterans with institutional and personal Barriers
+- Overseeing Women Veterans’ Network
+- Liaising with 250 municipal Veterans’ Agents
+- Operating two Veterans’ Cemeteries
+Contact EOVS
+Main Office
+600 Washington Street
+7th Floor
+Boston, MA 02111
+Call the Main Office at (617) 210-5480
+https://www.mass.gov/orgs/executive-office-of-veterans-services
+Alternate Office
+100 Cambridge Street
+14th Floor
+Boston, MA 02114
+Health Connector
+What does the Health Connector do?
+The Massachusetts Health Connector is the state’s health insurance marketplace, designed to help individuals, families, and small businesses find affordable and comprehensive health coverage.
+The Health Connector plays a crucial role in ensuring access to quality healthcare for Massachusetts residents.
+Services and initiatives include:
+- Health insurance plans for individuals and small businesses
+- Subsidized coverage through programs like ConnectorCare for eligible residents
+- Dental insurance plans
+- Plan comparison tools to help consumers choose the best coverage
+- Open enrollment periods for health and dental plans
+- Outreach and education to help residents understand their coverage options
+Contact the Health Connector
+Boston Office
+133 Portland Street
+Boston, MA 02114
+Call the Health Connector at (877) 623-6765
+Available 8:00 a.m. to 6:00 p.m., Monday through Friday.
+For those who need accessible services, call the Health Connector at (877) 623-7773
+Available 8:00 a.m. to 6:00 p.m., Monday through Friday.
+Website: https://www.mahealthconnector.org/
+Springfield Office
+88 Industry Avenue
+Suite D
+Springfield, MA 01104
+Worcester Office
+146 Main Street
+Worcester, MA 01608
+Massachusetts Commission Against Discrimination (MCAD)
+What does MCAD do?
+MCAD is the primary agency in Massachusetts for civil rights law enforcement, outreach, and training and works to eradicate discrimination in the Commonwealth.
+They investigate and prosecute discrimination complaints.
+Contact MCAD
+Boston Office
+1 Ashburton Place
+Suite 601
+Boston, MA 02108
+Call the Boston Office at (617) 994-6000
+Email: mcad@mass.gov
+Website: https://www.mass.gov/orgs/massachusetts-commission-against-discrimination
+Springfield Office
+436 Dwight Street
+Room 220
+Springfield, MA 01103
+Call the Springfield Office at (413) 739-2145
+Worcester Office
+18 Chestnut Street
+Room 520
+Worcester, MA 01608
+Call the Worcester Office at (508) 453-9630
+Massachusetts Department of Transportation (MassDOT)
+What does MassDOT do?
+MassDOT provides transportation infrastructure that is safe, reliable, robust and resilient.
+They work to connect people across the Commonwealth through transportation.
+MassDOT manages and maintains:
+- General transportation issues
+- Transportation bond bills and legislation
+- EZDriveMA
+- State highways
+- Massachusetts Bay Transportation Authority (MBTA)
+- The Registry of Motor Vehicles (RMV)
+- Aeronautics (regional airports)
+- Rail and transit
+- Bike and pedestrian trails
+Contact MassDOT
+Main Office
+10 Park Plaza
+Suite 4160
+Boston, MA 02116
+For all departments, call MassDOT at (857) 368-4636 or toll free at (877) 623-6846
+Available 9:00 a.m. to 5:00 p.m., Monday through Friday.
+For those who need accessible services, call MassDOT at (857) 368-0655
+Website: https://www.mass.gov/orgs/massachusetts-department-of-transportation
+MassHealth
+What does MassHealth do?
+Under the Executive Office of Health and Human Services (EOHHS), MassHealth provides comprehensive healthcare coverage to over 2 million Massachusetts residents, including low-income families, individuals with disabilities, and the elderly.
+MassHealth offers a wide range of services, including:
+- Health insurance coverage for eligible residents
+- Primary and specialty care services
+- Long-term care and home- and community-based services
+- Behavioral health services
+- Prescription drug coverage
+- Support for children, families, and people with disabilities
+- Children’s Behavioral Health Initiative (CBHI)
+- One Care
+Contact MassHealth
+Main Office
+100 Hancock Street
+1st Floor
+Quincy, MA 02171
+Call the MassHealth Customer Service Center at (800) 841-2900
+Available 8:00 a.m. to 5:00 p.m., Monday through Friday.
+For those who need accessible services, call MassHealth via MassRelay at 711
+Website: https://www.mass.gov/orgs/masshealth
+Office of Consumer Affairs and Business Regulations (OCABR)
+What does OCABR do?
+The Office of Consumer Affairs and Business Regulation protects consumers through advocacy and education, and regulates Massachusetts businesses to ensure fair competitive practices.
+OCABR’s range of work includes:
+- Consumer issues/complaints (also see Attorney General)
+- Home Improvement Contractor programs
+- Data privacy, identity theft, and cyber security
+- Oversees Lemon Law and arbitration (also see Attorney General)
+- Oversees state Lemon Law arbitration
+- Landlord/tenant issues
+- Massachusetts Do Not Call Registry
+Contact OCABR
+Main Office
+1 Federal Street
+Suite 720
+Boston, MA 02110
+Call the Consumer Hotline at (617) 973-8787 or toll free at (888) 283-3757
+Website: https://www.mass.gov/orgs/office-of-consumer-affairs-and-business-regulation
+Home Improvement Contractor Programs
+Website: https://contractorhub.mass.gov/s/
+1 Federal Street
+Suite 720
+Boston, MA 02110
+Office for Refugees and Immigrants (ORI)
+What does ORI do?
+ORI’s mission is to promote the full participation of refugees and immigrants as self-sufficient individuals and families in the economic, social, and civic life of Massachusetts.
+ORI supports services that meet the needs of refugees and immigrants through a network of service providers in Massachusetts.
+ORI:
+- Administers federally funded refugee resettlement program
+- Administers state funded Citizenship for New Americans Program (CNAP)
+- Administers state and federally funded Refugee Employment Services (RES)
+- Offers financial literacy training and case management
+- Supports educational programs for English language learning and vocational training
+- Coordinates legal assistance
+Contact ORI
+Main Office
+600 Washington Street,
+4th floor
+Boston, MA 02111
+Call ORI at (617) 727-7888
+Available 9:00 a.m. to 5:00 p.m., Monday through Friday.
+For those who need accessible services, call ORI at (617) 727-8147
+Website: https://www.mass.gov/orgs/office-for-refugees-and-immigrants
+Registry of Motor Vehicles (RMV)
+What does the RMV do?
+The RMV oversees:
+- Motor vehicle licenses
+- ID services
+- Vehicle titles and registrations
+- Car inspections
+- Disability plates and placards
+- Merit Rating Board
+Visit the RMV’s Online Service Center for over 40 transactions that can be completed online and skip the trip to the RMV.
+If you need to visit the RMV, prepare by visiting the Online Service Center first.
+Contact the RMV
+Registry of Motor Vehicles
+PO Box 55889
+Boston, MA 02205
+For suspension, revocation, or citation questions, call the RMV at (857) 368-8200
+Call the RMV Contact Center at (857) 368-8000
+Website: https://www.mass.gov/orgs/massachusetts-registry-of-motor-vehicles
+Chicopee RMV Service Center
+1011 Chicopee Street
+Chicopee, MA 01013
+Website: www.mass.gov/locations/chicopee-rmv-service-center
+Easthampton RMV Service Center
+116 Pleasant Street
+Easthampton, MA 01027
+Website: www.mass.gov/locations/easthampton-rmv-service-center
+Greenfield RMV Service Center
+18 Miner Street
+Greenfield, MA 01301
+Website: www.mass.gov/locations/greenfield-rmv-service-center
+Springfield RMV Service Center
+1250 St.
+James Ave
+Springfield, MA 01104
+Website: https://www.mass.gov/locations/springfield-rmv-service-center

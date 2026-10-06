@@ -1,0 +1,142 @@
+PRESS RELEASE
+100+ Current and Former Elected Officials Endorse Rep.
+Brad Schneider
+Rep.
+Brad Schneider (IL-10) proudly announced the endorsement of more than 100 current and former elected officials serving the people of Illinois’s 10th Congressional District.
+Such an early display of broad and enthusiastic support is unprecedented in the district and reflects Schneider’s long record of working closely with local, state, and national leaders.
+These people recognize Brad’s commitment to delivering results for the people of the 10th District.
+“I am beyond grateful for the support and friendship of so many incredible public servants and community leaders,” said Schneider.
+“Serving in Congress is the greatest responsibility and highest honor of my life, and I am proud to earn the trust and confidence of the people with whom I am privileged to work.
+I am proud of my work representing the values and priorities of the people I serve, and I think the overwhelming support of so many respected leaders reflects the value my team and I bring to the district.”
+These endorsements reinforce the overwhelming momentum the Schneider campaign is building across the district.
+“I look forward to continuing to serve the people of IL-10 in the 120th Congress,” continued Schneider.
+“Whether through our dedicated constituent services team here in Illinois, or in my many important roles in Congress including serving on the Ways and Means and Foreign Affairs Committees, as chair of the New Democrat Coalition, and as co-chair of the bipartisan Abraham Accords Caucus, I will continue to work every day to deliver for our communities, protect our values, and stand up to the extremists in Congress and the Administration threatening our nation’s future prosperity and security.”
+Rep.
+Schneider’s newly announced endorsements include:
+Illinois Statewide Leaders
+- Governor JB Pritzker
+- Secretary of State Alexi Giannoulias
+- Treasurer Michael Frerichs
+- Comptroller Susana Mendoza
+U.S.
+Senate
+- Senator Dick Durbin
+- Senator Tammy Duckworth
+State Senate
+- Senator Ram Villivalam - District 8
+- Senator Mark Walker - District 27
+- Senator Julie Morrison - District 29
+- Senator Adriane Johnson - District 30
+- Senator Mary Edly-Allen - District 31
+State House of Representatives
+- Representative Jennifer Gong-Gershowitz - District 17
+- Representative Robyn Gabel - District 18
+- Representative Tracy Katz Muhl - District 57
+- Representative Bob Morgan - District 58
+- Representative Dan Didech - District 59
+- Representative Rita Mayfield - District 60
+- Representative Joyce Mason - District 61
+County Leaders
+- Cook County Assessor Fritz Kaegi
+- Lake County Sheriff John Idleburg
+- Lake County State’s Attorney Eric Rinehart
+- Lake County Clerk Anthony Vega
+- Lake County Treasurer Holly Kim
+- Lake County Clerk of Circuit Court Erin Cartwright Weinstein
+- Lake County Coroner Jennifer Banek
+- Lake County Regional Superintendent Michael Karner
+- McHenry Township Assessor Mary Mahady
+- North Shore Water Reclamation District Trustee (Ward 5) Rhoda Pierce
+County Board Chairs
+- Lake County Board Chair Sandy Hart
+- Cook County Board of Commissioners President Toni Preckwinkle
+Cook County Board
+- Commissioner Scott Britton - 14th District
+Lake County Board Members
+- Lake County Board Member Gina Roberts - District 4
+- Lake County Board Member John Wasik - District 6
+- Lake County Board Member Carissa Casbon - District 7
+- Lake County Board Member Diane Hewitt - District 8
+- Lake County Board Member Mary Ross Cunningham - District 9
+- Lake County Board Member Jessica Vealitzek - District 10
+- Lake County Board Member Paul Frank - District 11
+- Lake County Board Member Paras Parekh - District 12
+- Lake County Board Member Angelo Kyle - District 14
+- Lake County Board Member Jennifer Clark - District 15
+- Lake County Board Member Esiah Campos - District 16
+- Lake County Board Member Sara Knizhnik - District 18
+- Lake County Board Member Marah Altenberg - District 19
+Mayors and Village Presidents
+- Antioch Village Mayor Scott Gartner
+- Buffalo Grove Village President Eric Smith
+- Deerfield Mayor Daniel Shapiro
+- Fox Lake Mayor Donny Schmit
+- Grayslake Mayor Elizabeth Davies
+- Highland Park Mayor Nancy Rotering
+- Lake Bluff Village President Regis Charlot
+- Libertyville Mayor Donna Johnson
+- Northbrook Village President Kathryn Ciesla
+- North Chicago Mayor Leon Rockingham
+- Park City Mayor Steve Pannell
+- Richmond Village President Toni Wardanian
+- Round Lake Mayor Brian Brubaker
+- Spring Grove Village President Bob McMahon
+- Vernon Hills Village President Thom Koch Jr.
+- Waukegan Mayor Sam Cunningham
+- Wheeling Village President Pat Horcher
+- Winnetka Village President Bob Dearborn
+- Zion Mayor Billy McKinney
+Trustees, City Councilmembers, & Alderpeople
+- Antioch Village Trustee Jose Martinez
+- Buffalo Grove Trustee Dave Weidenfeld
+- Grayslake Trustee Lalena Zoey Magnetta
+- Hebron Trustee Dawn Milarski
+- Lake Bluff Trustee Taryn Fisher
+- Northbrook Trustee Robert Israel
+- North Shore Water Reclamation District Trustee Rhoda Pierce
+- Wheeling Township Trustee Austin Medrich
+- Highland Park City Councilmember Annette Lidawer
+- Highland Park City Councilmember Anthony Blumberg
+- Highland Park City Councilmember Barisa Meckler Bruckman
+- Highland Park City Councilmember Jon Center
+- Highland Park City Councilmember Yumi Ross
+- Waukegan Alderwoman 5th Ward Edith Newsome
+Township Supervisors
+- Moraine Township Supervisor Nancy Chausow Shafer
+- Northfield Township Supervisor Shiva Mohsenzadeh
+- Vernon Township Supervisor Tim Kobler
+- Waukegan Township Supervisor Marc Jones
+- West Deerfield Township Supervisor Alysson Feiger
+Democratic County Chairs
+- Cook County Democratic Party Chair Toni Preckwinkle
+- Lake County Democrats Chair Lauren Beth Gash
+- McHenry County Democrats Chair Ruth Scifo
+Democratic Township Chairs
+- Tenth Dems Chair Bonnie Berger-Neel
+- Tenth Dems Vice-Chair Jeanine Chyna
+- Antioch Township Democrats Chair Susan Moore
+- Avon Township Democrats Chair Kristal Larson
+- Benton Township Democrats Chair Gina Roberts
+- Fremont Township Democrats Chair Matt Lowry
+- Grant Township Democrats Chair Linda Troester
+- Libertyville Township Democrats Chair Jennifer Banek
+- Moraine Township Democrats Chair Colleen Jenn
+- New Trier Township Democrats Chair Patrick Hanley
+- Northfield Township Democrats Chair Tracy Katz Muhl
+- Shields Township Democrats Chair Mike Pierret
+- Vernon Township Democrats Chair Sheila Sebor
+- Waukegan Township Democrats Chair Matt Muchowski
+- West Deerfield Township Democrats Chair Kim Parson
+- Wheeling Township Democrats Chair Mary Kay Baldino
+- Zion Township Democrats Chair Pam Idleburg
+10th District Democratic Committeepersons
+- Thomas Maillard
+- Melinda Bush
+Former Elected Officials
+- Former Buffalo Grove Mayor Elliott Hartstein
+- Former Buffalo Grove Mayor Beverly Sussman
+- Former College of Lake County Board of Trustees Chair Torrie Mark Newsome
+- Former Deerfield Mayor Harriet Rosenthal
+- Former Highland Park City Council Member Kim Stone
+- Former Lake Bluff Village President Kathy O’Hara
+- Former Spring Grove Mayor Mark Eisenberg

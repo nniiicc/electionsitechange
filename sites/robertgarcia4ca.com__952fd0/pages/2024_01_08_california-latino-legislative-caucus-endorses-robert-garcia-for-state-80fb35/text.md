@@ -1,0 +1,10 @@
+Chair of the House Democratic Caucus, Congressman Pete Aguilar stands with Robert Garcia for AD-50
+Rancho Cucamonga, CA – Today, Etiwanda School Boardmember Robert Garcia’s campaign for California State Assembly announced an official endorsement from Congressman Pete Aguilar.
+Congressman Aguilar represents California’s 33rd Congressional District, which is based in San Bernardino County and overlaps with 52% of the 50th State Assembly District.
+Prior to his election to Congress, Aguilar served as Mayor for the City of Redlands.
+In announcing the endorsement, Congressman Pete Aguilar stated, “As an experienced school board member and educator, Robert Garcia has worked tirelessly to expand educational opportunities for students, improve our public schools and keep our classrooms safe.
+I’m proud to endorse Robert’s campaign for State Assembly because I know that he will continue fighting to create better-paying jobs in the Inland Empire, lower household costs for families, reduce gun violence in our communities and defend abortion rights.”
+Garcia is the only candidate in the race to earn the endorsement of the California Democratic Party and California State Assembly Majority Leader Emerita Eloise Gómez Reyes, who currently represents AD-50.
+“I’m very honored to earn Congressman Pete Aguilar’s endorsement and I’m thankful for his leadership in our community,” Garcia stated.
+“Congressman Aguilar is a voice for middle-class and working families like mine, and I look forward to working together to ensure the needs of the Inland Empire are being effectively addressed in our state and federal capacities.”
+Congressman Pete Aguilar joins a growing and diverse coalition of labor unions and elected leaders backing Garcia for Assembly, including the California Teachers Association, California Federation of Teachers, UA Local 398, Majority Leader Emerita Eloise Gomez Reyes, San Bernardino County Supervisor Joe Baca Jr., Assemblymember Sabrina Cervantes, Assemblymember Mike Fong, and State Senator Maria Elena Durazo.

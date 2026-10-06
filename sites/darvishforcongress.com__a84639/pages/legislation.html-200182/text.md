@@ -1,0 +1,52 @@
+01
+Safe Distance Protocol for Dogs and Their Handlers Act
+Status: Prior working draft
+View PDF
+02
+Utah Free Outdoor Access and Responsible Dog Recreation Act
+Status: Prior working draft
+View PDF
+03
+Constitutional Supremacy and Individual Liberty Act of 2027
+Status: Prior working draft
+View PDF
+04
+Know Your Record Act of 2027
+Status: Prior working draft
+View PDF
+05
+Evidence, Due Process, and False Allegation Accountability Act of 2027
+Status: Consolidated working draft - replaces two overlapping prior drafts
+View PDF
+06
+Iranian Freedom and Democratic Resistance Support Act of 2027
+Status: Prior working draft
+View PDF
+07
+Citizen Law Enforcement Officer Act of 2027
+Status: Prior working draft
+View PDF
+08
+Made in America Tax Freedom Act of 2026
+Status: Prior working draft
+View PDF
+09
+Utah Homeowner First and Second-Home Accountability Act
+Status: Prior working draft
+View PDF
+10
+American Wolf Protection and Recovery Act of 2027
+Status: Consolidated working draft - replaces three overlapping wolf drafts
+View PDF
+11
+American Medical Freedom and Medical Records Access Act of 2026
+Status: Updated working draft - criminal-record provisions moved to the Know Your Record Act
+View PDF
+12
+Artificial Intelligence Freedom, Decentralization, and Competition Act of 2026
+Status: Working draft - not introduced
+View PDF
+13
+Utah Family Prosperity, Homeownership, and Economic Freedom Act of 2026
+Status: Working draft - not introduced
+View PDF

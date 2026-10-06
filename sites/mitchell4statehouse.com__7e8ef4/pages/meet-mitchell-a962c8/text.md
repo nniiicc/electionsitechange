@@ -1,0 +1,9 @@
+Meet Mitchell
+Mitchell Horner is currently serving his second term in the Georgia House of Representatives, representing the people of House District 3.
+First elected by the voters of Northwest Georgia, Mitchell has focused his legislative work on fiscal oversight, tax relief, and government transparency.
+Before serving in public office, Mitchell worked in private business and operations management, where he gained experience in budgeting, financial oversight, and operational leadership.
+That background continues to shape his approach to government: emphasizing accountability, responsible budgeting, and efficient use of taxpayer dollars.
+In the legislature, he has worked on efforts to reduce taxes, strengthen fiscal oversight, improve audit transparency, and ensure government spending is accountable to the public.
+Mitchell regularly works with local organizations, community leaders, churches, and civic groups to address issues affecting families, schools, and businesses across Catoosa County and Northwest Georgia.
+Mitchell values faith, family, and community.
+In his free time, he enjoys studying history, economics, and public policy, spending time with his family, and attending community events throughout Northwest Georgia.

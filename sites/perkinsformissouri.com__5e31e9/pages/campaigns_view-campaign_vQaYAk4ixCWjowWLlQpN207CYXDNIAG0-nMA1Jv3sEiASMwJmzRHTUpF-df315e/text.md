@@ -1,0 +1,10 @@
+| Tomorrow ends the reporting period for the final fundraising quarter before the general election, and with just 35 days until Election Day, there is no time to waste. ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ ͏ |
+| | | | | | | | Dear Subscriber First Name, | Tomorrow ends the reporting period for the final fundraising quarter before the general election, and with just 35 days until Election Day, there is no time to waste.
+My opponent has already been using out-of-state money to fill mailboxes across District 100 to spread his rhetoric and false narratives.
+Our campaign is focused on making sure voters hear directly from me about the issues that matter to our communities and the work I am committed to doing.
+The timing of our campaign resources matters.
+Having the ability to plan and execute now allows us to use those resources efficiently, rather than trying to put everything together in the final days before the election.
+The next 35 days will be busy, and I’m grateful to everyone who has stood with this campaign.
+I look forward to continuing to talk with voters across District 100 and making sure they have the information they need as they head to the polls.
+Please consider chipping in to the campaign before 11:59pm tomorrow, Wednesday, September 30th.
+Thank you for being part of this campaign, Mary Ann | | | | Paid for by Mary Ann Perkins for Missouri - Colin Lovett, Treasurer PO Box 301, Ballwin, MO 63011, United States Powered by Squarespace Unsubscribe |

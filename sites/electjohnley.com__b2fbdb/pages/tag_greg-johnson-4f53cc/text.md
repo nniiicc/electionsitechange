@@ -1,0 +1,9 @@
+Let’s build a simple bridge that improves traffic congestion and doesn’t bankrupt the taxpayers Sunday, September 6, 2026, Clark County Today By Rep.
+John Ley for Clark County Today Rep.
+John...
+John Ley discusses how SR 14's lane expansions successfully eased congestion and calls for similar solutions for the I-5 Bridge.
+John Ley exposes the costly scams tied to the Interstate Bridge Replacement and TriMet's overpriced demands.
+C-TRAN to get eight double decker zero emission buses paid by IBR Thursday, August 29, 2024 John Ley Clark County Today At the Aug. 13 C-TRAN Board meeting, the Interstate...
+$7.5 billion to give the lions share of space to transit, bikers & pedestrians The Interstate Bridge Replacement Program began as a resurrection of the $3.5 billion failed Columbia River...
+Tolling starts on I-205 but expands to “double tolls” for the Interstate Bridge
+Greg Johnson, administrator of the Interstate Bridge Replacement (IBR) project, is either making it up as he goes, or intentionally misleading taxpayers and the Washington and Oregon lawmakers.

@@ -1,0 +1,24 @@
+One week since being challenged, Greg has stayed silent, offering no response to the hundreds of thousands of NM-02 voters in southern New Mexico
+Las Cruces, NM – Today marks one week since Greg Cunningham was challenged by Gabe to debate with Univision — a Spanish-language debate and the only NM-02 debate hosted by an outlet in the El Paso media market, which broadcasts to hundreds of thousands of southern New Mexicans in the 2nd Congressional District.
+“Apparently, if Donald Trump tells Greg Cunningham to fly out to Dallas to talk to MAGA donors about his race, Greg hops on the first plane out.
+But if hundreds of thousands of New Mexicans who speak Spanish or live in southern New Mexico want to hear from him directly on why he supports Trump’s tanking economy, unlawful ICE raids, and an illegal war with Iran, Greg is nowhere to be found,” said Patricia Socarras Santiago, campaign spokesperson.
+“This is just another way that Greg is showing you he is for the MAGA donors who keep his campaign bankrolled — not New Mexicans.”
+HISPANIC VOTERS VOTE IN SPANISH
+Nearly 40% of New Mexico’s registered voters are Latino, and in 2024, more than half of them requested their ballots in Spanish.
+A campaign that claims to celebrate culture and pride should prove it: meet voters in their language, and show up for the parts of the process too often left out like a Spanish-language debate.
+Instead, Greg Cunningham talked about Hispanic voters without ever actually talking to them.
+In a recent interview reacting to by Spanish-language content creator Solangie Hernandez, Cunningham said: “Hispanic culture… is at its core a conservative culture.
+We value our families, we value our culture, we value our faith.
+Hispanic people and Hispanic culture is conservative, at its core at its foundation and I just don’t think they’ve realized it yet.”
+As Hernandez points out, Cunningham is treating Hispanic voters in New Mexico as a convenient talking point than actually making an effort to reach them.
+Cunningham involved Hispanic voters as a strategic asset while doing nothing to actually reach them in their own language.
+NEW MEXICANS BACKING VASQUEZ
+To date, Gabe has also earned the endorsements of AFGE Local 1050; AFT New Mexico; Brady PAC; Committee of Interns and Residents of New Mexico; AFSCME Council 18; New Mexico Carpenters Local 1319; CWA Unidos Local 7076; Education Votes; Equality PAC; Giffords PAC; Human Rights Campaign; IBEW Local 611; Latino Victory; League of Conservation Voters; Moms Demand Action Gun Sense Candidate; MoveOn; National Wildlife Action Fund; NRDC Action Fund; National Committee to Preserve Social Security and Medicare; New Mexico State Council of Machinists; New Mexico Federation of Labor; New Mexico Professional Fire Fighters Association; New Mexico State College Dems; The Next 50; Organizers in the Land of Enchantment (OLÉ); Repro Freedom For All; Semilla Action; Sierra Club; SMART Local 49; Stop Gun Violence PAC; and Young Democrats of New Mexico.
+VASQUEZ IS TRUSTED BY THE DISTRICT
+Gabe is the only Democrat to have won New Mexico’s 2nd Congressional District twice consecutively.
+In 2022, he beat incumbent Yvette Herrell by the tightest margin in the country (0.7%).
+Last cycle, Gabe again defeated Yvette Herrell, this time by 4%— the same year that Donald Trump won the district by 2% — making him one of just 14 Democrats to win a district that went for Trump in 2024.
+Gabe has continued to win over Democrat, Republican and Independent voters because he is willing to work with anyone to deliver results for New Mexicans on the issues they care most about: lowering the cost of living, expanding access to health care, protecting our public lands, and fixing our broken immigration system.
+In November, he will set another historic record by winning New Mexico’s 2nd Congressional District for a third consecutive cycle.
+Voters can learn more about the campaign and Gabe’s record by visiting www.gabeforcongress.com.
+###

@@ -1,0 +1,58 @@
+Endorsements
+Our list of public supporters grows every day.
+Thank you for your support!
+Current and former elected officials
+Fitchburg Mayor Julia Arata-Fratta
+Stoughton Mayor Tim Swadley
+McFarland Village President Stephanie Brassington
+Dane County Supervisor Donald Dantzler
+Dane County Supervisor Kerry Marren
+Dane County Supervisor Michael Engelberger
+Fitchburg Alder Bill Jetzer
+Fitchburg Alder Donald Dantzler
+Fitchburg Alder Gabriella Gerhardt
+Fitchburg Alder Jake Lepper
+Fitchburg Alder Joe Maldonado
+Fitchburg Alder Logan Reigstad
+Fitchburg Alder Micah LaDousa
+Stoughton Alder Brett Schumacher
+Stoughton Alder Christina Wozniak Scanlon
+Stoughton Alder Greg Jenson
+Stoughton Alder Jordan Tilleson
+Stoughton Alder Lisa Reeves
+Stoughton Alder Phil Caravello
+McFarland Village Trustee Alisa Leamy
+McFarland Village Trustee Kathy Annen
+McFarland Village Trustee Luke Fessler
+Dunkirk Town Chairman Norm Monsen
+Dunn Town Chairman Steve Greb
+Rutland Town Chairman Kent Knutson
+Dunkirk Town Supervisor Dan Jenks
+Dunkirk Town Supervisor Brad Gilbert
+Dunn Town Supervisor Jeff Hodgson
+Dunn Town Supervisor Roz Gausman
+Pleasant Springs Town Chairman Eric Olson
+Pleasant Springs Town Supervisor Faith Schuck
+Pleasant Springs Town Supervisor Melanie Miller
+Pleasant Springs Town Supervisor Renee Gouaux
+Rutland Town Supervisor Jim Dorn
+Rutland Town Supervisor Mark Porter
+Rutland Town Supervisor Sue Williams
+Albion Town Supervisor Larry Beck
+McFarland School Board President Meghan Fessler
+McFarland School Board Treasurer Megan Chatman
+McFarland School Board Clerk Bruce Fischer
+McFarland School Board Member Yanni McRae
+Verona School Board Member Chris Peguero
+Former Pleasant Springs Town Chairman Dick Green
+Former Fitchburg Mayor Aaron Richardson
+Former Fitchburg Mayor Steve Arnold
+Former Dane County Executive Kathleen Falk
+Dane County Supervisor Henry Fries
+Waunakee Village Trustee Sam Kaufmann
+Former Middleton Mayor Emily Kuhn
+Former State Senator Gary Goyke
+Former State Senator Joe Strohl
+COMMUNITY LEADERS
+Simon Mehring
+Mark Sinnott

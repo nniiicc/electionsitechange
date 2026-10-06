@@ -1,0 +1,1 @@
+Zac Rutherford 12/9/20 Zac Rutherford 12/9/20 Harshbarger announces support of Texas Lawsuit Read More Zac Rutherford 11/30/20 Zac Rutherford 11/30/20 Rep.-elect Diana Harshbarger says Congress is no match 'for a woman who can multitask' Read More

@@ -1,0 +1,5 @@
+The Issues: Affordable Housing
+| We all see the signs of our affordable housing crisis…more homeless on our beaches, parks, and towns, doubling up of families in homes, high rents, and housing prices beyond the reach of many families.
+All levels of government need to work with for-profit and nonprofit organizations to address the continuum of housing needs on Kaua`i and throughout the State.
+Key factors to making affordable housing work is identifying available free or low-cost land, access to low-cost financing, and public-private partnerships.
+I support the following actions: Development of affordable housing for working families Development of permanent supportive housing Coordination of services, including mental health and substance abuse services, to address homelessness Programs, like Kaua`i Habitat for Humanity, that create opportunities for families to build single-family homes using their sweat equity Dwelling Unit Revolving Funds to cover infrastructure costs Rental Housing Revolving funds to cover predevelopment costs Federal and State Low-Income housing tax credits to help reduce construction costs | |

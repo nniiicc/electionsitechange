@@ -1,0 +1,49 @@
+Protecting the Post Office
+No matter how virtual our world becomes, Americans rely on the critical services delivered everyday by the United States Postal Service.
+Stephen Lynch, like the majority of Americans, supports the USPS and its more than a half a million workers.
+A member of a postal family, Stephen is a vocal and unwavering supporter of the USPS and its workers, fighting against legislation that would slash salaries, health and retirement benefits, reducing delivery days and, at its most extreme, full privatization of the postal service.
+His efforts include co-authoring and introducing a bill which has bipartisan support to protect the USPS from privatization and ensure it remains an independent government agency, and supporting legislation to guarantee mail delivery at least 6 days a week.
+Stephen also understands that in order to protect the USPS and the services it provides, the serious financial issues facing the Service must be addressed.
+A member of the bipartisan Postal Preservation Caucus, Stephen is working with his colleagues to update the law that requires the prefunding of health benefits of future retirees- paying billions into the Treasury decades before it is necessary.
+The Postal Service is the only government agency required to do this.
+Repealing this overly burdensome statue will take an important and immediate step in stabilizing the USPS’s finances.
+The emergence of the coronavirus pandemic in the U.S. has placed even greater strains on the Postal Service as our nation’s postal workers continue to deliver essential medical supplies to our first responders and frontline healthcare personnel and prescription medicine to our most vulnerable citizens.
+In preparation for the 2020 election and the 2020 Decennial Census, they are also processing critical Vote-By-Mail information and Census Bureau mailings.
+Given these additional challenges, Stephen strongly supports the inclusion of robust pandemic relief funding for the Postal Service.
+‘Let’s protect folks’: Rep.
+Lynch urges Congress to invalidate Trump’s mail-in ballot order
+Updated: 7:19 PM EDT May 14, 2026 Sharman Sacchetti Political Reporter and Co-Host of WCVB’s “On The Record” NEEDHAM, Mass. — Earlier this year, President Trump signed an executive order to restrict the use of mail-in ballots, an order that's now receiving...
+Reps.
+Lynch, Maloney and Lawrence Introduce Postal Service Improvement Act
+Washington, D.C. — This week, U.S.
+Representative Stephen F.
+Lynch, Chairman of the Subcommittee on National Security, along with U.S.
+Representative Carolyn B.
+Maloney, Chairwoman of the Committee on Oversight and Reform, and Committee Member U.S.
+Representative...
+Stephen Lynch gets into contentious exchange with USPS head DeJoy: ‘What the heck are you doing?’
+Representative Stephen F.
+Lynch, a longtime South Boston Democrat, got into a contentious back-and-forth with Postmaster General Louis DeJoy on Monday during a hearing on operational changes that have led to mail delays across the country.
+Lynch grilled DeJoy on the...
+Video: Stephen Lynch tears into Postmaster General Louis DeJoy over the recent USPS changes
+"I’m tempted to ask, after 240 years of patriotic service of delivering the mail, how can one person screw this up in just a few weeks?" Boston.Com August 24, 2020 By Christopher Gavin Congressman Stephen Lynch pressed Postmaster General Louis...
+Congressman to USPS chief: What the heck are you doing?
+CNN August 24, 2020 United States Postal Service Postmaster General Louis DeJoy got into a contentious exchange with Rep.
+Stephen Lynch (D-MA) over the removal of mail sorting machines.
+Click here to watch video.
+Massachusetts officials rally to reverse U.S.
+Postal Service changes ahead of mail-in voting: ‘This is a direct attack’
+Sorting machines have been removed from Boston’s South Station facility Boston Herald August 18, 2020 By RICK SOBEY BOSTON, MA. – AUGUST 18 Congressman Stephen Lynch speaks at a press conference in support of the United States Postal Service and its employees...
+Massachusetts members of Congress call on postmaster general to step down
+Boston Globe August 18, 2020 By Jeremy C.
+Fox and Danny McDonald Representative Stephen F.
+Lynch joined the American Postal Workers Union, the National Association of Letter Carriers AFL-CIO, and the National Postal Mail Handlers Union outside of the US Postal...
+USPS workers, Lynch protest loss of high-speed mail sorting machines in Brockton
+Brockton Enterprise August 18, 2020 By Marc Larocque BROCKTON — As many voters are relying on them this year to make sure their ballots are counted, workers at U.S.
+Postal Service facilities in Brockton said the city’s mail facilities are down two...
+House Oversight Committee Calls Postmaster General To Testify at “Urgent” Hearing On Sweeping Operational And Organizational Changes
+Washington, D.C. — Today, the House Committee on Oversight and Reform invited Postmaster General Louis DeJoy to testify at an urgent hearing on Monday, August 24, 2020, on his sweeping operational and organizational changes at the Postal Service, which experts...
+Lynch Discusses The Budget Crisis At US Postal Service
+Boston Public Radio By Arjun Singh August 16, 2020 U.S.
+Rep.
+Stephen Lynch on Friday expressed outrage at President Donald Trump's opposition to further funding the United States Postal Service, a move the congressman said is in order to benefit...

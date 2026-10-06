@@ -1,0 +1,19 @@
+All Coverage
+Press & Media
+Caroline Shinkle Joins Dr.
+Naomi Wolf on her Podcast, Outspoken
+September 17, 2026
+https://yucommentator.org/2026/09/interview-with-caroline-shinkle-candidate-for-u-s-congress/
+The Commentator (Yeshiva University's student newspaper) "Interview with Caroline Shinkle, Candidate for U.S.
+Congress"
+September 16, 2026
+Washington Examiner Publishes Caroline Shinkle's Op-Ed
+September 16, 2026
+https://pjmedia.com/bryan-s-jung/2026/09/13/gop-congressional-candidate-hopeful-runs-in-nyc-amidst-mamdani-backlash-n4957173
+PJ Media "GOP Congressional Candidate Hopeful Runs in NYC Amid Anti-Mamdani Backlash"
+September 13, 2026
+https://5townscentral.com/2026/09/09/caroline-shinkle-is-ready-to-take-on-antisemitism-the-dsa-in-congress-this-november/
+"Caroline Shinkle is Ready to Take on Antisemitism & The DSA in Congress This November"
+September 9, 2026
+United Jewish Teachers Endorses Caroline Shinkle for Congress in NY-12
+September 9, 2026

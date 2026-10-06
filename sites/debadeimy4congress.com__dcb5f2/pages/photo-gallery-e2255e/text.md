@@ -1,0 +1,14 @@
+Skip to content
+Photo Gallery
+FLORIDA BORN, AMERICAN STRONG
+Help us campaign today for a better tomorrow!
+MORE ISSUES DEBORAH CARES ABOUT
+Contributions can be Mailed:
+- STRONG MILITARY
+- RESPECT FOR WOMEN
+- U.S.
+CONSTITUTION
+- PARENTAL RIGHTS
+- HONOR VETERANS
+- LAW ENFORCEMENT
+- SUPPORT FOR ISRAEL

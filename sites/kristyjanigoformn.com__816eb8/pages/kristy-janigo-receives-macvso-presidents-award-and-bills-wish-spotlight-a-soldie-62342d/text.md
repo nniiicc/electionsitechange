@@ -1,0 +1,16 @@
+Maple Grove— Kristy Janigo was selected for two awards related to her work with veterans, making these her third and fourth recognitions this year.
+At the fall conference of the Minnesota Association of County Veterans Service Officers (MACVSO) in mid-September, past president Josh Beninga of Lac qui Parle County announced Janigo was the recipient of his president’s award because of her work as the association’s legislative chair during the 2024 and 2025 legislative sessions.
+During that time, she was successful in working with lawmakers to pass four pieces of legislation the association supported.
+In 2025, those bills were HF 2773 / SF 1893 which added $300,000 in state funding to address food insecurity among veterans in suburban, rural, and outstate Minnesota as well as HF 1350 / SF 1452 which added $60,000 to the Minnesota Department of Veterans Affairs grant funding for MACVSO.
+The appropriation will fund three technical assistance coordinators in women veterans, suicide prevention, and justice involved veterans to better equip county veterans service officers to meet specialized needs.
+Both bills were incorporated into the veterans omnibus bill, a funding and policy package for veterans and military affairs.
+One of the 2024 bills was the removal of the funding cap of $300 on county funding to help veterans service organizations host community observances for Memorial Day and Veterans Day.
+The other bill was a technical change to the state statute allowing county veterans service officers access to vital statistics documents for the purpose of representing veterans on benefits matters.
+“(Janigo) is being recognized for serving as MACVSO’s legislative bulldog … working diligently to ensure veterans legislation, specifically CVSO-pertinent legislation, is passed into law,” said Beninga.
+Janigo received the Bill’s Wish Spotlight A Soldier Award at their Oct. 4 event called Rise and Remember, an evening of remembrance on Minnesota Veterans Suicide Awareness Day.
+Bill’s Wish is a nonprofit organization dedicated to supporting military veterans and their families by providing mental health services and raising awareness about mental health issues.
+Janigo was selected as a leader in preventing veterans substance abuse and suicide for her work supporting veterans in the Fourth Judicial Branch Veterans Treatment Court with accessing their benefits and as a veterans legislative advocate at the state capital.
+Berlynn Fleury, a board member of the nonprofit, introduced Janigo and gave her the award at the event.
+“Before I got into veterans advocacy, I considered becoming a Lutheran pastor or a psychologist,” said Janigo.
+“My work with veterans uses all those skills.”
+Kristy Janigo is third generation Army, a Maple Grove city council member, and candidate for state senate district 37.

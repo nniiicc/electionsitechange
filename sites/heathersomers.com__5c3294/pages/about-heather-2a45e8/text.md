@@ -1,0 +1,16 @@
+About Heather
+Heather Somers has served as the state senator for the 18th district, delivering results for Eastern Connecticut and challenging the status quo in Hartford, since January 2017.
+In Hartford, Somers serves as a tireless and effective advocate for eastern Connecticut.
+Somers has a successful track record of passing legislation that includes reducing the income tax and tax burden on seniors and small businesses, tackling the mental health crisis with innovative solutions, prioritizing women’s health, supporting police and first responders, protecting the environment, securing funding for education, upholding the rights of parents, combating the opioid epidemic, protecting women from sexual harassment and domestic violence, and boosting eastern Connecticut’s tourism, local assets, military presence, and employers.
+She has also been a fierce advocate for children’s mental health.
+Somers has also led the fight to hold Hartford and state government accountable to taxpayers and the public.
+Somers exposed the Connecticut Board of Pardons and Paroles (BOPP) for callously disregarding the concerns of victims, their families, and the interests of public safety by dramatically increasing the number of commutations, including for violent criminals — and Somers continues to lead the charge to reform the parole board and system to protect our communities.
+Somers’s advocacy on behalf of victims’ families helped lead to the governor replacing the chair of the BOPP.
+Somers previously helped lead the charge to expose mismanagement at the Connecticut Port Authority, demanding a public hearing to hold those in charge accountable.
+Somers introduced legislation to ensure the state’s Contracting Standards Board be fully funded and moved to the State Auditor’s office to enable them to continue to review contracts sought by the Port Authority along with other no-bid contracts.
+Somers previously helped expose abuse and mismanagement at the state-run Whiting Forensic Hospital leading to reform and hold CMEEC, a quasi-public energy cooperative, accountable for misuse of ratepayer resources, leading to arrests and jailtime for perpetrators.
+She has served as the chief deputy Republican leader, both chair and co-chair of the Public Health Committee, vice chair of the Education Committee, vice chair of the Environment Committee, ranking member of the Transportation Committee, member of the Planning and Development Committee, member of Appropriations Committee, ranking member of Appointments and Nominations, member of the Commerce Committee, and in numerous caucuses.
+Somers also serves as co-chair of the Senate Tourism Caucus and Mental Health Caucus.
+Before serving in the State Senate, Somers served as a town councilor in Groton and as mayor of the Town of Groton.
+Somers was a co-founder of a biotech company and was the recipient of the Medical Device Excellence Award (2000) and a Silver Award Winner for the Connecticut Women of Innovation Awards (2007).
+Somers holds a Bachelor of Arts in Economics from the University of Connecticut and has three children, one granddaughter, many beloved pets, and currently resides in Mystic.

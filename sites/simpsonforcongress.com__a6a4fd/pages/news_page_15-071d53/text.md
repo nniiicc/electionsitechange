@@ -1,0 +1,24 @@
+- Simpson Stands up for Wheat, Barley, and Dairy Encourages White House and USDA to include Idaho in trade assistance mitigation Washington, D.C. – Idaho Congressman Mike Simpson sent two letters to the White House and United States Department of Agriculture (USDA) encouraging consideration of wheat, barley, and dairy in future trade mitigation assistance packages.
+The letters come at a pivotal time as the… Read more: Simpson Stands up for Wheat, Barley, and Dairy
+- Simpson Statement on Mueller Report Release Washington, D.C. – Idaho Congressman Mike Simpson released the following statement addressing the release of Special Counsel Robert Mueller’s report on Russia interference with the 2016 Presidential election: “Today’s release of the Mueller report marks the final day in a process that has dominated national discourse for two years.
+At last, the American people can… Read more: Simpson Statement on Mueller Report Release
+- Simpson and Fulcher Applaud USFWS Decision to Delist Wolves Decision would empower states to manage the recovered population Washington, D.C. – Idaho Congressmen Mike Simpson and Russ Fulcher lauded Acting Secretary of the Interior David Bernhardt’s announcement that the U.S.
+Fish and Wildlife Service (USFWS) will propose a rule to delist the gray wolf in the lower 48 states.
+This decision would build on… Read more: Simpson and Fulcher Applaud USFWS Decision to Delist Wolves
+- Simpson Supports Public Lands Package S. 47 includes two Simpson bills and LWCF reauthorization On Tuesday, Idaho Congressman Mike Simpson supported final passage of S. 47, the Natural Resources Management Act.
+The legislation includes over 100 individual bills which deliver local solutions to public lands issues, primarily in the west.
+The bill includes two bills authored by Congressman Simpson that… Read more: Simpson Supports Public Lands Package
+- Simpson and Kilmer Introduce LAND Act to Enhance Federal Investment in Public Lands Conservation bill would permanently reauthorize LWCF and create new dedicated funding to address the maintenance backlog at National Parks and other public lands Simpson and Kilmer Introduce LAND Act to Enhance Federal Investment in Public Lands Conservation bill would permanently reauthorize LWCF and create new dedicated funding to address the maintenance backlog at National Parks… Read more: Simpson and Kilmer Introduce LAND Act to Enhance Federal Investment in Public Lands
+- Simpson Commending President’s Message to Compromise for the Common Good Washington, D.C. – Idaho Congressman Mike Simpson released the following statement following President Trump’s State of the Union address.
+“President Trump showed us tonight that the things that unite us are much greater than that which divides us.
+I’m pleased he began his remarks with a mission to work together, as Americans, not Republicans, not… Read more: Simpson Commending President’s Message to Compromise for the Common Good
+- Simpson explains vote against impeachment POCATELLO — Congressmen Mike Simpson explained his case against impeaching President Donald Trump following a press conference Thursday.
+He called the effort to impeach Trump “a sham” and said he thought the accusations brought against the president didn’t rise to the level of impeachable offenses.
+“Abuse of power is so broad,” Simpson said.
+“There is… Read more: Simpson explains vote against impeachment
+- ICYMI: National Federation of Independent Business Endorses Congressman Simpson Boise, ID—Congressman Mike Simpson is pleased to announce the endorsement of the NFIB’s political action committee, the Save America’s Free Enterprise (SAFE) Trust.
+“As one of the nation’s leading associations for small business owners, I am grateful to receive the endorsement of NFIB” said Congressman Simpson.
+“One of my top priorities is to protect small… Read more: ICYMI: National Federation of Independent Business Endorses Congressman Simpson
+- ICYMI: The NRA-PVF Endorses Congressman Mike Simpson Boise, ID — Congressman Mike Simpson is pleased to announce the endorsement of the National Rifle Association-Political Victory Fund (NRA-PFV).
+The NRA-PVF also awarded Congressman Simpson an A+ on gun related issues, due to his consistent defense of the Second Amendment.
+“I am honored to once again receive the endorsement of the National Rifle Association,” said… Read more: ICYMI: The NRA-PVF Endorses Congressman Mike Simpson

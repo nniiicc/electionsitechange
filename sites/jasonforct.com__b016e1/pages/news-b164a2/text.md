@@ -1,0 +1,16 @@
+top of page
+CAMPAIGN NEWS
+The Latest Updates
+Buchsbaum Unanimously Endorsed for Reelection
+Jason with Delegates to the 69th District Convention State Representative Jason Buchsbaum (R-69) has been unanimously endorsed by the Republican nominating convention to run for reelection as State Representative for Connecticut’s 69th House District.
+Delegates from Bridgewater, New Milford, Roxbury and Southbury recently met at the Southbury Senior Center to vote on the endorsement.
+The nominating convention was chaired by Region 15 Board of Education Secretary Tom Marks,
+Jul 13
+Buchsbaum Announces Achievement of Fundraising Goals
+The following article was published in Voices on April 15, 2026:
+May 18
+Buchsbaum Announces Reelection Bid
+Fundraising Goals Exceeded.
+The following article was published in Voices on January 14, 2026:
+Jan 25
+bottom of page

@@ -1,0 +1,55 @@
+Issues
+Public Safety and Crime
+- NM often listed as one of the most dangerous states in the U.S.
+- Legislature has failed to pass more stringent laws giving judges ability to pass meaningful sentences
+- NM has become an attractive place for criminals who know our laws and courts are weak
+- Restrictive gun laws will not solve the issue
+- The state protects illegal immigrants who are often violent criminals and drug traffickers
+- The legislature must address juvenile crime so gangs and cartels can’t use our kids knowing those kids will most likely not be prosecuted
+- Reduction in crime can also be tied to the economic situation
+- Reducing taxes and regulation will help businesses create more jobs
+- More jobs will give young men and women something to do instead of crime
+- Improving our education system will also help reduce crime by ensuring our youth have the basic skills for the workforce
+For a more detailed look at my approach to our crime issue please read "How Should We Approach Crime in New Mexico?"
+Read More
+Taxing and Spending
+- NM budget increased 10.8% over last year
+- Since 2017 state spending has increased approximately 60%
+- Are you 60% better off?
+- NM has over $75 billion dollars in permanent funds
+- NM has the highest personal income tax rate in the region
+- Legislators still want to raise taxes
+- NM should eliminate income tax
+- Gross receipts tax is damaging for New Mexico business
+- Consumers pay tax several times on a product they buy
+It’s your money.
+You earned it and I will fight to for you to keep more of it!
+Read More
+Education
+Medical Care
+- Medical providers should not have to pay GRT
+- We must fix the malpractice limits
+- NM should allow compacts to as most states do so doctors can practice across state lines
+- Tell the trial lawyers that our medical care is not their piggy bank
+Read More
+Children, Youth, and the CYFD
+The safety of the child must come first and this hasn't been the case
+CYFD must be reformed
+Read More
+Affordability
+It has become more expensive to buy a home and even basic living expenses have risen
+A lot of the increase is caused by government action in the form of taxes, fees, and red tape
+Our state government should reduce your tax burden
+The state should provide incentives to help new home buyers and make mortgage payments tax deductible
+Read More
+Our Government
+Unless you're someone who likes the government making all your decisions for you and running your life from Santa Fe, you probably feel that your life would be much better with less government control.
+Our governor has been running roughshod over the state and spending your money like it was her own.
+Our legislature has been unwilling or unable to reign in her abuse of power.
+This cannot continue.
+Read More
+A Few Other Issues
+- We must protect our female athletes.
+Girls should not be threatened by biological males in sports.
+- The legislature must force the Secretary of State to clean up our voter rolls and establish a more secure voting system that requires voter ID.
+- We need to eliminate unelected “boards” that are empowered to regulate your life—like making you buy an expensive electric car.

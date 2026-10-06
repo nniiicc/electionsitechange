@@ -1,0 +1,54 @@
+NATALIE'S ACCOMPLISHMENTS
+As a native North Carolinian, UNC alum, and local elected official, Natalie has spent a lifetime learning about the strengths and challenges of North Carolina.
+With over a decade of work experience in transportation, economic development, and government affairs, Natalie entered the public realm as a locally elected official.
+Now, she is an elected senator and running for re-election in November 2022 to continue pursuing a progressive agenda that will transform the lives of hardworking North Carolinians.
+During this session, I have sponsored/co-sponsored key pieces of legislation such as:
+- SB 649 – (Sponsor) North Carolina Venture Fund, Provides funding for initial capital for developing technology companies and ventures.
+- SB 600 – (Sponsor) Study Automation and the Workforce, would establish a committee to review the current and future effects of automation on the workforce that would provide government officials, educators, and business leaders, with the information and insight necessary to guide the state towards mitigating the negative effects of automation on workers.
+- SB 589 – (Sponsor) Small business capital improvement account, an act to allow small businesses to eliminate state income taxes on a portion of revenue if used for capital expenditures.
+- SB 563 – (Sponsor) Renewable Energy Tax Credit, an act to reenact a tax credit incentive for investing in renewable energy property.
+Business provision: a credit ceiling of two million five hundred thousand dollars applies to each installation of renewable energy property placed in service for a business purpose.
+- SB 558 – (Sponsor) Veterans Business Participation Tracking, an act to encourage and promote the use of veteran contractors in state purchasing of goods and services, state construction contracts, and state information technology procurement.
+- SB 524 – (Sponsor) Small Business Assistance, An act to provide funds to assist small businesses.
+Provides grants to small businesses and establishes the small business recovery program.
+- SB 512 – (Sponsor) Hire NC Workers, an act to provide tax incentives for small businesses to hire North Carolina workers.
+- SB 334 – (Sponsor) Funds/Center For Entrepreneurship, an act to appropriate funds to the national institute of minority economic development to establish the center for entrepreneurship.
+- SB 223 – (Primary Sponsor) Durham/Grants to Businesses & Nonprofits, an act authorizing the city of Durham to make grants to businesses and private or public nonprofit organizations that serve the public interest and well-being of the Durham community and it’s citizens.
+Natalie's Past Accomplishments
+Natalie’s Key Accomplishments
+- Worked with a team to secure $1.5 Million for the North Carolina Carolina Freedom Park in current General Assembly budget
+- Served as NC Association of Public Transportation Association Legislative Committee Co-Chair
+- Worked on the Durham Orange Light Rail Transit Project (DO-LRT)
+- Worked to modify DO-LRT plans to better connect to NCCU
+- Planned and facilitated over 100 public engagement meetings for DO-LRT
+- Managed multi-million dollar budgets
+- Worked with General Assembly leadership to better address the needs of farmers
+- Applied for and received thousands of dollars in local, federal and state funds
+- Working as a small business owner
+Professional Experience
+- Over 10 years of experience in government affairs, transportation, agriculture, environmental affairs and economic development
+- Deputy Director of Communications NC Department of Justice
+- Director of Communications GoTriangle
+- Traveling Press Secretary Deborah Ross for US Senate
+- Principal and Owner – Murdock Anderson Consulting
+- Principal and Owner – Attal Strategies
+- Urban and Rural Transportation Planner
+- Minority Business Outreach Specialist
+- Grants writer and manager
+Democratic Party Experience
+- 1st Vice Chair of the Durham County Democratic Party 2017-2019
+- 3rd Vice President African American Caucus of NCDP 2017-2019
+- Secretary – Durham Democratic Women
+- Worked to establish a more inclusive SEC voting process
+- Successfully organized precincts across Durham County 2017-2019
+- Served at Precinct 5 Vice-Chair
+- Supported the development of a Durham County Millennial Caucus
+- Re-established a Durham County Democratic Party Fundraising Committee
+- Worked with a team to plan and fund projects to spur higher levels of minority participation
+- Served on the team that increased the diversity of our precinct chairs and judges
+- Chaired and reorganized the Precinct Committee
+Reach Us
+Natalie for NC Senate
+6409 Fayetteville Street, Suite 120-304
+Durham, NC 27713
+919.808.2520

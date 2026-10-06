@@ -1,0 +1,3 @@
+Dom Belza Earns California Correctional Peace Officers Association Endorsement
+Marysville, Calif. – Republican Assembly candidate Dom Belza (R-03) has received the endorsement of the 31,000 member California Correctional Peace Officers Association (CCPOA).
+"In Dom Belza we have a candidate…

@@ -1,0 +1,61 @@
+top of page
+ALL95 Blog
+ALL95 Day Four (Part Two)
+95 Counties in 95 Hours Challenge Day four wrapped up after midnight with Robert completing all 95 counties under 95 hours.
+Robert was able to visit every county seat and leave behind 95 Peace dollars (one in each county) in 86 hours and eight minutes.
+Check back for more picture hints and updates from Robert's 95 Counties in 95 Hours Challenges.
+Here are pictures and hints from the rest of the counties visited this evening on May 16th - early May 17th.
+The county list, below
+May 17
+ALL95 Day Four (Part One)
+Tomorrow (morning) is the last day for the 95 Counties in 95 Hours Challenge!
+Robert is finishing the last few counties and should head home ahead of schedule sometime after midnight.
+Check out the pictures from today's county visits as of 5 pm (eastern time) and hints for the locations of the Peace dollars.
+Check back later for more pictures and updates on the rest of the counties Robert visited during his journey through Tennessee.
+Below the gallery is a list of the countie
+May 16
+ALL95 Day Three (Part Two)
+Last stop on day three of the 95 Counties in 95 Hours Challenge was Nashville.
+Below are pictures of the county seats and hints for the locations of the Peace dollars left behind in the last 13 counties for the day (May 15th).
+You can zoom in on the upclose pictures to see where the envelope (Peace dollar) was left (may still be located) in each county.
+The list of counties visited this evening are below the gallery and correspond to the order of the photos and stops during t
+May 15
+ALL95 Day Three (Part One)
+95 COUNTIES IN 95 HOURS First stop on day three was the Lake County Courthouse in Tiptonville.
+Robert has passed through 16 counties today as of 5 pm eastern time.
+That brings our total count for the past three days to 56 counties.
+This means 56 Peace dollars (coins) have been placed in 56 counties across Tennessee.
+Robert hopes to hit a few more counties tonight to meet his goals for the 95 Counties in 95 Hours Challenge.
+See the list, below the gallery, for SOME of the coun
+May 15
+ALL95 Day Two
+95 COUNTIES IN 95 HOURS ALL95 Day two kicked off with Robert departing Cookeville in the morning.
+Today's (May 14th) total count came to 21 counties visited by 9:30 pm (eastern time).
+That brings his total count to 41 counties.
+In each county, Robert has left behind a painted Peace dollar (coin) in a marked envelope for anyone to find.
+ALL95 coins will be dropped off somewhere in the county seat of ALL95 counties.
+You can zoom in on the upclose pictures to see where the envel
+May 14
+ALL95 - Day One (Part One)
+95 COUNTIES IN 95 HOURS: ALL95 Journey through Tennessee is on track!
+Robert departed Jonesborough this morning at 10 am (eastern time).
+As of 5 pm (eastern time), he has visited over 10 counties.
+In each county, Robert has left behind a painted Peace dollar (coin) in a marked envelope for anyone to find.
+ALL95 coins will be dropped off somewhere in the county seat of ALL95 counties.
+Let us know if you find one via Facebook, Instagram, or email us at robert@all95.com!
+You can
+May 13
+ALL95 - Day One (Part Two)
+95 Counties in 95 Hours Day One is completed as of 11:30 pm (eastern time).
+Between 5 and 11:30 pm, Robert was able to visit 10 more counties.
+In each county, Robert has left behind a painted Peace dollar (coin) in a marked envelope for anyone to find.
+ALL95 coins will be dropped off somewhere in the county seat of ALL95 counties.
+Let us know if you find one via Facebook, Instagram, or email us at robert@all95.com.
+Check out the list (below the gallery) of locations (county s
+May 13
+95 Counties in 95 Hours
+95 Counties in 95 Hours - Traveling through Tennessee
+May 10
+PAID FOR BY ROBERT JONES FOR TENNESSEE
+Treasurer Cindy Harlow
+bottom of page

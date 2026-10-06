@@ -1,0 +1,11 @@
+“Como su Representante en el Congreso, apoyo firmemente a nuestros agentes de Policía y me comprometo a honrar a quienes han muerto en el cumplimiento del deber.
+He conseguido millones en proyectos de financiación comunitaria para el Distrito 27 de Florida, para dotar a los Departamentos de Policía de los recursos que necesitan para fortalecer las relaciones con la comunidad y mantener seguros nuestros vecindarios.” – María Elvira Salazar
+A continuación, algunos de mis principales logros:
+$3,75 millones para la actualización de la plataforma del Departamento de Policía de Miami-Dade: Mejora las capacidades de aplicación de la ley al reemplazar las computadoras portátiles obsoletas con teléfonos inteligentes avanzados y la plataforma DeX, lo que aumenta la eficiencia informática en el vehículo y brinda a los oficiales herramientas de investigación actualizadas.
+Reconocí a los oficiales de Policía de Miami-Dade por su valentía al protegernos: Honré a 75 oficiales del Distrito 27 de Florida por su valentía y servicio excepcionales.
+Reconocí a los bomberos de Miami por su heroísmo: Honré a más de 30 bomberos en el sur de Florida por sus importantes contribuciones a la seguridad de nuestro Distrito y sus heroicos esfuerzos.
+Presenté la Ley “SERVICE” para veteranos y fuerzas del orden: Lanza un programa piloto a través del Departamento de Justicia de los EE.
+UU. para establecer equipos de respuesta de veteranos dentro de las fuerzas del orden, apoyando a los veteranos en crisis y conectándolos con recursos esenciales.
+Mesas redondas en curso con la policía y los bomberos: Organización de reuniones periódicas con la Policía y los Bomberos locales para comprender sus desafíos y buscar formas de mejorar la seguridad pública en el sur de Florida.
+Apoyo a la Resolución sobre la aplicación de la ley: Copatrociné y ayudé a aprobar una Resolución que expresaba apoyo a los agentes de Policía y reconocía el papel fundamental que desempeñan para mantener seguras a nuestras comunidades.
+Protección de los estadounidenses en el extranjero: Copatrociné el proyecto de ley “Commission on Americans Living Abroad” para garantizar que las leyes y políticas federales sean justas para los ciudadanos estadounidenses que viven en el extranjero, incluidos los civiles y los miembros de las Fuerzas Armadas.

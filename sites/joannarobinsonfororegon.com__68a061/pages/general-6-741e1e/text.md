@@ -1,0 +1,25 @@
+top of page
+HOME
+MEET JOANNA
+PRIORITIES
+PRIORITY: Housing
+PRIORITY: Healthcare
+PRIORITY: Education & Jobs
+PRIORITY: Lowering Costs
+PRIORITY: Fair Taxes
+ENDORSEMENTS
+GET INVOLVED
+EVENTS
+Use tab to navigate through the menu items.
+DONATE
+JOIN US
+JOIN US
+MONDAY
+TUESDAY
+JOIN US
+JOIN US
+THURSDAY
+SATURDAY
+SUNDAY
+JOIN US
+bottom of page

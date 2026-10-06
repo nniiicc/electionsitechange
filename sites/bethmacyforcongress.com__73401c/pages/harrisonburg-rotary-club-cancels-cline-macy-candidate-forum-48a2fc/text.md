@@ -1,0 +1,2 @@
+The much-anticipated Harrisonburg Rotary Club Forum, which was supposed to let Sixth District Republican incumbent Ben Cline and his Democratic challenger Beth Macy appear together to compare and contrast their views, will not happen, the Harrisonburg Rotary Club said in a Facebook post Tuesday afternoon.
+Read the full article here: https://www.dnronline.com/news/elections/harrisonburg-rotary-club-cancels-cline-macy-candidate-forum/article_431a254b-f088-58ad-8c66-a449c9358cc0.html

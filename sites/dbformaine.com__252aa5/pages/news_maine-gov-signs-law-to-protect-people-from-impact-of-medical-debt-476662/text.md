@@ -1,0 +1,3 @@
+| Medical Buyer, a national healthcare trade publication, picked up the news of Governor Mills signing Senator Bailey's LD 2129 (An Act to Protect Maine People from the Harmful Impacts of Medical Debt) into law.
+The outlet highlighted Maine's leadership on medical debt consumer protection, noting that the new law barring wage garnishment and home liens over medical bills puts Maine among the most progressive states in shielding residents from the financial fallout of illness.
+The coverage amplified the significance of Senator Bailey's legislation beyond Maine's borders. | Blog Latest News Archives Categories |

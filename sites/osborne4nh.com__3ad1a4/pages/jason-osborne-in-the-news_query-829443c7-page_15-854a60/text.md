@@ -1,0 +1,41 @@
+NH challenges vaccine mandate in court, legislation
+November 6, 2021
+New Hampshire joined a multistate lawsuit challenging the Biden administration COVID-19 vaccine mandate, and Republican legislative leaders said they would press ahead with their own legislation as well, according to Read More
+NHGOP On Offense Over Biden’s Vax Mandate
+September 12, 2021
+After President Joe Biden announced sweeping COVID-19 vaccine mandates for federal workers, contractors and large private employers, New Hampshire Republicans treated it as a winning political issue while Democrats largely Read More
+NHJournal Asks: Who Is Your ‘Favorite Founder’ This Fourth of July?
+July 1, 2021
+Ahead of Independence Day, NH Journal asked New Hampshire political leaders from across the spectrum to name the Revolutionary American who inspires them most.
+House Majority Leader Jason Osborne chose Read More
+State House Dome: Budget battle became a CPR-like rescue
+June 27, 2021
+A the New Hampshire Union Leader column recounts how the budget fight turned into a last-minute rescue, with House Majority Leader Jason Osborne pulling together a fractured Republican caucus to Read More
+With New Budget Signed, NH Joins National Fight Against CRT
+June 27, 2021
+With Gov.
+Chris Sununu signing the state budget, New Hampshire joined a national wave of states acting against Critical Race Theory in government agencies and schools.
+NH Journal reports the Read More
+NH Legislature Passes ‘Transformational’ $13.5 Billion State Budget
+June 24, 2021
+The New Hampshire House passed HB 1 and HB 2, the state’s $13.5 billion budget, a Republican package that cut both taxes and spending while addressing issues like abortion and Read More
+EDITORIAL: GOP Budget Win Shows Value of Progress vs.
+Progressives
+June 24, 2021
+This NH Journal editorial frames the Republican-passed state budget as a win for Granite Staters and contrasts the GOP agenda with Democratic floor arguments it portrays as out of step Read More
+New Deal Between Sununu, Legislature on Exec Power Could Push Budget Over Top
+June 23, 2021
+Legislative leaders and Gov.
+Chris Sununu reached an agreement on additional reforms to emergency executive order powers, a deal NH Journal reports House Majority Leader Jason Osborne said would deliver Read More
+‘We Need More Republicans:’ GOP House Leaders Working to Build Budget Majority
+June 22, 2021
+Speaker Sherman Packard and House Majority Leader Jason Osborne made their case for a budget they described as the most conservative in 50 years, citing the phase-out of the interest Read More
+PODCAST: Speaker Packard, Leader Osborne Talk ‘Most Conservative Budget in 50 Years’
+June 22, 2021
+On a special NH Journal podcast, House Speaker Sherman Packard and Majority Leader Jason Osborne discussed the state budget, including spending cuts, ending the interest and dividends tax, executive power Read More
+ANALYSIS: NH Democrats and the Terrible, Horrible, No Good, Very Bad Budget Battle
+June 17, 2021
+This NH Journal analysis argues that despite a slim majority and a turbulent start to the session, House Republicans advanced one of the most conservative budgets in state history while Read More
+State tax cut for PPP loans clears big hurdle
+May 25, 2021
+A House committee endorsed making federal Payroll Protection Program loans exempt from the state’s Business Profits Tax, a tax cut for business owners hurt by COVID-19, the New Hampshire Union Read More

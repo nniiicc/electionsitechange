@@ -1,0 +1,19 @@
+- June 2, 2026
+Columbia, MS — Democratic congressional nominee Michael A.
+Chiaradio attended the First Annual Law Enforcement Unity & Prayer Day in Columbia this weekend, joining community members, faith leaders, and local officials for a day focused on prayer, fellowship, and support for law enforcement officers and their families.
+The event was organized by Caymen Watts and brought together people from a variety of backgrounds to recognize the service and sacrifice of the men and women who help keep Mississippi communities safe.
+Chiaradio said the event served as a reminder that Americans often have far more in common than political rhetoric would suggest.
+He noted that despite differences in party affiliation or ideology, most people share common goals: safe communities, economic opportunity, strong families, and a brighter future for the next generation.
+Chiaradio also expressed appreciation for Watts’ efforts to bring people together around shared values and community service.
+Throughout his campaign, Chiaradio has emphasized the importance of community engagement, civic participation, and building relationships across political divides.
+He believes that meaningful progress is most often achieved when people come together to focus on common challenges and shared goals.
+The campaign continues to engage with communities throughout Mississippi’s 3rd Congressional District as it builds momentum heading into the 2026 election.
+To support Michael A.
+Chiaradio’s campaign for Congress, please visit: https://secure.actblue.com/donate/michael-a-chiaradio
+- 1-800-700-600
+- info@thecentersolutionsparty.com
+- 60 East 65th Street, New York City, NY 10065
+Paid for by Michael A.
+Chiaradio for Congress 2026, Inc.
+Contributions are not tax deductible.
+Contributions are not tax deductible.

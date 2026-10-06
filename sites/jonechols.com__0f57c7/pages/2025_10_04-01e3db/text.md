@@ -1,0 +1,3 @@
+Tulsa FirePAC Endorses Echols for Attorney General
+Tulsa, OK – Today, Attorney General Candidate Jon Echols held a press conference and made a major announcement with First Responders from the Tulsa area.
+The Echols Campaign is proud to share that the Tulsa FirePAC has officially endorsed Jon Echols in the…

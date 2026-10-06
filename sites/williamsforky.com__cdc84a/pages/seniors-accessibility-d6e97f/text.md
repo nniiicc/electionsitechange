@@ -1,0 +1,10 @@
+We honor the people who built our communities and cared for us by ensuring they receive the same care in return.
+This plan is rooted in compassion, dignity, and respect, because no one should feel forgotten or forced from their home as they age or face mobility challenges.
+We invest in this plan because independence matters, connection matters, and every person deserves the comfort and security of aging safely where they feel most at home.
+SUPPORT SENIORS &
+ABILITY ACCESS PLAN
+- Lower fall risk and extend independent living through targeted, fast home updates. - 30% credit up to $6,000 for ramps, roll-in showers, door widening, stair lifts. - Streamlined permits : “accessibility fast lane” in 10 business days for participating localities. - Rural grants through Housing and Urban Development for contractors and mobile install teams.
+- When possible, Seniors deserve consistent, compassionate care at home - Expand home-based nursing services to ensure timely wellness checks, medication management, and chronic-condition monitoring. - Fund routine in-home assessments that catch health issues early and reduce costly hospital readmissions. - Support coordinated care teams—nurses, aides, and therapists—who provide continuity, communication, and comfort in every home visit.
+- Make mobility real in small towns and counties. - DOT grants for on-demand wheelchair-accessible micro-transit - Integrate NEMT and paratransit scheduling; single call/app hub. - Performance pay on completed trips and wait-time targets (Could house an additional Vehicle at Ambulatory Services for local hubs)
+- Be bold in our support of a redesign in how we treat, fund, and engage with long-term care to help maintain low to middle income generational wealth building options - Expand the baseline support funding to all individuals requiring Long-Term Nursing Care regardless of income. - Additional insurance plan options can exist to improve or add to the baseline funding offered to everyone.
+- $20,000 in assets is considered “protected” and is considered an inheritance floor regardless of debts owed at time of passing.

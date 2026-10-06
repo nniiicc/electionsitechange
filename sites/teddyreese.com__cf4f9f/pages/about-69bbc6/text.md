@@ -1,0 +1,74 @@
+Meet the Candidate
+Describe your image
+Describe your image
+Biography
+Tremaine “Teddy” Reese was born and raised in the very small town of Gordon, Georgia, and became the first in his family to attend a college or university.
+He currently resides in Columbus, Georgia where he works closely with the local community on a range of boards and grassroots projects.
+He is a Life member of Alpha Phi Alpha Fraternity, Inc. and the Albany State University National Alumni Association.
+He currently serves on the Planning Advisory Council for the City of Columbus and formerly served as the Chair of the Annual Black History Month Observance Breakfast Committee.
+In 2003, Teddy graduated from Albany State University with a bachelor’s degree in Computer Science.
+He later graduated with a Master in Public Administration from Georgia College & State University in Milledgeville, Georgia in 2005 and in May 2012 he graduated Cum Laude from Florida A&M University College of Law.
+While at Albany State University, Teddy served as Student Government Association President for two consecutive terms (2001-2002, 2002-2003) and also served as Vice President of the Delta Delta Chapter of Alpha Phi Alpha Fraternity, Inc.
+He is proud and honored to have served as the American Bar Association Law Student Division National Chair for the 2011-2012 year, the Student Bar Association President at Florida A&M University College of Law for the 2011-2012 year and as a Staff Editor on the Florida A&M University College of Law, Law Review.
+Some of his previous employers include GEICO Corporate, Wilkinson County, Georgia, and the City of Atlanta.
+While working with the Georgia Appleseed Center for Law and Justice, Teddy served as a Staff Attorney and Director of Community Engagement from 2013 to 2017 and later worked with The Wright Legal Group as a Senior Attorney from 2017-2018.
+He is now the principal owner and managing attorney of The Reese Firm, LLC.
+In 2014 he was named to Columbus and the Valley Magazine, Top 5 Under 40 Young Professionals, Rural Leader Magazine, Top Professional Under 40 for 2016 and Georgia Trend Magazine 2016 Top 40 Under 40.
+He also graduated with the 2014 Class of Young Game Changers through Georgia Forward and with the Leadership Georgia Class of 2015.
+He enjoys volunteering and working for the betterment of others, fishing, traveling, reading and playing softball.
+Mr.
+Reese is married to Dr.
+Chasity Reese, who is a Family Medicine Physician with Piedmont Physicians at Northside, and they have one daughter, Catherine Louise Reese.
+Boards & Appointments
+➢ Georgia Appleseed Center for Law and Justice, Advisory Board, 2017 - Present
+➢ Midtown, Inc., Board of Directors, 2016 - Present
+➢ Youth Advocate Programs, Inc.
+National Board of Directors, 2018 - Present
+➢ Columbus Consolidated Government, Planning Advisory Commission, 2017 - Present
+➢ Columbus Consolidated Government, Community Development Advisory Council, 2014 - 2017
+➢ Greater Columbus Chamber of Commerce, Young Professionals, Board of Directors, 2013 – 2016
+➢ Columbus Consolidated Government, Liberty District Planning Committee, 2018 - Present
+Accomplishments & Memberships
+➢ Urban League of Greater Columbus, Millennial Trailblazer Award, 2017
+➢ Interim Chair, Community Development Advisory Council, Columbus Consolidated Government, 2016
+➢ Georgia Trend Magazine 2016, Top 40 Under 40
+➢ Rural Leader Magazine, Top 40 Under 40, June 2016 (Including Top Honoree, 2016)
+➢ Greater Columbus Chamber of Commerce, Young Professionals Governmental Affairs Chair, 2016
+➢ Chair, Community Development Advisory Council, Columbus Consolidated Government, 2017
+➢ Fountain City Bar Association, Member 2016 - Present
+➢ Fountain City Bar Association, Vice President 2016 - 2017
+➢ Columbus Bar Association
+➢ Columbus, GA, Inn of Court,
+➢ Columbus and the Valley Magazine, Top 5 Under 40 Young Professionals, October 2014
+➢ Leadership Georgia, Class of 2015
+➢ Georgia Forward, Young Game Changers, Class of 2014
+➢ Ledger Inquirer Feature, Teddy Reese: Changing the Game, July 2014
+➢ State Bar of Georgia, iCivic Committee, Presidential Appointment, 2014 - Present
+➢ State Bar of Georgia, Young Lawyers Division, Executive Council
+➢ State Bar of Georgia, Young Lawyers Division, Director of ABA Involvement
+➢ American Bar Association, Young Lawyers Division, National Conference Team
+➢ American Bar Association, Gun Violence Committee, Presidential Appointment by American Bar Association President William Hubbard, 2014-2015
+➢ Alpha Phi Alpha, Fraternity, Inc., Life Member
+➢ Albany State University, National Alumni Association, Life Member
+➢ Family Action Network, State of Georgia Everyday Hero Awardee, 2013
+➢ American Bar Association, Legal Education Task-force, Presidential Appointment by American Bar Association President Laurel Bellows, 2012-2015
+➢ American Bar Association, Law Student Division Advisory Council, Chair, 2012-2013
+➢ American Bar Association, Section of Labor and Employment Law
+➢ American Bar Association, Section of State and Local Government Law, Diversity Law Committee, Member
+➢ American Bar Association, Center for Human Rights, Seminar Participant
+➢ American Bar Association, Center for Racial and Ethnic Diversity, Seminar Participant
+➢ National Black Law Students Association, Alumni Adviser, 2012-2013
+➢ National Bar Association
+➢ Florida A&M University College of Law, Dean’s List, Spring 2011 & Fall 2011
+➢ Student Bar Association President, Florida A&M University College of Law, 2011-2012
+➢ National Bar Association, Academic and Leadership Achievement Award, 2012
+➢ National Black Law Student Association, Leadership Award, 2012 ➢ Council on Legal Education Opportunity, Diversity Scholarship Award, 2012
+➢ Florida A&M University Environmental Law Symposium, Planning Committee
+➢ Published Article: The ACF Water Crisis, Florida A&M University Law Review 2012
+➢ Semi- Finalist, National Presidential Management Fellow Program, 2006
+➢ Student Government Association President, Albany State University, June 2001- May 2003
+➢ State of Georgia Outstanding Citizen, 2002
+➢ National Association of Student Affairs Personnel, Leadership Award, 2003
+➢ Thurgood Marshall Presidential Award, 2002 ➢ Grand Marshall, Albany State University Centennial Parade, 2002
+➢ Georgia Secretary of State Advisory Council, 2001- 2003
+➢ Habitat for Humanity, 2000- 2003

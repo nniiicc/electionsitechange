@@ -1,0 +1,4 @@
+The Hob Nob at Joint Business After Hours is an exclusive networking event that brings together Chamber members and local and state elected officials, as well as candidates seeking elected office.
+This unique event provides an informal, business-focused setting where members can connect directly with community leaders, learn more about the issues impacting our region, and engage in meaningful conversations about the future of our communities.
+Whether you're looking to build relationships, gain insights on public policy, or simply meet the individuals serving and seeking to serve our area, Hob Nob offers a valuable opportunity to make connections and stay informed.
+Enjoy an evening of networking, conversation, and community engagement alongside fellow Chamber members, elected officials, and candidates from across the region.

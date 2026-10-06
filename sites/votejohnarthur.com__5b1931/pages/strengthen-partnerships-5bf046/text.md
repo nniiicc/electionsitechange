@@ -1,0 +1,17 @@
+Livability
+I want my daughters to one day inherit my home and live here in our community; however, if we continue to neglect threats to livability like the urgent crisis at the Great Salt Lake or fail to invest in cleaner air, safety, and well-maintained infrastructure I fear my girls will be forced to plant new roots somewhere else.
+Livability in neighborhoods like ours is shaped by environmental conservation, the quality of local schools, the strength of parks and public spaces, reliable transportation options, and access to essential services.
+Livability is also negatively impacted by misguided solutions like the proposed Gondola in Little Cottonwood Canyon.
+As HD41 grows and diversifies, we need laws passed that improve everyday life in our neighborhoods—safe streets, green spaces, strong schools, and cultural connections.
+When these pieces come together, the community remains not only functional but deeply rooted, vibrant, and welcoming for every family.
+What I'm Hearing:
+- A lack of urgency among leaders regarding the Great Salt Lake
+- The Gondola must be stopped
+- Air quality challenges, especially along major traffic corridors
+- Limited pedestrian infrastructure on Wasatch Boulevard
+- Disconnect between new development and existing transportation networks
+What We Need:
+- Legislation to address GSL surface area shrinkage and water volume loss
+- Replace plans for the Gondola with more practical, less environmentally disruptive solutions
+- Greater investment from the state in improved air quality solutions
+- Support our cities in pursuing safer street design on major thoroughfares

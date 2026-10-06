@@ -1,0 +1,31 @@
+- Oregon Labor Federation (AFL-CIO)
+- Humane Voters Oregon
+- Ironworkers Local 29
+- Lane Professional Fire Fighters Association (Local 851)
+- Oregon Nurses Association
+- Oregon State Building & Construction Trades Council
+- Oregon State Fire Fighters Council
+- SEIU Local 503
+- UA Local 290
+- United Academics of the University of Oregon
+- Jeff Merkley, U.S.
+Senator
+- Ron Wyden, U.S.
+Senator
+- Val Hoyle, Congresswoman
+- Peter DeFazio, Former U.S.
+Congressman
+- Tina Kotek, Governor
+- Rob Wagner, Oregon Senate President
+- Floyd Prozanski, State Senator
+- Lisa Fragala, State Representative
+- Nancy Nathanson, State Representative
+- Heather Buch, County Commissioner
+- Pat Farr, County Commissioner
+- Laurie Trieger, County Commissioner
+- Kaarin Knudson, Eugene Mayor
+- Lucy Vinis, Former Eugene Mayor
+- Robbie McCoy, Mayor of Veneta
+- Randy Groves, Eugene City Councilor
+- Matt Keating, Eugene City Councilor
+- Jennifer Yeh, Eugene City Councilor

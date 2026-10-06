@@ -1,0 +1,76 @@
+top of page
+Use tab to navigate through the menu items.
+Greater Malden Asian American Community Coalition recognized by The Commonwealth Seminar as “Game Changer” Honoree
+BOSTON (November 20, 2024) – This Monday, Greater Malden Asian American Community Coalition (GMAAC) was recognized by Commonwealth...
+Nov 20, 2024
+Newsletter: FY23 Budget Wrap Up
+Dear Friends, I hope you and your loved ones are enjoying the recent fall weather and apple-picking season!
+As mentioned in my last...
+Sep 27, 2022
+Malden Receives Historic Levels of Funding Through Municipal Vulnerability Preparedness Program
+The Malden Delegation worked with City officials and regional coalitions to secure over $1 million for combating regional impacts from...
+Sep 23, 2022
+Malden Delegation Expresses Concern over MBTA Bus Network Redesign Plan
+On July 22, the Malden legislative delegation including Representatives Steven Ultrino, Paul Donato, and Kate Lipper-Garabedian, and...
+Jul 29, 2022
+The CROWN Act Signed into Law by Governor Baker
+Representative Steven Ultrino’s bill to prohibit discrimination of natural and protective hairstyles has successfully been signed by the...
+Jul 29, 2022
+Malden Benefits from Shannon Community Safety Initiative Grant Program
+MAPC received $757,147.86 from the Senator Charles E.
+Shannon Jr., Community Safety Initiative (CSI) Grant Program to address and respond...
+Feb 18, 2022
+FY22 Student Awareness of Fire Education & Senior SAFE Programs
+Malden Fire Department received $7575 from the Student Awareness of Fire Education (S.A.F.E.) Grant Program and $3455 from the Senior...
+Feb 18, 2022
+FY22 Firefighter Safety Equipment Grant Program
+The Malden Fire Department was awarded a total of $21,691 from the MA Department of Fire Services.
+The program allows fire departments to...
+Jan 19, 2022
+Municipal Americans with Disabilities Act Grant Program
+The City of Malden was recently awarded a total of $45,000 from the Massachusetts Office on Disability to complete upgrades to the Malden...
+Jan 19, 2022
+FY22 Civics Teaching and Learning Grant Awardees Announced
+Malden public schools will receive $45,000 for vendor partnerships to provide professional development for teachers and administrators....
+Jun 21, 2021
+FY22 Early Childhood Mental Health Consultation Grant Awardees Announced
+Malden and surrounding communities will receive over $630,000 to expand childhood behavioral health services.
+The Department of Early...
+May 26, 2021
+Are you an XFinity Customer?
+You may be eligible for a $50/Month Federal Subsidy For Internet
+Xfinity has announced that they will participate in the Federal Gov'ts Emergency Broadband Benefit (EBB), a temporary subsidy program...
+May 18, 2021
+MALDEN STOP THE SPREAD TESTING SITE
+As vaccination numbers climb, testing remains a critical part of putting an end to this pandemic.
+If you or a loved one have experienced...
+May 12, 2021
+RMV WARNS CUSTOMERS OF PHISHING TEXT MESSAGES
+The Massachusetts Registry of Motor Vehicles (RMV) is cautioning customers to be aware of a text phishing scam that has been reported...
+May 7, 2021
+Application Opening For $28.6 Billion Restaurant Revitalization Fund
+SBA Administrator Isabella Casillas Guzman announced today that the U.S.
+Small Business Administration will begin registrations on...
+Apr 29, 2021
+AMERICAN RESCUE PLAN EXPANDS COVERAGE, PROVIDES LOWER MONTHLY PREMIUMS TO MANY PREVIOUSLY INELIGIBLE
+The American Rescue Plan, signed into law in March 2021, delivers new and expanded subsidies to millions of Americans—and hundreds of...
+Apr 28, 2021
+SELF-EMPLOYED AND GIG WORKERS - NEW UNEMPLOYMENT BENEFIT
+The MEUC program, which is a part of the Continued Assistance Act, was created to assist workers who qualified for traditional...
+Apr 27, 2021
+Two Malden Cultural Organizations Awarded a Total of $5000
+I'm proud to announce that Jean Appolon Expressions, Inc. and Monkeyhouse, Inc. of Malden have been awarded $2,500 each from the Mass....
+Apr 21, 2021
+MASSACHUSETTS HEALTH CONNECTOR CONDUCTING WEBINAR FOR THOSE IN NEED OF HEALTH INSURANCE COVERAGE & N
+The Health Connector is currently in an extended Open Enrollment period through July 23rd, 2021.
+This webinar will cover how the American...
+Apr 10, 2021
+MALDEN AWARDED $102,000 IN SHARED STREETS GRANT FUNDS
+I'm pleased to announce that Malden has been awarded $102,000 in Shared Streets Grant funds from the Mass.
+Department of Transportation...
+Apr 6, 2021
+No events at the moment
+Tel: (617) 722-2877
+Email: Steven.Ultrino@MAhouse.gov
+State House, Room 174, Boston, MA 02133
+bottom of page

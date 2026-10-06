@@ -1,0 +1,490 @@
+OUR GRASSROOTS COALITION
+PAST ENDORSEMENTS
+WORKING FAMILIES ORGANIZATIONS
+FEDERAL & STATE ELECTED LEADERS
+- California Labor Federation
+- Los Angeles County Federation of Labor
+- California Professional Firefighters
+- California Federation of Teachers
+- California Teachers Association
+- California Nurses Association
+- National Union of Healthcare Workers
+- United Nurses Associations of California/United Health Care Professionals (UNAC/UHCP)
+- United Food and Commercial Workers 770
+- Los Angeles/Orange County Building and Construction Trades Council
+- AFSCME California PEOPLE
+- AFSCME 1902
+- United Domestic Workers of America, UDW/AFSCME Local 3930
+- IATSE Local 33
+- International Brotherhood of Electrical Workers Local 11
+- International Union of Painters and Allied Trades District Council 36
+- International Longshore and Warehouse Union Local 13
+- International Longshore and Warehouse Union Local 94
+- International Union of Operating Engineers Local 12
+- Ironworkers Local 433
+- Laborers' International Union of North America (LiUNA!) Local 300
+- Santa Monica College Faculty Association
+- SEIU California State Council
+- Southwest Regional Council of Carpenters
+- Teamsters Joint Council 42
+- Transport Workers Union of America (TWU) California State Conference
+- UNITE HERE Local 11
+- United Association Local 250 Steamfitters-Refrigeration Fitters
+- United Association Local 761 Plumbers & Pipefitters
+- United Farm Workers
+- United Steelworkers Local 675
+ADVOCACY & DEMOCRATIC ORGANIZATIONS
+- California Democratic Party
+- California College Democrats
+- California Legislative LGBTQ Caucus
+- California Legislative Latino Caucus
+- California Legislative Progressive Caucus
+- California Environmental Voters
+- California Environmental Justice Alliance (CEJA) Action
+- Abundant Housing LA
+- Armenian National Committee of America Western Region (ANCA-WR)
+- Community for Excellent Public Schools (CEPS)
+- Consumer Attorneys of California (CAOC)
+- Courage California
+- Equality California (EQCA)
+- HONOR PAC
+- Moms Demand Action - Gun Sense Candidate Distinction
+- NARAL Pro-Choice California
+- Latino Victory
+- LGBTQ Victory Fund
+- Los Angeles Times Editorial Board
+- Planned Parenthood Advocacy Project LA County Action Fund
+- Sierra Club California
+- Avance Democratic Club
+- Democrats for Israel Los Angeles - Recommendation: Strong Support
+- Heart of L.A.
+Democratic Club
+- Pilipino American LA Democrats (PALAD)
+- Santa Monica Chamber of Commerce
+- Santa Monica Democratic Club
+- Santa Monicans for Renters' Rights (SMRR)
+- Southern California Armenian Democrats (SCAD)
+- Stonewall Democratic Club
+- Stonewall Young Democrats
+- Voices for Progress (V4P)
+- West Hollywood Democratic Club/Beverly Hills Democratic Club
+- WEHO PAC sponsored by West Hollywood Chamber of Commerce
+- Westside Young Democrats
+LOCAL ELECTED LEADERS
+- Los Angeles County Supervisor Janice Hahn
+- Los Angeles County Supervisor Lindsey Horvath
+- Los Angeles County Supervisor Holly Mitchell
+- Los Angeles County Supervisor Hilda Solis
+- Los Angeles County Supervisor Sheila Kuehl (ret.)
+- Los Angeles County Assessor Jeff Prang
+- Los Angeles City Attorney Mike Feuer
+- Los Angeles City Controller Ron Galperin
+- Former Los Angeles Mayor Antonio Villaraigosa
+- Former Los Angeles City Controller Wendy Greuel
+- Los Angeles City Councilmember Bob Blumenfield
+- Los Angeles City Councilmember Mike Bonin
+- Los Angeles City Councilmember Mitch O’Farrell
+- Former Los Angeles City Councilmember David Ryu
+- Los Angeles Community College District Board President Steve Veres
+- Los Angeles Community College Board of Trustees Andra Hoffman
+- Los Angeles Community College Board of Trustees David Vela
+- Beverly Hills Councilmember Lester Friedman
+- Beverly Hills City Councilmember Julian Gold
+- Burbank Unified School District Board of Education Member Dr.
+Armond Aghakhanian
+- Long Beach Mayor Robert Garcia
+- San Diego Mayor Todd Gloria
+- San Francisco Mayor London Breed
+- San Francisco City Attorney & Former State Assemblymember David Chiu
+- Santa Monica Mayor Pro Tem Kristin McCowan
+- Santa Monica City Councilmember Gleam Davis
+- Former Santa Monica Mayor Judy Abdo
+- Former Santa Monica Mayor Ted Winterer
+- Former Santa Monica Mayor Pro Tem Terry O’Day
+- Santa Monica College Board of Trustees Chair Dr.
+Louise Jaffe
+- Santa Monica College Board Trustee Dr.
+Nancy Greenstein
+- Santa Monica College Board Trustee, Local Leader, and Former AD-51 Candidate Dr.
+Sion Roy
+- Santa Monica College Board Trustee Barry Snell
+- Santa Monica-Malibu Unified School District Board Member Laurie Lieberman
+- West Hollywood Mayor Lauren Meister
+- West Hollywood Mayor Pro Tempore Sepi Shyne
+- West Hollywood City Councilmember John D’Amico
+- West Hollywood City Councilmember John M.
+Erickson
+- Former West Hollywood Mayor Abbe Land
+- Former West Hollywood Mayor John Heilman
+- West Hollywood City Planning Commissioner & LA Gay and Lesbian
+Chamber of Commerce Executive Director Marquita Thomas*
+- West Basin Municipal Water District Director Scott Houston
+- California Governor Gavin Newsom
+- California Lieutenant Governor Eleni Kounalakis
+- California Attorney General Rob Bonta
+- California State Treasurer Fiona Ma
+- California State Insurance Commissioner Ricardo Lara
+- California State Superintendent of Public Instruction Tony Thurmond
+- California Secretary of State Dr.
+Shirley N.
+Weber
+- California State Controller Betty Yee
+- California State Board of Equalization Member Malia Cohen
+- California State Board of Equalization Member & Former Mayor of Santa Monica Antonio Vazquez
+- State Senate President pro Tempore Toni Atkins
+- State Assembly Speaker Anthony Rendon
+- United States Senator Alex Padilla
+- Former United States Senator Barbara Boxer
+- U.S.
+Representative Nanette Barragán
+- U.S.
+Representative Julia Brownley
+- U.S.
+Representative Jimmy Gomez
+- U.S.
+Representative Sara Jacobs
+- U.S.
+Representative Ro Khanna
+- U.S.
+Representative Mike Levin
+- U.S.
+Representative Ted Lieu
+- U.S.
+Representative Alan Lowenthal
+- U.S.
+Representative Scott Peters
+- U.S.
+Representative Katie Porter
+- U.S.
+Representative Adam Schiff
+- U.S.
+Representative Brad Sherman
+- U.S.
+Representative Mark Takano
+- Former U.S.
+Representative Katie Hill
+- Former U.S.
+Representative Mel Levine
+- University of California (UC) Board of Regents Chair &
+Assembly Speaker Emeritus John A.
+Pérez
+- State Senator Ben Allen
+- State Senator Steve Bradford
+- State Senator Anna Caballero
+- State Senator María Elena Durazo
+- State Senator Lena Gonzalez
+- State Senator & Assembly Speaker Emeritus Robert Hertzberg
+- State Senator Sydney Kamlager
+- State Senator John Laird
+- State Senator Connie Leyva
+- State Senator Monique Limón
+- State Senator Dave Min
+- State Senator Josh Newman
+- State Senator Anthony Portantino
+- State Senator Susan Rubio
+- State Senator Henry Stern
+- State Senator Susan Talamantes Eggman
+- State Senator Tom Umberg
+- State Senator Scott Wiener
+- Former State Senator Mark Leno
+- Former State Senator Christine Kehoe
+- State Assemblymember Cecilia Aguiar-Curry
+- State Assemblymember Rebecca Bauer-Kahan
+- State Assemblymember Richard Bloom
+- State Assemblymember Mia Bonta
+- State Assemblymember Isaac Bryan
+- State Assemblymember Lisa Calderon
+- State Assemblymember Wendy Carrillo
+- State Assemblymember Sabrina Cervantes
+- State Assemblymember Mike Fong
+- State Assemblymember Laura Friedman
+- State Assemblymember Jesse Gabriel
+- State Assemblymember Eduardo Garcia
+- State Assemblymember Chris Holden
+- State Assemblymember Jacqui Irwin
+- State Assemblymember Reggie Jones-Sawyer
+- State Assemblymember Alex Lee
+- State Assemblymember Evan Low
+- State Assemblymember Jose Medina
+- State Assemblymember Al Muratsuchi
+- State Assemblymember Patrick O’Donnell
+- State Assemblymember Sharon Quirk-Silva
+- State Assemblymember Robert Rivas
+- State Assemblymember Blanca Rubio
+- State Assemblymember Miguel Santiago
+- State Assemblymember Mark Stone
+- State Assemblymember Phil Ting
+- State Assemblymember Chris Ward
+- State Assemblymember Buffy Wicks
+- State Assemblymember Jim Wood
+- Former State Assemblymember Autumn Burke
+- Former State Assemblymember Betsy Butler
+- Former State Assemblymember Richard Katz
+COMMUNITY LEADERS
+Mike Ai, Commissioner, West Hollywood Lesbian and Gay Advisory Board; LGBTQ+ activist
+David Allgood, Former Southern California Director, California Environmental Voters*
+John A.
+Altschul, Former Commissioner,West Hollywood City Planning Commission*
+Lester Aponte, President Emeritus, Stonewall Democratic Club; Political Director, Avance Democratic Club; Co-Chair, California Democratic Party LGBTQ Caucus
+Mito Aviles, California Democratic Party (CDP) Delegate
+Juliana Bancroft, Community Leader
+Adam Bass, CDP Delegate; Former Chair and member, West Hollywood Planning Commission
+Barbara Berkowitz, Attorney; Non-Profit Officer
+Laurie Black, Community Leader
+Marjorie Blatt, Citizen Endorsement
+Dena Bloom, Community Leader
+Dayna Bochco, Commissioner, California Coastal Commission
+Justin Bolding, West Hollywood Historic Landmark Property Manager
+Steve Bott, CDP Delegate
+Chris Bowen, AD-51 Delegate; West Hollywood Transportation Commissioner; VP of Legislative Affairs of the West Hollywood/Beverly Hills Democratic Club
+Daniel Bral, Attorney; California Democratic Party AD-51 Delegate
+Ashton Uytengsu Bridges, Citizen Endorsement
+Nicholas J Bridges, Citizen Endorsement
+Sergio Carrillo, Los Angeles County Democratic Party Vice Chair*
+Rogerio Carvalheiro, West Hollywood Planning Commissioner
+Cindy Chvatal-Keane, President of Hancock Park HOA; nonprofit board member for the Greater Wilshire Neighborhood Council (GWNC); Chair of the GWNC Transportation Committee
+Joe Cislowski, California Commission on Aging Executive Committee Member
+Brian Colker, CDP CA-51 Delegate; Grassroots Democrats HQ Chief Financial Officer (CFO)
+Glen Dake, Board Chair, California League of Conservation Voters; Board President, LA Community Garden Council*
+Paula Daniels, Former Commissioner, California Coastal Commission; Founder, LA Food Policy Council*
+Cary Davidson, Co-Treasurer, Union for Reformed Judaism, Board of Governors and Chair of the Western Region Board of Advisors, Hebrew Union College, Jewish Institute of Religion.
+The Past President of Congregation Kol Ami
+Lindsey Deaton, Arts and Cultural Affairs Commissioner,City of West Hollywood*
+Raquelle de la Rocha, Former President, Los Angeles Police Commission
+Francine Diamond, Board Vice Chair, California League of Conservation Voters; Former Chair, Santa Monica Bay Restoration Commission*
+Stephen Drimmer, President, Mountaingate Open Space Maintenance Association*
+Eric Edmunds, President, Brentwood Hills Homeowners Association*
+Tracy Egoscue, Former Executive Director, Santa Monica Baykeeper*
+Ellen Evans, CDP Delegate; President, Doheny Sunset Plaza Neighborhood Association; Board Member, Bel-Air Beverly Crest Neighborhood Council
+Karen Eyres, CDP Delegate
+Jeff Farber, CEO, Koret Foundation
+Sandra Fluke, Public Interest Lawyer and Reproductive Justice Advocate
+Sam Frank, CDP Delegate
+Tom Freeman, President, Canyon Back Alliance*
+Glen Friedman, Community Leader
+Madelyn Glickfeld, Executive Director and Researcher, UCLA Water Resources Group at the IoES; Former Chair, California Regional Water Quality Control Board - Los Angeles Region*
+Joe Goldman, Past Board Member, The JewishFilm Institute
+Laurie Goldman, Founder/President of Friends of the Hollywood Central Park
+Naomi Goldman, AD-51 Delegate; California Democratic Party Women's Caucus Executive Board Member
+Melissa Goodman, Former Los Angeles Area Director for the Trust for Public Land; Former CEO of the Hollywood Chamber of Commerce; VP of Programs of the Santa Monica Democratic Club
+Nicholas Greif, CDP Delegate
+Davis Hahn, CDP Delegate; Westside Young Dems Organizing Director
+Daniel Hall, Santa Monica Democratic Club Treasurer; Santa Monica Pier Corporation Board Member
+Tod Hallman, West Hollywood Public Safety Commissioner
+Davis Han, AD-51 Delegate
+Danny Hang, West Hollywood Disabilities Advisory Board Member
+Joan Harrison, Wilshire Blvd Temple Member
+Lauryn Harris Pimstone, Community Leader
+Timothy Harter, CDP Delegate
+Laurie Hasencamp, Former President and Former Executive Director, Kehillat Israel Synagogue*
+Jenna Hornstock, Los Angeles City Planning Commissioner
+Brian Hoye, Hancock Park Community Leader
+Maria Hoye, Hancock Park Community Leader
+Dolores Huerta, Labor Leader; Civil Rights Activist;Founder & President, Dolores Huerta Foundation*
+Daniel Ivanov, Attorney; Santa Monica Democratic Club Vice President of Political Action
+Kevin James, Former Los Angeles City Attorney candidate
+Martin Jannol, Wilshire Blvd Temple, Stand With Us
+Susan Adler Jannol, Wilshire Blvd Temple, Stand With Us
+Hans Johnson, Progressive Democratic Leader andLGBTQ Advocate
+Erika Jones, AD-51 Delegate and Classroom Teacher
+Teddy Kapur, Former Los Angeles City Attorney candidate
+Nick Karno, President, Climate Cents; Deputy Los Angeles City Attorney - Environmental Justice Unit*
+Jon Katz, Santa Monica Democratic Club President; CDP Delegate
+Amy Wiwuga Kazanegras, AD-51 Delegate; California Democratic Party Executive Board
+Jamie Kennerk, Stonewall Young Democrats Operations Vice President; Westside Young Democrats Board Member
+Michele D Kipke, Ph.D, Past Board Member, The Jewish Film Institute
+Dr.
+Cassandra M.
+Klyman, Belmont Senior Assisted Living
+Peter Kreysa, Former Political Director, CA Faculty Association; Co-Chair, California Democratic Party Finance Committee; LA County Central Committee Delegate
+William Kysella, Central Hollywood Democratic Activist
+Leslie Lambert, Santa Monica Planning Commissioner
+Wendy Leshgold, Co-Founder, The Fast Forward Group*
+Marc Levis-Fitzgerald, Financial Oversight Council Member, Santa Monica-Malibu Unified School District*
+Rick Levis-Fitzgerald, Treasurer, Santa Monica High School Theater Council; Former President, Edison Language Academy PTA*
+Stuart Leviton, Former President of Men of Reform Judaism; Former Trustee member of the Union for Reform Judaism; Former co-president of the Congregation Kol Ami, West Hollywood; West Hollywood Community Housing Board
+Alexandra Lombardi, LA Democratic Party Central Committee Delegate
+Mary Luévano, Former Commissioner, California Coastal Commission; Deputy Director, PACENation*
+Mike Lurey, President, Waverly HomeownersAssociation*
+Joseph Lyou, President & CEO of the Coalition for Clean Air
+Felicia Marcus, Former Chair, State Water Resources Control Board; Former Region IX Administrator, U.S.
+Environmental Protection Agency*
+Noah Mamet, former U.S.
+Ambassador to Argentina
+Erick Matos, Business License Commissioner, City of West Hollywood*
+Stuart Milk, Co-Founder & Executive Chair,Harvey Milk Foundation*
+Jennifer Miner, Board Member, California League of Conservation Voters*
+Wendy Mitchell, Former Commissioner, California Coastal Commission; Former Board Member, California League of Conservation Voters*
+Alex Mohajer, President of Stonewall Democrats
+Stephanie Molen, Immediate Past-President, LA League of Conservation Voters*
+Estevan Montemayor, CDP Delegate
+Mark Morales, Chair of Diversity Task Force, California Department of Insurance, President emeritus of the Los Angeles LGBTQ Chamber of Commerce
+Andrea Morgan-Chun, CDP Delegate
+David Nahai, Former Senior Advisor, Clinton Climate Initiative; General Manager and Commission President, LADWP*
+Mary Nichols, Former Chair, Air Resources Board & Former Secretary of the California Natural Resources Agency
+Sara Nichols, Environmental Activist
+Vered Nisim, Co-Chair of Global Green
+Susan Petrulas Nissman, AD-51 Delegate, California Democratic Party*
+Karen Ocamb, Award-Winning Former LGBTQ Journalist
+Robert Oliver, West Hollywood Public Safety Commissioner
+Lisa O'Malley, Hancock Park Community Leader
+Cameron Onumah, CDP Delegate
+Peter Ostroff, Planning Commission Chair, City of Beverly Hills*
+Jim Owens, Crest Streets Neighborhood Association
+Jonathan Parfrey, Executive Director, Climate Resolve*
+Linda Perez, CDP Delegate
+David Pettit, Climate and Clean Energy Program Senior Attorney, Natural Resources Defense Council*
+Kanin Pruter, President, Stonewall Young Democratic Club
+Joel Reynolds, Western Director and Senior Attorney, Natural Resources Defense Council*
+Cecil Rhambo, Los Angeles World Airports Police Chief
+Christine Robert, Former Board Chair, LGBTQ Victory Fund
+Sarah Rose, Executive Director, Audubon California & Former Chief Executive Officer, California League of Conservation Voters*
+Wendy-Sue Rosen, Co-founder and President, Brentwood Residents Coalition*
+Amanda Rykoff, Heart of LA Democratic Club Vice President of Organizing
+Bamby Salcedo, Founder, TransLatin@ Coalition*
+Steven D.
+Sann, Chairman, Westwood Community Council*
+Herb Schultz, Community Member
+Angela D.
+Scott, AD-51 Delegate; CDP State Central Committee
+John Scott, Non Profit Executive & LGBTQ Activist
+Yale Scott, Hancock Park Community Leader; Board Member, Equality California
+Susan Sheu, CDP Delegate; Los Angeles County Democratic Party Central Committee; Women's Reproductive Rights Assistance Project Board Member
+Rabbi Susan Silverman, Executive Director, Second Nurture
+Andrew Solomon, West Hollywood Public Facilities Commissioner
+Jacob Sotsky, Historic Preservation Commissioner, City of West Hollywood*
+Julie Stromberg, Civil Rights Attorney; AD-51 Delegate, California Democratic Party
+Tai Esteban Sunnanon, AD-51 Delegate; West Hollywood/Beverly Hills Democratic Club Vice President
+Nancy Sutley, Chief Sustainability and Economic Development Officer, LADWP; Former Chair, White House Council on Environmental Quality*
+Charles Taylor, AD-51 Delegate, California Democratic Party
+Eliot Simon Temple, Citizen Endorsement
+Marquita Thomas, Commissioner, West Hollywood City Planning Commission; Executive Director, Los Angeles LGBTQ Chamber of Commerce*
+Marina Torres, Former Los Angeles City Attorney candidate
+Dean Trucco, Owner, Stir Crazy Coffee
+Michael Tuchin, Jewish Community Leader Community Leader
+Ingrid van Eckert, West LA Democratic Club Vice President; Grassroots Democrats HQ Board Member
+Linda Waade, Former Executive Director, Coalition forClean Air*
+Julie Waters, Vice Chair of the Emerge California Board of Directors & Lead Chair of the Organizing Committee for the California Democratic Party*
+Alec White, CDP Delegate; Executive Board Member, Stonewall Democratic Club
+Jonathan Wilson, West Hollywood Social Justice Task Force Chair
+Renee Dake Wilson, Former Los Angeles City PlanningCommission President
+Jane Wishon, CDP Delegate; Chair of the Westside Democratic HQ; Vice President, Stonewall Democratic Club
+Tiffany Woods, LGBTQ Caucus Chair (North), California Democratic Party*
+Laurence Zackson, Democratic National Committee LGBTQ Caucus Vice Chair; Los Angeles County Democratic Party Party Rules and Legal Committee Co-Chair; West Hollywood/Beverly Hills Democratic Club President Emeritus; LA County Bar Association Amicus Committee Member; The Los Angeles County Bar Association (LACBA) Labor and Employment Law Section Executive Committee
+Rabbi Barbara Zacky, Advisory Board Member, IKAR; Co-Chair, Williams Institute Founders Council; Board Secretary, Equality California Institute*
+*Titles and affiliations are listed for identification purposes only and do not imply any endorsement from institutional organizations.
+STATEMENTS OF SUPPORT
+Gavin Newsom
+California Governor
+“I’m thrilled to endorse Rick Chavez Zbur for Assembly District 51, who has spent his career standing up for what is right and is exactly the type of representative we need in the State Legislature.
+I have worked with Rick directly in his roles with both California Environmental Voters and Equality California.
+He is a proven progressive champion who’s led our state on LGBTQ+ equality, climate justice, gun safety and civil rights.
+I know that Rick is both extremely well equipped to deliver for his constituents and deeply knowledgeable and forward-thinking about many of the most pressing issues facing our state.
+I’m with him 100%.”
+Alex Padilla
+U.S.
+Senator (D-CA)
+“My friend Rick Chavez Zbur is exactly the type of leader we need in the Assembly, and I’m proud to support his campaign.
+I’ve worked closely with Rick over the years to combat climate change, advance civil rights and make healthcare more affordable.
+I’ve seen his commitment to his community and to our state first-hand.”
+Adam Schiff
+U.S.
+Congressman
+“Rick Chavez Zbur has long been a champion on issues from homelessness, to housing affordability to gun safety.
+I know that Rick will fight every day to address our homelessness crisis with the integrity and leadership he has demonstrated as a civil rights leader.
+In the State Assembly, I know Rick will work to advance equality and civil rights, protect our environment, and make it easier for working Californians to get by and afford a roof over their heads.
+I’m proud to endorse his campaign for State Assembly.”
+Ted Lieu
+U.S.
+Congressmember
+“I am excited to endorse my friend Rick Chavez Zbur’s candidacy for Assembly District 51.
+Throughout every step of his career, Rick has worked to create a better, fairer and more just California where working people, communities of color, LGBTQ+ people, seniors and young people can thrive.
+As a proven statewide leader, Rick is extremely well equipped to hit the ground running in Sacramento and effectively deliver for the people he represents on a wide range of issues.
+I’m excited to endorse Rick and look forward to helping him get elected.”
+Katie Porter
+U.S.
+Congressmember
+“Rick Chavez Zbur is the type of leader we need in Sacramento.
+Throughout his career, Rick has proven himself a courageous and principled leader on civil rights, LGBTQ+ equality, and climate action.
+I know that in the Assembly, Rick will continue fighting for a fair economy that works for every Californian, a green energy future that creates jobs and sustains our environment, affordable healthcare for all, and a quality public education system for every child.
+I'm proud to endorse him for State Assembly.”
+Eleni Kounalakis
+California Lieutenant Governor
+“I know Rick will make a remarkable member of the State Assembly and I am proud to endorse him.
+From standing up for working people to vigorously fighting climate change, making healthcare a right and advancing social and economic justice, Rick is the best choice for the 51st Assembly District.”
+Rob Bonta
+California Attorney General
+“We need Rick’s strong leadership, unique experience and progressive values in Sacramento.
+Rick has fought to support working families and enact bold reforms to combat climate change and make California more inclusive and just for all.”
+Ricardo Lara
+California State Insurance Commissioner
+“I’m excited to enthusiastically endorse my friend Rick Chavez Zbur in his campaign for State Assembly…Throughout his career, Rick has been an important, unrelenting voice for LGBTQ+ equality, climate justice, and affordable healthcare for all.”
+Fiona Ma
+California State Treasurer
+“Throughout his career, Rick Chavez Zbur has been an unyielding force for good.
+A champion for equal rights, social and economic justice and combating climate change, Rick has the vision, unique skill-set and experience needed to excel in the State Assembly.”
+Tony Thurmond
+California State Superintendent of Public Instruction
+“At such an important time for California students, teachers and parents, Rick is exactly the type of leader we need in the Assembly.
+I’ve worked closely with Rick to strengthen our public schools, increase support for teachers, and ensure every child has a safe, supportive school and a shot at the American Dream.”
+Dr.
+Shirley N.
+Webber
+California Secretary of State
+“I’m proud to endorse my friend Rick Chavez Zbur, and I’m confident that he will be a bold, powerful voice for justice in the Legislature.
+As a civil rights leader and environmental advocate for decades, Rick has been in the fight and knows what it takes to tackle tough issues and deliver results for our communities.”
+Betty Yee
+California State Controller; California Democratic
+Party Vice Chair
+“I am pleased and excited to endorse Rick Zbur for California State Assembly.
+He is no stranger to the Legislature and Sacramento, having dedicated years to advocating to protect our environment and expand and protect the rights of our LGBTQ+ community.”
+Dolores Huerta
+Labor Leader; Civil Rights Activist; Founder & President, Dolores Huerta Foundation*
+“This pandemic has put a spotlight on the challenges that working families face every day, particularly our essential and frontline workers.
+Rick Chavez Zbur gets it.
+The son of a former steel worker who grew up in a rural farming community, Rick has a deep understanding of the issues facing working families.
+That’s one of the reasons he’s dedicated his career to giving back, from building movements around civil rights and environmental justice, to standing up against the Trump Administration’s anti-immigrant attacks, to fighting for a living wage for farmworkers and healthcare access for all.
+Rick is exactly the kind of leader working families need in the California Legislature, and I am proud to endorse Rick Chavez Zbur for Assembly. ¡Sí, se puede!”
+Toni Atkins
+California Senate President Pro Tem
+“I’m excited to endorse my friend Rick Chavez Zbur for the 51st Assembly District.
+Rick is battle-tested with unrivaled experience, as an effective champion for California’s environment, civil and human rights, LGBTQ youth, and working families.”
+Anthony Rendon
+California State Assembly Speaker
+“Rick Chavez Zbur has built up a dynamic and diverse background, always focused on lifting up marginalized and disadvantaged communities.
+He's been a fighter for climate justice, for the LGBTQ+ community, for working families and more.
+Rick's skill-set and experience make him highly-qualified and well-equipped to serve in the legislature.
+For these reasons and many more, I am pleased to endorse Rick Chavez Zbur for State Assembly.”
+Ben Allen
+California State Senator
+“Rick’s extensive experience in both public policy and advocacy has given him a strong understanding of the many challenges facing California.
+This along with his forward-thinking vision makes him well-equipped to be a strong advocate for the people of the newly drawn 51st Assembly District.
+I’m pleased to endorse his campaign.”
+Richard Bloom
+California State Assemblymember
+“I’m excited to endorse my friend Rick Chavez Zbur, a longtime leader in equity and justice, for Assembly District 51 because I know he has the innovative vision and policy experience to deliver for our shared communities.
+AD-51 needs a proven progressive champion who will prioritize a fairer economy, affordable housing and homelessness, urgent climate action, fair wages and benefits, and protecting our most vulnerable communities.
+From his track record and values, Rick has clearly demonstrated he is that kind of leader, and I know he will continue to do this important work in Sacramento.
+I am confident that this district will be in good hands under Rick’s leadership, and I look forward to helping him get elected.”
+Equality California
+“Rick has moved California forward — for LGBTQ+ people and the diverse communities to which we belong.
+We know Rick, we know his character and we know that he’ll be a tireless champion for civil rights and social justice in the Assembly.”
+California Environmental Voters
+“At a time when we face extreme droughts and wildfires throughout the state, it’s critical that we send leaders to Sacramento who are willing to take bold action that our climate crisis demands.
+For decades, Rick has been a force for climate action, and we’re thrilled to endorse his campaign.”
+California Professional Firefighters
+“California’s firefighters are excited to stand with Rick Chavez Zbur for State Assembly because we know he will fight tirelessly to make sure that California will be ready when wildfires strike.
+In the State Assembly, Rick will advance urgent climate action and ensure firefighters and other first responders have the equipment and resources we need to keep Californians safe.
+Rick is the clear choice for the 51st district and we are proud to stand with him.”
+Planned Parenthood Advocacy
+Project LA County Action Fund
+“We are proud to support Rick Chavez Zbur for Assembly because he has been a tireless champion for reproductive healthcare and justice throughout his career.
+He is an invaluable partner in our work to expand access to quality, affordable healthcare.”
+California Nurses Association
+“The California Nurses Association is excited to endorse Rick Chavez Zbur for Assembly District 51.
+Throughout his career as a statewide advocate on civil rights and environmental justice, Rick has long been committed to protecting healthcare workers and fighting for comprehensive, affordable healthcare for all Californians.
+Rick understands that healthcare is a human right – not just a privilege for those who can afford it, and we are confident that in the Assembly he will work tirelessly to ensure that everyone receives the care that they need.”
+Los Angeles County Federation of Labor
+"Los Angeles County Federation of Labor is proud to endorse Rick Chavez Zbur for State Assembly District 51.
+Throughout his career, Rick has consistently fought to ensure every worker is treated with dignity and respect, whether it’s demanding worker protections, standing in solidarity with workers in picket lines, or advocating to raise the statewide minimum wage.
+We are confident that Rick will be an unrelenting champion for a fairer and more prosperous economy in Sacramento, and we look forward to working with him to expand good-paying, middle-class union jobs for all."

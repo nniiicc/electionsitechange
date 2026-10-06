@@ -1,0 +1,52 @@
+Friends of Brian Scopa ("we," "us," or "the Campaign") respects your privacy and is committed to protecting the personal information you share with us.
+This Privacy Policy explains what information we collect, how we use it, and the choices you have.
+Information we collect
+When you sign up to support, volunteer, donate, or receive updates from the Campaign, we may collect:
+- Name
+- Email address
+- Mobile phone number (if you opt in to text messages)
+- Mailing address and ZIP code
+- Volunteer interests and availability
+- Donation information (processed through our compliant payment processor)
+We may also collect non-personally identifiable information about your visit to our website, including browser type, device, IP address, and pages viewed.
+How we use your information
+We use the information you provide to:
+- Send you campaign updates, news, and event invitations
+- Send text messages about the campaign (only if you have opted in)
+- Coordinate volunteer activities
+- Process and acknowledge donations
+- Comply with federal and Illinois state campaign finance reporting requirements
+- Improve our website and outreach
+SMS / text messaging
+If you opt in to receive text messages from the Campaign, we will use your mobile phone number to send you political and campaign-related text messages.
+Message frequency varies.
+Message and data rates may apply.
+You can reply STOP at any time to unsubscribe, or HELP for help.
+No mobile information will be shared with third parties or affiliates for marketing or promotional purposes.
+All categories listed above exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+How we share your information
+We do not sell your personal information.
+We may share information with:
+- Service providers who help us operate the Campaign (email platform, SMS vendor, payment processor) under strict confidentiality
+- Google Analytics, for measuring website traffic
+- Campaign volunteers and staff who need it to perform Campaign work
+- Federal or state authorities when required by campaign finance law or other legal obligation
+We do not share, sell, or rent mobile phone numbers or SMS opt-in data with any third party for marketing purposes.
+Your choices
+- Unsubscribe from emails using the link at the bottom of any campaign email
+- Unsubscribe from texts by replying STOP to any campaign text
+- Request access to or deletion of your personal data by emailing info@scopaforillinois.com
+Cookies and tracking
+Our website uses standard analytics cookies to understand how visitors use the site.
+You can disable cookies in your browser settings.
+These analytics are provided by Google Analytics.
+You can opt out of Google Analytics with Google's browser add-on.
+Children
+We do not knowingly collect information from anyone under 18.
+If you believe a minor has provided us information, please contact us so we can remove it.
+Contact
+For questions about this Privacy Policy, contact:
+Friends of Brian Scopa
+c/o 2863 W 95th Street, Suite 123-502, Naperville, IL 60564
+Naperville, IL
+info@scopaforillinois.com

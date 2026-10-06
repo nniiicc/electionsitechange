@@ -1,0 +1,2 @@
+| In a year-end roundup of positive developments in healthcare policy, News Medical highlighted Senator Bailey's LD 558, a law aimed at protecting Maine consumers from harmful medical debt reporting practices.
+The piece recognized Maine's progress in shielding patients from the long-term financial consequences of medical debt appearing on consumer credit reports — a meaningful win for Mainers struggling with the cost of healthcare heading into the new year. | Blog Latest News Archives Categories |

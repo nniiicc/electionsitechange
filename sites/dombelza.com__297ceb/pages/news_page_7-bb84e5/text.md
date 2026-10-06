@@ -1,0 +1,3 @@
+Belza Campaign Continues to Dominate With Another High-Profile District Endorsement
+Tehama County, Calif. -- Today, Republican Dom Belza announced receiving the endorsement of Tehama County District Attorney Matt Rogers in his campaign for the 3rd Assembly District.
+Belza is now…

@@ -1,0 +1,6 @@
+How fast can you read through a 170-page bill?
+That very question is what has Oregon House Democrats on edge as the pandemic ignites tensions over workplace safety…
+Skip to content
+Bill Readings in the Oregon Legislature Become Battleground for More Partisan Gridlock
+How fast can you read through a 170-page bill?
+That very question is what has Oregon House Democrats on edge as the pandemic ignites tensions over workplace safety…

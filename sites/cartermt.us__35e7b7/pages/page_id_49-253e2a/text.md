@@ -1,0 +1,41 @@
+Here are just a few of our neighbors and organizations who I am proud to say are supporting me.
+- Diane Sands – Montana State Senator
+- Willis Curdy – Montana State Senator
+- Arlene Walker-Andrews
+- Barbara Berens
+- Ed & Laura Taylor
+- Elaine & Tony Higuera
+- Elizabeth & John Stegmaier
+- Erin Doherty
+- Florita Mulkey
+- Fred Stewart
+- Greg & Julie Peters
+- Holly Raser
+- Jennifer Long
+- Josh Slotnick
+- Kari Brittain
+- Leslie & Paul Dallapiazza
+- Lori Messenger
+- Malcolm Lowe
+- Melena Randall
+- Mike Hanson
+- Peggie Morrison
+- Scott & Freya Jones
+- Sharon Sterbis
+- Steve & Jan McArthur
+- Sue, Tom & Sam Orr
+- Thomas Buchholz
+- Tim Lovely
+Endorsements:
+- 314 Action
+- Montana Conservation Voters
+- Montana Federation of Public Employees
+- The Center for Freethought Equality
+- Big Sky 55
+- Montana AFL-CIO
+- Missoula Organization of Realtors
+- Planned Parenthood Advocates of Montana
+- Brotherhood of Locomotive Engineers & Trainmen
+- Sierra Club – Montana Chapter
+- Patients over Profits Pledge
+- Western Native Voice Action Fund

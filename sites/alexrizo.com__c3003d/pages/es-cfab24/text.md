@@ -1,0 +1,139 @@
+La plataforma de Rizo
+Educación
+- Apoyar los derechos de los padres en la educación y los enfoques de sentido común para la educación, no el adoctrinamiento.
+- Proporcionó la mayor expansión de opciones escolares en la historia de la Florida.
+- Apoyó el programa de vales que ahora proporciona $8,000 anuales por niño, para que los padres lleven a sus hijos a la escuela que mejor se adapte a sus necesidades.
+- Protege a las atletas femeninas y la integridad de los deportes femeninos.
+- Votó repetidamente a favor de aumentos récord en el financiamiento de las escuelas públicas, así como $2.5 mil millones adicionales para aumentos salariales a los maestros.
+- Reinstituir el Diferencial de Costos del Distrito en el financiamiento estudiantil para ayudar a nuestras escuelas públicas locales
+- Ampliar los programas de Desarrollo de la Fuerza Laboral y Técnico en las escuelas públicas.
+- Aprobó numerosos proyectos de ley para eliminar la burocracia, apoyar a los maestros, proteger a los estudiantes y mejorar el profesionalismo y la capacitación de los maestros.
+Los Ancianos
+- Patrocinó y trajo fondos para mejorar la calidad de vida de las personas mayores.
+- Reducir los costos de los medicamentos a través de los principios de libre mercado de la competencia, reducir el exceso de regulaciones y reunir los recursos de los compradores.
+- Crear opciones de planes de ahorro para la salud.
+La Economía
+- Lucha contra los impuestos y las subidas de tasas encubiertas.
+- Votó a favor de un recorte de impuestos récord de $4.2 mil millones de dólares, incluyendo recortes de impuestos permanentes sobre artículos para bebés como cunas, pañales y cochecitos.
+- Votó a favor de leyes para eliminar los impuestos a la propiedad para las personas mayores de bajos ingresos.
+- Apoyó un programa de reembolso de peajes de $500 millones de dólares para reembolsar a los conductores de Florida que pagan peajes excesivos en las autopistas.
+- Patrocinó y trajo millones de dólares para infraestructura de drenaje para combatir las inundaciones.
+- Apoyar políticas que mantengan a la Florida competitiva en un mundo cada vez más técnico.
+Valores Conservadores
+- Copatrocinó la ley del Día de las Víctimas del Comunismo.
+- Apoyó la ley que requiere que los estudiantes de secundaria aprendan sobre los horrores y fracasos de comunismo.
+- Patrocinó protecciones legales para nuestros oficiales de policía y ha trabajado con funcionarios electos locales para garantizar la seguridad pública en nuestros vecindarios.
+- Un defensor de la libertad religiosa al apoyar protecciones adicionales para iglesias, sinagogas y organizaciones religiosas para garantizar su seguridad y practicar sus creencias sin intervención del gobierno.
+Reforma de la Ley de Seguros y Condominios
+Para reducir los costos de nuestro seguro de propiedad, el Representante Rizo apoya la adopción de varias pólizas, incluido:
+- Creación de un Grupo de Trabajo contra el Fraude de Seguros para ayudar a erradicar la corrupción y las reclamaciones fraudulentas que aumentan el costo del seguro.
+- Al reducir el costo de las viviendas, podemos reducir el costo del seguro de propietario de vivienda, lo que se puede lograr construyendo más casas y reduciendo los costos de construcción.
+Casas más baratas = menores costos de seguro.
+- Exigir estimaciones independientes de los daños a la vivienda después de un huracán o tormenta para garantizar que las compañías de seguros paguen el valor real del costo de reparación.
+- Exija a las grandes compañías de seguros y abogados que revisen y respondan a las reclamaciones de los propietarios de viviendas de manera más rápida y eficiente.
+Apoya la revisión de la nueva ley estatal de condominios después del colapso del condominio de Surfside para salvaguardar las tarifas de tasación excesivas de los propietarios de condominios para que puedan conservar sus hogares mientras garantizan la seguridad.
+Sobre Rizo
+- Padre de dos hijos
+- Presidente del Partido Republicano del Condado de Miami-Dade, 2022 a 2024
+- Cofundador del Club Republicano de Hialeah-Miami Lakes
+- Vicepresidente, Consejo Comunitario del Condado de Miami-Dade 5, 2015-2020
+- Creador/propietario de pequeñas empresas desde 2006
+- Maestro/Educador, “Maestro Principiante del Año en la Escuela Secundaria Barbara Goleman” 1997
+- Subdirector de Hialeah Middle, Lawton Chiles Middle y American High School
+- Escuela de Posgrado en Educación de Harvard, Instituto Nacional de Líderes Escolares Urbanos, 2006
+- Maestría en Ciencias en Liderazgo Educativa, Nova Southeastern University, 2000
+- Licenciatura en Ciencias Biológicas, Universidad Internacional de Florida, 1995
+- Universidad de Miami, 1985-1988, Alumno no graduado
+- Graduado de la Escuela Secundaria Hialeah, Clase de 1985
+- Designado por el gobernador para la Junta Regional de Educación del Sur (SREB), 2022
+- Miembro vitalicio de American Mensa
+Endosos
+Federal
+Officials
+“I am happy to endorse Alex Rizo for State Senator in District 39.
+He has been a true leader in this community and at the state level, and I look forward to working with him to further improve the lives of our constituents.
+Alex has my full support!”
+Congressman Mario Diaz-Balart (R)
+26th District
+State Cabinet
+& Legislature
+Governor Ron DeSantis (R)
+Blaise Ingoglia (R)
+Chief Financial Officer
+Speaker of the Florida House
+José Oliva (R), 2018-2020
+District 110
+Representative Omar Blanco (R)
+District 115
+Miami-Dade
+County Officials
+Dariel Fernandez (R)
+Tax Collector
+City of
+Hialeah Officials
+Mayor Bryan Calvo
+Council President Carl Zogby
+Group 5
+Councilwoman Gelien Perez
+Group 3
+Councilman Luis Rodriguez
+Group 7
+Councilman William Marrero
+Group 4
+City of
+Doral Officials
+Mayor Christi Fraga
+Councilman Rafael Pineyro
+Councilwoman Nicole Reinoso
+Town of Miami
+Lakes Officials
+Mayor Josh Dieguez
+Councilman Alex Sanchez
+Seat 4
+City of Hialeah
+Gardens Officials
+Mayor Yioset De La Cruz
+City of
+Sweetwater Officials
+Mayor Jose “Pepe” Diaz
+Commission Vice-President Jose Marti
+Commissioner Idania Llanio
+City of Miami
+Springs Officials
+Mayor Walter Fajet
+School Board
+Dan Espino
+School Board District 5
+Monica Colucci
+School Board District 8
+Mary Blanco
+School Board District 7
+Roberto Alonso
+School Board District 4
+Organizations
+- Florida Republican Senatorial Campaign Committee
+- F.O.P.
+Florida State Fraternal Order of Police – Florida State Lodge
+- South Florida Police Benevolent Association (PBA)
+- National Association of Police Organizations (NAPO)
+- Florida Professional Firefighters (FPF/IAFF)
+Organizations
+- South Florida Police Benevolent Association (PBA)
+- Florida Police Benevolent Association (PBA)
+- Fraternal Order of Police (FOP), State & Local
+- Venezuelan American Republican Club (VARC)
+- Metro-Dade Firefighters, IAFF Local 1403
+- Christian Family Coalition – Only Candidate with Highly Qualified Rating
+DONA
+a Rizo
+Siempre representaré nuestros valores conservadores y las necesidades de la comunidad en Tallahassee como su representante electo.
+Por favor, contribuya a mi campaña ya sea con cheque o en línea. ¡Gracias!
+Alex Rizo Campaign
+4914 SW 72nd Avenue
+Miami, FL 33155
+La contribución máxima permitida por la ley de financiamiento de campañas de la Florida es de $1,000 por persona individual, entidad corporativa y / o Comité Político.
+Las contribuciones no son deducibles para fines del impuesto federal sobre la renta.
+Recursos
+En el sitio web de Elecciones del Condado de Miami-Dade, encontrarás información sobre el registro de votantes, lugares para registrarse, opciones de votación, lugares de votación, fechas clave para recordar para las próximas elecciones y mucho más.
+¡El Departamento de Elecciones está aquí para servirte!
+No dudes en enviar un correo electrónico al Departamento de Elecciones con tus preguntas y sugerencias, o llama al 3-1-1 para obtener información adicional.

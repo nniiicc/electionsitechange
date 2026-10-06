@@ -1,0 +1,11 @@
+Endorsements
+- Auburn Mayor Nancy Backus
+- Kent Mayor Dana Ralph
+- Covington Mayor Sean Smith
+- Kent City Council President Satwinder Kaur
+- Congressmember Adam Smith
+- Governor Bob Ferguson
+- State Senator Claudia Kauffman, 47th LD
+- State Representative Debra Entenman, 47th LD
+- State Representative Janice Zahn, 41st LD
+- State Representative Edwin Obras, 33rd LD

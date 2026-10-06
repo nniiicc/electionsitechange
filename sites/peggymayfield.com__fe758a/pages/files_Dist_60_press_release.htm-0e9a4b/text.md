@@ -1,0 +1,81 @@
+Elect
+Peggy
+Mayfield
+Campaign
+news and updates
+Mayfield to Join House Representative
+District 60 Race
+For Immediate Release��������������������������������������������
+January 23, 2011������������������������������������������������������������������������������
+Contact:� Dean Mayfield,
+CIC
+����������� ���� The Mayfield Campaign
+����������� ���� 50
+S.
+Madison St.
+���� Mooresville,
+IN� 46158
+����������������
+317-831-VOTE (8683)
+���������������� Email:� peggy@themayfieldcampaign.com
+Martinsville, IN � Peggy Mayfield,
+a small business owner and two-term Morgan
+County elected official, announced
+today her intention to file for the Republican nomination for Indiana�s House of Representative�s District
+60.� As a result of redistricting, House
+District 60 will encompass parts of both Morgan and Monroe Counties.
+A 30-year resident of Morgan County
+and long time business owner of Mayfield Insurance, Inc. and Mayfield Real
+Estate, LLC, Peggy understands the importance of fiscal responsibility,
+education, and economic opportunity.��
+�The economy in Indiana is better than
+most states but we need to continue Governor Mitch Daniels� efforts to build a
+climate that provides for economic expansion and job development.�� To build a strong economic foundation in Indiana, we need to grow
+and expand our job base and realize we are competing not only with other states
+but other countries for those jobs.��
+Morgan and Monroe
+Counties are known for a
+strong workforce and we can compete with anyone when given the opportunity.�
+As second term Circuit Court Clerk of Morgan County,
+Mayfield has served in several leadership capacities.� She sits on the Executive Board of the
+Association of Circuit Court Clerks of Indiana where she serves as chairman of
+the legislative committee, working directly with State legislative
+leaders.� She also serves on the
+legislative committee of the Association of Indiana Counties.� Mayfield has already demonstrated her ability
+to increase efficiencies in government when she implemented a consolidation of
+polling locations and early satellite voting in Mooresville without increasing
+costs.
+-More-
+Page 2 of 2
+As an Endowment Member of the National Rifle
+Association, a certified rifle and shotgun instructor, a competitive State
+Skeet Champion, and a hunter, she is a strong supporter of 2nd
+Amendment rights.
+Peggy Mayfield
+grew up in Indianapolis where she attended Cathedral High School
+and graduated from North
+Central High
+School.
+She then attended IUPUI�s
+Purdue School of Engineering and Technology studying Computer Technology.
+Peggy Mayfield
+and her husband Dean have been married for 27 years and have four sons.
+She has
+been involved with the Boy Scouts of America, receiving the 2010 District Award
+of Merit, and is an Executive Board member of Hoosier Trails Council in Bloomington, IN.
+Mayfield
+is a member of St.
+Martin of Tours Catholic Church in Martinsville.
+She was past secretary to the
+parish Board of Education and has a lifetime of involvement in the Archdiocese
+of Indianapolis, including CYO sports.�
+In addition, the Mayfield�s have hosted seven
+foreign exchange students through Rotary International and other organizations.
+Two sons have traveled abroad as Rotary Foreign Exchange Students, including
+one currently in Taiwan.
+�I believe that strong,
+creative, attentive, and ethical leadership is the key to good service to our
+citizens of Morgan and Monroe counties.
+I intend to provide that leadership,�
+stated Mayfield.
+####

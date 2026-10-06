@@ -1,0 +1,41 @@
+ISSUES
+A Foreign Policy Rooted in Peace, Democracy, and Global Justice
+For too long, our foreign policy has prioritized military action over diplomacy – and we have indulged in alliances that provide some short term benefits over basic human rights.
+Trump is supercharging this dynamic, using American foreign policy for his own personal benefit, embarrassing America on the world stage, embracing dictators, and turning away from our allies.
+We cannot build a safer, more just world by relying on outdated thinking, bloated defense budgets, or cozy relationships with authoritarian regimes and dictatorships that don’t respect human rights.
+It’s time for a foreign policy that reflects American values – not Donald Trump and his cronies’ private interests.
+If we want peace, we must work for justice.
+If we want security, we must invest in diplomacy.
+And if we want to lead, we must lead by example.
+I’ll advocate for a foreign policy that prioritizes peace, human rights, and global cooperation, including:
+- Rebalancing the Federal Budget: I’ll work to shift resources from the bloated Pentagon budget to diplomatic efforts, humanitarian aid, and global development, including reopening USAID and other diplomatic agencies shuttered by Trump.
+- End the Endless Wars: I’ll work to sunset outdated Authorizations for Use of Military Force (AUMFs) and require congressional approval for future military actions.
+- Supporting Conflict Prevention: Invest in peacebuilding, mediation, and civilian-led international engagement to stop the next conflict before it starts.
+- Leading on Climate Diplomacy: Rejoin and strengthen global climate agreements, including the Paris Accords, increase international climate aid, and hold major polluters accountable.
+- Supporting Global Health and Pandemic Preparedness: Expand funding for global health systems, vaccines, and rapid-response efforts to prevent future pandemics.
+This includes restoring funding for global reproductive care and protecting the lifesaving PEPFAR program from Donald Trump and Elon Musk’s cuts.
+- Standing Up for LGBTQ+, Women’s and Minority Rights Worldwide: Make equality and inclusion a core pillar of U.S. diplomacy and demand repressive regimes stop their attacks on minority rights.
+- Supporting Refugees and Migrants with Dignity: Fully fund refugee resettlement programs, expand asylum programs, and work with international partners to address root causes of displacement.
+Stabilize the Middle East and Fight Antisemitism at Home and Abroad
+- The ceasefire must be a lasting one: Although a ceasefire is in place that has led to the return of the living hostages and a short-term reprieve, the work is not yet done.
+There must continue to be a surge of humanitarian aid into Gaza, Hamas must return the remains of any of the remaining hostages, and the Netanyahu government’s actions that jeopardize the ceasefire must stop.
+- The United States must play a key role in good-faith diplomatic negotiations: The U.S. will be essential to brokering an agreement that eventually leads to a two-state solution with two states for two peoples, existing side by side, in peace and security.
+We must work toward that goal.
+- Recognition of a Palestinian State: Now is the time to call for a free and democratic Palestinian state, with a government that Hamas has no place in.
+Nominal U.S. support for such has done nothing to stop the Netanyahu government from undermining this goal through settlement expansion and we must officially recognize this goal.
+- Invest in humanitarian aid: The United States must supply food, medicine, and supplies for Gaza and the West Bank – and use every lever possible to ensure that aid actually reaches civilians.
+- Implement the Biden administration’s U.S.
+National Strategy to Counter Antisemitism: I support the Biden Administration’s U.S.
+National Strategy to counter Antisemitism, which includes increasing awareness of antisemitism and providing security for Jewish communities – but does not infringe on freedom of speech, including criticism of the Israeli government.
+- Stop Iran from developing a nuclear weapon: A nuclear Iran is unacceptable – but we should work to stop Iran from obtaining a nuclear weapon through diplomatic means, not reckless military strikes that threaten to further destabilize the region and fail to remove the threat.
+Support Ukraine’s Fight for Freedom
+- Support Ukraine’s right to self-determination: I stand with Ukraine in the face of Russia’s illegal invasion and ongoing war crimes.
+Any negotiations or talks regarding a ceasefire or potential end to war must include Ukrainian representation.
+- Provide military and humanitarian aid: We should provide Ukraine aid – with oversight to ensure accountability and effectiveness – while pushing for a diplomatic path to end the war that respects Ukraine’s sovereignty.
+- Hold Russia accountable: We can hold Russia accountable through international sanctions, war crimes investigations, and support for independent media, human rights, and civil society inside Russia.
+Restore Funding for Our Diplomatic Institutions
+- Fully restore and increase funding for diplomatic institutions: We need to reverse Donald Trump’s and Elon Musk’s attacks on the State Department, USAID, and international broadcasting entities like VOA, Radio Free Europe, and Radio Free Asia.
+- Protect institutional independence: We should protect independence to ensure diplomatic agencies will operate free from political manipulation or censorship.
+- Invest in diplomatic capacity: We should strengthen our diplomatic workforce by hiring and training a new generation of Foreign Service Officers, development experts, and other diplomacy professionals.
+Foreign policy should reflect the same values we fight for at home: democracy, justice, dignity, and peace.
+In Congress, I’ll fight back against massive military spending, challenge authoritarianism abroad and at home, and work to make the U.S. a force for good in the world.

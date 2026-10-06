@@ -1,0 +1,10 @@
+From NFL Kicker to Congressional Candidate in Arizona | Jay Feely on 13th & Park
+Jay Feely spent 14 seasons in the NFL as a place kicker, but his resume extends well beyond the field.
+After football, he built a career as an NFL broadcaster, served on the NFLPA Executive Committee negotiating billion-dollar collective bargaining agreements, and devoted years to community work in Arizona and abroad.
+Now he is running for Congress in Arizona's 1st Congressional District, one of the most competitive seats in the country.
+On 13th and Park, Feely sits down with Adam Goodman for a wide-ranging conversation about what a life lived under pressure actually teaches you about leadership.
+Feely walks through the most scrutinized moment of his career, a game in Seattle where he missed three potential game winners for the New York Giants, including the role that sports psychologist Bob Rotella's book Golf Is Not a Game of Perfect played in his mental preparation.
+The lesson he took from that night, that failing as badly as you possibly can and surviving it is actually liberating, became the throughline for how he thinks about coaching, parenting, and now politics.
+He argues that the willingness to share your failures honestly, something almost no politician does, is exactly what voters are hungry for.
+The conversation moves into the policy terrain of Arizona's 1st District, including the Colorado River water crisis, the affordability squeeze hitting working families, the regulatory drag on home construction, and the implications of TSMC's $250 billion chip manufacturing investment in the state.
+Feely draws on his NFLPA experience negotiating on behalf of players across wildly different income levels as direct preparation for the budget and benefits fights he expects in Congress, and explains why owners and players alike, including Falcons Owner Arthur Blank, have lined up behind his campaign.

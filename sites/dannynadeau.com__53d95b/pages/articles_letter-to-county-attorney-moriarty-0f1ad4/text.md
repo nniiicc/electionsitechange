@@ -1,0 +1,1 @@
+Letter to Hennepin County Attorney Mary Moriarty on the Decision to Discontinue Subsequent Traffic Stop Prosecutions Tuesday, September 23, 2025 This press release is available as a PDF: LetterToCountyAttorneyMoriarty.pdf

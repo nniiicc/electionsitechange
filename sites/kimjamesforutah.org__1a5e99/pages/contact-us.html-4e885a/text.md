@@ -1,0 +1,39 @@
+KIM JAMES FOR UTAH HOUSE DISTRICT 8
+HOME
+ABOUT KIM
+About Kim James
+Kim's Perspectives
+Kim's Opposition
+HD8 MAP
+DONATE
+VOLUNTEER & CONTACT
+Volunteer & Vote
+Contact Us
+Contact & Volunteer Form
+Kim will need lots of help to win this election.
+Please fill out the form to get campaign news and/or volunteer with her campaign.
+Thank you!
+*
+Indicates required field
+Name
+*
+First
+Last
+Email
+*
+Phone Number
+*
+Comment
+*
+I agree to receiving marketing and promotional materials
+Submit
+HOME
+ABOUT KIM
+About Kim James
+Kim's Perspectives
+Kim's Opposition
+HD8 MAP
+DONATE
+VOLUNTEER & CONTACT
+Volunteer & Vote
+Contact Us

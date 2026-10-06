@@ -1,0 +1,10 @@
+Bipartisanship
+In 2017, Ed led a bipartisan, multi-racial effort to protect the freedom of assembly and protest in Georgia, receiving a bipartisan award from Asian Americans Advancing Justice in Atlanta while providing law enforcement the tools to crack down on true cases of domestic terrorism.
+From 2014-2016, Ed led a bipartisan effort to restrict public access to the criminal histories of Georgians who have been accused of crimes but found Not Guilty in a court of law.
+Previously, the mere accusation of a crime by one party could ruin the work prospects of the accused, even when later exonerated by a court of law.
+In September 2017, as Chairman of the House Committee on Science & Technology, Ed took a statewide leadership role in coordinating legislative hearings on securing Georgia’s election system in the aftermath of the 2016 Presidential Election.
+Through this rigorous committee process, Ed coordinated a bipartisan effort to analyze new voting system technologies for use in the 2020 election cycle that leveraged cutting edge technology while giving Georgians the confidence of a physical paper ballot.
+In the 2018 legislative session, Ed sponsored a bipartisan bill that laid the groundwork for the implementation of a new paper-verifiable statewide election system for the 2020 election cycle.
+In response to the US Supreme Court’s Kelo vs.
+New London decision, Ed supported the landmark property rights legislation House Bill 1313.
+This overwhelmingly bipartisan bill affected a local government’s ability to seize private property through the use of eminent domain by prohibiting governments in Georgia from seizing private property through eminent domain for purposes of economic development, toughening the definition of “blight” to protect well-kept properties in run-down neighborhoods, and providing property owners with greater “due process” rights before government can move forward with seizing any property through condemnation.

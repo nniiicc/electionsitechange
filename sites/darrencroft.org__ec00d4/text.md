@@ -40,22 +40,19 @@ See Solutions
 PERSONAL TESTIMONIALS
 See all personal testimonials
 Tap/click a quote to see the full statement
-Amber Shill
-President, Canyons School Board
-Darren is a man of integrity who supports the education of our youth and possesses the skills, talents and abilities to advance good government.
-Mike Shelton
-Cottonwood Heights City Council, 2012-2019
-…Darren is one of the most hardworking and disciplined individuals I have ever met.
-Combined with a brilliant mind and a deep commitment to ethical public service, Darren Croft is uniquely qualified to represent us.
-He possesses the sharp intelligence necessary to navigate our state’s most complex challenges….We need people in office who are smart enough to solve problems and honest enough to tell us the truth about them.
-Darren Croft is both.
-I trust his judgment… I know nobody will work harder for our families.
-Darren Croft is exactly what we need in state government right now.
 Gregory & JoAnn Schwitzer
 Cottonwood Heights Residents
 We are thrilled to fully endorse Darren Croft in his campaign for the Utah Legislature.
 We have known him for many years and have been impressed with his dedication, integrity and ability to communicate and understand issues of importance to the community and the State….
 Utah would be well served by having him as one of our legislators.
+Amber Shill
+President, Canyons School Board
+Darren is a man of integrity who supports the education of our youth and possesses the skills, talents and abilities to advance good government.
+Steve Crandall
+Cottonwood Heights Resident
+[Darren’s] integrity, consistency, hard-work ethic, and solid judgment are part of his nature.
+He is one of the most effective leaders I have worked with because of his unique ability to break down a problem with his engineering background and create solutions that last….
+His history of serving the community is well established and I welcome his leadership in our state government as he will rise to the top of any organization that he serves.
 CAMPAIGN NEWS
 Campaign Events
 Upcoming events including those dedicated to meeting Darren, and those with multiple candidates.

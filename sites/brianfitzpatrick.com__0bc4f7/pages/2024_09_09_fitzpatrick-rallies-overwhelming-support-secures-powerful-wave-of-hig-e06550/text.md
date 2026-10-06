@@ -1,0 +1,116 @@
+LANGHORNE, PA – Today, Congressman Brian Fitzpatrick announced a landmark coalition of sweeping endorsements from over thirty prominent local, state, and national organizations.
+This powerful show of support underscores his exceptional bipartisan achievements, reaffirms his status as the #1 most bipartisan member of Congress five consecutive years in a row, and reflects his commitment to advancing the interests of every single person, regardless of political party, in his hometown of Pennsylvania’s First District, with unparalleled integrity, dedication, and effectiveness.
+“Serving the community where I was born and raised has been the greatest honor of my life.
+The endorsements from these distinguished organizations affirm the progress we’ve made and our shared vision for a thriving, united community and country.
+As the #1 most bipartisan Member of Congress for five consecutive years, I am dedicated to pursuing solutions beyond party lines, building bipartisan relationships, and transforming meaningful discussions into tangible results for our hardworking men and women, families, veterans, first responders, students, and entire PA-1 community and beyond.
+I remain committed to steadfastly rejecting divisive politics and empty rhetoric, and leading with purpose, strength, and integrity.
+Together, I am eager to build on all we have already achieved and forge an even brighter future for our One Community,” said Rep.
+Brian Fitzpatrick.
+The following organizations have formally endorsed Congressman Brian Fitzpatrick:
+- AFL-CIO
+- U.S.
+Chamber of Commerce
+- Environmental Defense Fund (EDF) Action
+- American Conservation Coalition Action
+- Humane Society Legislative Fund
+- Animal Wellness Action
+- Citizens for Responsible Energy Solutions
+- Everytown for Gun Safety/Moms Demand Action
+- Gabby Giffords
+- Brady PAC
+- National Association of Social Workers
+- Fraternal Order of Police (FOP)
+- PA Professional Fire Fighters
+- Pennsylvania Association of Staff Nurses and Allied Professionals (PASNAP)
+- International Brotherhood of Teamsters
+- International Brotherhood of Electrical Workers (IBEW) Local 269
+- Eastern Atlantic States Regional Council of Carpenters
+- PA Association of Letter Carriers
+- Plumbers Local 290
+- Steamfitters Local 420
+- Transport Workers Union
+- Bensalem Career Firefighters
+- AFSCME District Council 88
+- International Association of Flight Attendants
+- Brotherhood of Railroad Signalman
+- Boilermakers Local Lodge 13
+- IUPAT District Council 21
+- Marine Engineers Beneficial Association
+- American Maritime Officers
+- International Organization of Masters, Mates, Pilots
+- Seafarers International Union
+- Mechanical & Service Contractors of Eastern PA
+- National Electrical Contractors Association
+- American Israel Public Affairs Committee (AIPAC)
+- American Ukraine PAC
+Key Statements:
+PA Teamsters, President William Hamilton
+“As an FBI agent, Brian Fitzpatrick served our country in Operation Iraqi Freedom – the largest of several fronts in the War on Terror.
+As a seated Congressman, Fitzpatrick has always stood up for the working men and women in Pennsylvania.
+Because of his commitment to put people and Country ahead of politics and his bipartisan approach to getting things accomplished, coupled with his experience and education, makes Brian Fitzpatrick the ideal candidate.
+As a friend and leader, Brian Fitzpatrick has always stood with the Teamsters in matters that helped the working men and women of our great Commonwealth.
+Now the Teamsters will proudly stand with him as we have always done so in the past.”
+Transport Workers Union of America, International President John Samuelson
+“Representative Brian Fitzpatrick has been one of our greatest allies in Congress, and we are looking forward to continuing to work with him.
+On every issue our members care deeply about, Representative Fitzpatrick has taken the time to understand our concerns and ensure working people are the top priority of our government.
+TWU members need representatives like Brian Fitzpatrick in Washington, DC.”
+Giffords PAC, Founder and Former Congresswoman Gabrielle Giffords
+“Gun violence is a moral stain on the conscience of our nation, and for too long, our lax gun laws have put countless American families and communities at risk.
+This November, we must come together to elect champions who will put public safety first—champions like Representative Brian Fitzpatrick.
+In office, he has prioritized the needs of the next generation and fought for the passage of lifesaving measures to expand background checks, disarm domestic abusers, and fund the critically important community violence intervention programs that help keep our streets safe.
+I know Representative Fitzpatrick has what it takes to continue making progress in this must-win fight, and I’m proud to support him for reelection this fall.”
+Everytown for Gun Safety, President John Feinblatt
+“Gun safety isn’t a right-or-left issue—it’s a life-or-death issue, and few elected officials understand that more than Congressman Fitzpatrick, who has long pushed for bipartisan solutions to gun violence.
+Everytown is proud to endorse Congressman Fitzpatrick, who has shown true political courage in championing common-sense gun safety legislation.”
+Everytown for Gun Safety SVP of Government Affairs Monisha Henley
+“We can’t afford more lives to be cut short because of inaction in Congress, and Representative Fitzpatrick is a proven gun sense champion.
+Everytown has worked alongside Representative Fitzpatrick to advocate for bipartisan, lifesaving gun safety laws, and we’re proud to support his re-election.”
+PA Professional Fire Fighters, President Robert Brooks
+“Public safety is of the utmost importance.
+With Representative Fitzpatrick’s extensive background in public safety, he understands the tools and resources needed to answer calls for help, which allow us to deliver more effective and efficient emergency services to our communities.
+His approach of putting people before politics is unmatched.
+He is not afraid to make tough decisions, and he never backs down from a fight.
+We know with Representative Fitzpatrick in Washington, the people still have voice and he will continue to advocate on our behalf in Congress.”
+Pennsylvania Association of Staff Nurses & Allied Professionals (PASNAP), President Mauren May, RN
+“We at PASNAP are excited to call Brian Fitzpatrick an ally, and we look forward to standing side by side with him in the fights ahead for our nurses and allied professionals to achieve safe staffing standards and a meaningful seat at the table for workplace violence prevention.
+We are confident that Brian Fitzpatrick will continue to do an outstanding job in Washington, D.C. and in his District and that he will remain a strong advocate for working families across the Commonwealth.”
+Human Society Legislative Fund, President Sara Amundson
+“There is no stronger leader on animal protection issues in the House Republican Caucus than Brian Fitzpatrick.
+His commonsense legislative efforts have built a strong coalition advancing the fight for all animals.
+As a former FBI agent, he has expert knowledge of criminal procedure that he is using to crack down on some of the worst animal abuses, including puppy mills and the soring of Tennessee walking horses.
+Pennsylvanians should re-elect this humane champion to Congress.”
+National Electrical Contractors Association, Senior Vice President Marco Giamberardino
+“Congressman Fitzpatrick’s expertise on the many issues affecting the construction industry, overall concern for the health of the region’s economy, and long record of successful public service has more than earned our strong support.
+We greatly appreciate his uncanny ability to bring together a wide range of divergent opinions to foster common ground, create real solutions, and bring real progress to the important issues of the day.”
+Mechanical & Service Contractors Association, Executive Vice President Jim Dougherty
+“Congressman Fitzpatrick’s leadership on critical issues such as infrastructure development, energy efficiency, and workforce training has not only been instrumental in driving our industry forward but has also positively impacted countless families and businesses across our nation.
+MSCA of Eastern PA deeply appreciates Congressman Fitzpatrick’s proactive engagement with industry stakeholders and advocacy for the interests of our members.
+We believe that Congressman Fitzpatrick’s continued presence in Congress will be crucial in addressing the challenges and seizing the opportunities that lie ahead.
+Congressman Fitzpatrick’s experience, dedication, and collaborative approach make him the ideal representative for our industry.”
+Brotherhood of Railroad Signalman, President Michael S.
+Baldwin
+“Representative Fitzpatrick’s commitment to working across party lines and proven track record of serving his constituents with dedication throughout his tenure in Congress has not gone unnoticed.
+From co-leading H.R. 2785 REEF Act and co-sponsoring H.R. 1674 Railway Safety Act, to co-leading a FY2024 Appropriations letter urging strong support of Amtrak and passenger rail services, as well as being a key vote for stopping an Appropriations bill that included devastating cuts to Amtrak and the Railroad Retirement Board, Representative Fitzpatrick’s efforts have led to tangible improvements in the conditions of those he represents.
+The BRS represents many hardworking union members throughout Pennsylvania, and we believe that he will continue to be a strong advocate for their interests.
+We appreciate Representative Fitzpatrick’s understanding of the core mission of labor: to provide better jobs for all.”
+PA Association of Letter Carriers, President Paul Rozzi
+“Congressman Fitzpatrick is a proven champion for letter carriers and a fierce advocate for a strong and vibrant United States Postal Service (USPS).
+In 2022, Congressman Fitzpatrick helped the USPS return to a firm financial footing by supporting the Postal Service Reform Act and encouraging his colleagues to do the same.
+In the 118th Congress, he continued advocating for letter carriers by standing up for our safety and introducing the Protect Our Letter Carriers Act (H.R. 7629).
+Congressman Fitzpatrick fought for our retirement security and benefits by cosponsoring the Social Security Fairness Act (H.R. 82) and the Federal Retirement Fairness Act (H.R. 5995).
+He also ensured that when letter carriers and other federal employees are injured on the job, they can receive the medical care they need by supporting the Improving Access to Workers’ Compensation for Injured Federal Workers Act (H.R. 618).
+Congressman Fitzpatrick’s unwavering support of our priorities demonstrates that he is a true friend to not only the 15,400+ letter carriers across Pennsylvania but also the 290,000 active and retired letter carriers across the country.
+We appreciate that Congressman Fitzpatrick stands with us on our issues, and we are proud to stand with him!”
+International Brotherhood of Boilermakers, Local Lodge 13 Business Manager Brad Mickatavage
+“Since taking office, Congressman Fitzpatrick has shown his commitment to working with people, in organized labor, and those who are in a union, time and time again.
+When the PES Oil Refinery was rocked by a fire, then closure, in the summer of 2019, he didn’t wait for the people affected to reach out.
+Congressman Fitzpatrick and his staff got to work.
+On legislation, his votes have continued to show that when the labor movement needs an ally, he doesn’t just say that he stands with labor, he leads for labor.”
+International Brotherhood of Electrical Workers (IBEW) Local 269, Business Manager Stephen Aldrich
+“In Congress, Congressman Fitzpatrick’s commitment to the labor movement with his support of federal project labor agreements and prevailing wage requirements while opposing anti-labor initiatives such as right-to-work laws, has provided a positive outcome for our membership and their families.
+It is so important to have a voice in Congress who is willing to listen to the needs and concerns of the membership and make changes when necessary.
+Congressman Fitzpatrick has continually proven to be a friend of the labor movement and working families in his district.
+IBEW Local 269 is proud to support his efforts.”
+American Maritime Officers President Willie Barrere, Seafarers International Union President David Heindel, International Organization of Masters, Mates & Pilots President Don Marcus, Marine Engineers’ Beneficial Association President Adam Vokac
+“Congressman Fitzpatrick’s actions have demonstrated a clear and unwavering commitment to the American maritime worker, and to ensuring that American maritime jobs are not outsourced to the benefit of foreign workers.
+We are proud to stand with Congressman Fitzpatrick and we look forward to working with him in the next Congress and beyond.”

@@ -1,0 +1,17 @@
+ABOUT RON RUMAN
+Meet Ron Ruman
+BACKGROUND
+Ron Ruman has dedicated his career to public service and government communication.
+After graduating from Penn State, he had a successful career in journalism as a newscaster and reporter, including at WHP in Harrisburg, where he covered state government and major national events.
+He later served in senior communications roles in state government, including Deputy Press Secretary to Lieutenant Governor Mark Schweiker, Deputy Press Secretary in the Department of Environmental Protection under Governors Ridge and Rendell, and Press Secretary and Communications Director for the Pennsylvania Departments of State and Insurance under Governors Corbett and Wolf.
+Ron also provided public relations services to state government-related clients in the environmental, education, and business sectors.
+A longtime York County resident, Ron currently serves as West Manchester Township Supervisor since 2021 and has been actively involved in local government and community organizations, including the York City Zoning Hearing Board (1991-1995), York County Planning Commission (1997-2000), and the West Manchester Township Planning Commission (2003-2021).
+His experience gives him a strong understanding of how state and local government work together, and he is committed to listening to residents and delivering practical solutions for the 196th District.
+VISION FOR THE FUTURE
+Ron Ruman sees a future where every voice in the 196th District is heard and respected, and where government serves the people, not special interests, through transparent decision-making, fair policies, and responsible leadership.
+He envisions a Pennsylvania united by common sense and shared values, where leaders work across party lines to deliver real results.
+Ron’s goal is to build stronger communities by investing in essential services, supporting seniors, preserving open spaces, and promoting economic growth through sustainable, practical solutions.
+MISSION STATEMENT
+Empowering Pennsylvania-196
+Ron Ruman is dedicated to serving the 196th District with fiscal responsibility, practical leadership, and a commitment to fairness.
+He will protect taxpayers, support local communities, and work across party lines to deliver results that strengthen families, businesses, and public services.

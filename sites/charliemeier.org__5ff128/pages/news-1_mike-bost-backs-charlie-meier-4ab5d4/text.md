@@ -1,0 +1,10 @@
+Mike Bost Backs Charlie Meier
+OKAWVILLE, IL - Congressman Mike Bost is backing Charlie Meier for State Representative, praising Charlie’s record of fighting for Southern Illinois values.
+“I’ve known Charlie Meier for many years, and he is one of the hardest fighters for Southern Illinois in the statehouse,” said Bost.
+“Charlie cares deeply about his constituents and never backs down from standing up to the Democrat machine.
+On March 17th, send Charlie back to Springfield so he can keep fighting for you.”
+Conservative Charlie Meier, is a lifelong Southern Illinoisan and multi-generation farmer.
+In the Illinois House, he has consistently been among the most pro-life, pro-second amendment, and pro-freedom legislators
+“I’m honored to have the endorsement of Congressman Mike Bost,” said Charlie Meier.
+“Mike is a tremendous advocate for Southern Illinois in Washington, and I’m grateful for his support as we continue fighting for our conservative values and the hardworking families of this region.”
+The endorsement highlights the strong support Charlie Meier continues to receive from leaders across Southern Illinois who are committed to fighting back against radical liberal policies and restoring common-sense leadership in Springfield.

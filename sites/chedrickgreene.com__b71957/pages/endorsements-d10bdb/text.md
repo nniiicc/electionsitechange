@@ -1,0 +1,1 @@
+Endorsed by Michigan Labor Unions, Governor Gretchen Whitmer, Congresswoman Kristen McDonald Rivet, and local leaders from every county in the district— Chedrick Greene continues to build a coalition that stands up for working and middle class families; fights for us in D.C. and Lansing; and strengthens our communities.

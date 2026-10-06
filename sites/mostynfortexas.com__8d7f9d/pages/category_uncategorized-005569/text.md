@@ -1,0 +1,19 @@
+Oct 27, 2023 | Uncategorized
+As a Christian, as a Texan, and as an American, I cannot begin to express the heartbreak and anger I felt over the weekend as the news broke about Hamas’ attack on Israel.
+The fact that these terrorists felt confident enough to launch such an attack on civilian...
+Jul 14, 2023 | Uncategorized
+San Antonio, Texas – Ben Mostyn, the leading candidate for the Texas House of Representatives District 117, has taken a stand against the Biden Administration’s recent endorsement of race-based military promotions.
+Mostyn strongly opposes the notion of...
+Jul 14, 2023 | Uncategorized
+San Antonio, Texas – In a landmark ruling today, the Supreme Court struck down President Biden’s enormous handout to college students at the expense of taxpayers.
+While its initial purpose was to address the rising costs associated with a college...
+Jul 14, 2023 | Uncategorized
+San Antonio, Texas – After a five year long probe by a US District Attorney in Delaware, Hunter Biden has struck a deal with federal prosecutors for failing to pay federal taxes and lying about his drug abuse on a gun registration form.
+He will plead guilty to...
+Jul 14, 2023 | Uncategorized
+San Antonio, TX – San Antonio overwhelmingly voted down PROP A.
+This decision has the full support of candidate for Texas State House Ben Mostyn as addressing rising crime is one of his top priorities.
+Ben Mostyn shared the following statement: “Prop...
+Mar 11, 2023 | Uncategorized
+San Antonio, TX – Today, decorated Army Veteran, former Certified Master Instructor for the Department of Defense, and small business owner, Ben Mostyn, announced his candidacy for Texas’ 117th House District.
+Ben Mostyn shared the following statement:“On this day 187...

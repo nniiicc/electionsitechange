@@ -1,0 +1,12 @@
+Jackie Auringer's Campaign Kick Off
+My heart is full.
+Our campaign is officially kicked off.
+And we absolutely crushed it with a sold-out crowd that packed the room and then some at Frank Guido's Little Italy in Kingston, NY.
+A special thank you to my hosts, Mario Catalano and Anne Guerin Catalano, for helping make this night possible.
+Seeing so many people show up in my hometown to support our vision is something I will never forget.
+This is the momentum we are building across the Hudson Valley.
+Our campaign is all about the Big 3: Making life AFFORDABLE, holding leadership ACCOUNTABLE, and creating real OPPORTUNITY here at home!
+And let this be known - The only thing I’m selling out is events!
+The Hudson Valley is ours, and we’re taking it back!!
+Join us at WinWithJackie.com 🇺🇸
+48 photos

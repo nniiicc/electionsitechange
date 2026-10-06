@@ -1,0 +1,87 @@
+Tracy's Story
+CANCER SURVIVOR:
+Tracy's mother was diagnosed with stage 4 lung cancer during her first campaign cycle.
+While it gave Tracy pause on if she should continue her journey to the Iowa House, it was her mom her fueled her passion for continuing her race.
+Not just to continue her passion for advocating for healthcare and HHS related issues which now hit even closer to home, but her mom was her biggest advocate and told her not to quit.
+During the 2022 legislative session, Tracy's mom was placed in home hospice, and she passed away during the short break during session when members were sent home.
+Tracy helped plan her funeral and then had to return right back to session to run the House Education Budget as she was the Ranking Member on that committee at that time.
+Less than a year later, during the 2023 legislative session, Tracy herself was diagnosed with cancer (Triple Negative Breast Cancer).
+She spent that legislative session having her first surgery and starting chemo and immunotherapy.
+Thanks to rides to and from the Capitol from Representative Cooling, Tracy was able to rest on the drives to and from the Capitol and continue working after her surgery and infusions so she could finish out that session.
+During the 2024 legislative session, she started daily radiation sessions and made the drive back and forth from the Capitol in Des Moines to Hall-Perrine in Cedar Rapids daily.
+Through her mom's cancer battle and her own, she continued showing up for House District 79 constituents.
+She is a fierce voice for the cancer community.
+She is now navigating survivorship which consists of still seeing a host of medical professionals and dealing with all that comes post cancer.
+She is a member of the Iowa Cancer Consortium (wonderful resource if you don't follow them) and she works with the cancer community at a local, and statewide level to create meaningful legislation that will ease some of the burdens that exist for cancer patients and their families.
+One of her most recent cancer related legislation celebrations was working with the Kaas family who had been coming to the Capitol for a few years advocating for their young daughter.
+This year, in 2026 the children's cancer research funding they had so strongly been advocating for finally passed and was signed into law in May 2026.
+BUSINESS OWNER:
+Tracy owns and operates B2K Learning Center & Consulting.
+For 13 years, B2K Learning Center operated as a State Registered Child Development Home that had earned NAFCC Accreditation and a 5 out of 5 on the States Quality Rating System (QRS), while also offering coaching, mentoring, training, and consulting services on early care and education topics at a local, state, and national level.
+In 2020 after Covid and the Derecho Tracy closed the childcare portion of the program but continued all other services and travels across the state and nationally to work with the Early Childhood Profession.
+Her husband and older son are also business owners, each of them owning businesses on the West Side of Cedar Rapids.
+Her younger son is currently attending Mount Mercy University to earn a business degree as he wants to become a business owner as well.
+One of Tracy's favorite things to do is support local small businesses and connect with the many business owners in House District 79.
+Through her interactions with business owners, working for one of her husband's businesses part-time in the summers, and running her own business, Tracy understands the struggles small business faces and continues to advocate on their behalf.
+AWARD WINNING EDUCATOR:
+Along with being a business owner, Tracy Ehlert is an award-winning Early Childhood Educator and Advocate.
+She works in the Cedar Rapids Community School District.
+The past 8 school years she has Worked at Hoover Community School, located here in House District 79 and in the summer teaches at Kids on Course University (the districts summer school program) which is also hosted at a school located in House District 79.
+Tracy loves getting to connect with her youngest constituents each day.
+It really helps keep her connected to the needs students and families face, as well as educators.
+Tracy tutors after school for the Kids on Course program ran by the Zach Johnson Foundation.
+She sits on a variety of early ed committees some of which include the Iowa AEYC Early Childhood Workforce Advisory Committee (which she formally chaired), the Early Childhood Iowa State Board, and the iJAG Board of Directors Advisory Board.
+Tracy's formal education background is in Business, Child Development, and Early Childhood Education, with her graduate level work being focused in Teaching & Diversity.
+Some of the honors she has received include being named one of the Most Effective Democratic Legislators by The Center for Effective Lawmaking, she received a 2022 Tribute to be featured in the 2022 Iowa Women's Foundation Ovation Publication, a 2022 AAU Women's Wrestling Women's Empowerment Award, in 2020 she was awarded the Friend of Afterschool award by the Iowa Afterschool Alliance, in 2019 she was named a Changemaker for Children by Save the Children, 2018 Exchange Leader by Exchange Magazine, received a 2018 Leading for Change Innovative Idea Award, was a recipient the 2018 Chris Carman Friend of Children Award, a 2015 Terri Lynne Lokoff/Children's Tylenol National Child Care Teacher Award winner, was named December 2015 Provider of the Month by Child Care Aware of America and was one of three 2016 Michelle Obama Let's Move Initiative Child Care Innovator Award Winners.
+Tracy brings her background and boots on the ground experience in education to the House Education Committee where she is the Ranking Member.
+To view more about her career accomplishments, you can view her online portfolio at: Portfolio of Tracy A.
+Ehlert
+COMMUNITY INVOLVMENT:
+Whether it is going to D.C. with Save the Children Action Network to lobby for infant & maternal healthcare and Head Start funding, being a Big for Big Brothers Big Sisters, volunteering in a Head Start or local school, going door to door during the potential flood of 2018 with then Rep.
+Running-Marquardt to hand out drain plugs and resource packets to those who were in need, doing safety checks on her own constituents after the derecho in 2020 (despite having trees that fell through her own roof that lead to three years of home repairs), you can always find Tracy involved in the community and doing what she can to help.
+Along with supporting small business owners, Tracy loves supporting local non-profits.
+She is a longtime volunteer with YPN, having spent the last 15 years volunteering there each week on Thursday nights as the lead in their preschool room (and more recently also volunteering there on Wednesdays in their We Care Shop).
+As a previous young, single mom herself, Tracy identifies with their mission of helping young parents learn how to navigate life with young children and be the best parents they can.
+When families thrive, communities thrive.
+Tracy brings this view to the HHS committee she sits on where so much of what they work on impacts children and families.
+She serves on a variety of boards, some of which include the Linn County Mental Health Access Center Advisory Board and the Iowa Jobs for America's Graduates (iJAG) Board of Directors Advisory Board.
+She is also a rescue dog mom.
+At the current time (she recently lost two of her rescues due to illness), she has two rescues: Kingston and Kuechly.
+If she had a bigger house, she would adopt many more.
+She is constantly sending her husband puppy photos with hints that it may be time for their next new family member...In the meantime, she tries encouraging friends to "adopt not shop" and she sponsors and supports legislation to protect animals.
+UNION MEMEBER:
+Tracy was a long-time dues paying member of AFSCME back when they were allowed to represent the early childhood workforce in Iowa.
+She is currently an ISEA member.
+Growing up in a union household (her dad and grandpa were both union stewards at Quaker Oats) Tracy has been hearing about worker's issues for a long time.
+She remembers her dad advocating for his colleagues and the time they went on strike and her mom would not allow her or his sister to even play outside in fear that they would get hurt and not be able to go to the doctor (no health insurance when you are on strike...).
+One of her husband's businesses is a union screenprint shop (where Tracy works afternoons in the summer).
+Tracy has an outstanding voting record with labor, earning their endorsement each campaign cycle.
+She understands the importance of workers' rights, fair wages and benefits and continues to be a strong voice for labor and Iowa's workforce.
+WEST SIDE CONNECTION:
+What are your favorite westside Cedar Rapids memories?
+Tracy has many...
+"I wasn’t born in Iowa, I didn’t move here until I was about 10 years old at which time the west side of Cedar Rapids quickly became my home (and where I have lived the majority of my years since).
+I grew up down the street from Methwick where we’d zoom around on our bikes before it became the large living community that it is now.
+We lived directly across the street from my grandparents (my sister later bought that home after they passed) and my aunt/uncle & cousins lived the next block over.
+We didn’t go out to eat as a family often, it was always considered a treat…but donuts from Donutland were always a favorite or cinnamon rolls the size of my head from Tommy’s.
+Dinners at the Flamingo or kiddie cocktails and after dinner tootsie pops from Leonardo’s hold special memories.
+And I can’t forget about coney dog Tuesdays at the Ellis A&W.
+Summers on the west side meant swimming at Ellis pool, riding bikes to Dlask for cheap candy (Dlask was also where my dad worked for his first job as a teen).
+Attending the sweet corn festival and going with my mom to Piersen’s to buy flowers.
+I remember sleepover pool parties in middle school at the Williams Blvd Holiday Inn (and later some high school parties….), go carts and mini golf at Chapmans Fun World (my dad worked at Quaker and they always held the family picnic there, I looked forward to it every year).
+Sledding in the winter on Roosevelt Hill (which was also my middle school).
+And I spent a lot of time at Skate Country, more for the music and social time as I was not particularly good at skating…
+Westdale Mall was also a go to place.
+I’d go with friends and we’d get there by city bus and spend all day there.
+Catch a movie at the theatre, look for makeup at Osco Drug, get smoothies at Orange Julius, eat the best crab rangoons from the Chinese restaurant, sandwiches from AJ’s deli, pizza from Sbarro’s and pie from Bishops.
+Eating was a big part of the day and we’d hangout at Tilt and play arcade games.
+If we were actually going for shopping, it was for cassette tapes from Sam Goody’s silk shirts and Guess jeans from The Buckle (thanks to layaway plans).
+Or Galt Sand sweatshirts from Eby’s (and coincidentally my now father in law was one of the owners of Galt Sand).
+Later in high school I worked at Westdale Mall at JC Penney’s, where I then expanded my friend group beyond the Jeff and Kennedy kids and met a group of LaSalle kids (there were so many that worked there then…).
+In my college years when I attended Kirkwood, I worked at Von Maur where Christmas was always memorable (Westdale Von Maur always had the best Christmas displays).
+College years also consisted of frequenting Chuck & Dales (now Nicks), Union Station and can’t forget about Shags….I've always been social and love connecting with others.
+As an adult the first place I ever rented was on the westside along with the first home I ever purchased (which I still live in now in Cedar Hills).
+Met my husband on the westside and was married at St Marks on the westside.
+Both my kids were born on the westside (and are 3rd generation JHawks) and my husband and older son both own businesses on the westside.
+So many great westside memories and although a lot has changed, so many of the places I have those great memories at are still around.
+The westside truly is the best side!"

@@ -1,0 +1,24 @@
+Economic Development
+Despite Maryland’s low unemployment, residents commute outside District 40 for good jobs while only 2.3% own businesses, creating a cycle where economic activity flows out rather than circulating locally.
+Tiffany will expand the Baltimore City Infrastructure Academy for skills training, establish small business incubators with capital access, and require local hiring for major developments, building on her Fresh at the Avenue success in creating sustainable local commerce.
+The Cause
+The Effect
+When communities are not business-friendly, it sets off a chain reaction.
+Complicated permits, unpredictable taxes, and slow certifications discourage entrepreneurs.
+Vacant storefronts and unsafe corridors deter foot traffic, while government inaction makes it difficult to retain long-time businesses or attract new ones.
+At the same time, underemployment and unemployment without clear pathways to good jobs leave residents without the income or stability to support local commerce.
+- Businesses relocate to downtown, the county, or “friendlier” business districts, draining jobs and revenue.
+- Consumers spend elsewhere, bypassing their own communities for places with safer, more vibrant, and reliable options.
+- Residents fall behind, lacking training, job placement, or entrepreneurship opportunities, leaving whole communities locked out of economic mobility
+Tiff's Solution
+Business-Friendly Districts
+- Make the 40th a place where small businesses can thrive and large enterprises want to stay.
+- Streamline permitting and licensing, modernize tax structures for small business growth, and expand state-backed corridor revitalization grants (Community Catalyst, Main Street Maryland).
+Workforce & Upward Mobility
+- Build pathways to family-supporting careers by connecting residents to training, jobs, and fair wages and labor practices.
+- Use EARN Maryland and Department of Labor programs to expand training pipelines.
+Push for legislation that raises competitive wages, protects workers’ rights and creates incentives for employers who hire returning citizens, and people with disabilities.
+Creative & Inclusive Entrepreneurship
+- Grow the 40th as a hub for artists, makers, and innovators alongside traditional enterprises.
+- Expand Maryland State Arts Council creative entrepreneurship funding and reform MWBE certification so it’s faster and less burdensome.
+Support incubator and shared-space models that lower barriers for new entrepreneurs.

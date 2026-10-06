@@ -1,0 +1,28 @@
+top of page
+Don't Rage - Engage
+!
+Donate
+Home
+About
+Priorities
+Gallery
+The Network
+Meet the Network
+Cass County DFL
+press to zoom
+Becker County DFL
+press to zoom
+Hubbard County DFL
+press to zoom
+Maggie Evers - Candidate House 5B
+press to zoom
+Skylar Fynboh - Candidate SD5
+press to zoom
+Nicky Hardy - Candidate House 6B
+press to zoom
+Representative District Lookup
+press to zoom
+Register to vote - MN
+press to zoom
+Click the picture to visit their website.
+bottom of page

@@ -1,0 +1,16 @@
+Hi, I’m Sandy Pinsonault, a proud Vermonter born and raised.
+I have lived, been educated, developed my career, married, and raised a family in Bennington and Rutland Counties.
+With over 38 years dedicated to public service, I am committed to continuing my work for our community as your state representative in Montpelier.
+My experience, openness, and deep connections to our area enable me to bring the best of our local values to the state level, benefitting all Vermonters.
+Here are some of the opportunities that have made my experience and knowledge base unique:
+- Burr & Burton Class of 1977
+- 20 Years experience as the Dorset Clerk
+- 15+ years business management
+- 6 years local & district school board experience
+- 4 years Dorset Town Treasurer
+- 20 years Justice of the Peace
+- Current President for Department of Vermont VFW Auxiliary
+- Currently Serving on the Board of Trustees for the Vermont Veterans Home
+"It is not possible to learn much from those who uniformly agree with us.
+But many useful things are learned from those who disagree with us; and even when we can gain nothing our differences are likely to do us no harm."
+– Calvin Coolidge

@@ -1,0 +1,26 @@
+Lower Costs
+Dr.
+Kedner Maxime's plan to lower everyday costs for District 20 families — housing, groceries, healthcare — and open real pathways to ownership.
+On the Issues
+What District 20 families are living
+Working families across South Florida are getting squeezed from every direction.
+Rent and mortgages keep climbing.
+Groceries cost more every trip.
+Insurance premiums keep going up.
+And a single medical bill can wipe out a year of savings.
+Too many families are working harder than ever and still falling behind.
+Solutions
+What Dr.
+Maxime will do in Congress
+Dr.
+Maxime will fight for policies that lower the everyday costs squeezing District 20 households — and open real pathways so working families can move from paycheck to equity:
+01
+Support responsible federal spending and fair competition that brings inflation down and stops price gouging.
+03
+Expand affordable housing so working families, seniors, and young people can find a home they can actually afford.
+02
+Open pathways to ownership, equity, and generational wealth — because the goal isn't just surviving the paycheck, it's building something that lasts.
+04
+Protect Social Security, Medicare, and the earned benefits working people paid into their whole lives.
+05
+Back responsible first-time-homebuyer assistance so more District 20 families move from renting to owning.

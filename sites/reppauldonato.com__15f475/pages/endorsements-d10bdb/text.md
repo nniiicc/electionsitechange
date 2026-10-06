@@ -1,0 +1,72 @@
+Home
+Meet Paul
+Priorities
+Contact Us
+Latest News
+Endorsements
+Get Involved
+Donate
+Volunteer
+Newsletter
+More
+Home
+Meet Paul
+Priorities
+Contact Us
+Latest News
+Endorsements
+Get Involved
+Donate
+Volunteer
+Newsletter
+Home
+Meet Paul
+Priorities
+Contact Us
+Latest News
+Endorsements
+Get Involved
+Donate
+Volunteer
+Newsletter
+Proud to have received endorsements from...
+American Federation of Teachers MA
+Professional Firefighters of MA
+Mass Building Trade Council
+Local 1032 Medford Firefighters
+Local 1032 Medford Firefighters
+Local 589 Amalgamated Transit Union
+Local 1032 Medford Firefighters
+Local 902 Malden Firefighters
+Local 589 Amalgamated Transit Union
+Local 589 Amalgamated Transit Union
+Local 589 Amalgamated Transit Union
+Local 589 Amalgamated Transit Union
+Local 589 Amalgamated Transit Union
+Teamsters Local 25
+Teamsters Local 25
+Teamsters Local 25
+Laborers Local 22
+Teamsters Local 25
+Teamsters Local 25
+SEIU Local 1199
+Teamsters Local 25
+SEIU Local 1199
+MOSES
+SEIU Local 1199
+OPEIU, Local 6
+Senator Ed Markey
+Massachusetts AFL-CIO
+Attorney General Maura Healey
+SEIU State Council
+Pipefitters Local Union 537
+Pipefitters Local Union 537
+Pipefitters Local Union 537
+Pipefitters Local Union 537
+Pipefitters Local Union 537
+Copyright © 2020 Friends of Paul Donato - All Rights Reserved.
+Endorsements
+Donate
+Volunteer
+Newsletter
+Powered by

@@ -1,0 +1,92 @@
+Jessica Killin's Priorities
+A mom, a veteran, and a champion for responsible and responsive government, Jessica is running for Congress to deliver common-sense solutions for El Paso County.
+She knows that Washington isn’t working for Southern Colorado families, and Jessica refuses to sit on the sidelines.
+Lowering Costs for Families
+Jessica grew up in Colorado at a time when her parents, two public school educators, could afford a secure, middle-class life.
+That's not true anymore.
+With the chaotic tariffs that are making everyday goods more expensive and policies that are driving up the cost of everything from health care to utilities, something must change.
+Jessica will push back on these actions supported by Jeff Crank while working with members of both parties to implement a better future for Coloradans.
+Jessica will work to:
+- End irrational tariffs that are raising prices and creating uncertainty for hardworking Coloradans
+- Prevent oil and grocery company CEOs from gouging consumers
+- Improve our affordable housing stock in the Pikes Peak region and stop corporate landlords and hedge funds from gouging people with higher rents and home prices
+- Hold monopoly utility companies accountable to reduce electricity prices
+- Lower energy costs by investing in more affordable energy production
+- Build out a more robust middle class through a fairer and equitable tax and economic policy
+Read more here: U.S. producer prices surge in July as Trump tariffs push costs higher | AP News
+Restoring Integrity and Fighting Corruption in our Government
+Jessica knows that our elected officials should work for the people, not for profit.
+Public servants should be focused on service – engaging with their constituents, holding townhalls, delivering results, and doing what is best for their communities and country.
+To restore the public’s fading faith in our institutions, Jessica will implement guardrails against the misuse of inside information and rebuild integrity in our government by working to:
+- Ban public stock trading by members of Congress so they can’t use insider information to benefit themselves
+- End Congressional pay during a shutdown – Congress should not receive paychecks if they can't do their job
+- Create a new and more powerful Congressional Ethics Office that is truly independent to investigate and punish wrongdoing
+- Create an expanded and strengthened ethics code for federal judges and executive branch leaders so they cannot profit from their positions
+- Overturn Citizens United and ban dark money to end the outsized influence of corporations in our politics
+Read more here: The Trump Family Has Pocketed More Than $1.8 Billion in Cash and Gifts Since 2024 Reelection | Center for American Progress
+Supporting Our Veterans
+Jessica attended college on a Reserve Officers’ Training Corps (ROTC) scholarship before joining the U.S.
+Army.
+And for more than a decade, Jessica worked at USAA promoting policies to protect military families and veterans from the fallout of the 2008 financial crisis – streamlining VA home loans and seeking ways to stop payday lenders from preying on our soldiers.
+She knows the sacrifice her fellow veterans made in service to our nation.
+That’s why in Congress, Jessica will ensure veterans receive all the benefits they have earned—starting with care at VA clinics.
+Right now, every single VA medical center in the country is reporting staffing shortages, leading to decreased care for our veterans, longer wait times, and missed appointments.
+She’ll fight to restore funding, increase staff, and reduce wait times at clinics.
+Jessica will be a steadfast advocate for El Paso County veterans and will work closely with those who need additional assistance to navigate the VA system.
+Jessica will work to:
+- Increase staffing at VA clinics
+- Ensure veterans receive the hard-earned benefits they deserve
+- Restore full funding for the Veterans Crisis Line to ensure 24/7 access and support for those who served
+- Protect military families from discrimination in housing or employment
+- Work with community partners to help veterans transition from the military to civilian life
+Read more here: 5 reasons federal cuts are hitting veterans especially hard | PBS News
+Bringing Down the Cost of Health Care and Prescription Drugs
+Millions of Americans rely on Medicare and Medicaid.
+Jeff Crank cast one of the deciding votes to slash Medicaid, which will kick hundreds of thousands of our neighbors off their health care plans, close Colorado hospitals and nursing homes, and raise costs for all Coloradans.
+Jessica will fight to restore access to healthcare for the thousands who will lose it in El Paso County, while protecting patients with pre-existing conditions and working to bring down healthcare and prescription drug costs for every Coloradan.
+Jessica will work to:
+- Repeal Medicaid cuts that will kick hundreds of thousands in our state off health care and force all Colorado families to pay more
+- Protect Medicare from further cuts and ensure the long-term financial stability of the program
+- Allow Medicare to negotiate lower prices for more critical drugs
+- Cap the price of insulin at $35 for everyone
+- Hold drug companies accountable for price gouging
+Read more here: Colorado health insurance rates expected to skyrocket after budget bill slashes health spending
+Restoring Fiscal Responsibility to Congress
+No parent wants to leave their children with a mountain of debt.
+Jessica definitely doesn't.
+She knows it's time to get the national debt under control and leave a legacy of opportunity for future generations.
+Bloated spending isn’t acceptable, but neither are bloated tax cuts.
+Jeff Crank’s tax cut for the wealthiest Americans just saddled our children and grandchildren with an additional $4 trillion in debt.
+Jessica thinks it’s inexcusable that Jeff Crank’s budget raised the debt while creating tax loopholes for giant corporations that could allow them to pay ZERO in federal taxes.
+In Congress, Jessica will fight to restore fiscal sanity, balance the budget, and pay down the national debt so that we don’t leave our children and grandchildren permanently indebted to China and the rest of the world.
+Jessica also knows that fiscal responsibility means boosting, not holding back, American innovation and the jobs that come with it.
+This means fighting to shape the industries of the future so that they both grow our economy and strengthen middle-class families – from high-tech manufacturing to artificial intelligence to digital assets.
+This includes setting clear guidelines, standards, and rules of the road for the use of AI and emerging digital assets that establish long-term certainty and allow critical industries to grow, while also putting in place effective and fair oversight and protections for Colorado consumers and workers.
+Jessica will always be dedicated to ensuring the United States keeps its worldwide lead in emerging technologies, which is critical to the future security of our country.
+Jessica will work to:
+- Measure every government program for results and eliminate the ones that don’t work
+- Make giant corporations and the very wealthy pay their fair share of taxes while cutting taxes for the middle class
+- Level the playing field for Colorado small businesses and entrepreneurs so they can compete fairly and improve our economy
+Read more here: US national debt hits record $37 trillion
+Safeguarding Our Public Lands
+Jessica grew up camping, hiking, skiing, and fishing in Colorado's public lands.
+It's a tradition she's passing along to her children – and it's a legacy that Jeff Crank has put at risk.
+Jeff Crank joined Lauren Boebert in voting to sell our public lands to the highest bidder.
+Jessica thinks we should protect Colorado’s way of life for future generations.
+In Congress, she’ll be a fierce advocate for our National Parks, Forests, and open spaces, and she’ll stand up to anyone who wants to take them away.
+Jessica will work to:
+- Preserve federal lands used by Coloradans and oppose efforts to sell them off
+- Ensure our National Park Service and the Bureau of Land Management have the resources they need to protect and preserve our open spaces
+- Boost wildland firefighter resources and modernize strategies to fight wildfires and protect Colorado communities
+Read more here: Congress almost sold off 500,000 acres of Western public lands.
+What could that mean for Colorado?
+Protecting the Space Industry and Colorado Springs
+El Paso County is a critical hub for the aerospace and defense industry, anchored by world-class military installations and a specialized workforce.
+Jeff Crank failed to do his job and fight to keep Space Command where it belongs in Colorado Springs.
+Jessica will fight to protect and foster the space industry to promote and build space industry jobs to ensure the Pikes Peak Region remains a leader for space innovation, despite Crank’s failures.
+Jessica will work to:
+- Stand up to partisan political games and work to ensure national security decisions based on mission readiness, national security interests, the safety of our troops, and data – not politics
+- Collaborate with military leaders, industry partners, and the veteran community to speak with one strong, united voice advocating for Colorado’s space industry
+- Secure funding and grants for critical infrastructure upgrades and improvements to modernize our infrastructure, making El Paso County the most competitive environment for aerospace innovation in the world
+- Protect the Air Force Academy from additional cuts to ensure our national security
+Read more here: Trump announces that Space Command is moving to Alabama from Colorado Springs, saying Colorado's use of mail-in voting was "big factor"

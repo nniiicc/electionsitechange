@@ -1,0 +1,23 @@
+Meet John
+John Fitzgerald, a proud Michigander through and through, brings a steadfast dedication to serving the wonderful people of Michigan.
+Raised in one of Michigan’s cozy small towns, John’s journey took him to Michigan State University before planting roots in West Michigan alongside his wife, Kellie, where they welcomed their daughter in 2022.
+From the outset of his time in Grand Rapids, John immersed himself in the fabric of his community, channeling his passion for service in various non-profit initiatives.
+His devotion to service culminated in a leap into elected office in 2020 when he earned a seat on the Wyoming City Council as Member At-Large.
+There he worked enthusiastically to improve the day-to-day lives of the city residents–improved infrastructure, public safety, pedestrian safety, and lower taxes.
+Elected to the Michigan House of Representatives in 2022, John has proven himself a tireless advocate for the rights and welfare of hardworking Michiganders.
+From championing bargaining rights to enhancing healthcare accessibility and easing the burdens of working parents and retirees, John remains unwavering in his commitment to bettering the lives of Michigan residents.
+As Chair of the Local Government and Municipal Finance Committee, he is determined to help improve the prosperity of local communities, striving to make Michigan’s hometowns even more special by enhancing infrastructure, public amenities, and central services people depend on.
+In his personal life, John treasures quality time with his family, enjoying moments spent at home or enjoying one of Michigan’s many attractive destinations.
+You may also find John buried in a work of historical non-fiction, indulging his passion for American history.
+True to his competitive spirit, John loves a good challenge, whether on the golf course or in a heated game of cribbage.
+With John Fitzgerald at the capitol, the future of Michigan is poised for continued progress and prosperity, guided by professionalism, respect, and hard work.
+In the Community
+Since first joining the West Michigan community, John has set out to volunteer for organizations with a mission to help people in life’s most difficult moments.
+After experiencing his father’s death as a teenager and watching his grandparents age, he grew to volunteer and advocate for causes supporting child and adolescent grief and quality elder care.
+Community Involvement:
+- Wyoming City Council, Member At-Large (2020-2022)
+- Ele’s Place West Michigan, Community Board
+- Ele’s Place Michigan, Governing Board
+- The Clark Foundation Board
+- Kent County Democratic Party, Executive Committee
+- Wyoming Democrats

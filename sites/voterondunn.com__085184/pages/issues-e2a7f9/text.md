@@ -1,0 +1,18 @@
+Issues:
+I support:
+- US Constitution - (https://constitutionus.com)
+- All Amendments with emphasis these days on 1st, 2nd, 3rd, and 10th Amendments
+- Bill of Rights - (https://www.archives.gov/founding-docs/bill-of-rights/what-does-it-say)
+- Declaration of Independence - (https://www.archives.gov/founding-docs/declaration-transcript)
+- NH State Constitution - (https://www.nh.gov/glance/constitution.htm)
+- Election and Voter Integrity
+- No State Income Taxes
+- No Sales Taxes
+- Constitutional Carry - (https://www.gunowners.org/nh-goes-constitutional-carry/)
+- Local Fire and Police Departments
+- Clean Drinking Water - (https://www.nh.gov/epht/environmental-topics/drinking-water.htm)
+- Energy Efficiency and Dependability
+- Medical Integrity
+- Community and Family First
+- Parents’ Rights and School Choice
+- US and NH Military and Veterans - (https://www.dmavs.nh.gov)

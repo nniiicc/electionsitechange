@@ -1,0 +1,3 @@
+Manufactured home forum provides resources for people who lost homes in 2020 wildfires
+Jefferson Public Radio | By Jane Vaughan LISTEN HERE A manufactured home in Medford barely survived the Almeda Fire, but it took some damage.
+A variety of programs are being…

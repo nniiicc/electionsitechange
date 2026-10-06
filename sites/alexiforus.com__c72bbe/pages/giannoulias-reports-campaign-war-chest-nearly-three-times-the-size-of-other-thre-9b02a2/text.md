@@ -1,0 +1,2 @@
+Less than a year out from the Democratic primary, former state Treasurer Alexi Giannoulias reported having roughly $3 million in the bank for his bid to succeed outgoing Illinois Secretary of State Jesse White — five times as much as City Clerk Anna Valencia, whose own fund raising puts her second in the battle for campaign contributions.
+Giannoulias reported raising $859,312.64 during the quarter that ended June 30, giving him $2,915,761.69 cash on hand, according to a campaign finance report filed Thursday, hours before the deadline.

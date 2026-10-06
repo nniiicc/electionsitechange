@@ -1,0 +1,44 @@
+Senator Coleman Passes Tax Relief to Help Struggling Minnesotans
+Julia Coleman and Minnesota Senate Republicans recently approved a second round of historic tax relief for working families, small businesses and retirees
+Fresh off passing the largest tax cut in state history last month, Minnesota Senate Republicans recently approved a second round of historic tax relief for working families, small businesses and retirees, said Senator Julia Coleman (R-Waconia), vice chair of the Senate Taxes Committee.
+The bill includes the top two tax priorities for Senate Republicans this year – a full exemption of the Social Security benefits from state taxes and a significant reduction of the lowest income tax rate – and builds on the previous historic tax bill with additional relief aimed at helping working families afford daily life under the pressure of out-of-control inflation.
+“My legislation to allow for the creation of a free-market solution to paid family leave recently passed the Senate.
+This gives small businesses the opportunity to customize a plan to meet employees’ individual needs.
+We’re also helping small businesses afford offering their employees this critical benefit through flexible tax credits,” Sen.
+Coleman said.
+“The full repeal of the Social Security income tax is a topic I regularly hear from my constituents on, and I am pleased to share that this is also included in the Senate Republicans’ tax bill.
+It is long overdue to stop taxing our seniors twice on this key benefit.”
+Senate Republicans’ top two tax priorities for the year are the marquee items in the second tax bill:
+- Reducing the first-tier tax rate: The bill reduces the first-tier tax rate for all filers from 5.35% to 2.80%.
+Minnesota’s lowest tax bracket is higher than the highest tax bracket in 24 other states.
+Over 2.4 million filers would benefit from the historic Republican tax rate cut, with an average annual savings of $759.
+A typical family making $100,000 would see a savings of $1,064 every year.
+- Full elimination of the tax on Social Security income: Minnesota is one of just 13 states that tax Social Security benefits.
+Impacting taxpayers starting at $25,000 in income, the Social Security income tax hits more than 407,000 Minnesota filers.
+None of the border states — Iowa, Wisconsin, Michigan and South Dakota — tax Social Security income.
+Eliminating the Social Security tax would put $1.6 billion back into the hands of beneficiaries, with an average benefit of $1,254 every year.
+TAX RELIEF FOR FAMILIES
+With inflation spiraling out of control and the cost of necessities becoming less and less affordable, the Senate’s second tax cut bill provides badly needed relief for working families.
+- Supports families with kids in grade school by providing relief on K-12 expenses via the state’s K-12 Subtraction and K-12 Tax Credit
+- Allows 529 College Savings Plans to be used for K-12 tuition
+- Enhances the Child and Dependent Care Credit for families who need childcare
+- Establishes a tax credit for small businesses that offer paid family leave
+- Provides relief on energy bills by exempting polar vortex-related natural gas charges
+- Provides relief for affordable and rental housing by reducing the tax rate on low-income rental property and creating a new Affordable Housing Market Value Exclusion
+- Provides property tax relief by expanding the homeowner Property Tax Refund and increasing the Homestead Market Value Exclusion
+SUPPORT FOR SMALL BUSINESSES AND ENTREPRENEURS
+The Senate’s second tax cut bill continues Republicans’ support for the small businesses that are the lifeblood of communities across the state by making it easier to operate in Minnesota.
+- Encourages investment in groundbreaking, innovative companies by extending the state’s Angel Investor Tax Credit and increasing the tax credit for research and development
+- Eliminates the sunset of the Historic Structure Tax Credit, the hugely successful job-creating tax credit that helps rehabilitate historic buildings.
+A study found that every $1 spent on the tax credit generates $11 in private sector economic activity
+- Provides property tax relief for job creators by reducing the statewide general property tax and beginning the process of eliminating it completely
+OTHER PROVISIONS
+- Encourages retention of law enforcement personnel by establishing a tax credit for public safety pensions
+- Creates a tax credit for ‘preceptors.’ These are advance practice registered nurses, physician’s assistants, or mental health professionals who served as student preceptors in their profession but did not receive compensation for their services
+- Provides charitable gaming tax relief
+- Supports farmers with a new agricultural buffer credit for agricultural and rural vacant land that is subject to the state’s buffer law
+- Incentivizes community development and economic growth in distressed communities by creating a tax credit for new markets
+Your Involvement Is Important
+We can't do this without you!
+Whether you contribute financially or with your time, you can make a difference.
+Don't sit on the sidelines — get involved today!

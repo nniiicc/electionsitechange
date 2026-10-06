@@ -1,0 +1,54 @@
+John James for MI respects your privacy and are committed to protecting your personal information.
+This Privacy Policy johnjamesmi.com/privacy-policy outlines the type of information we may collect from you or that you may provide when you use johnjamesmi.com and how we use that information, as well as our practices for collecting, using, maintaining, and disclosing various information.
+This Policy applies to information we collect:
+- On the Website
+- On any of our social media platforms
+- In electronic communications, such as e-mail and any other messages, between you and the John James for MI
+- Through any third party application by which you access data on this Website
+- Through any third party application by which you submit media, a User Contribution (as defined in our Terms of Use), or other data on the Website or any of our social media platforms
+It does not apply to information collected by any third party, including through any application or content (including advertising) that may link to or be accessible from the Website or a social media platform.
+Please read this Policy carefully to understand our policies and practices regarding your information and how we will treat it.
+If you do not agree with our policies and practices, your choice is not to interact with us or use the Website.
+By accessing or using the Website, or interacting with us in any way, you agree to this Policy.
+This Policy may change from time to time.
+Your continued use of the Website and/or interaction with us after we make changes is deemed to be acceptance of those changes, so please check the Policy prior to interacting with us for updates.
+Information We Collect.
+We collect several types of information from and about users of our Website, including information:
+- By which you may be personally identified, such as name, likeness, postal address, e-mail address, social media usernames and/or accounts, and/or telephone number (“Personal Information”)
+- About your voting history, beliefs, and opinions relating to candidates and public policy issues (“Political Information”)
+- That you make available on social media platforms (“Social Media Information”)
+- About your voting history, including where you are registered to vote, when you vote, and other information about elections in which you have voted (“Voting Information”)
+- About candidates, committees, and causes to which you have contributed, including the dates and amounts of your contributions (“Contribution Information”)
+- That is about you but individually does not identify you
+- About your computer, phone, or tablet; internet connection and IP address; operating system; browser; and usage details (“Device Information”)
+We collect this information:
+- Directly from you when you provide it to us or an affiliate, interact directly with us or an affiliate, engage with us or an affiliate on social media, or provide it to a candidate or committee with whom we interact directly or indirectly.
+- Indirectly when you make it publicly available, such as via social media; making a contribution to a candidate or committee that is publicly reportable; or take any other action where the information you provide is available to third parties.
+- Automatically as you navigate through the Website.
+Information collected automatically may include usage details, IP addresses, and information collected through cookies and other tracking technologies.
+- From third parties, including our service providers, contractors, and affiliates Use of Your Information.
+The information we collect helps us to:
+- Develop and improve, independently or in collaboration with others, data and analysis of data used by us, including analysis regarding your interests.
+- Improve the services we provide to you and others
+- Facilitate political communications
+- Facilitate marketing communications
+- Comply with campaign finance laws and other local, state, and federal laws, rules, and regulations
+- Recognize you when you return to the Website
+- Carry out any obligations and enforce any rights arising from any agreements to which we are a party
+- Notify you about any changes to how we interact with you
+- Take other actions which we may describe when you provide the pertinent information
+- For any other purpose permitted by law or, if required by an applicable law, rule, or regulation, with your consent
+- Any text messaging originator opt-in data and consent will not be shared with any third parties.
+Mobile opt-in data will not be shared with 3rd parties.
+Policy Towards Minors.
+Our Website is not intended for children under the age of 13.
+No one under the age of 13 may provide any information to or on the Website.
+We do not knowingly collect
+Personal Information from children under the age of 13.
+If you are under the age of 13, do not use or provide any information on this Website or on or through any of its features/register on the Website.
+If we learn we have collected or received Personal Information from a child under 13 without verification of parental consent, we will delete that information.
+If you believe we might have any information from or about a child under 13, please contact us at info@johnjamesmi.com.
+Your State Privacy Rights.
+Certain states permit users of our Website that are residents of those states to request certain information regarding our storage and use of those users’ Personal Information.
+If you would like more details on our storage and use of your Personal Information, if you would like to confirm and/or correct your Personal Information submitted to use via the Website or otherwise, or if you have another inquiry regarding your Personal Information, please send an e-mail to: info@johnjamesmi.com or write to us at:35744 Van Dyke Avenue, Sterling Heights, MI 48312
+These Terms of Use and Privacy Policy constitute the entire and exclusive agreement between us and you regarding the Website, and supersede and replace any prior agreements between us and you regarding the Website and its Service.

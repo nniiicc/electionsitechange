@@ -1,0 +1,6 @@
+Pointe South Clean Up & BBQ
+June 25th was a great day to be alive.
+We partnered with the K.I.N.G.S. of Pointe South and Cinco Day ATL to take ownership and pride in...
+Clayton County Prison Reentry Initiative
+On February 21st, I had the pleasure of attending the Clayton County Prison Reentry Initiative Stakeholders Meeting.
+The event was hosted...

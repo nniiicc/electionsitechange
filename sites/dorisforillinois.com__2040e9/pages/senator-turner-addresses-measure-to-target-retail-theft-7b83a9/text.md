@@ -1,0 +1,23 @@
+Skip to content
+Home
+About
+Issues
+Contact
+Volunteer
+Events
+Legislative Updates
+Menu
+Home
+About
+Issues
+Contact
+Volunteer
+Events
+Legislative Updates
+CONTRIBUTE
+Senator Turner Addresses Measure to Target Retail Theft
+April 26, 2022
+3:59 pm
+Next
+Senate Approves Turner’s Initiative To Plan Celebrations In Honor of The Country’s 250th Anniversary
+Next

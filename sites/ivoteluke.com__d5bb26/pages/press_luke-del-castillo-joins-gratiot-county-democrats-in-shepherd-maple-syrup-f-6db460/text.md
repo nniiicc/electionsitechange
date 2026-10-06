@@ -1,0 +1,17 @@
+Luke Del Castillo Joins Gratiot County Democrats in Shepherd Maple Syrup Festival Parade
+FOR IMMEDIATE RELEASE
+April 27, 2026
+Luke Del Castillo Joins Gratiot County Democrats in Shepherd Maple Syrup Festival Parade
+SHEPHERD, Mich. - Luke Del Castillo, Democratic candidate for Michigan’s 92nd House District, joined the Gratiot County Democratic Party in walking in the Shepherd Maple Syrup Festival Parade on April 26.
+The parade was part of the annual Shepherd Maple Syrup Festival, a beloved community tradition that celebrates Shepherd’s maple syrup heritage while bringing together families, local businesses, volunteers, students, and visitors from across mid-Michigan.
+From pancake meals and maple syrup sales to community events, vendors, and the Grand Festival Parade, the festival highlights the small-town pride and local spirit that make Shepherd special.
+“It was wonderful to be in Shepherd and take part in such a meaningful community tradition,” said Luke.
+“The Maple Syrup Festival is the kind of event that reminds us what makes our small towns strong - neighbors showing up, families celebrating together, and volunteers working hard to keep local traditions alive.”
+Luke walked with members and supporters of the Gratiot County Democratic Party, an organization committed to civic engagement, grassroots organizing, and making sure local voices are heard.
+“I was proud to walk alongside the Gratiot County Democratic Party,” Luke said.
+“Their dedication to community, service, and building a stronger future for working families is something I deeply respect.”
+Luke’s campaign is focused on making life more affordable, supporting rural downtowns and small businesses, expanding workforce opportunities, and bringing practical, common-sense leadership to Lansing.
+For more information about Luke Del Castillo’s campaign, visit IvoteLUKE.com.
+# # #
+Media Contact:
+press@ivoteluke.com

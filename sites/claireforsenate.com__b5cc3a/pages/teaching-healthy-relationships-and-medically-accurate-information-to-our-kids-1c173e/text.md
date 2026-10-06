@@ -1,0 +1,14 @@
+Teaching Healthy Relationships and Medically Accurate Information to Our Kids
+The Wilson bill for comprehensive sexuality health education promotes the safety of public school students by implementing:
+- Science based, comprehensive sexuality health education curriculum selected by the local school district
+- An understanding of mutual respect and free from violence, coercion, and intimidation in relationships
+- teaching how to identify and respond to sexually violent attitudes or behaviors; and
+- emphasize the importance of affirmative consent before engaging in sexual activity.
+The bill aims to empower students with the tools to understand their own consent with age appropriate, scientifically accurate materials.
+It is proven to reduce unintended pregnancy and STIs.
+“People call this sex education, but it’s about much more than sex, it’s about personal health, it’s about important life decisions, it’s about medical and economic consequences — all the things we want our young scholars to understand so that they can make the best choices for their health and their future.”
+– Claire
+Claire also sponsored the Washington State LGBTQ Commission in the Governor’s office and officially designates June of each year as LGBTQ pride month and celebrates queer people’s contributions to the state.
+Next Steps:
+As a lesbian career education professional, Claire knows that kids benefit from having the tools to describe and understand their emotions and identities.
+She will fight for an equitable and inclusive environment for all our students.

@@ -1,0 +1,5 @@
+The High Cost of Olympia’s Hidden Utility Tax
+April 24, 2026
+Washingtonians are living through a relentless affordability crisis.
+From the grocery aisle to the gas pump, the cost of living has moved from “concerning” to “unsustainable.” Our state consistently ranks among the top three most expensive for gas, often a full dollar above the national average.
+Meanwhile, the average household income is roughly half of what is required to qualify for a median-priced home.

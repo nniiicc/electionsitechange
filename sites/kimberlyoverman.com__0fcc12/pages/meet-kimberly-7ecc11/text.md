@@ -1,0 +1,83 @@
+Kimberly Overman
+for Congress
+Florida District 12
+Meet Kimberly
+Meet Kimberly
+From kitchen tables to county government—Kimberly’s journey is rooted in service, resilience, and results.
+Kimberly Overman is a mom, a grandmother, a small business owner, and a public servant with deep roots in Florida’s 12th District.
+She’s running for Congress because she believes leadership should be about listening, showing up, and delivering real solutions—not playing politics or chasing headlines.
+Raised in a working-class family that faced housing insecurity, Kimberly learned early what it means to struggle—and to persevere.
+Her mother juggled multiple jobs to keep the family afloat, and those early experiences shaped Kimberly’s lifelong commitment to fairness, opportunity, and economic justice.
+Over the years, Kimberly has worn many hats: she put herself through college, earned her Certified Financial Planner designation, and built a successful advisory firm focused on ethical financial guidance.
+She’s volunteered in her community for decades, applying her background in economics and planning to real-world challenges—especially around housing, transportation, and sustainability.
+As a Hillsborough County Commissioner from 2018 to 2022, Kimberly delivered during some of the region’s most challenging moments.
+She led during the COVID-19 pandemic, championing emergency support for small businesses, childcare providers, and vulnerable residents.
+She pushed for expanded public health programs, affordable housing initiatives, and more equitable infrastructure investment.
+But what sets Kimberly apart isn’t just her experience—it’s her empathy.
+As a mother and grandmother, she knows what’s at stake for the next generation.
+She understands what families are facing because she’s lived it: the high cost of care, the fear of unexpected bills, the frustration with a system that too often leaves people behind.
+In Washington, Kimberly will bring a grounded, no-nonsense approach to leadership—focused on solutions, service, and building a future where everyone has a fair shot.
+A Life of Service
+Boards Service:
+- Hillsborough County Board of County Commissioners, Chair
+- Hillsborough County Affordable Housing Advisory Board, Chair
+- Hillsborough County Commission on Human Trafficking, Chair
+- Tampa Bay Economic Development Council
+- Department of Defense - Tampa Bay Chamber/ MacDill Air Force Base Support
+- HART - Hillsborough Area Regional Transit Authority
+- Tourist Development Council
+- Hillsborough County Public Safety Coordinating Council
+- Hillsborough County Environment Protection Commission
+- Hillsborough County Transportation Planning Organization
+- Hillsborough County Hospital Authority
+- Children’s Board of Hillsborough County
+- Hillsborough County Emergency Policy Group, Vice Chair
+- Hillsborough Juvenile Justice Board
+- Southwest Florida Water Management District Liaison
+Community Leadership:
+- Past President of Heights Urban Core Chamber-Business Guild of Seminole Heights
+- Sunshine Citizens, Member
+- Transit Now Tampa Bay, Member
+- Surly Feminists for the Revolution, Member
+- Indivisible Action Together Tampa Bay, Member
+- Hillsborough County Democratic Party, Precinct Captain
+- Hillsborough County LGBTA Democratic Caucus, Member
+- East Hillsborough County Democratic Club, Member
+- Old Seminole Heights Neighborhood Association, Member
+- South Seminole Heights Civic Association, Member
+- Tampa Heights Civic Association, Member
+- Hillsborough County Metropolitan Planning Organization, Citizen Advisory Committee Member
+- Friends of the River, Member
+- City of Tampa Budget & Finance Citizen Advisory Committee Member, Past Chair
+- Seminole Heights Foundation, Board Member
+- Hillsborough County Housing Finance Authority – Past Chair
+- Greater Tampa Chamber of Commerce Women of Influence Committee – Former Member
+- Hillsborough Education Foundation Finance Committee – Former Member
+- Voices for Children, Former Board Member
+- Community in Schools, Former Board Member
+- Seniors in Service, Former Board Member
+- The Injury Cooperative, Supporter
+- Crisis Center of Tampa Bay, Sustainer
+- The Heights Collective, Member
+- Business and Professional Round Table, Founding Member
+- Toastmasters – High Risers Chapter, Former Membe
+- Business and Professional Women, Former Member
+- Soroptimist International, Former Member
+- Tampa General Hospital Foundation Planned Giving Council Member
+- Alzheimer’s Association Planned Giving Council Member
+- H.
+Lee Moffitt Professional Advisory Council Member
+- Tampa Bay Estate Planning Council – Past President
+- Financial Planning Association of Florida Member – Past President
+- Financial Planning Association of Tampa Bay Member – Past Chair
+Professional Experience:
+- SEC – FL Registered Investment Advisor
+- Certified Financial Planner Practitioner, CFP Board of Standards
+- Bachelor of Science, University of Maryland, College Park, Agricultural and Resource Economics
+Fuel a campaign powered by people, not special interests.
+Your support helps us connect with voters, grow our movement, and deliver real change.
+Chip in today to help Kimberly fight for Florida’s families and future.
+This movement starts
+with you.
+Whether you can knock doors, make calls, or share our message online—there’s a place for you on Team Overman.
+Sign up and help us bring integrity and results back to Congress.

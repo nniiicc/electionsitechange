@@ -1,0 +1,1 @@
+6TH PLYMOUTH The district includes the following localities: all of Duxbury Precinct 2 of Halifax Precincts 2, and 3 of Hanson Precincts 2A, and 4 of Marshfield Precincts 1, 2, 3A, 4, and 5 of Pembroke residents of the 6th plymouth, click here!

@@ -1,0 +1,18 @@
+SLATER RECEIVES HELENE GOEBBELS AWARD AT PUTNAM VALLEY VOLUNTEER AMBULANCE CORPS’ 65TH ANNIVERSARY DINNER
+New York State Assemblyman Matt Slater (R,C-Yorktown) was honored with the Helene Goebbels Award during the Putnam Valley Volunteer Ambulance Corps’ (PVVAC) 65th Anniversary Dinner.
+Slater joined members of the Corps, community leaders and supporters in celebrating the organization’s 65 years of service to Putnam Valley.
+The award is named in honor of Helene Goebbels, whose generosity played an important role in the history of PVVAC.
+Goebbels donated the land on which the Corps’ building stands today, providing a permanent home for generations of volunteers.
+The award is presented in her spirit to individuals who demonstrate a strong commitment to community service and supporting others.
+“For 65 years, the dedicated volunteers of the Putnam Valley Volunteer Ambulance Corps have answered the call and been there for our neighbors when they need them most,” said Slater.
+“I am honored and humbled to receive an award that carries such a meaningful legacy of generosity and community service.
+This recognition means a great deal to me, and I am incredibly grateful for the partnership we have built.”
+Slater has worked alongside PVVAC to support the organization and ensure its volunteers have the resources necessary to continue serving the community.
+Most recently, Slater was instrumental in securing an $80,000 state grant to replace the Corps’ aging generator, helping ensure the organization can remain operational and respond when residents need emergency assistance.
+“Our volunteer first responders dedicate countless hours to keeping our communities safe, and they deserve to know that we have their backs,” Slater continued.
+“I am proud of what we have been able to accomplish together and remain committed to supporting PVVAC and the critical work its volunteers do every day.”
+“We are proud to recognize Assemblyman Slater with this award and thank him for his continued support of our Corps and our community,” said Sheryl Luongo, President of the Putnam Valley Volunteer Ambulance Corps.
+The anniversary dinner celebrated PVVAC’s longstanding commitment to providing emergency medical services and recognized the generations of volunteers who have contributed to the organization throughout its history.
+“Congratulations to the entire Putnam Valley Volunteer Ambulance Corps on 65 remarkable years of service,” concluded Slater.
+“Thank you to every past and present member who has given their time to help their neighbors and strengthen Putnam Valley.
+I look forward to continuing our partnership for many years to come.”

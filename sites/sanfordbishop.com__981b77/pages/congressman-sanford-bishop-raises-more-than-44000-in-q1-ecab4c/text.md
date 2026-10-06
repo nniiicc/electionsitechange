@@ -1,0 +1,9 @@
+Bishop gears up for re-election with more than $700,000 in the bank
+The strong quarter brings Bishop’s total fundraising haul for the cycle to more than $1,100,000 with over $700,000 in the bank as he prepares for re-election, demonstrating the strength of his campaign and proving the enthusiasm for Bishop in Georgia’s 2nd Congressional District is at an all-time high.
+“These fundraising numbers illustrate that voters across Georgia’s 2nd Congressional District want a proven leader who has a history of fighting for working families in Congress,” said Sanford Bishop for Congress campaign manager Robert West.
+“Whether it’s supporting rural farmers and small business owners hardest hit by the pandemic, securing funds to kickstart and boost our local economy, or investing in infrastructure across the district, Sanford Bishop is the leader Middle and Southwest Georgia needs.
+Rep.
+Bishop will continue to fight for and serve his constituents by using the political process to improve their lives, and that’s why they’ll send him back to Congress this November.”
+###
+Whether it’s securing millions in disaster relief and storm preparation funding; delivering more than $1 billion in COVID funding to support hospitals, schools, families, workers, and small businesses; or delivering millions in funding to support local law enforcement to help reduce crime, Congressman Sanford Bishop continues to show up for the people of this district, state, and nation.
+He supported the bi-partisan Infrastructure Investment and Jobs Act to create thousands of new jobs rebuilding Georgia’s roads, bridges, airports, and clean water systems; worked to lower prices for families in the grocery store and at the gas pump, and fought for Georgia’s military bases, servicemembers, veterans, and their families.

@@ -1,0 +1,12 @@
+Back to All Events
+”The purpose of the non-partisan Candidate Forum is to give CD-1 voters an opportunity to hear our declared candidates discuss the issues of importance to them in this election.
+The event is free and open to the public.
+Candidates will answer written questions from the public during this moderated event.
+“
+Previous
+Previous
+March 10
+Candidate Forum
+Next
+Next
+March 18

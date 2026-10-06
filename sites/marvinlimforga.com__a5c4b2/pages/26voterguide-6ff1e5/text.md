@@ -1,0 +1,81 @@
+Voting in Gwinnett County: November 3, 2026 General & Special Elections
+Voter Registration
+- Deadline: Monday, October 5, 2026.
+- You must be registered to vote by this date to vote in the November 3 election.
+- Register or check your registration: mvp.sos.ga.gov
+Early Voting (Highly Encouraged)
+- Tuesday, October 13 – Friday, October 30, 2026, 7:00 AM – 7:00 PM
+- Vote at any Gwinnett County early voting location.
+- Closest location for Rep.
+Lim’s district: Lucky Shoals Park Community Recreation Center, 4651 Britt Road, Norcross, GA 30093
+- All locations & hours:
+www.gwinnettcounty.com/government/departments/elections/voting/advance
+Absentee Ballot
+- Any registered Georgia voter may request an absentee ballot; no excuse is required.
+- Request deadline: Friday, October 23, 2026, by 5:00 PM.
+- Request online: securemyabsenteeballot.sos.ga.gov
+- Voted ballot (non-military/overseas): must be received by Tuesday, November 3, 2026, at 7:00 PM.
+- Return by mail or at the drop box at Lucky Shoals Park Community Recreation Center (4651 Britt Road, Norcross, GA 30093) during early voting hours.
+Military and overseas voters (UOCAVA):
+- Request using the Federal Post Card Application (FPCA) at FVAP.gov/FPCA.
+- Request deadline: Friday, October 23, 2026.
+- Voted ballot: must be postmarked by November 3, 2026, and received by November 6, 2026.
+Election Day
+- Tuesday, November 3, 2026
+- Polls are open 7:00 AM – 7:00 PM
+- You must be in line by 7:00 PM to vote.
+- Find your assigned precinct, check your registration status, and see a sample ballot: mvp.sos.ga.gov
+General Info/Help:
+- Gwinnett County election information: www.gwinnettcounty.com/elections
+- Georgia Voter Protection Hotline (by DPG): 1-888-730-5816.
+Call or text with questions or if you experience a problem voting.
+- Questions? marvinlimforga@marvinlimforga.com | (404) 585-7715
+2026 Ballot Questions:
+1.
+Conservation use: Would increase the maximum acreage qualifying for conservation-use property tax assessment from 2,000 to 4,000 acres.
+2.
+Probate judges: Would require all Georgia probate court judges to be elected in nonpartisan elections.
+3. 9-1-1 fund: Would authorize the General Assembly to dedicate certain existing revenues to a nonlapsing Georgia Next Generation 9-1-1 Fund for 9-1-1 systems expansion, maintenance, and operation.
+4.
+Gwinnett homestead exemption: Would expand an existing additional $2,000 Gwinnett school-tax homestead exemption for certain public service employees to disabled veterans and all employees of the Gwinnett County School District and Buford City School District.
+Votación en el Condado de Gwinnett: Elecciones Generales y Especiales del 3 de noviembre de 2026
+Registro de votantes
+- Fecha límite: lunes, 5 de octubre de 2026.
+- Debe estar registrado para votar antes de esta fecha para poder votar en las elecciones del 3 de noviembre.
+- Regístrese o verifique su registro: mvp.sos.ga.gov
+Votación anticipada (Muy recomendada)
+- Martes, 13 de octubre – viernes, 30 de octubre de 2026, 7:00 a. m. – 7:00 p. m.
+- Puede votar en cualquier centro de votación anticipada del condado de Gwinnett.
+- Ubicación más cercana para el distrito del Rep.
+Lim: Lucky Shoals Park Community Recreation Center, 4651 Britt Road, Norcross, GA 30093
+- Todas las ubicaciones y horarios:
+www.gwinnettcounty.com/government/departments/elections/voting/advance
+Boleta de voto ausente
+- Cualquier votante registrado en Georgia puede solicitar una boleta de voto ausente; no se requiere una razón o excusa.
+- Fecha límite para solicitarla: viernes, 23 de octubre de 2026, antes de las 5:00 p. m.
+- Solicítela en línea: securemyabsenteeballot.sos.ga.gov
+- Boleta completada (excepto militares/votantes en el extranjero): debe recibirse antes de las 7:00 p. m. del martes, 3 de noviembre de 2026.
+- Puede devolver su boleta por correo o en el buzón seguro de Lucky Shoals Park Community Recreation Center (4651 Britt Road, Norcross, GA 30093) durante el horario de votación anticipada.
+Votantes militares y en el extranjero (UOCAVA):
+- Solicite su boleta usando la Solicitud Federal de Tarjeta Postal (FPCA) en FVAP.gov/FPCA.
+- Fecha límite para solicitarla: viernes, 23 de octubre de 2026.
+- Boleta completada: debe tener matasellos a más tardar el 3 de noviembre de 2026 y recibirse antes del 6 de noviembre de 2026.
+Día de las elecciones
+- Martes, 3 de noviembre de 2026
+- Los centros de votación están abiertos de 7:00 a. m. a 7:00 p. m.
+- Debe estar en la fila antes de las 7:00 p. m. para votar.
+- Encuentre su precinto asignado, verifique su registro y vea una boleta de muestra: mvp.sos.ga.gov
+Información general/ayuda:
+- Información electoral del condado de Gwinnett: www.gwinnettcounty.com/elections
+- Línea de Protección al Votante de Georgia (del Partido Demócrata de Georgia): 1-888-730-5816.
+Llame o envíe un mensaje de texto si tiene preguntas o si tiene algún problema al votar.
+- ¿Preguntas? marvinlimforga@marvinlimforga.com | (404) 585-7715
+Preguntas de la boleta de 2026:
+1.
+Uso de conservación: Aumentaría de 2,000 a 4,000 acres el máximo de superficie que puede recibir la tasación tributaria especial para propiedades destinadas a usos de conservación.
+2.
+Jueces de los tribunales de sucesiones: Requeriría que todos los jueces de los tribunales de sucesiones de Georgia sean elegidos en elecciones no partidistas.
+3.
+Fondo 9-1-1: Autorizaría a la Asamblea General a destinar ciertos ingresos existentes a un fondo no sujeto a vencimiento, el Fondo Georgia Next Generation 9-1-1, para la expansión, mantenimiento y operación de los sistemas 9-1-1.
+4.
+Exención de vivienda principal de Gwinnett: Ampliaría una exención adicional de $2,000 del impuesto escolar del condado de Gwinnett para ciertos empleados de servicios públicos, a los veteranos con discapacidades y a todos los empleados del Distrito Escolar del Condado de Gwinnett y del Distrito Escolar de la Ciudad de Buford.

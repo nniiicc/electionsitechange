@@ -1,0 +1,3 @@
+by Dale Washburn | Apr 7, 2025 | News
+The Georgia General Assembly reconvened under the Gold Dome on Monday, March 31, 2025, for the 12th and final week of the 2025 legislative session.
+Throughout the week, we worked late into the evenings, voting on key measures to secure their final passage by the time...

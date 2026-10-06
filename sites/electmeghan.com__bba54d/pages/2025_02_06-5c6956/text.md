@@ -1,0 +1,2 @@
+By Meghan Kallman February 6, 2025 Pair of Rhode Island senators pitch gas tax fix, rideshare fee to shore up RIPTA’s finances Pair of Rhode Island senators pitch gas tax fix, rideshare fee to shore up RIPTA’s finances News From the States February 5, 2025
+By Meghan Kallman February 6, 2025 RI Senate rejects resolution congratulating Trump on his ‘historic victory.’ Here’s why RI Senate rejects resolution congratulating Trump on his ‘historic victory.’ Here’s why The Providence Journal January 28, 2025

@@ -1,0 +1,29 @@
+ABOUT
+PRESS
+REGISTER TO VOTE
+SIGN UP
+CONTRIBUTE
+ABOUT
+PRESS
+REGISTER TO VOTE
+SIGN UP
+CONTRIBUTE
+Press
+July 6, 2021
+Philadelphia officials demand more action to reduce gun violence
+READ MORE >
+November 14, 2020
+There's a Black woman leader in Harrisburg: Joanna McClinton makes history
+READ MORE >
+November 15, 2018
+Joanna McClinton is first woman, first African American to chair House Democratic Caucus
+READ MORE >
+December 27, 2018
+After another 'Year of the Woman', how close is Pa. to gender parity in politics?
+READ MORE >
+September 7, 2018
+McClinton welcomes back 120 students during Back to School event in Darby
+READ MORE >
+April 25, 2015
+McClinton wants gun violence declared a public health crisis
+READ MORE >

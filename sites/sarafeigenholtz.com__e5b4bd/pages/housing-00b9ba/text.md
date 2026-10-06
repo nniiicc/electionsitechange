@@ -1,0 +1,13 @@
+The housing crisis is one of the most crucial issues we are facing in Illinois, and we must keep rent affordable for existing and future residents.
+HB2621, which I was proud to co-sponsor with Senators Hunter and Gillespie, combined tax relief, oversight, and direct funding to incentivize developers to invest more in their units, to stabilize rent for existing units, and to increase the number of affordable units across Chicago and in the 6th District.
+This will ultimately benefit thousands of lower-income households who will now be able to find a home and afford to stay in it.
+I remain committed to ensuring residents have a voice in how their neighborhoods evolve.
+I support transparent planning processes where community members, not just developers, have a seat at the table.
+Economic growth should lift us, not price people out.
+We must make sure development doesn’t come at the expense of long-time residents, new residents, families, or seniors.
+Awards:
+2024: Supportive Housing Providers Association – Legislative Champion
+2022: Oak Park Regional Housing Center – Distinguished Service in Housing
+2013: Chicago Coalition for the Homeless – For Restoring Funds for Homeless Services
+2012: Chicago Alliance to End Homelessness – Partner in Change
+2005: The Youth Committee of Chicago Coalition for the Homeless – In Recognition of Outstanding Commitment and Leadership in Addressing Youth Homelessness

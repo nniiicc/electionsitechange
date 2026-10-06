@@ -1,0 +1,3 @@
+Aug 3, 2026 A letter to the churches in Idaho A spiritual response to Prop 1, the so-called Reproductive Freedom and Privacy Act
+May 27, 2026 Victory in Nampa District 13 — And What It Tells Us About the Battle for Idaho's GOP Musings on the May 19, 2026 Primary Election
+Mar 30, 2026 I'd rather tell you what I have accomplished In the past few weeks, you may have received mailers attacking me, saying that I don’t support police, that I…

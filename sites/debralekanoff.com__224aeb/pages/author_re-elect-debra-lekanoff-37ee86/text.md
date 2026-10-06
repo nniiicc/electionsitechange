@@ -1,0 +1,11 @@
+Helping Decide Our Future on Fantastic Friday!
+Debra Lekanoff2024-11-01T15:59:10+00:00November 1, 2024|Fantastic Fridays| Read More
+Voting for the Future on Fantastic Friday Gallery Voting for the Future on Fantastic Friday Fantastic Fridays Voting for the Future on Fantastic Friday Debra Lekanoff2024-08-02T16:17:24+00:00July 26, 2024|Fantastic Fridays| Read More
+Uplifting Our Community on Fantastic Friday Gallery Uplifting Our Community on Fantastic Friday Fantastic Fridays Uplifting Our Community on Fantastic Friday Debra Lekanoff2024-08-02T16:16:34+00:00July 19, 2024|Fantastic Fridays| Read More
+Choosing Our Democracy on Fantastic Friday Gallery Choosing Our Democracy on Fantastic Friday Fantastic Fridays Choosing Our Democracy on Fantastic Friday Debra Lekanoff2024-08-02T16:15:50+00:00July 12, 2024|Fantastic Fridays| Read More
+Honoring July 4th on Fantastic Friday Gallery Honoring July 4th on Fantastic Friday Fantastic Fridays Honoring July 4th on Fantastic Friday Debra Lekanoff2024-08-02T16:14:46+00:00July 5, 2024|Fantastic Fridays| Read More
+Standing For Our Values on Fantastic Friday Gallery Standing For Our Values on Fantastic Friday Fantastic Fridays Standing For Our Values on Fantastic Friday Debra Lekanoff2024-07-04T20:34:56+00:00June 28, 2024|Fantastic Fridays| Read More
+Fighting for Equality on Fantastic Friday Gallery Fighting for Equality on Fantastic Friday Fantastic Fridays Fighting for Equality on Fantastic Friday Debra Lekanoff2024-07-04T20:38:41+00:00June 21, 2024|Fantastic Fridays| Read More
+Ready to Campaign on Marvelous Monday Gallery Ready to Campaign on Marvelous Monday Fantastic Fridays Ready to Campaign on Marvelous Monday Debra Lekanoff2024-07-04T20:40:41+00:00June 17, 2024|Fantastic Fridays| Read More
+Taking Pride in Washington on Fantastic Friday Gallery Taking Pride in Washington on Fantastic Friday Fantastic Fridays Taking Pride in Washington on Fantastic Friday Debra Lekanoff2024-07-17T15:18:17+00:00June 7, 2024|Fantastic Fridays| Read More
+A Healthier Washington on Fantastic Friday Gallery A Healthier Washington on Fantastic Friday Fantastic Fridays A Healthier Washington on Fantastic Friday Debra Lekanoff2024-07-17T15:19:11+00:00May 31, 2024|Fantastic Fridays| Read More

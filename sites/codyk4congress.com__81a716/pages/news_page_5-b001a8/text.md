@@ -1,0 +1,22 @@
+Latest News
+- Nevada Values on Display: Former Lincoln County Sheriff Kerry Lee Endorses Cody K.
+Whipple for Congress Nevada First.
+Public Safety Always.
+Lincoln County, NV—In a powerful show of support for Nevada’s future, retired Lincoln County Sheriff Kerry Lee has officially endorsed Cody K.
+Whipple in his campaign for Nevada’s 4th Congressional District.
+This endorsement underscores a shared, unwavering dedication to putting Nevada first and elevating public safety as a top priority.
+Whipple… Read more: Nevada Values on Display: Former Lincoln County Sheriff Kerry Lee Endorses Cody K.
+Whipple for Congress
+- Cody Whipple Welcomes Aaron Hill’s Endorsement, Bringing More GOP Unity to NV-4 Campaign Las Vegas, NV —Tonight, GOP businessman and rancher Cody K.
+Whipple issued the following statement in response to fellow candidate Aaron Hill’s decision to suspend his campaign for Nevada’s 4th Congressional District and throw his support behind Cody: “I want to begin by expressing my heartfelt gratitude to Aaron Hill—for his service to our nation,… Read more: Cody Whipple Welcomes Aaron Hill’s Endorsement, Bringing More GOP Unity to NV-4 Campaign
+- Kevin Wall Interview Kevin Wall from KMZQ 670 AM interviewed Congressional candidate Cody Whipple on June 13, 2025.
+Here is the interview.
+Read more: Kevin Wall Interview
+- Former Lieutenant Governor Lorraine Hunt-Bono Endorses Cody Whipple for Congress Las Vegas, NV—Republican congressional candidate and Nevada businessman Cody Whipple today announced the endorsement of former Nevada Lieutenant Governor Lorraine Hunt-Bono, one of the state’s most respected leaders and longtime advocates for small business, economic development, and working families.
+“Cody will be a strong voice for our working families and local business community,” said Hunt-Bono,… Read more: Former Lieutenant Governor Lorraine Hunt-Bono Endorses Cody Whipple for Congress
+- Former North Las Vegas Mayor John Lee Endorses Cody Whipple for Congress “Cody is the only candidate who can flip this seat from blue to red.” Las Vegas, NV—Cody Whipple, conservative businessman and rancher, announced today the endorsement of former North Las Vegas Mayor and longtime state legislator John Lee in his campaign for Nevada’s 4th Congressional District.
+John Lee, a respected Nevada leader and former State Senator, Assemblyman,… Read more: Former North Las Vegas Mayor John Lee Endorses Cody Whipple for Congress
+- Rancher and Businessman Cody K.
+Whipple Announces Campaign for Congress in Nevada’s 4th District The former VA Tech QB and Nevada Native is Endorsed by Former Congressman Cresent Hardy and Respected Nevada Sheriffs Las Vegas, NV—Fourth-generation Nevada native, lifelong conservative, and small businessman Cody K.
+Whipple today announced his campaign for Congress in Nevada’s 4th Congressional District, pledging to be a voice for working families, local communities, and small… Read more: Rancher and Businessman Cody K.
+Whipple Announces Campaign for Congress in Nevada’s 4th District

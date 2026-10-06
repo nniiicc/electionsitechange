@@ -1,0 +1,31 @@
+Asian Chamber Endorses Governor Lombardo for Re-election
+FOR IMMEDIATE RELEASE
+August 14, 2026
+Contact: press@joelombardofornv.com
+LAS VEGAS, NV – Today, the Asian Chamber of Commerce (ACC) proudly endorsed Governor Joe Lombardo for re-election.
+“Governor Lombardo has been a trusted partner to Nevada’s business community, and we are proud to support his re-election.
+His Leadership continues to create opportunities for businesses to grow and for our communities to thrive.”- Raja Mourey, President of the Las Vegas Asian Chamber of Commerce.
+“I’m honored to receive the endorsement of the Asian Chamber of Commerce and proud of our partnership to ensure small businesses and entrepreneurs across Nevada’s Asian community have the support, resources, and opportunities they need to succeed.
+Under my watch, Nevada has created nearly 100,000 new jobs, led the nation in job growth, and become one of the best places in America to start and grow a business.
+We’re proud to be a state that is open for business, and we’ll continue working to cut red tape, expand opportunity, and encourage entrepreneurs across Nevada's communities to invest, build, and start a business here at home." -Governor Joe Lombardo.
+Governor Lombardo's Track Record on Supporting Nevada's Businesses:
+- Generated $6 billion+ dollars of unprecedented private investment in Nevada since 2023.
+- Created more than 100,000 new jobs through strategic investment by the Governor’s Office of Economic Development
+- Reduced the tax burden on businesses and lowered the Modified Business Tax rate by 15%.
+- Lowered the standard contribution unemployment insurance (UI) tax rate from 1.65% to 1.45%, which helps large and small businesses by reducing what they must pay in UI taxes and reduces the rates on businesses in the 18 classes of reserve ratios.
+- Vetoed tax increases in both the 2023 and 2025 Nevada Legislative Sessions.
+- Cut or streamlined over 900 burdensome state regulations over the last two years.
+- Announced the delivery of reliable high-speed internet to nearly 50,000 unserved and underserved homes, businesses, and community institutions statewide through $375 million of Nevada’s Broadband Equity, Access, and Deployment funding.
+- Expanded Nevada's Inland Port Authority, authorizing the creation of tax increment areas within inland ports or industrial parks to finance projects through bond issuances backed by incremental tax revenues; expanded Career and Technical Education requirements statewide to help support teaching pathways, dual-credit programs, and work-based learning experiences.
+- Approved incentives with the Governor’s Office of Economic Development (GOED) Board for 48 companies since January 2023.
+In the next 5 years, these companies are projected to:
+- Pay $512 million in annual wages
+- Bring in $6 billion in capital investment
+- Over the abatement period, these companies will generate more than $1.69 billion in net new tax revenues for our state.
+- Presented and signed his Nevada Housing Access and Attainability Act, cutting bureaucratic barriers and accelerating attainable housing development.
+With an allocation of $183 million, this initiative aims to catalyze the development of over $1 billion in affordable and attainable housing options.
+- Secured over 6,500 new affordable rental homes in the Nevada Housing Division pipeline, which will increase overall affordable inventory by more than 15% and help ease the housing supply shortage in Nevada over the next 2 to 5 years.
+- Secured $180 million for the Nevada Health Authority for the first year of the new federal Rural Health Transformation Program from the Centers for Medicare and Medicaid Services (CMS) through the One Big Beautiful Bill Act.
+- Overseen a 4% annual job growth since 2022, making it the 6th fastest state for employment growth in the nation.
+- Significantly increased funding for workforce innovation programs and career and technical education programs through his landmark education legislation and historic education funding bills in 2023 and 2025.
+###

@@ -1,0 +1,13 @@
+| HARTFORD — State Representative David Rutigliano (R–Trumbull) stood shoulder to shoulder with union carpenters and labor leaders at the State Capitol today for the annual Tax Day Wage Theft Rally, calling attention to ongoing tax fraud and wage theft in Connecticut’s construction industry.
+Held on the steps of the Capitol, the rally is part of a nationwide day of action organized each year on Tax Day, with union carpenters across the country standing in solidarity to highlight the impact of illegal labor practices on workers, taxpayers, and law-abiding contractors.
+Rep.
+Rutigliano was invited to speak at this year’s event in recognition of his continued efforts to address wage theft and promote fair competition in the construction industry.
+This year, the legislature is considering House Bill 5275, An Act Concerning a Contractor's Responsibility for Unpaid Wages on a Construction Contract, aimed at strengthening accountability for unpaid wages in the construction sector.
+“At the end of the day, this comes down to basic fairness--if you put in a full day’s work, you deserve a full day’s pay.
+Period,” said Rep.
+Rutigliano.
+“Wage theft and tax fraud hurt everyone—they cheat working men and women out of what they’ve earned, undercut honest contractors trying to do the right thing, and shift the burden onto taxpayers.” Rutigliano emphasized that while the problem is real and must be addressed, solutions must be carefully crafted to target bad actors without harming responsible small businesses or homeowners.
+“We need to hold accountable those who game the system and exploit workers, but we also have to make sure we’re not unintentionally hurting small contractors, local businesses, or families making improvements to their homes,” he said.
+“We can—and should—do both: protect workers and preserve opportunity for the people doing things the right way.” Organizers stressed the importance of bipartisan cooperation in addressing wage theft, noting that the issue transcends politics and directly impacts working families across Connecticut.
+“I’m proud to stand with Connecticut’s carpenters,” Rutigliano added.
+“This is about dignity, respect, and making sure that hard work is rewarded the way it should be.” | |

@@ -1,0 +1,50 @@
+Niles Stephens
+Husband, Father, Christian, Conservative
+My Personal Story -
+I am a lifelong Missourian, born and raised in the Springfield area.
+I have been married to my lovely wife, Michelle, for over 20 years.
+We have 3 children: Ethan, Adeline, and Aubrey.
+My family and I have been a part of the Wildwood community since 2011.
+I would describe myself as a family man, community volunteer, and conservative political organizer.
+For the last 20 years, I have been the General Manager for ICON Window Cleaning.
+I lead a team of 40 employees, and we specialize in cleaning the skyscrapers in St.
+Louis.
+We are the industry leaders in the Saint Louis market, and we set the standard for quality customer service.
+Under my leadership, the company has expanded by teaching young people real job skills and how to earn a steady paycheck.
+My career has been focused on leadership, organization, sales, and delivering results for our customers and our company.
+Previous Volunteer Work -
+* Board Member for ParkRock Swim Club
+* Booster Club President for Eureka High School swim and dive
+* Youth sports coach for Chesterfield Bears football, ParkRock Basketball, and St.
+John Soccer
+* Church volunteer at Pathfinder and Calvary Churches
+* HOA President for Willow Glen Subdivision
+* Organized community events, trash clean-ups, and a welcome home celebration for a local military family
+Community Involvement
+Current Roles and Responsibilities -
+* Managing Director for MO Tax Relief NOW
+* Republican Committeeman for Wildhorse Township
+* Vice-Chair, Republican Nominating Committee in MO House District 110
+* Republican Nominating Committee Member for Congressional District 2 and State Senate District 15
+* Legislation Advisory Board Member for State Senator David Gregory
+Previous Positions -
+* National Delegate at the 2024 Republican National Convention
+* Wildwood City Council Member
+* Parks and Planning Committee - Wildwood
+* Economic Development Committee - Wildwood
+* Town Center Action Team - Wildwood
+* Campaign Organizer for Senator David Gregory & Rep.
+Justin Sparks
+* Area Leader and Campaign Manager for Rockwood School Board Candidates
+Delivering Results -
+* Saved taxpayers millions of dollars in 2025 by defeating a ballot measure to increase property tax rates
+* Organized Town Hall meetings to grow the Republican Party, increase accountability, and advance conservative messaging
+* Planned and executed canvassing efforts for multiple State Representatives
+* Saved Wildwood taxpayers' money by eliminating wasteful spending.
+My first motion on a City Council sub-committee helped save residents over $300,000!
+* Organized a get-out-the-vote effort to Stop the City-County Merger.
+Governor Parson actually vetoed a bill based on my actions to stop the merger - ask me about that next time, it's an interesting story
+* Worked to protect Wildwood’s natural beauty and upheld the city’s founding mission to “Save the Greenbelt.”
+* Supported Rockwood School Board candidates in addressing cultural issues in our schools, including ending DEI programs and exposing adult content that is inappropriate for students
+I have a proven track record of lower taxes, fiscal conservatism, and helping neighbors.
+Vote for NILES STEPHENS!

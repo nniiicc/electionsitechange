@@ -1,0 +1,35 @@
+1st Regular Session Signed Bills
+SB1283 dental board; annual report; website
+SB1333 database; health professionals; license revocations
+SB1382 pharmacy benefit managers; certificate requirements
+SB1601 breast examinations; cancer screenings; age
+SB1602 dental anesthesia; requirements
+SB1603 hospital; price transparency
+1st Regular Session Vetoed Bills
+SB1250 employers; vaccines; religious exemption
+SB1251 working animals; restrictions; prohibition
+SB1252 child fatality maltreatment oversight committee; establishment
+SB1253 sex offender registration; school notification
+SB1268 annexation; notice; approval
+SB1331 schools; parents; firearm possession
+SB1332 cast vote record; public records
+SB1600 infants; born alive; requirements
+2nd Regular Session Signed Bills
+SB1159 dentists; restricted permits
+SB1162 residential zoning; housing
+SB1163 homeopathic medicine
+SB1165 pharmacy audit
+SB1235 DCS child fatality/maltreatment oversight committee; establishment
+SB1232 sexual conduct; minor
+SB1234 pharmacy board; virtual manufacturing
+SB1236 sex-offender website; offenses
+SB1402 health care; cost; reimbursement
+SB1404 sex offender registration; school notification
+2nd Regular Session Vetoed Bills
+SB1155 sex-offender lifetime probation
+SB1231 state crime; illegal border crossing "Secure the Border Act"
+SB1509 surgical informed consent
+SB1511 detransitioners bill of rights
+Use the link below to find the bill details and the work Senator Shamp is doing for the citizens of LD29 and all Arizonans.
+Thank you for your support!
+Fill out the donation form to make a contribution, or mail your check to the address listed at the bottom of the Contact and Events page.

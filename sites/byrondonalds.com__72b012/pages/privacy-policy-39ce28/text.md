@@ -1,0 +1,2 @@
+Legal
+{{ post.title }}

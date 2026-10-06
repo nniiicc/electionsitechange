@@ -1,0 +1,79 @@
+The Issues
+The vision for Alabama's Future
+Religious Freedom
+Gary Palmer believes the First Amendment guarantees not only the freedom to worship, but the freedom to live and work according to one’s faith without government coercion.
+In Congress, he has fought to protect religious liberty from overreach that would force individuals, employers, or faith-based organizations to violate their beliefs.
+Palmer successfully introduced an amendment to prevent federal funds from being used to enforce Washington, D.C.’s Reproductive Health Non-Discrimination Act, which could require employers to cover abortions or compel pro-life organizations to act against their convictions.
+Religious freedom does not end at state or district lines, and taxpayer dollars should never be used to undermine conscience or take innocent life.
+Energy & Environment
+Gary Palmer believes America’s vast energy resources should be responsibly developed to lower costs, strengthen the economy, and create jobs—not locked away by excessive federal regulation.
+In Congress, he has worked to rein in regulatory overreach from the EPA that stifles growth without clear authorization from lawmakers.
+Palmer introduced the Stopping EPA Overreach Act to prohibit the agency from regulating greenhouse gases under authority Congress never intended to grant.
+The legislation earned support from a broad coalition of policy and free-market organizations and reinforces a simple principle: major regulatory decisions should be made by elected representatives, not unelected bureaucrats.
+Veterans
+Gary Palmer is deeply grateful to the men and women who have served our nation in uniform.
+America remains the land of the free because of the brave—citizens who step forward to defend our freedoms at great personal cost.
+Palmer believes honoring our veterans means more than words; it means respecting their service, supporting them when they return home, and ensuring the nation never forgets the sacrifices they and their families have made.
+Defense
+Gary Palmer supports a strong, well-funded military that is essential to America’s security and global leadership.
+He backed the National Defense Authorization Act to ensure our service members have the resources, training, and equipment they need to succeed in their missions.
+Palmer believes national defense is a core responsibility of the federal government, and that maintaining military readiness is critical to protecting the nation and preserving peace through strength.
+Budget
+Gary Palmer believes fiscal responsibility starts with living within our means.
+With the national debt exceeding $20 trillion, continuing to increase spending despite projected revenue shortfalls is unsustainable.
+Instead of raising spending, Palmer has pushed for real solutions that address waste, fraud, and mismanagement across the federal government.
+He has highlighted billions in improper payments by federal agencies and failures to collect owed revenues, arguing that taxpayers deserve accountability before Washington asks for more.
+To strengthen oversight, Palmer introduced the Agency Accountability Act, which would require federal agencies to return fines and fees to the U.S.
+Treasury and operate under proper congressional appropriations—bringing transparency and discipline back to the budget process.
+Immigration
+Gary Palmer opposes amnesty for those who are in the country illegally and believes the rule of law must be enforced.
+He has formally pledged to oppose legislation that would grant work authorization or legal status to illegal immigrants.
+Palmer believes meaningful immigration reform must begin with securing the border and enforcing existing laws, ensuring a system that is fair, lawful, and respects American sovereignty.
+Economic Growth
+Gary Palmer believes free markets create opportunity when government gets out of the way.
+America has vast energy resources that—if responsibly developed—could drive job creation, lower costs, and fuel long-term economic growth.
+Excessive regulation has kept these resources off-limits, limiting growth and innovation.
+Palmer supports policies that reduce unnecessary burdens on businesses, expand domestic energy production, and allow the private sector to do what it does best: create jobs, strengthen the economy, and keep America competitive.
+Second Amendment
+Gary Palmer believes the right to keep and bear arms is a fundamental constitutional freedom that must be protected from executive overreach and unnecessary restrictions on law-abiding citizens.
+He rejects efforts to limit the types of firearms Americans may legally own and believes that restricting responsible gun owners does not stop violent crime.
+Palmer has earned top ratings from Gun Owners of America and the National Rifle Association for his consistent defense of the Second Amendment.
+Tax Reform
+Gary Palmer believes a fair tax system depends on transparency, accountability, and equal treatment under the law.
+As a member of the House Oversight and Government Reform Committee, he called for the removal of the IRS Commissioner after misleading testimony and failures to preserve evidence tied to the targeting of conservative nonprofit organizations.
+Palmer believes no federal agency should misuse its power or infringe on Americans’ constitutional rights, and that restoring trust in the tax system requires strong oversight and real consequences for misconduct.
+Right to Life
+Gary Palmer believes every human life is worthy of protection.
+In Congress, he has supported legislation to prevent taxpayer dollars from funding abortion providers and to ensure greater protections for unborn children and infants who survive abortion procedures.
+Palmer believes defending life is a moral responsibility, and that public policy should reflect the dignity and value of every person, born and unborn.
+Health Care
+Gary Palmer believes health care decisions should be made by patients and doctors—not Washington bureaucrats.
+He has opposed Obamacare because it failed to lower costs or expand access, instead forcing families into higher premiums and fewer choices while driving insurers out of the market.
+Palmer supports repealing and replacing the Affordable Care Act with free-market, patient-centered solutions that increase competition, expand choice, and put individuals back in control of their health care decisions.
+National Debt
+Gary Palmer believes reducing the national debt requires real action, not rhetoric.
+He supported budget legislation that repealed major components of Obamacare, eliminated costly mandates and taxes, and reduced federal spending through the budget reconciliation process.
+The legislation cut the federal deficit by hundreds of billions of dollars and demonstrated that Congress can use its constitutional authority over spending to restore fiscal discipline.
+Palmer believes tackling the national debt means repealing failed policies, controlling spending, and putting the country on a more sustainable financial path.
+About Gary Palmer
+Mr.
+Palmer, who grew up in Hackleburg, a small town in Northwest Alabama, now represents Alabama’s 6th Congressional District.
+Mr.
+Palmer attended the University of Alabama and was the first person on either side of his family to attend college.
+In addition, he was a walk-on member of the football team under legendary football coach Paul ‘Bear’ Bryant.
+Palmer served as President of the Alabama Policy Institute for 24 years.
+During his tenure, the Alabama Policy Institute became a full-spectrum public policy research organization that engaged in virtually all policy issues that affected Alabamians.
+It is considered the premier conservative think-tank in Alabama.
+Palmer was also a founding member of the board of directors of the State Policy Network, an umbrella organization for various state-based think-tanks.
+He served on the State Policy Network board for six years, the last two as chairman.
+Leading this broad coalition of policy thinkers gave Palmer exposure and knowledge of policy problems that confront all 50 states.
+Palmer served on four different state commissions on behalf of three different Governors.
+He was appointed to the Welfare Reform Commission by Governor Fob James.
+He also served as an advisor to Governor James’ Aerospace, Science and Technology Task Force.
+He was appointed to the Task Force to Strengthen Alabama Families by Governor Bob Riley and the Alabama Commission on Improving State Government by Governor Robert Bentley.
+In 2014, he was elected to the 114th Congress, having never served in office before.
+In Congress, Palmer is focused on securing our borders; combatting inflation to reduce the cost of living; regulatory reform by reducing the number and expense of federal regulations; lowering energy costs and spurring economic growth and job creation by accessing America’s vast energy resources; developing a new health care plan that puts people back in charge of their health care decisions, and that will truly make health care affordable and accessible, paying down the national debt by cutting spending, and protecting life in all its forms.
+Palmer serves on the House Energy and Commerce Committee and the Subcommittees on Energy; Oversight and Investigations; as well as the Chairman of the Subcommittee on Environment.
+Palmer also serves on the House Oversight and Government Reform Committee and on the Subcommittee on Government Operations and the Subcommittee on Economic Growth, Energy Policy, and Regulatory Affairs.
+Palmer previously served as the Chairman of the House Republican Policy Committee for three terms.
+In addition to his B.S. degree, Palmer also received an Honorary Doctorate from the University of Mobile.

@@ -1,0 +1,1 @@
+11/17/25 Political Noise Previous An Invitation to Disagree Next Not being Crazy You Might Also Like A Balanced Budget Flexing Political Muscle Income and Expenditures Hat Etiquette Thank you to Constituents

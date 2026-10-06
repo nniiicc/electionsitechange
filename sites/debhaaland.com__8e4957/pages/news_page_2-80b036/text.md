@@ -1,0 +1,3 @@
+RECAP: Deb Haaland Shares Vision to Lower Costs Across Six Counties Over Labor Day Weekend
+Press Release
+Haaland stomped in communities in Northern New Mexico with under 60 days until the general election ALBUQUERQUE, NM – Over Labor Day weekend, Deb Haaland, the Democratic nominee for governor of New Mexico, shared her vision to lower …

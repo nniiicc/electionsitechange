@@ -1,0 +1,1 @@
+Endorsements AFSCME Local 925 AFT Michigan IBEW Local 58 Michigan AFL-CIO Michigan Building & Construction Trades Council Michigan Professional Firefighters Union UAW Region 1A Iron Workers Local 25 Iron Workers Local 55 EMILYs List Equality Michigan Michigan Association for Justice Michigan League of Conservation Voters Planned Parenthood Advocates of Michigan Sierra Club

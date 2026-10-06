@@ -1,0 +1,35 @@
+Election Integrity
+Strengthening the Integrity of Our Elections
+House Republicans continue to listen to the people regarding the need to reform our elections.
+With input from stakeholders and bipartisan support, we have approved over 25 bills that will result in fairer and safer elections.
+House Republicans are fighting to protect the vote.
+Protecting the Vote
+Maintaining accurate and secure records in the QVF will ensure that only eligible voters are able to cast ballots.
+- Removing dead voters (HB 4491)
+- Clarifying uncertain dates of birth and removing people who have not voted in the last 20 years (HBs 4127-28, Vetoed by the governor)
+- No 3rd party access to QVF (HB 4837, Vetoed)
+- Signature verification training for clerks (HB 4845)
+- Requiring photo ID (SBs 303-304, Vetoed)
+- Prohibiting insecure electronic signatures on absentee voter ballots (HB 5288)
+- Banning unsolicited absentee voter ballots from being sent out (HB 5268)
+- Stopping the Secretary of State from weakening the security of our elections through JCAR rules process requiring the governor to quickly announce timing for special elections (HB 4996)
+Advancing Democracy
+Updating state laws to ensure resources are allocated in the most efficient manner will help our local clerks do their jobs more effectively and improve access for legal voters.
+- Free voter IDs (HB 5007, Vetoed)
+- Increasing precinct sizes (HB 4134)
+- More polling locations (HB 4492, Vetoed)
+- Permanent AV application lists for clerks (HBs 4132-33)
+- Training for challengers (HB 4528, Vetoed)
+Safe & Fair Elections
+Strengthening procedures and penalties for unethical conduct will restore the integrity of our elections.
+It is crucial every vote is counted safely and securely.
+- Requiring photo ID (SBs 303-304, Vetoed)
+- Making it a crime to provide false information on an absentee form (HBs 4132-33)
+- Requiring separate absent voter counting boards (HB 4135)
+- No voting machines connected to the internet during tabulation (HB 4838, Vetoed)
+- Retaining ballots and software for 22 months after an election (HB 4840)
+- Requiring the SOS to quickly review and post petition information on its website (HBs 4200, 5252)
+- Requiring election workers to sign an affidavit indicating party affiliation (HB 4876)
+- Prohibiting gifts to election officials from a 3rd party (HB 5253)
+- Allowing challengers in the clerk’s office and satellite AV counting locations on election day
+(HB 4897)

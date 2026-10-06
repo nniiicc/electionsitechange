@@ -1,0 +1,3 @@
+STATEMENT: Hinojosa on Abbott Inviting Washington Insiders to Texas While Hiding from Voters
+Press Release
+Abbott’s RNC appearance comes amid the first tied poll in Texas Governor’s race and four pending debate requests Austin, TX – Today, Democratic nominee for Texas Governor Gina Hinojosa released the following statement in response to …

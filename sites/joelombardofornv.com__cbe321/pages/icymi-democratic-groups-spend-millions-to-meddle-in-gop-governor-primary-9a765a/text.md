@@ -1,0 +1,33 @@
+ICYMI: Democratic Groups Spend Millions To Meddle In GOP Governor Primary
+May 17, 2022
+In case you missed it, today The Nevada Independent reported on how national and state Democrats are spending millions to interfere in the Nevada Republican gubernatorial primary.
+More specifically, they reported on how Democrats are spending millions directly against Sheriff Joe Lombardo ahead of the Republican primary in June.
+The Nevada Independent reported on two Democrat-led attempts to hurt Sheriff Lombardo’s campaign ahead of the Republican primary.
+One anti-Lombardo effort is led by the Democratic Governors Association’s “A Stronger Nevada” PAC, while another anti-Lombardo PAC is led by Truman Fleming, the partner of Democratic State Representative Sandra Jauregui.
+Bottom Line: Democrats are terrified of Steve Sisolak having to face Sheriff Lombardo in November – so terrified that national and state Democrats are spending millions in an attempt to prevent Sheriff Lombardo from winning the Republican primary.
+These transparent and coordinated attacks on Sheriff Lombardo and the Republican primary are pathetic, and Republican voters will not be swayed.
+Democratic groups spend millions to meddle in GOP governor primary
+Riley Snyder
+The Nevada Independent
+“They call him slick Joe Lombardo,” are the first words of a new statewide television ad campaign attacking the Republican gubernatorial frontrunner for being “more worried about his public image than his public safety.”
+But the 30-second spot isn’t paid for by one of Lombardo’s 14 opponents in the state’s competitive Republican primary for governor.
+It’s funded by a new political action committee called “A Stronger Nevada,” a group linked to the Democratic Governors Association and registered with the state less than two months ago — filed in a window that helps them avoid disclosing their donors before the primary.
+…
+It’s part of a national trend by Democratic groups to meddle in Republican primaries ahead of the 2022 midterm elections, aiming to knock presumed frontrunners down a peg ahead of what’s likely to be a difficult election year for Democrats.
+…
+“A Stronger Nevada” isn’t the only group attempting to meddle in the final weeks of the Republican primary.
+Another PAC from an individual with ties to a pro-gun control lawmaker appears to be trying reverse psychology to convince Republican primary voters that Lombardo is weak on the Second Amendment.
+…
+Titled the “2022 Nevada Voter Guide on Gun Rights,” the mailer is paid for a group called Patriot Freedom Fund.
+…
+The PAC’s only listed officer is Truman Fleming, a Las Vegas-based real estate agent linked to Democratic Assemblywoman Sandra Jauregui — a survivor of the 1 October mass shooting who has become one of the Legislature’s most prominent gun control advocates.
+Jauregui said in a text message after this story was published that she was unaware of the PAC and its political activities.
+…
+Meddling in another party’s primary is not a new trend.
+Former U.S.
+Sen.
+Harry Reid’s campaign successfully brought down more moderate Republican Sue Lowden to clear the way for the more radical Sharron Angle in the 2010 primary, and the 2018 U.S.
+Senate race saw a Democratic Super PAC launch last-minute digital ads attacking then-Sen.
+Dean Heller for insufficient conservative bonafides.
+…
+Read the full piece here.

@@ -1,0 +1,27 @@
+West Tennessee State Legislators Back David Kustoff for Congress
+June 5, 2018
+GERMANTOWN, Tennessee – Congressman David Kustoff (TN-08) has received the endorsement of a majority of state legislators from across West Tennessee.
+“These public servants work hard every day to improve the lives of West Tennesseans, and I’m honored to have their backing.” said Congressman Kustoff.
+“I will continue working alongside these great men and women as we support President Trump’s agenda in the Eighth District.”
+“I’ve never seen a Congressman more visible in the district than Congressman Kustoff,” said State Senator John Stevens.
+“We are lucky to have him as our voice in Washington, and I’m honored to endorse his candidacy.”
+“Congressman Kustoff has proven over his first term in Congress how dedicated he is to West Tennessee,” said State Representative Debra Moody.
+“I proudly stand behind him as he continues to shake things up in Washington.”
+Tennessee State Legislators Endorsing Congressman David Kustoff:
+· Senator Dolores Gresham, District 26
+· Senator Ed Jackson, District 27
+· Senator John Stevens, District 24
+· Representative Tim Wirgau, District 75
+· Representative Bill Sanderson, District 77
+· Representative Curtis Halford, District 79
+· Representative Debra Moody, District 81
+· Representative Mark White, District 83
+· Representative Ron Gant, District 94
+· Representative Kevin Vaughn, District 95
+· Representative Jim Coley, District 97
+· Representative Ron Lollar, District 99
+Congressman Kustoff was born and raised in Shelby County and is a graduate of the University of Memphis.
+Appointed U.S.
+Attorney for the Western District of Tennessee by President Bush in 2006, Kustoff set his sights on cleaning up government and public corruption and fighting violent crime and drugs.
+He oversaw the majority of the Tennessee Waltz trials that sent Senator John Ford and 11 other defendants to federal prison.
+David and his wife, Roberta, have two children who they are proud to raise in West Tennessee.

@@ -1,0 +1,30 @@
+Economic Growth
+Attracting businesses/industries that will benefit all of Junction City/Geary County, creating better jobs and fostering positive economic growth and lowering taxes so individuals/families have more take-home pay.
+Work to help alleviate the burden of fixed income families by capping property taxes and increasing medical coverage.
+Reducing taxes by focusing on needs rather than wants, transparency, and accountability.Growing Kansas' Economy During the 2025–2026 legislative session, I supported efforts to strengthen Kansas' economy by promoting business growth, encouraging entrepreneurship, improving transparency in economic development incentives, and advancing policies that help attract investment to our communities.
+These initiatives focused on creating a more competitive business environment, supporting small and home-based businesses, expanding workforce opportunities, and providing greater accountability for taxpayer-funded economic development programs.
+By reducing unnecessary barriers to growth and promoting responsible economic policies, we can continue creating jobs, attracting new employers, and building a stronger future for Kansas families and local communities.
+Kansas Regulatory Sandbox (HB 2291) – Summary
+Bill: HB 2291 (Regulatory Relief Division & General Regulatory Sandbox Program)
+Status: Enacted (2025)
+Kansas HB 2291 Regulatory Sandbox Act
+What it does (simple explanation)
+Kansas created a “regulatory sandbox” program that allows businesses to test new products or services in the state under temporary regulatory relief.
+This means certain startups and innovators can operate with limited exemptions from existing rules while they test whether their idea works in the real world.
+The sandbox does NOT allow unlimited deregulation.
+Key restrictions include:
+No waiving federal law
+No blanket elimination of licensing systems
+Certain regulated industries (like alcohol-related licensing frameworks) are excluded
+Time-limited participation and oversight requirements
+Economic & job creation impact
+Why it matters for Kansas jobs and business growth:
+Lowers barriers for startups to launch new products
+Helps companies test ideas without full regulatory cost upfront
+Encourages fintech and tech innovation to locate in Kansas
+Can increase early-stage investment activity
+Supports small business formation and entrepreneurship
+Policy goal:
+Make Kansas more competitive with states like Arizona and Utah that already use sandbox-style programs to attract innovation companies.
+Plain-language takeaway
+The regulatory sandbox is basically a controlled “test zone” for new business ideas, where companies can try innovations without immediately facing the full weight of state regulations—while still being monitored to protect consumers.

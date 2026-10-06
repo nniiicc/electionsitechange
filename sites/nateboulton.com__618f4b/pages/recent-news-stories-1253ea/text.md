@@ -1,0 +1,106 @@
+Meet Iowa House District 39 candidates Nate Boulton and Troy Clark: https://www.desmoinesregister.com/story/news/politics/elections/2026/04/25/house-district-39-candidates-pleasant-hill-des-moines-nate-boulton-troy-clark/89489751007/
+Bill Dotzler says farewell after 30 years in the Iowa Legislature: https://www.desmoinesregister.com/story/news/politics/2026/04/29/bill-dotzler-says-farewell-after-30-years-in-the-iowa-legislature/89606100007/
+Longtime Iowa legislator will retire, and a former lawmaker hopes to win his seat: https://www.kcrg.com/2025/09/03/longtime-iowa-lawmaker-retire-former-legislator-plans-comeback/https://www.kcrg.com/2025/09/03/longtime-iowa-lawmaker-retire-former-legislator-plans-comeback/
+Latest income tax cuts passed by Iowa Legislature, likely to become law: https://www.thegazette.com/state-government/latest-income-tax-cuts-moving-at-iowa-capitol-likely-to-become-law/
+Iowa lawmakers vote to speed up 3.8% flat income tax, sending it to Gov.
+Kim Reynolds: https://www.desmoinesregister.com/story/news/politics/2024/04/19/iowa-tax-deal-lowering-income-rate-set-to-pass-legislature-kim-reynolds/73379866007/
+Bill to require labeling of ‘manufactured’ meat: https://www.radioiowa.com/2024/02/19/bill-to-require-labeling-of-manufactured-meat/
+Iowa has a workforce crisis.
+The state needs to deliver a better deal for workers: https://www.desmoinesregister.com/story/opinion/columnists/iowa-view/2024/03/22/iowa-workforce-crisis-unemployment-benefits-tyson-plant-perry/73047506007/
+Bill holding unions responsible for scofflaw bosses moves forward in Iowa Senate: https://www.desmoinesregister.com/story/money/business/2024/02/16/bill-labeled-union-busting-moves-forward-in-iowa-senate-teamsters-labor-union-perb/72597865007/
+Bill causing union decertification for employer errors sparks debate: https://cbs2iowa.com/news/local/bill-causing-union-decertification-for-employer-errors-sparks-debate
+Legislative panel reviews proposed rules for Iowa’s six week abortion ban: https://www.radioiowa.com/2024/01/10/legislative-panel-reviews-proposed-rules-for-iowas-six-week-abortion-ban/
+Union workers end strike at Thombert after new contract is signed: https://www.newtondailynews.com/news/local/2023/10/28/union-workers-end-strike-at-thombert-after-new-contract-is-signed/
+Are cuts to Iowa’s unemployment benefits getting people back to work or risking losing them?: https://www.desmoinesregister.com/story/money/business/2023/09/01/iowa-unemployment-benefit-cuts-still-debated-as-helpful-harmful-kim-reynolds-workforce-development/70672244007/
+Lawmakers discuss child care challenges, solutions during Iowa Women’s Foundation’s Solutions Summit: https://www.businessrecord.com/lawmakers-discuss-child-care-challenges-solutions-during-iowa-womens-foundations-solutions-summit/
+Lawmakers suggest new rules for Iowa Veterans Fund grants: https://www.radioiowa.com/2023/08/16/lawmakers-suggest-new-rules-for-iowa-veterans-fund-grants/
+State Child Labor Rollbacks Pose Enforcement Nightmare for DOL: https://news.bloomberglaw.com/daily-labor-report/dol-hamstrung-in-response-to-state-child-labor-law-rollbacks
+U.S.
+Labor Department: Iowa can’t legally expand child labor hours: https://cbs2iowa.com/news/local/us-labor-department-iowa-cant-legally-expand-child-labor-hours
+Iowa lawmakers react to federal scrutiny surrounding child labor bill: https://www.kcci.com/article/iowa-lawmakers-react-federal-scrutiny-surrounding-child-labor-bill/43935173
+Feds: Iowa’s youth labor bill would violate federal rules: https://www.thegazette.com/state-government/feds-iowas-youth-labor-bill-would-violate-federal-rules/
+U.S.
+Dept. of Labor: Iowa Child Labor bill ‘inconsistent’ with federal law: https://www.kcrg.com/2023/05/17/us-dept-labor-iowa-child-labor-bill-inconsistent-with-federal-law/
+Senate passes bill loosening child labor laws to let Iowa teens work longer hours: https://www.desmoinesregister.com/story/news/politics/2023/04/18/iowa-senate-passes-child-labor-bill-letting-teens-work-more-jobs-longer-hours/70121615007/
+$5M cap on pain, suffering in truck driving lawsuits close to becoming Iowa law: https://www.desmoinesregister.com/story/news/politics/2023/04/17/iowa-senate-votes-to-limit-pain-and-suffering-in-truck-driving-lawsuits/70121982007/
+Local lawmakers have one thing in common despite opposing views: https://who13.com/sports/local-lawmakers-have-one-thing-in-common-despite-opposing-views/amp/
+Pieper Lewis’ case prompts bipartisan victim restitution bill in Iowa Senate: https://www.desmoinesregister.com/story/news/politics/2023/02/09/pieper-lewis-sex-trafficking-case-prompts-bipartisan-iowa-bill-on-victim-restitution/69888624007/
+Restructuring bill would decrease the amount of state agencies: https://www.kcci.com/amp/article/iowa-state-agencies-restructuring-bill/42911900
+Iowa Bill Relaxing Back Child Labor Laws Sparks Outrage: ‘This is Just Crazy’: https://www.newsweek.com/iowa-bill-relaxing-back-child-labor-laws-sparks-outrage-this-just-crazy-1779821?amp=1
+Iowa may join 23 other states in making assault on sports official a felony: https://www.radioiowa.com/2023/02/28/iowa-may-join-23-other-states-in-making-assault-on-sports-official-a-felony/
+Critics: IA Proposal Would ‘Politicize’ Attorney General’s Office: https://belltimescourier.com/2023/02/03/critics-ia-proposal-would-politicize-attorney-generals-office/
+Iowa Democrats reelect Jennifer Konfrst, Zach Wahls as House and Senate leaders: https://www.desmoinesregister.com/story/news/politics/2022/11/18/dems-pick-jennifer-konfrst-zach-wahls-to-lead-party-in-iowa-statehouse/69651125007/
+First Presbyterian Church of Des Moines to hold final service Sunday after nearly 175 years: https://www.desmoinesregister.com/story/news/local/des-moines/2022/04/19/first-presbyterian-church-des-moines-closing-covid-membership-finances/9467446002/
+Taxes on businesses will drop after Iowa spent millions in federal aid to bolster unemployment fund: https://www.desmoinesregister.com/story/news/politics/2022/08/25/iowa-unemployment-taxes-business-drop-2023-kim-reynolds/7886587001/
+Iowa House and Senate Republicans approve unemployment cuts: https://www.iowapublicradio.org/state-government-news/2022-03-23/iowa-house-and-senate-republicans-approve-unemployment-cuts
+Unemployment changes stall at the Statehouse; Iowa GOP disagree on waiting period: https://who13.com/news/unemployment-changes-stalls-at-the-statehouse-iowa-gop-disagree-on-waiting-period/
+Iowa legislature cuts length of time for unemployment benefits to 16 weeks: https://siouxcityjournal.com/news/state-and-regional/iowa-legislature-cuts-length-of-time-for-unemployment-benefits-to-16-weeks/article_c3822025-1c29-59f1-85c2-d5b95e86e1bd.html
+Effort to limit public land moves forward: https://qctimes.com/news/state-and-regional/govt-and-politics/effort-to-limit-public-land-moves-forward/article_cc39199f-14c9-589c-8659-6ff38fa151c1.html
+Senators renew effort to create state protections for pregnant workers: https://iowacapitaldispatch.com/2022/01/25/senators-renew-effort-to-create-state-protections-for-pregnant-workers/
+Senate bill would let Iowa governor pick majority of district judicial nominating commissioners: https://www.iowapublicradio.org/state-government-news/2022-01-25/senate-bill-would-let-iowa-governor-pick-majority-of-district-judicial-nominating-commissioners
+Gov.
+Reynolds joins women leaders in discussing pro-life movement: https://cbs2iowa.com/news/local/gov-reynolds-joins-women-leaders-in-discussing-pro-life-movement
+Iowa state senators are showing John Deere strikers their support by visiting John Deere: https://ktvo.com/news/local/iowa-state-senators-are-showing-john-deere-strikers-their-support-by-visiting-john-deere
+NIL laws add new variable to recruiting decisions: www.espn.com/college-sports/story/_/id/32445468/nil-laws-add-new-variable-recruiting-decisions?fbclid=IwAR1iKwfQz0S4_VncxJzfluJhIcNVWMkPh8QoG9PfedO_mWOZOUYUUCYQUH0
+Iowa’s 2nd redistricting maps could mean a 2022 election race between US Reps.
+Cindy Axne, Mariannette Miller-Meeks: https://www.desmoinesregister.com/story/news/politics/2021/10/21/nonpartisan-agency-releasing-second-set-iowa-redistricting-maps-october-21/8522097002/?fbclid=IwAR2er9_5HOQfPXgluZ85UztBjf9gVw8IsCmp_8sJ_imUG8BTjU_Ge5FozZk
+Iowa Senate rejects first draft of redistricting maps: https://www.weareiowa.com/article/news/local/local-politics/iowa-legislature-2021-special-session-redistrict-maps-updates-democrats-republicans-statehouse-house-senate/524-9768cec0-0c7c-4774-8a25-e18c18d5d19c
+Iowa amusement park became a political force before accident: https://www.thegazette.com/news/iowa-amusement-park-became-a-political-force-before-accident/
+Local universities navigate new NIL policy for student-athletes: https://who13.com/news/local-universities-navigate-new-nil-policy-for-student-athletes/
+Is the absence of NIL legislation actually a benefit to Iowa college athletic departments?: https://www.desmoinesregister.com/story/sports/2021/06/30/nil-legislation-iowa-athletic-departments-cyclones-hawkeyes-bohannon-ncaa-name-image-likeness/7795180002/
+Lawmakers react to investigation examining overtime, open positions in Iowa prisons: https://www.kcrg.com/2021/04/30/pretty-bombshell-report-lawmakers-react-to-i9-investigation-finding-large-overtime-payments-and-around-100-open-positions-in-corrections/
+Bill Would Let 16 & 17 Year Olds Operate Carnival Rides In Iowa: https://kiwaradio.com/local-news/bill-would-let-16-17-year-olds-operate-carnival-rides-in-iowa/
+River to River: Late Census Data Complicates Iowa Redistricting: https://www.iowapublicradio.org/show/river-to-river/2021-04-12/late-census-data-complicates-iowa-redistricting
+Senate Republicans send two gun-related bills to Iowa governor: https://www.radioiowa.com/2021/03/22/senate-republicans-send-two-gun-related-bills-to-iowa-governor/
+GOP lawmakers looking to pass bill discouraging local gov’ts from cutting police budgets: https://cbs2iowa.com/news/local/gop-lawmakers-looking-to-pass-bill-discouraging-local-govts-from-cutting-police-budgets
+Iowa lawmakers eye changing jobless benefits: https://siouxcityjournal.com/news/state-and-regional/govt-and-politics/iowa-lawmakers-eye-changing-jobless-benefits/article_ca4363ed-03db-50b5-b563-42ef35de028d.html
+Iowa joins growing list of states introducing legislation compensating college athletes: https://cbs2iowa.com/news/local/iowa-joins-growing-list-of-states-introducing-legislation-compensating-college-athletes
+State lawmakers renew push to allow student-athletes to profit off their image: https://kwwl.com/2021/02/05/state-lawmakers-re-new-push-to-allow-student-athletes-to-profit-off-their-image/
+If bill passes, Iowa’s college athletes could soon earn money from name, image and likeness: https://www.desmoinesregister.com/story/news/politics/2021/02/10/iowa-legislators-again-propose-name-image-likeness-bill-college-athletes/4460039001/
+Iowa Becomes Latest State to Introduce Athlete NIL Bill; Targeting July 1 Effective Date: https://www.si.com/college/2021/02/03/iowa-name-image-likeness-bill-ncaa
+Lawmakers, Iowa faculty say athletes should be allowed to profit: https://www.thegazette.com/lawmakers-iowa-faculty-say-athletes-should-be-allowed-to-profit-20210204
+Election 2020: Democratic incumbent Boulton wins reelection in Iowa Senate District 16: https://www.desmoinesregister.com/story/news/elections/2020/11/03/iowa-election-2020-senate-district-16-nate-boulton-toya-johnson-northeast-des-moines-pleasant-hill/3742238001/
+Iowa election: Here’s who’s running for Iowa Senate District 16 in northeast Des Moines and Pleasant Hill: https://www.desmoinesregister.com/story/news/elections/2020/10/14/iowa-election-2020-nate-boulton-toya-johnston-senate-district-16-candidates-des-moines/5681740002/
+Sen.
+Boulton: Iowa deserves a stronger response: https://www.desmoinesregister.com/story/news/local/des-moines/2020/06/19/sen-boulton-iowa-deserves-stronger-response/3218893001/?for-guid=ab5eb1b2-483a-11ea-a2bf-12e73711888f&utm_source=desmoinesregister-Daily%20Briefing&utm_medium=email&utm_campaign=daily_briefing&utm_term=list_article_headline
+Iowa law now shields most businesses from COVID-19 lawsuits: https://www.radioiowa.com/2020/06/18/iowa-law-now-shields-most-businesses-from-covid-19-lawsuits/
+Bill looks to protect businesses and local governments from lawsuits related to COVID-19: https://www.weareiowa.com/article/news/health/coronavirus/bill-looks-to-protect-iowa-businesses-local-governments-covid-19-lawsuits-pandemic/524-69f93b00-b0ee-4277-8ed4-82c2fffbfe43?fbclid=IwAR3xTY15bvmXLZwi3oIrbRGDZfLCYoBmDZYIXg-1BNgRvhPJX3jzSPf801s
+Iowa Lawmakers Pass Bill To Shield Businesses From COVID-19-Related Lawsuits: https://kiwaradio.com/local-news/iowa-lawmakers-pass-bill-to-shield-businesses-from-covid-19-related-lawsuits/
+Sen.
+Boulton: Solutions to racial injustice must be new: https://www.desmoinesregister.com/story/news/local/des-moines/2020/06/05/sen-boulton-solutions-racial-injustice-must-new/3150648001/
+Iowa Senate president rules police ‘de-escalation’ training measure out of order: https://iowacapitaldispatch.com/2020/06/03/iowa-senate-president-rules-police-de-escalation-training-measure-out-of-order/
+Workers’ compensation should cover essential workers who suffer infection: https://iowacapitaldispatch.com/2020/05/08/workers-compensation-should-cover-essential-workers-who-suffer-infection/
+Sen.
+Boulton: Iowa is not ready to reopen: https://www.desmoinesregister.com/story/news/local/des-moines/2020/05/08/sen-boulton-iowa-not-ready-reopen/3091292001/
+Sen.
+Boulton: Looking ahead to safely ending this crisis: https://www.desmoinesregister.com/story/news/local/des-moines/2020/05/01/sen-boulton-looking-ahead-safely-ending-crisis/3061374001/
+Gov.
+Reynolds’ decision to keep meatpacking plants open in Iowa has sparked heated debate from lawmakers, workers: https://www.siouxlandproud.com/news/iowa-news/gov-reynolds-decision-to-keep-meatpacking-plants-open-in-iowa-has-sparked-heated-debate-from-lawmakers-workers/
+Iowa lawmakers file OSHA complaint over working conditions at Tyson plant in Waterloo: https://kwwl.com/2020/04/19/iowa-lawmakers-file-osha-complaint-over-working-conditions-at-tyson-plant-in-waterloo/
+Sen.
+Boulton: Slowing the spread by staying home: https://www.desmoinesregister.com/story/news/local/altoona/2020/04/07/sen-boulton-slowing-spread-staying-home/2954416001/
+Sen.
+Boulton: Getting through our public health crisis: https://www.desmoinesregister.com/story/news/local/des-moines/2020/03/27/sen-boulton-getting-through-our-public-health-crisis/2922924001/
+BEE BILL SAILS THROUGH IOWA SENATE: https://kboeradio.com/bee-bill-sails-through-iowa-senate/
+Bill would establish Medicaid work requirements: https://www.iowastatedaily.com/news/iowa-senate-house-bill-medicaid-work-requirements-governor-kim-reynolds-senator-representatives/article_3af7888a-636b-11ea-9382-6752016161b8.html
+Honeybee insect designation takes flight in Iowa Senate: https://www.thegazette.com/subject/news/government/iowa-legislature-honeybee-state-insect-designation-senate-vote-20200311
+Boulton: Opportunities, not barriers, needed for Iowa’s working poor: https://www.desmoinesregister.com/story/news/local/des-moines/2020/03/09/nate-boulton-opportunities-not-barriers-needed-iowas-working-poor/5004998002/
+Iowa Senate approves welfare work requirements, Democrats note bill puts more at risk than it saves: https://www.thegazette.com/subject/news/government/iowa-senate-approves-welfare-work-requirements-20200303
+Iowa Gov.
+Reynolds open to making felons pay all restitution before their voting rights are restored: https://qctimes.com/news/state-and-regional/govt-and-politics/iowa-gov-reynolds-open-to-making-felons-pay-all-restitution/article_f5ee3f04-a239-5142-b4fd-6fdc5cd20b94.html
+Senate Votes 45-3 To Confirm Governor’s Nominee To Lead State Prisons: https://kiwaradio.com/local-news/senate-votes-45-3-to-confirm-governors-nominee-to-lead-state-prisons/
+Senate confirms Skinner as director of Iowa prisons: http://www.kmaland.com/news/senate-confirms-skinner-as-director-of-iowa-prisons/article_9e77305a-5a55-11ea-8892-072084c9af49.html
+Work requirement bill for Iowans on Medicaid, food stamps resurfaces in Iowa Senate: https://www.desmoinesregister.com/story/news/politics/2020/02/18/medicaid-food-stamps-iowa-bill-puts-work-requirements-recipients/4793802002/
+Senate Bill Requires Some Iowans To Work For Medicaid, SNAP Access: https://www.iowapublicradio.org/post/senate-bill-requires-some-iowans-work-medicaid-snap-access#stream/0
+Sen.
+Boulton: Sponsoring legislation to help kids’ health: https://www.desmoinesregister.com/story/news/local/community/2020/02/16/sen-boulton-sponsoring-legislation-help-kids-health/2861740001/
+Proposed bill would allow college athletes to be paid for endorsements: https://www.kcci.com/article/proposed-bill-would-allow-college-athletes-to-be-paid-for-endorsements/30901046#
+Iowa bill granting student athletes control of their names, likeness advances: https://globegazette.com/news/state-and-regional/iowa-bill-granting-student-athletes-control-of-their-names-likeness/article_f2e6e244-ac00-5764-910b-d74b8485fd78.html
+Bill allowing college athletes to be compensated gets first OK in the Iowa Senate: https://cbs2iowa.com/news/local/bill-allowing-college-athletes-to-be-compensated-gets-first-ok-in-the-iowa-senate
+Iowa Senate Bill Calls For Trust Funds For Student Athletes to Profit From Their Name, Likeness: https://whotv.com/news/iowa-senate-calls-for-trust-funds-for-student-athletes/
+Legislators propose bill to pay college athletes: https://www.weareiowa.com/article/news/local/legislators-propose-bill-to-pay-college-athletes/524-40296e88-f273-4986-adc0-6e60d7a087f8
+Iowa Senate bill calls for trust funds for college athletes: https://www.thegazette.com/subject/news/government/iowa-legislature-college-university-sports-ncaa-athlete-money-trust-fund-20200122
+Injured Iowa workers face delays in getting hearing dates: https://www.desmoinesregister.com/story/news/2019/09/25/injured-iowa-workers-face-delays-getting-hearing-dates/2441045001/
+Beating, firing of nurse at Iowa mental institute exemplify state workers’ eroded rights, critics say: https://www.desmoinesregister.com/story/news/investigations/2019/05/29/mental-health-iowa-nurse-beating-firing-state-worker-rights-independence-mental-health-institute/3355368002/#=
+Iowa Senate approves bill prohibiting DNR stocking of private ponds: http://www.kmaland.com/news/iowa-senate-approves-bill-prohibiting-dnr-stocking-of-private-ponds/article_a7e26f3e-35f7-11e9-a8a4-7b8ccae8ecf0.html
+Lawmakers try to expand CBD program: https://dailyiowan.com/2019/02/19/lawmakers-try-to-expand-cbd-program/

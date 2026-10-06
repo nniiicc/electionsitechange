@@ -1,0 +1,9 @@
+FOR IMMEDIATE RELEASE
+June 17, 2025
+Contact: press@jjr.vote, 786-683-8781
+Today, a Miami federal judge found Florida Attorney General James Uthmeier in contempt of court for violating a restraining order that blocked enforcement of a new state law targeting undocumented immigrants.
+Jose Javier Rodriguez, candidate for Florida Attorney General, issued the following statement:
+“Defying a federal court order on immigration isn’t just a legal violation - it’s abuse of power.
+Florida’s Attorney General chose to undermine the courts to push a partisan agenda, putting law enforcement in an impossible position and risking public trust.
+We need leaders who stand with the law and the people they serve, not ones who turn legal chaos into a political strategy."
+###

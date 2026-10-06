@@ -1,0 +1,3 @@
+Here’s the recording from our town hall on climate resiliency & our southern coast!
+Thank you so much to our speakers Pam Rubinoff, JP Walsh from the URI Coastal Resources Center, Bryan Oakley from Eastern CT State University, Sue Anderbois from The Nature Conservancy in Rhode Island, and Topher Hamblett from Save The Bay – Narragansett Bay (please contact these organizations if you’d like to be involved in advocacy or even dune grass planting!)
+For advocacy, check out the Act on Coasts bill that Tina Spears for State Representative and I are sponsoring in the House and Senate this year: https://actionnetwork.org/letters/ask-your-representatives-to-support-act-on-coasts

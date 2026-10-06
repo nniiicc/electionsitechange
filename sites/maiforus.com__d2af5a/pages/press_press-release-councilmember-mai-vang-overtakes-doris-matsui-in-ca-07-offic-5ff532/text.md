@@ -1,0 +1,19 @@
+Press Release: Councilmember Mai Vang Overtakes Doris Matsui in CA-07, Officially Secures Spot on November Ballot
+Setting Up a Direct Choice Between a New Generation of Leadership and Years of Insider Politics That Hasn't Delivered
+For Immediate Release - June 9, 2026
+SACRAMENTO, Calif. — Councilmember Mai Vang has overtaken Rep.
+Doris Matsui to move into first place districtwide in California's 7th Congressional District — completing a steady climb that secures a spot for Vang in the November general election.
+It is a remarkable turn against a 21-year officeholder who, in the closing weeks of the race, spent $1.4 million of her own money and directed her super PAC allies to boost a Republican candidate.
+It sets up a fall campaign Vang describes as coming down to a single question: after more than two decades, are working families in this region actually better off?
+Vang framed the next five months as a direct contrast between a grassroots movement built on working families and two decades of insider politics that hasn't delivered for the people it's supposed to serve.
+"For years, families here have been told to be patient and trust experience because things would get better.
+After twenty years, families are living paycheck to paycheck, people of my generation are no closer to owning a home, and you still can't afford a doctor visit," Councilmember Vang said.
+"That experience is not working for you — that's a system working for the wealthiest donors and political insiders.
+Democrats, Republicans, independents, the young people who will inherit this world — they're all struggling, and they were told to wait their turn.
+We are not waiting any longer.
+This fall, we'll carry that choice to every doorstep in this district, and we'll win it with heart and hustle."
+"This lead shows our message is connecting," Vang added.
+"People are tired of leaders who answer to their biggest donors instead of the families they represent.
+The squeeze on working families doesn't check your party registration — and neither will I.
+I'm running to fight for every family feeling it, and that's exactly what I'll keep doing." While recognizing there are still thousands of votes that need to be counted, the campaign said it would move immediately into the general election, expanding its organizing and drawing sharp distinctions with the incumbent.
+###

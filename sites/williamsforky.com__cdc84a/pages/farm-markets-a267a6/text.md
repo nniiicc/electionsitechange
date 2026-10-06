@@ -1,0 +1,19 @@
+A fair agricultural economy should allow farmers to earn a reasonable return for their work and give consumers confidence in the food they buy.
+This plan strengthens contract protections, exposes unfair pricing practices, and requires honest labeling that helps consumers identify American beef.
+By holding powerful agricultural companies accountable and strengthening producers’ bargaining power, it works to prevent exploitation, protect independent businesses, and return a fairer share of the food dollar to the people who grow and raise our food.
+FAIR FARM MARKETS
+AND ACCOUNTABILITY PLAN
+- Prevents dominant agribusiness middlemen and processors from using market power to overcharge consumers while underpaying farmers.
+- Establish a reputable farmer share floor of final retail price, adjusted by product type, ensuring producers receive a fair portion of the consumer food dollar.
+- Allow civil penalties and corrective market actions against companies found to be artificially suppressing producer payments or inflating consumer prices.
+- Authorize USDA and the FTC to investigate excessive pricing disparities between farm-gate, wholesale, and retail markets across concentrated agricultural supply chains.
+- Requires dominant agricultural processors, packers, distributors, and input suppliers to publicly report pricing data so farmers and consumers can see where money is being captured in the supply chain. - Require quarterly reporting of farm-gate prices, wholesale prices, retail prices, processing costs, and profit margins. - Require dominant processors, distributors, and retailers to publicly disclose the average percentage of every consumer food dollar returned to farmers and producers.
+- Give USDA and the FTC authority to audit reports, investigate manipulation, and publish farmer-friendly market data.
+- Protects poultry and livestock growers from unfair contracts, retaliation, and uncompensated investment demands while strengthening their ability to secure fair and dependable terms.
+- Requires contracts to clearly disclose payment formulas, required investments, renewal conditions, and termination rules before growers commit their land, facilities, or finances.
+- Prohibits retaliation against growers who report abuse, join producer associations, seek independent legal advice, or challenge unfair payment practices.
+- Requires compensation or enforceable contract guarantees when companies mandate major facility upgrades, including protection for unrecovered investments when companies terminate contracts early.
+- Strengthens consumer trust and fair competition by ensuring American food labels accurately identify its origins and allow shoppers to recognize American production.
+- Requires clear country-of-origin labeling identifying where crops or livestock were grown or born / raised / and/or slaughtered and where the food was processed.
+- Establishes enforceable standards for American-origin claims and penalties for misrepresenting imported food products as American through domestic packaging, processing, or misleading branding.
+- Provides grants and technical assistance to small producers and processors for traceability, recordkeeping, and labeling compliance.

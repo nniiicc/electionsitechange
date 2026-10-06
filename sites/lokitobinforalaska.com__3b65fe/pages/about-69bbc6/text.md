@@ -1,0 +1,18 @@
+Bio
+Löki Gale Tobin was born and raised in Nome to two passionate public radio book lovers.
+Inspired into a life of public service by her father and former Girl Scout Leader Rochelle, she has worked for Alaska's nonprofits for over 15 years.
+Löki Gale serves on the board of the Anchorage Concert Association, voluntters on the Fairview Community Council Committee on Fun, and is active in the NAACP Alaska Chapter Education Committee.
+She is a Girl Scout Gold Award recipient, bicycle commuter, and passionate about home food preservation.
+Legislative Track Record
+Public Education
+1
+Led efforts to secure the most significant increases to base school funding in Alaska’s history by building a bipartisan, bicameral coalition that successfully overrode a budget line item veto from the Governor (first time a line item had been overridden since 1987).
+Kids and families
+2
+Restarted the Alaska Children's Caucus and led efforts to increase services for parents with infants experiencing development delays while also securing millions in state aid to reduce the cost of child care.
+Health care
+3
+Successfully championed reducing administrative burdens on Alaska’s physician assistants, secured $1 million for kids experiencing homelessness/houseleness, and passed legislation that increases behavioral health supports in schools.
+Critical infrastructure
+4
+Secured millions of dollars to address deferred school maintenance and captial dollars to improve Indigenous langauge signage in downtown Anchorage.

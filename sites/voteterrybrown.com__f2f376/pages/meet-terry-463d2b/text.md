@@ -1,0 +1,51 @@
+North Carolina Born.
+Service Bred.
+Terry Brown is serving in his second term as a State Representative, representing North Carolina's 92nd House District.
+In 2023 Terry was elected to serve as the House Democratic Whip for the 2023-2024 Session.
+Terry is an accomplished litigation attorney in Charlotte where he lives in Steele Creek with his wife Arielle, their pet turtle, Terra, and lab-mix, Pharaoh.
+Growing up as the son of two public school educators, the values of service, education, and community were instilled in Terry from the very beginning.
+Terry watched his parents sacrifice to provide their students the opportunity to succeed.
+Terry has experienced all that the Tar Heel State has to offer – from being born and raised in Fayetteville, to working as a field organizer in the dusty back roads of Halifax County, and then to honing his skills as an advocate in Raleigh before settling in Charlotte to start a family and his career as an attorney and public servant.
+As a legislator, Terry combines his passions for justice, education, and building a robust economy in order to help strengthen our state and improve the lives of the residents of NC House District 92.
+Terry's focus is on improving North Carolina's education system, investing in our infrastructure, increasing access to mental health resources and strengthening the middle and working class.
+Legislative Wins
+01.
+Secured $300,000 to establish CMPD Cares Mental Health Response Team.
+(HB 802 included in 2021 State Budget)
+02.
+Secured $10 Million for the Sullenberger Aviation Museum.
+(HB 1019 Included in the 2022 State Budget)
+03.
+Secured Millions for the National Institute of Minority Economic Development to support minority and women owned business in the State (HB 434 Include in the 2023 State Budget)
+04.
+Successfully worked with NCDOT to change Exit 4 on 485 to read "Steele Creek Road" instead of "Fort Mill"
+House Democratic Whip (2023-Present)
+House Democratic Caucus Freshman Chair (2021-2022)
+North Carolina Council on Developmental Disabilities, Board Members
+Campbell University School of Law Hall of Fame
+Charlotte Business Journal 40 Under 40 (2019)
+UNC Charlotte Young Alumni of the year (2017)
+City of Charlotte Zoning Board of Adjustment, Vice Chair (2018-2020)
+Mecklenburg County Democratic Party Precinct 23 Organizer and Chair (2016-2021)
+John S.
+Leary Association of Black Lawyers; Chair (2017)
+Best Lawyers, One to Watch (2022)
+Vice President, UNC Black Alumni Chapter (2016-2020)
+West Side Community Land Trust, Board Member (2018-2023)
+Vice President, Historic Camp Greene Neighborhood Association (2020)
+- National Night Out Chairman and Organizer (2018)
+- Vice President (2019-2020)
+New Leaders Council Institute Graduate (2016)
+Bechtler Museum of Modern Art Young Visionaries Steering Committee Member (2015-2018)
+Democratic Party State Executive Committee Member (2018-2019)
+Urban League of the Central Carolina’s Young Professionals; Former Civic Engagement Chair (2016-2018)
+Big Brothers Big Sisters Young Professional Council; Founder (2018)
+Charlotte Black Chamber of Commerce 30 Under 30 (2016)
+Charlotte Agenda 30 Under 30 (2016)
+Super Lawyers Rising Star (2018, 2020, 2021)
+Who's Who in Black Charlotte (2019)
+Black Political Caucus Member (2015- Present)
+League of Women Voter’s Civic 101 Graduate (2018)
+Friendship Missionary Baptist Church, Social Justice Committee Member
+Safe Alliance Domestic Violence Victim's Attorney
+Alpha Phi Alpha Fraternity, Inc.

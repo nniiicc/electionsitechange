@@ -1,0 +1,184 @@
+2025 to 2026 Legislative Session
+- House Bill 90 – State & Local Gov’t Retirees COLA
+- Primary Sponsors – Logan, Wheatley (R-Cumberland), Butler (D-New Hanover), Majeed (D- Mecklenburg)
+- Increase Cost-Of-Living Adjustments (COLA) for State and Local Government Retirees
+- Link – https://ncleg.gov/BillLookUp/2025/H90
+- House Bill 109 – Strangulation/Increase Punishment
+- Primary Sponsors – Logan, White (R-Johnston), Morey (D-Durham), T.
+Brown (D-Mecklenburg)
+- Increase the punishment for committing Assault by Strangulation
+- Link – https://ncleg.gov/BillLookUp/2025/H109
+- Update – Contents of this bill were added to House Bill 308
+- House Bill 202 – Defense Against Porch Pirates Act
+- Primary Sponsors – Logan, Willingham (D-Edgecombe)
+- Create the offense of Larceny of Mail
+- Link – https://ncleg.gov/BillLookUp/2025/H202
+- Update – A version of this bill (HB34) passed the House with Rep.
+Logan’s support
+- House Bill 203 – Home Warranty Act
+- Primary Sponsors – Logan, Belk (D-Mecklenburg), Longest (D-Wake)
+- Place consumer protections around home service agreements (otherwise known as Home Warranties)
+- Link – https://ncleg.gov/BillLookUp/2025/H203
+- House Bill 316 – Child Care Act
+- Primary Sponsors – Logan, G.
+Brown (D-Pitt), Lopez (D-Mecklenburg), G.
+Pierce (D-Hoke)
+- Policies that support families and children in North Carolina
+- Free School Lunch for All Public-School Students
+- Reenact the NC Child Tax Credit
+- Expand NC Pre-K and increase subsidized child care funding
+- Increase funding for public child care provided by community colleges
+- Report on high school child care apprenticeship program
+- Link – https://ncleg.gov/BillLookUp/2025/H316
+- House Bill 401 – Allow Lottery Winners to be Confidential
+- Primary Sponsors – Logan, Harrison (D-Guilford), Hawkins (D-Durham), F.
+Jackson (D-Cumberland)
+- Would allow those that are a Lottery Winner to be given the option to have their identity be confidential
+- Link – https://ncleg.gov/BillLookUp/2025/H401
+- House Bill 403 – Workers’ Rights Act
+- Primary Sponsors – Logan, Greenfield (D-Mecklenburg), Harrison (D-Guilford), Roberson (D-Wake)
+- Strengthening the protections and rights of all North Carolina workers by:
+- Requiring Just Cause for Firings in North Carolina
+- Mandatory paid work breaks and paid meal periods
+- Eliminate the subminimum wage for tipped employees
+- Stop discrimination and retaliation for disclosing wage information
+- Repeal ban on public employee collective bargaining
+- Create an Ombud’s office to deal with potential mistreatment of contract employees in state government
+- Restore State and Local Government retiree medical benefits
+- Allow local municipalities to set their own minimum wage as long as it is at least the state and federal minimum wage
+- Allow local governments to set up and expand worker safety programs
+- Increase funding for worker safety inspections
+- Link – https://ncleg.gov/BillLookUp/2025/H403
+- House Bill 550 – Modify Mileage and Per Diem
+- Primary – Logan, Carney (D-Mecklenburg), Prather (D-Buncombe), Roberson (D-Wake)
+- Would set the Per Diem for legislators to match the State and Federal Per Diem rates
+- Link – https://ncleg.gov/BillLookUp/2025/H550
+- House Bill 662 – Support the State Highway Patrol
+- Primary – Logan, K.
+Brown (D-Forsyth), G.
+Pierce (D-Hoke), Price (D-Orange)
+- Support the North Carolina State Highway Patrol through various measures including:
+- Pay raises to Troopers and Officers of the State Highway Patrol
+- Allow members of the State Highway Patrol to work other jobs as long as they do not interfere with their work as Troopers
+- Encourage retired members of the State Highway Patrol to return to service
+- Fund bulletproof glass in state law enforcement vehicles
+- Funds to support the Huntersville State Highway Patrol station
+- Link – https://ncleg.gov/BillLookUp/2025/H662
+- House Bill 723 – Technology Coalitions Strategic Support Fund
+- Primary – Logan, Ross (R-Alamance), Belk (D-Mecklenburg), Reives (D-Chatham)
+- Establish the North Carolina Technology Coalitions Strategic Support Fund to increase economic development in future technology in North Carolina
+- Link – https://ncleg.gov/BillLookUp/2025/H723
+- House Bill 724 – NC-FACT
+- Primary – Logan, Ross (R-Alamance), Belk (D-Mecklenburg), Reives (D-Chatham)
+- Create the NC-Federal Alignment for Critical Technologies Task Force (NC-FACT) to study ways to foster and promote science, technology, and innovation in the state
+- Link – https://ncleg.gov/BillLookUp/2025/H724
+- House Bill 764 – Establish Death by Reckless Boating
+- Primary – Logan, Setzer (R-Cawataba), Carney (D-Mecklenburg), Helfrich (D- Mecklenburg)
+- Establishing the offense of Death or Serious Injury by Reckless Boating
+- Link – https://ncleg.gov/BillLookUp/2025/H764
+- House Bill 903 – Highway and Road Safety Act
+- Primary – Logan, Budd (D-Mecklenburg), Cunningham (D-Mecklenburg), Majeed (D-Mecklenburg)
+- Increase safety on roads and highways in Mecklenburg along with the State of North Carolina by:
+- Increase number of Troopers in Mecklenburg
+- Increase the number of Magistrates in Mecklenburg
+- Increase fines for failure to stop for a school bus and increase what would count as evidence in those cases
+- Allow highway cameras to record
+- Have the NC Department of Transportation Metrolina Transportation Management Center in Charlotte open 24 hours, 7 days a week
+- Link - https://ncleg.gov/BillLookUp/2025/H903
+2023 to 2024 Legislative Session
+- House Bill 61 – Abolish Employment At-Will
+- Primary Sponsor – Logan, Autry (D-Mecklenburg), Harrison (D-Guilford), Roberson (D-Wake)
+- Abolishing At-Will employment and require Just Cause for firings
+- Link – https://ncleg.gov/BillLookUp/2023/H61
+- House Bill 141 – Paid Parental Leave for State Employees
+- Primary Sponsor – Logan, A.
+Baker (D-Forsyth), Crawford (D-Wake), Willingham (D-Edgecombe)
+- Provide Paid Parental Leave for state employees and other state-supported personnel
+- Link – https://ncleg.gov/BillLookUp/2023/H141
+- Update – The contents of this bill passed into law in Senate Bill 20/Session Law 2023-14
+- House Bill 243 – Repeal Collective Bargaining Ban
+- Primary Sponsor – Logan, Harrison (D-Guilford), Hawkins (D-Durham), Majeed (D-Mecklenburg)
+- Repeals the ban on public employee collective bargaining
+- Link – https://ncleg.gov/BillLookUp/2023/H243
+- House Bill 398 – Child Care Act
+- Primary Sponsor – Logan, Autry (D-Mecklenburg), G.
+Brown (D-Pitt), Pierce (D-Hoke)
+- Policies that support families and children in North Carolina
+- Free School Lunch for All Public-School Students
+- Reenact the NC Child Tax Credit
+- Expand NC Pre-K and increase subsidized child care funding
+- Increase funding for public child care provided by community colleges
+- Report on high school child care apprenticeship program
+- Link – https://ncleg.gov/BillLookUp/2023/H398
+- House Bill 429 – Make Street Takeovers Unlawful
+- Primary Sponsor – Logan, Greene (R-McDowell), Willingham (D-Edgecombe), Bradford (R-Mecklenburg)
+- Would make Street Takeovers, people using their cars to control public areas doing stunts, unlawful
+- Link – https://ncleg.gov/BillLookUp/2023/H429
+- Update – The contents of this bill became law in Senate Bill 91/Session Law 2023-97
+- House Bill 527 – Highway Safety Omnibus/Addit’l Magistrates
+- Primary Sponsors – Logan, Belk (D-Mecklenburg), Carney (D-Mecklenburg), Hawkins (D-Durham)
+- Increase safety on roads and highways in Mecklenburg along with the State of North Carolina by:
+- Increase number of Troopers in Mecklenburg
+- Increase the number of Magistrates in Mecklenburg
+- Increase fines for failure to stop for a school bus and increase what would count as evidence in those cases
+- Allow highway cameras to record
+- Have the NC Department of Transportation Metrolina Transportation Management Center in Charlotte open 24 hours, 7 days a week
+- Link – https://ncleg.gov/BillLookUp/2023/H527
+- House Bill 848 – Set Pay Schedules/Juvenile Justice Positions
+- Primary Sponsors – Logan, Belk (D-Mecklenburg), T.
+Brown (D-Mecklenburg), Cervania (D-Wake)
+- Increase salaries for state employees serving as Youth Court Counselors, Youth Services Behavioral Specialists, Youth Counselors, and Youth Counselor Technicians
+- Link – https://ncleg.gov/BillLookUp/2023/H848
+- House Bill 927 – Body Cameras/Cloud Storage for State Troopers
+- Primary Sponsors – Logan, Autry (D-Mecklenburg), A.
+Baker (D-Forsyth), Greene (R-McDowell)
+- Provide body-worn cameras to the State Highway Patrol
+- Link – https://ncleg.gov/BillLookUp/2023/H927
+- House Bill 928 – NC State Highway Patrol Retention Act
+- Primary Sponsors – Logan, Autry (D-Mecklenburg), Pierce (D-Hoke), Price (D-Orange)
+- Increase salaries for the employees of the North Carolina Highway Patrol
+- Link – https://ncleg.gov/BillLookUp/2023/H928
+- House Bill 929 – Highway Safety Omnibus/Addit’l Magistrates
+- Primary Sponsors – Logan, Belk (D-Mecklenburg), G.
+Brown (D-Pitt), Hawkins (D-Durham)
+- Increase safety on roads and highways in Mecklenburg along with the State of North Carolina by:
+- Increase number of Troopers in Mecklenburg
+- Increase the number of Magistrates in Mecklenburg
+- Increase fines for failure to stop for a school bus and increase what would count as evidence in those cases
+- Allow highway cameras to record
+- Have the NC Department of Transportation Metrolina Transportation Management Center in Charlotte open 24 hours, 7 days a week
+- Link - https://ncleg.gov/BillLookUp/2023/H929
+- House Bill 930 – COLA/State & Local Retirees/Funds
+- Primary Sponsors – Logan, Butler (D-New Hanover), Gill (D-Wake), Majeed (D-Mecklenburg)
+- Increase Cost-Of-Living Adjustments (COLA) for State and Local Government Retirees
+- Link – https://ncleg.gov/BillLookUp/2023/H930
+- House Bill 932 – Funds for Highway Patrol Fuel Station Upgrade
+- Primary Sponsors – Logan, Carney (D-Mecklenburg), Clampitt (R-Transylvania), Majeed (D-Mecklenburg)
+- Provide funds for maintenance upgrades at the Mecklenburg Highway Patrol Station in Huntersville
+- Link – https://ncleg.gov/BillLookUp/2023/H932
+- House Bill 933 – Fund Bulletproof Glass in State LEO Vehicles
+- Primary Sponsors – Logan, Clampitt (R-Transylvania), Greene (R-McDowell), A.
+Jones (D-Wake)
+- Provide bulletproof glass to State Highway Patrol and State Capitol Police vehicles
+- Link – https://ncleg.gov/BillLookUp/2023/H933
+- House Bill 957 – Home Warranty Regulation Reform
+- Primary Sponsors – Logan, Belk (D-Mecklenburg), T.
+Brown (D-Brown), Budd (D-Mecklenburg)
+- Place consumer protections around home service agreements (otherwise known as Home Warranties)
+- Link – https://ncleg.gov/BillLookUp/2023/H957
+- House Bill 958 – Workers Rights Act
+- Primary Sponsors – Logan, Autry (D-Mecklenburg), Harrison (D-Guilford), Roberson (D-Wake)
+- Strengthening the protections and rights of all North Carolina workers by:
+- Requiring Just Cause for Firings in North Carolina
+- Mandatory paid work breaks and paid meal periods
+- Eliminate the subminimum wage for tipped employees
+- Stop discrimination and retaliation for disclosing wage information
+- Repeal ban on public employee collective bargaining
+- Create an Ombud’s office to deal with potential mistreatment of contract employees in state government
+- Restore State and Local Government retiree medical benefits
+- Allow local municipalities to set their own minimum wage as long as it is at least the state and federal minimum wage
+- Allow local governments to set up and expand worker safety programs
+- Increase funding for worker safety inspections
+- Link - https://ncleg.gov/BillLookUp/2023/H958
+This site was paid for by Carolyn Logan for NC House 101.
+All contents copyright 2025, Carolyn Logan.

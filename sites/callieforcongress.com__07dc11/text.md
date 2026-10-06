@@ -33,10 +33,9 @@ Keep care close to home and stop families from driving hours for basic healthcar
 Back the growers, makers, builders, and shop owners who keep local economies moving.
 Fund the VA, honor service, and support the families doing care work every day.
 Upcoming events
-Schedule update
-The campaign calendar is being finalized.
-Check back soon or join the list for updates.
-Get campaign updates
+When
+Oct 8, 2026
+6:00 pm – 8:00 pm
 Take action
 Talk with neighbors face to face and help the campaign reach voters before ballots are cast.
 Sign up

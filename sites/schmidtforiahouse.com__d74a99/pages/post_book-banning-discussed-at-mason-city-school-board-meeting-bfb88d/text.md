@@ -1,0 +1,30 @@
+Book banning discussed at Mason City School Board Meeting
+Updated: Apr 5
+April 18, 2023 by the Globe Gazette
+The Mason City Community School Board heard from a group opposing what it says are obscene books in district libraries at its meeting Monday.
+Mason City resident Connie Dianda speaks in favor of banning books from the district's school libraries, citing pornographic content, at Monday's Mason City School Board meeting.
+Dianda admitted to the board she hadn't read most of the books she took issue with, but had read "reports" on them.
+Mason City resident Connie Dianda said she collected more than 200 local signatures to petition the school board to halt the purchase of books until they can be evaluated.
+She circulated lists she said include books currently available for students to check out in the district, and provided ratings based on criteria including “aberrant or deviant sexual behavior, inexplicit sexuality and gender ideology.”
+Upon being questioned by board member Lorrie Lala, Dianda conceded she had not read most of the books on the list.
+Other residents spoke out against banning books, the back and forth dominating the public comment section of the meeting.
+“This is not about banning books, this is about ginning up discrimination against marginalized groups,” said Richard Pierson of Mason City.
+Pierson said the Bible should be added to the list of books proposed to be banned, calling it a “rough piece of literature.”
+Richard Pierson of Mason City speaks in opposition to a proposed book ban within the Mason City School District on Monday.
+Dianda cited booklooks.org, a nonprofit group from Florida that ranks books based on “appropriateness for children and young adults” as her source for the books that should be evaluated.
+Also present were people circulating literature from Mothers of Liberty, a conservative group pressuring school boards and state legislatures across the country to implement more control over what students can access in public school libraries.
+Mason City parent Le Anne Clausen de Montes speaks against banning books at Monday's Mason City School Board meeting, stating her objections to allowing "white, nationalist, religious extremists to drive the policies of a public school."
+S.F 496, a bill passed by the Iowa Senate and currently being debated in the House, is anticipated to soon reach the governor’s desk and contains language pushed by “parents’ rights” groups.
+The bill would “establish a parent’s or guardian’s right to make decisions affecting the parent’s or guardian’s child,” and modify curriculum and school district libraries to “prohibit instruction related to gender identity and sexual orientation in school districts …kindergarten through grade six.”
+Although no action was taken, the administration said the district’s current policy gives parents and guardians the ability to opt students out of any material to which they object.
+“None of those books (on Dianda’s list) are required reading,” said Assistant Superintendent Bridgette Exman, who explained the district policy “gives parents and guardians the choice to opt out of any required reading, as well as policies in place that allow the community to challenge curriculum or books.”
+“These are family decisions,” said Exman.
+“If there is a family that does not want their child to read certain books or wants to make those restrictions, that’s not the school’s job, those are family decisions.”
+Other business
+In other business, the board voted to restructure Mason City Virtual Academy to fit under its alternative education program and eliminate virtual learning for grades K-6, making in-person learning the only option for elementary students.
+“Engagement of some students has been difficult; virtual academy has not been a good fit for a few students at this age level,” Superintendent Pat Hamilton said.
+He cited data that shows with only 11 students enrolled, one teacher retirement and the programs’ cost exceeding revenue, returning to in-person learning was “best for all students K-6.”
+Moving the virtual academy to alternative learning will help students with individualized instruction plans and credit recovery, things the administration says the alternative coordinators are already equipped to handle.
+The board also approved a tentative agreement with Mason City Area Education Association that would secure an increase in base pay for teachers, nurses, media specialists, guidance counselors, and social workers, and additional stipends for extracurricular activities.
+Approval to terminate the contracts of the district’s two remaining nursing staff, described as “probationary,” was agreed upon as well.
+The board last week terminated the contracts of all full-time nurses, agreeing to a plan that would see the nurses’ time cut in each of the buildings from a total of 320 hours per week to 259.

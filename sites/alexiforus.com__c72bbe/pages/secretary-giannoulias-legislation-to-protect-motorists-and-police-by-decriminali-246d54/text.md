@@ -1,0 +1,22 @@
+A measure initiated by Secretary of State Alexi Giannoulias to decriminalize having an item like an air freshener hanging from the rearview mirror, which often served as a pretext for traffic stops, passed the Illinois Senate 41-11 today.
+Under House Bill 2389, sponsored by State Rep.
+La Shawn Ford (D-8 th District) and State Sen.
+Christopher Belt (D-57th District), law enforcement would no longer have the authority to stop a motorist for simply hanging items like air fresheners, rosaries, or disability placards from their rearview mirror.
+This legislative proposal, which passed the Illinois House in March, follows through on a campaign promise Giannoulias made in 2021.
+Current Illinois law prohibits such items from hanging from a rearview mirror, or affixed to a windshield, on the grounds that they obstruct a motorist’s vision.
+Such unnecessary encounters over minor vehicle code offenses can lead to violent confrontations between police and motorists.
+Additionally, this arcane law can serve as a pretext for racially motivated traffic stops for minor infractions.
+“There is absolutely no data to support that pulling people over for an air freshener or a rosary hanging from their rearview mirror reduces violent crime or prevents accidents,” said Secretary Giannoulias.
+“Amending the current law will not jeopardize public safety; instead, it will result in greater equity on the road and improve relationships between police and community by eliminating pretextual traffic stops that disproportionately affect people of color.”
+“We need to do everything we can to reduce the need for police interactions with people for nonviolent and non-threatening violations,” said State Rep.
+Ford, the bill’s chief sponsor in the House.
+“There is no reason for police to pull over a vehicle just because they have an air freshener on their mirror or for many other minor infractions.
+Making this change in the law is too important to wait because it’s a safety issue for both the public and law enforcement.
+Law enforcement is overworked and understaffed.
+Springfield must use taxpayers’ resources wisely to catch the violent criminals that make all our communities less safe by repealing laws like the air freshener ban.”
+“This change is needed because this is a safety issue for law enforcement and the public,” said State Sen.
+Belt, the bill’s chief sponsor in the Senate.
+“No driver in Illinois should fear that they may be stopped or searched for something as minor as having a small item hanging from the rearview mirror.”
+Illinois is one of a handful of states with laws banning items from hanging from a rearview mirror.
+HB 2389 now heads to the Governor for his consideration.
+-#-

@@ -1,0 +1,29 @@
+Endorsements
+Local endorsements
+Justin Delong
+David Cotton
+William Jones
+Shirley Cross
+Amy Ingram
+Toni Strowenjans
+Lorena Garcia
+Mario & Alondra Luna
+Skyler Hughes
+Kim Johnson
+Randa Johnson
+Donald Ballard
+Janice Loden
+Kristy Mach
+Sara Dunning
+Alex Acevedo
+Britney Nelson
+Britney Hunter
+Nathan McCaleb
+Paige Brock
+Nancy Greene
+Jason Hyde
+Jason Phillips
+Adam Hughes
+Keith Shaver
+Dinah Simington
+Thomas Lauer

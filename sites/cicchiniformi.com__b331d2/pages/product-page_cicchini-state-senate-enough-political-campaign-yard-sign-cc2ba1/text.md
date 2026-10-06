@@ -1,0 +1,20 @@
+CICCHINI / State Senate / ENOUGH (Official political campaign yard sign of Philippe Cicchini for Michigan State Senate District 9)
+The logo that launched a historic campaign for State Senate in Michigan.
+Independents embrace ALL colors on the spectrum, and this bold yard sign reflects the commitment to include and represent everyone.
+This corrugated plastic yard sign speaks up without shouting.
+Bold red, white and blue lettering reads across both sides, making your support for Philippe Cicchini for Michigan State Senate visible from every angle.
+Lightweight yet sturdy, the 4mm matte plastic resists weather while the included aluminum stake holds the sign steady in lawns or garden beds.
+Made and printed in the USA and printed on both sides so your design remains readable as people pass by.
+Product features
+- 4mm corrugated plastic with matte finish for outdoor durability
+- Printed on both sides for visibility from either direction
+- Includes aluminum lawn stake (10" x 30") for easy installation
+- Available in portrait or landscape orientation and three sizes
+- Made and printed in the USA
+Care instructions
+- Wipe with a clean, dry cloth.
+If needed, use a clean cloth with water.
+Do not rub vigorously.
+Paid for by Philippe Cicchini for Michigan State Senate, P.O.
+Box 244, Troy, MI 48099.
+Proceeds benefit the campaign committee.

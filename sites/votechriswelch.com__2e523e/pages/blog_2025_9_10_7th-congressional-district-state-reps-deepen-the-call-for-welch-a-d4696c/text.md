@@ -1,0 +1,63 @@
+7th Congressional District State Reps Deepen the Call for Welch as State Central Committeeman
+CHICAGO – State Representatives who touch Congressman Danny Davis’ 7th Congressional District are strengthening the call for Welch to represent them and their constituents, shaping and building the state party.
+House Representative and Committeewoman Theresa Mah, State Representative Michael Crawford, State Representative Lisa Davis, and State Representative Yolonda Morris all endorse Speaker Welch.
+“We’ve seen firsthand the Speaker’s strength, vision, and ability to bring people together in the House,” said Rep.
+Morris.
+He’s more than a leader; he’s an inspiration for Democrats all across our state.
+His support reaches far beyond just the House; it lifts up our courts, county party, and every candidate fighting to make a difference.
+As the first Black Speaker, he is a powerful symbol of progress and possibility, showing what true representation looks like.
+For my district, West Side of Chicago, this kind of leadership isn’t just important, it’s essential.
+Our party and our communities need more leaders like him.”
+Speaker Welch has served as a collaborative leader since entering the House in 2013.
+Since becoming the first African-American Speaker to serve the state of Illinois, Welch has worked to ‘lift all boats’ in the Illinois Democratic Party.
+He has played a crucial role in shaping, fundraising, and inspiring local parties across Illinois.
+Welch’s House Dems Caucus is #1 in the country– being the only caucus continuing to make gains in flipping Republican strongholds and advancing Democratic values.
+Welch has opened the political committee Team Welch for 7th District State Central Commiteeperson; and has already collected and verified the required signatures for filing.
+Welch’s full endorsement list includes:
+Congressman Danny K.
+Davis
+Former Secretary of State Jesse White
+Democratic Party of Illinois Chair Lisa Hernandez
+Cook County Clerk Monica Gordon
+Bellwood Mayor Andre Harvey
+Broadview Mayor Katrina Thompson
+Hillside Mayor Joe Tamburino
+Maywood Mayor Nathaniel Booker
+River Forest President and Committeeperson Cathy Adduci
+Westchester President Greg Hribal
+State Representative and Committeeperson Aaron Ortiz
+State Representative Debbie Meyers-Martin
+State Representative Kam Buckner
+State Representative Lisa Davis
+State Representative Michael Crawford
+State Representative Margaret Croke
+State Representative Kelly Cassidy
+State Representative Kimberly DuBuclet
+State Representative Marcus Evans
+State Representative La Shawn Ford
+State Representative and Committeeperson Theresa Mah
+State Representative Yolonda Morris
+State Representative Jawaharial ‘Omar’ Williams
+1st Ward Committeeperson Laura Yepez
+2nd Ward Committeeperson Tim Egan
+3rd Ward Alderwoman and Committeeperson Pat Dowell
+4th Ward Alderman Lamont Robinson
+11th Ward Alderwoman Nicole Lee
+14th Ward Alderwoman Jeylú Gutiérrez
+15th Ward Alderman and Committeeperson Ray Lopez
+16th Ward Alderwoman and Committeeperson Stephanie Coleman
+18th Ward Alderman Derrick Curtis
+24th Ward Alderwoman and Committeeperson Monique Scott
+25th Ward Alderwoman and Committeeperson Byron Sigcho-Lopez
+26th Ward Alderperson Jessie Fuentes
+27th Ward Alderman Walter Burnett
+36th Ward Alderman and Committeeperson Gilbert Villegas
+37th Ward Alderwoman and State Central Committeewoman Emma Mitts
+42nd Ward Alderman and Committeeperson Brendan Reilly
+43rd Ward Alderman Timmy Knudsen
+43rd Ward Committeeperson Lucy Moog
+Cicero Township Village President and Committeeperson Larry Dominick
+Cook County Commissioner and 11th Ward Committeeperson John Daley
+DNC member Dan Hynes
+Former State Central Committeewoman Darlena Williams Burnett
+Chicago LGBQT Hall of Famer and Former Personal PAC President Terry Cosgrove

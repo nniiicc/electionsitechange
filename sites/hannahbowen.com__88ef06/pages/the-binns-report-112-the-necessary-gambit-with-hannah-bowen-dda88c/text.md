@@ -1,0 +1,3 @@
+As the BTA strike dragged on City Councilor At Large, Hannah Bowen, filed a “A Resolution in support of Funding Student and Education Success”.
+Although it was voted down (6 to 3), the next day the BTA ended the strike and the negations were concluded.
+Based on her “Day Job” in conflict resolution, this discussion explored “Why did it take so long?” & “How could the negation process be improved next time?” Also could the City Council exercise a different option to preclude a strike?

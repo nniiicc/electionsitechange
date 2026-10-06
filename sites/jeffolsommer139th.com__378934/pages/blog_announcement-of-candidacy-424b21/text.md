@@ -1,0 +1,14 @@
+Jeff Olsommer Announces His Candidacy for State Representative.
+Sterling – Dedicated to carrying on the tradition of providing outstanding public service to the residents of the 139th Legislative District, local small businessman, local elected official and dedicated community leader Jeff Olsommer announced his Republican candidacy to replace retiring State Representative Joe Adams.
+The 139th Legislative District includes: Part of Pike County consisting of Blooming Grove,Dingman, Greene, Lackawaxen, Milford, Palmyra, Shohola and Westfall Townships and Matamoras and Milford Boroughs, and part of Wayne County consisting of Cherry Ridge, Dreher, Lake, Lehigh,Palmyra, Paupack, Salem, South Canaan and Sterling Townships and Hawley Borough.
+“We live in a special place – a place where you can raise a family, build a business and count on your neighbor,” said Jeff Olsommer.
+“I became a township supervisor to serve my community and help protect our rural way of life.
+That is why the people of Wayne and Pike counties can trust me to use my proven experience, record of accomplishments and conservative values to make our communities better places to live, work and raise a family.”
+Jeff Olsommer continued by saying,
+“My priorities will be those of the people in Pike and Wayne counties – reducing taxes for our hardworking families and seniors on fixed incomes, enacting pro-growth policies to help rural Pennsylvania prosper, investing in our police to reduce crime,empowering parents to have more control over their children’s education, reducing the amount of government intrusion in our daily lives, defending the sanctity of human life and safeguarding our 2nd Amendment rights.
+Having family that works in public education I understand the value of quality education and the need for local control.
+“
+Active in his community, Jeff Olsommer serves as a Board Member of the Wayne Memorial Health Foundation and Chairman of the Sterling Township Board of Supervisors and the Sterling United Methodist Church Trustees.
+He previously served as a Wayne County Republican State Committee member and the former director of the Western Wayne Education Foundation, Wayne Economic Development Corporation and Southern Wayne Regional Chamber of Commerce.
+A lifelong resident of Wayne County, Jeff Olsommer is a graduate of Western Wayne High School and East Stroudsburg University.
+He lives with his wife, Kelli, in Sterling.

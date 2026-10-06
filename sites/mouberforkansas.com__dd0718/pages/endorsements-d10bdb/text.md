@@ -1,0 +1,11 @@
+Proudly Endorsed or Recommended by
+- Stand Up Blue Valley
+- Kansas NEA / KPAC
+- Game On For Kansas Schools
+- Moms Demand Action
+- KC BizPAC
+- Principles for Trusted Elections
+- AFL-CIO Tri-County Labor Council
+- Kansas AFL-CIO
+- Local 1290 LiUNA
+- Sheet Metal, Air, Rail and Transportation Workers

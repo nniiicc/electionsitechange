@@ -1,0 +1,22 @@
+2024 Endorsements
+- New York Working Families Party
+- New York State Public Employees Federation (PEF)
+- United Auto Workers (UAW) Region 9
+- Planned Parenthood
+- Eleanor's Legacy
+- Family Planning of South Central New York Action Fund
+- Capital Women
+- Sullivan County Democratic Committee
+- Ulster County Democratic Committee
+- Delaware County Democratic Committee
+- Chenango County Democratic Committee
+- Otsego County Democratic Committee
+- Middlefield Town Democrats
+- Schoharie County Democrats
+- Broome County Democrats
+- Moms Demand Action
+- NYS Federation of Democratic Women
+- New York State Nurses Association
+- National Institute for Reproductive Health Action Fund
+- SEIU Local 200United
+- Democratic Women of Broome County

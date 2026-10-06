@@ -1,0 +1,6 @@
+Jul 28, 2020
+In the closing weeks of the 2020 legislative session, it was apparent we were heading into a crisis of unprecedented proportions that would impact not only Idahoans’ health but also our economy, jobs, education system and every other facet of our lives.
+Businesses had...
+Jul 20, 2020
+On Monday, the Idaho Democratic leadership held a press conference to propose a slate of Democratic solutions that would address the impacts of the coronavirus pandemic and set the state on the path to a better future.
+Senate Democratic Leader Michelle...

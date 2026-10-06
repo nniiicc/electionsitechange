@@ -1,0 +1,21 @@
+Northern America (the U.S.) has been fighting since the 18th century over land to be conquered by Europeans and Central Americans, the Natives, SEVERAL, (though some tribes won wars alongside the colonists).
+They WON.
+Few Natives WON.
+France became an ally.
+War with African Americans, White abolitionist, the Spanish, Philippians, Chinese, Germans, British/English, Haitian, and two World Wars.
+They lost the war with the Soviet Socialist republics.
+We’re in the forth century of colonized existence yet the wars of the previous two Presidents persists (20 years, the Afghanistan War since September 11, 2001).
+The Biden-Harris administration withdrew troops in August 2021.
+Veteran and homelessness should not be two words in a sentence.
+Another slap in the face to the peace movement: A whopping 88-11 Senate vote on a $770 BILLION DEFENSE BUDGET!!!!
+| H.R. 450 | Preventing Crimes Against Veterans Act of 2019, as amended | [PDF] |
+| Added 02/01/2019 at 12:44 PM Updated 02/05/2019 at 04:26 PM Technical Correction | | |
+HB0221 / CH0090 (SB0665/ CH0091) Natural Resources – Healing Hunting and Fishing Fund – No–Cost Licenses and Stamps Delegate Thiam Approved by the Governor – Chapter 90 Environment and Transportation 2/02/2022 – 1:00 PM Education, Health, and Environmental Affairs
+HB0167 Commission to Establish a Maryland Women Veterans Memorial Delegate Bagnall In the House – Returned Passed Health and Government Operations Education, Health, and Environmental Affairs
+HB0237 (SB0365/ CH0069) State Government – Maryland Veterans Commission – Membership Delegate Palakovich Carr In the House – Returned Passed Health and Government Operations 2/08/2022 – 3:00 PM Education, Health, and Environmental Affairs
+HB0277 / CH0065 (SB0234/ CH0066) Public Schools – Purple Star Schools Program – Establishment Delegate Patterson Approved by the Governor – Chapter 65 Ways and Means 2/03/2022 – 1:00 PM Education, Health, and Environmental Affairs
+HB0279 / CH0072 (SB0654/ CH0073) Veterans Affairs – Communications, Outreach, and Advocacy Program – Veterans Advocacy and Education Act Delegate Rogers Approved by the Governor – Chapter 72 Health and Government Operations 2/08/2022 – 3:00 PM Education, Health, and Environmental Affairs
+HB0293 (SB0241) Behavioral Health Crisis Response Services – 9-8-8 Trust Fund Delegate Young, K.
+In the House – Returned Passed Health and Government Operations 2/02/2022
+HB0386 (SB0310) Anne Arundel County and City of Annapolis – Small, Minority, and Women-Owned Businesses Account – Local State of Emergency Delegate Jones, D.
+In the House – Passed Enrolled Ways and Means 2/09/2022 – 1:00 PM Budget and Taxation HB0400 Washington Suburban Sanitary Commission – Hiring and Promotion Preferences – Veterans and Their Spouses PG/MC 106-22 Prince George’s County Delegation and Montgomery County Delegation In the House – Returned Passed Environment and Transportation 2/15/2022 – 1:00 PM Finance 3/24/2022 – 1:00 PM

@@ -1,0 +1,130 @@
+September 25, 2026: Voter guide for Colorado Governor’s third-party candidates [By Havalin Haskell]
+https://www.cpr.org/2026/09/25/vg-2026-governor-third-party-voter-guide/
+September 3, 2026: Forest cuttings could be used for graphene [Jeff's Letter to the Editor - See Press Releases page for text] Re: “Save the foothills,” Aug. 30 opinion
+https://enewspaper.denverpost.com/shortcode/THE378/edition/b4282e3c-35
+July 31, 2026: Victor Marx announces pick for running mate in Colorado governor’s race
+https://www.kktv.com/2026/07/31/victor-marx-announces-pick-running-mate-colorado-governors-race/
+[Only Marx, Weiser, Peckman and their Lt.
+Governors are mentioned in this article]
+July 28, 2026: Greg Lopez will be on ballot as unaffiliated candidate for Colorado governor
+https://coloradonewsline.com/briefs/greg-lopez-qualifies-unaffiliated-candidate-colorado-governor/
+[Only Lopez, Weiser, Marx and Peckman are mentioned out of eight gubernatorial candidates on the ballot.]
+July 27, 2026: UPDATED: ICE notice points to possible parking contract in or near Englewood
+https://www.littletonindependent.net/englewood/article_0d1a2f74-f10f-4c56-a8e1-ab1ce5ab921b.html
+[Comments by Jeff Peckman featured]
+July 22, 2026: Weiser announces choice for lieutenant governor
+https://www.kktv.com/2026/07/22/weiser-announces-choice-lieutenant-governor/
+July 17, 2026: Denver Post - Letters to the Editor [Jeff Peckman's statement is #6]
+https://www.denverpost.com/2026/07/17/donald-trump-election-fraud-colorado-tina-peters/
+June 27, 2026: Primary Profiles: Interviews with the governor candidates [Transcript from KKTV 6.23]
+June 26, 2026: Reminders for Voters Ahead of Primary Election Day [Colorado Sec. of State Media Release]
+https://yellowscene.com/2026/06/26/reminders-for-voters-ahead-of-primary-election-day/
+June 23, 2026: Interview on KKTV (12 minutes)
+https://www.kktv.com/2026/06/23/primary-profiles-interviews-with-governor-candidates/
+June 23, 2026: Colorado voter guide: These are the candidates for the 2026 primary election this June
+https://www.denver7.com/primaries2026
+June 23, 2026: 2026 Primary Election Voter Guide [Corrected from June 9 to include Unity Party]
+https://kgnu.org/2026-primary-election-voter-guide/
+June 20, 2026: Did "Four Arse Men of the Epic Collapse" Hang GOP and Dems?
+June 18, 2026: Governor District Statewide — CO [Voter Guide]
+https://www.decodethevote.com/seats/co/governor-statewide
+June 17, 2026: KRDO 2026 Voter Guide
+https://krdo.com/2026-voter-guide/
+June 15, 2026: Yahoo News.
+Pueblo primary election ballots are arriving.
+Here’s what’s on them
+https://www.yahoo.com/news/politics/articles/pueblo-primary-election-ballots-arriving-090209980.html
+June 15, 2026: Your guide to Colorado's 2026 primary election
+https://www.ksut.org/your-guide-to-colorados-2026-primary-election
+June 11, 2026: Jeff Peckman Runs for Governor
+https://hyperlocalloop.com/jeff-peckman-runs-for-governor/?nocache=1782491428232
+June 11, 2026: What we learned from our questionnaire for Colorado primary candidates
+https://coloradonewsline.com/2026/06/11/questionnaire-for-colorado-candidates/
+June 11, 2026: Check your mailbox, primary ballots on their way
+https://worldjournalnewspaper.com/check-your-mailbox-primary-ballots-on-their-way/
+June 8, 2026: Candidate Q&A: Colorado governor
+https://coloradonewsline.com/2026/06/08/candidate-qa-colorado-governor/
+https://www.newsfromthestates.com/article/candidate-qa-colorado-governor
+June 8, 2026: Aspen Public Radio's 2026 Primary Election Guide
+June 7, 2026: Election 2026 - Craig Press
+https://www.craigdailypress.com/election-2026/
+June 7, 2026: Primary election ballots are coming to your mailbox.
+Here’s what you need to know.
+https://www.postindependent.com/news/colorado-primary-election-explainer/ [by Ali Longwell]
+https://www.summitdaily.com/news/colorado-primary-election-explainer/ [by Ali Longwell]
+June 6, 2026: Primary election ballots are coming to Grand County mailboxes.
+Here’s what you need to know.
+https://www.skyhinews.com/news/colorado-primary-election-explainer/
+June 6, 2026: Church Voter Guides - Colorado Unity Party [scroll down for Jeff Peckman answers]
+2026 Colorado Primary Gubernatorial Candidates Unity Party | Church Voter Guides
+June 6, 2026: Primary election ballots are coming to your mailbox.
+Here’s what you need to know.
+https://www.steamboatpilot.com/news/colorado-primary-election-explainer/ [by Ali Longwell]
+https://www.aspentimes.com/news/colorado-primary-election-explainer/ [By Ali Longwell]
+June 4, 2026: 2026 Primary Election Voter Guide
+https://www.ksjd.org/2026-06-04/2026-primary-election-voter-guide
+June 4, 2026: EIN Presswire - Boulder County prepares for June Statewide Primary Election
+May 30, 2026: Rampant Fraud in Colorado Election, Says Gubernatorial Candidate [Opinion]
+https://yellowscene.com/2026/05/30/rampant-fraud-in-colorado-election-says-gubernatorial-candidate/
+May 30, 2026: Colorado Newsline.
+Colorado Primary Election
+https://coloradonewsline.com/voter-guides/2026-colorado-primary-election/
+May 29, 2026: Colorado Gubernatorial Candidate - Unity Party’s Jeff Peckman
+By Rae Solomon, Colorado Public Radio
+https://www.cpr.org/2026/05/29/vg-2026-primary-election-colorado-governor-jeff-peckman/
+May 15, 2026: Pueblo Chieftain.
+Meet the 7 Candidates on Ballot for Colorado Governor
+[Nate Trela, Fort Collins Coloradoan]
+https://www.pressreader.com/search/all?query=peckman&in=ALL&popupArticleId=281505052852614
+May 6, 2026: Ballots set for June primary election
+https://www.pagosasun.com/stories/ballots-set-for-june-primary-election,135548
+May 1, 2026: Secretary of State Jena Griswold Certifies June 30 Primary Election Ballot
+https://www.sos.state.co.us/pubs/newsRoom/pressReleases/2026/PR20260501PrimaryBallot.html
+April 15, 2026: KOAA - "Candidates that Will Show Up on Your 2026 Primary Ballot"
+https://www.koaa.com/americavotes/colorado-candidates-that-will-show-up-on-your-2026-primary-ballot
+Below is a sampling of news excerpts, from thousands around the world, that resulted from my various campaigns since 2002.
+Current news is above.
+Campaign to Create an Extraterrestrial Affairs Commission, Denver, CO 2008-2010
+[Note: Congress, the White House, Pentagon, and NASA, all now have hearings, committees or offices dealing with this issue.
+Recordkeeping of UFO/UAP information was signed in law with the passage of the 2024 National Defense Authorization Act.
+The White House has recently instructed the Pentagon to release all of its files related to the UFO/UAP issue.
+Photo on the left is of Jeff being interviewed about UFOs and ETs on the Late Show with David Letterman, June 10, 2008]
+6/1/08 – An encounter that may look alien
+- “…The 2003 video, shown Friday during a news conference on the Auraria campus, continues to spark discussion.
+Nearly 14,000 people voted in a Denver Post online poll, and the story set page-view records on denverpost.com.
+Jeff Peckman, below, showed the video as part of an effort to encourage Denver to create an Extraterrestrial Affairs Commission.” – Denver Post
+6/07/08- In search of space aliens: His ideas are a mile high — and beyond ET panel backer won't let critics bring him down
+- "In person, Peckman looks and sounds like your favorite college professor, the one who could get the whole class debating novel solutions to the world’s problems.
+Tall and lanky with a full head of silvery hair and bright blue eyes, he favors button- down collars and gray suits and exudes a quiet intelligence mingled with a wry sense of humor." – from a 1600-word profile article by Lisa Ryckman, Rocky Mountain News, June 2008, former Managing Editor of ColoradoBiz Magazine and currently Associate Director of Communications at the National Conference of State Legislatures
+6/10/08 - Late Show with David Letterman, Season 15, Episode 130
+- Interviews of Mark Wahlberg, Jeff Peckman, and Alanis Morissette
+7/21/08 - Spirituality/Religion reporter for the Rocky Mountain News:
+- "No stereotype fits this boyish, 6-foot-5 thinker who combines the 'what-if?' wonder of a kid with the 1,000-yard stare of a quantum physics professor."
+5/25/10 - Season 1, Episode 5 of Ancient Aliens — titled “The Return” [Jeff Peckman interviewed]
+Mayoral Candidate, Denver, CO - 2011 [Endorsed by John McConnell (founder of the original Earth Day), Peter Boyles (popular Colorado radio host), and U.S.
+Senator Dean Barkley (former campaign manager of Governor Jesse Ventura).]
+4/11/11 Praised by rivals, 'UFO Guy' fights for relevance in Denver mayor's race - Fox 31 KDVR.com
+- "At the forum Tuesday, sponsored by environmental groups and focusing on conservation and sustainability, many of the candidates referred to Peckman's intelligence, some even asking to give their answers to questions before he did so as not to look less thoughtful by comparison when going after.
+...The following night, Peckman was not present at a "Candidate Survivor" forum organized by New Era Colorado that included the six candidates most often grouped as the "serious" or "viable" candidates in the field.
+At the end of that forum, the six candidates were each asked which of their competitors they would vote for if not themselves.
+It was a question they'd all been asked at least once before (trust me, I asked it); and it was a question the group once again struggled to answer openly.
+After Carol Boigon drew boos from the crowd for taking nearly a minute before flat-out refusing to answer, the other five candidates to follow all gave the same answer -- all five said they would vote for Peckman."
+"On Saturday at yet another candidate forum, this one including all 10 candidates, six of them picked Peckman when asked which one of them would be the most successful candidate to appear on the quiz show 'Jeopardy!' "
+4/8/11 Colorado Statesman - Denver mayoral hopefuls survive ‘biggest, baddest, sexiest’ debate of campaign season
+- "But if the six leading mayoral candidates made the pick — and were forbidden from voting for themselves — then UFO enthusiast Jeff Peckman would be running the city."
+Campaign to Reduce Crime by Reducing Societal Stress in Denver, CO 2003
+4/2003 Everyone's talking peace:
+- Jeff Peckman has not put a single penny into advertising for his Safety through Peace initiative.
+He hasn’t had to.
+The proposal, formally titled Initiative 101, has not only been the talk of the town but the talk of the nation." – Denver Daily News, 2003
+10/2003 KWGN, Denver
+- "Media outlets literally across the globe have wanted to find out about the ‘stress’ vote." – KWGN Denver, 2003
+2003 - The Daily Show with Jon Stewart Season 8, Episode 45 [per IMDb],
+- Interview of Jeff Peckman by Samantha Bee at Huston Lake Park in Denver
+Oregon’s Measure 27 to Label Genetically Engineered Food 2002
+I was the author, and liaison with safe food advocates who endorsed Measure 27.
+They included the Consumers Union, Center for Food Safety, Center for Ethics and Toxics, Democratic Party of Oregon, Friends of the Earth, Greenpeace U.S.A., Paul McCartney, Nature’s Path Foods, Oregon League of Conservation Voters, Oregon Physicians for Social Responsibility, Oregon Rural Action, Oregon Tilth, Organic Consumers Association, OSPIRG, Pacific Green Party, Sierra Club (Oregon Chapter), Union of Concerned Scientists , United Nations World Summit on Sustainable Development, United Natural Foods, , religious leaders, and many more.
+- "Measure 27 is the initiative of interest in the 2002 election" - Associated Press
+Including by: AARP Prime Time Radio, ABC News Radio with Sam Donaldson, ABC National News, AOL News, Associated Press, CBS Evening News with Dan Rather, CBS Morning Show, Chicago Tribune, Bill Hemmer (CNN American Morning), CNN Evening Headline News, Colorado Public Radio, Christian Science Monitor, Daily Show with Jon Stewart, David Letterman, Denver Daily News, Denver Post, Fox 31 Denver, Geraldo (Fox TV), Harper’s Magazine, History Channel, Jaime Maussan (Mexico), Kansas City Star, KBDI-TV, KCNC(CBS) 4 Denver, KCPQ Radio Seattle (Karel), Kieno Kammies (Capetalk, SA), KGO Radio San Francisco, KHOW Radio Denver (Peter Boyles, Tom Martino - The Troubleshooter), KMGH TV(ABC) Denver, Mike Rosen (KOA Radio Denver), KNRC Radio (Greg Dobbs), KRDO (TV), KTAR Radio Phoenix, KUSA TV (NBC) Denver, La Presse (Montreal), LA Times, Larry Elder (ABC Radio), Larry King, London Daily Telegraph, London Times, New York Times, NBC Nightly News with Tom Brokaw, Neil Cuvuto (Fox National TV News), NPR "Day to Day", NPR "Morning Edition", Reuters, Rocky Mountain News, Sheppard Smith (Fox TV), Shirley MacLaine, Thom Hartmann, UPI, USA Today, Vogue Magazine, Voice of America “Coast to Coast”, WABC Radio “Health Show” Albany, Wall Street Journal, Washington Times, Washington Post, WB2 TV Denver, Westword (Denver) and many more.
+We use cookies to analyze website traffic and optimize your website experience.
+By accepting our use of cookies, your data will be aggregated with all other user data.

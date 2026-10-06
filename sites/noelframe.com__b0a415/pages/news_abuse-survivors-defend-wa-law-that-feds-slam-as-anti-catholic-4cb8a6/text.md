@@ -1,0 +1,34 @@
+Abuse survivors defend WA law that feds slam as ‘anti-Catholic’
+By Shauna Sowersby for The Seattle Times • May 12, 2025
+Survivors of abuse by clergy members are defending a new Washington law against accusations from the U.S.
+Department of Justice that it is “anti-Catholic” and worthy of a federal investigation.
+Signed into law by Gov.
+Bob Ferguson on May 2, the new provision adds clergy to the list of professions required to report child abuse or neglect to law enforcement.
+It does not protect what people say in confession.
+The Catholic Church has long sought an exception for what priests hear in a confessional and say without it the law puts them at risk of excommunication.
+The DOJ says the law violates the First Amendment protection given to religious expression, referring to it as “anti-Catholic.” But those who were abused by clergy members are pushing back.
+“As people of many faiths, we are deeply disappointed that the DOJ and the Catholic Church see this as ‘anti-Catholic.’ It is not,” said Sharon Huling, a member of the Catholic Accountability Project and an advocate for survivors of clergy abuse.
+Huling added that similar laws in other states have not been struck down by courts, and the U.S.
+Constitution is clear about the right to practice religion “so long as the practice does not run afoul of ‘public morals’ or a compelling government interest.”
+“We would assert that covering up knowledge that a child is being sexually abused is amoral,” Huling said, “and we encourage all religious leaders to reconsider their policies in order that they too put the welfare of children first.”
+The sponsor of the legislation, Sen.
+Noel Frame, D-Seattle, said the DOJ’s argument that the law is “anti-Catholic” is “false on its face by any plain reading of the legislation.”
+“It just feels political in that regard because it is clearly not specific to the Catholic Church,” Frame said.
+In fact, she said, the law was crafted three years ago after she read an article in InvestigateWest detailing how Jehovah’s Witnesses covered up sexual abuse for decades in Washington.
+Frame added that one of her predecessors in the 36th legislative district, former Rep.
+Mary Lou Dickerson, introduced similar legislation decades ago and encouraged Frame, herself a survivor of childhood sexual abuse, to introduce the bill.
+Marino Hardin, a whistleblower regarding abuse within the Jehovah’s Witnesses, also pushed back on the Catholic Church and DOJ’s claims that the law is targeting Catholics.
+He said that Jehovah’s Witnesses, Latter-day Saints and Scientologists have used confessional privilege to argue internal investigations of abuse are similar to Catholic confessional.
+Therefore, if the Catholic confessional is exempt, so are internal investigations at other churches.
+Hardin also argued all other mandated reporters outlined in state statute such as therapists and doctors must report child abuse despite confidentiality rules.
+Hardin noted the law does not require clergy to testify in courtrooms.
+“The DOJ’s choice to describe this bill as ‘anti-Catholic’ is particularly frustrating, as the Catholic Church was never the target of this bill and have inserted themselves into the narrative,” Hardin said.
+“Regardless, the bill does protect Catholic children, as several Catholic victims that testified explained why they felt this would have protected them.”
+Still, others disagree with the new law and are grateful the DOJ is stepping in.
+Jean Hill, executive director for the Washington State Catholic Conference, said although she did not know much about the DOJ investigation, the organization was grateful.
+Hill and others who work for the organization have frequently testified against the bill at the Legislature since it was introduced several years ago.
+“We again support clergy being mandatory reporters, but our priests are not able to reveal what’s said in the confessional,” Hill said.
+“We’ve worked for the past three years to have that limited exception in the legislation, and had hoped that the state would recognize that the majority of states are able to have clergy mandatory reporters and keep an exception for those limited circumstances.”
+While many states designate clergy as mandated reporters, Washington now joins seven other states, such as New Hampshire, North Carolina and West Virginia, that do not have exemptions for confession.
+Correction: An initial version of this article mistakenly stated Sharon Huling and Marino Hardin are survivors of clergy abuse.
+Huling is an advocate for survivors and Hardin is a whistleblower.

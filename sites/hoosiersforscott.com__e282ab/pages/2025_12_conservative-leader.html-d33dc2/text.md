@@ -1,0 +1,1 @@
+Harrison County was the home of Frank O’Bannon, the last Democrat elected Governor of Indiana, but under Scott’s leadership the county GOP has turned Harrison County into a Republican stronghold with every single county and township office held by Republicans and President Donald Trump receiving over 72% of the vote in 2020 and 2024.

@@ -1,0 +1,1 @@
+Amid spending cuts and pending charges, McIver brings Newark home $1M for STEM Mar 3 1 min read https://www.nj.com/essex/2026/02/amid-spending-cuts-and-pending-charges-mciver-brings-newark-home-1m-for-stem.html

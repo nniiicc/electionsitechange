@@ -1,0 +1,106 @@
+Top Campaign Priorities
+We can grow responsibly, protect our communities, and plan for the future without asking local families to carry the burden.
+#1: Government Accountability & Reducing Corporate Influence
+Government should answer to voters not wealthy special interests and corporate money.
+- Strengthen transparency around independent political spending
+- Close coordination loopholes between campaigns and outside groups
+- Expand and modernize Minnesota’s Political Contribution Refund program
+- Increase disclosure requirements for major political expenditure
+- Increase transparency tied to large public subsidies and infrastructure projects
+- Support reforms that elevate grassroots donors and local voices
+- Opponents Approach:
+- Has not prioritized campaign finance transparency or anti-corruption reform legislation focused on reducing the influence of large political donors and outside spending groups.
+- Supports maintaining the current campaign finance framework rather than pursuing broader structural reforms to political spending and disclosure laws.
+- Has emphasized deregulation and business incentive policies while placing less focus on campaign finance accountability measures.
+#2: AI Datacenter - Protecting Our Communities While Planning for the Future
+Growth is coming but local families shouldn’t be left paying the bill.
+- Require corporations to cover infrastructure, grid, and water costs
+- No blank checks for large corporations
+- Independent third-party audits at every phase
+- Full public transparency before approvals
+- Local communities must have a real voice
+- Open to pausing expansion until safeguards are in place
+- Opponents Approach:
+- HF28 - As chief author of HF28, Shane Mekeland advanced legislation that reduces regulatory oversight to accelerate data center energy infrastructure, while my approach prioritizes requiring corporations to cover costs, ensuring transparency, and protecting local communities before expansion.
+- HF4153 - As chief author of HF4153, Shane Mekeland supported policies that ease water usage approvals and provide tax advantages for data centers, whereas I advocate for full public transparency, independent oversight, and ensuring corporations, not local families, bear the long-term costs.
+- HF4990 - As an author/coauthor of HF4990, Shane Mekeland backed expanded exemptions and incentives for data centers to encourage rapid development, in contrast to my position that growth should be paused or limited until strong safeguards, accountability, and community protections are in place.
+#3: Reliable Energy & Grid Security
+Reliable power isn’t optional and neither is protecting ratepayers.
+- Keep energy reliable and affordable
+- Support reviewing/lifting the nuclear moratorium
+- ONLY with:
+- Ratepayer protections
+- Transparent financing
+- Public oversight
+- Focus on grid resilience + affordability
+- Long term planning
+- Opponents Approach: Short-term, deregulation-first approach that risks long-term costs and instability.
+More
+Priorities
+- These decisions belong to patients and their doctors—not politicians.
+- Protect access to abortion and reproductive healthcare
+- Maintain Minnesota’s role as a state that respects personal freedom and bodily autonomy
+- Ensure government does not interfere in private medical decisions
+- Support access to contraception and maternal healthcare
+- Protect patient privacy and doctor-patient confidentiality
+Opponent’s approach: Supports greater government involvement in reproductive healthcare decisions and abortion restrictions.
+- Getting care shouldn’t depend on your zip code or your income.
+- Expand access to rural healthcare and telehealth services
+- Address workforce shortages so families can actually get care when they need it
+- Improve access to mental health services, especially for veterans and families
+- Require clear, upfront pricing so people aren’t hit with surprise medical bills
+- Lower prescription drug costs and increase transparency
+Opponent’s approach: Places greater emphasis on market-driven healthcare systems with fewer requirements around access, affordability, and network coverage protections.
+- Families shouldn’t be carrying the burden alone.
+- Lower everyday costs through energy efficiency and infrastructure
+- Expand access to affordable childcare, especially in rural areas
+- Increase transparency in healthcare pricing
+- Working families shouldn’t be subsidizing everyone else.
+- Ask the highest earners to contribute slightly more
+- Invest in schools, roads, and emergency services
+- Focus on tax fairness, not across-the-board cuts
+Opponent’s approach: Broad tax cuts regardless of income level, which can shift the burden onto local communities.
+- If projects come into our communities, the jobs should stay here.
+- Support apprenticeships and workforce pipelines
+- Promote fair wages and labor standards
+- Prioritize local hiring for local projects
+Opponent’s approach: Reducing regulations with less emphasis on wages, labor protections, and local hiring.
+- Taxpayer dollars should be protected.
+Period.
+- Strengthen oversight before money is lost
+- Modernize fraud detection systems
+- Enforce real consequences for misuse
+- Public safety starts with accountability and results.
+- Fully prosecute violent crime
+- Strengthen coordination with local law enforcement
+- Keep illegal firearms out of the hands of criminals
+- Promote responsible gun ownership
+- Service doesn’t end when the uniform comes off.
+- Expand rural access to mental health care
+- Improve job credential recognition
+- Ensure veterans and families receive the support they’ve earned
+- Government should answer to voters, not big money.
+- Strengthen transparency and disclosure
+- Enforce clear rules around coordination
+- Expand reforms that elevate everyday voices
+- Privacy isn’t optional, it’s a right.
+- Strengthen data privacy protections
+- Require warrants and due process protections
+- Set clear safeguards on surveillance technology
+- Protect individual liberties so long as they do not infringe on the rights and safety of others
+- Maintain accountability and transparency in government authority
+- Our communities need housing—but local families should have a fair shot at owning a home.
+- Support converting underused properties into housing
+- Reduce outdated zoning barriers where it makes sense locally
+- Support local builders and responsible development
+- Limit large-scale corporate and private equity purchases of single-family homes
+- Prioritize homeownership opportunities for individuals and families
+Opponent’s approach: Focus on reducing regulations and fewer restrictions on the housing market, without prioritizing safeguards to ensure local families can compete for homeownership.
+- Minnesota’s economy depends on legal workers, stable communities, and a functioning immigration system.
+- Support practical federal immigration reform that improves legal pathways and workforce stability
+- Oppose exploitation of undocumented labor that undercuts wages and labor standards
+- Support secure borders alongside fair and efficient legal immigration processes
+- Ensure employers follow labor laws and hiring standards fairly
+- Support immigrant families who contribute responsibly to our communities and economy
+Important Clarification: Immigration law is primarily federal authority.
+As a state legislator, my focus is on workforce stability, labor standards, public safety, and ensuring Minnesota communities are treated fairly.

@@ -1,0 +1,117 @@
+Home / Priorities
+The Priorities
+Where Monica Stands
+Learn more about Monica’s priorities and her approach to the issues affecting families across the 178th District.
+No slogans.
+No chaos.
+Just clear, evidence-based solutions for working families: public schools, grocery costs, property taxes, healthcare, public safety, and the health of our democracy.
+The Issues
+Monica's Positions on the Issues
+Political Gimmicks Aren’t Solving the Cost-of-Living Crisis
+Republican “Affordability” Plan: Shampoo, Prom Dresses, and Garden Hoses—Everything BUT Real Solutions
+While Pennsylvania families struggle with 30% grocery price increases, skyrocketing energy bills, and the cost-of-living crisis, House Republicans are offering temporary tax holidays on shampoo, prom dresses, and lawn rakes.
+The “Freedom Through Affordability” initiative is a masterclass in missing the point—tax breaks on shampoo and tuxedos won’t help families heat their homes or put food on the table.
+Why This Doesn’t Cut It:
+- Random political theater: Shampoo, gardening tools, prom supplies… Harrisburg Republicans are throwing everything at the wall except actual solutions.
+It’s not a plan; it’s a grab bag
+- Temporary gimmicks: Six-month tax holidays on personal care items expire while families still face year-round crises on energy, housing, and groceries
+- Misses the real drivers: A few cents off shampoo doesn’t touch the 30% jump in grocery prices, data center-driven energy costs, or corporate monopolies squeezing working families
+- Vague on substance: Republicans mention “temporary income tax relief” with zero details while refusing to regulate data centers, fight price gouging, or protect SNAP
+- No structural change: When families are choosing between heating and food, temporary sales tax breaks are an insult.
+No plan to replace the missing revenue
+Data Centers Are Growing Without Enough Accountability
+Data Centers: Common Sense Regulation Over Red Carpet
+Monica supports Pennsylvania’s economic growth, including union construction jobs, but won’t let Big Tech corporations drive up energy costs for working families.
+Data centers must be held accountable through strict transparency requirements, fair cost-sharing, and strong local input—just like Governor Shapiro’s GRID plan demands.
+Monica’s Position:
+- Require data centers to cover their own infrastructure and power costs—not pass them to residents
+- Mandate full transparency on energy and water usage through the Department of Environmental Protection
+- Give municipalities real input on siting decisions and sound/environmental standards
+- Support Governor Shapiro’s GRID plan requiring union jobs and environmental sustainability commitments
+Public Schools Are Underfunded and Teachers Are Stretched Thin
+Education: Fund Public Schools, Support Teachers
+As a teacher, Monica believes every Pennsylvania child deserves access to quality public education regardless of zip code or income, and that means fully funding our public school system.
+After the Commonwealth Court ruled the funding system unconstitutional, Democrats stepped up with increased state investment; now Monica will fight to sustain and expand that momentum while holding charter schools accountable.
+Monica’s Position:
+- Increase state funding for public schools to close the gap between high-income and low-income districts—the current 33% performance gap is unacceptable
+- Expand transparency and performance standards for charter schools and private education programs receiving public funds to ensure taxpayer dollars directly support student success.
+Support non-governmental pathways, such as tax-advantaged 529 savings and privately funded tax-credit scholarships, that assist families without drawing resources away from state public education budgets.
+- Address the teacher shortage crisis by increasing salaries, supporting certification flexibility, and making teaching an attractive career
+- Protect special education funding—costs have doubled while state/federal support has only increased 21%
+- Keep property taxes down by ensuring the state pays its fair share, not passing costs to working families
+Families Are Paying Too Much for Groceries
+Grocery Costs: Fight Inflation, Protect Food Assistance
+Grocery prices are up 30% since 2020 while wages have stayed flat, and tariffs and SNAP cuts are making it worse: 401,000 Pennsylvanians are about to lose food assistance they rely on.
+Monica will fight to protect the safety net, invest in food access, and hold corporations accountable for skyrocketing costs that squeeze working families.
+Monica’s Position:
+- Oppose Republican SNAP cuts and provide state funding to backfill the $800 million federal burden if necessary—no Pennsylvanian should go hungry
+- Support Governor Shapiro’s initiatives: free breakfast for all students, Food Bucks program (40-cent match for healthy foods), and Fresh Food Financing grants
+- Hold corporations accountable for price gouging—four chains now control over a third of U.S. grocery stores, driving up prices and killing small businesses
+- Expand access to fresh food in food deserts across urban and rural Pennsylvania through local purchasing programs and farm-to-school initiatives
+- Reject tariffs that increased tomato prices by 40% and made basics like bread, chicken, and beef unaffordable for working families
+- Invest in Pennsylvania agriculture and support farmers to strengthen local food systems and keep dollars in-state
+Rising Property Taxes Are Squeezing Homeowners
+Property Taxes: Fix It Right, Don’t Shift the Burden
+Harrisburg Republicans are pushing property tax elimination as a simple fix, but it’s a shell game—eliminating one tax just means raising sales taxes by 5% on everyone else while gutting school funding.
+Monica supports real solutions: expanding relief for seniors and vulnerable residents, making the state pay its fair share for schools, and tackling the actual cost-of-living crisis through corporate accountability and lower energy costs.
+Monica’s Position:
+- Expand the Property Tax/Rent Rebate program—it’s delivered $8.6 billion in relief to seniors and vulnerable residents since 1971; Governor Shapiro’s expansion is working
+- Make the state invest fairly in schools from the start—Pennsylvania ranks 45th nationally in percentage of state funding, leaving communities $5.4 billion short
+- Pass constitutional public school funding reform (like HB 2370) so every child’s education doesn’t depend on their neighborhood’s property values
+- Address real cost-of-living drivers: corporate price gouging, energy costs, and housing accessibility—not tax gimmicks that help homeowners while hurting renters and working families
+- Support targeted relief programs over broad elimination that benefits the wealthy while straining communities already struggling to fund schools
+Mental Health Care Is Still Too Hard to Access
+Mental Health: Break the Stigma, Invest in Care
+One in five Pennsylvanians experience mental illness each year, yet stigma and affordability keep people from getting help, costing the state $12 billion in lost economic output and claiming 2,000 lives to suicide annually.
+Monica believes mental health is healthcare and will fight to expand access, support youth and parents, and tackle the opioid crisis with real investment and recovery pathways.
+Monica’s Position:
+- Increase state funding for mental health services—build on Governor Shapiro’s $40 million increase and expand school-based mental health support
+- Support mental health days and trauma-informed training in schools so teens can access care without shame
+- Remove insurance barriers: eliminate prior authorization requirements for mental health medications and end out-of-network denials that force Pennsylvanians to pay more
+- Address maternal mental health through postpartum screenings and support programs that reduce black maternal mortality
+- Tackle the opioid crisis with evidence-based solutions
+- Support workplace mental health initiatives and ensure managers have resources to support struggling employees
+- Expand access to therapy, medication management, and inpatient services—especially in underserved communities where county mental health funding has dropped $150 million since 2017
+First Responders and Prevention Programs Need More Support
+Safe Communities: Fund Prevention, Protect First Responders
+Pennsylvania’s volunteer firefighters have declined 87% while saving the state $10 billion yearly, and gun violence is down 42% thanks to proven community intervention programs—but demand far exceeds funding.
+Monica will fight for sustained investment in first responders, evidence-based violence prevention, domestic violence services, and gun safety measures that keep communities safe without relying on mass incarceration.
+Monica’s Position:
+- Fully fund the Fire Company and Emergency Medical Services Grant Program—volunteer firefighters save us billions and deserve recruitment, retention, and equipment investment
+- Support first responders’ mental health: expand PTSD workers’ compensation and ensure access to counseling for the trauma of their work
+- Increase community violence intervention funding to at least $80 million annually—every dollar invested saves $4 in gun violence costs, and it’s working (42% drop statewide)
+- Expand access to domestic violence services, shelters, and legal advocacy across all 67 counties—119 Pennsylvanians killed last year, and many requests go unmet
+- Close gun loopholes: universal background checks for all firearm sales, extreme risk protection orders (80% voter support), and restrictions on ghost guns and Glock switches
+- Strengthen firearm restrictions for domestic violence offenders, including dating partners not currently covered
+Lack of Common-Sense Gun Safety Laws Put Lives at Risk
+Gun Safety: Common Sense Reforms, Respect for Responsible Ownership
+As a gun owner, Monica understands Pennsylvania’s hunting heritage and the responsibility that comes with firearm ownership.
+She supports evidence-based measures that responsible gun owners already follow and largely support—keeping firearms out of the hands of criminals, abusers, and people in crisis while protecting hunting, sport shooting, and home defense.
+Gun violence kills 1,789 Pennsylvanians annually, and more than half of those deaths are suicides—a preventable crisis.
+Monica will fight for the smart policies and sustained funding that are already working to save lives.
+Monica’s Position:
+- Pass Extreme Risk Protection Orders (ERPOs)—72% of gun owners nationwide support these because people in crisis shouldn’t have access to firearms.
+Connecticut’s ERPO law reduced firearm suicides by 13.7%; Indiana’s prevented one suicide per 10 removal orders
+- Require universal background checks for all firearm sales—responsible gun owners support this; it doesn’t affect lawful ownership
+- Mandate secure firearm storage at home.
+Safe storage is common sense that responsible owners already practice; 79% of youth gun suicides involve family-owned guns, and safe storage laws directly prevent these deaths
+- Expand mental health crisis services and the 988 Suicide and Crisis Lifeline so people in crisis get help, not guns
+- Ban ghost guns and Glock switches—these aren’t used for hunting or sport shooting; they enable criminals and shouldn’t be on our streets
+- Strictly enforce weapons relinquishment from domestic violence offenders.
+Currently only 75% of orders are enforced
+- Close loopholes for dating partners and misdemeanor abusers not currently prohibited from owning firearms
+- Fully fund community violence intervention programs.
+Evidence shows they’re working: 46.5% drop in gun homicides since 2022
+The contrast
+A Different Way to Represent Central Bucks
+| The Issue | The Problem | Monica’s Approach |
+|---|---|---|
+| Public Schools | Underfunding and finger-pointing | ✓ Fair, predictable funding so every child succeeds |
+| Grocery Costs | Corporate price gouging, tariffs | ✓ Hold monopolies accountable, protect SNAP, expand food access |
+| Property Taxes | Rising bills, no real relief | ✓ Commonsense relief tied to fixing school funding |
+| Healthcare | Costs climb, families squeezed | ✓ Lower costs and protect access for all ages |
+| Public Safety | Block gun safety measures, no commitment to violence prevention funding | ✓ Fund prevention, support first responders, gun safety that works |
+| Tone | Chaos and division | ✓ Facts, integrity, and listening first |
+Join the campaign
+Practical leadership starts with neighbors like you
+Whether you’ve voted red, blue, or sat one out — if you want steady, honest representation for District 178, there’s a place for you here.

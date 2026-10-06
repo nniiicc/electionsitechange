@@ -1,0 +1,24 @@
+home
+plan
+non-Profit Initiatives
+about
+why the 7th?
+why me?
+contact
+blog
+Store
+volunteer
+donate
+home
+plan
+non-Profit Initiatives
+about
+why the 7th?
+why me?
+contact
+blog
+Store
+volunteer
+donate
+Blog
+Why do we expect the most from those who have the least?

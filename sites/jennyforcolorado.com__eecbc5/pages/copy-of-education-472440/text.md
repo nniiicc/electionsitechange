@@ -1,0 +1,26 @@
+Supporting Older Adults with Dignity & Care
+I deeply understand the challenges older adults and their families face when navigating our state’s care system.
+When I was in college, I watched my mom, who did not have access to paid family leave, retire early to take care of my her mom.
+Years later, when my 91-year-old grandmother could no longer live safely alone at home, she moved in with my family.
+From arranging home health services and oxygen support to trying to find affordable, safe, and dignified assisted living options, we encountered one roadblock after another.
+These experiences fueled my work on Northglenn City Council to establish one of the most generous municipal paid family leave programs in the state and continues to drive my commitment to advocating for policies that ensure our loved ones can age with dignity, independence, and respect.
+Proudly endorsed by: SEIU Local 105, National Association of Social Workers and Nurses Vote.
+As your representative, you can count on me to:
+- Support direct care workers and stabilize the caregiving workforce.
+- Fight for fair job opportunities and protections against age discrimination.
+- Ensure proper oversight of nursing home administrators.
+- Increase funding for senior services, housing, and food support.
+- Prioritize senior health programs, transportation, and caregiver assistance.
+My Sponsored Legislation
+SB23-261 Direct Care Workforce Stabilization Board
+The bill creates the Direct Care Workforce Stabilization Board in the Department of Labor and Employment board to make recommendations for direct care working standards.
+SB23-058 Job Application Fairness Act
+This bill prohibits employers from inquiring about a prospective employee’s age, date of birth, and dates of attendance at or date of graduation from an educational institution on an employment application.
+SB23-155 Sunset Continue Nursing Home Administrators
+This bill continues the regulation of nursing home administrators, requires administrators to undergo a Colorado Adult Protective Services data system (CAPS) check, and authorizes the board to discipline a license holder for failing to respond to a complaint.
+HB23-1228 Nursing Facility Reimbursement Rate Setting
+This bi-partisan bill updated Medicaid nursing facility core per diem reimbursement rates and the Medicaid nursing facility supplemental payments and requires an independent accountant to annually audit facilities’ financial statements to ensure greater transparency and accountability.
+HB23-1158 Colorado Commodity Supplemental Food Grant Program
+This bi-partisan bill created a grant program to provide supplemental food to low-income older adults.
+SB24-040 State Funding for Senior Services
+This bill requires that every three years the Department of Human Services (CDHS), the Office of State Planning and Budgeting (OSPB), and Area Agencies on Aging must review the adequacy of the appropriation for state funding for senior services and report the findings to the General Assembly by November.

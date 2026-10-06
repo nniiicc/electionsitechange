@@ -1,0 +1,32 @@
+- Board of Directors, Manna Food Center
+- Member, Joint Task Force on Workplace Fraud, Maryland State Government
+- Past Member of the Board of Directors, Carl M.
+Freeman Foundation
+- The Freeman Foundation distributed over $1,000,000 each year to deserving nonprofit organizations primarily in Montgomery County
+- Past Vice-Chair, Mid-County Recreation Advisory Board
+- Past Member of the Board of Governors, The Chelsea School
+- The Chelsea School serves students with learning disabilities
+- Past Board Member, Project Change (Olney, MD)
+- Olney Theatre Center
+- Tanterra Homeowners Association
+- Member, Montgomery County NAACP
+- Member, NARAL
+- Associate Member, Greater Colesville Civic Association
+- Past Member, Fair Oaks Homeowners Association
+- Committee Member, Montgomery County Democratic Party (Democratic Central Committee)
+- Executive Board, District 14 Democratic Club
+- Precinct Official
+- Chair, Legislative District 14 Democratic Slate
+- President, Montgomery County Young Democrats
+- St.
+Thomas Aquinas College Alumni Hall of Fame, 2011
+- Legislative Achievement of the Year, Maryland Consumer Rights Coalition, 2012
+- Public Service Award, Olney Theatre Center, 2014
+- Outstanding Legislative Leadership Award, The Arc of Maryland, 2015
+- Advocate of the Year, PACT: Kennedy Krieger Institute, Fighting for Families with Developmental Disabilities, 2015
+- The Legislative Award, The Maryland State Medical Society, “For tireless efforts protecting and improving Medicaid on behalf of the patients and physicians of Maryland”, 2015
+- Legislative Champion, Maryland Association of Community Services, “Making A Difference In The Lives Of Marylanders With Developmental Disabilities”, 2015
+- Outstanding Legislative Leadership Award, The Arc of Maryland, 2016.
+- Outstanding Legislative Leadership Award, The Arc of Maryland, 2017.
+- Outstanding Legislative Leadership Award, The Arc of Maryland, 2018.
+- 2018 Legislative Champion, Women Legislators of Maryland.

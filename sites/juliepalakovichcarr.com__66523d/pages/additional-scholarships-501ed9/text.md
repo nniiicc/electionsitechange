@@ -1,0 +1,16 @@
+Additional Scholarships
+- Senator Cheryl Kagan Legislative Scholarship—open to residents of District 17
+- Delegate Ryan Spiegel Legislative Scholarship—open to residents of District 17
+- Delegate Joe Vogel Legislative Scholarship—open to residents of District 17
+- Guaranteed Access Grant—a need-based grant from the state of Maryland that provides 100% financial assistance
+- Educational Assistance Grant—a need-based grant from the state of Maryland
+- Scholarships from the state of Maryland
+- Community College Promise Scholarship—a last dollar scholarship for community college students, of up to $5,000 to cover any remaining tuition and mandatory fee expenses after federal and state financial aid has been applied
+- Izaak Walton League of America Conservation Scholarship—for future natural resource managers and professionals
+- Army Reserve Minuteman Scholarship—full-ride scholarship in exchange for part-time service as an officer in the Army Reserve after graduation
+- Bernie Scholarship Awards Program—provides financial assistance for college or workforce development training programs to residents of Montgomery County who are very low-income and live in subsidized housing
+- Esperanza Education Fund—for students from Maryland, Virginia, and Washington, DC who are immigrants or the children of immigrants
+- John T.
+McCraw Scholarship—for blind students who exhibit academic achievement, community involvement, and leadership.
+- Central Scholarship—provides scholarships and interest-free loans
+- WSSC Water Commissioners’ Engineering Scholarship—open to undergraduate or graduate engineering students

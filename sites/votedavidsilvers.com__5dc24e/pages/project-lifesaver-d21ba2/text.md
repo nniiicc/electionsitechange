@@ -1,0 +1,17 @@
+Proud Ambassador for Project Lifesaver International
+David Silvers is proud to serve as an Ambassador for Project Lifesaver International, an organization that works with first responders to help quickly locate individuals with cognitive conditions who may wander.
+Through specialized training and proven technology, Project Lifesaver helps protect vulnerable children, seniors, and adults while giving families and caregivers peace of mind.
+As an Ambassador, David is committed to raising awareness and supporting this lifesaving mission to help bring loved ones home safely.
+David Silvers: Proud Ambassador for Project Lifesaver International
+David Silvers is proud to serve as an Ambassador for Project Lifesaver International, an organization dedicated to protecting individuals with cognitive conditions who are at risk of wandering and helping bring them safely home.
+For David, this mission is personal and closely connected to his longstanding commitment to protecting vulnerable individuals and supporting the families and caregivers who advocate for them every day.
+Project Lifesaver works with law enforcement, fire and rescue agencies, and other public safety organizations to provide specialized training, technology, and proven methods designed to help quickly locate individuals who may wander due to autism, Alzheimer’s disease, dementia, Down syndrome, and other cognitive conditions.
+As a Project Lifesaver Ambassador, David is committed to raising awareness of these lifesaving resources, strengthening partnerships between families and first responders, and helping ensure communities have the tools they need to protect their most vulnerable residents.
+David has also participated in the Project Lifesaver International Conference, joining first responders, advocates, families, and community leaders from across the country to discuss ways to strengthen public safety and better serve individuals with cognitive conditions.
+“When a vulnerable child, senior, or loved one goes missing, every minute matters.
+Project Lifesaver gives families hope and gives our first responders another tool to help bring their loved ones home safely.
+I am incredibly proud to serve as an Ambassador and support this important mission.”
+— David Silvers
+Bringing Loved Ones Home
+Project Lifesaver’s mission represents the kind of public service David believes in: bringing people together, embracing proven solutions, and making a meaningful difference in the lives of Florida families.
+Learn more about Project Lifesaver International and its Ambassador Program.

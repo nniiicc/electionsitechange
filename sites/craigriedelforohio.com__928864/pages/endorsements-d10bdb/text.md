@@ -1,0 +1,22 @@
+ENDORSEMENTS
+Hardin County Sheriff Keith Everhart
+Ottawa County Sheriff Steve Levorchick
+Seneca County Sheriff Fred Stevens
+Henry County Commissioner Jeff Brubaker
+Ohio Senate President Pro Tempore, Bill Reineke (R-Tiffin)
+Ohio Senate Majority Floor Leader, Theresa Gavarone (R-Bowling Green)
+Ohio Senate Majority Whip, George Lang (R-West Chester)
+State Senator Susan Manchester (R-Lakeview)
+State Senator Mark Romanchuk (R-Ontario)
+Ohio Value Voters
+ABC of Ohio
+AFP-Ohio
+Ohio Conservatives PAC
+Right to Life Action Coalition of Ohio
+Ohio Right to Life PAC
+Greater Toledo Right to Life
+Ohio Gun Owners “A” rating
+NRA “A” rating
+Buckeye Firearms Association “A” rating
+Friends of Craig Riedel · 1246 Hilton Head Ct, Defiance, OH 43512
+PAID FOR BY FRIENDS OF CRAIG RIEDEL

@@ -1,0 +1,3 @@
+Release: New Democrat Coalition Action Fund Endorses Sarah McBride for Congress
+Press Release
+Caucuses Representing Nearly Every Democrat in the House of Representatives Have Endorsed McBride Wilmington, DE— Congressional candidate for Delaware’s at-large district and State Senator Sarah McBride has been endorsed by the New Democrat Coalition Action Fund …

@@ -1,0 +1,6 @@
+District 14 is one of the fastest-growing areas in Idaho.
+Scott Grow has made sure the roads keep up.
+In recent sessions, Scott fought for and secured funding to widen Highway 16, Highway 44, and Chinden Blvd — and to extend Highway 16 to I-84.
+He helped pass a $1.25 billion state highway appropriation and $200 million for local highways.
+Those projects are underway.
+Scott has also prioritized Highway 55, Highway 20/26, and the Highway 16 corridor from Emmett to Highway 44 — a critical need for Gem County residents.

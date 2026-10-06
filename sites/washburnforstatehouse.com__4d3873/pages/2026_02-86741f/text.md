@@ -1,0 +1,13 @@
+by Dale Washburn | Feb 23, 2026 | News
+The Georgia House of Representatives reconvened on Tuesday, February 17, 2026, to begin the sixth week of the legislative session following the President’s Day holiday.
+This week marked an important milestone in our work under the Gold Dome.
+By the end of the week, we...
+by Dale Washburn | Feb 17, 2026 | News
+On Monday, February 9, we returned to the State Capitol to kick off the fifth week of the legislative session.
+We passed and adopted a total of 23 bills and resolutions.
+As the legislative session continues, our days on the House floor will get busier and longer as we...
+by Dale Washburn | Feb 10, 2026 | News
+The Georgia House of Representatives returned to the Gold Dome on Monday, February 2, 2026, for Legislative Day 10 as the General Assembly entered a busy fourth week of legislative activity.
+Now more than a quarter of the way through the session, momentum continues to...
+by Dale Washburn | Feb 2, 2026 | News
+Following “budget week,” the Georgia House of Representatives began the third week of the 2026 legislative session on Monday, January 26, with a pro forma session due to Governor Brian Kemp’s State of Emergency declaration after Winter Storm Fern swept across much of...

@@ -1,0 +1,39 @@
+I opposed the proposed 2019 MBTA fare increases.
+We need the T for economic development, to help relieve congestion on our roadways, for social justice, economic justice, and environmental justice, and because we must sharply decrease our carbon pollution emissions.
+Increasing the price of subway, bus, ferry, and commuter rail service with no corresponding improvement in service is antithetical to achieving any of those objectives.
+I appreciate that the MBTA Fiscal and Management Control Board ultimately protected seniors, young people, and bus riders from the fare increases, and recognize the need for additional operating budget and support increased revenue.
+But new revenue should not come solely on the backs of the riders, and fares should not increase without an improvement in service.
+On Wednesday February 27, I spoke against the proposed fare increase at an MBTA public hearing.
+My comments were picked up by several news outlets.
+Since then, service quality has continued to decline, with two subway derailments just weeks before the fare increase.
+[youtube https://www.youtube.com/watch?v=UdsB3MkQAZs&w=560&h=315]
+MBTA fare hikes in effect amid ongoing issues with service
+NBC Boston, 7/1/2019
+Brookline T riders: fare hikes unfair
+Brookline Tab, 7/1/2019
+MBTA fare hikes protested By politicians
+Brookline Patch, 7/1/2019
+MBTA raises fares despite public opposition
+Spare Change News, 3/14/2019
+MBTA Board approves fare increase
+NECN’s The Take with Sue O’Connell, 3/11/2019
+Facing backlash, the MBTA just raised fares 6 percent
+Boston Magazine, 3/11/2019
+Proposed ‘T’ hikes meet with outcry from commuters, elected officials
+Lynn Journal, 3/9/2019
+Legislators fight MBTA fare hikes
+Worcester Telegram, 3/3/2019
+MBTA Riders Speak Out Against Price Hikes
+North End Waterfront, 3/1/2019
+This State Rep used a can of AriZona Iced Tea to make a point about why the MBTA shouldn’t raise fares
+Boston Globe, 2/28/2019
+T riders: Don’t hike fares
+Boston Herald, 2/28/2019
+AriZona Iced Tea and an Argument Against Raising MBTA Fares
+Boston Magazine, 2/28/2019
+Proposed T fare hikes get pushback from community at hearing
+WBUR, 2/28/2019
+Riders Push Back Against MBTA Fare Increase Proposal
+Brookline Patch, 2/28/2019
+Boston city councilors want hearing on withholding payment to MBTA
+WCVB Channel 5, 2/27/2019

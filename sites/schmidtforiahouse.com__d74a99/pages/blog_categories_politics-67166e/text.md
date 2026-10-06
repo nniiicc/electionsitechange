@@ -1,0 +1,23 @@
+top of page
+All Articles
+Campaign Blog: 99 Days and I need your help
+by Alexander Schmidt It's ninety nine days until the general election, and I am asking for your support to help send me to the Iowa House of Representatives.
+If you live in the 60th district, (here's a handy map if you're unsure) there are three steps you can take the absolute MOST effort to support me, ranked in order of importance: Vote for me, either by casting an early/absentee ballot or on Election Day (Nov 3).
+If you're able, make a donation to my campaign so you can he
+Jul 273 min read
+Campaign Blog: Independence Day
+by Alexander Schmidt, candidate for Iowa House of Representatives District 60 It's July 5, and I hope everyone had a safe and happy Independence Day!
+I'm encouraged by all the patriotism that was shown, and a lot of the genuinely thoughtful conversations I have been having with voters are making me believe a large turnout is headed our way this November.
+I had a great time with the Mitchell County Dems as we marched proudly in the Osage Independence Day Parade.
+It was excelle
+Jul 56 min read
+Campaign Blog: Schmidt earns Iowa Federation of Labor endorsement
+Securing jobs for North Iowans, ensuring their right to a living wage and for a safe and equitable workplace will be my priority as your legislator.
+May 153 min read
+Alexander Schmidt announces run for Iowa House District 60
+Republished from KAAL-TV (January 7, 2026) (ABC 6 News) – A Democratic newcomer is announcing his candidacy for the Iowa House of Representatives.
+On Wednesday, January 7th, Alexander Schmidt announced his candidacy for Iowa House District 60.
+Schmidt, a 32-year-old native of Mitchell County, is running for the Democratic nomination.
+In a release announcing his candidacy, he said he’s running because he’s “tired of younger, progressive Iowans like myself being shut out of the
+Mar 121 min read
+bottom of page

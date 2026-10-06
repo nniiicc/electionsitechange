@@ -1,0 +1,16 @@
+ABOUT TOM
+With over 26 years of service in the United States Air Force, retiring as a Colonel, I bring a wealth of leadership experience to the table.
+As a combat pilot and squadron commander, I've faced challenges head-on and led teams to success in high-pressure situations.
+My tenure as a senior leader educator at the US Army War College further honed my strategic thinking, policy making, and decision-making skills.
+In the private sector, I've served as a construction project manager in the energy industry, overseeing complex projects with precision and efficiency.
+My role as Vice President of Construction Management at UniversalPegasus International equipped me with the skills necessary to navigate the intricacies of complex policy-making and governance.
+I am deeply rooted in my community and have a long history of civic engagement.
+From serving on the Waseca City Planning Commission to participating in the Waseca County Planning Commission, I have worked to shape the future of our local area.
+As a proud member of the American Legion Post 228 and VFW Post 1642, I have honored our nation's veterans and their sacrifices.
+Additionally, my involvement in organizations like the Knights of Columbus #2768 and the Waseca Lakes Association reflects my commitment to building strong, vibrant communities
+In 2023 and now in 2024, I am privileged to serve and as the Chairman of LakeFest, our community celebration of Independence Day and the values our forefathers created for us to share while enjoying the beauty of our parks, lakes, and strengthening our community bonds.
+I am a graduate of the University of Minnesota’s Carlson School of Management, with a B.S. in Business Administration, a graduate of Embry-Riddle University with a M.S. in Aeronautical Sciences, a US Air Force Air Command and Staff College graduate with a M.S. in National Securities Studies, a US Army War College graduate with a M.S. in Strategic Studies, and a graduate of the highly selective National Security Policy Program.
+Jeanne is active in the community as a member of the Waseca Park Board, American Legion Auxiliary, the Exchange club (Director and Treasurer), and the Catholic Daughters of the Americas (Treasurer).
+In addition, she mentors our youth as the Head Swim Coach for our local area community education program.
+Jeanne and I continue to be energized by our engagement with our fellow Minnesotans who want better government, not more government.
+We feel called to serve again in order to create better government for all Minnesotans.

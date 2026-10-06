@@ -1,0 +1,35 @@
+Make Sure To Cast Your Ballot!
+My Endorsements For Tomorrow’s Primary Election
+There are so many incredible people running for office this year, and I’m thankful for each and every person that stands up and does their part to help improve this place we all call home.
+Today is our primary election here in Washington, and it’s important that you cast your ballot and make your voice heard.
+I’m proud to endorse a number of women and men who I know will be incredible leaders in Olympia, and Washington D.C.
+They deserve our support, and I hope they can count on you today for our primary election.
+In my career working in Washington State, many of these candidates carried the issues I brought to them with consideration and balance and helped to move them forward.
+I am honored to provide my endorsement to the following candidates, as I know they are committed to ensuring Washington State continues to be the wonderful place we all call home.
+For more information on how to cast your vote, check out the Washington Secretary of State’s website here.
+Debra is endorsing the following candidates in the Washington State primary election:
+All photos were taken in 2019 or earlier.
+Suzan DelBene for the 1st Congressional District
+Rick Larsen for the 2nd Congerssional District
+Beth Doglio for the 10th Congressional District
+Suzanne Woodard for the 10th Legislative District State Representative
+Dave Paul for the 10th Legislative District State Representative
+Helen Price Johnson for the 10th Legislative District State Senator
+Zack Hudgins for the 11th Legislative District State Representative
+Tanisha Harris for the 17th Legislative District State Representative
+Mari Leavitt for the 28th Legislative District State Representative
+Steve Kirby for the 28th Legislative District State Representative
+T’wina Nobles for the 28th Legislative District State Senator
+Jamila Taylor for the 30th Legislative District State Representative
+Alicia Rule for the 42nd Legislative District State Representative
+Sharon Shewmake for the 42nd Legislative District State Representative
+Frank Chopp for the 43rd Legislative District State Representative
+Jay Inslee for Governor
+Bob Ferguson for Attorney General
+Gael Tarlton for Secretary of State
+Mike Pellicciotti for State Treasurer
+Hilary Franz for Commissioner of Public Lands
+Raquel Montoya Lewis for the Washington State Supreme Court
+Heather Shand Perkins for Skagit County Superior Court Judge
+Christine Grant for Whatcom Public Utility District
+Davey Whitener Jr. for Squaxin Tribal Council

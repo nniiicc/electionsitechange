@@ -1,0 +1,14 @@
+Reclaim Our Place as Leader of the Free World
+THE PEOPLE’S AGENDA
+We the People need strong, steady, diplomatic leadership in a changing world.
+Isolationism is not the answer to global stability.
+In Congress, I’ll work to restore the American brand of leadership our allies rely on — and will protect our national security and interests without endless wars.
+National security isn’t just about military power — it’s about trust in our institutions, respect for the rule of law, strong global partnerships, and a healthy public square.
+I’ll prioritize unity, diplomacy, and constitutional accountability in Congress to restore checks and balances, improve international relations, and re-establish trust by citizens and allies in the American government.
+Priorities:
+- Strengthen alliances around the world by leading with diplomacy, strength, and an unyielding commitment to global democracy, NATO and other organizations that promote world order, peace, and American leadership
+- Restore trust in institutions by prioritizing decorum, order, honesty and transparency in the federal government, and holding those who don’t deliver to the expectations of Congress and the American people accountable
+- Reduce political polarization through intentional bipartisan collaborations, bills and social media campaigns that remind the American people — and Congress! — how powerful we are when we are willing to work together
+- End endless wars and refocus on defense, not aggression
+- Uphold the Constitution, checks and balances, and congressional authority — and hold authoritarian tactics and rhetoric to account
+- Modernize courts to ensure timely justice against government overreach

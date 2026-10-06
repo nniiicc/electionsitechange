@@ -1,0 +1,2 @@
+California State Treasurer Fiona Ma announced today that the Bay Area News Group editorial board, including the Mercury News and East Bay Times, has endorsed her campaign for California Lieutenant Governor, adding to growing support from major newspapers and community media outlets across California.
+The endorsement comes alongside recent support and recognition from media outlets serving California’s diverse communities and regions, including The Bakersfield Californian, The Korea Times, and Sing Tao Daily.

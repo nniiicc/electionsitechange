@@ -1,0 +1,12 @@
+Increasing Health & Safety
+For almost four years, I have been fighting for our families in Springfield for safer, stronger, and healthier families and neighborhoods.
+✅ Affordable & Accessible Healthcare: I am standing up to big insurance & drug companies and fighting to lower healthcare costs for our families.
+I helped create a prescription drug affordability board, passed new measures to crack down on price-gouging by pharmaceutical companies, cap the price of insulin, and allow Illinois to rein in rising insurance premiums.
+✅ Protecting Reproductive Healthcare: I voted to protect access to reproductive health care and contraception and to strengthen funding for Planned Parenthood.
+I also voted to test every rape kit and clear the backlog that has allowed violent predators to escape justice.
+I will continue to support investment in domestic violence shelters and critical breast cancer screenings.
+✅ Address Gun Violence: I support universal background checks, banning military-style assault weapons, and toughening penalties for adults who allow their firearms to fall into the wrong hands.
+✅ Creating Safer Communities: I’m committed to a ‘smart on crime’ approach because making the justice system smarter and fairer will make our communities safer.
+I helped deliver $200 million in new funding to put more police on our streets and for new high-tech resources and collaboration to solve violent crimes, carjackings, and home burglaries.
+✅ Protecting the Environment & Fighting Climate Change: To address the present and dire issue of climate change, I supported a package to put our state on a path toward a green energy future and protect consumers, preserve and create jobs, enable equitable energy policy, and improve ethics standards.
+✅ Improving our Mental Health Safety Net: I supported nation-leading legislation expanding access to mental healthcare, measures to support students’ mental health, and Requires all Illinois municipalities to coordinate 911 and 988 services, with the goal of prioritizing community care over incarceration or improper use of force when it comes to mental or behavioral health emergencies

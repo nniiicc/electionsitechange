@@ -1,0 +1,23 @@
+Our current government has allowed technology to outstrip the regulatory capacity of our agencies and scientists.
+Corporations are driving our right to privacy into extinction, in just a two or three decades after centuries of defending that as a core value, starting with the Bill of Rights.
+We need a radical transformation of our regulation, and to put the “Precautionary Principle” into law so new technology must be evaluated before introduction into the market, for privacy as well as health, similar to the federal government’s evaluation of environmental impacts before major decisions.
+An Electronic Bill of Rights would redress the imbalance between the average consumer’s ability to understand complex technology, and the “data mining” of information by major corporations.
+We must radically transform the US government’s approach to freedom and privacy.
+The electronic invasion of our lives, including the most private spaces of our homes and our public spaces, violates the basic reason this country exists.
+Our government spies on hundreds of millions of us, and approves of corporations’ spying on us with avoidance of necessary FCC regulation of wireless data warehousing.
+-
+I will introduce a national Electronic Privacy Bill of Rights that protects us in our homes from any surveillance without a warrant under any conditions, and puts limits on public surveillance.
+-
+I completely oppose the Executive Branch’s claim to supersede the Foreign Intelligence Surveillance Court to allow surveillance without a warrant, as claimed by both Republican and Democratic administrations; and I oppose the secret FISA court itself.Defending freedom is the responsibility each generation, and we must overcome the near total erosion of freedom in our culture and laws today.The federal government should set the best example of respecting our rights, not how to ignore them.
+-
+I support legal limits or prohibition of private corporations collecting information on students through their use of school-issued laptops and other devices.In the US, almost one third of all students—elementary through high school—already use school-issued digital devices, and many of these devices present a serious risk to student privacy.
+The devices collect data on the students beyond what is necessary for school assignments, and this data may be transferred to other uses and stored indefinitely.
+School districts should be required to have strong, enforceable privacy policies, and opt out provisions for parents, when using federal funds to purchase these devices.
+-
+Edward Snowden has now been shown to have been legally correct in his claim that the National Security Agency was violating the law and the Constitution with its unlimited data sweeps on average citizens.
+He should be provided the protection of the US Whistleblower Protection Program, and allowed to return safely to the US.
+I believe the founders of our country would have agreed with him.
+As Thomas Jefferson wrote, “I hold it that a little rebellion now and then is a good thing, and as necessary in the political world as storms in the physical.” Thomas Jefferson to James Madison, Paris, January 30, 1787.
+Jefferson’s statement certainly holds true in this case.
+The intensity of the US Administration’s drive to return him for prosecution for asserting a Constitutional protection for all Americans is a measure of how warped our government has become.
+Those government resources and staff salaries should be spent on freeing women and girls trapped into sex slavery in the US, with its minute by minute tragedy of pain and suffering; and switching their agencies to 100% renewable energy.

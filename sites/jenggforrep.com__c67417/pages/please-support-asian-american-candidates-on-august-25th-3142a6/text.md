@@ -1,0 +1,7 @@
+Speaker Emanuel “Chris” Welch and President Don Harmon invite you to support Asian American Legislative members and candidates on Thursday August 25th from 5:30pm to 7:30pm at New Furama Restaurant, 2828 S Wentworth Ave, Chicago.
+| Theresa Mah, 24th House District Friends of Theresa Mah 3500 N Lakewood Avenue #3 – S Chicago, IL 60657-1488 contribute online www.theresamah.com | Azam Nizamuddin, 48th House District Friends of Azam Nizamuddin for State 145 Founders Pointe Bloomingdale, IL 60108 contribute online www.azamforillinois48.com |
+| Hoan Huynh, 13th House District Neighbors for Hoan 4756 N.
+Malden St. #3N Chicago, IL 60640 contribute online votehoan.com | Nabeela Syed, 51st House District Friends & Family of Nabeela Syed PO Box 1128 Palatine, IL 60078 contribute online www.nabeelasyed.com |
+| Kevin Olickal, 16th House District Friends of Kevin Olickal PO Box 322 Skokie, IL 60077-8545 contribute online www.kevinolickal.com | Sharon Chung, 91st House District Friends of Sharon Chung 3 Dawes Pl Bloomington, IL 61701-1925 contribute online www.chungforillinois.com |
+| Jennifer Gong-Gershowitz, 17th House District Friends for Jennifer PO Box 3042 Glenview, IL 60025-6000 contribute online www.jenggforrep.com | Ram Villivalam, 8th Senate District Friends of Ram PO Box 598085 Chicago, IL 60659-8085 contribute online www.ramforsenate.com |
+| Janet Yang Rohr, 41st House District Friends of Janet Yang Rohr PO Box 3 Naperville, IL 60566 contribute online www.janetforillinois.com | |

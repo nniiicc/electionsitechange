@@ -1,0 +1,6 @@
+2015 Legislative Session
+This session started four days early for me as I was chosen to serve on a special Change in Employee Compensation Commitee (CEC).
+It has...
+Idaho Doesn't Always Fold
+Idaho State Representative Ron Nate wrote this article.
+I thought you all should know what the objections to S1067 were in committee -...

@@ -1,0 +1,13 @@
+Heather Somers Endorsed by Connecticut State Building Trades Council
+Organization Representing Skilled Construction Workers Rallies Behind Somers and Her Record of Results for Hardworking Families
+GROTON — State Senator Heather Somers of Groton announced Monday her campaign for reelection was endorsed by the Connecticut State Building Trades Council.
+“I am incredibly honored to have the support of the Connecticut State Building Trades Council that represents more than 30,000 hardworking people in our state,” Somers said.
+“I am proud of my record of results fighting to protect and expand workforce training programs, ensure we support our trades and enact pro-growth policies that create opportunities in our communities.”
+“On behalf of the over 30,000 hardworking men and women of the Connecticut State Building Trades Council, it is my privilege to inform you that the CSBTC has endorsed your campaign of the General Assembly,” said Connecticut State Building Trades Council President Keith R.
+Brothers in a letter to Somers on the endorsement.
+“Our members will be working hard to get you elected and we hope the support leads you to victory.”
+In addition to the Connecticut State Building Trades Council, Somers has been endorsed for reelection in 2022 by Planned Parenthood Votes!
+Connecticut and the Connecticut State Fraternal Order of Police.
+For her record of independent-minded and results-driven leadership, Somers has also earned the endorsement of the Independent Party of Connecticut and will appear on that party’s line on the ballot — in addition to the Republican Party line.
+Somers has also earned a perfect 100 percent rating from the Connecticut Business & Industry Association (CBIA) for championing pro-growth policies to create jobs and support small businesses.
+###

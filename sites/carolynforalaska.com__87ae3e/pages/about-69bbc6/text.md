@@ -1,0 +1,27 @@
+Born and raised as the eldest of three daughters, I come from a family where the value of public service was instilled early on.
+My father taught in public schools for over 30 years, and my mother's dedicated service on the local school board for 12 years profoundly influenced my passion for education.
+After moving to Alaska in 2008, I quickly fell in love with its people, culture, and unparalleled natural beauty.
+Since then, I’ve started a successful business and earned a master's degree from UAA; I've made Alaska my home, embracing its outdoor opportunities and actively engaging in community service.
+However, witnessing the state's recent decline has fueled my determination to enact positive change.
+I'm committed to addressing critical issues such as funding public education, improving wages and benefits for public employees, and tackling our structural deficit head-on.
+My relentless work ethic and unwavering dedication make me the ideal candidate to represent our community's interests in Juneau.
+I believe in the power of collaboration and solution-oriented strategies and am eager to work alongside fellow Alaskans to build a brighter future for our state.
+With your support, we can overcome these challenges and keep Alaska thriving.
+Learn more
+- Alaska State House (2025 - Present)
+- Co-Chair House Labor and Commerce
+- Member House Corrections (Fin Sub)
+- Member Natural Resources (Fin Sub)
+- Member House Public Safety (Fin Sub)
+- Member House Military and Veterans’ Affairs
+- Member House Community and Regional Affairs
+- Member House Resources
+Municipality of Anchorage Communications Director (2020 – 2021) Special Assistant to the UA Associate Vice President of Government Relations (2019) Office of the Governor Communications Manager (2018) Anchorage Municipal Clerk’s Office Education and Outreach Manager (2017 – 2018) Municipality of Anchorage Election Assistant (2017)
+- Alaska Women Ascend Alumna Leadership Anchorage Alumna Food Bank of Alaska Volunteer (2018 – present) Anchorage Budget Advisory Commission Commissioner (2021 – 2023) Anchorage Budget Advisory Commission Vice-Chair (2023) Federation of Community Councils Treasurer (2023) Turnagain Community Council Treasurer (2023) Turnagain Community Council At-Large Board Member (2022) Anchorage Women’s Commission Commissioner (2017 – 2020) Anchorage Women’s Commission Co-Chair (2020) Trick-or-Treat Fish Creek Volunteer Eagle River Nature Center Volunteer
+- Jewel Lake Church of the Nazarene Distinguished Service Award for compassionate, heartfelt, and accurate photojournalism.
+- James Beard Award: Television Segment
+- National Press Photographers Association Kenneth P.
+McLaughlin Award of Merit
+- National Press Photographers Association Ernie Crisp Television News Photographer of the Year Finalist
+- National Academy of Television Arts and Sciences, Northwest Regional Emmy Award
+- Society of Professional Journalists Sigma Delta Chi Award for Public Service

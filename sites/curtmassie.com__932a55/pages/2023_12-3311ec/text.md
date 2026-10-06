@@ -1,0 +1,3 @@
+South Dakota Medical Marijuana Oversight Committee
+I was at the capital recently for the last South Dakota Medical Marijuana Oversight Committee meeting for the year.
+As your Representative for District 33, I was glad to be able to be on this committee so that District 33 is represented and has…

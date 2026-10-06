@@ -1,0 +1,24 @@
+Michael Lankford is a lifelong Montgomery County resident who believes strong communities are built on service, trust, and shared responsibility.
+As State Representative for Tennessee's 75th House District, he works hard every day to make sure local voices are heard in Nashville and that Montgomery County grows in a way that honors its people, its neighborhoods, and its traditions.
+Michael was appointed to the Tennessee House of Representatives in December 2025 following the passing of State Representative Jeff Burkhart, and was sworn in that January.
+He understood what that responsibility meant, and from day one he has worked to carry forward the tradition of service Jeff built, fighting for District 75 while keeping his focus where it belongs: on local families, businesses, and communities.
+His leadership is guided by responsible growth, strong local values, and practical solutions.
+He hit the ground running.
+In his first legislative session, Michael passed eight pieces of legislation while serving on the House Commerce Committee and the State and Local Government Committee, along with the Business and Utilities, Departments and Agencies, and Public Service subcommittees.
+He fought for law enforcement and first responders, worked to strengthen our schools, pushed to improve roads and infrastructure, stood up for taxpayers, and helped keep Tennessee's business climate the strongest in the country.
+That work ethic started at home.
+Elected to the Montgomery County Commission in 2022 representing District 6, Michael spent his term showing up, listening to residents, and rolling up his sleeves alongside fellow leaders to meet the day to day needs of one of Tennessee's fastest growing counties.
+Serving on the commission taught him how local decisions land on families, schools, roads, farms, and small businesses, and he carried that perspective straight to the General Assembly.
+Agriculture and rural life shape how Michael approaches the job.
+He lives on a farm in Palmyra and earned a Bachelor of Science in Agriculture Business from Austin Peay State University and a Master of Science in Agriculture Business and Risk Management from the University of Tennessee at Martin.
+As a Commercial Banker with a local community bank, he sits down with families, small business owners, farmers, and nonprofit leaders and helps them build something that lasts.
+That work keeps him close to the people who power Montgomery County's economy and gives him a real world sense of when policy helps a community grow and when it gets in the way.
+Michael has never stopped investing in the place he calls home.
+He is a graduate of Leadership Clarksville and Leadership Tennessee NEXT, programs that sharpened his commitment to servant leadership and broadened his view of the challenges facing communities across our state.
+He gives his time to Queen City Masonic Lodge #761, the Kiwanis Club of Clarksville, Central Civitan, and 2nd Mile Baptist Church.
+House District 75 runs across western and northern Montgomery County, from the farms around Palmyra and Woodlawn through the Fort Campbell area and into north and west Clarksville.
+It is a district with deep rural roots and a fast growing city inside it, and Michael is determined that both are looked after.
+That means state and local leaders working together so roads, schools, and public services keep pace with the growth, and it means protecting the rural communities that make this county what it is.
+From our farms and fields to our roads, bridges, and schools, every part of our district deserves a strong voice at the table.
+"My roots run deep in Montgomery County, and I believe public service comes with both an opportunity and a responsibility," Lankford said.
+"I'm asking the people of District 75 for the opportunity to keep working for them, keep building the relationships that bring resources home, and make sure Montgomery County never takes a back seat."

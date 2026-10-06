@@ -1,0 +1,81 @@
+What to do about increased property valuations
+I've heard from many constituents who are concerned about their increased property valuations.
+Did you know that your local taxing entities can adopt a tax rate that won't raise your property taxes, even if your property valuations have increased?
+The No New Revenue Rate is the adoption of the tax rate that would produce the same revenue as the previous year, resulting in a lowered rate to offset the increased revenue caused by inflated home appraisals.
+In turn, this would produce a lower tax bill for Texans.
+As school districts, municipalities, and counties adopt their budgets, they will be considering the revenue rate that will need to be adopted to accommodate for the budget they adopt.
+In the 88th session, the Texas Legislature passed the largest property tax relief bill in Texas history.
+This package secured $18 billion in relief in the form of increased homestead exemptions, a school maintenance and operations buy down, appraisal caps, and more.
+However, the relief packages the legislature passes become obsolete for some homeowners when local taxing entities adopt new revenue rates, which increase your taxes once again and nullify the cuts made by the legislature.
+Encourage our local governments to adopt a No New Revenue Rate when looking at the budgets for the next fiscal year.
+Click here to read more about No New Tax Revenue Rates.
+Below are the proposed and approved budgets of each county, city, and school district in House District 73.
+Each of these entities are presently in different phases of drafting and adopting their budgets.
+Please review these plans to spend our tax dollars and contact your local school district, municipality, or county and ask them to adopt a No New Revenue Rate.
+I will continue to encourage local taxing entities to combat rising property taxes and support transparency throughout the budgeting process.
+Counties:
+Comal County:
+(No Calendar Currently Available)
+Comal County Financial Transparency
+Auditor's Office: (830) 221-1200
+Hays County:
+Hay County Budget Calendar
+Hays County Financial Transparency
+Budget Officer: Vickie Dorsett
+(512) 395-2275
+Cities:
+Bulverde:
+Bulverde City Calendar
+Bulverde Financial Transparency
+Finance Director: Sharon Nelson
+(830) 380-3040
+Dripping Springs:
+Drippings Springs City Calendar
+Dripping Springs Financial Transparency
+City Treasurer/Deputy City Administrator: Shawn Cox
+(512) 858-4725
+Garden Ridge:
+Garden Ridge City Calendar
+Garden Ridge Financial Transparency
+Finance/HR Director: Robyn Achu
+(210) 651-6632
+Schertz:
+Schertz City Calendar
+Schertz Financial Transparency
+City Hall: (210) 619-1140
+New Braunfels:
+New Braunfels City Calendar
+New Braunfels Financial Transparency
+City Hall: (830 ) 221-4000
+Wimberley:
+Wimberley City Calendar
+Wimberley Budget Draft
+City Administrator: Timothy Patek
+(512) 648-2402
+Woodcreek:
+Woodcreek City Calendar
+Woodcreek Budget Draft
+Woodcreek City Hall: (512) 847-9390
+School Districts:
+Comal ISD:
+Comal ISD District Calendar
+Comal ISD Budget Draft
+District Office: (830) 221-2000
+Dripping Springs ISD:
+Dripping Springs ISD District Calendar
+Dripping Springs ISD Budget Draft
+CFO: Gina Mitschke
+(512) 858-3006
+New Braunfels ISD:
+New Braunfels ISD District Calendar
+New Braunfels ISD Approved Budget
+CFO: Paul McLarty
+(830) 643-5758
+Wimberley ISD:
+Wimberley ISD District Calendar
+Wimberley ISD Financial Transparency
+CFO: Moises Santiago
+(512) 847-2414
+Thank you to all residents of House District 73 for your continued support.
+I will continue to fight to ensure skyrocketing property taxes come to an end.
+We will pave the way to eliminate property taxes entirely, restoring true property ownership to the people of Texas.

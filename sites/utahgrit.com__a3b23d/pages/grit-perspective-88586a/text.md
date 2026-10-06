@@ -1,0 +1,3 @@
+Melody Moser 9/19/26 Melody Moser 9/19/26 We Did Not Buy Cheaper Roads.
+Read More Melody Moser 9/14/26 Melody Moser 9/14/26 Utah Can Lead on A.I.
+Read More Melody Moser 9/8/26 Melody Moser 9/8/26 Closing the $233,000 Gap Read More Melody Moser 9/8/26 Melody Moser 9/8/26 The 136-Hour Week Read More Melody Moser 9/8/26 Melody Moser 9/8/26 Utah’s Tax Code is Upside Down Read More Melody Moser 9/8/26 Melody Moser 9/8/26 Our Land Is Not For Sale Read More Data Centers, Fair Taxation Melody Moser 8/30/26 Data Centers, Fair Taxation Melody Moser 8/30/26 Utah's Data Center Tax Break Read More Melody Moser 8/28/26 Melody Moser 8/28/26 What Utah Actually Costs Read More Melody Moser 8/10/26 Melody Moser 8/10/26 Utah Mountain Lion Deep-Dive Briefing Read More

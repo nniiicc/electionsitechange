@@ -1,0 +1,30 @@
+Trusted Local leaders AND ORGANIZATIONS support chris mcconnehey
+Chad Lamb
+West Jordan City Council
+Zach Jacob
+West Jordan City Council
+Dave Newton
+Former West Jordan Mayor
+Lorin Palmer
+Herriman Mayor
+Dr.
+David Pack
+former West Jordan City Council
+Jim Bird
+former Utah State Representative
+Rob Bennett
+former West Jordan City Council
+Kent Shelton
+West Jordan City Council
+Wayne Harper
+Utah State Senator
+Aimee Winder Newton
+Salt Lake County Council Chair
+Dirk Burton
+West Jordan Mayor
+Niki George
+Jordan School Board President
+Jim Dunnigan
+Utah State Representative
+Annette Harris
+West Jordan City Council

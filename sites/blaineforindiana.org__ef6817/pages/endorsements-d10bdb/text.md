@@ -1,0 +1,31 @@
+0
+Skip to Content
+Who I Am
+Platform & Policy
+Volunteer
+Events
+Endorsements
+Info on Voting
+Donate
+Open Menu
+Close Menu
+Who I Am
+Platform & Policy
+Volunteer
+Events
+Endorsements
+Info on Voting
+Donate
+Open Menu
+Close Menu
+Who I Am
+Platform & Policy
+Volunteer
+Events
+Endorsements
+Info on Voting
+Donate
+endorsements
+Indiana AFL-CIO
+MadVoters - Grade A Rating
+Fort Wayne Democratic Socialists of America

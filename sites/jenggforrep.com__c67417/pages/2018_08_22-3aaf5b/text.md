@@ -1,0 +1,2 @@
+Today, IL-17 Democratic nominee Jennifer Gong-Gershowitz and former opponent Candance Chow released the following statements: Candance Chow: “Over the past few months, I have had a series of discussions with Jennifer Gong-Gershowitz and shared my concerns for the changes we need in Springfield to better serve our communities and face our challenges as a state.
+Jennifer’s recent statements on the need for continued pressure

@@ -1,0 +1,3 @@
+Senator Jim Nielsen Endorses Dom Belza for Assembly
+MAJOR ENDORSEMENT ALERT Marysville, Calif. – Today, Dom Belza announced the endorsement of Senator Jim Nielsen in his campaign for the 3rd Assembly District.
+Senator Nielsen represented North State communities in…

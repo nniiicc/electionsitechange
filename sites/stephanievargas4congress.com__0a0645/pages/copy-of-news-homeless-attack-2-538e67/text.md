@@ -1,0 +1,83 @@
+Stephanie M.
+Vargas
+for Congress
+June 2, 2026
+CAMPAIGN BUZZ
+March 20, 2026
+Reform California Officially Endorses Congressional Candidate Stephanie Vargas for CA District 33
+Reform California, led by Assembly Member Carl DeMaio, has officially endorsed Stephanie Vargas in her campaign for Congress in California’s 33rd District.
+The organization, known for its statewide reform efforts and Voter‑ID initiative, announced its support as the primary election approaches.
+Vargas said she was honored to receive the endorsement, expressing gratitude for Reform California’s confidence in her leadership and vision for the district.
+“Together we will fight to lower costs, improve public safety, defend election integrity, and restore accountability in government,” Vargas said following the announcement.
+The endorsement adds momentum to Vargas’ campaign as she continues meeting with voters and sharing her message of practical, community‑focused solutions.
+March 11, 2026
+Vargas Appears on "Roundtable Ministries" to Share Her Faith, Story, and Call to Courage
+Congressional candidate Stephanie Vargas was recently invited to join Pastor Frank and Laura Dean on Roundtable Ministries, airing on The Cross TV Network, for an episode titled “You Will Know Them by Their Fruits” inspired by Matthew 7:16–20.
+During the interview, Vargas reflected on her upbringing at Harvest Christian Fellowship Church in Riverside, where her faith first took root.
+She shared her experience serving as an American Student Ambassador, representing the country overseas—a role that profoundly shaped her understanding of service and sacrifice.
+Vargas recounted one of the most defining moments of her youth: standing on the preserved beaches of Normandy, France, looking out at the endless rows of white crosses marking the graves of American soldiers who fell on D‑Day.
+She described that moment as the one in which she realized that freedom is not free—that it is costly, and that every generation must be willing to defend it.
+Throughout the conversation, Vargas spoke openly about how her faith has guided her work as a public servant and how she believes the Lord has called her to take this courageous step into national leadership.
+She used the platform to encourage people of faith across the country to stand for truth, get involved, and pray boldly for God to move in this moment.
+March 04, 2026
+Stephanie Vargas Files Papers with the San Bernardino ROV to Run for Congressional District 33
+Stephanie Vargas has officially filed with the San Bernardino Registrar of Voters to run for Congressional District 33.
+She is stepping forward with a firm commitment to fight for what truly matters to our families—safer communities, stronger protections for children and family values, and real solutions to lower the cost of living and rebuild our economy.
+March 04, 2026
+Stephanie Vargas Takes the Oath of Office (California Constitution, Article XX, Section 3)
+“I, Stephanie M.
+Vargas, do solemnly swear that I will support and defend the Constitution of the United States and the Constitution of the State of California against all enemies, foreign and domestic; that I will bear true faith and allegiance to the Constitution of the United States and the Constitution of the State of California; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties upon which I am about to enter.”
+-Stephanie M.
+Vargas, Congressional Candidate (CA-D33)
+These words carry profound meaning—promising loyalty not to a party or a personality, but to the Constitution itself, and to the people it protects.
+For Stephanie, this oath is not a formality.
+It is a sacred commitment to truth, integrity, and ethical leadership.
+Having administered this oath countless times in her role as Chief Deputy City Clerk, Stephanie understands the weight it carries.
+She has witnessed leaders pledge to uphold the highest standards of public service, and now she steps forward to make that same promise herself.
+By taking this oath, Stephanie Vargas reaffirms her dedication to the people of Congressional District 33 and her commitment to serve with honor, integrity, and unwavering faith.
+February 22, 2026
+Congressional Candidate Stephanie M.
+Vargas to Participate in LA Republican Victory Forum
+Stephanie M.
+Vargas used her appearance at the LA Republican Victory Forum on February 22, 2026 to deliver a message centered on election integrity, accountability, and the responsibility of ordinary citizens to stand up and fight for what really matters.
+March 22, 2026
+Vargas Debuts “Simple Politics” Comic Series Ahead of Primary
+Congressional candidate Stephanie Vargas has launched a new social‑media comic series, “Simple Politics,” designed to help voters quickly understand key issues as the Primary Election approaches.
+The series breaks down complex policies into easy‑to‑follow visuals and highlights how the current incumbent has voted on major legislation.
+Vargas says the goal is to give residents clear, accessible information so they can make informed choices rooted in their values and the needs of the district.
+New installments of Simple Politics will continue rolling out online throughout the campaign.
+March 14, 2026
+Vargas Attends San Bernardino Republican Women's Meeting at the Elks Lodge
+Congressional candidate Stephanie Vargas was invited to attend the San Bernardino Republican Women’s Meeting on March 13, 2026, held at the San Bernardino Elks Lodge.
+The gathering brought together local leaders, community members, and candidates to discuss issues shaping the upcoming election.
+The meeting featured Don Wagner, candidate for California Secretary of State, as the special guest speaker.
+Wagner spoke about his commitment to strengthening election security and ensuring that California’s voting systems remain transparent, accountable, and trustworthy.
+Vargas appreciated the opportunity to connect with attendees and hear directly from voters about the concerns facing families across District 33.
+The event offered a meaningful space for community engagement as the primary approaches.
+March 08, 2026
+Follow Stephanie Vargas on Instagram
+Stay connected with Stephanie’s journey as she meets with neighbors, shares campaign updates, and highlights the voices of our community.
+Join the conversation and be part of the movement for real change.
+"A vote for Stephanie Vargas is a vote to secure a future our children can look forward to...
+I will fight for Public Safety, Children and Family Values, and will fight against the High Cost of Living and Energy Prices."
+- Stephanie Vargas, Instagram
+March 05, 2026
+Stephanie M.
+Vargas Attends Redlands Tea Party Patriots Meeting
+Stephanie Vargas recently attended the Redlands Tea Party Patriots meeting, where she had the opportunity to introduce herself and share her heart for public service with local residents.
+As a city elections official, Stephanie spoke about her deep commitment to election integrity—a principle she believes is essential to restoring trust in our democratic process.
+She expressed her determination to fight for truth, integrity, and ethics at the highest levels of government.
+During her remarks, Stephanie also opened up about the foundation of her calling to serve.
+She shared that her faith in God is what drives her to step forward in this moment, and that she believes our nation needs courageous leaders who are willing to stand firm for what is right.
+Her message resonated with attendees as she emphasized her desire to bring honesty, accountability, and moral clarity to Congress.
+Stephanie left the meeting encouraged and grateful for the chance to connect with community members who care deeply about the future of District 33 and the country.
+February 28, 2026
+Stephanie Vargas Attends the California Charter School Association's 2026 Annual Conference
+Stephanie M.
+Vargas, Congressional Candidate for California’s 33rd District, recently attended the 2026 California Charter School Association Annual Conference, where educators and administrators from across the state gathered to share innovative strategies that put students first.
+The conference highlighted how public charter schools—free to families—offer the flexibility to adapt, personalize, and create learning programs that go beyond the standard one‑size‑fits‑all model.
+As a strong advocate for parent rights and school choice, Stephanie believes families deserve real options that meet the unique needs of their children.
+She continues to champion education models that remove politics from the classroom and focus on what matters most: giving every child the best opportunity to learn and thrive.
+Stephanie also serves as a Board Member for Springs Charter Schools, which proudly serves the Inland Empire.
+Springs Charter was created by parents and is built on a mission to empower students by fostering curiosity, engaging families, and developing personalized learning plans for every child .
+With a focus on creativity, community‑based learning, collaboration, and strong relationships, Springs works to ensure that no student is left behind.

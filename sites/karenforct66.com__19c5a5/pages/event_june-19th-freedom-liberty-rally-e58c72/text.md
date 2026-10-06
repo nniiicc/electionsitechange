@@ -1,0 +1,42 @@
+Skip to primary navigation
+Skip to main content
+Skip to footer
+Karen Reddington-Hughes
+State Representative CT66
+About
+Where I Stand
+News & Updates
+Our District
+Bethlehem
+Litchfield
+Morris
+Warren
+Woodbury
+Calendar
+Gallery
+Get Involved
+« All Events
+This event has passed.
+June 19th Freedom & Liberty Rally
+June 19 @ 6:00 pm
+-
+8:00 pm
+«
+CT66 House Convention
+Litchfield RTC Meet & Greet
+»
+Add to calendar
+Google Calendar
+iCalendar
+Outlook 365
+Outlook Live
+Details
+Date:
+June 19
+Time:
+6:00 pm - 8:00 pm
+Venue
+Woodbury North Green Bandstand
+Woodbury
+,
++ Google Map

@@ -1,0 +1,3 @@
+This legislative session recap
+https://www.facebook.com/repjoydistrict4/videos/2599564920359253Thank you for tuning in for my legislative session recap.
+This year we passed important legislation as well as Capital Improvement Project (CIP) and CARES Act funding we will invest…

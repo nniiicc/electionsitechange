@@ -1,0 +1,23 @@
+Angela is fighting for
+Economic Dignity & Security
+In CA-34, working families are doing everything right — working long hours, juggling multiple jobs, and still struggling to make ends meet.
+That's because our economy is not built to support the people who power it.
+Wages have stagnated while housing, food, and childcare costs have soared.
+Corporate profits continue to rise, but working families are left behind.
+Angela believes that economic dignity means more than just having a job — it means being able to support your family, take time off when you're sick, afford childcare, and build a secure future.
+Launching a Guaranteed Basic Income (GBI) Pilot for CA-34
+A GBI pilot program targeting low- and moderate-income households in CA-34, providing direct, unconditional monthly payments so families have breathing room for rent, food, and essentials without bureaucratic red tape.
+Funded through progressive taxation and public-private partnerships, demonstrating a scalable model for future federal GBI programs.
+Protecting Gig Workers' Right to Unionize
+- Guarantee the right to organize and collectively bargain for gig workers
+- Push for portable benefits — healthcare and retirement savings that follow workers job to job
+- Ensure fair pay, protections against algorithmic exploitation, and clear worker classification laws
+Expanded Family Leave, Sick Leave, and Childcare Support
+- A national paid family and medical leave program
+- Universal paid sick leave
+- Significant federal investment in affordable, accessible childcare, including subsidies, expanded pre-K, and fair wages for childcare providers
+Community-Driven Solutions to Economic Disparities
+- Funding for youth employment and mentorship programs
+- Grants for community-based organizations creating economic opportunity
+- Support for small businesses and social enterprises that hire locally and invest in the community
+- Expanding worker protection laws to include gig-workers and low-wage workers.

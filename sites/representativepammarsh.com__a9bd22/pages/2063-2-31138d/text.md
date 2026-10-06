@@ -1,0 +1,58 @@
+To receive these emails, please go to www.oregonlegislature.gov/marsh
+March 11, 2026 2026 Short Session Upshot
+February 14, 2026 2026 Session Update—And Happy Oregon Statehood Anniversary!
+July 28, 2025 Town Hall & Ice Cream Social this Sunday, August 3
+July 2, 2025 Highlights & Achievements from the 2025 Session
+January 21, 2025 It’s Go Time! 2025 Legislative Session Now Underway
+March 13, 2024 Short Session Report & Upcoming Town Hall
+February 1, 2024 2024 Top Priorities: Addressing Our Addiction & Housing Crises
+September 12, 2023 2023 Legislative Wins: Housing, Behavioral Health, Education
+August 2, 2023 2023 Legislative Wins: Climate Resilience & Water Security Packages
+July 12, 2023 Bringing it Home: 2023 Legislative Wins for District 5 & Oregon
+April 21, 2023 Midway & More to Come—Legislative Updates for District 5
+February 9, 2023 My Priorities for the 2023 Legislative Session
+September 2, 2022 Almeda anniversary, wildfire news & more
+June 6, 2022 6/13, 6:00-7:30 PM – Ready for Fire in 2022 | Preparados para el fuego en 2022
+May 18, 2022 Ice Cream Social & Town Hall this Sunday, 5/22 at PHS!
+March 17, 2022, Virtual Town Hall, March 21 | Reunión Virtual Cominitaria, 21 de marzo
+March 8, 2022 – It’s a Wrap!
+Short Session Success & Summary
+February 10, 2022 – Wildfire Recovery Public Hearing | Audencia Pública Sobre la Recuperación de Incendios Forestales
+January 26, 2022 – My Priorities for the 2022 Legislative Session
+November 23, 2021 – November News & Community Resources
+October 25, 2021 – Oct 26, 6:30 PM: Hemp & Cannabis in Southern Oregon | El cáñamo y el cannabis en el sur de Oregón
+October 14, 2021 – Save the Dates for Two Forums: Manufactured Homes | Illegal Hemp & Cannabis
+September 12, 2021 – Join us Sept 14, 6:30 PM – Our Path to Recovery | Nuestro camino hacia la recuperación
+August 30, 2021 – Virtual Town Hall, August 31 | Junta Comunitaria Virtual, 31 de agosto
+August 20, 2021 – Summer News & Upcoming Events
+June 29, 2021 – Legislative Highlights for House District 5
+April 21, 2021 – Legislative Update – Halfway through the 2021 Session
+March 22, 2021 – Insurance Workshop & 3/31 Legal Clinic for Fire Survivors
+Feb. 10, 2021 – Wildfire Recovery Public Hearing for Southern Oregon
+Jan. 20, 2021 – January Updates for House District 5
+Oct. 18, 2020 – Fall 2020 COVID & Fire Updates
+Oct. 16, 2020 – Fire Recovery Resources / Recursos de recuperación de incendios
+Oct. 5, 2020 – Wildfire Update: Moving into Recovery
+Sept. 18, 2020 – Almeda Fire Day 10: Recovery Updates, FEMA Assistance & New Resources
+Sept. 14, 2020 – Almeda Fire Response Update for Jackson County
+Sept. 11, 2020 – Fire Resources, Info & Links for Jackson County
+Sept. 9, 2020 – Advising Talent and Phoenix residents not to return yet
+July 2020 – Special Session Summary, Town Hall July 14, and SO Census Day
+May 30, 2020 – Spring 2020 – Finding a path forward; Getting back to business
+May 1, 2020 – COVID-19 Update: Reopening Strategy, Wildfire Preparedness & More Resources
+April 15, 2020 – COVID-19 Updates: Community Resources, Reopening, Unemployment
+April 3, 2020 – Community Resilience & COVID-19
+Jan 2020 – New Year’s Legislative Update for District 5
+Apr 2019 – Wildfire, Climate & Conservation: Update from the Capitol
+Jan 2019 – Off to a Big Start!
+Wildfire Forum, Contest Winners & 2019 Legislative Priorities
+March 13, 2018 – End of Session Wrap up – and an Invitation
+January 9, 2018 – Legislative Update and Upcoming Town Halls
+December 15, 2017 – The Season of Gratitude
+July 21, 2017 – End of Session Wrap up
+May 31, 2017 – Legislators need to hear from you
+May 4, 2017 – Update from the Capitol: Time for Tax Reform
+March 23, 2017 – Update from the Capitol
+March 8, 2017 – Mental Health Care in Jackson County
+February 22, 2017 – Update from the Capitol
+August 15th, 2017 – Join me for a Community Conversation

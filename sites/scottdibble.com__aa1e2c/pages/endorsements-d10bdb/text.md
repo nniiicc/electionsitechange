@@ -1,0 +1,25 @@
+- Minnesota Democratic-Farmer-Labor Party
+- Minnesota Association of Professional Employees (MAPE)
+- Planned Parenthood Minnesota, North Dakota, South Dakota Action Fund
+- LGBTQ+ Victory Fund
+- Minnesota DFL Senior Caucus
+- Sierra Club (North Star Chapter)
+- Stonewall DFL
+- International Association of Sheet Metal, Air, Rail and Transportation Workers (Transportation Division)
+- Brotherhood of Locomotive Engineers and Trainmen
+- Conservation Minnesota Voter Center
+- OutFront Minnesota Action
+- Minnesota National Organization for Women (NOW) Political Action Committee
+- Save the Boundary Waters Action Fund
+- SEIU MN State Council
+- Teamsters Joint Council 32
+- Education Minnesota
+- International Union of Operating Engineers Local 49
+- Minnesota AFL-CIO
+- Minnesota Nurses Association
+- Pro-Choice Minnesota
+- LiUNA (Laborers' International Union of North America)
+- Gender Justice Action PAC
+- The Committee to Protect Health Care
+- Friends of the Boundary Waters Action Network
+- Humane World Action Fund

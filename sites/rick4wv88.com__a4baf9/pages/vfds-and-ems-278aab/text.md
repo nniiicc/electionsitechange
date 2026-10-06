@@ -1,0 +1,23 @@
+My Commitment to Fire & EMS Funding
+I initially ran on being—and have continued to be—a strong supporter of our volunteer fire departments and EMS organizations, because in District 88 these aren’t “nice-to-have” services.
+They’re essential.
+When you call 911, you’re not calling a distant agency—you’re calling your neighbors.
+Supporting VFDs and EMS is one of the most basic responsibilities of government, and one of the smartest, most fiscally responsible uses of taxpayer dollars—especially when the state has budget surpluses.
+If we’re going to spend, we should invest first in the services that protect life and property.
+In my first term, after the House initially failed to pass legislation during the 2023 Regular Session to provide supplemental funding to VFDs, we faced the risk of failing again during the August 2023 Special Session.
+As others noted—and as was quoted in the news ( Click Here ) my emotional advocacy for passage was instrumental in the ultimate approval of Senate Bills 1021, 1022, and 1023, which delivered $12 million in annual supplemental funding for volunteer fire departments.
+My legislative track record supporting volunteer firefighters and EMS personnel speaks for itself.
+I have (co)sponsored legislation that became law, including 2024 bills HB 5399 (Find All The Details Here) and HB 5218 ( Click Here ).
+In 2025, I (co)sponsored HB 2125 (newborn safety device) and successfully amended its provisions into SB 8 (providing additional sites and devices for newborn safe surrender).
+I also (co)sponsored HB 3148 (Firefighter Pilot CTE program) to help build the next generation of trained firefighters.
+During 2025 interim meetings, we also discussed the Volunteer Firefighter Tax Credit—up to $1,000—as a practical way to support recruitment and retention for the volunteers our communities depend on.
+For the 2026 Regular Session, I intend to reintroduce HB 3148 and advance additional legislation to:
+- Address county ambulance fees
+- Improve eligibility requirements for allocation of Fire Protection Funds
+- Advocate for sustained, reliable funding transfers so departments can plan ahead
+- Strengthen auditing and accountability to ensure funds are used efficiently and as intended
+Finally, I will introduce a Resolution for a Constitutional Amendment to reduce the threshold required to pass Fire and EMS levies, so communities that want to support their local departments have a fairer path to do so.
+VFDs and EMS
+| Bill | Title | Status | Committee | Step | Last Action | Title |
+| | To modify the state auditing practices of the volunteer and part-volunteer fire departments | Pending | Senate Government Organization | Committee | 02/29/24 | To modify the state auditing practices of the volunteer and part-volunteer fire departments |
+| | Directing transfer of moneys into fire protection funds at the end of each year | Signed | | | Effective Ninety Days from Passage - (June 3, 2024) | Directing transfer of moneys into fire protection funds at the end of each year |

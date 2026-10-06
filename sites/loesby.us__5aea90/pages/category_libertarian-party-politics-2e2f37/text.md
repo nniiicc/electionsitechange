@@ -1,0 +1,3 @@
+- Remove Chase Oliver as the Libertarian Presidential Nominee An Open Letter to the Libertarian National Committee The Libertarian National Committee can, should, and must remove Chase Oliver as the 2024 Presidential Nominee of the Libertarian Party.
+Preamble On Sunday, May 26, 2024, Chase Oliver became the Libertarian Party’s nominee for the 2024 Presidential Race.
+That nomination is procedurally valid, and nothing written here…

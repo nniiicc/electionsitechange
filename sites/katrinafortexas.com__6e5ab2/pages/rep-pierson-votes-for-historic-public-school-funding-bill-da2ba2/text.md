@@ -1,0 +1,18 @@
+FOR IMMEDIATE RELEASE Contact: Philip Reichert
+April 16, 2025
+Contact: Philip Reichert
+512.463.0484
+REP.
+PIERSON VOTES FOR HISTORIC PUBLIC SCHOOL FUNDING BILL
+AUSTIN, TX — State Representative Pierson voted today in favor of House Bill 2 (HB2), critical legislation that delivers nearly $8 billion in new funding for public education, marking the largest increase to public school funding in Texas history.
+HB2 injects nearly $8 billion directly into schools, focused on providing classrooms, teachers, and students the resources they need.
+Key highlights include:
+- $3.2+ billion to increase the Basic Allotment by $395 per student.
+- $1.8 billion to expand special education funding, incorporating recommendations from the Special Education Funding Commission to support evaluations and services for students with special needs.
+- $1.1+ billion to boost small and midsize district adjustments.
+- $750+ million to increase teacher pay, putting top educators on a path to six-figure salaries.
+- $450+ million for teacher training and professional development.
+- $1.5+ billion to expand Pre-K, fine arts, high school career advising, and targeted operational support to reduce achievement gaps.
+This is a monumental investment in Texas public education, our children, and our future.
+These targeted dollars will be felt directly by teachers, students, and schools across the state, ensuring no child falls through the cracks.
+###

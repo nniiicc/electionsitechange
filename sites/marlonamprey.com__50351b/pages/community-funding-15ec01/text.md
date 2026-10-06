@@ -1,0 +1,18 @@
+Fighting for the Future of Our Community
+40th District Funding and Initiatives
+Within Delegate Amprey’s time as a member of the House of Delegates, he was able to help secure a total of over $300 million in state investments for the 40th District, spanning local bond initiatives, capital projects, and targeted community funding.
+This sustained investment reflects a continued commitment to neighborhood revitalization, economic development, and community-driven progress.
+Legislative Bond Initiatives (LBI)
+Legislative Bond Initiatives (LBI), formerly referred to as bond bills, are bond authorization requests filed by members of the Maryland General Assembly (MGA) to support specific local or non-State-owned capital projects.
+These projects include various cultural, historic, health, educational, and economic development projects not funded by other State capital grant and loan projects.
+Further Details About LBIs
+LBI Application Deadline
+Applications must be submitted by Monday, November 24, 2025 at 5:00 PM.
+LBI Application Process
+Step 1: Review the guidelines and eligibility requirements via this link.
+Step 2: Download the application via this link.
+Step 3: If you are a new applicant, obtain a letter of support from the local community association for which the property is located.
+A list of community association contacts can be found on the Baltimore City Department of Planning website through this link.
+Step 4: Submit your LBI application, letter of support (If new applicant), and supporting documents (e.g.
+PowerPoint presentation) through this link by Monday, November 24, 2025 at 5:00 PM.
+Step 5: Present your project to the 40th District Delegation, stakeholders, and community members on Monday, December 1, 2025 at 5:30 PM at the 40th District’s 2025 Legislative Bond Initiative Presentations.

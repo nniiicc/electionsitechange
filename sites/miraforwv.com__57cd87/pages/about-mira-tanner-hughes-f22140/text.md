@@ -1,0 +1,21 @@
+People Over Profits.
+Always.
+Even if you don’t know my name, you know me.
+I was your local Wal-Mart sales rep and cashier from Buckhannon to Weston for a decade.
+I first started working at Wal-mart for $8.25 an hour as a college undergrad, living off campus to avoid additional on-campus housing charges, because needing to make rent seemed more fiscally responsible than stealing it from my future in the form of more loans, higher loans, still unpaid loans, despite my responsibility.
+I remember needing to justify the purchase of a $1.98 Starbucks doubleshot energy to help me make it through my shift and my schoolwork, trying to ration sips for when my eyelids were heaviest, succeeding in my budget if my drink could last in the break room fridge for two days, doing my best to beat the stereotype that my rationed coffee wouldn’t be the reason I couldn’t buy a home, because I was spending responsibly, only when I needed it.
+I’m sure most of us have had our $1.98 can of coffee, the smallest luxury we afford ourselves when we’re struggling, the little thing that keeps us going when times are hard, the tiny expenditure that shouldn’t make a difference to our budget, but often ends up doing so in ways we can’t reasonably foresee.
+For another little while, I was the voice on the other end of the phone when you called your power company about your new, unaffordable rate, the missed bill, the payment plan to catch up and avoid shutoff, commiserating with you that things are getting too damn expensive, and that greed is the reason why.
+Those tiny things that used to keep us hanging onto hope are getting more expensive too, more difficult to justify our need for, but our need isn’t lessened by that price–it instead just goes unaddressed.
+We need, but we cannot afford, and so we suffer, our families suffer.
+You may not know my name, but I’m sure you’ve seen me bringing food to people you care about every 2nd and 4th Saturday.
+If you’ve ever stopped into the Appalachian Mutual Aid Collective’s community meal space at First Presbyterian Church on Main Street, you’ve seen me helping to prep and serve the meals to people you care about in person, before I spend the rest of my evening taking them to people who cannot walk or drive, who have no transportation–because they need food, they don’t deserve to go hungry for not being able to afford a car payment, monthly insurance, the countless little expenses that can break a person’s budget without them ever being able to catch up, let alone get ahead.
+AMAC’s motto is “we keep us fed,” because we don’t just need food, we deserve it–regardless of our income level, our housing circumstances, whether or not we’re able to give back as much as we sometimes need to take.
+We need food, we need shelter, we need our children to be safe and provided for in our schools.
+We need public utilities that are both reliable and affordable, we need to actually be able to meet our needs through our work instead of just barely scraping by, because no labor is unskilled labor.
+We can’t keep robbing Peter to pay Paul; we need a future we can afford.
+We keep us fed, but we can also keep us housed; we can keep us secure, we can keep us thriving instead of just surviving, and we can keep our leaders accountable to our needs.
+We need an economy, government institutions, and leadership that work for all of us, and we need to make those demands together, by registering to vote, and supporting candidates who want to serve us.
+Whether you can volunteer your time by helping us reach other community members through door-knocking, donating to our Community Impact Fund which seeks to build a shelter for the unhoused in Upshur county, or getting out on election day to make your voice heard, we need you.
+Please vote Mira T-H on November 3rd, for a future we can afford.
+"I'm just a community volunteer who is tired of seeing the suffering of my neighbors be ignored by those in power."

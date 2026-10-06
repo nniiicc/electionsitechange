@@ -1,0 +1,6 @@
+Aug 26, 2020
+Idaho State Capitol – On Wednesday, the Idaho House passed House Bill 6, which would provide immunity from civil liability related to damages or injury from coronavirus, including for grossly negligent conduct.
+The legislation now awaits a hearing in the Senate...
+Aug 18, 2020
+Idaho – A federal court has granted a preliminary injunction blocking enforcement of House Bill 500, the transgender athlete ban passed by a Republican supermajority during the 2020 session and signed into law by Governor Little.
+In doing so, the court found that the...

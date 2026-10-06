@@ -1,0 +1,1 @@
+Published in: News Hallettsville Residents Encourage Council To Adopt ‘Sanctuary for the Unborn’ Ordinance Author Texas Scorecard Published on: February 21, 2025 Hallettsville Residents Encourage Council To Adopt ‘Sanctuary for the Unborn’ Ordinance

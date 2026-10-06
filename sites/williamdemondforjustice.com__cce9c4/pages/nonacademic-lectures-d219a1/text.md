@@ -1,0 +1,1 @@
+Guest Lecturer (several Houston area high schools): “Cyber-Bullying, Online Safety, and Privacy” (2013) An Introduction to Thanksgiving (2014) Teach Texas (one class, 2019) Peaceful Planet Retreat (2018 and 2019) – yoga instruction (Sivananda)

@@ -1,0 +1,13 @@
+Back to All Events
+In 2025, millions of Americans came together in nonviolent protest to oppose the growing authoritarian actions of the Trump administration and affirm that this nation belongs to its people, not to kings.
+Since then, people have continued to rise up nonviolently against the Trump administration’s ongoing brutality and abuses of power, including the latest escalation in Minnesota.
+We plan to gather on Highland Ave. near Dickson Street, and at 10am, we will march down Dickson Street, rain or shine.
+We will have trained peacekeepers and volunteers to help along the way.
+Join us in this peaceful, nonviolent demonstration and show this lawless administration that the American people will not stand for its many injustices and rank corruption.
+Previous
+Previous
+March 9
+Democratic Party of Benton County - March Meeting
+Next
+Next
+April 16

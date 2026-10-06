@@ -1,0 +1,130 @@
+Embedded Files
+As public school teacher of almost 40 years, a math department chairperson, curriculum coordinator, Board of Education trustee for 12 years, senior class advisor, student activities advisor, yearbook advisor, student accounts accountant, participant and/or leader on strategic planning, policy, finance, community relations, facilities, safety and emergency management, curriculum, negotiations and safety committees, and liaison to Westchester Community college, I know education - I know every aspect of education, I know kids.
+I would welcome the opportunity to collaborate with the New York State Department of Education to help develop stronger curricula, particularly at the elementary and middle school levels.
+When so many students are struggling with fundamental skills—social interaction, reading proficiency, penmanship, writing clearly and correctly, performing basic math, and communicating effectively—we are facing a serious and systemic challenge that deserves immediate and thoughtful attention.
+In addition, I will encourage and promote trades education programs and address college affordability.
+WHERE I STAND:
+US Department of Education:
+I do not support eliminating the U.S.
+Department of Education, but I do believe its role should be more focused and efficient.
+At the same time, I recognize that there is considerable inefficiency within the system.
+Reducing unnecessary spending and streamlining operations should be a priority, and I am confident that meaningful improvements can be made in these areas without compromising educational quality.
+One important function it can serve is helping to develop a cohesive, nationwide curriculum framework—especially in today’s highly mobile society, where families relocate more frequently than ever.
+Too often, students who move between states find themselves either far ahead or significantly behind due to inconsistent academic standards.
+A more aligned approach would help ensure continuity in learning and better support student success.
+School Choice:
+Not a fan.
+I will prioritize strengthening traditional public schools, take a measured and cautious approach to charter school expansion, and largely oppose diverting public funds to private schools.
+School funding:
+Conduct a thorough audit of education spending to prioritize efficiency and ensure more resources are directed into classrooms, while reducing unnecessary administrative overhead.
+At the same time, fully fund Foundation Aid, increase support for high-need districts such as Buffalo and Rochester, and invest in reducing class sizes to improve student outcomes.
+Curriculum Focus:
+Develop a cohesive, nationwide curriculum framework—especially in today’s highly mobile society, where families relocate more frequently than ever.
+Too often, students who move between states find themselves either far ahead or significantly behind due to inconsistent academic standards.
+A more aligned approach would ensure continuity in learning and better support student success.
+At the same time, this framework should emphasize a “back to basics” approach—prioritizing phonics-based literacy, strong math fundamentals, civics, and U.S. history—while limiting the inclusion of highly politicized or controversial content in the classroom.
+With my vast educational experience, I would be honored to chair the Education Committee at the state assembly level.
+Some of my thoughts in a nutshell but so much more ...
+Kindergarten:
+- Pledge of Allegiance, weather and calendar
+- No computers; play-based learning stations (fire station, police station, restaurant, kitchen, doctor’s office) to build vocabulary and social skills
+- Nap time is essential
+- Coloring, learning colors, numbers, counting, and the alphabet
+- Begin phonics and handwriting
+- Discuss weather and neighborhood
+- Homework: tracing letters and numbers
+- Arts & Music: Singing, rhythm exercises, drawing, introduction to simple instruments
+- Physical Education: Playtime, basic motor skills, structured movement games
+- Sign Language: Introduction to basic signs for communication and vocabulary
+First Grade:
+- Pledge of Allegiance, weather and calendar
+- Reading and phonics instruction
+- Penmanship and writing practice
+- Math: addition, subtraction, and grouping
+- Spelling instruction
+- Arts & Music: Singing, rhythm, beginner music notation, drawing and craft projects
+- Physical Education: Team games, basic coordination and balance exercises
+- Sign Language: Expand vocabulary and simple phrases
+Second Grade:
+- Pledge of Allegiance, weather and calendar
+- Weather and community discussions
+- Reading groups by ability; phonics and comprehension
+- Penmanship and writing practice
+- Math: addition, subtraction, introduction to multiplication
+- Science experiments and observation
+- Spelling and vocabulary
+- Tests: math, spelling, vocabulary, reading comprehension
+- Arts & Music: Group performances, instrument exploration, painting, crafts
+- Physical Education: Relay races, cooperative games, introductory sports skills
+- Sign Language: Expand to conversational skills and classroom communication
+Third Grade:
+- Pledge of Allegiance
+- Reading comprehension and vocabulary expansion
+- Introduce cursive
+- Writing: paragraphs and simple essays; grammar basics
+- Math: multi-digit addition and subtraction, word problems
+- Science: hands-on experiments and reports
+- Social skills: teamwork, cooperation, and reading social cues
+- Assessments: reading comprehension, spelling, math, science
+- Arts & Music: Choir or small group singing, structured art projects, instrument lessons
+- Physical Education: Team sports, coordination exercises, movement games
+- Sign Language: Continue conversational skills, integrate into classroom routines
+Fourth Grade:
+- Pledge of Allegiance
+- Reading comprehension and vocabulary enrichment
+- Writing: paragraphs, grammar, sentence structure
+- Math: multi-digit addition and subtraction, long division
+- Science: experiments, observation, simple reports
+- Social studies: U.S. history basics, geography, community studies
+- Social interaction: group projects and peer collaboration, public speaking
+- Assessments: reading, writing, math, science, social studies
+- Arts & Music: Music theory basics, ensemble work, visual arts projects, creative expression
+- Physical Education: Team sports, fitness routines, skill development in individual and group activities
+- Sign Language: Practice formal and informal communication; use for classroom collaboration
+Fifth Grade:
+- Pledge of Allegiance
+- Reading: literature, comprehension, critical thinking
+- Writing: essays, creative writing, grammar, vocabulary enrichment
+- Math: fractions, decimals, percentages, basic geometry, problem-solving
+- Science: experiments, scientific method introduction, reporting
+- Social studies: U.S. history and civics fundamentals
+- Social skills: teamwork, leadership, conflict resolution, public speaking
+- Assessments: reading, writing, math, science, social studies
+- Arts & Music: Advanced ensemble work, music performance, arts integration projects, portfolio building
+- Physical Education: Advanced team sports, fitness assessments, cooperative and competitive games
+- Sign Language: Refine fluency, incorporate advanced communication and peer teaching
+Technology Introduction:
+- Minimal use of computers in K–5; focus remains on hands-on learning, handwriting, and traditional math practice
+- Middle school introduces technology gradually; calculators reserved for high school courses
+Home Economics and Shop classes
+cooking, laundry, using tools, changing a tire, fixing a leaking toilet or faucet, banking
+High School Seminars Series
+etiquette, dressing appropriately, putting on a tie, branding, interviewing, college prep, unbiased politics, unbiased social issues, taxes
+Accountability, Administrators, Teachers and Union:
+I am a NYSUT member and strongly support unions.
+I will support preserving essential tenure protections while suggesting to extend the probationary period from three to five years to allow for a more thorough evaluation process.
+At the same time, we need to streamline and clarify dismissal procedures so that consistently underperforming teachers and administrators can be removed more efficiently, while still ensuring due process.
+Assessments should draw on multiple measures—such as student outcomes, classroom observations, and peer input—while emphasizing collaborative models that support professional growth.
+Teacher tenure decisions should not rely solely on test scores, since educators work with students who vary widely in abilities, backgrounds, class composition, and subject matter.
+Performance evaluations should reflect this complexity.
+I believe teachers who excel should be recognized and rewarded financially, and Advanced Placement (AP) teachers should receive a stipend to acknowledge the additional responsibilities and expertise their courses require.
+At the same time, our superintendent salaries are out of control.
+I know we want the best but fiscal sanity must prevail.
+Let's be clear, accountability goes for students, too.
+Discipline and Safety:
+I take an old-school approach to school discipline, favoring clear and consistent rules, while supporting counseling and peer courts as constructive ways to address student behavior.
+I also support the presence of school resource officers to maintain safety and order, and advocate restricting cellphone use in classrooms to minimize distractions—while recognizing that phones are sometimes necessary for learning or communication.
+Early education:
+I support early literacy initiatives and programs that give young children a strong start, but I have a more cautious stance on universal Pre-K expansion, particularly when costs are high.
+While early education is important, I believe there are times when it is reasonable for parents to take primary responsibility for their children’s early learning as well as the expense that comes with having children, rather than relying solely on publicly funded programs.
+Career Pathways and Higher Education
+I support expanding career pathways through vocational training, apprenticeships, and trade programs, helping students explore diverse options beyond the traditional college track.
+Not every child needs to attend college to become successful and contribute meaningfully to society.
+For those who do pursue higher education, public colleges must be more affordable, student loan interest rates should be lowered, unnecessary yet required electives should be eliminated or at least minimized, and the federal government should not be managing student loans at all, allowing the private sector to provide more flexible and responsible financing options.
+I believe that individuals who are in the country illegally should not be eligible for scholarships or publicly funded educational benefits.
+Access to these resources should be reserved for legal residents and citizens, while still ensuring that all students following legal pathways have opportunities to succeed.
+YOUR INPUT IS ALWAYS APPRECIATED and I'd love to hear from you.
+laurieryan4ny@gmail.com
+Page updated
+Google Sites
+Report abuse

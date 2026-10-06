@@ -1,0 +1,20 @@
+TO: Interested Parties
+FROM: Amanda McKinney for Washington
+RE: What WA-04 Primary Voters Need to Know
+What Voters In Yakima Need To See On Broadcast
+Amanda McKinney has led the fight to protect Central Washington's water supply.
+She defended senior water rights, successfully pushed to expand water storage, and fought bureaucrats and corporations threatening the farmers, businesses, and families that depend on reliable water.
+- https://www.yakimaherald.com/news/local/panel-dives-into-yakima-basin-integrated-plans-history-and-future/article_b816ebae-fc5d-11ef-b713-63906b9baef4.amp.html
+- https://www.applevalleynewsnow.com/news/yakima-co-commissioner-concerned-over-water-use-for-horse-heaven-wind-farm-project/article_d8a902e0-6e19-11ee-9cb0-eb8ac29f8d07.html
+Amanda McKinney is fighting to protect girls' sports and defend Title IX.
+She strongly opposes allowing biological males to compete against female athletes and is standing up to political pressure to preserve fairness and opportunity for women.
+Amanda McKinney uncovered $6.3 million in taxpayer-funded fraud and held government accountable.
+In Congress, she'll fight waste, corruption, and the politicians who put special interests ahead of taxpayers.
+Republican Primary Voters District Wide On Digital/CTV, Mail, and Text
+- Amanda McKinney isn't a career politician.
+As a county commissioner, she took on the establishment, exposed wasteful spending, and delivered results.
+That's why President Trump endorsed her campaign for Congress.
+- Amanda McKinney is the ONLY candidate endorsed by President Trump
+- Jerrod Sessler is openly lying about being endorsed by Donald Trump.
+He is not endorsed by Donald Trump and cannot produce proof of an endorsement
+NOTE: Voters Outside of Yakima Media Market Need More Frequent Mail, Text, and Digital.

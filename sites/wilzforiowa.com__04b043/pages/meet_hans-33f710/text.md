@@ -1,0 +1,21 @@
+Sign Up for Updates
+Thanks for signing up!
+Meet Hans
+I am deeply passionate about representing district 25 as it has been my beloved home for more than 50 years.
+The experience of serving the vibrant communities within District 25 over the past term has been truly exceptional and humbling.
+I have had the privilege of engaging with members from various communities through my active participation in events, social gatherings, parades, and numerous other occasions.
+My connection to Ottumwa runs deep, as my parents immigrated from Germany in the 1950s, choosing to make Ottumwa their home where they established our family businesses.
+This city holds a special place in my heart, not only for my family but also for the contributions of our family businesses.
+With nearly 30 years of marriage to my wonderful wife, who hails from Minnesota, and the support of my two sons, Andreas and Marcus, I am inspired to continue my service to the community.
+I have always found fulfillment in contributing to our community, whether through volunteering at events or actively participating in various committees.
+These experiences have been both humbling and educational, shaping my commitment to public service.
+My extensive business ventures have taken me across the globe, providing me with invaluable perspectives.
+Throughout my journey, I have come to understand the importance of input in achieving quality output.
+With over three decades dedicated to building businesses for myself and others, I have honed my ability to listen, problem-solve, and find effective solutions.
+It is with a deep sense of responsibility and enthusiasm that I seek to bring these skills to the forefront as I aspire to serve in the house and continue contributing to the betterment of our community.
+This session I serve on the following committees:
+- Health and Human Services
+- Sub Appropriations for Health and Human Services
+- State Government
+- Commerce
+- Environmental Protections

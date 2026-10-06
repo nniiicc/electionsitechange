@@ -1,0 +1,37 @@
+My Platform
+I am running because I want to work for the people of Altoona and our neighboring communities.
+I believe that the most important thing we can do is to improve conditions for the working class.
+LIST OF PRIORITIES
+Investing in and supporting the working class
+- Improved access to and support for child care
+- Paid parental leave for both parents of a newborn
+- Increase the Minimum Wage
+- Close tax Loopholes that create disadvantages for PA businesses
+- Keep our rural hospitals open
+- Fund our schools and prevent privatization of school systems
+- Fight against predatory lending and credit systems
+- Support relief for school loans and expansion of community college and trade school options
+- Promote Unions and worker class solidarity
+Affordability
+- Stop data centers from raising energy costs
+- Prevent monopolization of healthcare
+- Prevent price gouging by Corporate Housing interests
+- Ensure rights for consumers to repair the things we buy
+- Outlaw all preventable forms of Surveillance pricing
+- Prevent privatization of water and other public services
+- Tax corporations and billionaires properly in order to lower taxes for the working class
+Protecting Our Rights and Freedoms
+- Protect right to choose
+- Legalize adult-use marijuana
+- Fight back to protect our civil rights against ICE
+- Removal of Civil Forfeiture laws
+- Promote and protect RESPONSIBLE gun ownership
+Defending Democracy
+- Create fair districts and stop gerrymandering
+- Reform and remove corporate money from politics
+- Outlaw insider trading for ALL politicians
+- Protect our elections from federal interference
+Standing up for Our Veterans
+- Pass HB206 to exempt the spouses of active-duty service members from local income taxes.
+- Pass HB207, which would exempt the spouses of active-duty service members from state income taxes.
+- Pass HB1257 to exempt all 100% disabled veterans from property tax payments and guarantee benefits for the surviving spouses of eligible veterans.

@@ -1,0 +1,35 @@
+Endorsements
+Fraternal Order of Police
+Lodge #1
+2022 • 2024 • 2026
+Professional Firefighters of Torrance County
+IAFF Local 5441
+2024 • 2026
+New Mexico Professional Firefighters Association
+2026
+Gun Owners of America
+2022 • 2024 • 2026
+National Rifle Association
+2022 • 2024 • 2026
+The Albuquerque Police Officers’ Association
+2022 • 2024
+Estancia Police Chief
+Tom Carter
+2026
+Sheriff Shane Ferrari
+Albuquerque Area Firefighters
+IAFF Local 244
+2026
+Sheriff Mark Cage
+“Representative Lord has been a fighter for the Second Amendment for many years as the founder of Pro-Gun Women.
+She led the fight against unconstitutional red flag laws, and she is the #1 defender of the Second Amendment in the state legislature.
+It is CRUCIAL for the protection of our rights to re-elect Representative Stefani Lord.”
+Sheriff Corey Helton
+“I’ve known Representative Lord for years.
+We have stood side-by-side in the fight for our gun rights in New Mexico.
+People talk a lot about defending our rights, but she actually does it.
+We NEED her in the legislature.”
+Former Bernalillo County Deputy Sheriffs Association President Aaron Velarde
+“The Bernalillo County Deputy Sheriff’s Association endorsed Stefani Lord because she is not a politician.
+She is a true patriot and representative of the people, who believe in law and order and genuinely cares about the safety and success of all New Mexicans.” – Aaron Velarde
+Former Bernalillo County Deputy Sheriff’s Association President 2020

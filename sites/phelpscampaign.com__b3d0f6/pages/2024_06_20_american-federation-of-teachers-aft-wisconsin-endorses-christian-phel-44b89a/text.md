@@ -1,0 +1,10 @@
+American Federation of Teachers (AFT) – Wisconsin Endorses Christian Phelps for Wisconsin’s 93rd Assembly District
+On Thursday, June 13, the American Federation of Teachers-Wisconsin (AFT-Wisconsin) endorsed Christian Phelps for the 93rd Assembly District, covering the western half of the city of Eau Claire and parts of Dunn, Eau Claire, and Trempealeau Counties.
+“Whether he is in the capitol testifying or meeting with concerned community members in a public library, Christian is a strong voice for the schools Wisconsin students need and will be a strong legislator,” said Kim Kohlhaas, President of AFT-Wisconsin.
+The union represents thousands of public sector laborers in Wisconsin, at both the preK-12 level and higher education professionals, including faculty and staff at UW-Eau Claire, UW-Stout, Chippewa Valley Technical College, school clerical employees in Eau Claire, and more.
+“This campaign is all about bringing power back to the public,” said Christian Phelps.
+“Coming from a family of Wisconsin public school educators and a background in public education, it is my honor to work with educators at AFT-Wisconsin and to fight to restore labor rights throughout the public sector.”
+“This endorsement comes at a precarious time for our higher education system, as we celebrate the new science building at UW-Eau Claire right here in the 93rd but have also just learned about the closure of the two-year UW-Oshkosh Fox Cities campus,” Phelps continued.
+“By working with this fantastic labor union, we can fully reinvest in our public education system from cradle to college and beyond.”
+This endorsement makes Phelps the first union-endorsed candidate in the race for the 93rd Assembly District.
+Phelps spent two years as a paraprofessional in Wisconsin public schools and has worked for four years as communications director for Wisconsin Public Education Network, a nonprofit organization that advocates for public schools.

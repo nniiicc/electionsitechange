@@ -1,0 +1,49 @@
+Why I Serve
+CORE BELIEFS AND GOALS
+To maintain a healthy democracy we need a strong public education system, well-maintained infrastructure that includes roads, bridges and affordable housing, quality affordable and accessible mental and physical health services and public safety agencies.
+My pledge to the constituents of Greenland and Rye is to work toward these goals.
+Good government is about bringing people together to form the best policy and balanced budgets, not partisanship.
+- Ensuring NH meets its constitutional requirement of supporting K-12 public education
+- Supporting affordable and accessible health care for all of NH’s citizens
+- Protecting NH’s drinking water sources
+- Affordable and accessible housing for people of all ages
+- Maintaining roads and bridges to attract business and insure personal safety
+- Ensuring that state financial obligations are not forced onto towns or cities that will raise property taxes
+- Addressing college student debt in New Hampshire
+- Working across the aisle to create balanced state budgets
+- Thoroughly understanding both local and statewide issues
+Together, we’ve achieved much in the past few years.
+- Co-sponsored and passed legislation that establishes the requirement for the use of American made steel products in all public works projects where the state administers the contract and the contract involves at least $1 million state dollars
+- Co-sponsored and passed legislation to clean-up the Coakley Landfill
+- Co-sponsored and passed legislation to establish the Seacoast Cancer Cluster Investigation Commission
+- Co-sponsored and passed legislation to lower the minimums for PFOA and PFAS in drinking water throughout the state
+- Co-sponsored and passed legislation to include Greenland representation on the Pease Development Authority Board of Directors
+Biography
+Dennis Malloy is serving his sixth term in the NH House of Representatives serving Greenland and Rye.
+Originally from Iowa, Dennis and his wife Laura have lived in New Hampshire for the past 23 years.
+He was appointed to the Ways & Means Committee in 2017 and served as clerk of Ways & Means in the 2019-2020 term.
+The Ways and Means Committee studies all of NH’s sources of revenue and advises the House on all tax and fee revenue that will be available to the Finance Committee.
+Dennis was originally elected to the NH House from Barrington in 2012 and appointed to the Municipal and County Government Committee.
+He also served two terms as Barrington Selectman before moving to Greenland to be closer to his wife’s business, Malloy Interiors located in North Hampton.
+From 2001 to 2011 Dennis served as the Chief Development Officer for NH Public Television and is an arbitrator with the Financial Industries Regulatory Authority (FINRA) that provides oversight and regulatory leadership to the securities industry.
+Dennis and Laura both graduated from college and began their professional careers in Iowa.
+Dennis holds degrees from Coe College in Cedar Rapids and Iowa State University in Ames.
+In Iowa, Dennis served as Director of Development and Community Relations for Iowa Public Television and as station manager for an FM radio station in Des Moines.
+In addition to his work in the legislature, Dennis also serves on the following boards and committees:
+Current Community Service
+- NH House Ways & Means Committee Deputy Ranking Member
+- Chair, Greenland Trustee of Trust Funds
+- Seacoast Long-Term Drinking Water Commission
+- Chair, Great Bay Stewards Board of Trustees Development Committee
+- Seacoast Y Advisory Board
+- Granite State Y Board of Directors
+- New Hampshire Ireland Trade Council
+- Iowa State University Greenlee School of Journalism Advisory Council
+Past Service
+- Seacoast Pediatric Cancer Cluster Investigation Commission
+- Pease Restoration Advisory Board
+- Shoreland Septic System Commission
+- New Generation Inc., Board of Directors
+- Chair, Development Committee Leadership New Hampshire Board of Trustees
+- Board of Directors of the Central Iowa Red Cross
+- Polk County Cancer Society

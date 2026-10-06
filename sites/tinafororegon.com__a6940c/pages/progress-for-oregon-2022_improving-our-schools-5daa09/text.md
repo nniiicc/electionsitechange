@@ -1,0 +1,7 @@
+Governor Kotek is committed to supporting Oregon educators and strengthening student success.
+While there is more to be done, in her first term, Governor Kotek made education one of her top priorities – ensuring every child has equal opportunity to learn.
+- Governor Kotek secured funding for early literacy to improve how we teach kids to read and write, increased summer learning programs, and committed $50 million to increase access to affordable childcare and help keep childcare providers in business.
+- Governor Kotek expanded Oregon’s commitment to Dolly Parton’s Imagination Library to put books into the hands of kids in every county in Oregon.
+- Governor Kotek hosted the first Summer and After School Learning Summit to develop programs that keep kids supported, safe, and engaged year-round.
+- Governor Kotek signed new laws ensuring school districts track outcomes for improving student learning in areas like math, reading, and on-time graduation.
+KATU: “The four bills introduce new student performance targets for districts, strengthen oversight of educational spending, and expand grant resources for early literacy and high school success.”

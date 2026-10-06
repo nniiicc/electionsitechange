@@ -1,0 +1,42 @@
+Delivering For Western Minnesota
+FIGHTING TO SAVE YOU MONEY
+In the State Senate, I have prioritized lowering costs and letting you keep more of your money.
+- Delivered an average of $1,600 in property tax relief for Minnesota homeowners
+- Secured the largest Social Security tax cut in state history, eliminating state taxes on benefits for nearly all Minnesota seniors
+- $1 billion in rebates to middle-class families across Minnesota
+- Championed Minnesota’s digital right to repair law so you can affordably fix your phone, laptop, or appliance
+Tackling Fraud
+The State must be good stewards of your money.
+The fraud that has occurred is unacceptable and during the entirety of my first term I have worked to put guardrails in place to protect your money.
+- Established a statewide independent Inspector General, which will serve as a taxpayer watchdog to not only catch fraud, but stop it before it starts
+- Fought to increase penalties and stronger prison sentences for fraudsters
+- Implemented an 100% tax on fraud, ensuring fraudsters never profit from their crimes
+- Delivered bipartisan legislation to enhance protections for public employees who report fraud or suspected criminal activity
+Standing Up For
+Our Farmers
+Farmers are the backbone of our local economy in Western Minnesota.
+I have championed legislation that makes it cheaper and easier to farm.
+- Established the Grain Indemnity Fund to protect farmers when buyers breach contract
+- Fought for right to repair legislation to allow farmers to fix their own machines
+- Pushed back against harmful regulations that raise the cost of farming and place unnecessary burdens on farmers
+- Renewed and expanded the Beginning Farmer Tax Credit, providing crucial support to new farmers
+Lowering Costs For Seniors
+Minnesota must be a place that people can afford to retire in.
+During my first term I worked tirelessly to reduce burdens on seniors and ensure that you can enjoy your retirement.
+- Deliver a historic Social Security tax cut, eliminating state income tax for most seniors
+- Capped the cost of prescription drugs, ensuring seniors can afford lifesaving medications
+- Supported legislation that provided additional funding for nursing homes
+- Strengthened Minnesota's laws around scam calls that seek to take advantage of seniors, providing increased protections for our seniors
+Supporting Families
+I know just how amazing it is to raise a family in Minnesota.
+I am focused on ensuring the next generation can afford to start a family here in our state
+- Passed a nation-leading Child Tax Credit, providing up to $1,800/child
+- Ensured historic investments in early learning scholarships across the state, providing more opportunities for children
+- $15 million in investments for childcare, with an emphasis on supporting Greater Minnesota
+- Provided families $2,000 in savings by providing school lunches in public schools
+Reducing Burdens On Local Businesses
+Our local business owners and small businesses are essential to the fabric of our community.
+I have championed legislation that makes it easier for businesses to thrive.
+- Provided $6 million in funds directed at business development and economic growth
+- Historic investments to improve access to job trainings and apprenticeships, ensuring a strong workforce here in Western Minnesota
+- Delivered major tax savings for businesses by allowing Minnesota's business to deduct more of their state taxes from federal taxes

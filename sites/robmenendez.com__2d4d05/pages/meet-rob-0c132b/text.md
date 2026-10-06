@@ -1,0 +1,7 @@
+Since taking office, Rob has delivered more than $12 billion in federal dollars for New Jersey’s Eighth Congressional District – for transformative improvements to our transportation systems, protecting our environment, funding community projects, and much more.
+He is committed to finding comprehensive solutions for our toughest issues and serves as a voice for our shared priorities.
+Rob serves on the House Energy and Commerce Committee, the oldest continuously-standing committee in the United States House of Representatives, with the broadest jurisdiction of any authorizing committee – touching upon healthcare, the environment, energy policy, telecommunications, privacy, cybersecurity, consumer protection, interstate and foreign commerce, and many other areas.
+In this capacity, Rob’s leadership gives the working families of New Jersey’s Eighth District a seat at the table on their top priorities including affordability, healthcare accessibility, economic growth, and environmental justice.
+Rob leads as DCCC Northeast Vice Chair, fighting to protect your values and helping Democrats take back the House Majority in 2026.
+Rob also serves as Finance Co-Chair for CHC BOLD PAC, the campaign arm of the Congressional Hispanic Caucus, to continue investing in and expanding Latino representation nationwide.
+He is a member of several caucuses, ranging from the House Pro-Choice Caucus to the Dads’ Caucus.

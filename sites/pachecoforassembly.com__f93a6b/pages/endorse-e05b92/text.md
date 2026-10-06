@@ -1,0 +1,9 @@
+HOME
+MEET BLANCA
+PRIORITIES
+ENDORSEMENTS
+MEDIA
+GET INVOLVED
+NEWSLETTER SIGN UP
+More
+Thank you for endorsing Blanca for State Assembly!

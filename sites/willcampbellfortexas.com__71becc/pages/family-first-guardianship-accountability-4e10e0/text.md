@@ -1,0 +1,1436 @@
+Texas Family-First Guardianship, Emergency Asset Protection, and Ward Stewardship Act
+Estates Code and Government Code · 90th Legislature
+Establishes family-first guardianship appointment rules, emergency protections for
+vulnerable adults and ward property, expedited review after material medical change, estate stewardship
+protections, and enforcement and accountability provisions for guardianship proceedings.
+By:
+H.B.
+No.
+A BILL TO BE ENTITLED AN ACT
+relating to family-first appointment and succession of guardians for certain adults,
+emergency protection of a vulnerable person's person and property before a guardianship hearing,
+expedited review following a material medical change, consensual safe-family residence arrangements and
+interstate transfer procedures for wards, independent stewardship and protection of a ward's estate
+regardless of estate size, enforcement of the bill of rights for wards, reporting of guardianship
+appointments and compensation, and accountability of guardians and court-appointed persons.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF TEXAS
+SECTION 1.
+SHORT TITLE.
+This Act may be cited as the Texas Family-First Guardianship, Emergency Asset
+Protection, and Ward Stewardship Act.
+SECTION 2.
+AMENDMENT.
+Section 1101.103, Estates Code, is amended by adding Subsection (g) to read as
+follows:
+(g) A court that creates a guardianship for an adult
+based in whole or in part on a letter or certificate under this section shall include in the order
+creating the guardianship a statement that a material change in the ward's diagnosis, prognosis,
+physical condition, mental functioning, or functional capacity may require expedited review under
+Section 1202.158.
+SECTION 3.
+NEW PROVISION.
+Subchapter D, Chapter 1202, Estates Code, is amended by adding Section 1202.158 to
+read as follows:
+Sec. 1202.158.
+EXPEDITED REVIEW FOLLOWING MATERIAL MEDICAL CHANGE.
+(a) In this
+section, "material medical change" means a documented change in a ward's medical
+diagnosis, prognosis, physical condition, mental functioning, or functional capacity that:
+(1) calls into reasonable question the factual basis for a
+finding of incapacity or the scope of authority granted to a guardian;
+(2) states that the condition on which the guardianship
+was based has improved, resolved, was incorrectly diagnosed, or has been replaced by a different
+diagnosis; or
+(3) indicates that a less restrictive alternative to
+guardianship may be feasible.
+(b) A ward may request review under this section by
+informal letter, an accessible form, or a verified motion.
+The ward's attorney, an attorney ad
+litem, a guardian ad litem, the guardian, a person interested in the ward's welfare, or a health
+care provider who has examined or treated the ward may file a verified motion for expedited review.
+A
+filing that is not made by the ward must include a letter, certificate, medical record, or sworn
+declaration from a physician, psychologist, or advanced practice registered nurse describing the
+material medical change.
+If a ward files an informal request without supporting evidence, the court
+investigator, guardian ad litem, or attorney ad litem shall promptly assist the ward in obtaining
+available records and any letter or certificate required by Section 1202.152.
+(c) Evidence from an advanced practice registered nurse
+is sufficient to trigger the expedited procedures under this section but does not replace a physician's
+or psychologist's letter or certificate required by Section 1202.152 for a final order restoring
+capacity or modifying the guardianship.
+The court may enter temporary protective relief while evidence
+required by Section 1202.152 is obtained.
+(d) On filing of a request or motion under this section,
+the court shall:
+(1) appoint a court investigator or guardian ad litem
+under Section 1202.054 not later than the fifth business day after the date the filing is made, unless
+an investigator or guardian ad litem has been appointed and the court finds in writing that a new
+appointment is unnecessary;
+(2) provide notice of the filing to the ward, the ward's
+attorney ad litem, the guardian, each person entitled to notice under Section 1051.104, and each adult
+family member identified under Section 1104.1035;
+(3) set a hearing not later than the 21st day after the
+date the filing is made; and
+(4) make a written finding not later than the 10th day
+after the date of the hearing regarding whether the guardianship should be terminated, modified,
+continued, or subjected to a temporary protective limitation under Subsection (e).
+(e) Pending the hearing and final order under this
+section, the court may enter a temporary order necessary to protect the ward.
+A temporary order may not:
+(1) change the ward's residence;
+(2) authorize removal of the ward from a safe family
+residence;
+(3) authorize a sale, mortgage, gift, transfer, or other
+disposition of the ward's real property or a nonroutine expenditure from the ward's estate; or
+(4) restrict reasonable in-person contact between the ward
+and an adult family member;
+unless the court finds by clear and convincing evidence, in a written order supported
+by specific facts, that the action is immediately necessary to prevent substantial physical harm to the
+ward or substantial and irreparable loss to the ward's estate.
+(f) The court shall consider the ward's current and
+previously expressed preferences, the opinion of the ward's treating health care providers, the
+availability of a willing and eligible family guardian, the safety and adequacy of the ward's
+proposed living arrangement, and the feasibility of a less restrictive alternative to guardianship.
+(g) An expedited-review request under this section is not
+subject to a limitation on reapplication if the request is supported by evidence of a material medical
+change that was not available at the time of the most recent hearing.
+(h) The court shall provide the ward a reasonable
+opportunity to attend the hearing in person or by remote means and to communicate the ward's wishes
+directly to the court, unless the court finds in writing that participation would cause substantial harm
+to the ward's health.
+SECTION 4.
+NEW PROVISION.
+Subchapter C, Chapter 1104, Estates Code, is amended by adding Section 1104.1035 to
+read as follows:
+Sec. 1104.1035.
+FAMILY-FIRST APPOINTMENT AND SUCCESSION OF GUARDIAN OF PERSON.
+(a) In
+this section:
+(1) "Adult family member" means an adult spouse,
+child, parent, sibling, grandchild, grandparent, aunt, uncle, niece, nephew, first cousin, or another
+adult related to the incapacitated person by blood, marriage, or adoption.
+(2) "Material conflict of interest" means a
+present financial, legal, or personal interest that creates a substantial risk that the proposed
+guardian cannot act loyally in the incapacitated person's interest.
+Family disagreement or a
+potential future inheritance, without additional specific facts, is not a material conflict of interest.
+(3) "Reasonable and documented efforts" means
+diligent efforts reasonably calculated to identify, locate, and provide notice, with each source
+consulted, inquiry made, address used, communication attempted, response received, and date recorded in
+a sworn filing.
+(4) "Safe family residence" means a residence
+with an adult family member in which the incapacitated person's essential needs are met and for
+which there is no clear and convincing evidence of an imminent and substantial risk of physical harm
+that cannot be prevented by a less restrictive measure.
+(5) "Substantiated finding" means a final
+conviction, final civil judgment, final administrative finding after notice and opportunity for review,
+or finding by a court after notice and an evidentiary hearing.
+(b) This section applies to the appointment of a guardian
+of the person for an adult incapacitated person.
+This section does not limit:
+(1) a valid declaration of guardian made by the
+incapacitated person under Subchapter E;
+(2) the preference of the incapacitated person under
+Section 1104.002; or
+(3) the appointment of a temporary guardian necessary to
+prevent imminent and substantial harm under Chapter 1251.
+(c) Except as provided by Subsection (b), the court shall
+appoint a guardian of the person according to the following order of priority, if the person is eligible
+and willing to serve:
+(1) the spouse of the incapacitated person;
+(2) the adult children of the incapacitated person in
+descending order of age;
+(3) the parents of the incapacitated person in descending
+order of age;
+(4) the adult siblings of the incapacitated person in
+descending order of age;
+(5) the adult grandchildren of the incapacitated person in
+descending order of age;
+(6) the nearest living adult relative of the incapacitated
+person, with preference among relatives of the same degree of kinship given in descending order of age;
+and
+(7) a qualified person appointed by the court under
+Section 1104.102(3).
+(d) A person listed in Subsection (c) is eligible for
+appointment only if the person:
+(1) meets the eligibility requirements otherwise imposed
+by this title;
+(2) completes the training required by law before
+appointment, unless training is waived as authorized by law;
+(3) files a sworn statement that the person is willing and
+able to serve and will comply with the duties of a guardian of the person; and
+(4) is not disqualified under this title.
+(e) The applicant for appointment shall file a sworn
+family-information affidavit identifying each adult family member known or reasonably ascertainable
+through reasonable inquiry of the proposed ward, emergency contacts, prior agents under powers of
+attorney or medical powers of attorney, reasonably available health-care and facility records, known
+estate-planning documents, and reasonably accessible public records.
+The affidavit must state each
+person's relationship and last known contact information, describe the source of the information,
+document every contact effort, identify any person whose location remains unknown, and disclose any
+known dispute or allegation affecting eligibility.
+(f) The applicant shall supplement the affidavit not
+later than the fifth business day after discovering material additional information.
+A knowing and
+material omission or concealment is grounds for fee forfeiture, sanctions, referral to an appropriate
+authority, and any other remedy authorized by law.
+(g) Before appointing a person under Subsection (c)(7),
+the court shall review the affidavit, direct any additional reasonable inquiry necessary to identify,
+locate, and notify each adult family member listed in Subsection (c)(1)-(6), and allow each notified
+family member not less than 21 days after service or actual notice to:
+(1) file an application for appointment;
+(2) file a written waiver under Section 1104.1036; or
+(3) state an objection to the appointment of another
+proposed guardian.
+(h) If a priority family member was materially omitted
+from the affidavit or notice process, the court shall promptly provide notice and conduct a new
+family-priority hearing.
+The court may preserve only powers immediately necessary to prevent imminent
+and substantial harm until the hearing is completed.
+(i) A court may bypass a person with priority under
+Subsection (c) only if the court finds by clear and convincing evidence, stated with specific facts in a
+written order, that the person:
+(1) is not eligible or qualified to serve;
+(2) has filed a valid waiver under Section 1104.1036;
+(3) is subject to a substantiated finding that the person
+committed abuse, neglect, exploitation, or a material breach of fiduciary duty against the incapacitated
+person or another vulnerable person;
+(4) has a presently existing material conflict of interest
+that cannot be eliminated by a limited guardianship, bond, court supervision, appointment of a separate
+guardian of the estate, or another less restrictive protective measure, or has engaged in specific
+conduct that creates an imminent and substantial risk of physical or financial harm to the incapacitated
+person; or
+(5) cannot be located after reasonable and documented
+efforts.
+(j) The existence of disagreement among family members,
+standing alone, does not constitute a basis to bypass the priority order in Subsection (c) or appoint a
+professional guardian.
+A court shall first consider mediation, appointment of a court visitor or
+investigator, limited guardianship, or another less restrictive alternative reasonably available to
+resolve the disagreement.
+(k) If a person with priority under Subsection (c)
+authorizes in a signed and notarized writing another eligible family member to serve as guardian of the
+person, the court may appoint the authorized family member if the court finds that the appointment is in
+the incapacitated person's best interest.
+The authorization must be filed with the court and
+provided to all persons entitled to notice under this section.
+(l) Nothing in this section authorizes a guardian of the
+person to exercise powers over the ward's estate except as otherwise provided by this title and
+expressly authorized by court order.
+SECTION 5.
+NEW PROVISION.
+Chapter 1104, Estates Code, is amended by adding Section 1104.1036 to read as
+follows:
+Sec. 1104.1036.
+WAIVER OF PRIORITY TO SERVE AS GUARDIAN OF PERSON.
+(a) A person with
+priority under Section 1104.1035 may waive the person's priority only by filing a sworn waiver with
+the court.
+(b) The waiver must:
+(1) identify the incapacitated person and the guardianship
+proceeding;
+(2) state that the person understands the right to seek
+appointment under Section 1104.1035;
+(3) state that the waiver is voluntary and is not the
+result of coercion, fraud, undue influence, a threat, a promise of compensation, or denial of access to
+the incapacitated person;
+(4) state whether the person recommends another eligible
+family member for appointment;
+(5) be signed before a notary public or other officer
+authorized to administer an oath;
+(6) state that the waiver does not waive the person's
+right to receive notice, participate as an interested person, seek removal of a guardian for cause,
+report suspected abuse or exploitation, or petition for modification or termination of the guardianship;
+and
+(7) be accompanied by a certification of service on each
+adult family member entitled to notice under Section 1104.1035.
+(c) A waiver is void if procured by fraud, coercion,
+undue influence, material misrepresentation, concealment of a material fact, or denial of reasonable
+access to the incapacitated person.
+A person alleging that a waiver is void may file a verified motion,
+and the court shall set the motion for hearing not later than the 21st day after the date the motion is
+filed.
+(d) A court-appointed guardian, temporary guardian,
+attorney ad litem, guardian ad litem, court investigator, court visitor, attorney representing a
+proposed guardian, nursing facility, financial institution, or person seeking appointment may not
+prepare, solicit, witness, notarize, or materially assist in obtaining a waiver from a family member
+unless the family member is represented by independent counsel or the court authorizes the process in a
+written order after notice and hearing.
+(e) The Office of Court Administration of the Texas
+Judicial System shall develop a standard waiver form that courts shall make available without charge in
+paper and electronic formats.
+SECTION 6.
+PROVISION.
+Section 1104.102, Estates Code, is amended to read as follows:
+Sec. 1104.102.
+APPOINTMENT PREFERENCES.
+(a) If the court finds that two or more
+eligible persons are equally entitled to be appointed guardian of an incapacitated person:
+(1) the incapacitated person's spouse is entitled to
+the guardianship in preference to any other person, if the spouse is one of the eligible persons;
+(2) subject to Section 1104.1035, the eligible person
+nearest of kin to the incapacitated person is entitled to the guardianship, if the incapacitated person's
+spouse is not one of the eligible persons; or
+(3) the court shall appoint the eligible person who is
+best qualified to serve as guardian if:
+(A) the persons entitled to serve under Subdivisions
+(1) and (2) refuse to serve;
+(B) two or more persons entitled to serve under
+Subdivision (2) are related in the same degree of kinship to the incapacitated person; or
+(C) neither the incapacitated person's spouse nor
+a person related to the incapacitated person is an eligible person.
+(b) For purposes of Subsection (a)(2) and Section
+1104.1035, adult children and other relatives of the same degree of kinship are not equally entitled
+until the court has applied the order of priority under Section 1104.1035.
+SECTION 7.
+NEW PROVISION.
+Subtitle E, Title 3, Estates Code, is amended by adding Chapter 1166 to read as
+follows:
+CHAPTER 1166.
+FAMILY GUARDIAN ESTATE STEWARDSHIP AND INDEPENDENT PROTECTION
+SUBCHAPTER A.
+GENERAL PROVISIONS
+Sec. 1166.001.
+DEFINITIONS.
+In this chapter:
+(1) "Affiliate" means a person or entity that
+directly or indirectly controls, is controlled by, is under common control with, employs, is employed
+by, shares compensation with, or has a material financial relationship with another person or entity.
+(2) "Covered governmental agency" means the
+Department of Family and Protective Services, a law-enforcement agency, a prosecuting attorney, the
+Office of Court Administration of the Texas Judicial System, the Judicial Branch Certification
+Commission, or another governmental entity authorized by law to investigate or remedy abuse, neglect,
+exploitation, fiduciary misconduct, or a violation of a protected guardianship provision.
+(3) "Covered institution" means:
+(A) a financial institution, as defined by Section
+281.001, Finance Code;
+(B) a dealer or investment adviser subject to
+Subchapter H, Chapter 4004, Government Code;
+(C) an insurer, health maintenance organization,
+insurance agent, or other person regulated by the Texas Department of Insurance that holds, administers,
+pays, or services a policy, contract, claim, annuity, retirement product, or other benefit belonging to
+a vulnerable person; or
+(D) to the extent not preempted by federal law, a
+retirement-plan administrator, pension administrator, broker-dealer, investment custodian, or other
+person that holds or administers money, securities, benefits, or property of a vulnerable person.
+(4) "Direct benefit to the ward" means a
+reasonably necessary, documented, and proportionate benefit to the ward's health, safety, housing,
+care, maintenance, support, rehabilitation, education, property preservation, legal rights, or expressed
+preferences that is not principally for another person's convenience or enrichment.
+(5) "Emergency protection notice" means a notice
+made under Section 1166.011 alleging an emergency risk of abuse, neglect, exploitation, financial abuse,
+or dissipation of a vulnerable person's assets.
+(6) "Financial-responsibility background check"
+means a review, conducted in compliance with applicable federal and state law, of final civil judgments,
+fiduciary removals, bankruptcies, liens, professional discipline, and other adjudicated matters
+materially relevant to the person's ability to safeguard a ward's estate.
+(7) "Managing estate protector" means a
+qualified person appointed as guardian of the estate who possesses or controls ward property and
+performs the management duties of this chapter.
+(8) "Material financial relationship" means a
+direct or indirect ownership interest, compensation arrangement, referral arrangement, shared business
+interest, creditor-debtor relationship, or other economic relationship that would cause a reasonable
+person to question the person's ability to act impartially or solely for the ward's benefit.
+(9) "Nonroutine expenditure" means an
+expenditure or related series of expenditures from the ward's estate that:
+(A) is not included in a court-approved allowance,
+estate stewardship plan, or budget;
+(B) exceeds the lesser of $2,500 or two percent of the
+ward's nonexempt liquid estate during any 90-day period; or
+(C) involves the sale, mortgage, lease for a term
+longer than one year, transfer, gift, or encumbrance of real property or another major asset of the
+ward.
+(10) "Protected guardianship provision" means
+this chapter or Section 1101.151(d), 1101.152(d), 1104.1035, 1104.1036, 1151.051(c-1) or (c-2),
+1151.053, 1151.351, 1151.352, 1202.158, 1203.051(a-1), 1203.1035, or a provision of Subchapter A,
+Chapter 1253, added or amended by the Act enacting this chapter.
+(11) "Qualified person" means an individual or
+entity eligible to serve as guardian of the estate under this title who meets the qualifications of
+Section 1166.052 and has no disqualifying conflict of interest.
+(12) "Reviewing estate protector" means a
+qualified, disinterested person appointed to review, investigate, report, object, and seek relief
+regarding management of a ward's estate but who does not possess, manage, invest, receive, or
+disburse ward property.
+(13) "Safe family residence" has the meaning
+assigned by Section 1104.1035.
+(14) "Substantial and irreparable loss" means a
+loss that is imminent, material in relation to the ward's needs or estate, and not reasonably
+remediable by restitution, bond, insurance, or other relief.
+(15) "Vulnerable person" has the meaning
+assigned by Section 281.001, Finance Code, and includes a minor for whom a guardianship application has
+been filed or a guardian of the estate has been appointed.
+SUBCHAPTER B.
+PRE-COURT EMERGENCY PROTECTION OF PERSON AND PROPERTY
+Sec. 1166.011.
+EMERGENCY PROTECTION NOTICE; GOOD-FAITH REPORT.
+(a) An adult family
+member, a person with a valid durable power of attorney, a health care provider, a peace officer, an
+adult protective services worker, or another person with personal knowledge may make an emergency
+protection notice if the person has reasonable cause, supported by specific facts, to believe that a
+vulnerable person is at imminent risk of:
+(1) abuse, neglect, or exploitation;
+(2) financial abuse, financial exploitation, fraud, undue
+influence, identity theft, theft, or misapplication of property; or
+(3) substantial dissipation, unauthorized transfer,
+foreclosure, repossession, loss, or concealment of property or funds.
+(b) An emergency protection notice may be made orally by
+telephone or electronically to a covered institution, a local law-enforcement agency, or the Department
+of Family and Protective Services.
+A covered institution shall maintain a telephone number or electronic
+method for receiving notices during the institution's ordinary operating hours.
+(c) A notice under this section must, to the extent
+known, state:
+(1) the vulnerable person's name, address, age or
+date of birth, and relationship to the reporting person;
+(2) the covered institution, account, policy, benefit, or
+asset reasonably believed to be at risk;
+(3) the specific facts creating reasonable cause to
+believe an imminent risk exists;
+(4) the reporting person's contact information; and
+(5) whether law enforcement or the department has been
+contacted.
+(d) A person who makes a notice in good faith under this
+section is immune from civil liability for making the notice.
+A person injured by a notice made with
+knowledge that the notice was materially false or with reckless disregard for its truth may bring an
+action against the reporting person for actual damages, reasonable attorney's fees, injunctive
+relief, and exemplary damages as authorized by Chapter 41, Civil Practice and Remedies Code.
+The action
+must be brought not later than the second anniversary of the date the claimant discovered or reasonably
+should have discovered the false notice.
+Sec. 1166.012.
+IMMEDIATE ACTION BY COVERED INSTITUTION; NOTICE; REVIEW.
+(a) On
+receipt of a facially sufficient emergency protection notice, a covered institution shall promptly
+assess the notice.
+If the institution has reasonable cause to believe that a transaction or requested
+change is related to the reported risk, the institution shall:
+(1) preserve relevant account, policy, transaction,
+communication, access-log, beneficiary-designation, and ownership records;
+(2) place a provisional protective hold only on a
+transaction, change, or disbursement reasonably related to the reported risk;
+(3) preserve payments and access reasonably necessary for
+the vulnerable person's food, shelter, medical care, insurance coverage, utilities, essential
+housing, lawful tax obligations, and other essential living expenses; and
+(4) not later than the next business day, report the
+suspected exploitation to each agency required by applicable law.
+(b) A covered institution may decline to place or
+continue a hold if the notice is facially insufficient, unsupported by specific facts, unrelated to
+property held or administered by the institution, or contradicted by reliable information.
+The
+institution shall document its decision and does not incur liability for a good-faith decision under
+this subsection.
+(c) Unless the institution reasonably suspects that a
+person is engaged in the reported exploitation or disclosure is prohibited by law or would compromise an
+investigation, the institution shall provide prompt written or electronic notice of a hold to:
+(1) the vulnerable person;
+(2) each joint owner or other person authorized to
+transact business on the affected account or property;
+(3) an agent acting under a known valid power of attorney;
+and
+(4) the reporting person.
+(d) The notice under Subsection (c) must identify the
+general category of transaction affected, state the date the hold began and will expire unless lawfully
+extended, describe how to request release of essential funds or review of the hold, and provide contact
+information for the institution and the agencies to which the report was made.
+The notice may omit
+information that would identify a confidential reporter or compromise an investigation.
+(e) A provisional protective hold expires at the end of
+the fifth business day after the date the hold is placed unless:
+(1) the institution has independent authority to continue
+the hold under Chapter 281, Finance Code, Subchapter H, Chapter 4004, Government Code, federal law, or
+another applicable law;
+(2) an authorized governmental agency requests
+continuation as authorized by applicable law; or
+(3) a court enters an order continuing, modifying, or
+terminating the hold.
+(f) Filing a guardianship application or other protective
+proceeding does not by itself extend a hold.
+A person seeking continuation beyond the fifth business day
+must obtain lawful agency action or a court order.
+On a verified application to continue, modify, or
+terminate a hold, the court shall hold a hearing not later than the third business day after filing and
+may continue the hold only on clear and convincing evidence that the affected transaction presents an
+imminent risk of substantial and irreparable loss and that the order is narrowly tailored.
+An initial
+order may not exceed 20 days but may be renewed after notice and hearing.
+(g) At any time, the vulnerable person or another person
+whose property or authority is affected may request release of essential funds from the institution or
+file a verified application for judicial review.
+The institution shall decide an essential-funds request
+not later than the next business day and shall document the basis for a denial.
+(h) A covered institution acting in good faith under this
+section is immune from civil liability for a good-faith hold, refusal to hold, release, notice, report,
+or payment of essential expenses.
+This immunity does not apply to gross negligence, bad faith, or
+willful misconduct.
+(i) This section does not require an institution to
+determine legal incapacity, adjudicate a family dispute, change ownership or beneficiary rights, violate
+a contractual obligation unrelated to the reported risk, or take action prohibited by federal law.
+Federal law controls to the extent of a conflict.
+Sec. 1166.013.
+COORDINATION WITH LAW ENFORCEMENT AND PROTECTIVE SERVICES.
+(a) A peace
+officer, adult protective services worker, or other authorized governmental investigator who receives an
+emergency protection notice shall, consistent with the officer's or worker's authority,
+promptly assess the alleged risk and may request that a covered institution maintain or expand a
+protective hold only as authorized by applicable law.
+(b) On a lawful request by an authorized governmental
+agency, a covered institution shall maintain a hold for the period and on the terms authorized by
+Chapter 281, Finance Code, Subchapter H, Chapter 4004, Government Code, federal law, or another
+applicable law.
+(c) An emergency protection notice does not authorize a
+reporting person to take possession of the vulnerable person's funds, property, account
+credentials, identification documents, medication, or residence.
+A reporting person may take only
+reasonable actions necessary to protect the vulnerable person from immediate physical harm and must
+promptly coordinate with law enforcement or protective services.
+Sec. 1166.014.
+PRE-COURT FAMILY PROTECTION PLAN.
+(a) If a family member makes an
+emergency protection notice and reasonably believes that a guardianship of the person or estate may be
+needed, the family member may prepare a temporary family protection plan identifying:
+(1) the vulnerable person's immediate residence,
+medical needs, and known care needs;
+(2) the adult family members identified under Section
+1104.1035 and the efforts made to contact them;
+(3) the identity and location of known assets, income,
+insurance, benefits, debts, and recurring payments;
+(4) the emergency steps taken to preserve the vulnerable
+person's health, safety, housing, insurance, benefits, and property; and
+(5) the family member willing to seek appointment under
+Section 1104.1035.
+(b) A plan under this section does not create a
+guardianship, transfer authority over the vulnerable person or property, or excuse the filing of a
+guardianship application if court authority is required.
+The plan may be submitted to a court, peace
+officer, adult protective services worker, or covered institution as evidence of the family member's
+good-faith effort to preserve the vulnerable person's person and property.
+SUBCHAPTER C.
+APPOINTMENT, QUALIFICATIONS, AND DUTIES OF ESTATE PROTECTOR
+Sec. 1166.051.
+APPOINTMENT; ROLE.
+(a) The substantive protections, accounting
+requirements, expenditure standards, conflict-of-interest prohibitions, enforcement remedies, and rights
+created by this chapter apply to each adult ward and the ward's estate regardless of size or value.
+(b) The court shall appoint a managing estate protector
+if a guardian of the estate is required and independent management is necessary to protect the ward.
+A
+managing estate protector must be appointed and qualified as guardian of the estate and is subject to
+every duty, bond, accounting, certification, and removal requirement applicable to a guardian of the
+estate.
+(c) The court shall appoint a reviewing estate protector
+if:
+(1) the guardian of the person and guardian of the estate
+are different persons and independent review is necessary;
+(2) the court finds, on its own motion or on a verified
+motion of the ward or an interested person, that independent review is necessary to protect the ward's
+estate; or
+(3) the ward, the ward's attorney, or an adult family
+member requests appointment and the court does not find by clear and convincing evidence, stated in a
+written order, that the probable cost would materially impair the ward's ability to obtain
+necessary care, housing, food, medicine, insurance, or other support and that no qualified unpaid or
+publicly funded reviewer is available.
+(d) A person may not simultaneously serve as guardian of
+the estate and reviewing estate protector.
+If cost precludes a separate appointment, the court shall
+assign the reviewing duties to a court investigator, court visitor, auditor, guardianship program, or
+other disinterested person whose service does not diminish the ward's estate.
+The court may tailor
+reporting frequency to the nature and value of the estate but may not waive a substantive protection of
+this chapter.
+(e) The court may appoint a managing or reviewing estate
+protector for a minor who has property requiring protection.
+(f) The court shall apply the family-priority process in
+Section 1104.1035, to the extent practicable, in selecting an eligible family member.
+If no eligible and
+willing family member is available, the court may appoint a qualified independent person or entity.
+(g) The guardian of the person, the guardian's
+attorney, a person employed by the guardian, a person with a direct or indirect financial interest in
+managing, investing, selling, purchasing, insuring, or providing services paid from the ward's
+property, and a person who prepared or solicited a waiver under Section 1104.1036 may not serve as
+reviewing estate protector.
+Sec. 1166.052.
+QUALIFICATIONS.
+(a) An individual serving as a managing or reviewing
+estate protector must:
+(1) be at least 21 years of age and legally competent;
+(2) be a resident of this state or designate a resident
+agent for service of process in this state;
+(3) complete required guardianship, fiduciary, ethics,
+financial-recordkeeping, benefits, insurance, exploitation-recognition, and conflict-of-interest
+training;
+(4) consent to a criminal-history and
+financial-responsibility background check;
+(5) file a sworn disclosure of all actual or potential
+conflicts of interest before appointment and annually thereafter;
+(6) post a bond if appointed managing estate protector;
+and
+(7) meet all other eligibility requirements applicable to
+the assigned role.
+(b) A person is not qualified if the person:
+(1) has been convicted of, or received deferred
+adjudication for, an offense involving fraud, theft, exploitation, financial abuse, breach of fiduciary
+duty, money laundering, violence against a vulnerable person, or a substantially similar offense;
+(2) is subject to a substantiated finding, as defined by
+Section 1104.1035, of abuse, neglect, exploitation, or financial exploitation of a child, elderly
+person, or person with a disability;
+(3) is subject to a final unsatisfied civil judgment
+involving fraud, theft, financial exploitation, or breach of fiduciary duty;
+(4) has an undisclosed or unapproved direct or indirect
+financial interest in a transaction involving the ward's estate; or
+(5) is otherwise disqualified under this title.
+(c) For an estate with more than $250,000 in assets other
+than the ward's homestead, a managing estate protector must be an eligible family member who
+demonstrates sufficient financial competence and obtains approved professional assistance, or an
+independent person or entity with demonstrable fiduciary estate-management experience.
+Sec. 1166.053.
+ESTATE STEWARDSHIP PLAN; ACCESS TO RECORDS.
+(a) Not later than the
+60th day after appointment, the managing estate protector, or the guardian of the estate subject to
+review, shall file a proposed estate stewardship plan identifying the ward's property, income,
+benefits, insurance, liabilities, 12-month budget, asset-preservation strategy, proposed caregiver
+payments, and anticipated nonroutine transactions.
+(b) The court shall approve, modify, or reject the plan
+after notice to the guardian of the person, ward's attorney ad litem, reviewing estate protector,
+interested persons requesting notice, and adult family members identified under Section 1104.1035.
+The
+plan must be reviewed annually and amended on a material change.
+(c) A reviewing estate protector is entitled, without
+further court order and subject to lawful privacy safeguards, to inspect and copy records reasonably
+necessary to perform the appointment, including account statements, inventories, receipts, contracts,
+tax filings, insurance records, benefit records, medical billing records, fee applications, and
+transaction documents.
+(d) A guardian, covered institution, service provider,
+court-appointed person, and person possessing a record described by Subsection (c) shall provide the
+record not later than the 10th business day after receiving a written request.
+A person may redact
+information unrelated to the ward or seek a protective order.
+The court shall hear a dispute under this
+subsection not later than the 10th day after a verified motion is filed.
+(e) A reviewing estate protector shall protect
+confidential information, may use it only for the ward's benefit and the proceeding, and may
+disclose it only as authorized by law or court order.
+Sec. 1166.054.
+DUTIES AND POWERS.
+(a) A managing estate protector shall perform every
+duty of a guardian of the estate and shall administer the approved estate stewardship plan, pursue
+income and benefits, preserve appropriate insurance, coordinate funds for care, maintain complete
+records, and report apparent misuse, depletion, conflict, abuse, exploitation, or noncompliance.
+(b) A reviewing estate protector shall independently
+review budgets, accounts, fees, benefits, insurance, related-party transactions, and major expenditures;
+compare expenditures with the plan and the ward-benefit-only standard; report material concerns; object
+to improper fees or transactions; request an accounting or audit; and file a verified motion for
+emergency or other relief.
+(c) A reviewing estate protector may not possess, manage,
+invest, receive, or disburse ward property and is not a guardian of the estate solely by reason of the
+appointment.
+(d) A disagreement between a reviewing estate protector
+and guardian does not suspend an essential payment for the ward.
+Either person may seek expedited
+instructions, and the court shall rule not later than the fifth business day if delay threatens health,
+safety, housing, insurance, or preservation of property.
+(e) Compensation must be reasonable, proportionate to the
+estate and work performed, and approved after itemized application and notice.
+The court shall prefer a
+qualified unpaid family member, public resource, or limited-scope review when necessary to avoid
+impairing the ward's essential support.
+SUBCHAPTER D.
+AUTHORIZED, RESTRICTED, AND PROHIBITED USES OF WARD PROPERTY
+Sec. 1166.101.
+WARD-BENEFIT-ONLY STANDARD.
+(a) Money and property of a ward's
+estate, including all income and benefits received by or for the ward, may be used only for the ward's
+health, safety, housing, care, maintenance, support, rehabilitation, education, direct benefit, and
+lawful expenses of administration approved by the court.
+(b) Subject to the estate stewardship plan and applicable
+court orders, authorized uses include reasonable and documented expenditures for:
+(1) housing, utilities, food, clothing, furnishings,
+household supplies, transportation, communication, and personal-care needs of the ward;
+(2) medical, dental, vision, behavioral-health,
+rehabilitation, prescription, durable-medical-equipment, home-health, nursing, therapy, and
+care-coordination expenses;
+(3) premiums, deductibles, copayments, and other
+reasonable costs necessary to preserve or use health, long-term-care, disability, Medicare, Medicaid,
+homeowners, automobile, liability, and other insurance coverage or public benefits available to the
+ward;
+(4) accessibility, mobility, safety, security, monitoring,
+bedroom, bathroom, and home modifications reasonably necessary because of the ward's condition;
+(5) reasonable caregiving, respite, supervision,
+housekeeping, meal, transportation, and other support services directly benefiting the ward;
+(6) reasonable, documented household expenses attributable
+to the ward when the ward resides in a family guardian's home, including a proportionate share of
+rent or mortgage interest, utilities, food, maintenance, and household services;
+(7) reasonable travel, lodging, mileage, and incidental
+expenses necessary to obtain medical care, visit family, maintain the ward's relationships, or
+support an approved residence arrangement;
+(8) reasonable recreation, faith-community participation,
+communications access, and social, cultural, and personal activities consistent with the ward's
+known preferences and needs;
+(9) taxes, debt payments, property maintenance, investment
+management, accounting, legal services, insurance, storage, appraisal, and other expenses reasonably
+necessary to preserve the ward's property or income; and
+(10) documented reimbursement to a family caregiver for
+reasonable and necessary expenses paid for the ward, and prospective caregiver compensation only under a
+written agreement or court-approved payment plan.
+(c) Money or property of a ward's estate may not be
+used for:
+(1) the personal debt, mortgage principal, rent, tuition,
+credit-card debt, luxury purchase, vacation, business expense, or other personal expense of a guardian,
+estate protector, relative, or other person;
+(2) a gift, loan, advance, donation, transfer, or payment
+to or for the benefit of a guardian, estate protector, family member, friend, business, charity,
+political candidate, political committee, or political organization, except as expressly authorized by
+court order on findings required by Section 1166.104;
+(3) a change in the ward's will, trust, beneficiary
+designation, payable-on-death designation, transfer-on-death designation, retirement beneficiary,
+annuity beneficiary, or other estate-planning designation unless expressly authorized by another law and
+a court order supported by specific written findings;
+(4) speculative trading, margin transactions,
+cryptocurrency purchases, private placements, commingling with another person's funds, or another
+investment inconsistent with the approved estate stewardship plan;
+(5) payment for legal, professional, or fiduciary services
+that do not directly benefit the ward or the ward's estate; or
+(6) payment intended to isolate the ward from family
+members, friends, advocates, or other persons entitled to contact with the ward.
+Sec. 1166.102.
+NONROUTINE EXPENDITURES AND FAMILY-CARE ARRANGEMENTS.
+(a) Transactions
+shall be aggregated for purposes of this section if they serve the same or a related purpose, involve
+the same payee or an affiliate, occur within a 90-day period, form part of a common plan, or are
+structured to avoid notice, documentation, or approval.
+(b) A court may not approve a nonroutine expenditure
+unless:
+(1) the guardian of the estate or managing estate
+protector files a verified application describing the purpose, amount, payee, supporting documentation,
+and expected direct benefit to the ward;
+(2) at least 14 days' notice is provided to the
+guardian of the person, the ward's attorney ad litem, each interested person who has requested
+notice, and the adult family members identified under Section 1104.1035;
+(3) the reviewing estate protector files a recommendation,
+if one is appointed; and
+(4) the court makes written findings that the expenditure
+is reasonable, necessary, consistent with the ward's known preferences when practicable, and
+directly beneficial to the ward.
+(c) A court may waive the notice period under Subsection
+(b)(2) only on written findings of an immediate and substantial threat to the ward's health,
+safety, essential housing, insurance coverage, or property.
+The court shall set a prompt
+post-expenditure review hearing.
+(d) A family-caregiver compensation arrangement must:
+(1) be in writing;
+(2) identify the services, rate, schedule, method of
+recordkeeping, and duration of the arrangement;
+(3) be prospectively approved by the court after notice
+and review by the reviewing estate protector, if one is appointed; and
+(4) provide compensation consistent with reasonable market
+rates for comparable services, accounting for the actual care provided.
+(e) A court may not approve retroactive family-caregiver
+compensation except on clear and convincing evidence that the services were necessary, directly
+benefited the ward, were fully documented, and could not reasonably have been submitted for prospective
+approval.
+Sec. 1166.103.
+SEPARATE ACCOUNTING; RECEIPTS; NOTICE.
+(a) A guardian of the estate or
+managing estate protector who receives or spends money belonging to the ward shall maintain ward funds
+separate from personal funds and maintain records sufficient to identify every receipt and disbursement.
+(b) A disbursement or related series of disbursements
+exceeding $250 must be supported by an invoice, receipt, contract, or comparable record and identified
+in the annual account or annual report required by this title.
+(c) Transactions shall be aggregated under Section
+1166.102(a) for purposes of the documentation threshold in Subsection (b).
+(d) The court shall ensure that each managing or
+reviewing estate protector, the guardian of the person, ward's attorney ad litem, and each
+interested person who has requested notice receives a copy of:
+(1) each inventory, appraisement, and list of claims;
+(2) each annual account and annual report;
+(3) each application to sell, mortgage, lease, transfer,
+gift, or otherwise dispose of a major asset;
+(4) each application for compensation, reimbursement,
+allowance, or attorney's fees paid from the ward's estate; and
+(5) each order approving a nonroutine expenditure or
+related-party transaction.
+Sec. 1166.104.
+PROHIBITED RELATED-PARTY TRANSACTIONS.
+(a) A guardian, managing or
+reviewing estate protector, attorney ad litem, guardian ad litem, court investigator, court visitor, or
+other court-appointed person may not knowingly participate in a transaction involving the ward's
+estate that provides a direct or indirect financial benefit to that person or to a business, family
+member, employer, partner, or affiliate of that person unless:
+(1) the material relationship and financial interest are
+disclosed in a sworn filing;
+(2) all adult interested persons receive notice;
+(3) the court holds a hearing; and
+(4) the court finds by clear and convincing evidence, in a
+written order, that the transaction is necessary, fair, at or better than prevailing market terms, and
+directly beneficial to the ward.
+(b) A transaction entered into in violation of this
+section is grounds for removal, surcharge, denial or forfeiture of compensation, rescission to the
+extent authorized by law, and any other remedy authorized by law.
+SUBCHAPTER E.
+ACCOUNTABILITY AND ENFORCEMENT
+Sec. 1166.151.
+COVERED COURT-APPOINTED PERSONS.
+In this subchapter, "covered
+court-appointed person" means a guardian, temporary guardian, managing or reviewing estate
+protector, attorney ad litem, guardian ad litem, court investigator, court visitor, receiver,
+court-appointed attorney, corporate fiduciary, or an employee, agent, contractor, or affiliate acting on
+behalf of one of those persons in a guardianship proceeding.
+Sec. 1166.152.
+REQUIRED PERFORMANCE; FEE FORFEITURE; REMOVAL.
+(a) A covered
+court-appointed person shall comply with each protected guardianship provision and all other applicable
+duties.
+(b) A covered court-appointed person who knowingly or
+recklessly violates a protected guardianship provision, misuses or conceals ward property, suppresses
+material medical information, procures an unlawful waiver, conceals a family member, fails to disclose a
+conflict, or participates in a prohibited related-party transaction is subject to removal, surcharge,
+reimbursement, denial or forfeiture of compensation, additional bond, referral, and any other remedy
+authorized by law.
+(c) The court shall order forfeiture of compensation
+attributable to a knowing or reckless violation unless written findings identify services that directly
+benefited the ward and establish that complete forfeiture would be manifestly unjust.
+(d) Conduct described by Subsection (b) constitutes cause
+for removal under Chapter 1203.
+A remedy under this section is cumulative of Sections 1155.151 and
+1155.152 and Chapter 1203.
+The ward's estate may not pay compensation, costs, or attorney's
+fees attributable to the violation.
+The violator and any liable surety are responsible to the extent
+provided by law.
+(e) A ward or the ward's personal representative may
+bring an action against a covered court-appointed person who knowingly files a materially false
+affidavit, report, account, waiver certification, or disclosure required by a protected guardianship
+provision and whose conduct proximately causes injury to the ward or the ward's estate.
+The
+claimant may recover actual damages, reasonable and necessary attorney's fees, declaratory or
+injunctive relief, and exemplary damages as authorized by Chapter 41, Civil Practice and Remedies Code.
+An employer, principal, or affiliate is liable only for the person's own knowing participation,
+authorization, ratification, or independent legal responsibility.
+The action must be brought not later
+than the fourth anniversary of the date the claimant discovered or reasonably should have discovered the
+conduct.
+Venue lies in the county of the guardianship or as otherwise provided by law.
+This subsection
+does not waive judicial immunity, sovereign immunity, governmental immunity, or another immunity not
+expressly waived.
+Sec. 1166.153.
+VERIFIED MOTION TO ENFORCE PROTECTIONS; HEARING; REMEDIES.
+(a) The
+ward, the ward's attorney, an attorney ad litem, guardian ad litem, managing or reviewing estate
+protector, adult family member, interested person, or covered governmental agency may file a verified
+motion alleging a violation of a protected guardianship provision.
+(b) The court shall set the motion for hearing not later
+than the 21st day after filing.
+If the motion alleges imminent physical harm, abuse, neglect,
+exploitation, unlawful isolation, retaliation, unauthorized relocation, financial abuse, or dissipation
+of property, the court shall hold an emergency hearing not later than the third business day after
+filing.
+(c) The court may grant declaratory, injunctive,
+protective, accounting, turnover, surcharge, fee-forfeiture, removal, or other relief authorized by law.
+A court's failure to perform a ministerial duty imposed by a protected guardianship provision is
+reviewable by mandamus.
+(d) A court may not assess costs, fees, sanctions, or a
+visitation restriction against a person solely because the person made a good-faith report or filed a
+good-faith motion.
+(e) A movant may file a statement of inability to afford
+payment of court costs under Rule 145, Texas Rules of Civil Procedure.
+The clerk may not refuse or delay
+filing because a fee has not been paid.
+If the movant substantially prevails, the court shall award
+reasonable and necessary attorney's fees and costs against the person who committed the violation
+unless written findings establish that the award would be unjust.
+An award may not be paid from the ward's
+estate.
+(f) The remedies provided by this section are cumulative.
+Sec. 1166.154.
+REVIEW BY PRESIDING JUDGE; PROTECTIVE ASSIGNMENT.
+(a) If a verified
+motion alleges that a court has failed to perform a ministerial duty imposed by a protected guardianship
+provision and the court has not cured the failure within 10 days, the clerk shall transmit the motion
+and relevant docket information to the presiding judge of the administrative judicial region.
+The
+presiding judge shall review the matter not later than the 15th day after receipt and may assign a
+visiting judge or take another action authorized by law.
+(b) A party may file with the regional presiding judge a
+verified petition requesting assignment of a different judge if specific facts establish an objectively
+reasonable question concerning structural impartiality arising from:
+(1) an undisclosed material financial relationship
+involving the judge, a court-appointed person, or an affiliate;
+(2) repeated appointments, referrals, or fee approvals
+involving a challenged appointee that, together with additional specific facts, indicate favoritism or a
+closed appointment network;
+(3) retaliation for a protected report, complaint, or
+motion; or
+(4) another ground for recusal, disqualification, or
+assignment authorized by law.
+(c) A petition under Subsection (b) must identify the
+facts, the requested relief, and any prior recusal motion.
+It does not automatically stay the case.
+The
+regional presiding judge shall rule or refer the petition under applicable law not later than the 21st
+day after receipt and may assign another judge when authorized by Chapter 74, Government Code, or other
+law.
+This section does not itself create jurisdiction in another county or alter constitutional
+disqualification standards.
+(d) This section does not limit mandamus, appellate
+relief, recusal or disqualification procedures, or a complaint to the State Commission on Judicial
+Conduct.
+SECTION 8.
+PROVISION.
+Section 1104.001(b), Estates Code, is amended by adding Subdivision (5) to read as
+follows:
+(5) two or more adult family members who have priority
+under Section 1104.1035, if each person is otherwise eligible, each consents in a sworn writing to the
+joint appointment and to an allocation of duties stated in the order, and the court finds by clear and
+convincing evidence that the joint appointment is necessary to preserve safe family care or avoid
+appointment of a person who is not a family member.
+Disagreement among family members, standing alone,
+is not a basis to deny an appointment under this subdivision.
+SECTION 9.
+PROVISION.
+Sections 1101.151 and 1101.152, Estates Code, are amended by adding Subsection (d) to
+Section 1101.151 and Subsection (d) to Section 1101.152 to read as follows:
+(d) An order under this section that grants a guardian
+the right to have physical possession of a ward or to establish the ward's legal domicile must
+identify the residence in which the ward will live on the date of the order and may authorize removal of
+the ward from a safe family residence only if the court finds by clear and convincing evidence, stated
+with specific facts in the order, that:
+(1) remaining in the residence presents an imminent and
+substantial risk of physical harm to the ward;
+(2) the harm cannot be prevented by a less restrictive
+alternative, additional services, a protective order, removal of an alleged perpetrator, or appointment
+of an eligible family guardian; and
+(3) the proposed residence is the least restrictive, most
+integrated setting that is safe and consistent with the ward's current and previously expressed
+preferences.
+(d) An order under this section that grants a guardian
+the right to have physical possession of a ward or to establish the ward's legal domicile must
+identify the residence in which the ward will live on the date of the order and may authorize removal of
+the ward from a safe family residence only if the court makes the findings required by Section
+1101.151(d).
+SECTION 10.
+PROVISION.
+Section 1151.051, Estates Code, is amended by adding Subsections (c-1) and (c-2) to
+read as follows:
+(c-1) Except as provided by Section 1151.053, the right described by Subsection
+(c)(1) is subject to Sections 1101.151(d), 1101.152(d), 1151.351, and 1202.158.
+A guardian may not
+change the ward's residence from a safe family residence, remove the ward from this state, or use
+an order authorizing physical possession to obtain the ward's removal unless the change or removal
+is expressly authorized by a written order containing the findings required by Section 1101.151(d).
+(c-2) An emergency change of residence without a prior order is permitted only when
+necessary to prevent immediate physical harm or provide emergency medical care.
+The guardian shall file
+a verified report not later than the next business day stating the specific emergency facts, the ward's
+location, and why no less restrictive action was sufficient.
+The court shall hold a hearing not later
+than the third business day after the report is filed if the ward is not returned to the prior
+residence.
+SECTION 11.
+NEW PROVISION.
+Subchapter B, Chapter 1151, Estates Code, is amended by adding Section 1151.053 to
+read as follows:
+Sec. 1151.053.
+CONSENSUAL SAFE-FAMILY RESIDENCE ARRANGEMENT.
+(a) In this section,
+"safe family residence" has the meaning assigned by Section 1104.1035.
+(b) Notwithstanding Section 1151.051(c-1) or another
+provision requiring prior court authorization for a residence change or removal from this state, a
+guardian of the person may establish or continue the ward's residence with an adult family member
+in this state or another state without a hearing or prior court order if:
+(1) the ward expresses a current preference to reside in
+the residence or, if the ward cannot communicate a current preference, the arrangement is consistent
+with the ward's reliably ascertainable previously expressed preference;
+(2) the guardian of the person agrees to the arrangement;
+(3) the residence is a safe family residence;
+(4) a reasonable plan exists for the ward's housing,
+food, medical care, medication, transportation, supervision, personal care, insurance, public benefits,
+communication, and other essential needs;
+(5) the guardian gives the notice required by Subsection
+(c); and
+(6) a verified objection satisfying Subsection (f) is not
+timely filed.
+(c) The guardian of the person shall file with the court
+and serve a notice of consensual safe-family residence arrangement on the ward, the ward's
+attorney, each guardian, each managing or reviewing estate protector, each adult family member
+identified under Section 1104.1035, and each interested person who has requested notice.
+The notice must
+state:
+(1) the ward's current and previously expressed
+residential preferences and the manner in which the current preference was obtained;
+(2) the address and identity of the adult family member
+responsible for day-to-day care;
+(3) whether the arrangement is temporary, recurring, or
+expected to be permanent;
+(4) the material terms of the care and support plan
+described by Subsection (b)(4), including the identity and contact information of treating health care
+providers to the extent disclosure is authorized by law;
+(5) the anticipated care budget and requested payments or
+reimbursements from the ward's estate;
+(6) that the guardian of the estate or managing estate
+protector has received the care budget and supporting information; and
+(7) that an objection must comply with Subsection (f) and
+be filed not later than the fifth business day after service.
+(d) Except as provided by Subsection (e), the guardian
+may implement or continue the arrangement on the sixth business day after service if no verified
+objection satisfying Subsection (f) is filed.
+The arrangement becomes effective by operation of law,
+without a hearing or further court order.
+The clerk shall accept the notice for filing and may not
+require a motion, application, hearing, order, or filing fee as a condition of effectiveness.
+(e) The guardian may implement or continue the
+arrangement immediately on filing and service of the notice if a physician, psychologist, or advanced
+practice registered nurse who has examined or treated the ward provides a written recommendation that
+the arrangement is necessary or advisable for continuity of treatment, recovery, avoidance of a
+medically inadvisable transfer, or the ward's physical or mental well-being.
+A timely objection
+does not require the ward's return to the prior residence before the hearing required by Subsection
+(g).
+(f) A person served under Subsection (c) may object only
+by filing a verified objection that states specific facts establishing probable cause to believe that:
+(1) the arrangement presents an imminent and substantial
+risk of physical harm to the ward that cannot be prevented by a less restrictive condition;
+(2) the care plan does not make reasonable provision for
+an essential need of the ward;
+(3) the ward's stated preference resulted from fraud,
+coercion, exploitation, or undue influence;
+(4) the arrangement involves material financial
+exploitation of the ward; or
+(5) a proposed expenditure would cause substantial and
+irreparable loss to the ward's estate and the loss cannot be prevented by budgeting, accounting,
+bond, limitation of the disputed expenditure, or another less restrictive financial safeguard.
+(g) A disagreement concerning the preferred state, city,
+facility, caregiver, administrative convenience, or comparative cost, standing alone, does not
+constitute a sufficient objection.
+A guardian of the estate, managing estate protector, or reviewing
+estate protector acting solely in that capacity may object only on a ground provided by Subsection
+(f)(4) or (5) and does not have authority to select or veto the ward's residence solely by reason
+of authority over or review of the estate.
+(h) If a verified objection satisfying Subsection (f) is
+timely filed, the court shall hold a hearing not later than the fifth business day after filing.
+The
+objecting person has the burden to prove by clear and convincing evidence a ground under Subsection (f)
+and that a less restrictive condition will not adequately protect the ward or the estate.
+Pending the
+hearing and ruling, the court may not require the ward to leave or return from the safe family residence
+unless the court makes written findings, supported by clear and convincing evidence, that immediate
+action is necessary to prevent imminent and substantial physical harm.
+(i) The court shall dismiss an objection that does not
+satisfy Subsection (f).
+If an objection concerns only a disputed expenditure, the court shall preserve
+the residence arrangement and resolve the expenditure under Chapter 1166, including by approving
+undisputed essential expenses and imposing accounting or payment conditions.
+A financial dispute does
+not authorize removal of the ward from the residence unless the requirements of Section 1101.151(d) are
+independently satisfied.
+(j) The guardian of the person shall monitor the
+arrangement and file an amended notice not later than the fifth business day after learning of a
+material change in the residence, responsible caregiver, essential care plan, or ward's expressed
+preference.
+The arrangement does not limit the ward's rights under Section 1151.351 or the
+authority of the court to act on proof of abuse, neglect, exploitation, or imminent and substantial
+physical harm.
+(k) Residence under this section in another state does
+not by itself transfer guardianship jurisdiction or terminate the Texas guardianship.
+The guardian shall
+continue required reports and supervision in this state until transfer or termination.
+If the
+arrangement is expected to be permanent, the guardian shall file an application under Chapter 1253 not
+later than the 60th day after the arrangement takes effect, unless the court extends the period for good
+cause.
+The ward is not required to return to this state while jurisdictional transfer is considered.
+SECTION 12.
+NEW PROVISION.
+Subchapter H, Chapter 1151, Estates Code, is amended by adding Section 1151.352 to
+read as follows:
+Sec. 1151.352.
+EXPEDITED ENFORCEMENT OF RIGHTS; ANTI-RETALIATION.
+(a) The ward, a
+person chosen by the ward, an adult family member, or a person interested in the ward's welfare may
+file a verified motion alleging a violation of a right protected by Section 1151.351.
+(b) The clerk shall accept the motion without requiring
+representation by counsel.
+The court shall set a hearing not later than the 14th day after filing or, if
+the motion alleges retaliation, unlawful isolation, an unauthorized residence change, denial of
+necessary care, or imminent harm, not later than the third business day after filing.
+(c) The court may issue temporary protective relief,
+restore contact or visitation, order access to records, prevent or reverse an unauthorized residence
+change, suspend a power of the guardian, order an independent investigation, require an accounting,
+remove a guardian, or grant other relief necessary to enforce Section 1151.351.
+(d) A guardian or covered court-appointed person, as
+defined by Section 1166.151, may not retaliate against the ward or another person for making a
+good-faith complaint, report, or motion.
+Retaliation includes restricting communication or visitation,
+changing the ward's residence, withholding information or property, seeking fees or sanctions, or
+threatening adverse action because of protected activity.
+(e) The court shall protect the ward's expressed
+preferences and safety and shall use the least restrictive remedy sufficient to cure the violation.
+The
+court shall make written findings on each material allegation.
+(f) Section 1166.153(d)-(f) applies to a motion under
+this section.
+SECTION 13.
+PROVISION.
+Section 1203.051, Estates Code, is amended by adding Subsection (a-1) and amending
+Subsection (b) to read as follows:
+(a-1) In addition to the grounds provided by Subsection (a), the court shall remove
+or immediately suspend the powers of a guardian who intentionally exploits or converts ward property,
+intentionally retaliates against or unlawfully isolates the ward, or intentionally removes the ward from
+a safe family residence without legal authority.
+The court may remove or suspend a guardian who
+knowingly or recklessly violates Section 1101.151(d), 1101.152(d), 1104.1035, 1104.1036, 1151.051(c-1)
+or (c-2), 1151.053, 1151.351, 1151.352, 1166.152, or 1202.158.
+For purposes of Section 1203.056, a
+verified motion supported by specific facts showing an imminent risk of physical harm, exploitation,
+substantial dissipation of property, unlawful isolation, retaliation, or unauthorized removal from a
+safe family residence constitutes sworn evidence requiring prompt review.
+(b) In a proceeding to remove a guardian under Subsection
+(a)(6) or (7) or Subsection (a-1), the court shall appoint a guardian ad litem as provided by Subchapter
+B, Chapter 1054, and an attorney ad litem.
+The attorney ad litem has the duties prescribed by Section
+1054.004.
+The court may appoint the same person as guardian ad litem and attorney ad litem only if no
+conflict exists between the interests to be represented.
+A person appointed after an allegation of
+abuse, neglect, exploitation, financial misconduct, or retaliation may not have represented, been
+employed by, shared an office with, or had a material financial relationship during the preceding five
+years with the guardian, the guardian's attorney, or a person whose conduct is a subject of the
+proceeding.
+SECTION 14.
+NEW PROVISION.
+Subchapter C, Chapter 1203, Estates Code, is amended by adding Section 1203.1035 to
+read as follows:
+Sec. 1203.1035.
+EXPEDITED FAMILY-FIRST SUCCESSOR; PRESERVATION AND TURNOVER.
+(a) On
+the death, resignation, incapacity, suspension, or removal of a guardian of the person, the court shall
+apply Section 1104.1035 anew and shall give the next willing and eligible family member in the order of
+priority the first opportunity to seek appointment.
+(b) If immediate protection is necessary, the court may
+appoint a temporary successor with only the powers necessary to prevent imminent and substantial harm.
+A
+person who is not a family member may serve only until the family-priority hearing, which must be held
+not later than the 14th day after appointment.
+(c) Not later than 48 hours after receiving notice of the
+event described by Subsection (a), the former guardian, the guardian's personal representative,
+employer, contractor, facility, financial institution, and each other person possessing property or
+records of the ward shall preserve the property and records and may not destroy, alter, conceal,
+transfer, or dissipate them.
+(d) Not later than the fifth business day after a
+successor qualifies or as otherwise ordered by the court, each person described by Subsection (c) shall
+deliver the ward's property and records to the successor, estate protector, or court registry.
+The
+outgoing guardian or representative shall file a final account within 30 days.
+If removal involved
+abuse, neglect, exploitation, or financial misconduct, the estate protector or another disinterested
+qualified person shall audit the account and report possible surcharge, turnover, bond, restitution,
+fee-forfeiture, or referral remedies.
+SECTION 15.
+PROVISION.
+Section 1253.001, Estates Code, is amended to read as follows:
+Sec. 1253.001.
+APPLICATION TO TRANSFER GUARDIANSHIP TO FOREIGN JURISDICTION.
+(a) On
+application of the guardian or on the court's own motion, a court that has jurisdiction over the
+guardianship may transfer the guardianship to a court in a foreign jurisdiction to which the ward has
+permanently moved.
+(b) The ward, the ward's attorney, an adult family
+member, or a person interested in the ward's welfare may file an application for transfer if the
+ward has moved to the foreign jurisdiction or relocation there is proposed and transfer may facilitate
+family care, access to supports and services, or the ward's expressed residential preference.
+The
+application may be filed without the guardian's consent.
+(c) An application under Subsection (b) may request
+provisional authorization for the ward to reside in a safe and appropriate residence in the foreign
+jurisdiction while acceptance and final transfer are coordinated.
+Provisional relocation does not
+transfer jurisdiction or terminate the Texas guardianship.
+A ward residing in another state under
+Section 1151.053 is not required to obtain provisional authorization under this subsection as a
+condition of residing there, and the transfer proceeding shall formalize jurisdiction rather than
+require the ward's physical return to this state.
+SECTION 16.
+PROVISION.
+Section 1253.002, Estates Code, is amended to read as follows:
+Sec. 1253.002.
+NOTICE OF APPLICATION.
+Notice of an application to transfer a
+guardianship under this subchapter shall be:
+(1) served personally on the ward;
+(2) given to the foreign court to which transfer is
+proposed;
+(3) served on each guardian, the ward's attorney, and
+each adult family member identified under Section 1104.1035; and
+(4) provided in a manner accessible to the ward.
+SECTION 17.
+PROVISION.
+Section 1253.003, Estates Code, is amended by amending Subsections (a)-(c) and adding
+Subsections (d)-(j) to read as follows:
+Sec. 1253.003.
+DETERMINATION REGARDING TRANSFER OF GUARDIANSHIP.
+(a) On the court's
+own motion or on the motion of the ward or any interested person, the court shall hold a hearing to
+consider an application under this subchapter.
+If the application is filed by the ward, the ward's
+attorney, or an adult family member, the hearing must be held not later than the 21st day after filing.
+(b) The court shall transfer the guardianship if the
+court determines that transfer is in the ward's best interest and the foreign court accepts the
+guardianship.
+The final transfer order must be contingent on acceptance in the foreign jurisdiction and
+may include conditions needed for continuity of care, benefits, property management, bond, records, and
+judicial supervision.
+(c) The court shall coordinate with the foreign court to
+facilitate orderly transfer, determine whether the foreign court will accept the guardianship, transmit
+necessary records, and resolve provisional arrangements.
+The court may conduct a joint or remote hearing
+with the foreign court.
+(d) In addition to all requirements imposed by existing
+law, the court shall consider:
+(1) the safety and adequacy of the proposed residence;
+(2) continuity of medical care, services, insurance, and
+public benefits;
+(3) arrangements for management and protection of the ward's
+property;
+(4) availability of family care and community supports;
+(5) the ward's social and community ties and current
+and previously expressed preferences;
+(6) the comparative cost and restrictiveness of each
+arrangement; and
+(7) any material medical change.
+(e) There is a rebuttable presumption that transfer is in
+the ward's best interest if the ward is safely residing with family in the foreign jurisdiction,
+the foreign court indicates willingness to accept, and transfer is consistent with the ward's
+current or previously expressed preference.
+Opposition by the guardian, family disagreement, or the fact
+that the guardianship originated in this state, standing alone, does not rebut the presumption.
+(f) Before the foreign court accepts jurisdiction, the
+Texas court may conditionally approve transfer and provisionally authorize residence in the foreign
+jurisdiction if the court finds that the residence is safe, appropriate, and consistent with the ward's
+preference and that arrangements exist for care, benefits, and protection of property.
+The Texas court
+retains jurisdiction and supervisory authority until final acceptance.
+(g) The court may deny or defer final transfer if the
+foreign court refuses or has not yet accepted jurisdiction, transfer is legally impossible, or a
+required arrangement for care or property protection is not reasonably available.
+A denial on the merits
+after the foreign court indicates willingness to accept must be supported by clear and convincing
+evidence and specific written findings that transfer would expose the ward to an imminent and
+substantial risk of physical harm or substantial and irreparable financial loss that cannot be prevented
+by conditions imposed by either court.
+(h) While an application is pending, the court may not
+compel the ward's return to this state, remove the ward from a safe family residence, or authorize
+a nonroutine expenditure to oppose transfer unless the court makes the findings required by Subsection
+(g).
+This subsection does not prevent emergency medical care or an order narrowly tailored to prevent
+immediate physical harm.
+(i) The ward has the right to participate and communicate
+the ward's preference directly to the court in person or by remote means.
+(j) The clerk shall promptly transmit the record and
+communications necessary to coordinate the transfer.
+SECTION 18.
+NEW PROVISION.
+Subchapter A, Chapter 1253, Estates Code, is amended by adding Section 1253.004 to
+read as follows:
+Sec. 1253.004.
+COSTS; COUNSEL; EXPEDITED RELIEF.
+(a) The clerk may not refuse an
+application under Section 1253.001(b) because a filing fee has not been paid.
+A person unable to afford
+costs may file a statement under Rule 145, Texas Rules of Civil Procedure.
+(b) The ward is entitled to representation by an attorney
+ad litem independent of the guardian and any person opposing transfer.
+The county shall pay the cost to
+the extent required by Section 1155.151 if the estate is insufficient.
+(c) A person may seek mandamus or other expedited
+appellate relief from failure to hold the hearing or make the findings required by this subchapter.
+SECTION 19.
+PROVISION.
+Section 36.004, Government Code, is amended by amending Subsections (a) and (c) and
+adding Subsection (a-1) to read as follows:
+Sec. 36.004.
+REPORT ON APPOINTMENTS.
+(a) In addition to a report required by other
+state law or rule, the clerk of each court in this state shall prepare a monthly report on each court
+appointment of an attorney ad litem, guardian ad litem, guardian, mediator, competency evaluator,
+managing or reviewing estate protector, court investigator, court visitor, receiver, corporate
+fiduciary, guardianship program, or other paid fiduciary or professional, and each affiliated vendor
+paid because of the appointment.
+The report must include the information otherwise required by this
+section for each category of appointee, without regard to whether compensation exceeds a stated amount.
+(a-1) For an appointment in a guardianship proceeding, the report must state:
+(1) the appointee's category and relationship, if
+any, to the ward;
+(2) the stable identifier assigned by the Office of Court
+Administration, and each assumed name, controlling person, and disclosed affiliate;
+(3) the judge, court, appointment date, and an anonymized
+case identifier that does not disclose the ward's identity;
+(4) the number of active appointments held by the
+appointee in the county and statewide, calculated by the Office of Court Administration from submitted
+data;
+(5) each amount requested, approved, and paid to the
+appointee or an affiliate, the payment source, hours billed, and expenses;
+(6) whether the appointment departed from the
+family-priority order under Section 1104.1035, Estates Code, and the statutory ground for departure; and
+(7) any removal, suspension, sanction, fee forfeiture, or
+final substantiated violation associated with the appointment, to the extent disclosure is permitted by
+law.
+(c) The Office of Court Administration of the Texas
+Judicial System shall prescribe the reporting format; assign stable identifiers; calculate appointment
+totals; and post the information in a searchable, downloadable, machine-readable format permitting
+analysis by judge, court, county, appointee, affiliate, appointment category, compensation, payment
+source, sanction, and date.
+The office shall protect a ward's name, address, date of birth, medical
+information, financial-account information, and other confidential information.
+SECTION 20.
+PROVISION.
+Section 155.155, Government Code, is amended by adding Subsection (d) to read as
+follows:
+(d) Notwithstanding another provision of this section,
+the Judicial Branch Certification Commission may provide the Office of Court Administration and a court
+or clerk the nonconfidential registration information necessary to administer Section 36.004 and Chapter
+1166, Estates Code.
+The office may publish aggregate or case-linked appointment and compensation
+information required by Section 36.004 but may not publish a ward's name, address, date of birth,
+medical information, financial-account information, or other information made confidential by law.
+SECTION 21.
+PROVISION.
+Section 1163.001, Estates Code, is amended by adding Subsection (d) to read as
+follows:
+(d) In addition to the requirements of this section, an
+annual account filed for a ward to whom Chapter 1166 applies must include a statement signed under oath
+that each expenditure was made for a purpose authorized by Section 1166.101 and must be served on each
+managing or reviewing estate protector and the guardian of the person not later than the fifth business
+day after filing.
+SECTION 22.
+NEW PROVISION.
+Chapter 281, Finance Code, is amended by adding Section 281.0045 to read as
+follows:
+Sec. 281.0045.
+PROVISIONAL HOLD ON EMERGENCY PROTECTION NOTICE.
+(a) A financial
+institution that receives an emergency protection notice under Section 1166.011, Estates Code, shall
+comply with Section 1166.012, Estates Code.
+(b) A financial institution that acts in good faith under
+this section or Section 1166.012, Estates Code, is entitled to the immunity provided by Section
+1166.012, Estates Code, in addition to any other immunity provided by law.
+(c) This section does not limit a financial institution's
+duty or authority under this chapter.
+SECTION 23.
+NEW PROVISION.
+Subchapter I, Chapter 4004, Government Code, is amended by adding Section 4004.3555
+to read as follows:
+Sec. 4004.3555.
+PROVISIONAL HOLD ON EMERGENCY PROTECTION NOTICE.
+(a) A dealer or
+investment adviser that receives an emergency protection notice under Section 1166.011, Estates Code,
+shall comply with Section 1166.012, Estates Code, to the extent consistent with federal law and the
+rules of the securities commissioner.
+(b) A dealer or investment adviser that acts in good
+faith under this section or Section 1166.012, Estates Code, is entitled to the immunity provided by
+Section 1166.012, Estates Code, in addition to any other immunity provided by law.
+(c) This section does not limit a dealer's or
+investment adviser's duty or authority under this chapter.
+SECTION 24.
+NEW PROVISION.
+Subtitle C, Title 5, Insurance Code, is amended by adding Chapter 567 to read as
+follows:
+CHAPTER 567.
+EMERGENCY PROTECTION OF CERTAIN INSURANCE AND ANNUITY INTERESTS
+Sec. 567.001.
+APPLICABILITY.
+This chapter applies to an insurer, health maintenance
+organization, insurance agent, or other person regulated by the Texas Department of Insurance that
+holds, administers, pays, or services a policy, contract, claim, annuity, retirement product, or benefit
+belonging to a vulnerable person.
+Sec. 567.002.
+EMERGENCY PROTECTION NOTICE.
+A person subject to this chapter that
+receives an emergency protection notice under Section 1166.011, Estates Code, shall comply with Section
+1166.012, Estates Code, to the extent consistent with federal law and rules adopted by the commissioner
+of insurance.
+Sec. 567.003.
+IMMUNITY; OTHER AUTHORITY.
+A person that acts in good faith under this
+chapter or Section 1166.012, Estates Code, is entitled to the immunity provided by that section.
+This
+chapter does not limit another duty or authority under this code or federal law.
+SECTION 25.
+PROVISION.
+Section 1101.001, Estates Code, is amended by adding Subsection (c-1) to read as
+follows:
+(c-1) An application for appointment of a guardian for an adult must be accompanied
+by the sworn family-information affidavit required by Section 1104.1035.
+The application must disclose
+the applicant's reasonable inquiry, all known agents under powers of attorney or medical powers of
+attorney, and any known estate-planning document that identifies a proposed guardian or family contact.
+SECTION 26.
+PROVISION.
+The Office of Court Administration of the Texas Judicial System shall, not later than
+August 1, 2027:
+(1) develop and publish the waiver form required by
+Section 1104.1036, Estates Code, as added by this Act;
+(2) develop a model family-notice affidavit for use under
+Section 1104.1035, Estates Code, as added by this Act;
+(3) develop a model material-medical-change motion for use
+under Section 1202.158, Estates Code, as added by this Act;
+(4) develop a model notice of consensual safe-family
+residence arrangement and verified objection for use under Section 1151.053, Estates Code, as added by
+this Act;
+(5) develop a model estate stewardship plan and
+estate-protection report for use under Chapter 1166, Estates Code, as added by this Act; and
+(6) publish a public guide describing the emergency
+protection notice process established by Subchapter B, Chapter 1166, Estates Code, as added by this Act;
+(7) modify the appointments-and-fees reporting system and
+guardianship-registration interfaces as necessary to implement Section 36.004, Government Code, as
+amended by this Act; and
+(8) adopt model notices and procedures for provisional
+holds, essential-expense releases, and judicial review under Sections 1166.011 through 1166.013, Estates
+Code, as added by this Act.
+SECTION 27.
+PROVISION.
+The Department of Family and Protective Services, the Finance Commission of Texas,
+the Texas Department of Insurance, the securities commissioner, and the Office of Court Administration
+of the Texas Judicial System may adopt rules necessary to implement this Act.
+SECTION 28.
+PROVISION.
+(a) Except as provided by this section, the changes in law made by this Act apply to
+a guardianship or guardianship proceeding pending on or commenced on or after the effective date of this
+Act, regardless of the date the guardianship was created.
+(b) Sections 1104.1035 and 1104.1036, Estates Code, as
+added by this Act, govern an appointment or succession occurring on or after the effective date of this
+Act.
+An appointment finally made before that date is not invalid solely because the appointment would
+not satisfy those sections, but the ward or an interested person may seek modification, removal,
+succession, or other prospective relief under the law as amended by this Act.
+(c) Sections 1151.053, 1151.352, and 1166.153, Estates
+Code, as added by this Act, and Chapters 1202, 1203, and 1253, Estates Code, as amended by this Act, are
+procedural remedies available on and after the effective date of this Act in a pending or existing
+guardianship.
+(d) A civil penalty, exemplary damages, fee forfeiture,
+surcharge, or other monetary liability based solely on a change in law made by this Act applies only to
+conduct occurring on or after the effective date of this Act.
+Conduct occurring before that date remains
+governed by the law in effect when the conduct occurred, and the former law is continued in effect for
+that purpose.
+(e) The substantive estate protections and prospective
+accounting, notice, conflict-of-interest, and expenditure requirements of Chapter 1166, Estates Code, as
+added by this Act, apply on and after the effective date of this Act regardless of estate size.
+A court
+shall review an existing guardianship for compliance at the first annual review occurring after the
+effective date and may act earlier on motion of the ward or an interested person.
+(f) Sections 1166.011 through 1166.014, Estates Code, as
+added by this Act, apply to an emergency protection notice made on or after the applicable effective
+date.
+Section 36.004, Government Code, as amended by this Act, applies to a report due on or after
+September 1, 2027.
+SECTION 29.
+PROVISION.
+(a) Sections 26 and 27 of this Act take effect immediately if this Act receives a
+vote of two-thirds of all the members elected to each house, as provided by Section 39, Article III,
+Texas Constitution.
+If this Act does not receive the vote necessary for immediate effect, Sections 26
+and 27 take effect September 1, 2027.
+(b) Except as provided by Subsection (a), this Act takes
+effect September 1, 2027.

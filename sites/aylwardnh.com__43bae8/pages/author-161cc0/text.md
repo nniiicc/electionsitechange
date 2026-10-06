@@ -1,0 +1,1 @@
+Author of “The Guide to Criminal Offender Public Records”, Deborah Aylward was recognized for publishing the first-ever nationwide list of probation and parole offices contact information, for making public records requests as a expedited way of determining the status of persons who were possible convicted criminals, in order to help keep people, and especially children, safe.

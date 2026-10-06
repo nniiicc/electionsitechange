@@ -1,0 +1,14 @@
+As Filing Closes, Smith Campaign Demonstrates Strong Grassroots Organization in WI-06
+Mequon, WI - June 2, 2026 — With nomination papers now filed for Wisconsin's 6th Congressional District race, one thing is becoming clear: Brad Smith has built the strongest grassroots organization in the field.
+Smith was the first Democratic candidate to file nomination papers and, in just 10 days, collected 1,917 approved nomination signatures, the highest total of any candidate approved for the ballot, including incumbent Congressman Glenn Grothman.
+The milestone reflects months of volunteer-driven organizing across the district.
+Supporters have collected signatures, knocked doors, hosted events, displayed yard signs, been active on social media, and contributed to a growing campaign focused on bringing new leadership to the district.
+The level of interest in this race has been notable.
+Candidates from multiple parties have entered the contest, highlighting growing attention on a district that has traditionally been considered safely Republican.
+Recent political analysis has suggested a significantly more competitive district than election results alone might indicate.
+"From day one, this campaign has been powered by volunteers," Smith said.
+"The response we've received throughout the district has been incredible.
+People are ready for a representative who will listen, show up, and fight for the issues that matter to working families, veterans, seniors, educators, and small businesses."
+A military veteran and business leader, Smith has recently earned endorsements from local and state elected officials, community leaders, and former Democratic Party of Wisconsin Chair Martha Laning.
+He has also been endorsed by the Wisconsin Education Association Council (WEAC), Wisconsin's largest educators' organization, and the National Education Association (NEA), the nation's largest labor union representing public education professionals.
+As the filing period concludes and the race moves toward the primary election, the Smith campaign continues to expand its voter outreach efforts across the district.

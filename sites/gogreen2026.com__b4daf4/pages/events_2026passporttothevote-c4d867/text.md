@@ -1,0 +1,4 @@
+Andy will be appearing at the General Election Candidate Forum put on by the National Coalition of 100 Black Women, Inc., Prince George's County, Maryland Chapter in partnership with First Baptist Church of Highland Park, NAACP (Prince George's County Branch), and the National Council of Negro Women, Inc., Mitchellville-Bowie Section.
+At this event you can hear directly from the candidates for Maryland Governor, Prince George's County Executive and Prince George's County Sheriff, ask questions, and get informed!
+Event is free and registration is encouraged, here: https://docs.google.com/forms/d/e/1FAIpQLSdyeToVx-DrOvqPgodfmEBJMbxlctZY70NNuTb_savMhDYAZQ/viewform
+If you can’t make it in person, the event will be livestreamed on YouTube here - mark your calendar! https://www.youtube.com/c/FirstBaptistChurchofHighlandPark

@@ -1,0 +1,6 @@
+Speaker Robert Rivas Endorses Robert Garcia for Assembly
+Speaker Rivas joins the Democratic Party and Majority Leader Emerita Assemblymember Eloise Reyes in...
+Read More → Speaker Robert Rivas Endorses Robert Garcia for Assembly
+Robert Garcia Advances to General Election in AD-50 Race
+Rancho Cucamonga, CA – As the March 5th California Primary results continue to be processed, educator...
+Read More → Robert Garcia Advances to General Election in AD-50 Race

@@ -1,0 +1,15 @@
+LAS VEGAS, NV – Congresswoman Susie Lee and Congressman Steven Horsford joined the Nevada State Police Highway Patrol to announce and celebrate $360,000 in federal funding they secured to enable the Nevada State Police (NSP) to purchase four virtual reality training systems, ensuring officers are equipped to deal with situations using the least level of force necessary while maintaining officer safety.
+“We’re thankful for the great training our law enforcement officers receive to best protect and serve our community.
+At the same time, these traditional training methods can be time-consuming, costly, and take officers off the streets when they’re needed most.
+On top of that, it’s almost impossible to recreate the kind of intense situations law enforcement regularly faces in a training environment,” said Congresswoman Susie Lee.
+“That’s why I’m so glad we secured federal funding to allow NSP to access VR technology to more thoroughly prepare police officers for the realities of the job, so they can be better equipped to handle real-world emergencies.”
+"The goal of public safety has always been to protect officers and community members alike,” said Congressman Steven Horsford.
+“I am proud to have secured nearly $360,000 with Congresswoman Lee to equip the Nevada State Police with virtual reality de-escalation and critical incident training.
+This is exactly the kind of investment that builds trust between law enforcement and the communities they serve and that trust is long overdue.
+Better training means better outcomes for our neighbors and for the officers who show up to protect them every day."
+This funding will enable NSP to purchase four virtual reality (VR) training systems, which are an effective way to prepare law enforcement officers for real-life confrontations.
+These VR training systems have features like a replica duty weapon and taser that operate in the VR space and will allow NSP to provide training in de-escalation or critical incidents through academy and in-service trainings, which increases the number of scenarios that cadets and officers can experience to better prepare for the field.
+NSP is the state police and highway patrol agency of Nevada, with state-wide jurisdiction, and has 218 officers as of 2024.
+NSP serves the “Nevada Way” by coordinating with local, state, and federal law enforcement agencies on behalf of community partners to provide the highest level of public safety service for the citizens and visitors to the Silver State.
+Congresswoman Lee sits on the House Appropriations committee, the committee in charge of federal spending, where she secured $4.4 billion in federal grants for state and local law enforcement in the most recent fiscal year – a $780 million increase from the previous year.
+She will continue working to ensure local law enforcement officers have the tools and resources they need to keep southern Nevada safe.

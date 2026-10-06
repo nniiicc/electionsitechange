@@ -1,0 +1,5 @@
+Agriculture
+Being a third generation Cheyenne County farmer-rancher and having been involved in many ag related businesses throughout my career, I’m keenly aware that the people and communities in SD 35 are dependent on a strong and thriving agriculture community.
+As a legislator that is actively involved in production ag, I would not only bring firsthand experience and knowledge to the issues that come through the State Capitol, but I would also be there to help educate the urban legislators that don’t understand the unique challenges that affect agriculture and rural Colorado.
+Many things can affect production agriculture, but I think one of the biggest threats is over-regulation, which makes it difficult and costly to operate a farm or ranch.
+Especially in this time of low commodity prices, we need to do everything we can at the state level to promote our local ag products while insuring that all ag related businesses are profitable so that rural Colorado thrives and can share in the economic growth that the Front Range has been experiencing.

@@ -1,0 +1,5 @@
+Transforming Our Criminal Legal System
+For years, policymakers, advocates, and community members have known that our criminal legal system disproportionately punishes Black and brown people – from the failed war on drugs to mass incarceration, to cash bail and the perverse incentive of a for-profit prison industry – yet we have seen too little progress made towards addressing these inequities.
+To meaningfully address the legacy of these destructive policies, Ayanna knows we must completely reimagine our racist, xenophobic, and fundamentally broken criminal legal system, and construct a new system that is centered on the principles of shared power, freedom, safety, equality, and human dignity.
+Ayanna has introduced the People’s Justice Guarantee, a bold framework and vision for a more just criminal legal system, to move us closer toward the yet unfulfilled promise of justice for all.
+Ayanna has advocated for an end to the federal death penalty and secured a commitment from President Biden that no one will be executed by the federal government as long as he is President.

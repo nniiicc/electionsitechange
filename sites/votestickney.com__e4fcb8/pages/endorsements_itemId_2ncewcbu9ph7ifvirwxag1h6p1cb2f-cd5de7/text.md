@@ -1,0 +1,42 @@
+Endorsements
+Organizations
+- 29th LD Democrats
+- AFT Washington, AFL-CIO
+- AFSCME Local 120
+- APACE
+- APRNs of WA State
+- Boilermakers Local 104
+- Children's Campaign Fund
+- Council on American-Islamic Relations
+- Environment and Climate Caucus of Washington
+- Environmental Coalition of Pierce County
+- Fairvote WA
+- Humane Voters of Washington
+- Indivisible Tacoma
+- International Association of Machinists, IAM 297
+- International Association of Machinists and Aerospace Workers, District Lodge 751
+- International Union of Operating Engineers, Local 302
+- Moms Demand Action Gun Sense Candidate
+- North Coast States Carpenters
+- Pierce County Democrats
+- UFCW 367
+- SEIU 775
+- SEIU 925
+- SMART Transportation Division
+- South Sound Building and Construction Trades Council
+- Stand for Children
+- UFCW 3000
+- Washington State Labor Council
+- Washington Conservation Action
+- Washington Education Association-PAC
+- Washington Federation of State Employees
+- Washington Housing Alliance
+- Washington Nurses Association PAC
+- Washington Public Employees Association | UFCW 365
+- Washington State Building and Construction Trades Council
+- Washington State Council of County and City Employees
+- Washington State School Retirees' Association
+- Washington Stonewall Democrats
+- Young Democrats of Washington
+- AFSCME Local 3787 (Washington State Council of County and City Employees)
+- Pierce County Librarians

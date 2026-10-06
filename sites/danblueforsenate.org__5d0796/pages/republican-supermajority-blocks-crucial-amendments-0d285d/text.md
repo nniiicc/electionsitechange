@@ -1,0 +1,13 @@
+In a disappointing turn of events, the Senate Republican supermajority has once again demonstrated its disregard for the urgent issues facing North Carolinians.
+On Thursday, Senate Democrats introduced two vital amendments to House Bill 563, aiming to address the pressing needs of North Carolina’s most vulnerable communities.
+These amendments proposed increased funding for drug treatment courts, expanded substance abuse programs, and the establishment of a youth well-being task force.
+The blocked amendments included:
+- Increase Funding for Drug Treatment Courts: A proposal to allocate $10 million to the Administrative Office of Courts to fund drug treatment courts in North Carolina’s poorest counties.
+- Expansion of Substance Abuse Treatment and Facilities: An investment of $50 million into a grant program to support community programs and facilities offering evidence-based substance abuse treatment for youth up to age 21.
+- Establish a Permanent Youth Well-being Task Force: The creation of a task force to research and make recommendations on various issues affecting the well-being of North Carolina’s youth, including mental health, substance use, social media, gambling, pornography, and other emerging addictive behaviors.
+- Freedom from Fentanyl: Implementation of stronger measures to combat the spread of fentanyl, a deadly synthetic opioid contributing to the state’s overdose crisis.
+- Marijuana Justice and Reinvestment: Setting a framework for decriminalizing marijuana, expunging criminal records of those convicted of offenses, regulating and taxing cannabis sales, and dedicating portions of the tax revenues to reinvesting in communities most damaged by the war on drugs.
+“The amendments proposed by Senate Democrats were designed to address some of the most pressing issues facing our state’s youth and communities,” said Senate Democratic Leader Dan Blue.
+“Today’s vote is a stark reminder of the misplaced priorities of the Republican supermajority in the NC Senate.”
+Despite the setback, Senate Democrats remain steadfast in their commitment to fight for policies that support all North Carolinians.
+The proposed amendments highlighted a comprehensive approach to tackling substance abuse and mental health issues among the youth, reflecting the Democrats’ dedication to addressing the real and urgent needs of their constituents.

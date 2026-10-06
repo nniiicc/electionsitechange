@@ -1,0 +1,3 @@
+Chatt Hills Day @ the Capitol
+We are very happy to have hosted a successful Chattahoochee Hills Day at the Georgia State Capitol.
+Check out the update in the city newsletter: https://cms3.revize.com/.../Chatt%20Hills%20News%20(March...

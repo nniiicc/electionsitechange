@@ -1,0 +1,13 @@
+Public Safety
+Safe, thriving neighborhoods
+Everyone deserves to feel safe at home and in their community.
+My grandfather was a police officer, my uncle was a sheriff’s deputy, and three of my cousins are cops today.
+I understand the challenges our police face, and I work to increase public safety in a way that protects everyone — collaborating with communities and with our police, and improving training for officers so families are safe.
+As our State Senator, I have
+- Authored five bills supporting the recruitment and retention of law enforcement officers, to address the workforce shortage so we can have the safety we deserve
+- Secured and passed $300 million in direct Public Safety Aid to every city, county, and Tribal government in Minnesota
+- Fought to support the mental health of officers and to focus on de-escalation training
+- Worked to increase transparency and accountability with the community
+- Passed $24 million for statewide EMS support and a pilot program focused on solving Greater Minnesota’s EMS crisis
+- Authored a Hometown Heroes assistance program for firefighters
+- Hosted a series of community conversations about public safety, including local law enforcement, city officials, and statewide commissioners

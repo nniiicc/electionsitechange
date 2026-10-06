@@ -1,0 +1,2 @@
+A prominent national Democratic organization announced it is backing author and journalist Beth Macy in her attempt to defeat Republican incumbent Ben Cline in Virginia’s 6th Congressional District in November.
+Read the full article here: https://www.dnronline.com/news/elections/emilys-list-endorses-beth-macy-in-mission-to-flip-the-6th-congressional-district/article_2610ac57-b7a2-5c6e-8312-6404e55b80b8.html

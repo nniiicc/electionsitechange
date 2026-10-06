@@ -1,0 +1,1 @@
+Club Chronicles: Franklin County Arts Council receives ASCA grant By Staff Reports Email the author Published 12:54 pm Tuesday, October 8, 2019 The Franklin County Arts and Humanities Council is pleased to announce it has received a grant of $4,200 from the Alabama State Council on the

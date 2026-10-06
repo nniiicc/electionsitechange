@@ -1,0 +1,1 @@
+Latino Caucus Endorses Michelle Rodriguez for State Assembly By adminIn UncategorizedPosted September 6, 2023 The California Legislative Latino Caucus issued the following statement upon endorsing Democrat Michelle Rodriguez for the 53rd State Assembly District, which will be open next year due to term limits: View press release

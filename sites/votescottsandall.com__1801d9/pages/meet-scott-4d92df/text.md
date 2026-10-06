@@ -1,0 +1,35 @@
+Meet Senator Scott Sandall
+In the Utah Senate - Fighting for Rural Utah
+Scott Sandall is honored to serve our community in the Utah State Senate.
+Scott is working hard to defend our values and achieve real conservative results.
+In the Utah Senate, he serves as vice-chair on the Executive appropriations committee, ensuring our State remains fiscally responsible and stops wasteful spending.
+Senator Sandall also serves on several other committees, including:
+- Business and Labor Interim Committee
+- Economic and Community Development Appropriations Subcommittee
+- Executive Appropriations Committee
+- Legislative Process Committee
+- Legislative Redistricting Committee
+- Natural Resources, Agriculture, and Environment Interim Committee
+- Natural Resources, Agriculture, and Environmental Quality Appropriations Subcommittee
+- Public Utilities, Energy, and Technology Interim Committee
+- Senate Business and Labor Committee
+- Senate Business and Labor Confirmation Committee
+- Senate Ethics Committee
+- Senate Government Operations and Political Subdivisions Committee
+- Senate Government Operations Confirmation Committee
+- Senate Natural Resources, Agriculture, and Environment Committee
+- Senate Natural Resources, Agriculture, and Environment Confirmation Committee
+- Senate Political Subdivisions Confirmation Committee
+Through his service, Sandall has substantively contributed to legislation affecting northern and rural Utah.
+Professionally - A Box Elder Native
+Sandall is the owner and operator of Sandall Ranches, a 3rd generation farm and ranch in Promontory, Utah, as well as Sandall Trucking LLC and S&P Investments LLC.
+Sandall has been active in the community, serving as:
+- Box Elder County Farm Bureau President
+- Utah Farm Bureau State board member
+- Bear River High School community council
+- Scout Leader
+Senator Sandall has an agricultural economics degree from Brigham Young University, where he graduated Magna Cum Laude.
+Personal Life - A Happy Family Man
+Sandall is a Box Elder County native, where he lives with his wife Christie.
+They are the proud parents of 4 children and a growing number of grandchildren.
+In his (limited) free time, he enjoys family, work, and golf.

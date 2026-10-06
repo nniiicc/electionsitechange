@@ -1,0 +1,12 @@
+Public Safety, Equity, and Protecting Families
+New Hampshire must be an opportunity state where all are welcome in our safe communities and have the freedom to live their lives.
+Senator Watters will always fight for women's reproductive rights.
+He strongly supports LGBTQ+ equality, having worked to pass marriage equality, and establish gender identity as a recognized and protected right, as well as bills to enable the LGBTQ+ community to have appropriate recognition on driver’s licenses and birth certificates.
+Welcoming communities means opportunity for our more recent arrivals, such as the vibrant Indonesian community in Somersworth and Dover.
+We also must provide needed services and access to driving privileges and education for asylum seekers, refugees, and with appropriate guidelines, undocumented residents.
+Welcoming communities need to be safe communities, so Senator Watters’ legislation supports law enforcement and other first responders.
+His legislation will support our police, fire, and other first responders through tuition-free education programs and student debt reduction.
+He also supports increases in funding for substance use disorders, mental health, and homelessness, since these are issues that are dramatically affecting the work of our first responders.
+Senator Watters introduced legislation to repeal the so-called “divisive concepts” language enacted in the 2021 budget, provisions which handcuff classroom education and subject teachers to legal action.
+As a member of the New England Commission on Education in Prison, Senator Watters works in collaboration with correction officials, educators, and legislators from across the region to increase opportunities for education and job training for incarcerated individuals, including after their release.
+His amendment to the Capital Budget provided funding for the building of a trades education facility, including woodworking, at the New Hampshire Women’s Prison.

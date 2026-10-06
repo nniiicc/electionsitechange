@@ -1,0 +1,15 @@
+Immigration Reform
+Our immigration system is broken, and we need solutions that are smart, fair, and safe.
+I believe we can protect our borders while also creating clear, legal pathways for people who want to work, raise a family, and pursue the American dream.
+We can welcome refugees, asylum seekers, and immigrants who strengthen our country — and at the same time, keep out those who would do us harm.
+We should focus law enforcement on the real threats: criminal networks, gangs, and human traffickers — not families, small business owners, and neighbors who are contributing to their communities.
+Texans can lead the way on immigration reform that keeps our communities safe, upholds our values, and grows our economy.
+My Priorities in Congress
+•Pass comprehensive immigration reform: Secure our borders, create straightforward legal pathways to citizenship, and support economic growth.
+•Target enforcement on real threats: Prioritize the deportation of criminals, gang members, and human traffickers — not neighbors who pay taxes and contribute to their communities.
+•Hold ICE accountable: Ensure transparency and accountability, including banning masks and requiring agents to show identification when enforcing the law.
+•Create pathways to citizenship for long-term and key immigrants: Provide a path for DREAMers, spouses, and immigrants who have been contributing for years, while allowing recent arrivals to access temporary work permits in sectors that support American workers.
+•Modernize ports of entry: Invest in cutting-edge technology to better detect drugs, including fentanyl, before they enter our country.
+•Reform the asylum system: Hire more judges, reduce backlogs, eliminate fraud, and ensure legitimate claims are processed quickly.
+•Support businesses and reduce costs for Americans: Create employer sponsorship programs to fill labor shortages in agriculture, construction, and other sectors while lowering costs for consumers.
+•Improve guest worker standards: Enforce strong labor protections and crack down on employers who exploit immigrants or undercut American workers.

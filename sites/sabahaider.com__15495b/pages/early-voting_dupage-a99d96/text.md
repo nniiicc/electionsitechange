@@ -1,0 +1,18 @@
+VOTE EARLY IN DuPAGE COUNTY
+OPEN NOW:
+Fox Valley Mall - 195 Fox Valley Center Dr, Aurora
+- March 2 to 6 - Monday to Friday - 8:00AM to 7:00PM
+- March 7 to 8 - Saturday to Sunday - 9:00AM to 5:00PM
+- March 9 to 13 - Monday to Friday - 8:00AM to 7:00PM
+- March 14 to 15 - Saturday to Sunday - 9:00AM to 5:00PM
+- March 16 - Monday - 8:00AM to 7:00PM
+Naperville Municipal Center - 400 S Eagle St., Naperville
+- February 16 to 20 - Monday to Friday - 8:00AM to 4:30PM
+- February 21 - Saturday - 9:00AM to 12:00PM
+- February 23 to 27 - Monday to Friday - 8:00AM to 4:30PM
+- February 28 - Saturday - 9:00AM to 12:00PM
+- March 2 to 6 - Monday to Friday - 8:00AM to 7:00PM
+- March 7 to 8 - Saturday to Sunday - 9:00AM to 5:00PM
+- March 9 to 13 - Monday to Friday - 8:00AM to 7:00PM
+- March 14 to 15 - Saturday to Sunday - 9:00AM to 5:00PM
+- March 16 - Monday - 8:00AM to 7:00PM

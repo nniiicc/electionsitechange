@@ -1,0 +1,10 @@
+ENDING GUN VIOLENCE
+There are more than 30,000 gun-related deaths in the United States each year and Americans are ten times more likely to be killed by a gun than citizens of other developed nations.
+Hawaii has had its share of mass shootings and murders between the 1999 Xerox shooting in which a mentally ill worker shot and killed seven colleagues, and more recently the shooting murder of two HPD officers in 2020.
+Keeping guns out of the wrong hands is the easiest way to prevent senseless loss of life, so Chris passed a law establishing a Gun Violence and Violent Crimes Commission to bring all law enforcement and mental health agencies to the same table to share data, resources, identify the loopholes in gun laws, and track down illegal and black market firearms.
+Chris passed a law that prohibits convicted stalkers from acquiring firearms, an important step considering the vast majority of female murder victims have been previously stalked by their assailants.
+Because many stolen firearms are used in crimes, Chris passed a law requiring that lost or stolen firearms are reported to police so it’s easier to track black market weapons.
+In 2020, when untraceable 3D-printed and assembled guns began to proliferate and were used in two homicides on Oahu, Chris passed a law requiring that self-assembled guns be registered with law enforcement.
+Chris also helped pass a red flag law that enables law enforcement to temporarily secure weapons belonging to some found by a judge to be an immediate danger to themselves or others.
+And he has championed efforts that make it harder for the mentally ill to buy weapons, ensure felons trying to acquire guns are reported to authorities, and has served on the Advisory Board for American State Legislators For Gun Violence Prevention.
+NEXT ISSUE: Police and Criminal Justice Reform

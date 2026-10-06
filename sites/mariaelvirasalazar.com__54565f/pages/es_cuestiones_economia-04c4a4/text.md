@@ -1,0 +1,14 @@
+- $3 millones para la renovación de la histórica Corte federal Dyer de Miami-Dade College: Se obtuvo financiación para revitalizar este monumento histórico y convertirlo en un centro vibrante para el desarrollo de la fuerza laboral, la innovación y el enriquecimiento cultural.
+- Se implementó mi Ley “COVID Economic (EIDL) Relief”: Este proyecto de ley les dio a los propietarios de pequeños negocios tiempo adicional para pagar los préstamos, lo que los ayudó a reconstruirse y crecer después de la pandemia de COVID.
+- Se aprobó una enmienda para ampliar las oportunidades de contratación para los pequeños negocios: Esta enmienda aumenta los límites para la contratación de una sola fuente y amplía las oportunidades para las empresas propiedad de veteranos, mujeres y minorías.
+Además, al mejorar el acceso a los contratos gubernamentales, apoya el crecimiento de las empresas pequeñas y desfavorecidas, lo que impulsa una recuperación y un crecimiento económicos más amplios.
+- La SBA implementó la Ley “RECLAIM Taxpayer Funds”: Esta legislación recupera miles de millones de préstamos gubernamentales fraudulentos, lo que garantiza la responsabilidad fiscal y aborda el mal uso de los fondos de ayuda por COVID-19.
+Al recuperar estos fondos, también estamos trabajando para ayudar a reducir la inflación en todo el país.
+- $650,000 asegurados para el programa BizGap en FIU: La financiación respaldará el programa BizGap, que ofrece consultoría y capacitación esenciales a más de 1,000 pequeñas empresas en el Distrito 27, fomentando la creación de empleo y el crecimiento empresarial.
+- Ferias de empleo y exposiciones para Pequeños Negocios: Organicé numerosos eventos para conectar a personas necesitadas de trabajo en el sur de Florida con los empleadores locales y apoyar el desarrollo de Pequeños Negocios.
+- Realicé seminarios educativos para electores y agencias federales: Realicé docenas de Seminarios valiosos sobre una variedad de temas, incluidos la presentación de impuestos, la creación de empresas y la contratación federal.
+- Apoyo de capital para Pequeños Negocios: Copatrociné la Ley “Main Street Tax Certainty” para extender permanentemente la deducción fiscal del 20% para las pequeñas empresas, evitando que tengan que limitar sus planes de crecimiento, inversión y contratación.
+- Reducción de la burocracia: Copatrociné la Ley Small Business Regulatory Reduction, que exige que cualquier nueva regulación de la SBA no debe imponer costos a las pequeñas empresas.
+También envié numerosas cartas a la SBA cuestionando sus regulaciones costosas propuestas.
+- Apoyo a la Ley de Responsabilidad Fiscal: Respaldé la Ley “Fiscal Responsibility”, que recorta más de 2 billones de dólares en gastos, recupera 28 mil millones de dólares en fondos no gastados para la COVID-19 y amplía los requisitos de trabajo social.
+Esta medida histórica pretende ser el proyecto de ley de reducción del déficit más grande de la historia.

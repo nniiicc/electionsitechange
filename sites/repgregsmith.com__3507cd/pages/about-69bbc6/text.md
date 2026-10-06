@@ -1,0 +1,168 @@
+Paid for by Committee to Re-Elect Greg Smith | Pac ID# 3420
+P.O.
+Box 215 Heppner, OR 97836
+541-993-5236 | electgregsmith@gmail.com
+Occupation
+Business Development Professional, Gregory Smith & Company, LLC
+Education
+Eastern Oregon University, MBA
+Eastern Oregon University, BS
+Eastern Oregon University 2001 Distinguished Alumnus
+2013 Honorary State FFA Degree
+Prior Governmental Experience
+2001-2025 Oregon House of Representatives
+2016 Governor’s Small Business Cabinet Member
+Biography
+Gregory Vincent Smith was born on November 7, 1968, to Lee E.
+Smith, Jr. and Katherine C.
+Smith.
+He is the great, great, grandson of Oregon pioneers.
+George Vincent James moved to Oregon in 1852 and soon after was elected one of the first sheriffs of Multnomah County.
+Smiths’ ancestor, Mrs.
+Ann Elizabeth Bills, sewed the first U.S. flag made in Oregon.
+The flag flew high on Fourth Street, Portland, on Independence Day, 1861.
+Today, that flag can be viewed at the Oregon Historical Society.
+Mrs.
+Bills was the first registered female republican of Multnomah County.
+Representative Greg Smith is an Eagle Scout, a rank earned by the age of fourteen.
+He has served as Cub Master for 35 children in Heppner Pack 661 and remains involved as a Merit Badge Counselor.
+Representative Smith graduated from Eastern Oregon University with a Bachelor of Science Degree in Liberal Studies and a Masters Degree in Business Administration.
+He is the 2001 Distinguished Alumnus of Eastern Oregon University and currently serves on the Foundation Board of Directors and Foundation Board of Trustees.
+As a small business owner, he actively promotes economic expansion, diversified employment opportunities, job creation, and community development.
+In addition, Smith has traveled to 28 countries and five continents, including communist China.
+These travels have served as a catalyst in the cultivation of international trade for the region’s wheat commodities, potato, onion, and alfalfa products.
+Representative Smith currently serves as the Officer to the Board for Morrow Development Corporation, a private partnership with the Port of Morrow, which provides financial management assistance for business development projects.
+Representative Smith also serves as the contract Director of the Small Business Development Center at Eastern Oregon University.
+Representative Greg Smith also serves as Director of the Malheur County Development Corporation and the Harney County Economic Development.
+Representative Smith has served as a member on local committees including the North Central Oregon Regional Strategies Board – Oregon Economic Development Department, Freight Advisory Committee – Oregon Department of Transportation, Financial Advisory Committee – Blue Mountain Community College, Small Business Development Center, Greater Eastern Oregon Development Corporation, Heppner Coordinating Council, and the Heppner Economic Development Corporation.
+On November 5, 2000, Representative Smith was first elected to serve as a member of the Oregon House of Representatives.
+Today, Representative Smith serves District 57, which includes Umatilla, Morrow, Gilliam, Sherman, and portions of Wasco Counties.
+In August of 2001, Representative Smith was elected Second Vice-President to the Pacific Northwest Economic Region (PNWER).
+PNWER is a statutory public/private partnership created by Alaska, Idaho, Montana, Oregon, Washington, and the provinces of Alberta, British Columbia, and the Yukon.
+Its purpose is to enhance the economic well-being and quality of life for citizens of the region and to facilitate regional policy coordination.
+PNWER has an excellent reputation for assisting associations with trade policy.
+Representative Smith has often earned a 100% voting record with the Oregon Farm Bureau, Oregonians for Food & Shelter, and the National Federation of Independent Businesses.
+The Oregon Cattlemen’s Association recognized Representative Smith’s legislative dedication by presenting him their most prestigious award: the “Lariat Laureate.” The Oregon Health Care Association has distinguished Representative Smith as a “Senior Champion,” and the Oregon Fair Association has awarded Representative Smith the title “Grand Champion Legislator.” Representative Smith received the “Outstanding Freshman Legislator of the Year” award during the 19th Annual Oregon Rural Health Conference.
+The Oregon Rural Electric Cooperative Association named Smith the “2007 Cooperative of the Year”.
+In addition to these honors, Rep.
+Smith is proud of the numerous “Watchdog” awards for protecting the taxpayers of his district and state!
+While in session, Representative Smith focuses his attention on those issues critical to Northeast Oregon.
+He is a tireless advocate of our natural resource partners.
+He stands for stable funding for our public schools and simultaneously fights to ensure that Oregon keeps its promise to senior citizens.
+Representative Smith has introduced legislation to ensure that our federal timber tax dollars go to our timber impacted communities.
+Representative Smith has fought to protect agriculture by keeping wolves out of Oregon and to preserve the Columbia Snake River System for irrigation, navigation, power production, and recreation.
+Representative Smith has garnered a solid reputation of advocacy and effectiveness on behalf of the citizens of Eastern Oregon.
+He is recognized as a leader with resolve who, when necessary, will cross party lines when it is for the benefit of District 57.
+Representative Smith and his wife, Sherri, reside in Heppner, Oregon.
+They have five children and just last summer became empty nesters.
+If you can’t catch Representative Smith in his legislative or business office – he is likely chasing his two grandchildren all around the state.
+A History of Effective Leadership
+2025-2026
+- House Committee on Revenue
+- Joint Ways and Means Committee, Co-Vice Chair
+- Joint Ways and Means Subcommittee on General Government, Co-Chair
+- Joint Ways and Means Subcommittee on Capital Construction
+- Joint Committee on Tax Expenditures
+- Joint Committee on Legislative Administration
+2023-2024
+- House Committee on Revenue
+- Joint Ways and Means Committee, Co-Vice Chair
+- Joint Ways and Means Subcommittee on General Government, Co-Chair
+- Joint Ways and Means Subcommittee on Capital Construction
+- Joint Committee on Tax Expenditures
+- Joint Committee on Legislative Administration
+2021-2022
+- House Committee on Revenue
+- Joint Emergency Board
+- Joint Ways and Means Committee, Co-Vice Chair
+- Joint Ways and Means Subcommittee on General Government, Co-Chair
+- Joint Ways and Means Subcommittee on Capital Construction
+- Joint Committee on the Interstate 5 Bridge
+- Joint Committee on Legislative Administration
+- Joint Committee on Legislative Audits
+- Joint Committee on the Second Special Session of 2021
+2019-2020
+- House Committee on Revenue
+- Joint Committee on Student Success, Co-Vice Chair
+- Joint Ways and Means Committee, Co-Vice Chair
+- Joint Ways and Means Subcommittee on General Government, Co-Chair
+- Joint Ways and Means Subcommittee on Capital Construction
+- Joint Legislative Administration Committee
+- Joint Committee on Legislative Audits
+- Joint Emergency Board
+- House GOP Caucus Committee Budget/Revenue Chair
+2017-2018
+- House Committee on Revenue, Co-Vice Chair
+- Joint Committee on Student Success, Co-Vice Chair
+- Joint Ways and Means Committee, Co-Vice Chair
+- Joint Ways and Means Subcommittee on General Government, Co-Chair
+- Joint Ways and Means Subcommittee on Capital Construction
+- Joint Legislative Administration Committee
+- House GOP Caucus Committee Budget/Revenue Chair
+2016-2017
+- Governor’s Small Business Cabinet, Member
+- House Small Business Growth Committee, Co-Chair
+- Joint Ways and Means Committee, Co-Vice Chair
+- Joint Ways and Means Subcommittee on General Government, Co-Chair
+- Joint Ways and Means Subcommittee on Capital Construction
+- Joint Committee on Transportation Preservation and Modernization
+- Joint Committee on Legislative Administration
+- House GOP Caucus Committee Budget Chair
+2015-2016
+- Governor’s Small Business Cabinet, Member
+- House Small Business Growth Committee, Co-Chair
+- Joint Ways and Means Committee, Co-Vice Chair
+- House Republican Caucus Budget Chair
+- Joint Ways and Means Subcommittee on General Government, Co-Chair
+- Joint Ways and Means Subcommittee on Capital Construction
+- Joint Committee on Legislative Administration
+- Legislative Commission on Indian Services
+- Oregon Hanford Cleanup Board
+2013-2014
+- Joint Ways and Means Committee, Ranking House Member
+- Joint Ways and Means Subcommittee on General Government, Co-Chair
+- Joint Ways and Means Subcommittee on Capital Construction
+- Joint Committee on Legislative Administration
+- House Committee on Consumer Protection & Government Efficiency
+- Governor’s RPS Task Force, Co-Chair
+- Legislative Commission on Indian Services
+- Task Force on University Governance and Operations
+- Task Force on Captial Construction Process
+- Oregon Hanford Cleanup Board
+2011-2012
+- Joint Ways and Means Committee, Ranking House Member
+- Joint Ways and Means Subcommittee on Public Safety, Co-Chair
+- Joint Ways and Means Subcommittee on Capital Construction, Co-Vice Chair
+- Special Committee on Legislative Audit, Information Management & Technology, Co-Vice Chair
+2009-2010
+- Emergency Board
+- Joint Ways and Means Committee
+- Joint Ways and Means Subcommittee on Public Safety
+- Joint Ways and Means Subcommittee on Education
+- Joint Ways and Means Subcommittee on Capital Construction
+2007-2008
+- House Committee on Energy and the Environment
+- House Transportation Committee
+2005-2006
+- Emergency Board
+- Joint Ways and Means Committee
+- Joint Ways and Means Subcommittee on General Government
+- Joint Ways and Means Subcommittee on Transportation & Economic Development, Chair
+- Elections & Rules Subcommittee on Campaign Finance Reform, Chair
+- Special Committee on Budget
+- Special Committee on Budget Subcommittee on General Government & Transportation & Economic Development, Chair
+- Interim Committee on Real Estate Agency Oversight
+- Interim Committee on Economic Development, Vice-Chair
+- Interim Committee on Transportation
+2003-2004
+- Assistant Majority Leader
+- Joint Ways and Means Committee
+- Joint Ways and Means Subcommittee on Human Services
+- Joint Ways and Means Subcommittee on Transportation & Economic Development
+2001-2002
+- Joint Ways and Means Committee
+- Joint Ways and Means Subcommittee on Public Safety
+- Joint Ways and Means Subcommittee on Transportation & Economic Development, Chair
+- Special Task Force on Jobs & Economy, Chair
+- Commission on Indian Services
+- Oregon Hanford Waste Board

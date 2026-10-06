@@ -1,0 +1,99 @@
+OSMAN’S SUPPORTERS
+Endorsements
+Elected Officials
+- Suzan DelBene US Congresswoman (D-1)
+- Bob Ferguson WA State Governor
+- Denny Heck WA State Lieutenant Governor
+- Patty Kuderer Insurance Commissioner
+- Mike Pellicciotti WA State Treasurer
+- Claudia Balducci King County Councilmember
+- Sarah Perry King County Councilmember
+- Angela Birney Mayor of Redmond
+- Mo Malakoutian Mayor of Bellevue
+- Kelli Curtis Mayor of Kirkland
+Organizations
+- WSBCTC WA State Building & Construction Trades
+- LiUNA 242 LiUNA Laborers Local 242
+- WSNA Washington State Nurses Association
+- Planned Parenthood Planned Parenthood Alliance Advocates
+- OAV One America Votes
+Other Elected Officials
+Attorney General Nick Brown
+WA Lands Commissioner Dave Upthegrove
+King County Executive Girmay Zahilay
+King County Councilmember Rod Dembowski
+King County Councilmember Jorge Baron
+King County Councilmember Teresa Mosqueda
+King County Counilmember Steffanie Fain
+Sarah Arndt, Woodinville Mayor
+Mark Mullett, Issaquah Mayor
+Mason Thompson, Bothell Mayor
+Nigel Herbig, Kenmore Mayor
+Ariana Sherlock, Newcastle Mayor
+Hamdi Mohamed, Port Commissioner
+Sam Cho, Port Commissioner
+Ryan Calkins, Port Commissioner
+Melissa Stuart, Redmond Council President
+Vanessa Kritzer, Redmond Councilmember
+Vivek Prakriya, Redmond Councilmember
+Menka Soni, Redmond Councilmember
+Lynne Robinson, Bellevue Councilmember
+Naren Briar, Bellevue Councilmember
+Claire Sumadiwirya, Bellevue Councilmember
+Vishal Bhargava, Bellevue Councilmember
+Jay Arnold, Kirkland Councilmember
+Amy Falcone, Kirkland Councilmember
+Shilpa Prem, Kirkland Councilmember
+Rami Al-Kabra, Bothell Deputy Mayor
+Michelle Evans, Woodinville City Council
+Mike Millman, Woodinville City Council
+David Edwards, Woodinville City Council
+Amanda Dodd, Bothell City Council
+Carston Curd, Bothell City Council
+Sun Burford, Newcastle City Council
+Paul Charbonneau, Newcastle City Council
+Jane Aras, Bellevue School Board Member
+2025 Endorsements
+American Muslim Advancement Council (AMAC)
+Washington State Labor Council, AFL-CIO
+Master Builders Affordable Housing Council
+SEIU 925
+Teamsters Local 117
+Planned Parenthood Alliance Advocates
+One America Votes
+Redmond Firefighters Local 2829
+WA State Building and Construction Trades (WSBCTC)
+Seattle Building and Construction Trades (SBCTC)
+WA Housing Alliance Action Fund
+Alliance for Gun Responsibility Victory Fund
+Associated General Contractors (AGC) Build PAC
+One America Voters
+Sage Leaders
+Retired Public Employees Council of Washington (RPEC)
+Asian Pacific Islander Americans for Civic Empowerment (APACE) PAC
+UFCW 3000
+Fuse WA
+King County Democrats
+WA Education Association
+48th LD Democrats
+King County Young Democrats
+Washington Bikes
+Seattle King County Realtors
+Western States Regional Council of Carpenters
+WA Hospitality Association
+WA Retail Association
+Women of Color in Politics
+Democrats for Diversity and Inclusion
+IUPAT DC 5
+SEIU 775
+IAM District 751
+Washington Federation of State Employees (WFSE)
+Children's Campaign Fund (CCF)
+Bricklayers And Allied Craftworkers Local 1
+The Stranger
+The Seattle Times
+WA Conservation Action
+Association of WA Business
+LiUNA Laborers Local 242
+WA State Nurses Association
+Bellevue Firefighters Local 1604

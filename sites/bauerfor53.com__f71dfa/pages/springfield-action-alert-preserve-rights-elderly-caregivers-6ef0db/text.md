@@ -1,0 +1,24 @@
+This coming week is a key week in the Springfield legislative calendar: all bills originating in the House, have to have been voted on in the House and sent to the Senate, by April 17th (with the exception of the budget, “shell bills” and other loopholes).
+This means that last week was a busy week for votes, primarily on less controversial bills, but more concerning ones are at risk of being brought up for a vote this coming week.
+Here’s one that’s flying under the radar:
+HB4359, the Sexual Orientation, Gender Identity, and Gender Expression in Long-Term Care Bill of Rights Act, would give transgender-identifying people “rights” but take away rights from everyone else living in or caring for those living in nursing homes.
+This bill’s chief sponsor is the incumbent in our district, Rep.
+Nicolle Grasse.
+You may have read the recent news about the lawsuit of the Dominican Sisters of Hawthorne, NY, who run a hospice and filed suit against the state of New York, which wants to mandate that they use chosen pronouns for transgender people and assign them to rooms and roommates based on their self-identified gender.
+The sisters face fines, a shutdown or even jail time if they do not comply.
+If the Illinois bill passes, these mandates and penalties would come here.
+What’s more, there is no religious exemption for providers like the Little Sisters of the Poor, who serve the elderly poor as a vocation, and who have already battled the Obama and Biden administration about federal mandates.
+Around us, the St.
+Joseph’s Home serves low-income residents who cannot afford a private-pay nursing home and strives to provide them a better quality of life than a typical Medicaid nursing home, both through donations and volunteers, and through the work of the sisters themselves — this is not a typical “religious” medical facility that doesn’t really look any different from the private sector.
+And consider the mandate to room trans roommates with their self-identified gender: it goes both ways.
+Allowing trans residents this choice, takes the choice to have a same-sex roommate away from some unlucky, or powerless other resident.
+Nursing home residents have already had to give up so much and have had to accept so much loss of privacy in their personal care, that the least we can do is protect their ability to make this last choice.
+Finally, the bill mandates each employee receive 4 hours of training every two years “designed to prevent and eliminate discrimination based on actual or perceived sex, actual or perceived sexual orientation, actual or perceived gender identity, actual or perceived gender expression, or actual or perceived HIV status.” If you have a white-collar job, you likely have similar sorts of training, perhaps not on this subject but on issues such as ethics violations, where you sit at a computer for half an hour and then take a quiz. 4 hours of training is a lot, especially in a nursing home environment where honestly 4 hours of extra training could go a long way in other caregiving skills or understanding of dementia or other aging topics.
+And think of the content of a typical “anti-discrimination training session.” It is more likely than not that, without added protections, the practical implementation of the law would be the sort of “training session” that requires passing a quiz in which the trainee is essentially required to affirm ideological claims rather than just certify they have listened to a presenter.
+And the reality of life is that the “rank and file” care workers are low paid and, mostly, immigrant women who are not exactly in a position to push back.
+What you can do
+If you’re in my district, then you already know your State Rep: Nicolle Grasse.
+You can call her Springfield office at (217) 782-3739 or her local district office at (847) 749-1137, or you can email her office at [email protected].
+It matters to tell her that her constituents oppose this.
+If you’re not in the 53rd district, you can use the Illinois Policy look up tool to find out who your state rep is, and then go to the Illinois legislature website to look up their contact information at https://www.ilga.gov/House/Members.
+But I also encourage you to go a step further and contact the office of House Speaker Chris Welch directly at (217) 782-5350 (Springfield) or (708) 450-1000 (district office) to tell his staff that you oppose these bills and do not want them to come up for a vote.

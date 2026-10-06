@@ -1,0 +1,7 @@
+| SACO – State Senator Donna Bailey (D-Saco) has launched her campaign for re-election to her Senate District 31 seat.
+Senate District 31 includes the communities of Saco, Old Orchard Beach, and Buxton, after the recent redistricting effort jettisoned Hollis and Limington from the district.
+“I’m taking action to address the ongoing housing crisis by ensuring more Maine seniors keep more money in their pockets for food, medication and travel,” said Bailey.
+“The new law I helped pass, revives the Senior Property Tax Deferral Program to reduce the burden property taxes have for those most vulnerable in our community.” Currently, Bailey serves as a member of the Appropriations & Financial Affairs Committee, the budget-writing committee in the legislature, and as a member of the Government Oversight Committee.
+“I’m in the best possible position to deliver real results for our area as I’ve worked with my colleagues and Governor Mills on passing budgets that reflect our core values as Mainers,” says Bailey.
+“We’ve finally funded the state’s share of education at the voter-approved 55% level, funded free school meals for all public school students, and signed off on a plan to fully restore revenue sharing by 2023.” Outside the Legislature, Bailey is a practicing attorney specializing in real estate, family, and probate law.
+Previously, Bailey served on the Saco Planning Board, Zoning Board of Appeals, and was elected York County Probate Court Judge. | Blog Latest News Archives Categories |

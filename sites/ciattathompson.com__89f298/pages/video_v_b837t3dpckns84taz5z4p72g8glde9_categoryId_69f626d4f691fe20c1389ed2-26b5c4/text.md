@@ -1,0 +1,2 @@
+Campaign Kickoff, • 5/2/26 Man films attendees, campaign launch targeted — political intimidation in downtown Portland?
+Previous Ciatta For Oregon House of Representative District 33 Kickoff Speech You Might Also Like Ciatta For Oregon House of Representative District 33 Kickoff Speech Portland City Councilors Being Investigated for Breaking OR Law & Legislature Supermajority Dazed Ciatta Thompson on Fixing Portland's Problems, Sanctuary Cities, LGBT Community

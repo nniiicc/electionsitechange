@@ -1,0 +1,40 @@
+LABOR VOICES
+- New Mexico Building Trades
+- Iron Workers Local 495
+- IBEW
+- AFSCME Council 18
+- Sheet Metal Workers Local Union 49
+- AFGE Local 1050
+- New Mexico IAFF (International Association of Fire Fighters)
+- New Mexico Federation of Labor
+- Service Employees International Union
+- National Education Association New Mexico
+- Machinists
+- AFL-CIO
+- National Association of Social Workers
+- AFGE Local 1050 (TSA Workers ABQ)
+- AFT (American Federation of Teachers)
+ORGANIZATIONS AND PACS
+- Giffords Campaign
+- Jstreet
+- League of Conservation Voters
+- Jewish Democratic Council of America
+- BOLD PAC
+- NRDC Action Fund
+- Young Democrats of New Mexico
+- New Mexico State College Democrats
+- Planned Parenthood Action Fund
+- American Federation of Teachers
+- Committee to Protect Healthcare
+- Moms Demand Action Gun Sense Candidate distinction
+- Animal Protection Voters (APVNM)
+- Brady Campaign
+- Reproductive Freedom for All
+- Moms Rising
+- Latino Victory Fund
+- Committee to Protect Healthcare
+- Newtown Action Alliance
+- New Mexico High School Democrats
+- Feminist Majority
+- Human Rights Campaign (HRC)
+- National Security Leaders for America

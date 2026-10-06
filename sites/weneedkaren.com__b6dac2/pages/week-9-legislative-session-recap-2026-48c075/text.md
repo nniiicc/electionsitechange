@@ -1,0 +1,35 @@
+Week 9 Legislative Session Recap 2026
+March 9 - 13, 2026
+The House reconvened at the State Capitol on Monday, March 9, following an extended legislative day that carried over into the early hours of Saturday morning.
+By week’s end, the Georgia General Assembly reached Legislative Day 31, leaving just nine legislative days remaining in the 2026 session.
+After the fast-paced activity of Crossover Day, the House shifted its focus to Senate legislation, advancing several measures for consideration on the House floor.
+With Sine Die scheduled for April 2, my colleagues and I remained focused on moving key legislation forward, most notably the passage of the Fiscal Year 2027 (FY 2027) budget.
+During week nine, the House passed the following legislation:
+- House Bill 974
+(FY 2027 Budget):
+The House passed a balanced $38.5 billion budget for FY 2027, reflecting a $738 million (1.95%) increase over the prior year.
+House Bill 974 will address issues across the state including education, public safety, infrastructure, and healthcare.
+- Fully funds the QBE formula at $14.9 billion, includes $5.5 million for Special Needs Scholarships and more than $60 million for a statewide literacy initiative focused on early grade reading proficiency.
+- Provides $9.7 million to expand pre-K extended day services, supports working families and increases access to childcare assistance.
+- Allocates $2.7 million for vision and hearing screening equipment for K-3 students.
+- Adds funding for literacy coaches, teacher training and support staff to strengthen early education outcomes.
+- Includes funding for school nutrition, summer meal programs (SUN Bucks), transportation increases, mental health grants and school social worker expansion.
+- Invests in university research, medical education expansion and behavioral health workforce initiatives.
+- Provides $45.3 million to improve Medicaid reimbursement rates and funds services including autism care, rural healthcare access, maternal health and graduate medical education.
+- Adds $101 million to support correctional staffing, inmate healthcare and public safety initiatives, along with funding for victim services and judicial system improvements.
+- Includes a $166 million increase for transportation projects, maintenance and airport aid.
+- Supports veterans’ health services and agricultural protection efforts, including feral hog management programs.
+- House Bill 1402: Establishes school-based vision and hearing screenings for young students to support early detection of learning barriers.
+- House Resolution 145: Encourages coordination between state agencies to expand access to student health screenings.
+- Senate Bill 220
+(Putting Georgia’s Patients First Act): Updates Georgia’s medical cannabis program by expanding product options, modernizing dosage standards and broadening qualifying conditions for patients.
+- House Resolution 948: Establishes a study committee to examine pharmacy benefits managers and rising prescription drug costs, with a focus on transparency and access, especially in rural areas.
+- House Resolution 1049: Designates an annual Fentanyl and Opioid Awareness Day to promote education, prevention and public safety efforts.
+- Senate Bill 420: Supports Georgia’s coastal economy by improving data collection and management of offshore fishing through a new licensing endorsement.
+- Senate Bill 239: Strengthens professional standards and oversight within the funeral services industry to better protect consumers.
+As the 2026 legislative session nears its conclusion on Sine Die, April 2, I encourage you to remain engaged and informed about the work taking place under the Gold Dome.
+Please continue to share your thoughts, questions and concerns, as your input plays an essential role in shaping the decisions we make on behalf of our communities.
+It is an honor to serve you, and I remain committed to working diligently during these final days of session.
+Please feel free to contact me with any questions or concerns
+karen.mathiak@house.ga.govor (404) 656-0213.
+Thank you for the privilege of serving as your state representative.

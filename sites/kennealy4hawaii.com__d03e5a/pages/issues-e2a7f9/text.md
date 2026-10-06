@@ -1,0 +1,39 @@
+About the Issues
+Jonathan’s perspective on the issues is shaped by deep‑rooted faith, a commitment that guides how he listens, learns, and serves.
+He believes that strong communities are built on principles of integrity, responsible stewardship, and genuine care for the people of Hawaiʻi.
+His approach is grounded in values of sustainability, lowering taxes, and a thriving Hawai'i.
+He also holds a strong respect for the constitutional framework that shapes public service in the United States.
+This includes valuing transparency, accountability, and the rule of law as essential foundations for ethical leadership.
+Jonathan believes that honoring these principles helps ensure fairness, stability, and trust within the community.
+Guided by these values, he is committed to understanding the challenges Hawaiʻi families face and engaging with residents through open dialogue, humility, and respect.
+His focus remains on fostering conditions where people can thrive, strengthening local resilience, and caring for the islands we call home.
+Self-sustainability
+- Energy Efficiency
+- Agriculture / Farming
+- Hunting / Fishing
+- Recycling
+- Local Manufacturing
+Read More
+Lowering Taxes
+- Simplify State Tax
+- Remove taxes on Medication and Groceries
+- Property Tax Reform
+Read More
+Help Hawaii Thrive
+- Kapuna Care Programs
+- Rehabilitation Programs
+- Special Needs Programs
+- Strengthen Pathways out of Homelessness
+- Better our Education and Medical access
+Read More
+Parental Rights in Education
+- Parents must have a voice in their child's education
+- Support transparency and parental involvement
+- Protect homeschooling freedom
+Read More
+Public Safety
+- Support law enforcement
+- Hold criminals accountable
+- Keep our communities safe
+- Protect the right of law-abiding citizens to defend themselves, their families, and property
+Read More

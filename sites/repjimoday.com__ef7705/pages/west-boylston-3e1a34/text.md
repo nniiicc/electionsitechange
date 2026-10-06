@@ -1,0 +1,16 @@
+Jim O Day
+State Representative for the 14th Worcester district of Massachusetts
+west boylston
+Representative O’Day played a major role in the restoration of the above bridge, fighting for $250,000.00 in appropriations for the bridge’s repair and maintenance from the Massachusetts Highway Department.
+He continues to ensure public accessibility and safety through road and sidewalk resurfacing.
+Additionally, Representative O’Day and his colleague Senate President Emerita Harriette L.
+Chandler, passed S.2559 – An Act authorizing the commissioner of capital asset management and maintenance to modify and relocate an easement in the town of West Boylston.
+This bill authorizes the commissioner of capital asset management and maintenance to modify and relocate an easement in the town of West Boylston.
+Beaman memorial library:
+During the FY20 Budget process, Representative O’Day worked diligently to secure funding in the amount of $24,000 for technology upgrades at the Beaman Memorial Library in West Boylston.
+Citizen Soldier’s Act:
+Representative O’Day collaborated with local resident Mindy Esteves and the Town of West Boylston to provide property tax relief to active National Guardspersons and reservists through the Citizen Soldiers Act.
+The Act is a local option for property tax abatement for National Guardspersons and reservists on active duty in foreign countries.
+The measure has been in effect since 2010.
+West Boylston Fire Station:
+During the FY19 budget process, Representative O'Day advocated to secure $150,000 for the architectural redesign of the West Boylston Fire Station.

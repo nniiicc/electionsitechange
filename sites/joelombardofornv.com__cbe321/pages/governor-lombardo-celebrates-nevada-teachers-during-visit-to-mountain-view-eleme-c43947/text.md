@@ -1,0 +1,17 @@
+Governor Lombardo Celebrates Nevada Teachers During Visit to Mountain View Elementary School, Praises State Progress in Education
+FOR IMMEDIATE RELEASE
+May 08, 2026
+Contact: press@joelombardofornv.com
+LAS VEGAS – Governor Joe Lombardo visited Mountain View Elementary School yesterday in recognition of Teacher Appreciation Week, meeting with educators, staff, and students to thank Nevada teachers for their dedication to improving outcomes for children across the state.
+During the visit, Governor Lombardo joined school leaders and educators in classrooms throughout the campus and highlighted the critical role teachers play in strengthening Nevada’s future.
+“Nevada’s teachers are shaping the next generation of leaders, workers, and citizens every single day,” said Governor Joe Lombardo.
+“Teacher Appreciation Week is an opportunity to recognize the incredible commitment our educators bring to the classroom and to thank them for the work they do on behalf of Nevada’s students and families.”
+After taking office, Governor Lombardo delivered $2 billion in new education funding, the largest K-12 education investment in state history, and secured permanent teacher pay raises for all public school teachers.
+To bolster his historic education investment, Governor Lombardo implemented unprecedented accountability reforms, expanded school choice opportunities for families of all income levels, restored the Read by Grade 3 literacy program, and implemented his landmark school safety reforms.
+Nevada has already seen measurable progress under Governor Lombardo.
+Since 2022, chronic absenteeism has decreased by 10%, school suspensions have decreased by 17%, statewide graduation rates have increased by 4%, childhood literacy rates are up 5%, and Nevada schools have experienced a 73% increase in 5-star schools.
+Teacher vacancies in the Clark County School District have also dropped dramatically, declining by 80% since their peak in 2022 after Governor Lombardo delivered landmark raises and school safety reforms.
+“Great teachers deserve support, respect, and leadership that is focused on results,” Governor Lombardo said.
+“We’ve made meaningful progress, but we’re going to continue fighting to ensure every Nevada student has access to a high-quality education and every teacher has the tools they need to succeed.”
+Photos of Governor Lombardo’s visit can be accessed here.
+###

@@ -1,0 +1,6 @@
+- Allen Goodman - Dearborn County Commissioner
+- Rick Probst - Dearborn County Commissioner
+- Jim Thatcher - Dearborn County Commissioner
+- Liz Morris – President, Dearborn County Council
+- Tim Doll – Vice President, Dearborn County Council
+- Dave Lusby – Former Dearborn County Sheriff

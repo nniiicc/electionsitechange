@@ -1,0 +1,110 @@
+From leading the efforts for acquisition of Anderson Fields in Los Ranchos to preserve our North Valley's open space and agriculture lifestyle; investing in the 4th Street corridor renovation; standing up for our first responders; to advocating for once-in-a-lifetime funding of mental and behavioral health access, Day knows how to get things done in the New Mexico Legislature.
+Her efforts directly help House District 15, but also make the entire state of New Mexico a leader in economic development and clean energy technology.
+The Greater Albuquerque Chamber of Commerce recognized her for her efforts to make New Mexico a major player in interstate and international commerce with her Trade Ports Development Act.
+Day has become a leader in advocating to make New Mexico a leader in clean energy and technology to combat climate change.
+Her Power Up NM Act would modernize and expand our power grid to support responsible economic development while ensuring our public utilities plan for beneficial electrification standards to meet New Mexico’s aggressive decarbonization goals.
+You can search and review all of Day's legislation at the New Mexico State Legislature website.
+HB 5: Office of Child Advocate Act
+Established an independent Office of Child Advocate within the Department of Justice to investigate complaints and advocate for children in state custody, ensuring greater accountability and transparency in child welfare services.
+HB 19: Trade Ports Development Act
+Launched a statewide initiative to support trade port infrastructure and public-private partnerships, positioning New Mexico as a strategic logistics and supply chain hub.
+HB 56: Medicaid Reimbursement Parity for Birth Centers
+Required Medicaid to reimburse birth centers at the same rate as hospitals for equivalent maternity services, supporting more equitable access to safe and affordable childbirth options.
+HB 89: Graduate Scholarship Act Revisions
+Expands eligibility and increases awards for New Mexico’s Graduate Scholarship program to better support underrepresented students.
+HB 131: Caregiver Background Check Reform
+Transfers oversight of caregiver background checks to the Health Care Authority, expands disqualifying convictions, and authorizes further rulemaking to protect vulnerable populations.
+HB 178: Nursing Practice Act Reforms
+Clarifies nurse authority in administering anesthesia, strengthens licensing procedures, and improves disciplinary transparency.
+HB 212: PFAS Protection Act
+Bans the sale of certain consumer products containing PFAS chemicals and authorizes rulemaking and penalties for violations.
+HB 240: Drinking Water Revolving Loan Fund Improvements
+Authorizes the New Mexico Finance Authority to issue grants—alongside loans—for drinking water projects, while expanding reporting and oversight mechanisms to strengthen access and accountability.
+HM 41: Train Crossing Delays Study
+Requests the Department of Transportation to assess blocked train crossing times statewide and make recommendations to reduce delays.
+HM 61: Storytelling as Trauma Support for Foster Youth
+Encourages CYFD to explore autobiographical storytelling as a trauma-informed method to support language development and emotional healing for children in foster care.
+SB 1: Behavioral Health Trust Fund
+Establishes a permanent Behavioral Health Trust Fund to support long-term funding for mental health and substance use services statewide.
+SB 3: Behavioral Health Reform and Investment Act
+Creates a statewide system for regional behavioral health planning with required annual reporting and stakeholder collaboration to guide investments.
+HB 129: Firearm Sale Waiting Period
+Imposes a mandatory 14-business-day waiting period for firearm sales and criminalizes transfers made before both the waiting period and federal background check are complete.
+HB 141: Judicial Salary Increases
+Raises salaries for state Supreme Court justices and realigns judicial pay structures while removing outdated salary formulas for magistrate judges.
+HB 232: Infrastructure Planning and Development Division Act
+Creates a new Infrastructure Planning and Development Division within the Department of Finance and Administration, transferring programs and duties from other divisions to improve support for rural and tribal infrastructure planning and funding.
+HB 75: Chiropractic Copay Parity
+Prohibits health insurance plans from charging higher copays or coinsurance for chiropractic services than for primary care.
+HB 79: Title Insurance Rate Hearings
+Requires the Superintendent of Insurance to hold a public hearing every three years to review title insurance rates and related regulations.
+HB 175: Crime Reduction Grant Fund Creation
+Creates a dedicated fund for crime reduction grants and empowers local criminal justice councils to guide use of funds.
+HB 353: South Campus Tax Increment Development Bonds
+Authorizes the issuance of up to $267 million in state gross receipts tax increment bonds to fund infrastructure in the South Campus development district, with restrictions on additional capital outlay projects in the area.
+HM 14: UNM Day
+Recognizes January 30, 2023, as “UNM Day” in celebration of the University of New Mexico’s long-standing contributions to education, research, health care, and public service throughout the state.
+HM 85: Vision Zero Road Safety Plan Study
+Urges the Department of Transportation to develop a plan targeting zero traffic-related deaths or serious injuries on state roads by 2030.
+SB 425: Medication-Assisted Treatment in Detention Facilities
+Requires all county jails to provide medication-assisted treatment (MAT) for incarcerated individuals with substance use disorders and expands MAT programs across state correctional facilities.
+The bill also creates a dedicated fund and allocates $12 million to support program implementation and operation.
+SB 485: Non-Emergency Medical Transportation via Ride-Share
+Allows transportation network companies like Uber and Lyft to provide non-emergency medical transportation to Medicaid recipients, while establishing safeguards, driver screening requirements, and regulatory authority under state health agencies.
+HB 52: Harm Reduction Program Expansion
+Expanded New Mexico’s harm reduction program to provide additional overdose prevention supplies and updated legal protections for participants, aiming to reduce drug-related deaths and disease transmission.
+HB 171: Rural Air Service Enhancement Expansion
+Increases grant amounts and eligibility for rural air routes to improve transportation access in underserved New Mexico communities.
+HB 191: Uniform Licensing Act Overhaul
+Expands expedited licensing for out-of-state professionals and mandates consistent rules for all state licensing boards.
+HM 8: Congenital Heart Disease Awareness Week
+Designates February 7–14, 2022, as "Congenital Heart Disease Awareness Week" to raise awareness and support for individuals born with heart defects and the lifelong care they require.
+SB 150: Credit for Reinsurance Act
+Aligns New Mexico insurance law with national standards by enacting the Credit for Reinsurance Act to regulate credit for insurers purchasing reinsurance.
+HB 2: General Appropriations and Authorizing Expenditures
+Appropriated over $1 billion in American Rescue Plan funds for broadband, housing, public health, state parks, tourism, and local infrastructure, prioritizing pandemic recovery and community development across New Mexico.
+HB 11: Clarification of Medical Malpractice Definitions
+Modified the definition of "independent provider" and adjusted the application of malpractice laws to certain outpatient health care facilities to ensure fair liability protections for providers.
+HB 47: Elizabeth Whitefield End-of-Life Options Act
+Authorized terminally ill, mentally capable adults to request medical aid in dying under strict safeguards, affirming the right to a peaceful and dignified death.
+HB 125: Behavioral Health Licensing Improvements
+Streamlines licensing and supervision rules for behavioral health professionals and updates board membership requirements.
+HB 255: Liquor Control Act Overhaul
+Modernizes the Liquor Control Act by creating a new restaurant license, legalizing alcohol delivery, and providing tax deductions for existing license holders impacted by the reforms.
+HB 270: Autonomous Motor Vehicles and Platooning (2021)
+This bill establishes a legal framework for the operation of autonomous motor vehicles in New Mexico.
+It defines key terms related to automated driving systems, mandates a permitting process for testing or operating such vehicles on public roads, and allows for vehicle platooning under specified conditions.
+It also preempts local governments from banning autonomous vehicles solely due to their automated features.
+SB 223: Cigarette Tax Revenue for UNM Health Projects
+Redirects cigarette tax revenue to support bonds for UNM Hospital and the Comprehensive Cancer Center, strengthening New Mexico’s public health infrastructure.
+SB 246: Revised Uniform Law on Notarial Acts
+Modernizes state notary laws by allowing remote notarization, recognizing tribal and out-of-state notarial acts, and expanding regulatory oversight.
+HB 6: PTSD Presumption for First Responders
+Created a legal presumption that PTSD in law enforcement officers and EMS personnel is work-related, allowing them to access disability benefits without having to prove employment causation.
+HB 21: Prohibition of NDAs in Sexual Misconduct Cases
+Made nondisclosure agreements unenforceable in cases of workplace sexual harassment or assault, empowering survivors to speak out and seek accountability.
+HB 22: Civil Air Patrol Military Leave Clarification
+Expanded and clarified military leave eligibility for Civil Air Patrol members, ensuring up to 15 days of leave for official missions as authorized by the state.
+HB 193: Aviation Fund Revenue Stabilization
+Makes permanent a portion of gross receipts tax distributions to support the State Aviation Fund.
+HM 1: Celebrating the Women’s Suffrage Movement
+Recognizes and honors the national and New Mexico-based efforts that led to the adoption of the Nineteenth Amendment, securing women's right to vote and commemorating its centennial anniversary.
+HB 91: Career Technical Education Pilot Project
+Establishes a seven-year pilot program to support high-quality career technical education in public schools, with robust data tracking to evaluate student outcomes and workforce alignment.
+HB 279: Metropolitan Court Appeals to Court of Appeals
+Allows on-record civil and certain criminal cases from metropolitan courts—specifically those involving DWI or domestic violence—to be appealed directly to the New Mexico Court of Appeals instead of district court.
+HB 314: Children's Advocacy Centers Act
+Establishes children’s advocacy centers statewide and requires each judicial district to form multidisciplinary teams to investigate child abuse and neglect in a child-focused, coordinated setting.
+HB 427: Driving on a Suspended License Penalties Reform
+Reduces jail time and fines for driving with a suspended license and clarifies the distinction between judicial and administrative license suspensions.
+HM 8: Asian American Day
+Declares January 17, 2019, as “Asian American Day” to recognize the contributions of Asian Americans to New Mexico’s history, economy, and civic life while also acknowledging past injustices such as the Chinese Exclusion Act.
+HM 49: Recognition of the Holocaust and Intolerance Museum of New Mexico
+Honors the museum's mission to combat hate through education and acknowledges its statewide outreach and historical exhibits.
+SB 118: Confidentiality for Victims and Witnesses of Sensitive Crimes
+Protects the identities of certain victims and witnesses in law enforcement records prior to formal charges, including those in sexual assault and stalking cases.
+Download 2025 Constituent Letter (pdf)
+Download
+Copyright © 2026 A New Day For New Mexico - All Rights Reserved.
+Site Creation: Morris Strategies for New Mexico
+Paid for by A New Day For New Mexico

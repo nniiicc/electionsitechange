@@ -1,0 +1,40 @@
+Constituent Legislation & Other Reforms
+Constituent Bills & Other Reforms
+· Frisco Exide – This budget cycle, I was proud to ensure the release of funds available to help the City of Frisco in its efforts to clean up the Exide battery recycling plant.
+This area served as the only battery recycling facility in Texas and left our area with severe environmental hazards after the plant shut down.
+The money available in the budget will help the city finish the clean-up process in the area, which will soon be transformed to Grand Park for the city’s residents to use and enjoy.
+· Heart attack presumption – In the 88th Legislature, a provision was taken out of HB 471 towards the end of the process that would have created a heart attack presumption within the workers’ compensation system.
+In the 89th, I filed this provision as a standalone bill, HB 331.
+After the passage of HB 331, all heart attacks that occur within 8 hours of a first responder’s shift ending will have the presumption of being caused by actions taken while on duty, meaning that it will be covered under workers’ comp.
+· LPPF – Recently, the Denton County Commissioners Court created a Local Provider Participation Fund (LPPF) to help our local hospitals draw down the maximum amount of federal dollars.
+This helps our hospitals run smoothly and efficiently, at a lower cost to HD 106 residents.
+These LPPFs must be given state authority to continue to operate, so I authored and Passed HB 3348, which will allow the Denton County LPPF to continue operating and continue saving our residents money on healthcare costs.
+· Corrective eye surgery – I authored HB 647, which will reduce wait times at the DMV for individuals who receive corrective eye surgery.
+Now, instead of having to go in person to the DMV, those individuals will be able to submit an electronic form to the DMV from a licensed physician or optometrist who certifies they no longer require glasses to drive safely.
+· A big win during my first session was passing the only tollway financial transparency measure.
+My HB 803 required tollway entities to post on their websites certain financial information to transparently show revenues and expenses.
+· In response to the tragic murder of several dozen elderly women in Dallas and Collin Counties, I filed and passed Marylin’s Law, HB 723, in 2021.
+Marylin’s Law forces Medical Examiners to notify the next of kin if they change the cause of death on a Death Certificate.
+Though it seems like common sense, my constituent wasn’t told of their loved one’s Death Certificate change from ‘natural causes’ to ‘undetermined’ after their loved one was reconsidered to be a victim of this serial killer.
+· HB 725, better known as Jace’s Law, was a bill I filed and passed during the 2021 session.
+At the time, the law stated children from the Texas foster care system could access free preK.
+However, my constituent, Jace, though now living with his new family in Texas, was from the Louisiana foster care system and was denied access to preK.
+HB 725 changed the law to ensure no foster child would ever be denied access to preK so long as they reside in Texas.
+· I filled and passed HB 911 during the 87th legislative session after a constituent reached out about the hardship placed on some veterans to bring physical paperwork to renew their driver’s license with their specially marked veteran status.
+Now, under this law, veterans can submit paperwork online for their online license renewal without having to travel to the DPS office and wait in person.
+· Making an important change in the law for a constituent isn’t always through passing a new law.
+At times, a change can be made by amending another legislator’s bill.
+That’s what happened in 2023 on HB 4960.
+After a pediatric cancer patient and constituent felt misled about how certain treatments would affect his ability to have children in the future, we added an amendment to this bill to ensure proper notification about long-term fertility effects are specifically shared with the patient and his or her family.
+· During the 2023 legislative session, I filed and passed HB 844 after a constituent with a background of helping human trafficking victims exposed an issue in the law.
+Before HB 844, trafficking victims were forced to name their trafficker prior to receiving services.
+This was problematic if the victim didn’t know the name of the trafficker or if they feared for their life if they named the person.
+Now, trafficking victims can get the services they need without first having to name the offender.
+· While meeting with local judges in the district, one Justice of the Peace exposed an issue for Texans trying to get their life back on track.
+In a previous session, the legislature ended a punitive program for Texans caught driving with a suspended license.
+Though the program ended, JP courts were still seeing cases from folks whose infraction was from before the program was repealed.
+Therefore, I filed HB 842 and passed it into law.
+Now, Texans seeking to get right with the law can pay their fines without the additional two-year delay from their license, getting them back legally back to work faster.
+· Since the proper way to retire a US flag is to respectfully burn it, an Eagle Scout built a beautiful fire pit at a local park in Frisco to be used for this purpose.
+However, since many flags today are manufactured with synthetic materials harmful to the environment and the person retiring the flag, we needed to find a proper way to safely retire the flags – especially since the storage unit storing hundreds of synthetic flags was quickly filling.
+At the recommendation of this young constituent, I filed and passed HB 587 to clarify crematoriums could be used for this purpose under state law, given they can safely, and quickly, retire our great flag.

@@ -1,0 +1,19 @@
+A call for a ban on members of Congress and their families trading or owning stocks has continued to grow, a measure that Democratic Representative Mike Levin of California said all elected officials, regardless of political party, should agree with.
+“No member of Congress should be allowed to use non-public material information that they get as part of their job and go and trade shares of stocks on it,” Levin told CNBC Washington Correspondent Emily Wilkins at the CNBC CFO Council Summit in Washington, D.C., on Wednesday.
+“It’s outrageous,” he said.
+That bill, called The Restore Trust in Congress Act and introduced in September, would both ban members of Congress, their spouses and dependent children from owning, buying or trading individual stocks and other banned assets while in office, as well as require them to sell any stocks, options, futures and commodities they own after being sworn into office.
+Levin said he has seen members of Congress do that firsthand.
+He recalled a meeting the legislative body held in early 2020 regarding the far-reaching impact that Covid would have on the country.
+“Every member of Congress reacted differently to that,” Levin said.
+“My reaction was to call my wife and tell her to go to Costco and get some hand sanitizer and Clorox wipes.
+Other people called their stockbroker and said, ‘Go short cruise lines or buy Pfizer.’ That’s wrong, that’s fundamentally wrong.”
+Levin described the existing STOCK Act — which was passed in 2012 and places insider trading laws on members of Congress and other government employees, as well as requiring transparency around their stock trades — as “so weak and ineffective.”
+“There’s no timestamp of when people bought or sold.
+There’s only a range and a date,” he said.
+“It’s very difficult for us to discern exactly who did what.”
+Asked if he would support Luna’s discharge petition, Levin said that Democrats are planning to consult with Representatives Chip Roy (R-Texas) and Seth Magaziner (D-RI), the two co-leads of The Restore Trust in Congress Act, to ensure the measure is “something that can actually become law.”
+“I don’t care if it’s a Democrat doing it, I don’t care if it’s a Republican doing it: it’s wrong,” Levin said.
+“The only way, in my view, to stop it is to ban it.”
+Levin said that when he decided to run for Congress in 2017, he and his wife decided to sell all of their individual stock holdings and instead put that money into stock mutual funds, a decision he said has “done great.”
+“It’s not like we can’t participate in the growth of the markets, but we’re not going to use material, non-public information that I get as a member of Congress,” he said.
+“It’s just fundamentally wrong, and everybody ought to agree to that.”

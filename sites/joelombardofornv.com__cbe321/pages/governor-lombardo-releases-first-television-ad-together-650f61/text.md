@@ -1,0 +1,13 @@
+Governor Lombardo Releases First Television Ad "Together"
+FOR IMMEDIATE RELEASE
+March 11, 2026
+Contact: press@joelombardofornv.com
+LAS VEGAS, NV — Governor Lombardo's campaign released its first television ad, which will air statewide this week.
+The ad, entitled “Together,” highlights Governor Lombardo’s focus on delivering real results on the issues that matter most to Nevadans - investing in education, expanding attainable housing, strengthening public safety, and improving access to quality healthcare.
+It underscores the progress made during his first term and showcases key accomplishments that are making a meaningful difference for families and communities across Nevada, including:
+· Nevada's first stand-alone children's hospital, Intermountain Healthcare.
+· Violent crime is down 16%.
+· Statewide graduation rates have improved by nearly 4%.
+· Over 28% of Nevada public schools increased their star ratings in the most recent academic year, including more than 37% of schools in Clark County.
+You can watch the full ad by clicking HERE.
+###

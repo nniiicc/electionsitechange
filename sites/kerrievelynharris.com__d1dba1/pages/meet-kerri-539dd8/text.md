@@ -1,0 +1,28 @@
+Meet KErri
+Who is Kerri Evelyn Harris?
+In 2018, veteran, activist, community advocate, and organizer Kerri Evelyn Harris transformed and invigorated the race for the United States Senate in the state of Delaware.
+By standing unapologetically for criminal justice reform -- emphasizing restorative justice and ending mass incarceration, while also providing economic opportunities for returning citizens; Harris demonstrated a keen understanding of the current crisis of mass incarceration, recidivism, and the disproportionate ways institutionalized racism and economic injustice penalize low-income people and people of color.
+Kerri Evelyn Harris proposed raising the minimum wage to $15 an hour and indexing it to inflation.
+By insisting on increasing wages for the lowest-paid, Harris exposes the lie of simply providing jobs to combat poverty, forcing the recognition that stagnant wages are actually a form of oppression.
+In addition, Harris defended educational access and environmental safeguards.
+All while fighting against the Bank Lobbyist Bill which weakened Dodd-Frank and has made it easier for communities to experience red-lining and predatory lending.
+As a citizen, a leader, an activist, a worker, a mother, a veteran and a queer woman of color, Kerri stood for the people of the state of Delaware and across America.
+Harris had a vision, but as an organizer, she encouraged us to see and imagine not what was, but move toward what could and should be.
+In her own words, Kerri declared, “We need to see past what the original vision is and see what the future looks like when you change it.” This is not a passive statement, Harris invited us to imagine, then create, communities that are fair, healthy and thriving; to build a Delaware and an America that have never existed, to build the Delaware and America we deserve.
+Harris changed the political territory of Delaware and by extension, all of America.
+Kerri continues her work within the state of Delaware and nationwide as she feels it is her duty to fight to improve the lives of her fellow Americans; building coalitions and promoting people-centered policies is her personal mission in life.
+Kerri is most closely affiliated with the organizations listed below, yet she helps whenever and wherever possible:
+Delaware:
+Delaware State Representative
+Delaware Chapter of the MidAtlantic Justice Coalition
+Delaware Center for Justice - Board Vice-President
+State Human Relations Commission - Commissioner
+Delaware Democratic Party - National Committeewoman
+Delaware Alliance for Community Advancement (DelACA) - Operating as Opportunity Knocks for Delaware (OK Delaware)
+Poor People’s Campaign Delaware - Founding Member
+Nationwide:
+Namati - USEJ Program Advisor
+DNC Disability Caucus - Chair
+Working Hero Action - Former National Advocacy Director
+Medicare for All NOW! - Former Movement Strategy Director
+Center for Popular Democracy (CPD) - Non-profit Affiliate

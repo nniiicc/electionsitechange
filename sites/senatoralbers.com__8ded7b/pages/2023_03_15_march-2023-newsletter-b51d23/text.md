@@ -1,0 +1,5 @@
+<< Back
+March 2023 Newsletter
+Wednesday, March 15, 2023
+We are the final weeks of the 2023 Legislative Session moving one step closer to Sine Die on March 29, the final day of session.
+My Senate colleagues and I remain studious in our endeavors to ensure all legislation is properly vetted and voted upon to improve the life of Georgians…

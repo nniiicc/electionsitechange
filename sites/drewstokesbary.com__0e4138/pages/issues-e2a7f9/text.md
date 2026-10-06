@@ -1,0 +1,74 @@
+Where Drew Stands
+I have served on the House Finance Committee for all three of my terms in the State House.
+There I have helped defeat tens of billions of dollars worth of new taxes proposed by the Governor and majority-party Democrats, including new or additional taxes on income you earn, energy you consume, bottled water you drink, services you hire professionals to perform, the house you sell, the car you trade in, and the things you buy on the internet.
+Since I was first elected in 2014, biennial state general fund spending was $33 billion.
+Now the budget has ballooned to well over $50 billion, an increase of nearly 70 percent increase in just six years.
+(Has your own household income risen by 70 percent since 2014?) With our economy struggling from coronavirus and the risk of a recession, or even a full-fledged depression, higher than ever, now is not the time to continue raising taxes.
+Instead of more taxes, the Legislature needs to better prioritize state spending.
+As the chief budget writer for the House Republicans, I’ve worked hard to identify and eliminate waste, fraud and abuse, but far more remains to be done.
+We must also reform our state budget process to avoid committing to such large and rapid spending increases.
+I’ll continue pushing for these reforms if I’m re-elected.
+As Washington recovers from this unprecedented public health crisis, I want to ensure the economy is opened quickly but safely and there is an opportunity for all Washingtonians to be successful.
+That’s why the latest idea out of Seattle, to levy a tax on businesses for employees they hire, is so misguided.
+In Olympia, I’ll continue to advocate for policies that grow the economy and create jobs, not ones that disincentive hiring.
+In the Legislature, I have fought to increase funding for law enforcement and firefighting activities.
+I’ve also advocated for reforms that will allow local jurisdictions to deliver services more efficiently, which helps deliver more services while saving taxpayers money.
+For my work, I was named an Honorary Fire Chief and “legislator of the year” by the Washington Fire Chiefs Association.
+Read More
+My mom was a teacher in Washington State for 25 years, and her father was a teacher before that.
+My dad’s parents both taught at the Washington State School for the Deaf.
+Coming from a family of teachers, I’ve always understood the importance of quality education.
+I’m proud to have been endorsed by Public School Employees of Washington, the union representing 30,000+ educators and other K-12 school support professionals.
+As a father of two young boys, I want good schools more than ever.
+Schools should have the resources they need to succeed, and we must ensure those resources are used wisely.
+That’s why I’ve been endorsed once again by Stand for Children, an organization that, like me, “strives to ensure that all children, regardless of their background, graduate high school prepared for, and with access to, college or career training.”
+When I was first elected to the Legislature in 2014, the state had already been held in “contempt of court” for failing to constitutionally fund K-12 public schools.
+A few months later, the Supreme Court ordered a $100,000 per day fine until education was fully funded.
+Through my work on the House Appropriations and Education Committees and other bipartisan negotiations, I’m proud to have helped create and pass landmark education funding reform legislation in 2017.
+The new system dramatically increased funding for Auburn, Enumclaw, Sumner, White River, Carbonado and Dieringer School Districts (while still reducing total property taxes for those districts starting next year), increases the accountability and transparency of your tax dollars, and ensures K-12 funds are spent on things that matter like textbooks and smaller class sizes.
+Kids deserve our first dollar, not our last dime.
+I will continue be your advocate for better schools and better outcomes.
+Drew's Record
+In addition to the countless individuals and organizations who have endorsed his reelection campaign, Rep.
+Stokesbary’s hard work in the Legislature on behalf of the residents of the 31st District has earned special recognition by several groups:
+- Recipient of the June Robinson Public Health Funding Award by the Washington State Public Health Association, for his work securing public health funding before and during COVID-19
+- Winner of the City Champion Award from the Association of Washington Cities for helping to develop solutions to solve the budgetary challenges of cities
+- Named Honorary Fire Chief by the Washington Fire Chiefs for his for his work in Olympia to preserve and improve fire services
+- Winner of City Champion Award from Association of Washington Cities for his work on comprehensive police “body cam” legislation
+- Recipient of “In The Bag” Award from Washington Food Industry Association for his work on behalf of local, independent grocery stores
+Rep.
+Stokesbary has already been the prime sponsor of five bills signed into law by the Governor:
+- HB 1467 improves fire service efficiencies so departments can reduce overhead costs and deliver more services instead
+- HB 1940 protects funding for the King and Pierce County flood control districts so they have the resources to continue combatting floods along the Green, White, Puyallup, and Carbon Rivers
+- HB 1637 helps combat the rising opioid epidemic by allowing tribal law enforcement agencies access to the state’s prescription drug monitoring database
+- HB 2320 saves Emerald Downs from potential temporary shutdowns, which helps boost the Auburn economy
+- HB 1253 streamlines regulations for many small businesses who had been regulated by two separate state agencies
+Rep.
+Stokesbary also introduced HB 1427, which would have expanded the property tax exemption available to fixed-income retirees and veterans.
+The Legislature ultimately passed a similar Senate bill, which the Governor signed in 2015.
+Rep.
+Stokesbary has worked with senior legislators on both sides of the aisle to fund capital projects that make our neighborhoods a great place to live, work and raise a family:
+- New and modernized schools in Auburn, Carbonado, Sumner, and White River School Districts
+- More homeless shelter beds for Nexus Youth and Families in Auburn (formerly (Auburn Youth Resources)
+- A new drug rehabilitation facility in Auburn, operated by Valley Cities Counseling
+- Upgraded facilities at Rainier State School in Buckley
+- Completion of the brand-new Gordon Family YMCA in Sumner
+- Campus expansion at Auburn Valley YMCA
+- Improvements, repairs, and maintenance at the Enumclaw Expo Center
+- Flood control projects along the Green River (north of Enumclaw), White River (in Sumner), Puyallup River (between Sumner and Orting), and Carbon River (from Carbonado to Orting)
+- Phase 1 of a brand-new Edgewood Community Park
+- Additional extensions of the Foothills Trail in South Prairie, Sumner, and Buckley, connecting the trail to Enumclaw
+- Improvements to Roosevelt Park in Wilkeson
+- New storage facilities for the Daffodil Heritage Parade in Sumner
+In addition, Rep.
+Stokesbary has sponsored or co-sponsored several other important bills to keep our communities safe:
+- HB 1761 to prevent King County or other municipalities from opening “heroin injection sites”
+- HB 2545 bans the use of several known toxic chemicals in children’s toys and clothing
+- HB 1281 expands a successful tri-county child pornography task force to cover the entire state
+Rep.
+Stokesbary has worked diligently to successfully obtain funding for several badly-needed transportation projects in our communities.
+These projects will decrease travel times, increase safety, and give families more time to spend together:
+- Final completion of a freeway (Highway 167) between Puyallup and Tacoma, which had been promised to residents by WSDOT and the Legislature for over 30 years
+- Construction of a new eastbound Highway 18 off-ramp and a bypass around Auburn Way South, which will reduce congestion on Highway 18 and decrease travel times to South Auburn and the Enumclaw Plateau
+- Design and engineering of a new, wider Traffic Avenue bridge over Highway 410 in Sumner, which will greatly reduce the long rush hour backups going in and out of Sumner
+- Construction of a seismic wall along Jovita Boulevard in Edgewood, which will protect the integrity of this important thoroughfare even in a significant earthquake

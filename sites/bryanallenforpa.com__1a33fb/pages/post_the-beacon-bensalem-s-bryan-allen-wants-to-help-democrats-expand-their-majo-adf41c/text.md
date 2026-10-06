@@ -1,0 +1,1 @@
+The Beacon: "Bensalem’s Bryan Allen Wants to Help Democrats Expand Their Majority in the PA House" May 18 1 min read Updated: Aug 26 "Bryan Allen, 47, of Bensalem wants to take his experience and 'can do attitude' to Harrisburg." Read More

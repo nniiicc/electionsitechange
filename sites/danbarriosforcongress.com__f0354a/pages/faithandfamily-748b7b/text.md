@@ -1,0 +1,20 @@
+Faith and Family
+My campaign logo for City Council and now my Congressional campaign each have three red stars.
+These stars are intentional.
+They each represent my wife Erin, my son Leo, and my faith because they are my guiding stars and I know at the end of the day they matter more than anything.
+Many politicians claim to stand for family and faith.
+You can’t stand for family while opposing paid family leave, affordable childcare, child nutrition programs, or the right of every American to marry who they love.
+And, you can’t stand for faith while using religion to harm or divide our neighbors.
+I believe that my faith places on me the responsibility to serve my community, be a good steward of our shared earth, and to make it a better place in the time I am here.
+My faith teaches me that we have an invitation to live into our shared humanity, to walk together in compassion, remembering that every person is made in God’s image — worthy of dignity and respect.
+Although I’ve shared a small piece of my beliefs above, they are that — mine.
+While legislation can legislate ethics, the role of government in our democracy is not to legislate morality.
+Morality is done internally, from the heart.
+The purpose of government and democracy is not to legislate or promote the morality of any one faith.
+I reject Christian nationalism and commit myself to the project of democracy.
+Because that’s the promise of America: a democracy where every person and every family — regardless of religion, race, gender, sexual orientation, or any other difference between us — can truly be free and live up to their full potential.
+I will stand up for the freedom of every Texan, make it easier to start and care for a family, and defend the separation of church and state.
+My Priorities in Congress
+•Family: Make it easier to start and raise a family: Expand the Child Tax Credit to help families with the cost of raising children, pass paid family leave legislation that allows Americans to take time off to bond with a new child or care for a seriously ill family member, and expand access to affordable child care so no parent has to choose between continuing their career and starting a family.
+Make it easier for families to care for their aging loved ones: Increase access to eldercare by passing the Older Americans Act Reauthorization Act to expand affordable home- and community-based care for seniors, and prioritize the development of a high-quality elder care workforce.
+•Faith: Defend the separation of church and state and protect religious freedom: Pass the Do No Harm Act to safeguard religious liberty and prevent discrimination, take strong action against antisemitism, Islamophobia, and other faith-based hate crimes, and reject policies that impose religion in public institutions like schools, prisons, courts, or the military.

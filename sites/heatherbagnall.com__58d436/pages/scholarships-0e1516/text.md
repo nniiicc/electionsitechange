@@ -1,0 +1,13 @@
+Dear District 33C Resident,
+Thank you for your interest in Delegate Bagnall’s 2026-2027 Delegate Scholarship.
+If you are interested in applying this year, you may apply through this link: https://docs.google.com/forms/d/e/1FAIpQLSeOxfO00UtCm1IQNcjmWUJIQ9xZ_oBuUy7cMXG42s47b-TQDQ/viewform?usp=header
+This year, applications will close April 30th at 11:59pm.
+Applicants must apply every year they are eligible in order to retain their Scholarship.
+Please see this website for more information on the Delegate Scholarship: https://mhec.maryland.gov/preparing/Pages/FinancialAid/ProgramDescriptions/prog_delegate.aspx
+You may still be eligible for other state or federal representative scholarships.
+Please use the link below to determine your current legislative district: https://maryland.maps.arcgis.com/apps/webappviewer/index.html?id=177afa87a67746a4ac5496b2d0897fb7
+Additional resources for scholarships can be found here:
+- https://mhec.maryland.gov/preparing/Pages/FinancialAid/descriptions.aspx
+- https://www.scholarships.com/financial-aid/college-scholarships/scholarships-by-state/maryland-scholarships/
+- https://scholarships360.org/scholarships/maryland-scholarships/
+Please let us know if you have further questions, and best of luck this school year!

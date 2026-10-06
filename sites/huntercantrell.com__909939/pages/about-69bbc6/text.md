@@ -1,0 +1,27 @@
+Hi, I’m Hunter!
+I am a proud Burnsville High School graduate (Go Blaze!) and was honored to serve our community in the Minnesota House from 2019-2021.
+I started my first campaign while going through chemotherapy for stage 2 Hodgkin’s lymphoma.
+After becoming intimately familiar with a corporatized healthcare system often prioritizes profits over patients, I felt called to become a physician.
+I am now in my final year of medical school, and plan to practice family medicine in our community, providing affordable care to all — regardless of someone’s ability to pay
+Why I’m running
+I believe that collective action is the antidote to the fear and hopelessness of this current moment.
+Through our compassion for each other, I believe we can achieve a future where every child has a fully funded public education, where workers can organize to form a union and bargain for better wages and working conditions, where every Minnesotan can afford to have a roof over their head and access to universal healthcare, and where we can protect our environment from large corporate polluters.
+I believe that the dignified future where our basic human needs are met is worth fighting for, and now is the time that we need to come together to make it a reality.
+For me, public service and caring for others is a way of life.
+Whether we delivered food together to ISD 191 students who depended on school lunches to stay fed during the COVID-19 pandemic, knocked doors over the last 12+ years for local candidates who we believed in, walked the picket line with our fellow workers, made pottery to raise money for BrainPower in a Backpack, or organized together to preserve lifesaving opioid addiction funding for Burnsville and all of Minnesota — we’ve been in the fight together for a better future for our community for a long time, and I would be honored to work alongside you once more as your next state representative for House District 55B.
+continued service to our community
+Even after leaving the Minnesota State House in 2021 to pursue medical school, I have remained committed to serving Burnsville.
+- Working with Rep.
+Jess Hanson, Rep.
+Liz Reyer, and Sen.
+Alice Mann to impose a moratorium on private equity firms from owning healthcare services like hospitals, clinics, and nursing homes and enacting greater oversight of corporate healthcare transactions
+- Collaborated with Rep.
+Kaela Berg to advance unemployment insurance access for union workers forced to go on strike and protecting workers from wage theft of shift differentials not covered by the FLSA
+- Continued advocacy to ban the discriminatory practice of sub minimum wage in Minnesota and ensure people with disabilities are paid fairly for their work
+- Active involvement in anti-monopoly advocacy and fighting to significantly reduce the burden of unjust prior authorization denials for healthcare services
+- Helped fundraise for causes ranging from protecting reproductive freedom to hunger relief for students in our community to raising money for union members experiencing financial hardship
+- Created the Cantrell Family Scholarship to support graduating Burnsville High School seniors as they begin their post-secondary careers
+Board memberships:
+- Minnesota Medical Association Board of Trustees
+- Foundation One91 Board of Directors
+- Dakota Child and Family Clinic Board of Directors (former)

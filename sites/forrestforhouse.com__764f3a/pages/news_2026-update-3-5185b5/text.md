@@ -1,0 +1,94 @@
+Week 3 Legislative Update
+Protecting Families, Strengthening Justice, and Keeping South Carolina Moving Forward
+Last week at the State House was a busy and productive one!
+From committee work to votes on
+the House floor and the Governor’s historic State of the State address, House Republicans
+continued delivering common-sense solutions focused on families, safety, affordability, and
+opportunity.
+Here’s a quick look at what you should know!
+�� Supporting Small Businesses
+House Republicans advanced major legislation, the Small Business Tax Cuts Bill, to deliver
+real relief for local job creators and family-owned businesses.
+Small businesses are the
+backbone of South Carolina’s economy, and this bill helps them keep more of what they earn by
+easing the tax burden that holds growth back.
+By exempting the first $10,000 of business personal property taxes, this legislation provides
+meaningful savings for small businesses across our state, helping families reinvest, hire, and
+grow.
+It’s a practical step toward a more affordable, competitive South Carolina and sets our
+state up for long-term economic success.
+��️ Roads & Infrastructure
+Last week, House leadership filed legislation focused on improving how South Carolina plans
+for and delivers road projects.
+This proposal is the result of more than nine months of work by
+the SC-DOT Ad Hoc Committee, including public hearings held across the state and extensive
+conversations with citizen stakeholders, business owners, local leaders, and transportation
+experts.
+Lawmakers also held a press conference to outline the goals of this effort: cutting red tape,
+demanding transparency, reducing congestion, and moving road projects faster so families
+spend less time in traffic and more time at home.
+This bill reflects a thoughtful, deliberate
+approach to fixing our roads — one that prioritizes safety, accountability, and responsible
+growth to keep South Carolina moving forward.
+� Standing Up for Girls & Students
+Last week, the House passed the Student Physical Privacy Act (Bathroom Bill), legislation
+designed to protect student privacy and maintain clear, common-sense standards in our
+schools.
+Every child deserves to feel safe, and no student should have to sacrifice their privacy
+in locker rooms or restrooms.
+We’ve spoken with parents across our communities, and they’ve been clear, they don’t want
+their daughters placed in uncomfortable or inappropriate situations.
+They want schools focused
+on learning, safety, and respect.
+The Student Physical Privacy Act reflects that common sense,
+protects girls, provides clarity for schools, and ensures student privacy as the bill now heads to
+the Senate.
+� Protecting Kids & Public Safety
+House lawmakers advanced legislation that puts children’s safety first by addressing
+intoxicating hemp products.
+If a product can impair or intoxicate, it should not be marketed or
+sold in ways that put our kids at risk.
+This legislation received a favorable report from the House
+Judiciary Committee and continues moving forward.
+Throughout the process, lawmakers have worked closely with law enforcement, including SLED,
+and with the Senate to ensure the policy is enforceable, provides clear protections for children,
+and gives officers the tools they need to do their jobs.
+This effort is about public safety,
+protecting children, supporting families, and making sure the law is clear, enforceable, and
+effective.
+⚖️ Strengthening Our Courts & Judicial Accountability
+Several important reforms advanced to strengthen trust and accountability in South
+Carolina’s judicial system.
+Legislation moved forward to improve transparency and
+accountability in how judges are selected, reinforcing the separation of powers and ensuring
+proper oversight.
+We also advanced reforms to improve standards for magistrates, the judges
+many South Carolinians interact with most often.
+These changes help ensure those serving on
+the front lines of local justice meet clear qualifications and are held to consistent standards.
+In
+addition, lawmakers addressed outdated magistrate court fees that haven’t been updated in
+decades.
+Bringing these costs into the modern era helps courts function more effectively while
+maintaining fairness.
+��️ A Historic State of the State Address
+Last week, I had the honor of attending Governor Henry McMaster’s ninth State of the State
+address.
+It was a great night for South Carolina and a reminder of the steady, conservative
+leadership that drives our state forward.
+Governor McMaster spoke about putting South Carolina first, cutting taxes, strengthening public
+safety, fixing our roads, and continuing to grow our economy in a responsible, conservative way.
+His message was clear: “think big, be bold, and keep building a state where families can live,
+work, and thrive.”
+Because of that leadership, South Carolina is stronger today and well positioned for an even
+brighter future.
+As always, I appreciate the opportunity to represent you and to keep you informed about the
+work being done in Columbia.
+I welcome your feedback and encourage you to reach out if you
+have any questions or would like more information on these or other issues before the General
+Assembly.
+To keep up with my legislative updates:
+Facebook Link https://www.facebook.com/ForrestForHouse
+Website https://www.forrestforhouse.com/news
+Email calforrest@schouse.gov
+Phone # 803-349-6741

@@ -1,0 +1,262 @@
+Paid for by Jennifer Davis for Congress
+Press Contact: bdelcarmen@votejenniferdavis.com
+Press Contact: bdelcarmen@votejenniferdavis.com
+- To mail your Contribution to Jennifer -
+ATTN: Jennifer Davis for Congress
+228 S.
+Washington St.
+STE 115
+Alexandria, VA 22314
+Endorsements
+A growing coalition is standing with Jennifer Davis — editorial boards, elected officials, business leaders, and neighbors who know the 8th District is ready for change.
+They see a builder and a true political outsider: a mother of ten who built a company here and someone who is going to get results.
+These endorsements send a clear message: District 8 wants accountable leadership and a fresh voice in Washington.
+Leaders Standing With Jennifer
+IL-12
+Congressman
+Mike Bost
+"Jennifer Davis will bring a strong, results-driven business leader mindset to the United States Congress.
+She will lead with integrity and serve as an excellent, strong voice for Illinoisans.”
+IL-15
+Congresswoman
+Mary Miller
+"Jennifer Davis is exactly the kind of leader Illinois needs.
+She built a successful company instead of a political career, and she knows what it takes to deliver results for families.
+As a political outsider, she will be a real change agent in Washington — holding Washington accountable so the next generation inherits a stronger America.
+I would be proud to serve with Jennifer in the U.S.
+House.”
+IL-16
+Congressman
+Darin LaHood
+"Jennifer Davis is exactly the kind of candidate Illinois' 8th District needs in Congress.
+She brings real-world business experience and a commonsense approach to the issues that matter most: keeping costs down, growing jobs, and ensuring Washington prioritizes hardworking Illinois families.
+She will bring fresh, practical leadership to Washington, and I am proud to give her my full support and look forward to welcoming her as a colleague in the House of Representatives.”
+Illinois State Senator Don Dewitte
+"Jennifer Davis is the best candidate I've seen run for this race in a long time," said Senator Don DeWitte.
+"As entrepreneur who co-founded Davisware with her husband at just 17 years old and built it into a global success while raising ten children, she embodies the hard work, faith, family values, and determination that define our communities.
+With her impressive background as a political outsider, and business builder, she has the backing, grit, and unmatched work ethic to flip this seat and deliver real results for our communities.
+I've dedicated my career to serving Illinois families, and I know Jennifer will fight just as hard for them in Congress."
+DuPage County Board member Jim Zay
+"Jennifer Davis understands the real challenges facing our families and small businesses.
+Her commitment to cutting red tape, protecting the American Dream, and putting families first makes her the right choice to represent the 8th District.
+I am proud to endorse her campaign."
+Former State Senator Dan McConchie
+"Jennifer Davis is the only candidate in Illinois who can flip this seat and win in November.
+She has a proven record of success in her business, building and leading a global tech company from the ground up.
+I know she will bring that same winning track record, determination, and results-oriented leadership to Washington—delivering real change for Illinois families."
+Geneva Township Republican Chairwoman Sue Dixon
+“After looking at all of the candidates, it’s a clear choice.
+Voters need a candidate who has done the hard work, building businesses from the ground up, and sees the importance of local community and economic development.
+She gets it and will help bring fiscal sanity back to DC.”
+Former Illinois Comptroller Leslie Munger
+"I am proud to endorse Jennifer Davis for Illinois 8th congressional district.
+Jennifer has been a successful tech entrepreneur.
+As a mother of ten kids, Jennifer will always put families and freedom first.
+IL-8 deserves results, not rhetoric."
+Gilberts Mayor Guy Zambetti
+"Jennifer Davis is the fresh, outsider voice we need.
+Her entrepreneurial success, family-first values, and commitment to cutting red tape make her the strong choice to fight for Illinois families, small businesses, and common-sense solutions.
+I'm proud to endorse her and urge voters to support her campaign."
+Former Illinois 8th Republican Nominee Chris Dargis
+"Jennifer Davis is the fighter our district needs in Washington," said Chris Dargis.
+"She's a results-driven outsider who will cut red tape, make life more affordable, and stand up for our values without apology.
+I trust her completely to deliver real change—I endorse her 100%."
+Barrington Township Assessor Mike Gentile
+"Jennifer Davis is the outsider that we need in Congress to get the job done and put us over the political rhetoric that we see too often.
+Her focus on actionable solutions over partisan games will make a real difference for our communities."
+Batavia Mayor Jeffery Schielke
+"In Illinois, the ridiculous gerrymandered lines mean my community doesn't have a single voice in Congress because our city is so split up," said Mayor Jeffery Schielke.
+"I really appreciate Jennifer and her taking the time to ask for my endorsement, learn about Batavia, and see how she can be helpful.
+She doesn't just care about the large communities, but she cares about all of them."
+Addison Mayor
+Tom Hundley
+"I am proud to endorse Jennifer Davis for Congress.
+As someone who has served our community for over 25 years—first as a Village Trustee and now as Mayor—I've seen firsthand what strong, practical leadership looks like.
+Jennifer brings that same dedication to the table.
+She's a successful entrepreneur who built a thriving business right here in our district, creating jobs and opportunities.
+Her fresh perspective as a political outsider, combined with her commitment to common-sense solutions, family-first values, and putting people ahead of partisan games, is exactly what we need in Washington and in Illinois.”
+Marsha McClary, Barrington Hills Village Trustee
+"I am proud to endorse Jennifer Davis for Congress in Illinois' 8th District.
+Jennifer is a proven entrepreneur and fresh voice who will put our voices and ideas first in DC and work tirelessly to protect parental rights, empower families, and promote personal prosperity.
+Jennifer has my full trust and support to deliver real results for Illinois families in Washington."
+Chris Hansen, Elburn Village Trustee and President of Dukane Abate
+"Jennifer Davis is not a career politician or a perennial candidate.
+She is a breath of fresh air—a true political outsider we need in Congress and in leadership here in Illinois to finally get things done for our families, communities, and freedoms."
+Wayne Township Assessor Michael Musson
+"Jennifer Davis brings the real-world experience and common-sense approach our district needs in Illinois and Congress.
+As someone who has worked every day to ensure fair and accurate assessments for our residents, I know the importance of leaders who fight for taxpayers and put families first.
+Jennifer will be a strong voice for lower taxes, less government overreach, and real results for the people she will serve.
+I'm proud to endorse her campaign."
+Wayne Precinct Leader
+Randy Ramey
+"Jennifer Davis is the fresh, principled leader Illinois needs in Washington.
+As a successful entrepreneur who built a business from the ground up right here in our district, she understands real-world economics, job creation, and the burdens of government overreach.
+Unlike career politicians, Jennifer will fight for lower taxes, safer communities, stronger families, and common-sense solutions that put America—and Illinois families—first."
+Kane County GOP Chairman Andro Lerario
+“Jennifer Davis is a dynamic candidate and a true political outsider.
+She brings fresh energy, real-world experience, and a deep commitment to the people of the 8th District at a time when we desperately need new leadership here and in Washington, D.C.
+Jennifer is exactly the kind of candidate we need running this fall to flip the 8th and win in November.
+I am proud to endorse her and will work tirelessly alongside her to secure a Republican victory.”
+Huntley Village President Tim Hoeft
+“Jennifer Davis is that fresh, independent voice we need in Washington.
+She’s not a politician.
+She’s a proven entrepreneur who built a successful business right here in our communities.
+She won’t play games, she won’t toe the party line, and she will fight every day to be the leader who actually gets things done for our families, small businesses, and hardworking taxpayers in the 8th District.”
+Evan Kasal, Chairman of the ILYRs
+"After a thorough review of the candidates, the Illinois Young Republicans Endorsement Committee determined
+that Jennifer Davis best represents the conservative principles and leadership our organization seeks to support.
+She is a principled leader, articulate, and unafraid to stand up for limited government, economic freedom, public safety, and the values that make our communities strong."
+Primary Endorsement
+The Tribune praised Davis as the GOP's strongest nominee to challenge the status quo in the competitive, moderate-leaning district, citing her broad appeal and potential to win in November.
+Primary Endorsement
+Journal & Topics stated, "Jennifer Davis stands out for her intellectual rigor.
+Davis’ platform is built on a “data-driven” foundation, particularly regarding education reform.
+Her approach to the immigration crisis is equally pragmatic, eschewing rhetoric in favor of streamlining the system to make it “faster, fairer, and cleaner.”
+Primary Endorsement
+“... we believe Davis — a businesswoman and mother of 10 — is the best choice.
+She’s a conservative, supporting strong immigration policies, but she voices her opinions in a way that allows room for empathy.
+And on foreign policy, particularly in Trump’s aggressive approach to Greenland, we share her belief that “We have to do a better job working with our allies.
+We endorse Jennifer Davis.”
+Chairman of Milton Township Jeff Castle
+“I proudly endorse Jennifer Davis for Congress because she understands that government works best when it is accountable, fiscally responsible, and focused on the people it serves, not the political class.
+Jennifer brings real-world perspective, strong principles, and the courage to stand up for families, small businesses, and our constitutional freedoms.
+She will fight for practical solutions, safer communities, and an economy that rewards hard work, not bureaucracy.”
+Congressman Mike Haridopolos
+“America needs strong, principled Republicans in Congress now more than ever, and Jennifer Davis is exactly the leader Illinois families deserve and desperately need.
+She’s committed to cutting wasteful spending, making life more affordable for the next generation, protecting families, and putting working people ahead of Washington insiders.
+Jennifer will be a powerful voice for freedom and common-sense solutions in the House, and I’m proud to endorse her campaign.”
+Concerned Parents Founder Kristina McCloy
+"I am proud to endorse Jennifer Davis for Congress because she represents the change we desperately need in Washington," said Kristina McCloy, founder of Concerned Parents of Illinois "As a mother and advocate, I've seen firsthand how the status quo is failing our children—pushing indoctrination over excellence, burdening families with debt, and eroding the opportunities for future success right here in Illinois.
+Jennifer is not another career politician; she's a principled outsider who will protect our kids' futures, empower parents to make decisions for their families, and ensure that education builds pathways to success.
+Illinois families deserve a leader like Jennifer who puts children above politics."
+Illinois Young Republicans National Committeeman Eric Angerer
+"Jennifer Davis is exactly the political outsider we need in Congress right now," said Eric Angerer, National Committeeman for the Federation of Illinois Young Republicans.
+"She will put our voices, our ideas, and the real priorities of Illinois families first—while putting partisan games and Washington politics last.
+As someone who's spent years building and leading young Republican efforts, I know Jennifer will work hard for the conservative principles that energize our generation and deliver results for the 8th District."
+Richard Artz, Rutland Township GOP Chair and Chair of the Kane County Young Republicans
+"Jennifer Davis will put our voices and ideals first in Congress and stop endless government spending from crushing my generation and the next," said Artz.
+"As a mother of 10 and a self-made tech entrepreneur, she understands how overregulation kills opportunity.
+Jennifer is dedicated to cutting wasteful spending, restoring economic freedom, and creating a future with better jobs and less debt for my generation and the next.
+Her vision matches what we stand for as Illinois Young Republicans.
+I’m proud to endorse her and call on Republican primary voters to support Jennifer on March 17."
+Mayor Paula McCombie, South Barrington
+"Jennifer Davis built a company and a family here in the 8th District, and she will fight in Congress the same way we fight in South Barrington—protect local control, keep taxes in check, and put residents first.”
+Cook County Commissioner Sean Morrison
+“Jennifer Davis is the rare candidate in Illinois who understands that Cook County families are drowning in taxes and costs, and she will take her experience, grit, and hard work ethic to Washington instead of adding another layer of career politics.”
+Mike Charowicz, 8th ward alderman in Des Plaines
+“I support Jennifer Davis because she has actually created jobs on Main Street, not just talked about them, and Des Plaines needs a Congresswoman who will cut red tape so our small businesses can grow and who will get results for us.”
+Aris Garcia, Streamwood Village Clerk
+"Streamwood is a middle-class community built by people who work hard for what they have.
+Jennifer Davis understands that families like ours deserve a government that respects their hard work, their tax dollars, and their future."
+Elgin Township GOP
+“The Elgin Township GOP proudly supports Jennifer Davis because she is a proven builder—built a business with her husband Dan into a global company, raised family of ten, and will bring a common-sense agenda that will make Illinois affordable.
+She is result driven and that is who we need in Congress and DC.”
+Mike Kenyon, former District 16 Board Member
+“Jennifer Davis brings the same practical, results-first mindset we needed on the school board: protect parental rights, focus on core education, and stop Washington from crowding out local families.”
+Dean White, Illinois Republican Leader and Businessman
+"With my business background building companies like Peerless Fence and Elevate Fence right here in St.
+Charles, and my work helping the Republican Party across Illinois and the nation, I know real leadership when I see it.
+Jennifer Davis is a fellow entrepreneur with the same grit and determination to make our district and our Party stronger than ever.
+I'm proud to endorse her for Congress in IL-8—she'll deliver results for families and Illinois."
+George Dunham, former Village of Schaumburg Trustee
+“I endorse Jennifer Davis because Schaumburg thrives when entrepreneurs can hire and families can stay—and she is the only candidate who has done both herself.”
+Mayor Tinaglia
+Arlington Heights
+“Jennifer Davis will represent Arlington Heights the way a good Mayor should represent those who elected them: fiscal discipline, respect for local government, and policies that keep our residents from being priced out.”
+Mayor Coladipietro
+Bloomingdale
+“Bloomingdale needs a Congresswoman who has signed paychecks, not just press releases, and Jennifer Davis has the business record to deliver real relief to all Illinoisans.”
+Former Dundee Republican Leader Humberto Garcia
+“I’m proud to endorse Jennifer Davis for Congress.
+She’s an outsider and a businesswoman who built her company right here in the 8th District — in Carpentersville and Dundee.
+Jennifer doesn’t care what party you belong to.
+She wants to represent every family in this district and across Illinois.
+She’s a breath of fresh air who will listen to our concerns, fight for our issues, and be a strong voice for all of us in D.C.
+Jennifer believes in the American Dream and will help more hardworking people — including our Hispanic community — reach it.
+She’s a leader, a job creator, and the one I trust to get the job done.”
+Mayor Gunsteen
+Bartlett
+“Jennifer Davis understands that Bartlett families are stretched thin, and she will fight to lower costs and keep opportunity here so our kids don’t have to leave Illinois to build a life.”
+Supervisor Hovde
+Bloomingdale Township
+“Township government is closest to the people, and Jennifer Davis will take that same neighborhood-first approach to Congress—less bureaucracy, more help for working families.”
+Mayor Saverino
+Carol Stream
+“Carol Stream succeeds when small business and family life both work, and Jennifer Davis is the candidate who has lived both and will defend both in Congress.”
+Supervisor Heneghan
+Schaumburg Township
+“Jennifer Davis is supporting the same taxpayers Schaumburg Township serves every day: she will cut the federal burden that makes it harder for our residents to stay in their homes and keep their businesses open.”
+Streamwood Village Trustee
+Mike Baumer
+“I am backing Jennifer Davis because she is an outsider who built something real in this district, and Streamwood needs that kind of leadership in Washington, not more of the same.”
+Kristy Merrill
+Hanover Park Clerk
+“Jennifer Davis has raised ten kids and grown a company from the kitchen table—Hanover Park families can trust her to fight for affordability, safety, and a future here at home.”
+Wayne Village President
+Eileen Phipps
+"Wayne is a small community that still values family, work, and leaving things better than we found them.
+Jennifer Davis represents that.
+She is a political outsider who built a business in technology, created opportunity for other families, and raised ten children while doing it.
+Dysfunctional Washington does not need another insider who treats public office like a career ladder.
+It needs someone who has already proven she can lead a company, a household, and a future-facing industry.
+That is why I am proud to endorse her.”
+Village President
+Brian Cecola
+Barrington Hills
+"In Barrington Hills, we still believe local government should protect the character of a community, not bury it in process.
+Jennifer Davis never waited for permission from a political machine.
+She built a real company, raised ten kids, and learned technology by putting it to work for tradespeople.
+Washington is full of people who talk about families and innovation.
+Jennifer has lived both.
+That outsider perspective is exactly what this district should send to a capital that has forgotten how to serve the people who still live here.”
+Mayor Tom Dailly
+Schaumburg
+"Jennifer Davis is a political outsider who brings a fresh perspective and a genuine commitment to serving the people of Schaumburg, the 8th District, and Illinois.
+As a business owner, she is focused on delivering and helping local businesses and residents.
+I am proud to give her my support and endorsement.”
+Mayor Jeff Pruyn
+Itasca
+"I have spent my life in Itasca as a business owner and as mayor, focused on fiscal responsibility and revitalizing our downtown.
+Jennifer Davis is the same kind of leader — an entrepreneur who started from scratch, not another politician climbing the ladder.
+Illinois cannot keep doing what it has always done.
+She will end the status quo and fight for our families and employers.
+I strongly endorse Jennifer Davis for Congress.”
+Village President
+Rodney Craig
+Hanover Park
+"After decades of public service in Hanover Park — including public safety and infrastructure — I know the difference between talk and results.
+Jennifer Davis is a political outsider who actually built a business and created jobs.
+Washington keeps giving us more of the same.
+She will fight the status quo and bring the change Illinois needs.
+I am proud to endorse Jennifer Davis for Congress.”
+Village President
+Dan Pearson
+East Dundee
+"I spent my career in the fire service and the Marine Corps.
+You learn fast that results matter more than resumés.
+Jennifer Davis is not a product of the political class.
+She is a mother of ten who built a tech company from scratch and put people to work.
+East Dundee families are tired of Washington lectures from people who have never had to make a hard call with real consequences.
+Her outsider experience, her business record, and the way she has raised her family are the combination Congress has been missing.”
+Village President
+Debby Sosine
+Algonquin
+"In Algonquin, we work every day to keep this a great place to live and raise a family.
+Jennifer Davis gets that.
+She is a mother of ten and a business owner who built a company right here in our district — not a career politician.
+Illinois has had enough of the status quo.
+We need an outsider who will fight for jobs, families, and real change.
+Jennifer Davis has my complete support and endorsement.”
+Paid for by Jennifer Davis for Congress
+Press Contact: bdelcarmen@votejenniferdavis.com
+- To mail your Contribution to Jennifer -
+ATTN: Jennifer Davis for Congress
+514 Market Loop Rd
+West Dundee, IL 60118
+Paid for by Jennifer Davis for Congress
+Press Contact: bdelcarmen@votejenniferdavis.com
+Press Contact: bdelcarmen@votejenniferdavis.com
+- To mail your Contribution to Jennifer -
+ATTN: Jennifer Davis for Congress
+514 Market Loop Rd
+West Dundee, IL 60118

@@ -1,0 +1,3 @@
+DeSpain Campaign Crushes Val Hoyle in Fundraising Across First Two Quarters, Exposing Weak Support for Incumbent
+Monique DeSpain’s campaign for Congress today announced a commanding fundraising advantage over incumbent Val Hoyle, outraising her by a wide margin across the first two quarters of the race and …
+Read more

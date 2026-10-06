@@ -1,0 +1,12 @@
+Utica Chamber Gives Tenney Perfect Score, Brindisi Gets Zero
+No-Show Brindisi Shuns Small Business Leaders AGAIN
+Utica, NY – The Greater Utica Chamber of Commerce, which represents more than 575 Utica-area small businesses, awarded Claudia Tenney a perfect 5 out of 5 score on their candidate survey for her support of small business and the Chamber’s pro-jobs, pro-growth agenda.
+In contrast, Anthony Brindisi received a ZERO from the Chamber – he didn’t even bother to fill it out.
+That says all you need to know about Anthony Brindisi – he is too busy voting with Pelosi, impeaching President Trump, and defunding the police to address the small business community.
+[See the Greater Utica Chamber of Commerce’s Scorecard HERE]
+It is unsurprising since Brindisi dodged the Binghamton Chamber’s candidate forum last month – sending a pre-recorded video message instead.
+Brindisi also refused to participate in the Rome Chamber’s candidate forum – thefirst timean incumbent has done so in its two-decade long history.
+A staunch ally of law enforcement, Tenney has the endorsement of the NYPD SBA, the NYS Troopers, the NYS Police Investigators Association, numerous local sheriffs, the Police Conference of New York and 15 local police associations including Binghamton PBA, Utica PBA, Rome PBA, Endicott PBA, and Herkimer PBA and hundreds of local frontline police officers.
+The message is clear: Anthony Brindisi does not care about small businesses and job creators or the region’s economy as much as cashing in on suing the police and giving $1200 stimulus checks to illegal aliens.
+On the other hand, Claudia Tenney, a small business owner in NY22 herself, fights for the job-creator community, advocating for lower taxes, less burdensome regulation, and a pro-growth business climate every day.
+Tomorrow, the voters of Central New York and the Southern Tier will send Brindisi back to private practice as a trial lawyer, specializing in suing small businesses.

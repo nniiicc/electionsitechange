@@ -1,0 +1,22 @@
+January 19, 2026
+|
+Endorsement
+Rockwall, TX — Air Force Reserve officer, constitutional lawyer, and seventh-generation Texan Jace Yarbrough today announced the endorsement of the Rockwall Young Republicans, marking the second Young Republican organization to back his campaign in the Republican primary for Texas’s 32nd Congressional District.
+“Support from the next generation of conservative leaders means everything,” said Jace Yarbrough.
+“The Rockwall Young Republicans understand what’s at stake in this election and are ready to fight for secure borders, constitutional freedoms, and America First policies.
+I’m honored to have their support and look forward to working alongside them to defeat the radical left and deliver results.”
+The Rockwall Young Republicans’ endorsement follows an earlier endorsement from the Dallas Young Republicans, further underscoring growing grassroots enthusiasm behind Yarbrough’s campaign.
+“DYR is proud to endorse Jace Yarbrough in his campaign for CD-32,” said the Dallas Young Republicans.
+“Jace is a true America First champion committed to advancing President Trump’s agenda and advocating for the policy priorities of MAGA!
+Since launching his campaign, Yarbrough has continued to build momentum across the conservative movement, earning endorsements from members of Congress, Texas state representatives, conservative grassroots organizations, Second Amendment and pro-life groups, and children and family advocacy organizations.
+About Jace
+A husband and father of five, Yarbrough has spent his life defending faith, family, and the constitutional freedoms that define the Texas way of life.
+A descendant of a veteran of the Texas Revolution, he continues to serve as an officer in the U.S.
+Air Force Reserves and has built a legal career taking on liberal overreach in the courts.
+Yarbrough is a constitutional lawyer.
+He’s challenged religious discrimination, fought unconstitutional COVID vaccine mandates, opposed the misuse of taxpayer dollars for abortion travel, and defended First Amendment rights against government overreach.
+His legal work has included successful efforts to protect first responders, parents, and children from unlawful mandates and a far-left, woke ideology.
+Yarbrough earned degrees in Electrical Engineering and Government from the University of Texas at Austin and a law degree from Stanford Law School.
+With his wife Elizabeth, he founded Saint Francis Academy, a classical Christian school rooted in faith and academic excellence.
+The Yarbrough family is active in their local church and is raising five children.
+Learn more at www.JaceForCongress.com

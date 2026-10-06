@@ -1,0 +1,81 @@
+Voting Information
+WHERE AND WHEN DO I VOTE?
+You can find more voting information at iwillvote.com
+Check your registration, look up your sample ballot, and voting location at vt.ncsbe.gov/RegLkup/
+Election Day: November 3rd | Early Voting: October 15th - October 31st
+EARLY VOTING LOCATIONS
+EARLY VOTING HOURS
+WILSON COUNTY
+Wilson County Board of Elections
+112 Douglas St
+Wilson, NC 27893
+American Legion Post #13
+(Just Inside Wilson County Fairgrounds)
+2331 US Hwy 301S
+NASH COUNTY
+For Sharpsburg Precinct ONLY
+NASH COUNTY AG CENTER
+1006 Eastern Ave
+Nashville, NC
+BRASWELL MEMORIAL LIBRARY
+727 N.
+Grace St
+Rocky Mount, NC
+MT.
+PLEASANT COMM.
+BUILDING
+7637 Harris Rd
+Bailey, NC
+WILSON COUNTY
+Thursday, October 15th - Friday October 16th: 8am - 7:30pm
+Saturday, October 17th: 8am - 3pm
+Sunday, October 28th: CLOSED
+Monday, October 19th - Friday, October 23rd: 8am - 7:30pm
+Saturday, October 24th: CLOSED
+Sunday, October 25th: 1pm - 4pm
+Monday, October 26th - Friday, October 30th: 8am - 7:30pm
+Saturday, October 31st: 8am - 3pm
+NASH COUNTY
+For Sharpsburg Precinct ONLY
+Thursday, October 15th - Friday October 16th: 8am - 7:30pm
+Saturday, October 17th: 8am - 3pm
+Sunday, October 28th: CLOSED
+Monday, October 19th - Friday, October 23rd: 8am - 7:30pm
+Saturday, October 24th: 8am - 3pm
+Sunday, October 25th: CLOSED
+Monday, October 26th - Friday, October 30th: 8am - 7:30pm
+Saturday, October 31st: 8am - 3pm
+ELECTION DAY LOCATIONS
+WILSON COUNTY -|-CHECK YOUR PRECINCT
+Precinct
+Wilson A Wilson County Public Library, 249 West Nash St., Wilson
+Wilson B Laddie T.
+Bell Community Center, 633 S.
+Walnut St., Wilson
+Wilson C Vandahlia H.
+Reid Community Center, 502 Parkview St., Wilson
+Wilson D Wilson City Recreation Bldg., 500 Sunset Rd., Wilson
+Wilson E Frederick Douglass Elementary School, 1301 Corbett Ave., Wilson
+Wilson H Vera Pope Resource Center, 1008 Railroad St., Wilson
+Wilson I Wilson County Agriculture Center, 1806 S Goldsboro St., Wilson
+Wilson J Vincent Bynum Elementary School, 1601 S Tarboro St., Wilson
+Wilson K Forest Hills Presbyterian Church, 1100 Forest Hills Rd.
+NW, Wilson
+Wilson L Fire Station #4, 109 Forest Hills Rd.
+NW, Wilson
+Wilson M Wells School, 1400 Grove St., Wilson
+Wilson N Darden Alumni Center, 1600 Lipscomb Rd., Wilson
+Wilson P Forest Hills Middle School, 1210 Forest Hills Rd., Wilson
+Wilson Q American Legion Bldg., 700 New Bern St., Wilson
+Wilson R Reid Street Community Center, 901 Reid St., Wilson
+Black Creek Black Creek Community Center, 103 Privette St., Black Creek
+Cross Roads Lucama Elementary School, 6260 E Blalock Rd., Lucama
+Gardners Gardners School, 5404 NC 42 Hwy E, Elm City
+Oldfields Sims Volunteer Rural Fire Dept., 6217 US 264 Alt W, Sims
+Saratoga Town of Saratoga - Building 2, 6903 Church St., Saratoga
+Spring Hill St Mary's Club Community Bldg., 7344 NC 581, Lucama
+Stantonsburg Stantonsburg Elementary School, 409 S Main St., Stantonsburg
+Taylors New Hope School, 4826 Packhouse Rd., Wilson
+Toisnot NC Train Depot Community Center, 101 Nash St., Elm City
+NASH COUNTY-|-CHECK YOUR PRECINCT
+Sharpsburg The Refuge Church of Carolina, 3720 S Hathaway Blvd., Sharpsburg

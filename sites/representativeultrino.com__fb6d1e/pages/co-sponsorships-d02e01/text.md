@@ -1,0 +1,45 @@
+Advocacy & Cosponsorships
+Healthcare
+Ensuring equal access to and quality healthcare for all residents in the Commonwealth
+Co-Sponsored & Supported Bills
+S.860/H.1405 | Medicare For All
+Sponsored by Senator Jamie Eldridge & Representatives Lindsay Sabadosa and Margaret Scarsdale
+S.880 | An Act regarding Medicare savings programs eligibility
+Sponsored by Senator Jason Lewis
+S.901/H.1416 | An Act to advance health equity
+Sponsored by Senators Pavel Payano, Liz Miranda, Patricia Jehlen & Representatives Manny Cruz, Bud Williams & Judith Garcia
+S.871/H.1351 | An Act ensuring equal access to medical treatments essential for people with a developmental disability, intellectual disability, or autism
+Sponsored by Senators John Keenan, Jamie Eldridge, James Hawkins, and Michael Moore & Representative Christine Barber
+Education
+Expanding access to state funding and resources for educators and students, and improving curricula and the public school system to guarantee equal opportunities for every student.
+Co-Sponsored & Supported Bills
+H.656 | An Act relative to healthy youth
+Sponsored by Representatives Jim O'Day & Vanna Howard
+S.317/H.546 | An Act to ensure equitable access to education, including special education services, for all students in Massachusetts
+Sponsored by Senator Cynthia Creem & Representative Marjorie Decker
+S.401/H.564 | An Act relative to healthy school lunches
+Sponsored by Senator Jason Lewis & Representative Mike Day
+S.391/H.735 | An Act to promote food literacy
+Sponsored by Senator Jason Lewis & Representatives Kate Lipper-Garabedian & Jessica Ann Giannino
+S.421/H.735 | An Act requiring financial education in schools
+Sponsored by Senator Patrick O'Connor & Representatives Kate Lipper-Garabedian
+Social Justice
+Fighting for a more equitable economy, political system, and society in the Commonwealth where everyone is ensured equal access to opportunities and services.
+Co-Sponsored and Supported Bills:
+S.2125/H.3384 | An Act relative to language access and inclusion
+Sponsored by Senators Sal DiDomenico, Jason Lewis, Jamie Eldridge, and Joanne Comerford & Representatives Adrian Madaro and Carlos Gonzalez
+S.968/H.1952 | An Act promoting access to counsel and housing stability in Massachusetts
+Sponsored by Senator Sal DiDomenico & Representatives Dave Rogers and Michael Day
+S.1681/H.2580 | An Act to protect the civil rights and safety of all Massachusetts residents
+Sponsored by Senator Jamie Eldridge & Representatives Manny Cruz and Priscila Sousa
+S.1078/H.1653 | An Act protecting employee free speech
+Sponsored by Senator Lydia Edwards & Representative Marjorie Decker
+S.118/H.214 | An Act to lift kids out of deep poverty
+Sponsored by Senator Sal DiDomenico & Representative Marjorie Decker
+Economic Development
+Supporting the local state economy through capital investments, grants, and economic initiatives while ensuring equal access to resources and opportunities for small businesses
+Co-Sponsored Bills:
+S.189/H.433 | An Act relative to the digital right to repair
+Sponsored by Senator Michael Brady & Representative Adrian Madaro
+H.1108 | An Act establishing portable benefits accounts for app-based drivers
+Sponsored by Representative Daniel Cahill

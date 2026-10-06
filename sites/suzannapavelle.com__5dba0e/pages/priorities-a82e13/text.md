@@ -1,0 +1,66 @@
+Priorities for District 19
+Suzanna Pavelle is running to make life more affordable, support responsible growth, and strengthen public education in District 19.
+After more than 26 years living and working in St.
+Augustine, she knows families are feeling the pressure of rising costs, too much poorly planned development, and growing strain on the public schools our communities rely on.
+Focused on What Matters Most
+Affordability
+Families should be able to afford to live in the communities they call home.
+Suzanna will fight to:
+- Lower housing and homeowners insurance costs
+- Push back on rising everyday expenses
+- Help keep working families and seniors from being priced out
+- Strong Public Schools Strong public schools are essential to strong communities.
+Suzanna will fight to:
+- Support public schools and pay teachers well
+- Make sure every student has access to a strong education
+- Protect taxpayer dollars and keep the focus on student success
+Education is an imperative investment in our future.
+- Responsible Smart Growth Growth should be planned responsibly, with local communities in mind.
+Suzanna will fight to:
+- Make sure roads, infrastructure, and public services keep pace with development
+- Protect neighborhoods, waterways, and quality of life
+- Support planning that existing residents and the character of our communities.
+- Also Focused On Suzanna also supports:
+- Small businesses and local jobs
+- Honest, accountable government
+- Repealing Florida’s restrictions on LGBTQ+ classroom discussion and protecting LGBTQ+ students and families from discrimination
+- Affordable healthcare and mental health care
+- Protecting Florida’s water, natural resources and coastline
+- Protecting equal rights under the law, regardless of race, sex, religion, disability, sexual orientation, or gender identity
+- Teaching accurate American history, including Black history, without political censorship
+- Ending racial gerrymandering and protecting fair voting districts so voters choose their representatives
+- Protecting people and civil rights from abusive immigration enforcement
+- Protecting Florida’s Environment & Coastline Florida’s natural environment is part of what makes this community home.
+Suzanna will fight to:
+- Protect beaches, waterways, and wetlands
+- Support flood prevention and resilience planning
+- Hold polluters accountable and protect natural resources
+- Preserve our parks as natural spaces, not development sites for pickleball courts and other overbuilt projects
+- Where Your Tax Dollars Are Going
+- Florida is spending huge sums on immigration detention and no-bid contracts with too little oversight.
+- That money should be invested in Florida communities, not political theater.
+What We Could Fund Instead
+- Teacher raises
+- Affordable housing
+- Infrastructure
+- Early education
+- Healthcare
+Who Pays the Price
+- Farmers and businesses are losing workers and revenue.
+- Families are struggling to locate loved ones in detention.
+- Children are terrified, and parents are spending time on therapy instead of time with their kids on the playground.
+- Taxpayers are funding a system with serious due process concerns.
+My Position
+- End reckless detention spending
+- Require transparency and oversight
+- Invest in schools, healthcare, housing, and infrastructure
+- Protect workers, families, and due process
+- Supporting Our Veterans I’m not a veteran, but I believe veterans deserve support after their service.
+Through IndivisibleSJC.org, we helped collect and deliver supplies for groups serving veterans, and I learned how difficult it can be for veterans to receive the benefits they’ve earned.
+Some veterans turn to services that offer to “help” them obtain benefits, then take a portion as payment.
+That is wrong, and Florida can do more.
+As your state representative, I will fight to: * Fund free, accredited assistance through the Florida Department of Veterans’ Affairs so veterans have trustworthy help.
+* Expand veteran mental health, suicide prevention, substance-use treatment and peer-support programs.
+* Protect veterans’ education and property-tax benefits, and support veteran-owned small businesses.
+Veterans, retirees, active-duty service members and military families are an important part of our community.
+They should not have to fight bureaucracy, be taken advantage of, or struggle alone when they need help.

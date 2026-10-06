@@ -1,0 +1,3 @@
+A Citizens Bank branch that opened last fall on a site at Blue Hill Avenue and Morton Street that once featured a Kentucky Fried Chicken franchise and then sat vacant for more than a decade was officially welcomed to the neighborhood in a ceremony inside the branch last Friday (Jan. 19).
+Now fully renovated, the branch, a replacement for the Citizen Bank location that closed in Codman Square, offers full banking services, an ATM, and ample parking.
+At the event, Citizens Bank officials presented Dorchester’s Brookview House CEO Deb Collins with a check for $5,000, and then cut a ceremonial ribbon to mark the occasion.

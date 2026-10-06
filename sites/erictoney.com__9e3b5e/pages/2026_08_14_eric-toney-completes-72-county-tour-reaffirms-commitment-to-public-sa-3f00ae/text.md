@@ -1,0 +1,16 @@
+FOR IMMEDIATE RELEASE
+August 14, 2026
+CONTACT: info@erictoney.com
+Eric Toney Completes 72-County Tour, Reaffirms Commitment to Public Safety in Every Corner of Wisconsin
+FOND DU LAC, WI – Eric Toney, Republican candidate for Wisconsin Attorney General and Fond du Lac County District Attorney, announced today that he has completed visits to all 72 counties in Wisconsin since launching his campaign.
+From Milwaukee to Minocqua, Toney has met with sheriffs, prosecutors, and everyday Wisconsinites to learn about their communities and hear firsthand how the failures of Attorney General Josh Kaul’s leadership at the Department of Justice have affected them.
+“Leadership means traveling the entire state, listening to hard-working families, and fixing their problems — not hiding in Madison like Josh Kaul.
+In all 72 counties, I heard the same thing: law enforcement is stretched thin, victims are seeing justice delayed by broken crime labs, and families are sick of politicians making excuses,” said Eric Toney in a statement.
+“Wisconsinites are tired of Josh Kaul’s broken promises.
+It’s time to put public safety over politics at DOJ.
+Kaul has had eight years to fulfill the promises he campaigned on and he failed.
+Wisconsin families can’t afford another four years of Kaul’s broken promises.”
+Toney’s statewide tour has reinforced the core priorities of his campaign: fixing Wisconsin’s backlogged crime labs with clear timelines and public metrics, confronting the drug crisis devastating northern Wisconsin communities, targeting violent crime, and standing with law enforcement in every county.
+As past President of the WI DAs’ Association, Toney has a record of working across the aisle to secure prosecutor pay raises and more than 50 new prosecutor positions in the areas that needed them most.
+He is bringing that same results-driven, bipartisan approach to his campaign for Attorney General, backed by endorsements from more than 50 current and former sheriffs across the state and the Milwaukee Police Association.
+###

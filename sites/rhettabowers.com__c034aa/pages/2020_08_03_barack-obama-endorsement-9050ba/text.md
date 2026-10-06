@@ -1,0 +1,5 @@
+[vc_row][vc_column][vc_column_text]I am humbled and overjoyed to have once again received the endorsement of former President Barack Obama, for re-election as State Representative for TX House District 113.
+[/vc_column_text][vc_row_inner][vc_column_inner][vc_column_text][/vc_column_text][/vc_column_inner][/vc_row_inner][vc_column_text]
+Donate now to send me back as your voice for HD 113!
+[/vc_column_text][vc_btn title=”Donate Now!” style=”flat” shape=”square” color=”white” align=”center” css_animation=”fadeIn” link=”url:https%3A%2F%2Fsecure.actblue.com%2Fdonate%2Fbowers2020%3Famount%3D20.20%26recurring%3D1%20_blank|title:Make%20a%20Donation|target:%20_blank|”][vc_column_text][/vc_column_text][vc_column_text]I need your help to continue the work started during the last legislative session and remain your voice in Austin.
+Your continued support will help us keep fighting to bring good jobs to the district, protect accessible healthcare, and ensure a quality education for our children.[/vc_column_text][/vc_column][/vc_row]

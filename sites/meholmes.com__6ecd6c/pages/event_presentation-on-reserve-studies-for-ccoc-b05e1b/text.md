@@ -1,0 +1,29 @@
+- This event has passed.
+Presentation on Reserve Studies for CCOC
+What you need to know about the new Reserve Study Requirements
+When:
+Tue Jun 22, 2021 6:30pm – 9:30pm Eastern Time – New York
+Where:
+https://us02web.zoom.us/w/86853871366?tk=9oE_3DF7kAuVutPP5j2_FI8umnpkW5O1xUryofrtRec.DQIAAAAUOOTnBhZ4bGVKczk3ZFJUNjRqR1ZjU0lYa1l3AAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=dXZucm5wNWEyNjJ3dHZpejhqOTNwQT09&uuid=WN_orjkf7FvQ6CZwU-fdf6ItA (map)
+Who:
+holmesdelegate23@gmail.com – Organizer
+Join from a PC, Mac, iPad, iPhone or Android device:
+Please click this URL to join: https://us02web.zoom.us/w/86853871366?tk=9oE_3DF7kAuVutPP5j2_FI8umnpkW5O1xUryofrtRec.DQIAAAAUOOTnBhZ4bGVKczk3ZFJUNjRqR1ZjU0lYa1l3AAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=dXZucm5wNWEyNjJ3dHZpejhqOTNwQT09&uuid=WN_orjkf7FvQ6CZwU-fdf6ItA
+Passcode: 018293
+Description: Maryland law requires that community associations accumulate funds towards future replacements.
+The idea behind this is for owners in a community to
+contribute their fair share of the cost to maintain the community infrastructure.
+Since most residents remain in communities for relatively short periods of time, this system, when fairly implemented, prevents any one group of residents at a specific time from bearing a disproportionate share of the cost of major
+replacements.
+A reserve study is a budget planning tool that identifies items to be included in the reserves, estimates their replacement cost and remaining service life, and calculates the annual contributions needed to fund the projected expenditures.
+The reserve study consists of two parts: the physical analysis and the financial analysis.
+Or One tap mobile:
++13017158592,,86853871366#,,,,*018293# US (Washington DC)
++13126266799,,86853871366#,,,,*018293# US (Chicago)
+Or join by phone:
+Dial(for higher quality, dial a number based on your current location):
+US: +1 301 715 8592 or +1 312 626 6799 or +1 929 205 6099 or +1 669 900 6833 or +1 253 215 8782 or +1 346 248 7799
+Webinar ID: 868 5387 1366
+Participant ID: 384813
+Passcode: 018293
+International numbers available: https://us02web.zoom.us/u/kbYaewiqai

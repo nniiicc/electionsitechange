@@ -1,0 +1,52 @@
+Bad Bills In District 8
+Here Is A Short List Of Outcomes From the Current Leadership:
+District 8 & The Rest of Maryland Deserve Better
+- 2026: $1.4 Billion budget defect
+- Massive Sheraton Hotel closes in downtown Baltimore
+- WalletHub names Maryland 2nd worst U.S. state to start a business in 2026
+- Proposed U.S.
+Congressional map introduced to eliminate bipartisan state representation
+- High School graduation rate falls 1.2% to 86.4%, despite massive funding spike
+- 12,127 residents lost to domestic migration (6th most in US, per Census)
+- Maryland named 6th worst state for tax competitiveness (per: Tax Foundation)
+- 2025: $3 Billion budget deficit
+- $1.6 Billion tax/fee hike
+- Moody's credit downgrade
+- Vehicle emissions/registration fee spike
+- State hiring freeze/job cuts
+- Soaring utility prices (highest in America according to Doxo)
+- New 3.5% excise tax on rental cars
+- Lost lonQ's quantum computing hub
+- Lost FBI headquarters
+- Lost Washington Commanders
+- Six Flags America closed
+- New 3% IT tax
+- Vending machine tax 6%
+- Vehicle excise tax up to 6.5%
+- $5 tire purchase fee
+- Sports betting tax hike (15% to 20%)
+- Cannabis tax increase (9% to 12%)
+- Car title fee increase ($100 to $200)
+- 3.5% car rental tax
+- Fishing license increase ($25.50 to $52)
+- Boating and Title Registration Fee ($24 to $70)
+- Speed Camera Ticket increases
+- Historic car registration changed from 20 years to model year 1999 or older
+- Public school enrollment falls 11,322 students (1.3%)
+- Maryland has longest hospital ER wait times in nation, at 4:17 (FindEMR)
+- Moody's downgrades Baltimore City's credit rating
+- Baltimore ranked 2nd WORST real estate market in America by WalletHub
+- Maryland's first-in-nation digital advertising tax struck down by court
+- Maryland lost the Triple Crown.
+The Preakness is no longer included in the Thoroughbred Championship Series.
+- CNBC ranks Maryland's economy 2nd worst nationally
+- S&P lowers Maryland's outlook for existing debt from stable to negative
+- WalletHub ranks Baltimore as 5th worst city in U.S. to raise a family
+- Maryland reissues 400,000 mail-in primary ballots after errors reported
+- Declining water quality at Baltimore's Inner Harbor becomes "growing crisis" (Blue Water Baltimore)
+- USDA plans to relocate Agricultural Research Services out of Maryland (~1,000 jobs)
+- Key Bridge builder contract cancelled.
+No new timeline given for rebuild
+- Potomac River ranked nation's "most endangered river" (American Rivers)
+- 2nd most expensive state to raise a child (Lendingtree)
+- Paint fee enacted/$2.25 up to 5 gallons

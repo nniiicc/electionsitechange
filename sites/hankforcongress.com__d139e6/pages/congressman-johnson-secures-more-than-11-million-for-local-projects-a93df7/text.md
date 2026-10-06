@@ -1,0 +1,44 @@
+Congressman Hank Johnson (GA-04) announced today that more than $11 million in Community Project Funding he secured for Georgia’s 4th District is in the final FY2026 spending bills approved by Congress and signed into law by the president this week.
+The funding will directly address some of the most pressing needs across the district, which encompasses most of DeKalb County and parts of Gwinnett County.
+Cities within the Fourth District include Stonecrest, Lithonia, Stone Mountain, Clarkston, Tucker, Doraville, Chamblee and Dunwoody in DeKalb County and Peachtree Corners, Norcross, and Duluth in Gwinnett County.
+“Taking care of home first has always been my mantra while serving the people of Georgia’s Fourth District,” Rep.
+Johnson said.
+“The more than $11 million in Community Project Funding will provide a much-needed boost to Georgia’s 4th District.
+These investments improve our infrastructure, grow our economy, and improve our greenspace, which makes a real difference in the lives of so many in our community.
+I am proud to have fought for funding that will make our community healthier, safer, and stronger.”
+Rep.
+Johnson championed funding for 15 projects that will directly benefit Georgia’s 4th District residents.
+These include:
+- $560,000 to DeKalb County for water storage tank fill valve replacements.
+- $1,000,000 to the City of Doraville to make realignment improvements to Chestnut Drive.
+- $850,000 to DeKalb County Parks and Recreation improvements to Wade Walker Park.
+- $1,985,160 to DeKalb County Parks and Recreation for the construction of soccer fields at Avondale Dunaire Park for future tournaments.
+- $1,200,000 to DeKalb County Parks and Recreation for the construction of a new park – Rowland Park – in unincorporated DeKalb with gardens, walking trails and fitness stations.
+- $350,000 to DeKalb County Parks and Recreation for Arabia Mountain bridge improvements.
+- $250,000 to DeKalb County Parks and Recreation for County Line Park Improvements Phase II.
+- $726,625 for DeKalb County government’s Lithonia Booster Pump Station backup power supply to ensure reliable water service during grid disruptions.
+- $850,000 to the City of Tucker for the creation of a multi-use path linking existing trails along Hugh Howell Road with the future South Fork Peachtree Creek Greenway Trail.
+- $250,000 to DeKalb County government for a center for children impacted by domestic violence.
+- $400,000 for MARTA to enhance the safety and security of rail and bus facilities.
+- $1,000,000 for the City of Stone Mountain for improvements to Medlock Park.
+- $560,000 to the City of Brookhaven for Phase II of the Ashford Forest Preserve project.
+- $300,000 to Wellroot Family Services for Reaching Teens Georgia to train local law enforcement, first responders, judges, courts, probation officers, and public defenders in identifying and responding to teens experiencing trauma.
+- $850,000 to Gwinnett County government for the Loop Trail project to improve connectivity between key community destinations, including residential, commercial, recreational, and transit areas.
+HERE’S WHAT THEY’RE SAYING
+“These federal investments will have a meaningful and lasting impact on DeKalb County,” said DeKalb County CEO Lorraine Cochran-Johnson.
+“From critical water infrastructure and public safety improvements to expanded parks and recreational spaces, this funding supports quality of life, economic vitality, and community well-being.
+We are grateful to Congressman Johnson for his continued advocacy and partnership on behalf of DeKalb residents.”
+“These investments reflect what’s possible when local priorities and federal partnership align,” said Gwinnett County Chairwoman Nicole Love Hendrickson.
+“The Loop Trail project will strengthen connectivity across our communities, making it easier for residents to move between where they live, work, and gather.
+I’m grateful to Congressman Johnson for advocating for funding that delivers real, on-the-ground benefits for Gwinnett families.”
+“MARTA appreciates the continued support and efforts of Congressman Johnson to improve transit infrastructure and enhance safety of the system,” said MARTA Interim General Manager and CEO Jonathan Hunt.
+“This funding allows MARTA to implement vital security measures to prevent theft, vandalism, and unauthorized access at our bus and rail facilities, safeguarding customers and employees, and contributing to the long term sustainability of our operations.”
+“This funding reflects the power of strong partnerships and shared priorities,” said Tucker Mayor Anne Lerner.
+“We’re grateful to Mayor Pro Tem Virginia Rece for championing this effort and for Representative Johnson for securing federal support that helps Tucker advance our trail system and strengthens regional connectivity.
+Working together across all levels of government allows us to deliver real, lasting improvements for our residents.”
+“This funding brings to life our vision for Ashford Forest Preserve, which is to ensure this protected Old Growth Forest remains accessible and welcoming to everyone,” Brookhaven Mayor John Park said.
+“From ADA parking to accessible restrooms and trails, Phase II represents an important step in opening this preserve to all.
+The City of Brookhaven is deeply grateful to Congressman Johnson for securing these funds and his continued partnership and leadership in investing in inclusive, community-centered greenspace.”
+“The realignment of Chestnut Drive is a transformative safety priority that will finally bridge the gap between our historic neighborhoods and Doraville’s emerging downtown,” said Doraville Mayor Joseph Geierman.
+“I am grateful to Congressman Johnson for securing this $1 million investment, which will replace a dangerous crossing with a safe, signalized gateway to the MARTA station and the entire region.”
+###

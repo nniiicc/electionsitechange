@@ -1,0 +1,24 @@
+Skip to content
+Home
+Join Team Hilda
+Supporters
+Gallery
+Donate
+Category:
+News
+Home
+|
+News
+|
+Page 2
+News
+Hilda Solis leads all-women board
+of supervisors (1/4/21)
+admin
+November 11, 2021
+Supervisor Solis reassumed her position as Los Angeles County Board of Supervisors chairwoman and this time with an all woman board.
+Solis was first elected to the Los Angeles County Board of Supervisors in 2014 which at the time only...
+Read More
+Posts navigation
+1
+2

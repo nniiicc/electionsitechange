@@ -1,0 +1,3 @@
+- 2026 American Federation of Teachers-NH – Endorsement Questionnaire Response What would you do to address the threat of gun violence in our schools?
+Gun violence exists due to easy access to guns.
+Laws need…

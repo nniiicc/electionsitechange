@@ -1,0 +1,457 @@
+Jason Anavitarte
+Senate Majority Leader
+Lee Anderson
+State Senator
+Marty Harbin
+State Senator
+Shawn Still
+State Senator
+Russ Goodman
+State Senator
+Rick Williams
+State Senator
+Carden Summers
+State Senator
+Clint Dixon
+State Senator
+Jason Dickerson
+State Senator
+James Burchett
+House Majority Whip
+Matthew Gambill
+House Floor Leader
+Josh Bonner
+State Representative
+Matt Barton
+State Representative
+John Corbett
+State Representative
+Michael Cameron
+State Representative
+Beth Camp
+State Representative
+Chris Erwin
+State Representative
+Johnny Chastain
+State Representative
+David Clark
+State Representative
+Clint Crowe
+State Representative
+Vance Smith
+State Representative
+Robert Dickey
+State Representative
+Emory Dunahoo
+State Representative
+Robert Leverett
+State Representative
+John LaHood
+State Representative
+Alan Powell
+State Representative
+Carmen Rice
+State Representative
+Rey Martinez
+State Representative
+Karen Mathiak
+State Representative
+Marcus Wiedower
+State Representative
+Jason Ridley
+State Representative
+Dale Washburn
+State Representative
+Holt Persinger
+State Representative
+Noel Williams
+State Representative
+Chas Cannon
+State Representative
+Bill Yearta
+State Representative
+Charlice Byrd
+State Representative
+David Jenkins
+State Representative
+Mitchell Horner
+State Representative
+Brad Thomas
+State Representative
+Tyler Paul Smith
+State Representative
+Danny Mathis
+State Representative
+David Shafer
+Fmr.
+GAGOP Chairman
+Taylor Griffith
+Banks County
+Commissioner
+Robert Griner
+Berrien County
+Commissioner
+Ronnie Gaskins
+Berrien County
+Commissioner
+Jordan Given
+Bryan County
+Commissioner
+Wallace Mathis
+Crisp County
+Commissioner
+Bobby Barber Jr.
+Decatur County
+Commissioner
+Jeff Brown
+Hart County
+Commissioner
+Bruce Henry
+Jasper County
+Commissioner
+Todd Higdon
+Madison County
+Commissioner
+Keith Bowen
+Miller County
+Commissioner
+Danny Clarke
+Wheeler County
+Commissioner
+Randy Sellers
+Appling County
+Commissioner
+Charlton Gillies
+Atkinson County
+Commissioner
+Andrew Strickland
+Baldwin County
+Commissioner
+Pat Graham
+Barrow County
+Commissioner
+Deborah Lynn
+Barrow County
+Commissioner
+Myra Exum
+Brooks County
+Commissioner
+Mike Wilson
+Butts County
+Commissioner
+Joe Brown, Jr.
+Butts County
+Commissioner
+Russ Crumbley
+Butts County
+Commissioner
+Steve Fuller
+Carroll County
+Commissioner
+Danny Bailey
+Carroll County
+Commissioner
+Harry Johnston
+Cherokee County
+Commissioner
+Will Cagle
+Cherokee County
+Commissioner
+Richard Weatherby
+Cherokee County
+Commissioner
+Chad Brown
+Clinch County
+Commissioner
+Denver Braswell
+Colquitt County
+Commissioner
+Johnny Hardin
+Colquitt County
+Commissioner
+John Reidelbach
+Coweta County
+Commissioner
+Chris Gaines
+Dawson County
+Commissioner
+Kenneth Petty
+Echols County
+Commissioner
+Justin Staten
+Echols County
+Commissioner
+Lee Vaughn
+Elbert County
+Commissioner
+Casey Freeman, Jr.
+Elbert County
+Commissioner
+Chris Alexander
+Elbert County
+Commissioner
+Lee Hearn
+Fayette County
+Commissioner
+Mendy Moore
+Forsyth County
+Commissioner
+Bridget Thorne
+Fulton County
+Commissioner
+Ray Prince
+Grady County
+Commissioner
+Jeffery Smith
+Greene County
+Commissioner
+Matthew Holtkamp
+Gwinnett County
+Commissioner
+David Gibbs
+Hall County
+Commissioner
+Kathy Cooper
+Hall County
+Commissioner
+Bobby Irions
+Harris County
+Commissioner
+Marshall Sayer
+Hart County
+Commissioner
+Michael Bennett
+Hart County
+Commissioner
+Marty Clark
+Jackson County
+Commissioner
+M.
+Wood
+Jones County
+Commissioner
+Wendy Vaughn
+Jones County
+Commissioner
+Ashley Gilles
+Lamar County
+Commissioner
+Brian Henderson
+Lincoln County
+Commissioner
+Stan Tankersley
+Lincoln County
+Commissioner
+Bill Slaughter
+Lowndes County
+Commissioner
+Dennis Adams
+Madison County
+Commissioner
+Terry Chandler
+Madison County
+Commissioner
+Blake McCormack
+Morgan County
+Commissioner
+John Daniell
+Oconee County
+Commissioner
+Mark Thomas
+Oconee County
+Commissioner
+Jay Paul
+Oglethorpe County
+Commissioner
+Howard Sanders
+Oglethorpe County
+Commissioner
+William Brown
+Oglethorpe County
+Commissioner
+Tracy Norman
+Oglethorpe County
+Commissioner
+Bill Sharp
+Putnam County
+Commissioner
+Jeff Wooten
+Putnam County
+Commissioner
+Lamar White
+Randolph County
+Commissioner
+Mark Spooner
+Seminole County
+Commissioner
+Larron Copeland
+Terrell County
+Commissioner
+Kenneth Hickey
+Thomas County
+Commissioner
+Donnie Baggett
+Thomas County
+Commissioner
+Lance Hooks
+Treutlen County
+Commissioner
+Joey Powell
+Treutlen County
+Commissioner
+Timmy Shelnutt
+Walton County
+Commissioner
+Harlan Archer
+Washington County
+Commissioner
+Jamie Handley
+Wilcox County
+Commissioner
+Daniel Graves
+Elberton Mayor
+Jud Smith
+Barrow County
+Sheriff
+Clark Millsap
+Bartow County
+Sheriff
+Noel Brown
+Bulloch County
+Sheriff
+Gary Long
+Butts County
+Sheriff
+Terry Langley
+Carroll County
+Sheriff
+Frank Reynolds
+Cherokee County
+Sheriff
+Fred Cole
+Coffee County
+Sheriff
+Clay Whittle
+Columbia County
+Sheriff
+Randy Courson
+Echols County
+Sheriff
+Jamie Callaway
+Elbert County
+Sheriff
+Dave Roberson
+Floyd County
+Sheriff
+Scott Andrews
+Franklin County
+Sheriff
+Donnie Harrison
+Greene County
+Sheriff
+Stacy Williams
+Haralson County
+Sheriff
+Chris Carroll
+Hart County
+Sheriff
+Matt Moulton
+Houston County
+Sheriff
+Kevin McCook
+Jackson County
+Sheriff
+Donnie Pope
+Jasper County
+Sheriff
+Butch Reece
+Jones County
+Sheriff
+Brad White
+Lamar County
+Sheriff
+Nick Norton
+Lanier County
+Sheriff
+Reggie Rachals
+Lee County
+Sheriff
+Ashley Paulk
+Lowndes County
+Sheriff
+J.
+Michael Moore
+Madison County
+Sheriff
+Tyler Hooks
+Morgan County
+Sheriff
+James Hale
+Oconee County
+Sheriff
+David Gabriel
+Oglethorpe County
+Sheriff
+Wayne Wiley
+Pulaski County
+Sheriff
+Howard Sills
+Putnam County
+Sheriff
+Gene Scarbrough
+Tift County
+Sheriff
+Keith Brooks
+Walton County
+Sheriff
+Rick Kelley
+White County
+Sheriff
+Darrell Powers
+Wilkes County
+Sheriff
+Janis Mangum
+Fmr.
+Jackson County
+Sheriff
+Joe Chapman
+Fmr.
+Walton County
+Sheriff
+Butch Conway
+Fmr.
+Gwinnett County
+Sheriff
+Darrell Dix
+Spalding County
+Sheriff
+Rusty Fulbright
+Stephens County
+Sheriff
+Ross Henry
+Heard County
+Sheriff
+Andy Hester
+Turner County
+Sheriff
+Mike Jolley
+Harris County
+Sheriff
+Stacy Nicholson
+Gilmer County
+Sheriff
+Craig Nobles
+Long County
+Sheriff
+Raymond Peterson
+Clinch County
+Sheriff
+Mitch Ralston
+Gordon County
+Sheriff
+Lenn Wood
+Coweta County
+Sheriff
+James Woodruff
+Troup County
+Sheriff

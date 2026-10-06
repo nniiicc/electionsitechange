@@ -1,0 +1,151 @@
+Endorsers
+Hover your mouse to pause the animation, or click on any images to enlarge.
+Organization Endorsements and 100% Voting Records
+100% Voting record*
+100% Voting record**
+100% Voting record**
+100% Voting record**
+**Not specifically endorsed but recognized for 100% voting record from these organizations.
+“We are grateful for your willingness to listen to communities directly impacted by our addiction crisis and support policies rooted in dignity, recovery, and evidence-based care.
+Your 100% score reflects a strong alignment with ME-RAP’s priority legislation this session.”
+-Tess Parks
+Policy Director
+These are our District 116 (formerly 41) neighbors and other friends who have declared their support for my candidacy.
+Aaron Brown
+Abby Purcell
+Abdullahi Ahmed
+Abdullahi Ali
+Abigail Nyhan
+Allyson Stillman
+Amy Thompson
+Andrea Dyer
+Ann Marie Walsh
+Anne Murdoch
+Barry Larman
+Bernadette Pesce
+Blanca Nieves
+Bob Bruc
+Brockway Clark
+Catherine Crute
+Cecilia Caldwell
+Charlie Koch
+Christopher Rizzo
+Cynthia Loebenstein-Burns
+Daniel Merrill
+David Brenerman
+David Moltz
+David Warren
+Debbie Gray
+Denis Lachman
+Doris Ruel
+Edward Reilly
+Elaine Piccini
+Elise Richer
+Elizabeth Hay Henderson
+Elizabeth Lantz
+Elizabeth Patterson
+Ellen Anderson
+Ellen Sue Aden
+Eric Johnson
+Erin Leland
+Eve Sawyer
+Fernando Saavedra
+Fionna Nilsson
+Francis Mandigo
+Frank Gallagher
+Garrett White
+Genevieve Dubuque
+George Houk
+Ginger Jones
+Greg Hahnel
+Iris Nicholas
+Isaac Stroe
+Isabel Clayter
+James Hadden
+James Nylund
+Jill Finberg
+Jim Johnston
+Joe Wolfberg
+Johanna Hart O’Brien
+John Leeke
+John Watson
+Joseph Appel
+Juliana L’Heureux
+Kathryn Vezina
+Keith Clark
+Keith Fitzell
+Keith Kastelic
+Ken Jones
+Ken Levinsky
+Laurel Daly
+Leah Koch
+Lee Nicoloff
+Leo Carbonneau
+Leon Genre
+Linda Crumrine
+Linda Deetjen
+Linda Stimpson
+Lisa Janicki
+Lise Wagner
+Lucky Hollander
+Luke Saffian
+Marc DesLauriers
+Marcia Howell
+Margaret Cloutier
+Margaret Johns
+Margaret Philbrick
+Mark Madden
+Mary Anne McMath
+Mary Ellen Randall
+Mary Jean O’Regan
+Mason Masteka
+Matthew Wetherell
+Maxwell Pizey
+Meagan Kingman
+Meredith Wood-Masteka
+Michael Jones
+Michele Lilienthal
+Michele Praught
+Michelle McElwain
+Mike Dugay
+Monika Main
+Nancy Levinsky
+Neil Jorgensen
+Nicole Witherbee
+Omar Ayola
+Patricia Chasse
+Patricia Lefebvre
+Peggy Conley
+Philip Ptacin
+Phyllis Hey
+Rebecca Stern
+Richard Beasley
+Robert McMath
+Robyn Brown
+Rochelle Spiegel
+Ronald Lantz
+Russell Kizor
+Sara Needleman
+Sasha Leland
+Scott Vonnegut
+Shana Genre
+Shar Mahoney
+Shawn Towle
+Susan Kierstead
+Susan Nicoloff
+Susan Wiggin
+Tamiko Davies
+Teresa Ruel
+Terry Peterson
+Theresa Alden
+Theresa Guerette
+Thomas Kane
+Toby Hollander
+Tom Allen
+Valerie White
+Victoria Scontras
+Vincent Chaya
+Wendy Nelson
+Will Farrington
+Willy Ritch
+Zoe Moreau

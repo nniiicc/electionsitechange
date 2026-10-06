@@ -1,0 +1,9 @@
+A Day at the Park
+On a breezy day in mid-March I took a stroll through Independence Park on Thomas Road.
+I have been visiting this park for twenty years,...
+Hoop 4 Hope
+Thank you to Mr.
+Dwight Johnson, OTC Total Athlete and Stay Strong For Life for the hosting “ Hoop 4 Hope” at Clayton State University....
+While I Qualified, Guns Did Too
+“Living the Dream”, a phrase popularly used while I served the country as a young aviator in the United States Navy.
+“Living the Dream”...

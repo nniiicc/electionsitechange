@@ -1,0 +1,5 @@
+La congresista cubanoamericana María Elvira Salazar condenó este miércoles, la visita secreta de la embajadora castista Lianys Torres Rivera a Miami, para reunirse con empresarios.
+Luego que se hiciera público el viaje secreto de la embajadora del régiemn cubano, María Elvira Salazar cuestionó el propósito del mismo: “¿Vino a seguir promoviendo el “negocio” que tiene con los pasaportes cubanos en el exterior?”.
+La congresista recordó lo que ha dicho en anteriores oportunidades, asegurando que es un peligro que Estados Unidos sea débil ante la dictadura castrista.
+Vale resaltar que, la embajadora castrista en Estados Unidos Lianys Torres Rivera y la cónsul Nora Albertis Monterrey visitaron Miami en secreto, a finales del pasado mes de mayo, con el objetivo de reunirse con empresarios y figuras relacionadas con los viajes y envíos a Cuba.
+La referida ciudad ciudad acoge a miles de exiliados cubanos, que huyeron de la isla del hambre y la miseria proporcionada por el castrismo y tienen un pensamiento adverso al comunismo; por lo que para la senadora cubanoamericana, ningún seguidor del castrismo debería pasearse como si nada en las calles.

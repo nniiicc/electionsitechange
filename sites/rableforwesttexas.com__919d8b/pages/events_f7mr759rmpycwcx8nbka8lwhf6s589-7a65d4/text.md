@@ -1,0 +1,1 @@
+Back to All Events Rable Block Walk Saturday, September 12, 2026 10:00 AM 11:00 AM Rush Elementary School 4702 15th Street Lubbock, Texas, 79416 United States (map) Google Calendar ICS https://www.mobilize.us/texasdemocrats/event/1018384/

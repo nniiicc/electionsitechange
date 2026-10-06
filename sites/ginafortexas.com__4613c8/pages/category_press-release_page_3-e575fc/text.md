@@ -1,0 +1,3 @@
+STATEMENT: Hinojosa Calls on Abbott to Waive Tax on Diesel in the Face of Skyrocketing Prices
+Press Release
+Austin, TX – With diesel hitting record highs in Texas, in many places jumping to $6, Democratic nominee for Texas Governor Gina Hinojosa released the following statement reiterating her call on Greg Abbott to use his …

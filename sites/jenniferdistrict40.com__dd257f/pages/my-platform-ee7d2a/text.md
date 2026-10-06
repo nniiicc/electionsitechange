@@ -1,0 +1,46 @@
+- People over politics: I will work for YOU.
+- Lowering the cost of living including utilities and healthcare.
+- Clean, reliable water sources.
+- Good roads and safe communities.
+- Quality education and opportunities for our children.
+- I will lead by listening and put my community first.
+- Freezing electricity rates for residential customers
+- Protecting ratepayers from subsidizing large corporate energy demands
+- Expanding affordable housing through smart public-private partnerships
+- Increasing access to quality, affordable child care so parents can stay in the workforce
+- Local governments must have meaningful input
+- Infrastructure costs must not be shifted onto residents
+- Transparency and long-term planning must guide decisions
+- Community benefit must outweigh tax incentives
+- Protecting ratepayers from subsidizing large corporate energy demands
+- Expanding affordable housing through smart public-private partnerships
+- Increasing access to quality, affordable child care so parents can stay in the workforce
+- Operating local small businesses that create jobs and attract tourism
+- Supporting students and educators as a substitute teacher
+- Leading the West Virginia Agritourism Association
+- Partnering with WVU Extension and the West Virginia Department of Agriculture
+- Hosting educational and community events
+- Leadership starts with serving the community
+- Strong classroom resources
+- Support for teachers
+- Expanded career and technical education
+- Workforce pipeline partnerships
+- Keeping decision-making local
+- Small business development
+- Agritourism expansion
+- Workforce training aligned with real job opportunities
+- Marketing initiatives that spread tourism dollars into rural communities
+- Keeping farmland and property in family ownership
+- Deer exclusion fencing
+- Irrigation systems
+- Weed control improvements
+- Access to shared equipment
+- Cold storage and small-scale processing
+- Expanding market access
+- Regional branding and collective advertising initiatives
+- Cooperative marketing models
+- Shared aggregation and distribution systems
+- Incentives for existing farms to host community gardens
+- Public education on the economic value of buying West Virginia-grown food
+We use cookies to analyze website traffic and optimize your website experience.
+By accepting our use of cookies, your data will be aggregated with all other user data.

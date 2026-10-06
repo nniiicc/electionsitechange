@@ -1,0 +1,2 @@
+In this update, Representative Joanne Shofner highlights recent milestones and celebrations across House District 11, including Governor Abbott’s recognition of Nacogdoches as a Tourism Friendly Texas Certified Community and a 60-year anniversary for Shady Acres Health and Rehabilitation Center.
+She also laid out key House Concurrent Resolutions reflecting East Texas values and welcomed DJ, a young honorary Secret Service agent from Center, Texas, to the Capitol.

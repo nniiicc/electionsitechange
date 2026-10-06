@@ -1,0 +1,23 @@
+GROTON — State Sen.
+Heather Somers of Groton announced Monday she will seek re-election to the 18th district, looking to continue her record of leading with an independent voice to deliver results for eastern Connecticut, challenge the status quo in Hartford and fight for policies to improve the lives of hardworking Connecticut families.
+“I look forward to continue my record of leading with an independent voice to expand opportunity, support small businesses, honor our veterans, improve the quality and affordability of health care, protect our environment, strengthen our eastern Connecticut communities and hold Hartford accountable,” Somers said.
+“It is an incredible honor to represent hardworking eastern Connecticut families and I look forward to continuing to serve and deliver results to strengthen our communities.”
+In Hartford, Somers has established a reputation as a uniquely effective and independent advocate for eastern Connecticut.
+Somers has successfully passed legislation to combat the opioid epidemic, protect women from sexual harassment, care for first responders with PTSD, repeal the boat tax, fund priorities for 18th district communities, protect eastern Connecticut from damaging education cuts and more.
+In the 2020 legislative session, Somers is championing plans to lower prescription drug costs, protect patients, safeguard the environment and increase economic opportunity.
+“I am proud of my record of results and to be continuing to lead the fight on issues that matter to hardworking eastern Connecticut families, like reducing Connecticut’s punitive tax burden, lowering the cost of prescription drugs and expanding economic opportunity,” Somers continued.
+“I am proud to be an independent leader in Hartford, working across party lines to protect and strengthen the environmental health of our state, improve access to quality, affordable health care and increase economic opportunity for the hardworking families who suffered as misguided policies and tax hikes kept Connecticut lagging our neighbors in jobs and wages.”
+Building on a reputation for holding Hartford accountable and tackling corruption in her first term, Somers helped lead the charge to expose mismanagement at the Connecticut Port Authority, hold the quasi-state agency accountable and put forward solutions to reinstall public confidence.
+Last month, Somers sent a letter to Gov.
+Ned Lamont calling for greater transparency and additional reforms at the Port Authority before the administration rubber stamped an agreement concerning the state pier in New London.
+“I will continue to fight for hardworking Connecticut taxpayers by shining a light on mismanagement, corruption and abuse in state government and at quasi-public agencies and lead the fight for reform,” Somers said.
+“That is why I’ve repeatedly demanded greater transparency and lasting reforms to correct the mess created by political insiders at the Connecticut Port Authority.”
+Somers has earned recognition from numerous organizations representing seniors, physicians and health care providers as a champion for improving the quality, affordability and availability of health care and to improve Connecticut’s treatment of mental health.
+Somers also has a 100 percent rating from the Connecticut League of Conservation Voters for her support of positions to protect and preserve the environment and a 100 percent rating from the Connecticut Business & Industry Association (CBIA) for championing policies to improve Connecticut’s economic competitiveness and business climate.
+Somers was first elected to the State Senate representing the 18th district in November 2016 and was reelected in November 2018 with 55 percent of the vote.
+Before serving in the State Senate, Somers served as a town councilor for eight years in Groton, including two years as the town mayor.
+Somers also has a successful record in business.
+She founded and helped grow a biotech manufacturing company that continues to expand and support more than 100 jobs in eastern Connecticut.
+Somers resides in Groton City with her husband Mark and daughter Grace.
+She has two adult children, Hayley and Ian.
+###

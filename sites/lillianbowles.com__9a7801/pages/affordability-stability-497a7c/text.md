@@ -1,0 +1,33 @@
+Affordability and Stability
+Everyone deserves the dignity of a stable, secure life—where hard work is enough to afford your life: a home, healthcare, and the ability to support your family.
+Right now, too many Utahns are feeling squeezed by rising costs and economic uncertainty.
+I will focus on practical solutions that lower everyday expenses, strengthen financial stability, and make sure people have a fair shot to get ahead.
+Affordability:
+Everyone should be able to afford their life.
+Everyone should be able to housing, healthcare, and everyday essentials, regardless of where they live or what they earn.
+I’ll work on lowering costs and making sure hard work actually goes further for Utah families.
+That means focusing on the real pressures people feel every day—rent and home prices, grocery bills, medical costs, and utilities—and advancing practical solutions that help families keep up, get ahead, and stay rooted in the communities they call home.
+What I’ll Work On
+Housing
+- Expand access to affordable, attainable housing; increase supply that meets community needs; and support pathways to homeownership so more families can put down roots.
+Cost of Living
+- Tackle rising everyday costs—groceries, utilities, and essentials—by supporting policies that lower household expenses and help families keep up and plan ahead.
+Healthcare
+- Improve access to affordable, quality care; reduce out-of-pocket costs; and ensure families don’t have to choose between getting care and staying financially stable.
+Economic Stability
+- Support policies that strengthen financial security; promote good-paying, stable jobs; and help families build, save, and plan for the future.
+Stability
+Security for today and tomorrow.
+Stability means having the security to support your family today and plan for tomorrow.
+I’ll focus on strengthening financial security and creating real opportunity that lasts.
+That means supporting good, stable jobs, fair wages, and policies that help families stay in their homes, manage rising costs, and build savings over time.
+It also means making sure people aren’t one unexpected expense away from crisis, and that every family has the foundation they need to stay grounded, move forward, and build a better future.
+What I’ll Work On:
+Economic Stability
+- Help families build financial security, manage rising costs, and plan for the future with confidence.
+Work & Wages
+- Support good, stable jobs and fair pay so hard work leads to real opportunity and upward mobility.
+Family Stability
+- Ensure families have access to the support they need—like childcare, healthcare, and housing—to stay stable and thrive.
+Financial Resilience
+- Promote policies that help families save, handle unexpected expenses, and avoid falling into crisis.

@@ -1,0 +1,12 @@
+Press Releases
+Planned Parenthood Action Fund Endorses Congressman Rob Menendez for Re-Election in 2026
+NEW JERSEY – Congressman Rob Menendez has been endorsed for re-election in 2026 by the Planned Parenthood Action Fund, the country’s leading reproductive rights advocacy organization.
+“Since his election to Congress, Rob has been a strong fighter for reproductive freedom.
+Re-electing him is critical,” said Planned Parenthood Action Fund President and CEO Alexis McGill Johnson.
+“As the Trump administration and House Republicans work to take away reproductive rights and access to essential health care for people across the country, we need strong champions who will fight back at every turn.
+Rob has been that champion — always fighting alongside Planned Parenthood Action Fund.
+We are proud to endorse him to represent NJ-08.”
+“The Planned Parenthood Action Fund has led efforts to protect reproductive rights across our country, and I am proud to be in this fight alongside them,” said Congressman Menendez.
+“We will never relent in the fight to protect reproductive freedom and to ensure that every American has the right to make decisions for themselves about their health and their own bodies.”
+The Planned Parenthood Action Fund is an independent, not-for-profit national membership organization formed as the advocacy and political arm of Planned Parenthood Federation of America.
+The Action Fund engages in educational and limited electoral activity, including grassroots organizing, legislative advocacy, and voter education.

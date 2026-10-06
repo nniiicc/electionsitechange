@@ -1,0 +1,13 @@
+BOSTON—Senator Nick Collins and Representative David Biele announced that the Fiscal Year 2027 state budget, recently signed into law by Governor Maura Healey, delivers significant resources for South Boston with investments in public safety, education, healthcare, workforce development, senior services, and waterfront resilience.
+Included in the spending plan are investments for youth educational services at: the Tierney Learning Center; Boston Music Project programs at the Condon Community Center, Perkins School, and the Perry School; the South Boston Neighborhood House; and the Harry McDonough Sailing Center.
+The FY27 budget also includes resources to support and uplift families through an investment in Julie’s Family Learning Program, investments for local small businesses by supporting the South Boston Street Festival through the South Boston Neighborhood Development Corporation, and programs for seniors across South Boston in partnership with Age Strong.
+Also included in the budget are significant investments for resiliency infrastructure and planning along the Fort Point Channel at the Boston Children’s Museum.
+The legislation also invests in services that improve public health, public safety, and neighborhood quality of life, including expanded substance use treatment and recovery programs through the South Boston Community Health Center, the Gavin Foundation, and the Joseph Nee Collaborative Center.
+The FY27 budget also supports operations for the new South Boston Division of the Boston Municipal Court, dedicated emergency response through the Boston Fire Department’s Delta Unit vehicles, increased patrols by the Massachusetts State Police and MBTA Transit Police, and additional Boston Police patrols at Boston Housing Authority senior housing developments in South Boston.
+“These are the organizations that make South Boston home,” said Senator Nick Collins.
+“Many of us grew up with them, have volunteered alongside them, or have turned to them when someone needed a helping hand.
+This budget strengthens those institutions and ensures they can continue serving South Boston families for years to come.”
+“Nothing is ever guaranteed during budget season,” said Rep.
+David Biele.
+“I was proud to partner with colleagues to advance on a budget that reflects our community’s values and priorities by making significant investments in programs and services we rely on every day and supports initiatives across South Boston.”
+Signed into law by Governor Healey, the Fiscal Year 2027 spending plan reflects the Legislature’s continued commitment to strengthening neighborhood organizations, supporting public safety, and improving quality of life throughout South Boston.

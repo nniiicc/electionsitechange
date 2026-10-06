@@ -1,0 +1,54 @@
+Jobs & Economic Opportunity
+From his very first days in Congress, Stephen has focused on ensuring that residents from the 8th have access to good paying jobs and he’s working every day to create and expand opportunities for all to succeed.
+Stephen knows that our working families face great challenges.
+Wages are stagnant, there are constant attacks on collective bargaining, efforts to weaken retirement security and a system that favors corporations over the working people that ensure their success.
+Stephen believes that our economy should strengthen our country for every American, not just those at the top.
+He has fought against unfair trade deals that hurt American workers and will work to crack down on companies that ship profits and jobs overseas.
+He has worked to ensure that the terms of trade deals are designed to create American jobs and raise wages here, while also ensuring that critical domestic environmental, consumer, and other public interest safeguards would not be undermined by the terms of any trade deals.
+He is fighting for equal pay and paid leave, increasing the minimum wage and working to ensure that the wealthiest citizens and largest corporations pay their fair share.
+Bringing to Congress the perspective of someone who worked for nearly 20 years as an Ironworker, Stephen knows that strong worker protections and fair labor practices created America’s middle class.
+Ensuring that workers are not forgotten in the Halls of Congress, Stephen founded and continues to co-chair the Congressional Labor and Working Families Caucus to work with his colleagues on issues that are important to American’s working men and women.
+In Congress, Stephen worked to pass the American Recovery and Reinvestment Act that created more than 2 million jobs, invested in our infrastructure, and cut tax rates for 95% of American families.
+As a member of the Financial Services Committee, Stephen helped to craft the Dodd-Frank Wall Street Reform and Consumer Protection Act to create consumer protections, end government bail-outs of the financial system and introduce transparency and accountability for shadowy financial markets.
+Stephen voted against the massive bank bail-out that rewarded unscrupulous banking executives and failed to hold any one of them accountable.
+He has worked with his colleagues on numerous bills to help working families succeed and has also co-sponsored legislation to assist struggling pension plans for Americans who face financial uncertainty at a time when they cannot return to work.
+Stephen understands that critical improvements to our infrastructure will not only create and support good paying jobs, but will also strengthen the climate change resiliency of our infrastructure and help our economy.
+As New England’s senior member of the Transportation Committee, he’s working hard on a transportation and infrastructure bill which will create millions of good-paying jobs.
+As your Congressman, Stephen will continue to support policies that strengthen our economy, grow our middle class and help America’s working families.
+US representatives, union workers warn ‘critical’ Boston Ship Repair vanishing without investment, work
+Rep.
+Stephen Lynch and others called for support of the US’s shipbuilding and repair assets By GRACE ZOKOVITCH | gzokovitch@bostonherald.com UPDATED: June 17, 2025 at 7:43 PM EDT U.S. representatives and Boston Ship Repair workers gathered at one...
+Lynch warns as job cuts continue
+By MATTHEW MEDSGER | mmedsger@bostonherald.com | Boston Herald UPDATED: February 24, 2025 at 2:10 PM EST Congressman Stephen Lynch warned about the consequences to science, research and federal services as thousands of job cuts from the Trump...
+Massachusetts Congressman Stephen Lynch reacts to FTA report on MBTA safety
+WCVB-TV BOSTON- The U.S. representative who serves on the House Committee on Transportation and Infrastructure recently said he is in favor of federal authorities taking more direct control over the MBTA.
+Click here to watch interview
+OTR: Here’s why Massachusetts congressman supports federal takeover of MBTA
+WCVB-TV BOSTON- Rep.
+Stephen Lynch says he is nervous about the first Monday morning commute during the 30-day Orange Line shutdown.
+Click here to watch interview
+Rep.
+Stephen Lynch discusses woes facing the MBTA
+WBUR Radio By Sydney Boles and Tiziana Dearing Massachusetts Congressman Stephen Lynch discusses his talks with the MBTA as the public transit agency deals with ongoing safety concerns, service cuts and recommendations from the Federal Transit Administration.
+Click...
+Reps Lynch & Pressley Introduce Legislation to Develop Electronic Version of U.S.
+Dollar
+Jamaica Plain News By David Ertischek Congressman Stephen Lynch (D-MA 8) and Congresswoman Ayanna Pressley (D-MA 7) introduced a bill that would develop an electronic version of the U.S. dollar.
+“As digital payment and currency technologies continue to rapidly expand...
+Federal Infrastructure Bill Could Bring $12.5 Billion in Aid to Massachusetts
+NBC Boston By Jeff Saperstone and Kaitlin McKinley Becker Billions of dollars will now be headed to Massachusetts to help fix roads and bridges after the long-awaited infrastructure bill finally cleared the House late Friday on a 228-206 vote -- but not all of the...
+Mayor plans to spend city, Quincy College’s COVID recovery money on Monroe Building
+Patriot Ledger By Mary Whitfill QUINCY — Mayor Thomas Koch said he plans to use $15 million in federal pandemic recovery money given to the city and Quincy College to purchase the Monroe Building downtown, which he has had his eye on in hopes it will...
+UMass-Boston eyes nursing school under Lynch proposal
+Boston Herald By Sean Phillip Cotter UMass-Boston is looking to use some federal money to give its nursing school a home in what proponents say could be a big boost to the seaside school.
+U.S.
+Rep.
+Stephen Lynch announced at a press conference at the Dorchester campus...
+Reps.
+Lynch, Maloney and Lawrence Introduce Postal Service Improvement Act
+Washington, D.C. — This week, U.S.
+Representative Stephen F.
+Lynch, Chairman of the Subcommittee on National Security, along with U.S.
+Representative Carolyn B.
+Maloney, Chairwoman of the Committee on Oversight and Reform, and Committee Member U.S.
+Representative...

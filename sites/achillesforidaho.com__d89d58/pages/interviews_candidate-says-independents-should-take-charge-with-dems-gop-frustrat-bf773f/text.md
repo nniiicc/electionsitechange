@@ -1,0 +1,1 @@
+Candidate says independents should take charge with Dems, GOP frustrated Aug 27 Written By Katie Moore https://www.newsnationnow.com/on-balance-with-leland-vittert/candidate-says-independents-should-take-charge-with-dems-gop-frustrated/ Katie Moore

@@ -1,0 +1,217 @@
+ENDORSEMENTS
+_ _ _ _ _ _ _ _ _ _ _ _
+- National Leaders -
+- Alex Padilla, United States Senator (CA)
+- Adam Schiff, United States Senator (CA)
+- Speaker Emerita Nancy Pelosi (CA)
+- George Miller, Former United States Rep.
+(CA)
+- Democratic Leader Hakeem Jeffries (NY)
+- Democratic Whip Katherine Clark (MA)
+- House Democratic Chair Pete Aguilar (CA)
+- Chair of the California Delegation, Zoe Lofgren (CA)
+- Jared Huffman, United States Representative (CA)
+- Doris Matsui, United States Representative (CA)
+- Mike Thompson, United States Representative (CA)
+- Jamie Raskin, United States Representative (MD)
+- Rosa DeLauro, United States Representative (CT)
+- Ayanna Pressley, United States Representative (MA
+- State Leaders -
+- Betty T.
+Yee, California State Controller
+- Ricardo Lara, California Insurance Commissioner
+- Rob Bonta, California Attorney General
+- Malia Cohen, California Controller
+- Tony Thurmond, CA State Superintendent of Public Instruction
+- Tom Torlakson, Former CA State Superintendent of Public Instruction
+- Steve Glazer, Former California State Senator
+- Tim Grayson, California State Senator
+- Rebecca Bauer-Kahan, California State Assemblymember
+- AnaMarie Farias, California State Assemblymember
+- Bill Dodd, California State Senator
+- Thomas Umberg, California State Senator
+- Richard Roth, California State Senator
+- Dave Cortese, California State Senator
+- Bonnie Lowenthal, Former California State Assemblymember
+- Dave Jones, Former California State Insurance Commissioner and Assemblymember
+- Local Elected Leaders -
+- Diane Burgis, Supervisor, Contra Costa County
+- Ken Carlson, Supervisor, Contra Costa County
+- John Gioia, Supervisor, Contra Costa County
+- Shanelle Scales-Preston, Supervisor, Contra Costa County
+- Candace Andersen, Supervisor, Contra Costa County
+- Nate Miley, Supervisor, Alameda County
+- Karen Mitchoff, Former Supervisor, Contra Costa County
+- Diana Becton, District Attorney, Contra Costa County
+- Lynn Mackey, Superintendent of Schools, Contra Costa County
+- Lamar Thorpe, Former Mayor, City of Antioch
+- Donald Freitas, Former Mayor, City of Antioch
+- Susannah Meyer, Mayor, City of Brentwood
+- Johnny Rodriguez, Former Mayor, City of Brentwood
+- Holly Tillman, Council Member, City of Clayton
+- Julie Pierce, Former Mayor, City of Clayton
+- Carlyn Obringer, Mayor, City of Concord
+- Dominic Aliano, Council Member, City of Concord
+- Edi E.
+Birsan, Former Mayor, City of Concord
+- Tim McGallian, Former Mayor, City of Concord
+- Newell Arnerich, Vice Mayor, Town of Danville
+- Shawn Kumagai, Former Council Member, City of Dublin
+- Susan Candell, Mayor, City of Lafayette
+- Teresa Gerringer, Former Mayor, City of Lafayette
+- Anne Grodin, Former Mayor, City of Lafayette
+- Cameron Burks, Former Council Member, City of Lafayette
+- Brianne Zorn, Mayor, City of Martinez
+- Satinder Malhi, Council Member, City of Martinez
+- Debbie McKillop, Council Member, City of Martinez
+- Mark Ross, Former Council Member, City of Martinez
+- Rob Shroder, Former Mayor, City of Martinez
+- Lara DeLaney, Former Council Member, City of Martinez
+- Dan Kalb, Former Council Member, City of Oakland
+- Sue Higgins, Former Mayor, City of Oakley
+- Latika Malkani, Council Member, City of Orinda
+- Darlene Gee, Vice Mayor, City of Orinda
+- Brayden Iverson, Mayor, City of Orinda
+- Inga Miller, Former Council Member, City of Orinda
+- Dennis Fay, Former Mayor, City of Orinda
+- Amy R.
+Worth, Former Mayor, City of Orinda
+- Sue Noack, Mayor, City of Pleasant Hill
+- Matthew Rinn, Former Mayor, City of Pleasant Hill
+- Michael Harris, Former Mayor, City of Pleasant Hill
+- Amanda Szakats, Council Member, City of Pleasant Hill
+- Cindy Darling, Mayor, City of Walnut Creek
+- Kevin Wilk, Mayor Pro Tem, City of Walnut Creek
+- Merl Craft, Former Mayor, City of Pittsburg
+- Tom Butt, Former Mayor, City of Richmond
+- Gabriel Quinto, Mayor Pro Tem, City of El Cerrito
+- Lisa Motoyama, Council Member, City of El Cerrito
+- Paul Fadelli, Council Member, City of El Cerrito
+- Chris Duncan, Mayor Pro Tem, City of San Clemente
+- Rita Xavier, Council Member, City of San Pablo
+- Abel Pineda, Council Member, City of San Pablo
+- Dave Hudson, Mayor, City of San Ramon
+- Marisol Rubio, Council Member, City of San Ramon
+- Sabina Zafar, Former Council Member, City of San Ramon
+- Paul Krekorian, Council President, City of Los Angeles
+- Linda Mayo, Vice President, Mt.
+Diablo Unified School District
+- Keisha Nzewi, Board Trustee, Mt.
+Diablo Unified School Board
+- Cherise Khaund, Former Board Trustee, Mt.
+Diablo Unified School District
+- Mae Torlakson, Vice Chair, Ambrose Recreation and Park District in Bay Point
+- Diana Honig, President, Contra
+Costa Community College District Governing Board
+- Rebecca Barrett, Member, Contra Costa Community College District Governing Board
+- Andy Li, Member, Contra Costa Community College District Governing Board
+- Fernando Sandoval, Vice President, Contra Costa Community College District Governing Board
+- John E.
+Marquez, Member, Contra Costa Community College District Governing Board
+- Judy Walters, Ph.D., former Member, Contra Costa Community College District Governing Board
+- Collin Coffey, Vice President, East Bay Regional Park District
+- Luz Gomez, Board Member, East Bay Municipal Utility District Board of Directors
+- John Coleman, Former Vice President, East Bay Municipal Utility District Board of Directors
+- Adrienne Grey, Trustee, West Valley-Mission Community College District Board of Trustees
+- Dana Dean, Trustee, Solano County Board of Education
+- Labor & Progressive Organizations -
+- California Labor Federation
+- Contra Costa Labor Council
+- Contra Costa Building and Construction Trades Council
+- Alameda County Labor Council AFL-CIO
+- United Farm Workers of America
+- Brotherhood of Railroad Signalmen
+- Brotherhood of Locomotive Engineers & Trainmen
+- IBEW Local Union 302
+- LIUNA Local 324 PAC
+- North Coast States Carpenters Union Local 152
+- United Professional Firefighters of Contra Costa County, Local 1230
+- Amalgamated Transit Union
+- California State Association of Letter Carriers
+- Tom Baca, International VP of the Western State Section, International Brotherhood of Boilermakers
+- Lou Paulson, President Emeritus, California Professional Firefighters
+- California Democratic Party
+- Democratic Party of Contra Costa County
+- Democrats of Rossmoor
+- Contra Costa Young Democrats
+- California High School Democrats
+- DC Statehood PAC
+- Progressive Turnout Project
+- Voter Protection Project
+- California Environmental Voters
+- Sierra Club
+- 350 Bay Area Action for Climate
+- Human Rights Campaign PAC
+- Equality California
+- Alameda County Jewish Democrats
+- Committee to Protect Healthcare
+- Planned Parenthood Action Fund
+- Mental Health Now *Candidate
+- Moms Demand Gun Action *Candidate
+- League of Conservation Voters
+- Newtown Action Alliance
+- Association of Professional Flight Attendants
+- California Democratic Delegates -
+- Tiffany Woods, Former LGBTQ Caucus Co-Chair, California Democratic Party *title for identification purposes only
+- Deepa Sharma, Asian Pacific Islander Caucus Chair, California Democratic Party *title for identification purposes only
+- Katie Ricklefs, Chair, Democratic Party of Contra Costa County
+- Joey D.
+Smith, 2nd Vice Chair, Democratic Party of Contra Costa County
+- Marshall Lewis, Former Controller, Democratic Party of Contra Costa County
+- Christine McGinnis, Past Chair, Democratic Party of Contra Costa County
+- Brodie Hilp, Member of DPCCC, and President of the San Ramon Valley Democratic Club
+- Demetrio Gonzalez-Hoy, School Board Trustee, West Contra Costa Unified School District
+- Renee Zeimer, Democratic Party of Contra Costa County (DPCCC)
+- Sandra Lowe, DNC Member
+- Community Supporters -
+- Velma Wilson, 2021 Contra Costa County Humanitarian of the Year
+- Marsha Molling
+- Laura Perloff
+- Cecilia Minalga
+- Julie Clark
+- Jacqueline Salvador
+- George McRae
+- Amy Hines-Shaikh
+- Cathy McRoberts
+- Nadine Peyrucain
+- Ann Katzburg
+- Margaret Hegg
+- Orrin Carpenter
+- Peter Tiernan
+- Saqib Ali
+- Sandra Markus
+- Mandolyn Hicks
+- Lori Caudill
+- John Harrigan
+- Jim Wunderman
+- Sally Lucia
+- Jim and Bette Felton
+- James Bonato
+- John Ziessenhenne
+- Satinder Malhi
+- Leonard Battaglia
+- Fauzia Rizvi
+- Dana Seeman
+- Lynda Kilday
+- Gilbert Newman
+- Julie Nielson
+- Harry Thurston
+- Kevin Barrett
+- Susan Hildreth
+- Steven Beinke
+- Thomas Nock
+- Constance Chiba
+- Ehab Shehata
+- Paul Sweeney
+- Rose Andrade
+- Sil Garaventa
+- Ron Luk
+- Debra Pearson
+- Joe Fanucchi
+- John E.
+Savage
+- Chris Naff
+- Matthew Campos
+- Elizabeth Copley
+- Gary Cooper
+- Audrey Comeaux

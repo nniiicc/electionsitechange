@@ -1,0 +1,25 @@
+District 24
+Welcome to District 24!
+The newly redrawn District 24 encompasses Seward, York and Polk Counties, along with the western portion of Butler County.
+The following communities are within the District #24 boundaries:
+- Butler County: Rising City and Surprise
+- Polk County: Osceola*, Polk, Shelby, and Stromsburg
+- Seward County: Beaver Crossing, Bee, Cordova, Garland, Goehner, Milford, Pleasant Dale, Seward*, Staplehurst, Tamora, and Utica
+- York County: Benedict, Bradshaw, Gresham, Henderson, Lushton, McCool Junction, Thayer, Waco, and York*
+* Indicates County Seat
+County Populations
+Total Population for District #24: 37,576
+- Butler County Population: 1,574
+- Polk County Population: 5,320
+- Seward County Population: 16,935
+- York County Population: 13,747
+Source U.S.
+Census Bureau: State and County QuickFacts
+Land Area in Square Miles
+Total Land Area in Square Miles for District #24: 1716.21
+- Butler County: 134.33
+- Polk County: 438.35
+- Seward County: 571.43
+- York County: 572.1
+Source U.S.
+Census Bureau: State and County QuickFacts

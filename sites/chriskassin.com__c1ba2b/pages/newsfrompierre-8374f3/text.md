@@ -1,0 +1,2 @@
+News from Pierre Sign-Up to get the updates on issues impacting South Dakota delievered to your inbox!
+What South Dakota's Budget Surplus Really Means The Way We Govern 101st Session Week One Week Two Week Three Week Four Week Five Week Six Week Seven Week Eight Week Nine Honoring our Veterans Correctional Rehabilitation Task Force Elder Care Summer in SE South Dakota Governor’s Budget Address 100th Session Kick-off/Preview Week Two Week Three Week Four Week Five Week Six Week Seven Week Eight Week Nine Week Ten

@@ -1,0 +1,11 @@
+October 1, 2026Contact: Nicole KiprilovEmail: [email protected] Holden and Dolan join launch of Democrats for Saritha NEW YORK, NY — Former New York […]
+September 29, 2026Contact: Nicole KiprilovEmail: [email protected] Candidate Says Security Grants And NYPD Resources Alone Will Not Stop Attacks Without Prosecutors Willing […]
+September 26, 2026Contact: Nicole KiprilovEmail: [email protected] Rochester Police Officer Nicole Amatore was named 2026 Police Officer of the Year by the […]
+September 18, 2026Contact: Nicole KiprilovEmail: [email protected] “New York has safe buffer zone laws on the books.
+It needs an Attorney General […]
+FOR IMMEDIATE RELEASESeptember 18, 2026Contact: Nicole KiprilovEmail: [email protected] When 15,000 nurses took to the streets in January, I went to the […]
+September 17, 2026Contact: Nicole KiprilovEmail: [email protected] ALBANY, NY — Saritha Komatireddy, candidate for New York Attorney General, today convened a roundtable […]
+FOR IMMEDIATE RELEASESeptember 15, 2026Contact: Team SarithaEmail: [email protected] Former Federal Prosecutor Will Investigate Shelter System Statewide; Recover Billions in Medicaid Fraud; […]
+FOR IMMEDIATE RELEASESeptember 15, 2026Contact: Team SarithaEmail: [email protected] New York – The New York State Correctional Officers & Police Benevolent Association […]
+FOR IMMEDIATE RELEASESeptember 4, 2026Contact: Team SarithaEmail: [email protected] Violence Against Women Rising and State’s Domestic Violence Hotline Still Goes Unanswered One […]
+FOR IMMEDIATE RELEASESeptember 3, 2026Contact: Team SarithaEmail: [email protected] A 30-year-old transit worker tried to stop a man who was urinating on […]

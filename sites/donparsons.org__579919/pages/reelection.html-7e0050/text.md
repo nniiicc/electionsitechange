@@ -1,0 +1,22 @@
+Don Parsons
+REPUBLICAN
+Georgia has made great progress over the last twenty-one years.
+In the election
+year 2004, after 130 years of Democrat control of both chambers of the
+legislature and the Governor’s office, the people of Georgia had enough of poor
+education outcomes, lack of fiscal responsibility, political gerrymandering,
+failure to lower taxes and a continuous move towards the socialist thinking of
+the national Democrat Party.
+I am running for reelection as your State Representative for House District 44
+in north Cobb County and Woodstock in Cherokee County because the progress we
+have achieved in Georgia over the last twenty-one years will end and be reversed
+if the individuals that the Democrat party has on the ballot in the November
+election prevail.
+In fact, the philosophy and policies embraced by the Democrats
+of today are divisiveness, higher taxes with higher taxpayer paid spending,
+de-funding of law enforcement, open borders, and the list goes on.
+It is important for people to be heard and have a voice in the Georgia
+legislature by one who sincerely believes in the principles and ideals that
+built this state and nation; hard work, education of their children, moral and
+social order, individual liberty and responsibility, law and order, the ability
+to thrive without government interference, and limited taxation, among others.

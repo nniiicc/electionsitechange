@@ -1,0 +1,14 @@
+Conoce a Darren Soto
+Darren Soto fue elegido para el Congreso en el 2016 para representar al Noveno Distrito del Congreso de la Florida, que incluye los condados de Osceola, Orange y Polk.
+Darren se enorgullece de ser la primera persona de ascendencia puertorriqueña en servir en el Congreso de la Florida.
+Darren Soto es un abogado, legislador, ambientalista y orgulloso progresista que representa a la gente diversa y trabajadora de la Florida Central en el Congreso.
+Después de graduarse de la facultad de derecho, Darren comenzó a trabajar en Orlando para defender a las personas en las cortes (y tocar música).
+Se involucró con los Jóvenes Demócratas (Young Democrats) y fue elegido para la Cámara de Representantes de la Florida a los 29 años.
+Sirvió durante cinco años y medio en la Cámara de Representantes de la Florida antes de ser elegido para el Senado de la Florida, donde sirvió durante cuatro años.
+Durante sus casi 10 años en la Legislatura de la Florida, Darren trabajo para tener empleos de altos sueldos y de alta tecnología en Florida Central, proteger nuestro aire y agua, ampliar y proteger la atención médica, ayudar a las familias que enfrentan ejecuciones hipotecarias y mejorar la educación.
+En el Congreso, es miembro del Comité de Recursos Naturales y del poderoso Comité de Energía y Comercio, donde lucha para aumentar el acceso a la atención médica para todos los estadounidenses, combatir el cambio climático, proteger el aire y el agua, impulsar la tecnología y la innovación estadounidenses y proteger a los consumidores.
+Durante sus casi seis años en el Congreso, ha traído millones en fondos federales al distrito para ayuda en casos de desastre, para mejorar la infraestructura de SunRail, la expansión de la I-4 y otras carreteras nuevas, para brindar asistencia alimentaria y de vivienda, para apoyar la agricultura local , para impulsar los empleos de alta tecnología y ayudar a las pequeñas empresas y a los desempleados.
+También aprobó una legislación importante para aumentar la preparación para huracanes, proteger las costas de la Florida, preservar la vida marina, honrar a los veteranos y héroes de los derechos civiles, designar el Pulse National Memorial, brindar paridad de Medicaid a Puerto Rico y otorgar Estatus de Protección Temporal (TPS) a refugiados venezolanos.
+En el Comité de Energía y Comercio, Darren trabajó directamente en muchas secciones de la Ley CARES, el Plan de Rescate Estadounidense y la nueva Ley de Infraestructura.
+Estos esfuerzos fueron fundamentales para ayudarnos a recuperarnos de la pandemia y mejorar la infraestructura de Florida Central en rápido crecimiento para arreglar el tráfico, garantizar aire y agua limpios y proteger nuestra calidad de vida.
+Darren se graduó de la Universidad Rutgers y de la facultad de derecho de la Universidad George Washington.

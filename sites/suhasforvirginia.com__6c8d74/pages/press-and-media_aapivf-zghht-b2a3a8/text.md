@@ -1,0 +1,16 @@
+ASPIRE PAC Endorses Suhas Subramanyam for Congress
+Subramanyam Carries ONLY Congressional Caucus Endorsement in VA-10 Race
+Ashburn, VA – Today, Senator Suhas Subramanyam, Obama White House Alumnus and Candidate for Virginia’s 10th Congressional District (VA-10), announced the endorsement of Asian Americans & Pacific Islanders Rising & Empowering Political Action Committee (ASPIRE PAC), the political arm of Democratic Asian American, Native Hawaiian, and Pacific Islander (AANHPI) Members of Congress.
+This endorsement marks the only Congressional Caucus that has weighed in on the race for Virginia’s 10th Congressional District.
+ASPIRE PAC is committed to supporting candidates of AANHPI descent and incumbents who represent large communities of AANHPI voters, and it consists of 21 Members of Congress (19 House Members and 2 Senators).
+ASPIRE PAC joins AAPI Victory Fund, Asian American Action Fund, and Indian American Impact as AAPI groups that solely support Senator Subramanyam’s candidacy for the seat.
+This is the latest in several other key endorsements for Senator Subramanyam, including, notably, incumbent Congresswoman Jennifer Wexton.
+“Northern Virginia needs to elect a Congressmember who will take on the tough fights and win for our communities,” said Virginia State Senator Suhas Subramanyam.
+“I’m glad to have the support of my future colleagues in this race, and to have such momentum building behind our campaign.
+I look forward to joining the Congressional Asian Pacific American Caucus in 2025 and furthering the mission of ASPIRE PAC.”
+Virginia’s 10th Congressional district has a 15.4% AAPI population, with more than half of those being from South Asian descent.
+###
+Senator Suhas Subramanyam has dedicated his life to public service as a State Senator, Obama White House advisor, Capitol Hill staffer, and as a Loudoun volunteer firefighter/EMT.
+In Richmond, he has worked across the aisle to pass gun violence prevention bills, protect democracy, and defend abortion rights.
+Senator Subramanyam is best positioned to keep VA-10 in Democratic hands because he represents more VA-10 constituents than any of the 16 primary election candidates, and he has consistently outperformed the Democratic ticket and delivered for his constituents.
+Suhas resides in Ashburn, Virginia (in VA-10) with his wife, Miranda, and their two daughters.

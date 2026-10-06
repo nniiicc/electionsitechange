@@ -1,0 +1,5 @@
+Abordar el impacto de la violencia y el trauma
+Como sobreviviente de violencia sexual, Ayanna comprende, a nivel personal, los desafíos duraderos asociados con el trauma.
+Para las comunidades desproporcionadamente afectadas por la violencia, incluidas las comunidades Afroamericanas, Latinas, e Indígenas, las mujeres y las niñas, la comunidad LGBTQIA+ y las familias inmigrantes, el impacto colectivo del trauma relacionado con la violencia puede conducir a graves desigualdades en los resultados de salud, progreso educativo, y oportunidad económica.
+Debemos tener la intención de generar conciencia sobre las experiencias que conducen al trauma y los desafíos continuos que crea, y de buscar políticas específicas que aborden sus causas fundamentales y creen caminos hacia la justicia y la curación.
+Ayanna convocó la primera audiencia de Supervisión en el Congreso sobre trauma infantil y trabajó para aprobar con éxito legislación para apoyar a los sobrevivientes de trauma, desde familiares sobrevivientes de víctimas de homicidio hasta aquellos afectados por eventos violentos horribles como el ataque en la maratón de Boston.

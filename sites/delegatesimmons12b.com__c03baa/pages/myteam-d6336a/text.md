@@ -1,0 +1,20 @@
+My Team
+Meet District 12B Team
+Hard Working People Helping Moving our District Forward
+Krystal Gonzalez
+Chief of Staff
+Krystal Gonzalez serves as Chief of Staff to Delegate Gary Simmons, bringing extensive experience in community advocacy, leadership, constituent engagement, and nonprofit development to the role.
+A passionate advocate for families and communities impacted by violence, Krystal is the founder of Redirecting Our Culture Inc., a survivor-led nonprofit focused on resiliency, character development, and connecting families to meaningful resources and support.
+With a background in healthcare, community programming, and advocacy, Krystal has dedicated her career to serving others and creating pathways for positive change.
+In her role as Chief of Staff, she works closely with the Delegate to support legislative priorities, strengthen community relationships, address constituent concerns, and ensure that the voices of the people are represented.
+Krystal is committed to public service, building strong community partnerships, and helping create meaningful opportunities for the residents of Maryland.
+Jacqueline Allsup
+Constituent Services Specialist
+As both educator and community leader, Jacqueline has worked to achieve a quality of life for others and to bring about positive social and community change.
+As a retired Professor of Anne Arundel Community College, she is maximally involved in her church and community.
+A resident of Anne Arundel County, Jacqueline retired after 30 years of service to the State of Maryland as a nursing administrator.
+She is one of our community’s strongest advocates of programs for Health Care, Education, and Public Safety.
+Jacqueline supports efforts to increase voter participation in the minority community and other political issues of our times.
+Ms.
+Allsup is a graduate of Leadership Anne Arundel, where she gained an awareness and understanding of county and regional issues, as well as acquired valuable hands-on experience.
+She earned a Bachelor of Science and a Master of Science in Nursing Administration from Bowie State University.

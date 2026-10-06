@@ -1,0 +1,66 @@
+Platform
+I stand for the under-represented of Southern Utah
+- Washington County voted approximately 25% Democratic in the 2024 presidential election yet there’s no equivalent Democratic representation in the House
+- Only about 53% of Utah’s active voters are Republican based on data readily available on the Utah government elections website
+- Our legislature must make laws that serve the people of Utah, not themselves, their donors, or a narrowly focused political agenda
+- I am frustrated by the state legislature supermajority’s unconstrained focus on partisan issues that waste significant taxpayer dollars with no tangible benefit to the citizens of Utah
+- I believe the people rule the legislature; the legislature should not rule (or repeatedly ignore the will of) the people
+I am for truth and equity in Education
+- I believe in an education based on historical facts, even when they may not be comfortable
+- I strongly believe those who do not learn from history are doomed to repeat it
+- I oppose politically motivated curriculum legislation
+- I believe in a strong public education system that provides the opportunity for a quality education for all our children
+I believe in making common sense decisions based on the best interests of our community
+- Public health and wellness decisions (such as vaccinations) and extraordinary precautions taken during national emergencies (such as mask mandates) must be based on facts, science, expertise, and public safety
+- The welfare of the citizens of Utah must not be politicized
+- I oppose the development of massive data centers, especially when there is no public input, no transparency regarding the process and who stands to benefit financially, and no proper analysis or consideration of the project’s environmental impacts
+- I believe we must have exclusive and legal ownership of our personal analog and digital identities
+- I believe the citizens of Utah deserve a living wage and I strongly support organized labor
+- I believe the wealthy can and should pay more tax than the working class
+- I oppose mass surveillance systems like Flock cameras, which can too easily be used to violate our civil rights
+I believe Utah’s Elections are free and fair
+- I trust and support Utah’s system for voting by mail
+- I trust and support Utah’s existing election security procedures, and stand behind the efficiency and effectiveness of the Office of the Lt Governor
+- I support keeping voter accessibility and convenience, to the maximum extent possible, while retaining ballot integrity
+- I strongly oppose voter suppression, especially when it targets a specific group(s) to gain an electoral advantage
+- I support Proposition 4, and the independent redistricting commission as lawfully decided by the people of Utah
+I am for a return to Common Decency
+- I do not believe in divisiveness, insults, threats, or bullying as a political platform
+- I believe true honesty, integrity, and transparency are essential values for elected officials
+- I believe we must treat people with dignity and respect regardless of whether we share all their values and beliefs
+- I believe we can enforce practical immigration policy and provide due process with compassion and humanity
+I believe the people must be engaged for our Democracy to endure
+- I believe Democracy is a gift and a responsibility
+- I believe people, particularly voters, must be engaged, informed, and vocal to ensure our legislature is truly representing us all and not just a few loud voices from the political extremes
+- I believe in our right to ballot initiatives based on Article 1, Section 2 of the Utah Constitution, which states: “All political power is inherent in the people; and all free governments are founded on their authority for their equal protection and benefit, and they have the right to alter or reform their government as the public welfare may require”
+I am for the Separation of Powers
+- I believe the legislature must respect the sanctity of our courts and stop undermining the integrity of members of the judiciary every time they make a ruling the legislature doesn’t like
+- I recognize the need for the independence and respect the constitutional authority of the courts and the executive branch
+- I believe in the long-held foundational American principle of the separation of church and state at all levels of government
+I believe in our Constitution and the Rule of Law
+- As a US Navy veteran, and later as a Federal Government Employee, I took an oath to support and defend the Constitution of the United States
+- I continue to honor that oath, and I am severely disappointed by the failure of many of our elected leaders to do so
+- I demand due process for everyone as promised by our Constitution
+- I exercise and will defend my right to free speech and my right to bear arms
+- I exercise and will defend my right, as defined by the Utah Constitution “to assemble peaceably, protest against wrongs, and petition for redress of grievances; to communicate freely their thoughts and opinions, being responsible for the abuse of that right”
+- I believe everyone should be held accountable for their actions, regardless of their wealth or position
+I support the Utah Democratic Party Platform
+- I believe in a country as wealthy as the US, like in every other democratic country in the world, no one should go without the basic human needs of shelter, food and healthcare
+- I believe in the government taking measures when needed to ensure equal opportunity for everyone
+- I believe the government has a responsibility to provide a functional and sustainable public infrastructure while protecting our natural resources
+- As a veteran, I strongly appreciate the importance of international alliances, especially NATO, and I stand with the world’s democracies, including Ukraine
+I love Washington County and Southern Utah
+- I may not have generational roots in Utah, but I visited St George on vacation from VA in 2015 and it was love at first sight!
+- Our choice to move here after retiring is constantly reenforced in many ways, and now it’s hard to imagine living anywhere else
+- I am grateful for the wonderful community I’ve discovered and look forward to serving it
+- I believe our public lands are precious and unique, and I believe selling them will ultimately harm our state to make a handful of rich people richer
+In General
+- I believe the American election system is secure and that our election results reflect the will of the voters
+- I oppose Citizens United – corporations are NOT people
+- I believe we need national laws that prohibit all political and racial gerrymandering
+- I believe we need to get big money out of politics
+- I support age limits for elected officials and judicial appointees
+- I am for abolishing the Electoral College
+- I support Universal Healthcare because examples from around the world show it will reduce costs across the board
+- I believe we need a US Constitutional Amendment to explicitly ban convicted felons from serving in any federal office
+- I believe the science of climate change and that it is a global threat

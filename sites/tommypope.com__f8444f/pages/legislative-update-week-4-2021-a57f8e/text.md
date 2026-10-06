@@ -1,0 +1,61 @@
+Legislative Update: Week 4, 2021
+February is Black History Month.
+This month, we celebrate the accomplishments and contributions made by Black Americans who make our country and state a great place to live.
+_________
+This week, we wrapped up week #4of the 2021 session.
+I am happy to report lots of progress was made – from appointing new judges, to making progress in vaccinating our state, to advancing the Heartbeat Bill and much more.
+COVID-19 Updates
+As of February 2nd, South Carolina ranks 5th in the nation in getting vaccinations in arms.
+This is attributed to the hard work and collaboration of frontline workers, healthcare professionals, DHEC, the Governor, and all of my colleagues.
+Despite the hard work we have seen, we still have room to improve and we will continue to improve.
+- Governor McMaster announced that people aged 65+ will be allowed to receive the COVID-19 vaccination in South Carolina starting Monday, February 8th.
+- It was announced this week that 17 South Carolina CVS Pharmacies are now offering over 15,000 COVID-19 vaccinations to eligible individuals beginning February 11th.
+Appointments will be available as early as Feb. 9th.
+Find a location near you here: http://cvs.co/39EU4aB
+- As of Thursday, February 4th, 777,250 vaccinations have been received for distribution from the federal government; 439,888 vaccinations have been put in arms.
+- Right now, we are in Phase 1A.
+If you meet any of the following criteria you can make an appointment to get your COVID-19 vaccine:
+- Frontline healthcare workers
+- Anyone 70+ years
+- Anyone 65+ years (beginning Feb 8th)
+- State/local government employees who perform COVID-19 vaccinations and testing in SC
+- A full list of those eligible to receive the vaccine can be found here: https://scdhec.gov/covid19/covid-19-vaccine
+Judicial Hearings
+On Wednesday, members of the Senate joined my colleagues and me in the House chamber to vote on 22 judicial positions.
+The South Carolina Constitution requires judges to be elected by members of the General Assembly in a Joint Assembly.
+Prior to being judicial candidates, individuals seeking judicial office are screened by a committee to ensure they are upstanding citizens and possess the competency and qualifications necessary to serve on the bench.
+Congratulations to all the newly appointed judges!
+Heartbeat Bill
+Last week, the Senate passed the Heartbeat Bill.
+This is exciting news, as last year, my colleagues and I worked hard to pass a similar bill which never made it out of the Senate.
+The bill is now in the House Judiciary Committee and I am hopeful it will soon be on the House floor.
+I am looking forward to voting YES on this bill and passing it on to Governor McMaster, who has committed to sign it into law.
+Education
+Although this year has been a challenging year for both educators and students, it has brought many areas of weakness to our attention.
+Last year, we began an overhaul of education legislation with a few large bills.
+This year, we are breaking down the bills.
+Through this, I am hopeful that more legislation will pass, and we can get students to where they need to be.
+This week I was proud to vote in favor of legislation that does the following:
+- Reduces the amount of literacy screening and testing for Kindergarten-3rd grade
+- Provides screening tools and services to help identify dyslexia and other reading disorders in students
+- Revises the criteria for retention ensuring students are reading on grade level before promotion
+- Provides reading and literacy coaches to schools who have below average achievement in English/Language arts
+- Establishes “Schools of Innovation” in multiple South Carolina school districts. to allow for more flexible models
+COVID-19 Resources
+- DHEC Care Line at 1-855-472-3432
+- COVID-19 Vaccine Information Line 1-866-365-8110
+- Find a vaccine location near you here: https://vaxlocator.dhec.sc.gov
+- Information about qualifying for SBA loans: https://www.sba.gov/funding-programs/loans/coronavirus-relief-options/paycheck-protection-program#section-header-0
+- Mental health /substance abuse services related to COVID-19: 1-844-724-6737 (1-844-SC-HOPES)
+- For other COVID-19 resources, visit the Accelerate SC website: https://accelerate.sc.gov
+In the News
+- SC age for vaccines lowered to 65, appointments to begin Monday https://www.wltx.com/article/news/health/coronavirus/vaccine/south-carolina-vaccination-age-now-set-at-65/101-fee276ad-7ca9-46e0-bc4a-a5a8276c76ca
+- Bill to allow home delivery of beer, wine in SC advances amid pandemic’s shopping changes https://www.postandcourier.com/columbia/business/bill-to-allow-home-delivery-of-beer-wine-in-sc-advances-amid-pandemics-shopping-changes/article_c0e4ea10-664d-11eb-a292-9fdbdd24d60b.html
+- Bill to allow home delivery of beer, wine in SC advances amid pandemic’s shopping changes https://www.wspa.com/news/candidate-to-lead-dhec-gets-approval-from-panel-of-sc-senators-vote-on-floor-soon/
+Other Important Links:
+- Updates from the Governor, visit: https://governor.sc.gov
+- To track a bill, live stream session/meetings, and member information visit https://www.scstatehouse.gov/index.php
+- Search “SC Legislature” on the App Store/Google Play Store.
+It is an honor and a privilege to serve you in Columbia.
+If you need help navigating state government, or have any thoughts or concerns about what we are doing, please do not hesitate to contact me.
+Keep up with the SC House GOP Caucus on Facebook or Twitter.

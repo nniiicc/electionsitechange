@@ -1,0 +1,51 @@
+Immigration
+Video Links [TikTok] [YouTube]
+Whether you're just looking for someplace that serves a decent taco and cerveza, or fleeing the clutches of the evil Spaceballs, immigrating to the United States is an adventure of bureaucratic proportions not unlike embarking on a roller coaster ride through a theme park of peculiarities and endless possibilities.
+Welcome, brave souls to the Land of the Free and the Home of the fast food drive-thru.
+Buckle up, grab your paperwork, and prepare for a journey filled with bewildering customs, confusing acronyms, and more paperwork than a medieval scribe could handle.
+Let's start out by taking a look at how each political party views the topic of immigration to the United States.
+Republicans on Immigration
+"'Give us your tired, your poor, your huddled masses yearning to breathe free...' but ONLY if they look European or have some skill that we can exploit."
+Republican views on immigration vary widely, but there are some common themes and positions that tend to emerge.
+Many Republicans, especially here in Texas, emphasize the importance of securing U.S. borders, often advocating for stronger measures to prevent illegal immigration including support for increased border patrol, physical barriers (like walls or fences), and technology-based solutions like surveillance.
+Concerns about the economic impact of immigration are often raised, with some Republicans arguing that illegal immigration depresses wages and strains public services.
+There is usually a strong emphasis on upholding existing immigration laws and enforcing them rigorously, but many Republicans are cautious about offering a path to citizenship for undocumented immigrants already in the country.
+Instead, they often prioritize policies that would require those immigrants to leave and re-enter legally or to face penalties for their illegal entry.
+However, they also believe that the government should emphasize the skills that our economy needs most when determining eligibility for legal immigration or amnesty.
+"We all figure that our homes are set above other people than the ones we know and love."
+But first, they'll need a visa (no, not the credit card).
+It's essentially a hall pass that allows them to enter the country for a specific length of time and purpose.
+Unfortunately, there are more types of visas than flavors at a Ben & Jerry's, each with its own quirks and requirements.
+The process of acquiring one usually involves navigating through a maze of government websites that have been designed by someone with a PhD in Chaos Theory.
+Then, there's the interview stage, where you'll be scrutinized more intensely than a CSI detective examining a crime scene.
+Personally, based on what I've heard, it sounds to me that alien probing is far more pleasant.
+Democrats on Immigration
+"Thank you for coming to America.
+Your immigration is very important to us.
+Please take a number and stand in line, and you will be processed in the order in which you were received."
+Democrats generally support immigration policies that prioritize compassion, inclusivity, and opportunity.
+They prioritize humanitarian concerns in immigration policy, including protections for refugees and asylum seekers fleeing persecution, violence, or natural disasters.
+They often push for comprehensive immigration reforms that addresses issues such as border security, visa reforms, family reunification, and the integration of immigrants into American society.
+Democrats tend to oppose harsh immigration enforcement measures that they perceive as overly punitive or inhumane, such as mass deportations without due process, and strongly support pathways to citizenship for undocumented immigrants who are already living in the United States, especially those who have been contributing to society and have strong ties to their communities, or for undocumented immigrants who were brought to the United States as children (often referred to as Dreamers) and emphasize their economic contributions to economy, arguing that immigrants often fill vital roles in sectors such as agriculture, healthcare, technology, and hospitality.
+"In every place with a name, we play the same territorial game, hiding behind the lines ..."
+Despite its many quirks, Democrats seem to believe that one of the best things about immigrating to the U.S. is its diversity.
+From New York City's melting pot of cultures to the laid-back vibes of California, immigrants will usually find a community that feels like home, no matter where they come from.
+(If you're from Arcturus, I hear Roswell is beautiful this time of year…) But integration into American culture is not for the weak of heart.
+Between food choices consisting of deep-fried Oreos at a state fair, a 64-ounce soda (that's almost 2 liters for the rest of you) that comes with free refills, or portions that the menu describes as "Texas-sized" that could feed a small village for a week, you might start questioning whether you've accidentally entered the Bermuda Triangle of social experiments gone wrong.
+Libertarians on Immigration
+"ALL people who come to the United States, regardless of their method of arrival, deserve to be treated with dignity and respect."
+Libertarians believe that all people who come to the United States, regardless of their method of arrival, should be treated with dignity and respect, and that immigration reforms should focus on the humanity of the immigrants, documented or undocumented.
+We believe that most American families came to the United States from somewhere else, whether a long time ago or relatively recently, and as long as they have no history of violence, credible plans for violence, or perform acts of violence within our country, they should be welcome to immigrate to the United States.
+Of course, if someone has a record of violence, credible plans for violence, or performs acts of violence, then I would support blocking their entry, deporting, and/or prosecuting and imprisoning them, depending on the offense.
+Libertarians believe that our international borders should be protected from any entity that intends to harm us, but we do not support the classifying of undocumented immigrants as criminals.
+Libertarians also believe that immigration laws and their reforms should address the needs of national security, but that any economic factors related to immigration are removed from the discussion as largely irrelevant.
+"A whole wide world, an endless universe, yet we keep looking through the eyeglass in reverse."
+Despite their cautious views of immigrants in general, many Libertarians are more likely to think "Are you really sure you want to do this?" After all, the process of acclimatizing to life in the U.S. is a culture shock like you've never imagined.
+From the sheer size of Walmart to the concept of trying to master American English phrases like "bless your heart" (hint: it's not always a compliment) and "howdy" (which isn't just a greeting, but a way of life in certain parts), don't be surprised if you find yourself Googling the difference between "you all," "y'all," and "all y'all" on a regular basis.
+All kidding aside, if Americans want immigrants to enter the United States through legal channels, then the immigration laws and their reforms should address making those legal channels fair, reasonable, and more accessible to immigrants.
+All politicians, regardless of party affiliation, talk about warmly welcoming those who enter the country through legal means (usually with chocolates, flowers, and soft romantic music).
+At the same time (and often in the same breath), they promise to devote extra resources to repel those who attempt to enter the country using illegal means.
+Regardless of their area of origin, whether they have advanced academic credentials or very little education, I believe that all immigrants have one thing in common: they bravely left their familiar surroundings in search of a better life.
+Many are fleeing violence or extreme poverty and are searching for a free and safe place to try to build their lives.
+I respect and admire their courage and am proud that they see the United States as a place of freedom, stability, and prosperity.
+- Border Security Is A "Red Herring" [Article Link]

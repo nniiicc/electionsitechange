@@ -1,0 +1,15 @@
+The Washington County Deputy Sheriff’s Association has endorsed Republican candidate Jim Piwowarczyk for the 98th Assembly District seat, praising him for being a “staunch supporter of the righteous” and for having a “very specific and clear goal” of what he will fight for in the state Assembly.
+In the June 26 endorsement letter, the Association cited Piwowarczyk’s law enforcement experience “serving patrol and supervisory roles” as one reason he received the endorsement.
+Piwowarczyk, 54, of the Town of Erin, worked for the Glendale and Kewaskum police departments for nearly 20 years combined.
+He was raised in Washington County.
+The Association’s endorsement comes on the heels of growing momentum for Piwowarczyk’s campaign, including endorsements from the Washington and Waukesha County Sheriffs (Marty Schulteis and Eric Severson), Washington County Executive Josh Schoemann and District Attorney Mark Bensen, and more.
+The primary is Aug. 13.
+“You exhibit many characteristics that are desirable for an endorsement, and you also have the experience to back that up,” the Washington County Deputy Sheriff’s Association wrote.
+“You understand not only the circumstances law enforcement deals with involving critical incidents but also the chronic fatigue and politics because you have also lived it,” the endorsement reads.
+“You have been a staunch supporter of the righteous and standing up for law enforcement, even when other politicians and society would not.
+You also have a very specific and clear goal of what you will do and fight for when in position within the state Assembly.”
+The Association added, “We could not think of a better fit for this position, and we look forward to seeing what amazing things you will continue to do in the future.”
+The endorsement letter was signed by President Cody Ausloos, Vice President Brandon Giese, Secretary Luke Wilhelm, and Treasurer Morgan Nickols.
+“I am extremely honored by the endorsement and humbled that the Association trusts me to be a strong advocate for law enforcement and public safety in the state Assembly,” Piwowarczyk said.
+The association provides “representation to deputies of the Washington County Sheriff’s Department,” according to its website.
+For more information, see: https://jimforwi.com/.

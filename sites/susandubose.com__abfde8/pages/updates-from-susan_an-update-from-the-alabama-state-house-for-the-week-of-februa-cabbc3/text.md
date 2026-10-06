@@ -1,0 +1,162 @@
+An Update from the Alabama State House for the Week of February 16, 2026 - February 20, 2026
+INCREASING SAFETY FOR CAMPERS IN ALABAMA
+• The Alabama House awarded approval on Tuesday to legislation by State Rep.
+David
+Faulkner (R - Mountain Brook) that establishes safety plans for summer camps located
+across Alabama.
+• The Sarah Marsh Heaven’s 27 Camp Safety Act is named after eight-year-old
+Alabamians Sarah Marsh, who died during flash flood at a camp in Texas last
+summer.
+• Faulkner’s legislation would require camps to meet safety standards, including
+obtaining an emergency preparedness license from the Alabama Emergency
+Management Agency and establishing emergency and evacuation plans.
+• It also would prohibit cabins from being located in flood plains.
+Camps would be
+required to have weather radios and a notification system that does not rely on
+cellular or internet service, which could fail in a natural disaster.
+• Marsh’s mother, Jill, told the press that her daughter and the 26 other children killed by
+flooding at the Christian camp would likely still be alive today if the provisions in
+Faulkner’s bill had been enacted in Texas at the time.
+• The legislation now goes to the Senate for consideration.
+EXPANDING ACCESS TO BREAST CANCER SCREENING
+• Legislation sponsored by State Rep.
+Francis Holk-Jones (R - Foley) and approved by
+the House on Tuesday would expand access to breast cancer screening by eliminating
+deductibles, copayments or coinsurance charges for mammograms or diagnostic
+imaging of abnormalities.• Alabama state law requires insurers to cover mammograms for women aged 40
+and over, but House Bill 300 specifies that copays or deductibles may not
+accompany that required coverage.
+• Holk-Jones, a breast cancer survivor who has been cancer-free since December, noted
+that eliminating out-of-pocket costs for breast cancer screening allows all women to
+access this potentially life-saving checkup.
+• The bill now goes to the Senate, which has already passed similar legislation.
+REQUIRING COMMONSENSE ENVIRONMENTAL REGULATIONS
+• Alabama state agencies would be barred from adopting environmental regulations that
+are more stringent than federal regulations under a Senate bill that was awarded final
+passage on Tuesday and carried by Rep.
+Troy Stubbs (R - Wetumpka).
+• Stubbs noted that the bill will prevent Alabama from ever following the lead of
+more liberal states like California, which bans the sale of gas lawn mowers.
+• Senate Bill 71, known as the “Sound Science Act,” applies to regulations governing “a
+chemical substance, mixture, contaminant, pollutant, hazardous substance, solid waste,
+hazardous constituent, or hazardous waste that relates to drinking water, water pollution
+control, hazardous substances, contaminated site remediation, air quality, solid waste
+handling, or hazardous waste handling” within Alabama.
+• State agencies would still be required to comply with federal environmental rules and
+regulations but may not exceed those federal requirements.
+• The bill now goes to Gov.
+Kay Ivey for signature.
+INCREASING PENALTIES FOR TERRORIST THREATS
+• The Senate Judiciary Committee awarded a favorable report on Wednesday to
+legislation carried by State Rep.
+James Lomax (R - Huntsville) that increases penalties
+for making terrorist threats, such as threatening school shootings, and requires
+principals to immediately suspend students charged with such crimes for one year.
+• The bill was sponsored last year and pre-filed in the House this year by then-Rep.
+Matt Woods (R - Anniston), who has since been elected to the State Senate, so
+Lomax agreed to continue the effort and carry the measure.
+• Under current law, making a terrorist threat in the first degree is punishable by a Class
+C felony, and a Class A misdemeanor in the second degree.
+The provisions of House
+Bill 7 increase the penalty for first degree terrorist threats to a Class B felony,punishable by two to 20 years in prison and a $30,000 fine, and upcharges second
+degree terrorist threats to a Class D felony if previous offenses have occurred.
+• “Protecting our schools and giving students, educators, and administrators a safe
+environment to teach and learn ranks among our highest responsibilities as
+legislators,” Lomax said.
+“Parents, too, need to know that their children are
+shielded and safe from harm and threats while at school, and this legislation
+provides an added and necessary layer of security.”
+• Woods said passing and enacting the bill is increasingly important in today’s
+culture and the often turbulent times in which we live.
+• “Incidents like the killing of Charlie Kirk, the attempt on President Trump,
+and other events are becoming increasingly common, and students are
+exposed to violent acts on a more frequent basis, so it is important that we
+discourage them from even threatening copy cat actions,” Woods said.
+“The
+safety of our children whether at school or elsewhere is paramount, and if
+this legislation prevents or discourages even one violent act from taking
+place, it will have done its job.”
+• The bill also defines “credible threat” as “A knowing and willful statement or course of
+conduct, which, based on the totality of the circumstances, would cause a reasonable
+person to fear for his or her safety or the safety of another.”
+• It now goes to the Senate floor for consideration
+PROTECTING CHILDREN FROM INAPPROPRIATE APPS
+• Gov.
+Kay Ivey signed into law on Wednesday a bill by State Rep.
+Chris Sells (R -
+Greenville) that requires app stores to verify a user’s age and link accounts held by
+minors to their parents.
+• Sells, who previously passed a bill requiring cell phone porn filters to be activated
+at the time of purchase, said the legislation will prevent children from
+downloading apps without their parents’ knowledge.
+• An earlier version of the legislation passed the House during the 2025 regular
+session but was caught in a Senate logjam.
+• Under the provisions of the bill, children would be placed in an age category when
+setting up an app store account, and parents or guardians would create linked accounts
+allowing them to approve apps before download.• The measure would also allow the attorney general to bring action when
+violations by app stores occur, and parents would be enabled to bring civil actions
+for failure to comply.
+STRENGTHENING ALABAMA’S SEAFOOD LABELING LAW
+• The House Health Committee awarded a favorable report on Wednesday to legislation
+by State Rep.
+Chip Brown (R - Hollinger’s Island) that further strengthens Alabama’s
+existing seafood labeling law and forces restaurant to comply with its provisions or face
+severe penalties.
+• “Our current labeling law is designed to inform consumers and encourage
+restaurants to use seafood products harvested in Alabama, but too many owners
+are exploiting loopholes or simply refusing to follow its requirements,” Brown
+said.
+“This legislation adds sharp teeth to the statute and includes strong penalties
+for restaurants that continue thumbing their noses at state law.”
+• Restaurants located in Alabama are currently required to disclose whether seafood is
+domestic or imported on the menu listing for dishes they sell or on conspicuous signage
+plainly visible to diners and patrons.
+Additionally, the same methods must be used to
+disclose if fish or shrimp products being used are farm-raised or caught in the wild.
+• Despite the fact that civil penalties, including monetary fines, can be assessed by the
+Alabama Department of Public Health for non-compliance, some restaurants across the
+state are either ignoring the law altogether or exploiting perceived loopholes.
+• In order to ensure full compliance and provide consumers with important information
+about the seafood products they are served, House Bill 444 does the following:
+• Automatically deducts five points from the publicly posted State Health
+Department sanitation scores of any restaurant that is not in compliance with
+seafood labeling requirements.
+• Authorizes the Alabama Department of Agriculture and Industries to genetically
+test the origin of restaurant seafood products to ensure they are in compliance.
+• Removes signage as an option for disclosing the country of origin of seafood
+products and requires restaurants to use country of origin labeling on their menus.
+• Requires the Alabama Department of Public Health to “regularly inspect food
+service establishments” to ensure they are in compliance with the seafood
+labeling law.
+• Requires the Alabama Department of Public Health to publish the names and
+addresses of restaurants that are in violation of the seafood labeling law.• Alabama’s current seafood labeling law was passed in 2024 after a popular restaurant in
+neighboring Mississippi pled guilty to selling its diners meals made from frozen, low-
+grade fish imported from Africa, India, and Surinam that was marketed as premium,
+fresh-caught Gulf fish that commanded notably higher prices.
+• The bill now goes to the House for consideration.
+PROTECTING CHURCHES FROM DISRUPTIONS
+• Disruption of a worship service could soon be a crime in Alabama if legislation
+sponsored by State Rep.
+Jeff Barnes (R - Jasper) and approved by the House Judiciary
+Committee on Wednesday becomes law.
+• The bill would create the crime of disrupting a worship service and a person
+would be guilty of the crime if they knowingly go into a church with the intention
+of disrupting a church service with unlawful protest, riot or disorderly conduct.
+• The first violation would be a Class C felony, which carries a minimum of one year and
+one day behind bars and a maximum of 10 years.
+• The bill comes on the heels of rowdy anti-ICE protests in Minnesota that disrupted
+church services in that area, and it is intended to prevent similar events from occurring
+in Alabama
+• The bill now goes to the full House for consideration.
+REQUIRING ACCOUNTABILITY FROM APPOINTEES
+• The Senate Fiscal Responsibility and Economic Development Committee awarded a
+favorable report on Wednesday to legislation sponsored by Speaker Pro Tem Chris
+Pringle (R - Mobile) and Speaker Nathaniel Ledbetter (R - Rainsville) that provides the
+governor, the speaker of the House, and the president pro tempore of the Senate with
+the authority to remove and replace board and commission members that they appoint.
+• Pringle said the bill is necessary in case an appointed individual habitually fails to
+show up to meetings or requires removal for other reasons.
+• The legislation applies to “any board, authority, or commission comprised of individual
+members, of which some or all members are appointed, as established under state law”
+and notes that all appointees “serve at the pleasure” of their appointing authority.
+• The bill now goes to the full Senate for consideration

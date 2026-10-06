@@ -1,0 +1,12 @@
+Farming is the Future
+When Justin was first elected to the Tennessee House of Representatives, he was unexpectedly placed on the House Agriculture and Natural Resources committee, despite representing an urban district.
+Undeterred, Justin used the committee as a place to advocate for local farmers and push against corporate land grabs that suppress competition and shutter small farms across Tennessee.
+His tireless advocacy has especially centered the voices of small family farms, and he has been diligent in connecting with Black, brown, and young farmers to ensure equitable access to farming for generations to come.
+This past session, Justin introduced legislation protecting the right of farmers to repair their own equipment, a key component of the national “Right-to-Repair” movement, and making Tennessee one of the leading states to discuss the critical pieces of legislation.
+Justin organized with farmers and national advocates to bring important stories and data to lawmakers, and take on the corporate monopoly on agricultural equipment costing farmers thousands of dollars in repairs and down-time.
+Ultimately while stopped by Republican leadership, the bill received bipartisan support as a common sense policy solution to better support Tennessee farmers.
+Justin has also fought harmful Republican bills that threaten the sustainability of rural farms, and jeopardize the long term health of rural farming communities.
+Despite Republican efforts to make pollution easier in rural communities and erode Tennessee water quality, Justin has fought tirelessly to block these efforts, and ensure that farmers and rural communities have access to healthy and secure resources for generations to come.
+Justin has also visited farms across the state specializing in a range of different areas, and has facilitated roundtable discussions with farmers around key issue needs and policy solutions.
+His commitment to “Farming is the Future” has led him to work with community coalitions, connecting racial and economic justice initiatives with farming empowerment.
+Ultimately, Justin has embraced his assignment on the Agriculture and Natural Resources committee as a perfect intersection to build the rural and urban coalitions necessary to push our state forward into a better future for all Tennesseans.

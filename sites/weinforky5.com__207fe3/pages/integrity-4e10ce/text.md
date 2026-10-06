@@ -1,0 +1,34 @@
+The Issue
+Today, wealthy donors fund nearly every level of our government through a mixture of large private donations, PACs, and even outright bribery.
+Under our current system, access to, and influence on a political leader or issue often is directly tied to the contents of the donor’s wallet.
+Most of us cannot afford to send our representatives a thousand dollars, let alone donate $ 250,000,000 to buy the level of influence that super-wealthy people like Elon Musk enjoy.
+Without doubt, this administration is one of the most corrupt in our history; it has engaged in cryptocurrency scams; forced its way into the Social Security database to steal the data of millions of Americans; accepted “gifts” from foreign governments; manipulated markets; and sold NFTs and merchandise for personal profit.
+The lack of ethics is apparent from the bottom to the very top.
+Further, corruption is not a partisan issue.
+In the end, many of our politicians serve the wealthy who can afford to buy them.
+Reforming the system in any meaningful way will likely be a long-term project, but it is important that we start immediate action, especially for emerging technology such as cryptocurrency and AI.
+To emerge from our challenging times with a stronger and more vibrant government, we must eliminate as much of the corruption as we can, and fight to ensure that we codify into law that our leaders may never again forsake their constituents for donor interests.
+Background Info
+- According to Kentuckians for the Commonwealth, Hal Rogers has earned four “Most Corrupt Members of Congress” titles from Citizens for Responsibility and Ethics.
+- According to factually.co (Nov 5, 2025), corruption in the Trump administration includes roughly $3.4 billion in personal / family profits, a rise in patronage of Trump properties, and a conspicuous fall in U.S. standings on corruption indices.
+- October 15, 2025 report by campaignlegal.org tracked Trump’s most egregious ‘pay to play’ transactions with people, organizations, and even governments.
+Pending Legislation
+- S.2838, the Senate Protecting our Democracy Act (2025) restores checks and balances and limits presidential over-reach
+- House End Corruption Now legislative package (2025) is a suite of proposed legislation to clean up government by preventing executive branch officials, including the President, and Congress from personally benefiting from their offices
+- H.R.253, the bipartisan Restoring Faith in Government Act (2025) prohibits members of Congress from investing in certain financial instruments, such as individual stocks
+Three amendments have been proposed to overturn the Citizens United v.
+FEC Supreme Court decision, which opened the gates to exorbitant campaign contributions by corporations and unions:
+- S.J.Res.54, (2025) proposes “We the People” Amendment to reverse Citizens United and end corporate personhood
+- The Democracy for All Amendment (2025) overturns Citizens United and allows Congress and the States to set reasonable limits on campaign contributions and election spending
+- House, Senate Citizens over Corporations Amendment (2025) overturns Citizens United
+We Deserve Action
+Actions Needed Immediately
+- Congressional inquiries into corruption in the executive, legislative, and judicial branches
+- Support passing pending anti-corruption legislation
+Longer-Term Actions
+- Revive past anti-corruption legislation, such as the Stop Wall Street Looting Act to curb private equity firms from investing in healthcare (hospitals) and public institutions (e.g., university athletic programs)
+- Legislation to strongly regulate AI, including AI liability laws and improved whistleblower protections, parental controls, and ‘watermarks’ for AI content
+- Legislation to regulate dynamic pricing and limit personal data gathering by rewards and pricing algorithms
+- Legislation to expand voter access and for publicly-funded elections
+- Legislation to move federal judges to non-voting advisory roles after 25 yr service or age 75
+- Amendment for term and age limits for federal judges, congress, president, and vice-president

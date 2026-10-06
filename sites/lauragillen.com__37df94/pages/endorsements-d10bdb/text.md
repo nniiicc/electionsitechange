@@ -1,0 +1,132 @@
+Endorsements
+Take a look at who supports Laura!
+2026
+Federal Endorsements
+Democratic Leader Hakeem Jeffries
+Democratic Whip Katherine Clark
+Democratic Caucus Chair Pete Aguilar
+Congressman Gregory Meeks
+Organizations
+Democratic Congressional Campaign Committee
+Congressional Black Caucus PAC
+Brady PAC
+GIFFORDS PAC
+EMILY's List
+League of Conservation Voters
+Natural Resources Defense Council Action Fund
+Democratic Majority for Israel
+Reproductive Freedom for All
+End Citizens United
+Moms Fed Up
+Coalition to Stop Gun Violence
+Sheet Metal Air Rail Transportation Local 28
+Service International Union Local 32BJ
+International Brotherhood of Electrical Workers Local 3
+Communications Workers of America District 1
+Sustainable Environmental and Energy Coalition PAC
+Amalgamated Transit Union International
+International Alliance of Theatrical Stage Employees (IATSE)
+The Italian American Democratic Leadership Council
+Sierra Club
+North Atlantic States Regional Council of Carpenters
+They See Blue New York
+New York State United Teachers (NYSUT)
+Building and Construction Trades Council of Nassau and Suffolk Counties
+American Postal Workers Union (APWU)
+Quotes
+Congress needs leaders like Laura Gillen, who stand their ground and remain relentlessly focused on solving the challenges facing everyday Americans.
+Congresswoman Gillen has been a champion for Long Island families.
+She's fighting to lower costs, improve community safety and secure federal investments.
+She has shown a fierce commitment to commonsense solutions that deliver results.
+We are proud to stand with Congresswoman Gillen and fully endorse her re-election in our march to take back the House majority.
+- House Democratic Leadership
+I'm proud to call Laura Gillen a colleague and friend, as someone who shares her commitment to working families.
+Her partnership in Congress to lower taxes, make health care affordable, and push back against Republicans' disarray in Washington has proven that she is the leader our region needs.
+I am honored to endorse her reelection to Congress.
+- Congressman Gregory Meeks, Chairman of CBCPAC
+2024
+Federal Endorsements
+Democratic Congressional Campaign Committee
+Rep.
+Gregory Meeks
+Rep.
+Joe Morelle
+Rep.
+Grace Meng
+Rep.
+Tom Suozzi
+Rep.
+Dan Goldman
+Rep.
+Robert Garcia
+Former Rep.
+Carolyn McCarthy
+Former Rep.
+Steve Israel
+Former Rep.
+Kathleen Rice
+Local Endorsements
+Nassau County Democratic Club
+New Hempstead Democratic Club
+Hempstead Village Mayor Waylyn Hobbs
+Bellerose Village Mayor Kenneth Moore
+Hempstead Village Deputy Mayor Jeff Daniels
+Hempstead Village Trustee Clariona Griffith
+Hempstead Village Trustee Kevin Boone
+Hempstead Village Trustee Noah Burroughs
+Nassau Co Legislator Scott Davis
+Former Assemblywoman Judy Griffin
+Former North Hempstead Supervisor Judi Bosworth
+Former Nassau Co Exec Laura Curran
+Organizations
+Amalgamated Transit Union International
+United Association (Plumbers and Pipefitters)
+Ironworkers Local 361
+International Association of Machinists and Aerospace Workers District 15
+Communications Workers of America District 1
+American Postal Workers Union
+New York City District Council of Carpenters
+North Atlantic States Regional Council of Carpenters
+Service Employees International Union
+Sheet Metal Air Rail Transportation Local 28
+International Brotherhood of Electrical Workers Local 3
+International Alliance of Theatrical Stage Employees Local 1
+National Association of Letter Carriers Branch 6000
+National Association of Letter Carriers, New York State Branch
+International Union of Painters and Allied Trades District Council 9
+Retail, Wholesale and Department Store Union / United Food & Commercial Workers International Union Local 338
+Heat and Frost Insulators Local 12
+Early Money Is Like Yeast List
+Vote Mama
+Elect Democratic Women
+Sierra Club of Long Island
+Sustainable Energy & Environment Coalition PAC
+Natural Resources Defense Council
+Human Rights Coalition
+Democratic Majority for Israel
+Jewish Democratic Council of America
+End Citizens United
+Moms Demand Action Gun Sense Candidate
+Planned Parenthood
+Brady PAC
+Giffords
+Council for a Liveable World
+Defend the Vote
+American Association for Justice
+Reproductive Freedoms For All
+Social Security Works PAC
+Alliance for Retired Americans
+National Committee to Preserve Social Security and Medicare
+Quotes
+“I’ve had the pleasure of seeing Laura’s commitment to public service firsthand.
+As Hempstead Town Supervisor, Laura not only fought to eliminate corruption and cronyism, she lowered taxes, invested in the town’s infrastructure and worked in a bipartisan way to ensure families felt safe in their own communities.
+Next year, Long Islanders have the opportunity to make their voices heard and elect someone who will truly be their champion in Congress.
+As a sixteen year member of the House of Representatives, I know what it takes to get things done in Washington and actually deliver for the families back home.
+I can’t think of anyone more qualified to do just that for the fourth congressional district than Laura Gillen.
+I’m proud to endorse her.”
+- Former Representative Steve Israel
+“Laura Gillen is smart, she's tough and she's tireless and I am pleased to endorse her campaign for Congress in my former congressional district.
+As Hempstead Town Supervisor, Laura worked with Republicans to make government work, by eliminating corruption and cronyism, lowering taxes and improving lives for Long Island families.
+Every year, Congress has gotten more and more focused on political games and the extreme fringes are becoming more powerful, yet the issues we face like gun violence only get more severe.
+We need to send problem-solvers like Laura to Congress so we can actually get things done and protect our families and children.”
+- Former Representative Carolyn McCarthy

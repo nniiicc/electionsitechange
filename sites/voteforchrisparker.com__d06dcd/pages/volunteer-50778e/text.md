@@ -1,0 +1,1 @@
+By submitting this form, you consent to be contacted by Chris Parker for Indiana State Senate District 17 and authorized campaign representatives regarding campaign activities, volunteer opportunities, events, updates, and related political communications*

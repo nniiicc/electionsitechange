@@ -1,0 +1,13 @@
+"Standing with the People to Protect the Constitution as Our Founders Wrote It—Empowering and Restoring Families Across Our Nation."
+Cindy Crawford
+Cindy’s Priorities
+Cindy believes that her calling during her time of service in the Arkansas House of Representatives can be summarized in few powerful words: Empowering and Restoring Families.
+Since being elected to the Arkansas House of Representatives in 2019, Cindy has worked tirelessly to defend the constitutional rights and individual freedoms of Arkansans, has been a vocal proponent of law enforcement and first responders, championed legislation to ensure our veterans receive the care they deserve, and partnered with organizations committed to addressing and solving the state’s foster care crisis.
+Cindy was elected as a State Representative and began her service in the House in January of 2019, and since she has held this position, she has been just that – a Representative.
+She works with and for her constituents on issues that impact them in their daily lives.
+She is often told by her colleagues in the legislature that she is “therefor the right reasons”.
+This upcoming session, Cindy is focused on expanding resources and opportunities for re-entry initiatives statewide, with the goal of reducing Arkansas’s near 50% rate of recidivism.
+This includes helping individuals returning from incarceration find the stability and support they need to restore their families, rebuild their lives, and become valuable contributors to their community.
+Working to find solutions for the many “benefits cliffs” that keep Arkansans trapped in poverty and to remove obstacles for individuals who are committed to working for a better future for themselves and their families.
+Continuing to work with colleagues in the House to protect the integrity of our elections, maintain strong FOIA laws for Arkansans, and transparency in government.
+Continuing to support legislation and law enforcement working towards the eradication of human trafficking in Arkansas, while supporting victims and their families in healing and rehabilitation.

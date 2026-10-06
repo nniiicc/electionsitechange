@@ -1,0 +1,106 @@
+We like Mike!
+Mike is grateful to this wonderful group of diverse and respected leaders for previously endorsing him.
+Statewide Leaders:
+Governor Tony Evers
+Senator Tammy Baldwin
+Jim Doyle, Former Governor
+Lieutenant Governor Sara Rodriguez
+Mandela Barnes, former Lieutenant Governor
+David Crowley, Milwaukee County Executive
+Legislative Leadership:
+Dianne Hesselbein, State Senate Dems Leader
+Greta Neubauer, State Assembly Dems Leader
+Lisa Subeck, State Assembly Dems Caucus Chair
+State Senators:
+Kelda Roys, State Senator
+Melissa Agard, State Senator
+Mark Spreitzer, State Senator
+Joe Winecke, former State Senator
+Gary Goyke, former State Senator
+State Assembly colleagues:
+Francesca Hong Alex Joers
+Jenna Jacobson Jimmy Anderson
+Melissa Ratcliff Kalan Haywood
+Chris Sinicki Lee Snodgrass
+Darrin Madison Tod Ohnstad
+Steve Doyle Tip McGuire
+Sue Conley Robyn Vining
+Jodi Emerson Lakeisha Myers
+Lori Palmeri Danny Riemer
+Kristina Shelton Jill Billings
+Clinton Anderson Evan Goyke
+Supreme Moore Omokunde
+Verona City Council:
+Mara Helmke, Council President
+Rye Kimmett
+Beth Tucker Long
+Christine Posey
+Spencer Harrison
+Brandon Braithwaite
+Phil Hoechst
+Pat Lytle
+Heather Reekie, former Verona Alder
+Charlotte Jerney, former Verona Alder
+Kate Cronin, former Verona Alder
+School Board members:
+Savion Castro, MMSD
+Nicki Vander Meulen, MMSD
+Meredith Stier Christensen, Verona Area
+Joe Hanes, Verona Area
+Jennifer Murphy, Verona Area
+Korbey White, Verona Area
+John Porco, Verona Area
+Juan Carlos Medina, Verona Area
+Bill Oemichen, New Glarus
+Bob Green, Middleton-Cross Plains
+Bob Hesselbein, Middleton-Cross Plains
+Sheila Hibner, Middleton-Cross Plains
+Bartlett Durand, Middleton-Cross Plains
+Katie Frank, Middleton-Cross Plains
+Nicole Vafadari, former Verona Area
+Simrnjit Seerha, former Middleton-Cross Plains
+Mayors, and Town and Village Leaders:
+Luke Diaz, Verona Mayor
+Bob Kasieta, former Verona Mayor
+Cynthia Richson, Town of Middleton Board Chair
+Mark Geller, Town of Verona Board Chair
+Cameron Bjorklund, Cross Plains Village Board
+Emily Kuhn, Middleton Mayor
+Ryan Czyzewski, Mt.
+Horeb Village Board President
+Brett Halverson, Mt.
+Horeb Village Board
+Patty Mullins, Town of Cross Plains Board
+Tom Mathies, Town of Verona Board
+Dave Lonsdorf, Town of Verona Board
+Ken Opin, Town of Middleton Board
+David Bryce, Town of Middleton Board
+Dale Yurs, former Belleville Board President
+Dane County:
+Kathleen Falk, Former Dane County Executive
+Scott McDonell, County Clerk
+Adam Gallagher, County Treasurer
+Dane County Board members:
+Patrick Miles, County Board Chair
+Chad Kemp Michele Doolan
+Anthony Gray Steve Peters
+Jeff Glazer Don Postler
+Brenda Yang Aaron Collins
+Liz Doyle Richelle Andrae
+Heidi Wegleitner April Kigeya
+David Boetcher Matt Veldran
+Mike Engelberger Tommy Rylander
+Chuck Erickson Yogesh Chawla
+Kierstin Huelsemann Rick Rose
+Maureen McCarville
+Dana Pellebon, Former County Supervisor
+Jeff Hynes, Former County Supervisor
+Jacob Wright, Former County Supervisor
+Jeff Kostelic, Former County Supervisor
+Cecely Castillo, Former County Supervisor
+Local leaders:
+Luke Fuszard, former Middleton Alder
+Will Oemichen, Green County Supervisor
+Mo Cheeks, former Madison Alder
+Organizations That Have Supported Mike
+* Not an endorsement

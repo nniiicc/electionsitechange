@@ -1,0 +1,29 @@
+Meet Mike Criss
+Experienced Leadership & Regional Impact
+Mike currently serves in several key leadership roles that extend well beyond Harwinton:
+- Vice Chair, Northwest Hills Council of Governments (NHCOG)
+- Legislative Chair, NHCOG (7 years), representing all 21 Northwest Corner towns
+- Chairman, Northwest Transit District – where he played a critical role in saving the district from closure
+- Secretary, Connecticut Council of Small Towns (COST)
+- Member, Government Relations Committee, Northwest Chamber of Commerce
+- Active with the Connecticut Conference of Municipalities, consistently fighting against Hartford's overreach and testifying on legislation to protect taxpayers from costly unfunded mandates
+In 2024, Mike worked alongside former State Senator Lisa Seminara to shut down a troubled DCF girls’ group home in Harwinton after numerous reports of sexual and physical assaults.
+He also exposed deeper issues with DCF and its subcontractors, working tirelessly to bring accountability and safety to the forefront.
+A Record of Fiscal Responsibility & Transparency
+Since his first successful election, Mike's work in Harwinton included:
+- Stopping backroom politics, increasing transparency and accountability in local government
+- Holding and cutting the town’s mill rate, delivering direct tax relief to Harwinton families
+- Negotiating contracts that have saved the town hundreds of thousands of dollars
+- Merging departments to eliminate waste and hired based on qualifications, not political favoritism
+- Doubling social services and increased infrastructure repairs without raising taxes
+- Securing millions in State and Federal grants, easing the burden on local taxpayers
+Modernizing a Town While Preserving its Character
+As Harwinton's first selectman, Mike has worked to bring Harwinton into the modern era without sacrificing its charm:
+- Launched online town services, including permits, property searches, and public works requests – available 24/7
+- Introduced CODE RED, a free town-wide emergency and non-emergency notification system
+- Installed modern cybersecurity systems to protect taxpayer funds
+- Created the first regional animal control program, saving Harwinton and neighboring towns significant resources
+- Established the Harwinton Opioid Outreach Program, in partnership with McCall Foundation
+- Adopted the Right to Farm Act, ensuring protections for farmers and homesteaders
+- Founded Harwinton’s first food pantry and teen youth services
+Additionally, Mike secured $2 million in infrastructure and building upgrades, with no additional tax burden to residents.

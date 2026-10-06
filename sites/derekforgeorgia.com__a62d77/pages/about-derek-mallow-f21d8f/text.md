@@ -1,0 +1,8 @@
+About
+Derek Mallow
+Derek didn’t have a father growing up, but he had a village that aided him every step of the way.
+He attended the United House of Prayer for all People, “The Savannah Mother House,” when he was a child and is currently a member of First Tabernacle Missionary Baptist Church located in historic downtown Savannah.
+After graduating from Savannah’s Jenkins High School, Derek earned a bachelor’s degree in leadership and ministry from Asbury University as well as a master’s in public administration from Savannah State University.
+In addition to serving in the Georgia House, Derek has served with the Boy Scouts of America for the past 13 years and has created many youth-focused programs throughout the district.
+He is also a member of Alpha Phi Omega, a national service fraternity; the 100 Black Men of Savannah, and Phi Beta Sigma Fraternity, Inc.
+info@derekforgeorgia.com

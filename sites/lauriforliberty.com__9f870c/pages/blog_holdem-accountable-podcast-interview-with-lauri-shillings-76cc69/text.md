@@ -1,0 +1,18 @@
+Hold’em Accountable Podcast interview with Lauri Shillings
+Lauri Shillings, Libertarian candidate for Indiana Secretary of State, joins Hold ’em Accountable for a conversation about one of the most overlooked offices in Indiana politics.
+Lauri argues that Indiana needs a Secretary of State focused on service, transparency, modernization, privacy, and nonpartisan administration.
+She says the office should work for voters, small business owners, county clerks, candidates, and every Hoosier trying to understand how government operates.
+In this interview, we talk about:
+- Indiana Secretary of State race
+- Lauri Shillings’ Libertarian campaign
+- Election transparency and public trust
+- Protecting voter privacy
+- Modernizing Indiana’s Secretary of State website
+- Making business filings faster and easier
+- Campaign finance disclosure and dark money
+- Helping voters know who is on their ballot
+- Election audits and public confidence
+- Supporting all 92 county clerks
+- Third-party candidates and ballot access
+- Why Libertarians need 2% to stay on Indiana ballots
+- Why more choices create more accountability

@@ -1,0 +1,3 @@
+“The Governor said during her State of the State that, over a decade ago, ‘we made a strategic decision to grow data centers by creating a tax exemption for them,’ but then asked, ‘Should taxpayers continue subsidizing the data center industry?’” said House Majority Leader Michael Carbone.
+“I think the same question should be asked of large, utility-scale renewable energy projects like wind and solar.
+Years ago, this state gave renewable energy projects a massive tax break, substantially more than data centers, and now it’s appropriate to ask whether it’s fair to have Arizona taxpayers continue subsidizing the renewable energy industry.”

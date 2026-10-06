@@ -1,0 +1,31 @@
+Priorities
+Delivering for Duluth
+Since 2022, I’ve been working to make government work for the people who call Duluth home—not make life harder.
+From working people and their families in every zip code, to Tribal Nations and communities too often left behind, we deserve a government that sees us, listens to us, and delivers for us.
+At a time of extreme racial and economic inequality, it’s time for corporations and the ultra-rich to pay their fair share so we can invest in our future.
+We must take bold, decisive action to stand up to oligarchy, rebuild our public goods, and unrig an economy that has been designed to benefit those at the very top.
+Because every Minnesotan deserves the opportunity to thrive: a safe and affordable home, clean air and drinking water, quality healthcare, a living wage, strong unions and worker protections, and a real chance to get ahead—and stay ahead.
+HOUSING
+Minnesotans are facing record high evictions as more than 580,000 households pay more than 30% of their income towards housing, putting a stable, affordable place to call home out of reach for too many neighbors.
+As Vice-Chair of Housing Finance & Policy, I’m leading the fight alongside you for stronger tenant protections, create more affordable & workforce housing, and taxing the rich to secure a future that guarantees housing for all.
+ENVIRONMENT
+Protecting our beautiful, unique, and sacred land, air, and waters from the threats of climate change, extractive industry, corporate polluters, and beyond is protecting Minnesota.
+The next seven generations deserve clean water, protected public lands, good-paying union jobs, and a future built on care.
+I’ll always stand with our community to defend the sacred and do the will of Minnesotans.
+If we protect the water, the water will protect us.
+EDUCATION
+Education is how we build our future.
+Public schools are the heart of our communities.
+Yet, attacks on education over the past last two decades have pushed funding public education onto local communities in harmful ways, perpetuating opportunity gaps based on a child’s zip code, race, gender, and ability.
+I won’t back down in the fight for fully funded public schools, universal childcare, equitable opportunities, and an education system that puts students and families —not billionaires—first.
+COMMUNITY
+Everyone should feel safe and secure, regardless of race, gender, or geography.
+We need a stronger care and emergency response infrastructure to protect families and help them meet their caregiving needs.
+Worker’s Rights
+We must take a holistic approach to workforce development and to growing our economy.
+This means bolstering early childcare and education, supporting local entrepreneurship at all stages, building sustainable, resilient infrastructure, expanding arts and entertainment, and strengthening worker protections.
+As the only person in my family to have an MBA, I know that economic development is truly all about people.
+HEALTHCARE
+Healthcare is a basic human right and access to high-quality, affordable, comprehensive health care shouldn’t depend on your race, gender, ability, income, or what zip code you live in.
+As a proud member of the Minnesota Health Plan Caucus, I’m committed to fighting for a future that includes a single-payer universal healthcare system
+As your State Legislator, I will keep using our collective power to harness local, grassroots effort to directly influence, write, and shape both local and statewide policy to drive home new systems of care through community-led and community-centered solutions.

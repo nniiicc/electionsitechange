@@ -1,0 +1,2 @@
+Coffee Hour at Monarch September 28, 2026 | 8:00-9:30 Join me at coffee hour to ask questions, talk politics, or just chit chat!
+Monarch Market Cafe 10099 W Eleven Mile Rd, Huntington Woods ← Back To Events Other Events Coffee hour Oct 14 2026 Coffee Hour at Sabbath Coffee Roasters Royal Oak 8:00-9:30am See Event Info Coffee hour Oct 12 2026 Coffee Hour at Lucky Detroit Birmingham 8:00-9:30am See Event Info Coffee hour Oct 10 2026 Coffee Hour at Coffee & Bark 8:30-10:00 See Event Info

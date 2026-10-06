@@ -1,0 +1,98 @@
+The California Statewide Law Enforcement Association (CSLEA) Calls it an “ Easy Decision” to Endorse Former State Senator Lou Correa in his Bid to Represent California’s 46th Congressional District Seat.
+SANTA ANA, CA -- Continuing to forge ahead in his race for California’s 46th Congressional District, former State Senator Lou Correa earned the endorsement of the California Statewide Law Enforcement Association and it’s 7,000 public safety professionals.
+The endorsement comes amid an impressive groundswell of support from elected officials and statewide organizations alike, including endorsements from Congresswoman Nancy Pelosi, Congressman Raúl M.
+Grijalva, Democratic Whip Steny Hoyer, and the Orange County Labor Federation.
+In a letter to the Lou Correa for Congress campaign, the California Statewide Law Enforcement Association said the following regarding their endorsement:
+“ Your commitment to serve the State of California, and the emphasis and concern you expressed with issues related to public safety and law enforcement, made this an easy decision.
+Your continued dedication and commitment to safety through the Operation Kid Prints program, which has helped to fingerprint over 50,000 Orange County children, has gone a long way to protect our communities.
+For these reasons, CSLEA looks forward to having a great working partnership with you in the years ahead.”
+Upon learning of the endorsement, former State Senator Lou Correa remarked:
+“I’m honored to have the endorsement of the California Statewide Law Enforcement Association (CSLEA).
+I appreciate the support of such a diverse group of public safety officers who work hard and risk their lives to keep our neighborhoods and our families safe.
+As a California State Senator, I prioritized public safety services and safety programs for children and I will continue to do so in Congress.”
+Former Senator Correa won sweeping support in the June 7th Primary Election, capturing over 40,880 votes and 43.7% of total votes cast.
+With a triumphant finish, Correa pulled ahead with three times as many votes as the second place finisher.
+Beyond today's announcement, Correa has racked up widespread support from organizations and leaders, including:
+Organizations
+· The California Statewide Law Enforcement Association (CSLEA)
+· United Farm Workers of America (UFW)
+· California Police Chiefs' Association
+· Peace Officers Research Association of California (PORAC)
+· National Latino Peace Officers Association
+· California Small Business Association
+· Building Our Leadership Diversity (BOLD) PAC
+· International Union of Painters and Allied Trades District Council 36
+· International Union of Operating Engineers Local 501
+· Santa Ana School Police Officers' Association
+· Santa Ana Police Officers' Association
+· Anaheim Police Officer's Association Political Action Committee
+· Orange County Deputy District Attorneys
+· Garden Grove Firefighters Association
+· Californians for Humane Immigrant Rights Leadership Action Fund (CHIRLA Action Fund)
+· Orange County Business Council
+Orange County Deputy Sheriffs Association,
+Elected Leaders
+· House Democratic Caucus Chair & Congressman Xavier Becerra
+· Congressional Hispanic Caucus Chair and Congresswoman Linda Sánchez
+· Congresswoman & former State Assembly Speaker Karen Bass
+· Congresswoman Judy Chu
+· Congressman Juan Vargas
+· Congressman Alan Lowenthal
+· Congressman Pete Aguilar
+· Congressman Ted Lieu
+· Congressman Tony Cardenas
+· Congresswoman Norma Torres
+· Congressman Raul Ruiz, MD.
+· Congressman Ruben Gallego
+· Congressman Luis Gutierrez
+· Congressman Ruben Hinojosa
+· Congressman Filemon Vela
+· California’s State Treasurer John Chiang
+· California’s Superintendent of Public Instruction Tom Torlakson
+· California State Senate President Pro-Tem Kevin de León
+· California Board of Equalization Chair Jerome Horton
+· California Lt.
+Governor Cruz Bustamante (Ret.)
+· California Latino Legislative Caucus Chair and State Assemblyman Luis Alejo
+· California Legislative Black Caucus Chair & State Assemblyman Reggie Jones-Sawyer
+· California State Senator and former Air Force General Richard Roth
+· California State Senator & LGBT trailblazer Mark Leno
+· California State Senator & Labor Committee Chair Tony Mendoza
+· California State Assemblywoman & former San Diego Central Labor Council Leader Lorena Gonzalez
+· California State Senator Lois Wolk
+· California State Senator Jerry Hill
+· California State Assemblywoman Susan Talamantes–Eggman
+· California State Assemblyman Henry Perea
+· California State Assemblywoman Sharon Quirk Silva (Ret.)
+· California Supreme Court Justice, Hon., Cruz Reynoso (Ret.)
+· California State Assemblywoman Cristina Garcia
+· California State Assemblyman Jose Medina
+· Orange County Sheriff Sandra Hutchins
+· Santa Ana City Council Member Michele Martinez
+· Santa Ana Unified School District Board President John Palacio
+· Santa Ana Unified School District Clerk Valerie Amezcua
+· Santa Ana Unified School District Board Member José Alfredo Hernández, J.D.
+· Santa Ana City Councilwoman Angie Amezcua
+· Buena Park City Councilman Art Brown
+· Anaheim Union High School District Board President Annemarie Randle-Trejo
+· Anaheim Union High School District Board Member Al Jabbar
+· Anaheim City School District Board of Education President Bob Gardner
+· Anaheim City School District Board of Education Member Ryan Ruelas
+· Anaheim Police Chief John Welter (Ret.)*
+· City of Garden Grove City Council Member Kris Beard
+· Huntington Beach Unified School District Board Member Bonnie Castrey
+· Los Angeles City Councilman, past State Senator Gil Cedillo
+· Artesia City Council Member Ali Sajjad Taj
+Community Leaders
+· South County Labor Chair Ray Cordova*
+· Orange County-based LGBT activist Gregory Willenborg*
+· Pastor of the largest African American church in Orange County, the Rev.
+Mark E.
+Whitlock, Jr.*
+Correa served in the California State Senate, representing the 34th District, from 2006- 2014 and served the cities of Anaheim, Buena Park, Fullerton, Garden Grove, Santa Ana, Stanton and Westminster.
+Prior to the Senate, he served on the Orange County Board of Supervisors representing the 1st District.
+Before his time on the Board, Correa served in the California State Assembly representing the 69th District.
+*Titles for Identification Purposes Only.
+For more information, please visit www.LouCorrea.com.
+###
+Paid for by Lou Correa for Congress 2016.

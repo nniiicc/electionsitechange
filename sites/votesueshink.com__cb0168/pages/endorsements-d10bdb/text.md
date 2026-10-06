@@ -1,0 +1,126 @@
+ENDORSED BY:
+AFSCME
+AFL-CIO
+AFT American Federation of Teachers Michigan
+Anishinaabek Caucus of the Michigan Democratic Party
+Detroit Regional Chamber PAC
+EMILY’s List
+End Citizens United
+Equality Michigan
+Farm Bureau
+Humane World Action Fund
+IBEW 252
+Jackson County Democratic Party
+Michigan Association of Justice
+Michigan League of Conservation Voters LCV
+Michigan Education Association
+Michigan Nurses Association
+Michigan Regional Council of Carpenters & Millwrights
+LiUNA Local 499
+Michigan Corn
+MI List
+Michigan Pipe Trades Association
+Michigan Sierra Club
+Mom's Demand Common Sense Gun Distinction
+National Association of Social Workers—Michigan Chapter
+People’s Coalition
+Planned Parenthood Associates of Michigan
+Plumbers UA Local 190
+Progressive Turnout Project
+Pursuit of Justice Pac
+South Lyon Area Democrats
+UAW Region 1-A and 1-D
+UFCW
+United Steelworkers
+Voters Not Politicians
+Vote Pro Choice
+Washtenaw County Democratic Party-WCDP
+Western Washtenaw Dems
+State Lawmakers:
+Governor Gretchen Whitmer
+Jordan Acker, Regent - University of Michigan
+Diana McKnight-Morton-WCCC
+Senator Jeff Irwin
+Senator Stephanie Chang
+Senator Liz Brater (fmr)
+Jason Morgan, State Representative
+Jennifer Conlin, State Representative
+Morgan Foreman, State Representative
+Felicia Brabec, State Representative (fmr)
+Yousef Rabhi, State Representative (for)
+John Hansen, State Representative (fmr)
+Steve Tobocman, State Representative (fmr)
+Adam Zemke, State Representative (fmr)
+County & City Leaders:
+Lawrence Kestenbaum, Washtenaw County Clerk
+Shannon Beeman, Washtenaw County Commissioner
+Justin Hodge, Washtenaw County Commissioner
+Andy LaBarre, Washtenaw County Commissioner
+Jason Maciejewski, Washtenaw County Commissioner
+Caroline Sanders, Washtenaw County Commissioner
+Grace Shackman, Washtenaw County Commissioner (fmr)
+Barb Fuller, Washtenaw County Road Commissioner
+Roderick Green, Washtenaw County Road Commissioner
+Washtenaw County Water Resources Commissioner Evan Pratt (fmr)
+Janis Bobrin, Washtenaw County Water Resources Commissioner (fmr)
+Christopher Taylor, Ann Arbor Mayor
+Kate Henson, Chelsea Mayor
+Jane Pacheco, Chelsea Mayor (fmr)
+Lois Richardson, Ypsilanti Mayor (fmr)
+Diane O'Connell, Ann Arbor Township Supervisor
+Leslie Blackburn, Lodi Township Trustee
+Michael Moran, Ann Arbor Township Supervisor (fmr)
+Diane Ratkovich, Dexter Township Supervisor
+Will Hathaway, Scio Township Supervisor (fmr)
+Kathy Kennedy, Sylvan Township Supervisor(fmr)
+Erica Briggs, Ann Arbor Council Member
+Lisa Disch, Ann Arbor Council Member
+Kathy Griswold, Ann Arbor Council Member (fmr)
+Jeff Hayner, Ann Arbor Council Member (fmr)
+Elizabeth Nelson, Ann Arbor Council Member (fmr)
+Travis Radina, Ann Arbor Council Member
+Anne Bannister, Ann Arbor Council Member (fmr)
+Joan Lowenstein, Ann Arbor Council Member (fmr)
+Aidan Sova, Ann Arbor Library Trustee
+Sanam Arab, Dexter City Council Member
+Zach Michels, Dexter City Council Member
+Rena Basch, Ann Arbor Township Clerk (fmr)
+John Allison, Ann Arbor Township Trustee
+Kris Olsson, Ann Arbor Township Trustee
+Rodney Smith, Ann Arbor Township Trustee
+Michelle Buchta-Stamboulellis, Dexter Township Clerk
+Karen Sikkenga, Dexter Township Trustee
+Pat Kelly, Dexter Township Supervisor (fmr)
+David Gordon, Northfield Township Trustee (former)
+Lenore Zelenock, Northfield Township Treasurer (fmr)
+Jacqueline Courteau, Scio Township Trustee
+Kathleen Knol, Scio Township Trustee
+Brenda McKinney, Superior Township Treasurer
+Shelley Vrsek, Webster Township Trustee
+Tajalli Hodge, Ypsilanti Township Parks Commission Chair
+Jerry Clayton, Washtenaw County Sheriff (fmr)
+Community Leaders of Jackson and Washtenaw Counties (Partial List):
+Deb Polich and Russ Collins
+Andy Buchsbaum and Cathy Fleischer
+Sandra Hofman-Kingston
+Susan Dehncke
+Claire and Paul Tinkerhess
+Mary Gallagher and Ken, Magda, Eleanor and Liam Duck
+Michael Gasbarre
+Chris and Anne Savage
+Michael Steinberg
+Sarah Burns and Wes Dunnick
+Sylvia Nolasco Rivers and Joe Rivers
+Linda Etter
+Elaine Nowak
+Susan Lackey
+Steve and Mary Beth Day
+Joanne Martilla Pierson and Jerome “Pete” Pierson
+Dan Ezekiel
+Bryan Bowman
+Rick and Amy Bunch
+Cathy and Mike Muha
+Bill Brinkerhoff and Kathy Sample
+Christine Forsch
+Monica Day
+Sue does not accept money from corporate PACs.

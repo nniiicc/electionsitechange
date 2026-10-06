@@ -1,0 +1,12 @@
+Environmental Justice
+Lawmakers for too long have allowed corporate greed and environmental destruction to dominate public policy, all at the expense of the next generation’s future.
+Tennessee is rich in biodiversity, ranging from the Duck River, America’s most biodiverse river, to the old growth forests of the Smoky Mountains.
+From Antioch to the Appalachia, our fight for a greener future means building a multiracial, multiclass movement for environmental justice.
+In his first term, Justin has championed solutions for a livable future such as introducing an amendment to the Tennessee Constitution that would enshrine the right to clean air, clean water, and healthy environment for all Tennesseans– including future generations.
+He has also been a leading voice against the Republican-led rollback of environmental protections and has stood against corporate and industrial polluters who continue to put short-term profits over the health and safety of Tennesseans.
+Justin for years has organized with environmental justice groups, going to Standing Rock in 2016 in recognition of the critical need to center indigenous rights and sovereignty in the movement for a livable planet.
+He has also advocated for more green spaces in low-income communities of color and been an active champion of Tennessee’s state parks and natural areas.
+Justin is an amateur birder and passionate naturalist, filing legislation this session to raise awareness and protect Tennessee’s unique, threatened, and endangered species such as the Sandhill Crane, Whooping Crane, and Bog Turtle.
+Justin has served on the Tennessee House Agriculture and Natural Resource Committee, where he has spoken out against the destruction of our wetlands by corporate developers, and fought to protect the Duck River from waste dumping.
+His work took him to Maury County, where he met with farmers and concerned citizens from across the political spectrum, and he has continued to build community there.
+The victory showed the power of the diverse coalition, and showcased the way conservation and protecting the natural environment for generations to come goes across divides.

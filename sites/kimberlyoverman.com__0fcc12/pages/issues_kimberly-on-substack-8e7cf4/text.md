@@ -1,0 +1,32 @@
+Kimberly Overman
+for Congress
+Florida District 12
+Kimberly on Substack
+Kimberly writes regularly on Substack, where she works through the issues facing FL-12 in her own words — no talking points, no press filter.
+If you want to know where she stands on a specific issue, that’s the place to look.
+Here Is Where I Stand: My Platform for Florida’s 12th Congressional District – Aug 15, 2026 – Leadership that listens.
+Solutions that matter.
+A voter guide from Kimberly Overman, Democratic Congressional Candidate Florida District 12.
+The Affordability Crisis Is Real: Housing, Insurance, Childcare, Transportation, and Opportunity – Aug 13, 2026 – Where Kimberly Overman Stands on Affordable Housing, Cost of Living, and Economic Opportunity.
+Criminal Justice, Community Safety, Human Trafficking Prevention, and Equal Treatment Under the Law – Aug 13, 2026 – Where Kimberly Overman Stands on Criminal Justice, Community Safety, and Equal Treatment Under the Law.
+Government Should Work for People, Not Special Interests – Aug 12, 2026 – Where Kimberly Overman, Democratic Congressional Candidate for U.S.
+House of Representative FL District 12, Stands on Ethics, Accountability, Campaign Finance Reform, and Restoring Trust in Government
+Healthcare Should Not Depend on Your ZIP Code, Job, Gender, or Income – Aug 11, 2026 – Where Kimberly Overman Stands on Healthcare Affordability and Reproductive Healthcare Access
+Climate Resilience Is Affordability – Aug 11, 2026 – Where Kimberly Overman Stands on Climate, Clean Water, Resilience, and Environmental Justice
+Opportunity, Representation, and Respect – Aug 11, 2026 – Where Kimberly Overman Stands on Hispanic and Latino Communities, Opportunity, and Representation
+Foreign Policy, Human Rights, National Security, and Responsible U.S.
+Leadership – Aug 11, 2026 – Where Kimberly Overman Stands on Foreign Policy, Human Rights, and Responsible U.S.
+Leadership
+Democracy Works When Every Voter Has a Voice – Aug 11, 2026 – Where Kimberly Overman Stands on Voting Rights, Fair Districts, and Democracy Protection
+Strong Borders, Fair Laws, and Human Dignity – Aug 11, 2026 – Where Kimberly Overman Stands on Immigration, Due Process, and Family Unity
+Education Creates Opportunity – Aug 11, 2026 – Where Kimberly Overman Stands on Public Education, Teachers, Student Opportunity, and Workforce Readiness
+A Promise Should Be a Promise – Aug 11, 2026 – Where Kimberly Overman Stands on Social Security, Medicare, Pensions, and Retirement Security
+Workers Deserve Leadership That Listens – Aug 11, 2026 – Where Kimberly Overman Stands on Labor, Wages, and Workers’ Rights
+Protecting Women, Families, and Freedom – Aug 11, 2026—Where Kimberly Overman Stands on Women’s Rights, Reproductive Freedom, and the ERA
+Fuel a campaign powered by people, not special interests.
+Your support helps us connect with voters, grow our movement, and deliver real change.
+Chip in today to help Kimberly fight for Florida’s families and future.
+This movement starts
+with you.
+Whether you can knock doors, make calls, or share our message online—there’s a place for you on Team Overman.
+Sign up and help us bring integrity and results back to Congress.

@@ -1,0 +1,51 @@
+Skip to Content
+Menu
+Menu
+Assemblywoman Nicole Malliotakis
+Explore
+Accomplishments
+The Issues
+Endorsements
+Meet Nicole
+News
+In the News
+Watch
+Op-Eds
+Press Releases
+Take Action
+Volunteer
+Request a Sign
+Stay Informed
+Contact Us
+Explore
+Accomplishments
+The Issues
+Endorsements
+Meet Nicole
+News
+In the News
+Watch
+Op-Eds
+Press Releases
+Take Action
+Volunteer
+Request a Sign
+Stay Informed
+Contact Us
+DONATE
+DONATE
+Staten Island Advance
+Republican delegation asks city to open beaches, golf and tennis courts, citing mental health
+May 11, 2020
+NEXT ARTICLE
+Malliotakis: Reopening New York Starts with Common Sense Steps
+PREVIOUS ARTICLE
+Loved ones pack into the Island’s cemeteries as gates open up for Mother’s Day
+STAND WITH
+NICOLE
+Email Address
+*
+Zip Code
+*
+Δ
+Back to top

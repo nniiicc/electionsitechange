@@ -1,0 +1,7 @@
+2026 Legislative Session Wrap-Up
+Jun 29
+On Wednesday, May 13th, the House adjourned Sine Die!
+This marked the end of the 2026 legislative session.
+It was such an honor to be apart of this wonderful legislative body these past 8 years and serve as your House Majority Leader these past 4 years.
+House District 23 has been one of the greatest honor of my lifetime.
+I want to thank all my colleagues in the House for their support and commitment to passing the best policies for Colorado.

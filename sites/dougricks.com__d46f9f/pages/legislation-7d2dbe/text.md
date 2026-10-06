@@ -1,0 +1,14 @@
+Legislation
+District 34
+These are bills I sponsored while I was an Idaho State Representative 2019-2020.
+- H076 - E-Bike Bill https://legislature.idaho.gov/sessioninfo/2019/legislation/H0076/
+- H345 - Preventing predatory car booting for expired license plates https://legislature.idaho.gov/sessioninfo/2020/legislation/H0345/
+- H103 - Requires property tax cost disclosure on levy election ballots https://legislature.idaho.gov/sessioninfo/2019/legislation/H0103/
+- H518 - Puts expiration dates of bonds and levies on property tax statements https://legislature.idaho.gov/sessioninfo/2020/legislation/H0518/
+- H461 - Makes a uniform process for landlord/tenant post eviction process https://legislature.idaho.gov/sessioninfo/2020/legislation/H0461/
+- H486 - Updated UAS/ drone law for privacy and emergency responders https://legislature.idaho.gov/sessioninfo/2020/legislation/H0486/
+- H384 - Wrongful Conviction (Gov.
+Little vetoed), I will bring back next year https://legislature.idaho.gov/sessioninfo/2020/legislation/H0384/
+- H408 - Rexburg, Sugar City, and Iona to receive more sales tax redistribution https://legislature.idaho.gov/sessioninfo/2020/legislation/H0408/
+- H373 - Prison reform, expands inmate work opportunities in agriculture https://legislature.idaho.gov/sessioninfo/2020/legislation/H0373/
+- H379 - Corrects a party affiliation issue for the Idaho Presidential Primary https://legislature.idaho.gov/sessioninfo/2020/legislation/H0379/

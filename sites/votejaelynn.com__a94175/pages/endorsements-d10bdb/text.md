@@ -1,0 +1,65 @@
+CURRENT & FORMER ELECTED LEADERS
+- Bernie Sanders U.S.
+Senator
+- Pramila Jayapal U.S.
+Congresswoman
+- Katie Wilson Seattle Mayor
+- Shaun Scott State Representative, 43rd LD
+- Girmay Zahilay King County Executive
+- Chris Reykdal WA State Superintendent
+- Yasmin Trudeau State Senator, 27th LD
+- Rebecca Saldaña State Senator, 37th LD
+- Claire Wilson State Senator, 30th LD
+- Manka Dhingra State Senator, 45th LD
+- Nicole Macri State Representative, 43rd LD
+- Brianna Thomas State Representative, 34rd LD
+- Jamila Taylor State Representative, 30th LD
+- Darya Farivar State Representative, 46th LD
+- Chipalo Street State Representative, 37th LD
+- Natasha Hill State Representative, 3rd LD
+- Laurie Jinkins State Representative (Speaker of House), 27th LD
+- Tara Simmons State Representative, 23rd LD
+- Sharlett Mena State Representative, 29th LD
+- Liz Berry State Representative, 36th LD
+- Jorge Baron King County Councilmember
+- Teresa Mosqueda King County Councilmember
+- Joy Hollingsworth Seattle City Council President
+- Alexis Mercedes Rinck Seattle City Councilmember
+- Erika Evans Seattle City Attorney
+- Toshiko Hasegawa Port of Seattle Commissioner
+- Michelle Sarju Seattle School Board Director
+- Kathleen Smith Seattle School Board Director
+- James W Lovell SeaTac City Councilmember
+- Sam Doyle City Councilmember, Mount Lake Terrace
+- Dawn Mason Former State Representative, 37th LD
+COMMUNITY LEADERS
+- Leo Flor Chief Legacy Officer, Seattle FIFA World Cup 26
+- Monisha Harrell Former Senior Deputy Mayor
+- Danni Askini Executive Director, Gender Justice League
+- Tim Lennon Executive Director, LANGSTON
+- Caedmon Magboo-Cahill Policy Advocacy Director, ACLU-WA
+- Dominique Stephens Special Advisor on LGBTQ+ Affairs, Seattle Mayor's Office
+- Jackie Vaughn Executive Director, Surge Reproductive Justice
+- Dana Savage Assistant Attorney General
+- Deaunte Damper Community organizer; King County Regional Office of Gun Violence Prevention
+- Fatema Boxwala Founder and coalition leader, Tech4Taxes
+- Jamie Fackler Union leader; 37th District Democrats E-Board
+- Cindy Domingo Community Leader
+- Nilu Jenks Candidate for Seattle City Council
+- Catalina Velasquez Community Leader
+- Cheryl Jackson-Williams Community Leader
+- Hannah Sabio-Howell Candidate for State Senate, 43rd LD
+- Randy Ford Exec.
+Director of CD Forum
+- Darryl Glover Community Leader
+- John Page Community Leader
+- Andre Franklin Community Leader
+- Ry Armstrong Activist and labor organizer
+- Nick Allen Community leader
+- Edwin G Lindo Community leader
+- Bennyroyce Royon Community leader
+- Jackie Newman Community leader
+- Wes Stewart Community organizer
+- Andrew Ashiofu WA Stonewall Dem Chair
+- Bailey Medilo Community Organizer
+- Ayan Musse Community leader

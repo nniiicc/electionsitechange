@@ -1,0 +1,27 @@
+top of page
+SESSION 2023
+HOUSE BILLS SIGNED INTO LAW
+Co-Prime Sponsor of HJR 23-1022
+Joint resolution that directly contests 30 by 30 Public Land Executive Order
+Co-Prime Sponsor of HB 23-1125
+Modernize process to obtain water well information
+Co-Prime Sponsor of HB 23-1179
+Agricultural products inspection increase from 16.5% to 50%
+Co-Prime Sponsor of HB 23-1247
+Study on advanced energy alternatives in rural Colorado
+Co-Prime Sponsor of HJR 23-1014
+Designates Janurary 23rd of each year as USS Pueblo Day
+SENATE BILLS SIGNED INTO LAW
+Co-Prime Sponsor of SB 23-044
+Increases the number of qualified applicants to the Veterinary Education Loan Repayment Program
+Co-Prime Sponsor of SB 23-083
+Will allow all CO physician assistants to reach and meet medical needs of all Coloradoans, especially in rural and underserved communities
+Co-Prime Sponsor of SB 23-088
+Requires correctional facilities to notify victims of changes to release date of those who committed a crime against them
+Co-Prime Sponsor of SB 23-174
+Significantly expand mental health resources for children
+Co-Prime Sponsor of SB 23-186
+Requires an oil and gas commission study on methane seepage in the Raton Basin
+Co-Sponsor of SB 23-241
+Creation of the Office of School Safety to assist schools in responding to a crisis or emergency event
+bottom of page

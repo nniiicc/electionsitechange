@@ -1,0 +1,1 @@
+News Priorities & Structure February 23, 2021 by webmaster 0Comments Letter to the Editor: The appalling defense of ex-Governor Synder; Crains Detroit. https://www.crainsdetroit.com/letter-editor/letter-editor-appalling-defense-ex-gov-snyder?fbclid=IwAR2iV365sMy9mzOZ1RkWTwUtE-GFsn4wVAcLTP2Rp-vMQSBn71xIM1UzYzU Share: twitterfacebookyoutube

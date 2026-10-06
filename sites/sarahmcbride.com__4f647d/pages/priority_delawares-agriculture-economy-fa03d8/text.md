@@ -1,0 +1,9 @@
+Delaware’s Agriculture Economy
+Agriculture is Delaware’s largest industry and the backbone of our economy, supporting thousands of jobs, preserving our farmland, and sustaining communities across the First State.
+That’s why I hosted Delaware’s first-ever Congressional Agriculture Summit, bringing together farmers, agricultural leaders, and stakeholders from across the state to ensure their voices help shape federal policy.
+From rising input costs and tariffs to workforce shortages, avian influenza, and extreme weather, Delaware farmers deserve a seat at the table as Congress makes decisions that affect their livelihoods.
+I’ll continue fighting to strengthen Delaware’s agricultural economy, protect family farms and farmland, support our poultry industry, invest in the next generation of farmers, lower input costs, and advance bipartisan policies that help Delaware agriculture thrive for generations to come.
+In Congress, I’ve:
+- Cosponsored the Farm and Family Relief Act, to reverse harmful cuts to agriculture made in President Trump’s Big Ugly Bill by providing emergency relief for farmers, investing in specialty crops, forestry, and agricultural innovation, and helping farmers strengthen their operations, improve resilience, and continue feeding communities across the country.
+- After meeting with local poultry producers, I introduced the bipartisan SAVE Our Poultry Act, to support Delaware’s poultry industry by strengthening research into highly pathogenic avian influenza and helping prevent devastating outbreaks that drive up the cost of chicken, threaten jobs, and disrupt the food supply.
+- Supported the Local Farmers Feeding Our Communities Act, to strengthen local food systems by helping schools, food banks, and other community organizations purchase food from local farmers while supporting small and beginning producers.

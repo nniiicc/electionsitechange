@@ -1,0 +1,39 @@
+Marion, IA – Ashley Hinson today released her policy priorities to quickly lower costs and make life more affordable for hardworking Iowans, outlined below.
+Hinson spoke alongside Story County farmer Dave Struthers and Iowa mom Deb Stoner on the importance of commonsense policies that will make life affordable for Iowans.
+Liberal Josh Turek would work with Chuck Schumer and the Radical Left to raise taxes on working families and approve trillions of dollars in wasteful spending that would push costs even higher and squeeze Iowans even more.
+He would end no tax on tips, overtime, and Social Security, cut the child tax credit in half, and raise taxes on small businesses and family farms and vote with Chuck Schumer to increase taxes to pay for the radical Left’s agenda.
+“Iowans are paying the price for Washington’s failures, and they deserve real relief that actually lowers costs.
+I’ve worked across the aisle to expand access to high-quality childcare, hold Big Health Insurance accountable, and make housing more affordable, and I’ll keep putting Iowa taxpayers first,” said Ashley Hinson.
+“The last thing families need is Josh Turek in the Senate, where he’d back Chuck Schumer’s liberal agenda.
+While Turek would end no tax on tips, overtime, and Social Security, I’ll fight to make this tax relief permanent for hardworking Iowans.
+We have to work together to make life more affordable, but Turek offers more of the same liberal policies that failed Iowans before.”
+Ashley’s Affordability Agenda:
+- Lower gas and diesel prices
+- Make year-round E15 the law
+- Suspend the state and federal gas tax temporarily
+- Pause diesel exports and restore the $1/gallon biodiesel tax credit
+- Create a diesel relief program to support farmers and truckers
+- Support additional permitting reform to allow for more refining capacity and domestic energy production
+- Make the tax cuts for working families permanent
+- Make no tax on tips, overtime, and Social Security permanent
+- Protect the enhanced child tax credit and stronger childcare provisions
+- Defend the tax cuts for small businesses on Iowa’s main streets
+- Hold Big Pharma and Big Health Insurance companies accountable
+- Force big health insurance companies to publish claim delays and denials that hurt patients and seniors
+- Protect the $50 billion secured for rural healthcare and improve maternal care options
+- Stop surprise medical bills for new parents
+- Continue PBM reform to lower costs of prescription drugs and support independent pharmacies; make safe birth control options available over-the-counter for adult women
+- Make homeownership affordable and attainable
+- Let Iowans save more money tax-free for a down payment
+- Prevent Wall Street investors from buying up single-family homes in Iowa
+- Cut red tape to spur more housing construction, including through bipartisan permitting reform
+- Lower childcare costs for working families
+- Deliver affordable childcare for parents who work non-traditional hours
+- Modernize federal childcare grants so that those dollars reach Iowa communities faster to expand access to affordable childcare – no matter the zip code
+- Allow working parents to use tax-free dollars in 529 accounts to pay for childcare
+- Lower the cost of feeding and fueling America
+- Stop states like California from putting Iowa family farms out of business
+- Hold fertilizer companies accountable for price fixing
+- Increase antitrust enforcement and invest in small- and medium-sized processing capacity
+- Protect Iowa farmland from China and other foreign adversaries
+###

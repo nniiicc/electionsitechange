@@ -1,0 +1,35 @@
+CHARITY MARTIN KING
+Charity believes that strong communities are built through intentional leadership and shared opportunity.
+For more than three decades, she has worked across businesses, educational institutions, and civic spaces to design strategies that connect people to pathways of economic mobility and lifelong learning.
+Her career reflects a deep commitment to aligning people with workforce systems, entrepreneurship, and community-driven solutions in ways that create lasting impact.
+Charity has held academic and leadership roles at The Ohio State University, worked with K–12 students as an I Know I Can advisor, and varsity basketball head coach at Eastmoor Academy High School.
+She has led nonprofit organizations and cross-sector partnerships.
+Her experiences have allowed her to develop and scale various initiatives in career pathways alignment, community-engaged learning, responsive leadership training, and experiential education models.
+She is co-founder of the Non-Profit Organization, LEAD WITH PURPOSE, that provides consulting services to non-profits and facilitates the Summer Academy for Girls. lwpacademy.com
+Charity is also the former proprietor of Urban Spirit Coffee House, a social enterprise incubator.
+Charity created a space where entrepreneurship, education, and civic dialogue converged.
+The venture served as a platform for emerging leaders, small businesses, and community partners to collaborate and grow, demonstrating her long-standing commitment to innovation grounded in community.
+Her leadership is authentic and action-oriented, grounded in a deep commitment to connecting people with meaningful opportunities to serve and strengthen the greater community.
+She believes real impact happens when individuals, organizations, and institutions work together toward a shared vision.
+Through collaboration, mentorship, and strategic partnerships, she creates pathways for others to lead, give back, and build lasting change that benefits the entire community.
+She is a skilled facilitator and speaker (A.
+Philip Randolph Institute, Bayard Rustin Speaker at Wilberforce University, Eastmoor High School graduation Keynote, Moderator for OSU ~Matthew Cherry & Tabitha Brown...and MORE!)
+Charity has earned a dual Bachelor’s degrees in Political Science and African American Studies, a Master of Science in Agricultural Communication, Education & Leadership, and is a PhD Candidate at The Ohio State University, where her research explores global approaches to community building.
+(HONORS & AWARDS Abbreviated List)
+- Recipient of the Governor’s Excellence in Community Education Award
+- Recognized by the Ohio Senate
+- Recognized by the Columbus City Council
+- Recognized by the Columbus City School Board
+- The Ohio State University Mortar Board Awardee
+- Columbus Landmarks Business Design Award
+- Recipient of the National Pan-Hellenic Council Woman of the Year Award
+- The Omega Psi Phi Fraternity Incorporated, Citizen of the Year Award
+- Recipient of the Tom Joyner Morning Show “Hardest Working Entrepreneur” Award
+- Honorary Ohio State University Residence Life Society Inductee
+- The Ohio State University Office of Diversity and Inclusion: Excellence Award
+- The Ohio State University Office of Student Life: Outstanding Staff Award
+- Inducted into the 115th Class of SPHINX Senior Honorary
+- Iota Phi Theta 9 Who Care Award
+- Alpha Phi Alpha Fraternity Jewell Award
+- Who's Who Black Columbus "Game Changer"
+- Columbus Alive "People to Watch"

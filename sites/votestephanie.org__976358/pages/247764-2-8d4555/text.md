@@ -1,0 +1,9 @@
+You’re Invited: Upcoming Town Hall
+As we head toward the 2026 General Legislative Session, I’m hosting a pre-session town hall and legislative advocacy training this Saturday evening, and I’d love for you to join me.
+This will be a great opportunity to talk through the issues heading into the session, share my priorities, and, just as important, help you learn how to effectively engage in the legislative process and make your voice heard.
+📅 Saturday, January 10
+🕖 7:00 PM
+📍 3688 E Campus Dr #101, Eagle Mountain, UT 84005
+Good policy starts with informed and engaged citizens.
+Whether you’re brand new to advocacy or already involved, this will be a practical, encouraging conversation about how we work together to keep government accountable and responsive.
+I hope to see you there.

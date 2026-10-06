@@ -1,0 +1,186 @@
+Privacy Policy
+Privacy Policy Overview
+Welcome to the official website or mobile application (the Sites) of Scott Petersen for Secretary of State.
+This Privacy Policy outlines our practices for the collection, use, and disclosure of your information that you provide to us when you use our Site and other Scott Petersen for Secretary of State mobile applications that display this policy (the Sites).
+By using these Sites, you agree that your use of the Sites is governed by this Privacy Policy and our Terms of Service.
+From time to time, we may update this Privacy Policy.
+We encourage you to check this Site for updates periodically.
+We will alert you to changes that have been made by indicating on the Policy the date it was last updated.
+Your continued use of the Site affirms your agreement to any changes we make to this Privacy Policy.
+VoterTree Privacy
+VoterTree has additional privacy protections that differ from the general practices described in this Privacy Policy.
+VoterTree is a personal voter-outreach tool made available through Petersen for Nebraska.
+Your private VoterTree is not provided to Petersen for Nebraska, any candidate, candidate committee, or outside political organization.
+Information you enter into VoterTree—including your VoterTrees, voter selections, checklist activity, notes, and outreach activity—is private to your VoterTree account and is not used for campaign marketing or advertising.
+VoterTree does not sell or rent your personal information or use information contained in your private VoterTree to build advertising audiences or third-party marketing profiles.
+VoterTree uses separate technical infrastructure and privacy practices.
+The VoterTree-specific provisions below govern information collected and maintained through the VoterTree application.
+If there is a conflict between the general provisions of this Privacy Policy and the VoterTree-specific provisions, the VoterTree provisions control with respect to VoterTree data.
+Information Collected and How it is Collected
+Voluntary Information: We may collect personal information that you voluntarily provide to us, including your name, e-mail address, postal address, phone number, mobile number, and geographic location.
+You may provide this information when you request information, register, make a purchase, send us an email, sign up to receive email or text message updates, connect through a social feed, fill out a form, or for other purposes.
+We may also collect demographic information such as gender, date of birth, occupation, employer name, and zip code.
+When this information is linked to personally identifiable information, it will be treated as voluntary personal information.
+In limited circumstances, we may collect payment information such as a credit card number where needed to complete a requested service or transaction.
+Voluntary personal information does not include aggregate data (data about a group or category of users that has been stripped of identifiable information about individual users) that we may collect about the use of the Sites.
+This policy does not restrict our collection and use of such aggregate information.
+By requesting information on your mobile phone, we may obtain the following information from you in connection with our
+SMS service: your cell phone number, your carrier’s name, and the date, time, and content of your messages, as well as other information that you provide.
+We will use such information under this Privacy Policy.
+Automatically Generated Information: We may also collect non-personally identifiable information that is generated automatically while you are visiting the Site or elsewhere on the Internet when our advertisements are served, also known as log files.
+This data includes, but is not limited to, information such as IP address, web pages visited before and after visiting the Site, date and time, domain type, type of mobile device you use, your device’s unique ID, web pages you view and links you click on within the Site and interactions with our advertisements delivered by us or advertisements supplied by a third-party advertising technology vendor.
+This type of information may be collected using different types of technologies, such as cookies and pixels.
+An IP address, for example, is a unique identifier that specific electronic devices use to identify and communicate with each other on the Internet.
+When you visit our Site, we may view the IP address of the device you use to connect to the Internet.
+We use this information to determine the general physical location of the device and understand from what regions of the world our Site visitors come.
+We may also use your non-personally identifiable information to enhance our Site.
+All Site users remain anonymous unless they choose to give us their personal information.
+You may elect not to allow us to collect and use this non-personally identifiable data as part of our Service by following the Opt Out procedures described below.
+VoterTree Information: When you create and use a VoterTree account, you may provide information necessary to establish and operate your account, including your:
+- Name
+- Address
+- Email address
+- Username
+- Password
+- Political party
+As you use VoterTree, you may also create VoterTrees, select voters, complete outreach checklists, and enter notes or other information related to your personal outreach.
+This information is used to provide and operate the VoterTree service.
+Cookies and Other Technologies
+Overview: We may use cookies and other technologies to obtain certain types of information when your web browser accesses the Site or visits a website in our network.
+“Cookies” are small pieces of information that are stored by your browser at the request of a website.
+Cookies help us improve your experience on our Sites; however, if you wish to block, erase, or be warned of the use of cookies, please refer to the paragraph below entitled Disabling Cookies or to your browser manufacturer.
+When you view a video on our Sites, a third party may also set a “flash cookie” on your computer.
+Since removing and rejecting browser cookies may not also remove or reject flash cookies, you will also need to visit www.adobe.com/products/flashplayer/security to delete or disable flash cookies.
+Rejecting or removing browser or Flash cookies may affect certain features of our Sites.
+This website uses third-party vendors such as Google to help analyze how users use the site.
+For example, Google Analytics uses cookies to collect standard Internet log information and visitor behavior information in an anonymous form.
+The information generated by the cookie about your use of the website (including IP address) is transmitted to Google.
+This information is then used to evaluate visitors’ use of the website and to compile statistical reports on website activity for Scott Petersen for Secretary of State.
+Google Analytics collects information anonymously.
+Google will not associate your IP address with any other data held by Google.
+Neither Scott Petersen for Secretary of State, nor Google will link, or seek to link, an IP address with the identity of a computer user.
+We will not associate any data gathered from this site with any Personally Identifiable Information from any source, unless you explicitly submit that information via a fill-in form on our website.
+It reports website trends without identifying individual visitors.
+You can opt out of Google Analytics without affecting how you visit our Site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit this Google page: https://policies.google.com/privacy?hl=en.
+We may use other companies to set cookies on our Site and advertisements and collect cookie data on our behalf.
+In some cases, we may also use another company to operate web servers or process credit card purchases for our Site.
+The Site may use cookies and other technology to speed navigation and keep track of items and to gather anonymous traffic data that we may use to enhance the Site, our Services, marketing, and other internal purposes.
+This Policy does not apply to, and Scott Petersen for Secretary of State is not responsible for, cookies used by third parties.
+If you select “remember me” on your computer when logging on to the Site, Scott Petersen for Secretary of State will set a persistent cookie to store your username and password so that you do not have to enter them more than once.
+It also allows us to send confirmations, receipts, updates, alerts, support, and administrative messages, and otherwise facilitate your use of and our administration and operation of the Site.
+The persistent cookie also enables Scott Petersen for Secretary of State to track and target the interests of users to enhance the experience on the Site.
+The persistent cookie is removed when you uncheck the “remember me” check box.
+Disabling Cookies: The “Help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting cookies, how to have the browser notify you when you receive cookies, and how to disable cookies altogether.
+Note that if you reject or block cookies, it may affect your ability to enjoy the full functionality and experience of our Site.
+Web Beacons: Pages of our Site and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit Scott Petersen for Secretary of State, for example, to count users who have visited those pages or [opened an e-mail] and for other related web site statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+VoterTree Exception: The foregoing provisions regarding advertising and marketing analytics do not apply to private VoterTree data.
+VoterTree does not use information contained in your personal VoterTree to build advertising audiences or third-party marketing profiles.
+Information Use and Sharing
+Use of Personal Information: If we receive your personal information, we will only use it for the purposes described where it is collected or otherwise described in this Privacy Policy.
+We may share this information outside of Scott Petersen for Secretary of State if (1) you authorize us to do so; (2) it is necessary to allow our service providers or agents to provide products or services for us, (3) it is necessary in order to provide our products or services to you (and contacting you when necessary), (4) subject to applicable contractual or legal restrictions, it is disclosed to entities that perform marketing services on our behalf or to other entities with whom we have service agreements, (5) subject to applicable contractual or legal restrictions, it is necessary in connection with a sale of all or substantially all of the assets of Scott Petersen for Secretary of State, (6) it is necessary in connection with other business purposes including, without limitation, responding to your inquiries or requests for information or services, customer care, service quality, business management and operation, risk assessment, security, fraud and crime prevention/detection, monitoring, research and analysis, customer purchasing preferences and trends, dispute resolution, credit checking and debt collection, (7) it is necessary to disclose in order to protect or defend our rights or property or those of our users, (8) it is necessary to disclose in order to protect the personal safety of our users or the public, (9) it is necessary for us to provide it to our attorneys, accountants, regulators, auditors or other advisors, or (10) otherwise as we are required or permitted by law or required to comply with legal process served upon us, our agents, representatives or our affiliates.
+We may also aggregate your personal information with the information of others and may disclose such information in aggregate form for marketing and promotional purposes in a way that would not identify you individually.
+All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+Use of Non-Personally Identifiable Information: Scott Petersen for Secretary of State or our service providers or agents that provide services for us may use non-personally identifiable information as part of the Services to better tailor advertisements and other content in an effort to create a more relevant experience for each person that visits the Site or elsewhere on the Internet.
+This non-personally identifiable information may also be used to predict responses to advertisements, to help determine which ads perform best and which content is most appropriate for different individuals, to measure and optimize the effectiveness of ads, and to provide aggregate reporting to our service providers or agents and for our and their internal purposes.
+Nothing herein restricts the sharing of aggregated, non-personally identifiable information with third parties.
+We use various website analytics tools and technologies regarding activities on our Site that require the storage of web session data.
+The overall aim of these tools is to make our Site easy to use, to proactively identify and correct error conditions, and to provide more relevant advertising and content to you.
+These tools and technologies are also used to assist Site visitors who report problems with our Site.
+Stored web session data is used under this Privacy Policy.
+No mobile phone information will be sold or shared with third parties for promotional or marketing purposes.
+Third Party Use of Cookies: We use cookies to compile aggregate non-personally identifiable data about Site traffic and Site interaction so that we can offer better Site experiences and tools in the future.
+We may also share non-personally identifiable information with companies such as agencies, ad networks, or exchanges to enable them to analyze user behaviors or to customize the ads that you encounter.
+Contests and Other Promotions: On our Site, you may wish to participate in contests and other promotions that we may offer from time to time.
+Through these promotions, you may choose to participate in activities such as sharing information found on our Site with others and sending e-mail invitations.
+In connection with any contests and other promotions that we may offer from time to time via our Site, we use the information you provide to administer these promotions.
+Subject to applicable contractual or legal restrictions, we also may use the information to communicate with you, or the other people you select, about our products and services, or our service providers or agents, or partners may use such information to communicate with you about the contests and other promotions, or their products and services.
+If you choose to participate in these promotions and are eligible to do so, we may ask you for information such as your name, e-mail address, date of birth, and telephone number.
+VoterTree Privacy & Data Use: Your VoterTree is yours.
+Your VoterTrees, voter selections, checklist activity, notes, and related activity are private to your account.
+VoterTree does not sell or rent your personal information or provide your private VoterTree information for third-party marketing purposes.
+Petersen for Nebraska, other candidates, candidate committees, political campaigns, and outside organizations do not receive or have access to your private VoterTree, voter selections, notes, checklist activity, or outreach activity.
+Other VoterTree users cannot view your private VoterTree or determine whether you have selected or added a particular voter.
+Information entered or generated through VoterTree is used to provide and operate the VoterTree service and is not separately collected for campaign marketing purposes.
+Voter Registration Information: VoterTree uses voter-file information within its secure application environment to help users identify voters and build and manage their personal VoterTrees.
+VoterTree may display information associated with voter records, such as a voter's name, address, political party, political districts, and election-participation history.
+VoterTree does not know or reveal how anyone voted.
+Election-participation history may indicate whether a person participated in a particular election.
+It does not reveal which candidate, party, ballot measure, or issue that person voted for.
+Ballot choices remain private.
+VoterTree Service Providers: VoterTree may rely upon technical infrastructure and service providers necessary to operate and maintain the service, such as hosting, database, email, authentication, security, and backup services.
+Those systems may process information as necessary to provide and maintain VoterTree but are not used by VoterTree for campaign marketing or advertising purposes.
+Third Party Features
+Third Party Links: For your convenience, we may include or offer third-party offers, products, or services on our Site.
+Third-party vendors may use cookies or other technologies to serve ads on other websites based on your visit to this Site and other websites on the Internet.
+We cannot be responsible for the privacy practices of any websites or pages not under our control, and we do not endorse any of these websites or pages, the services or products described or offered on such sites or pages, or any of the content contained on those sites or pages.
+Nonetheless, we seek to protect the integrity of our Site and welcome any feedback about these websites.
+You should familiarize yourself with the privacy policies of these third parties before disclosing information to them directly.
+Social Media Platforms and Websites: Any information, communications, or material of any type or nature that you submit to our Site (including, but not limited to any of our pages contained on a social media platform or web site such as Facebook or Twitter) by e-mail, posting, messaging, uploading, downloading, or otherwise (collectively, a “Submission”), is done at your own risk and without any expectation of privacy.
+We cannot control the actions of other users of any social media platform or website, and we are therefore not responsible for any content or Submissions contained on such sites and platforms.
+By visiting any of our pages or websites that are contained on a social media platform or website, you are representing and warranting to us that you have reviewed the applicable privacy policy and terms of use of such platform or website and that you will abide by all such provisions contained therein.
+Additionally, if we offer a message board or any other interactive or social-type feature on a website administered directly by us, please be aware that these areas may allow you to publicly post, and share with other users, specific messages, content, or other information (e.g., stories, pictures, ingredients, tips, etc.).
+Although we may take certain precautions to protect those who use these areas of one of our websites, we encourage you to be wary of giving out any personal information in such public forums.
+The information you post can be collected and used by people you don’t know.
+We cannot guarantee the privacy and safety of these areas and are therefore not responsible for any information you choose to post.
+Your use of these features is fully at your own risk.
+Email Signups
+E-mail: We appreciate your questions and comments about our Site and services, and welcome your e-mails and questions submitted to our Site.
+We will share your messages with those within our organization who are most capable of addressing the issues contained in your message.
+We may archive your message for a specific period or discard it, but your e-mail address and message will only be used under this Privacy Policy.
+Submitting your e-mail: Except for information provided through VoterTree as described in the VoterTree Privacy & Your Data provisions of this Policy, submitting your email address through campaign forms or other features of the Site may result in your email address being added to Scott Petersen for Secretary of State's email list.
+You may unsubscribe from Scott Petersen for Secretary of State’s e-mails at any time by opting out of e-mail subscriptions with the “unsubscribe” link included in each e-mail or by following the Opt-Out procedures provided below.
+Your e-mail address will be removed from our marketing list.
+Please allow us a reasonable period to satisfy your request, as some promotions may already be in process.
+Suggesting the Site to a Friend: If you elect to use any feature that includes suggesting a page to a friend or to inform a friend about the Site, or solicit donations, pledges, or otherwise communicate, Scott Petersen for Secretary of State may ask for your friend’s name and e-mail address.
+The Site may automatically send the friend a one-time e-mail inviting them to visit the Sites or otherwise provide the information requested by you.
+Scott Petersen for Secretary of State will store and use this information under this Privacy Policy.
+Your friend may contact Scott Petersen for Secretary of State to request the removal of this information from our databases.
+Security
+We employ and maintain technology and security measures designed to protect your personal information.
+However, no data transmission over the Internet can be guaranteed as 100 percent secure.
+As a result, while we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us or receive from us.
+Security
+Passwords and Account Security: Passwords are never stored in plain text or using reversible encryption.
+Passwords are protected using one-way password hashing.
+VoterTree also uses standard security measures designed to protect information within the application.
+Information transmitted between your device and VoterTree is protected using TLS encryption.
+Information maintained by the service is protected using standard encryption protocols at rest.
+No internet-based system can guarantee absolute security, but VoterTree takes reasonable measures designed to protect the information entrusted to the service.
+Account and Data Deletion
+VoterTree Account & Data Deletion: If your VoterTree account is deleted, the trees, notes, and related records associated with the account are permanently removed from the active system.
+Information contained in automated server backups may remain temporarily as part of routine backup processes.
+Those backups expire and are purged according to the system's standard retention cycles.
+Backup copies are maintained for system recovery and security purposes, not for marketing or continued use of deleted VoterTree information.
+Opt Out
+Overview: We may use non-personally identifiable information to provide more relevant advertising and content.
+If you elect to opt out of this type of advertising, we will place a cookie on your browser computer to flag that we should not collect data to tailor advertising to your browser.
+If you delete your cookies, install a new browser, or use a different computer, you may need to revisit this page to opt out.
+You can also visit the Digital Advertising Alliance site, by clicking here www.aboutads.info/choices, to opt out of interest-based advertising from other third parties using cookies.
+In addition, you may email us at admin@petsenfornebrask.com requesting to opt out of our collection of specific data.
+Children
+We strongly encourage parents and guardians to regularly monitor and supervise their children’s online activities.
+We do not knowingly collect personal information from children under 13.
+Visiting our Site from outside of the United States
+If you are visiting our Site from outside of the United States of America, please be aware that your information may be transferred to, stored, or processed in the United States, where our servers are located, and our central database is operated.
+The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy.
+By using our Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
+Contact Us
+Please contact us if you have questions about our Privacy Policy at admin@petersenfornebraska.com.
+You may also write to us at the following address:
+Scott Petersen for Secretary of State
+4121 S 87th Street
+Omaha, NE. 68127
+VoterTree Privacy Questions:
+VoterTree / MAGA Wins, LLC
+privacy@votertree.net
+SMS Terms of Service
+Go to PetersenForNebraska.com to sign up to receive fundraising solicitations and campaign notifications from Scott Petersen for Secretary of State, by registering your mobile number with us.
+After signing up, you will receive a text message from us at your mobile number.
+Message frequency may vary.
+Msg&Data Rates may apply.
+Compatible carriers include: AT&T, T-Mobile®, Verizon Wireless, Sprint, Boost, Alltel (Verizon Wireless), U.S.
+Cellular, Cellular One, MetroPCS, ACS/Alaska, Bluegrass Cellular, Cellular One of East Central Illinois, Centennial Wireless, Cox Communications, EKN/Appalachian Wireless, GCI, Illinois Valley Cellular, Immix/Keystone Wireless, Inland Cellular, Nex-Tech Wireless, Rural Cellular Corporation, Thumb Cellular, United Wireless, West Central (WCC), Cellcom, C Spire Wireless CellSouth, Cricket, Cincinnati Bell and Virgin Mobile®.
+Carriers are not liable for delayed or undelivered messages.
+To discontinue receiving SMS messages from Scott Petersen for Secretary of State, text STOP to any of our messages.
+For additional help, text HELP or contact admin@petersenfornebraska.com.
+Scott Petersen for Secretary of State respects your right to privacy.

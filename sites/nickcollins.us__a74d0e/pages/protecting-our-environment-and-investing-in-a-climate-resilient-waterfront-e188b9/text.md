@@ -1,0 +1,12 @@
+Protecting our Environment and Investing in a Climate Resilient Waterfront
+Throughout my time in the Senate, I have supported policies that promote clean air and water, invest in climate resilience, and ensure that all communities—especially those historically overburdened by pollution—have a voice in environmental decision-making.
+At the State Senate this year, I supported the Mass Ready Act, a $3.64 billion environmental bond bill that protects infrastructure from climate change and severe weather, safeguards drinking water, and advances environmental protection, including limits on single-use plastics.
+As part of that effort, I filed an amendment to establish a commission on resilient urban coasts to identify barriers that delay climate resilience projects and streamline permitting so communities can act more quickly.
+This includes large-scale solutions that protect entire neighborhoods, not just individual properties, and projects that cross municipal boundaries and public and private land.
+The commission will also bring together state officials, environmental experts, and local stakeholders to align priorities and cut through the fragmentation that often delays progress.
+The bill also makes targeted investments in coastal communities across Boston, including funding for nature-based solutions and real-time monitoring along our waterfront and harbor.
+It also supports major capital improvements to the Boston Harbor Islands, protecting one of our region’s most important natural and recreational resources.
+Closer to home, the bill invests in resilience upgrades at the Boston Children’s Museum and along the Fort Point Channel, safeguarding key cultural and economic assets in the Seaport.
+It also advances critical planning and engineering work in Dorchester, from Davenport Creek to the Dorchester Bay Basin and nearby parks.
+These investments will strengthen flood protection and reflect a more comprehensive approach to climate resilience.
+This is not about one project or one neighborhood, but about protecting our city’s entire coastline and building the infrastructure it takes to be a resilient Boston.

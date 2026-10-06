@@ -1,0 +1,3 @@
+top of page
+PAID FOR BY MICHAEL LANKFORD FOR TN, JEFF HENLEY TREASURER
+bottom of page

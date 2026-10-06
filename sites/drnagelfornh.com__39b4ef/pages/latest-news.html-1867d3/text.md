@@ -1,0 +1,50 @@
+Latest News
+Nagel running for reelection to Statehouse, now as Democrat | Elections | laconiadailysun.com
+David Nagel, Tory Jennison: Protect Our Healthcare, a Conversation on the State of Healthcare in New Hampshire: https://youtu.be/gBDaoxGJRXU
+David Nagel: Voters do matter and united, we can change the world | Letters To Editor | laconiadailysun.com
+Rep.
+David Nagel: More on changing party affiliation to serve constituents | Letters To Editor | laconiadailysun.com
+Lawmakers want insurance companies to cover pain treatment alternatives to opioids • New Hampshire Bulletin
+Rep.
+David Nagel, MD: Standing up for what one believes is duty as citizen, physician | Letters To Editor | laconiadailysun.com
+Letter: Rep.
+David Nagel, Thank You! - Concord Monitor
+Rep David Nagel: Bipartisan coalition has potential to bridge gap, create meaningful policy | Letters To Editor | laconiadailysun.com
+Rep.
+Mike Bordes: Fear, bullying in legislative halls can discourage creativity, prevent doing best for constituents | Letters To Editor | laconiadailysun.com
+Rep.
+David Nagel: Use July 4 as a springboard to write a better future | Letters To Editor | laconiadailysun.com
+Rep.
+David Nagel: People over party – Why I’m changing my party affiliation | Op-eds | unionleader.com
+Rep.
+David Nagel: People over party: Why I’m changing my party affiliation | Columns | laconiadailysun.com
+Why this New Hampshire representative switched political parties | New Hampshire Public Radio
+Gilmanton state rep leaves the GOP and joins the Democratic Party • New Hampshire Bulletin
+New Hampshire Rep.
+David Nagel leaves GOP for Democrats - Concord Monitor
+Belknap County Republican House Member Joins Democratic Minority - InDepthNH.orgInDepthNH.org
+NH Rep.
+David Nagel Switches to Democrat, Citing Party Alignment Issues - News Usa Today
+Rep.
+David Nagel switches party affiliation to Democrat | Elections | laconiadailysun.com
+Rep.
+David Nagel: There are a couple more bills deserving of Ayotte's veto | Op-eds | unionleader.com
+Rep.
+David Nagel: The impact of bills banning gender-affirming care | Columns | laconiadailysun.com
+Susan Smith: Only some reps have courage to vote in readers' best interests | Letters To Editor | laconiadailysun.com
+GOP House member says party leaders tried to intimidate him before booting him off committee | News From The States
+PressReader.com | NH GOP House member says party leaders tried to intimidate him
+NH GOP House member says party leaders tried to intimidate him
+Susan Smith: Do we elect representatives to just support their political party? | Letters To Editor | laconiadailysun.com
+David Nagel: Candidate promised to bring sensibility to Concord, and has done so | Letters To Editor | laconiadailysun.com
+Prudy Morin Veysey: Reelect David Nagel to New Hampshire House of Representatives, Belknap County District 6 | Letters To Editor | laconiadailysun.com
+Rep.
+David Nagel: Only way to solve problem is bring varying perspectives together | Letters To Editor | laconiadailysun.com
+Rep.
+David Nagel: Seeking votes for reelection to continue serving Gilmanton, Gilford, Laconia Ward 2 | Letters To Editor | laconiadailysun.com
+Rep.
+David Nagel: Looking forward to accomplishing more if reelected | Letters To Editor | laconiadailysun.com
+David Nagel: Thoughtful, respectful discussion is his approach to legislative efforts | Letters To Editor | laconiadailysun.com
+Nagel | Citizens for Belknap
+Pamela Cote: We need more representatives like David Nagel | Letters To Editor | laconiadailysun.com
+Prudy Morin Veysey: Not only need to reelect Nagel, need more like him | Letters To Editor | laconiadailysun.com

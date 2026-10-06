@@ -1,0 +1,2 @@
+Record Primary Turnout Reflects Growing Demand for New Representation in Wisconsin's 6th District
+As the Brad Smith for Congress campaign continues reviewing returns from Wisconsin’s August 11 primary, one signal stands out: turnout points to extraordinary enthusiasm for new representation in Wisconsin’s 6th Congressional District, and the campaign believes that enthusiasm extends well beyond traditional Democratic voters.

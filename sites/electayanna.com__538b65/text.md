@@ -20,8 +20,7 @@ As her leadership has strengthened and encouraged many to dream bigger.
 It is now time to reciprocate the support for our very own CEO & Founder of the Delaware Black Chamber of Commerce Mrs.
 Ayanna Khan Flowers.
 Sign up to hear from us about specials, sales, and events.
-Opt-in Checkbox
-By providing your phone number, you agree to receive political text messages from Friends of Ayanna Khan-Flowers.
+from Friends of Ayanna Khan-Flowers.
 Message and data rates may apply.
 Message frequency varies.
 Reply HELP to request help or STOP to opt out of text messages.

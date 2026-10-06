@@ -1,0 +1,14 @@
+Skip to main content
+Shaun for State Senate
+Shaun for State Senate
+Home
+Bio
+Stances
+Policies
+Donations
+Endorsements
+Other priorities
+Priorities page 2
+Why I'm a better choice
+Winred
+Pictures

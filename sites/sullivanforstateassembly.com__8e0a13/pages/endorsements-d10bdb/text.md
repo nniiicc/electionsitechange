@@ -1,0 +1,70 @@
+“
+For decades, Tom Sullivan has dedicated himself to serving our nation and our communities
+Joann Ariola
+Current nyc councilwoman-32nd district
+We Proudly Support
+Tom Sullivan For State Assembly District 23
+The Police Conference of New York
+Labor Organization
+Founded in 1925, the PCNY is one of New York’s largest and most influential police organizations, representing hundreds of police unions and more than 50,000 officers statewide.
+Its reach extends from Montauk Point to the Canadian border, with members spanning local, county, city, state, MTA, and Port Authority Police.
+Joann Ariola
+NYC Councilwoman 32nd District
+"I need a partner at the state level who will fight for our communities, advocate for the resources we need, and stand firm against policies that put our neighborhoods at risk.
+Tom Sullivan is that leader.That is why I am proud to offer my full endorsement of Tom Sullivan for State Assembly.”
+Bob Holden
+Former City Councilman for the 30th District, Democrat.
+“Tom Sullivan answered the call by serving our country in the Armed Forces, and now he’s answering the call again by running for the State Assembly.
+We need a leader with common sense who will push back against the insanity in Albany and bring back a state legislature that actually serves New Yorkers, not special interests.
+This is why I’m proud to cross party lines and endorse Tom Sullivan."
+NYS Senator NY-17
+Steve Chan
+“10-85 - additional support is needed in Albany.
+As a former NYPD sergeant and a State Senator, I know the importance of having competent public safety minded partners in government.
+We need a leader like Army Colonel (Ret) Tom Sullivan in the Assembly.
+He will stand with the men and women of the NYPD.
+I am proud to fully endorse Tom Sullivan for
+State Assembly”
+National Federation of Independent Businesses
+NFIB is New York’s leading small business association, representing nearly 11,000 small businesses across the state.
+Founded in 1943, NFIB advocates for small business owners and works to ensure their voices are heard on the policies that impact their businesses and communities.
+Business Association
+Queens County GOP
+Organization
+"Tom is an individual dedicated to his community, with a pristine and impeccable background, from his military service to his career in the business world.
+He is an all-around great candidate that we will send to Albany to provide some common sense to a place that badly needs it – in the New York State Assembly."
+Public Safety Organization
+NY 10-13 Association
+The NY 10-13 Association represents more than 6,000 retired NYPD members across all ranks, making it one of the largest organizations of its kind.
+The association advocates for the interests of NYPD retirees while honoring and maintaining the strong bonds built through decades of service to New York City.
+The Superior Officers Association Retired (S.O.A.R.)
+S.O.A.R. represents approximately 1,000 retired NYPD members, predominantly former supervisors, who dedicated their careers to serving and protecting New York City.
+The organization provides a strong voice and continued support for retired NYPD officers of all ranks.
+Advocacy Organization
+Queens County GOP
+Organization
+"Tom is an individual dedicated to his community, with a pristine and impeccable background, from his military service to his career in the business world.
+He is an all-around great candidate that we will send to Albany to provide some common sense to a place that badly needs it – in the New York State Assembly."
+Conservative Party of New York State
+Organization
+"Tom Sullivan represents the very best of what it means to be a New Yorker.
+For more than three decades, he has served his country in the United States Army with honor, demonstrating courage in the face of danger both at home and abroad."
+“I want to win really bad, and I am going to win, but I need help.
+I don’t want to go up there and be alone in this fight.
+You know, you can’t be a general without any troops.
+So, I need Tom Sullivan up there with me.
+So, let’s get out, make sure we do the job for him and elect him to the State Assembly.”
+Candidate for Governor of New York
+Bruce Blakeman
+Bull Moose Project
+Organization
+"The Bull Moose Project’s mission is to relentlessly advocate for a dominant American future.
+We are inspired by the legacy of President Theodore Roosevelt and seek to promote an America that keeps its markets free and fair, secures our nation from foreign threats, and creates the conditions for American workers and families to thrive."
+The Police Conference of New York
+Labor Organization
+Founded in 1925, the PCNY is one of New York’s largest and most influential police organizations, representing hundreds of police unions and more than 50,000 officers statewide.
+Its reach extends from Montauk Point to the Canadian border, with members spanning local, county, city, state, MTA, and Port Authority Police.
+New York Young Republican Club
+Organization
+"AD-23, encompassing Broad Channel, the Rockaway Peninsula, Howard Beach, Lindenwood, and Ozone Park, deserves a representative in Albany who has spent his entire life in service to this community and this country, not another rubber stamp for the failed one-party rule that has driven New Yorkers out of their homes and out of the state.
+That is why the New York Young Republican Club is proud to endorse Tom Sullivan for State Assembly."

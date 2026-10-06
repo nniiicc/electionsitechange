@@ -1,0 +1,9 @@
+HOLLAND, MI. — According to the Detroit News, the Chinese-backed battery company Gotion is demanding Michigan taxpayers pay it $23.7 million for a defunct project that created exactly 0 jobs.
+McCann enthusiastically voted to authorize the subsidy packages that handed millions to a company tied to the Chinese Communist Party.
+Hardworking Michigan families are continually stuck cleaning up the mess from McCann’s record on the deal, which includes:
+- Handing millions in taxpayer handouts to Chinese-owned corporation
+- Ignoring explicit warnings from experts regarding CCP-linked entities operating in Michigan
+- Squeezing family budgets with higher state income and property taxes to pay for it
+- Bringing Chinese nationals to Michigan, undermining American jobs
+“Tax Man McCann has spent his entire career raiding our wallets only to hand millions of family’s hard-earned dollars to a Chinese-backed company,” said Huizenga campaign spokesman Calvin Moore.
+“Thanks to Sean McCann, the Chinese are making off with millions, while Michigan taxpayers are left holding the bill.”

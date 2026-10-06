@@ -1,0 +1,35 @@
+Sine Die Recap
+Yesterday was Sine Die, marking the end of an incredibly productive and successful 2026 Legislative Session for the Georgia House.
+We were proud to pass a number of our priorities, including literacy, income tax relief, property tax relief, and insurance reform, delivering on our commitment to make life more affordable for our neighbors in every corner of the state.
+Historic Win for Georgia’s Children
+On Tuesday, the Georgia House took historic, decisive action to get Georgia’s children reading.
+The passage of the Early Literacy Act of 2026 marks the beginning of unprecedented change and a monumental step forward for every child who steps foot in a Georgia classroom.
+The Georgia Early Literacy Act of 2026 will strengthen Georgia’s literacy rates by placing a literacy coach in every K-3 elementary school, streamlining guidelines for grade placement, fostering greater collaboration at the local and school levels, better preparing Georgia’s future teachers, and educating parents on the critical importance of early literacy and language development.
+This is just the beginning of a success story that I believe will make a generational difference in the lives of children, families, and our entire state by ensuring every child has the chance to learn to read.
+Fiscal Year 2027 Budget
+Yesterday, the Georgia House fulfilled our only Constitutionally mandated obligation by passing a balanced budget.
+This budget clearly reflects our commitment to supporting families, children, and communities across our great state.
+From historic investments in literacy, education, healthcare, and infrastructure to economic development and public safety, we’re investing where it matters most to secure a better, brighter future for the people of Georgia.”
+Fiscal Year 2027 Budget Highlights:
+The Fiscal Year 2027 Budget provides $70.4 million to place a school-based literacy coach in every K-3 elementary school across the state.
+The General Assembly fully funds Quality Basic Education with an appropriation of $14.9 billion.
+The Georgia House was proud to support a $4 million investment in strengthening student mental health support and services.
+Increasing access to quality education for Georgia’s youngest learners is a top priority of the Georgia House, which is why the FY 2027 Budget provides $9.7 million to expand access to Pre-K programs.
+The House was proud to support an investment of $100 million to give Georgia’s retired state employees regular and meaningful cost-of-living adjustments.
+The FY 2027 Budget allocates $11.2 million to increase graduate medical education opportunities for medical students, building on the state’s work to increase access to quality, affordable healthcare for Georgians.
+The House was proud to provide $3.7 million to expand the Department of Public Health’s maternal home visiting program to an additional 33 counties.
+The FY 2027 Budget supports local infrastructure projects across the state with an appropriation of $13.6 million for Local Maintenance and Improvement Grants.
+Addressing Affordability for Georgia Families
+Keeping more money in the pockets of the hardworking Georgians who earned it has always been a priority for the House, which is why we were proud to deliver results on affordability priorities like income tax relief, property tax relief, and insurance reform.
+HB 463 - Income Tax Relief for Hardworking Georgians
+House Bill 463 gradually reduces the individual state income tax rate from 4.99% to 3.99% over eight years beginning in 2026.
+In addition, HB 463 increases the personal exemption for dependents from $4,000 to $6,000, raises the standard deduction for married couples from $24,000 to $36,000, raises the standard deduction for single filers from $12,000 to $18,000, raises the income exclusion for retirees 65 or older from $65,000 to $70,000 per eligible taxpayer, exempts the first $1,750 of income earned on tips, and exempts the first $1,750 of income earned on overtime.
+SB 33 - Property Tax Relief for Georgia Homeowners
+Senate Bill 33 caps annual increases in property tax valuations at 3%, shielding homeowners from unexpected hikes in their property tax bills.
+Additionally, the Georgia House passed the AFY 2026 budget, which allocates over $850 million for Homeowner Tax Relief Grants, saving each homeowner across the state an average of $500 on this year’s property tax bills.
+HB 1344 - Insurance Affordability Reform
+The Insurance Affordability Act will make insurance more affordable for every hardworking Georgian across the state by making claims processing faster, fairer, and more transparent.
+Dayle and I are wishing families across the state a happy Easter as we prepare to celebrate the life, death, and resurrection of our savior this weekend.
+“But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed.”
+Isaiah 53:5
+Speaker Jon Burns

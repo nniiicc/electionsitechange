@@ -1,0 +1,26 @@
+The Governor’s Budget is presented in the following documents:
+Budget Documents:
+General Government and Quasi-Publics
+Public Safety, Natural Resources, and Transportation
+Budget Bills:
+FY2024 Supplemental Budget Bill
+On May 31, the House Finance Committee released several documents containing its proposed revisions to the Governor’s budget as follows:
+FY2024 Supplemental Table (table of changes to Governor’s supplemental 2024 budget by category)
+FY2024 Supplemental Descriptions
+FY2025 Table (table of changes to Governor’s 2025 budget by category)
+Following are the budget articles:
+| H 7225 | MAKING APPROPRIATIONS FOR THE SUPPORT OF THE STATE FOR THE FISCAL YEAR ENDING JUNE 30, 2025 |
+| ARTICLE 1 | RELATING TO MAKING APPROPRIATIONS IN SUPPORT OF FY 2025 |
+| ARTICLE 2 | RELATING TO STATE FUNDS |
+| ARTICLE 3 | RELATING TO GOVERNMENT REFORM AND REORGANIZATION |
+| ARTICLE 4 | RELATING TO DEBT MANAGEMENT ACT JOINT RESOLUTIONS |
+| ARTICLE 5 | RELATING TO CAPITAL DEVELOPMENT PROGRAM |
+| ARTICLE 6 | RELATING TO TAXES AND FEES |
+| ARTICLE 7 | RELATING TO ECONOMIC DEVELOPMENT AND HOUSING |
+| ARTICLE 8 | RELATING TO EDUCATION |
+| ARTICLE 9 | RELATING TO MEDICAL ASSISTANCE |
+| ARTICLE 10 | RELATING TO LEASES |
+| ARTICLE 11 | RELATING TO HEALTH AND HUMAN SERVICES |
+| ARTICLE 12 | RELATING TO PENSIONS |
+| ARTICLE 13 | RELATING TO MAKING REVISED APPROPRIATIONS IN SUPPORT OF FY 2024 |
+| ARTICLE 14 | RELATING TO EFFECTIVE DATE |

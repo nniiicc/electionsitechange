@@ -1,0 +1,33 @@
+Inoperable Parking Meter Violations (AB 1625)
+To protect consumers from receiving unjust parking violations at broken parking meters or kiosks in cities and counties.
+By preventing local authorities from enacting ordinances prohibiting or restricting the parking of vehicles in parking spaces regulated by inoperable parking meters/kiosks we place a focus on transparency for the tax payer and encourage government efficiency.
+Chaptered by Secretary of State Chapter 352, Statutes of 2017
+Unlawful Interference at Public Agencies (AB 660)
+To protect persons visiting any public agency from being exploited or harassed by illegitimate solicitors.
+This new crime will make it unlawful for any person to intentionally make a material misrepresentation of the law while on the premises of a public agency.
+Chaptered by Secretary of State Chapter 381, Statutes of 2017
+Credit Services Organizations (AB 2424)
+This bill updates and modernize the Credit Services Act of 1984 by expanding consumer protections when contracting with a credit service organization and significantly enhancing the transparency and disclosure of the services being purchased, the intended results and the cost.
+Newspapers: State Agency Advertising: Worker Status: Independent Contractors (AB 323)
+Exempts, until January 1, 2022, newspaper carriers and newspaper distributors, as defined, from the 3-part ABC test for employment status.
+Requires that the Department of General Services (DGS) report annually information on the state’s contracting practices with media platforms for placement of marketing or outreach advertising material.
+Secondhand Goods: Tangible Personal Property: Reporting Requirements (AB 1969)
+Eliminates the requirement that the name and address of a seller or pledger of secondhand goods be reported to law enforcement when the seller or pledger verifies their identity with a Matricula Consular, and requires the state’s database of secondhand property transactions to direct law enforcement to the dealer to obtain the seller or pledger’s identity.
+Open Meetings: Local Agencies: Teleconferences (AB 2449)
+Allows, until January 1, 2026, members of a legislative body of a local agency to use teleconferencing without identifying each teleconference location in the notice and agenda of the meeting, and without making each teleconference location accessible to the public, under specified conditions.
+Public Contracts: Conflicts of Interest (AB 334)
+Clarifies the circumstances under which a public entity that employed an independent contractor for one phase of a project may contract with that same contractor for a subsequent phase of the same project without violating a state law prohibiting conflicts of interests in public contracts.
+Local Agency Design-Build Projects: Authorization (AB 400)
+Extends the sunset date, from January 1, 2025, to January 1, 2031, on provisions of law authorizing local agencies to use the design-build contracting method, and expands the types of JPAs that may use design-build.
+State Highways: Worker Safety (AB 752)
+Requires the California Department of Transportation (Caltrans) to use positive protection, as defined, in order to ensure worker safety and authorizes the Division of Occupational Safety and Health in consultation with Caltrans to adopt rules and regulations to administer and enforce these provisions.
+Cannabis Task Force (AB 993)
+This bill adds a representative from the Civil Rights Department (CRD) and the Department of Industrial Relations (DIR) to the existing Task Force on State and Local Regulation of Commercial Cannabis Activity (Task Force).
+Licensed Craft Distillers: Direct Shipping (AB 1088)
+This bill extends a current exemption that allows a licensed craft distiller to directly ship distilled spirits manufactured by the licensee to a consumer from January 1, 2024, to January 1, 2025.
+Cannabis: Private Right of Action (AB 1171)
+Authorizes a person licensed under the Medicinal and Adult-Use Cannabis Regulation and Safety Act (MAUCRSA) to bring an action in superior court against a person engaging in commercial cannabis activity without a license, as specified.
+Worker Status: Employees and Independent Contractors: Newspaper Distributors and Carriers (AB 224)
+Extends the AB 5 exemption for newspaper distributors until 2030, in line with previous exemptions afforded to the industry due to its unique job market and role in providing information to our communities.
+Local Agency Design-Build Projects: Authorization (AB 400)
+Extends existing statutory authority for local governments to use the design-build procurement process authorized in PCC Sections 22160-22169 until January 1, 2031.

@@ -1,0 +1,30 @@
+Legislation approved by Illinois lawmakers will expand identification options for undocumented immigrants and make Illinois roads safer, according to Secretary of State Alexi Giannoulias who helped craft the measure currently awaiting the governor’s signature.
+Giannoulias hosted a press conference alongside the sponsors of House Bill 3882, State Representative Barbara Hernandez (50th District – Aurora) and State Senator Ram Villivalam (8th District – Chicago), as well as advocates and stakeholders, to raise awareness and highlight the importance of this legislation.
+House Bill 3882 – which passed the Illinois General Assembly last month – would allow non-citizen residents who are eligible to receive a standard driver’s license with the wording “Federal Limits Apply” printed atop of the cards per the federal REAL ID Act.
+These types of licenses would replace the current Temporary Visitor Driver’s Licenses (TVDLs), which undocumented immigrants have been able to obtain to drive legally in Illinois.
+The only difference between a TVDL and a standard driver’s license is that the purple TVDL marker and the wording “Not Valid for Identification” – which currently exists on TVDLs – would no longer appear.
+TVDLs have caused issues because TVDLs cannot be used for identification under the current system and have signaled that TVDL drivers are likely undocumented.
+Standard licenses are valid for an ID card and a driver’s license.
+“These driver licenses are standardized to serve as authentic identification and to help remove the stigma, prevent instances of discrimination and avoid problems they have been known to cause,” said Giannoulias, who thanked the legislative sponsors and advocates who pushed for the change.
+“TVDLs have made it difficult for the cardholders to do basic things like fill prescriptions or rent an apartment.
+This legislation will make our roads safer and protect immigrants.”
+“Extending the rights of non-citizens to apply for standard driver’s licenses while eliminating meaningless bureaucratic red tape will help build a more equitable future for immigrant communities,” said state Rep.
+Hernandez.
+“Our goal is to tear down racial bias at a foundational level and improve the lives of all Illinoisans, and the steps this measure takes bring us nearer to achieving that.”
+“Currently, many immigrant and refugee families are restricted access to certain services by Temporary Visitor Driver’s Licenses and endure a stigma for having only that as a form of identification,” said state Sen.
+Villivalam.
+“With House Bill 3882, we are modernizing the law to provide eligible individuals the ability to obtain a standard driver’s license without discrimination and to eliminate any stigmas.
+This legislation builds on our mission to continue to be the most welcoming state in the nation.”
+Illinois was one of the first states to begin issuing TVDLs in 2013 to ensure all drivers on state roads have passed a road test regardless of citizenship.
+More than 300,000 Illinoisans currently have a TVDL, a program designed to make roads safer with stringent road testing and the requirement to have proof of automobile insurance.
+Those eligible for a TVDL must have lived in Illinois for more than a year and do not have a Social Security number.
+Individuals must provide their U.S. immigration documentation, a passport or a consular card – requirements that remain the same under the new proposal.
+Applicants for a standard driver’s license would be required to follow the same process as applying for a TVDL.
+Still, the license they receive would be the same as one issued to any other Illinoisan whose ID does not comply with federal REAL ID guidelines.
+REAL ID requirements are scheduled to go into effect in Illinois in May 2025, and they require stricter identification, such as a birth certificate and Social Security number, to obtain one.
+The IDs are used for purposes such as air travel and access to military bases and secure federal facilities.
+If signed into law, Illinois will join numerous states with similar processes, including California, Maryland, New Jersey, New York, Oregon and Colorado.
+The legislation also establishes standard, non-REAL ID-compliant ID cards for immigrants and restricts the sharing of driver information by prohibiting the use of data for immigration enforcement purposes.
+Immigration agents would be required to provide a court-issued warrant, order or subpoena to request the personally identifying information.
+Giannoulias’ office has implemented additional safeguards to ensure immigrant motorists are not eligible for a REAL ID and cannot be added to the voting rolls.
+-#-

@@ -1,0 +1,25 @@
+Click to read or view!
+Hometown Hero Video scroll down to video on FB
+Appointed to Commission to Study Potential URI Medical School
+Appointed Chair of Health & Human Services Committee
+RI Coalistion Against Gun Violence
+Pay Equity Legislation in the news
+R.I.
+House votes 72-0 for pay equity bill
+This might be the year for a pay equity bill in Rhode Island
+R.I. pay equity bill nears passage after negotiations with business community
+ABC 6 Hometown Hero: Susan Donovan - September, 2015
+Susan Donovan Wins 2015 Hattie Brown Award - June, 2015
+The Bay Interview: Susan Donovan - June, 2015
+Planned Parenthood of RI Votes 2020
+Rhode Island Coalition Against Gun Violence
+Clean Water Action endorses Susan Donovan 2020
+RI Sierra Club Endorse Donovan for State Representative HD 69 - August, 2016
+Donovan looks like the pre-election favorite - July, 2016
+RI Working Families Endorse Donovan for State Representative HD 69 - 2020
+Portsmouth Democrats Endorse Donovan for State Representative HD 69 - July, 2016
+Young Democrats of RI Endorse Donovan for State Representative HD 69 - June, 2016
+Susan Donovan is only candidate for open Bristol seat - June, 2016
+Donovan Announces Candidacy for Gallison's Seat - May, 2016
+East Bay Habitat for Humanity Celebrates First Bristol Home - January, 2016
+Habitat for Humanity buys Bristol land to build new home - February, 2013

@@ -1,0 +1,21 @@
+- Quality education should be available to ALL South Dakotans – from pre-K to post-high school.
+Our teachers should be fairly compensated.
+South Dakota shouldn't be ranked at the bottom any longer!
+Our state legislature has failed to make educational opportunities a priority, and I’ll work to change that by:
+- Valuing our teachers
+- Advocating for competitive teacher pay
+- Offering early childhood education options
+- Making college education more affordable
+- Seeking opportunity and equality for all
+- South Dakota is home to globally recognized best-in-class hospitals.
+But healthcare coverage without sky-high premiums or deductibles is out of reach for too many South Dakotans.
+Hard-working South Dakotans shouldn’t live in a world where medical expenses, eldercare, or health emergencies can bankrupt families.
+In the South Dakota Senate, I will fight to:
+- Expand healthcare coverage for everyday people and families working hard to make ends meet
+- Support full and safe access to healthcare for pregnant people and their families
+- South Dakotans need a dynamic business environment with quality opportunities for employment, entrepreneurship and growth – where everyone has the chance to work hard and thrive.
+It’s time South Dakota’s economy capitalizes on our changing world.
+In Pierre I will work to:
+- Address the lack of affordable childcare in South Dakota
+- Fight for affordable housing
+- Minimize the increasing cost of living faced by South Dakotans

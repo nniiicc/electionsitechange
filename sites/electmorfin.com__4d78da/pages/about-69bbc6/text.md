@@ -1,0 +1,14 @@
+Ezequiel Morfin is a working-class father, electrician, and lifelong community advocate from Toppenish who is running for State Representative because too many families in the Yakima Valley are being priced out, pushed aside, or forced to live in fear by decisions made far from their communities.
+Ezequiel’s roots in the farmworker and immigrant rights movement run deep.
+As a child, he grew up alongside organizing efforts in the Valley, where his family helped build early institutions like Radio KDNA and participated in union campaigns for better wages and safer working conditions.
+Those early experiences shaped his understanding of solidarity, dignity, and the power of collective action.
+For years, Ezequiel was heavily involved with the United Farm Workers, helping organize members, represent workers before state agencies, and travel repeatedly to Olympia to advocate for farmworker protections.
+He saw firsthand how unsafe conditions, wage theft, and fear of retaliation affect families across the region—and how often those voices are ignored.
+Professionally, Ezequiel built a career in the skilled trades.
+He has worked as an electrician, electrical foreman, business owner, and inspector, including overseeing crews, managing commercial and residential projects, and inspecting electrical systems across the Yakama Nation.
+He understands what it means to work long hours, solve real-world problems, and still worry about rising housing costs, healthcare, and utility bills.
+Ezequiel is a proud Mexican-American father of four—three daughters and one son—who wants the next generation to be able to stay in the Valley, afford a home, and raise families without constant financial stress.
+He lifts weights, works on his own home, and lives the reality of the people he seeks to represent.
+As a Democrat, Ezequiel believes government should work for working people—not corporations, political insiders, or systems that rely on fear and division.
+He has been outspoken in defending immigrant families and believes the state has a responsibility to protect communities when federal policies fail.
+Ezequiel Morfin is running to bring real working-class leadership to Olympia—and to make sure the people of the 14th Legislative District are finally heard.

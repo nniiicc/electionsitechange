@@ -1,0 +1,419 @@
+The Office of the State Auditor recently began a limited review of certain policies and procedure of Utah’s election processes.
+Utah’s election system is among the most reliable and secure in the nation, and the integrity of our processes is something we take very seriously.
+That said, no system is perfect, and we welcome thoughtful evaluations like the recent audit to help us improve.
+One area the audit highlighted is the need to balance voter privacy with transparency in processes like petition signature verification.
+Transparency is critical to maintaining public trust, but we must also respect the privacy of voters who request it.
+This balance is not always easy, but I see it as an opportunity to refine and strengthen our system further.
+We’re committed to addressing these concerns in a proactive and thoughtful way, starting with advocating for statutory changes to clarify rules and align practices.
+Our goal is to make sure that every Utahn feels confident their voice is heard and their vote is protected.
+I encourage all of us to remember that while vigilance is necessary, our election system has strong safeguards and dedicated officials who are committed to its integrity.
+With your input and support, we can make it even better.
+Here is the audit letter, which can be found at https://reporting.auditor.utah.gov/servlet/servlet.FileDownload?file=015Do0000017ezJIAQ (Please note, the letter utilizes several graphical charts that wouldn’t replicate in this post, but you can see them if you click on the link)
+January 3, 2025
+The Honorable Deidre Henderson
+Lieutenant Governor
+Utah State Capitol
+Suite 200
+Salt Lake City, UT 84114
+Lieutenant Governor Henderson:
+The Office of the State Auditor (“OSA”) recently began a limited review of certain policies and
+procedures of Utah’s election processes.1 We have concluded our limited review and write to notify
+you of our additional observations.
+This update focuses primarily on the control and disclosure of information provided by individuals who
+signed nomination petitions (Petitions) during the current election cycle as described in Utah Code 20A
+Chapter 9, “Candidate Qualifications and Nominating Procedures.” During our review, we noted
+various inconsistencies and concerns in the statutes governing the Petition signature verification
+process.
+In particular, we note the inconsistency between the rigid protection over voter names and
+signatures for observing Petition information and signature verification, versus the rather broad
+disclosure of information allowed by statute for voter registration data.
+We also note the untenable
+position election officials are placed in with conflicting statutory requirements between transparency
+and privacy of the Petition signature verification process.
+These issues impede the Petition process’s
+transparency, potentially weakening the public’s trust in the integrity and reliability of that election
+process.
+We encourage you to recommend remedial statutory changes during the upcoming legislative
+session.
+Background
+I.Voter Registration Data
+Utah Code Title 20A Election Code (Election Code) sets forth the statutes governing Utah’s elections
+processes, including the voter registration process and the government’s handling of voter registration
+data.
+To register to vote, an individual must complete a voter registration form “in substantially the
+[same] form” as a sample form in the Election Code.2 The sample voter registration form requires the
+individual to provide their name, address, birthday, driver license number or state identification
+number, and the last four digits of their Social Security number.
+Under the sample form, the individual
+also has the option to provide their email address and phone number.
+Finally, the sample form requires
+1 https://reporting.auditor.utah.gov/servlet/servlet.FileDownload?file=015Do0000017cLlIAI
+2 Utah Code 20A-2-104(2)
+Utah State Capitol Complex, East Office Building, Suite E310 • Salt Lake City, Utah 84114-2310 • Tel: (801) 538-1025 • auditor.utah.govthe voter to sign the registration form, attesting that the information provided is accurate and that the
+voter meets age, residency, and citizenship eligibility requirements.
+This voter registration data,
+including signature, is stored in the Voter Information and State Tracking Application (VISTA) which is
+a state-wide database used by election officials across the state.
+Access to, and protection of, voter registration data is governed primarily by the Government Records
+Access and Management Act3 (GRAMA) with additional guidance in the Election Code.4 The intent of
+GRAMA is to balance the public’s right of access to information concerning the conduct of the public’s
+business with an individual’s right to privacy in relation to personal data gathered by governmental
+entities.5 Records are considered “public” unless GRAMA classifies them as “private, controlled, or
+protected” or if access is “restricted pursuant to court rule, another state statute, federal statute, or
+federal regulation.”6 Table 1 shows the general classifications of various voter registration data
+elements under GRAMA.
+Table 1 – GRAMA Classification of Voter Registration Data Elements
+GRAMA Classification
+Public7 Private8 Protected9
+Full Name X
+Addresses X
+Date of Birth X
+Driver License Number or
+State Identification Number
+X
+Partial Social Security
+Number
+X
+Signature X
+Email Address X
+Phone Number X
+Voter Demographics and
+Statistics10 (Statistics)
+X
+In general, private records contain sensitive information about individuals for which disclosure may
+infringe on personal privacy, while protected records contain highly sensitive information that is not
+solely related to personal privacy matters, but that may nonetheless cause harm if released.
+GRAMA
+specifies the conditions under which private and protected records may be disclosed and rarely
+3 Per Utah Code 63G-2, GRAMA is a generally applicable statute governing access to public entities’ records.
+GRAMA
+presumes that a public entity’s records are public “unless otherwise expressly provided by statute.”
+4 The Election Code is a specific statute that constrains GRAMA regarding disclosure of certain voter registration data
+elements.
+5 Utah Code 63G-2-102
+6 Utah Code 63G-2-201(3)
+7 Utah Code 63G-2-301(2)(l)
+8 Utah Code 63G-2-302(1)(j)
+9 Utah Code 63G-2-305(75)
+10 Voter demographics and statistics recorded in VISTA include each voter’s party affiliation, voting participation history,
+last registration update date, county, precinct, and district information.
+These data items are collectively referred to as
+“Statistics” in this report.
+2II.allows public disclosure of these records.
+In addition to GRAMA, the Election Code provides guidance
+regarding access to, and protection of, voter registration data.
+When GRAMA and the Election Code
+differ, the Election Code prevails.
+Voters May Request Privacy Protections Over Voter Registration Data
+The Election Code11 allows voters to request privacy protections on their voter registration data.
+Utah
+Code 20A-2-104(4)(h) requires election officials to classify voter registration data as a private record if
+a voter requests protection by:
+Submitting a written request on an application created by the Lieutenant Governor;
+Checking a box on the voter registration form requesting that the registration record be
+classified as private; or
+Submitting a withholding request form indicating that the voter is or will likely be a victim of
+domestic violence or that meets certain other statutory requirements.
+As a result, election officials are required to classify various elements of voter registration data as either
+public, private, or withheld.
+The effect of any of these classifications is that the information should only
+be disclosed when specific conditions are met in both GRAMA and the Election Code.
+Table 2 – Classification of Voter Registration Data When Additional Protections Invoked
+GRAMA Classification
+Public Private Protected
+Full Name X
+Addresses X
+Date of Birth X
+Driver License Number or
+State Identification Number
+X
+Partial Social Security
+Number
+X
+Signature X
+Email Address X
+Phone Number X
+Statistics X
+III.Statute Controls Disclosure of Voter Registration Data
+GRAMA and the Election Code allow election officials to disclose certain private or protected voter
+registration data under certain circumstances to individuals who are defined in the Election Code as
+qualified persons.
+12 A qualified person is defined as:
+11 Utah Code 20A-2-104(2)
+12 Utah Code 20A-2-104(4)(a)
+3 A government official acting in the government official’s or government employee’s official
+capacity:
+A political party, its agent, employee, or independent contractor; and
+A candidate for public office, or their employee, independent contractor, or volunteer.
+Authority to disclose VISTA voter registration data varies based upon the particular data element, the
+privacy protections that have been invoked by the voter, and the type of the individual requesting the
+data.
+As shown in Table 3 below, a government official acting in their official capacity (GOV) may access more
+data elements than political parties, candidates, and their agents (QPPC).
+For example, if a voter is
+classified as withheld, or a “protected individual,” a QPPC may not receive the voter’s full name or year
+of birth, whereas a GOV may receive it.13 In these cases, an election official provides the QPPC with the
+age range14 of the voter.
+If a voter requests privacy protections, their signature(s) on VISTA are protected and may not be
+provided to, nor viewed by, a QPPC.
+In those cases, signatures may still be accessed by a GOV.
+As noted
+previously, if a voter does not invoke protections, some data elements are available to the public
+(Public).
+Table 3 - Disclosure of VISTA Voter Registration Data Elements by Requestor Type15
+Voter who does not re-
+quest privacy protections
+Voter who requests
+“Private” status
+Voter who requests
+"Withheld" status
+Full Name Public QPPC GOV
+Addresses Public QPPC QPPC
+Full Dates of Birth GOV GOV GOV
+QPPC QPPC GOV
+Year of Birth
+Age Range N/A N/A QPPC
+Driver License Number
+or State Identification
+Number
+GOV GOV GOV
+Partial Social Security
+Number
+GOV GOV GOV
+Voter's Signature
+GOV
+(Public & QPPC may view
+but not copy)
+GOV GOV
+Email Address GOV GOV GOV
+Phone Number GOV GOV GOV
+Statistics Public QPPC QPPC
+13 Utah Code 63G-2-305.5(2); Utah Code 20A-2-104(10)(a)(iii)
+14 Utah Code 20A-2-104(4)(o)(vii)
+15 Voter registration data available to GOV and QPPC is specified in Utah Code sections 63G-2-302(1)(j) through (1)(m),
+63G-2-305(75), 63G-2-305.5(2), 20A-2-104(4), and 20A-2-104(10)(a).
+Voter registration data that is publicly available
+when no privacy protections are invoked is listed in Utah Code 63G-2-301.
+4IV.Petition Data Is More Restricted Than Voter Registration Data
+Utah allows certain political candidates access to a primary ballot by submitting Petitions signed by a
+minimum number of eligible voters.16 These Petitions contain the signer’s name, signature, and
+address.
+A signer may also specify age or birth date, if they choose.
+These candidates turn in the completed Petitions to the appropriate state or county election official
+for signature verification.
+The Petitions are maintained as election records by those officials.
+GRAMA17
+classifies the signatures on Petitions as protected information.
+However, if the signer has not requested
+privacy protections of their voter registration data, the GRAMA provision below allows the signer’s
+name to be released and their signature to be viewed by requesting parties.
+63G-2-305.5 Viewing or obtaining lists of signatures
+(1) The records custodian of a signature described in Subsection 63G-2-305(74) [Signature on a
+Petition] shall, upon request, except for a name or signature classified as private under Title
+20A, Chapter 2, Voter Registration: (a) Provide a list of the names of the individuals who
+signed the petition or request: and (b) permit an individual to view, but not take a copy or
+other image of the signatures on a political petition described in Subsection 63G-2-305(74).
+We note that if a voter has invoked privacy protections as described above, election officials are
+prohibited from providing that voter’s name and signature to a requestor.
+GRAMA does not clearly
+specify whether the signer’s address or other optional information on the Petition may be disclosed.
+General Observations Regarding the Petition Signature Verification Process
+The Elections Office received various requests for the list of voters who signed Petitions in the most
+recent election cycle, as well as requests to view original signed Petitions.
+In response, the Elections
+Office informed requestors it could only provide a list of the names of voters who had not requested
+private or withheld status of their voter registration data, and would only allow the requestor to view,
+but not make a copy, of these voters’ signatures on the Petitions.
+The Elections Office held that it could
+not disclose the names of the signers who requested private or withheld status of their voter
+registration data and the associated signatures could not be viewed based on restrictions in GRAMA
+and the Elections Code.
+As a result, the Election Office held that this information would have to be
+redacted prior to release.
+While this position appears to comply with the provisions of GRAMA and the Election Code, it illustrates
+a gap in transparency statute for the Petition signature verification process.
+It also highlights
+inconsistencies between transparency efforts over the election process and how similar information is
+treated under different sections of the Election Code.
+In particular, we note the inconsistency between
+the rigid protection over voter names and signatures when it comes to observing Petition information
+and signature verification versus the rather broad disclosure allowed by statute for voter registration
+data.
+16 Utah Code 20A-9-403(3)
+17 Utah Code 63G-2-305(74)
+5Without the ability to view unredacted Petitions, a requestor, particularly a QPPC, is unable to
+independently assess the integrity of the Petition signature validation process.
+This has the potential
+to reduce public trust in a portion of the election process.
+Specific Areas for Improvement
+We identified three specific areas where the Election Code could be revised to improve transparency.
+I.Statutory Restrictions Prevent Effective Public Oversight of Petition Signature
+Verification Process
+Under Utah Code 20A-3a-801(2)(a), any Utah voter may request to be a “watcher”18 to observe
+functions related to elections.
+Watchers may observe the process as election officials check in voters,
+certify election results, and verify ballot signatures,19 with certain exceptions to ensure a polling place’s
+operational efficiency.
+Election officers must designate space for watchers to observe these events
+from no more than six feet away.20 Under these conditions, it is likely that a watcher may observe voter
+information, including voters who have invoked private and withheld status.
+The Election Code allows a watcher to observe the private information in this setting despite the fact a
+records request for the same information would be denied.
+Therefore, it is clear that the legislature
+intended to allow transparency of the balloting process, recognizing that certain private data would be
+subject to observation under statutorily controlled conditions.
+Although the Election Code explicitly provides a watching mechanism for the balloting portion of the
+election process, it does not explicitly provide for a watching mechanism over the Petition signature
+verification portion of the election process.
+Further, since GRAMA21 prohibits an individual from
+viewing the name or signature on a Petition if the signer is a voter with private or withheld status, there
+is effectively no practical mechanism for a watcher to observe the Petition signature validation process
+when a voter has invoked privacy protections.
+However, the legislature has indicated through statute that they anticipated some level of transparency
+in the Petition review process:
+Utah Code 20A-9-403(d) mandates that the filing officer shall verify signatures on Petitions in a
+transparent and orderly manner.
+Utah Code 20A-9-403(3)(f) mandates that the Elections Office may make rules that provide for
+the transparent, orderly, and timely submission, verification, and certification of Petition
+signatures.
+The use of the word “transparent” implies that the legislature intended to permit some level of
+watching activity over signature verification as a measure to ensure integrity.
+Given the existing
+statutory restrictions prohibiting anyone other than a GOV from viewing private and withheld names
+and signatures on a Petition, it is impossible for an election officer to comply with that statutory
+18 Colloquially referred to as “poll watchers.”
+19 Utah Code 20A-3a-801(4)
+20 Utah Code 20A-3a-801(5)(b)
+21 Utah Code 63G-2-305(74) and Utah Code 63G-2-305.5(1)
+6prohibition while simultaneously complying with the requirement for the process to be transparent via
+a watcher scenario.
+Therefore, in the absence of clear statutory guidance allowing effective observation of the Petition
+signature verification process, election officials face a dilemma due to conflicting statutory provisions:
+1.
+If an election official prevents a watcher from observing the Petition signature verification
+process due to the required statutory privacy protections, required transparency cannot be
+achieved; or,
+2.
+If an election official permits a watcher to observe the full Petition signature verification
+process, the election official would likely violate statutory privacy protections.
+With this apparent statutory conflict in regard to observing the Petition signature verification process,
+the legislature appears to have placed election officials in an untenable position.
+II.Statute Treats Similar Data in VISTA and Petitions Inconsistently
+As shown in Table 3 above, a QPPC may obtain the full name and address of a voter from VISTA’s voter
+registration data, even when the voter requested privacy protection.
+In contrast, for Petitions, GRAMA
+does not allow the name of any voter with private status to be disclosed to a requestor, QPPC or
+otherwise.
+Therefore, a QPPC’s ability to access the name of a voter with private status depends on
+whether they request that data from the voter registration data (access granted) or from a Petition
+(access denied).
+Table 4 illustrates the disparity in treatment of similar data dependency upon whether that data
+element is held in VISTA or on a Petition.
+The table also shows where statute does not clearly specify
+treatment of a data element.
+Table 4 - Disclosure Disparity Between VISTA and Petition Data Elements for QPPC Requestors
+Data
+Element
+VISTA Petition
+Default
+Status
+Voter
+Private
+Status
+Voter
+Withheld
+Status
+Voter
+Default
+Status
+Voter
+Private
+Status
+Voter
+Withheld
+Status
+Voter
+Full Name Disclosable Disclosable Not
+Disclosable
+Disclosable Not
+Disclosable
+Not
+Disclosable
+Signature Viewable
+only
+Not
+Disclosable
+Not
+Disclosable
+Viewable
+only
+Not
+Disclosable
+Not
+Disclosable
+Address Disclosable Disclosable Disclosable Unspecified Unspecified Unspecified
+Year of
+Birth
+Disclosable Disclosable Not
+Unspecified Unspecified Unspecified
+Disclosable
+7The Election Code22 makes no distinction between a QPPC and any other requestor for Petition
+information requests.
+In addition, neither GRAMA nor the Election Code addresses whether the
+Petition signer’s address or birthday may be disclosed or should be protected.
+These inconsistencies
+compound the problem of not having an effective watching function over the Petition signature
+verification process, making it impossible for any requestor, QPPC or otherwise, to view sufficient
+information to enable an effective independent observation.
+III.Optional Privacy Protections Likely Give Voters False Sense of Security
+A QPPC may obtain certain VISTA data upon request and payment of a fee.
+A QPPC is then provided
+with certain voter registration data for political purposes as shown in Table 3.
+The Election Code23
+enumerates in great detail the attestations required from a QPPC and the measures a QPPC should
+take to ensure private information is not improperly distributed or used for a prohibited purpose.
+However, the Election Code contains no indication that any election official must take steps to ensure
+that a QPPC complies with this attestation.
+Nor does it appear that election officials follow up with
+QPPCs to ensure compliance.
+In practice, it appears that some QPPCs commingle private voter registration data with their own voter
+information, stripping the privacy status field from the data in the process.
+They then disclose that data
+to others, such as campaign workers, consultants, and vendors, who also reshare without knowledge
+of any data restrictions or protections.
+While privacy protection may be requested and granted to a
+voter, this privacy status likely fails to flow down to every sub-recipient of the supposedly protected
+data.
+Therefore, candidates and their campaign support personnel who receive that data may have no
+indication whether the voter registration data is considered public or private.
+Given the multitude of individuals who may come into possession of private voter registration data, it
+appears that government privacy protections are not as robust as voters likely believe.
+We also note
+that there is a lack of an enforcement mechanism to ensure that QPPCs properly protect private voter
+registration data that is provided to them under statute.
+Conclusion
+Despite the need for various elements of voter registration data to remain private, public interest is
+best served by greater transparency in the review of Petitions, particularly by opposing campaigns or
+by political parties.
+At a minimum, we recommend these issues should be remedied:
+The lack of a statutorily defined mechanism for effective observation of the Petition signature
+verification process;
+The lack of consistent treatment of the same voter registration data elements between VISTA
+and Petitions;
+The conflicting statutes regarding transparency in the Petition review process while
+demanding privacy of protected voters; and,
+22 Utah Code 63G-2-305.5(1)
+23 Utah Code 20A-2-104(4)(a) through 20A-2-104(4)(g)
+8 The lack of an effective enforcement mechanism over QPPC’s handling of private voter
+registration data.
+Addressing the issues identified in this report should promote greater trust in the election process.
+As
+the State’s chief election official, you are best positioned to promote these statutory provisions.
+We appreciate the Elections Office’s professionalism and cooperation during our limited review.
+We
+hope that you and the Elections Office will take any unilateral measures available to you to improve
+the process and that you use your influence in the election realm to argue for statutory amendments
+that will promote greater confidence in the integrity of Utah’s elections.
+Sincerely,
+John Dougall,
+State Auditor

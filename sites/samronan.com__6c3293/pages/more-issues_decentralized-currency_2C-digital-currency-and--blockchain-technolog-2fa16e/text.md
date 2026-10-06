@@ -1,0 +1,28 @@
+DECENTRALIZED CURRENCY, DIGITAL CURRENCY AND BLOCKCHAIN TECHNOLOGY REGULATION
+Decentralized Currency
+- The Federal Government shall not tax any profits, gains, or incomes associated with Decentralized Currencies, Blockchain Rewards, Staking Rewards, or similar
+- Marketplaces, or exchanges where Cryptocurrencies can be bought, sold, traded, or speculated upon are a global phenomenon and not under the jurisdiction of the US Federal Government
+- Therefore, the risk associated with using these currencies, including being scammed, losing them, or loss of investment value, shall be at the sole responsibility of the individual
+- The US Federal Government, shall continue to allow taxes to be paid in digital, or decentralized currencies such as Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC), but shall convert those tokens into USD immediately upon receipt to avoid the risk of holding such assets from tax revenues
+- All taxes collected by the United States due to Digital and Decentralized Currencies conversion to USD shall be repaid in full, with the same interest that would be paid for late tax payment
+- Conversion of non-sovereign controlled digital assets into USD shall not result in a taxable event
+Digital Currency
+- Digital currency shall be designated apart from decentralized currencies such as BTC, ETH, and LTC, and shall follow these stipulations:
+- Digital currency shall only be recognized as digital currency if a Sovereign State issues, controls, regulates, and develops it
+- Digital currency shall be interchangeable with regular currency without fees, other than for currency conversion to foreign currencies
+- Digital currency can be treated as taxable income for tax purposes
+- Digital currency can be exchanged for decentralized currencies, or converted from decentralized currencies without incurring a taxable event
+Blockchain Technology
+- Blockchain technology as a new emergent form of technology shall be allowed within the United States so long as the technology is not used to:
+- Aid foreign terrorist organizations
+- Aid domestic terrorist organizations
+- Aid organized criminal activities
+- Destabilize national defense, infrastructure, or elections
+- Attack, or disenfranchise minority groups, including foreign nationals
+- In general violate federal or international law
+- The Federal Government will invest sufficient resources into blockchain technologies for the following purposes:
+- Improve Election Integrity
+- Improve National Defense Digital Security
+- Improve Administrative, and Data Processing Tasks
+- Improve Digital Infrastructure, Defense, and Maintenance
+- In general improve national operations, agencies, and strategic superiority

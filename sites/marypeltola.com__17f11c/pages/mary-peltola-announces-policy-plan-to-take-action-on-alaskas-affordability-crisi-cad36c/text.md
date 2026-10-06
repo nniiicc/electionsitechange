@@ -1,0 +1,20 @@
+CONTACT: [email protected]
+As Alaskans face skyrocketing costs on everything from gas and groceries to childcare and energy, lifelong Alaskan Mary Peltola today announced her plan to address Alaska’s affordability crisis and deliver real relief for working families in the U.S.
+Senate.
+“Alaskans are being crushed by the special-interest price hikes coming out of DC – but I will stand up to anyone to put Alaska first and fight for lower costs,” said Mary Peltola.
+“Alaskans are tough — but there’s only so many times you can pay $10 a gallon for fuel or skip a doctor’s visit before you start to feel pissed that DC politicians keep making things worse.
+It shouldn’t be this hard to get by in Alaska, and when I’m in the U.S.
+Senate, I’m going to fight to make life affordable for hardworking Alaska families.”
+Mary’s plan, “Taking Action on Affordability for Alaskans,” is a bold roadmap to address the number one concern Mary is hearing from Alaskans: everything is too expensive.
+It includes specific efforts to cut taxes, keep money in working Alaskans’ pockets, support families, and decrease the cost of energy, housing, groceries, and childcare.
+Key points include:
+- Producing Alaska Energy, For Alaskans: Pass permitting reform and targeted tax credits to expand refinery capacity here in Alaska, increasing in-state investment and local energy supply, and strengthening Alaska’s economy.
+- Lower Taxes, Higher Wages: Eliminate federal income tax entirely for working Alaskans earning less than $92,000 per year; end taxes on seniors’ Social Security benefits; push corporations to deliver real wage increases for Alaska workers.
+- Supporting Alaska Families: Pass the Expanded Child Tax Credit — $3,600 annually per child under age six, and $3,000 for children ages 6-17 — to put real money back in Alaskans’ pockets; cut red tape to expand grants and loans that make it easier to open a childcare business and bring trusted providers to communities across Alaska.
+- Cracking Down on Corrupt Corporations: Ban price gouging to stop companies from using emergencies to rip off Alaskans; block anti-competitive corporate mergers that let grocery chains drive up prices.
+- Strengthening Supply Chains and Lowering Shipping Costs: Invest in and restore funding for Bypass Mail & create an Essential Freight Service to lower shipping costs for Alaskans; increase supply chain transparency for big corporations that have needlessly increased prices; pass right to repair laws requiring manufacturers to provide affordable access to diagnostic tools, parts, and repair instructions for the machinery rural communities depend on.
+- Lower Housing Prices: Implement tax credits for renters paying more than 30% of their income in rent; crack down on out of state corporations and hedge funds buying homes that should belong to Alaskans; expand Indian Housing Block Grants to build more homes in communities that need them.
+While Alaskans struggle to pay for groceries, heat their homes, and afford childcare, the rigged system in DC is allowing politicians to profit from the status quo, trading stocks, cozy up to special interests, and delivering tax breaks for the wealthiest one percent of Americans.
+Mary Peltola is done watching Lower 48 special interests write the rules while Alaska working families pay the price.
+She’s running to be an independent voice for Alaskans, and will stand up to anyone to put Alaska first.
+Read Mary’s full plan to take action on affordability for Alaskans here.
